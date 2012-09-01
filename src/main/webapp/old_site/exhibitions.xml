@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<exhibitions title="Exhibitions (Olivier Bruchez)" link="http://olivier.bruchez.org/exhibitions.html" feed="http://olivier.bruchez.org/exhibitions.rss">
+	<exhibition>
+		<date>2011.05.14</date>
+		<name>De Renoir à Szafran. Parcours d'un collectionneur.</name>
+		<museum>Fondation Pierre Gianadda, Martigny, Switzerland</museum>
+		<rating>4.5</rating>
+	</exhibition>
+	<exhibition>
+		<date>2010.12.05</date>
+		<name>Andy Warhol. The Early Sixties. Paintings and Drawings 1961-1964.</name>
+		<museum>Kunstmuseum, Basel, Switzerland</museum>
+		<rating>4.5</rating>
+	</exhibition>
+</exhibitions>

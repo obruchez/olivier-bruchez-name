@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="tradelist.xsl"?>
+<!-- (C) 2002 Olivier Bruchez -->
+<privaterecordings modified="May 29, 2003">
+        <!-- DS, A.E. -->
+	<work new="2002/09/11">
+		<performance>
+			<date>November 1, 1969</date>
+			<place>Hammersmith Odeon, London, UK</place>
+			<occasion></occasion>
+			<source>audience recording</source>
+			<media>MP3 -> CD-R</media>
+			<monostereo>mono</monostereo>
+			<quality>n/a</quality>
+			<note/>
+		</performance>
+		<cast>
+			<member name="Miles Davis" instrument="tpt"/>
+			<member name="Wayne Shorter" instrument="ss, ts"/>
+			<member name="Chick Corea" instrument="el-p"/>
+			<member name="Dave Holland" instrument="b, el-b"/>
+			<member name="Jack DeJohnette" instrument="d"/>
+		</cast>
+		<samples>
+			<sound src=""></sound>
+		</samples>
+		<tracklist>
+			<track duration="2:32" comment="">Sanctuary</track>
+			<track duration="5:36" comment="">No Blues</track>
+			<track duration="0:30" comment="">Paraphernalia</track>
+			<track duration="14:09" comment="">Masqualero</track>
+		</tracklist>
+	</work>
+
+        <!-- DS, A.E. -->
+	<work new="2002/09/11">
+		<performance>
+			<date>March-April 1970</date>
+			<place>?</place>
+			<occasion></occasion>
+			<source>soundboard recording</source>
+			<media>MP3 -> CD-R</media>
+			<monostereo>stereo</monostereo>
+			<quality>n/a</quality>
+			<note/>
+		</performance>
+		<cast>
+			<member name="Miles Davis" instrument="tpt"/>
+			<member name="Chick Corea" instrument="el-p"/>
+			<member name="Dave Holland" instrument="el-b"/>
+			<member name="Jack DeJohnette" instrument="d"/>
+			<member name="Airto Moreira" instrument="perc"/>
+		</cast>
+		<samples>
+			<sound src=""></sound>
+		</samples>
+		<tracklist>
+			<track duration="4:14" comment="">Miles Runs The Voodoo Down</track>
+			<track duration="1:30" comment="">I Fall In Love Too Easily</track>
+			<track duration="1:28" comment="">Sanctuary</track>
+			<track duration="1:49" comment="">Miles Runs The Voodoo Down</track>
+			<track duration="3:26" comment="">It's About That Time</track>
+		</tracklist>
+	</work>
+
+        <!-- OB, A.E. -->
+	<work new="2002/08/17">
+		<performance>
+			<date>March 15, 2002</date>
+			<place>Chapiteau, Cully, Switzerland</place>
+			<occasion>Cully Jazz Festival</occasion>
+			<source>radio broadcast (Espace 2, July 8, 2002)</source>
+			<media>CD-R</media>
+			<monostereo>stereo</monostereo>
+			<quality>n/a</quality>
+			<note/>
+		</performance>
+		<cast>
+			<member name="Eddy Louiss" instrument="organ"/>
+			<member name="Richard Galliano" instrument="accordion"/>
+		</cast>
+		<samples>
+			<sound src=""></sound>
+		</samples>
+		<tracklist>
+			<track duration="9:17" comment="">Prélude De Frédéric Chopin / Face To Face</track>
+			<track duration="6:11" comment="">Laurita</track>
+			<track duration="9:08" comment="">Tribute To Joe Diorio</track>
+			<track duration="8:06" comment="">I Remember Clifford</track>
+			<track duration="7:07" comment="">Beija-Flor</track>
+			<track duration="6:18" comment="" name="no">Track 6</track>
+			<track duration="3:15" comment="incomplete" name="no">Track 7</track>
+		</tracklist>
+	</work>
+
+	<!-- OB, A.E. -->
+	<work new="2002/08/17">
+		<performance>
+			<date>March 15, 2002</date>
+			<place>Chapiteau, Cully, Switzerland</place>
+			<occasion>Cully Jazz Festival</occasion>
+			<source>radio broadcast (Espace 2, July 8, 2002)</source>
+			<media>CD-R</media>
+			<monostereo>stereo</monostereo>
+			<quality>n/a</quality>
+			<note/>
+		</performance>
+		<cast>
+			<member name="Erik Truffaz" instrument="trumpet"/>
+			<member name="Manu Codjia" instrument="guitar"/>
+			<member name="Michel Benita" instrument="bass"/>
+			<member name="Philippe Garcia" instrument="drums, megaphone"/>
+			<member name="Julien Lourau" instrument="alto sax, soprano sax"/>
+			<member name="Mounir Troudi" instrument="vocals"/>
+		</cast>
+		<samples>
+			<sound src=""></sound>
+		</samples>
+		<tracklist>
+			<track duration="10:57" comment="">Mare Mosso</track>
+			<track duration="9:47" comment="">La Mémoire Du Silence</track>
+			<track duration="7:54" comment="">The Point</track>
+			<track duration="7:46" comment="">? / Sweet Mercy</track>
+			<track duration="10:52" comment="">Mantis</track>
+			<track duration="2:37" comment="incomplete" name="no">Track 6</track>
+		</tracklist>
+	</work>
+
+	<!-- OB, A.E. -->
+	<work new="2002/08/11">
+		<performance>
+			<date>March 18, 2002</date>
+			<place>Chapiteau, Cully, Switzerland</place>
+			<occasion>Cully Jazz Festival</occasion>
+			<source>radio broadcast (Espace 2, July 16/18, 2002)</source>
+			<media>CD-R</media>
+			<monostereo>stereo</monostereo>
+			<quality>n/a</quality>
+			<note/>
+		</performance>
+		<cast>
+			<member name="Marcus Miller" instrument="bass guitar, bass clarinet, soprano sax"/>
+			<member name="Dean Brown" instrument="guitar"/>
+			<member name="Poogie Bell" instrument="drums"/>
+			<member name="Leroy &quot;Scooter&quot; Taylor" instrument="keyboards"/>
+			<member name="Roger Byam" instrument="tenor sax"/>
+			<member name="Michael &quot;Patches&quot; Stewart" instrument="trumpet"/>
+		</cast>
+		<samples>
+			<sound src=""></sound>
+		</samples>
+		<tracklist>
+			<track duration="7:41" comment="">So What</track>
+			<track duration="11:47" comment="">Lonnie's Lament</track>
+			<track duration="10:36" comment="">Cousin John</track>
+			<track duration="10:33" comment="">Scoop</track>
+			<track duration="8:22" comment="">I Loves You Porgy</track>
+			<track duration="6:41" comment="incomplete">Teen Town</track>
+			<track duration="10:17" comment="">Come Together</track>
+			<track duration="11:02" comment="">Panther</track>
+			<track duration="14:44" comment="">Tutu</track>
+			<track duration="7:41" comment="">Full Nelson</track>
+			<track duration="2:16" comment="">Purple Haze</track>
+			<track duration="2:58" comment="" name="no">Track 12</track>
+			<track duration="1:03" comment="incomplete">So What</track>
+		</tracklist>
+	</work>
+
+	<!-- OB, A.E. -->
+	<work new="2003/05/29">
+		<performance>
+			<date>April 5, 2003</date>
+			<place>Métropole, Lausanne, Switzerland</place>
+			<occasion></occasion>
+			<source>audience recording</source>
+			<media>Sony TCD-D100 / Core Sound Binaural microphones -> CD-R</media>
+			<monostereo>stereo</monostereo>
+			<quality>n/a</quality>
+			<note>First set</note>
+		</performance>
+		<cast>
+			<member name="Brad Mehldau" instrument="piano"/>
+		</cast>
+		<samples>
+			<sound src=""></sound>
+		</samples>
+		<tracklist>
+			<track duration="0:30" comment="" name="no">Applause</track>
+			<track duration="4:08" comment="" name="no">Track 2</track>
+			<track duration="6:15" comment="" name="no">Track 3</track>
+			<track duration="6:24" comment="" name="no">Track 4</track>
+			<track duration="5:49" comment="" name="no">Track 5</track>
+			<track duration="6:17" comment="" name="no">Track 6</track>
+			<track duration="20:32" comment="">Paranoid Android</track>
+			<track duration="6:03" comment="" name="no">Track 8</track>
+		</tracklist>
+	</work>
+
+	<!-- OB, A.E. -->
+	<work new="2003/05/29">
+		<performance>
+			<date>April 5, 2003</date>
+			<place>Métropole, Lausanne, Switzerland</place>
+			<occasion></occasion>
+			<source>audience recording</source>
+			<media>Sony TCD-D100 / Core Sound Binaural microphones -> CD-R</media>
+			<monostereo>stereo</monostereo>
+			<quality>n/a</quality>
+			<note>Second set</note>
+		</performance>
+		<cast>
+			<member name="Brad Mehldau" instrument="piano"/>
+			<member name="Larry Grenadier" instrument="bass"/>
+			<member name="Jorge Rossy" instrument="drums"/>
+		</cast>
+		<samples>
+			<sound src=""></sound>
+		</samples>
+		<tracklist>
+			<track duration="0:52" comment="" name="no">Applause</track>
+			<track duration="9:17" comment="">August Ending</track>
+			<track duration="9:05" comment="">Skippy</track>
+			<track duration="1:23" comment="" name="no">Speech</track>
+			<track duration="9:12" comment="">Tres Palabres</track>
+			<track duration="17:26" comment="">50 Ways To Leave Your Lover</track>
+			<track duration="0:41" comment="" name="no">Speech</track>
+			<track duration="11:45" comment="">Dreamsville</track>
+			<track duration="11:20" comment="" name="no">Track 9</track>
+			<track duration="7:06" comment="">Exit Music (For A Film)</track>
+		</tracklist>
+	</work>
+</privaterecordings>

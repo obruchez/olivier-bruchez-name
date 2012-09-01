@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+   <channel>
+      <title>Hard Drive Crashes (Olivier Bruchez)</title>
+      <description/>
+      <link>http://olivier.bruchez.org/crashes.html</link>
+      <item>
+         <title>Western Digital - Caviar Green WD20EADS 2TB SATA</title>
+         <pubDate>23 Jan 2011 00:00:00 +0000</pubDate>
+         <guid>http://olivier.bruchez.org/crashes.html#8</guid>
+      </item>
+      <item>
+         <title>Samsung - MCBQE32GBMPP 32GB Flash 2.5" SATA SSD</title>
+         <pubDate>19 Sep 2009 00:00:00 +0000</pubDate>
+         <guid>http://olivier.bruchez.org/crashes.html#7</guid>
+      </item>
+      <item>
+         <title>Hitachi - Deskstar 7K500 500GB SATA II</title>
+         <pubDate>17 Dec 2008 00:00:00 +0000</pubDate>
+         <guid>http://olivier.bruchez.org/crashes.html#6</guid>
+      </item>
+      <item>
+         <title>Hitachi - Deskstar 7K500 500GB SATA II</title>
+         <pubDate>04 Oct 2006 00:00:00 +0000</pubDate>
+         <guid>http://olivier.bruchez.org/crashes.html#5</guid>
+      </item>
+      <item>
+         <title>Maxtor - OneTouch 300 GB USB/Firewire</title>
+         <pubDate>22 Sep 2006 00:00:00 +0000</pubDate>
+         <guid>http://olivier.bruchez.org/crashes.html#4</guid>
+      </item>
+      <item>
+         <title>Hitachi - Deskstar 7K500 500GB SATA II</title>
+         <pubDate>12 Oct 2005 00:00:00 +0000</pubDate>
+         <guid>http://olivier.bruchez.org/crashes.html#3</guid>
+      </item>
+      <item>
+         <title>Maxtor - OneTouch II 300GB USB/Firewire</title>
+         <pubDate>26 Sep 2005 00:00:00 +0000</pubDate>
+         <guid>http://olivier.bruchez.org/crashes.html#2</guid>
+      </item>
+      <item>
+         <title>Seagate - ST3200 200GB SATA</title>
+         <pubDate>11 Feb 2005 00:00:00 +0000</pubDate>
+         <guid>http://olivier.bruchez.org/crashes.html#1</guid>
+      </item>
+   </channel>
+</rss>
