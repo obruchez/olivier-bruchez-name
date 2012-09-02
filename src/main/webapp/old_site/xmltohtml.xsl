@@ -153,7 +153,7 @@
 			</head>
 			<body>
     			<table border="0">
-    				<tr bgcolor="#{$color1}"><th>Date</th><th>Name</th><th>Museum</th><th>Rating (0-5)</th></tr>
+    				<tr bgcolor="#{$color1}"><th>Date</th><th>Name</th><th>Museum</th><th>Rating (0-5)</th><th>Comments</th></tr>
     				<xsl:for-each select="exhibition">
     					<xsl:call-template name="exhibition"/>
     				</xsl:for-each>
@@ -179,6 +179,7 @@
 				        <xsl:value-of select="child::rating[1]-1"/>
 				    </xsl:if>
 				</td>
+				<td valign="top"><xsl:value-of select="child::comments[1]"/></td>
 			</a>
 		</tr>
 	</xsl:template>
