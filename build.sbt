@@ -27,6 +27,7 @@ libraryDependencies ++= {
   Seq(
     "net.liftweb" % "lift-webkit_2.9.1" % liftVersion % "compile->default" withSources(),
     "net.liftweb" % "lift-mapper_2.9.1" % liftVersion % "compile->default",
+    "net.liftweb" % "lift-openid_2.9.1" % liftVersion % "compile->default",
     "net.liftweb" % "lift-squeryl-record_2.9.1" % liftVersion % "compile->default",
     "net.liftweb" % "lift-wizard_2.9.1" % liftVersion % "compile->default",
     "net.liftweb" % "lift-testkit_2.9.1" % liftVersion % "compile->default",

@@ -12,7 +12,6 @@ import org.squeryl.adapters.H2Adapter
 import org.squeryl.adapters.MySQLAdapter
 import org.squeryl.adapters.PostgreSqlAdapter
 import net.liftweb.util.{ Props }
-import net.liftweb.db.StandardDBVendor
 // db connection pool provider
 import com.jolbox.bonecp.BoneCP
 import com.jolbox.bonecp.BoneCPConfig
@@ -32,20 +31,20 @@ object MySchemaHelper extends Loggable {
 
   private var usingH2Driver=false;
   /*Public init convenience methods */
-  def initSquerylRecordWithInMemoryDB {
-    usingH2Driver=true;
+  def initSquerylRecordWithInMemoryDB() {
+    usingH2Driver = true;
     initSquerylRecord(new MyH2DBSettings)
   }
   
-  def initSquerylRecordWithMySqlDB {
+  def initSquerylRecordWithMySqlDB() {
     initSquerylRecord(new MyMySqlDBSettings)
   }
   
-  def initSquerylRecordWithPostgresDB {
+  def initSquerylRecordWithPostgresDB() {
     initSquerylRecord(new MyPostgresSettings)
   }
 
-  def dropAndCreateSchema {
+  def dropAndCreateSchema() {
     transaction {
       try {
         MySchema.printDdl //just print what we going to do
@@ -53,9 +52,9 @@ object MySchemaHelper extends Loggable {
         MySchema.create //create schema as shown in printDdl
         DemoData.createDemoData //fill the db with some initial data
       } catch {
-        case e =>
+        case e: Exception =>
           e.printStackTrace()
-          throw e;
+          throw e
       }
     }
   }
@@ -78,7 +77,7 @@ object MySchemaHelper extends Loggable {
   } 
   
   trait DBSettings {
-    val dbAdapter: DatabaseAdapter;
+    val dbAdapter: DatabaseAdapter
     val dbDriver: String = ""
     val dbUrl: String = ""
     val dbUser: String = ""
@@ -116,27 +115,19 @@ object MySchemaHelper extends Loggable {
   /* database connection pooling provider - we are using BoneCP */
   object PoolProvider extends Loggable {
 
-    def getPoolConnection(db: DBSettings) : Connection = {
-      if(pool==null){
-        pool=initPool(db)
-      }
+    def getPoolConnection(db: DBSettings): Connection = {
+      if (pool == null) pool = initPool(db)
       pool.getConnection
     }      
     
-    private var pool:BoneCP=null
-    private def initPool(db: DBSettings):BoneCP = {
-      // create a new configuration object	
+    private var pool: BoneCP = null
+    private def initPool(db: DBSettings): BoneCP = {
       lazy val config = new BoneCPConfig
       try {
-        // load the DB driver class
         Class.forName(db.dbDriver)
-        // set the JDBC url
         config.setJdbcUrl(db.dbUrl)
-        // set the username
         config.setUsername(db.dbUser)
-        // set the password
         config.setPassword(db.dbPass)
-        // setup the connection pool
         //pool = Full(new BoneCP(config))
         logger.info("BoneCP connection pool is now initialized.")
         new BoneCP(config)
@@ -147,8 +138,6 @@ object MySchemaHelper extends Loggable {
         } 
       }
     }
-
-  }  
-
+  }
 }
 
