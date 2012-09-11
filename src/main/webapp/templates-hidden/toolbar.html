@@ -1,112 +1,71 @@
 <!DOCTYPE html>
 <html>
-    <head>
-        <meta content="text/html; charset=UTF-8" http-equiv="content-type" />
-        <title>Toolbar</title>
-    </head>
-    <body class="lift:content_id=toolbar">
-      <div class="navbar navbar-fixed-top" id="toolbar">
-        <div class="navbar-inner">
+  <head>
+    <meta content="text/html; charset=UTF-8" http-equiv="content-type" />
+    <title>Toolbar</title>
+  </head>
+  <body class="lift:content_id=toolbar">
+    <div class="navbar navbar-fixed-top" id="toolbar">
+      <div class="navbar-inner">
+        <div style="width: auto;" class="container">
+          <a data-target=".nav-collapse" data-toggle="collapse" class="btn btn-navbar">
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </a>
+          <a href="/" class="brand">Olivier Bruchez</a>
+          <div class="nav-collapse">
+            <ul class="nav">
+              <li>
+                <span data-lift="Menu.item?name=Home;?linkToSelf=true;">
+                  <i class="icon-home icon-white"></i>
+                  <span>Home</span>
+                </span>
+              </li>
 
-          <div style="width: auto;" class="container">
-            <a data-target=".nav-collapse" data-toggle="collapse" class="btn btn-navbar">
-              <span class="icon-bar"></span>
-              <span class="icon-bar"></span>
-              <span class="icon-bar"></span>
-            </a>
-            <a href="/" class="brand">Olivier Bruchez</a>
-            <div class="nav-collapse">
-              <ul class="nav">
-                <li>
-                  <a href="/">
-                    <i class="icon-home icon-white"></i>
-                    <span data-lift="Loc.i">Home</span></a>
-                </li>
+              <li class="dropdown">
+                <a data-toggle="dropdown" class="dropdown-toggle" href="#">
+                  <span>Lists</span>
+                  <b class="caret"></b>
+                </a>
+                <ul class="dropdown-menu">
+                  <li><a href="/books.html">Books</a></li>
+                  <li><a href="/concerts.html">Concerts</a></li>
+                  <li><a href="/crashes.html">Crashes</a></li>
+                  <li><a href="/exhibitions.html">Exhibitions</a></li>
+                  <li><a href="/movies.html">Movies</a></li>
+                  <li><a href="/plays.html">Plays</a></li>
+                  <li><a href="/trips.html">Trips</a></li>
+                </ul>
+              </li>
 
-                <li class="dropdown">
-                  <a data-toggle="dropdown" class="dropdown-toggle" href="#">
-                    <span data-lift="Loc?locid=content.dropdown.text">Content</span>
-                    <b class="caret"></b>
-                  </a>
+              <li class="dropdown">
+                <a data-toggle="dropdown" class="dropdown-toggle" href="#">
+                  <span>CV / Résumé</span>
+                  <b class="caret"></b>
+                </a>
+                <ul class="dropdown-menu">
+                  <li><a href="/ResumeOlivierBruchez.html">HTML</a></li>
+                  <li><a href="/ResumeOlivierBruchez.pdf">PDF</a></li>
+                  <li><a href="/ResumeOlivierBruchez.doc">Word</a></li>
+                </ul>
+              </li>
+            </ul>
 
-                  <ul class="dropdown-menu">
-                     <li >
-                       <span data-lift="Menu.item?name=Home;?linkToSelf=true;a:class=addclassshowofdummy">
-                         <i class="icon-home"></i>
-                         <span data-lift="Loc.i">Home</span>
-                       </span>
-                     </li>
+            <ul class="nav pull-right">
+              <li class="divider-vertical"></li>
 
-                    <li class="divider"></li>
-                    <li>
-                      <span data-lift="Menu.item?name=Bootstrap;lift:Loc.i;">
-                        <span data-lift="Loc.i">Bootstrap</span>
-                      </span>
-                     </li>
-                  </ul>
-
-                </li>
-
-                <!-- This menu uses lift's locgroup to show items in a nested multilevel dropdown menu -->
-                <!-- Bootstrap Multilevel Dropdown Menu level see http://jsfiddle.net/4nMkh/4/ and http://jsfprimefacesblog.blogspot.se/ -->
-                <li class="dropdown">
-                  <a data-toggle="dropdown" class="dropdown-toggle active" href="#">Lift Nested menu(s) DD<b class="caret"></b></a>
-                  <ul class="dropdown-menu">
-                    <li class="dropdown submenu">
-                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Level 1</a>
-                        <ul class="dropdown-menu submenu-show submenu-hide">
-                            <li class="dropdown submenu">
-                                <a href="#" class="dropdown-toggle" data-toggle="dropdown">Level 1.1</a>
-                                 <ul class="dropdown-menu submenu-show submenu-hide">
-                                        <li data-lift="Menu.group?group=bdd11"></li>
-                                </ul>
-                            </li>
-                            <li class="dropdown submenu">
-                                <a href="#" class="dropdown-toggle" data-toggle="dropdown">Level 1.2</a>
-                                <ul class="dropdown-menu submenu-show submenu-hide">
-                                        <li data-lift="Menu.group?group=bdd12"></li>
-                                </ul>
-                            </li>
-                            <li data-lift="Menu.group?group=bdd1"></li>
-                        </ul>
-                    </li>
-                    <li><a href="#">Other</a></li>
-                  </ul>
-                </li>
-              </ul>
-
-              <ul class="nav pull-right">
-
-                <!-- This menu uses lift's locgroup to show items in a one level dropdown menu -->
-                <li class="dropdown">
-                  <a data-toggle="dropdown" class="dropdown-toggle" href="#">
-                    <span data-lift="Loc?locid=content.dropdown.SimpeLiftMenuLocgroupDemo.text">SimpeLiftMenuLocgroupDemo</span>
-                    <b class="caret"></b>
-                  </a>
-                  <ul class="dropdown-menu" >
-                    <li data-lift="Menu.group?group=bdd"></li>
-                  </ul>
-                </li>
-
-                <li class="divider-vertical"></li>
-
-                <li class="dropdown">
-                  <a data-toggle="dropdown" class="dropdown-toggle" href="#">
-                    <i class="icon-user icon-white"></i>
-                    <b class="caret"></b>
-                  </a>
-                  <ul class="dropdown-menu lift:UserMenu">
-                    <li class=""><a href="#">Action</a></li>
-                    <li><a href="#">Another action</a></li>
-                    <li><a href="#">Something else here</a></li>
-                    <li class="divider"></li>
-                    <li><a href="#">Separated link</a></li>
-                  </ul>
-                </li>
-              </ul>
-            </div>
+              <li class="dropdown">
+                <a data-toggle="dropdown" class="dropdown-toggle" href="#">
+                  <i class="icon-user icon-white"></i>
+                  <b class="caret"></b>
+                </a>
+                <ul class="dropdown-menu lift:UserMenu"></ul>
+              </li>
+            </ul>
           </div>
         </div>
       </div>
-    </body>
+    </div>
+  </body>
 </html>
