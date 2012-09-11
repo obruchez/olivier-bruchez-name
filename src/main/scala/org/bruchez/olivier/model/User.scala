@@ -25,4 +25,7 @@ object User extends User with MetaOpenIDProtoUser[User] with LongKeyedMetaMapper
   override lazy val loginXhtml =  <lift:embed what="login" />
   override lazy val fieldOrder = List(id, firstName, lastName, email, locale, timezone, password)
   override lazy val skipEmailValidation = true
+
+  def loginUrl: String = "/"+loginPath.mkString("/")
+  def logoutUrl: String = "/"+logoutPath.mkString("/")
 }
