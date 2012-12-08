@@ -3,7 +3,7 @@ package bootstrap.liftweb
 import org.bruchez.olivier.login.OpenIdVendor
 import org.bruchez.olivier.model._
 import org.bruchez.olivier.snippet._
-import net.liftmodules.{FoBo, JQueryModule}
+import net.liftmodules.JQueryModule
 import net.liftweb.common._
 import net.liftweb.mapper.{Countries => _, _}
 import net.liftweb.http._
@@ -16,16 +16,7 @@ class Boot extends Loggable {
   def boot {
     // where to search snippet
     LiftRules.addToPackages("org.bruchez.olivier")
-    
-    //We skip the FoBo built in JQuery in favor for the FoBo included lift-jquery-module
-    //FoBo.InitParam.JQuery=FoBo.JQuery171  
-    FoBo.InitParam.ToolKit=FoBo.Bootstrap204
-    FoBo.InitParam.ToolKit=FoBo.PrettifyJun2011
-    FoBo.init()
 
-    //Setup the FoBo included JQuery module. 
-    //We are using the default version so we don't need 
-    //to specify the version explicitly, but this is how it is set. 
     JQueryModule.InitParam.JQuery=JQueryModule.JQuery172
     JQueryModule.init() 
  
@@ -96,6 +87,8 @@ class Boot extends Loggable {
 
       SiteMap(entries: _*)
     }
+
+    //net.liftweb.builtin.snippet.Surround
 
     // Dispatch files from old site (all located in specific folder, but must be served at root location)
     LiftRules.dispatch.append(OldSiteDispatch)

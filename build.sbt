@@ -31,8 +31,7 @@ libraryDependencies ++= {
     "net.liftweb" % "lift-squeryl-record_2.9.1" % liftVersion % "compile->default",
     "net.liftweb" % "lift-wizard_2.9.1" % liftVersion % "compile->default",
     "net.liftweb" % "lift-testkit_2.9.1" % liftVersion % "compile->default",
-    "net.liftmodules" % "lift-jquery-module_2.9.1" % (liftVersion+"-1.0") % "compile->default",
-    "net.liftmodules" % "fobo_2.9.1" % (liftVersion+"-0.6.0-SNAPSHOT") withSources()
+    "net.liftmodules" % "lift-jquery-module_2.9.1" % (liftVersion+"-1.0") % "compile->default"
     )
 }
 

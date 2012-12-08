@@ -5,16 +5,16 @@
     <title>Toolbar</title>
   </head>
   <body class="lift:content_id=toolbar">
-    <div class="navbar navbar-fixed-top" id="toolbar">
+    <div class="navbar navbar-inverse navbar-fixed-top" id="toolbar">
       <div class="navbar-inner">
-        <div style="width: auto;" class="container">
-          <a data-target=".nav-collapse" data-toggle="collapse" class="btn btn-navbar">
+        <div class="container">
+          <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </a>
           <a href="/" class="brand">Olivier Bruchez</a>
-          <div class="nav-collapse">
+          <div class="nav-collapse collapse">
             <ul class="nav">
               <li>
                 <span data-lift="Menu.item?name=Home;?linkToSelf=true;">
@@ -48,6 +48,26 @@
                   <li><a href="/ResumeOlivierBruchez.html">HTML</a></li>
                   <li><a href="/ResumeOlivierBruchez.pdf">PDF</a></li>
                   <li><a href="/ResumeOlivierBruchez.doc">Word</a></li>
+                </ul>
+              </li>
+
+              <li class="dropdown">
+                <a data-toggle="dropdown" class="dropdown-toggle" href="#">
+                  <span>Profiles / Websites</span>
+                  <b class="caret"></b>
+                </a>
+                <ul class="dropdown-menu">
+                  <li><a href="http://bruchez.blogspot.com/" rel="me">Blogger</a></li>
+                  <li><a href="http://delicious.com/obruchez/" rel="me">Delicious</a></li>
+                  <li><a href="http://www.facebook.com/obruchez" rel="me">Facebook</a></li>
+                  <li><a href="http://www.flickr.com/photos/bruchez/sets/" rel="me">Flickr</a></li>
+                  <li><a href="https://plus.google.com/113831619471389764460" rel="me">Google+</a></li>
+                  <li><a href="http://www.keithjarrett.org/">KeithJarrett.org</a></li>
+                  <li><a href="http://www.last.fm/user/obruchez/" rel="me">Last.fm</a></li>
+                  <li><a href="http://www.linkedin.com/in/obruchez" rel="me">LinkedIn</a></li>
+                  <li><a href="callto://obruchez">Skype</a></li>
+                  <li><a href="http://twitter.com/obruchez" rel="me">Twitter</a></li>
+                  <li><a href="http://www.youtube.com/user/obruchez" rel="me">YouTube</a></li>
                 </ul>
               </li>
             </ul>
