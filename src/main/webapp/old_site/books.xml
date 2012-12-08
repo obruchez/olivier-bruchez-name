@@ -1,5 +1,35 @@
 <?xml version="1.0" encoding="utf-8"?>
 <books title="Olivier Bruchez's Last Books" description="The last books I read" link="http://olivier.bruchez.org/books.html" feed="http://olivier.bruchez.org/books.rss">
+    <book>
+        <date>2012.12.06</date>
+        <title>JavaScript: The Good Parts</title>
+        <author>Douglas Crockford</author>
+        <publishingyear>2008</publishingyear>
+        <rating>4.25</rating>
+    </book>
+    <book>
+        <date>2012.11.28</date>
+        <title>L'Étranger</title>
+        <author>Albert Camus</author>
+        <publishingyear>1942</publishingyear>
+        <rating>5.25</rating>
+    </book>
+    <book>
+        <date>2012.11.05</date>
+        <title>The Moral Landscape</title>
+        <subtitle>How Science Can Determine Human Values</subtitle>
+        <author>Sam Harris</author>
+        <publishingyear>2010</publishingyear>
+        <rating>5.25</rating>
+    </book>
+    <book>
+        <date>2012.09.19</date>
+        <title>You Are Not So Smart</title>
+        <subtitle>Why You Have Too Many Friends on Facebook, Why Your Memory Is Mostly Fiction, and 46 Other Ways You're Deluding Yourself</subtitle>
+        <author>David McRaney</author>
+        <publishingyear>2011</publishingyear>
+        <rating>5.25</rating>
+    </book>
 	<book>
 		<date>2012.04.26</date>
 		<title>Free Will</title>
@@ -306,8 +336,87 @@
 		<publishingyear>2005</publishingyear>
 		<rating>5.25</rating>
 	</book>
-
+    <book>
+        <date>2004.09.19</date>
+        <title>The Age of Spiritual Machines</title>
+        <subtitle/>
+        <author>Ray Kurzweil</author>
+        <publishingyear>1999</publishingyear>
+        <rating/>
+    </book>
+    <book>
+        <date>2004.01.24</date>
+        <title>Le Procès</title>
+        <subtitle/>
+        <author>Franz Kafka</author>
+        <publishingyear>1933</publishingyear>
+        <rating/>
+    </book>
+    <book>
+        <date>2002.05.04</date>
+        <title>Miles Beyond</title>
+        <subtitle>The Electric Explorations of Miles Davis 1967-1991</subtitle>
+        <author>Paul Tingen</author>
+        <publishingyear>2001</publishingyear>
+        <rating/>
+    </book>
+    <book>
+        <date>2001.09.26</date>
+        <title>Le Château</title>
+        <subtitle/>
+        <author>Franz Kafka</author>
+        <publishingyear>1938</publishingyear>
+        <rating/>
+    </book>
+    <book>
+        <date>1999.??.??</date>
+        <title>Keith Jarrett: The Man And His Music</title>
+        <subtitle/>
+        <author>Ian Carr</author>
+        <publishingyear>1991</publishingyear>
+        <rating/>
+    </book>
+    <book>
+        <date>1998.??.??</date>
+        <title>Miles: L'autobiographie</title>
+        <subtitle/>
+        <author>Miles Davis &amp; Quincy Troupe</author>
+        <publishingyear>1991</publishingyear>
+        <rating/>
+    </book>
+    <book>
+        <date>1996.09.21</date>
+        <title>La Modification</title>
+        <subtitle/>
+        <author>Michel Butor</author>
+        <publishingyear>1957</publishingyear>
+        <rating/>
+    </book>
+    <book>
+        <date>1996.07.08</date>
+        <title>Plume</title>
+        <subtitle/>
+        <author>Henri Michaux</author>
+        <publishingyear>1938</publishingyear>
+        <rating/>
+    </book>
+    <book>
+        <date>1996.07.04</date>
+        <title>Comme un roman</title>
+        <subtitle/>
+        <author>Daniel Pennac</author>
+        <publishingyear>1992</publishingyear>
+        <rating/>
+    </book>
+    <book>
+        <date>1996.07.01</date>
+        <title>L'insoutenable légèreté de l'être</title>
+        <subtitle/>
+        <author>Milan Kundera</author>
+        <publishingyear>1984</publishingyear>
+        <rating/>
+    </book>
 	<!--
-	Kundera, Kafka, Sartre, Miles Beyond, etc.
+	Kundera, Kafka, Sartre, etc. + livre lu dans les années '90 parlant de l'ABS, etc.
 	-->
 </books>
