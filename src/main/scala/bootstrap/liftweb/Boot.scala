@@ -25,7 +25,7 @@ class Boot extends Loggable {
     //MySchemaHelper.initSquerylRecordWithMySqlDB()
     //MySchemaHelper.initSquerylRecordWithPostgresDB()
 
-    Props.mode match {
+    /*Props.mode match {
       case Props.RunModes.Development => {
         logger.info("RunMode is DEVELOPMENT")
         /*OBS! do no use this in a production env*/
@@ -52,13 +52,13 @@ class Boot extends Loggable {
       }
       case Props.RunModes.Production => logger.info("RunMode is PRODUCTION")
       case _ => logger.info("RunMode is TEST, PILOT or STAGING")
-    }
+    }*/
 
     //val LoginRequired = If(() => User.loggedIn_?, () => RedirectResponse("/"))
 
     def sitemap = {
       val entries = List(
-        Menu.i("Home") / "index",
+        Menu.i("Home") / "index" /*,
 
         Countries.menu,
         ACountry.menu,
@@ -82,7 +82,7 @@ class Boot extends Loggable {
 
         Menu.i("Level 1.3") / "page13" >> Hidden >> LocGroup("bdd1"),
         Menu.i("Level 1.4") / "page14" >> Hidden >> LocGroup("bdd1"),
-        Menu.i("Level 1.5") / "page15" >> Hidden >> LocGroup("bdd1")
+        Menu.i("Level 1.5") / "page15" >> Hidden >> LocGroup("bdd1")*/
       )
 
       SiteMap(entries: _*)
