@@ -1,6 +1,97 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <movies title="Movies (Olivier Bruchez)" link="http://olivier.bruchez.org/movies.html" feed="http://olivier.bruchez.org/movies.rss">
   <movie>
+    <date>2012.11.24</date>
+    <theater>Les Cèdres, Sion</theater>
+    <director>Claude Miller</director>
+    <title>Thérèse Desqueyroux</title>
+    <uri>http://www.imdb.com/title/tt1654829/</uri>
+    <rating>4.5</rating>
+  </movie>
+  <movie>
+    <date>2012.10.11</date>
+    <theater>Galeries, Lausanne</theater>
+    <director>François Ozon</director>
+    <title>Dans la maison</title>
+    <uri>http://www.imdb.com/title/tt1964624/</uri>
+    <rating>4.75</rating>
+  </movie> 
+  <movie>
+    <date>2012.09.26</date>
+    <theater>Cinémathèque, Lausanne</theater>
+    <director>Gilles Vuissoz</director>
+    <title>Michel Mayor : astrophysicien, chasseur de planètes</title>
+    <uri>http://www.plansfixes.ch/films/1271/</uri>
+    <rating>4.5</rating>
+  </movie> 
+  <movie>
+    <date>2012.09.22</date>
+    <theater home="true"/>
+    <director>Quentin Tarantino</director>
+    <title>Reservoir dogs</title>
+    <uri>http://www.imdb.com/title/tt0105236/</uri>
+    <rating>4.75</rating>
+  </movie> 
+  <movie>
+    <date>2012.09.16</date>
+    <theater home="true"/>
+    <director>Henry Selick</director>
+    <title>The Nightmare Before Christmas</title>
+    <uri>http://www.imdb.com/title/tt0107688/</uri>
+    <rating>4.75</rating>
+  </movie> 
+  <movie>
+    <date>2012.09.15</date>
+    <theater home="true"/>
+    <director>Gary Ross</director>
+    <title>The Hunger Games</title>
+    <uri>http://www.imdb.com/title/tt1392170/</uri>
+    <rating>4.75</rating>
+  </movie> 
+  <movie>
+    <date>2012.07.20</date>
+    <theater home="true"/>
+    <director>Pedro Almodóvar</director>
+    <title>Todo sobre mi madre</title>
+    <title language="fr">Tout sur ma mère</title>
+    <uri>http://www.imdb.com/title/tt0185125/</uri>
+    <rating>5.0</rating>
+  </movie> 
+  <movie>
+    <date>2012.06.11</date>
+    <theater>Flight TN08, Air Tahiti Nui</theater>Los Angeles-Paris
+    <director>Michael Sucsy</director>
+    <title>The Vow</title>
+    <uri>http://www.imdb.com/title/tt1606389/</uri>
+    <rating>4.5</rating>
+  </movie> 
+  <movie>
+    <date>2012.06.10</date>
+    <theater>Flight TN08, Air Tahiti Nui</theater>
+    <director>David Foenkinos &amp; Stéphane Foenkinos</director>
+    <title>La délicatesse</title>
+    <uri>http://www.imdb.com/title/tt1828995/</uri>
+    <rating>4.5</rating>
+  </movie> 
+  <movie>
+    <date>2012.06.10</date>
+    <theater>Flight TN08, Air Tahiti Nui</theater>Papeete-Los Angeles
+    <director>Anne Fontaine</director>
+    <title>Mon pire cauchemar</title>
+    <uri>http://www.imdb.com/title/tt1718835/</uri>
+    <rating>4.0</rating>
+  </movie> 
+  <movie>
+    <date>2012.06.09</date>
+    <theater>Liberty, Papeete</theater>
+    <director>Eric Darnell, Tom McGrath &amp; Conrad Vernon</director>
+    <title>Madagascar 3: Bons baisers d'Europe</title>
+    <title language="en">Madagascar 3: Europe's Most Wanted</title>
+    <version>fr</version>
+    <uri>http://www.imdb.com/title/tt1277953/</uri>
+    <rating>4.75</rating>
+  </movie> 
+  <movie>
     <date>2012.05.19</date>
     <theater>Galeries, Lausanne</theater>
     <director>Alexandre de La Patellière &amp; Matthieu Delaporte</director>
