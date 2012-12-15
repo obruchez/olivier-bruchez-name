@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <trips title="Trips (Olivier Bruchez)" link="http://olivier.bruchez.org/trips.html" feed="http://olivier.bruchez.org/trips.rss">
   <trip>
+    <from>2012.10.20</from>
+    <to>2012.10.28</to>
+    <place>Andalusia, Spain</place>
+    <pictures url="http://www.flickr.com/photos/bruchez/sets/72157631891660868/">Granada</pictures>
+    <pictures url="http://www.flickr.com/photos/bruchez/sets/72157631962326759/">Córdoba &amp; Carmona</pictures>
+    <pictures url="http://www.flickr.com/photos/bruchez/sets/72157631969950707/">Seville</pictures>
+    <pictures url="http://www.flickr.com/photos/bruchez/sets/72157631972073409/">Tarifa, Gibraltar &amp; Málaga</pictures>
+  </trip>
+  <trip>
     <from>2012.05.26</from>
     <to>2012.06.11</to>
     <place>French Polynesia</place>
@@ -195,12 +204,13 @@
     <pictures url="http://www.flickr.com/photos/bruchez/sets/72157622016843399/">San Diego (1/2)</pictures>
     <pictures url="http://www.flickr.com/photos/bruchez/sets/72157622141392674/">San Diego (2/2)</pictures>
     <pictures url="http://www.flickr.com/photos/bruchez/sets/72157622141407498/">Joshua Tree National Park</pictures>
-    <!-- <pictures url="http://www.flickr.com/photos/bruchez/sets/72157622016902563/"></pictures> -->
-    <!-- <pictures url="http://www.flickr.com/photos/bruchez/sets/72157622141437632/"></pictures> -->
-    <!-- <pictures url="http://www.flickr.com/photos/bruchez/sets/72157622141447100/"></pictures> -->
-    <!-- <pictures url="http://www.flickr.com/photos/bruchez/sets/72157622016935977/"></pictures> -->
-    <!-- <pictures url="http://www.flickr.com/photos/bruchez/sets/72157622141472922/"></pictures> -->
-    <!-- <pictures url="http://www.flickr.com/photos/bruchez/sets/72157622016974589/"></pictures> -->
+    <pictures url="http://www.flickr.com/photos/bruchez/sets/72157622016902563/">Grand Canyon</pictures>
+    <pictures url="http://www.flickr.com/photos/bruchez/sets/72157631793852881/">Zion National Park</pictures>
+    <pictures url="http://www.flickr.com/photos/bruchez/sets/72157622141437632/">Red &amp; Bryce Canyons</pictures>
+    <pictures url="http://www.flickr.com/photos/bruchez/sets/72157622141447100/">Las Vegas</pictures>
+    <pictures url="http://www.flickr.com/photos/bruchez/sets/72157622016935977/">Death Valley</pictures>
+    <pictures url="http://www.flickr.com/photos/bruchez/sets/72157622141472922/">Mono Lake &amp; Yosemite</pictures>
+    <pictures url="http://www.flickr.com/photos/bruchez/sets/72157622016974589/">San Francisco</pictures>
     <pictures url="http://www.flickr.com/photos/ebruchez/sets/72157608818482541/">Alcatraz</pictures>
   </trip>
   <trip>
@@ -384,10 +394,10 @@
     <!-- <pictures url=""/> -->
   </trip>
   <trip>
-    <from>1992.??.??</from>
-    <to>1992.??.??</to>
-    <place>Spain</place>
-    <!-- Scans photos papa -->
+    <from>1993.07.27</from>
+    <to>1993.08.03</to>
+    <place>Andalusia, Spain</place>
+    <!-- Scans diapos papa + photos JP -->
     <!-- <pictures url=""/> -->
   </trip>
   <trip>

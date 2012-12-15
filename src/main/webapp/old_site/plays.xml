@@ -7,7 +7,17 @@
     <translation></translation>
     <actor></actor>
   -->
-  
+
+  <play>
+    <date>2012.08.18</date>
+    <location>Le Bouveret, Switzerland</location>
+    <name>Mamie Google</name> 
+    <author>Thierry Pahud</author>
+    <director>Olivier Duperre</director>
+    <actor>Théâtre du Croûtion</actor>
+    <actor>Marianne Noël</actor>
+    <rating>4.5</rating>
+  </play>
   <play>
     <date>2012.03.17</date>
     <location>Salle de jeunesse, Sarreyer, Switzerland</location>

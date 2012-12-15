@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hikes title="Hikes (Olivier Bruchez)" link="http://olivier.bruchez.org/hikes.html" feed="http://olivier.bruchez.org/hikes.rss">
+  <hike>
+    <date>2012.10.13</date>
+    <place>Grand-Tsai / Col de Mille, Switzerland</place>
+    <pictures url="http://www.flickr.com/photos/bruchez/sets/72157631877647311/"/>
+  </hike>
+</hikes>
