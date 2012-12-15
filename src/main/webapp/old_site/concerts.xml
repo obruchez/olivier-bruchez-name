@@ -1,6 +1,220 @@
 <?xml version="1.0" encoding="utf-8"?>
 <concerts title="Concerts (Olivier Bruchez)" link="http://olivier.bruchez.org/concerts.html" feed="http://olivier.bruchez.org/concerts.rss">
   <concert>
+    <date>2012.12.06</date>
+    <location>Forum Rolex, Learning Center, EPFL, Ecublens, Switzerland</location>
+    <event>Sciences en Musique</event>
+    <group>Geneva Brass Quintet</group>
+    <musician inst="trumpet">Gaille Samuel</musician>
+    <musician inst="trumpet">Walter Lionel</musician>
+    <musician inst="trombone">David Rey</musician>
+    <musician inst="horn">Christophe Sturzenegger</musician>
+    <musician inst="tuba">Eric Rey</musician>
+    <rating>4.5</rating>
+    <comments/>
+  </concert>
+  <concert>
+    <date>2012.11.12</date>
+    <location>Victoria Hall, Geneva, Switzerland</location>
+    <event></event>
+    <musician inst="tenor saxophone" leader="true">Sonny Rollins</musician>
+    <musician inst="trombone">Clifton Anderson </musician>
+    <musician inst="bass">Bob Cranshaw</musician>
+    <musician inst="guitar">Saul Rubin</musician>
+    <musician inst="percussions">Sammy Figueroa</musician>
+    <musician inst="drums">Kobie Watkins</musician>
+    <rating>4.75</rating>
+    <comments/>
+  </concert>
+  <concert>
+    <date>2012.11.02</date>
+    <location>Casino de Montbenon, Lausanne, Switzerland</location>
+    <event>JazzOnze+ Festival Lausanne</event>
+    <musician inst="bass, bass clarinet" leader="true">Marcus Miller</musician>
+    <musician inst="guitar">Adam Agati</musician>
+    <musician inst="keyboards">Kris Bowers</musician>
+    <musician inst="trumpet">Lee Hogans</musician>
+    <musician inst="drums">Louis Cato</musician>
+    <musician inst="saxophone">Alex Han</musician>
+    <rating>5.25</rating>
+    <comments/>
+  </concert>
+  <concert>
+    <date>2012.11.02</date>
+    <location>Casino de Montbenon, Lausanne, Switzerland</location>
+    <event>JazzOnze+ Festival Lausanne</event>
+    <group>Pierre-Luc Vallet - Claude Schneider Hammond Quartet</group>
+    <musician inst="Hammond organ" leader="true">Pierre-Luc Vallet</musician>
+    <musician inst="guitar" leader="true">Claude Schneider</musician>
+    <musician inst="tenor saxophone">Yvan Ischer</musician>
+    <musician inst="drums">Peter Schmidlin</musician>
+    <rating>4.25</rating>
+    <comments/>
+  </concert>
+  <concert>
+    <date>2012.09.13</date>
+    <location>Forum Rolex, Learning Center, EPFL, Ecublens, Switzerland</location>
+    <event>TEDxHelvetia</event>
+    <musician inst="piano" leader="true">Yaron Herman</musician>
+    <musician inst="saxophone">Emile Parisien</musician>
+    <musician inst="bass">Stéphane Kerecki</musician>
+    <musician inst="drums">Ziv Ravitz</musician>
+    <rating>5.25</rating>
+    <comments>9:30 PM concert.</comments>
+  </concert>
+  <concert>
+    <date>2012.07.14</date>
+    <location>Miles Davis Hall, Montreux, Switzerland</location>
+    <event>Montreux Jazz Festival</event>
+    <musician inst="vocals" leader="true">Janelle Monáe</musician>
+    <musician inst="guitar">Kellindo Parker</musician>
+    <musician inst="keyboards">Terrence Brown</musician>
+    <musician inst="drums">Mikey Phillips</musician>
+    <musician inst="violin">Alex Page</musician>
+    <musician inst="cello">Grace Shim</musician>
+    <musician inst="viola">Glen McDaniel</musician>
+    <musician inst="violin">Andrew Colella</musician>
+    <musician inst="percussion">Joey Gonzales</musician>
+    <musician inst="bassist">Brandon Gilliard</musician>
+    <musician inst="trumpet">Lance Powlis</musician>
+    <musician inst="trombone">Marcus Lewis</musician>
+    <musician inst="background vocals">Ashley Nicole</musician>
+    <musician inst="background vocals">Rae Renée</musician>
+    <musician inst="master of ceremony">George Twopointoh</musician>
+    <musician inst="capemaster">Jeff Cohran</musician>
+    <rating>5.25</rating>
+    <comments/>
+  </concert>
+  <concert>
+    <date>2012.07.11</date>
+    <location>Auditorium Stravinski, Montreux, Switzerland</location>
+    <event>Montreux Jazz Festival</event>
+    <musician inst="piano, keyboards" leader="true">Herbie Hancock</musician>
+    <musician inst="bass">James Genus</musician>
+    <musician inst="drums">Trevor Lawrence</musician>
+    <musician inst="guitar">Lionel Loueke</musician>
+    <rating>4.75</rating>
+    <comments/>
+  </concert>
+  <concert>
+    <date>2012.07.10</date>
+    <location>Auditorium Stravinski, Montreux, Switzerland</location>
+    <event>Montreux Jazz Festival</event>
+    <musician inst="vocals" leader="true">Anastacia</musician>
+    <musician inst="bass">Orefo Orakwue</musician>
+    <musician inst="drums">Steve Barney</musician>
+    <musician inst="guitar">Dave Ital</musician>
+    <musician inst="keyboards">Stuart Trotman</musician>
+    <musician inst="backing vocals">Elisabeth Troy</musician>
+    <musician inst="backing vocals">Maria Quintile</musician>
+    <rating>4.0</rating>
+    <comments/>
+  </concert>
+  <concert>
+    <date>2012.07.10</date>
+    <location>Auditorium Stravinski, Montreux, Switzerland</location>
+    <event>Montreux Jazz Festival</event>
+    <musician inst="vocals, guitar, keyboard" leader="true">Butterscotch</musician>
+    <rating>4.25</rating>
+    <comments/>
+  </concert>
+  <concert>
+    <date>2012.07.09</date>
+    <location>Miles Davis Hall, Montreux, Switzerland</location>
+    <event>Montreux Jazz Festival</event>
+    <musician inst="guitar, piano, vocals" leader="true">Hugh Laurie</musician>
+    <musician inst="guitar">Kevin Breit</musician>
+    <musician inst="horns">Vincent Henry</musician>
+    <musician inst="keyboards">Patrick Warren</musician>
+    <musician inst="drums">Jay Bellerose</musician>
+    <musician inst="bass">David Piltch</musician>
+    <musician inst="backing vocals">Sista Jean McClain</musician>
+    <rating>3.75</rating>
+    <comments/>
+  </concert>
+  <concert>
+    <date>2012.07.08</date>
+    <location>Château de Chillon, Veytaux, Switzerland</location>
+    <event>Montreux Jazz Festival</event>
+    <musician inst="piano" leader="true">Yaron Herman</musician>
+    <rating>5.25</rating>
+    <comments>Carte Blanche around Debussy</comments>
+  </concert>
+  <concert>
+    <date>2012.07.07</date>
+    <location>Miles Davis Hall, Montreux, Switzerland</location>
+    <event>Montreux Jazz Festival</event>
+    <group>Neneh Cherry &amp; The Thing</group>
+    <musician inst="vocals" leader="true">Neneh Cherry</musician>
+    <musician inst="saxophone">Mats Gustafsson</musician>
+    <musician inst="double bass">Ingebrigt Hâker Flaten</musician>
+    <musician inst="drums">Paal Nilssen-Love</musician>
+    <rating>5.25</rating>
+    <comments/>
+  </concert>
+  <concert>
+    <date>2012.07.07</date>
+    <location>Miles Davis Hall, Montreux, Switzerland</location>
+    <event>Montreux Jazz Festival</event>
+    <group>Spectrum Road</group>
+    <musician inst="bass, vocals">Jack Bruce</musician>
+    <musician inst="drums, vocals">Cindy Blackman Santana</musician>
+    <musician inst="keyboards">John Medeski</musician>
+    <musician inst="guitar">Vernon Reid</musician>
+    <musician inst="guitar">John McLaughlin</musician>
+    <rating>4.5</rating>
+    <comments/>
+  </concert>
+  <concert>
+    <date>2012.07.07</date>
+    <location>Miles Davis Hall, Montreux, Switzerland</location>
+    <event>Montreux Jazz Festival</event>
+    <group>James Carter Organ Trio</group>
+    <musician inst="saxophone" leader="true">James Carter</musician>
+    <musician inst="Hammond B3 organ">Gerard Gibbs</musician>
+    <musician inst="drums">Leonard King</musician>
+    <rating>4.75</rating>
+    <comments/>
+  </concert>
+  <concert>
+    <date>2012.07.06</date>
+    <location>Miles Davis Hall, Montreux, Switzerland</location>
+    <event>Montreux Jazz Festival</event>
+    <group>Rodrigo y Gabriela and C.U.B.A.</group>
+    <musician inst="guitar" leader="true">Rodrigo Sanchez</musician>
+    <musician inst="guitar" leader="true">Gabriela Lopez</musician> 
+    <musician inst="piano">Alex Wilson</musician>
+    <musician inst="trumpet">Amik Guerra</musician>
+    <musician inst="bass">Alfredo Hechavarria</musician>
+    <musician inst="saxophone">Nardy Castelinni</musician>
+    <musician inst="drums">Bernald Edwin Sanz</musician>
+    <rating>5.0</rating>
+    <comments/>
+  </concert>
+  <concert>
+    <date>2012.07.02</date>
+    <location>Miles Davis Hall, Montreux, Switzerland</location>
+    <event>Montreux Jazz Festival</event>
+    <group>Pat Metheny Unity Band</group>
+    <musician inst="guitar" leader="true">Pat Metheny</musician>
+    <musician inst="saxophone, clarinet, flute">Chris Potter</musician>
+    <musician inst="bass">Ben Williams</musician>
+    <musician inst="drums">Antonio Sanchez</musician>
+    <rating>5.0</rating>
+    <comments/>
+  </concert>
+  <concert>
+    <date>2012.07.01</date>
+    <location>Miles Davis Hall, Montreux, Switzerland</location>
+    <event>Montreux Jazz Festival</event>
+    <group>Bobby McFerrin &amp; Chick Corea</group>
+    <musician inst="vocals">Bobby McFerrin</musician>
+    <musician inst="piano">Chick Corea</musician>
+    <musician inst="vocals">Nikki Yanofsky</musician>
+    <rating>4.5</rating>
+    <comments/>
+  </concert>
+  <concert>
     <date>2012.04.17</date>
     <location>Next Step, Cully, Switzerland</location>
     <event>Cully Jazz Festival</event>
