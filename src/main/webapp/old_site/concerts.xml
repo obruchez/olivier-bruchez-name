@@ -1109,60 +1109,7 @@
   </concert> -->
   
   <!-- 2001-2006?
-  
-  <performance>
-		<date>March 15, 2002</date>
-		<place>Chapiteau, Cully, Switzerland</place>
-		<occasion>Cully Jazz Festival</occasion>
-		<source>radio broadcast (Espace 2, July 8, 2002)</source>
-		<media>CD-R</media>
-		<monostereo>stereo</monostereo>
-		<quality>n/a</quality>
-		<note/>
-	</performance>
-	<cast>
-		<member name="Eddy Louiss" instrument="organ"/>
-		<member name="Richard Galliano" instrument="accordion"/>
-	</cast>
-  
-  <performance>
-		<date>March 15, 2002</date>
-		<place>Chapiteau, Cully, Switzerland</place>
-		<occasion>Cully Jazz Festival</occasion>
-		<source>radio broadcast (Espace 2, July 8, 2002)</source>
-		<media>CD-R</media>
-		<monostereo>stereo</monostereo>
-		<quality>n/a</quality>
-		<note/>
-	</performance>
-	<cast>
-		<member name="Erik Truffaz" instrument="trumpet"/>
-		<member name="Manu Codjia" instrument="guitar"/>
-		<member name="Michel Benita" instrument="bass"/>
-		<member name="Philippe Garcia" instrument="drums, megaphone"/>
-		<member name="Julien Lourau" instrument="alto sax, soprano sax"/>
-		<member name="Mounir Troudi" instrument="vocals"/>
-	</cast>
-  
-  <performance>
-	<date>March 18, 2002</date>
-	<place>Chapiteau, Cully, Switzerland</place>
-	<occasion>Cully Jazz Festival</occasion>
-	<source>radio broadcast (Espace 2, July 16/18, 2002)</source>
-	<media>CD-R</media>
-	<monostereo>stereo</monostereo>
-	<quality>n/a</quality>
-	<note/>
-</performance>
-<cast>
-	<member name="Marcus Miller" instrument="bass guitar, bass clarinet, soprano sax"/>
-	<member name="Dean Brown" instrument="guitar"/>
-	<member name="Poogie Bell" instrument="drums"/>
-	<member name="Leroy &quot;Scooter&quot; Taylor" instrument="keyboards"/>
-	<member name="Roger Byam" instrument="tenor sax"/>
-	<member name="Michael &quot;Patches&quot; Stewart" instrument="trumpet"/>
-</cast>
-  
+
   <performance>
 		<date>April 5, 2003</date>
 		<place>Métropole, Lausanne, Switzerland</place>
@@ -1230,11 +1177,6 @@ http://www.montreuxsounds.com/detail2006.php?fiche=2013
 
 2002
 - 2002/02/11 : Brad Mehldau + Thierry Lang, Lausanne (?)
-- Cully
- * Eddy Louiss / Galliano
- * Erik Truffaz
-- 17 mars : Marcus Miller, Kaufleuten
-- 18 mars: Marcus Miller, Cully
 - Montreux
 - 11 juillet : Roy Haynes / Al Jarreau
 http://www.montreuxsounds.com/detail2006.php?fiche=2460
@@ -1283,7 +1225,51 @@ http://www.montreuxsounds.com/detail2006.php?fiche=2403
 - 30 mars : Chris Potter « Underground » / Art Ensemble of Chicago, Cully
   
   -->
-  
+
+  <concert>
+    <date>2002.03.18</date>
+    <location>Chapiteau, Cully, Switzerland</location>
+    <event>Cully Jazz Festival</event>
+    <musician inst="bass guitar, bass clarinet, soprano sax" leader="true">Marcus Miller</musician>
+    <musician inst="guitar">Dean Brown</musician>
+    <musician inst="drums">Poogie Bell</musician>
+    <musician inst="keyboards">Leroy "Scooter" Taylor</musician>
+    <musician inst="tenor saxophone">Roger Byam</musician>
+    <musician inst="trumpet">Michael "Patches" Stewart</musician>
+    <comments/>
+  </concert>
+  <concert>
+    <date>2002.03.17</date>
+    <location>Kaufleuten, Zurich, Switzerland</location>
+    <musician inst="bass guitar, bass clarinet, soprano sax" leader="true">Marcus Miller</musician>
+    <musician inst="guitar">Dean Brown</musician>
+    <musician inst="drums">Poogie Bell</musician>
+    <musician inst="keyboards">Leroy "Scooter" Taylor</musician>
+    <musician inst="tenor saxophone">Roger Byam</musician>
+    <musician inst="trumpet">Michael "Patches" Stewart</musician>
+    <comments/>
+  </concert>
+  <concert>
+    <date>2002.03.15</date>
+    <location>Chapiteau, Cully, Switzerland</location>
+    <event>Cully Jazz Festival</event>
+    <musician inst="trumpet" leader="true">Erik Truffaz</musician>
+    <musician inst="guitar">Manu Codjia</musician>
+    <musician inst="bass">Michel Benita</musician>
+    <musician inst="drums, megaphone">Philippe Garcia</musician>
+    <musician inst="alto saxophone, soprano saxophone">Julien Lourau</musician>
+    <musician inst="vocals">Mounir Troudi</musician>
+    <comments/>
+  </concert>
+  <concert>
+    <date>2002.03.15</date>
+    <location>Chapiteau, Cully, Switzerland</location>
+    <event>Cully Jazz Festival</event>
+    <group>Eddy Louiss &amp; Richard Galliano</group>
+    <musician inst="organ">Eddy Louiss</musician>
+    <musician inst="accordion">Richard Galliano</musician>
+    <comments/>
+  </concert>
   <concert>
     <date>2001.07.22</date>
     <location>Auditorium Stravinski, Montreux, Switzerland</location>
