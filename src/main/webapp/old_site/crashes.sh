@@ -1,2 +1,3 @@
-java  net.sf.saxon.Transform crashes.xml xmltorss.xsl > crashes.rss
-java  net.sf.saxon.Transform crashes.xml xmltohtml.xsl > crashes.html
+#!/bin/bash
+saxon -s:crashes.xml -xsl:xmltorss.xsl > crashes.rss
+saxon -s:crashes.xml -xsl:xmltohtml.xsl > crashes.html
