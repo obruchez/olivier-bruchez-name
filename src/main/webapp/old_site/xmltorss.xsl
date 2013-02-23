@@ -93,12 +93,15 @@
 					<xsl:when test="count(child::group)=0 and count(child::musician)=1">
 						<xsl:value-of select="child::musician[1]"/>
 					</xsl:when>
-					<xsl:when test="count(child::group)=0 and count(child::musician)>1">
+					<xsl:when test="count(child::group)=0 and (count(child::musician[@leader='true'])>0 or count(child::musician[@leader='yes'])>0)">
 						<xsl:for-each select="musician">
 							<xsl:if test="@leader='true' or @leader='yes'">
 								<xsl:value-of select="."/>
 							</xsl:if>
 						</xsl:for-each>
+					</xsl:when>
+					<xsl:when test="count(child::event)>0">
+						<xsl:value-of select="child::event[1]"/>
 					</xsl:when>
 				</xsl:choose>
 				<xsl:text> - </xsl:text>

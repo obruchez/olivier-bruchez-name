@@ -5,6 +5,16 @@
       <description>The last books I read</description>
       <link>http://olivier.bruchez.org/books.html</link>
       <item>
+         <title>Bertrand Russell - What I Believe</title>
+         <pubDate>19 Feb 2013 00:00:00 +0000</pubDate>
+         <guid>http://olivier.bruchez.org/books.html#55</guid>
+      </item>
+      <item>
+         <title>Ray Kurzweil - How to Create a Mind</title>
+         <pubDate>04 Feb 2013 00:00:00 +0000</pubDate>
+         <guid>http://olivier.bruchez.org/books.html#54</guid>
+      </item>
+      <item>
          <title>Douglas Crockford - JavaScript: The Good Parts</title>
          <pubDate>06 Dec 2012 00:00:00 +0000</pubDate>
          <guid>http://olivier.bruchez.org/books.html#53</guid>

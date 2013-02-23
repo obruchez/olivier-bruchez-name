@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <movies title="Movies (Olivier Bruchez)" link="http://olivier.bruchez.org/movies.html" feed="http://olivier.bruchez.org/movies.rss">
   <movie>
+    <date>2013.02.09</date>
+    <theater home="true"/>
+    <director>Ethan Coen &amp; Joel Coen</director>
+    <title>True Grit</title>
+    <uri>http://www.imdb.com/title/tt1403865/</uri>
+    <rating>4.75</rating>
+  </movie>
+  <movie>
     <date>2013.02.02</date>
     <theater home="true"/>
     <director>Jonathan Dayton &amp; Valerie Faris</director>

@@ -1,6 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <concerts title="Concerts (Olivier Bruchez)" link="http://olivier.bruchez.org/concerts.html" feed="http://olivier.bruchez.org/concerts.rss">
   <concert>
+    <date>2013.02.08</date>
+    <location>Auditorium Stravinski, Montreux, Switzerland</location>
+    <event>Funky Claude</event>
+    <musician inst="conductor">Pepe Lienhard</musician>
+    <musician inst="big band">Pepe Lienhard Big Band</musician>
+    <musician inst="vocals, piano">Sophie Hunger</musician>
+    <musician inst="vocals">Marc Sway</musician>
+    <musician inst="harp">Andreas Vollenweider</musician>
+    <musician inst="drums">Walter Keiser</musician>
+    <musician inst="cello">Daniel Pezzotti</musician>
+    <musician inst="vocals">Michael von der Heide</musician>
+    <musician inst="vocals, piano">Pascal Auberson</musician>
+    <musician inst="vocals">Barbara Hendricks</musician>
+    <musician inst="piano">Mathias Algotsson</musician>
+    <musician inst="guitar">Ulf Englund</musician>
+    <musician inst="piano">François Lindemann</musician>
+    <musician inst="drums">Olivier Clerc</musician>
+    <musician inst="sax">Stefano Saccon</musician>
+    <musician inst="bass">Baenz Oster</musician>
+    <musician inst="vocals, guitar">Amy MacDonald</musician>
+    <musician inst="vocals, guitar">Bastian Baker</musician>
+    <musician inst="vocals, guitar">Stephan Eicher</musician>
+    <musician inst="vocals">Dieter Meier</musician>
+    <musician inst="guitar">Nicolas Rüttimann</musician>
+    <musician inst="bass">Ralph Sonderegger</musician>
+    <musician inst="drums">Alessandro Giannelli</musician>
+    <musician inst="violin">Tobias Preisig</musician>
+    <musician inst="vocals">Paolo Nutini</musician>
+    <musician inst="vocals, guitar">Philipp Fankhauser</musician>
+    <musician inst="B-3 Hammond organ">Hendrix Ackle</musician>
+    <rating>4.25</rating>
+    <comments/>
+  </concert>
+  <concert>
     <date>2012.12.06</date>
     <location>Forum Rolex, Learning Center, EPFL, Ecublens, Switzerland</location>
     <event>Sciences en Musique</event>
@@ -1175,22 +1209,26 @@ Entre 2001/07/22 (Keith Jarrett) et 2006/04/08 (Sylvie Courvoisier)
 http://www.montreuxsounds.com/detail2006.php?fiche=2013
 (vu ou pas ?)
 
-2002
-- 2002/02/11 : Brad Mehldau + Thierry Lang, Lausanne (?)
-- Montreux
-- 11 juillet : Roy Haynes / Al Jarreau
-http://www.montreuxsounds.com/detail2006.php?fiche=2460
-http://www.montreuxsounds.com/detail2006.php?fiche=2461
-- 15 juillet : Gary Burton / Wynton Marsalis / Herbie Hancock, etc.
-http://www.montreuxsounds.com/detail2006.php?fiche=2398
-http://www.montreuxsounds.com/detail2006.php?fiche=2399
-http://www.montreuxsounds.com/detail2006.php?fiche=2400
-- 16 juillet : Charlie Haden/Pat Metheny / Wayne Shorter / Triple Thread
-http://www.montreuxsounds.com/detail2006.php?fiche=2401
-http://www.montreuxsounds.com/detail2006.php?fiche=2402
-http://www.montreuxsounds.com/detail2006.php?fiche=2403
-- 21 juillet :Keith Jarrett http://www.montreuxsounds.com/detail2006.php?fiche=2415
-- 30 octobre : Prince, Zürich (+ soundcheck)
+2006
+- 28 mars : Manuel Mengis « Gruppe 6 » / John Scofield plays the music of Ray Charles, Cully
+- 30 mars : Chris Potter « Underground » / Art Ensemble of Chicago, Cully
+
+2005
+- 7 avril : (Reto Weber’s Squeeze Band) Reto Weber, Nino G, Samuel Kuehni et Thomas Sauter / Marcus Miller, Cully
+- 4 mai : Marcus Miller, Kaufleuten
+- 4 juillet : Lee Ritenour / Mike Manieri, etc.
+- 13 juillet : Magnus Lindgren / McCoy Tyner
+- 14 juillet : Roberta Flack / Marcus Miller
+- 16 juillet : Robert Botos / Oscar Peterson
+- 19 juillet : Keith Jarrett, Lyon
+
+2004
++ EST ???
+- 26 mars : Colin Vallon Trio / Charles Lloyd & Geri Allen / Harald Haerter Group Featuring Michael Brecker & Erik Truffaz (+ Marcel Papaux + guitare + contrebasse)
+- 29 mars :Bojan Z Trio / Kenny Garrett Quartet
+- 30 mars : Thierry Lang Trio (même qu'à la RSR) / Dave Holland Quintet
+- 1 juillet : Keith Jarrett, Montréal
+- 7 novembre : Keith Jarett, Rome
 
 2003
 - 18 mars : Wayne Shorter, Genève
@@ -1203,29 +1241,79 @@ http://www.montreuxsounds.com/detail2006.php?fiche=2403
 - 1 novembre : Marcus Miller, Lausanne
 - 29 novembre 2003 : Thierry Lang, Heiri Kaenzig, Peter Schmidli
 
-2004
-+ EST ???
-- 26 mars : Colin Vallon Trio / Charles Lloyd & Geri Allen / Harald Haerter Group Featuring Michael Brecker & Erik Truffaz (+ Marcel Papaux + guitare + contrebasse)
-- 29 mars :Bojan Z Trio / Kenny Garrett Quartet
-- 30 mars : Thierry Lang Trio (même qu'à la RSR) / Dave Holland Quintet
-- 1 juillet : Keith Jarrett, Montréal
-- 7 novembre : Keith Jarett, Rome
+2002
+- 2002/02/11 : Brad Mehldau + Thierry Lang, Lausanne (? -> bad date)
+- Montreux
+- 16 juillet : Charlie Haden/Pat Metheny / Wayne Shorter / Triple Thread
+http://www.montreuxsounds.com/detail2006.php?fiche=2401
+http://www.montreuxsounds.com/detail2006.php?fiche=2402
+http://www.montreuxsounds.com/detail2006.php?fiche=2403
+- 21 juillet :Keith Jarrett http://www.montreuxsounds.com/detail2006.php?fiche=2415
+- 30 octobre : Prince, Zürich (+ soundcheck)
 
-2005
-- 7 avril : (Reto Weber’s Squeeze Band) Reto Weber, Nino G, Samuel Kuehni et Thomas Sauter / Marcus Miller, Cully
-- 4 mai : Marcus Miller, Kaufleuten
-- 4 juillet : Lee Ritenour / Mike Manieri, etc.
-- 13 juillet : Magnus Lindgren / McCoy Tyner
-- 14 juillet : Roberta Flack / Marcus Miller
-- 16 juillet : Robert Botos / Oscar Peterson
-- 19 juillet : Keith Jarrett, Lyon
-
-2006
-- 28 mars : Manuel Mengis « Gruppe 6 » / John Scofield plays the music of Ray Charles, Cully
-- 30 mars : Chris Potter « Underground » / Art Ensemble of Chicago, Cully
-  
   -->
 
+  <concert>
+    <date>2002.07.15</date>
+    <location>Auditorium Stravinski, Montreux, Switzerland</location>
+    <event>Montreux Jazz Festival</event>
+    <group>Herbie Hancock, Michael Brecker &amp; Roy Hargrove</group>
+    <musician inst="piano" leader="true">Herbie Hancock</musician>
+    <musician inst="sax" leader="true">Michael Brecker</musician>
+    <musician inst="trumpet" leader="true"></musician>
+    <musician inst="bass">Georges Mraz</musician>
+    <musician inst="drums">Willie Jones III</musician>
+    <comments>Directions in Music with Herbie Hancock, Michael Brecker, and Roy Hargrove</comments>
+  </concert>
+  <concert>
+    <date>2002.07.15</date>
+    <location>Auditorium Stravinski, Montreux, Switzerland</location>
+    <event>Montreux Jazz Festival</event>
+    <group>The Lincoln Center Jazz Orchestra &amp; Wynton Marsalis</group>
+    <musician inst="trumpet" leader="true">Wynton Marsalis</musician>
+    <musician inst="trumpet">Ryan Kisor</musician>
+    <musician inst="trumpet">Markus Printup</musician>
+    <musician inst="trumpet">Seneca Black</musician>
+    <musician inst="baritone sax">Joe Temperley</musician>
+    <musician inst="tenor sax">Watter Blanding</musician>
+    <musician inst="alto sax">Wes Anderson</musician>
+    <musician inst="alto sax">Ted Nash</musician>
+    <musician inst="tenor sax, clarinet">Victor Goines</musician>
+    <musician inst="trombone">Ronald Westray</musician>
+    <musician inst="trombone">Vincent Gardner</musician>
+    <musician inst="trombone">Andre Hayward</musician>
+    <musician inst="drums">Herlin Riley</musician>
+    <musician inst="bass">Whitaker Rodney</musician>
+    <musician inst="piano">Johnson Richard</musician>
+    <comments/>
+  </concert>
+  <concert>
+    <date>2002.07.15</date>
+    <location>Auditorium Stravinski, Montreux, Switzerland</location>
+    <event>Montreux Jazz Festival</event>
+    <group>Gary Burton &amp; Makoto Ozone</group>
+    <musician inst="vibraphone" leader="true">Gary Burton</musician>
+    <musician inst="piano" leader="true">Makoto Ozone</musician>
+    <comments/>
+  </concert>
+  <concert>
+    <date>2002.07.11</date>
+    <location>Casino, Montreux, Switzerland</location>
+    <event>Montreux Jazz Festival</event>
+    <musician inst="drums" leader="true">Al Jarreau</musician>
+    <comments>Musicians unknown.</comments>
+  </concert>
+  <concert>
+    <date>2002.07.11</date>
+    <location>Casino, Montreux, Switzerland</location>
+    <event>Montreux Jazz Festival</event>
+    <musician inst="drums" leader="true">Roy Haynes</musician>
+    <musician inst="trumpet">Nicholas Payton (?)</musician>
+    <musician inst="piano">Dave Kikoski (?)</musician>
+    <musician inst="saxophone">Kenny Garrett (?)</musician>
+    <musician inst="bass">Christian McBride (?)</musician>
+    <comments/>
+  </concert>
   <concert>
     <date>2002.03.18</date>
     <location>Chapiteau, Cully, Switzerland</location>
