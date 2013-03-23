@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <movies title="Movies (Olivier Bruchez)" link="http://olivier.bruchez.org/movies.html" feed="http://olivier.bruchez.org/movies.rss">
   <movie>
+    <date>2013.03.23</date>
+    <theater>Corso, Martigny</theater>
+    <director>David Moreau</director>
+    <title>20 ans d'écart</title>
+    <uri>http://www.imdb.com/title/tt2186812/</uri>
+    <rating>4.0</rating>
+  </movie>
+  <movie>
     <date>2013.03.17</date>
     <theater>Cinémathèque, Lausanne</theater>
     <director>Woody Allen</director>
