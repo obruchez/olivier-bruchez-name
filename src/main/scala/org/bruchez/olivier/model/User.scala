@@ -1,7 +1,7 @@
 package org.bruchez.olivier.model
 
+import net.liftmodules.openid.{MetaOpenIDProtoUser, OpenIDProtoUser}
 import net.liftweb.mapper.{LongKeyedMapper, LongKeyedMetaMapper}
-import net.liftweb.openid.{MetaOpenIDProtoUser, OpenIDProtoUser}
 import net.liftweb.common.Full
 import org.bruchez.olivier.login.OpenIdVendor
 

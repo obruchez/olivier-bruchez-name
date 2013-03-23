@@ -1,7 +1,7 @@
 package org.bruchez.olivier.login
 
+import net.liftmodules.openid._
 import net.liftweb.common._
-import net.liftweb.openid._
 import org.openid4java.discovery.DiscoveryInformation
 import org.openid4java.message.AuthRequest
 
