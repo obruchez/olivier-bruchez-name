@@ -1265,15 +1265,74 @@ http://www.montreuxsounds.com/detail2006.php?fiche=2013
 
 2002
 - 2002/02/11 : Brad Mehldau + Thierry Lang, Lausanne (? -> bad date)
-- Montreux
-- 16 juillet : Charlie Haden/Pat Metheny / Wayne Shorter / Triple Thread
-http://www.montreuxsounds.com/detail2006.php?fiche=2401
-http://www.montreuxsounds.com/detail2006.php?fiche=2402
-http://www.montreuxsounds.com/detail2006.php?fiche=2403
-- 21 juillet :Keith Jarrett http://www.montreuxsounds.com/detail2006.php?fiche=2415
-- 30 octobre : Prince, Zürich (+ soundcheck)
-
   -->
+
+  <concert>
+    <date>2002.10.30</date>
+    <location>Hallenstadion, Zürich, Switzerland</location>
+    <musician inst="vocals, guitar, bass, keyboards, drums" leader="true">Prince</musician>
+    <musician inst="drums">John Blackwell</musician>
+    <musician inst="bass, vocals">Rhonda Smith</musician>
+    <musician inst="keyboards">Renato Neto</musician>
+    <musician inst="trombone">Greg Boyer</musician>
+    <musician inst="saxophone">Candy Dulfer</musician>
+    <musician inst="turntables">Dudley D. (Dustin Meyer)</musician>
+    <comments></comments>
+  </concert>
+  <concert>
+    <date>2002.10.30</date>
+    <location>Hallenstadion, Zürich, Switzerland</location>
+    <musician inst="vocals, guitar, bass, keyboards, drums" leader="true">Prince</musician>
+    <musician inst="drums">John Blackwell</musician>
+    <musician inst="bass, vocals">Rhonda Smith</musician>
+    <musician inst="keyboards">Renato Neto</musician>
+    <musician inst="trombone">Greg Boyer</musician>
+    <musician inst="saxophone">Candy Dulfer</musician>
+    <musician inst="turntables">Dudley D. (Dustin Meyer)</musician>
+    <comments>25-minute soundcheck for NPGMC members.</comments>
+  </concert>
+  <concert>
+    <date>2002.07.21</date>
+    <location>Auditorium Stravinski, Montreux, Switzerland</location>
+    <event>Montreux Jazz Festival</event>
+    <musician inst="piano" leader="true">Keith Jarrett</musician>
+    <musician inst="bass">Gary Peacock</musician>
+    <musician inst="drums">Jack DeJohnette</musician>
+    <comments></comments>
+  </concert>
+  <concert>
+    <date>2002.07.16</date>
+    <location>Auditorium Stravinski, Montreux, Switzerland</location>
+    <event>Montreux Jazz Festival</event>
+    <group>Triple Threat</group>
+    <musician inst="trumpet">Rick Braun</musician>
+    <musician inst="guitar">Norman Brown</musician>
+    <musician inst="saxophone">Kirk Whalum</musician>
+    <musician inst="keyboards">Ricky Peterson</musician>
+    <musician inst="drums">Royford Griffin</musician>
+    <musician inst="bass">James Genus</musician>
+    <musician inst="bass">Christian McBride</musician>
+    <comments></comments>
+  </concert>
+  <concert>
+    <date>2002.07.16</date>
+    <location>Auditorium Stravinski, Montreux, Switzerland</location>
+    <event>Montreux Jazz Festival</event>
+    <musician inst="alto saxophone, soprano saxophone" leader="true">Wayne Shorter</musician>
+    <musician inst="piano">Danilo Perez</musician>
+    <musician inst="bass">John Patitucci</musician>
+    <musician inst="drums">Brian Blade</musician>
+    <comments></comments>
+  </concert>
+  <concert>
+    <date>2002.07.16</date>
+    <location>Auditorium Stravinski, Montreux, Switzerland</location>
+    <event>Montreux Jazz Festival</event>
+    <group>Charlie Haden &amp; Pat Metheny</group>
+    <musician inst="double bass">Charlie Haden</musician>
+    <musician inst="acoustic guitar, electric guitar, Pikasso guitar">Pat Metheny</musician>
+    <comments></comments>
+  </concert>
 
   <concert>
     <date>2002.07.15</date>
