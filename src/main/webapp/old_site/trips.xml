@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <trips title="Trips (Olivier Bruchez)" link="http://olivier.bruchez.org/trips.html" feed="http://olivier.bruchez.org/trips.rss">
   <trip>
+    <from>2013.03.15</from>
+    <to>2013.03.16</to>
+    <place>Basel, Switzerland</place>
+    <pictures url="http://www.flickr.com/photos/bruchez/sets/72157633043301297/"/>
+  </trip>
+  <trip>
     <from>2012.12.29</from>
     <to>2013.01.01</to>
     <place>Baden-Baden, Germany</place>

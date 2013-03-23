@@ -1,6 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <concerts title="Concerts (Olivier Bruchez)" link="http://olivier.bruchez.org/concerts.html" feed="http://olivier.bruchez.org/concerts.rss">
   <concert>
+    <date>2013.03.15</date>
+    <location>Konzertfabrik Z7, Pratteln, Switzerland</location>
+    <group>Living Colour</group>
+    <musician inst="guitar, vocals">Vernon Reid</musician>
+    <musician inst="vocals">Corey Glover</musician>
+    <musician inst="bass, vocals">Doug Wimbish</musician>
+    <musician inst="drums">Will Calhoun</musician>
+    <rating>4.5</rating>
+    <comments/>
+  </concert>
+  <concert>
+    <date>2013.03.15</date>
+    <location>Konzertfabrik Z7, Pratteln, Switzerland</location>
+    <group>Unknown local band</group>
+    <musician inst="vocals">?</musician>
+    <musician inst="guitar">?</musician>
+    <musician inst="bass">?</musician>
+    <musician inst="drums">?</musician>
+    <rating>3.5</rating>
+    <comments>Unknown local band opening for Living Colour</comments>
+  </concert>
+  <concert>
     <date>2013.02.08</date>
     <location>Auditorium Stravinski, Montreux, Switzerland</location>
     <event>Funky Claude</event>
