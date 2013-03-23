@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <movies title="Movies (Olivier Bruchez)" link="http://olivier.bruchez.org/movies.html" feed="http://olivier.bruchez.org/movies.rss">
   <movie>
+    <date>2013.03.17</date>
+    <theater>Cinémathèque, Lausanne</theater>
+    <director>Woody Allen</director>
+    <title>Manhattan</title>
+    <uri>http://www.imdb.com/title/tt0079522/</uri>
+    <rating>5.0</rating>
+  </movie>
+  <movie>
     <date>2013.02.09</date>
     <theater home="true"/>
     <director>Ethan Coen &amp; Joel Coen</director>

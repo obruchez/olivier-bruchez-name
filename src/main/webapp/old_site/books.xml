@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <books title="Olivier Bruchez's Last Books" description="The last books I read" link="http://olivier.bruchez.org/books.html" feed="http://olivier.bruchez.org/books.rss">
     <book>
+        <date>2013.03.07</date>
+        <title>Le Voyage d'hiver</title>
+        <author>Amélie Nothomb</author>
+        <publishingyear>2009</publishingyear>
+        <rating>4.5</rating>
+        <url>https://fr.wikipedia.org/wiki/Le_Voyage_d'hiver</url>
+    </book>
+    <book>
         <date>2013.02.19</date>
         <title>What I Believe</title>
         <author>Bertrand Russell</author>
