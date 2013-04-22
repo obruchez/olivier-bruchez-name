@@ -1004,6 +1004,7 @@
   <concert>
     <date>2007.05.02</date>
     <location>Studio 15, Radio Suisse Romande, Lausanne, Switzerland</location>
+    <event>JazzZ</event>
     <musician inst="piano" leader="true">Jean-Michel Pilc</musician>
     <musician inst="bass">Thomas Bramerie</musician>
     <musician inst="drums">Mark Mondesir</musician>
@@ -1259,14 +1260,55 @@ http://www.montreuxsounds.com/detail2006.php?fiche=2013
 - 3 may : Keith Jarrett Trio, Londres
 - 15 juillet : Marcus Miller soundcheck + Joshua Redman + Marcus Miller, Juan-les-Pins
 - 16 juillet : Cécile Verny + Herbie Hancock, Juan-les-Pins
-- 17 juillet : Keith Jarrett soundcheck + concert, Juan-les-Pins
-- 1 novembre : Marcus Miller, Lausanne
-- 29 novembre 2003 : Thierry Lang, Heiri Kaenzig, Peter Schmidli
 
 2002
 - 2002/02/11 : Brad Mehldau + Thierry Lang, Lausanne (? -> bad date)
   -->
 
+  <concert>
+    <date>2003.11.29</date>
+    <location>Studio 15, Radio Suisse Romande, Lausanne, Switzerland</location>
+    <event>JazzZ</event>
+    <musician inst="piano" leader="true">Thierry Lang</musician>
+    <musician inst="bass">Heiri Kaenzig</musician>
+    <musician inst="drums">Peter Schmidli</musician>
+    <musician inst="violin">Didier Lockwood</musician>
+    <musician inst="trumpet">Paolo Fresu</musician>
+    <musician inst="tenor saxophone">Andy Scherer</musician>
+    <musician inst="harmonica">Olivier Ker Ourio</musician>
+    <musician inst="alto saxophone">George Robert</musician>
+    <comments></comments>
+  </concert>
+  <concert>
+    <date>2003.11.01</date>
+    <location>Métropole, Lausanne, Switzerland</location>
+    <musician inst="bass" leader="true">Marcus Miller</musician>
+    <musician inst="guitar">Dean Brown</musician>
+    <musician inst="sax">Roger Byam</musician>
+    <musician inst="keyboards">Bruce Flowers</musician>
+    <musician inst="drums">Poogie Bell</musician>
+    <musician inst="trumpet">Patches Stewart</musician>
+    <musician inst="bass">Big Doug Epting</musician>
+    <comments></comments>
+  </concert>
+  <concert>
+    <date>2003.07.17</date>
+    <location>Pinède Gould, Antibes Juan-les-Pins, France</location>
+    <event>Jazz à Juan</event>
+    <musician inst="piano" leader="true">Keith Jarrett</musician>
+    <musician inst="bass">Gary Peacock</musician>
+    <musician inst="drums">Jack DeJohnette</musician>
+    <comments></comments>
+  </concert>
+  <concert>
+    <date>2003.07.17</date>
+    <location>Pinède Gould, Antibes Juan-les-Pins, France</location>
+    <event>Jazz à Juan</event>
+    <musician inst="piano" leader="true">Keith Jarrett</musician>
+    <musician inst="bass">Gary Peacock</musician>
+    <musician inst="drums">Jack DeJohnette</musician>
+    <comments>Soundcheck</comments>
+  </concert>
   <concert>
     <date>2002.10.30</date>
     <location>Hallenstadion, Zürich, Switzerland</location>
