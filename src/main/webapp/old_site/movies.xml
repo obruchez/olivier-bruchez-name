@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <movies title="Movies (Olivier Bruchez)" link="http://olivier.bruchez.org/movies.html" feed="http://olivier.bruchez.org/movies.rss">
   <movie>
+    <date>2013.04.25</date>
+    <theater>Galeries, Lausanne</theater>
+    <director>Michel Gondry</director>
+    <title>L'écume des jours</title>
+    <uri>http://www.imdb.com/title/tt2027140/</uri>
+    <rating>5.0</rating>
+  </movie> 
+  <movie>
     <date>2013.04.12</date>
     <theater>Flight AF83, Air France</theater>
     <director>Ang Lee</director>
