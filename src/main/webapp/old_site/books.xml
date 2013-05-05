@@ -441,6 +441,22 @@
         <publishingyear>1984</publishingyear>
         <rating/>
     </book>
+    <book>
+        <date>199?.??.??</date>
+        <title>2010 : Odyssée deux</title>
+        <subtitle/>
+        <author>Arthur C. Clarke</author>
+        <publishingyear>1982</publishingyear>
+        <rating/>
+    </book>
+    <book>
+        <date>199?.??.??</date>
+        <title>2001 : L'Odyssée de l'espace</title>
+        <subtitle/>
+        <author>Arthur C. Clarke</author>
+        <publishingyear>1968</publishingyear>
+        <rating/>
+    </book>
 	<!--
 	Kundera, Kafka, Sartre, etc. + livre lu dans les années '90 parlant de l'ABS, etc.
 	-->
