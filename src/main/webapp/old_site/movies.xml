@@ -1,6 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <movies title="Movies (Olivier Bruchez)" link="http://olivier.bruchez.org/movies.html" feed="http://olivier.bruchez.org/movies.rss">
   <movie>
+    <date>2013.05.11</date>
+    <theater home="true"/>
+    <director>Sam Mendes</director>
+    <title>Skyfall</title>
+    <uri>http://www.imdb.com/title/tt1074638/</uri>
+    <rating>4.75</rating>
+  </movie>
+  <movie>
+    <date>2013.05.11</date>
+    <theater home="true"/>
+    <director>Robert Zemeckis</director>
+    <title>Cast Away</title>
+    <uri>http://www.imdb.com/title/tt0162222/</uri>
+    <rating>4.75</rating>
+  </movie>
+  <movie>
     <date>2013.05.10</date>
     <theater home="true"/>
     <director>Robert Zemeckis</director>
