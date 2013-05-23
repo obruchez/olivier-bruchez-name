@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <trips title="Trips (Olivier Bruchez)" link="http://olivier.bruchez.org/trips.html" feed="http://olivier.bruchez.org/trips.rss">
   <trip>
+    <from>2013.05.17</from>
+    <to>2013.05.21</to>
+    <place>Berlin Germany</place>
+    <pictures url="http://www.flickr.com/photos/bruchez/sets/72157633607608311"/>
+  </trip>
+  <trip>
     <from>2013.03.30</from>
     <to>2013.04.13</to>
     <place>San Francisco, USA</place>
