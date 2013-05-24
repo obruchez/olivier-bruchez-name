@@ -9,6 +9,24 @@
   -->
 
   <play>
+    <date>2013.05.19</date>
+    <location>Theater des Westens, Berlin, Switzerland</location>
+    <name>Tanz der Vampire</name> 
+    <author>Michael Kunze</author>
+    <director>Roman Polanski</director>
+    <actor>Graf von Krolock</actor>
+    <actor>Mercedesz Csampai</actor>
+    <actor>Michael Heller</actor>
+    <actor>Veit Schäfermeier</actor>
+    <actor>Jerzy Jeszke</actor>
+    <actor>Anja Wessel</actor>
+    <actor>Goele De Raedt</actor>
+    <actor>Stefan Büdenbender</actor>
+    <actor>Marc Liebisch</actor>
+    <rating>4.5</rating>
+    <comments>Musical. Music by Jim Steinman.</comments>
+  </play>
+  <play>
     <date>2012.08.18</date>
     <location>Le Bouveret, Switzerland</location>
     <name>Mamie Google</name> 
