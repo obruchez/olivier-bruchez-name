@@ -1254,10 +1254,6 @@ http://www.montreuxsounds.com/detail2006.php?fiche=2013
 - 7 novembre : Keith Jarett, Rome
 
 2003
-- 18 mars : Wayne Shorter, Genève
-- 24 mars : Abdullah Ibrahim Trio, Cully
-- 5 avril : Brad Mehldau, solo puis trio, Lausanne
-- 3 may : Keith Jarrett Trio, Londres
 - 15 juillet : Marcus Miller soundcheck + Joshua Redman + Marcus Miller, Juan-les-Pins
 - 16 juillet : Cécile Verny + Herbie Hancock, Juan-les-Pins
 
@@ -1308,6 +1304,43 @@ http://www.montreuxsounds.com/detail2006.php?fiche=2013
     <musician inst="bass">Gary Peacock</musician>
     <musician inst="drums">Jack DeJohnette</musician>
     <comments>Soundcheck</comments>
+  </concert>
+  <concert>
+    <date>2003.05.03</date>
+    <location>Royal Festival Hall, London, UK</location>
+    <event/>
+    <musician inst="piano" leader="true">Keith Jarrett</musician>
+    <musician inst="bass">Gary Peacock</musician>
+    <musician inst="drums">Jack DeJohnette</musician>
+    <comments></comments>
+  </concert>
+  <concert>
+    <date>2003.04.05</date>
+    <location>Métropole, Lausanne, Switzerland</location>
+    <event/>
+    <musician inst="piano" leader="true">Brad Mehldau</musician>
+    <musician inst="bass">Larry Grenadier</musician>
+    <musician inst="drums">Jorge Rossy</musician>
+    <comments>Solo set, followed by a trio set.</comments>
+  </concert>
+  <concert>
+    <date>2003.03.24</date>
+    <location>Chapiteau, Cully, Switzerland</location>
+    <event>Cully Jazz Festival</event>
+    <musician inst="piano" leader="true">Abdullah Ibrahim</musician>
+    <musician inst="bass">Belden Bullock (?)</musician>
+    <musician inst="drums">Sipho Kunene (?)</musician>
+    <comments></comments>
+  </concert>
+  <concert>
+    <date>2003.03.18</date>
+    <location>Victoria Hall, Geneva, Switzerland</location>
+    <event/>
+    <musician inst="alto saxophone, soprano saxophone" leader="true">Wayne Shorter</musician>
+    <musician inst="piano">Danilo Perez</musician>
+    <musician inst="bass">John Patitucci</musician>
+    <musician inst="drums">Brian Blade</musician>
+    <comments></comments>
   </concert>
   <concert>
     <date>2002.10.30</date>
