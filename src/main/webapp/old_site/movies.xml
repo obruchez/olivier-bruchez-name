@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <movies title="Movies (Olivier Bruchez)" link="http://olivier.bruchez.org/movies.html" feed="http://olivier.bruchez.org/movies.rss">
   <movie>
+    <date>2013.06.01</date>
+    <theater home="true"/>
+    <director>Barry Levinson</director>
+    <title>Rain Man</title>
+    <uri>http://www.imdb.com/title/tt0095953/</uri>
+    <rating>5.0</rating>
+  </movie>
+  <movie>
     <date>2013.05.11</date>
     <theater home="true"/>
     <director>Sam Mendes</director>
