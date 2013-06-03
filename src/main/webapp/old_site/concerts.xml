@@ -1166,36 +1166,6 @@
   </concert> -->
   
   <!-- 2001-2006?
-
-  <performance>
-		<date>April 5, 2003</date>
-		<place>Métropole, Lausanne, Switzerland</place>
-		<occasion></occasion>
-		<source>audience recording</source>
-		<media>Sony TCD-D100 / Core Sound Binaural microphones -> CD-R</media>
-		<monostereo>stereo</monostereo>
-		<quality>n/a</quality>
-		<note>First set</note>
-	</performance>
-	<cast>
-		<member name="Brad Mehldau" instrument="piano"/>
-	</cast>
-  
-  <performance>
-		<date>April 5, 2003</date>
-		<place>Métropole, Lausanne, Switzerland</place>
-		<occasion></occasion>
-		<source>audience recording</source>
-		<media>Sony TCD-D100 / Core Sound Binaural microphones -> CD-R</media>
-		<monostereo>stereo</monostereo>
-		<quality>n/a</quality>
-		<note>Second set</note>
-	</performance>
-	<cast>
-		<member name="Brad Mehldau" instrument="piano"/>
-		<member name="Larry Grenadier" instrument="bass"/>
-		<member name="Jorge Rossy" instrument="drums"/>
-	</cast>
 	
 	Fribourg : y suis allé deux fois, une fois avec Aline (assis, dehors), une fois seul (assis sur l'herbe, crois avoir vu PMC) - vu trio de Brad Mehldau (seul) et E.S.T. ou Brad (avec Aline)
 	
@@ -1247,9 +1217,6 @@ http://www.montreuxsounds.com/detail2006.php?fiche=2013
 
 2004
 + EST ???
-- 26 mars : Colin Vallon Trio / Charles Lloyd & Geri Allen / Harald Haerter Group Featuring Michael Brecker & Erik Truffaz (+ Marcel Papaux + guitare + contrebasse)
-- 29 mars :Bojan Z Trio / Kenny Garrett Quartet
-- 30 mars : Thierry Lang Trio (même qu'à la RSR) / Dave Holland Quintet
 - 1 juillet : Keith Jarrett, Montréal
 - 7 novembre : Keith Jarett, Rome
 
@@ -1261,6 +1228,76 @@ http://www.montreuxsounds.com/detail2006.php?fiche=2013
 - 2002/02/11 : Brad Mehldau + Thierry Lang, Lausanne (? -> bad date)
   -->
 
+  <concert>
+    <date>2004.03.30</date>
+    <location>Chapiteau, Cully, Switzerland</location>
+    <event>Cully Jazz Festival</event>
+    <musician inst="bass" leader="true">Dave Holland</musician> 
+    <musician inst="saxophone">Chris Potter</musician>
+    <musician inst="trombone">Robin Eubanks</musician>
+    <musician inst="vibes">Steve Nelson</musician>
+    <musician inst="drums">Nate Smith</musician>
+    <comments></comments>
+  </concert>
+  <concert>
+    <date>2004.03.30</date>
+    <location>Chapiteau, Cully, Switzerland</location>
+    <event>Cully Jazz Festival</event>
+    <musician inst="piano" leader="true">Thierry Lang</musician>
+    <musician inst="bass">Heiri Kaenzig</musician>
+    <musician inst="drums">Peter Schmidli</musician>
+    <comments></comments>
+  </concert>
+  <concert>
+    <date>2004.03.29</date>
+    <location>Chapiteau, Cully, Switzerland</location>
+    <event>Cully Jazz Festival</event>
+    <musician inst="saxophone" leader="true">Kenny Garrett</musician>
+    <musician inst="drums">Ronald Burner</musician>
+    <musician inst="piano">Carlos McKinney</musician>
+    <musician inst="bass">Kristopher Funn</musician>
+    <comments></comments>
+  </concert>
+  <concert>
+    <date>2004.03.29</date>
+    <location>Chapiteau, Cully, Switzerland</location>
+    <event>Cully Jazz Festival</event>
+    <musician inst="piano, Fender Rhodes" leader="true">Bojan Z</musician>
+    <musician inst="bass">Rémi Vignolo</musician>
+    <musician inst="drums">Ben Perowsky</musician>
+    <comments></comments>
+  </concert>
+  <concert>
+    <date>2004.03.26</date>
+    <location>Chapiteau, Cully, Switzerland</location>
+    <event>Cully Jazz Festival</event>
+    <group>Harald Haerter featuring Michael Brecker &amp; Erik Truffaz</group>
+    <musician inst="guitar" leader="true">Harald Haerter</musician>
+    <musician inst="tenor saxophone">Michael Brecker</musician>
+    <musician inst="trumpet">Erik Truffaz</musician>
+    <musician inst="guitar">Philipp Schaufelberger</musician>
+    <musician inst="bass">Baenz Oester</musician>
+    <musician inst="drums">Marcel Papaux</musician>
+    <comments></comments>
+  </concert>
+  <concert>
+    <date>2004.03.26</date>
+    <location>Chapiteau, Cully, Switzerland</location>
+    <event>Cully Jazz Festival</event>
+    <group>Charles Lloyd &amp; Geri Allen</group>
+    <musician inst="saxophone">Charles Lloyd</musician>
+    <musician inst="piano">Geri Allen</musician>
+    <comments></comments>
+  </concert>
+  <concert>
+    <date>2004.03.26</date>
+    <location>Chapiteau, Cully, Switzerland</location>
+    <event>Cully Jazz Festival</event>
+    <musician inst="piano" leader="true">Colin Vallon</musician>
+    <musician inst="bass">Lorenz Beyeler</musician>
+    <musician inst="drums">Raphaël Pedroli</musician>
+    <comments></comments>
+  </concert>
   <concert>
     <date>2003.11.29</date>
     <location>Studio 15, Radio Suisse Romande, Lausanne, Switzerland</location>
@@ -1829,7 +1866,7 @@ http://www.montreuxsounds.com/detail2006.php?fiche=2013
     <location>Auditorium Stravinski, Montreux, Switzerland</location>
     <event>Montreux Jazz Festival</event>
     <musician inst="bass" leader="true">Marcus Miller</musician>
-    <musician inst="sax">Kenny Garrett</musician>
+    <musician inst="saxophone">Kenny Garrett</musician>
     <musician inst="trumpet">Michael "Patches" Stewart</musician>
     <musician inst="drums">Poogie Bell</musician>
     <musician inst="keyboards">Bernard Wright</musician>
