@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <books title="Olivier Bruchez's Last Books" description="The last books I read" link="http://olivier.bruchez.org/books.html" feed="http://olivier.bruchez.org/books.rss">
 	<book>
+        <date>2013.06.07</date>
+        <title>Le Vieil Homme et la Mer</title>
+        <author>Ernest Hemingway</author>
+        <publishingyear>1952</publishingyear>
+        <rating>5.0</rating>
+        <url>https://fr.wikipedia.org/wiki/Le_Vieil_Homme_et_la_Mer</url>
+        <comments>French translation of "The Old Man and the Sea" by Jean Dutourd.</comments>
+    </book>
+	<book>
         <date>2013.05.08</date>
         <title>Le Mythe de Sisyphe</title>
         <author>Albert Camus</author>
