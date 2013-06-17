@@ -1335,4 +1335,13 @@ Joël L’Hopitalier
     <rating>5.5</rating>
   </play>
   <!-- 2006.04.29 Théâtre Même les Cow-Girls ont le Blues -->
+  <play>
+    <date>1986.??.??</date>
+    <location>Fionnay, Switzerland</location>
+    <name>L'Ortie Sauvage</name>
+    <author>Simone Collet</author>
+    <director>Gérard Demière</director>
+    <rating/>
+    <comments>Possible dates: July 25-26, August 1, 2, 8, 9, or 15, 1986. Music by Anan Diepen.</comments>
+  </play>
 </plays>
