@@ -1,5 +1,112 @@
 <?xml version="1.0" encoding="utf-8"?>
 <concerts title="Concerts (Olivier Bruchez)" link="http://olivier.bruchez.org/concerts.html" feed="http://olivier.bruchez.org/concerts.rss">
+ <concert>
+    <date>2013.07.21</date>
+    <location>Auditorium Stravinski, Montreux, Switzerland</location>
+    <event>Montreux Jazz Festival</event>
+    <musician inst="bass, bass clarinet" leader="true">Marcus Miller</musician>
+    <musician inst="guitar">Adam Agati</musician>
+    <musician inst="keyboards">Brett Williams</musician>
+    <musician inst="saxophone">Alex Han</musician>
+    <musician inst="trumpet">Sean Jones</musician>
+    <musician inst="drums">Louis Cato</musician>
+    <rating>5.0</rating>
+    <comments/>
+  </concert>
+  <concert>
+    <date>2013.07.18</date>
+    <location>Montreux Jazz Club, Montreux, Switzerland</location>
+    <event>Montreux Jazz Festival</event>
+    <group>Bob James &amp; David Sanborn</group>
+    <musician inst="piano">Bob James</musician>
+    <musician inst="saxophone">David Sanborn</musician>
+    <musician inst="drums">Steve Gadd</musician>
+    <musician inst="bass">James Genus</musician>
+    <rating>4.75</rating>
+    <comments/>
+  </concert>
+  <concert>
+    <date>2013.07.16</date>
+    <location>Auditorium Stravinski, Montreux, Switzerland</location>
+    <event>Montreux Jazz Festival</event>
+    <musician inst="vocals, bass" leader="true">Sting</musician>
+    <musician inst="guitar">Dominic Miller</musician>
+    <musician inst="keyboards">David Sancious</musician>
+    <musician inst="drums">Vinnie Colaiuta</musician>
+    <musician inst="backing vocals">Jo Lawry</musician>
+    <musician inst="violin, mandolin">Peter Tickell</musician>
+    <musician inst="saxophone">William Toss</musician>
+    <rating>4.5</rating>
+    <comments/>
+  </concert>
+  <concert>
+    <date>2013.07.15</date>
+    <location>Auditorium Stravinski, Montreux, Switzerland</location>
+    <event>Montreux Jazz Festival</event>
+    <musician inst="vocals, guitar, keyboards" leader="true">Prince</musician>
+    <musician inst="drums">Hannah Ford</musician>
+    <musician inst="bass">Ida Nielsen</musician>
+    <musician inst="guitar">Donna Grantis</musician>
+    <musician inst="cowbell, electronic pad, dance">Joshua Welton</musician>
+    <musician inst="saxophone, dance">BK Jackson</musician>
+    <musician inst="saxophone, dance">Marcus Anderson</musician>
+    <musician inst="saxophone, dance">Adrian Crutchfield</musician>
+    <musician inst="trumpet, dance">Lynn Grissett</musician>
+    <musician inst="trumpet, dance">Steve Reid</musician>
+    <musician inst="trumpet, dance">Phil Lassiter</musician>
+    <musician inst="saxophone, dance">Sylvester Onyejiaka</musician>
+    <musician inst="saxophone, dance">Keith Anderson</musician>
+    <musician inst="trumpet, dance">Nick Marchione</musician>
+    <musician inst="trombone, dance">Roy Agee</musician>
+    <musician inst="trombone, dance">Joey Rayfield</musician>
+    <musician inst="bass, vocals, dance">Larry Graham</musician>
+    <musician inst="vocals, dance">Ashling "Biscuit" Cole</musician>
+    <musician inst="dance">Brian "Rio" Brazil</musician>
+    <musician inst="dance">Wilton "Fab" Rabb</musician>
+    <musician inst="dance">Jimi "Joy" McKinney</musician>
+    <musician inst="dance">Dave "City" Council</musician>
+    <musician inst="dance">Tina Graham</musician>
+    <musician inst="dance">Damaris Lewis</musician>
+    <musician inst="dance">Chelsea Rodgers</musician>
+    <musician inst="dance">Cassandra O'Neal</musician>
+    <rating>5.5</rating>
+    <comments/>
+  </concert>
+  <concert>
+    <date>2013.07.13</date>
+    <location>Auditorium Stravinski, Montreux, Switzerland</location>
+    <event>Montreux Jazz Festival</event>
+    <musician inst="vocals, cowbell, electro pad" leader="true">Prince</musician>
+    <musician inst="drums">Hannah Ford</musician>
+    <musician inst="bass">Andrew Gouché</musician>
+    <musician inst="bass">Ida Nielsen</musician>
+    <musician inst="guitar">Donna Grantis</musician>
+    <musician inst="keyboards, vox">Cassandra O'Neal</musician>
+    <musician inst="vox, tambourine, electro pad">Shelby J.</musician>
+    <musician inst="vox, tambourine">Elisa Dease</musician>
+    <musician inst="vox, tambourine, cowbell">Liv Warfield</musician>
+    <musician inst="saxophone">BK Jackson</musician>
+    <musician inst="saxophone">Marcus Anderson</musician>
+    <musician inst="saxophone">Adrian Crutchfield</musician>
+    <musician inst="trumpet">Lynn Grissett</musician>
+    <musician inst="trumpet">Steve Reid</musician>
+    <musician inst="trumpet">Phil Lassiter</musician>
+    <musician inst="saxophone">Sylvester Onyejiaka</musician>
+    <musician inst="saxophone">Keith Anderson</musician>
+    <musician inst="trumpet">Nick Marchione</musician>
+    <musician inst="trombone">Roy Agee</musician>
+    <musician inst="trombone">Joey Rayfield</musician>
+    <musician inst="dance">Damaris Lewis</musician>
+    <musician inst="dance">Larry Graham</musician>
+    <musician inst="dance">Ashling "Biscuit" Cole</musician>
+    <musician inst="dance">Brian "Rio" Brazil</musician>
+    <musician inst="dance">Wilton "Fab" Rabb</musician>
+    <musician inst="dance">Jimi "Joy" McKinney</musician>
+    <musician inst="dance">Dave "City" Council</musician>
+    <musician inst="dance">Tina Graham</musician>
+    <rating>5.0</rating>
+    <comments/>
+  </concert>
   <concert>
     <date>2013.03.15</date>
     <location>Konzertfabrik Z7, Pratteln, Switzerland</location>
@@ -89,9 +196,9 @@
     <musician inst="bass, bass clarinet" leader="true">Marcus Miller</musician>
     <musician inst="guitar">Adam Agati</musician>
     <musician inst="keyboards">Kris Bowers</musician>
+    <musician inst="saxophone">Alex Han</musician>
     <musician inst="trumpet">Lee Hogans</musician>
     <musician inst="drums">Louis Cato</musician>
-    <musician inst="saxophone">Alex Han</musician>
     <rating>5.25</rating>
     <comments/>
   </concert>
