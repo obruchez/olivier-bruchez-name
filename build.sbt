@@ -4,7 +4,7 @@ name := "olivier"
 
 version := "0.1"
 
-scalaVersion := "2.10.1"
+scalaVersion := "2.10.2"
 
 seq(webSettings :_*)
 
@@ -25,15 +25,15 @@ resolvers ++= Seq(
 )
 
 libraryDependencies ++= {
-  val liftVersion = "2.5-RC6"
+  val liftVersion = "2.5.1"
   Seq(
     "net.liftweb" % "lift-webkit_2.10" % liftVersion % "compile->default" withSources(),
     "net.liftweb" % "lift-mapper_2.10" % liftVersion % "compile->default",
     "net.liftweb" % "lift-squeryl-record_2.10" % liftVersion % "compile->default",
     "net.liftweb" % "lift-testkit_2.10" % liftVersion % "compile->default",
     "net.liftweb" % "lift-wizard_2.10" % liftVersion % "compile->default",
-    "net.liftmodules" % "lift-jquery-module_2.10" % "2.5-M4-2.1" % "compile->default",
-    "net.liftmodules" % "openid_2.10" % "2.5-M4-1.1" % "compile->default"
+    "net.liftmodules" % "lift-jquery-module_2.10" % "2.5-RC4-2.3" % "compile->default",
+    "net.liftmodules" % "openid_2.10" % "2.5-RC4-1.2" % "compile->default"
   )
 }
 
