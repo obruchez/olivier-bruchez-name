@@ -1327,10 +1327,6 @@ http://www.montreuxsounds.com/detail2006.php?fiche=2013
 - 1 juillet : Keith Jarrett, Montréal
 - 7 novembre : Keith Jarett, Rome
 
-2003
-- 15 juillet : Marcus Miller soundcheck + Joshua Redman + Marcus Miller, Juan-les-Pins
-- 16 juillet : Cécile Verny + Herbie Hancock, Juan-les-Pins
-
 2002
 - 2002/02/11 : Brad Mehldau + Thierry Lang, Lausanne (? -> bad date)
   -->
@@ -1447,6 +1443,61 @@ http://www.montreuxsounds.com/detail2006.php?fiche=2013
     <musician inst="piano" leader="true">Keith Jarrett</musician>
     <musician inst="bass">Gary Peacock</musician>
     <musician inst="drums">Jack DeJohnette</musician>
+    <comments>Soundcheck</comments>
+  </concert>
+  <concert>
+    <date>2003.07.16</date>
+    <location>Pinède Gould, Antibes Juan-les-Pins, France</location>
+    <event>Jazz à Juan</event>
+    <musician inst="piano, keyboards (?)" leader="true">Herbie Hancock</musician>
+    <musician inst="vibraphone">Bobby Hutcherson</musician>
+    <musician inst="acoustic double bass">Scott Colley</musician>
+    <musician inst="drums">Terri Lyne Carrington</musician>
+    <comments></comments>
+  </concert>
+  <concert>
+    <date>2003.07.16</date>
+    <location>Pinède Gould, Antibes Juan-les-Pins, France</location>
+    <event>Jazz à Juan</event>
+    <musician inst="vocals" leader="true">Cécile Verny</musician>
+    <musician inst="piano">Andreas Erchinger</musician>
+    <musician inst="acoustic double bass (?)">Bernd Heitzler</musician>
+    <musician inst="drums">Torsten Krill</musician>
+    <comments></comments>
+  </concert>
+  <concert>
+    <date>2003.07.15</date>
+    <location>Pinède Gould, Antibes Juan-les-Pins, France</location>
+    <event>Jazz à Juan</event>
+    <musician inst="bass guitar, bass clarinet, soprano sax" leader="true">Marcus Miller</musician>
+    <musician inst="guitar">Dean Brown</musician>
+    <musician inst="drums">Poogie Bell</musician>
+    <musician inst="keyboards">Bruce Flowers</musician>
+    <musician inst="tenor saxophone">Roger Byam</musician>
+    <musician inst="trumpet">Michael "Patches" Stewart</musician>
+    <comments></comments>
+  </concert>
+  <concert>
+    <date>2003.07.15</date>
+    <location>Pinède Gould, Antibes Juan-les-Pins, France</location>
+    <event>Jazz à Juan</event>
+    <group>Joshua Redman Elastic Band</group>
+    <musician inst="tenor sax, keyboards" leader="true">Joshua Redman</musician>
+    <musician inst="organ">Sam Yahel</musician>
+    <musician inst="drums">Jefferson Ballard</musician>
+    <comments></comments>
+  </concert>
+  <concert>
+    <date>2003.07.15</date>
+    <location>Pinède Gould, Antibes Juan-les-Pins, France</location>
+    <event>Jazz à Juan</event>
+    <musician inst="bass guitar, bass clarinet, soprano sax" leader="true">Marcus Miller</musician>
+    <musician inst="guitar">Dean Brown</musician>
+    <musician inst="drums">Poogie Bell</musician>
+    <musician inst="keyboards">Bruce Flowers</musician>
+    <musician inst="tenor saxophone">Roger Byam</musician>
+    <musician inst="trumpet">Michael "Patches" Stewart</musician>
+    <musician inst="bass guitar">Big Doug Epting</musician>
     <comments>Soundcheck</comments>
   </concert>
   <concert>
