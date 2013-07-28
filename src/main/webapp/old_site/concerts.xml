@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <concerts title="Concerts (Olivier Bruchez)" link="http://olivier.bruchez.org/concerts.html" feed="http://olivier.bruchez.org/concerts.rss">
+
+ <concert>
+    <date>2013.07.26</date>
+    <location>Grande Scène, Nyon, Switzerland</location>
+    <event>Paléo Festival de Nyon</event>
+    <group>-M-</group>
+    <musician inst="vocals, guitar, keyboards" leader="true">Mathieu Chedid</musician>
+    <musician inst="bass, guitar, sampler">Brad Thomas Ackley</musician>
+    <musician inst="drums">Lawrence Clais</musician>
+    <rating>4.75</rating>
+    <comments/>
+  </concert>
+  <concert>
+    <date>2013.07.26</date>
+    <location>Grande Scène, Nyon, Switzerland</location>
+    <event>Paléo Festival de Nyon</event>
+    <group>Nick Cave &amp; The Bad Seeds</group>
+    <musician inst="vocals, keyboards, guitar" leader="true">Nick Cave</musician>
+    <musician inst="violin, mandolin, guitar, vocals">Warren Ellis</musician>
+    <musician inst="guitar">Ed Kuepper (?)</musician>
+    <musician inst="bass">Martyn P. Casey (?)</musician>
+    <musician inst="keyboards, vocals">Conway Savage (?)</musician>
+    <musician inst="drums, percussion, keyboards">Barry Adamson (?)</musician>
+    <musician inst="drums, percussion">Jim Sclavunos (?)</musician>
+    <rating>3.5</rating>
+    <comments/>
+  </concert>
  <concert>
     <date>2013.07.21</date>
     <location>Auditorium Stravinski, Montreux, Switzerland</location>
@@ -678,7 +705,7 @@
     <musician inst="vocals, drums" leader="true">Ariane Moffat</musician>
     <musician inst="guitar">François Lasserre</musician>
     <musician inst="bass">Frédéric Dupont</musician>
-    <rating>3.75</rating>
+    <rating>3.5</rating>
     <comments/>
   </concert>
   <concert>
@@ -1008,7 +1035,7 @@
     <musician inst="bass, vocals">Joe Sumner</musician>
     <musician inst="guitar">Seton Daunt</musician>
     <musician inst="drums">Pete Wilhoit</musician>
-    <rating>3.5</rating>
+    <rating>3.25</rating>
     <comments/>
   </concert>
   <concert>
