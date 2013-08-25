@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <books title="Olivier Bruchez's Last Books" description="The last books I read" link="http://olivier.bruchez.org/books.html" feed="http://olivier.bruchez.org/books.rss">
 	<book>
+        <date>2013.08.01</date>
+        <title>A Universe from Nothing</title>
+        <author>Lawrence M. Krauss</author>
+        <publishingyear>2012</publishingyear>
+        <rating>4.75</rating>
+        <url>https://en.wikipedia.org/wiki/A_Universe_from_Nothing</url>
+    </book>
+	<book>
         <date>2013.06.07</date>
         <title>Le Vieil Homme et la Mer</title>
         <author>Ernest Hemingway</author>

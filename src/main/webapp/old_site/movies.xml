@@ -1,6 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <movies title="Movies (Olivier Bruchez)" link="http://olivier.bruchez.org/movies.html" feed="http://olivier.bruchez.org/movies.rss">
   <movie>
+    <date>2013.08.21</date>
+    <theater>Galeries, Lausanne</theater>
+    <director>Neill Blomkamp</director>
+    <title>Elysium</title>
+    <uri>http://www.imdb.com/title/tt1535108/</uri>
+    <rating>3.25</rating>
+  </movie>
+  <movie>
+    <date>2013.08.15</date>
+    <theater>Open Air Vevey, Vevey</theater>
+    <director>Baz Luhrmann</director>
+    <title>The Great Gatsby</title>
+    <uri>http://www.imdb.com/title/tt1343092/</uri>
+    <rating>5.0</rating>
+  </movie>
+  <movie>
     <date>2013.06.20</date>
     <theater home="true"/>
     <director>François Truffaut</director>

@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <concerts title="Concerts (Olivier Bruchez)" link="http://olivier.bruchez.org/concerts.html" feed="http://olivier.bruchez.org/concerts.rss">
-
  <concert>
     <date>2013.07.26</date>
     <location>Grande Scène, Nyon, Switzerland</location>
@@ -1221,7 +1220,7 @@
     <musician inst="drums">Poogie Bell</musician>
     <musician inst="harmonica">Grégoire Maret</musician>
     <musician inst="keyboards">Bobby Sparks</musician>
-    <musician inst="trumpet">Patches Stewart</musician>
+    <musician inst="trumpet">Michael "Patches" Stewart</musician>
     <rating>5.0</rating>
     <comments/>
   </concert>
@@ -1342,22 +1341,54 @@ http://www.montreuxsounds.com/detail2006.php?fiche=2013
 
 2005
 - 7 avril : (Reto Weber’s Squeeze Band) Reto Weber, Nino G, Samuel Kuehni et Thomas Sauter / Marcus Miller, Cully
-- 4 mai : Marcus Miller, Kaufleuten
 - 4 juillet : Lee Ritenour / Mike Manieri, etc.
 - 13 juillet : Magnus Lindgren / McCoy Tyner
 - 14 juillet : Roberta Flack / Marcus Miller
 - 16 juillet : Robert Botos / Oscar Peterson
-- 19 juillet : Keith Jarrett, Lyon
+
 
 2004
-+ EST ???
-- 1 juillet : Keith Jarrett, Montréal
-- 7 novembre : Keith Jarett, Rome
-
+- EST ???
 2002
 - 2002/02/11 : Brad Mehldau + Thierry Lang, Lausanne (? -> bad date)
   -->
 
+  <concert>
+    <date>2005.07.19</date>
+    <location>Grand Théâtre de Fourvière, Lyon, France</location>
+    <event>Les Nuits de Fourvière</event>
+    <musician inst="piano" leader="true">Keith Jarrett</musician>
+    <musician inst="bass">Gary Peacock</musician>
+    <musician inst="drums">Jack DeJohnette</musician>
+    <comments></comments>
+  </concert>
+  <concert>
+    <date>2005.05.04</date>
+    <location>Kaufleuten, Zürich, Switzerland</location>
+    <musician inst="bass" leader="true">Marcus Miller</musician>
+    <musician inst="guitar">Dean Brown</musician>
+    <musician inst="sax">Roger Byam (?)</musician>
+    <musician inst="keyboards">Leroy Taylor (?)</musician>
+    <musician inst="drums">Poogie Bell</musician>
+    <musician inst="trumpet">Michael "Patches" Stewart</musician>
+    <musician inst="bass">Big Doug Epting (?)</musician>
+    <comments></comments>
+  </concert>
+  <concert>
+    <date>2004.11.07</date>
+    <location>Santa Cecilia Hall, Auditorium Parco Della Musica, Rome, Italy</location>
+    <musician inst="piano">Keith Jarrett</musician>
+    <comments></comments>
+  </concert>
+  <concert>
+    <date>2004.07.01</date>
+    <location>Salle Wilfred-Pelletier, Place Des Arts, Montréal, QC, Canada</location>
+    <event>Festival International de Jazz de Montréal</event>
+    <musician inst="piano" leader="true">Keith Jarrett</musician>
+    <musician inst="bass">Gary Peacock</musician>
+    <musician inst="drums">Jack DeJohnette</musician>
+    <comments></comments>
+  </concert>
   <concert>
     <date>2004.03.30</date>
     <location>Chapiteau, Cully, Switzerland</location>
@@ -1450,7 +1481,7 @@ http://www.montreuxsounds.com/detail2006.php?fiche=2013
     <musician inst="sax">Roger Byam</musician>
     <musician inst="keyboards">Bruce Flowers</musician>
     <musician inst="drums">Poogie Bell</musician>
-    <musician inst="trumpet">Patches Stewart</musician>
+    <musician inst="trumpet">Michael "Patches" Stewart</musician>
     <musician inst="bass">Big Doug Epting</musician>
     <comments></comments>
   </concert>

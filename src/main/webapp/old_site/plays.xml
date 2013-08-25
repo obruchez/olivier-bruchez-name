@@ -9,6 +9,34 @@
   -->
 
   <play>
+    <date>2013.08.10</date>
+    <location>Café du Mont-Fort, Sarreyer, Switzerland</location>
+    <name>Le Défi</name>
+    <author>Jean-Michel May</author>
+    <director>Jean-Michel May</director>
+    <actor>Groupe Théâtral Le Moulin</actor>
+    <actor>Marc-André May</actor>
+    <actor>Christophe Dumoulin</actor>
+    <actor>Sylvain Besse</actor>
+    <actor>Gérald Maret</actor>
+    <actor>Grégory Lugon-Moulin</actor>
+    <actor>Vincent May</actor>
+    <actor>Jean-Marc Masson</actor>
+    <actor>Jocelyne Bovey</actor>
+    <actor>Simone Tristan</actor>
+    <actor>Sophie Luisier</actor>
+    <actor>Maria May</actor>
+    <actor>Véronyque May</actor>
+    <actor>Pierrette Coquoz</actor>
+    <actor>Emilie May</actor>
+    <!--
+Pour son 75 ème anniversaire, le groupe théâtral Le Moulin a proposé cet été une comédie en plein air, au centre du village, devant le café du Mont-Fort.  
+
+Elle était intitulée Le Défi. Elle présentait l'histoire d'une troupe préparant un spectacle en plein air à la demande du Département de la Culture du canton du Valais. Afin de pouvoir réussir ce défi, les acteurs avaient engagé un comédien professionnel genevois. Ce dernier n'était pas aussi pro qu'il en a l'air. Il a dû composer avec les amateurs de la troupe pas tous très éclairés, avec les problèmes techniques de tous ordres. Que s'est-il quand la déléguée culturelle de l'Etat du Valais est revenue pour s'assurer de la qualité du spectacle? A-t-elle versé les 50'000 francs promis pour la création du spectacle? Pour le savoir, il fallait venir cet été à Sarreyer village qui a accueilli plus de 2500 spectateurs. 
+    -->
+    <rating>3.25</rating>
+  </play>
+  <play>
     <date>2013.05.19</date>
     <location>Theater des Westens, Berlin, Switzerland</location>
     <name>Tanz der Vampire</name> 
