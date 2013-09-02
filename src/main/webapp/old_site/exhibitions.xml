@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <exhibitions title="Exhibitions (Olivier Bruchez)" link="http://olivier.bruchez.org/exhibitions.html" feed="http://olivier.bruchez.org/exhibitions.rss">
 	<exhibition>
+		<date>2013.08.31</date>
+		<name>Modigliani et l’Ecole de Paris</name>
+		<museum>Fondation Pierre Gianadda, Martigny, Switzerland</museum>
+		<rating>4.5</rating>
+	</exhibition>
+	<exhibition>
 		<date>2013.05.21</date>
 		<name>In the Light of Amarna 100 Years of the Nefertiti Discovery</name>
 		<museum>Neues Museum, Berlin, Germany</museum>
