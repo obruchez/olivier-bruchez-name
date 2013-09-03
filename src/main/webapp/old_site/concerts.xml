@@ -1277,6 +1277,24 @@
     <comments/>
   </concert>
   <concert>
+    <date>2006.04.19</date>
+    <location>Le Bout du Monde, Vevey, Switzerland</location>
+    <group></group>
+    <musician inst="saxophone">Samuel Huguenin</musician>
+    <musician inst="piano">Gabriel Zufferey</musician>
+    <musician inst="bass">Julien Neuman</musician>
+    <musician inst="drums">Gilles Dupuis</musician>
+    <comments>Followed by a jam with two pianists, one drummer/percussionist, and Gabriel Zufferey playing the flugelhorn (?).</comments>
+  </concert> 
+  <concert>
+    <date>2006.04.12</date>
+    <location>Le Bout du Monde, Vevey, Switzerland</location>
+    <group></group>
+    <musician inst="piano, vocals">Julien Galant</musician>
+    <musician inst="bass">Julien Neumann</musician>
+    <comments>Followed by a jam with two saxophonists, one guitarist, and one singer.</comments>
+  </concert> 
+  <concert>
     <date>2006.04.08</date>
     <location>Salle Charles Apothéloz, Théâtre Vidy-Lausanne, Lausanne, Switzerland</location>
     <musician inst="piano" leader="true">Sylvie Courvoisier</musician>
@@ -1287,7 +1305,33 @@
     <rating>4.75</rating>
     <comments/>
   </concert>
-  
+  <concert>
+    <date>2006.03.22</date>
+    <location>Le Bout du Monde, Vevey, Switzerland</location>
+    <musician inst="piano">Malcom Braff</musician>
+    <musician inst="bass">Patrice Moret</musician>
+    <musician inst="drums">Marcel Papaux</musician>
+    <comments>Followed by a jam with two drummers and one bassist.</comments>
+  </concert> 
+  <concert>
+    <date>2006.03.15</date>
+    <location>Le Bout du Monde, Vevey, Switzerland</location>
+    <musician inst="saxophone">Cyril Bugnon</musician>
+    <musician inst="bass">Patrice Moret</musician>
+    <musician inst="drums">Dominic Egli</musician>
+    <comments>Followed by a jam with one pianist and one bassist.</comments>
+  </concert> 
+  <concert>
+    <date>2006.03.03</date>
+    <location>Le Bout du Monde, Vevey, Switzerland</location>
+    <group></group>
+    <musician inst="saxophone">Cyril Bugnon</musician>
+    <musician inst="piano">Collin Valon</musician>
+    <musician inst="bass">Patrice Moret</musician>
+    <musician inst="drums">Samuel Rohrer</musician>
+    <comments>Followed by a jam with two pianists (one after the other), one electric guitarist, and one drummer.</comments>
+  </concert> 
+
   <!-- <concert>
     <date></date>
     <location></location>
@@ -1303,20 +1347,6 @@
 	Fribourg : y suis allé deux fois, une fois avec Aline (assis, dehors), une fois seul (assis sur l'herbe, crois avoir vu PMC) - vu trio de Brad Mehldau (seul) et E.S.T. ou Brad (avec Aline)
 	
 	Bout du monde :
-
-- 3 mars 2006 : Cyril Bugnon, Collin Valon, Patrice Moret et Samuel
-Rohrer / jam (rejoint groupe ?) : 2 pianistes (l'un après l'autre), 1
-guitariste électrique et 1 batteur
-- 15 mars 2006 : Cyril bugnon, Patrice Moret, Dominic Egli / jam :
-contrebassiste, pianiste
-- 22 mars 2006 : Malcom Braff, Patrice Moret et Marcel Papaux / jam :
-2 batteurs et 1 contrebassiste
-http://www.leboutdumonde.ch/Pages/jw_avril.jpg
-- 12 avril 2006 : Julien Galant (p et voix)  et Julien Neumann (contr)
-/ jam : 2 sax, 1 guitar et 1 chanteuse
-- 19 avril 2006 : Samuel Huguenin (sax), Gabriel Zufferey (p), Julien
-Neuman (contr) et Gilles Dupuis (batterie) / jam : 2 pianistes, 1
-batteur / perc et pianiste original au bugle (?)
 - 26 avril 2006 : Samuel huguenin, Julien Neuman et ? Frey (batterie)
 / seconde partie ; Julien Galant en plus au piano (pas de jam)
 http://www.leboutdumonde.ch/Pages/jw_mai_RVB.jpg
