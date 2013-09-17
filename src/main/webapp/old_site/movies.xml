@@ -1,12 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <movies title="Movies (Olivier Bruchez)" link="http://olivier.bruchez.org/movies.html" feed="http://olivier.bruchez.org/movies.rss">
   <movie>
+    <date>2013.09.16</date>
+    <theater>Pathé Flon, Lausanne</theater>
+    <director>Rawson Marshall Thurber</director>
+    <title>We're the Millers</title>
+    <uri>http://www.imdb.com/title/tt1723121/</uri>
+    <rating>3.5</rating>
+  </movie> 
+  <movie>
     <date>2013.09.04</date>
     <theater home="true"/>
     <director>Louis Leterrier</director>
     <title>Now You See Me</title>
     <uri>http://www.imdb.com/title/tt1670345/</uri>
-    <rating>3.75</rating>
+    <rating>3.5</rating>
   </movie>
   <movie>
     <date>2013.08.27</date>
