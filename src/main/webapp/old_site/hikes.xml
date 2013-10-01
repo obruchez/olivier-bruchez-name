@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <hikes title="Hikes (Olivier Bruchez)" link="http://olivier.bruchez.org/hikes.html" feed="http://olivier.bruchez.org/hikes.rss">
   <hike>
+    <date>2013.09.22</date>
+    <place>Sovereu / Col du Sarshlau / Ecuries du Crêt, Switzerland</place>
+    <!-- <pictures url=""/> -->
+  </hike>
+  <hike>
     <date>2013.08.31</date>
     <place>Louvie / Col du Bec d'Aigle / Sovereu, Switzerland</place>
     <!-- <pictures url=""/> -->
