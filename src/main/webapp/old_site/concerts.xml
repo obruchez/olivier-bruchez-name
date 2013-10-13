@@ -1371,15 +1371,8 @@ http://www.montreuxsounds.com/detail2006.php?fiche=2013
 
 2005
 - 7 avril : (Reto Weber’s Squeeze Band) Reto Weber, Nino G, Samuel Kuehni et Thomas Sauter / Marcus Miller, Cully
-- 4 juillet : Lee Ritenour / Mike Manieri, etc.
-- 13 juillet : Magnus Lindgren / McCoy Tyner
-- 14 juillet : Roberta Flack / Marcus Miller
-- 16 juillet : Robert Botos / Oscar Peterson
 
-
-2004
-- EST ???
-2002
+- 2004/xx/xx EST ???
 - 2002/02/11 : Brad Mehldau + Thierry Lang, Lausanne (? -> bad date)
   -->
 
@@ -1390,6 +1383,94 @@ http://www.montreuxsounds.com/detail2006.php?fiche=2013
     <musician inst="piano" leader="true">Keith Jarrett</musician>
     <musician inst="bass">Gary Peacock</musician>
     <musician inst="drums">Jack DeJohnette</musician>
+    <comments></comments>
+  </concert>
+  <concert>
+    <date>2005.07.16</date>
+    <location>Auditorium Stravinski, Montreux, Switzerland</location>
+    <event>Montreux Jazz Festival</event>
+    <musician inst="piano" leader="true">Oscar Peterson</musician>
+    <musician inst="guitar">Ulf Wakenius</musician>
+    <musician inst="bass">David Young</musician>
+    <musician inst="drums">Alvin Queen</musician>
+    <comments></comments>
+  </concert>
+  <concert>
+    <date>2005.07.16</date>
+    <location>Auditorium Stravinski, Montreux, Switzerland</location>
+    <event>Montreux Jazz Festival</event>
+    <musician inst="piano" leader="true">Robert Botos</musician>
+    <comments></comments>
+  </concert>
+  <concert>
+    <date>2005.07.14</date>
+    <location>Auditorium Stravinski, Montreux, Switzerland</location>
+    <event>Montreux Jazz Festival</event>
+    <musician inst="bass, bass clarinet, soprano saxophone, turntables" leader="true">Marcus Miller</musician>
+    <musician inst="keyboards">Bobby Sparks II</musician>
+    <musician inst="saxophone">Keith Anderson</musician>
+    <musician inst="trumpet">Michael "Patches" Stewart</musician>
+    <musician inst="guitar">Dean Brown</musician>
+    <musician inst="drums">Poogie Bell</musician>
+    <musician inst="bass">Doug Epting</musician>
+    <musician inst="harmonica">Grégoire Maret</musician>
+    <comments></comments>
+  </concert>
+  <concert>
+    <date>2005.07.14</date>
+    <location>Auditorium Stravinski, Montreux, Switzerland</location>
+    <event>Montreux Jazz Festival</event>
+    <musician inst="piano, vocals" leader="true">Roberta Flack</musician>
+    <musician inst="bass">Jerry Barnes</musician>
+    <musician inst="guitar">Sherrod Barnes</musician>
+    <musician inst="keyboards, musical director">Shelton Becton</musician>
+    <musician inst="drums">Ricardo Jordan</musician>
+    <musician inst="saxophone, flute">Arturo Tappin</musician>
+    <musician inst="vocals">Tony Terry</musician>
+    <comments></comments>
+  </concert>
+  <concert>
+    <date>2005.07.13</date>
+    <location>Casino Barrière, Montreux, Switzerland</location>
+    <event>Montreux Jazz Festival</event>
+    <musician inst="saxophone, flute, clarinet" leader="true">Magnus Lindgren</musician>
+    <musician inst="piano">Mathias Algotsson</musician>
+    <musician inst="bass">Fredrik Jonsson</musician>
+    <musician inst="drums">Jonas Holgersson</musician>
+    <comments></comments>
+  </concert>
+  <concert>
+    <date>2005.07.13</date>
+    <location>Casino Barrière, Montreux, Switzerland</location>
+    <event>Montreux Jazz Festival</event>
+    <musician inst="piano" leader="true">McCoy Tyner</musician>
+    <musician inst="saxophone">Gary Bartz</musician>
+    <musician inst="saxophone">Ravi Coltrane</musician>
+    <musician inst="bass">Charnett Moffett</musician>
+    <musician inst="drums">Eric Kamau Grávátt</musician>
+    <comments></comments>
+  </concert>
+  <concert>
+    <date>2005.07.04</date>
+    <location>Casino Barrière, Montreux, Switzerland</location>
+    <event>Montreux Jazz Festival</event>
+    <musician inst="guitar" leader="true">Lee Ritenour</musician>
+    <musician inst="saxophone">Ernest Watts</musician>
+    <musician inst="piano, keyboards">Patrice Rushen</musician>
+    <musician inst="bass">Brian Bromberg</musician>
+    <musician inst="drums">Alejandro Neciosup-Acuna</musician>
+    <comments></comments>
+  </concert>
+  <concert>
+    <date>2005.07.04</date>
+    <location>Casino Barrière, Montreux, Switzerland</location>
+    <event>Montreux Jazz Festival</event>
+    <group>Steps Ahead</group>
+    <musician inst="vibraphone">Mike Manieri</musician>
+    <musician inst="guitar">Mike Stern</musician>
+    <musician inst="saxophone">Bill Evans</musician>
+    <musician inst="drums">Steve Smith</musician>
+    <musician inst="bass">Richard Bona</musician>
     <comments></comments>
   </concert>
   <concert>
