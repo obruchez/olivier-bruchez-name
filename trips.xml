@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<trips title="Trips (Olivier Bruchez)" link="http://github.com/obruchez/public/blob/master/Trips.md" feed="http://raw.github.com/obruchez/blog/master/rss/trips.rss">
+<trips title="Trips (Olivier Bruchez)" link="http://github.com/obruchez/public/blob/master/Lists/Trips.md" feed="http://raw.github.com/obruchez/blog/master/rss/trips.rss">
   <trip>
     <from>2014.10.23</from>
     <to>2014.10.26</to>
