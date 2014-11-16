@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hikes title="Hikes (Olivier Bruchez)" link="http://github.com/obruchez/public/blob/master/Hikes.md" feed="http://raw.github.com/obruchez/blog/master/rss/hikes.rss">
+  <hike>
+    <date>2014.10.18</date>
+    <place>Golis de Servay, du Rogneux et des Otanes, Switzerland</place>
+    <!-- <pictures url=""/> -->
+  </hike>
+  <hike>
+    <date>2014.10.04</date>
+    <place>Le Crêt / Vasevay, Switzerland</place>
+    <!-- <pictures url=""/> -->
+  </hike>
+  <hike>
+    <date>2014.09.13</date>
+    <place>Cabane Brunet / Cabane FXB Panossière, Switzerland</place>
+    <!-- <pictures url=""/> -->
+  </hike>
+  <hike>
+    <date>2014.08.17</date>
+    <place>Le Catogne, Switzerland</place>
+    <pictures url="https://secure.flickr.com/photos/bruchez/sets/72157646191712249/"/>
+  </hike>
+  <hike>
+    <date>2013.10.26</date>
+    <place>Col des Avouillons, Switzerland</place>
+    <pictures url="https://secure.flickr.com/photos/bruchez/sets/72157637028732275/"/>
+  </hike>
+  <hike>
+    <date>2013.09.22</date>
+    <place>Sovereu / Col du Sarshlau / Ecuries du Crêt, Switzerland</place>
+    <pictures url="https://secure.flickr.com/photos/bruchez/sets/72157636242618063"/>
+  </hike>
+  <hike>
+    <date>2013.08.31</date>
+    <place>Louvie / Col du Bec d'Aigle / Sovereu, Switzerland</place>
+    <pictures url="https://secure.flickr.com/photos/bruchez/sets/72157636240711996/"/>
+  </hike>
+  <hike>
+    <date>2013.08.10</date>
+    <place>Cabane FXB Panossière, Switzerland</place>
+    <pictures url="https://secure.flickr.com/photos/bruchez/sets/72157636194244833/"/>
+  </hike>
+  <hike>
+    <date>2012.10.13</date>
+    <place>Grand-Tsai / Col de Mille, Switzerland</place>
+    <pictures url="https://secure.flickr.com/photos/bruchez/sets/72157631877647311/"/>
+  </hike>
+</hikes>
