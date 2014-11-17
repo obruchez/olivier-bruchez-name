@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <movies title="Movies (Olivier Bruchez)" link="http://github.com/obruchez/public/blob/master/Lists/Movies.md" feed="http://raw.github.com/obruchez/blog/master/rss/movies.rss">
+   <movie>
+    <date>2014.11.16</date>
+    <theater>Cinétoile Malley Lumières, Lausanne-Prilly</theater>
+    <director>Christopher Nolan</director>
+    <title>Interstellar</title>
+    <url>http://www.imdb.com/title/tt0816692/</url>
+    <rating>5.0</rating>
+  </movie>
   <movie>
     <date>2014.11.09</date>
     <theater>Cinétoile Malley Lumières, Lausanne-Prilly</theater>
