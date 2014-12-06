@@ -9,6 +9,25 @@
   -->
 
   <play>
+    <date>2014.12.05</date>
+    <location>Pulloff Théâtres, Lausanne, Switzerland</location>
+    <name>Macbeth</name>
+    <author>William Shakespeare</author>
+    <director>Geoffrey Dyson</director>
+    <translation>Antoinette Monod &amp; Geoffrey Dyson</translation>
+    <actor>René-Claude Emery</actor>
+    <actor>Darius Kehtari</actor>
+    <actor>Thierry Jorand</actor>
+    <actor>Virginie Meisterhans</actor>
+    <actor>Frank Michaud</actor>
+    <actor>Fanny Pelichet</actor>
+    <actor>David Pion</actor>
+    <actor>Pierric Tenthorey</actor>
+    <actor>Raoul Teuscher</actor>
+    <rating>5.0</rating>
+  </play>
+
+  <play>
     <date>2014.06.20</date>
     <location>Pulloff Théâtres, Lausanne, Switzerland</location>
     <name>Ring</name>
