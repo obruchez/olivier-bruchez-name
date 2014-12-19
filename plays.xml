@@ -9,6 +9,32 @@
   -->
 
   <play>
+    <date>2014.12.16</date>
+    <location>Salle Charles Apothéloz, Théâtre de Vidy, Lausanne, Switzerland</location>
+    <name>Das Weisse vom Ei (Une île flottante)</name>    
+    <author>Eugène Labiche</author>
+    <director>Christoph Marthaler</director>
+    <actor>Marc Bodnar</actor>
+    <actor>Carina Braunschmidt</actor>
+    <actor>Charlotte Clamens</actor>
+    <actor>Raphael Clamer</actor>
+    <actor>Catriona Guggenbühl</actor>
+    <actor>Ueli Jäggi</actor>
+    <actor>Graham F. Valentine</actor>
+    <actor>Nikola Weisse</actor>
+    <!--
+Scénographie et costumes:
+Anna Viebrock
+
+Dramaturgie:
+Malte Ubenauf
+
+Collaboration à la mise en scène :
+Gerhard Alt
+    -->
+    <rating>4.5</rating>
+  </play> 
+  <play>
     <date>2014.12.05</date>
     <location>Pulloff Théâtres, Lausanne, Switzerland</location>
     <name>Macbeth</name>
@@ -26,7 +52,6 @@
     <actor>Raoul Teuscher</actor>
     <rating>5.0</rating>
   </play>
-
   <play>
     <date>2014.06.20</date>
     <location>Pulloff Théâtres, Lausanne, Switzerland</location>
@@ -38,7 +63,6 @@
     <actor>Alyssa Hochstaetter</actor>
     <rating>5.0</rating>
   </play>
-
    <play>
     <date>2014.05.09</date>
     <location>Salle René Gonzalez, Théâtre de Vidy, Lausanne, Switzerland</location>
