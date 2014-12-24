@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <books title="Books (Olivier Bruchez)" description="The last books I read" link="http://github.com/obruchez/public/blob/master/Lists/Books.md" feed="http://raw.github.com/obruchez/blog/master/rss/books.rss">
     <book>
+        <date>2014.12.23</date>
+        <title>The Fear of Insignificance</title>
+        <subtitle>Searching for Meaning in the Twenty-First Century</subtitle>
+        <author>Carlo Strenger</author>
+        <publishingyear>2011</publishingyear>
+        <rating>5.0</rating>
+        <url>http://books.google.ch/books/about/The_Fear_of_Insignificance.html?id=kYkqAQAAMAAJ</url>
+    </book>
+    <book>
         <date>2014.10.31</date>
         <title>Cosmos</title>
         <author>Carl Sagan</author>
