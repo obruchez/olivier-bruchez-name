@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <movies title="Movies (Olivier Bruchez)" link="http://github.com/obruchez/public/blob/master/Lists/Movies.md" feed="http://raw.github.com/obruchez/blog/master/rss/movies.rss">
   <movie>
+    <date>2014.12.25</date>
+    <theater home="true"/>
+    <director>Chris Buck &amp; Jennifer Lee</director>
+    <title>Frozen</title>
+    <url>http://www.imdb.com/title/tt2294629/</url>
+    <rating>4.25</rating>
+  </movie>
+  <movie>
     <date>2014.12.13</date>
     <theater>Corso, Martigny</theater>
     <director>Francis Lawrence</director>
