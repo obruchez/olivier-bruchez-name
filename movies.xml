@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <movies title="Movies (Olivier Bruchez)" link="http://github.com/obruchez/public/blob/master/Lists/Movies.md" feed="http://raw.github.com/obruchez/blog/master/rss/movies.rss">
   <movie>
+    <date>2014.12.28</date>
+    <theater home="true"/>
+    <director>Robert Zemeckis</director>
+    <title>Back to the Future Part III</title>
+    <url>http://www.imdb.com/title/tt0099088/</url>
+    <rating>4.5</rating>
+  </movie>
+  <movie>
     <date>2014.12.27</date>
     <theater home="true"/>
     <director>Robert Zemeckis</director>
@@ -14,7 +22,7 @@
     <director>Robert Zemeckis</director>
     <title>Back to the Future</title>
     <url>http://www.imdb.com/title/tt0088763/</url>
-    <rating>4.5</rating>
+    <rating>4.75</rating>
   </movie>
   <movie>
     <date>2014.12.25</date>
