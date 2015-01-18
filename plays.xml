@@ -9,6 +9,35 @@
   -->
 
   <play>
+    <date>2015.01.16</date>
+    <location>Pulloff Théâtres, Lausanne, Switzerland</location>
+    <name>Huit Femmes</name>
+    <author>Robert Thomas</author>
+    <director>Jean-Gabriel Chobaz</director>
+    <actor>Caroline Althaus</actor>
+    <actor>Isabelle Bosson</actor>
+    <actor>Josette Chanel</actor>
+    <actor>Véronique Doleyres</actor>
+    <actor>Michèle Grand</actor>
+    <actor>Paola Landolt</actor>
+    <actor>Maria Métral</actor>
+    <actor>Caroline Roëlands</actor>
+    <!--
+Collaborateur artistique :
+Stéphane Rentznik
+assistant : Frédéric Joye 
+chorégraphies : Tania de Paola
+adaptation des musiques et coach vocal : Timothée Haller
+création lumière : Gazus Gagnebin
+costumes : Corinne Baeriswyl
+maquillages : Nathalie Mouchnino
+sonorisation : Joël Christen
+construction décor : Patrick Staub
+    -->
+    <rating>4.75</rating>
+  </play>
+
+  <play>
     <date>2014.12.16</date>
     <location>Salle Charles Apothéloz, Théâtre de Vidy, Lausanne, Switzerland</location>
     <name>Das Weisse vom Ei (Une île flottante)</name>    
@@ -32,7 +61,7 @@ Malte Ubenauf
 Collaboration à la mise en scène :
 Gerhard Alt
     -->
-    <rating>4.5</rating>
+    <rating>4.75</rating>
   </play> 
   <play>
     <date>2014.12.05</date>
