@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <movies title="Movies (Olivier Bruchez)" link="http://github.com/obruchez/public/blob/master/Lists/Movies.md" feed="http://raw.github.com/obruchez/blog/master/rss/movies.rss">
   <movie>
+    <date>2015.01.24</date>
+    <theater>Galeries, Lausanne</theater>
+    <director>James Marsh</director>
+    <title>The Theory of Everything</title>
+    <url>http://www.imdb.com/title/tt2980516/</url>
+    <rating>4.75</rating>
+  </movie>
+  <movie>
     <date>2015.01.17</date>
     <theater>Casino, Martigny</theater>
     <director>Damien Chazelle</director>
