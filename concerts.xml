@@ -9,6 +9,17 @@
   - 1998/07/08 THE KENNY WAYNE SHEPHERD BAND (http://www.montreuxsounds.com/detail2006.php?fiche=2013) (vu ou pas ?)
   -->
   <concert>
+    <date>2015.01.28</date>
+    <location>Cave du Bleu Lézard, Lausanne, Switzerland</location>
+    <group>Mary's Private Eyes</group>
+    <musician inst="bass">Adrian Held</musician>
+    <musician inst="guitar">Patrick Macheret</musician>
+    <musician inst="drums">Nathalie Winiger</musician>
+    <musician inst="vocals">Sarah Artacho</musician>
+    <rating>3.5</rating>
+    <comments/>
+  </concert>
+  <concert>
     <date>2014.11.01</date>
     <location>Auditorium Stravinski, Montreux, Switzerland</location>
     <musician inst="orchestra" leader="true">21st Century Symphony Orchestra</musician>
