@@ -9,6 +9,31 @@
   -->
 
   <play>
+    <date>2015.02.20</date>
+    <location>Pulloff Théâtres, Lausanne, Switzerland</location>
+    <name>2h14</name>
+    <author>David Paquet</author>
+    <director>François Marin</director>
+    <actor>Barbara Tobola</actor>
+    <actor>Christine Vouilloz</actor>
+    <actor>Mali van Valenberg</actor>
+    <actor>Cédric Dorier</actor>
+    <actor>Marc Mayoraz</actor>
+    <actor>Julien George</actor>
+    <!--
+Scénographie : Elissa Bier
+Lumières : William Lambert
+Costumes : Scilla Illardo
+Création sonore : Thomas Sillard
+Régie générale : Nicola Frediani
+Régie tournée : Estelle Becker
+Administration : Claire Félix
+Photographies : Mercedes Riedy et Erika Irmler
+Graphisme : Erika Irmler
+    -->
+    <rating>5.0</rating>
+  </play>
+  <play>
     <date>2015.01.16</date>
     <location>Pulloff Théâtres, Lausanne, Switzerland</location>
     <name>Huit Femmes</name>
@@ -36,7 +61,6 @@ construction décor : Patrick Staub
     -->
     <rating>4.75</rating>
   </play>
-
   <play>
     <date>2014.12.16</date>
     <location>Salle Charles Apothéloz, Théâtre de Vidy, Lausanne, Switzerland</location>
