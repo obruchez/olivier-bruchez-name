@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <movies title="Movies (Olivier Bruchez)" link="http://github.com/obruchez/public/blob/master/Lists/Movies.md" feed="http://raw.github.com/obruchez/blog/master/rss/movies.rss">
   <movie>
+    <date>2015.03.01</date>
+    <theater>Galeries, Lausanne</theater>
+    <director>Alejandro González Iñárritu</director>
+    <title>Birdman: Or (The Unexpected Virtue of Ignorance)</title>
+    <url>http://www.imdb.com/title/tt2562232/</url>
+    <rating>5.25</rating>
+  </movie>
+  <movie>
     <date>2015.02.28</date>
     <theater home="true"/>
     <director>Guillermo del Toro</director>
