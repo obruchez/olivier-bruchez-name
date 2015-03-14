@@ -9,6 +9,39 @@
   -->
 
   <play>
+    <date>2015.03.13</date>
+    <location>Pulloff Théâtres, Lausanne, Switzerland</location>
+    <name>Constellation Cendrillon</name>
+    <author>Laurent Gachoud</author>
+    <director>Laurent Gachoud</director>
+    <actor>Laurent Gachoud</actor>
+    <actor>Stéphanie Schneider</actor>
+    <actor>Alain Bertschy</actor>
+    <actor>Bérengère Steiblin</actor>
+    <actor>Sandro Pires</actor>
+    <actor>Séverine Zuffrey</actor>
+    <actor>Didier Coenegracht</actor>
+    <!--
+Conception et mise en scène : Laurent Gachoud
+Dramaturgie : Roberto Fratini Serafide
+Scénographie : David Deppierraz
+Lumière : Pascal Montjovent
+Création vidéo : Giuseppe Greco, 
+avec le soutien de Brian Tornay
+Régies : Matthieu Dromelet et Alain Vitaloni
+Musique : Sandro Pires
+Son : François Planson
+Costumes : Celia Franceschi
+Administration : Sandra Borgeaud
+Visuel : Mix&Remix
+Experte en constellations : Catherine Hudovernik
+Accompagnement : Massimo Furlan & 
+Claire de Ribaupierre.
+    -->
+    <rating>4.25</rating>
+    <comments>Other possible actors: Ana Tordera, Marie Gili-Pierre, Charlotte Deschamps, Anne-Christine Nicole della Valle, Marian Crole-Rees, Sandra Wicky, Céline Frochaux, Anaïs Moors.</comments>
+  </play>
+  <play>
     <date>2015.02.20</date>
     <location>Pulloff Théâtres, Lausanne, Switzerland</location>
     <name>2h14</name>
