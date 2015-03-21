@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <books title="Books (Olivier Bruchez)" description="The last books I read" link="http://github.com/obruchez/public/blob/master/Lists/Books.md" feed="http://raw.github.com/obruchez/blog/master/rss/books.rss">
     <book>
+        <date>2015.03.21</date>
+        <title>Gargantua</title>
+        <author>François Rabelais</author>
+        <publishingyear>1534</publishingyear>
+        <rating>5.0</rating>
+        <url>https://fr.wikipedia.org/wiki/Gargantua</url>
+        <comments>See comments for "Pantagruel".</comments>
+    </book>
+    <book>
         <date>2014.12.30</date>
         <title>L'Alchimiste</title>
         <author>Paulo Coelho</author>
