@@ -1,3 +1,0 @@
-redirect 301 /olivier/index.htm http://bruchez.blogspot.com/
-redirect 301 /olivier//index.html http://bruchez.blogspot.com/
-AddType 'text/html; charset=UTF-8' html
