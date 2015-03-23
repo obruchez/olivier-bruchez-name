@@ -42,18 +42,15 @@
 <body>
 
 <div class="wrapper">
-    @header()
+    @header(title)
 
     @breadcrumbs(title)
 
-    <!--=== Content ===-->
     <div class="container content height-500">
-        <!-- Write Your HTML Codes Here -->
         @content
     </div>
-    <!--=== End Content ===-->
 
-    @footer()
+    @footer(title)
 </div>
 
 <!-- JS Global Compulsory -->
