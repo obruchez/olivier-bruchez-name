@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <books title="Books (Olivier Bruchez)" description="The last books I read" link="http://github.com/obruchez/public/blob/master/Lists/Books.md" feed="http://raw.github.com/obruchez/blog/master/rss/books.rss">
     <book>
+        <date>2015.03.24</date>
+        <title>Stupeur et Tremblements</title>
+        <author>Amélie Nothomb</author>
+        <publishingyear>1999</publishingyear>
+        <rating>4.75</rating>
+        <url>https://fr.wikipedia.org/wiki/Stupeur_et_Tremblements</url>
+    </book>
+    <book>
         <date>2015.03.21</date>
         <title>Gargantua</title>
         <author>François Rabelais</author>
