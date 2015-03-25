@@ -1,12 +1,10 @@
 package controllers
 
-import controllers.Application._
-import play.api._
 import play.api.mvc._
 
-object Lists {
+object Lists extends Controller {
   def index = Action {
-    Ok(views.html.lists())
+    Ok(views.html.menu("Lists"))
   }
 
   def books = Action {

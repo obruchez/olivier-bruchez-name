@@ -3,9 +3,7 @@
 # ~~~~
 
 # Home page
-GET        /                         controllers.Application.index
-
-GET        /cv                       controllers.Application.index
+GET        /                         controllers.Home.index
 
 GET        /lists                    controllers.Lists.index
 GET        /lists/books              controllers.Lists.books
