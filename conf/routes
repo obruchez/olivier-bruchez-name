@@ -5,6 +5,8 @@
 # Home page
 GET        /                         controllers.Home.index
 
+GET        /about                    controllers.About.index
+
 GET        /lists                    controllers.Lists.index
 GET        /lists/books              controllers.Lists.books
 GET        /lists/concerts           controllers.Lists.concerts

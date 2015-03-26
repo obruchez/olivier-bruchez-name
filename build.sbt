@@ -12,3 +12,5 @@ libraryDependencies ++= Seq(
   cache,
   ws
 )
+
+libraryDependencies ++= Seq("com.github.rjeschke" % "txtmark" % "0.13")
