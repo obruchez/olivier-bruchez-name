@@ -7,6 +7,7 @@ object Profile extends Controller {
   val PageTitle = "About / profile"
 
   def index = Action {
+    // @todo put URL in configuration
     models.Profile(new java.net.URL("https://raw.githubusercontent.com/obruchez/public-src/master/about.xml")) match {
       case Success(profile) =>
         Ok(views.html.profile(profile))

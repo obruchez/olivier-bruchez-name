@@ -1,13 +1,31 @@
 @(profile: models.Profile)
 
-@main(title = controllers.Profile.PageTitle) {
-  @profile.profileLists.map { profileList =>
-    <h1>@profileList.title</h1>
+@column(columnNumber: Int, columnCount: Int) = {
+  @profile.partOfProfileLists(partNumber = columnNumber, partCount = columnCount  ).map { profileList =>
+    <div class="headline"><h2>@profileList.title</h2></div>
 
     <ul>
     @profileList.profileItems.map { profileItem =>
-      <li><a href="@profileItem.url">@profileItem.description</a></li>
+      <li>
+        @profileItem.profileSubItems.zipWithIndex.map { case (profileSubItem, index) =>
+          <a href="@profileSubItem.url">@profileSubItem.description</a>
+          @if(index != profileItem.profileSubItems.size - 1) {
+            <span> / </span>
+          }
+        }
+      </li>
     }
     </ul>
   }
+}
+
+@main(title = controllers.Profile.PageTitle) {
+  <p>@profile.introduction</p>
+
+  <div class="col-md-6">
+    @column(columnNumber = 0, columnCount = 2)
+  </div>
+  <div class="col-md-6">
+    @column(columnNumber = 1, columnCount = 2)
+  </div>
 }
