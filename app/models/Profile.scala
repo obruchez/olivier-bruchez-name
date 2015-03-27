@@ -11,11 +11,34 @@ case class ProfileItem(profileSubItems: Seq[ProfileSubItem])
 case class ProfileList(title: String, profileItems: Seq[ProfileItem])
 
 case class Profile(introduction: String, profileLists: Seq[ProfileList]) {
+  /**
+   * @param partNumber 0-based part number (maximum value can be partCount - 1)
+   * @param partCount total number of parts
+   * @return a subset of the ProfileList instances corresponding to the (partNumber + 1)-th part when dividing all the
+   *         ProfileList instances into partCount parts
+   */
   def partOfProfileLists(partNumber: Int, partCount: Int): Seq[ProfileList] = {
-    val totalItemCount = profileLists.map(_.profileItems.size).sum
+    val totalProfileItemCount = profileLists.map(_.profileItems.size).sum
 
-    // @todo
-    profileLists
+    var startInColumns = 0.0
+
+    val profileListEndsInColumns = for ((profileList, profileListIndex) <- profileLists.zipWithIndex) yield {
+      val profileListLengthInColumns =
+        partCount * profileList.profileItems.size.toDouble / totalProfileItemCount.toDouble
+
+      val pair = profileListIndex -> startInColumns
+
+      startInColumns += profileListLengthInColumns
+
+      pair
+    }
+
+    for {
+      (index, startInColumns) <- profileListEndsInColumns
+      if startInColumns >= partNumber
+      if startInColumns < partNumber + 1
+      profileList = profileLists.apply(index)
+    } yield profileList
   }
 }
 
