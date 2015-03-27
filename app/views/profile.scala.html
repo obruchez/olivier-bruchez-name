@@ -1,0 +1,13 @@
+@(profile: models.Profile)
+
+@main(title = controllers.Profile.PageTitle) {
+  @profile.profileLists.map { profileList =>
+    <h1>@profileList.title</h1>
+
+    <ul>
+    @profileList.profileItems.map { profileItem =>
+      <li><a href="@profileItem.url">@profileItem.description</a></li>
+    }
+    </ul>
+  }
+}

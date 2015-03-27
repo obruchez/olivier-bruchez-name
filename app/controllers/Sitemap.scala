@@ -26,7 +26,7 @@ object Sitemap {
 
   val pages = Seq(
     Page("Home", routes.Home.index().url),
-    Page("About", routes.About.index().url),
+    Page(controllers.Profile.PageTitle, routes.Profile.index().url),
     Page("Lists", routes.Lists.index().url, lists),
     Page("External links", "", externalLinks))
 }
