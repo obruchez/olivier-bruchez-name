@@ -3,6 +3,8 @@ package controllers
 import play.api.mvc._
 
 object Lists extends Controller {
+  val PageTitle = "Lists"
+
   def index = Action {
     Ok(views.html.menu("Lists"))
   }

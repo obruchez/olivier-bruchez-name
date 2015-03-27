@@ -25,8 +25,8 @@ object Sitemap {
     Page("YouTube", "https://www.youtube.com/user/obruchez"))
 
   val pages = Seq(
-    Page("Home", routes.Home.index().url),
+    Page(controllers.Home.PageTitle, routes.Home.index().url),
     Page(controllers.Profile.PageTitle, routes.Profile.index().url),
-    Page("Lists", routes.Lists.index().url, lists),
-    Page("External links", "", externalLinks))
+    Page(controllers.Lists.PageTitle, routes.Lists.index().url, lists),
+    Page(controllers.ExternalLinks.PageTitle, "", externalLinks))
 }
