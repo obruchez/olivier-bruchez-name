@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lists title="About / profile (Olivier Bruchez)" link="https://github.com/obruchez/public/blob/master/Introspection/About.md">
+    <introduction>I'm a geek. I like lists. So this is me. In lists.</introduction>
+    <list title="Activities">
+        <item url="https://en.wikipedia.org/wiki/Blogging">Blogging</item>
+        <item url="https://en.wikipedia.org/wiki/Theatre">Going to the theater</item>
+        <item url="https://en.wikipedia.org/wiki/Meditating">Meditating</item>
+        <item url="https://en.wikipedia.org/wiki/Reading_(process)">Reading</item>
+        <item url="https://en.wikipedia.org/wiki/Traveling">Traveling</item>
+    </list>
+    <list title="Comics">
+        <item url="https://en.wikipedia.org/wiki/Don_Rosa">Don Rosa</item>
+        <item url="https://en.wikipedia.org/wiki/F%27Murr">F'Murr (aka Richard Peyzaret)</item>
+        <item url="https://en.wikipedia.org/wiki/Greg_(comics)">Greg (aka Michel Régnier)</item>
+        <item url="https://en.wikipedia.org/wiki/Lewis_Trondheim">Lewis Trondheim (aka Laurent Chabosy)</item>
+    </list>
+    <list title="Directors">
+        <item url="https://en.wikipedia.org/wiki/Danny_Boyle">Danny Boyle</item>
+        <item url="https://en.wikipedia.org/wiki/David_Lynch">David Lynch</item>
+        <item url="https://en.wikipedia.org/wiki/Coen_brothers">Joel &amp; Ethan Coen</item>
+        <item url="https://en.wikipedia.org/wiki/Michael_Moore">Michael Moore</item>
+        <item url="https://en.wikipedia.org/wiki/Roman_Polanski">Roman Polanski</item>
+        <item url="https://en.wikipedia.org/wiki/Stanley_Kubrick">Stanley Kubrick</item>
+        <item url="https://en.wikipedia.org/wiki/Tim_Burton">Tim Burton</item>
+        <item url="https://en.wikipedia.org/wiki/Wes_Anderson">Wes Anderson</item>
+        <item url="https://en.wikipedia.org/wiki/Woody_Allen">Woody Allen</item>
+    </list>
+    <list title="Food">
+        <item url="https://en.wikipedia.org/wiki/Beer">Beer</item>
+        <item url="https://en.wikipedia.org/wiki/Chocolate">Chocolate</item>
+        <item url="https://en.wikipedia.org/wiki/Coffee">Coffee</item>
+        <item url="https://en.wikipedia.org/wiki/Tea">Tea</item>
+        <item url="https://en.wikipedia.org/wiki/Vegetarian_cuisine">Vegetarian cuisine</item>
+        <item url="https://en.wikipedia.org/wiki/Wine">Wine</item>
+    </list>
+    <list title="Interests">
+        <item>
+            <subitem url="https://en.wikipedia.org/wiki/Artificial_intelligence">Artificial intelligence</subitem>
+            <subitem url="https://en.wikipedia.org/wiki/Machine_learning">Machine learning</subitem>
+        </item>
+        <item url="https://en.wikipedia.org/wiki/Astronomy">Astronomy</item>
+        <item url="https://en.wikipedia.org/wiki/Futures_studies">Futures studies (a.k.a. futurology / futurism)</item>
+        <item url="https://en.wikipedia.org/wiki/Getting_Things_Done">Getting Things Done (GTD)</item>
+        <item url="https://en.wikipedia.org/wiki/Jazz">Jazz</item>
+        <item>
+            <subitem url="https://en.wikipedia.org/wiki/Mooc">MOOCs</subitem>
+            <subitem url="https://en.wikipedia.org/wiki/Coursera">Coursera</subitem>
+        </item>
+        <item url="https://en.wikipedia.org/wiki/Philosophy">Philosophy</item>
+        <item>
+            <subitem url="https://en.wikipedia.org/wiki/Computer_programming">Programming</subitem>
+            <subitem url="https://en.wikipedia.org/wiki/Software_development">Software development</subitem>
+            <subitem url="https://en.wikipedia.org/wiki/Functional_programming">Functional programming</subitem>
+            <subitem url="https://en.wikipedia.org/wiki/Scala_(programming_language)">Scala</subitem>
+        </item>
+        <item>
+            <subitem url="https://en.wikipedia.org/wiki/Quantified_Self">Quantified Self</subitem>
+            <subitem url="https://en.wikipedia.org/wiki/Lifelog">Lifelogging</subitem>
+        </item>
+        <item url="https://en.wikipedia.org/wiki/Science">Science</item>
+        <item>
+            <subitem url="https://en.wikipedia.org/wiki/Technology">Technology</subitem>
+            <subitem url="https://en.wikipedia.org/wiki/Computer">Computers</subitem>
+        </item>
+    </list>
+    <list title="Musicians">
+        <item url="https://en.wikipedia.org/wiki/Prince_(musician)">Prince</item>
+        <item url="https://en.wikipedia.org/wiki/Miles_Davis">Miles Davis</item>
+        <item url="https://en.wikipedia.org/wiki/Keith_Jarrett">Keith Jarrett</item>
+        <item url="https://en.wikipedia.org/wiki/The_Beatles">The Beatles</item>
+        <item url="https://en.wikipedia.org/wiki/Bj%C3%B6rk">Björk</item>
+        <item url="https://en.wikipedia.org/wiki/Brad_Mehldau">Brad Mehldau</item>
+        <item url="https://en.wikipedia.org/wiki/Camille_(singer)">Camille</item>
+        <item>
+            <subitem url="https://en.wikipedia.org/wiki/George_Clinton_(musician)">George Clinton</subitem>
+            <subitem url="https://en.wikipedia.org/wiki/Parliament_(band)">Parliament</subitem>
+            <subitem url="https://en.wikipedia.org/wiki/Funkadelic">Funkadelic</subitem>
+        </item>
+        <item url="https://en.wikipedia.org/wiki/Kenny_Garrett">Kenny Garrett</item>
+        <item url="https://en.wikipedia.org/wiki/Herbie_Hancock">Herbie Hancock</item>
+        <item url="https://en.wikipedia.org/wiki/Jack_DeJohnette">Jack DeJohnette</item>
+        <item url="https://en.wikipedia.org/wiki/James_Brown">James Brown</item>
+        <item url="https://en.wikipedia.org/wiki/Janelle_Mon%C3%A1e">Janelle Monáe</item>
+        <item url="https://en.wikipedia.org/wiki/Jimi_Hendrix">Jimi Hendrix</item>
+        <item url="https://en.wikipedia.org/wiki/John_Scofield">John Scofield</item>
+        <item url="https://en.wikipedia.org/wiki/Led_Zeppelin">Led Zeppelin</item>
+        <item url="https://en.wikipedia.org/wiki/Living_Colour">Living Colour</item>
+        <item url="https://en.wikipedia.org/wiki/Marcus_Miller">Marcus Miller</item>
+        <item url="https://en.wikipedia.org/wiki/Mahavishnu_Orchestra">Mahavishnu Orchestra</item>
+        <item url="https://en.wikipedia.org/wiki/Mathieu_Chedid">Mathieu Chedid</item>
+        <item url="https://en.wikipedia.org/wiki/Michael_Brecker">Michael Brecker</item>
+        <item url="https://en.wikipedia.org/wiki/Neneh_Cherry">Neneh Cherry</item>
+        <item url="https://en.wikipedia.org/wiki/Queen_(band)">Queen</item>
+        <item url="https://en.wikipedia.org/wiki/Radiohead">Radiohead</item>
+        <item>
+            <subitem url="https://en.wikipedia.org/wiki/Sting_(musician)">Sting</subitem>
+            <subitem url="https://en.wikipedia.org/wiki/The_Police">The Police</subitem>
+        </item>
+        <item url="https://en.wikipedia.org/wiki/Wayne_Shorter">Wayne Shorter</item>
+        <item url="https://en.wikipedia.org/wiki/The_White_Stripes">The White Stripes</item>
+        <item url="https://en.wikipedia.org/wiki/Yaron_Herman">Yaron Herman</item>
+    </list>
+    <list title="Painters">
+        <item url="https://en.wikipedia.org/wiki/Hieronymus_Bosch">Hieronymus Bosch</item>
+        <item url="https://en.wikipedia.org/wiki/Joan_Mir%C3%B3">Joan Miró</item>
+        <item url="https://en.wikipedia.org/wiki/Marc_Chagall">Marc Chagall</item>
+        <item url="https://en.wikipedia.org/wiki/Max_Ernst">Max Ernst</item>
+        <item url="https://en.wikipedia.org/wiki/Otto_Dix">Otto Dix</item>
+        <item url="https://en.wikipedia.org/wiki/Pablo_Picasso">Pablo Picasso</item>
+        <item url="https://en.wikipedia.org/wiki/Pieter_Brueghel_the_Elder">Pieter Brueghel</item>
+        <item url="https://en.wikipedia.org/wiki/Ren%C3%A9_Magritte">René Magritte</item>
+        <item url="https://en.wikipedia.org/wiki/Salvador_Dal%C3%AD">Salvador Dalí</item>
+        <item url="https://en.wikipedia.org/wiki/Tom_Everhart">Tom Everhart</item>
+        <item url="https://en.wikipedia.org/wiki/Vincent_van_Gogh">Vincent van Gogh</item>
+    </list>
+    <list title="People who inspire me / thinkers / bloggers">
+        <item url="https://en.wikipedia.org/wiki/Andy_Puddicombe">Andy Puddicombe</item>
+        <item url="https://en.wikipedia.org/wiki/Ben_Goldacre">Ben Goldacre</item>
+        <item url="https://en.wikipedia.org/wiki/Bertrand_Russel">Bertrand Russel</item>
+        <item url="https://en.wikipedia.org/wiki/Carl_Sagan">Carl Sagan</item>
+        <item url="http://www.danielmiessler.com/">Daniel Miessler</item>
+        <item url="https://en.wikipedia.org/wiki/David_Allen_(author)">David Allen</item>
+        <item url="https://en.wikipedia.org/wiki/Jerry_Coyne">Jerry Coyne</item>
+        <item url="https://en.wikipedia.org/wiki/Neil_deGrasse_Tyson">Neil deGrasse Tyson</item>
+        <item url="https://en.wikipedia.org/wiki/Ray_Kurzweil">Ray Kurzweil</item>
+        <item url="https://en.wikipedia.org/wiki/Richard_Dawkins">Richard Dawkins</item>
+        <item url="https://en.wikipedia.org/wiki/Richard_Feynman">Richard Feynman</item>
+        <item url="https://en.wikipedia.org/wiki/Sam_Harris_(author)">Sam Harris</item>
+    </list>
+    <list title="Philosophical views">
+        <item url="https://en.wikipedia.org/wiki/Absurdism">Absurdism</item>
+        <item url="https://en.wikipedia.org/wiki/Agnosticism">Agnosticism</item>
+        <item url="https://en.wikipedia.org/wiki/Atheism">Atheism</item>
+        <item url="https://en.wikipedia.org/wiki/Consequentialism">Consequentialism</item>
+        <item url="https://en.wikipedia.org/wiki/Determinism">Determinism</item>
+        <item url="https://en.wikipedia.org/wiki/Empiricism">Empiricism</item>
+        <item url="https://en.wikipedia.org/wiki/Existentialism">Existentialism</item>
+        <item url="https://en.wikipedia.org/wiki/Humanism">Humanism</item>
+        <item url="https://en.wikipedia.org/wiki/Moral_realism">Moral realism</item>
+        <item url="https://en.wikipedia.org/wiki/Naturalism_(philosophy)">Naturalism</item>
+        <item url="https://en.wikipedia.org/wiki/Singularitarianism">Singularitarianism</item>
+        <item url="https://en.wikipedia.org/wiki/Skepticism">Skepticism</item>
+        <item url="https://en.wikipedia.org/wiki/Transhumanism">Transhumanism</item>
+        <item url="https://en.wikipedia.org/wiki/Utilitarianism">Utilitarianism</item>
+        <item url="https://en.wikipedia.org/wiki/Vegetarianism">Vegetarianism</item>
+    </list>
+    <list title="Places">
+        <item url="https://en.wikipedia.org/wiki/Bagnes">Bagnes</item>
+        <item url="https://en.wikipedia.org/wiki/Lausanne">Lausanne</item>
+        <item url="https://en.wikipedia.org/wiki/Suisse_romande">Suisse romande</item>
+        <item url="https://en.wikipedia.org/wiki/Valais">Valais</item>
+    </list>
+    <list title="Political views">
+        <item url="https://en.wikipedia.org/wiki/Centre-left">Center-left</item>
+        <item url="https://en.wikipedia.org/wiki/Moderate">Moderism</item>
+    </list>
+    <list title="Profiles / websites">
+        <item url="https://bruchez.blogspot.com">Blogger</item>
+        <item url="https://www.facebook.com/obruchez">Facebook</item>
+        <item url="https://secure.flickr.com/photos/bruchez/sets">Flickr</item>
+        <item url="https://github.com/obruchez">Github</item>
+        <item url="http://www.keithjarrett.org">KeithJarrett.org</item>
+        <item url="http://www.last.fm/user/obruchez">Last.fm</item>
+        <item url="https://www.linkedin.com/in/obruchez">LinkedIn</item>
+        <item url="https://twitter.com/obruchez">Twitter</item>
+        <item url="https://www.youtube.com/user/obruchez">YouTube</item>
+    </list>
+    <list title="Sports">
+        <item url="https://en.wikipedia.org/wiki/Elliptical_trainer">Elliptical trainer / cross-trainer</item>
+        <item url="https://en.wikipedia.org/wiki/Mountain_biking">Mountain biking</item>
+        <item url="https://en.wikipedia.org/wiki/Hiking">Mountain hiking</item>
+        <item url="https://en.wikipedia.org/wiki/Skiing">Skiing</item>
+        <item url="https://en.wikipedia.org/wiki/Via_ferrata">Via ferrata</item>
+    </list>
+    <list title="TV shows">
+        <item url="https://en.wikipedia.org/wiki/Arrested_Development_(TV_series)">Arrested Development</item>
+        <item url="https://en.wikipedia.org/wiki/Better_Off_Ted">Better Off Ted</item>
+        <item url="https://en.wikipedia.org/wiki/The_Big_Bang_Theory">The Big Bang Theory</item>
+        <item url="https://en.wikipedia.org/wiki/Blackadder">Blackadder</item>
+        <item url="https://en.wikipedia.org/wiki/Bob%27s_Burgers">Bob's Burgers</item>
+        <item url="https://en.wikipedia.org/wiki/Bref">Bref</item>
+        <item url="https://en.wikipedia.org/wiki/Community_(TV_series)">Community</item>
+        <item url="https://en.wikipedia.org/wiki/Episodes_(TV_series)">Episodes</item>
+        <item url="https://en.wikipedia.org/wiki/Friends">Friends</item>
+        <item url="https://en.wikipedia.org/wiki/Futurama">Futurama</item>
+        <item url="https://en.wikipedia.org/wiki/Go_On_(TV_series)">Go On</item>
+        <item url="https://en.wikipedia.org/wiki/How_I_Met_Your_Mother">How I Met Your Mother</item>
+        <item url="https://en.wikipedia.org/wiki/The_IT_Crowd">The IT Crowd</item>
+        <item url="https://en.wikipedia.org/wiki/Lost_(TV_series)">Lost</item>
+        <item url="https://en.wikipedia.org/wiki/The_Michael_J._Fox_Show">The Michael J. Fox Show</item>
+        <item url="https://en.wikipedia.org/wiki/Monty_Python%27s_Flying_Circus">Monty Python's Flying Circus</item>
+        <item url="https://en.wikipedia.org/wiki/Moone_Boy">Moone Boy</item>
+        <item url="https://en.wikipedia.org/wiki/Mr._Sunshine_(2011_TV_series)">Mr. Sunshine</item>
+        <item url="https://en.wikipedia.org/wiki/The_Office_(U.S._TV_series)">The Office (US)</item>
+        <item url="https://en.wikipedia.org/wiki/Seinfeld">Seinfeld</item>
+        <item url="https://en.wikipedia.org/wiki/The_Simpsons">The Simpsons</item>
+        <item url="https://en.wikipedia.org/wiki/The_Spoils_of_Babylon">The Spoils of Babylon</item>
+        <item url="https://en.wikipedia.org/wiki/The_Tripods_(TV_series)">The Tripods</item>
+        <item url="https://en.wikipedia.org/wiki/Twin_Peaks">Twin Peaks</item>
+        <item url="https://en.wikipedia.org/wiki/Web_Therapy">Web Therapy</item>
+    </list>
+    <list title="Web comics">
+        <item url="http://www.buttercupfestival.com/">Buttercup Festival</item>
+        <item url="http://buttersafe.com/">Buttersafe</item>
+        <item url="http://catandgirl.com/">Cat and Girl</item>
+        <item url="http://chainsawsuit.com/">Chainsawsuit</item>
+        <item url="http://dilbert.com/">Dilbert</item>
+        <item url="http://existentialcomics.com/">Existential Comics</item>
+        <item url="http://geek-and-poke.com/">Geek &amp; Poke</item>
+        <item url="http://vidberg.blog.lemonde.fr/">L'actu en patates</item>
+        <item url="http://www.lunarbaboon.com/">Lunarbaboon</item>
+        <item url="http://www.marriedtothesea.com/">Married to the Sea</item>
+        <item url="http://www.gocomics.com/pearlsbeforeswine">Pearls Befores Wine</item>
+        <item url="http://phdcomics.com/comics.php">PHD Comics</item>
+        <item url="http://www.questionablecontent.net/">Questionable Content</item>
+        <item url="http://www.smbc-comics.com/">Saturday Morning Breakfast Cereal</item>
+        <item url="http://theoatmeal.com/">The Oatmeal</item>
+        <item url="http://www.pbfcomics.com/">The Perry Bible Fellowship</item>
+        <item url="http://www.goominet.com/unspeakable-vault/">Unspeakable Vault (of Doom)</item>
+        <item url="https://xkcd.com/">xkcd</item>
+    </list>
+    <list title="Writers">
+        <item url="https://en.wikipedia.org/wiki/Albert_Camus">Albert Camus</item>
+        <item url="https://en.wikipedia.org/wiki/Boris_Vian">Boris Vian</item>
+        <item url="https://en.wikipedia.org/wiki/Daniel_Pennac">Daniel Pennac</item>
+        <item url="https://en.wikipedia.org/wiki/Franz_Kafka">Franz Kafka</item>
+        <item url="https://en.wikipedia.org/wiki/H._P._Lovecraft">H. P. Lovecraft</item>
+        <item url="https://en.wikipedia.org/wiki/Jean-Paul_Sartre">Jean-Paul Sartre</item>
+        <item url="https://en.wikipedia.org/wiki/Milan_Kundera">Milan Kundera</item>
+        <item url="https://en.wikipedia.org/wiki/Roald_Dahl">Roald Dahl</item>
+    </list>
+</lists>
