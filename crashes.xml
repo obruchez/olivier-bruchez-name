@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <crashes title="Hard Drive Crashes (Olivier Bruchez)" link="http://github.com/obruchez/public/blob/master/Lists/Crashes.md" feed="http://raw.github.com/obruchez/blog/master/rss/crashes.rss">
+	<introduction>A list of hard drive crashes I had. Did I mention I was a geek?</introduction>
 	<crash>
 		<date>2014.03.09</date>
 		<manufacturer>Toshiba</manufacturer>
