@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <movies title="Movies (Olivier Bruchez)" link="http://github.com/obruchez/public/blob/master/Lists/Movies.md" feed="http://raw.github.com/obruchez/blog/master/rss/movies.rss">
+  <introduction>A list of movies I saw.</introduction>
   <movie>
     <date>2015.03.01</date>
     <theater>Galeries, Lausanne</theater>
