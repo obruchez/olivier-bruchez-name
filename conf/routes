@@ -17,5 +17,7 @@ GET        /lists/movies             controllers.Lists.movies
 GET        /lists/plays              controllers.Lists.plays
 GET        /lists/trips              controllers.Lists.trips
 
+GET        /worldview                controllers.Worldview.index
+
 # Map static resources from the /public folder to the /assets URL path
 GET        /assets/*file             controllers.Assets.at(path="/public", file)

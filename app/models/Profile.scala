@@ -49,7 +49,7 @@ object Profile {
   } yield profile
 
   def apply(elem: Elem): Try[Profile] = Try {
-    val lists = (elem \\ "lists").head
+    val lists = (elem \\ "profile").head
     val introduction = (lists \\ "introduction").head.text
 
     val profileLists = for {
