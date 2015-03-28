@@ -1,6 +1,10 @@
 @(worldview: models.Worldview)
 
 @main(title = controllers.Worldview.PageTitle) {
+  <div class="tag-box tag-box-v2">
+    <p>@worldview.introduction</p>
+  </div>
+
   @worldview.worldviewCategories.map { worldviewCategory =>
     <div class="headline"><h2>@Html(worldviewCategory.description.string)</h2></div>
 
