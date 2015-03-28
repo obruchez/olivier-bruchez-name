@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <plays title="Plays (Olivier Bruchez)" link="http://github.com/obruchez/public/blob/master/Lists/Plays.md" feed="http://raw.github.com/obruchez/blog/master/rss/plays.rss">
+  <introduction>A list of plays I saw.</introduction>
+
   <!--
     <author></author>
     <director></director>
