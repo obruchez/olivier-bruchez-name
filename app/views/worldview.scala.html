@@ -1,7 +1,22 @@
 @(worldview: models.Worldview)
 
 @main(title = controllers.Worldview.PageTitle) {
-  <div class="tag-box tag-box-v2">
-    <p>Hello, world!</p>
-  </div>
+  @worldview.worldviewCategories.map { worldviewCategory =>
+    <div class="headline"><h2>@Html(worldviewCategory.description.string)</h2></div>
+
+    @worldviewCategory.worldviewPositions.map { worldviewPosition =>
+      <div class="tag-box tag-box-v3">
+        <h3>@Html(worldviewPosition.summary.string)</h3>
+        <p>@Html(worldviewPosition.details.string)</p>
+      </div>
+    }
+  }
+
+  <div class="headline"><h2>Références</h2></div>
+
+  <ul>
+    @worldview.references.map { reference =>
+      <li>@Html(reference.string)</li>
+    }
+  </ul>
 }
