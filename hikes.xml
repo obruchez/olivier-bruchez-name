@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <hikes title="Hikes (Olivier Bruchez)" link="http://github.com/obruchez/public/blob/master/Lists/Hikes.md" feed="http://raw.github.com/obruchez/blog/master/rss/hikes.rss">
+  <introduction>A list of hikes I took.</introduction>
   <hike>
     <date>2014.10.18</date>
     <place>Golis de Servay, du Rogneux et des Otanes, Switzerland</place>
