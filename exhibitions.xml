@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <exhibitions title="Exhibitions (Olivier Bruchez)" link="http://github.com/obruchez/public/blob/master/Lists/Exhibitions.md" feed="http://raw.github.com/obruchez/blog/master/rss/exhibitions.rss">
+    <introduction>A list of exhibitions I visited.</introduction>
     <exhibition>
         <date>2014.10.26</date>
         <name>Permanent exhibition</name>
