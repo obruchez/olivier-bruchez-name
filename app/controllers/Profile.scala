@@ -1,5 +1,6 @@
 package controllers
 
+import play.api.Play
 import play.api.mvc._
 import scala.util._
 
@@ -7,14 +8,15 @@ object Profile extends Controller {
   val PageTitle = "About / profile"
 
   def index = Action {
-    // @todo put URL in configuration
-    models.Profile(new java.net.URL("https://raw.githubusercontent.com/obruchez/public-src/master/about.xml")) match {
+    models.Profile(profileUrl) match {
       case Success(profile) =>
         Ok(views.html.profile(profile))
       case Failure(throwable) =>
         InternalServerError(views.html.error(PageTitle, throwable))
     }
   }
+
+  private val profileUrl = Play.current.configuration.getString("url.profile").map(new java.net.URL(_)).get
 }
 
  /*import scala.io.Source
