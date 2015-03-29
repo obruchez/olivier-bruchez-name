@@ -1,0 +1,28 @@
+@(books: models.Books)
+
+@main(title = controllers.Sitemap.books.name) {
+  <div class="tag-box tag-box-v2">
+    <p>@books.introduction</p>
+  </div>
+
+  <table class="table table-bordered table-striped">
+    <thead>
+      <tr>
+        <th>Date</th><th>Author</th><th>Title</th><th>Subtitle</th><th>Year</th><th>Rating</th><th>Comments</th>
+      </tr>
+    </thead>
+    <tbody>
+    @books.books.map { book =>
+      <tr>
+        <td></td>
+        <td>@book.author</td>
+        <td><a href="@book.url">@book.title</a></td>
+        <td>@book.subtitle.getOrElse("")</td>
+        <td>@book.year</td>
+        <td>@book.rating.fold("")(_.toString)</td>
+        <td>@book.comments</td>
+      </tr>
+    }
+    </tbody>
+  </table>
+}

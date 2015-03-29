@@ -2,22 +2,29 @@
 # This file defines all application routes (Higher priority routes first)
 # ~~~~
 
-# Home page
-GET        /                         controllers.Home.index
+GET        /                         controllers.Application.home
 
-GET        /about                    controllers.Profile.index
+GET        /about                    controllers.Application.profile
 
-GET        /lists                    controllers.Lists.index
-GET        /lists/books              controllers.Lists.books
-GET        /lists/concerts           controllers.Lists.concerts
-GET        /lists/crashes            controllers.Lists.crashes
-GET        /lists/exhibitions        controllers.Lists.exhibitions
-GET        /lists/hikes              controllers.Lists.hikes
-GET        /lists/movies             controllers.Lists.movies
-GET        /lists/plays              controllers.Lists.plays
-GET        /lists/trips              controllers.Lists.trips
+GET        /lists                    controllers.Application.lists
+GET        /lists/books              controllers.Application.books
+GET        /lists/concerts           controllers.Application.concerts
+GET        /lists/crashes            controllers.Application.crashes
+GET        /lists/exhibitions        controllers.Application.exhibitions
+GET        /lists/hikes              controllers.Application.hikes
+GET        /lists/movies             controllers.Application.movies
+GET        /lists/plays              controllers.Application.plays
+GET        /lists/trips              controllers.Application.trips
 
-GET        /worldview                controllers.Worldview.index
+GET        /bookstoread              controllers.Application.booksToRead
+GET        /moviestowatch            controllers.Application.moviesToWatch
+GET        /seenontv                 controllers.Application.seenOnTv
+GET        /tripstotake              controllers.Application.tripsToTake
+
+GET        /coursera                 controllers.Application.coursera
+GET        /lifeprinciples           controllers.Application.lifePrinciples
+GET        /votes                    controllers.Application.votes
+GET        /worldview                controllers.Application.worldview
 
 # Map static resources from the /public folder to the /assets URL path
 GET        /assets/*file             controllers.Assets.at(path="/public", file)

@@ -1,5 +1,10 @@
 @(title: String, throwable: Throwable)
 
 @main(title) {
-  <span>Error: @throwable.getMessage</span>
+  <div>Error:
+    <blockquote>@throwable.getMessage</blockquote>
+  </div>
+  <div>Stacktrace:
+    <blockquote>@throwable.getStackTraceString</blockquote>
+  </div>
 }

@@ -13,4 +13,4 @@ libraryDependencies ++= Seq(
   ws
 )
 
-libraryDependencies ++= Seq("com.github.rjeschke" % "txtmark" % "0.13")
+libraryDependencies ++= Seq("com.github.rjeschke" % "txtmark" % "0.13", "joda-time" % "joda-time" % "2.7")
