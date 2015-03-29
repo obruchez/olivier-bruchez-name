@@ -4,38 +4,25 @@ import java.net.URL
 import org.joda.time.Partial
 import scala.util.Try
 import scala.xml._
+import util.HtmlContent
 
 case class Musician(name: String, instrument: Option[String], leader: Boolean)
 
-case class Concert(date: Partial,
+case class Concert(override val date: Partial,
                    location: String,
                    event: Option[String],
                    band: Option[String],
                    musicians: Seq[Musician],
                    rating: Option[Double],
-                   comments: Option[String])
+                   comments: Option[HtmlContent]) extends ListItem(date)
 
-case class Concerts(introduction: String, concerts: Seq[Concert])
+case class Concerts(introduction: HtmlContent, concerts: Seq[Concert])
 
 object Concerts {
   def apply(url: URL): Try[Concerts] = for {
     xml <- Try(XML.load(url))
     concerts <- apply(xml)
   } yield concerts
-
-  /*
-    <concert>
-      <date>2015.01.28</date>
-      <location>Cave du Bleu Lézard, Lausanne, Switzerland</location>
-      <group>Mary's Private Eyes</group>
-      <musician inst="bass">Adrian Held</musician>
-      <musician inst="guitar">Patrick Macheret</musician>
-      <musician inst="drums">Nathalie Winiger</musician>
-      <musician inst="vocals">Sarah Artacho</musician>
-      <rating>3.5</rating>
-      <comments/>
-    </concert>
-   */
 
   def apply(elem: Elem): Try[Concerts] = Try {
     val concerts = (elem \\ "concerts").head
@@ -69,6 +56,6 @@ object Concerts {
         comments = Lists.commentsFromString(comments))
     }
 
-    Concerts(introduction, concertsSeq)
+    Concerts(HtmlContent(introduction), concertsSeq)
   }
 }

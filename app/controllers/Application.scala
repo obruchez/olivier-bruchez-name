@@ -42,32 +42,32 @@ object Application extends Controller {
 
   def crashes = Action {
     // @todo
-    Ok(views.html.list())
+    Ok(views.html.home())
   }
 
   def exhibitions = Action {
     // @todo
-    Ok(views.html.list())
+    Ok(views.html.home())
   }
 
   def hikes = Action {
     // @todo
-    Ok(views.html.list())
+    Ok(views.html.home())
   }
 
   def movies = Action {
     // @todo
-    Ok(views.html.list())
+    Ok(views.html.home())
   }
 
   def plays = Action {
     // @todo
-    Ok(views.html.list())
+    Ok(views.html.home())
   }
 
   def trips = Action {
     // @todo
-    Ok(views.html.list())
+    Ok(views.html.home())
   }
 
   def booksToRead = Action {

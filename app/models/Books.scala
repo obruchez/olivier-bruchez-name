@@ -4,17 +4,18 @@ import java.net.URL
 import org.joda.time.Partial
 import scala.util.Try
 import scala.xml.{Elem, XML}
+import util.HtmlContent
 
-case class Book(date: Partial,
+case class Book(override val date: Partial,
                 author: String,
                 title: String,
                 subtitle: Option[String],
                 year: Int,
                 rating: Option[Double],
-                comments: Option[String],
-                url: URL)
+                comments: Option[HtmlContent],
+                url: URL) extends ListItem(date)
 
-case class Books(introduction: String, books: Seq[Book])
+case class Books(introduction: HtmlContent, books: Seq[Book])
 
 object Books {
   def apply(url: URL): Try[Books] = for {
@@ -46,6 +47,6 @@ object Books {
       comments = Lists.commentsFromString(comments),
       url = new URL(url))
 
-    Books(introduction, booksSeq)
+    Books(HtmlContent(introduction), booksSeq)
   }
 }

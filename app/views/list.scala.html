@@ -1,5 +1,28 @@
-@()
+@(title: String, introduction: util.HtmlContent, items: Seq[ListItem], header: play.twirl.api.Html, rowFromItem: (ListItem) => play.twirl.api.Html)
 
-@main("List") {
-    <div>List</div>
+@import util.Date._
+
+@table(yearOption: Option[Int], itemsForYear: Seq[ListItem]) = {
+  <div class="panel panel-u">
+    <div class="panel-heading">
+      <h3 class="panel-title"><i class="fa fa-calendar"></i> @yearOption.fold("?")(_.toString) (@itemsForYear.size)</h3>
+    </div>
+    <table class="table table-bordered table-striped">
+      <thead>
+        @header
+      </thead>
+      <tbody>
+        @itemsForYear.map { item => @rowFromItem(item) }
+      </tbody>
+    </table>
+  </div>
+}
+
+@main(title) {
+  <div class="tag-box tag-box-v2">
+    <p>@Html(introduction.string)</p>
+  </div>
+  @items.groupBy(_.date.year).toSeq.sortBy(_._1).reverseMap { case (yearOption, itemsForYear) =>
+    @table(yearOption, itemsForYear)
+  }
 }

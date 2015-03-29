@@ -2,46 +2,35 @@
 
 @import util.Date._
 
-@bookTable(yearOption: Option[Int], booksForYear: Seq[Book]) = {
-  <div class="panel panel-u">
-    <div class="panel-heading">
-      <h3 class="panel-title"><i class="fa fa-calendar"></i> @yearOption.fold("?")(_.toString) (@booksForYear.size)</h3>
-    </div>
-    <table class="table table-bordered table-striped">
-      <thead>
-        <tr>
-          <th class="col-md-1">Date</th>
-          <th class="col-md-2">Author</th>
-          <th class="col-md-3">Title</th>
-          <th class="col-md-2">Subtitle</th>
-          <th class="col-md-1">Year</th>
-          <th class="col-md-1">Rating</th>
-          <th class="col-md-2">Comments</th>
-        </tr>
-      </thead>
-      <tbody>
-      @booksForYear.map { book =>
-        <tr>
-          <td>@book.date.yyyymmddString</td>
-          <td>@book.author</td>
-          <td><a href="@book.url">@book.title</a></td>
-          <td>@book.subtitle.getOrElse("")</td>
-          <td>@book.year</td>
-          <td>@book.rating.fold("")(_.toString)</td>
-          <td>@book.comments</td>
-        </tr>
-      }
-      </tbody>
-    </table>
-  </div>
+@header = {
+  <tr>
+    <th class="col-md-1">Date</th>
+    <th class="col-md-2">Author</th>
+    <th class="col-md-3">Title</th>
+    <th class="col-md-2">Subtitle</th>
+    <th class="col-md-1">Year</th>
+    <th class="col-md-1">Rating</th>
+    <th class="col-md-2">Comments</th>
+  </tr>
 }
 
-@main(title = controllers.Sitemap.books.name) {
-  <div class="tag-box tag-box-v2">
-    <p>@books.introduction</p>
-  </div>
-
-  @books.books.groupBy(_.date.year).toSeq.sortBy(_._1).reverseMap { case (yearOption, booksForYear) =>
-    @bookTable(yearOption, booksForYear)
+@rowFromItem(listItem: ListItem) = {
+  @defining(listItem.asInstanceOf[Book]) { book =>
+    <tr>
+      <td>@book.date.yyyymmddString</td>
+      <td>@book.author</td>
+      <td><a href="@book.url">@book.title</a></td>
+      <td>@book.subtitle.getOrElse("")</td>
+      <td>@book.year</td>
+      <td>@book.rating.fold("")(_.toString)</td>
+      <td>@Html(book.comments.fold("")(_.string))</td>
+    </tr>
   }
 }
+
+@list(
+  title = Sitemap.books.name,
+  introduction = books.introduction,
+  items = books.books,
+  header = header,
+  rowFromItem = rowFromItem)

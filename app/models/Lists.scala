@@ -2,7 +2,9 @@ package models
 
 import org.joda.time.Partial
 import scala.util.Try
-import util.Date
+import util._
+
+abstract class ListItem(val date: Partial)
 
 object Lists {
   def dateFromString(string: String): Try[Partial] =
@@ -11,8 +13,8 @@ object Lists {
   def ratingFromString(string: String): Option[Double] =
     Option(string).map(_.trim).filter(_.nonEmpty).map(_.toDouble - 1)
 
-  def commentsFromString(string: String): Option[String] =
-    Option(string).map(_.trim).filter(_.nonEmpty)
+  def commentsFromString(string: String): Option[HtmlContent] =
+    Option(string).map(_.trim).filter(_.nonEmpty).map(HtmlContent(_))
 
   def isTrue(string: String): Boolean =
     Set("on", "true", "y", "yes", "1").contains(string.trim.toLowerCase)
