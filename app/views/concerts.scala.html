@@ -20,7 +20,7 @@
 @concertTable(yearOption: Option[Int], concertsForYear: Seq[Concert]) = {
   <div class="panel panel-u">
     <div class="panel-heading">
-        <h3 class="panel-title"><i class="fa fa-calendar"></i> @yearOption.fold("?")(_.toString)</h3>
+      <h3 class="panel-title"><i class="fa fa-calendar"></i> @yearOption.fold("?")(_.toString) (@concertsForYear.size)</h3>
     </div>
     <table class="table table-bordered table-striped">
       <thead>
