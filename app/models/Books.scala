@@ -4,7 +4,6 @@ import java.net.URL
 import org.joda.time.Partial
 import scala.util.Try
 import scala.xml.{Elem, XML}
-import util.Date
 
 case class Book(date: Partial,
                 author: String,
@@ -29,22 +28,22 @@ object Books {
 
     val booksSeq = for {
       book <- books \\ "book"
-      dateString = (book \\ "date").text.trim
-      author = (book \\ "author").text.trim
-      title = (book \\ "title").text.trim
-      subtitle = (book \\ "subtitle").text.trim
-      yearString = (book \\ "publishingyear").text.trim
-      ratingString = (book \\ "rating").text.trim
-      comments = (book \\ "comments").text.trim
-      url = (book \\ "url").text.trim
+      dateString = (book \\ "date").text
+      author = (book \\ "author").text
+      title = (book \\ "title").text
+      subtitle = (book \\ "subtitle").text
+      yearString = (book \\ "publishingyear").text
+      ratingString = (book \\ "rating").text
+      comments = (book \\ "comments").text
+      url = (book \\ "url").text
     } yield Book(
-      date = Date.partialFromYyyymmddString(dateString).get,
-      author = author,
-      title = title,
-      subtitle = Option(subtitle).filter(_.nonEmpty),
-      year = yearString.toInt,
-      rating = Option(ratingString).filter(_.nonEmpty).map(_.toDouble - 1),
-      comments = Option(comments).filter(_.nonEmpty),
+      date = Lists.dateFromString(dateString).get,
+      author = author.trim,
+      title = title.trim,
+      subtitle = Option(subtitle.trim).filter(_.nonEmpty),
+      year = yearString.trim.toInt,
+      rating = Lists.ratingFromString(ratingString),
+      comments = Lists.commentsFromString(comments),
       url = new URL(url))
 
     Books(introduction, booksSeq)

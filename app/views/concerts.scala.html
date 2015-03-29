@@ -1,0 +1,60 @@
+@(concerts: Concerts)
+
+@import util.Date._
+
+@musicians(band: Option[String], musicians: Seq[Musician]) = {
+  @band.map { band =>
+    <strong>@band</strong>@if(musicians.nonEmpty) {: }
+  }
+  @musicians.zipWithIndex.map { case (musician, index) =>
+    @defining(Lists.commaOrAnd(index = index, totalCount = musicians.size)) { separator =>
+      @if((musician.leader || index == musicians.size - 1) && band.isEmpty) {
+        <strong>@musician.name</strong>@separator
+      } else {
+        @musician.name@separator
+      }
+    }
+  }
+}
+
+@concertTable(yearOption: Option[Int], concertsForYear: Seq[Concert]) = {
+  <div class="panel panel-u">
+    <div class="panel-heading">
+        <h3 class="panel-title"><i class="fa fa-calendar"></i> @yearOption.fold("?")(_.toString)</h3>
+    </div>
+    <table class="table table-bordered table-striped">
+      <thead>
+        <tr>
+          <th class="col-md-1">Date</th>
+          <th class="col-md-3">Musicians</th>
+          <th class="col-md-3">Location</th>
+          <th class="col-md-2">Event</th>
+          <th class="col-md-1">Rating</th>
+          <th class="col-md-2">Comments</th>
+        </tr>
+      </thead>
+      <tbody>
+      @concertsForYear.map { concert =>
+        <tr>
+          <td>@concert.date.yyyymmddString</td>
+          <td>@musicians(concert.band, concert.musicians)</td>
+          <td>@concert.location</td>
+          <td>@concert.event.getOrElse("")</td>
+          <td>@concert.rating.fold("")(_.toString)</td>
+          <td>@concert.comments</td>
+        </tr>
+      }
+      </tbody>
+    </table>
+  </div>
+}
+
+@main(title = controllers.Sitemap.concerts.name) {
+  <div class="tag-box tag-box-v2">
+    <p>@concerts.introduction</p>
+  </div>
+
+  @concerts.concerts.groupBy(_.date.year).toSeq.sortBy(_._1).reverseMap { case (yearOption, concertsForYear) =>
+    @concertTable(yearOption, concertsForYear)
+  }
+}

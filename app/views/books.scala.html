@@ -3,8 +3,7 @@
 @import util.Date._
 
 @bookTable(yearOption: Option[Int], booksForYear: Seq[Book]) = {
-  <!-- margin-bottom-40 -->
-  <div class="panel panel-green">
+  <div class="panel panel-u">
     <div class="panel-heading">
         <h3 class="panel-title"><i class="fa fa-calendar"></i> @yearOption.fold("?")(_.toString)</h3>
     </div>

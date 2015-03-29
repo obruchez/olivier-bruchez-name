@@ -32,8 +32,12 @@ object Application extends Controller {
   }
 
   def concerts = Action {
-    // @todo
-    Ok(views.html.list())
+    models.Concerts(Sitemap.concerts.sourceUrl.get) match {
+      case Success(concerts) =>
+        Ok(views.html.concerts(concerts))
+      case Failure(throwable) =>
+        InternalServerError(views.html.error(Sitemap.concerts.name, throwable))
+    }
   }
 
   def crashes = Action {
