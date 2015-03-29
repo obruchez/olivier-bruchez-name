@@ -32,7 +32,7 @@ object Sitemap {
   val trips = Page("Trips", routes.Application.trips(), "url.trips")
 
   val lists = Page(
-    "Lists",
+    "Lists / lifelogging",
     routes.Application.lists(),
     children = Seq(books, concerts, crashes, exhibitions, hikes, movies, plays, trips))
 
