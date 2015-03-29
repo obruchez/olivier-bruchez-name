@@ -38,7 +38,7 @@ object Books {
       comments = (book \\ "comments").text.trim
       url = (book \\ "url").text.trim
     } yield Book(
-      date = Date.partialFromYyyyMmDdString(dateString).get,
+      date = Date.partialFromYyyymmddString(dateString).get,
       author = author,
       title = title,
       subtitle = Option(subtitle).filter(_.nonEmpty),

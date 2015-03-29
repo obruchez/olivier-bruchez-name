@@ -1,4 +1,4 @@
-@(profile: models.Profile)
+@(profile: Profile)
 
 @column(columnNumber: Int, columnCount: Int) = {
   @profile.partOfProfileLists(partNumber = columnNumber, partCount = columnCount  ).map { profileList =>

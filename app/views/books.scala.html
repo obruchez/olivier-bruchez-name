@@ -1,28 +1,48 @@
-@(books: models.Books)
+@(books: Books)
+
+@import util.Date._
+
+@bookTable(yearOption: Option[Int], booksForYear: Seq[Book]) = {
+  <!-- margin-bottom-40 -->
+  <div class="panel panel-green">
+    <div class="panel-heading">
+        <h3 class="panel-title"><i class="fa fa-calendar"></i> @yearOption.fold("?")(_.toString)</h3>
+    </div>
+    <table class="table table-bordered table-striped">
+      <thead>
+        <tr>
+          <th class="col-md-1">Date</th>
+          <th class="col-md-2">Author</th>
+          <th class="col-md-3">Title</th>
+          <th class="col-md-2">Subtitle</th>
+          <th class="col-md-1">Year</th>
+          <th class="col-md-1">Rating</th>
+          <th class="col-md-2">Comments</th>
+        </tr>
+      </thead>
+      <tbody>
+      @booksForYear.map { book =>
+        <tr>
+          <td>@book.date.yyyymmddString</td>
+          <td>@book.author</td>
+          <td><a href="@book.url">@book.title</a></td>
+          <td>@book.subtitle.getOrElse("")</td>
+          <td>@book.year</td>
+          <td>@book.rating.fold("")(_.toString)</td>
+          <td>@book.comments</td>
+        </tr>
+      }
+      </tbody>
+    </table>
+  </div>
+}
 
 @main(title = controllers.Sitemap.books.name) {
   <div class="tag-box tag-box-v2">
     <p>@books.introduction</p>
   </div>
 
-  <table class="table table-bordered table-striped">
-    <thead>
-      <tr>
-        <th>Date</th><th>Author</th><th>Title</th><th>Subtitle</th><th>Year</th><th>Rating</th><th>Comments</th>
-      </tr>
-    </thead>
-    <tbody>
-    @books.books.map { book =>
-      <tr>
-        <td></td>
-        <td>@book.author</td>
-        <td><a href="@book.url">@book.title</a></td>
-        <td>@book.subtitle.getOrElse("")</td>
-        <td>@book.year</td>
-        <td>@book.rating.fold("")(_.toString)</td>
-        <td>@book.comments</td>
-      </tr>
-    }
-    </tbody>
-  </table>
+  @books.books.groupBy(_.date.year).toSeq.sortBy(_._1).reverseMap { case (yearOption, booksForYear) =>
+    @bookTable(yearOption, booksForYear)
+  }
 }
