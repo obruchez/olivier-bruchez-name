@@ -2,11 +2,15 @@ package models
 
 import org.joda.time.Partial
 import scala.util.Try
+import scala.xml.Node
 import util._
 
 abstract class ListItem(val date: Partial)
 
 object Lists {
+  def introductionFromNode(node: Node): Try[HtmlContent] =
+    HtmlContent.fromMarkdown((node \\ "introduction").head.text)
+
   def dateFromString(string: String): Try[Partial] =
     Date.partialFromYyyymmddString(string.trim)
 

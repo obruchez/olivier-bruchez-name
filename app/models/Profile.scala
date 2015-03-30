@@ -3,6 +3,7 @@ package models
 import java.net.URL
 import scala.xml._
 import scala.util.Try
+import util.HtmlContent
 
 case class ProfileSubItem(description: String, url: String)
 
@@ -10,7 +11,7 @@ case class ProfileItem(profileSubItems: Seq[ProfileSubItem])
 
 case class ProfileList(title: String, profileItems: Seq[ProfileItem])
 
-case class Profile(introduction: String, profileLists: Seq[ProfileList]) {
+case class Profile(introduction: HtmlContent, profileLists: Seq[ProfileList]) {
   /**
    * @param partNumber 0-based part number (maximum value can be partCount - 1)
    * @param partCount total number of parts
@@ -49,11 +50,11 @@ object Profile {
   } yield profile
 
   def apply(elem: Elem): Try[Profile] = Try {
-    val lists = (elem \\ "profile").head
-    val introduction = (lists \\ "introduction").head.text
+    val profile = (elem \\ "profile").head
+    val introduction = Lists.introductionFromNode(profile).get
 
     val profileLists = for {
-      list <- lists \\ "list"
+      list <- profile \\ "list"
       title = list \@ "title"
     } yield {
         val profileItems = for (item <- list \\ "item") yield {

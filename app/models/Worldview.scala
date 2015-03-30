@@ -9,7 +9,7 @@ case class WorldviewPosition(summary: HtmlContent, details: HtmlContent)
 
 case class WorldviewCategory(description: HtmlContent, worldviewPositions: Seq[WorldviewPosition])
 
-case class Worldview(introduction: String, worldviewCategories: Seq[WorldviewCategory], references: Seq[HtmlContent])
+case class Worldview(introduction: HtmlContent, worldviewCategories: Seq[WorldviewCategory], references: Seq[HtmlContent])
 
 object Worldview {
   def apply(url: URL): Try[Worldview] = for {
@@ -19,7 +19,7 @@ object Worldview {
 
   def apply(elem: Elem): Try[Worldview] = Try {
      val worldview = (elem \\ "worldview").head
-     val introduction = (worldview \\ "introduction").head.text
+     val introduction = Lists.introductionFromNode(worldview).get
 
      val worldviewCategories = for {
        category <- worldview \\ "category"

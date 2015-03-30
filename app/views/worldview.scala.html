@@ -2,7 +2,7 @@
 
 @main(title = controllers.Sitemap.worldview.name) {
   <div class="tag-box tag-box-v2">
-    <p>@worldview.introduction</p>
+    <p>@Html(worldview.introduction.string)</p>
   </div>
 
   @worldview.worldviewCategories.map { worldviewCategory =>

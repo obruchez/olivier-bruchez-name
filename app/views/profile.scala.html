@@ -23,7 +23,7 @@
 
 @main(title = controllers.Sitemap.profile.name) {
   <div class="tag-box tag-box-v2">
-    <p>@profile.introduction</p>
+    <p>@Html(profile.introduction.string)</p>
   </div>
   <div class="col-md-6">
     @column(columnNumber = 0, columnCount = 2)

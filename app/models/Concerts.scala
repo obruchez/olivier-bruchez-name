@@ -26,7 +26,7 @@ object Concerts {
 
   def apply(elem: Elem): Try[Concerts] = Try {
     val concerts = (elem \\ "concerts").head
-    val introduction = (concerts \\ "introduction").head.text
+    val introduction = Lists.introductionFromNode(concerts).get
 
     val concertsSeq = for {
       concert <- concerts \\ "concert"
@@ -56,6 +56,6 @@ object Concerts {
         comments = Lists.commentsFromString(comments))
     }
 
-    Concerts(HtmlContent(introduction), concertsSeq)
+    Concerts(introduction, concertsSeq)
   }
 }

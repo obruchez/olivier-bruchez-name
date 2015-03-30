@@ -25,7 +25,7 @@ object Books {
 
   def apply(elem: Elem): Try[Books] = Try {
     val books = (elem \\ "books").head
-    val introduction = (books \\ "introduction").head.text
+    val introduction = Lists.introductionFromNode(books).get
 
     val booksSeq = for {
       book <- books \\ "book"
@@ -47,6 +47,6 @@ object Books {
       comments = Lists.commentsFromString(comments),
       url = new URL(url))
 
-    Books(HtmlContent(introduction), booksSeq)
+    Books(introduction, booksSeq)
   }
 }
