@@ -1,0 +1,36 @@
+@(trips: Trips)
+
+@import util.Date._
+
+@pictures(pictures: Seq[Pictures], place: String) = {
+  @pictures.map { pictures =>
+    <a href="@pictures.url.toString">@pictures.title.getOrElse(place)</a><br/>
+  }
+}
+
+@header = {
+  <tr>
+    <th class="col-md-1">From</th>
+    <th class="col-md-1">To</th>
+    <th class="col-md-5">Place</th>
+    <th class="col-md-5">Pictures</th>
+  </tr>
+}
+
+@rowFromItem(listItem: ListItem) = {
+  @defining(listItem.asInstanceOf[Trip]) { trip =>
+    <tr>
+      <td>@trip.from.yyyymmddString</td>
+      <td>@trip.to.yyyymmddString</td>
+      <td>@trip.place</td>
+      <td>@pictures(trip.pictures, trip.place)</td>
+    </tr>
+  }
+}
+
+@list(
+  title = Sitemap.trips.name,
+  introduction = trips.introduction,
+  items = trips.trips,
+  header = header,
+  rowFromItem = rowFromItem)

@@ -74,8 +74,12 @@ object Application extends Controller {
   }
 
   def trips = Action {
-    // @todo
-    Ok(views.html.home())
+    models.Trips(Sitemap.trips.sourceUrl.get) match {
+      case Success(trips) =>
+        Ok(views.html.trips(trips))
+      case Failure(throwable) =>
+        InternalServerError(views.html.error(Sitemap.trips.name, throwable))
+    }
   }
 
   def booksToRead = Action {
