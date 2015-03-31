@@ -1,5 +1,7 @@
 package models
 
+import java.net.URL
+
 import org.joda.time.Partial
 import scala.util.Try
 import scala.xml.Node
@@ -10,6 +12,14 @@ abstract class ListItem(val date: Partial)
 object Lists {
   def introductionFromNode(node: Node): Try[HtmlContent] =
     HtmlContent.fromMarkdown((node \\ "introduction").head.text)
+
+  def picturesFromNode(node: Node): Seq[Pictures] = for {
+    pictures <- node \\ "pictures"
+    title = pictures.text
+    url = pictures \@ "url"
+  } yield Pictures(
+    title = Option(title.trim).filter(_.nonEmpty),
+    url = new URL(url))
 
   def dateFromString(string: String): Try[Partial] =
     Date.partialFromYyyymmddString(string.trim)

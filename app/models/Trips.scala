@@ -6,8 +6,6 @@ import scala.util.Try
 import scala.xml.{Elem, XML}
 import util.HtmlContent
 
-case class Pictures(title: Option[String], url: URL)
-
 case class Trip(from: Partial,
                 to: Partial,
                 place: String,
@@ -30,21 +28,11 @@ object Trips {
       fromString = (trip \\ "from").text
       toString = (trip \\ "to").text
       place = (trip \\ "place").text
-    } yield {
-      val pictures = for {
-        pictures <- trip \\ "pictures"
-        title = pictures.text
-        url = pictures \@ "url"
-      } yield Pictures(
-        title = Option(title.trim).filter(_.nonEmpty),
-        url = new URL(url))
-
-      Trip(
-        from = Lists.dateFromString(fromString).get,
-        to = Lists.dateFromString(toString).get,
-        place = place,
-        pictures = pictures)
-    }
+    } yield Trip(
+      from = Lists.dateFromString(fromString).get,
+      to = Lists.dateFromString(toString).get,
+      place = place,
+      pictures = Lists.picturesFromNode(trip))
 
     Trips(introduction, tripsSeq)
   }

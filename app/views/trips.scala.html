@@ -2,12 +2,6 @@
 
 @import util.Date._
 
-@pictures(pictures: Seq[Pictures], place: String) = {
-  @pictures.map { pictures =>
-    <a href="@pictures.url.toString">@pictures.title.getOrElse(place)</a><br/>
-  }
-}
-
 @header = {
   <tr>
     <th class="col-md-1">From</th>

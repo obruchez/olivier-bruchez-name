@@ -59,8 +59,12 @@ object Application extends Controller {
   }
 
   def hikes = Action {
-    // @todo
-    Ok(views.html.home())
+    models.Hikes(Sitemap.hikes.sourceUrl.get) match {
+      case Success(hikes) =>
+        Ok(views.html.hikes(hikes))
+      case Failure(throwable) =>
+        InternalServerError(views.html.error(Sitemap.hikes.name, throwable))
+    }
   }
 
   def movies = Action {
