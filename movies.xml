@@ -2,6 +2,23 @@
 <movies title="Movies (Olivier Bruchez)" link="http://github.com/obruchez/public/blob/master/Lists/Movies.md" feed="http://raw.github.com/obruchez/blog/master/rss/movies.rss">
   <introduction>A list of movies I saw.</introduction>
   <movie>
+    <date>2015.03.29</date>
+    <theater>Galeries, Lausanne</theater>
+    <director>Tim Burton</director>
+    <title>Big Eyes</title>
+    <url>http://www.imdb.com/title/tt1126590/</url>
+    <rating>4.75</rating>
+  </movie>
+  <movie>
+    <date>2015.03.28</date>
+    <theater home="true"/>
+    <director>Marc Caro &amp; Jean-Pierre Jeunet</director>
+    <title>La cité des enfants perdus</title>
+    <title language="en">The City of Lost Children</title>
+    <url>http://www.imdb.com/title/tt0112682/</url>
+    <rating>4.75</rating>
+  </movie>
+  <movie>
     <date>2015.03.01</date>
     <theater>Galeries, Lausanne</theater>
     <director>Alejandro González Iñárritu</director>
