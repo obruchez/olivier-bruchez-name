@@ -56,8 +56,12 @@ object Application extends Controller {
   }
 
   def movies = Action {
-    // @todo
-    Ok(views.html.home())
+    models.Movies(Sitemap.movies.sourceUrl.get) match {
+       case Success(movies) =>
+         Ok(views.html.movies(movies))
+       case Failure(throwable) =>
+         InternalServerError(views.html.error(Sitemap.movies.name, throwable))
+     }
   }
 
   def plays = Action {

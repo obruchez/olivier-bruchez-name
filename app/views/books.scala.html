@@ -19,7 +19,7 @@
     <tr>
       <td>@book.date.yyyymmddString</td>
       <td>@book.author</td>
-      <td><a href="@book.url">@book.title</a></td>
+      <td><a href="@book.url.toString">@book.title</a></td>
       <td>@book.subtitle.getOrElse("")</td>
       <td>@book.year</td>
       <td>@book.rating.fold("")(_.toString)</td>

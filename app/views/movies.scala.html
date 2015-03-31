@@ -1,0 +1,42 @@
+@(movies: Movies)
+
+@import util.Date._
+
+@otherTitles(otherTitles: Seq[Title]) = {
+  @otherTitles.map(title => s"${title.title} (${title.locale.getDisplayName(java.util.Locale.ENGLISH)})").mkString(", ")
+}
+
+@header = {
+  <tr>
+    <th class="col-md-1">Date</th>
+    <th class="col-md-2">Theater</th>
+    <th class="col-md-2">Director</th>
+    <th class="col-md-2">Title</th>
+    <th>Alternative title(s)</th>
+    <th>Version</th>
+    <th>Rating</th>
+    <th class="col-md-2">Comments</th>
+  </tr>
+}
+
+@rowFromItem(listItem: ListItem) = {
+  @defining(listItem.asInstanceOf[Movie]) { movie =>
+    <tr>
+      <td>@movie.date.yyyymmddString</td>
+      <td>@movie.theater.fold(theater => theater, _.description)</td>
+      <td>@movie.director</td>
+      <td>@{movie.url.fold[xml.NodeSeq](xml.Text(movie.title))(url => <a href={url.toString}>{movie.title}</a>)}</td>
+      <td>@otherTitles(movie.otherTitles)</td>
+      <td>@movie.version.fold("Original")(_.getDisplayName(java.util.Locale.ENGLISH))</td>
+      <td>@movie.rating.fold("")(_.toString)</td>
+      <td>@Html(movie.comments.fold("")(_.string))</td>
+    </tr>
+  }
+}
+
+@list(
+  title = Sitemap.movies.name,
+  introduction = movies.introduction,
+  items = movies.movies,
+  header = header,
+  rowFromItem = rowFromItem)
