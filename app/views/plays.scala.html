@@ -1,0 +1,40 @@
+@(plays: Plays)
+
+@import util.Date._
+
+@header = {
+  <tr>
+    <th class="col-md-1">Date</th>
+    <th class="col-md-2">Location</th>
+    <th class="col-md-2">Name</th>
+    <th class="col-md-1">Author</th>
+    <th class="col-md-1">Adaptation</th>
+    <th class="col-md-1">Translation</th>
+    <th class="col-md-2">Actors</th>
+    <th class="col-md-1">Rating</th>
+    <th class="col-md-1">Comments</th>
+  </tr>
+}
+
+@rowFromItem(listItem: ListItem) = {
+  @defining(listItem.asInstanceOf[Play]) { play =>
+    <tr>
+      <td>@play.date.yyyymmddString</td>
+      <td>@play.location</td>
+      <td>@play.name</td>
+      <td>@play.author</td>
+      <td>@play.adaptation.getOrElse("")</td>
+      <td>@play.translation.getOrElse("")</td>
+      <td>@play.actors.mkString(", ")</td>
+      <td>@play.rating.fold("")(_.toString)</td>
+      <td>@Html(play.comments.fold("")(_.string))</td>
+    </tr>
+  }
+}
+
+@list(
+  title = Sitemap.plays.name,
+  introduction = plays.introduction,
+  items = plays.plays,
+  header = header,
+  rowFromItem = rowFromItem)
