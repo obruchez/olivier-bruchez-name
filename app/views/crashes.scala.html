@@ -1,0 +1,30 @@
+@(crashes: Crashes)
+
+@import util.Date._
+
+@header = {
+  <tr>
+    <th class="col-md-1">Date</th>
+    <th class="col-md-3">Manufacturer</th>
+    <th class="col-md-3">Model</th>
+    <th class="col-md-5">Comments</th>
+  </tr>
+}
+
+@rowFromItem(listItem: ListItem) = {
+  @defining(listItem.asInstanceOf[Crash]) { crash =>
+    <tr>
+      <td>@crash.date.yyyymmddString</td>
+      <td>@crash.manufacturer</td>
+      <td>@crash.model</td>
+      <td>@Html(crash.comments.fold("")(_.string))</td>
+    </tr>
+  }
+}
+
+@list(
+  title = Sitemap.crashes.name,
+  introduction = crashes.introduction,
+  items = crashes.crashes,
+  header = header,
+  rowFromItem = rowFromItem)
