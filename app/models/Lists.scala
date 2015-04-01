@@ -6,8 +6,9 @@ import org.joda.time.Partial
 import scala.util.Try
 import scala.xml.Node
 import util._
+import util.Date._
 
-abstract class ListItem(val date: Partial)
+abstract class ListItem(val date: Partial, val slug: String)
 
 object Lists {
   def introductionFromNode(node: Node): Try[HtmlContent] =
@@ -40,4 +41,15 @@ object Lists {
       ", "
     else
       ""
+
+  def slug(listItem: ListItem, allListItems: Seq[ListItem]): String = {
+    val candidateSlug = listItem.date.yyyymmddString
+
+    val listItemsWithSameDate = allListItems.reverse.filter(_.date.yyyymmddString == candidateSlug)
+
+    if (listItemsWithSameDate.size == 1)
+      candidateSlug
+    else
+      candidateSlug + "-" + (listItemsWithSameDate.indexOf(listItem) + 1)
+  }
 }

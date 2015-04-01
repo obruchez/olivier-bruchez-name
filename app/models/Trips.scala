@@ -9,7 +9,8 @@ import util.HtmlContent
 case class Trip(from: Partial,
                 to: Partial,
                 place: String,
-                pictures: Seq[Pictures]) extends ListItem(from)
+                pictures: Seq[Pictures],
+                override val slug: String = "") extends ListItem(from, slug)
 
 case class Trips(introduction: HtmlContent, trips: Seq[Trip])
 
@@ -34,6 +35,6 @@ object Trips {
       place = place,
       pictures = Lists.picturesFromNode(trip))
 
-    Trips(introduction, tripsSeq)
+    Trips(introduction, tripsSeq.map(trip => trip.copy(slug = Lists.slug(trip, tripsSeq))))
   }
 }

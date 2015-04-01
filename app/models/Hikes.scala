@@ -8,7 +8,8 @@ import util.HtmlContent
 
 case class Hike(override val date: Partial,
                 place: String,
-                pictures: Seq[Pictures]) extends ListItem(date)
+                pictures: Seq[Pictures],
+                override val slug: String = "") extends ListItem(date, slug)
 
 case class Hikes(introduction: HtmlContent, hikes: Seq[Hike])
 
@@ -31,6 +32,6 @@ object Hikes {
       place = place.trim,
       pictures = Lists.picturesFromNode(hike))
 
-    Hikes(introduction, hikesSeq)
+    Hikes(introduction, hikesSeq.map(hike => hike.copy(slug = Lists.slug(hike, hikesSeq))))
   }
 }

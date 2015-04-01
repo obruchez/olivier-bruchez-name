@@ -22,7 +22,7 @@
 @rowFromItem(listItem: ListItem) = {
   @defining(listItem.asInstanceOf[Movie]) { movie =>
     <tr>
-      <td>@movie.date.yyyymmddString</td>
+      <td>@sluganddate(movie)</td>
       <td>@movie.theater.fold(theater => theater, _.description)</td>
       <td>@movie.director</td>
       <td>@{movie.url.fold[xml.NodeSeq](xml.Text(movie.title))(url => <a href={url.toString}>{movie.title}</a>)}</td>

@@ -13,7 +13,7 @@
 @rowFromItem(listItem: ListItem) = {
   @defining(listItem.asInstanceOf[Hike]) { hike =>
     <tr>
-      <td>@hike.date.yyyymmddString</td>
+      <td>@sluganddate(hike)</td>
       <td>@hike.place</td>
       <td>@pictures(hike.pictures, hike.place)</td>
     </tr>

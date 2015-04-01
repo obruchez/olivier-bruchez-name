@@ -19,7 +19,7 @@
 @rowFromItem(listItem: ListItem) = {
   @defining(listItem.asInstanceOf[Play]) { play =>
     <tr>
-      <td>@play.date.yyyymmddString</td>
+      <td>@sluganddate(play)</td>
       <td>@play.location</td>
       <td>@play.name</td>
       <td>@play.author</td>

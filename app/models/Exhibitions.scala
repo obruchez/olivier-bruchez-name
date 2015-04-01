@@ -10,7 +10,8 @@ case class Exhibition(override val date: Partial,
                       name: String,
                       museum: String,
                       rating: Option[Double],
-                      comments: Option[HtmlContent]) extends ListItem(date)
+                      comments: Option[HtmlContent],
+                      override val slug: String = "") extends ListItem(date, slug)
 
 case class Exhibitions(introduction: HtmlContent, exhibitions: Seq[Exhibition])
 
@@ -38,6 +39,8 @@ object Exhibitions {
       rating = Lists.ratingFromString(ratingString),
       comments = Lists.commentsFromString(comments))
 
-    Exhibitions(introduction, exhibitionsSeq)
+    Exhibitions(
+      introduction,
+      exhibitionsSeq.map(exhibition => exhibition.copy(slug = Lists.slug(exhibition, exhibitionsSeq))))
   }
 }

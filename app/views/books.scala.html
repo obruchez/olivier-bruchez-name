@@ -17,7 +17,7 @@
 @rowFromItem(listItem: ListItem) = {
   @defining(listItem.asInstanceOf[Book]) { book =>
     <tr>
-      <td>@book.date.yyyymmddString</td>
+      <td>@sluganddate(book)</td>
       <td>@book.author</td>
       <td><a href="@book.url.toString">@book.title</a></td>
       <td>@book.subtitle.getOrElse("")</td>

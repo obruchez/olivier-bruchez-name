@@ -31,7 +31,7 @@
 @rowFromItem(listItem: ListItem) = {
   @defining(listItem.asInstanceOf[Concert]) { concert =>
     <tr>
-      <td>@concert.date.yyyymmddString</td>
+      <td>@sluganddate(concert)</td>
       <td>@musicians(concert.band, concert.musicians)</td>
       <td>@concert.location</td>
       <td>@concert.event.getOrElse("")</td>

@@ -20,7 +20,8 @@ case class Movie(override val date: Partial,
                  version: Option[Locale],
                  rating: Option[Double],
                  comments: Option[HtmlContent],
-                 url: Option[URL]) extends ListItem(date)
+                 url: Option[URL],
+                 override val slug: String = "") extends ListItem(date, slug)
 
 case class Movies(introduction: HtmlContent, movies: Seq[Movie])
 
@@ -69,6 +70,6 @@ object Movies {
           url = Option(url.trim).filter(_.nonEmpty).map(new URL(_)))
       }
 
-    Movies(introduction, moviesSeq)
+    Movies(introduction, moviesSeq.map(movie => movie.copy(slug = Lists.slug(movie, moviesSeq))))
   }
 }

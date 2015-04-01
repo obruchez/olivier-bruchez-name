@@ -13,7 +13,8 @@ case class Book(override val date: Partial,
                 year: Int,
                 rating: Option[Double],
                 comments: Option[HtmlContent],
-                url: URL) extends ListItem(date)
+                url: URL,
+                override val slug: String = "") extends ListItem(date, slug)
 
 case class Books(introduction: HtmlContent, books: Seq[Book])
 
@@ -47,6 +48,6 @@ object Books {
       comments = Lists.commentsFromString(comments),
       url = new URL(url))
 
-    Books(introduction, booksSeq)
+    Books(introduction, booksSeq.map(book => book.copy(slug = Lists.slug(book, booksSeq))))
   }
 }

@@ -14,7 +14,7 @@
 @rowFromItem(listItem: ListItem) = {
   @defining(listItem.asInstanceOf[Trip]) { trip =>
     <tr>
-      <td>@trip.from.yyyymmddString</td>
+      <td>@sluganddate(trip)</td>
       <td>@trip.to.yyyymmddString</td>
       <td>@trip.place</td>
       <td>@pictures(trip.pictures, trip.place)</td>

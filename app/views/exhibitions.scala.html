@@ -15,7 +15,7 @@
 @rowFromItem(listItem: ListItem) = {
   @defining(listItem.asInstanceOf[Exhibition]) { exhibition =>
     <tr>
-      <td>@exhibition.date.yyyymmddString</td>
+      <td>@sluganddate(exhibition)</td>
       <td>@exhibition.name</td>
       <td>@exhibition.museum</td>
       <td>@exhibition.rating.fold("")(_.toString)</td>

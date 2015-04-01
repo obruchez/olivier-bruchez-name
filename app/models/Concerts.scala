@@ -14,7 +14,8 @@ case class Concert(override val date: Partial,
                    band: Option[String],
                    musicians: Seq[Musician],
                    rating: Option[Double],
-                   comments: Option[HtmlContent]) extends ListItem(date)
+                   comments: Option[HtmlContent],
+                   override val slug: String = "") extends ListItem(date, slug)
 
 case class Concerts(introduction: HtmlContent, concerts: Seq[Concert])
 
@@ -56,6 +57,6 @@ object Concerts {
         comments = Lists.commentsFromString(comments))
     }
 
-    Concerts(introduction, concertsSeq)
+    Concerts(introduction, concertsSeq.map(concert => concert.copy(slug = Lists.slug(concert, concertsSeq))))
   }
 }

@@ -9,7 +9,8 @@ import util.HtmlContent
 case class Crash(override val date: Partial,
                  manufacturer: String,
                  model: String,
-                 comments: Option[HtmlContent]) extends ListItem(date)
+                 comments: Option[HtmlContent],
+                 override val slug: String = "") extends ListItem(date, slug)
 
 case class Crashes(introduction: HtmlContent, crashes: Seq[Crash])
 
@@ -35,6 +36,6 @@ object Crashes {
       model = model.trim,
       comments = Lists.commentsFromString(comments))
 
-    Crashes(introduction, crashesSeq)
+    Crashes(introduction, crashesSeq.map(crash => crash.copy(slug = Lists.slug(crash, crashesSeq))))
   }
 }

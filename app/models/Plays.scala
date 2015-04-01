@@ -15,7 +15,8 @@ case class Play(override val date: Partial,
                 translation: Option[String],
                 actors: Seq[String],
                 rating: Option[Double],
-                comments: Option[HtmlContent]) extends ListItem(date)
+                comments: Option[HtmlContent],
+                override val slug: String = "") extends ListItem(date, slug)
 
 case class Plays(introduction: HtmlContent, plays: Seq[Play])
 
@@ -54,6 +55,6 @@ object Plays {
         rating = Lists.ratingFromString(ratingString),
         comments = Lists.commentsFromString(comments))
 
-    Plays(introduction, playsSeq)
+    Plays(introduction, playsSeq.map(play => play.copy(slug = Lists.slug(play, playsSeq))))
   }
 }

@@ -5,7 +5,9 @@
 @table(yearOption: Option[Int], itemsForYear: Seq[ListItem]) = {
   <div class="panel panel-u">
     <div class="panel-heading">
-      <h3 class="panel-title"><i class="fa fa-calendar"></i> @yearOption.fold("?")(_.toString) (@itemsForYear.size)</h3>
+      <section id="@yearOption.fold("?")(_.toString)">
+        <h3 class="panel-title"><i class="fa fa-calendar"></i> @yearOption.fold("?")(_.toString) (@itemsForYear.size)</h3>
+      </section>
     </div>
     <table class="table table-bordered table-striped">
       <thead>
