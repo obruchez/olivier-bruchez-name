@@ -19,9 +19,8 @@
 }
 
 @main(page) {
-  <!-- <i class="icon-custom icon-lg rounded-x icon-bg-u icon-line icon-rocket"></i> -->
   <div class="tag-box tag-box-v2">
-    <p>@Html(introduction.string)</p>
+    @Html(introduction.string)<span class="badge rounded-x badge-u pull-right">@items.size</span>
   </div>
   @items.groupBy(_.date.year).toSeq.sortBy(_._1).reverseMap { case (yearOption, itemsForYear) =>
     @table(yearOption, itemsForYear)
