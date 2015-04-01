@@ -1,4 +1,4 @@
-@(title: String, introduction: util.HtmlContent, items: Seq[ListItem], header: play.twirl.api.Html, rowFromItem: (ListItem) => play.twirl.api.Html)
+@(page: Page, introduction: util.HtmlContent, items: Seq[ListItem], header: play.twirl.api.Html, rowFromItem: (ListItem) => play.twirl.api.Html)
 
 @import util.Date._
 
@@ -18,7 +18,8 @@
   </div>
 }
 
-@main(title) {
+@main(page) {
+  <!-- <i class="icon-custom icon-lg rounded-x icon-bg-u icon-line icon-rocket"></i> -->
   <div class="tag-box tag-box-v2">
     <p>@Html(introduction.string)</p>
   </div>

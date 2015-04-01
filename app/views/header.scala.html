@@ -1,4 +1,4 @@
-@(title: String)
+@(page: Page)
 
 <!--=== Header ===-->
 <div class="header">
@@ -50,20 +50,20 @@
             <ul class="nav navbar-nav">
                 @controllers.Sitemap.pages.map { page =>
                     @if(page.children.isEmpty) {
-                        <li><a href="@page.url">@page.name</a></li>
+                        <li><a href="@page.url">@page.title</a></li>
                     } else {
                         <li class="dropdown">
-                            <a href="@page.url" class="dropdown-toggle" data-toggle="dropdown">@page.name</a>
+                            <a href="@page.url" class="dropdown-toggle" data-toggle="dropdown">@page.title</a>
                             <ul class="dropdown-menu">
                                 @page.children.map { childPage =>
                                     @if(childPage.children.isEmpty) {
-                                        <li><a href="@childPage.url">@childPage.name</a></li>
+                                        <li><a href="@childPage.url">@childPage.title</a></li>
                                     } else {
                                         <li class="dropdown-submenu">
-                                            <a href="@childPage.url">@childPage.name</a>
+                                            <a href="@childPage.url">@childPage.title</a>
                                             <ul class="dropdown-menu">
                                                 @childPage.children.map { grandChildPage =>
-                                                    <li><a href="@grandChildPage.url">@grandChildPage.name</a></li>
+                                                    <li><a href="@grandChildPage.url">@grandChildPage.title</a></li>
                                                 }
                                             </ul>
                                         </li>

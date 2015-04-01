@@ -1,11 +1,11 @@
-@(title: String)(content: Html)
+@(page: Page)(content: Html)
 
 <!DOCTYPE html>
 <!--[if IE 8]> <html lang="en" class="ie8"> <![endif]-->
 <!--[if IE 9]> <html lang="en" class="ie9"> <![endif]-->
 <!--[if !IE]><!--> <html lang="en"> <!--<![endif]-->
 <head>
-    <title>@title</title>
+    <title>@page.title</title>
 
     <!-- Meta -->
     <meta charset="utf-8">
@@ -45,15 +45,15 @@
 <body>
 
 <div class="wrapper">
-    @header(title)
+    @header(page)
 
-    @breadcrumbs(title)
+    @breadcrumbs(page)
 
     <div class="container content height-500">
         @content
     </div>
 
-    @footer(title)
+    @footer(page)
 </div>
 
 <!-- JS Global Compulsory -->

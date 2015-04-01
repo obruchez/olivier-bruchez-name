@@ -13,13 +13,13 @@ object Application extends Controller {
       case Success(profile) =>
         Ok(views.html.profile(profile))
       case Failure(throwable) =>
-        InternalServerError(views.html.error(Sitemap.profile.name, throwable))
+        InternalServerError(views.html.error(Sitemap.profile, throwable))
     }
   }
 
   def lists = Action {
     // @todo
-    Ok(views.html.menu(Sitemap.lists.name))
+    Ok(views.html.menu(Sitemap.lists))
   }
 
   def books = Action {
@@ -27,7 +27,7 @@ object Application extends Controller {
       case Success(books) =>
         Ok(views.html.books(books))
       case Failure(throwable) =>
-        InternalServerError(views.html.error(Sitemap.books.name, throwable))
+        InternalServerError(views.html.error(Sitemap.books, throwable))
     }
   }
 
@@ -36,7 +36,7 @@ object Application extends Controller {
       case Success(concerts) =>
         Ok(views.html.concerts(concerts))
       case Failure(throwable) =>
-        InternalServerError(views.html.error(Sitemap.concerts.name, throwable))
+        InternalServerError(views.html.error(Sitemap.concerts, throwable))
     }
   }
 
@@ -45,7 +45,7 @@ object Application extends Controller {
       case Success(crashes) =>
         Ok(views.html.crashes(crashes))
       case Failure(throwable) =>
-        InternalServerError(views.html.error(Sitemap.crashes.name, throwable))
+        InternalServerError(views.html.error(Sitemap.crashes, throwable))
     }
   }
 
@@ -54,7 +54,7 @@ object Application extends Controller {
       case Success(exhibitions) =>
         Ok(views.html.exhibitions(exhibitions))
       case Failure(throwable) =>
-        InternalServerError(views.html.error(Sitemap.exhibitions.name, throwable))
+        InternalServerError(views.html.error(Sitemap.exhibitions, throwable))
     }
   }
 
@@ -63,7 +63,7 @@ object Application extends Controller {
       case Success(hikes) =>
         Ok(views.html.hikes(hikes))
       case Failure(throwable) =>
-        InternalServerError(views.html.error(Sitemap.hikes.name, throwable))
+        InternalServerError(views.html.error(Sitemap.hikes, throwable))
     }
   }
 
@@ -72,7 +72,7 @@ object Application extends Controller {
        case Success(movies) =>
          Ok(views.html.movies(movies))
        case Failure(throwable) =>
-         InternalServerError(views.html.error(Sitemap.movies.name, throwable))
+         InternalServerError(views.html.error(Sitemap.movies, throwable))
      }
   }
 
@@ -81,7 +81,7 @@ object Application extends Controller {
       case Success(plays) =>
         Ok(views.html.plays(plays))
       case Failure(throwable) =>
-        InternalServerError(views.html.error(Sitemap.plays.name, throwable))
+        InternalServerError(views.html.error(Sitemap.plays, throwable))
     }
   }
 
@@ -90,43 +90,43 @@ object Application extends Controller {
       case Success(trips) =>
         Ok(views.html.trips(trips))
       case Failure(throwable) =>
-        InternalServerError(views.html.error(Sitemap.trips.name, throwable))
+        InternalServerError(views.html.error(Sitemap.trips, throwable))
     }
   }
 
   def booksToRead = Action {
     // @todo
-    Ok(views.html.menu(Sitemap.booksToRead.name))
+    Ok(views.html.menu(Sitemap.booksToRead))
   }
 
   def moviesToWatch = Action {
     // @todo
-    Ok(views.html.menu(Sitemap.moviesToWatch.name))
+    Ok(views.html.menu(Sitemap.moviesToWatch))
   }
 
   def seenOnTv = Action {
     // @todo
-    Ok(views.html.menu(Sitemap.seenOnTv.name))
+    Ok(views.html.menu(Sitemap.seenOnTv))
   }
 
   def tripsToTake = Action {
     // @todo
-    Ok(views.html.menu(Sitemap.tripsToTake.name))
+    Ok(views.html.menu(Sitemap.tripsToTake))
   }
 
   def coursera = Action {
     // @todo
-    Ok(views.html.menu(Sitemap.coursera.name))
+    Ok(views.html.menu(Sitemap.coursera))
   }
 
   def lifePrinciples = Action {
     // @todo
-    Ok(views.html.menu(Sitemap.lifePrinciples.name))
+    Ok(views.html.menu(Sitemap.lifePrinciples))
   }
 
   def votes = Action {
     // @todo
-    Ok(views.html.menu(Sitemap.votes.name))
+    Ok(views.html.menu(Sitemap.votes))
   }
 
   def worldview = Action {
@@ -134,12 +134,12 @@ object Application extends Controller {
       case Success(worldview) =>
         Ok(views.html.worldview(worldview))
       case Failure(throwable) =>
-        InternalServerError(views.html.error(Sitemap.worldview.name, throwable))
+        InternalServerError(views.html.error(Sitemap.worldview, throwable))
     }
   }
 
   def externalLinks = Action {
     // @todo
-    Ok(views.html.menu(Sitemap.externalLinks.name))
+    Ok(views.html.menu(Sitemap.externalLinks))
   }
 }

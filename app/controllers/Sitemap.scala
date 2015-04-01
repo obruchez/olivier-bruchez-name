@@ -4,32 +4,39 @@ import java.net.URL
 import play.api.mvc._
 import util.Configuration
 
-case class Page(name: String, url: String, sourceUrl: Option[URL] = None, children: Seq[Page] = Seq())
+case class Page(title: String,
+                url: String,
+                icon: Option[String] = None,
+                sourceUrl: Option[URL] = None,
+                children: Seq[Page] = Seq())
 
 object Page {
-  def apply(name: String, call: Call, sourceUrlPath: String): Page =
-    Page(name, call.url, sourceUrl = Configuration.url(sourceUrlPath))
+  def apply(title: String, call: Call, icon: String, sourceUrlPath: String): Page =
+    Page(title, call.url, icon = Some(icon), sourceUrl = Configuration.url(sourceUrlPath))
 
-  def apply(name: String, call: Call): Page =
-    Page(name, call.url, children = Seq())
+  def apply(title: String, call: Call, icon: String): Page =
+    Page(title, call.url, icon = Some(icon), children = Seq())
 
-  def apply(name: String, call: Call, children: Seq[Page]): Page =
-    Page(name, call.url, children = children)
+  def apply(title: String, call: Call, children: Seq[Page]): Page =
+    Page(title, call.url, children = children)
 }
 
 object Sitemap {
-  val home = Page("Home", routes.Application.home())
+  // @todo better icon for hikes: https://cdn2.iconfinder.com/data/icons/vacation-landmarks/512/12-512.png
+  // @todo better icon for plays: https://cdn0.iconfinder.com/data/icons/huge-basic-icons-part-3/512/Theater_symbol.png
 
-  val profile = Page("About / profile", routes.Application.profile(), "url.profile")
+  val home = Page("Home", routes.Application.home(), "fa-home")
 
-  val books = Page("Books", routes.Application.books(), "url.books")
-  val concerts = Page("Concerts", routes.Application.concerts(), "url.concerts")
-  val crashes = Page("Crashes", routes.Application.crashes(), "url.crashes")
-  val exhibitions = Page("Exhibitions", routes.Application.exhibitions(), "url.exhibitions")
-  val hikes = Page("Hikes", routes.Application.hikes(), "url.hikes")
-  val movies = Page("Movies", routes.Application.movies(), "url.movies")
-  val plays = Page("Plays", routes.Application.plays(), "url.plays")
-  val trips = Page("Trips", routes.Application.trips(), "url.trips")
+  val profile = Page("About / profile", routes.Application.profile(), "fa-user", "url.profile")
+
+  val books = Page("Books", routes.Application.books(), "fa-book", "url.books")
+  val concerts = Page("Concerts", routes.Application.concerts(), "fa-music", "url.concerts") // @todo better icon
+  val crashes = Page("Crashes", routes.Application.crashes(), "fa-hdd-o", "url.crashes") // @todo better icon
+  val exhibitions = Page("Exhibitions", routes.Application.exhibitions(), "fa-university", "url.exhibitions") // @todo better icon
+  val hikes = Page("Hikes", routes.Application.hikes(), "fa-sun-o", "url.hikes") // @todo better icon
+  val movies = Page("Movies", routes.Application.movies(), "fa-film", "url.movies")
+  val plays = Page("Plays", routes.Application.plays(), "fa-ticket", "url.plays") // @todo better icon
+  val trips = Page("Trips", routes.Application.trips(), "fa-suitcase", "url.trips")
 
   val lists = Page(
     "Lists / lifelogging",
@@ -37,15 +44,15 @@ object Sitemap {
     children = Seq(books, concerts, crashes, exhibitions, hikes, movies, plays, trips))
 
 
-  val booksToRead = Page("Books to read", routes.Application.booksToRead(), "url.bookstoread")
-  val moviesToWatch = Page("Movies to watch", routes.Application.moviesToWatch(), "url.moviestowatch")
-  val seenOnTv = Page("Seen on TV", routes.Application.seenOnTv(), "url.seenontv")
-  val tripsToTake = Page("Trips to take", routes.Application.tripsToTake(), "url.tripstotake")
+  val booksToRead = Page("Books to read", routes.Application.booksToRead(), "fa-book", "url.bookstoread")
+  val moviesToWatch = Page("Movies to watch", routes.Application.moviesToWatch(), "fa-film", "url.moviestowatch")
+  val seenOnTv = Page("Seen on TV", routes.Application.seenOnTv(),"fa-desktop", "url.seenontv") // @todo better icon
+  val tripsToTake = Page("Trips to take", routes.Application.tripsToTake(), "fa-suitcase", "url.tripstotake")
 
-  val coursera = Page("Coursera", routes.Application.coursera(), "url.coursera")
-  val lifePrinciples = Page("Life principles", routes.Application.lifePrinciples(), "url.lifeprinciples")
-  val votes = Page("Votes", routes.Application.votes(), "url.votes")
-  val worldview = Page("Worldview", routes.Application.worldview(), "url.worldview")
+  val coursera = Page("Coursera", routes.Application.coursera(), "", "url.coursera") // @todo find icon
+  val lifePrinciples = Page("Life principles", routes.Application.lifePrinciples(), "", "url.lifeprinciples") // @todo find icon
+  val votes = Page("Votes", routes.Application.votes(), "", "url.votes") // @todo find icon
+  val worldview = Page("Worldview", routes.Application.worldview(), "fa-globe", "url.worldview")
 
   // url.cv.html
   // url.cv.pdf
@@ -55,15 +62,15 @@ object Sitemap {
     "External links",
     url = "",
     children = Seq(
-      Page("Blogger", "https://bruchez.blogspot.com/"),
-      Page("Facebook", "https://www.facebook.com/obruchez"),
-      Page("Flickr", "https://secure.flickr.com/photos/bruchez/sets"),
-      Page("Github", "https://github.com/obruchez"),
-      Page("KeithJarrett.org", "http://www.keithjarrett.org/"),
-      Page("Last.fm", "http://www.last.fm/user/obruchez"),
-      Page("LinkedIn", "https://www.linkedin.com/in/obruchez"),
-      Page("Twitter", "https://twitter.com/obruchez"),
-      Page("YouTube", "https://www.youtube.com/user/obruchez")))
+      Page("Blogger", "https://bruchez.blogspot.com/", Some("fa-rss-square")), // @todo better icon
+      Page("Facebook", "https://www.facebook.com/obruchez", Some("fa-facebook-square")),
+      Page("Flickr", "https://secure.flickr.com/photos/bruchez/sets", Some("fa-flickr")),
+      Page("Github", "https://github.com/obruchez", Some("fa-github-square")),
+      Page("KeithJarrett.org", "http://www.keithjarrett.org/", Some("fa-caret-square-o-right")), // @todo better icon
+      Page("Last.fm", "http://www.last.fm/user/obruchez", Some("fa-lastfm-square")),
+      Page("LinkedIn", "https://www.linkedin.com/in/obruchez", Some("fa-linkedin-square")),
+      Page("Twitter", "https://twitter.com/obruchez", Some("fa-twitter-square")),
+      Page("YouTube", "https://www.youtube.com/user/obruchez", Some("fa-youtube-square"))))
 
   val pages = Seq(home, profile, worldview, lists, externalLinks)
 }
