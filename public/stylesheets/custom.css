@@ -1,1 +1,17 @@
 /* Add here all your css styles (customizations) */
+
+.toc-panel ul {
+    margin-bottom: 0;
+}
+
+.toc-panel ul ul.list-unstyled {
+    padding-left: 15px;
+}
+
+.toc-panel ul li {
+    margin-bottom: 5px;
+}
+
+.toc-panel ul li ul li {
+    margin-bottom: 0;
+}

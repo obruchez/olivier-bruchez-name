@@ -5,6 +5,32 @@
     <p>@Html(worldview.introduction.string)</p>
   </div>
 
+  <div class="panel-group acc-v1" id="accordion-1">
+    <div class="panel panel-default">
+      <div class="panel-heading">
+        <h4 class="panel-title">
+          <a class="accordion-toggle" data-toggle="collapse" href="#collapse-toc">Sommaire</a>
+        </h4>
+      </div>
+      <div id="collapse-toc" class="panel-collapse collapse">
+        <div class="panel-body toc-panel">
+          <ul class="list-unstyled">
+          @worldview.worldviewCategories.zipWithIndex.map { case (worldviewCategory, index) =>
+            <li>
+              <a href="#@worldviewCategory.slug">@{index + 1} @Html(worldviewCategory.description.string)</a>
+              <ul class="list-unstyled">
+              @worldviewCategory.worldviewPositions.zipWithIndex.map { case (worldviewPosition, subIndex) =>
+                <li><a href="#@worldviewPosition.slug">@{index + 1}.@{subIndex + 1} @Html(worldviewPosition.summary.string)</a></li>
+              }
+              </ul>
+            </li>
+          }
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+
   @worldview.worldviewCategories.map { worldviewCategory =>
     <div class="headline">
       <section id="@worldviewCategory.slug"><h2>@Html(worldviewCategory.description.string)</h2></section>
@@ -18,7 +44,9 @@
     }
   }
 
-  <div class="headline"><h2>Références</h2></div>
+  <div class="headline">
+    <section id="references"><h2>Références</h2></section>
+  </div>
 
   <ul class="list-unstyled">
     @worldview.references.map { reference =>
