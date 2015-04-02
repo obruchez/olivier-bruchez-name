@@ -9,7 +9,7 @@ case class ProfileSubItem(description: String, url: String)
 
 case class ProfileItem(profileSubItems: Seq[ProfileSubItem])
 
-case class ProfileList(title: String, profileItems: Seq[ProfileItem])
+case class ProfileList(title: String, profileItems: Seq[ProfileItem], slug: String)
 
 case class Profile(introduction: HtmlContent, profileLists: Seq[ProfileList]) {
   /**
@@ -72,7 +72,7 @@ object Profile {
           ProfileItem(allProfileSubItems)
         }
 
-      ProfileList(title, profileItems)
+      ProfileList(title, profileItems, slug = Lists.slugFromString(title))
     }
 
     Profile(introduction, profileLists)

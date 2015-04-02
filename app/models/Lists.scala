@@ -52,4 +52,7 @@ object Lists {
     else
       candidateSlug + "-" + (listItemsWithSameDate.indexOf(listItem) + 1)
   }
+
+  def slugFromString(string: String): String =
+    string.split('/').head.trim.toLowerCase.replaceAll(" ", "-")
 }
