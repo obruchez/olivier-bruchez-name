@@ -5,9 +5,9 @@ import scala.util.Try
 import scala.xml._
 import util.HtmlContent
 
-case class WorldviewPosition(summary: HtmlContent, details: HtmlContent)
+case class WorldviewPosition(summary: HtmlContent, details: HtmlContent, slug: String)
 
-case class WorldviewCategory(description: HtmlContent, worldviewPositions: Seq[WorldviewPosition])
+case class WorldviewCategory(description: HtmlContent, worldviewPositions: Seq[WorldviewPosition], slug: String)
 
 case class Worldview(introduction: HtmlContent, worldviewCategories: Seq[WorldviewCategory], references: Seq[HtmlContent])
 
@@ -24,16 +24,22 @@ object Worldview {
      val worldviewCategories = for {
        category <- worldview \\ "category"
        descriptionAsMarkdown = category \@ "description"
+       categorySlug = category \@ "slug"
      } yield {
          val worldviewPositions = for {
            position <- category \\ "position"
            summaryAsMarkdown = position \@ "summary"
            detailsAsMarkdown = position.text
+           positionSlug = position \@ "slug"
          } yield WorldviewPosition(
            summary = HtmlContent.fromMarkdown(summaryAsMarkdown).get,
-           details = HtmlContent.fromMarkdown(detailsAsMarkdown).get)
+           details = HtmlContent.fromMarkdown(detailsAsMarkdown).get,
+           slug = positionSlug)
 
-         WorldviewCategory(description = HtmlContent.fromMarkdown(descriptionAsMarkdown).get, worldviewPositions)
+         WorldviewCategory(
+           description = HtmlContent.fromMarkdown(descriptionAsMarkdown).get,
+           worldviewPositions = worldviewPositions,
+           slug = categorySlug)
      }
 
     val references = for {
