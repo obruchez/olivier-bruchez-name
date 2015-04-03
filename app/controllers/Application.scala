@@ -1,5 +1,7 @@
 package controllers
 
+import actors.Cache
+import play.api.libs.concurrent.Execution.Implicits._
 import play.api.mvc._
 import scala.util._
 
@@ -22,13 +24,8 @@ object Application extends Controller {
     Ok(views.html.menu(Sitemap.lists))
   }
 
-  def books = Action {
-    models.Books(Sitemap.books.sourceUrl.get) match {
-      case Success(books) =>
-        Ok(views.html.books(books))
-      case Failure(throwable) =>
-        InternalServerError(views.html.error(Sitemap.books, throwable))
-    }
+  def books = Action.async {
+    gCache.books.map(books => Ok(views.html.books(books)))
   }
 
   def concerts = Action {

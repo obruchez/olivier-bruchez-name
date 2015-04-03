@@ -1,6 +1,7 @@
 package controllers
 
 import java.net.URL
+import models._
 import play.api.mvc._
 import util.Configuration
 
@@ -11,6 +12,9 @@ case class Page(title: String,
                 children: Seq[Page] = Seq())
 
 object Page {
+  def apply(fetchable: Fetchable[_], call: Call, icon: String): Page =
+    Page(title = fetchable.name, call.url, icon = Some(icon), sourceUrl = Some(fetchable.sourceUrl))
+
   def apply(title: String, call: Call, icon: String, sourceUrlPath: String): Page =
     Page(title, call.url, icon = Some(icon), sourceUrl = Configuration.url(sourceUrlPath))
 
@@ -29,7 +33,7 @@ object Sitemap {
 
   val profile = Page("About / profile", routes.Application.profile(), "fa-user", "url.profile")
 
-  val books = Page("Books", routes.Application.books(), "fa-book", "url.books")
+  val books = Page(Books, routes.Application.books(), "fa-book")
   val concerts = Page("Concerts", routes.Application.concerts(), "fa-music", "url.concerts") // @todo better icon
   val crashes = Page("Crashes", routes.Application.crashes(), "fa-hdd-o", "url.crashes") // @todo better icon
   val exhibitions = Page("Exhibitions", routes.Application.exhibitions(), "fa-university", "url.exhibitions") // @todo better icon

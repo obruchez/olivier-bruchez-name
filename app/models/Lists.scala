@@ -1,12 +1,23 @@
 package models
 
 import java.net.URL
-
 import org.joda.time.Partial
 import scala.util.Try
 import scala.xml.Node
+import scala.concurrent.duration._
 import util._
 import util.Date._
+
+trait Cacheable {
+  def size: Int
+}
+
+trait Fetchable[T <: Cacheable] {
+  def name: String
+  def sourceUrl: URL
+  def fetchPeriod: FiniteDuration = 60.seconds
+  def fetch(): Try[T]
+}
 
 abstract class ListItem(val date: Partial, val slug: String)
 
