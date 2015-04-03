@@ -4,7 +4,7 @@ import java.net.URL
 import org.joda.time.Partial
 import scala.util.Try
 import scala.xml.{Elem, XML}
-import util.HtmlContent
+import util.{Configuration, HtmlContent}
 
 case class Crash(override val date: Partial,
                  manufacturer: String,
@@ -12,9 +12,16 @@ case class Crash(override val date: Partial,
                  comments: Option[HtmlContent],
                  override val slug: String = "") extends ListItem(date, slug)
 
-case class Crashes(introduction: HtmlContent, crashes: Seq[Crash])
+case class Crashes(introduction: HtmlContent, crashes: Seq[Crash]) extends Cacheable {
+  override val size = crashes.size
+}
 
-object Crashes {
+object Crashes extends Fetchable[Crashes] {
+  override val name = "Crashes"
+  override val sourceUrl = Configuration.url("url.crashes").get
+
+  override def fetch(): Try[Crashes] = apply(sourceUrl)
+
   def apply(url: URL): Try[Crashes] = for {
     xml <- Try(XML.load(url))
     crashes <- apply(xml)

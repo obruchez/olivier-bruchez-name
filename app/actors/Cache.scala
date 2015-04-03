@@ -42,6 +42,17 @@ object Cache {
   private implicit val timeout = Timeout(30.seconds)
   private implicit val dispatcher = Master.system.dispatcher
 
-  def books: Future[Books] =
-    ask(Master.cache, GetCache(Books)).mapTo[CacheResult[Books]].map(_.cacheable)
+  def books: Future[Books] = get[Books, Books.type](Books)
+  def concerts: Future[Concerts] = get[Concerts, Concerts.type](Concerts)
+  def crashes: Future[Crashes] = get[Crashes, Crashes.type](Crashes)
+  def exhibitions: Future[Exhibitions] = get[Exhibitions, Exhibitions.type](Exhibitions)
+  def hikes: Future[Hikes] = get[Hikes, Hikes.type](Hikes)
+  def movies: Future[Movies] = get[Movies, Movies.type](Movies)
+  def plays: Future[Plays] = get[Plays, Plays.type](Plays)
+  def profile: Future[Profile] = get[Profile, Profile.type](Profile)
+  def trips: Future[Trips] = get[Trips, Trips.type](Trips)
+  def worldview: Future[Worldview] = get[Worldview, Worldview.type](Worldview)
+
+  private def get[C <: Cacheable, F <: Fetchable[C]](fetchable: F): Future[C] =
+    ask(Master.cache, GetCache(fetchable)).mapTo[CacheResult[C]].map(_.cacheable)
 }

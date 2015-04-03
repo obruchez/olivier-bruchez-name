@@ -10,86 +10,28 @@ object Application extends Controller {
     Ok(views.html.home())
   }
 
-  def profile = Action {
-    models.Profile(Sitemap.profile.sourceUrl.get) match {
-      case Success(profile) =>
-        Ok(views.html.profile(profile))
-      case Failure(throwable) =>
-        InternalServerError(views.html.error(Sitemap.profile, throwable))
-    }
-  }
+  def profile = Action.async { Cache.profile.map(profile => Ok(views.html.profile(profile))) }
 
   def lists = Action {
     // @todo
     Ok(views.html.menu(Sitemap.lists))
   }
 
-  def books = Action.async {
-    Cache.books.map(books => Ok(views.html.books(books)))
-  }
+  def books = Action.async { Cache.books.map(books => Ok(views.html.books(books))) }
 
-  def concerts = Action {
-    models.Concerts(Sitemap.concerts.sourceUrl.get) match {
-      case Success(concerts) =>
-        Ok(views.html.concerts(concerts))
-      case Failure(throwable) =>
-        InternalServerError(views.html.error(Sitemap.concerts, throwable))
-    }
-  }
+  def concerts =  Action.async { Cache.concerts.map(concerts => Ok(views.html.concerts(concerts))) }
 
-  def crashes = Action {
-    models.Crashes(Sitemap.crashes.sourceUrl.get) match {
-      case Success(crashes) =>
-        Ok(views.html.crashes(crashes))
-      case Failure(throwable) =>
-        InternalServerError(views.html.error(Sitemap.crashes, throwable))
-    }
-  }
+  def crashes = Action.async { Cache.crashes.map(crashes => Ok(views.html.crashes(crashes))) }
 
-  def exhibitions = Action {
-    models.Exhibitions(Sitemap.exhibitions.sourceUrl.get) match {
-      case Success(exhibitions) =>
-        Ok(views.html.exhibitions(exhibitions))
-      case Failure(throwable) =>
-        InternalServerError(views.html.error(Sitemap.exhibitions, throwable))
-    }
-  }
+  def exhibitions = Action.async { Cache.exhibitions.map(exhibitions => Ok(views.html.exhibitions(exhibitions))) }
 
-  def hikes = Action {
-    models.Hikes(Sitemap.hikes.sourceUrl.get) match {
-      case Success(hikes) =>
-        Ok(views.html.hikes(hikes))
-      case Failure(throwable) =>
-        InternalServerError(views.html.error(Sitemap.hikes, throwable))
-    }
-  }
+  def hikes = Action.async { Cache.hikes.map(hikes => Ok(views.html.hikes(hikes))) }
 
-  def movies = Action {
-    models.Movies(Sitemap.movies.sourceUrl.get) match {
-       case Success(movies) =>
-         Ok(views.html.movies(movies))
-       case Failure(throwable) =>
-         InternalServerError(views.html.error(Sitemap.movies, throwable))
-     }
-  }
+  def movies = Action.async { Cache.movies.map(movies => Ok(views.html.movies(movies))) }
 
-  def plays = Action {
-    models.Plays(Sitemap.plays.sourceUrl.get) match {
-      case Success(plays) =>
-        Ok(views.html.plays(plays))
-      case Failure(throwable) =>
-        InternalServerError(views.html.error(Sitemap.plays, throwable))
-    }
-  }
+  def plays = Action.async { Cache.plays.map(plays => Ok(views.html.plays(plays))) }
 
-  def trips = Action {
-    models.Trips(Sitemap.trips.sourceUrl.get) match {
-      case Success(trips) =>
-        Ok(views.html.trips(trips))
-      case Failure(throwable) =>
-        InternalServerError(views.html.error(Sitemap.trips, throwable))
-    }
-  }
+  def trips = Action.async { Cache.trips.map(trips => Ok(views.html.trips(trips))) }
 
   def booksToRead = Action {
     // @todo
@@ -126,14 +68,7 @@ object Application extends Controller {
     Ok(views.html.menu(Sitemap.votes))
   }
 
-  def worldview = Action {
-    models.Worldview(Sitemap.worldview.sourceUrl.get) match {
-      case Success(worldview) =>
-        Ok(views.html.worldview(worldview))
-      case Failure(throwable) =>
-        InternalServerError(views.html.error(Sitemap.worldview, throwable))
-    }
-  }
+  def worldview = Action.async { Cache.worldview.map(worldview => Ok(views.html.worldview(worldview))) }
 
   def externalLinks = Action {
     // @todo

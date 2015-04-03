@@ -5,7 +5,7 @@ import java.util.Locale
 import org.joda.time.Partial
 import scala.util.Try
 import scala.xml.{Elem, XML}
-import util.HtmlContent
+import util.{Configuration, HtmlContent}
 
 sealed abstract class SpecialLocation(val description: String)
 case object Home extends SpecialLocation("Home")
@@ -23,9 +23,16 @@ case class Movie(override val date: Partial,
                  url: Option[URL],
                  override val slug: String = "") extends ListItem(date, slug)
 
-case class Movies(introduction: HtmlContent, movies: Seq[Movie])
+case class Movies(introduction: HtmlContent, movies: Seq[Movie]) extends Cacheable {
+  override val size = movies.size
+}
 
-object Movies {
+object Movies extends Fetchable[Movies] {
+  override val name = "Movies"
+  override val sourceUrl = Configuration.url("url.movies").get
+
+  override def fetch(): Try[Movies] = apply(sourceUrl)
+
   def apply(url: URL): Try[Movies] = for {
     xml <- Try(XML.load(url))
     movies <- apply(xml)

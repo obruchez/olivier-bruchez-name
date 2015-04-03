@@ -3,7 +3,7 @@ package models
 import java.net.URL
 import scala.xml._
 import scala.util.Try
-import util.HtmlContent
+import util.{Configuration, HtmlContent}
 
 case class ProfileSubItem(description: String, url: String)
 
@@ -11,7 +11,9 @@ case class ProfileItem(profileSubItems: Seq[ProfileSubItem])
 
 case class ProfileList(title: String, profileItems: Seq[ProfileItem], slug: String)
 
-case class Profile(introduction: HtmlContent, profileLists: Seq[ProfileList]) {
+case class Profile(introduction: HtmlContent, profileLists: Seq[ProfileList]) extends Cacheable {
+  override val size = profileLists.size
+
   /**
    * @param partNumber 0-based part number (maximum value can be partCount - 1)
    * @param partCount total number of parts
@@ -43,7 +45,12 @@ case class Profile(introduction: HtmlContent, profileLists: Seq[ProfileList]) {
   }
 }
 
-object Profile {
+object Profile extends Fetchable[Profile] {
+  override val name = "About / profile"
+  override val sourceUrl = Configuration.url("url.profile").get
+
+  override def fetch(): Try[Profile] = apply(sourceUrl)
+
   def apply(url: URL): Try[Profile] = for {
     xml <- Try(XML.load(url))
     profile <- apply(xml)

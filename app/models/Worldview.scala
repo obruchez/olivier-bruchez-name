@@ -3,15 +3,24 @@ package models
 import java.net.URL
 import scala.util.Try
 import scala.xml._
-import util.HtmlContent
+import util.{Configuration, HtmlContent}
 
 case class WorldviewPosition(summary: HtmlContent, details: HtmlContent, slug: String)
 
 case class WorldviewCategory(description: HtmlContent, worldviewPositions: Seq[WorldviewPosition], slug: String)
 
-case class Worldview(introduction: HtmlContent, worldviewCategories: Seq[WorldviewCategory], references: Seq[HtmlContent])
+case class Worldview(introduction: HtmlContent,
+                     worldviewCategories: Seq[WorldviewCategory],
+                     references: Seq[HtmlContent]) extends Cacheable {
+ override val size = references.size
+}
 
-object Worldview {
+object Worldview extends Fetchable[Worldview] {
+  override val name = "Worldview"
+  override val sourceUrl = Configuration.url("url.worldview").get
+
+  override def fetch(): Try[Worldview] = apply(sourceUrl)
+
   def apply(url: URL): Try[Worldview] = for {
      xml <- Try(XML.load(url))
      profile <- apply(xml)

@@ -4,16 +4,23 @@ import java.net.URL
 import org.joda.time.Partial
 import scala.util.Try
 import scala.xml.{Elem, XML}
-import util.HtmlContent
+import util.{Configuration, HtmlContent}
 
 case class Hike(override val date: Partial,
                 place: String,
                 pictures: Seq[Pictures],
                 override val slug: String = "") extends ListItem(date, slug)
 
-case class Hikes(introduction: HtmlContent, hikes: Seq[Hike])
+case class Hikes(introduction: HtmlContent, hikes: Seq[Hike]) extends Cacheable {
+  override val size = hikes.size
+}
 
-object Hikes {
+object Hikes extends Fetchable[Hikes] {
+  override val name = "Hikes"
+  override val sourceUrl = Configuration.url("url.hikes").get
+
+  override def fetch(): Try[Hikes] = apply(sourceUrl)
+
   def apply(url: URL): Try[Hikes] = for {
     xml <- Try(XML.load(url))
     hikes <- apply(xml)

@@ -31,16 +31,16 @@ object Sitemap {
 
   val home = Page("Home", routes.Application.home(), "fa-home")
 
-  val profile = Page("About / profile", routes.Application.profile(), "fa-user", "url.profile")
+  val profile = Page(Profile, routes.Application.profile(), "fa-user")
 
   val books = Page(Books, routes.Application.books(), "fa-book")
-  val concerts = Page("Concerts", routes.Application.concerts(), "fa-music", "url.concerts") // @todo better icon
-  val crashes = Page("Crashes", routes.Application.crashes(), "fa-hdd-o", "url.crashes") // @todo better icon
-  val exhibitions = Page("Exhibitions", routes.Application.exhibitions(), "fa-university", "url.exhibitions") // @todo better icon
-  val hikes = Page("Hikes", routes.Application.hikes(), "fa-sun-o", "url.hikes") // @todo better icon
-  val movies = Page("Movies", routes.Application.movies(), "fa-film", "url.movies")
-  val plays = Page("Plays", routes.Application.plays(), "fa-ticket", "url.plays") // @todo better icon
-  val trips = Page("Trips", routes.Application.trips(), "fa-suitcase", "url.trips")
+  val concerts = Page(Concerts, routes.Application.concerts(), "fa-music") // @todo better icon
+  val crashes = Page(Crashes, routes.Application.crashes(), "fa-hdd-o") // @todo better icon
+  val exhibitions = Page(Exhibitions, routes.Application.exhibitions(), "fa-university") // @todo better icon
+  val hikes = Page(Hikes, routes.Application.hikes(), "fa-sun-o") // @todo better icon
+  val movies = Page(Movies, routes.Application.movies(), "fa-film")
+  val plays = Page(Plays, routes.Application.plays(), "fa-ticket") // @todo better icon
+  val trips = Page(Trips, routes.Application.trips(), "fa-suitcase")
 
   val lists = Page(
     "Lists / lifelogging",
@@ -56,7 +56,7 @@ object Sitemap {
   val coursera = Page("Coursera", routes.Application.coursera(), "", "url.coursera") // @todo find icon
   val lifePrinciples = Page("Life principles", routes.Application.lifePrinciples(), "", "url.lifeprinciples") // @todo find icon
   val votes = Page("Votes", routes.Application.votes(), "", "url.votes") // @todo find icon
-  val worldview = Page("Worldview", routes.Application.worldview(), "fa-globe", "url.worldview")
+  val worldview = Page(Worldview, routes.Application.worldview(), "fa-globe")
 
   // url.cv.html
   // url.cv.pdf
