@@ -11,7 +11,7 @@ case class ProfileItem(profileSubItems: Seq[ProfileSubItem])
 
 case class ProfileList(title: String, profileItems: Seq[ProfileItem], slug: String)
 
-case class Profile(introduction: HtmlContent, profileLists: Seq[ProfileList]) extends Cacheable {
+case class Profile(override val introduction: HtmlContent, profileLists: Seq[ProfileList]) extends Cacheable {
   override val size = profileLists.size
 
   /**

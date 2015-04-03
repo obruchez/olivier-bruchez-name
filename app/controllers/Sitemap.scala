@@ -1,22 +1,17 @@
 package controllers
 
-import java.net.URL
 import models._
 import play.api.mvc._
-import util.Configuration
 
 case class Page(title: String,
                 url: String,
                 icon: Option[String] = None,
-                sourceUrl: Option[URL] = None,
+                fetchable: Option[Fetchable] = None,
                 children: Seq[Page] = Seq())
 
 object Page {
   def apply(fetchable: Fetchable, call: Call, icon: String): Page =
-    Page(title = fetchable.name, call.url, icon = Some(icon), sourceUrl = Some(fetchable.sourceUrl))
-
-  def apply(title: String, call: Call, icon: String, sourceUrlPath: String): Page =
-    Page(title, call.url, icon = Some(icon), sourceUrl = Configuration.url(sourceUrlPath))
+    Page(title = fetchable.name, call.url, icon = Some(icon), fetchable = Some(fetchable))
 
   def apply(title: String, call: Call, icon: String): Page =
     Page(title, call.url, icon = Some(icon), children = Seq())
@@ -48,14 +43,14 @@ object Sitemap {
     "fa-list",
     children = Seq(books, concerts, crashes, exhibitions, hikes, movies, plays, trips))
 
-  val booksToRead = Page("Books to read", routes.Application.booksToRead(), "fa-book", "url.bookstoread")
-  val moviesToWatch = Page("Movies to watch", routes.Application.moviesToWatch(), "fa-film", "url.moviestowatch")
-  val seenOnTv = Page("Seen on TV", routes.Application.seenOnTv(),"fa-desktop", "url.seenontv") // @todo better icon
-  val tripsToTake = Page("Trips to take", routes.Application.tripsToTake(), "fa-suitcase", "url.tripstotake")
+  val booksToRead = Page(BooksToRead, routes.Application.booksToRead(), "fa-book")
+  val moviesToWatch = Page(MoviesToWatch, routes.Application.moviesToWatch(), "fa-film")
+  val seenOnTv = Page(SeenOnTv, routes.Application.seenOnTv(),"fa-desktop") // @todo better icon
+  val tripsToTake = Page(TripsToTake, routes.Application.tripsToTake(), "fa-suitcase")
 
-  val coursera = Page("Coursera", routes.Application.coursera(), "", "url.coursera") // @todo find icon
-  val lifePrinciples = Page("Life principles", routes.Application.lifePrinciples(), "", "url.lifeprinciples") // @todo find icon
-  val votes = Page("Votes", routes.Application.votes(), "", "url.votes") // @todo find icon
+  val coursera = Page(Coursera, routes.Application.coursera(), "") // @todo find icon
+  val lifePrinciples = Page(LifePrinciples, routes.Application.lifePrinciples(), "") // @todo find icon
+  val votes = Page(Votes, routes.Application.votes(), "") // @todo find icon
   val worldview = Page(Worldview, routes.Application.worldview(), "fa-globe")
 
   // url.cv.html

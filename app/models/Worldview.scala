@@ -9,7 +9,7 @@ case class WorldviewPosition(summary: HtmlContent, details: HtmlContent, slug: S
 
 case class WorldviewCategory(description: HtmlContent, worldviewPositions: Seq[WorldviewPosition], slug: String)
 
-case class Worldview(introduction: HtmlContent,
+case class Worldview(override val introduction: HtmlContent,
                      worldviewCategories: Seq[WorldviewCategory],
                      references: Seq[HtmlContent]) extends Cacheable {
  override val size = references.size

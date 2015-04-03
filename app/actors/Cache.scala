@@ -53,6 +53,6 @@ object Cache {
   def trips: Future[Trips] = get(Trips)
   def worldview: Future[Worldview] = get(Worldview)
 
-  private def get[F <: Fetchable](fetchable: F): Future[F#C] =
+  def get[F <: Fetchable](fetchable: F): Future[F#C] =
     ask(Master.cache, GetCache(fetchable)).mapTo[CacheResult[F#C]].map(_.cacheable)
 }

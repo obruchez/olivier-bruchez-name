@@ -3,15 +3,28 @@ package controllers
 import actors.Cache
 import play.api.libs.concurrent.Execution.Implicits._
 import play.api.mvc._
+import scala.concurrent.Future
 
 object Application extends Controller {
-  def home = Action {
-    Ok(views.html.home())
-  }
+  def home = Action { Ok(views.html.home()) }
 
   def profile = Action.async { Cache.profile.map(profile => Ok(views.html.profile(profile))) }
 
-  def lifelogging = Action { Ok(views.html.lifelogging()) }
+  def lifelogging = Action.async {
+    val sequenceOfFutures = for (page <- Sitemap.lifelogging.children) yield {
+      val introductionFuture = page.fetchable match {
+        case Some(fetchable) => Cache.get(fetchable).map(cacheable => Some(cacheable.introduction))
+        case None => Future(None)
+      }
+      introductionFuture.map(page -> _)
+    }
+
+    val futureOfSequence = Future.sequence(sequenceOfFutures)
+
+    futureOfSequence map { pagesAndIntroductions =>
+      Ok(views.html.lifelogging(pagesAndIntroductions, groupSize = 4, colSize = 3))
+    }
+  }
 
   def books = Action.async { Cache.books.map(books => Ok(views.html.books(books))) }
 

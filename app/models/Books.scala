@@ -16,7 +16,7 @@ case class Book(override val date: Partial,
                 url: URL,
                 override val slug: String = "") extends ListItem(date, slug)
 
-case class Books(introduction: HtmlContent, books: Seq[Book]) extends Cacheable {
+case class Books(override val introduction: HtmlContent, books: Seq[Book]) extends Cacheable {
   override val size = books.size
 }
 

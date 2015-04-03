@@ -9,6 +9,7 @@ import util._
 import util.Date._
 
 trait Cacheable {
+  def introduction: HtmlContent
   def size: Int
 }
 
