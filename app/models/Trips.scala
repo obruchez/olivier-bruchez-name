@@ -16,7 +16,9 @@ case class Trips(introduction: HtmlContent, trips: Seq[Trip]) extends Cacheable 
   override val size = trips.size
 }
 
-object Trips extends Fetchable[Trips] {
+object Trips extends Fetchable {
+  type C = Trips
+
   override val name = "Trips"
   override val sourceUrl = Configuration.url("url.trips").get
 

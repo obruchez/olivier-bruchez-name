@@ -45,7 +45,9 @@ case class Profile(introduction: HtmlContent, profileLists: Seq[ProfileList]) ex
   }
 }
 
-object Profile extends Fetchable[Profile] {
+object Profile extends Fetchable {
+  type C = Profile
+
   override val name = "About / profile"
   override val sourceUrl = Configuration.url("url.profile").get
 

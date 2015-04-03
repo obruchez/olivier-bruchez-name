@@ -20,7 +20,9 @@ case class Books(introduction: HtmlContent, books: Seq[Book]) extends Cacheable 
   override val size = books.size
 }
 
-object Books extends Fetchable[Books] {
+object Books extends Fetchable {
+  type C = Books
+
   override val name = "Books"
   override val sourceUrl = Configuration.url("url.books").get
 

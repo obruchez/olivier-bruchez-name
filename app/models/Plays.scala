@@ -22,7 +22,9 @@ case class Plays(introduction: HtmlContent, plays: Seq[Play]) extends Cacheable 
   override val size = plays.size
 }
 
-object Plays extends Fetchable[Plays] {
+object Plays extends Fetchable {
+  type C = Plays
+
   override val name = "Plays"
   override val sourceUrl = Configuration.url("url.plays").get
 

@@ -27,7 +27,9 @@ case class Movies(introduction: HtmlContent, movies: Seq[Movie]) extends Cacheab
   override val size = movies.size
 }
 
-object Movies extends Fetchable[Movies] {
+object Movies extends Fetchable {
+  type C = Movies
+
   override val name = "Movies"
   override val sourceUrl = Configuration.url("url.movies").get
 

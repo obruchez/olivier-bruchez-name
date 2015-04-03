@@ -12,11 +12,13 @@ trait Cacheable {
   def size: Int
 }
 
-trait Fetchable[T <: Cacheable] {
+trait Fetchable {
+  type C <: Cacheable
+
   def name: String
   def sourceUrl: URL
   def fetchPeriod: FiniteDuration = 60.seconds
-  def fetch(): Try[T]
+  def fetch(): Try[C]
 }
 
 abstract class ListItem(val date: Partial, val slug: String)

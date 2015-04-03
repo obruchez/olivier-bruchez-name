@@ -8,7 +8,7 @@ import scala.util._
 sealed trait FetcherMessage
 case object Fetch extends FetcherMessage
 
-class Fetcher[T <: Cacheable](cache: ActorRef, fetchable: Fetchable[T]) extends Actor {
+class Fetcher(cache: ActorRef, fetchable: Fetchable) extends Actor {
   import context._
 
   def receive = {

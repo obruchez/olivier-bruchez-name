@@ -15,7 +15,9 @@ case class Worldview(introduction: HtmlContent,
  override val size = references.size
 }
 
-object Worldview extends Fetchable[Worldview] {
+object Worldview extends Fetchable {
+  type C = Worldview
+
   override val name = "Worldview"
   override val sourceUrl = Configuration.url("url.worldview").get
 

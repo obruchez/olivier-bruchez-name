@@ -12,7 +12,7 @@ case class Page(title: String,
                 children: Seq[Page] = Seq())
 
 object Page {
-  def apply(fetchable: Fetchable[_], call: Call, icon: String): Page =
+  def apply(fetchable: Fetchable, call: Call, icon: String): Page =
     Page(title = fetchable.name, call.url, icon = Some(icon), sourceUrl = Some(fetchable.sourceUrl))
 
   def apply(title: String, call: Call, icon: String, sourceUrlPath: String): Page =

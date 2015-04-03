@@ -10,15 +10,15 @@ import scala.concurrent._
 import scala.concurrent.duration._
 
 sealed trait CacheMessage
-case class GetCache[T <: Cacheable](fetchable: Fetchable[T]) extends CacheMessage
-case class SetCache[T <: Cacheable](fetchable: Fetchable[T], cacheable: T) extends CacheMessage
+case class GetCache[F <: Fetchable](fetchable: F) extends CacheMessage
+case class SetCache[F <: Fetchable](fetchable: F, cacheable: F#C) extends CacheMessage
 
 sealed trait CacheResultMessage
 case class CacheResult[T <: Cacheable](cacheable: T)
 
 class Cache extends Actor {
-  private val cachedValues = mutable.Map[Fetchable[_], Cacheable]()
-  private val subscribers = mutable.Map[Fetchable[_], Seq[ActorRef]]().withDefaultValue(Seq())
+  private val cachedValues = mutable.Map[Fetchable, Cacheable]()
+  private val subscribers = mutable.Map[Fetchable, Seq[ActorRef]]().withDefaultValue(Seq())
 
   def receive = {
     case GetCache(fetchable) =>
@@ -42,17 +42,17 @@ object Cache {
   private implicit val timeout = Timeout(30.seconds)
   private implicit val dispatcher = Master.system.dispatcher
 
-  def books: Future[Books] = get[Books, Books.type](Books)
-  def concerts: Future[Concerts] = get[Concerts, Concerts.type](Concerts)
-  def crashes: Future[Crashes] = get[Crashes, Crashes.type](Crashes)
-  def exhibitions: Future[Exhibitions] = get[Exhibitions, Exhibitions.type](Exhibitions)
-  def hikes: Future[Hikes] = get[Hikes, Hikes.type](Hikes)
-  def movies: Future[Movies] = get[Movies, Movies.type](Movies)
-  def plays: Future[Plays] = get[Plays, Plays.type](Plays)
-  def profile: Future[Profile] = get[Profile, Profile.type](Profile)
-  def trips: Future[Trips] = get[Trips, Trips.type](Trips)
-  def worldview: Future[Worldview] = get[Worldview, Worldview.type](Worldview)
+  def books: Future[Books] = get(Books)
+  def concerts: Future[Concerts] = get(Concerts)
+  def crashes: Future[Crashes] = get(Crashes)
+  def exhibitions: Future[Exhibitions] = get(Exhibitions)
+  def hikes: Future[Hikes] = get(Hikes)
+  def movies: Future[Movies] = get(Movies)
+  def plays: Future[Plays] = get(Plays)
+  def profile: Future[Profile] = get(Profile)
+  def trips: Future[Trips] = get(Trips)
+  def worldview: Future[Worldview] = get(Worldview)
 
-  private def get[C <: Cacheable, F <: Fetchable[C]](fetchable: F): Future[C] =
-    ask(Master.cache, GetCache(fetchable)).mapTo[CacheResult[C]].map(_.cacheable)
+  private def get[F <: Fetchable](fetchable: F): Future[F#C] =
+    ask(Master.cache, GetCache(fetchable)).mapTo[CacheResult[F#C]].map(_.cacheable)
 }

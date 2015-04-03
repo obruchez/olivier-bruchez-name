@@ -28,7 +28,7 @@ object Master {
     system.shutdown()
   }
 
-  private implicit class FetchableOps[T <: Cacheable](fetchable: Fetchable[T]) {
+  private implicit class FetchableOps(fetchable: Fetchable) {
     def fetcher: ActorRef = system.actorOf(
       props = Props(new Fetcher(cache, fetchable)),
       name = s"fetcher-$actorName")

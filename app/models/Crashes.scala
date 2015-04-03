@@ -16,7 +16,9 @@ case class Crashes(introduction: HtmlContent, crashes: Seq[Crash]) extends Cache
   override val size = crashes.size
 }
 
-object Crashes extends Fetchable[Crashes] {
+object Crashes extends Fetchable {
+  type C = Crashes
+
   override val name = "Crashes"
   override val sourceUrl = Configuration.url("url.crashes").get
 

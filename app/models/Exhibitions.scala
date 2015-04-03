@@ -17,7 +17,9 @@ case class Exhibitions(introduction: HtmlContent, exhibitions: Seq[Exhibition]) 
   override val size = exhibitions.size
 }
 
-object Exhibitions extends Fetchable[Exhibitions] {
+object Exhibitions extends Fetchable {
+  type C = Exhibitions
+
   override val name = "Exhibitions"
   override val sourceUrl = Configuration.url("url.exhibitions").get
 
