@@ -25,7 +25,7 @@ object Application extends Controller {
   }
 
   def books = Action.async {
-    gCache.books.map(books => Ok(views.html.books(books)))
+    Cache.books.map(books => Ok(views.html.books(books)))
   }
 
   def concerts = Action {
