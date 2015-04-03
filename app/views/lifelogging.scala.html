@@ -1,0 +1,21 @@
+@()
+
+@main(page = Sitemap.lifelogging) {
+  <div class="col-md-1"></div>
+  <div class="col-md-10">
+  @Sitemap.lifelogging.children.grouped(4).map { pageRow =>
+    <div class="row margin-bottom-10">
+    @pageRow.map { page =>
+      <div class="col-md-3 col-sm-6">
+        <div class="service-block service-block-u">
+          <i class="icon-custom icon-color-light rounded-x fa @page.icon.getOrElse("")"></i>
+          <h2 class="heading-md"><a href="@page.url">@page.title</a></h2>
+          <p><a href="@page.url">...</a></p>
+        </div>
+      </div>
+    }
+    </div>
+  }
+  </div>
+  <div class="col-md-1"></div>
+}

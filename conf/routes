@@ -6,7 +6,7 @@ GET        /                      controllers.Application.home
 
 GET        /about                 controllers.Application.profile
 
-GET        /lists                 controllers.Application.lists
+GET        /lifelogging           controllers.Application.lifelogging
 
 GET        /books                 controllers.Application.books
 GET        /concerts              controllers.Application.concerts
@@ -26,6 +26,8 @@ GET        /coursera              controllers.Application.coursera
 GET        /lifeprinciples        controllers.Application.lifePrinciples
 GET        /votes                 controllers.Application.votes
 GET        /worldview             controllers.Application.worldview
+
+GET        /externallinks         controllers.Application.externalLinks
 
 # Map static resources from the /public folder to the /assets URL path
 GET        /assets/*file          controllers.Assets.at(path="/public", file)

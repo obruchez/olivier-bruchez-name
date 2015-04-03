@@ -21,8 +21,8 @@ object Page {
   def apply(title: String, call: Call, icon: String): Page =
     Page(title, call.url, icon = Some(icon), children = Seq())
 
-  def apply(title: String, call: Call, children: Seq[Page]): Page =
-    Page(title, call.url, children = children)
+  def apply(title: String, call: Call, icon: String, children: Seq[Page]): Page =
+    Page(title, call.url, icon = Some(icon), children = children)
 }
 
 object Sitemap {
@@ -42,11 +42,11 @@ object Sitemap {
   val plays = Page(Plays, routes.Application.plays(), "fa-ticket") // @todo better icon
   val trips = Page(Trips, routes.Application.trips(), "fa-suitcase")
 
-  val lists = Page(
-    "Lists / lifelogging",
-    routes.Application.lists(),
+  val lifelogging = Page(
+    "Lifelogging",
+    routes.Application.lifelogging(),
+    "fa-list",
     children = Seq(books, concerts, crashes, exhibitions, hikes, movies, plays, trips))
-
 
   val booksToRead = Page("Books to read", routes.Application.booksToRead(), "fa-book", "url.bookstoread")
   val moviesToWatch = Page("Movies to watch", routes.Application.moviesToWatch(), "fa-film", "url.moviestowatch")
@@ -64,7 +64,8 @@ object Sitemap {
 
   val externalLinks = Page(
     "External links",
-    url = "",
+    routes.Application.externalLinks(),
+    "fa-link",
     children = Seq(
       Page("Blogger", "https://bruchez.blogspot.com/", Some("fa-rss-square")), // @todo better icon
       Page("Facebook", "https://www.facebook.com/obruchez", Some("fa-facebook-square")),
@@ -76,5 +77,5 @@ object Sitemap {
       Page("Twitter", "https://twitter.com/obruchez", Some("fa-twitter-square")),
       Page("YouTube", "https://www.youtube.com/user/obruchez", Some("fa-youtube-square"))))
 
-  val pages = Seq(home, profile, worldview, lists, externalLinks)
+  val root = Page(title = "", url = "", children = Seq(home, profile, worldview, lifelogging, externalLinks))
 }

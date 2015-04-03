@@ -48,7 +48,7 @@
     <div class="collapse navbar-collapse mega-menu navbar-responsive-collapse">
         <div class="container">
             <ul class="nav navbar-nav">
-                @controllers.Sitemap.pages.map { page =>
+                @controllers.Sitemap.root.children.map { page =>
                     @if(page.children.isEmpty) {
                         <li><a href="@page.url">@page.title</a></li>
                     } else {

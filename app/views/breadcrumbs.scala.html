@@ -2,13 +2,20 @@
 
 <!--=== Breadcrumbs ===-->
 <div class="breadcrumbs">
-    <div class="container">
-        <h1 class="pull-left"><i class="icon-custom rounded-x icon-bg-u fa @page.icon.getOrElse("")"></i> @page.title</h1>
-        <ul class="pull-right breadcrumb">
-            <li><a href="index.html">Home</a></li>
-            <li><a href="">Pages</a></li>
-            <li class="active">@page.title</li>
-        </ul>
-    </div><!--/container-->
-</div><!--/breadcrumbs-->
+  <div class="container">
+    <h1 class="pull-left"><i class="icon-custom rounded-x icon-bg-u fa @page.icon.getOrElse("")"></i> @page.title</h1>
+    <ul class="pull-right breadcrumb">
+      @controllers.Breadcrumbs.links(page).map { link =>
+        @link.urlOption match {
+          case Some(url) => {
+            <li><a href="@url">@link.name</a></li>
+          }
+          case None => {
+            <li class="active">@link.name</li>
+          }
+        }
+      }
+    </ul>
+  </div><!--/container-->
+</div> <!--/breadcrumbs-->
 <!--=== End Breadcrumbs ===-->

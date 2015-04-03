@@ -3,7 +3,6 @@ package controllers
 import actors.Cache
 import play.api.libs.concurrent.Execution.Implicits._
 import play.api.mvc._
-import scala.util._
 
 object Application extends Controller {
   def home = Action {
@@ -12,10 +11,7 @@ object Application extends Controller {
 
   def profile = Action.async { Cache.profile.map(profile => Ok(views.html.profile(profile))) }
 
-  def lists = Action {
-    // @todo
-    Ok(views.html.menu(Sitemap.lists))
-  }
+  def lifelogging = Action { Ok(views.html.lifelogging()) }
 
   def books = Action.async { Cache.books.map(books => Ok(views.html.books(books))) }
 
@@ -70,8 +66,5 @@ object Application extends Controller {
 
   def worldview = Action.async { Cache.worldview.map(worldview => Ok(views.html.worldview(worldview))) }
 
-  def externalLinks = Action {
-    // @todo
-    Ok(views.html.menu(Sitemap.externalLinks))
-  }
+  def externalLinks = Action { Ok(views.html.externallinks()) }
 }
