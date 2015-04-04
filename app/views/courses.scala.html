@@ -1,0 +1,32 @@
+@(courses: Courses)
+
+@header = {
+  <tr>
+    <th class="col-md-1">Date</th>
+    <th class="col-md-1">Provider</th>
+    <th class="col-md-4">Name</th>
+    <th class="col-md-3">Instructor(s)</th>
+    <th class="col-md-3">Certificate</th>
+  </tr>
+}
+
+@rowFromItem(listItem: ListItem) = {
+  @defining(listItem.asInstanceOf[Course]) { course =>
+    <tr>
+      <td>@sluganddate(course)</td>
+      <td>@course.provider</td>
+      <td><a href="@course.url">@course.name</a></td>
+      <td>@course.instructor</td>
+      <td>@course.certificate.map { certificate =>
+        <a href="@certificate.url">@certificate.description.getOrElse("Certificate")</a>
+      }</td>
+    </tr>
+  }
+}
+
+@list(
+  page = Sitemap.courses,
+  introduction = courses.introduction,
+  items = courses.courses,
+  header = header,
+  rowFromItem = rowFromItem)

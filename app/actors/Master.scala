@@ -9,6 +9,7 @@ object Master {
   lazy val fetchers = Map(
     Books -> Books.fetcher,
     Concerts -> Concerts.fetcher,
+    Courses -> Courses.fetcher,
     Crashes -> Crashes.fetcher,
     Exhibitions -> Exhibitions.fetcher,
     Hikes -> Hikes.fetcher,

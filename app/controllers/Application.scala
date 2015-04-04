@@ -11,13 +11,15 @@ object Application extends Controller {
 
   def lifelogging = Action.async {
     Page.introductionsFromPages(Sitemap.lifelogging.children) map { pagesAndIntroductions =>
-      Ok(views.html.menu(Sitemap.lifelogging, pagesAndIntroductions, groupSize = 4, colSize = 3))
+      Ok(views.html.menu(Sitemap.lifelogging, pagesAndIntroductions, groupSize = 3, colSize = 4))
     }
   }
 
   def books = Action.async { Cache.books.map(books => Ok(views.html.books(books))) }
 
   def concerts =  Action.async { Cache.concerts.map(concerts => Ok(views.html.concerts(concerts))) }
+
+  def courses =  Action.async { Cache.courses.map(courses => Ok(views.html.courses(courses))) }
 
   def crashes = Action.async { Cache.crashes.map(crashes => Ok(views.html.crashes(crashes))) }
 
@@ -47,11 +49,6 @@ object Application extends Controller {
   }
 
   def tripsToTake = Action {
-    // @todo
-    NotImplemented
-  }
-
-  def coursera = Action {
     // @todo
     NotImplemented
   }

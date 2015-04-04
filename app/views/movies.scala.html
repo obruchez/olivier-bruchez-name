@@ -1,7 +1,5 @@
 @(movies: Movies)
 
-@import util.Date._
-
 @otherTitles(otherTitles: Seq[Title]) = {
   @otherTitles.map(title => s"${title.title} (${title.locale.getDisplayName(java.util.Locale.ENGLISH)})").mkString(", ")
 }

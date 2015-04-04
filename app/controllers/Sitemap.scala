@@ -46,8 +46,9 @@ object Sitemap {
 
   val books = Page(Books, routes.Application.books(), "fa-book")
   val concerts = Page(Concerts, routes.Application.concerts(), "fa-music") // @todo better icon
-  val crashes = Page(Crashes, routes.Application.crashes(), "fa-hdd-o") // @todo better icon
-  val exhibitions = Page(Exhibitions, routes.Application.exhibitions(), "fa-university") // @todo better icon
+  val courses = Page(Courses, routes.Application.courses(), "fa-university")
+  val crashes = Page(Crashes, routes.Application.crashes(), "fa-hdd-o")
+  val exhibitions = Page(Exhibitions, routes.Application.exhibitions(), "fa-picture-o") // @todo better icon
   val hikes = Page(Hikes, routes.Application.hikes(), "fa-sun-o") // @todo better icon
   val movies = Page(Movies, routes.Application.movies(), "fa-film")
   val plays = Page(Plays, routes.Application.plays(), "fa-ticket") // @todo better icon
@@ -57,14 +58,13 @@ object Sitemap {
     "Lifelogging",
     routes.Application.lifelogging(),
     "fa-list",
-    children = Seq(books, concerts, crashes, exhibitions, hikes, movies, plays, trips))
+    children = Seq(books, concerts, courses, crashes, exhibitions, hikes, movies, plays, trips))
 
   val booksToRead = Page(BooksToRead, routes.Application.booksToRead(), "fa-book")
   val moviesToWatch = Page(MoviesToWatch, routes.Application.moviesToWatch(), "fa-film")
   val seenOnTv = Page(SeenOnTv, routes.Application.seenOnTv(),"fa-desktop") // @todo better icon
   val tripsToTake = Page(TripsToTake, routes.Application.tripsToTake(), "fa-suitcase")
 
-  val coursera = Page(Coursera, routes.Application.coursera(), "") // @todo find icon
   val lifePrinciples = Page(LifePrinciples, routes.Application.lifePrinciples(), "") // @todo find icon
   val votes = Page(Votes, routes.Application.votes(), "") // @todo find icon
   val worldview = Page(Worldview, routes.Application.worldview(), "fa-globe")

@@ -1,7 +1,5 @@
 @(concerts: Concerts)
 
-@import util.Date._
-
 @musicians(band: Option[String], musicians: Seq[Musician]) = {
   @band.map { band =>
     <strong>@band</strong>@if(musicians.nonEmpty) {: }
