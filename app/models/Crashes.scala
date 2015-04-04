@@ -31,7 +31,7 @@ object Crashes extends Fetchable {
 
   def apply(elem: Elem): Try[Crashes] = Try {
     val crashes = (elem \\ "crashes").head
-    val introduction = Lists.introductionFromNode(crashes).get
+    val introduction = Parsing.introductionFromNode(crashes).get
 
     val crashesSeq = for {
       crash <- crashes \\ "crash"
@@ -40,11 +40,11 @@ object Crashes extends Fetchable {
       model = (crash \\ "model").text
       comments = (crash \\ "comments").text
     } yield Crash(
-      date = Lists.dateFromString(dateString).get,
+      date = Parsing.dateFromString(dateString).get,
       manufacturer = manufacturer.trim,
       model = model.trim,
-      comments = Lists.commentsFromString(comments))
+      comments = Parsing.commentsFromString(comments))
 
-    Crashes(introduction, crashesSeq.map(crash => crash.copy(slug = Lists.slug(crash, crashesSeq))))
+    Crashes(introduction, crashesSeq.map(crash => crash.copy(slug = ListItem.slug(crash, crashesSeq))))
   }
 }

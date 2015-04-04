@@ -35,7 +35,7 @@ object Books extends Fetchable {
 
   def apply(elem: Elem): Try[Books] = Try {
     val books = (elem \\ "books").head
-    val introduction = Lists.introductionFromNode(books).get
+    val introduction = Parsing.introductionFromNode(books).get
 
     val booksSeq = for {
       book <- books \\ "book"
@@ -48,15 +48,15 @@ object Books extends Fetchable {
       comments = (book \\ "comments").text
       url = (book \\ "url").text
     } yield Book(
-      date = Lists.dateFromString(dateString).get,
+      date = Parsing.dateFromString(dateString).get,
       author = author.trim,
       title = title.trim,
       subtitle = Option(subtitle.trim).filter(_.nonEmpty),
       year = yearString.trim.toInt,
-      rating = Lists.ratingFromString(ratingString),
-      comments = Lists.commentsFromString(comments),
+      rating = Parsing.ratingFromString(ratingString),
+      comments = Parsing.commentsFromString(comments),
       url = new URL(url))
 
-    Books(introduction, booksSeq.map(book => book.copy(slug = Lists.slug(book, booksSeq))))
+    Books(introduction, booksSeq.map(book => book.copy(slug = ListItem.slug(book, booksSeq))))
   }
 }

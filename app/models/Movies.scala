@@ -42,7 +42,7 @@ object Movies extends Fetchable {
 
   def apply(elem: Elem): Try[Movies] = Try {
     val movies = (elem \\ "movies").head
-    val introduction = Lists.introductionFromNode(movies).get
+    val introduction = Parsing.introductionFromNode(movies).get
 
     val moviesSeq = for {
       movie <- movies \\ "movie"
@@ -68,17 +68,17 @@ object Movies extends Fetchable {
       }
 
       Movie(
-        date = Lists.dateFromString(dateString).get,
-        theater = if (Lists.isTrue(home)) Right(Home) else Left(theater),
+        date = Parsing.dateFromString(dateString).get,
+        theater = if (Parsing.isTrue(home)) Right(Home) else Left(theater),
         director = director.trim,
         title = mainTitle,
         otherTitles = otherTitles,
         version = Option(version.trim).filter(_.nonEmpty).map(new Locale(_)),
-        rating = Lists.ratingFromString(ratingString),
-        comments = Lists.commentsFromString(comments),
+        rating = Parsing.ratingFromString(ratingString),
+        comments = Parsing.commentsFromString(comments),
         url = Option(url.trim).filter(_.nonEmpty).map(new URL(_)))
     }
 
-    Movies(introduction, moviesSeq.map(movie => movie.copy(slug = Lists.slug(movie, moviesSeq))))
+    Movies(introduction, moviesSeq.map(movie => movie.copy(slug = ListItem.slug(movie, moviesSeq))))
   }
 }

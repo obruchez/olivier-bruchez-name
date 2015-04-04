@@ -60,7 +60,7 @@ object Profile extends Fetchable {
 
   def apply(elem: Elem): Try[Profile] = Try {
     val profile = (elem \\ "profile").head
-    val introduction = Lists.introductionFromNode(profile).get
+    val introduction = Parsing.introductionFromNode(profile).get
 
     val profileLists = for {
       list <- profile \\ "list"
@@ -81,7 +81,7 @@ object Profile extends Fetchable {
         ProfileItem(allProfileSubItems)
       }
 
-      ProfileList(title, profileItems, slug = Lists.slugFromString(title))
+      ProfileList(title, profileItems, slug = Parsing.slugFromString(title))
     }
 
     Profile(introduction, profileLists)

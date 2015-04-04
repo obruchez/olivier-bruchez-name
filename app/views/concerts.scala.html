@@ -5,7 +5,7 @@
     <strong>@band</strong>@if(musicians.nonEmpty) {: }
   }
   @musicians.zipWithIndex.map { case (musician, index) =>
-    @defining(Lists.commaOrAnd(index = index, totalCount = musicians.size)) { separator =>
+    @defining(Concerts.commaOrAnd(index = index, totalCount = musicians.size)) { separator =>
       @if((musician.leader || musicians.size == 1) && band.isEmpty) {
         <strong>@musician.name</strong>@separator
       } else {

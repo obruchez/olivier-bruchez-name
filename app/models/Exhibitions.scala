@@ -32,7 +32,7 @@ object Exhibitions extends Fetchable {
 
   def apply(elem: Elem): Try[Exhibitions] = Try {
     val exhibitions = (elem \\ "exhibitions").head
-    val introduction = Lists.introductionFromNode(exhibitions).get
+    val introduction = Parsing.introductionFromNode(exhibitions).get
 
     val exhibitionsSeq = for {
       exhibition <- exhibitions \\ "exhibition"
@@ -42,14 +42,14 @@ object Exhibitions extends Fetchable {
       ratingString = (exhibition \\ "rating").text
       comments = (exhibition \\ "comments").text
     } yield Exhibition(
-      date = Lists.dateFromString(dateString).get,
+      date = Parsing.dateFromString(dateString).get,
       name = name.trim,
       museum = museum.trim,
-      rating = Lists.ratingFromString(ratingString),
-      comments = Lists.commentsFromString(comments))
+      rating = Parsing.ratingFromString(ratingString),
+      comments = Parsing.commentsFromString(comments))
 
     Exhibitions(
       introduction,
-      exhibitionsSeq.map(exhibition => exhibition.copy(slug = Lists.slug(exhibition, exhibitionsSeq))))
+      exhibitionsSeq.map(exhibition => exhibition.copy(slug = ListItem.slug(exhibition, exhibitionsSeq))))
   }
 }

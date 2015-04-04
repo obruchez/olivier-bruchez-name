@@ -37,7 +37,7 @@ object Plays extends Fetchable {
 
   def apply(elem: Elem): Try[Plays] = Try {
     val plays = (elem \\ "plays").head
-    val introduction = Lists.introductionFromNode(plays).get
+    val introduction = Parsing.introductionFromNode(plays).get
 
     val playsSeq = for {
       play <- plays \\ "play"
@@ -53,7 +53,7 @@ object Plays extends Fetchable {
       comments = (play \\ "comments").text
       url = (play \\ "url").text
     } yield Play(
-      date = Lists.dateFromString(dateString).get,
+      date = Parsing.dateFromString(dateString).get,
       location = location.trim,
       author = author.trim,
       name = name.trim,
@@ -61,9 +61,9 @@ object Plays extends Fetchable {
       adaptation = Option(adaptation.trim).filter(_.nonEmpty),
       translation = Option(translation.trim).filter(_.nonEmpty),
       actors = actors,
-      rating = Lists.ratingFromString(ratingString),
-      comments = Lists.commentsFromString(comments))
+      rating = Parsing.ratingFromString(ratingString),
+      comments = Parsing.commentsFromString(comments))
 
-    Plays(introduction, playsSeq.map(play => play.copy(slug = Lists.slug(play, playsSeq))))
+    Plays(introduction, playsSeq.map(play => play.copy(slug = ListItem.slug(play, playsSeq))))
   }
 }

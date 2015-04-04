@@ -30,17 +30,17 @@ object Hikes extends Fetchable {
 
   def apply(elem: Elem): Try[Hikes] = Try {
     val hikes = (elem \\ "hikes").head
-    val introduction = Lists.introductionFromNode(hikes).get
+    val introduction = Parsing.introductionFromNode(hikes).get
 
     val hikesSeq = for {
       hike <- hikes \\ "hike"
       dateString = (hike \\ "date").text
       place = (hike \\ "place").text
     } yield Hike(
-      date = Lists.dateFromString(dateString).get,
+      date = Parsing.dateFromString(dateString).get,
       place = place.trim,
-      pictures = Lists.picturesFromNode(hike))
+      pictures = Parsing.picturesFromNode(hike))
 
-    Hikes(introduction, hikesSeq.map(hike => hike.copy(slug = Lists.slug(hike, hikesSeq))))
+    Hikes(introduction, hikesSeq.map(hike => hike.copy(slug = ListItem.slug(hike, hikesSeq))))
   }
 }

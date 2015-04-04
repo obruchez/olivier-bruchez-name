@@ -30,7 +30,7 @@ object Worldview extends Fetchable {
 
   def apply(elem: Elem): Try[Worldview] = Try {
      val worldview = (elem \\ "worldview").head
-     val introduction = Lists.introductionFromNode(worldview).get
+     val introduction = Parsing.introductionFromNode(worldview).get
 
      val worldviewCategories = for {
        category <- worldview \\ "category"

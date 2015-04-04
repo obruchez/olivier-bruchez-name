@@ -28,7 +28,7 @@ object LifePrinciples extends Fetchable {
 
   def apply(elem: Elem): Try[LifePrinciples] = Try {
      val lifePrinciples = (elem \\ "lifeprinciples").head
-     val introduction = Lists.introductionFromNode(lifePrinciples).get
+     val introduction = Parsing.introductionFromNode(lifePrinciples).get
 
      val lifePrinciplesSeq = for {
        lifePrinciple <- lifePrinciples \\ "lifeprinciple"

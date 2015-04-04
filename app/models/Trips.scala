@@ -31,7 +31,7 @@ object Trips extends Fetchable {
 
   def apply(elem: Elem): Try[Trips] = Try {
     val trips = (elem \\ "trips").head
-    val introduction = Lists.introductionFromNode(trips).get
+    val introduction = Parsing.introductionFromNode(trips).get
 
     val tripsSeq = for {
       trip <- trips \\ "trip"
@@ -39,11 +39,11 @@ object Trips extends Fetchable {
       toString = (trip \\ "to").text
       place = (trip \\ "place").text
     } yield Trip(
-      from = Lists.dateFromString(fromString).get,
-      to = Lists.dateFromString(toString).get,
+      from = Parsing.dateFromString(fromString).get,
+      to = Parsing.dateFromString(toString).get,
       place = place,
-      pictures = Lists.picturesFromNode(trip))
+      pictures = Parsing.picturesFromNode(trip))
 
-    Trips(introduction, tripsSeq.map(trip => trip.copy(slug = Lists.slug(trip, tripsSeq))))
+    Trips(introduction, tripsSeq.map(trip => trip.copy(slug = ListItem.slug(trip, tripsSeq))))
   }
 }

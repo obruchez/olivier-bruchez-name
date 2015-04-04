@@ -36,7 +36,7 @@ object Courses extends Fetchable {
 
   def apply(elem: Elem): Try[Courses] = Try {
     val courses = (elem \\ "courses").head
-    val introduction = Lists.introductionFromNode(courses).get
+    val introduction = Parsing.introductionFromNode(courses).get
 
     val coursesSeq = for {
       course <- courses \\ "course"
@@ -56,7 +56,7 @@ object Courses extends Fetchable {
           url = new URL(certificateUrl))
 
       Course(
-        date = Lists.dateFromString(dateString).get,
+        date = Parsing.dateFromString(dateString).get,
         provider = provider.trim,
         name = name.trim,
         instructor = instructor.trim,
@@ -66,6 +66,6 @@ object Courses extends Fetchable {
 
     Courses(
       introduction,
-      coursesSeq.map(course => course.copy(slug = Lists.slug(course, coursesSeq))))
+      coursesSeq.map(course => course.copy(slug = ListItem.slug(course, coursesSeq))))
   }
 }

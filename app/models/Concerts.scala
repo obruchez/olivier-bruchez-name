@@ -36,7 +36,7 @@ object Concerts extends Fetchable {
 
   def apply(elem: Elem): Try[Concerts] = Try {
     val concerts = (elem \\ "concerts").head
-    val introduction = Lists.introductionFromNode(concerts).get
+    val introduction = Parsing.introductionFromNode(concerts).get
 
     val concertsSeq = for {
       concert <- concerts \\ "concert"
@@ -55,17 +55,25 @@ object Concerts extends Fetchable {
       } yield Musician(
         name = name.trim,
         instrument = Option(instrument.trim).filter(_.nonEmpty),
-        leader = Lists.isTrue(leader))
+        leader = Parsing.isTrue(leader))
 
-      Concert(date = Lists.dateFromString(dateString).get,
+      Concert(date = Parsing.dateFromString(dateString).get,
         location = location,
         event = Option(event.trim).filter(_.nonEmpty),
         band = Option(band.trim).filter(_.nonEmpty),
         musicians = musicans,
-        rating = Lists.ratingFromString(ratingString),
-        comments = Lists.commentsFromString(comments))
+        rating = Parsing.ratingFromString(ratingString),
+        comments = Parsing.commentsFromString(comments))
     }
 
-    Concerts(introduction, concertsSeq.map(concert => concert.copy(slug = Lists.slug(concert, concertsSeq))))
+    Concerts(introduction, concertsSeq.map(concert => concert.copy(slug = ListItem.slug(concert, concertsSeq))))
   }
+
+  def commaOrAnd(index: Int, totalCount: Int): String =
+    if (index == totalCount - 2)
+      if (totalCount == 2) " and " else ", and"
+    else if (index < totalCount - 2)
+      ", "
+    else
+      ""
 }
