@@ -73,14 +73,20 @@ object Application extends Controller {
     NotImplemented
   }
 
-  def externalLinks = Action.async {
-    Page.introductionsFromPages(Sitemap.externalLinks.children) map { pagesAndIntroductions =>
-      Ok(views.html.menu(Sitemap.externalLinks, pagesAndIntroductions, groupSize = 3, colSize = 4))
+  def cv = Action.async {
+    Page.introductionsFromPages(Sitemap.cv.children) map { pagesAndIntroductions =>
+      Ok(views.html.menu(Sitemap.cv, pagesAndIntroductions, groupSize = 3, colSize = 4))
     }
   }
 
   def contact = Action {
     // @todo
     NotImplemented
+  }
+
+  def externalLinks = Action.async {
+    Page.introductionsFromPages(Sitemap.externalLinks.children) map { pagesAndIntroductions =>
+      Ok(views.html.menu(Sitemap.externalLinks, pagesAndIntroductions, groupSize = 3, colSize = 4))
+    }
   }
 }

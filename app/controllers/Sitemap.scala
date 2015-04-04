@@ -80,9 +80,31 @@ object Sitemap {
       "fa-check-square-o", // @todo better icon
       children = Seq(booksToRead, moviesToWatch, tripsToTake))
 
-  // url.cv.html
-  // url.cv.pdf
-  // url.cv.word
+  val htmlCv = Page(
+    "HTML",
+    "https://rawgit.com/obruchez/public/master/CV/ResumeOlivierBruchez.html",
+    Some("fa-html5"))
+
+  val pdfCv = Page(
+    "PDF",
+    "https://rawgit.com/obruchez/public/master/CV/ResumeOlivierBruchez.pdf",
+    Some("fa-file-pdf-o"))
+
+  val wordCv = Page(
+    "Word",
+    "https://rawgit.com/obruchez/public/master/CV/ResumeOlivierBruchez.doc",
+    Some("fa-file-word-o"))
+
+  val cv = Page(
+    "CV / résumé",
+    routes.Application.cv(),
+    "fa-file-text-o", // @todo better icon
+    children = Seq(htmlCv, pdfCv, wordCv))
+
+  val contact = Page(
+    "Contact",
+    routes.Application.contact(),
+    "fa-envelope-o")
 
   val externalLinks = Page(
     "External links",
@@ -102,5 +124,5 @@ object Sitemap {
   val root = Page(
     title = "",
     url = "",
-    children = Seq(home, about, lifelogging, externalLinks))
+    children = Seq(home, about, lifelogging, /*toDo,*/ cv, /*contact,*/ externalLinks))
 }

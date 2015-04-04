@@ -30,9 +30,11 @@ GET        /bookstoread           controllers.Application.booksToRead
 GET        /moviestowatch         controllers.Application.moviesToWatch
 GET        /tripstotake           controllers.Application.tripsToTake
 
-GET        /externallinks         controllers.Application.externalLinks
+GET        /cv                    controllers.Application.cv
 
 GET        /contact               controllers.Application.contact
+
+GET        /externallinks         controllers.Application.externalLinks
 
 # Map static resources from the /public folder to the /assets URL path
 GET        /assets/*file          controllers.Assets.at(path="/public", file)
