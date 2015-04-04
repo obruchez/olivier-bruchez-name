@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <lifeprinciples>
-    <introduction>My life principles (in French). Ceci est un premier jet, un peu "bateau", je l'admets, datant de 2011 ou plus tôt.</introduction>
+    <introduction>My life principles (in French).</introduction>
+    <introduction>Ceci est un premier jet, un peu "bateau", je l'admets, datant de 2011 ou plus tôt.</introduction>
     <lifeprinciple summary="Agir" slug="agir">Être plus dynamique, moins passif. Moins hésiter, prendre des décisions rationnelles mais rapides. Prendre plus de risques, savoir saisir les opportunités.</lifeprinciple>
     <lifeprinciple summary="Apprendre" slug="apprendre">Être curieux. Apprendre de nouvelles choses régulièrement. Comprendre le monde qui m’entoure. Apprendre de mes erreurs.</lifeprinciple>
     <lifeprinciple summary="Confiance en soi" slug="confiance-en-soi">Savoir ce que je veux. Être conscient de ma valeur. Être à l'aise avec les autres. Faire face à mes peurs/phobies en les affrontant directement.</lifeprinciple>
