@@ -2,6 +2,14 @@
 <movies title="Movies (Olivier Bruchez)" link="http://github.com/obruchez/public/blob/master/Lists/Movies.md" feed="http://raw.github.com/obruchez/blog/master/rss/movies.rss">
   <introduction>A list of movies I saw.</introduction>
   <movie>
+    <date>2015.04.03</date>
+    <theater home="true"/>
+    <director>Terry Zwigoff</director>
+    <title>Ghost World</title>
+    <url>http://www.imdb.com/title/tt0162346/</url>
+    <rating>5.0</rating>
+  </movie>
+  <movie>
     <date>2015.03.29</date>
     <theater>Galeries, Lausanne</theater>
     <director>Tim Burton</director>
