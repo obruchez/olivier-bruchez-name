@@ -1,4 +1,4 @@
-@(page: Page, introduction: util.HtmlContent, items: Seq[ListItem], header: play.twirl.api.Html, rowFromItem: (ListItem) => play.twirl.api.Html)
+@(page: Page, introduction: Introduction, items: Seq[ListItem], header: play.twirl.api.Html, rowFromItem: (ListItem) => play.twirl.api.Html)
 
 @import util.Date._
 
@@ -25,7 +25,7 @@
 
 @main(page) {
   <div class="tag-box tag-box-v2">
-    @Html(introduction.string)<span class="badge rounded-2x badge-dark pull-right">@items.size</span>
+    @Html(introduction.fullVersion.string)<span class="badge rounded-2x badge-dark pull-right">@items.size</span>
   </div>
   @items.groupBy(_.date.year).toSeq.sortBy(_._1).reverseMap { case (yearOption, itemsForYear) =>
     @table(yearOption, itemsForYear)

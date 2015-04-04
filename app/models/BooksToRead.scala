@@ -2,11 +2,11 @@ package models
 
 import java.net.URL
 import scala.util._
-import util.{Configuration, HtmlContent}
+import util.Configuration
 
 // @todo implement parsing
 
-case class BooksToRead(override val introduction: HtmlContent) extends Cacheable {
+case class BooksToRead(override val introduction: Introduction) extends Cacheable {
   override val size = 0
 }
 

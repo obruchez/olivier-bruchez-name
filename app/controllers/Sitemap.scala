@@ -23,7 +23,7 @@ object Page {
   def apply(title: String, call: Call, icon: String, children: Seq[Page]): Page =
     Page(title, call.url, icon = Some(icon), children = children)
 
-  def introductionsFromPages(pages: Seq[Page]): Future[Seq[(Page, Option[HtmlContent])]] = {
+  def introductionsFromPages(pages: Seq[Page]): Future[Seq[(Page, Option[Introduction])]] = {
     val sequenceOfFutures = for (page <- pages) yield {
       val introductionFuture = page.fetchable match {
         case Some(fetchable) => Cache.get(fetchable).map(cacheable => Some(cacheable.introduction))

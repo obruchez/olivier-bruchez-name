@@ -13,7 +13,7 @@ case class Exhibition(override val date: Partial,
                       comments: Option[HtmlContent],
                       override val slug: String = "") extends ListItem(date, slug)
 
-case class Exhibitions(override val introduction: HtmlContent, exhibitions: Seq[Exhibition]) extends Cacheable {
+case class Exhibitions(override val introduction: Introduction, exhibitions: Seq[Exhibition]) extends Cacheable {
   override val size = exhibitions.size
 }
 

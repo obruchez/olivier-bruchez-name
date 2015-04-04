@@ -18,7 +18,7 @@ case class Play(override val date: Partial,
                 comments: Option[HtmlContent],
                 override val slug: String = "") extends ListItem(date, slug)
 
-case class Plays(override val introduction: HtmlContent, plays: Seq[Play]) extends Cacheable {
+case class Plays(override val introduction: Introduction, plays: Seq[Play]) extends Cacheable {
   override val size = plays.size
 }
 
@@ -53,16 +53,16 @@ object Plays extends Fetchable {
       comments = (play \\ "comments").text
       url = (play \\ "url").text
     } yield Play(
-        date = Lists.dateFromString(dateString).get,
-        location = location.trim,
-        author = author.trim,
-        name = name.trim,
-        director = director.trim,
-        adaptation = Option(adaptation.trim).filter(_.nonEmpty),
-        translation = Option(translation.trim).filter(_.nonEmpty),
-        actors = actors,
-        rating = Lists.ratingFromString(ratingString),
-        comments = Lists.commentsFromString(comments))
+      date = Lists.dateFromString(dateString).get,
+      location = location.trim,
+      author = author.trim,
+      name = name.trim,
+      director = director.trim,
+      adaptation = Option(adaptation.trim).filter(_.nonEmpty),
+      translation = Option(translation.trim).filter(_.nonEmpty),
+      actors = actors,
+      rating = Lists.ratingFromString(ratingString),
+      comments = Lists.commentsFromString(comments))
 
     Plays(introduction, playsSeq.map(play => play.copy(slug = Lists.slug(play, playsSeq))))
   }

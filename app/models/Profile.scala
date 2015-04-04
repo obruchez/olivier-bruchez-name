@@ -11,7 +11,7 @@ case class ProfileItem(profileSubItems: Seq[ProfileSubItem])
 
 case class ProfileList(title: String, profileItems: Seq[ProfileItem], slug: String)
 
-case class Profile(override val introduction: HtmlContent, profileLists: Seq[ProfileList]) extends Cacheable {
+case class Profile(override val introduction: Introduction, profileLists: Seq[ProfileList]) extends Cacheable {
   override val size = profileLists.size
 
   /**
@@ -66,20 +66,20 @@ object Profile extends Fetchable {
       list <- profile \\ "list"
       title = list \@ "title"
     } yield {
-        val profileItems = for (item <- list \\ "item") yield {
-          val profileSubItems = for {
-            subitem <- item \\ "subitem"
-            description = subitem.text
-            url = subitem \@ "url"
-          } yield ProfileSubItem(description, url)
+      val profileItems = for (item <- list \\ "item") yield {
+        val profileSubItems = for {
+          subitem <- item \\ "subitem"
+          description = subitem.text
+          url = subitem \@ "url"
+        } yield ProfileSubItem(description, url)
 
-          val allProfileSubItems = if (profileSubItems.nonEmpty)
-            profileSubItems
-          else
-            Seq(ProfileSubItem(description = item.text, url = item \@ "url"))
+        val allProfileSubItems = if (profileSubItems.nonEmpty)
+          profileSubItems
+        else
+          Seq(ProfileSubItem(description = item.text, url = item \@ "url"))
 
-          ProfileItem(allProfileSubItems)
-        }
+        ProfileItem(allProfileSubItems)
+      }
 
       ProfileList(title, profileItems, slug = Lists.slugFromString(title))
     }

@@ -23,7 +23,7 @@ case class Movie(override val date: Partial,
                  url: Option[URL],
                  override val slug: String = "") extends ListItem(date, slug)
 
-case class Movies(override val introduction: HtmlContent, movies: Seq[Movie]) extends Cacheable {
+case class Movies(override val introduction: Introduction, movies: Seq[Movie]) extends Cacheable {
   override val size = movies.size
 }
 
@@ -56,28 +56,28 @@ object Movies extends Fetchable {
       comments = (movie \\ "comments").text
       url = (movie \\ "url").text
     } yield {
-        val titles = for {
-          title <- movie \\ "title"
-          titleString = title.text
-          language = title \@ "language"
-        } yield titleString.trim -> Option(language.trim).filter(_.nonEmpty)
+      val titles = for {
+        title <- movie \\ "title"
+        titleString = title.text
+        language = title \@ "language"
+      } yield titleString.trim -> Option(language.trim).filter(_.nonEmpty)
 
-        val mainTitle = titles.find(_._2.isEmpty).map(_._1).get
-        val otherTitles = titles.filter(_._2.nonEmpty) map {
-          case (titleString, languageOption) => Title(titleString, new Locale(languageOption.get))
-        }
-
-        Movie(
-          date = Lists.dateFromString(dateString).get,
-          theater = if (Lists.isTrue(home)) Right(Home) else Left(theater),
-          director = director.trim,
-          title = mainTitle,
-          otherTitles = otherTitles,
-          version = Option(version.trim).filter(_.nonEmpty).map(new Locale(_)),
-          rating = Lists.ratingFromString(ratingString),
-          comments = Lists.commentsFromString(comments),
-          url = Option(url.trim).filter(_.nonEmpty).map(new URL(_)))
+      val mainTitle = titles.find(_._2.isEmpty).map(_._1).get
+      val otherTitles = titles.filter(_._2.nonEmpty) map {
+        case (titleString, languageOption) => Title(titleString, new Locale(languageOption.get))
       }
+
+      Movie(
+        date = Lists.dateFromString(dateString).get,
+        theater = if (Lists.isTrue(home)) Right(Home) else Left(theater),
+        director = director.trim,
+        title = mainTitle,
+        otherTitles = otherTitles,
+        version = Option(version.trim).filter(_.nonEmpty).map(new Locale(_)),
+        rating = Lists.ratingFromString(ratingString),
+        comments = Lists.commentsFromString(comments),
+        url = Option(url.trim).filter(_.nonEmpty).map(new URL(_)))
+    }
 
     Movies(introduction, moviesSeq.map(movie => movie.copy(slug = Lists.slug(movie, moviesSeq))))
   }

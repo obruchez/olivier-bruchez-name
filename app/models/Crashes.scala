@@ -12,7 +12,7 @@ case class Crash(override val date: Partial,
                  comments: Option[HtmlContent],
                  override val slug: String = "") extends ListItem(date, slug)
 
-case class Crashes(override val introduction: HtmlContent, crashes: Seq[Crash]) extends Cacheable {
+case class Crashes(override val introduction: Introduction, crashes: Seq[Crash]) extends Cacheable {
   override val size = crashes.size
 }
 

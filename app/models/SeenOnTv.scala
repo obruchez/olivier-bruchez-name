@@ -6,7 +6,7 @@ import util.{Configuration, HtmlContent}
 
 // @todo implement parsing
 
-case class SeenOnTv(override val introduction: HtmlContent) extends Cacheable {
+case class SeenOnTv(override val introduction: Introduction) extends Cacheable {
   override val size = 0
 }
 

@@ -9,7 +9,7 @@ case class WorldviewPosition(summary: HtmlContent, details: HtmlContent, slug: S
 
 case class WorldviewCategory(description: HtmlContent, worldviewPositions: Seq[WorldviewPosition], slug: String)
 
-case class Worldview(override val introduction: HtmlContent,
+case class Worldview(override val introduction: Introduction,
                      worldviewCategories: Seq[WorldviewCategory],
                      references: Seq[HtmlContent]) extends Cacheable {
  override val size = references.size
@@ -37,20 +37,20 @@ object Worldview extends Fetchable {
        descriptionAsMarkdown = category \@ "description"
        categorySlug = category \@ "slug"
      } yield {
-         val worldviewPositions = for {
-           position <- category \\ "position"
-           summaryAsMarkdown = position \@ "summary"
-           detailsAsMarkdown = position.text
-           positionSlug = position \@ "slug"
-         } yield WorldviewPosition(
-           summary = HtmlContent.fromMarkdown(summaryAsMarkdown).get,
-           details = HtmlContent.fromMarkdown(detailsAsMarkdown).get,
-           slug = positionSlug)
+       val worldviewPositions = for {
+         position <- category \\ "position"
+         summaryAsMarkdown = position \@ "summary"
+         detailsAsMarkdown = position.text
+         positionSlug = position \@ "slug"
+       } yield WorldviewPosition(
+         summary = HtmlContent.fromMarkdown(summaryAsMarkdown).get,
+         details = HtmlContent.fromMarkdown(detailsAsMarkdown).get,
+         slug = positionSlug)
 
-         WorldviewCategory(
-           description = HtmlContent.fromMarkdown(descriptionAsMarkdown).get,
-           worldviewPositions = worldviewPositions,
-           slug = categorySlug)
+       WorldviewCategory(
+         description = HtmlContent.fromMarkdown(descriptionAsMarkdown).get,
+         worldviewPositions = worldviewPositions,
+         slug = categorySlug)
      }
 
     val references = for {

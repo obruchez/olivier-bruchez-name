@@ -1,4 +1,4 @@
-@(page: Page, pagesAndIntroductions: Seq[(Page, Option[util.HtmlContent])], groupSize: Int, colSize: Int)
+@(page: Page, pagesAndIntroductions: Seq[(Page, Option[Introduction])], groupSize: Int, colSize: Int)
 
 @main(page) {
   <div class="col-md-12">
@@ -9,7 +9,7 @@
         <div class="service-block service-block-u rounded-2x">
           <i class="icon-custom icon-color-light rounded-x fa @page.icon.getOrElse("")"></i>
           <h2 class="heading-md"><a href="@page.url">@page.title</a></h2>
-          @introductionOption.map { introduction => <p><a href="@page.url">@Html(introduction.string)</a></p> }
+          @introductionOption.map { introduction => <p><a href="@page.url">@Html(introduction.shortVersion.string)</a></p> }
         </div>
       </div>
     }

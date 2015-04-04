@@ -11,7 +11,7 @@ case class Hike(override val date: Partial,
                 pictures: Seq[Pictures],
                 override val slug: String = "") extends ListItem(date, slug)
 
-case class Hikes(override val introduction: HtmlContent, hikes: Seq[Hike]) extends Cacheable {
+case class Hikes(override val introduction: Introduction, hikes: Seq[Hike]) extends Cacheable {
   override val size = hikes.size
 }
 

@@ -8,8 +8,10 @@ import scala.concurrent.duration._
 import util._
 import util.Date._
 
+case class Introduction(shortVersion: HtmlContent, fullVersion: HtmlContent)
+
 trait Cacheable {
-  def introduction: HtmlContent
+  def introduction: Introduction
   def size: Int
 }
 
@@ -25,8 +27,18 @@ trait Fetchable {
 abstract class ListItem(val date: Partial, val slug: String)
 
 object Lists {
-  def introductionFromNode(node: Node): Try[HtmlContent] =
-    HtmlContent.fromMarkdown((node \\ "introduction").head.text)
+  def introductionFromNode(node: Node): Try[Introduction] = Try {
+    val introductions = for {
+      introductionNode <- node \\ "introduction"
+      introductionAsMarkdown = introductionNode.text
+      introductionAsHtmlTry = HtmlContent.fromMarkdown(introductionAsMarkdown)
+    } yield introductionAsHtmlTry.get
+
+    val shortVersion = introductions.head
+    val fullVersion = HtmlContent(string = introductions.map(_.string).mkString(" "))
+
+    Introduction(shortVersion = shortVersion, fullVersion = fullVersion)
+  }
 
   def picturesFromNode(node: Node): Seq[Pictures] = for {
     pictures <- node \\ "pictures"
