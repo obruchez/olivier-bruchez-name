@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<courses>
+    <introduction>A list of MOOC courses I took.</introduction>
+    <course>
+        <date>2015-02-21</date>
+        <provider>Coursera</provider>
+        <name>Introduction to Astronomy</name>
+        <instructor>Ronen Plesser</instructor>
+        <url>https://class.coursera.org/introastro-003</url>
+        <certificate>https://github.com/obruchez/public/raw/master/Coursera/Coursera%20(Introduction%20to%20Astronomy).pdf</certificate>
+    </course>
+    <course>
+        <date>2014-05-14</date>
+        <provider>Coursera</provider>
+        <name>Machine Learning</name>
+        <instructor>Andrew Ng</instructor>
+        <url>https://class.coursera.org/ml-005</url>
+        <certificate>https://github.com/obruchez/public/raw/master/Coursera/Coursera%20(Machine%20Learning).pdf</certificate>
+    </course>
+    <course>
+        <date>2014-03-08</date>
+        <provider>Coursera</provider>
+        <name>Unpredictable? Randomness, Chance and Free Will</name>
+        <instructor>Valerio Scarani</instructor>
+        <url>https://class.coursera.org/randomness-001</url>
+        <certificate>https://github.com/obruchez/public/raw/master/Coursera/Coursera%20(Unpredictable%20-%20Randomness%2C%20Chance%20and%20Free%20Will).pdf</certificate>
+    </course>
+    <course>
+        <date>2013-12-25</date>
+        <provider>Coursera</provider>
+        <name>Neural Networks for Machine Learning</name>
+        <instructor>Geoffrey Hinton</instructor>
+        <url>https://class.coursera.org/neuralnets-2012-001</url>
+        <certificate></certificate>
+    </course>
+    <course>
+        <date>2013-12-22</date>
+        <provider>Coursera</provider>
+        <name>Principles of Reactive Programming</name>
+        <instructor>Erik Meijer, Martin Odersky &amp; Roland Kuhn</instructor>
+        <url>https://class.coursera.org/reactive-001</url>
+        <certificate>https://github.com/obruchez/public/raw/master/Coursera/Coursera%20(Principles%20of%20Reactive%20Programming).pdf</certificate>
+    </course>
+    <course>
+        <date>2013-04-20</date>
+        <provider>Coursera</provider>
+        <name>Calculus One</name>
+        <instructor>Jim Fowler</instructor>
+        <url>https://class.coursera.org/calc1-001</url>
+        <certificate></certificate>
+    </course>
+</courses>
