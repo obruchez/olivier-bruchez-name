@@ -19,3 +19,14 @@
 .service-block-u a {
     color: white;
 }
+
+.panel-title .panel-year {
+    margin-left: 5px;
+    vertical-align: middle;
+}
+
+.panel-title .panel-count {
+    display: inline-block;
+    vertical-align: middle;
+    float: none;
+}

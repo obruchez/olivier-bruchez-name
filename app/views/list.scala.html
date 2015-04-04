@@ -4,9 +4,12 @@
 
 @table(yearOption: Option[Int], itemsForYear: Seq[ListItem]) = {
   <div class="panel panel-u">
-    <div class="panel-heading">
+    <div class="panel-heading panel-title">
       <section id="@yearOption.fold("?")(_.toString)">
-        <h3 class="panel-title"><i class="fa fa-calendar"></i> @yearOption.fold("?")(_.toString) (@itemsForYear.size)</h3>
+        <i class="fa fa-calendar"></i>
+        <span class="panel-year" >@yearOption.fold("?")(_.toString)</span>
+        <span class="pull-right"><span class="badge rounded-2x badge-dark panel-count">@itemsForYear.size</span></span>
+
       </section>
     </div>
     <table class="table table-bordered table-striped">
@@ -22,7 +25,7 @@
 
 @main(page) {
   <div class="tag-box tag-box-v2">
-    @Html(introduction.string)<span class="badge rounded-x badge-u pull-right">@items.size</span>
+    @Html(introduction.string)<span class="badge rounded-2x badge-dark pull-right">@items.size</span>
   </div>
   @items.groupBy(_.date.year).toSeq.sortBy(_._1).reverseMap { case (yearOption, itemsForYear) =>
     @table(yearOption, itemsForYear)
