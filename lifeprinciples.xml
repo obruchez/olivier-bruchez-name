@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <lifeprinciples>
     <introduction>My life principles (in French). Ceci est un premier jet (un peu "bateau"), datant de 2011 ou plus tôt.</introduction>
-    <lifeprinciple description="Agir" slug="agir">Être plus dynamique, moins passif. Moins hésiter, prendre des décisions rationnelles mais rapides. Prendre plus de risques, savoir saisir les opportunités.</lifeprinciple>
-    <lifeprinciple description="Apprendre" slug="apprendre">Être curieux. Apprendre de nouvelles choses régulièrement. Comprendre le monde qui m’entoure. Apprendre de mes erreurs.</lifeprinciple>
-    <lifeprinciple description="Confiance en soi" slug="confiance-en-soi">Savoir ce que je veux. Être conscient de ma valeur. Être à l'aise avec les autres. Faire face à mes peurs/phobies en les affrontant directement.</lifeprinciple>
-    <lifeprinciple description="Contact" slug="contact">Chercher le contact social. Eviter de me reposer sur d’autres personnes pour entamer ou entretenir une discussion.</lifeprinciple>
-    <lifeprinciple description="Détente" slug="detente">Loisirs, relaxation, méditation, etc.</lifeprinciple>
-    <lifeprinciple description="Équilibre" slug="equilibre">Entre la famille, les amis, le travail, les loisirs, etc.</lifeprinciple>
-    <lifeprinciple description="Laisser tomber / compassion" slug="laisser-tomber">Accepter de ne pas avoir le contrôle sur tout. Savoir pardonner. Accepter les erreurs (les miennes et celles des autres). Ne pas me laisser aller à la colère.</lifeprinciple>
-    <lifeprinciple description="Présent" slug="present">Vivre le moment présent. Apprécier ce qui est. Savoir écouter. Cesser de me faire du souci concernant le futur ou de trop penser au passé.</lifeprinciple>
-    <lifeprinciple description="Raison" slug="raison">Scepticisme, raison, science, philosophie et curiosité.</lifeprinciple>
-    <lifeprinciple description="Santé" slug="sante">Sport, détente, sommeil et nutrition.</lifeprinciple>
-    <lifeprinciple description="Simplifier" slug="simplifier">Avoir moins de possessions, moins de projets superflus, moins d'informations superflues ("information" overload). Aller à l’essentiel. Eviter la recherche du perfectionnisme ("good enough").</lifeprinciple>
-    <lifeprinciple description="Travail / argent" slug="travail">Trouver un travail satisfaisant intellectuellement et utile à la société. Favoriser l'intérêt du travail par rapport à l'argent.</lifeprinciple>
+    <lifeprinciple summary="Agir" slug="agir">Être plus dynamique, moins passif. Moins hésiter, prendre des décisions rationnelles mais rapides. Prendre plus de risques, savoir saisir les opportunités.</lifeprinciple>
+    <lifeprinciple summary="Apprendre" slug="apprendre">Être curieux. Apprendre de nouvelles choses régulièrement. Comprendre le monde qui m’entoure. Apprendre de mes erreurs.</lifeprinciple>
+    <lifeprinciple summary="Confiance en soi" slug="confiance-en-soi">Savoir ce que je veux. Être conscient de ma valeur. Être à l'aise avec les autres. Faire face à mes peurs/phobies en les affrontant directement.</lifeprinciple>
+    <lifeprinciple summary="Contact" slug="contact">Chercher le contact social. Eviter de me reposer sur d’autres personnes pour entamer ou entretenir une discussion.</lifeprinciple>
+    <lifeprinciple summary="Détente" slug="detente">Loisirs, relaxation, méditation, etc.</lifeprinciple>
+    <lifeprinciple summary="Équilibre" slug="equilibre">Entre la famille, les amis, le travail, les loisirs, etc.</lifeprinciple>
+    <lifeprinciple summary="Laisser tomber / compassion" slug="laisser-tomber">Accepter de ne pas avoir le contrôle sur tout. Savoir pardonner. Accepter les erreurs (les miennes et celles des autres). Ne pas me laisser aller à la colère.</lifeprinciple>
+    <lifeprinciple summary="Présent" slug="present">Vivre le moment présent. Apprécier ce qui est. Savoir écouter. Cesser de me faire du souci concernant le futur ou de trop penser au passé.</lifeprinciple>
+    <lifeprinciple summary="Raison" slug="raison">Scepticisme, raison, science, philosophie et curiosité.</lifeprinciple>
+    <lifeprinciple summary="Santé" slug="sante">Sport, détente, sommeil et nutrition.</lifeprinciple>
+    <lifeprinciple summary="Simplifier" slug="simplifier">Avoir moins de possessions, moins de projets superflus, moins d'informations superflues ("information" overload). Aller à l’essentiel. Eviter la recherche du perfectionnisme ("good enough").</lifeprinciple>
+    <lifeprinciple summary="Travail / argent" slug="travail">Trouver un travail satisfaisant intellectuellement et utile à la société. Favoriser l'intérêt du travail par rapport à l'argent.</lifeprinciple>
 </lifeprinciples>
