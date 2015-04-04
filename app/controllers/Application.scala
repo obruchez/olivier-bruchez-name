@@ -3,7 +3,6 @@ package controllers
 import actors.Cache
 import play.api.libs.concurrent.Execution.Implicits._
 import play.api.mvc._
-import scala.concurrent.Future
 
 object Application extends Controller {
   def home = Action { Ok(views.html.home()) }
@@ -11,18 +10,8 @@ object Application extends Controller {
   def profile = Action.async { Cache.profile.map(profile => Ok(views.html.profile(profile))) }
 
   def lifelogging = Action.async {
-    val sequenceOfFutures = for (page <- Sitemap.lifelogging.children) yield {
-      val introductionFuture = page.fetchable match {
-        case Some(fetchable) => Cache.get(fetchable).map(cacheable => Some(cacheable.introduction))
-        case None => Future(None)
-      }
-      introductionFuture.map(page -> _)
-    }
-
-    val futureOfSequence = Future.sequence(sequenceOfFutures)
-
-    futureOfSequence map { pagesAndIntroductions =>
-      Ok(views.html.lifelogging(pagesAndIntroductions, groupSize = 4, colSize = 3))
+    Page.introductionsFromPages(Sitemap.lifelogging.children) map { pagesAndIntroductions =>
+      Ok(views.html.menu(Sitemap.lifelogging, pagesAndIntroductions, groupSize = 4, colSize = 3))
     }
   }
 
@@ -44,40 +33,44 @@ object Application extends Controller {
 
   def booksToRead = Action {
     // @todo
-    Ok(views.html.menu(Sitemap.booksToRead))
+    NotImplemented
   }
 
   def moviesToWatch = Action {
     // @todo
-    Ok(views.html.menu(Sitemap.moviesToWatch))
+    NotImplemented
   }
 
   def seenOnTv = Action {
     // @todo
-    Ok(views.html.menu(Sitemap.seenOnTv))
+    NotImplemented
   }
 
   def tripsToTake = Action {
     // @todo
-    Ok(views.html.menu(Sitemap.tripsToTake))
+    NotImplemented
   }
 
   def coursera = Action {
     // @todo
-    Ok(views.html.menu(Sitemap.coursera))
+    NotImplemented
   }
 
   def lifePrinciples = Action {
     // @todo
-    Ok(views.html.menu(Sitemap.lifePrinciples))
+    NotImplemented
   }
 
   def votes = Action {
     // @todo
-    Ok(views.html.menu(Sitemap.votes))
+    NotImplemented
   }
 
   def worldview = Action.async { Cache.worldview.map(worldview => Ok(views.html.worldview(worldview))) }
 
-  def externalLinks = Action { Ok(views.html.externallinks()) }
+  def externalLinks = Action.async {
+    Page.introductionsFromPages(Sitemap.externalLinks.children) map { pagesAndIntroductions =>
+      Ok(views.html.menu(Sitemap.externalLinks, pagesAndIntroductions, groupSize = 3, colSize = 4))
+    }
+  }
 }

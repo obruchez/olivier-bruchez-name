@@ -1,7 +1,11 @@
 package controllers
 
+import actors.Cache
 import models._
+import play.api.libs.concurrent.Execution.Implicits._
 import play.api.mvc._
+import scala.concurrent.Future
+import util.HtmlContent
 
 case class Page(title: String,
                 url: String,
@@ -18,6 +22,18 @@ object Page {
 
   def apply(title: String, call: Call, icon: String, children: Seq[Page]): Page =
     Page(title, call.url, icon = Some(icon), children = children)
+
+  def introductionsFromPages(pages: Seq[Page]): Future[Seq[(Page, Option[HtmlContent])]] = {
+    val sequenceOfFutures = for (page <- pages) yield {
+      val introductionFuture = page.fetchable match {
+        case Some(fetchable) => Cache.get(fetchable).map(cacheable => Some(cacheable.introduction))
+        case None => Future(None)
+      }
+      introductionFuture.map(page -> _)
+    }
+
+    Future.sequence(sequenceOfFutures)
+  }
 }
 
 object Sitemap {
