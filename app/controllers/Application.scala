@@ -78,4 +78,9 @@ object Application extends Controller {
       Ok(views.html.menu(Sitemap.externalLinks, pagesAndIntroductions, groupSize = 3, colSize = 4))
     }
   }
+
+  def contact = Action {
+    // @todo
+    NotImplemented
+  }
 }
