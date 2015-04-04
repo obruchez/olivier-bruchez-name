@@ -2,6 +2,16 @@
 <movies title="Movies (Olivier Bruchez)" link="http://github.com/obruchez/public/blob/master/Lists/Movies.md" feed="http://raw.github.com/obruchez/blog/master/rss/movies.rss">
   <introduction>A list of movies I saw.</introduction>
   <movie>
+    <date>2015.04.04</date>
+    <theater>Cinétoile Malley Lumières, Lausanne-Prilly</theater>
+    <director>Mark Burton &amp; Richard Starzak</director>
+    <title>Shaun le mouton</title>
+    <title language="en">Shaun the Sheep Movie</title>
+    <version>fr</version>
+    <url>http://www.imdb.com/title/tt2872750/</url>
+    <rating>4.5</rating>
+  </movie>
+  <movie>
     <date>2015.04.03</date>
     <theater home="true"/>
     <director>Terry Zwigoff</director>
