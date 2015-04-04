@@ -15,7 +15,9 @@ object Application extends Controller {
     }
   }
 
-  def lifePrinciples = Action.async { Cache.lifePrinciples.map(lifePrinciples => Ok(views.html.lifeprinciples(lifePrinciples))) }
+  def lifePrinciples = Action.async {
+    Cache.lifePrinciples.map(lifePrinciples => Ok(views.html.lifeprinciples(lifePrinciples)))
+  }
 
   def worldview = Action.async { Cache.worldview.map(worldview => Ok(views.html.worldview(worldview))) }
 
@@ -53,19 +55,22 @@ object Application extends Controller {
     NotImplemented
   }
 
-  def booksToRead = Action {
-    // @todo
-    NotImplemented
+  def booksToRead = Action.async {
+    Cache.booksToRead map { booksToRead =>
+      Ok(views.html.markdown(Sitemap.booksToRead, booksToRead.introduction, booksToRead.content))
+    }
   }
 
-  def moviesToWatch = Action {
-    // @todo
-    NotImplemented
+  def moviesToWatch = Action.async {
+    Cache.moviesToWatch map { moviesToWatch =>
+      Ok(views.html.markdown(Sitemap.moviesToWatch, moviesToWatch.introduction, moviesToWatch.content))
+    }
   }
 
-  def tripsToTake = Action {
-    // @todo
-    NotImplemented
+  def tripsToTake = Action.async {
+    Cache.tripsToTake map { tripsToTake =>
+      Ok(views.html.markdown(Sitemap.tripsToTake, tripsToTake.introduction, tripsToTake.content))
+    }
   }
 
   def toDo = Action {

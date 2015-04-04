@@ -124,5 +124,5 @@ object Sitemap {
   val root = Page(
     title = "",
     url = "",
-    children = Seq(home, about, lifelogging, /*toDo,*/ cv, /*contact,*/ externalLinks))
+    children = Seq(home, about, lifelogging, toDo, cv, /*contact,*/ externalLinks))
 }

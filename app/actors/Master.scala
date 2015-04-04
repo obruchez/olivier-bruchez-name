@@ -8,6 +8,7 @@ object Master {
   lazy val cache = system.actorOf(Props[Cache], name = "cache")
   lazy val fetchers = Map(
     Books -> Books.fetcher,
+    BooksToRead -> BooksToRead.fetcher,
     Concerts -> Concerts.fetcher,
     Courses -> Courses.fetcher,
     Crashes -> Crashes.fetcher,
@@ -15,9 +16,11 @@ object Master {
     Hikes -> Hikes.fetcher,
     LifePrinciples -> LifePrinciples.fetcher,
     Movies -> Movies.fetcher,
+    MoviesToWatch -> MoviesToWatch.fetcher,
     Plays -> Plays.fetcher,
     Profile -> Profile.fetcher,
     Trips -> Trips.fetcher,
+    TripsToTake -> TripsToTake.fetcher,
     Worldview -> Worldview.fetcher)
 
   def start(): Unit = {
