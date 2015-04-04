@@ -2,7 +2,6 @@ package actors
 
 import akka.actor.{ActorRef, ActorSystem, Props}
 import models._
-import scala.concurrent.duration._
 
 object Master {
   lazy val system = ActorSystem("System")
@@ -20,8 +19,7 @@ object Master {
     Worldview -> Worldview.fetcher)
 
   def start(): Unit = {
-    import system.dispatcher
-    fetchers.map(_._2).foreach(fetcher => system.scheduler.scheduleOnce(0.second, fetcher, Fetch))
+    fetchers.map(_._2).foreach(_ ! Fetch)
   }
 
   def stop(): Unit = {
