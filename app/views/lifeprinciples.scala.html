@@ -1,0 +1,14 @@
+@(lifePrinciples: LifePrinciples)
+
+@main(page = controllers.Sitemap.lifePrinciples) {
+  <div class="tag-box tag-box-v2">
+    <p>@Html(lifePrinciples.introduction.string)</p>
+  </div>
+
+  @lifePrinciples.lifePrinciples.map { lifePrinciple =>
+    <div class="tag-box tag-box-v3">
+      <section id="@lifePrinciple.slug"><h3>@Html(lifePrinciple.summary.string)</h3></section>
+      <p>@Html(lifePrinciple.details.string)</p>
+    </div>
+  }
+}

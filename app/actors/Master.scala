@@ -13,6 +13,7 @@ object Master {
     Crashes -> Crashes.fetcher,
     Exhibitions -> Exhibitions.fetcher,
     Hikes -> Hikes.fetcher,
+    LifePrinciples -> LifePrinciples.fetcher,
     Movies -> Movies.fetcher,
     Plays -> Plays.fetcher,
     Profile -> Profile.fetcher,

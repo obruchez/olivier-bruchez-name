@@ -18,7 +18,7 @@ case class Course(override val date: Partial,
                   override val slug: String = "") extends ListItem(date, slug)
 
 case class Courses(override val introduction: HtmlContent, courses: Seq[Course]) extends Cacheable {
-  override val size = 0
+  override val size = courses.size
 }
 
 object Courses extends Fetchable {

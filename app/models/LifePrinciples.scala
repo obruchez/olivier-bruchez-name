@@ -4,10 +4,13 @@ import java.net.URL
 import scala.util._
 import util.{Configuration, HtmlContent}
 
-// @todo implement parsing
+import scala.xml.{Elem, XML}
 
-case class LifePrinciples(override val introduction: HtmlContent) extends Cacheable {
-  override val size = 0
+case class LifePrinciple(summary: HtmlContent, details: HtmlContent, slug: String)
+
+case class LifePrinciples(override val introduction: HtmlContent,
+                          lifePrinciples: Seq[LifePrinciple]) extends Cacheable {
+  override val size = lifePrinciples.size
 }
 
 object LifePrinciples extends Fetchable {
@@ -18,5 +21,27 @@ object LifePrinciples extends Fetchable {
 
   override def fetch(): Try[LifePrinciples] = apply(sourceUrl)
 
-  def apply(url: URL): Try[LifePrinciples] = Failure(new NotImplementedError())
+    def apply(url: URL): Try[LifePrinciples] = for {
+       xml <- Try(XML.load(url))
+       lifePrinciples <- apply(xml)
+     } yield lifePrinciples
+
+    def apply(elem: Elem): Try[LifePrinciples] = Try {
+       val lifePrinciples = (elem \\ "lifeprinciples").head
+       val introduction = Lists.introductionFromNode(lifePrinciples).get
+
+       val lifePrinciplesSeq = for {
+         lifePrinciple <- lifePrinciples \\ "lifeprinciple"
+         summaryAsMarkdown = lifePrinciple \@ "summary"
+         detailsAsMarkdown = lifePrinciple.text
+         slug = lifePrinciple \@ "slug"
+       } yield {
+           LifePrinciple(
+             summary = HtmlContent.fromMarkdown(summaryAsMarkdown).get,
+             details = HtmlContent.fromMarkdown(detailsAsMarkdown).get,
+             slug = slug)
+       }
+
+      LifePrinciples(introduction, lifePrinciplesSeq)
+     }
 }

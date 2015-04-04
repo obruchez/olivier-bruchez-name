@@ -48,6 +48,7 @@ object Cache {
   def crashes: Future[Crashes] = get(Crashes)
   def exhibitions: Future[Exhibitions] = get(Exhibitions)
   def hikes: Future[Hikes] = get(Hikes)
+  def lifePrinciples: Future[LifePrinciples] = get(LifePrinciples)
   def movies: Future[Movies] = get(Movies)
   def plays: Future[Plays] = get(Plays)
   def profile: Future[Profile] = get(Profile)

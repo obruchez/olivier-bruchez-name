@@ -48,7 +48,7 @@ case class Profile(override val introduction: HtmlContent, profileLists: Seq[Pro
 object Profile extends Fetchable {
   type C = Profile
 
-  override val name = "About / profile"
+  override val name = "Profile"
   override val sourceUrl = Configuration.url("url.profile").get
 
   override def fetch(): Try[Profile] = apply(sourceUrl)
