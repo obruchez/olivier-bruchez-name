@@ -77,7 +77,7 @@ object Sitemap {
   val toDo = Page(
       "To-do",
       routes.Application.toDo(),
-      "", // @todo
+      "fa-check-square-o", // @todo better icon
       children = Seq(booksToRead, moviesToWatch, tripsToTake))
 
   // url.cv.html
@@ -89,15 +89,15 @@ object Sitemap {
     routes.Application.externalLinks(),
     "fa-link",
     children = Seq(
-      Page("Blogger", "https://bruchez.blogspot.com/", Some("fa-rss-square")), // @todo better icon
-      Page("Facebook", "https://www.facebook.com/obruchez", Some("fa-facebook-square")),
+      Page("Blogger", "https://bruchez.blogspot.com/", Some("fa-rss")), // @todo better icon
+      Page("Facebook", "https://www.facebook.com/obruchez", Some("fa-facebook")),
       Page("Flickr", "https://secure.flickr.com/photos/bruchez/sets", Some("fa-flickr")),
-      Page("Github", "https://github.com/obruchez", Some("fa-github-square")),
-      Page("KeithJarrett.org", "http://www.keithjarrett.org/", Some("fa-caret-square-o-right")), // @todo better icon
-      Page("Last.fm", "http://www.last.fm/user/obruchez", Some("fa-lastfm-square")),
-      Page("LinkedIn", "https://www.linkedin.com/in/obruchez", Some("fa-linkedin-square")),
-      Page("Twitter", "https://twitter.com/obruchez", Some("fa-twitter-square")),
-      Page("YouTube", "https://www.youtube.com/user/obruchez", Some("fa-youtube-square"))))
+      Page("Github", "https://github.com/obruchez", Some("fa-github")),
+      Page("KeithJarrett.org", "http://www.keithjarrett.org/", Some("fa-music")), // @todo better icon
+      Page("Last.fm", "http://www.last.fm/user/obruchez", Some("fa-lastfm")),
+      Page("LinkedIn", "https://www.linkedin.com/in/obruchez", Some("fa-linkedin")),
+      Page("Twitter", "https://twitter.com/obruchez", Some("fa-twitter")),
+      Page("YouTube", "https://www.youtube.com/user/obruchez", Some("fa-youtube"))))
 
   val root = Page(
     title = "",
