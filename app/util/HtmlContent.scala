@@ -7,7 +7,10 @@ case class HtmlContent(string: String)
 
 object HtmlContent {
   def fromMarkdown(markdown: String): Try[HtmlContent] = Try {
-    HtmlContent(string = withoutRootParagraph(Processor.process(markdown)))
+    HtmlContent(string = withoutRootParagraph {
+      withNonBreakingSpaces {
+        Processor.process(markdown)
+      }})
   }
 
   private def withoutRootParagraph(html: String): String = {
@@ -18,4 +21,9 @@ object HtmlContent {
     else
       html
   }
+
+  private def withNonBreakingSpaces(html: String): String =
+    charactersWithNonBreakingSpaces.foldLeft(html) { case (s, c) => s.replaceAll(s" \\$c", s"&nbsp;$c") }
+
+  private val charactersWithNonBreakingSpaces = Seq(';', ':', '!', '?', '/', '–', '—', '»')
 }
