@@ -1,14 +1,24 @@
 @(lifePrinciples: LifePrinciples)
 
+@column(columnNumber: Int, columnCount: Int) = {
+  @lifePrinciples.lifePrinciples.slice(
+    from = lifePrinciples.indexFromColumnNumber(columnNumber, columnCount),
+    until = lifePrinciples.indexFromColumnNumber(columnNumber + 1, columnCount)).map { lifePrinciple =>
+    <div class="tag-box tag-box-v3">
+      <div class="headline"><section id="@lifePrinciple.slug"><h2>@Html(lifePrinciple.summary.string)</h2></section></div>
+      <p>@Html(lifePrinciple.details.string)</p>
+    </div>
+  }
+}
+
 @main(page = controllers.Sitemap.lifePrinciples) {
   <div class="tag-box tag-box-v2">
     <p>@Html(lifePrinciples.introduction.fullVersion.string)</p>
   </div>
-
-  @lifePrinciples.lifePrinciples.map { lifePrinciple =>
-    <div class="tag-box tag-box-v3">
-      <section id="@lifePrinciple.slug"><h3>@Html(lifePrinciple.summary.string)</h3></section>
-      <p>@Html(lifePrinciple.details.string)</p>
-    </div>
-  }
+  <div class="col-md-6">
+    @column(columnNumber = 0, columnCount = 2)
+  </div>
+  <div class="col-md-6">
+    @column(columnNumber = 1, columnCount = 2)
+  </div>
 }

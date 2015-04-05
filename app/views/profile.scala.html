@@ -1,10 +1,9 @@
 @(profile: Profile)
 
 @column(columnNumber: Int, columnCount: Int) = {
-  @profile.partOfProfileLists(partNumber = columnNumber, partCount = columnCount  ).map { profileList =>
+  @profile.partOfProfileLists(partNumber = columnNumber, partCount = columnCount).map { profileList =>
     <div class="tag-box tag-box-v3">
       <div class="headline"><section id="@profileList.slug"><h2>@profileList.title</h2></section></div>
-
       <ul>
       @profileList.profileItems.map { profileItem =>
         <li>
