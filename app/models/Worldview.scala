@@ -3,7 +3,7 @@ package models
 import java.net.URL
 import scala.util.Try
 import scala.xml._
-import util.{Configuration, HtmlContent}
+import util.{Configuration, HtmlContent, Parsing}
 
 case class WorldviewPosition(summary: HtmlContent, details: HtmlContent, slug: String)
 

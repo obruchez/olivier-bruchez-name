@@ -4,7 +4,7 @@ import java.net.URL
 import org.joda.time.Partial
 import scala.util.Try
 import scala.xml.{Elem, XML}
-import util.{Configuration, HtmlContent}
+import util.{Configuration, Parsing}
 
 case class Hike(override val date: Partial,
                 place: String,

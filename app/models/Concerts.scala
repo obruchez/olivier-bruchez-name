@@ -4,7 +4,7 @@ import java.net.URL
 import org.joda.time.Partial
 import scala.util.Try
 import scala.xml._
-import util.{Configuration, HtmlContent}
+import util.{Configuration, HtmlContent, Parsing}
 
 case class Musician(name: String, instrument: Option[String], leader: Boolean)
 

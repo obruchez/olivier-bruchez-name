@@ -1,10 +1,10 @@
-package models
+package util
 
 import java.net.URL
+import models.{Introduction, Pictures}
 import org.joda.time.Partial
 import scala.util.Try
 import scala.xml.Node
-import util._
 
 object Parsing {
   def introductionFromNode(node: Node): Try[Introduction] = Try {
@@ -42,26 +42,4 @@ object Parsing {
 
   def isTrue(string: String): Boolean =
     Set("on", "true", "y", "yes", "1").contains(string.trim.toLowerCase)
-
-  def introductionAndContentFromMarkdown(markdown: String): Try[(Introduction, HtmlContent)] = Try {
-    val lines = markdown.split("\\r?\\n").toSeq
-
-    val linesWithoutTitle = if (lines.head.startsWith("# ")) lines.drop(1) else lines
-
-    val indexOfContent = linesWithoutTitle.indexWhere(_.startsWith("## "))
-
-    val (introductionLines, contentLines) = if (indexOfContent >= 0)
-      (linesWithoutTitle.take(indexOfContent), linesWithoutTitle.drop(indexOfContent))
-    else
-      (linesWithoutTitle, Seq())
-
-    def htmlFromMarkdownLines(lines: Seq[String]): HtmlContent =
-      HtmlContent.fromMarkdown(
-        lines.dropWhile(_.trim.isEmpty).reverse.dropWhile(_.trim.isEmpty).reverse.mkString("\n")).get
-
-    val introduction = htmlFromMarkdownLines(introductionLines)
-    val content = htmlFromMarkdownLines(contentLines)
-
-    (Introduction(shortVersion = introduction, fullVersion = introduction), content)
-  }
 }

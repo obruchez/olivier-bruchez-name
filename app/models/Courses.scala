@@ -3,7 +3,7 @@ package models
 import java.net.URL
 import org.joda.time.Partial
 import scala.util._
-import util.{Configuration, HtmlContent}
+import util.{Configuration, Parsing}
 
 import scala.xml.{Elem, XML}
 

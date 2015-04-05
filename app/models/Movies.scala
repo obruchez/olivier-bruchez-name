@@ -5,7 +5,7 @@ import java.util.Locale
 import org.joda.time.Partial
 import scala.util.Try
 import scala.xml.{Elem, XML}
-import util.{Configuration, HtmlContent}
+import util.{Configuration, HtmlContent, Parsing}
 
 sealed abstract class SpecialLocation(val description: String)
 case object Home extends SpecialLocation("Home")

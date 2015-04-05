@@ -3,7 +3,7 @@ package models
 import java.net.URL
 import scala.xml._
 import scala.util.Try
-import util.{Configuration, HtmlContent}
+import util.{Configuration, Parsing}
 
 case class ProfileSubItem(description: String, url: String)
 
