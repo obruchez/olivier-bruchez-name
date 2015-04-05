@@ -38,3 +38,13 @@
 .profilelist .headline, .lifeprinciple .headline, .worldviewposition .headline {
     margin-top: 0;
 }
+
+.markdown li a {
+    /* @todo this should depend on the theme */
+    color: #18ba9b;
+}
+
+.markdown h2 a {
+    /* @todo this should depend on the theme */
+    color: #555;
+}
