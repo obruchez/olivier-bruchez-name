@@ -43,16 +43,18 @@ object Application extends Controller {
 
   def plays = Action.async { Cache.plays.map(plays => Ok(views.html.plays(plays))) }
 
-  def seenOnTv = Action {
-    // @todo
-    NotImplemented
+  def seenOnTv = Action.async {
+    Cache.seenOnTv map { seenOnTv =>
+      Ok(views.html.markdown(Sitemap.seenOnTv, seenOnTv.introduction, seenOnTv.content))
+    }
   }
 
   def trips = Action.async { Cache.trips.map(trips => Ok(views.html.trips(trips))) }
 
-  def votes = Action {
-    // @todo
-    NotImplemented
+  def votes = Action.async {
+    Cache.votes map { votes =>
+      Ok(views.html.markdown(Sitemap.votes, votes.introduction, votes.content))
+    }
   }
 
   def booksToRead = Action.async {

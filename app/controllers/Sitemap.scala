@@ -54,15 +54,15 @@ object Sitemap {
 
   val books = Page(Books, routes.Application.books(), "fa-book")
   val concerts = Page(Concerts, routes.Application.concerts(), "fa-music") // @todo better icon
-  val courses = Page(Courses, routes.Application.courses(), "fa-university")
+  val courses = Page(Courses, routes.Application.courses(), "fa-graduation-cap")
   val crashes = Page(Crashes, routes.Application.crashes(), "fa-hdd-o")
   val exhibitions = Page(Exhibitions, routes.Application.exhibitions(), "fa-picture-o") // @todo better icon
   val hikes = Page(Hikes, routes.Application.hikes(), "fa-sun-o") // @todo better icon
   val movies = Page(Movies, routes.Application.movies(), "fa-film")
   val plays = Page(Plays, routes.Application.plays(), "fa-ticket") // @todo better icon
-  val seenOnTv = Page(SeenOnTv, routes.Application.seenOnTv(),"fa-desktop") // @todo better icon
   val trips = Page(Trips, routes.Application.trips(), "fa-suitcase")
-  val votes = Page(Votes, routes.Application.votes(), "") // @todo find icon
+
+  val seenOnTv = Page(SeenOnTv, routes.Application.seenOnTv(),"fa-desktop") // @todo better icon
 
   val lifelogging = Page(
     "Lifelogging",
@@ -79,6 +79,8 @@ object Sitemap {
       routes.Application.toDo(),
       "fa-check-square-o", // @todo better icon
       children = Seq(booksToRead, moviesToWatch, tripsToTake))
+
+  val votes = Page(Votes, routes.Application.votes(), "fa-bullhorn") // @todo find icon
 
   val htmlCv = Page(
     "HTML",
@@ -124,5 +126,5 @@ object Sitemap {
   val root = Page(
     title = "",
     url = "",
-    children = Seq(home, about, lifelogging, toDo, cv, /*contact,*/ externalLinks))
+    children = Seq(home, about, lifelogging, toDo, votes, cv, /*contact,*/ externalLinks))
 }

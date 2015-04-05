@@ -54,8 +54,10 @@ object Cache {
   def moviesToWatch: Future[MoviesToWatch] = get(MoviesToWatch)
   def plays: Future[Plays] = get(Plays)
   def profile: Future[Profile] = get(Profile)
+  def seenOnTv: Future[SeenOnTv] = get(SeenOnTv)
   def trips: Future[Trips] = get(Trips)
   def tripsToTake: Future[TripsToTake] = get(TripsToTake)
+  def votes: Future[Votes] = get(Votes)
   def worldview: Future[Worldview] = get(Worldview)
 
   def get[F <: Fetchable](fetchable: F): Future[F#C] =

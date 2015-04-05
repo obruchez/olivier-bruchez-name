@@ -1,12 +1,11 @@
 package models
 
 import java.net.URL
+import scala.io.{Codec, Source}
 import scala.util._
-import util.Configuration
+import util.{Configuration, HtmlContent}
 
-// @todo implement parsing
-
-case class Votes(override val introduction: Introduction) extends Cacheable {
+case class Votes(override val introduction: Introduction, content: HtmlContent) extends Cacheable {
   override val size = 0
 }
 
@@ -18,5 +17,8 @@ object Votes extends Fetchable {
 
   override def fetch(): Try[Votes] = apply(sourceUrl)
 
-  def apply(url: URL): Try[Votes] = Failure(new NotImplementedError())
+  def apply(url: URL): Try[Votes] = for {
+    markdown <- Try(Source.fromURL(url)(Codec("UTF-8")).mkString)
+    (introduction, content) <- Parsing.introductionAndContentFromMarkdown(markdown)
+  } yield Votes(introduction, content)
 }

@@ -1,12 +1,11 @@
 package models
 
 import java.net.URL
+import scala.io.{Codec, Source}
 import scala.util._
 import util.{Configuration, HtmlContent}
 
-// @todo implement parsing
-
-case class SeenOnTv(override val introduction: Introduction) extends Cacheable {
+case class SeenOnTv(override val introduction: Introduction, content: HtmlContent) extends Cacheable {
   override val size = 0
 }
 
@@ -18,5 +17,8 @@ object SeenOnTv extends Fetchable {
 
   override def fetch(): Try[SeenOnTv] = apply(sourceUrl)
 
-  def apply(url: URL): Try[SeenOnTv] = Failure(new NotImplementedError())
+  def apply(url: URL): Try[SeenOnTv] = for {
+    markdown <- Try(Source.fromURL(url)(Codec("UTF-8")).mkString)
+    (introduction, content) <- Parsing.introductionAndContentFromMarkdown(markdown)
+  } yield SeenOnTv(introduction, content)
 }

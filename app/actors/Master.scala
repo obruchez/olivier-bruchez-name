@@ -19,8 +19,10 @@ object Master {
     MoviesToWatch -> MoviesToWatch.fetcher,
     Plays -> Plays.fetcher,
     Profile -> Profile.fetcher,
+    SeenOnTv -> SeenOnTv.fetcher,
     Trips -> Trips.fetcher,
     TripsToTake -> TripsToTake.fetcher,
+    Votes -> Votes.fetcher,
     Worldview -> Worldview.fetcher)
 
   def start(): Unit = {
