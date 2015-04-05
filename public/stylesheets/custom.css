@@ -35,6 +35,6 @@
     margin-bottom: 15px;
 }
 
-.worldview-category .headline {
+.profilelist .headline, .lifeprinciple .headline, .worldviewposition .headline {
     margin-top: 0;
 }
