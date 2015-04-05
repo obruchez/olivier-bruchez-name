@@ -32,25 +32,23 @@
   </div>
 
   @worldview.worldviewCategories.map { worldviewCategory =>
-    <div class="headline">
+    <div class="worldview-category">
       <section id="@worldviewCategory.slug"><h2>@Html(worldviewCategory.description.string)</h2></section>
+      @worldviewCategory.worldviewPositions.map { worldviewPosition =>
+        <div class="tag-box tag-box-v3">
+          <div class="headline"><section id="@worldviewPosition.slug"><h3>@Html(worldviewPosition.summary.string)</h3></section></div>
+          <p>@Html(worldviewPosition.details.string)</p>
+        </div>
+      }
     </div>
-
-    @worldviewCategory.worldviewPositions.map { worldviewPosition =>
-      <div class="tag-box tag-box-v3">
-        <section id="@worldviewPosition.slug"><h3>@Html(worldviewPosition.summary.string)</h3></section>
-        <p>@Html(worldviewPosition.details.string)</p>
-      </div>
-    }
   }
 
-  <div class="headline">
+  <div class="worldview-references">
     <section id="references"><h2>Références</h2></section>
+    <ul class="list-unstyled">
+      @worldview.references.map { reference =>
+        <li>@Html(reference.string)</li>
+      }
+    </ul>
   </div>
-
-  <ul class="list-unstyled">
-    @worldview.references.map { reference =>
-      <li>@Html(reference.string)</li>
-    }
-  </ul>
 }

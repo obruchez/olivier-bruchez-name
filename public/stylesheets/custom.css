@@ -30,3 +30,11 @@
     vertical-align: middle;
     float: none;
 }
+
+.worldview-category h2, .worldview-references h2 {
+    margin-bottom: 15px;
+}
+
+.worldview-category .headline {
+    margin-top: 0;
+}
