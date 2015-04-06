@@ -3,11 +3,10 @@ package models
 import java.net.URL
 import org.joda.time.Partial
 import scala.util._
-import util.{Configuration, Parsing}
-
+import util.{Configuration, Parsing, Slug}
 import scala.xml.{Elem, XML}
 
-case class CourseCertificate(description: Option[String], url: URL)
+case class CourseCertificate(description: Option[String], url: URL, slug: String)
 
 case class Course(override val date: Partial,
                   provider: String,
@@ -52,8 +51,9 @@ object Courses extends Fetchable {
         if certificateUrl.nonEmpty
         certificateDescription = certificate \@ "description"
       } yield CourseCertificate(
-          description = Option(certificateDescription.trim).filter(_.nonEmpty),
-          url = new URL(certificateUrl))
+        description = Option(certificateDescription.trim).filter(_.nonEmpty),
+        url = new URL(certificateUrl),
+        slug = Slug.slugFromString(name))
 
       Course(
         date = Parsing.dateFromString(dateString).get,
