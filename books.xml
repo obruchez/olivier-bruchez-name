@@ -35,6 +35,7 @@
         <publishingyear>2011</publishingyear>
         <rating>5.0</rating>
         <url>http://books.google.com/books/about/The_Fear_of_Insignificance.html?id=kYkqAQAAMAAJ</url>
+        <notes description="Kindle highlights">https://raw.githubusercontent.com/obruchez/public/master/Books/The%20Fear%20of%20Insignificance%20(Carlo%20Strenger).md</notes>
     </book>
     <book>
         <date>2014.10.31</date>
@@ -60,6 +61,7 @@
         <publishingyear>2014</publishingyear>
         <rating>5.0</rating>
         <url>http://books.google.com/books/about/Waking_Up.html?id=dmhNAgAAQBAJ</url>
+        <notes description="Kindle highlights">https://raw.githubusercontent.com/obruchez/public/master/Books/Waking%20Up%20(Sam%20Harris).md</notes>
     </book>
 	<book>
         <date>2014.09.02</date>
@@ -68,6 +70,7 @@
         <publishingyear>2013</publishingyear>
         <rating>5.0</rating>
         <url>http://books.google.com/books/about/A_Manual_for_Creating_Atheists.html?id=CBzunAEACAAJ</url>
+        <notes description="Kindle highlights">https://raw.githubusercontent.com/obruchez/public/master/Books/A%20Manual%20for%20Creating%20Atheists%20(Peter%20Boghossian).md</notes>
     </book>
     <book>
         <date>2014.08.11</date>
@@ -76,6 +79,7 @@
         <publishingyear>1947</publishingyear>
         <rating>5.5</rating>
         <url>https://fr.wikipedia.org/wiki/La_Peste</url>
+        <notes description="Kindle highlights">https://raw.githubusercontent.com/obruchez/public/master/Books/La%20Peste%20(Albert%20Camus).md</notes>
     </book>
     <book>
         <date>2014.04.26</date>
@@ -84,6 +88,7 @@
         <publishingyear>2010</publishingyear>
         <rating>4.5</rating>
         <url>http://books.google.com/books/about/The_Brain_and_the_Meaning_of_Life.html?id=vS9jZWduGewC</url>
+        <notes description="Kindle highlights">https://raw.githubusercontent.com/obruchez/public/master/Books/The%20Brain%20and%20the%20Meaning%20of%20Life%20(Paul%20Thagard).md</notes>
     </book>
     <book>
         <date>2014.02.27</date>
@@ -102,6 +107,7 @@
         <publishingyear>2007</publishingyear>
         <rating>3.5</rating>
         <url>http://books.google.com/books/about/The_Now_Habit.html?id=obLBn7OKcI8C</url>
+        <notes description="Kindle highlights">https://raw.githubusercontent.com/obruchez/public/master/Books/The%20Now%20Habit%20(Neil%20Fiore).md</notes>
     </book>
     <book>
         <date>2014.01.11</date>
@@ -111,6 +117,7 @@
         <publishingyear>2012</publishingyear>
         <rating>5.0</rating>
         <url>http://books.google.com/books/about/Consciousness.html?id=q2xDfZ_TC-gC</url>
+        <notes description="Kindle highlights">https://raw.githubusercontent.com/obruchez/public/master/Books/Consciousness%20(Christof%20Koch).md</notes>
     </book>
     <book>
         <date>2013.12.16</date>
@@ -135,6 +142,7 @@
         <publishingyear>1532</publishingyear>
         <rating>5.0</rating>
         <url>https://fr.wikipedia.org/wiki/Pantagruel</url>
+        <notes description="Kindle highlights">https://raw.githubusercontent.com/obruchez/public/master/Books/Pantagruel%20(Franc%CC%A7ois%20Rabelais).md</notes>
         <comments>Middle French version, so quite a difficult read. Difficult to rate.</comments>
     </book>
     <book>
@@ -144,6 +152,7 @@
         <publishingyear>2000</publishingyear>
         <rating>4.75</rating>
         <url>https://fr.wikipedia.org/wiki/M%C3%A9taphysique_des_tubes</url>
+        <notes description="Kindle highlights">https://raw.githubusercontent.com/obruchez/public/master/Books/Metaphysique%20des%20Tubes%20(Amelie%20Nothomb).md</notes>
     </book>
     <book>
         <date>2013.10.17</date>
@@ -152,6 +161,7 @@
         <publishingyear>2006</publishingyear>
         <rating>5.5</rating>
         <url>https://en.wikipedia.org/wiki/The_Selfish_Gene</url>
+        <notes description="Kindle highlights">https://raw.githubusercontent.com/obruchez/public/master/Books/The%20Selfish%20Gene%20(Richard%20Dawkins).md</notes>
         <comments>30th Anniversary edition.</comments>
     </book>
 	<book>
@@ -161,6 +171,7 @@
         <publishingyear>2012</publishingyear>
         <rating>4.75</rating>
         <url>https://en.wikipedia.org/wiki/A_Universe_from_Nothing</url>
+        <notes description="Kindle highlights">https://raw.githubusercontent.com/obruchez/public/master/Books/A%20Universe%20from%20Nothing%20(Lawrence%20M.%20Krauss).md</notes>
     </book>
 	<book>
         <date>2013.06.07</date>
@@ -178,6 +189,7 @@
         <publishingyear>1942</publishingyear>
         <rating>4.75</rating>
         <url>https://fr.wikipedia.org/wiki/Le_Mythe_de_Sisyphe</url>
+        <notes description="Kindle highlights">https://raw.githubusercontent.com/obruchez/public/master/Books/Le%20Mythe%20de%20Sisyphe%20(Albert%20Camus).md</notes>
     </book>
     <book>
         <date>2013.03.07</date>
@@ -194,6 +206,7 @@
         <publishingyear>1925</publishingyear>
         <rating>4.75</rating>
         <url>http://en.wikipedia.org/wiki/What_I_Believe</url>
+        <notes description="Kindle highlights">https://raw.githubusercontent.com/obruchez/public/master/Books/What%20I%20Believe%20(Bertrand%20Russell).md</notes>
     </book>
     <book>
         <date>2013.02.04</date>
@@ -203,6 +216,7 @@
         <publishingyear>2012</publishingyear>
         <rating>5.0</rating>
         <url>http://en.wikipedia.org/wiki/How_to_Create_a_Mind</url>
+        <notes description="Kindle highlights">https://raw.githubusercontent.com/obruchez/public/master/Books/How%20to%20Create%20a%20Mind%20(Ray%20Kurzweil).md</notes>
     </book>
     <book>
         <date>2012.12.06</date>
@@ -219,6 +233,7 @@
         <publishingyear>1942</publishingyear>
         <rating>5.25</rating>
         <url>https://fr.wikipedia.org/wiki/L%27%C3%A9tranger</url>
+        <notes description="Kindle highlights">https://raw.githubusercontent.com/obruchez/public/master/Books/L'Etranger%20(Albert%20Camus).md</notes>
     </book>
     <book>
         <date>2012.11.05</date>
@@ -228,6 +243,7 @@
         <publishingyear>2010</publishingyear>
         <rating>5.25</rating>
         <url>https://en.wikipedia.org/wiki/The_Moral_Landscape</url>
+        <notes description="Kindle highlights">https://raw.githubusercontent.com/obruchez/public/master/Books/The%20Moral%20Landscape%20(Sam%20Harris).md</notes>
     </book>
     <book>
         <date>2012.09.19</date>
@@ -237,6 +253,7 @@
         <publishingyear>2011</publishingyear>
         <rating>5.25</rating>
         <url>http://books.google.com/books/about/You_Are_Not_So_Smart.html?id=7qJfuAAACAAJ</url>
+        <notes description="Kindle highlights">https://raw.githubusercontent.com/obruchez/public/master/Books/You%20Are%20Not%20So%20Smart%20(David%20McRaney).md</notes>
     </book>
 	<book>
 		<date>2012.04.26</date>
@@ -245,6 +262,7 @@
 		<publishingyear>2012</publishingyear>
 		<rating>5.0</rating>
         <url>http://books.google.com/books/about/Free_Will.html?id=iRpkNcRt1IcC</url>
+        <notes description="Kindle highlights">https://raw.githubusercontent.com/obruchez/public/master/Books/Free%20Will%20(Sam%20Harris).md</notes>
 	</book>
 	<book>
 		<date>2012.04.06</date>
@@ -253,6 +271,7 @@
 		<publishingyear>2008</publishingyear>
 		<rating>5.25</rating>
         <url>http://books.google.com/books/about/Bad_Science.html?id=wICuv0ePMYoC</url>
+        <notes description="Kindle highlights">https://raw.githubusercontent.com/obruchez/public/master/Books/Bad%20Science%20(Ben%20Goldacre).md</notes>
 	</book>
 	<book>
 		<date>2011.11.14</date>
@@ -279,6 +298,7 @@
 		<publishingyear>2001</publishingyear>
 		<rating>4.5</rating>
         <url>https://en.wikipedia.org/wiki/God%27s_Debris</url>
+        <notes description="Kindle highlights">https://raw.githubusercontent.com/obruchez/public/master/Books/God's%20Debris%20(Scott%20Adams).md</notes>
 	</book>
 	<book>
 		<date>2011.07.08</date>
@@ -520,6 +540,7 @@
 		<publishingyear>2002</publishingyear>
 		<rating>4.25</rating>
         <url>https://fr.wikipedia.org/wiki/Petit_trait%C3%A9_de_manipulation_%C3%A0_l%27usage_des_honn%C3%AAtes_gens</url>
+        <notes description="Handwritten notes">https://github.com/obruchez/public/raw/master/Books/Petit%20traite%20de%20manipulation%20a%20l'usage%20des%20honnetes%20gens%20(Robert-Vincent%20Joule%20%26%20Jean-Leon%20Beauvois).pdf</notes>
 	</book>
 	<book>
 		<date>2007.02.25</date>
