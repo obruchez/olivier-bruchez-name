@@ -20,3 +20,9 @@ trait Fetchable {
   def fetchPeriod: FiniteDuration = 60.seconds
   def fetch(): Try[C]
 }
+
+object Fetchable {
+  val allFetchables = Seq(
+    Books, BooksToRead, Concerts, Courses, Crashes, Exhibitions, Hikes, LifePrinciples,
+    Movies, MoviesToWatch, Plays, Profile, SeenOnTv, Trips, TripsToTake, Votes, Worldview)
+}
