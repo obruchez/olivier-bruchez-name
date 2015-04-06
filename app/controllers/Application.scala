@@ -29,9 +29,33 @@ object Application extends Controller {
 
   def books = Action.async { Cache.books.map(books => Ok(views.html.books(books))) }
 
+  def bookNotes(slug: String) = Action.async {
+    Cache.books map { books =>
+      books.notesFromSlug(slug) match {
+        case Some(notes) =>
+          // @todo
+          NotImplemented
+        case None =>
+          NotFound
+      }
+    }
+  }
+
   def concerts =  Action.async { Cache.concerts.map(concerts => Ok(views.html.concerts(concerts))) }
 
   def courses =  Action.async { Cache.courses.map(courses => Ok(views.html.courses(courses))) }
+
+  def courseCertificate(slug: String) = Action.async {
+    Cache.courses map { courses =>
+      courses.certificateFromSlug(slug) match {
+        case Some(certificate) =>
+          // @todo
+          NotImplemented
+        case None =>
+          NotFound
+      }
+    }
+  }
 
   def crashes = Action.async { Cache.crashes.map(crashes => Ok(views.html.crashes(crashes))) }
 

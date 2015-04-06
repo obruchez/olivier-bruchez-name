@@ -2,39 +2,41 @@
 # This file defines all application routes (Higher priority routes first)
 # ~~~~
 
-GET        /                      controllers.Application.home
+GET        /                                 controllers.Application.home
 
-GET        /about                 controllers.Application.about
+GET        /about                            controllers.Application.about
 
-GET        /profile               controllers.Application.profile
-GET        /lifeprinciples        controllers.Application.lifePrinciples
-GET        /worldview             controllers.Application.worldview
+GET        /profile                          controllers.Application.profile
+GET        /lifeprinciples                   controllers.Application.lifePrinciples
+GET        /worldview                        controllers.Application.worldview
 
-GET        /lifelogging           controllers.Application.lifelogging
+GET        /lifelogging                      controllers.Application.lifelogging
 
-GET        /books                 controllers.Application.books
-GET        /concerts              controllers.Application.concerts
-GET        /courses               controllers.Application.courses
-GET        /crashes               controllers.Application.crashes
-GET        /exhibitions           controllers.Application.exhibitions
-GET        /hikes                 controllers.Application.hikes
-GET        /movies                controllers.Application.movies
-GET        /plays                 controllers.Application.plays
-GET        /seenontv              controllers.Application.seenOnTv
-GET        /trips                 controllers.Application.trips
-GET        /votes                 controllers.Application.votes
+GET        /books                            controllers.Application.books
+GET        /books/:slug/notes                controllers.Application.bookNotes(slug: String)
+GET        /concerts                         controllers.Application.concerts
+GET        /courses                          controllers.Application.courses
+GET        /courses/:slug/certificate        controllers.Application.courseCertificate(slug: String)
+GET        /crashes                          controllers.Application.crashes
+GET        /exhibitions                      controllers.Application.exhibitions
+GET        /hikes                            controllers.Application.hikes
+GET        /movies                           controllers.Application.movies
+GET        /plays                            controllers.Application.plays
+GET        /seenontv                         controllers.Application.seenOnTv
+GET        /trips                            controllers.Application.trips
+GET        /votes                            controllers.Application.votes
 
-GET        /todo                  controllers.Application.toDo
+GET        /todo                             controllers.Application.toDo
 
-GET        /bookstoread           controllers.Application.booksToRead
-GET        /moviestowatch         controllers.Application.moviesToWatch
-GET        /tripstotake           controllers.Application.tripsToTake
+GET        /bookstoread                      controllers.Application.booksToRead
+GET        /moviestowatch                    controllers.Application.moviesToWatch
+GET        /tripstotake                      controllers.Application.tripsToTake
 
-GET        /cv                    controllers.Application.cv
+GET        /cv                               controllers.Application.cv
 
-GET        /contact               controllers.Application.contact
+GET        /contact                          controllers.Application.contact
 
-GET        /externallinks         controllers.Application.externalLinks
+GET        /externallinks                    controllers.Application.externalLinks
 
 # Map static resources from the /public folder to the /assets URL path
-GET        /assets/*file          controllers.Assets.at(path="/public", file)
+GET        /assets/*file                     controllers.Assets.at(path="/public", file)
