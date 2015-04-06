@@ -37,9 +37,6 @@ object Parsing {
   def ratingFromString(string: String): Option[Double] =
     Option(string).map(_.trim).filter(_.nonEmpty).map(_.toDouble - 1)
 
-  def slugFromString(string: String): String =
-    string.split('/').head.trim.toLowerCase.replaceAll(" ", "-")
-
   def isTrue(string: String): Boolean =
     Set("on", "true", "y", "yes", "1").contains(string.trim.toLowerCase)
 }

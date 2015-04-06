@@ -3,7 +3,7 @@ package models
 import java.net.URL
 import scala.xml._
 import scala.util.Try
-import util.{Configuration, Parsing}
+import util.{Configuration, Parsing, Slug}
 
 case class ProfileSubItem(description: String, url: String)
 
@@ -81,7 +81,7 @@ object Profile extends Fetchable {
         ProfileItem(allProfileSubItems)
       }
 
-      ProfileList(title, profileItems, slug = Parsing.slugFromString(title))
+      ProfileList(title, profileItems, slug = Slug.slugFromString(title))
     }
 
     Profile(introduction, profileLists)

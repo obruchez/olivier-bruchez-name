@@ -6,7 +6,7 @@ import scala.util.Try
 import scala.xml.{Elem, XML}
 import util._
 
-case class BookNotes(description: Option[String], url: URL)
+case class BookNotes(description: Option[String], url: URL, slug: String)
 
 case class Book(override val date: Partial,
                 author: String,
@@ -57,8 +57,9 @@ object Books extends Fetchable {
         if notesUrl.nonEmpty
         notesDescription = notes \@ "description"
       } yield BookNotes(
-          description = Option(notesDescription.trim).filter(_.nonEmpty),
-          url = new URL(notesUrl))
+        description = Option(notesDescription.trim).filter(_.nonEmpty),
+        url = new URL(notesUrl),
+        slug = Slug.slugFromString(s"$author $title"))
 
       Book(
         date = Parsing.dateFromString(dateString).get,
