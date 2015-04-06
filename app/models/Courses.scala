@@ -7,14 +7,14 @@ import util.{Configuration, Parsing}
 
 import scala.xml.{Elem, XML}
 
-case class Certificate(description: Option[String], url: URL)
+case class CourseCertificate(description: Option[String], url: URL)
 
 case class Course(override val date: Partial,
                   provider: String,
                   name: String,
                   instructor: String,
                   url: URL,
-                  certificate: Option[Certificate],
+                  certificate: Option[CourseCertificate],
                   override val slug: String = "") extends ListItem(date, slug)
 
 case class Courses(override val introduction: Introduction, courses: Seq[Course]) extends Cacheable {
@@ -51,7 +51,7 @@ object Courses extends Fetchable {
         certificateUrl = certificate.text.trim
         if certificateUrl.nonEmpty
         certificateDescription = certificate \@ "description"
-      } yield Certificate(
+      } yield CourseCertificate(
           description = Option(certificateDescription.trim).filter(_.nonEmpty),
           url = new URL(certificateUrl))
 

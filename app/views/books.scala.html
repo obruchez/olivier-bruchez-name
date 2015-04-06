@@ -6,9 +6,10 @@
     <th class="col-md-2">Author</th>
     <th class="col-md-3">Title</th>
     <th class="col-md-2">Subtitle</th>
-    <th class="col-md-1">Year</th>
-    <th class="col-md-1">Rating</th>
+    <th>Year</th>
+    <th>Rating</th>
     <th class="col-md-2">Comments</th>
+    <th class="col-md-1">Notes</th>
   </tr>
 }
 
@@ -22,6 +23,9 @@
       <td>@book.year</td>
       <td>@book.rating.fold("")(_.toString)</td>
       <td>@Html(book.comments.fold("")(_.string))</td>
+      <td>@book.notes.map { notes =>
+        <a href="@notes.url">@notes.description.getOrElse("Notes")</a>
+      }</td>
     </tr>
   }
 }

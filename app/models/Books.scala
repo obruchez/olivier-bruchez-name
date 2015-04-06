@@ -6,6 +6,8 @@ import scala.util.Try
 import scala.xml.{Elem, XML}
 import util._
 
+case class BookNotes(description: Option[String], url: URL)
+
 case class Book(override val date: Partial,
                 author: String,
                 title: String,
@@ -14,6 +16,7 @@ case class Book(override val date: Partial,
                 rating: Option[Double],
                 comments: Option[HtmlContent],
                 url: URL,
+                notes: Option[BookNotes],
                 override val slug: String = "") extends ListItem(date, slug)
 
 case class Books(override val introduction: Introduction, books: Seq[Book]) extends Cacheable {
@@ -47,15 +50,26 @@ object Books extends Fetchable {
       ratingString = (book \\ "rating").text
       comments = (book \\ "comments").text
       url = (book \\ "url").text
-    } yield Book(
-      date = Parsing.dateFromString(dateString).get,
-      author = author.trim,
-      title = title.trim,
-      subtitle = Option(subtitle.trim).filter(_.nonEmpty),
-      year = yearString.trim.toInt,
-      rating = Parsing.ratingFromString(ratingString),
-      comments = Parsing.commentsFromString(comments),
-      url = new URL(url))
+    } yield {
+      val notesOption = for {
+        notes <- (book \\ "notes").headOption
+        notesUrl = notes.text.trim
+        if notesUrl.nonEmpty
+        notesDescription = notes \@ "description"
+      } yield BookNotes(
+          description = Option(notesDescription.trim).filter(_.nonEmpty),
+          url = new URL(notesUrl))
+
+      Book(
+        date = Parsing.dateFromString(dateString).get,
+        author = author.trim,
+        title = title.trim,
+        subtitle = Option(subtitle.trim).filter(_.nonEmpty),
+        year = yearString.trim.toInt,
+        rating = Parsing.ratingFromString(ratingString),
+        comments = Parsing.commentsFromString(comments),
+        url = new URL(url),
+        notesOption)}
 
     Books(introduction, booksSeq.map(book => book.copy(slug = ListItem.slug(book, booksSeq))))
   }
