@@ -24,7 +24,7 @@
       <td>@book.rating.fold("")(_.toString)</td>
       <td>@Html(book.comments.fold("")(_.string))</td>
       <td>@book.notes.map { notes =>
-        <a href="@notes.url">@notes.description.getOrElse("Notes")</a>
+        <a href="@routes.Application.bookNotes(notes.slug)">@notes.description.getOrElse("Notes")</a>
       }</td>
     </tr>
   }
