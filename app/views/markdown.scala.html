@@ -1,9 +1,11 @@
-@(page: Page, introduction: Introduction, content: util.HtmlContent)
+@(page: Page, introductionOption: Option[Introduction], content: util.HtmlContent)
 
 @main(page) {
-  <div class="tag-box tag-box-v2">
-    @Html(introduction.fullVersion.string)
-  </div>
+  @introductionOption.map { introduction =>
+    <div class="tag-box tag-box-v2">
+      @Html(introduction.fullVersion.string)
+    </div>
+  }
   <div class="markdown">
     @Html(content.string)
   </div>

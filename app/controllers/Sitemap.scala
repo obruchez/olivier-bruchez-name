@@ -62,7 +62,7 @@ object Sitemap {
   val plays = Page(Plays, routes.Application.plays(), "fa-ticket") // @todo better icon
   val trips = Page(Trips, routes.Application.trips(), "fa-suitcase")
 
-  val seenOnTv = Page(SeenOnTv, routes.Application.seenOnTv(),"fa-desktop") // @todo better icon
+  val seenOnTv = Page(SeenOnTv, routes.Application.seenOnTv(), "fa-desktop") // @todo better icon
 
   val lifelogging = Page(
     "Lifelogging",

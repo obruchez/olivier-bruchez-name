@@ -29,33 +29,9 @@ object Application extends Controller {
 
   def books = Action.async { Cache.books.map(books => Ok(views.html.books(books))) }
 
-  def bookNotes(slug: String) = Action.async {
-    Cache.books map { books =>
-      books.notesFromSlug(slug) match {
-        case Some(notes) =>
-          // @todo
-          NotImplemented
-        case None =>
-          NotFound
-      }
-    }
-  }
-
   def concerts =  Action.async { Cache.concerts.map(concerts => Ok(views.html.concerts(concerts))) }
 
   def courses =  Action.async { Cache.courses.map(courses => Ok(views.html.courses(courses))) }
-
-  def courseCertificate(slug: String) = Action.async {
-    Cache.courses map { courses =>
-      courses.certificateFromSlug(slug) match {
-        case Some(certificate) =>
-          // @todo
-          NotImplemented
-        case None =>
-          NotFound
-      }
-    }
-  }
 
   def crashes = Action.async { Cache.crashes.map(crashes => Ok(views.html.crashes(crashes))) }
 
@@ -69,7 +45,7 @@ object Application extends Controller {
 
   def seenOnTv = Action.async {
     Cache.seenOnTv map { seenOnTv =>
-      Ok(views.html.markdown(Sitemap.seenOnTv, seenOnTv.introduction, seenOnTv.content))
+      Ok(views.html.markdown(Sitemap.seenOnTv, Some(seenOnTv.introduction), seenOnTv.content))
     }
   }
 
@@ -77,25 +53,25 @@ object Application extends Controller {
 
   def votes = Action.async {
     Cache.votes map { votes =>
-      Ok(views.html.markdown(Sitemap.votes, votes.introduction, votes.content))
+      Ok(views.html.markdown(Sitemap.votes, Some(votes.introduction), votes.content))
     }
   }
 
   def booksToRead = Action.async {
     Cache.booksToRead map { booksToRead =>
-      Ok(views.html.markdown(Sitemap.booksToRead, booksToRead.introduction, booksToRead.content))
+      Ok(views.html.markdown(Sitemap.booksToRead, Some(booksToRead.introduction), booksToRead.content))
     }
   }
 
   def moviesToWatch = Action.async {
     Cache.moviesToWatch map { moviesToWatch =>
-      Ok(views.html.markdown(Sitemap.moviesToWatch, moviesToWatch.introduction, moviesToWatch.content))
+      Ok(views.html.markdown(Sitemap.moviesToWatch, Some(moviesToWatch.introduction), moviesToWatch.content))
     }
   }
 
   def tripsToTake = Action.async {
     Cache.tripsToTake map { tripsToTake =>
-      Ok(views.html.markdown(Sitemap.tripsToTake, tripsToTake.introduction, tripsToTake.content))
+      Ok(views.html.markdown(Sitemap.tripsToTake, Some(tripsToTake.introduction), tripsToTake.content))
     }
   }
 

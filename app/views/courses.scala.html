@@ -18,7 +18,7 @@
       <td><a href="@course.url">@course.name</a></td>
       <td>@course.instructor</td>
       <td>@course.certificate.map { certificate =>
-        <a href="@routes.Application.courseCertificate(certificate.slug)">@certificate.description.getOrElse("Certificate")</a>
+        <a href="@routes.CourseCertificatesController.courseCertificate(certificate.slug)">@certificate.description.getOrElse("Certificate")</a>
       }</td>
     </tr>
   }

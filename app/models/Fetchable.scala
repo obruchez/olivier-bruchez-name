@@ -9,7 +9,7 @@ case class Introduction(shortVersion: HtmlContent, fullVersion: HtmlContent)
 
 trait Cacheable {
   def introduction: Introduction
-  def size: Int
+  def subFetchables: Seq[Fetchable] = Seq()
 }
 
 trait Fetchable {
