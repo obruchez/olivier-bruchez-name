@@ -9,8 +9,6 @@ case class LifePrinciple(summary: HtmlContent, details: HtmlContent, slug: Strin
 
 case class LifePrinciples(override val introduction: Introduction,
                           lifePrinciples: Seq[LifePrinciple]) extends Cacheable {
-  override val size = lifePrinciples.size
-
   def indexFromColumnNumber(columnNumber: Int, columnCount: Int): Int =
     math.round((columnNumber.toDouble / columnCount.toDouble) * lifePrinciples.size).toInt
 }

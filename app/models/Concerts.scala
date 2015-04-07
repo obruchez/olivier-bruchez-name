@@ -17,9 +17,7 @@ case class Concert(override val date: Partial,
                    comments: Option[HtmlContent],
                    override val slug: String = "") extends ListItem(date, slug)
 
-case class Concerts(override val introduction: Introduction, concerts: Seq[Concert]) extends Cacheable {
-  override val size = concerts.size
-}
+case class Concerts(override val introduction: Introduction, concerts: Seq[Concert]) extends Cacheable
 
 object Concerts extends Fetchable {
   type C = Concerts

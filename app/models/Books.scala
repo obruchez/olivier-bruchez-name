@@ -20,8 +20,6 @@ case class Book(override val date: Partial,
                 override val slug: String = "") extends ListItem(date, slug)
 
 case class Books(override val introduction: Introduction, books: Seq[Book]) extends Cacheable {
-  override val size = books.size
-
   def notesFromSlug(slug: String): Option[BookNotes] =
     books.find(_.notes.exists(_.slug == slug)).flatMap(_.notes)
 }

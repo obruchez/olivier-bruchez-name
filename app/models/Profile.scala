@@ -12,8 +12,6 @@ case class ProfileItem(profileSubItems: Seq[ProfileSubItem])
 case class ProfileList(title: String, profileItems: Seq[ProfileItem], slug: String)
 
 case class Profile(override val introduction: Introduction, profileLists: Seq[ProfileList]) extends Cacheable {
-  override val size = profileLists.size
-
   /**
    * @param partNumber 0-based part number (maximum value can be partCount - 1)
    * @param partCount total number of parts

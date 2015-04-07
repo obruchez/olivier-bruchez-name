@@ -11,9 +11,7 @@ case class WorldviewCategory(description: HtmlContent, worldviewPositions: Seq[W
 
 case class Worldview(override val introduction: Introduction,
                      worldviewCategories: Seq[WorldviewCategory],
-                     references: Seq[HtmlContent]) extends Cacheable {
- override val size = references.size
-}
+                     references: Seq[HtmlContent]) extends Cacheable
 
 object Worldview extends Fetchable {
   type C = Worldview

@@ -5,9 +5,7 @@ import scala.io.{Codec, Source}
 import scala.util._
 import util.{Configuration, HtmlContent, Markdown}
 
-case class TripsToTake(override val introduction: Introduction, content: HtmlContent) extends Cacheable {
-  override val size = 0
-}
+case class TripsToTake(override val introduction: Introduction, content: HtmlContent) extends Cacheable
 
 object TripsToTake extends Fetchable {
   type C = TripsToTake

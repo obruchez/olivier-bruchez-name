@@ -17,8 +17,6 @@ case class Course(override val date: Partial,
                   override val slug: String = "") extends ListItem(date, slug)
 
 case class Courses(override val introduction: Introduction, courses: Seq[Course]) extends Cacheable {
-  override val size = courses.size
-
   def certificateFromSlug(slug: String): Option[CourseCertificate] =
     courses.find(_.certificate.exists(_.slug == slug)).flatMap(_.certificate)
 }

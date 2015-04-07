@@ -23,9 +23,7 @@ case class Movie(override val date: Partial,
                  url: Option[URL],
                  override val slug: String = "") extends ListItem(date, slug)
 
-case class Movies(override val introduction: Introduction, movies: Seq[Movie]) extends Cacheable {
-  override val size = movies.size
-}
+case class Movies(override val introduction: Introduction, movies: Seq[Movie]) extends Cacheable
 
 object Movies extends Fetchable {
   type C = Movies

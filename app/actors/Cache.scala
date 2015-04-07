@@ -30,7 +30,7 @@ class Cache extends Actor {
       }
 
     case SetCache(fetchable, cacheable) =>
-      Logger.trace(s"Caching ${fetchable.name} (${cacheable.size})...")
+      Logger.trace(s"Caching ${fetchable.name}...")
 
       cachedValues(fetchable) = cacheable
       subscribers(fetchable).foreach(_ ! CacheResult(cacheable))

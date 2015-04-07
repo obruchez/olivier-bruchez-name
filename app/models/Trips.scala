@@ -12,9 +12,7 @@ case class Trip(from: Partial,
                 pictures: Seq[Pictures],
                 override val slug: String = "") extends ListItem(from, slug)
 
-case class Trips(override val introduction: Introduction, trips: Seq[Trip]) extends Cacheable {
-  override val size = trips.size
-}
+case class Trips(override val introduction: Introduction, trips: Seq[Trip]) extends Cacheable
 
 object Trips extends Fetchable {
   type C = Trips
