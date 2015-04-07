@@ -4,18 +4,20 @@ import actors.Cache
 import models.{Courses, CourseCertificate}
 import play.api.libs.concurrent.Execution.Implicits._
 import play.api.mvc._
+import scala.util._
+import util._
 
-object CourseCertificatesController extends Controller with FileHelper {
+object CourseCertificatesController extends Controller {
   def courseCertificate(slug: String) = Action.async {
     Cache.courses map { courses =>
       courses.certificateFromSlug(slug) match {
         case Some(certificate) =>
-          certificate.url.fileType match {
-            case Markdown =>
-              NotImplemented
-            case _ =>
-              // @todo implement this
-              NotImplemented
+          // We expect only binary file types (PDF, mainly)
+          BinaryContent(certificate.url) match {
+            case Success(binaryContent) =>
+              Ok(binaryContent.content).as(binaryContent.fileType.mimeType)
+            case Failure(throwable) =>
+              Ok(views.html.error(courses.pageFromCertificate(certificate), throwable))
           }
         case None =>
           NotFound

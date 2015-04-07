@@ -8,6 +8,7 @@ import scala.util.Try
 case class Introduction(shortVersion: HtmlContent, fullVersion: HtmlContent)
 
 trait Cacheable {
+  //def sizeInBytes: Int
   def introduction: Introduction
   def subFetchables: Seq[Fetchable] = Seq()
 }
