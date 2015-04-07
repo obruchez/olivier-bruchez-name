@@ -1,9 +1,8 @@
 package models
 
 import java.net.URL
-import scala.io.{Codec, Source}
 import scala.util._
-import util.{Configuration, HtmlContent, Markdown}
+import util.{Configuration, HtmlContent, MarkdownContent}
 
 case class TripsToTake(override val introduction: Introduction, content: HtmlContent) extends Cacheable
 
@@ -16,7 +15,7 @@ object TripsToTake extends Fetchable {
   override def fetch(): Try[TripsToTake] = apply(sourceUrl)
 
   def apply(url: URL): Try[TripsToTake] = for {
-     markdown <- Try(Source.fromURL(url)(Codec("UTF-8")).mkString)
-     (introduction, content) <- Markdown.introductionAndContentFromMarkdown(markdown)
+    markdownContent <- MarkdownContent(url)
+    (introduction, content) <- markdownContent.toIntroductionAndMainContent
    } yield TripsToTake(introduction, content)
 }

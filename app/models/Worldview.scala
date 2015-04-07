@@ -3,7 +3,7 @@ package models
 import java.net.URL
 import scala.util.Try
 import scala.xml._
-import util.{Configuration, HtmlContent, Parsing}
+import util._
 
 case class WorldviewPosition(summary: HtmlContent, details: HtmlContent, slug: String)
 
@@ -41,12 +41,12 @@ object Worldview extends Fetchable {
          detailsAsMarkdown = position.text
          positionSlug = position \@ "slug"
        } yield WorldviewPosition(
-         summary = HtmlContent.fromMarkdown(summaryAsMarkdown).get,
-         details = HtmlContent.fromMarkdown(detailsAsMarkdown).get,
+         summary = MarkdownContent(summaryAsMarkdown).toHtmlContent.get,
+         details = MarkdownContent(detailsAsMarkdown).toHtmlContent.get,
          slug = positionSlug)
 
        WorldviewCategory(
-         description = HtmlContent.fromMarkdown(descriptionAsMarkdown).get,
+         description = MarkdownContent(descriptionAsMarkdown).toHtmlContent.get,
          worldviewPositions = worldviewPositions,
          slug = categorySlug)
      }
@@ -55,7 +55,7 @@ object Worldview extends Fetchable {
       references <- worldview \\ "references"
       reference <- references \\ "reference"
       referenceAsMarkdown = reference.text
-    } yield HtmlContent.fromMarkdown(referenceAsMarkdown).get
+    } yield MarkdownContent(referenceAsMarkdown).toHtmlContent.get
 
      Worldview(introduction, worldviewCategories, references)
    }

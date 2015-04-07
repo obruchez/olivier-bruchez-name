@@ -11,7 +11,7 @@ object Parsing {
     val introductions = for {
       introductionNode <- node \\ "introduction"
       introductionAsMarkdown = introductionNode.text
-      introductionAsHtmlTry = HtmlContent.fromMarkdown(introductionAsMarkdown)
+      introductionAsHtmlTry = MarkdownContent(introductionAsMarkdown).toHtmlContent
     } yield introductionAsHtmlTry.get
 
     val shortVersion = introductions.head

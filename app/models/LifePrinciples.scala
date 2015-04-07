@@ -2,7 +2,7 @@ package models
 
 import java.net.URL
 import scala.util._
-import util.{Configuration, HtmlContent, Parsing}
+import util._
 import scala.xml.{Elem, XML}
 
 case class LifePrinciple(summary: HtmlContent, details: HtmlContent, slug: String)
@@ -36,10 +36,10 @@ object LifePrinciples extends Fetchable {
        detailsAsMarkdown = lifePrinciple.text
        slug = lifePrinciple \@ "slug"
      } yield {
-         LifePrinciple(
-           summary = HtmlContent.fromMarkdown(summaryAsMarkdown).get,
-           details = HtmlContent.fromMarkdown(detailsAsMarkdown).get,
-           slug = slug)
+       LifePrinciple(
+         summary = MarkdownContent(summaryAsMarkdown).toHtmlContent.get,
+         details = MarkdownContent(detailsAsMarkdown).toHtmlContent.get,
+         slug = slug)
      }
 
     LifePrinciples(introduction, lifePrinciplesSeq)
