@@ -1,6 +1,6 @@
 @import util.Introduction
 
-@(page: Page, introductionOption: Option[Introduction], items: Seq[ListItem], header: play.twirl.api.Html, rowFromItem: (ListItem) => play.twirl.api.Html)
+@(page: Page, introduction: Option[Introduction], items: Seq[ListItem], header: play.twirl.api.Html, rowFromItem: (ListItem) => play.twirl.api.Html)
 
 @import util.Date._
 
@@ -26,7 +26,7 @@
 }
 
 @main(page) {
-  @introductionOption.map { introduction =>
+  @introduction.map { introduction =>
     <div class="tag-box tag-box-v2">
       @Html(introduction.fullVersion.string) <span class="badge rounded-2x badge-dark pull-right">@items.size</span>
     </div>

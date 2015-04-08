@@ -13,7 +13,7 @@ case class Exhibition(override val date: Partial,
                       comments: Option[HtmlContent],
                       override val slug: String = "") extends ListItem(date, slug)
 
-case class Exhibitions(override val introductionOption: Option[Introduction],
+case class Exhibitions(override val introduction: Option[Introduction],
                        exhibitions: Seq[Exhibition]) extends Cacheable
 
 object Exhibitions extends Fetchable {
@@ -31,7 +31,7 @@ object Exhibitions extends Fetchable {
 
   def apply(elem: Elem): Try[Exhibitions] = Try {
     val exhibitions = (elem \\ "exhibitions").head
-    val introductionOption = Parsing.introductionFromNode(exhibitions).get
+    val introduction = Parsing.introductionFromNode(exhibitions).get
 
     val exhibitionsSeq = for {
       exhibition <- exhibitions \\ "exhibition"
@@ -48,7 +48,7 @@ object Exhibitions extends Fetchable {
       comments = Parsing.commentsFromString(comments))
 
     Exhibitions(
-      introductionOption,
+      introduction,
       exhibitionsSeq.map(exhibition => exhibition.copy(slug = ListItem.slug(exhibition, exhibitionsSeq))))
   }
 }

@@ -11,7 +11,7 @@ case class ProfileItem(profileSubItems: Seq[ProfileSubItem])
 
 case class ProfileList(title: String, profileItems: Seq[ProfileItem], slug: String)
 
-case class Profile(override val introductionOption: Option[Introduction],
+case class Profile(override val introduction: Option[Introduction],
                    profileLists: Seq[ProfileList]) extends Cacheable {
   /**
    * @param partNumber 0-based part number (maximum value can be partCount - 1)
@@ -59,7 +59,7 @@ object Profile extends Fetchable {
 
   def apply(elem: Elem): Try[Profile] = Try {
     val profile = (elem \\ "profile").head
-    val introductionOption = Parsing.introductionFromNode(profile).get
+    val introduction = Parsing.introductionFromNode(profile).get
 
     val profileLists = for {
       list <- profile \\ "list"
@@ -83,6 +83,6 @@ object Profile extends Fetchable {
       ProfileList(title, profileItems, slug = Slug.slugFromString(title))
     }
 
-    Profile(introductionOption, profileLists)
+    Profile(introduction, profileLists)
   }
 }

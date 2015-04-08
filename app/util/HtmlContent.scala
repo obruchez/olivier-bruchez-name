@@ -1,6 +1,10 @@
 package util
 
-case class HtmlContent(string: String) {
+import java.net.URL
+import scala.io.{Codec, Source}
+import scala.util.Try
+
+case class HtmlContent(string: String) extends FileContent(Html) {
   def withoutRootParagraph: HtmlContent = {
     val trimmed = string.trim
 
@@ -27,5 +31,10 @@ case class HtmlContent(string: String) {
 }
 
 object HtmlContent {
+  def apply(url: URL): Try[HtmlContent] = Try {
+    val markdownString = Source.fromURL(url)(Codec("UTF-8")).mkString
+    apply(markdownString)
+  }
+
   private val charactersWithNonBreakingSpaces = Seq(';', ':', '!', '?', '/', '–', '—', '»')
 }

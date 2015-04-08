@@ -9,7 +9,7 @@ case class WorldviewPosition(summary: HtmlContent, details: HtmlContent, slug: S
 
 case class WorldviewCategory(description: HtmlContent, worldviewPositions: Seq[WorldviewPosition], slug: String)
 
-case class Worldview(override val introductionOption: Option[Introduction],
+case class Worldview(override val introduction: Option[Introduction],
                      worldviewCategories: Seq[WorldviewCategory],
                      references: Seq[HtmlContent]) extends Cacheable
 
@@ -28,7 +28,7 @@ object Worldview extends Fetchable {
 
   def apply(elem: Elem): Try[Worldview] = Try {
      val worldview = (elem \\ "worldview").head
-     val introductionOption = Parsing.introductionFromNode(worldview).get
+     val introduction = Parsing.introductionFromNode(worldview).get
 
      val worldviewCategories = for {
        category <- worldview \\ "category"
@@ -57,6 +57,6 @@ object Worldview extends Fetchable {
       referenceAsMarkdown = reference.text
     } yield MarkdownContent(referenceAsMarkdown).toHtmlContent.get
 
-     Worldview(introductionOption, worldviewCategories, references)
+     Worldview(introduction, worldviewCategories, references)
    }
 }

@@ -5,7 +5,7 @@ import java.net.URL
 import scala.io.{Codec, Source}
 import scala.util._
 
-case class MarkdownContent(lines: Seq[String]) {
+case class MarkdownContent(lines: Seq[String]) extends FileContent(Markdown) {
   def withoutHeadingTitle: MarkdownContent = {
     val linesWithoutHeadingTitle = lines.
       dropWhile(_.trim.isEmpty).

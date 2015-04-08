@@ -4,7 +4,7 @@ import java.net.URL
 import scala.util._
 import util._
 
-case class BooksToRead(override val introductionOption: Option[Introduction],
+case class BooksToRead(override val introduction: Option[Introduction],
                        content: HtmlContent) extends Cacheable
 
 object BooksToRead extends Fetchable {
@@ -17,6 +17,6 @@ object BooksToRead extends Fetchable {
 
   def apply(url: URL): Try[BooksToRead] = for {
     markdownContent <- MarkdownContent(url)
-    (introductionOption, content) <- markdownContent.toIntroductionAndMainContent
-  } yield BooksToRead(introductionOption, content)
+    (introduction, content) <- markdownContent.toIntroductionAndMainContent
+  } yield BooksToRead(introduction, content)
 }

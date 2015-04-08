@@ -11,7 +11,7 @@ case class Hike(override val date: Partial,
                 pictures: Seq[Pictures],
                 override val slug: String = "") extends ListItem(date, slug)
 
-case class Hikes(override val introductionOption: Option[Introduction],
+case class Hikes(override val introduction: Option[Introduction],
                  hikes: Seq[Hike]) extends Cacheable
 
 object Hikes extends Fetchable {
@@ -29,7 +29,7 @@ object Hikes extends Fetchable {
 
   def apply(elem: Elem): Try[Hikes] = Try {
     val hikes = (elem \\ "hikes").head
-    val introductionOption = Parsing.introductionFromNode(hikes).get
+    val introduction = Parsing.introductionFromNode(hikes).get
 
     val hikesSeq = for {
       hike <- hikes \\ "hike"
@@ -40,6 +40,6 @@ object Hikes extends Fetchable {
       place = place.trim,
       pictures = Parsing.picturesFromNode(hike))
 
-    Hikes(introductionOption, hikesSeq.map(hike => hike.copy(slug = ListItem.slug(hike, hikesSeq))))
+    Hikes(introduction, hikesSeq.map(hike => hike.copy(slug = ListItem.slug(hike, hikesSeq))))
   }
 }

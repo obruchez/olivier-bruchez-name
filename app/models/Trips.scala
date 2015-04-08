@@ -12,7 +12,7 @@ case class Trip(from: Partial,
                 pictures: Seq[Pictures],
                 override val slug: String = "") extends ListItem(from, slug)
 
-case class Trips(override val introductionOption: Option[Introduction],
+case class Trips(override val introduction: Option[Introduction],
                  trips: Seq[Trip]) extends Cacheable
 
 object Trips extends Fetchable {
@@ -30,7 +30,7 @@ object Trips extends Fetchable {
 
   def apply(elem: Elem): Try[Trips] = Try {
     val trips = (elem \\ "trips").head
-    val introductionOption = Parsing.introductionFromNode(trips).get
+    val introduction = Parsing.introductionFromNode(trips).get
 
     val tripsSeq = for {
       trip <- trips \\ "trip"
@@ -43,6 +43,6 @@ object Trips extends Fetchable {
       place = place,
       pictures = Parsing.picturesFromNode(trip))
 
-    Trips(introductionOption, tripsSeq.map(trip => trip.copy(slug = ListItem.slug(trip, tripsSeq))))
+    Trips(introduction, tripsSeq.map(trip => trip.copy(slug = ListItem.slug(trip, tripsSeq))))
   }
 }

@@ -11,7 +11,7 @@ case class Introduction(shortVersion: HtmlContent, fullVersion: HtmlContent)
 
 trait Cacheable {
   //def sizeInBytes: Int
-  def introductionOption: Option[Introduction]
+  def introduction: Option[Introduction] = None
   def subFetchables: Seq[Fetchable] = Seq()
 }
 

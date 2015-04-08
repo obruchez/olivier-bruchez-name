@@ -15,14 +15,18 @@ class Fetcher(cache: ActorRef, fetchable: Fetchable) extends Actor {
     case Fetch =>
       Logger.trace(s"Fetching ${fetchable.name}...")
 
-      fetchable.fetch() match {
-        case Success(cacheable) =>
-          cache ! SetCache(fetchable, cacheable)
-          //cacheable.subFetchables // @todo
-        case Failure(throwable) =>
-          Logger.error(s"Could not fetch ${fetchable.name}", throwable)
-      }
+      fetch(fetchable)
 
       system.scheduler.scheduleOnce(fetchable.fetchPeriod, self, Fetch)
+  }
+
+  private def fetch(fetchable: Fetchable): Unit = {
+    fetchable.fetch() match {
+      case Success(cacheable) =>
+        cache ! SetCache(fetchable, cacheable)
+        cacheable.subFetchables.foreach(fetch)
+      case Failure(throwable) =>
+        Logger.error(s"Could not fetch ${fetchable.name}", throwable)
+    }
   }
 }

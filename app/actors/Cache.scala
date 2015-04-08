@@ -8,7 +8,7 @@ import play.api.Logger
 import scala.collection.mutable
 import scala.concurrent.Future
 import scala.concurrent.duration._
-import util.{Cacheable, Fetchable}
+import util._
 
 sealed trait CacheMessage
 case class GetCache[F <: Fetchable](fetchable: F) extends CacheMessage
@@ -60,6 +60,8 @@ object Cache {
   def tripsToTake: Future[TripsToTake] = get(TripsToTake)
   def votes: Future[Votes] = get(Votes)
   def worldview: Future[Worldview] = get(Worldview)
+
+  def fileContent(fileSource: FileSource): Future[FileContent] = get(fileSource)
 
   def get[F <: Fetchable](fetchable: F): Future[F#C] =
     ask(Master.cache, GetCache(fetchable)).mapTo[CacheResult[F#C]].map(_.cacheable)

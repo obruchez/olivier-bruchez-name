@@ -4,7 +4,7 @@ import java.net.URL
 import scala.io.{Codec, Source}
 import scala.util.Try
 
-case class BinaryContent(content: Array[Byte], fileType: FileType)
+case class BinaryContent(content: Array[Byte], override val fileType: FileType) extends FileContent(fileType)
 
 object BinaryContent {
   def apply(url: URL): Try[BinaryContent] = Try {

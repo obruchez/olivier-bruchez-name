@@ -1,12 +1,12 @@
 package controllers
 
 object Breadcrumbs {
-  case class Link(name: String, urlOption: Option[String]) {
+  case class Link(name: String, url: Option[String]) {
     def isHome: Boolean = name == Sitemap.home.title
   }
 
   object Link {
-    def apply(page: Page): Link = Link(name = page.title, urlOption = Option(page.url).filter(_.nonEmpty))
+    def apply(page: Page): Link = Link(name = page.title, url = Option(page.url).filter(_.nonEmpty))
   }
 
   def links(page: Page): Seq[Link] = {
@@ -14,7 +14,7 @@ object Breadcrumbs {
       val currentLink = Link(pageToTest)
 
       if (pageToTest == page) {
-        acc :+ currentLink.copy(urlOption = None)
+        acc :+ currentLink.copy(url = None)
       } else {
         val childAcc = if (pageToTest == Sitemap.root) acc else acc :+ currentLink
         (for {

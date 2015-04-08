@@ -21,7 +21,7 @@
 }
 
 @main(page = controllers.Sitemap.profile) {
-  @profile.introductionOption.map { introduction =>
+  @profile.introduction.map { introduction =>
     <div class="tag-box tag-box-v2">
       <p>@Html(introduction.fullVersion.string)</p>
     </div>

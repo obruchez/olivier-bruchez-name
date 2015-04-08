@@ -1,9 +1,9 @@
 @import util.Introduction
 
-@(page: Page, introductionOption: Option[Introduction], content: util.HtmlContent)
+@(page: Page, introduction: Option[Introduction], content: util.HtmlContent)
 
 @main(page) {
-  @introductionOption.map { introduction =>
+  @introduction.map { introduction =>
     <div class="tag-box tag-box-v2">
       @Html(introduction.fullVersion.string)
     </div>

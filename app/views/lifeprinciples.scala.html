@@ -12,7 +12,7 @@
 }
 
 @main(page = controllers.Sitemap.lifePrinciples) {
-  @lifePrinciples.introductionOption.map { introduction =>
+  @lifePrinciples.introduction.map { introduction =>
     <div class="tag-box tag-box-v2">
       <p>@Html(introduction.fullVersion.string)</p>
     </div>

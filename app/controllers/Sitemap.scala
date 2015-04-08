@@ -26,7 +26,7 @@ object Page {
   def introductionsFromPages(pages: Seq[Page]): Future[Seq[(Page, Option[Introduction])]] = {
     val sequenceOfFutures = for (page <- pages) yield {
       val introductionFuture = page.fetchable match {
-        case Some(fetchable) => Cache.get(fetchable).map(cacheable => cacheable.introductionOption)
+        case Some(fetchable) => Cache.get(fetchable).map(cacheable => cacheable.introduction)
         case None => Future(None)
       }
       introductionFuture.map(page -> _)

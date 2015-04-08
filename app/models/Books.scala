@@ -6,7 +6,14 @@ import scala.util.Try
 import scala.xml.{Elem, XML}
 import util._
 
-case class BookNotes(description: Option[String], url: URL, slug: String)
+case class BookNotes(description: Option[String], url: URL, slug: String) {
+  def fileSource: FileSource =
+    FileSource(name = description.getOrElse(BookNotes.DefaultDescription), sourceUrl = url)
+}
+
+object BookNotes {
+  val DefaultDescription = "Notes"
+}
 
 case class Book(override val date: Partial,
                 author: String,
@@ -19,10 +26,15 @@ case class Book(override val date: Partial,
                 notes: Option[BookNotes],
                 override val slug: String = "") extends ListItem(date, slug)
 
-case class Books(override val introductionOption: Option[Introduction],
+case class Books(override val introduction: Option[Introduction],
                  books: Seq[Book]) extends Cacheable {
   def notesFromSlug(slug: String): Option[BookNotes] =
     books.find(_.notes.exists(_.slug == slug)).flatMap(_.notes)
+
+  override def subFetchables: Seq[FileSource] = for {
+    book <- books
+    notes <- book.notes
+  } yield notes.fileSource
 }
 
 object Books extends Fetchable {
@@ -40,7 +52,7 @@ object Books extends Fetchable {
 
   def apply(elem: Elem): Try[Books] = Try {
     val books = (elem \\ "books").head
-    val introductionOption = Parsing.introductionFromNode(books).get
+    val introduction = Parsing.introductionFromNode(books).get
 
     val booksSeq = for {
       book <- books \\ "book"
@@ -74,6 +86,6 @@ object Books extends Fetchable {
         url = new URL(url),
         notesOption)}
 
-    Books(introductionOption, booksSeq.map(book => book.copy(slug = ListItem.slug(book, booksSeq))))
+    Books(introduction, booksSeq.map(book => book.copy(slug = ListItem.slug(book, booksSeq))))
   }
 }

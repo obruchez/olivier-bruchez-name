@@ -45,7 +45,7 @@ object Application extends Controller {
 
   def seenOnTv = Action.async {
     Cache.seenOnTv map { seenOnTv =>
-      Ok(views.html.markdown(Sitemap.seenOnTv, seenOnTv.introductionOption, seenOnTv.content))
+      Ok(views.html.markdown(Sitemap.seenOnTv, seenOnTv.introduction, seenOnTv.content))
     }
   }
 
@@ -53,25 +53,25 @@ object Application extends Controller {
 
   def votes = Action.async {
     Cache.votes map { votes =>
-      Ok(views.html.markdown(Sitemap.votes, votes.introductionOption, votes.content))
+      Ok(views.html.markdown(Sitemap.votes, votes.introduction, votes.content))
     }
   }
 
   def booksToRead = Action.async {
     Cache.booksToRead map { booksToRead =>
-      Ok(views.html.markdown(Sitemap.booksToRead, booksToRead.introductionOption, booksToRead.content))
+      Ok(views.html.markdown(Sitemap.booksToRead, booksToRead.introduction, booksToRead.content))
     }
   }
 
   def moviesToWatch = Action.async {
     Cache.moviesToWatch map { moviesToWatch =>
-      Ok(views.html.markdown(Sitemap.moviesToWatch, moviesToWatch.introductionOption, moviesToWatch.content))
+      Ok(views.html.markdown(Sitemap.moviesToWatch, moviesToWatch.introduction, moviesToWatch.content))
     }
   }
 
   def tripsToTake = Action.async {
     Cache.tripsToTake map { tripsToTake =>
-      Ok(views.html.markdown(Sitemap.tripsToTake, tripsToTake.introductionOption, tripsToTake.content))
+      Ok(views.html.markdown(Sitemap.tripsToTake, tripsToTake.introduction, tripsToTake.content))
     }
   }
 

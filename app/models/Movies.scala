@@ -23,7 +23,7 @@ case class Movie(override val date: Partial,
                  url: Option[URL],
                  override val slug: String = "") extends ListItem(date, slug)
 
-case class Movies(override val introductionOption: Option[Introduction],
+case class Movies(override val introduction: Option[Introduction],
                   movies: Seq[Movie]) extends Cacheable
 
 object Movies extends Fetchable {
@@ -41,7 +41,7 @@ object Movies extends Fetchable {
 
   def apply(elem: Elem): Try[Movies] = Try {
     val movies = (elem \\ "movies").head
-    val introductionOption = Parsing.introductionFromNode(movies).get
+    val introduction = Parsing.introductionFromNode(movies).get
 
     val moviesSeq = for {
       movie <- movies \\ "movie"
@@ -78,6 +78,6 @@ object Movies extends Fetchable {
         url = Option(url.trim).filter(_.nonEmpty).map(new URL(_)))
     }
 
-    Movies(introductionOption, moviesSeq.map(movie => movie.copy(slug = ListItem.slug(movie, moviesSeq))))
+    Movies(introduction, moviesSeq.map(movie => movie.copy(slug = ListItem.slug(movie, moviesSeq))))
   }
 }

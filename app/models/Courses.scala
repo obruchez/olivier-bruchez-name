@@ -6,7 +6,14 @@ import scala.util._
 import scala.xml.{Elem, XML}
 import util._
 
-case class CourseCertificate(description: Option[String], url: URL, slug: String)
+case class CourseCertificate(description: Option[String], url: URL, slug: String) {
+  def fileSource: FileSource =
+    FileSource(name = description.getOrElse(BookNotes.DefaultDescription), sourceUrl = url)
+}
+
+object CourseCertificate {
+  val DefaultDescription = "Certificate"
+}
 
 case class Course(override val date: Partial,
                   provider: String,
@@ -16,10 +23,15 @@ case class Course(override val date: Partial,
                   certificate: Option[CourseCertificate],
                   override val slug: String = "") extends ListItem(date, slug)
 
-case class Courses(override val introductionOption: Option[Introduction],
+case class Courses(override val introduction: Option[Introduction],
                    courses: Seq[Course]) extends Cacheable {
   def certificateFromSlug(slug: String): Option[CourseCertificate] =
     courses.find(_.certificate.exists(_.slug == slug)).flatMap(_.certificate)
+
+  override def subFetchables: Seq[FileSource] = for {
+    course <- courses
+    certificate <- course.certificate
+  } yield certificate.fileSource
 }
 
 object Courses extends Fetchable {
@@ -37,7 +49,7 @@ object Courses extends Fetchable {
 
   def apply(elem: Elem): Try[Courses] = Try {
     val courses = (elem \\ "courses").head
-    val introductionOption = Parsing.introductionFromNode(courses).get
+    val introduction = Parsing.introductionFromNode(courses).get
 
     val coursesSeq = for {
       course <- courses \\ "course"
@@ -66,6 +78,6 @@ object Courses extends Fetchable {
         certificate = certificateOption)
     }
 
-    Courses(introductionOption, coursesSeq.map(course => course.copy(slug = ListItem.slug(course, coursesSeq))))
+    Courses(introduction, coursesSeq.map(course => course.copy(slug = ListItem.slug(course, coursesSeq))))
   }
 }
