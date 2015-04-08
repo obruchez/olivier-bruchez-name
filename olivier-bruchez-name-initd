@@ -75,9 +75,9 @@ COMMAND=$1
 # ***********************************************
 # *************  Set these variables  ***********
 
-NAME=olivier-bruchez-org
+NAME=olivier-bruchez-name
 PORT=10080
-APP_DIR=/home/obruchez/olivier-bruchez-org
+APP_DIR=/home/obruchez/olivier-bruchez-name
 
 # ***********************************************
 # ***********************************************
