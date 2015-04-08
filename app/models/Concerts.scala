@@ -4,7 +4,7 @@ import java.net.URL
 import org.joda.time.Partial
 import scala.util.Try
 import scala.xml._
-import util.{Configuration, HtmlContent, Parsing}
+import util._
 
 case class Musician(name: String, instrument: Option[String], leader: Boolean)
 
@@ -17,7 +17,8 @@ case class Concert(override val date: Partial,
                    comments: Option[HtmlContent],
                    override val slug: String = "") extends ListItem(date, slug)
 
-case class Concerts(override val introduction: Introduction, concerts: Seq[Concert]) extends Cacheable
+case class Concerts(override val introductionOption: Option[Introduction],
+                    concerts: Seq[Concert]) extends Cacheable
 
 object Concerts extends Fetchable {
   type C = Concerts
@@ -34,7 +35,7 @@ object Concerts extends Fetchable {
 
   def apply(elem: Elem): Try[Concerts] = Try {
     val concerts = (elem \\ "concerts").head
-    val introduction = Parsing.introductionFromNode(concerts).get
+    val introductionOption = Parsing.introductionFromNode(concerts).get
 
     val concertsSeq = for {
       concert <- concerts \\ "concert"
@@ -64,7 +65,7 @@ object Concerts extends Fetchable {
         comments = Parsing.commentsFromString(comments))
     }
 
-    Concerts(introduction, concertsSeq.map(concert => concert.copy(slug = ListItem.slug(concert, concertsSeq))))
+    Concerts(introductionOption, concertsSeq.map(concert => concert.copy(slug = ListItem.slug(concert, concertsSeq))))
   }
 
   def commaOrAnd(index: Int, totalCount: Int): String =

@@ -3,8 +3,8 @@ package models
 import java.net.URL
 import org.joda.time.Partial
 import scala.util._
-import util.{Configuration, Parsing, Slug}
 import scala.xml.{Elem, XML}
+import util._
 
 case class CourseCertificate(description: Option[String], url: URL, slug: String)
 
@@ -16,7 +16,8 @@ case class Course(override val date: Partial,
                   certificate: Option[CourseCertificate],
                   override val slug: String = "") extends ListItem(date, slug)
 
-case class Courses(override val introduction: Introduction, courses: Seq[Course]) extends Cacheable {
+case class Courses(override val introductionOption: Option[Introduction],
+                   courses: Seq[Course]) extends Cacheable {
   def certificateFromSlug(slug: String): Option[CourseCertificate] =
     courses.find(_.certificate.exists(_.slug == slug)).flatMap(_.certificate)
 }
@@ -36,7 +37,7 @@ object Courses extends Fetchable {
 
   def apply(elem: Elem): Try[Courses] = Try {
     val courses = (elem \\ "courses").head
-    val introduction = Parsing.introductionFromNode(courses).get
+    val introductionOption = Parsing.introductionFromNode(courses).get
 
     val coursesSeq = for {
       course <- courses \\ "course"
@@ -65,8 +66,6 @@ object Courses extends Fetchable {
         certificate = certificateOption)
     }
 
-    Courses(
-      introduction,
-      coursesSeq.map(course => course.copy(slug = ListItem.slug(course, coursesSeq))))
+    Courses(introductionOption, coursesSeq.map(course => course.copy(slug = ListItem.slug(course, coursesSeq))))
   }
 }

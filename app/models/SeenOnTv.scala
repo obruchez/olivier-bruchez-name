@@ -2,9 +2,10 @@ package models
 
 import java.net.URL
 import scala.util._
-import util.{Configuration, HtmlContent, MarkdownContent}
+import util._
 
-case class SeenOnTv(override val introduction: Introduction, content: HtmlContent) extends Cacheable
+case class SeenOnTv(override val introductionOption: Option[Introduction],
+                    content: HtmlContent) extends Cacheable
 
 object SeenOnTv extends Fetchable {
   type C = SeenOnTv
@@ -16,6 +17,6 @@ object SeenOnTv extends Fetchable {
 
   def apply(url: URL): Try[SeenOnTv] = for {
     markdownContent <- MarkdownContent(url)
-    (introduction, content) <- markdownContent.toIntroductionAndMainContent
-  } yield SeenOnTv(introduction, content)
+    (introductionOption, content) <- markdownContent.toIntroductionAndMainContent
+  } yield SeenOnTv(introductionOption, content)
 }

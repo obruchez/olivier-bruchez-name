@@ -1,23 +1,23 @@
 package util
 
 import java.net.URL
-import models.{Introduction, Pictures}
+import models.Pictures
 import org.joda.time.Partial
 import scala.util.Try
 import scala.xml.Node
 
 object Parsing {
-  def introductionFromNode(node: Node): Try[Introduction] = Try {
+  def introductionFromNode(node: Node): Try[Option[Introduction]] = Try {
     val introductions = for {
       introductionNode <- node \\ "introduction"
       introductionAsMarkdown = introductionNode.text
       introductionAsHtmlTry = MarkdownContent(introductionAsMarkdown).toHtmlContent
     } yield introductionAsHtmlTry.get
 
-    val shortVersion = introductions.head
+    val shortVersionOption = introductions.headOption
     val fullVersion = HtmlContent(string = introductions.map(_.string).mkString(" "))
 
-    Introduction(shortVersion = shortVersion, fullVersion = fullVersion)
+    shortVersionOption.map(shortVersion => Introduction(shortVersion = shortVersion, fullVersion = fullVersion))
   }
 
   def picturesFromNode(node: Node): Seq[Pictures] = for {

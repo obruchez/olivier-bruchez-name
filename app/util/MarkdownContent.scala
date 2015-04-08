@@ -2,7 +2,6 @@ package util
 
 import com.github.rjeschke.txtmark._
 import java.net.URL
-import models.Introduction
 import scala.io.{Codec, Source}
 import scala.util._
 
@@ -22,24 +21,26 @@ case class MarkdownContent(lines: Seq[String]) {
     HtmlContent(htmlString).withNonBreakingSpaces.withoutRootParagraph
   }
 
-  def toIntroductionAndMainContent: Try[(Introduction, HtmlContent)] = Try {
+  def toIntroductionAndMainContent: Try[(Option[Introduction], HtmlContent)] = Try {
     val withoutHeadingTitle = this.withoutHeadingTitle
 
     val indexOfContent = withoutHeadingTitle.lines.indexWhere(_.startsWith("## "))
 
     val (introductionLines, mainContentLines) = if (indexOfContent >= 0)
-      (withoutHeadingTitle.lines.take(indexOfContent), withoutHeadingTitle.lines.drop(indexOfContent))
+      (
+        withoutHeadingTitle.lines.take(indexOfContent).dropWhile(_.trim.isEmpty),
+        withoutHeadingTitle.lines.drop(indexOfContent))
     else
       (withoutHeadingTitle.lines, Seq())
 
-    val introductionHtml = MarkdownContent(introductionLines).toHtmlContent.get
+    val introductionHtmlOption = Some(introductionLines).filter(_.nonEmpty).map(MarkdownContent(_).toHtmlContent.get)
     val contentHtml =
       MarkdownContent(mainContentLines).toHtmlContent.get.
       withCssClassAddedToHeadings(
         heading = "h2",
         cssClass = MarkdownContent.HeadlineClass)
 
-    (Introduction(shortVersion = introductionHtml, fullVersion = introductionHtml), contentHtml)
+    (introductionHtmlOption.map(html => Introduction(shortVersion = html, fullVersion = html)), contentHtml)
   }
 }
 

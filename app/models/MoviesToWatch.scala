@@ -2,9 +2,10 @@ package models
 
 import java.net.URL
 import scala.util._
-import util.{Configuration, HtmlContent, MarkdownContent}
+import util._
 
-case class MoviesToWatch(override val introduction: Introduction, content: HtmlContent) extends Cacheable
+case class MoviesToWatch(override val introductionOption: Option[Introduction],
+                         content: HtmlContent) extends Cacheable
 
 object MoviesToWatch extends Fetchable {
   type C = MoviesToWatch
@@ -16,6 +17,6 @@ object MoviesToWatch extends Fetchable {
 
   def apply(url: URL): Try[MoviesToWatch] = for {
     markdownContent <- MarkdownContent(url)
-    (introduction, content) <- markdownContent.toIntroductionAndMainContent
- } yield MoviesToWatch(introduction, content)
+    (introductionOption, content) <- markdownContent.toIntroductionAndMainContent
+ } yield MoviesToWatch(introductionOption, content)
 }

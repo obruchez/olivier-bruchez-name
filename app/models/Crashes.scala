@@ -4,7 +4,7 @@ import java.net.URL
 import org.joda.time.Partial
 import scala.util.Try
 import scala.xml.{Elem, XML}
-import util.{Configuration, HtmlContent, Parsing}
+import util._
 
 case class Crash(override val date: Partial,
                  manufacturer: String,
@@ -12,7 +12,8 @@ case class Crash(override val date: Partial,
                  comments: Option[HtmlContent],
                  override val slug: String = "") extends ListItem(date, slug)
 
-case class Crashes(override val introduction: Introduction, crashes: Seq[Crash]) extends Cacheable
+case class Crashes(override val introductionOption: Option[Introduction],
+                   crashes: Seq[Crash]) extends Cacheable
 
 object Crashes extends Fetchable {
   type C = Crashes
@@ -29,7 +30,7 @@ object Crashes extends Fetchable {
 
   def apply(elem: Elem): Try[Crashes] = Try {
     val crashes = (elem \\ "crashes").head
-    val introduction = Parsing.introductionFromNode(crashes).get
+    val introductionOption = Parsing.introductionFromNode(crashes).get
 
     val crashesSeq = for {
       crash <- crashes \\ "crash"
@@ -43,6 +44,6 @@ object Crashes extends Fetchable {
       model = model.trim,
       comments = Parsing.commentsFromString(comments))
 
-    Crashes(introduction, crashesSeq.map(crash => crash.copy(slug = ListItem.slug(crash, crashesSeq))))
+    Crashes(introductionOption, crashesSeq.map(crash => crash.copy(slug = ListItem.slug(crash, crashesSeq))))
   }
 }

@@ -5,7 +5,7 @@ import models._
 import play.api.libs.concurrent.Execution.Implicits._
 import play.api.mvc._
 import scala.concurrent.Future
-import util.HtmlContent
+import util.{Fetchable, Introduction}
 
 case class Page(title: String,
                 url: String,
@@ -26,7 +26,7 @@ object Page {
   def introductionsFromPages(pages: Seq[Page]): Future[Seq[(Page, Option[Introduction])]] = {
     val sequenceOfFutures = for (page <- pages) yield {
       val introductionFuture = page.fetchable match {
-        case Some(fetchable) => Cache.get(fetchable).map(cacheable => Some(cacheable.introduction))
+        case Some(fetchable) => Cache.get(fetchable).map(cacheable => cacheable.introductionOption)
         case None => Future(None)
       }
       introductionFuture.map(page -> _)

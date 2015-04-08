@@ -6,8 +6,9 @@ import akka.util.Timeout
 import models._
 import play.api.Logger
 import scala.collection.mutable
-import scala.concurrent._
+import scala.concurrent.Future
 import scala.concurrent.duration._
+import util.{Cacheable, Fetchable}
 
 sealed trait CacheMessage
 case class GetCache[F <: Fetchable](fetchable: F) extends CacheMessage

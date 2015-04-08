@@ -21,9 +21,11 @@
 }
 
 @main(page = controllers.Sitemap.profile) {
-  <div class="tag-box tag-box-v2">
-    <p>@Html(profile.introduction.fullVersion.string)</p>
-  </div>
+  @profile.introductionOption.map { introduction =>
+    <div class="tag-box tag-box-v2">
+      <p>@Html(introduction.fullVersion.string)</p>
+    </div>
+  }
   <div class="col-md-6">
     @column(columnNumber = 0, columnCount = 2)
   </div>

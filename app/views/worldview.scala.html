@@ -1,9 +1,11 @@
 @(worldview: Worldview)
 
 @main(page = controllers.Sitemap.worldview) {
-  <div class="tag-box tag-box-v2">
-    <p>@Html(worldview.introduction.fullVersion.string)</p>
-  </div>
+  @worldview.introductionOption.map { introduction =>
+    <div class="tag-box tag-box-v2">
+      <p>@Html(introduction.fullVersion.string)</p>
+    </div>
+  }
 
   <div class="panel-group acc-v1" id="accordion-1">
     <div class="panel panel-default">

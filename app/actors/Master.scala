@@ -2,7 +2,7 @@ package actors
 
 import akka.actor.{ActorSystem, Props}
 import models._
-import util.Slug
+import util.{Fetchable, Slug}
 
 object Master {
   lazy val system = ActorSystem("System")

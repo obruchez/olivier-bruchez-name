@@ -2,9 +2,10 @@ package models
 
 import java.net.URL
 import scala.util._
-import util.{Configuration, HtmlContent, MarkdownContent}
+import util._
 
-case class Votes(override val introduction: Introduction, content: HtmlContent) extends Cacheable
+case class Votes(override val introductionOption: Option[Introduction],
+                 content: HtmlContent) extends Cacheable
 
 object Votes extends Fetchable {
   type C = Votes
@@ -16,6 +17,6 @@ object Votes extends Fetchable {
 
   def apply(url: URL): Try[Votes] = for {
     markdownContent <- MarkdownContent(url)
-    (introduction, content) <- markdownContent.toIntroductionAndMainContent
-  } yield Votes(introduction, content)
+    (introductionOption, content) <- markdownContent.toIntroductionAndMainContent
+  } yield Votes(introductionOption, content)
 }

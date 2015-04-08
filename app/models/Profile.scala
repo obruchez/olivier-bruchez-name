@@ -3,7 +3,7 @@ package models
 import java.net.URL
 import scala.xml._
 import scala.util.Try
-import util.{Configuration, Parsing, Slug}
+import util._
 
 case class ProfileSubItem(description: String, url: String)
 
@@ -11,7 +11,8 @@ case class ProfileItem(profileSubItems: Seq[ProfileSubItem])
 
 case class ProfileList(title: String, profileItems: Seq[ProfileItem], slug: String)
 
-case class Profile(override val introduction: Introduction, profileLists: Seq[ProfileList]) extends Cacheable {
+case class Profile(override val introductionOption: Option[Introduction],
+                   profileLists: Seq[ProfileList]) extends Cacheable {
   /**
    * @param partNumber 0-based part number (maximum value can be partCount - 1)
    * @param partCount total number of parts
@@ -58,7 +59,7 @@ object Profile extends Fetchable {
 
   def apply(elem: Elem): Try[Profile] = Try {
     val profile = (elem \\ "profile").head
-    val introduction = Parsing.introductionFromNode(profile).get
+    val introductionOption = Parsing.introductionFromNode(profile).get
 
     val profileLists = for {
       list <- profile \\ "list"
@@ -82,6 +83,6 @@ object Profile extends Fetchable {
       ProfileList(title, profileItems, slug = Slug.slugFromString(title))
     }
 
-    Profile(introduction, profileLists)
+    Profile(introductionOption, profileLists)
   }
 }

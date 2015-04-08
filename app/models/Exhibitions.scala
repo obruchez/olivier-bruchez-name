@@ -4,7 +4,7 @@ import java.net.URL
 import org.joda.time.Partial
 import scala.util.Try
 import scala.xml.{Elem, XML}
-import util.{Configuration, HtmlContent, Parsing}
+import util._
 
 case class Exhibition(override val date: Partial,
                       name: String,
@@ -13,7 +13,8 @@ case class Exhibition(override val date: Partial,
                       comments: Option[HtmlContent],
                       override val slug: String = "") extends ListItem(date, slug)
 
-case class Exhibitions(override val introduction: Introduction, exhibitions: Seq[Exhibition]) extends Cacheable
+case class Exhibitions(override val introductionOption: Option[Introduction],
+                       exhibitions: Seq[Exhibition]) extends Cacheable
 
 object Exhibitions extends Fetchable {
   type C = Exhibitions
@@ -30,7 +31,7 @@ object Exhibitions extends Fetchable {
 
   def apply(elem: Elem): Try[Exhibitions] = Try {
     val exhibitions = (elem \\ "exhibitions").head
-    val introduction = Parsing.introductionFromNode(exhibitions).get
+    val introductionOption = Parsing.introductionFromNode(exhibitions).get
 
     val exhibitionsSeq = for {
       exhibition <- exhibitions \\ "exhibition"
@@ -47,7 +48,7 @@ object Exhibitions extends Fetchable {
       comments = Parsing.commentsFromString(comments))
 
     Exhibitions(
-      introduction,
+      introductionOption,
       exhibitionsSeq.map(exhibition => exhibition.copy(slug = ListItem.slug(exhibition, exhibitionsSeq))))
   }
 }

@@ -19,7 +19,8 @@ case class Book(override val date: Partial,
                 notes: Option[BookNotes],
                 override val slug: String = "") extends ListItem(date, slug)
 
-case class Books(override val introduction: Introduction, books: Seq[Book]) extends Cacheable {
+case class Books(override val introductionOption: Option[Introduction],
+                 books: Seq[Book]) extends Cacheable {
   def notesFromSlug(slug: String): Option[BookNotes] =
     books.find(_.notes.exists(_.slug == slug)).flatMap(_.notes)
 }
@@ -39,7 +40,7 @@ object Books extends Fetchable {
 
   def apply(elem: Elem): Try[Books] = Try {
     val books = (elem \\ "books").head
-    val introduction = Parsing.introductionFromNode(books).get
+    val introductionOption = Parsing.introductionFromNode(books).get
 
     val booksSeq = for {
       book <- books \\ "book"
@@ -73,6 +74,6 @@ object Books extends Fetchable {
         url = new URL(url),
         notesOption)}
 
-    Books(introduction, booksSeq.map(book => book.copy(slug = ListItem.slug(book, booksSeq))))
+    Books(introductionOption, booksSeq.map(book => book.copy(slug = ListItem.slug(book, booksSeq))))
   }
 }

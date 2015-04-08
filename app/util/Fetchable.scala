@@ -1,7 +1,9 @@
-package models
+package util
 
 import java.net.URL
-import util.HtmlContent
+
+import models._
+
 import scala.concurrent.duration._
 import scala.util.Try
 
@@ -9,7 +11,7 @@ case class Introduction(shortVersion: HtmlContent, fullVersion: HtmlContent)
 
 trait Cacheable {
   //def sizeInBytes: Int
-  def introduction: Introduction
+  def introductionOption: Option[Introduction]
   def subFetchables: Seq[Fetchable] = Seq()
 }
 
