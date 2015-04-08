@@ -1,4 +1,4 @@
-name := """olivier-bruchez-org"""
+name := """olivier-bruchez-name"""
 
 version := "1.0-SNAPSHOT"
 
