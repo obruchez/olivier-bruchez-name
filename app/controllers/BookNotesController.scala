@@ -41,9 +41,15 @@ object BookNotesController extends Controller {
   implicit class BooksOps(books: Books) {
     def pageFromNotes(bookNotes: BookNotes): Page = {
       val book = books.books.find(_.notes.contains(bookNotes)).get
+      val bookWithSameTitleCount = books.books.count(_.title == book.title)
+      val pageTitle =
+        if (bookWithSameTitleCount > 1)
+          s"${book.author} - ${book.title} (${bookNotes.description.getOrElse(BookNotes.DefaultDescription)})"
+        else
+          s"${book.title} (${bookNotes.description.getOrElse(BookNotes.DefaultDescription)})"
 
       Page(
-        title = s"${book.author} - ${book.title} (${bookNotes.description.getOrElse(BookNotes.DefaultDescription)})",
+        title = pageTitle,
         url = routes.BookNotesController.bookNotes(bookNotes.slug).url,
         icon = Sitemap.books.icon)
     }
