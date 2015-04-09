@@ -12,6 +12,8 @@ object PdfCv extends Fetchable {
   override val sourceUrl = Configuration.url("url.cv.pdf").get
 
   override def fetch(): Try[PdfCv] = BinaryContent(sourceUrl).map(PdfCv(_))
+
+  val DownloadFilename = sourceUrl.toString.split("/").last
 }
 
 case class WordCv(binaryContent: BinaryContent) extends Cacheable
@@ -23,4 +25,6 @@ object WordCv extends Fetchable {
   override val sourceUrl = Configuration.url("url.cv.word").get
 
   override def fetch(): Try[WordCv] = BinaryContent(sourceUrl).map(WordCv(_))
+
+  val DownloadFilename = sourceUrl.toString.split("/").last
 }

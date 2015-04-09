@@ -3,6 +3,7 @@ package controllers
 import actors.Cache
 import play.api.libs.concurrent.Execution.Implicits._
 import play.api.mvc._
+import models.{ PdfCv, WordCv }
 
 object Application extends Controller {
   def home = Action { Ok(views.html.home()) }
@@ -90,14 +91,14 @@ object Application extends Controller {
   }
 
   def pdfCv = Action.async {
-    Cache.get(models.PdfCv) map { pdfCv =>
+    Cache.get(PdfCv) map { pdfCv =>
       Ok(pdfCv.binaryContent.content).as(pdfCv.binaryContent.fileType.mimeType)
     }
   }
 
   def wordCv = Action.async {
-    Cache.get(models.WordCv) map { wordCv =>
-      Ok(wordCv.binaryContent.content).as(wordCv.binaryContent.fileType.mimeType)
+    Cache.get(WordCv) map { wordCv =>
+      Ok(wordCv.binaryContent.content).as(wordCv.binaryContent.fileType.mimeType).withFilename(WordCv.DownloadFilename)
     }
   }
 
@@ -110,5 +111,10 @@ object Application extends Controller {
     Page.introductionsFromPages(Sitemap.externalLinks.children) map { pagesAndIntroductions =>
       Ok(views.html.menu(Sitemap.externalLinks, pagesAndIntroductions, groupSize = 3, colSize = 4))
     }
+  }
+
+  implicit class ResultOps(result: Result) {
+    def withFilename(filename: String): Result =
+      result.withHeaders(CONTENT_DISPOSITION -> s"""attachment; filename="$filename"""")
   }
 }
