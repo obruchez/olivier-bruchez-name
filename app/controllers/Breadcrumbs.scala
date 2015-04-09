@@ -1,5 +1,7 @@
 package controllers
 
+import util.Strings
+
 object Breadcrumbs {
   case class Link(name: String, url: Option[String]) {
     def isHome: Boolean = name == Sitemap.home.title
@@ -9,13 +11,15 @@ object Breadcrumbs {
     def apply(page: Page): Link = Link(name = page.title, url = Option(page.url).filter(_.nonEmpty))
   }
 
-  def links(page: Page): Seq[Link] = withHome {
-    val linksFromSitemap = this.linksFromSitemap(page, noUrlForLastLink = true)
+  def links(page: Page): Seq[Link] = shortenIfTooLong {
+    withHome {
+      val linksFromSitemap = this.linksFromSitemap(page, noUrlForLastLink = true)
 
-    if (linksFromSitemap.nonEmpty)
-      linksFromSitemap
-    else
-      linksFromUrl(page)
+      if (linksFromSitemap.nonEmpty)
+        linksFromSitemap
+      else
+        linksFromUrl(page)
+    }
   }
 
   private def linksFromSitemap(page: Page, noUrlForLastLink: Boolean): Seq[Link] = {
@@ -55,4 +59,19 @@ object Breadcrumbs {
 
   private def withHome(links: Seq[Link]): Seq[Link] =
     if (links.headOption.exists(_.isHome)) links else Link(Sitemap.home) +: links
+
+  private def shortenIfTooLong(links: Seq[Link]): Seq[Link] = {
+    val totalLength = links.map(_.name.length).sum
+    if (totalLength <= TotalMaxLength || links.isEmpty) {
+      links
+    } else {
+      val lastLinkMaxLength = math.max(LastLinkMinLength, TotalMaxLength - links.init.map(_.name.length).sum)
+      val lastLink = links.last
+      val lastLinkName = Strings.truncatedWithDots(lastLink.name, maxSize = lastLinkMaxLength, onWordLimit = true)
+      links.init :+ lastLink.copy(name = lastLinkName)
+    }
+  }
+
+  private val TotalMaxLength = 50
+  private val LastLinkMinLength = 10
 }
