@@ -10,9 +10,9 @@ case class FileSource(override val name: String, override val sourceUrl: URL) ex
 
   override def fetch(): Try[FileContent] = {
     FileType.fileTypeFromUrl(sourceUrl) match {
-      case Html =>
+      case FileType.Html =>
         HtmlContent(sourceUrl)
-      case Markdown =>
+      case FileType.Markdown =>
         MarkdownContent(sourceUrl)
       case _ =>
         BinaryContent(sourceUrl)

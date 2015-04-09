@@ -27,5 +27,6 @@ trait Fetchable {
 object Fetchable {
   val allFetchables = Seq(
     Books, BooksToRead, Concerts, Courses, Crashes, Exhibitions, Hikes, LifePrinciples,
-    Movies, MoviesToWatch, Plays, Profile, SeenOnTv, Trips, TripsToTake, Votes, Worldview)
+    Movies, MoviesToWatch, Plays, Profile, SeenOnTv, Trips, TripsToTake, Votes, Worldview,
+    PdfCv, WordCv)
 }

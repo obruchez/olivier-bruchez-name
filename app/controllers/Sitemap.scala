@@ -82,26 +82,14 @@ object Sitemap {
 
   val votes = Page(Votes, routes.Application.votes(), "fa-bullhorn") // @todo find icon
 
-  val htmlCv = Page(
-    "HTML",
-    "https://rawgit.com/obruchez/public/master/CV/ResumeOlivierBruchez.html",
-    Some("fa-html5"))
-
-  val pdfCv = Page(
-    "PDF",
-    "https://rawgit.com/obruchez/public/master/CV/ResumeOlivierBruchez.pdf",
-    Some("fa-file-pdf-o"))
-
-  val wordCv = Page(
-    "Word",
-    "https://rawgit.com/obruchez/public/master/CV/ResumeOlivierBruchez.doc",
-    Some("fa-file-word-o"))
+  val pdfCv = Page(PdfCv, routes.Application.pdfCv(), "fa-file-pdf-o")
+  val wordCv = Page(WordCv, routes.Application.wordCv(), "fa-file-word-o")
 
   val cv = Page(
     "CV / résumé",
     routes.Application.cv(),
     "fa-file-text-o", // @todo better icon
-    children = Seq(htmlCv, pdfCv, wordCv))
+    children = Seq(pdfCv, wordCv))
 
   val contact = Page(
     "Contact",

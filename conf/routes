@@ -34,6 +34,9 @@ GET        /tripstotake                      controllers.Application.tripsToTake
 
 GET        /cv                               controllers.Application.cv
 
+GET        /cv/pdf                           controllers.Application.pdfCv
+GET        /cv/word                          controllers.Application.wordCv
+
 GET        /contact                          controllers.Application.contact
 
 GET        /externallinks                    controllers.Application.externalLinks

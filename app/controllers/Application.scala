@@ -89,6 +89,18 @@ object Application extends Controller {
     }
   }
 
+  def pdfCv = Action.async {
+    Cache.get(models.PdfCv) map { pdfCv =>
+      Ok(pdfCv.binaryContent.content).as(pdfCv.binaryContent.fileType.mimeType)
+    }
+  }
+
+  def wordCv = Action.async {
+    Cache.get(models.WordCv) map { wordCv =>
+      Ok(wordCv.binaryContent.content).as(wordCv.binaryContent.fileType.mimeType)
+    }
+  }
+
   def contact = Action {
     // @todo
     NotImplemented

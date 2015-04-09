@@ -27,6 +27,7 @@ class Cache extends Actor {
         case Some(cacheable) =>
           sender ! CacheResult(cacheable)
         case None =>
+          // @todo ask fetcher to fetch cacheable
           subscribers(fetchable) = subscribers(fetchable) :+ sender
       }
 

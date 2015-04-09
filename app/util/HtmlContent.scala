@@ -4,7 +4,7 @@ import java.net.URL
 import scala.io.{Codec, Source}
 import scala.util.Try
 
-case class HtmlContent(string: String) extends FileContent(Html) {
+case class HtmlContent(string: String) extends FileContent(FileType.Html) {
   def withoutRootParagraph: HtmlContent = {
     val trimmed = string.trim
 
