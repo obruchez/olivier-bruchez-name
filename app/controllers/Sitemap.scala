@@ -127,4 +127,19 @@ object Sitemap {
     title = "",
     url = "",
     children = Seq(home, about, lifelogging, toDo, votes, cv, /*contact,*/ externalLinks))
+
+  def pageByUrl(url: String): Option[Page] = {
+    def pageByUrl(pageToTest: Page): Option[Page] =
+      if (pageToTest.url == url)
+        Some(pageToTest)
+      else if (pageToTest.children.isEmpty)
+        None
+      else
+        (for {
+          childPage <- pageToTest.children
+          childPageByUrl <- pageByUrl(pageToTest = childPage)
+        } yield childPageByUrl).headOption
+
+    pageByUrl(root)
+  }
 }
