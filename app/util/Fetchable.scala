@@ -25,6 +25,7 @@ trait Fetchable {
 }
 
 object Fetchable {
+  // @todo retrieve this list via Sitemapg
   val allFetchables = Seq(
     Books, BooksToRead, Concerts, Courses, Crashes, Exhibitions, Hikes, LifePrinciples,
     Movies, MoviesToWatch, Plays, Profile, SeenOnTv, Trips, TripsToTake, Votes, Worldview,
