@@ -1,9 +1,7 @@
 package util
 
 import java.net.URL
-
-import models._
-
+import org.joda.time.Duration
 import scala.concurrent.duration._
 import scala.util.Try
 
@@ -20,14 +18,6 @@ trait Fetchable {
 
   def name: String
   def sourceUrl: URL
-  def fetchPeriod: FiniteDuration = 60.seconds
+  def maximumAge: Duration = new Duration(15.minutes.toMillis)
   def fetch(): Try[C]
-}
-
-object Fetchable {
-  // @todo retrieve this list via Sitemapg
-  val allFetchables = Seq(
-    Books, BooksToRead, Concerts, Courses, Crashes, Exhibitions, Hikes, LifePrinciples,
-    Movies, MoviesToWatch, Plays, Profile, SeenOnTv, Trips, TripsToTake, Votes, Worldview,
-    PdfCv, WordCv)
 }

@@ -6,25 +6,21 @@ import scala.util._
 import util.Fetchable
 
 sealed trait FetcherMessage
-case object Fetch extends FetcherMessage
+case class Fetch(fetchable: Fetchable) extends FetcherMessage
 
-class Fetcher(cache: ActorRef, fetchable: Fetchable) extends Actor {
-  import context._
-
+class Fetcher(cache: ActorRef) extends Actor {
   def receive = {
-    case Fetch =>
-      Logger.trace(s"Fetching ${fetchable.name}...")
+    case Fetch(fetchable) =>
+      Logger.trace(s"Fetch(${fetchable.name})...")
 
       fetch(fetchable)
-
-      system.scheduler.scheduleOnce(fetchable.fetchPeriod, self, Fetch)
   }
 
   private def fetch(fetchable: Fetchable): Unit = {
     fetchable.fetch() match {
       case Success(cacheable) =>
         cache ! SetCache(fetchable, cacheable)
-        cacheable.subFetchables.foreach(fetch)
+        cacheable.subFetchables.foreach(Master.fetcherRouter ! Fetch(_))
       case Failure(throwable) =>
         Logger.error(s"Could not fetch ${fetchable.name}", throwable)
     }

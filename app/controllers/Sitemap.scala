@@ -130,4 +130,11 @@ object Sitemap {
 
     pageByUrl(root)
   }
+
+  def fetchables: Seq[Fetchable] = {
+    def fetchable(page: Page): Seq[Fetchable] =
+      page.fetchable.toSeq ++ page.children.flatMap(fetchable)
+
+    fetchable(root)
+  }
 }

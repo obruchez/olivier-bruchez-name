@@ -4,6 +4,7 @@ import akka.actor._
 import akka.pattern._
 import akka.util.Timeout
 import models._
+import org.joda.time.DateTime
 import play.api.Logger
 import scala.collection.mutable
 import scala.concurrent.Future
@@ -13,30 +14,40 @@ import util._
 sealed trait CacheMessage
 case class GetCache[F <: Fetchable](fetchable: F) extends CacheMessage
 case class SetCache[F <: Fetchable](fetchable: F, cacheable: F#C) extends CacheMessage
+case class GetCachingTime[F <: Fetchable](fetchable: F) extends CacheMessage
 
 sealed trait CacheResultMessage
-case class CacheResult[T <: Cacheable](cacheable: T)
+case class CacheResult[F <: Fetchable](fetchable: F, cacheable: F#C) extends CacheResultMessage
+case class CachingTimeResult[F <: Fetchable](fetchable: F, cachingTime: Option[DateTime]) extends CacheResultMessage
 
 class Cache extends Actor {
-  private val cachedValues = mutable.Map[Fetchable, Cacheable]()
+  case class CachedValue(cacheable: Cacheable, cachingTime: DateTime)
+
+  private val cachedValues = mutable.Map[Fetchable, CachedValue]()
   private val subscribers = mutable.Map[Fetchable, Seq[ActorRef]]().withDefaultValue(Seq())
 
   def receive = {
     case GetCache(fetchable) =>
+      Logger.trace(s"GetCache(${fetchable.name})")
+
       cachedValues.get(fetchable) match {
-        case Some(cacheable) =>
-          sender ! CacheResult(cacheable)
+        case Some(cachedValue) =>
+          sender ! CacheResult(fetchable, cachedValue.cacheable.asInstanceOf[fetchable.C])
         case None =>
-          // @todo ask fetcher to fetch cacheable
           subscribers(fetchable) = subscribers(fetchable) :+ sender
       }
 
     case SetCache(fetchable, cacheable) =>
-      Logger.trace(s"Caching ${fetchable.name}...")
+      Logger.trace(s"SetCache(${fetchable.name})")
 
-      cachedValues(fetchable) = cacheable
-      subscribers(fetchable).foreach(_ ! CacheResult(cacheable))
+      cachedValues(fetchable) = CachedValue(cacheable, cachingTime = new DateTime())
+      subscribers(fetchable).foreach(_ ! CacheResult(fetchable, cacheable))
       subscribers(fetchable) = Seq()
+
+    case GetCachingTime(fetchable) =>
+      Logger.trace(s"GetCachingTime(${fetchable.name})")
+
+      sender ! CachingTimeResult(fetchable, cachingTime = cachedValues.get(fetchable).map(_.cachingTime))
   }
 }
 
@@ -65,5 +76,8 @@ object Cache {
   def fileContent(fileSource: FileSource): Future[FileContent] = get(fileSource)
 
   def get[F <: Fetchable](fetchable: F): Future[F#C] =
-    ask(Master.cache, GetCache(fetchable)).mapTo[CacheResult[F#C]].map(_.cacheable)
+    ask(Master.cache, GetCache(fetchable)).mapTo[CacheResult[F]].map(_.cacheable)
+
+  def cachingTime[F <: Fetchable](fetchable: F): Future[Option[DateTime]] =
+    ask(Master.cache, GetCachingTime(fetchable)).mapTo[CachingTimeResult[F]].map(_.cachingTime)
 }
