@@ -1,0 +1,7 @@
+# God's Debris (Scott Adams)
+* “I can conceive of only one challenge for an omnipotent being—the challenge of destroying himself.” “You think God would want to commit suicide?” I asked. “I’m not saying he wants anything. I’m saying it’s the only challenge.” “I think God would prefer to exist than to not exist.” (p. 54)
+* “Skeptics,” he said, “suffer from the skeptics’ disease— the problem of being right too often.” (p. 85)
+* “People think they follow advice but they don’t. Humans are only capable of receiving information. They create their own advice. If you seek to influence someone, don’t waste time giving advice. You can change only what people know, not what they do.” (p. 119)
+* “Yes, that is the essence of being human. Any person you meet at a party will be interested in his own life above all other topics. Your awkward silences can be solved by asking simple questions about the person’s life.” (p. 119)
+* For the next few hours the old man revealed more of his ingredients for successful social living. Express gratitude. Give more than is expected. Speak optimistically. Touch people. Remember names. Don’t confuse flexibility with weakness. Don’t judge people by their mistakes; rather, judge them by how they respond to their mistakes. Remember that your physical appearance is for the benefit of others. Attend to your own basic needs first; otherwise you will not be useful to anyone else. (p. 126)
+* When you consider all of the coincidences that are possible, it is not surprising that you experience a few every day. (p. 130)

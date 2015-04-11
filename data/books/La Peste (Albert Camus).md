@@ -1,0 +1,7 @@
+# La Peste (Albert Camus)
+* Simplement, le prêche rendit plus sensible à certains l’idée, vague jusque-là, qu’ils étaient condamnés, pour un crime inconnu, à un emprisonnement inimaginable. (loc. 1266-67)
+* À la rigueur, c’est assez facile de choisir entre "mais" et "et". C’est déjà plus difficile d’opter entre "et" et "puis". La difficulté grandit avec "puis" et "ensuite". Mais assurément, ce qu’il y a de plus difficile, c’est de savoir s’il faut mettre "et" ou s’il ne faut pas. (loc. 1307-10)
+* Ce n’est là qu’une approximation. Quand je serai arrivé à rendre parfaitement le tableau que j’ai dans l’imagination, quand ma phrase aura l’allure même de cette promenade au trot, une-deux-trois, une-deux-trois, alors le reste sera plus facile et surtout l’illusion sera telle, dès le début, qu’il sera possible de dire : « Chapeau bas ! » (loc. 1330-33)
+* Mais il vient toujours une heure dans l’histoire où celui qui ose dire que deux et deux font quatre est puni de mort. L’instituteur le sait bien. Et la question n’est pas de savoir quelle est la récompense ou la punition qui attend ce raisonnement. La question est de savoir si deux et deux, oui ou non, font quatre. (loc. 1702-4)
+* Mais Rieux se redressa et dit d’une voix ferme que cela était stupide et qu’il n’y avait pas de honte à préférer le bonheur. – Oui, dit Rambert, mais il peut y avoir de la honte à être heureux tout seul. (loc. 2679-81)
+* Si un prêtre consulte un médecin, il y a contradiction. (loc. 2953)

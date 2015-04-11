@@ -1,0 +1,6 @@
+# Pantagruel (François Rabelais)
+* Je serve les prescriptz Décalogicques, et, selon la facultatule de mes vires, n'en discède le late unguicule. Bien est vériforme que, à cause que Mammone ne supergurgite goutte en mes locules, je suis quelque peu rare et lend à superéroger les éleemosynes à ces égènes quéritans leurs stipe hostiatement. (loc. 1302-8)
+* De Astronomie saiche en tous les canons ; laisse moy l'Astrologie divinatrice, et l'art de Lullius, comme abuz et vanitez. (loc. 2069-70)
+* Puis trouvay une petite bourgade à la dévallée ; (j'ay oublié son nom), où je feiz encore meilleure chère que jamais, et gaignay quelque peu d'argent pour vivre. Sçavez-vous comment ? A dormir ; car l'on loue les gens à la journée pour dormir, et gaignent cinq et six solz par jour ; mais ceulx qui ronflent bien fort gaignent bien sept solx et demy. (loc. 5816-19)
+* Iceulx fuyez, abhorrissez et haissez autant que je foys, et vous en trouverez bien, sur ma foy, et, si désirez estre bons Pantagruélistes (c'est-à-dire vivre en paix, joye, santé, faisans tousjours grande chère), ne vous fiez jamais en gens qui regardent par un pertuys. (loc. 6027-29)
+* Fin des cronicques de Pantagruel, roy des Dipsodes, restituez à leur naturel, avec ses jaictz et prouesses espoventables composez parfeu M. ALCOFRIBAS, abstracteur de quinte essence. (loc. 6030-33)
