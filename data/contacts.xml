@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<contacts>
+  <introduction>You can reach me via any of the following methods/sites.</introduction>
+  <contact>
+    <name>Email</name>
+    <url description="olivier@bruchez.org">mailto:olivier@@bruchez.org</url>
+    <icon>fa-envelope-o</icon>
+  </contact>
+  <contact>
+    <name>Blogger</name>
+    <url description="bruchez.blogspot.com">https://bruchez.blogspot.com/</url>
+    <icon>fa-rss</icon>
+  </contact>
+  <contact>
+    <name>Facebook</name>
+    <url description="facebook.com/obruchez">https://www.facebook.com/obruchez</url>
+    <icon>fa fa-facebook</icon>
+  </contact>
+  <contact>
+    <name>Flickr</name>
+    <url description="flickr.com/photos/bruchez">https://secure.flickr.com/photos/bruchez/sets</url>
+    <icon>fa-flickr</icon>
+  </contact>
+  <contact>
+    <name>Github</name>
+    <url description="github.com/obruchez">https://github.com/obruchez</url>
+    <icon>fa-github"</icon>
+  </contact>
+  <contact>
+    <name>Hangouts</name>
+    <url description="olivier.bruchez@gmail.com">mailto:olivier.bruchez@gmail.com</url>
+    <icon>fa-google</icon>
+  </contact>
+  <contact>
+    <name>KeithJarrett.org</name>
+    <url description="KeithJarrett.org">http://www.keithjarrett.org</url>
+    <icon>fa-music</icon>
+  </contact>
+  <contact>
+    <name>Last.fm</name>
+    <url description="last.fm/user/obruchez">http://www.last.fm/user/obruchez</url>
+    <icon>fa-lastfm</icon>
+  </contact>
+  <contact>
+    <name>LinkedIn</name>
+    <url description="linkedin.com/in/obruchez">https://www.linkedin.com/in/obruchez</url>
+    <icon>fa-linkedin</icon>
+  </contact>
+  <contact>
+    <name>Skype</name>
+    <url description="obruchez">skype:obruchez</url>
+    <icon>fa-skype</icon>
+  </contact>
+  <contact>
+    <name>Twitter</name>
+    <url description="@obruchez">https://twitter.com/obruchez</url>
+    <icon>fa-twitter</icon>
+  </contact>
+  <contact>
+    <name>YouTube</name>
+    <url description="youtube.com/user/obruchez">https://www.youtube.com/user/obruchez</url>
+    <icon>fa-youtube</icon>
+  </contact>
+</contacts>
