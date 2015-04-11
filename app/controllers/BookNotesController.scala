@@ -51,7 +51,8 @@ object BookNotesController extends Controller {
       Page(
         title = pageTitle,
         url = routes.BookNotesController.bookNotes(bookNotes.slug).url,
-        icon = Sitemap.books.icon)
+        icon = Sitemap.books.icon,
+        fetchable = Some(bookNotes.fileSource))
     }
   }
 }

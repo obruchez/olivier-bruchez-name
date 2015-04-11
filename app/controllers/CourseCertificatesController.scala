@@ -37,7 +37,8 @@ object CourseCertificatesController extends Controller {
       Page(
         title = course.name,
         url = routes.CourseCertificatesController.courseCertificate(courseCertificate.slug).url,
-        icon = Sitemap.courses.icon)
+        icon = Sitemap.courses.icon,
+        fetchable = Some(courseCertificate.fileSource))
     }
   }
 }
