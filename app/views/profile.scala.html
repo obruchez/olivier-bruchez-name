@@ -22,9 +22,9 @@
 
 @main(page = controllers.Sitemap.profile) {
   @profile.introduction.map { introduction =>
-    <div class="tag-box tag-box-v2">
+    @views.html.introduction {
       <p>@Html(introduction.fullVersion.string)</p>
-    </div>
+    }
   }
   <div class="col-md-6">
     @column(columnNumber = 0, columnCount = 2)

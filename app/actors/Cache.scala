@@ -55,24 +55,6 @@ object Cache {
   private implicit val timeout = Timeout(30.seconds)
   private implicit val dispatcher = Master.system.dispatcher
 
-  def books: Future[Books] = get(Books)
-  def booksToRead: Future[BooksToRead] = get(BooksToRead)
-  def concerts: Future[Concerts] = get(Concerts)
-  def courses: Future[Courses] = get(Courses)
-  def crashes: Future[Crashes] = get(Crashes)
-  def exhibitions: Future[Exhibitions] = get(Exhibitions)
-  def hikes: Future[Hikes] = get(Hikes)
-  def lifePrinciples: Future[LifePrinciples] = get(LifePrinciples)
-  def movies: Future[Movies] = get(Movies)
-  def moviesToWatch: Future[MoviesToWatch] = get(MoviesToWatch)
-  def plays: Future[Plays] = get(Plays)
-  def profile: Future[Profile] = get(Profile)
-  def seenOnTv: Future[SeenOnTv] = get(SeenOnTv)
-  def trips: Future[Trips] = get(Trips)
-  def tripsToTake: Future[TripsToTake] = get(TripsToTake)
-  def votes: Future[Votes] = get(Votes)
-  def worldview: Future[Worldview] = get(Worldview)
-
   def fileContent(fileSource: FileSource): Future[FileContent] = get(fileSource)
 
   def get[F <: Fetchable](fetchable: F): Future[F#C] =

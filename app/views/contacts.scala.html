@@ -1,0 +1,21 @@
+@(contacts: Contacts)
+
+@main(Sitemap.contacts) {
+  @contacts.introduction.map { introduction =>
+    @views.html.introduction {
+      <p>@Html(introduction.fullVersion.string)</p>
+    }
+  }
+
+  <table class="table table-hover">
+    <tbody>
+      @contacts.contacts.map { contact =>
+        <tr>
+          <td><i class="fa @contact.icon"></i></td>
+          <td>@contact.name</td>
+          <td><a href="@contact.url">@contact.urlDescription</a></td>
+        </tr>
+      }
+    </tbody>
+  </table>
+}

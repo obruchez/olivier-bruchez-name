@@ -37,9 +37,7 @@ GET        /cv                               controllers.Application.cv
 GET        /cv/pdf                           controllers.Application.pdfCv
 GET        /cv/word                          controllers.Application.wordCv
 
-GET        /contact                          controllers.Application.contact
-
-GET        /externallinks                    controllers.Application.externalLinks
+GET        /contacts                         controllers.Application.contacts
 
 # Map static resources from the /public folder to the /assets URL path
 GET        /assets/*file                     controllers.Assets.at(path="/public", file)

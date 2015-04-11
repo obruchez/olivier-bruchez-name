@@ -91,30 +91,12 @@ object Sitemap {
     "fa-file-text-o", // @todo better icon
     children = Seq(pdfCv, wordCv))
 
-  val contact = Page(
-    "Contact",
-    routes.Application.contact(),
-    "fa-envelope-o")
-
-  val externalLinks = Page(
-    "External links",
-    routes.Application.externalLinks(),
-    "fa-link",
-    children = Seq(
-      Page("Blogger", "https://bruchez.blogspot.com/", Some("fa-rss")), // @todo better icon
-      Page("Facebook", "https://www.facebook.com/obruchez", Some("fa-facebook")),
-      Page("Flickr", "https://secure.flickr.com/photos/bruchez/sets", Some("fa-flickr")),
-      Page("Github", "https://github.com/obruchez", Some("fa-github")),
-      Page("KeithJarrett.org", "http://www.keithjarrett.org/", Some("fa-music")), // @todo better icon
-      Page("Last.fm", "http://www.last.fm/user/obruchez", Some("fa-lastfm")),
-      Page("LinkedIn", "https://www.linkedin.com/in/obruchez", Some("fa-linkedin")),
-      Page("Twitter", "https://twitter.com/obruchez", Some("fa-twitter")),
-      Page("YouTube", "https://www.youtube.com/user/obruchez", Some("fa-youtube"))))
+  val contacts = Page(Contacts, routes.Application.contacts(), "fa-envelope-o")
 
   val root = Page(
     title = "",
     url = "",
-    children = Seq(home, about, lifelogging, votes, cv, externalLinks, contact))
+    children = Seq(home, about, lifelogging, votes, cv, contacts))
 
   def pageByUrl(url: String): Option[Page] = {
     def pageByUrl(pageToTest: Page): Option[Page] =

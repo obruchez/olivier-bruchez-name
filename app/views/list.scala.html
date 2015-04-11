@@ -27,9 +27,9 @@
 
 @main(page) {
   @introduction.map { introduction =>
-    <div class="tag-box tag-box-v2">
+    @views.html.introduction {
       @Html(introduction.fullVersion.string) <span class="badge rounded-2x badge-dark pull-right">@items.size</span>
-    </div>
+    }
   }
   @items.groupBy(_.date.year).toSeq.sortBy(_._1).reverseMap { case (yearOption, itemsForYear) =>
     @table(yearOption, itemsForYear)

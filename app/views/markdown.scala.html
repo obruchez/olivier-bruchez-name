@@ -4,9 +4,9 @@
 
 @main(page) {
   @introduction.map { introduction =>
-    <div class="tag-box tag-box-v2">
+    @views.html.introduction {
       @Html(introduction.fullVersion.string)
-    </div>
+    }
   }
   <div class="markdown">
     @Html(content.string)

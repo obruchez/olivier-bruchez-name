@@ -1,6 +1,7 @@
 package controllers
 
 import actors.Cache
+import models._
 import play.api.libs.concurrent.Execution.Implicits._
 import play.api.mvc._
 import models.{ PdfCv, WordCv }
@@ -8,7 +9,7 @@ import models.{ PdfCv, WordCv }
 object Application extends Controller {
   def home = Action { Ok(views.html.home()) }
 
-  def profile = Action.async { Cache.profile.map(profile => Ok(views.html.profile(profile))) }
+  def profile = Action.async { Cache.get(Profile).map(profile => Ok(views.html.profile(profile))) }
 
   def about = Action.async {
     Page.introductionsFromPages(Sitemap.about.children) map { pagesAndIntroductions =>
@@ -17,10 +18,10 @@ object Application extends Controller {
   }
 
   def lifePrinciples = Action.async {
-    Cache.lifePrinciples.map(lifePrinciples => Ok(views.html.lifeprinciples(lifePrinciples)))
+    Cache.get(LifePrinciples).map(lifePrinciples => Ok(views.html.lifeprinciples(lifePrinciples)))
   }
 
-  def worldview = Action.async { Cache.worldview.map(worldview => Ok(views.html.worldview(worldview))) }
+  def worldview = Action.async { Cache.get(Worldview).map(worldview => Ok(views.html.worldview(worldview))) }
 
   def lifelogging = Action.async {
     Page.introductionsFromPages(Sitemap.lifelogging.children) map { pagesAndIntroductions =>
@@ -28,50 +29,50 @@ object Application extends Controller {
     }
   }
 
-  def books = Action.async { Cache.books.map(books => Ok(views.html.books(books))) }
+  def books = Action.async { Cache.get(Books).map(books => Ok(views.html.books(books))) }
 
-  def concerts =  Action.async { Cache.concerts.map(concerts => Ok(views.html.concerts(concerts))) }
+  def concerts =  Action.async { Cache.get(Concerts).map(concerts => Ok(views.html.concerts(concerts))) }
 
-  def courses =  Action.async { Cache.courses.map(courses => Ok(views.html.courses(courses))) }
+  def courses =  Action.async { Cache.get(Courses).map(courses => Ok(views.html.courses(courses))) }
 
-  def crashes = Action.async { Cache.crashes.map(crashes => Ok(views.html.crashes(crashes))) }
+  def crashes = Action.async { Cache.get(Crashes).map(crashes => Ok(views.html.crashes(crashes))) }
 
-  def exhibitions = Action.async { Cache.exhibitions.map(exhibitions => Ok(views.html.exhibitions(exhibitions))) }
+  def exhibitions = Action.async { Cache.get(Exhibitions).map(exhibitions => Ok(views.html.exhibitions(exhibitions))) }
 
-  def hikes = Action.async { Cache.hikes.map(hikes => Ok(views.html.hikes(hikes))) }
+  def hikes = Action.async { Cache.get(Hikes).map(hikes => Ok(views.html.hikes(hikes))) }
 
-  def movies = Action.async { Cache.movies.map(movies => Ok(views.html.movies(movies))) }
+  def movies = Action.async { Cache.get(Movies).map(movies => Ok(views.html.movies(movies))) }
 
-  def plays = Action.async { Cache.plays.map(plays => Ok(views.html.plays(plays))) }
+  def plays = Action.async { Cache.get(Plays).map(plays => Ok(views.html.plays(plays))) }
 
   def seenOnTv = Action.async {
-    Cache.seenOnTv map { seenOnTv =>
+    Cache.get(SeenOnTv) map { seenOnTv =>
       Ok(views.html.markdown(Sitemap.seenOnTv, seenOnTv.introduction, seenOnTv.content))
     }
   }
 
-  def trips = Action.async { Cache.trips.map(trips => Ok(views.html.trips(trips))) }
+  def trips = Action.async { Cache.get(Trips).map(trips => Ok(views.html.trips(trips))) }
 
   def votes = Action.async {
-    Cache.votes map { votes =>
+    Cache.get(Votes) map { votes =>
       Ok(views.html.markdown(Sitemap.votes, votes.introduction, votes.content))
     }
   }
 
   def booksToRead = Action.async {
-    Cache.booksToRead map { booksToRead =>
+    Cache.get(BooksToRead) map { booksToRead =>
       Ok(views.html.markdown(Sitemap.booksToRead, booksToRead.introduction, booksToRead.content))
     }
   }
 
   def moviesToWatch = Action.async {
-    Cache.moviesToWatch map { moviesToWatch =>
+    Cache.get(MoviesToWatch) map { moviesToWatch =>
       Ok(views.html.markdown(Sitemap.moviesToWatch, moviesToWatch.introduction, moviesToWatch.content))
     }
   }
 
   def tripsToTake = Action.async {
-    Cache.tripsToTake map { tripsToTake =>
+    Cache.get(TripsToTake) map { tripsToTake =>
       Ok(views.html.markdown(Sitemap.tripsToTake, tripsToTake.introduction, tripsToTake.content))
     }
   }
@@ -102,16 +103,7 @@ object Application extends Controller {
     }
   }
 
-  def contact = Action {
-    // @todo
-    NotImplemented
-  }
-
-  def externalLinks = Action.async {
-    Page.introductionsFromPages(Sitemap.externalLinks.children) map { pagesAndIntroductions =>
-      Ok(views.html.menu(Sitemap.externalLinks, pagesAndIntroductions, groupSize = 3, colSize = 4))
-    }
-  }
+  def contacts = Action.async { Cache.get(Contacts).map(contacts => Ok(views.html.contacts(contacts))) }
 
   implicit class ResultOps(result: Result) {
     def withFilename(filename: String): Result =

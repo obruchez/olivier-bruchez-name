@@ -9,7 +9,7 @@ import util._
 
 object CourseCertificatesController extends Controller {
   def courseCertificate(slug: String) = Action.async {
-    Cache.courses map { courses =>
+    Cache.get(Courses) map { courses =>
       courses.certificateFromSlug(slug) match {
         case Some(certificate) =>
           // We expect only binary file types (PDF, mainly)

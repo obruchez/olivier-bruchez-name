@@ -11,7 +11,7 @@ import util._
 object BookNotesController extends Controller {
   def bookNotes(slug: String) = Action.async {
     for {
-      books <- Cache.books
+      books <- Cache.get(Books)
       result <- resultFromSlug(books, slug)
     } yield result
   }
