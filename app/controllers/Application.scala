@@ -87,7 +87,7 @@ object Application extends Controller {
 
   def cv = Action.async {
     Page.introductionsFromPages(Sitemap.cv.children) map { pagesAndIntroductions =>
-      Ok(views.html.menu(Sitemap.cv, pagesAndIntroductions, groupSize = 3, colSize = 4))
+      Ok(views.html.menu(Sitemap.cv, pagesAndIntroductions, groupSize = 2, colSize = 6))
     }
   }
 

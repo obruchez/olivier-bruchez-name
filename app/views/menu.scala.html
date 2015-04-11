@@ -4,7 +4,7 @@
 
 @main(page) {
   <div class="col-md-12">
-  @pagesAndIntroductions.grouped(groupSize).map { row =>
+  @pagesAndIntroductions.filter(_._1.children.isEmpty).grouped(groupSize).map { row =>
     <div class="row margin-bottom-10">
     @row.map { case (page, introduction) =>
       <div class="col-md-@colSize col-sm-6">
