@@ -18,7 +18,7 @@ object BookNotes {
     Option(rootNode.text.trim).filter(_.nonEmpty) map { url =>
       BookNotes(
         description = Option((rootNode \@ "description").trim).filter(_.nonEmpty),
-        url = new URL(url),
+        url = Configuration.urlWithFile("url.booknotes", url).get,
         slug = Slug.slugFromString(s"$author $title"))
     }
   }
@@ -70,7 +70,7 @@ object Books extends Fetchable {
   type C = Books
 
   override val name = "Books"
-  override val sourceUrl = Configuration.url("url.books").get
+  override val sourceUrl = Configuration.baseUrlWithFile("books.xml").get
 
   override def fetch(): Try[Books] = apply(sourceUrl)
 

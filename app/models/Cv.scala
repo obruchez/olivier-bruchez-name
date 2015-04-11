@@ -9,7 +9,7 @@ object PdfCv extends Fetchable {
   type C = PdfCv
 
   override val name = "PDF"
-  override val sourceUrl = Configuration.url("url.cv.pdf").get
+  override val sourceUrl = Configuration.baseUrlWithFile("cv/ResumeOlivierBruchez.pdf").get
 
   override def fetch(): Try[PdfCv] = BinaryContent(sourceUrl).map(PdfCv(_))
 
@@ -22,7 +22,7 @@ object WordCv extends Fetchable {
   type C = WordCv
 
   override val name = "Word"
-  override val sourceUrl = Configuration.url("url.cv.word").get
+  override val sourceUrl = Configuration.baseUrlWithFile("cv/ResumeOlivierBruchez.doc").get
 
   override def fetch(): Try[WordCv] = BinaryContent(sourceUrl).map(WordCv(_))
 

@@ -17,7 +17,7 @@ object LifePrinciples extends Fetchable {
   type C = LifePrinciples
 
   override val name = "Life principles"
-  override val sourceUrl = Configuration.url("url.lifeprinciples").get
+  override val sourceUrl = Configuration.baseUrlWithFile("lifeprinciples.xml").get
 
   override def fetch(): Try[LifePrinciples] = apply(sourceUrl)
 

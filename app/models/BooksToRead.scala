@@ -11,7 +11,7 @@ object BooksToRead extends Fetchable {
   type C = BooksToRead
 
   override val name = "Books to read"
-  override val sourceUrl = Configuration.url("url.bookstoread").get
+  override val sourceUrl = Configuration.baseUrlWithFile("markdown/bookstoread.md").get
 
   override def fetch(): Try[BooksToRead] = apply(sourceUrl)
 

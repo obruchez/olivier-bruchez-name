@@ -11,7 +11,7 @@ object Votes extends Fetchable {
   type C = Votes
 
   override val name = "Votes"
-  override val sourceUrl = Configuration.url("url.votes").get
+  override val sourceUrl = Configuration.baseUrlWithFile("markdown/votes.md").get
 
   override def fetch(): Try[Votes] = apply(sourceUrl)
 

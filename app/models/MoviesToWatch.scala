@@ -11,7 +11,7 @@ object MoviesToWatch extends Fetchable {
   type C = MoviesToWatch
 
   override val name = "Movies to watch"
-  override val sourceUrl = Configuration.url("url.moviestowatch").get
+  override val sourceUrl = Configuration.baseUrlWithFile("markdown/moviestowatch.md").get
 
   override def fetch(): Try[MoviesToWatch] = apply(sourceUrl)
 

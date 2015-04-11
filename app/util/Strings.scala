@@ -1,6 +1,9 @@
 package util
 
 object Strings {
+  def rightTrim(string: String): String =
+    string.replaceAll("\\s+$", "")
+
   def truncatedWithDots(string: String, maxSize: Int, onWordLimit: Boolean): String = {
     val dots = "..."
     val dotsLength = dots.length
@@ -36,6 +39,9 @@ object Strings {
       string
   }
 
-  def rightTrim(string: String): String =
-    string.replaceAll("\\s+$", "")
+  def withoutPrefix(string: String, prefix: String): String =
+    if (string.startsWith(prefix)) string.substring(prefix.length) else string
+
+  def withSuffix(string: String, suffix: String): String =
+    if (!string.endsWith(suffix)) string + suffix else string
 }

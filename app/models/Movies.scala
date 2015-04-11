@@ -58,7 +58,7 @@ object Movies extends Fetchable {
   type C = Movies
 
   override val name = "Movies"
-  override val sourceUrl = Configuration.url("url.movies").get
+  override val sourceUrl = Configuration.baseUrlWithFile("movies.xml").get
 
   override def fetch(): Try[Movies] = apply(sourceUrl)
 

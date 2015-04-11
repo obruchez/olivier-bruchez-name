@@ -29,7 +29,7 @@ object Trips extends Fetchable {
   type C = Trips
 
   override val name = "Trips"
-  override val sourceUrl = Configuration.url("url.trips").get
+  override val sourceUrl = Configuration.baseUrlWithFile("trips.xml").get
 
   override def fetch(): Try[Trips] = apply(sourceUrl)
 

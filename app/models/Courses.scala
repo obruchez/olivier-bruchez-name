@@ -18,7 +18,7 @@ object CourseCertificate {
     Option(rootNode.text.trim).filter(_.nonEmpty) map { url =>
       CourseCertificate(
         description = Option((rootNode \@ "description").trim).filter(_.nonEmpty),
-        url = new URL(url),
+        url = Configuration.urlWithFile("url.coursecertificates", url).get,
         slug = Slug.slugFromString(name))
     }
   }
@@ -63,7 +63,7 @@ object Courses extends Fetchable {
   type C = Courses
 
   override val name = "Courses"
-  override val sourceUrl = Configuration.url("url.courses").get
+  override val sourceUrl = Configuration.baseUrlWithFile("courses.xml").get
 
   override def fetch(): Try[Courses] = apply(sourceUrl)
 

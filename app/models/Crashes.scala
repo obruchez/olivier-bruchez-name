@@ -29,7 +29,7 @@ object Crashes extends Fetchable {
   type C = Crashes
 
   override val name = "Crashes"
-  override val sourceUrl = Configuration.url("url.crashes").get
+  override val sourceUrl = Configuration.baseUrlWithFile("crashes.xml").get
 
   override def fetch(): Try[Crashes] = apply(sourceUrl)
 

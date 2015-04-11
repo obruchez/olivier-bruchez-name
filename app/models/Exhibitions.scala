@@ -31,7 +31,7 @@ object Exhibitions extends Fetchable {
   type C = Exhibitions
 
   override val name = "Exhibitions"
-  override val sourceUrl = Configuration.url("url.exhibitions").get
+  override val sourceUrl = Configuration.baseUrlWithFile("exhibitions.xml").get
 
   override def fetch(): Try[Exhibitions] = apply(sourceUrl)
 

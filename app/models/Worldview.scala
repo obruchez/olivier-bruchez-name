@@ -17,7 +17,7 @@ object Worldview extends Fetchable {
   type C = Worldview
 
   override val name = "Worldview"
-  override val sourceUrl = Configuration.url("url.worldview").get
+  override val sourceUrl = Configuration.baseUrlWithFile("worldview.xml").get
 
   override def fetch(): Try[Worldview] = apply(sourceUrl)
 

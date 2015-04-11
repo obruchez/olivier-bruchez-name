@@ -27,7 +27,7 @@ object Contacts extends Fetchable {
   type C = Contacts
 
   override val name = "Contacts"
-  override val sourceUrl = Configuration.url("url.contacts").get
+  override val sourceUrl = Configuration.baseUrlWithFile("contacts.xml").get
 
   override def fetch(): Try[Contacts] = apply(sourceUrl)
 

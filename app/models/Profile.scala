@@ -48,7 +48,7 @@ object Profile extends Fetchable {
   type C = Profile
 
   override val name = "Profile"
-  override val sourceUrl = Configuration.url("url.profile").get
+  override val sourceUrl = Configuration.baseUrlWithFile("profile.xml").get
 
   override def fetch(): Try[Profile] = apply(sourceUrl)
 

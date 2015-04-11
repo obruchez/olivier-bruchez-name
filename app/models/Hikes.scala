@@ -27,7 +27,7 @@ object Hikes extends Fetchable {
   type C = Hikes
 
   override val name = "Hikes"
-  override val sourceUrl = Configuration.url("url.hikes").get
+  override val sourceUrl = Configuration.baseUrlWithFile("hikes.xml").get
 
   override def fetch(): Try[Hikes] = apply(sourceUrl)
 
