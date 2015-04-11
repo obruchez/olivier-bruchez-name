@@ -31,7 +31,6 @@
         <name>Neural Networks for Machine Learning</name>
         <instructor>Geoffrey Hinton</instructor>
         <url>https://class.coursera.org/neuralnets-2012-001</url>
-        <certificate></certificate>
     </course>
     <course>
         <date>2013-12-22</date>
@@ -47,6 +46,5 @@
         <name>Calculus One</name>
         <instructor>Jim Fowler</instructor>
         <url>https://class.coursera.org/calc1-001</url>
-        <certificate></certificate>
     </course>
 </courses>
