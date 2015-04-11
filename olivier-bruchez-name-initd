@@ -83,7 +83,7 @@ APP_DIR=/home/obruchez/olivier-bruchez-name
 # ***********************************************
 
 # Additional arguments to be passed to the Play application
-APP_ARGS=-Dhttp.port=${PORT}
+APP_ARGS=-Dhttp.port=${PORT} -Dconfig.file=/home/obruchez/application.production.conf
 
 # Path to the RUNNING_PID file containing process ID
 PID_FILE=$APP_DIR/RUNNING_PID
