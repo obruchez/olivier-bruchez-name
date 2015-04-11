@@ -3,7 +3,7 @@ package models
 import java.net.URL
 import org.joda.time.Partial
 import scala.util._
-import scala.xml.{Elem, XML}
+import scala.xml.{Node, XML}
 import util._
 
 case class CourseCertificate(description: Option[String], url: URL, slug: String) {
@@ -13,6 +13,15 @@ case class CourseCertificate(description: Option[String], url: URL, slug: String
 
 object CourseCertificate {
   val DefaultDescription = "Certificate"
+
+  def apply(rootNode: Node, name: String): Try[Option[CourseCertificate]] = Try {
+    Option(rootNode.text.trim).filter(_.nonEmpty) map { url =>
+      CourseCertificate(
+        description = Option((rootNode \@ "description").trim).filter(_.nonEmpty),
+        url = new URL(url),
+        slug = Slug.slugFromString(name))
+    }
+  }
 }
 
 case class Course(override val date: Partial,
@@ -22,6 +31,22 @@ case class Course(override val date: Partial,
                   url: URL,
                   certificate: Option[CourseCertificate],
                   override val slug: String = "") extends ListItem(date, slug)
+
+object Course {
+  def apply(rootNode: Node): Try[Course] = Try {
+    val name = (rootNode \\ "name").text.trim
+
+    val certificateOption = (rootNode \\ "certificate").headOption.flatMap(CourseCertificate(_, name).get)
+
+    Course(
+      date = Parsing.dateFromString((rootNode \\ "date").text).get,
+      provider = (rootNode \\ "provider").text.trim,
+      name = name,
+      instructor = (rootNode \\ "instructor").text.trim,
+      url = new URL((rootNode \\ "url").text.trim),
+      certificate = certificateOption)
+  }
+}
 
 case class Courses(override val introduction: Option[Introduction],
                    courses: Seq[Course]) extends Cacheable {
@@ -47,36 +72,10 @@ object Courses extends Fetchable {
     courses <- apply(xml)
   } yield courses
 
-  def apply(elem: Elem): Try[Courses] = Try {
-    val courses = (elem \\ "courses").head
-    val introduction = Parsing.introductionFromNode(courses).get
-
-    val coursesSeq = for {
-      course <- courses \\ "course"
-      dateString = (course \\ "date").text
-      provider = (course \\ "provider").text
-      name = (course \\ "name").text
-      instructor = (course \\ "instructor").text
-      url = (course \\ "url").text
-    } yield {
-      val certificateOption = for {
-        certificate <- (course \\ "certificate").headOption
-        certificateUrl = certificate.text.trim
-        if certificateUrl.nonEmpty
-        certificateDescription = certificate \@ "description"
-      } yield CourseCertificate(
-        description = Option(certificateDescription.trim).filter(_.nonEmpty),
-        url = new URL(certificateUrl),
-        slug = Slug.slugFromString(name))
-
-      Course(
-        date = Parsing.dateFromString(dateString).get,
-        provider = provider.trim,
-        name = name.trim,
-        instructor = instructor.trim,
-        url = new URL(url.trim),
-        certificate = certificateOption)
-    }
+  def apply(rootNode: Node): Try[Courses] = Try {
+    val coursesNode = (rootNode \\ "courses").head
+    val introduction = Parsing.introductionFromNode(coursesNode).get
+    val coursesSeq = (coursesNode \\ "course").map(Course(_).get)
 
     Courses(introduction, coursesSeq.map(course => course.copy(slug = ListItem.slug(course, coursesSeq))))
   }

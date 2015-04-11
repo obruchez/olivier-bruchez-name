@@ -3,7 +3,7 @@ package models
 import java.net.URL
 import org.joda.time.Partial
 import scala.util.Try
-import scala.xml.{Elem, XML}
+import scala.xml.{Node, XML}
 import util._
 
 case class Exhibition(override val date: Partial,
@@ -12,6 +12,17 @@ case class Exhibition(override val date: Partial,
                       rating: Option[Double],
                       comments: Option[HtmlContent],
                       override val slug: String = "") extends ListItem(date, slug)
+
+object Exhibition {
+  def apply(rootNode: Node): Try[Exhibition] = Try {
+    Exhibition(
+       date = Parsing.dateFromString((rootNode \\ "date").text).get,
+       name = (rootNode \\ "name").text.trim,
+       museum = (rootNode \\ "museum").text.trim,
+       rating = Parsing.ratingFromString((rootNode \\ "rating").text),
+       comments = Parsing.commentsFromString((rootNode \\ "comments").text))
+  }
+}
 
 case class Exhibitions(override val introduction: Option[Introduction],
                        exhibitions: Seq[Exhibition]) extends Cacheable
@@ -29,23 +40,10 @@ object Exhibitions extends Fetchable {
     exhibitions <- apply(xml)
   } yield exhibitions
 
-  def apply(elem: Elem): Try[Exhibitions] = Try {
-    val exhibitions = (elem \\ "exhibitions").head
-    val introduction = Parsing.introductionFromNode(exhibitions).get
-
-    val exhibitionsSeq = for {
-      exhibition <- exhibitions \\ "exhibition"
-      dateString = (exhibition \\ "date").text
-      name = (exhibition \\ "name").text
-      museum = (exhibition \\ "museum").text
-      ratingString = (exhibition \\ "rating").text
-      comments = (exhibition \\ "comments").text
-    } yield Exhibition(
-      date = Parsing.dateFromString(dateString).get,
-      name = name.trim,
-      museum = museum.trim,
-      rating = Parsing.ratingFromString(ratingString),
-      comments = Parsing.commentsFromString(comments))
+  def apply(rootNode: Node): Try[Exhibitions] = Try {
+    val exhibitionsNode = (rootNode \\ "exhibitions").head
+    val introduction = Parsing.introductionFromNode(exhibitionsNode).get
+    val exhibitionsSeq = (exhibitionsNode \\ "exhibition").map(Exhibition(_).get)
 
     Exhibitions(
       introduction,

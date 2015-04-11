@@ -3,7 +3,7 @@ package models
 import java.net.URL
 import org.joda.time.Partial
 import scala.util.Try
-import scala.xml.{Elem, XML}
+import scala.xml.{Node, XML}
 import util._
 
 case class Play(override val date: Partial,
@@ -17,6 +17,22 @@ case class Play(override val date: Partial,
                 rating: Option[Double],
                 comments: Option[HtmlContent],
                 override val slug: String = "") extends ListItem(date, slug)
+
+object Play {
+  def apply(rootNode: Node): Try[Play] = Try {
+    Play(
+      date = Parsing.dateFromString((rootNode \\ "date").text).get,
+      location = (rootNode \\ "location").text.trim,
+      author = (rootNode \\ "author").text.trim,
+      name = (rootNode \\ "name").text.trim,
+      director = (rootNode \\ "director").text.trim,
+      adaptation = Option((rootNode \\ "adaptation").text.trim).filter(_.nonEmpty),
+      translation = Option((rootNode \\ "translation").text.trim).filter(_.nonEmpty),
+      actors = (rootNode \\ "actor").map(_.text.trim),
+      rating = Parsing.ratingFromString((rootNode \\ "rating").text),
+      comments = Parsing.commentsFromString((rootNode \\ "comments").text))
+  }
+}
 
 case class Plays(override val introduction: Option[Introduction],
                  plays: Seq[Play]) extends Cacheable
@@ -34,34 +50,10 @@ object Plays extends Fetchable {
     plays <- apply(xml)
   } yield plays
 
-  def apply(elem: Elem): Try[Plays] = Try {
-    val plays = (elem \\ "plays").head
-    val introduction = Parsing.introductionFromNode(plays).get
-
-    val playsSeq = for {
-      play <- plays \\ "play"
-      dateString = (play \\ "date").text
-      location = (play \\ "location").text
-      author = (play \\ "author").text
-      name = (play \\ "name").text
-      director = (play \\ "director").text
-      adaptation = (play \\ "adaptation").text
-      translation = (play \\ "translation").text
-      actors = (play \\ "actor").map(_.text.trim)
-      ratingString = (play \\ "rating").text
-      comments = (play \\ "comments").text
-      url = (play \\ "url").text
-    } yield Play(
-      date = Parsing.dateFromString(dateString).get,
-      location = location.trim,
-      author = author.trim,
-      name = name.trim,
-      director = director.trim,
-      adaptation = Option(adaptation.trim).filter(_.nonEmpty),
-      translation = Option(translation.trim).filter(_.nonEmpty),
-      actors = actors,
-      rating = Parsing.ratingFromString(ratingString),
-      comments = Parsing.commentsFromString(comments))
+  def apply(rootNode: Node): Try[Plays] = Try {
+    val playsNode = (rootNode \\ "plays").head
+    val introduction = Parsing.introductionFromNode(playsNode).get
+    val playsSeq = (playsNode \\ "play").map(Play(_).get)
 
     Plays(introduction, playsSeq.map(play => play.copy(slug = ListItem.slug(play, playsSeq))))
   }

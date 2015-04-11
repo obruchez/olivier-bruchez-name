@@ -3,7 +3,7 @@ package models
 import java.net.URL
 import org.joda.time.Partial
 import scala.util.Try
-import scala.xml.{Elem, XML}
+import scala.xml.{Node, XML}
 import util._
 
 case class Trip(from: Partial,
@@ -11,6 +11,16 @@ case class Trip(from: Partial,
                 place: String,
                 pictures: Seq[Pictures],
                 override val slug: String = "") extends ListItem(from, slug)
+
+object Trip {
+  def apply(rootNode: Node): Try[Trip] = Try {
+    Trip(
+      from = Parsing.dateFromString((rootNode \\ "from").text).get,
+      to = Parsing.dateFromString((rootNode \\ "to").text).get,
+      place = (rootNode \\ "place").text,
+      pictures = Parsing.picturesFromNode(rootNode))
+  }
+}
 
 case class Trips(override val introduction: Option[Introduction],
                  trips: Seq[Trip]) extends Cacheable
@@ -28,20 +38,10 @@ object Trips extends Fetchable {
     trips <- apply(xml)
   } yield trips
 
-  def apply(elem: Elem): Try[Trips] = Try {
-    val trips = (elem \\ "trips").head
-    val introduction = Parsing.introductionFromNode(trips).get
-
-    val tripsSeq = for {
-      trip <- trips \\ "trip"
-      fromString = (trip \\ "from").text
-      toString = (trip \\ "to").text
-      place = (trip \\ "place").text
-    } yield Trip(
-      from = Parsing.dateFromString(fromString).get,
-      to = Parsing.dateFromString(toString).get,
-      place = place,
-      pictures = Parsing.picturesFromNode(trip))
+  def apply(rootNode: Node): Try[Trips] = Try {
+    val tripsNode = (rootNode \\ "trips").head
+    val introduction = Parsing.introductionFromNode(tripsNode).get
+    val tripsSeq = (tripsNode \\ "trip").map(Trip(_).get)
 
     Trips(introduction, tripsSeq.map(trip => trip.copy(slug = ListItem.slug(trip, tripsSeq))))
   }

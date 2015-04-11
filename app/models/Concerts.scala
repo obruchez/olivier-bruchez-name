@@ -3,10 +3,19 @@ package models
 import java.net.URL
 import org.joda.time.Partial
 import scala.util.Try
-import scala.xml._
+import scala.xml.{Node, XML}
 import util._
 
 case class Musician(name: String, instrument: Option[String], leader: Boolean)
+
+object Musician {
+  def apply(rootNode: Node): Try[Musician] = Try {
+   Musician(
+     name = rootNode.text.trim,
+     instrument = Option((rootNode \@ "instrument").trim).filter(_.nonEmpty),
+     leader = Parsing.isTrue(rootNode \@ "leader"))
+  }
+}
 
 case class Concert(override val date: Partial,
                    location: String,
@@ -16,6 +25,21 @@ case class Concert(override val date: Partial,
                    rating: Option[Double],
                    comments: Option[HtmlContent],
                    override val slug: String = "") extends ListItem(date, slug)
+
+object Concert {
+  def apply(rootNode: Node): Try[Concert] = Try {
+    val musicans = (rootNode \\ "musician").map(Musician(_).get)
+
+    Concert(
+      date = Parsing.dateFromString((rootNode \\ "date").text).get,
+      location = (rootNode \\ "location").text,
+      event = Option((rootNode \\ "event").text.trim).filter(_.nonEmpty),
+      band = Option((rootNode \\ "group").text.trim).filter(_.nonEmpty),
+      musicians = musicans,
+      rating = Parsing.ratingFromString((rootNode \\ "rating").text),
+      comments = Parsing.commentsFromString((rootNode \\ "comments").text))
+  }
+}
 
 case class Concerts(override val introduction: Option[Introduction],
                     concerts: Seq[Concert]) extends Cacheable
@@ -33,37 +57,10 @@ object Concerts extends Fetchable {
     concerts <- apply(xml)
   } yield concerts
 
-  def apply(elem: Elem): Try[Concerts] = Try {
-    val concerts = (elem \\ "concerts").head
-    val introduction = Parsing.introductionFromNode(concerts).get
-
-    val concertsSeq = for {
-      concert <- concerts \\ "concert"
-      dateString = (concert \\ "date").text
-      location = (concert \\ "location").text
-      event = (concert \\ "event").text
-      band = (concert \\ "group").text
-      ratingString = (concert \\ "rating").text
-      comments = (concert \\ "comments").text
-    } yield {
-      val musicans = for {
-        musician <- concert \\ "musician"
-        name = musician.text
-        instrument = musician \@ "instrument"
-        leader = musician \@ "leader"
-      } yield Musician(
-        name = name.trim,
-        instrument = Option(instrument.trim).filter(_.nonEmpty),
-        leader = Parsing.isTrue(leader))
-
-      Concert(date = Parsing.dateFromString(dateString).get,
-        location = location,
-        event = Option(event.trim).filter(_.nonEmpty),
-        band = Option(band.trim).filter(_.nonEmpty),
-        musicians = musicans,
-        rating = Parsing.ratingFromString(ratingString),
-        comments = Parsing.commentsFromString(comments))
-    }
+  def apply(rootNode: Node): Try[Concerts] = Try {
+    val concertsNode = (rootNode \\ "concerts").head
+    val introduction = Parsing.introductionFromNode(concertsNode).get
+    val concertsSeq = (concertsNode \\ "concert").map(Concert(_).get)
 
     Concerts(introduction, concertsSeq.map(concert => concert.copy(slug = ListItem.slug(concert, concertsSeq))))
   }

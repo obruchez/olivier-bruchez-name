@@ -4,7 +4,7 @@ import java.net.URL
 import java.util.Locale
 import org.joda.time.Partial
 import scala.util.Try
-import scala.xml.{Elem, XML}
+import scala.xml.{Node, XML}
 import util._
 
 sealed abstract class SpecialLocation(val description: String)
@@ -23,6 +23,34 @@ case class Movie(override val date: Partial,
                  url: Option[URL],
                  override val slug: String = "") extends ListItem(date, slug)
 
+object Movie {
+  def apply(rootNode: Node): Try[Movie] = Try {
+    val theaterNode = rootNode \\ "theater"
+
+    val titles = for {
+      title <- rootNode \\ "title"
+      titleString = title.text
+      language = title \@ "language"
+    } yield titleString.trim -> Option(language.trim).filter(_.nonEmpty)
+
+    val mainTitle = titles.find(_._2.isEmpty).map(_._1).get
+    val otherTitles = titles.filter(_._2.nonEmpty) map {
+      case (titleString, languageOption) => Title(titleString, new Locale(languageOption.get))
+    }
+
+    Movie(
+      date = Parsing.dateFromString((rootNode \\ "date").text).get,
+      theater = if (Parsing.isTrue(theaterNode \@ "home")) Right(Home) else Left(theaterNode.text),
+      director = (rootNode \\ "director").text.trim,
+      title = mainTitle,
+      otherTitles = otherTitles,
+      version = Option((rootNode \\ "version").text.trim).filter(_.nonEmpty).map(new Locale(_)),
+      rating = Parsing.ratingFromString((rootNode \\ "rating").text),
+      comments = Parsing.commentsFromString((rootNode \\ "comments").text),
+      url = Option((rootNode \\ "url").text.trim).filter(_.nonEmpty).map(new URL(_)))
+  }
+}
+
 case class Movies(override val introduction: Option[Introduction],
                   movies: Seq[Movie]) extends Cacheable
 
@@ -39,44 +67,10 @@ object Movies extends Fetchable {
     movies <- apply(xml)
   } yield movies
 
-  def apply(elem: Elem): Try[Movies] = Try {
-    val movies = (elem \\ "movies").head
-    val introduction = Parsing.introductionFromNode(movies).get
-
-    val moviesSeq = for {
-      movie <- movies \\ "movie"
-      dateString = (movie \\ "date").text
-      theaterNode = movie \\ "theater"
-      theater = theaterNode.text
-      home = theaterNode \@ "home"
-      director = (movie \\ "director").text
-      version = (movie \\ "version").text
-      ratingString = (movie \\ "rating").text
-      comments = (movie \\ "comments").text
-      url = (movie \\ "url").text
-    } yield {
-      val titles = for {
-        title <- movie \\ "title"
-        titleString = title.text
-        language = title \@ "language"
-      } yield titleString.trim -> Option(language.trim).filter(_.nonEmpty)
-
-      val mainTitle = titles.find(_._2.isEmpty).map(_._1).get
-      val otherTitles = titles.filter(_._2.nonEmpty) map {
-        case (titleString, languageOption) => Title(titleString, new Locale(languageOption.get))
-      }
-
-      Movie(
-        date = Parsing.dateFromString(dateString).get,
-        theater = if (Parsing.isTrue(home)) Right(Home) else Left(theater),
-        director = director.trim,
-        title = mainTitle,
-        otherTitles = otherTitles,
-        version = Option(version.trim).filter(_.nonEmpty).map(new Locale(_)),
-        rating = Parsing.ratingFromString(ratingString),
-        comments = Parsing.commentsFromString(comments),
-        url = Option(url.trim).filter(_.nonEmpty).map(new URL(_)))
-    }
+  def apply(rootNode: Node): Try[Movies] = Try {
+    val moviesNode = (rootNode \\ "movies").head
+    val introduction = Parsing.introductionFromNode(moviesNode).get
+    val moviesSeq = (moviesNode \\ "movie").map(Movie(_).get)
 
     Movies(introduction, moviesSeq.map(movie => movie.copy(slug = ListItem.slug(movie, moviesSeq))))
   }

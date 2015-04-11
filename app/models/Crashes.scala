@@ -3,7 +3,7 @@ package models
 import java.net.URL
 import org.joda.time.Partial
 import scala.util.Try
-import scala.xml.{Elem, XML}
+import scala.xml.{Node, XML}
 import util._
 
 case class Crash(override val date: Partial,
@@ -11,6 +11,16 @@ case class Crash(override val date: Partial,
                  model: String,
                  comments: Option[HtmlContent],
                  override val slug: String = "") extends ListItem(date, slug)
+
+object Crash {
+  def apply(rootNode: Node): Try[Crash] = Try {
+    Crash(
+      date = Parsing.dateFromString((rootNode \\ "date").text).get,
+      manufacturer = (rootNode \\ "manufacturer").text.trim,
+      model = (rootNode \\ "model").text.trim,
+      comments = Parsing.commentsFromString((rootNode \\ "comments").text))
+  }
+}
 
 case class Crashes(override val introduction: Option[Introduction],
                    crashes: Seq[Crash]) extends Cacheable
@@ -28,21 +38,10 @@ object Crashes extends Fetchable {
     crashes <- apply(xml)
   } yield crashes
 
-  def apply(elem: Elem): Try[Crashes] = Try {
-    val crashes = (elem \\ "crashes").head
-    val introduction = Parsing.introductionFromNode(crashes).get
-
-    val crashesSeq = for {
-      crash <- crashes \\ "crash"
-      dateString = (crash \\ "date").text
-      manufacturer = (crash \\ "manufacturer").text
-      model = (crash \\ "model").text
-      comments = (crash \\ "comments").text
-    } yield Crash(
-      date = Parsing.dateFromString(dateString).get,
-      manufacturer = manufacturer.trim,
-      model = model.trim,
-      comments = Parsing.commentsFromString(comments))
+  def apply(rootNode: Node): Try[Crashes] = Try {
+    val crashesNode = (rootNode \\ "crashes").head
+    val introduction = Parsing.introductionFromNode(crashesNode).get
+    val crashesSeq = (crashesNode \\ "crash").map(Crash(_).get)
 
     Crashes(introduction, crashesSeq.map(crash => crash.copy(slug = ListItem.slug(crash, crashesSeq))))
   }
