@@ -3,7 +3,7 @@
   <introduction>You can reach me via any of the following methods/sites.</introduction>
   <contact>
     <name>Email</name>
-    <url description="olivier@bruchez.org">mailto:olivier@@bruchez.org</url>
+    <url description="olivier@bruchez.org">mailto:olivier@bruchez.org</url>
     <icon>fa-envelope-o</icon>
   </contact>
   <contact>
@@ -24,7 +24,7 @@
   <contact>
     <name>Github</name>
     <url description="github.com/obruchez">https://github.com/obruchez</url>
-    <icon>fa-github"</icon>
+    <icon>fa-github</icon>
   </contact>
   <contact>
     <name>Hangouts</name>
