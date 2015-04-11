@@ -540,7 +540,7 @@
 		<publishingyear>2002</publishingyear>
 		<rating>4.25</rating>
         <url>https://fr.wikipedia.org/wiki/Petit_trait%C3%A9_de_manipulation_%C3%A0_l%27usage_des_honn%C3%AAtes_gens</url>
-        <notes description="Handwritten notes">https://github.com/obruchez/public/raw/master/Books/Petit traite de manipulation a l'usage des honnetes gens (Robert-Vincent Joule %26 Jean-Leon Beauvois).pdf</notes>
+        <notes description="Handwritten notes">Petit traite de manipulation a l'usage des honnetes gens (Robert-Vincent Joule &amp; Jean-Leon Beauvois).pdf</notes>
 	</book>
 	<book>
 		<date>2007.02.25</date>
