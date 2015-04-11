@@ -60,10 +60,10 @@
                                         <li><a href="@childPage.url"><i class="fa @childPage.icon.getOrElse("")"></i> @childPage.title</a></li>
                                     } else {
                                         <li class="dropdown-submenu">
-                                            <a href="@childPage.url">@childPage.title</a>
+                                            <a href="@childPage.url"><i class="fa @childPage.icon.getOrElse("")"></i> @childPage.title</a>
                                             <ul class="dropdown-menu">
                                                 @childPage.children.map { grandChildPage =>
-                                                    <li><a href="@grandChildPage.url">@grandChildPage.title</a></li>
+                                                    <li><a href="@grandChildPage.url"><i class="fa @grandChildPage.icon.getOrElse("")"></i> @grandChildPage.title</a></li>
                                                 }
                                             </ul>
                                         </li>
