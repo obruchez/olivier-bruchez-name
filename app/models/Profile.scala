@@ -1,15 +1,43 @@
 package models
 
 import java.net.URL
-import scala.xml._
 import scala.util.Try
+import scala.xml.{Node, XML}
 import util._
 
 case class ProfileSubItem(description: String, url: String)
 
+object ProfileSubItem {
+  def apply(rootNode: Node): Try[ProfileSubItem] = Try {
+    ProfileSubItem(description = rootNode.text, url = rootNode \@ "url")
+  }
+}
+
 case class ProfileItem(profileSubItems: Seq[ProfileSubItem])
 
+object ProfileItem {
+  def apply(rootNode: Node): Try[ProfileItem] = Try {
+    val profileSubItemsSeq = (rootNode \\ "subitem").map(ProfileSubItem(_).get)
+
+    val allProfileSubItemsSeq = if (profileSubItemsSeq.nonEmpty)
+      profileSubItemsSeq
+    else
+      Seq(ProfileSubItem(description = rootNode.text, url = rootNode \@ "url"))
+
+    ProfileItem(allProfileSubItemsSeq)
+  }
+}
+
 case class ProfileList(title: String, profileItems: Seq[ProfileItem], slug: String)
+
+object ProfileList {
+  def apply(rootNode: Node): Try[ProfileList] = Try {
+    val title = rootNode \@ "title"
+    val profileItemsSeq = (rootNode \\ "item").map(ProfileItem(_).get)
+
+    ProfileList(title, profileItemsSeq, slug = Slug.slugFromString(title))
+  }
+}
 
 case class Profile(override val introduction: Option[Introduction],
                    profileLists: Seq[ProfileList]) extends Cacheable {
@@ -57,32 +85,11 @@ object Profile extends Fetchable {
     profile <- apply(xml)
   } yield profile
 
-  def apply(elem: Elem): Try[Profile] = Try {
-    val profile = (elem \\ "profile").head
-    val introduction = Parsing.introductionFromNode(profile).get
+  def apply(rootNode: Node): Try[Profile] = Try {
+    val profileNode = (rootNode \\ "profile").head
+    val introduction = Parsing.introductionFromNode(profileNode).get
+    val profileListsSeq = (rootNode \\ "list").map(ProfileList(_).get)
 
-    val profileLists = for {
-      list <- profile \\ "list"
-      title = list \@ "title"
-    } yield {
-      val profileItems = for (item <- list \\ "item") yield {
-        val profileSubItems = for {
-          subitem <- item \\ "subitem"
-          description = subitem.text
-          url = subitem \@ "url"
-        } yield ProfileSubItem(description, url)
-
-        val allProfileSubItems = if (profileSubItems.nonEmpty)
-          profileSubItems
-        else
-          Seq(ProfileSubItem(description = item.text, url = item \@ "url"))
-
-        ProfileItem(allProfileSubItems)
-      }
-
-      ProfileList(title, profileItems, slug = Slug.slugFromString(title))
-    }
-
-    Profile(introduction, profileLists)
+    Profile(introduction, profileListsSeq)
   }
 }

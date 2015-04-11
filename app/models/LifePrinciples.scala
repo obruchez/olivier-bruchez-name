@@ -2,10 +2,19 @@ package models
 
 import java.net.URL
 import scala.util._
+import scala.xml.{Node, XML}
 import util._
-import scala.xml.{Elem, XML}
 
 case class LifePrinciple(summary: HtmlContent, details: HtmlContent, slug: String)
+
+object LifePrinciple {
+  def apply(rootNode: Node): Try[LifePrinciple] = Try {
+    LifePrinciple(
+      summary = MarkdownContent(rootNode \@ "summary").toHtmlContent.get,
+      details = MarkdownContent(rootNode.text).toHtmlContent.get,
+      slug = rootNode \@ "slug")
+  }
+}
 
 case class LifePrinciples(override val introduction: Option[Introduction],
                           lifePrinciples: Seq[LifePrinciple]) extends Cacheable {
@@ -26,21 +35,10 @@ object LifePrinciples extends Fetchable {
      lifePrinciples <- apply(xml)
    } yield lifePrinciples
 
-  def apply(elem: Elem): Try[LifePrinciples] = Try {
-     val lifePrinciples = (elem \\ "lifeprinciples").head
-     val introduction = Parsing.introductionFromNode(lifePrinciples).get
-
-     val lifePrinciplesSeq = for {
-       lifePrinciple <- lifePrinciples \\ "lifeprinciple"
-       summaryAsMarkdown = lifePrinciple \@ "summary"
-       detailsAsMarkdown = lifePrinciple.text
-       slug = lifePrinciple \@ "slug"
-     } yield {
-       LifePrinciple(
-         summary = MarkdownContent(summaryAsMarkdown).toHtmlContent.get,
-         details = MarkdownContent(detailsAsMarkdown).toHtmlContent.get,
-         slug = slug)
-     }
+  def apply(rootNode: Node): Try[LifePrinciples] = Try {
+    val lifePrinciplesNode = (rootNode \\ "lifeprinciples").head
+    val introduction = Parsing.introductionFromNode(lifePrinciplesNode).get
+    val lifePrinciplesSeq = (lifePrinciplesNode \\ "lifeprinciple").map(LifePrinciple(_).get)
 
     LifePrinciples(introduction, lifePrinciplesSeq)
   }
