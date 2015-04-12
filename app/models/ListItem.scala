@@ -1,9 +1,9 @@
 package models
 
-import org.joda.time.Partial
+import org.joda.time.ReadablePartial
 import util.Date._
 
-abstract class ListItem(val date: Partial, val slug: String)
+abstract class ListItem(val date: ReadablePartial, val slug: String)
 
 object ListItem {
   def slug(listItem: ListItem, allListItems: Seq[ListItem]): String = {

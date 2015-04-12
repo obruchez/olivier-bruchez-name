@@ -14,9 +14,13 @@ object Date {
     new Partial(validFields.map(_._1).toArray, validFields.map(_._2).toArray)
   }
 
-  implicit class PartialOps(partial: Partial) {
+  implicit class PartialOps(readablePartial: ReadablePartial) {
     def yyyymmddString: String = {
-      val valuesByType = Map(partial.getFieldTypes.toSeq.map(fieldType => fieldType -> partial.get(fieldType)): _*)
+      val valuesByType =  Map((for {
+        fieldIndex <- 0 until readablePartial.size
+        dateTimeFieldType = readablePartial.getFieldType(fieldIndex)
+        dateTimeFieldValue = readablePartial.getValue(fieldIndex)
+      } yield dateTimeFieldType -> dateTimeFieldValue): _*)
 
       val year = valuesByType.get(DateTimeFieldType.year()).fold("????")(y => f"$y%04d")
       val month = valuesByType.get(DateTimeFieldType.monthOfYear()).fold("??")(m => f"$m%02d")
@@ -26,6 +30,6 @@ object Date {
     }
 
     def year: Option[Int] =
-      Try(partial.get(DateTimeFieldType.year())).toOption
+      Try(readablePartial.get(DateTimeFieldType.year())).toOption
   }
 }

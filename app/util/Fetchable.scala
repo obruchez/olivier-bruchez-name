@@ -7,6 +7,13 @@ import scala.util.Try
 
 case class Introduction(shortVersion: HtmlContent, fullVersion: HtmlContent)
 
+object Introduction {
+  def apply(string: String): Introduction = {
+    val htmlString = xml.Utility.escape(string)
+    Introduction(shortVersion = HtmlContent(htmlString), fullVersion = HtmlContent(htmlString))
+  }
+}
+
 trait Cacheable {
   //def sizeInBytes: Int
   def introduction: Option[Introduction] = None
