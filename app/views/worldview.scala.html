@@ -36,10 +36,9 @@
   @worldview.worldviewCategories.map { worldviewCategory =>
     <section id="@worldviewCategory.slug"><h2>@Html(worldviewCategory.description.string)</h2></section>
     @worldviewCategory.worldviewPositions.map { worldviewPosition =>
-      <div class="tag-box tag-box-v3 box-shadow shadow-effect-1 worldviewposition">
-        <div class="headline"><section id="@worldviewPosition.slug"><h3>@Html(worldviewPosition.summary.string)</h3></section></div>
+      @views.html.contentbox(slug = worldviewPosition.slug, title = Html(worldviewPosition.summary.string)) {
         <p>@Html(worldviewPosition.details.string)</p>
-      </div>
+      }
     }
   }
 

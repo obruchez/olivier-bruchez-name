@@ -2,8 +2,7 @@
 
 @column(columnNumber: Int, columnCount: Int) = {
   @profile.partOfProfileLists(partNumber = columnNumber, partCount = columnCount).map { profileList =>
-    <div class="tag-box tag-box-v3 box-shadow shadow-effect-1 profilelist">
-      <div class="headline"><section id="@profileList.slug"><h2>@profileList.title</h2></section></div>
+    @views.html.contentbox(slug = profileList.slug, title = Html(profileList.title)) {
       <ul>
       @profileList.profileItems.map { profileItem =>
         <li>
@@ -16,7 +15,7 @@
         </li>
       }
       </ul>
-    </div>
+    }
   }
 }
 
