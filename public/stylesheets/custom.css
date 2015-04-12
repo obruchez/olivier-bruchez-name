@@ -48,3 +48,12 @@
     /* @todo this should depend on the theme */
     color: #555;
 }
+
+.rating {
+    white-space: nowrap;
+}
+
+.rating-as-string {
+    margin-left: 3px;
+    font-size: 80%;
+}

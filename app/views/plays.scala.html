@@ -24,7 +24,7 @@
       <td>@play.adaptation.getOrElse("")</td>
       <td>@play.translation.getOrElse("")</td>
       <td>@play.actors.mkString(", ")</td>
-      <td>@play.rating.fold("")(_.toString)</td>
+      <td>@views.html.rating(play.rating)</td>
       <td>@Html(play.comments.fold("")(_.string))</td>
     </tr>
   }

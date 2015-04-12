@@ -33,7 +33,7 @@
       <td>@musicians(concert.band, concert.musicians)</td>
       <td>@concert.location</td>
       <td>@concert.event.getOrElse("")</td>
-      <td>@concert.rating.fold("")(_.toString)</td>
+      <td>@views.html.rating(concert.rating)</td>
       <td>@Html(concert.comments.fold("")(_.string))</td>
     </tr>
   }

@@ -26,7 +26,7 @@
       <td>@{movie.url.fold[xml.NodeSeq](xml.Text(movie.title))(url => <a href={url.toString}>{movie.title}</a>)}</td>
       <td>@otherTitles(movie.otherTitles)</td>
       <td>@movie.version.fold("Original")(_.getDisplayName(java.util.Locale.ENGLISH))</td>
-      <td>@movie.rating.fold("")(_.toString)</td>
+      <td>@views.html.rating(movie.rating)</td>
       <td>@Html(movie.comments.fold("")(_.string))</td>
     </tr>
   }
