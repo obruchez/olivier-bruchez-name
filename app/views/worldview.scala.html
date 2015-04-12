@@ -34,12 +34,14 @@
   </div>
 
   @worldview.worldviewCategories.map { worldviewCategory =>
-    <section id="@worldviewCategory.slug"><h2>@Html(worldviewCategory.description.string)</h2></section>
-    @worldviewCategory.worldviewPositions.map { worldviewPosition =>
-      @views.html.contentbox(slug = worldviewPosition.slug, title = Html(worldviewPosition.summary.string)) {
-        <p>@Html(worldviewPosition.details.string)</p>
+    <div class="worldview-category">
+      <section id="@worldviewCategory.slug"><h2>@Html(worldviewCategory.description.string)</h2></section>
+      @worldviewCategory.worldviewPositions.map { worldviewPosition =>
+        @views.html.contentbox(slug = worldviewPosition.slug, title = Html(worldviewPosition.summary.string)) {
+          <p>@Html(worldviewPosition.details.string)</p>
+        }
       }
-    }
+    </div>
   }
 
   <div class="worldview-references">
