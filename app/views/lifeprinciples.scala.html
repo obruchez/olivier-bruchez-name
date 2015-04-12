@@ -4,7 +4,7 @@
   @lifePrinciples.lifePrinciples.slice(
     from = lifePrinciples.indexFromColumnNumber(columnNumber, columnCount),
     until = lifePrinciples.indexFromColumnNumber(columnNumber + 1, columnCount)).map { lifePrinciple =>
-    <div class="tag-box tag-box-v3 lifeprinciple">
+    <div class="tag-box tag-box-v3 box-shadow shadow-effect-1 lifeprinciple">
       <div class="headline"><section id="@lifePrinciple.slug"><h2>@Html(lifePrinciple.summary.string)</h2></section></div>
       <p>@Html(lifePrinciple.details.string)</p>
     </div>
