@@ -6,6 +6,8 @@ See also [1000 places to see before you die](http://1000places.com/).
 
 * [Budapest](https://en.wikipedia.org/wiki/Budapest)
 * [Copenhaguen](https://en.wikipedia.org/wiki/Copenhagen)
+* [Istanbul](https://en.wikipedia.org/wiki/Istanbul)
+* [Kraków](https://en.wikipedia.org/wiki/Krak%C3%B3w)
 * [Venice](https://en.wikipedia.org/wiki/Venice)
 
 ## Countries
@@ -16,6 +18,7 @@ See also [1000 places to see before you die](http://1000places.com/).
 * [India](https://en.wikipedia.org/wiki/India) ([Taj Mahal](https://en.wikipedia.org/wiki/Taj_Mahal), etc.)
 * [Japan](https://en.wikipedia.org/wiki/Japan) ([cherry blossom](https://en.wikipedia.org/wiki/Cherry_blossom), etc.)
 * [New Zealand](https://en.wikipedia.org/wiki/New_Zealand) (cf Marc-André's trip)
+* [Peru](https://en.wikipedia.org/wiki/Peru) ([Machu Picchu](https://en.wikipedia.org/wiki/Machu_Picchu), etc.)
 * [South Africa](https://en.wikipedia.org/wiki/South_Africa) (cf Marc-André's trip)
 
 ## Islands
