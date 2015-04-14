@@ -10,6 +10,26 @@
   -->
   <introduction>A list of concerts I attended.</introduction>
   <concert>
+    <date>2015.04.13</date>
+    <location>Chapiteau, Cully, Switzerland</location>
+    <event>Cully Jazz Festival</event>
+    <group>Andreas Schaerer &amp; Lucas Niggli</group>
+    <musician inst="voice, electronics">Andreas Schaerer</musician>
+    <musician inst="drums, percussion">Lucas Niggli</musician>
+    <rating>4.75</rating>
+    <comments/>
+  </concert>
+  <concert>
+    <date>2015.04.13</date>
+    <location>Chapiteau, Cully, Switzerland</location>
+    <event>Cully Jazz Festival</event>
+    <musician inst="piano" leader="true">Brad Mehldau</musician>
+    <musician inst="bass">Larry Grenadier</musician>
+    <musician inst="drums">Jeff Ballard</musician>
+    <rating>5.25</rating>
+    <comments/>
+  </concert>
+  <concert>
     <date>2015.01.28</date>
     <location>Cave du Bleu Lézard, Lausanne, Switzerland</location>
     <group>Mary's Private Eyes</group>
