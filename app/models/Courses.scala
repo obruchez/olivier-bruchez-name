@@ -30,7 +30,8 @@ case class Course(override val date: Partial,
                   instructor: String,
                   url: URL,
                   certificate: Option[CourseCertificate],
-                  override val slug: String = "") extends ListItem(date, slug)
+                  override val slug: String = "")
+    extends ListItem(date, slug, s"$name")
 
 object Course {
   def apply(rootNode: Node): Try[Course] = Try {

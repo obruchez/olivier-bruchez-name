@@ -38,7 +38,7 @@ object CourseCertificatesController extends Controller {
         title = course.name,
         url = routes.CourseCertificatesController.courseCertificate(courseCertificate.slug).url,
         icon = Sitemap.courses.icon,
-        fetchable = Some(courseCertificate.fileSource))
+        fetchables = Seq(courseCertificate.fileSource))
     }
   }
 }

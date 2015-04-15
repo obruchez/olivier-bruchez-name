@@ -7,7 +7,9 @@ import play.api.mvc._
 import models.{ PdfCv, WordCv }
 
 object Application extends Controller {
-  def home = Action { Ok(views.html.home()) }
+  def home = Action.async {
+    Cache.get(Tweets).map(tweets => Ok(views.html.home(tweets.introduction, Seq(ListItems(tweets.tweets, "Tweets", "fa-twitter")))))
+  }
 
   def profile = Action.async { Cache.get(Profile).map(profile => Ok(views.html.profile(profile))) }
 

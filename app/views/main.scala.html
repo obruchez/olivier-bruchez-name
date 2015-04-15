@@ -51,7 +51,7 @@
 
     <div class="container content height-500">
         @content
-        @page.fetchable.map { fetchable =>
+        @Some(page.fetchables).filter(_.size == 1).flatMap(fetchables => Some(fetchables.head)).map { fetchable =>
             <div class="col-md-12"></div>
             <div>
                 <span class="pull-right"><a href="@fetchable.sourceUrl.toString"><i class="fa fa-code"></i></a></span>

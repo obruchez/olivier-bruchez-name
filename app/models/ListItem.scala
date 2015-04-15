@@ -3,7 +3,9 @@ package models
 import org.joda.time.ReadablePartial
 import util.Date._
 
-abstract class ListItem(val date: ReadablePartial, val slug: String)
+abstract class ListItem(val date: ReadablePartial,
+                        val slug: String,
+                        val shortRepresentation: String)
 
 object ListItem {
   def slug(listItem: ListItem, allListItems: Seq[ListItem]): String = {
@@ -17,3 +19,5 @@ object ListItem {
       candidateSlug + "-" + (listItemsWithSameDate.indexOf(listItem) + 1)
   }
 }
+
+case class ListItems(listItems: Seq[ListItem], title: String, icon: String)

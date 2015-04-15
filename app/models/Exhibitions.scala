@@ -11,7 +11,8 @@ case class Exhibition(override val date: Partial,
                       museum: String,
                       rating: Option[Double],
                       comments: Option[HtmlContent],
-                      override val slug: String = "") extends ListItem(date, slug)
+                      override val slug: String = "")
+    extends ListItem(date, slug, s"$museum - $name")
 
 object Exhibition {
   def apply(rootNode: Node): Try[Exhibition] = Try {

@@ -10,7 +10,8 @@ import util._
 case class Tweet(override val date: ReadablePartial,
                  content: String,
                  reply: Boolean,
-                 override val slug: String = "") extends ListItem(date, slug)
+                 override val slug: String = "")
+    extends ListItem(date, slug, s"$content")
 
 object Tweet {
   def apply(status: Status): Tweet =

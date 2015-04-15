@@ -9,7 +9,8 @@ import util._
 case class Hike(override val date: Partial,
                 place: String,
                 pictures: Seq[Pictures],
-                override val slug: String = "") extends ListItem(date, slug)
+                override val slug: String = "")
+    extends ListItem(date, slug, s"$place")
 
 object Hike {
   def apply(rootNode: Node): Try[Hike] = Try {

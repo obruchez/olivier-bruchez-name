@@ -21,7 +21,8 @@ case class Movie(override val date: Partial,
                  rating: Option[Double],
                  comments: Option[HtmlContent],
                  url: Option[URL],
-                 override val slug: String = "") extends ListItem(date, slug)
+                 override val slug: String = "")
+    extends ListItem(date, slug, s"$director - $title")
 
 object Movie {
   def apply(rootNode: Node): Try[Movie] = Try {

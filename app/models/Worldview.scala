@@ -9,7 +9,8 @@ import util._
 case class WorldviewPosition(summary: HtmlContent,
                              details: HtmlContent,
                              dateAdded: Partial,
-                             override val slug: String) extends ListItem(dateAdded, slug)
+                             override val slug: String)
+    extends ListItem(dateAdded, slug, s"$summary")
 
 object WorldviewPosition {
   def apply(rootNode: Node): Try[WorldviewPosition] = Try {

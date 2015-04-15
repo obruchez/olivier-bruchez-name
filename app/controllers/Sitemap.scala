@@ -10,12 +10,12 @@ import util.{Fetchable, Introduction}
 case class Page(title: String,
                 url: String,
                 icon: Option[String] = None,
-                fetchable: Option[Fetchable] = None,
+                fetchables: Seq[Fetchable] = Seq(),
                 children: Seq[Page] = Seq())
 
 object Page {
   def apply(fetchable: Fetchable, call: Call, icon: String): Page =
-    Page(title = fetchable.name, call.url, icon = Some(icon), fetchable = Some(fetchable))
+    Page(title = fetchable.name, call.url, icon = Some(icon), fetchables = Seq(fetchable))
 
   def apply(title: String, call: Call, icon: String): Page =
     Page(title, call.url, icon = Some(icon), children = Seq())
@@ -25,7 +25,8 @@ object Page {
 
   def introductionsFromPages(pages: Seq[Page]): Future[Seq[(Page, Option[Introduction])]] = {
     val sequenceOfFutures = for (page <- pages) yield {
-      val introductionFuture = page.fetchable match {
+      // Take only first fetchable into account
+      val introductionFuture = page.fetchables.headOption match {
         case Some(fetchable) => Cache.get(fetchable).map(cacheable => cacheable.introduction)
         case None => Future(None)
       }
@@ -40,7 +41,7 @@ object Sitemap {
   // @todo better icon for hikes: https://cdn2.iconfinder.com/data/icons/vacation-landmarks/512/12-512.png
   // @todo better icon for plays: https://cdn0.iconfinder.com/data/icons/huge-basic-icons-part-3/512/Theater_symbol.png
 
-  val home = Page("Home", routes.Application.home(), "fa-home")
+  val home = Page("Home", routes.Application.home().url, Some("fa-home"), fetchables = Seq(Tweets))
 
   val profile = Page(Profile, routes.Application.profile(), "fa-list")
   val lifePrinciples = Page(LifePrinciples, routes.Application.lifePrinciples(), "fa-compass")
@@ -115,8 +116,8 @@ object Sitemap {
 
   def fetchables: Seq[Fetchable] = {
     def fetchable(page: Page): Seq[Fetchable] =
-      page.fetchable.toSeq ++ page.children.flatMap(fetchable)
+      page.fetchables ++ page.children.flatMap(fetchable)
 
-    fetchable(root)
+    fetchable(root).distinct
   }
 }

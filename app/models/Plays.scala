@@ -16,7 +16,8 @@ case class Play(override val date: Partial,
                 actors: Seq[String],
                 rating: Option[Double],
                 comments: Option[HtmlContent],
-                override val slug: String = "") extends ListItem(date, slug)
+                override val slug: String = "")
+    extends ListItem(date, slug, s"$name - $location")
 
 object Play {
   def apply(rootNode: Node): Try[Play] = Try {

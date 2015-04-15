@@ -10,7 +10,8 @@ case class Crash(override val date: Partial,
                  manufacturer: String,
                  model: String,
                  comments: Option[HtmlContent],
-                 override val slug: String = "") extends ListItem(date, slug)
+                 override val slug: String = "")
+    extends ListItem(date, slug, s"$manufacturer - $model")
 
 object Crash {
   def apply(rootNode: Node): Try[Crash] = Try {

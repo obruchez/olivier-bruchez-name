@@ -33,7 +33,8 @@ case class Book(override val date: Partial,
                 comments: Option[HtmlContent],
                 url: URL,
                 notes: Option[BookNotes],
-                override val slug: String = "") extends ListItem(date, slug)
+                override val slug: String = "")
+    extends ListItem(date, slug, s"$author - $title")
 
 object Book {
   def apply(rootNode: Node): Try[Book] = Try {

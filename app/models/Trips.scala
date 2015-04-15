@@ -5,12 +5,14 @@ import org.joda.time.Partial
 import scala.util.Try
 import scala.xml.{Node, XML}
 import util._
+import util.Date._
 
 case class Trip(from: Partial,
                 to: Partial,
                 place: String,
                 pictures: Seq[Pictures],
-                override val slug: String = "") extends ListItem(from, slug)
+                override val slug: String = "")
+    extends ListItem(from, slug, s"${from.yyyymmddString}-${to.yyyymmddString}: $place")
 
 object Trip {
   def apply(rootNode: Node): Try[Trip] = Try {

@@ -1,0 +1,11 @@
+@(listItems: Seq[ListItem], title: String, icon: String)
+
+<div class="service-block service-block-u rounded-2x">
+  <i class="icon-custom icon-color-light rounded-x fa @icon"></i>
+  <h2 class="heading-md">@title</h2>
+  <ul>
+    @listItems.map { listItem =>
+      <li>@listItem.shortRepresentation</li>
+    }
+  </ul>
+</div>

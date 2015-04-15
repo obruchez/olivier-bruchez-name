@@ -15,6 +15,13 @@ object Musician {
      instrument = Option((rootNode \@ "instrument").trim).filter(_.nonEmpty),
      leader = Parsing.isTrue(rootNode \@ "leader"))
   }
+
+  def musicians(band: Option[String], musicians: Seq[Musician]): String =
+    band.map(_ + (if (musicians.nonEmpty) ": " else "")).getOrElse("") +
+      (musicians.zipWithIndex map { case (musician, index) =>
+        val separator = Concerts.commaOrAnd(index = index, totalCount = musicians.size)
+        musician.name + separator
+      }).mkString("")
 }
 
 case class Concert(override val date: Partial,
@@ -24,7 +31,8 @@ case class Concert(override val date: Partial,
                    musicians: Seq[Musician],
                    rating: Option[Double],
                    comments: Option[HtmlContent],
-                   override val slug: String = "") extends ListItem(date, slug)
+                   override val slug: String = "")
+    extends ListItem(date, slug, s"${Musician.musicians(band, musicians)} - $location")
 
 object Concert {
   def apply(rootNode: Node): Try[Concert] = Try {

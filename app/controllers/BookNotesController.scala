@@ -52,7 +52,7 @@ object BookNotesController extends Controller {
         title = pageTitle,
         url = routes.BookNotesController.bookNotes(bookNotes.slug).url,
         icon = Sitemap.books.icon,
-        fetchable = Some(bookNotes.fileSource))
+        fetchables = Seq(bookNotes.fileSource))
     }
   }
 }
