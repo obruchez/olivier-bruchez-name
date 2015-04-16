@@ -1,6 +1,6 @@
-@(slug: String, title: Html)(content: Html)
+@(slug: Option[String], title: Option[Html])(content: Html)
 
-<div class="tag-box tag-box-v3 box-shadow shadow-effect-1 worldviewposition">
-  <div class="headline"><section id="@slug"><h3>@title</h3></section></div>
+<div class="tag-box tag-box-v3 box-shadow shadow-effect-1 contentbox">
+  @title.map { title => <div class="headline">@slug.map { slug => <section id="@slug"> } <h3>@title</h3></section></div> }
   @content
 </div>

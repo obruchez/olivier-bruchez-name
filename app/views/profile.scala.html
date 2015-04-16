@@ -2,20 +2,22 @@
 
 @column(columnNumber: Int, columnCount: Int) = {
   @profile.partOfProfileLists(partNumber = columnNumber, partCount = columnCount).map { profileList =>
-    @views.html.contentbox(slug = profileList.slug, title = Html(profileList.title)) {
-      <ul>
-      @profileList.profileItems.map { profileItem =>
-        <li>
-          @profileItem.profileSubItems.zipWithIndex.map { case (profileSubItem, index) =>
-            <a href="@profileSubItem.url">@profileSubItem.description</a>
-            @if(index != profileItem.profileSubItems.size - 1) {
-              <span> / </span>
+    <div class="listitems">
+      @views.html.contentbox(slug = Some(profileList.slug), title = Some(Html(profileList.title))) {
+        <table class="table">
+          <tbody>
+            @profileList.profileItems.map { profileItem =>
+              <tr><td>
+                @profileItem.profileSubItems.zipWithIndex.map { case (profileSubItem, index) =>
+                  <a href="@profileSubItem.url">@profileSubItem.description</a>
+                  @if(index != profileItem.profileSubItems.size - 1) { <span> / </span> }
+                }
+              </td></tr>
             }
-          }
-        </li>
+          </tbody>
+        </table>
       }
-      </ul>
-    }
+    </div>
   }
 }
 

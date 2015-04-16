@@ -35,8 +35,20 @@
     margin-bottom: 25px;
 }
 
-.profilelist .headline, .lifeprinciple .headline, .worldviewposition .headline {
+.contentbox .headline {
     margin-top: 0;
+}
+
+.contentbox .table {
+    margin-bottom: 0;
+}
+
+.contentbox .table tr:first-child td {
+    border-top-width: 0;
+}
+
+.listitems .contentbox .headline {
+    margin-bottom: 10px;
 }
 
 .markdown li a {

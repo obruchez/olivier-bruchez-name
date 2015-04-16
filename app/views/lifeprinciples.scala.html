@@ -4,7 +4,7 @@
   @lifePrinciples.lifePrinciples.slice(
     from = lifePrinciples.indexFromColumnNumber(columnNumber, columnCount),
     until = lifePrinciples.indexFromColumnNumber(columnNumber + 1, columnCount)).map { lifePrinciple =>
-      @views.html.contentbox(slug = lifePrinciple.slug, title = Html(lifePrinciple.summary.string)) {
+      @views.html.contentbox(slug = Some(lifePrinciple.slug), title = Some(Html(lifePrinciple.summary.string))) {
         <p>@Html(lifePrinciple.details.string)</p>
       }
   }

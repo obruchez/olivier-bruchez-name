@@ -7,8 +7,9 @@
     }
   }
 
-  <table class="table table-hover">
-    <tbody>
+  @views.html.contentbox(slug = None, title = None) {
+    <table class="table">
+      <tbody>
       @contacts.contacts.map { contact =>
         <tr>
           <td><i class="fa @contact.icon"></i></td>
@@ -16,6 +17,7 @@
           <td><a href="@contact.url">@contact.urlDescription</a></td>
         </tr>
       }
-    </tbody>
-  </table>
+      </tbody>
+    </table>
+  }
 }

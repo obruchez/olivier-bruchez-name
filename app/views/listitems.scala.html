@@ -1,11 +1,13 @@
 @(listItems: Seq[ListItem], title: String, icon: String)
 
-<div class="service-block service-block-u rounded-2x">
-  <i class="icon-custom icon-color-light rounded-x fa @icon"></i>
-  <h2 class="heading-md">@title</h2>
-  <ul>
-    @listItems.map { listItem =>
-      <li>@listItem.shortRepresentation</li>
-    }
-  </ul>
+<div class="listitems">
+  @views.html.contentbox(slug = None, title = Some(Html(title))) {
+    <table class="table">
+      <tbody>
+        @listItems.map { listItem =>
+          <tr><td>@listItem.shortRepresentation</td></tr>
+        }
+      </tbody>
+    </table>
+  }
 </div>
