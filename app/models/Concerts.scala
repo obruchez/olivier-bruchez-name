@@ -1,6 +1,7 @@
 package models
 
 import java.net.URL
+import models.ListItems._
 import org.joda.time.Partial
 import scala.util.Try
 import scala.xml.{Node, XML}
@@ -31,8 +32,14 @@ case class Concert(override val date: Partial,
                    musicians: Seq[Musician],
                    rating: Option[Double],
                    comments: Option[HtmlContent],
-                   override val slug: String = "")
-    extends ListItem(date, slug, s"${Musician.musicians(band, musicians)} - $location")
+                   override val itemSlug: Option[String] = None,
+                   override val itemUrl: Option[String] = None)
+    extends ListItem(date, s"${Musician.musicians(band, musicians)} - $location", itemSlug, itemUrl) {
+  type T = Concert
+
+  override def withSlug(slug: Option[String]): Concert = copy(itemSlug = slug)
+  override def withUrl(url: Option[String]): Concert = copy(itemUrl = url)
+}
 
 object Concert {
   def apply(rootNode: Node): Try[Concert] = Try {
@@ -57,6 +64,7 @@ object Concerts extends Fetchable {
 
   override val name = "Concerts"
   override val sourceUrl = Configuration.baseUrlWithFile("concerts.xml").get
+  override val icon = Some("fa-music") // @todo better icon
 
   override def fetch(): Try[Concerts] = apply(sourceUrl)
 
@@ -70,7 +78,7 @@ object Concerts extends Fetchable {
     val introduction = Parsing.introductionFromNode(concertsNode).get
     val concertsSeq = (concertsNode \\ "concert").map(Concert(_).get)
 
-    Concerts(introduction, concertsSeq.map(concert => concert.copy(slug = ListItem.slug(concert, concertsSeq))))
+    Concerts(introduction, concertsSeq.withSlugs)
   }
 
   def commaOrAnd(index: Int, totalCount: Int): String =

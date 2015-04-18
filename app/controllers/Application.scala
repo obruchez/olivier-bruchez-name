@@ -2,13 +2,24 @@ package controllers
 
 import actors.Cache
 import models._
+import models.ListItems._
 import play.api.libs.concurrent.Execution.Implicits._
 import play.api.mvc._
 import models.{ PdfCv, WordCv }
 
 object Application extends Controller {
   def home = Action.async {
-    Cache.get(Tweets).map(tweets => Ok(views.html.home(tweets.introduction, Seq(ListItems(tweets.tweets, "Tweets", "fa-twitter")))))
+    for {
+      tweets <- Cache.get(Tweets)
+      books <- Cache.get(Books)
+    } yield {
+      Ok(views.html.home(
+        tweets.introduction,
+        Seq(
+          // @todo clean this
+          ListItems(tweets.tweets.filter(!_.reply).take(5), Tweets),
+          ListItems(books.books.take(5).withUrls(Sitemap.books), Books))))
+    }
   }
 
   def profile = Action.async { Cache.get(Profile).map(profile => Ok(views.html.profile(profile))) }

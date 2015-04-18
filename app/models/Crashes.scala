@@ -1,6 +1,7 @@
 package models
 
 import java.net.URL
+import models.ListItems._
 import org.joda.time.Partial
 import scala.util.Try
 import scala.xml.{Node, XML}
@@ -10,8 +11,14 @@ case class Crash(override val date: Partial,
                  manufacturer: String,
                  model: String,
                  comments: Option[HtmlContent],
-                 override val slug: String = "")
-    extends ListItem(date, slug, s"$manufacturer - $model")
+                 override val itemSlug: Option[String] = None,
+                 override val itemUrl: Option[String] = None)
+    extends ListItem(date, s"$manufacturer - $model", itemSlug, itemUrl) {
+  type T = Crash
+
+  override def withSlug(slug: Option[String]): Crash = copy(itemSlug = slug)
+  override def withUrl(url: Option[String]): Crash = copy(itemUrl = url)
+}
 
 object Crash {
   def apply(rootNode: Node): Try[Crash] = Try {
@@ -31,6 +38,7 @@ object Crashes extends Fetchable {
 
   override val name = "Crashes"
   override val sourceUrl = Configuration.baseUrlWithFile("crashes.xml").get
+  override val icon = Some("fa-hdd-o")
 
   override def fetch(): Try[Crashes] = apply(sourceUrl)
 
@@ -44,6 +52,6 @@ object Crashes extends Fetchable {
     val introduction = Parsing.introductionFromNode(crashesNode).get
     val crashesSeq = (crashesNode \\ "crash").map(Crash(_).get)
 
-    Crashes(introduction, crashesSeq.map(crash => crash.copy(slug = ListItem.slug(crash, crashesSeq))))
+    Crashes(introduction, crashesSeq.withSlugs)
   }
 }

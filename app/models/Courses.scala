@@ -1,6 +1,7 @@
 package models
 
 import java.net.URL
+import models.ListItems._
 import org.joda.time.Partial
 import scala.util._
 import scala.xml.{Node, XML}
@@ -30,8 +31,14 @@ case class Course(override val date: Partial,
                   instructor: String,
                   url: URL,
                   certificate: Option[CourseCertificate],
-                  override val slug: String = "")
-    extends ListItem(date, slug, s"$name")
+                  override val itemSlug: Option[String] = None,
+                  override val itemUrl: Option[String] = None)
+    extends ListItem(date, s"$name", itemSlug, itemUrl) {
+  type T = Course
+
+  override def withSlug(slug: Option[String]): Course = copy(itemSlug = slug)
+  override def withUrl(url: Option[String]): Course = copy(itemUrl = url)
+}
 
 object Course {
   def apply(rootNode: Node): Try[Course] = Try {
@@ -65,6 +72,7 @@ object Courses extends Fetchable {
 
   override val name = "Courses"
   override val sourceUrl = Configuration.baseUrlWithFile("courses.xml").get
+  override val icon = Some("fa-graduation-cap")
 
   override def fetch(): Try[Courses] = apply(sourceUrl)
 
@@ -78,6 +86,6 @@ object Courses extends Fetchable {
     val introduction = Parsing.introductionFromNode(coursesNode).get
     val coursesSeq = (coursesNode \\ "course").map(Course(_).get)
 
-    Courses(introduction, coursesSeq.map(course => course.copy(slug = ListItem.slug(course, coursesSeq))))
+    Courses(introduction, coursesSeq.withSlugs)
   }
 }

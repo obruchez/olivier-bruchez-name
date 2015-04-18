@@ -51,6 +51,10 @@
     margin-bottom: 10px;
 }
 
+.listitems .contentbox .table td {
+    padding: 6px;
+}
+
 .markdown li a {
     /* @todo this should depend on the theme */
     color: #18ba9b;

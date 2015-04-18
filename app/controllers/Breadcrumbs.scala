@@ -1,5 +1,6 @@
 package controllers
 
+import models.Page
 import util.Strings
 
 object Breadcrumbs {

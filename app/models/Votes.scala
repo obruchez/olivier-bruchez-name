@@ -12,6 +12,7 @@ object Votes extends Fetchable {
 
   override val name = "Votes"
   override val sourceUrl = Configuration.baseUrlWithFile("markdown/votes.md").get
+  override val icon = Some("fa-bullhorn")
 
   override def fetch(): Try[Votes] = apply(sourceUrl)
 

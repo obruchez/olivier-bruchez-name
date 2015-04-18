@@ -77,6 +77,7 @@ object Profile extends Fetchable {
 
   override val name = "Profile"
   override val sourceUrl = Configuration.baseUrlWithFile("profile.xml").get
+  override val icon = Some("fa-list")
 
   override def fetch(): Try[Profile] = apply(sourceUrl)
 

@@ -9,9 +9,11 @@
     }
   }
 
+  <!--@@listItems.groupBy(3).map {} -->
+
   <div>
-    <div class="col-md-4">@views.html.listitems(listItems.head.listItems, listItems.head.title, listItems.head.icon)</div>
-    <div class="col-md-4"></div>
+    <div class="col-md-4">@views.html.listitems(listItems(0))</div>
+    <div class="col-md-4">@views.html.listitems(listItems(1))</div>
     <div class="col-md-4"></div>
   </div>
 }

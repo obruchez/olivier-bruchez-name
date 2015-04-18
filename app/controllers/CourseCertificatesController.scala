@@ -1,7 +1,7 @@
 package controllers
 
 import actors.Cache
-import models.{Courses, CourseCertificate}
+import models.{Courses, CourseCertificate, Page}
 import play.api.libs.concurrent.Execution.Implicits._
 import play.api.mvc._
 import scala.concurrent.Future

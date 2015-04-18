@@ -2,6 +2,7 @@ package models
 
 import java.net.URL
 import java.util.Locale
+import models.ListItems._
 import org.joda.time.Partial
 import scala.util.Try
 import scala.xml.{Node, XML}
@@ -21,8 +22,14 @@ case class Movie(override val date: Partial,
                  rating: Option[Double],
                  comments: Option[HtmlContent],
                  url: Option[URL],
-                 override val slug: String = "")
-    extends ListItem(date, slug, s"$director - $title")
+                 override val itemSlug: Option[String] = None,
+                 override val itemUrl: Option[String] = None)
+    extends ListItem(date, s"$director - $title", itemSlug, itemUrl) {
+  type T = Movie
+
+  override def withSlug(slug: Option[String]): Movie = copy(itemSlug = slug)
+  override def withUrl(url: Option[String]): Movie = copy(itemUrl = url)
+}
 
 object Movie {
   def apply(rootNode: Node): Try[Movie] = Try {
@@ -60,6 +67,7 @@ object Movies extends Fetchable {
 
   override val name = "Movies"
   override val sourceUrl = Configuration.baseUrlWithFile("movies.xml").get
+  override val icon = Some("fa-film")
 
   override def fetch(): Try[Movies] = apply(sourceUrl)
 
@@ -73,6 +81,6 @@ object Movies extends Fetchable {
     val introduction = Parsing.introductionFromNode(moviesNode).get
     val moviesSeq = (moviesNode \\ "movie").map(Movie(_).get)
 
-    Movies(introduction, moviesSeq.map(movie => movie.copy(slug = ListItem.slug(movie, moviesSeq))))
+    Movies(introduction, moviesSeq.withSlugs)
   }
 }

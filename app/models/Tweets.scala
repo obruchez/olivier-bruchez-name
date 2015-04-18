@@ -4,22 +4,27 @@ import org.joda.time.{LocalDateTime, ReadablePartial}
 import scala.util.Try
 import twitter.Twitter
 import twitter.Twitter._
-import twitter4j.Status
 import util._
 
 case class Tweet(override val date: ReadablePartial,
                  content: String,
                  reply: Boolean,
-                 override val slug: String = "")
-    extends ListItem(date, slug, s"$content")
+                 override val itemSlug: Option[String] = None,
+                 override val itemUrl: Option[String] = None)
+    extends ListItem(date, s"$content", itemSlug, itemUrl) {
+  type T = Tweet
+
+  override def withSlug(slug: Option[String]): Tweet = copy(itemSlug = slug)
+  override def withUrl(url: Option[String]): Tweet = copy(itemUrl = url)
+}
 
 object Tweet {
-  def apply(status: Status): Tweet =
+  def apply(status: ExtendedStatus): Tweet =
     Tweet(
-      date = new LocalDateTime(status.getCreatedAt),
-      content = status.getText,
+      date = new LocalDateTime(status.status.getCreatedAt),
+      content = status.status.getText,
       reply = status.isReply,
-      slug = "") // @todo
+      itemUrl = Some(status.url.toString))
 }
 
 case class Tweets(profile: String, tweets: Seq[Tweet]) extends Cacheable {
@@ -31,6 +36,7 @@ object Tweets extends Fetchable {
 
   override val name = "Tweets"
   override val sourceUrl = Configuration.url("twitter.url").get
+  override val icon = Some("fa-twitter")
 
   override def fetch(): Try[Tweets] = Try {
     Tweets(

@@ -25,6 +25,7 @@ trait Fetchable {
 
   def name: String
   def sourceUrl: URL
+  def icon: Option[String] = None
   def maximumAge: Duration = new Duration(15.minutes.toMillis)
   def fetch(): Try[C]
 }

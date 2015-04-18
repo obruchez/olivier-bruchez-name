@@ -27,6 +27,7 @@ object LifePrinciples extends Fetchable {
 
   override val name = "Life principles"
   override val sourceUrl = Configuration.baseUrlWithFile("lifeprinciples.xml").get
+  override val icon = Some("fa-compass")
 
   override def fetch(): Try[LifePrinciples] = apply(sourceUrl)
 

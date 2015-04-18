@@ -1,11 +1,13 @@
-@(listItems: Seq[ListItem], title: String, icon: String)
+@(listItems: ListItems)
+
+@import util.Date._
 
 <div class="listitems">
-  @views.html.contentbox(slug = None, title = Some(Html(title))) {
+  @views.html.contentbox(slug = None, title = Some(Html(listItems.fetchable.name))) {
     <table class="table">
       <tbody>
-        @listItems.map { listItem =>
-          <tr><td>@listItem.shortRepresentation</td></tr>
+        @listItems.listItems.map { listItem =>
+          <tr><td>@listItem.date.yyyymmddString - <a href="@listItem.itemUrl">@listItem.shortRepresentation</a></td></tr>
         }
       </tbody>
     </table>

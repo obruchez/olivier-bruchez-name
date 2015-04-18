@@ -22,7 +22,10 @@
               <a href="#@worldviewCategory.slug">@{index + 1} @Html(worldviewCategory.description.string)</a>
               <ul class="list-unstyled">
               @worldviewCategory.worldviewPositions.zipWithIndex.map { case (worldviewPosition, subIndex) =>
-                <li><a href="#@worldviewPosition.slug">@{index + 1}.@{subIndex + 1} @Html(worldviewPosition.summary.string)</a></li>
+                @worldviewPosition.itemSlug match {
+                  case Some(slug) => { <li><a href="#@slug">@{index + 1}.@{subIndex + 1} @Html(worldviewPosition.summary.string)</a></li> }
+                  case None => { <li>@{index + 1}.@{subIndex + 1} @Html(worldviewPosition.summary.string)</li> }
+                }
               }
               </ul>
             </li>
@@ -37,7 +40,7 @@
     <div class="worldview-category">
       <section id="@worldviewCategory.slug"><h2>@Html(worldviewCategory.description.string)</h2></section>
       @worldviewCategory.worldviewPositions.map { worldviewPosition =>
-        @views.html.contentbox(slug = Some(worldviewPosition.slug), title = Some(Html(worldviewPosition.summary.string))) {
+        @views.html.contentbox(slug = worldviewPosition.itemSlug, title = Some(Html(worldviewPosition.summary.string))) {
           <p>@Html(worldviewPosition.details.string)</p>
         }
       }

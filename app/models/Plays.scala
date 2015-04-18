@@ -1,6 +1,7 @@
 package models
 
 import java.net.URL
+import models.ListItems._
 import org.joda.time.Partial
 import scala.util.Try
 import scala.xml.{Node, XML}
@@ -16,8 +17,14 @@ case class Play(override val date: Partial,
                 actors: Seq[String],
                 rating: Option[Double],
                 comments: Option[HtmlContent],
-                override val slug: String = "")
-    extends ListItem(date, slug, s"$name - $location")
+                override val itemSlug: Option[String] = None,
+                override val itemUrl: Option[String] = None)
+    extends ListItem(date, s"$name - $location", itemSlug, itemUrl) {
+  type T = Play
+
+  override def withSlug(slug: Option[String]): Play = copy(itemSlug = slug)
+  override def withUrl(url: Option[String]): Play = copy(itemUrl = url)
+}
 
 object Play {
   def apply(rootNode: Node): Try[Play] = Try {
@@ -43,6 +50,7 @@ object Plays extends Fetchable {
 
   override val name = "Plays"
   override val sourceUrl = Configuration.baseUrlWithFile("plays.xml").get
+  override val icon = Some("fa-ticket") // @todo better icon
 
   override def fetch(): Try[Plays] = apply(sourceUrl)
 
@@ -56,6 +64,6 @@ object Plays extends Fetchable {
     val introduction = Parsing.introductionFromNode(playsNode).get
     val playsSeq = (playsNode \\ "play").map(Play(_).get)
 
-    Plays(introduction, playsSeq.map(play => play.copy(slug = ListItem.slug(play, playsSeq))))
+    Plays(introduction, playsSeq.withSlugs)
   }
 }

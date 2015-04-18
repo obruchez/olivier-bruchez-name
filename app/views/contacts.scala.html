@@ -7,17 +7,19 @@
     }
   }
 
-  @views.html.contentbox(slug = None, title = None) {
-    <table class="table">
-      <tbody>
-      @contacts.contacts.map { contact =>
-        <tr>
-          <td><i class="fa @contact.icon"></i></td>
-          <td>@contact.name</td>
-          <td><a href="@contact.url">@contact.urlDescription</a></td>
-        </tr>
-      }
-      </tbody>
-    </table>
-  }
+  <div class="listitems">
+    @views.html.contentbox(slug = None, title = None) {
+      <table class="table">
+        <tbody>
+        @contacts.contacts.map { contact =>
+          <tr>
+            <td><i class="fa @contact.icon"></i></td>
+            <td>@contact.name</td>
+            <td><a href="@contact.url">@contact.urlDescription</a></td>
+          </tr>
+        }
+        </tbody>
+      </table>
+    }
+  </div>
 }

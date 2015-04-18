@@ -1,6 +1,7 @@
 package models
 
 import java.net.URL
+import models.ListItems._
 import org.joda.time.Partial
 import scala.util.Try
 import scala.xml.{Node, XML}
@@ -33,8 +34,14 @@ case class Book(override val date: Partial,
                 comments: Option[HtmlContent],
                 url: URL,
                 notes: Option[BookNotes],
-                override val slug: String = "")
-    extends ListItem(date, slug, s"$author - $title")
+                override val itemSlug: Option[String] = None,
+                override val itemUrl: Option[String] = None)
+    extends ListItem(date, s"$author - $title", itemSlug, itemUrl) {
+  type T = Book
+
+  override def withSlug(slug: Option[String]): Book = copy(itemSlug = slug)
+  override def withUrl(url: Option[String]): Book = copy(itemUrl = url)
+}
 
 object Book {
   def apply(rootNode: Node): Try[Book] = Try {
@@ -72,6 +79,7 @@ object Books extends Fetchable {
 
   override val name = "Books"
   override val sourceUrl = Configuration.baseUrlWithFile("books.xml").get
+  override val icon = Some("fa-book")
 
   override def fetch(): Try[Books] = apply(sourceUrl)
 
@@ -85,6 +93,6 @@ object Books extends Fetchable {
     val introduction = Parsing.introductionFromNode(booksNode).get
     val booksSeq = (booksNode \\ "book").map(Book(_).get)
 
-    Books(introduction, booksSeq.map(book => book.copy(slug = ListItem.slug(book, booksSeq))))
+    Books(introduction, booksSeq.withSlugs)
   }
 }

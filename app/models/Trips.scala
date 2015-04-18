@@ -1,6 +1,7 @@
 package models
 
 import java.net.URL
+import models.ListItems._
 import org.joda.time.Partial
 import scala.util.Try
 import scala.xml.{Node, XML}
@@ -11,8 +12,14 @@ case class Trip(from: Partial,
                 to: Partial,
                 place: String,
                 pictures: Seq[Pictures],
-                override val slug: String = "")
-    extends ListItem(from, slug, s"${from.yyyymmddString}-${to.yyyymmddString}: $place")
+                override val itemSlug: Option[String] = None,
+                override val itemUrl: Option[String] = None)
+    extends ListItem(from, s"${from.yyyymmddString}-${to.yyyymmddString}: $place", itemSlug, itemUrl) {
+  type T = Trip
+
+  override def withSlug(slug: Option[String]): Trip = copy(itemSlug = slug)
+  override def withUrl(url: Option[String]): Trip = copy(itemUrl = url)
+}
 
 object Trip {
   def apply(rootNode: Node): Try[Trip] = Try {
@@ -32,6 +39,7 @@ object Trips extends Fetchable {
 
   override val name = "Trips"
   override val sourceUrl = Configuration.baseUrlWithFile("trips.xml").get
+  override val icon = Some("fa-suitcase")
 
   override def fetch(): Try[Trips] = apply(sourceUrl)
 
@@ -45,6 +53,6 @@ object Trips extends Fetchable {
     val introduction = Parsing.introductionFromNode(tripsNode).get
     val tripsSeq = (tripsNode \\ "trip").map(Trip(_).get)
 
-    Trips(introduction, tripsSeq.map(trip => trip.copy(slug = ListItem.slug(trip, tripsSeq))))
+    Trips(introduction, tripsSeq.withSlugs)
   }
 }

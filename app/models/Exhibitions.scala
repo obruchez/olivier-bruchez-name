@@ -1,6 +1,7 @@
 package models
 
 import java.net.URL
+import models.ListItems._
 import org.joda.time.Partial
 import scala.util.Try
 import scala.xml.{Node, XML}
@@ -11,8 +12,14 @@ case class Exhibition(override val date: Partial,
                       museum: String,
                       rating: Option[Double],
                       comments: Option[HtmlContent],
-                      override val slug: String = "")
-    extends ListItem(date, slug, s"$museum - $name")
+                      override val itemSlug: Option[String] = None,
+                      override val itemUrl: Option[String] = None)
+    extends ListItem(date, s"$museum - $name", itemSlug, itemUrl) {
+  type T = Exhibition
+
+  override def withSlug(slug: Option[String]): Exhibition = copy(itemSlug = slug)
+  override def withUrl(url: Option[String]): Exhibition = copy(itemUrl = url)
+}
 
 object Exhibition {
   def apply(rootNode: Node): Try[Exhibition] = Try {
@@ -33,6 +40,7 @@ object Exhibitions extends Fetchable {
 
   override val name = "Exhibitions"
   override val sourceUrl = Configuration.baseUrlWithFile("exhibitions.xml").get
+  override val icon = Some("fa-picture-o") // @todo better icon
 
   override def fetch(): Try[Exhibitions] = apply(sourceUrl)
 
@@ -46,8 +54,6 @@ object Exhibitions extends Fetchable {
     val introduction = Parsing.introductionFromNode(exhibitionsNode).get
     val exhibitionsSeq = (exhibitionsNode \\ "exhibition").map(Exhibition(_).get)
 
-    Exhibitions(
-      introduction,
-      exhibitionsSeq.map(exhibition => exhibition.copy(slug = ListItem.slug(exhibition, exhibitionsSeq))))
+    Exhibitions(introduction, exhibitionsSeq.withSlugs)
   }
 }

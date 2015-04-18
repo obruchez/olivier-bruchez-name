@@ -2,4 +2,7 @@
 
 @import util.Date._
 
-<section id="@listItem.slug">@listItem.date.yyyymmddString</section>
+@listItem.itemSlug match {
+  case Some(slug) => { <section id="@slug">@listItem.date.yyyymmddString</section> }
+  case None => { @listItem.date.yyyymmddString }
+}

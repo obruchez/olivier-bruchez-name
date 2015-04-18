@@ -9,8 +9,14 @@ import util._
 case class WorldviewPosition(summary: HtmlContent,
                              details: HtmlContent,
                              dateAdded: Partial,
-                             override val slug: String)
-    extends ListItem(dateAdded, slug, s"$summary")
+                             override val itemSlug: Option[String] = None,
+                             override val itemUrl: Option[String] = None)
+    extends ListItem(dateAdded, s"$summary", itemSlug, itemUrl) {
+  type T = WorldviewPosition
+
+  override def withSlug(slug: Option[String]): WorldviewPosition = copy(itemSlug = slug)
+  override def withUrl(url: Option[String]): WorldviewPosition = copy(itemUrl = url)
+}
 
 object WorldviewPosition {
   def apply(rootNode: Node): Try[WorldviewPosition] = Try {
@@ -18,7 +24,7 @@ object WorldviewPosition {
       summary = MarkdownContent(rootNode \@ "summary").toHtmlContent.get,
       details = MarkdownContent(rootNode.text).toHtmlContent.get,
       dateAdded = Parsing.dateFromString((rootNode \@ "added").trim).get,
-      slug = (rootNode \@ "slug").trim)
+      itemSlug = Some((rootNode \@ "slug").trim))
   }
 }
 
@@ -44,6 +50,7 @@ object Worldview extends Fetchable {
 
   override val name = "Worldview"
   override val sourceUrl = Configuration.baseUrlWithFile("worldview.xml").get
+  override val icon = Some("fa-globe")
 
   override def fetch(): Try[Worldview] = apply(sourceUrl)
 

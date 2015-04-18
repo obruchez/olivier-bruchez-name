@@ -4,6 +4,9 @@ object Slug {
   def slugFromString(string: String): String =
     normalizedString(string).replaceAll(" ", "-")
 
+  def withBaseUrl(baseUrl: String, slug: String): String =
+    s"$baseUrl#$slug"
+
   private def normalizedString(string: String): String = {
      import java.text.Normalizer
 

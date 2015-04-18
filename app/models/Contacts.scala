@@ -28,6 +28,7 @@ object Contacts extends Fetchable {
 
   override val name = "Contacts"
   override val sourceUrl = Configuration.baseUrlWithFile("contacts.xml").get
+  override val icon = Some("fa-envelope-o")
 
   override def fetch(): Try[Contacts] = apply(sourceUrl)
 
