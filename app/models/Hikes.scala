@@ -29,7 +29,7 @@ object Hike {
 }
 
 case class Hikes(override val introduction: Option[Introduction],
-                 hikes: Seq[Hike]) extends Cacheable
+                 override val listItems: Seq[Hike]) extends Cacheable
 
 object Hikes extends Fetchable {
   type C = Hikes

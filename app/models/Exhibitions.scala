@@ -33,7 +33,7 @@ object Exhibition {
 }
 
 case class Exhibitions(override val introduction: Option[Introduction],
-                       exhibitions: Seq[Exhibition]) extends Cacheable
+                       override val listItems: Seq[Exhibition]) extends Cacheable
 
 object Exhibitions extends Fetchable {
   type C = Exhibitions

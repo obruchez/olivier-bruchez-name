@@ -1,11 +1,10 @@
 package controllers
 
 import actors.Cache
-import models.{Courses, CourseCertificate, Page}
+import models._
 import play.api.libs.concurrent.Execution.Implicits._
 import play.api.mvc._
 import scala.concurrent.Future
-import util._
 
 object CourseCertificatesController extends Controller {
   def courseCertificate(slug: String) = Action.async {
@@ -32,7 +31,7 @@ object CourseCertificatesController extends Controller {
 
   implicit class CoursesOps(courses: Courses) {
     def pageFromCertificate(courseCertificate: CourseCertificate): Page = {
-      val course = courses.courses.find(_.certificate.contains(courseCertificate)).get
+      val course = courses.listItems.find(_.certificate.contains(courseCertificate)).get
 
       Page(
         title = course.name,

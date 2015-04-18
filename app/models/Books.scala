@@ -64,12 +64,12 @@ object Book {
 }
 
 case class Books(override val introduction: Option[Introduction],
-                 books: Seq[Book]) extends Cacheable {
+                 override val listItems: Seq[Book]) extends Cacheable {
   def notesFromSlug(slug: String): Option[BookNotes] =
-    books.find(_.notes.exists(_.slug == slug)).flatMap(_.notes)
+    listItems.find(_.notes.exists(_.slug == slug)).flatMap(_.notes)
 
   override def subFetchables: Seq[FileSource] = for {
-    book <- books
+    book <- listItems
     notes <- book.notes
   } yield notes.fileSource
 }

@@ -17,8 +17,8 @@ object Application extends Controller {
         tweets.introduction,
         Seq(
           // @todo clean this
-          ListItems(tweets.tweets.filter(!_.reply).take(5), Tweets),
-          ListItems(books.books.take(5).withUrls(Sitemap.books), Books))))
+          ListItems(tweets.listItems.filter(!_.reply).take(5), Tweets),
+          ListItems(books.listItems.take(5).withUrls(Sitemap.books), Books))))
     }
   }
 

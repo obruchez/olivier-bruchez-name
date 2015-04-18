@@ -31,7 +31,7 @@ object Crash {
 }
 
 case class Crashes(override val introduction: Option[Introduction],
-                   crashes: Seq[Crash]) extends Cacheable
+                   override val listItems: Seq[Crash]) extends Cacheable
 
 object Crashes extends Fetchable {
   type C = Crashes

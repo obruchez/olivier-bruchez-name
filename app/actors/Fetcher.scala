@@ -1,9 +1,9 @@
 package actors
 
 import akka.actor.{Actor, ActorRef}
+import models.Fetchable
 import play.api.Logger
 import scala.util._
-import util.Fetchable
 
 sealed trait FetcherMessage
 case class Fetch(fetchable: Fetchable) extends FetcherMessage

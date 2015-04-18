@@ -57,12 +57,12 @@ object Course {
 }
 
 case class Courses(override val introduction: Option[Introduction],
-                   courses: Seq[Course]) extends Cacheable {
+                   override val listItems: Seq[Course]) extends Cacheable {
   def certificateFromSlug(slug: String): Option[CourseCertificate] =
-    courses.find(_.certificate.exists(_.slug == slug)).flatMap(_.certificate)
+    listItems.find(_.certificate.exists(_.slug == slug)).flatMap(_.certificate)
 
   override def subFetchables: Seq[FileSource] = for {
-    course <- courses
+    course <- listItems
     certificate <- course.certificate
   } yield certificate.fileSource
 }

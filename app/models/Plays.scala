@@ -43,7 +43,7 @@ object Play {
 }
 
 case class Plays(override val introduction: Option[Introduction],
-                 plays: Seq[Play]) extends Cacheable
+                 override val listItems: Seq[Play]) extends Cacheable
 
 object Plays extends Fetchable {
   type C = Plays

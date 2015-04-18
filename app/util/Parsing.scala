@@ -1,7 +1,7 @@
 package util
 
 import java.net.URL
-import models.Pictures
+import models._
 import org.joda.time.Partial
 import scala.util.Try
 import scala.xml.Node

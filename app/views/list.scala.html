@@ -1,6 +1,7 @@
-@import util.Introduction
+@import models.Cacheable
+@import play.twirl.api.Html
 
-@(page: Page, introduction: Option[Introduction], items: Seq[ListItem], header: play.twirl.api.Html, rowFromItem: (ListItem) => play.twirl.api.Html)
+@(page: Page, cacheable: Cacheable, header: Html, rowFromItem: (ListItem) => Html)
 
 @import util.Date._
 
@@ -26,12 +27,12 @@
 }
 
 @main(page) {
-  @introduction.map { introduction =>
+  @cacheable.introduction.map { introduction =>
     @views.html.introduction {
-      @Html(introduction.fullVersion.string) <span class="badge rounded-2x badge-dark pull-right">@items.size</span>
+      @Html(introduction.fullVersion.string) <span class="badge rounded-2x badge-dark pull-right">@cacheable.listItems.size</span>
     }
   }
-  @items.groupBy(_.date.year).toSeq.sortBy(_._1).reverseMap { case (yearOption, itemsForYear) =>
+  @cacheable.listItems.groupBy(_.date.year).toSeq.sortBy(_._1).reverseMap { case (yearOption, itemsForYear) =>
     @table(yearOption, itemsForYear)
   }
 }

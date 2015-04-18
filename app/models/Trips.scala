@@ -32,7 +32,7 @@ object Trip {
 }
 
 case class Trips(override val introduction: Option[Introduction],
-                 trips: Seq[Trip]) extends Cacheable
+                 override val listItems: Seq[Trip]) extends Cacheable
 
 object Trips extends Fetchable {
   type C = Trips

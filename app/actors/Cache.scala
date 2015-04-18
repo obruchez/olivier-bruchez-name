@@ -9,7 +9,6 @@ import play.api.Logger
 import scala.collection.mutable
 import scala.concurrent.Future
 import scala.concurrent.duration._
-import util._
 
 sealed trait CacheMessage
 case class GetCache[F <: Fetchable](fetchable: F) extends CacheMessage

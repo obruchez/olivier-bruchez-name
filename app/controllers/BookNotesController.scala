@@ -1,12 +1,11 @@
 package controllers
 
 import actors.Cache
-import models.{Books, BookNotes, Page}
+import models._
 import play.api.libs.concurrent.Execution.Implicits._
 import play.api.mvc._
 import scala.concurrent.Future
 import scala.util._
-import util._
 
 object BookNotesController extends Controller {
   def bookNotes(slug: String) = Action.async {
@@ -40,8 +39,8 @@ object BookNotesController extends Controller {
 
   implicit class BooksOps(books: Books) {
     def pageFromNotes(bookNotes: BookNotes): Page = {
-      val book = books.books.find(_.notes.contains(bookNotes)).get
-      val bookWithSameTitleCount = books.books.count(_.title == book.title)
+      val book = books.listItems.find(_.notes.contains(bookNotes)).get
+      val bookWithSameTitleCount = books.listItems.count(_.title == book.title)
       val pageTitle =
         if (bookWithSameTitleCount > 1)
           s"${book.author} - ${book.title} (${bookNotes.description.getOrElse(BookNotes.DefaultDescription)})"

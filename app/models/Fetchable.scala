@@ -1,4 +1,4 @@
-package util
+package models
 
 import java.net.URL
 import org.joda.time.Duration
@@ -17,6 +17,8 @@ object Introduction {
 trait Cacheable {
   //def sizeInBytes: Int
   def introduction: Option[Introduction] = None
+  //def latestItems(page: Page, count: Int): ListItems
+  def listItems: Seq[ListItem] = Seq()
   def subFetchables: Seq[Fetchable] = Seq()
 }
 

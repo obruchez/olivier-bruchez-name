@@ -4,7 +4,6 @@ import actors.Cache
 import play.api.libs.concurrent.Execution.Implicits._
 import play.api.mvc.Call
 import scala.concurrent.Future
-import util.{Fetchable, Introduction}
 
 case class Page(title: String,
                 url: String,

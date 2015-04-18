@@ -27,7 +27,7 @@ object Tweet {
       itemUrl = Some(status.url.toString))
 }
 
-case class Tweets(profile: String, tweets: Seq[Tweet]) extends Cacheable {
+case class Tweets(profile: String, override val listItems: Seq[Tweet]) extends Cacheable {
   override def introduction: Option[Introduction] = Some(Introduction(profile))
 }
 
@@ -42,6 +42,6 @@ object Tweets extends Fetchable {
     Tweets(
       profile = Twitter.userDescription,
       // @todo how many tweets do we really want to fetch?
-      tweets = Twitter.latestStatuses(count = 1000).map(Tweet(_)))
+      listItems = Twitter.latestStatuses(count = 1000).map(Tweet(_)))
   }
 }

@@ -57,7 +57,7 @@ object Concert {
 }
 
 case class Concerts(override val introduction: Option[Introduction],
-                    concerts: Seq[Concert]) extends Cacheable
+                    override val listItems: Seq[Concert]) extends Cacheable
 
 object Concerts extends Fetchable {
   type C = Concerts

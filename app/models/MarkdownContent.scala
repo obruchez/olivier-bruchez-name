@@ -1,9 +1,10 @@
-package util
+package models
 
 import com.github.rjeschke.txtmark._
 import java.net.URL
 import scala.io.{Codec, Source}
 import scala.util._
+import util.FileType
 
 case class MarkdownContent(lines: Seq[String]) extends FileContent(FileType.Markdown) {
   def withoutHeadingTitle: MarkdownContent = {

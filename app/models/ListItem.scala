@@ -2,7 +2,7 @@ package models
 
 import org.joda.time.ReadablePartial
 import util.Date._
-import util.{Fetchable, Slug}
+import util.Slug
 
 abstract class ListItem(val date: ReadablePartial,
                         val shortRepresentation: String,

@@ -43,7 +43,9 @@ object WorldviewCategory {
 
 case class Worldview(override val introduction: Option[Introduction],
                      worldviewCategories: Seq[WorldviewCategory],
-                     references: Seq[HtmlContent]) extends Cacheable
+                     references: Seq[HtmlContent]) extends Cacheable {
+  override val listItems = worldviewCategories.flatMap(_.worldviewPositions)
+}
 
 object Worldview extends Fetchable {
   type C = Worldview

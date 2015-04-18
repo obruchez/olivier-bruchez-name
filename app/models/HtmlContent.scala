@@ -1,8 +1,9 @@
-package util
+package models
 
 import java.net.URL
 import scala.io.{Codec, Source}
 import scala.util.Try
+import util.FileType
 
 case class HtmlContent(string: String) extends FileContent(FileType.Html) {
   def withoutRootParagraph: HtmlContent = {

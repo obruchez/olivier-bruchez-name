@@ -1,7 +1,6 @@
 package controllers
 
 import models._
-import util.Fetchable
 
 object Sitemap {
   // @todo better icon for hikes: https://cdn2.iconfinder.com/data/icons/vacation-landmarks/512/12-512.png

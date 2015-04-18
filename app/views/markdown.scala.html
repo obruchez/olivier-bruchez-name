@@ -1,6 +1,6 @@
-@import util.Introduction
+@import models.{HtmlContent, Introduction}
 
-@(page: Page, introduction: Option[Introduction], content: util.HtmlContent)
+@(page: Page, introduction: Option[Introduction], content: HtmlContent)
 
 @main(page) {
   @introduction.map { introduction =>

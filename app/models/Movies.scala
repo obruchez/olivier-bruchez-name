@@ -60,7 +60,7 @@ object Movie {
 }
 
 case class Movies(override val introduction: Option[Introduction],
-                  movies: Seq[Movie]) extends Cacheable
+                  override val listItems: Seq[Movie]) extends Cacheable
 
 object Movies extends Fetchable {
   type C = Movies
