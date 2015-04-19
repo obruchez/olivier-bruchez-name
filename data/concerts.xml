@@ -10,6 +10,40 @@
   -->
   <introduction>A list of concerts I attended.</introduction>
   <concert>
+    <date>2015.04.18</date>
+    <location>Chapiteau, Cully, Switzerland</location>
+    <event>Cully Jazz Festival</event>
+    <musician inst="saxophone">Joshua Redman</musician>
+    <musician inst="bass">Reuben Rogers</musician>
+    <musician inst="drums">Gregory Hutchinson</musician>
+    <rating>4.75</rating>
+    <comments/>
+  </concert>
+  <concert>
+    <date>2015.04.18</date>
+    <location>Chapiteau, Cully, Switzerland</location>
+    <event>Cully Jazz Festival</event>
+    <group>Daniel Humair "Sweet &amp; Sour" Quartet</group>
+    <musician inst="drums" leader="true">Daniel Humair</musician>
+    <musician inst="accordion">Vincent Peirani</musician>
+    <musician inst="soprano saxophone">Emile Parisien</musician>
+    <musician inst="bass">Bruno Chevillon</musician>
+    <rating>4.75</rating>
+    <comments/>
+  </concert>
+  <concert>
+    <date>2015.04.18</date>
+    <location>Chapiteau, Cully, Switzerland</location>
+    <event>Cully Jazz Festival</event>
+    <group>BOUNCE</group>
+    <musician inst="saxophone">Jonathan Maag</musician>
+    <musician inst="trumpet, bugle">Julian Hesse</musician>
+    <musician inst="bass">Andrey A. Tatarinets</musician>
+    <musician inst="drums">Domi Chansorn</musician>
+    <rating>4.25</rating>
+    <comments/>
+  </concert>
+  <concert>
     <date>2015.04.13</date>
     <location>Chapiteau, Cully, Switzerland</location>
     <event>Cully Jazz Festival</event>
