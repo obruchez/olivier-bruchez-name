@@ -32,7 +32,7 @@ object Application extends Controller {
       nonEmptyListItems = allListItems.filter(_.listItems.nonEmpty)
       tweets <- tweetsFuture
     } yield {
-      Ok(views.html.home(tweets.introduction, nonEmptyListItems.sortBy(_.fetchable.name)))
+      Ok(views.html.home(HtmlContent.fromNonHtmlString(tweets.profile), nonEmptyListItems.sortBy(_.fetchable.name)))
     }
   }
 

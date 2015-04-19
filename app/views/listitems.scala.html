@@ -7,7 +7,7 @@
     <table class="table">
       <tbody>
         @listItems.listItems.map { listItem =>
-          <tr><td>@listItem.date.yyyymmddString - <a href="@listItem.itemUrl">@listItem.shortRepresentation.html</a></td></tr>
+          <tr><td><a href="@listItem.itemUrl">@listItem.date.yyyymmddString</a> - @listItem.shortRepresentation.html</td></tr>
         }
       </tbody>
     </table>

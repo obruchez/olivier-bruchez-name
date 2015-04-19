@@ -1,25 +1,24 @@
-@import models.Introduction
-
-@(introduction: Option[Introduction], listItems: Seq[ListItems])
+@(twitterProfile: HtmlContent, listItems: Seq[ListItems])
 
 @main(Sitemap.home) {
-  <h1>About me</h1>
+  <div class="headline"><h2>About me</h2></div>
 
-  Here's my Twitter profile:
+  <p>Here's my Twitter bio:</p>
 
-  @introduction.map { introduction =>
-    @views.html.introduction {
-      @introduction.fullVersion.html
-    }
-  }
+  @views.html.introduction { <p><em>@twitterProfile.html</em></p> }
 
-  <h1>What I have done lately?</h1>
+  <p>
+    You can find more information about me on the <a href="@routes.Application.profile()">Profile</a> page or in
+    my <a href="@routes.Application.pdfCv()">CV / résumé</a>.
+  </p>
+
+  <div class="headline"><h2>What have I done lately?</h2></div>
 
   @listItems.grouped(3).map { listItemsGroup =>
     <div class="col-md-12">
-      <div class="col-md-4">@listItemsGroup.lift(0).map { listItems => @views.html.listitems(listItems) }</div>
-      <div class="col-md-4">@listItemsGroup.lift(1).map { listItems => @views.html.listitems(listItems) }</div>
-      <div class="col-md-4">@listItemsGroup.lift(2).map { listItems => @views.html.listitems(listItems) }</div>
+      @for(column <- 0 to 2) {
+        <div class="col-md-4">@listItemsGroup.lift(column).map { listItems => @views.html.listitems(listItems) }</div>
+      }
     </div>
   }
 }
