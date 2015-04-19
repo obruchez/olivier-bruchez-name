@@ -31,5 +31,8 @@ object Date {
 
     def year: Option[Int] =
       Try(readablePartial.get(DateTimeFieldType.year())).toOption
+
+    def emptyDate: Boolean =
+      readablePartial.size() == 0
   }
 }

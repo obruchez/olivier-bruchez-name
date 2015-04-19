@@ -6,6 +6,7 @@ import org.joda.time.Partial
 import scala.util.Try
 import scala.xml.{Node, XML}
 import util._
+import util.Date._
 
 case class BookNotes(description: Option[String], url: URL, slug: String) {
   def fileSource: FileSource =
@@ -35,7 +36,8 @@ case class Book(override val date: Partial,
                 url: URL,
                 notes: Option[BookNotes],
                 override val itemSlug: Option[String] = None,
-                override val itemUrl: Option[String] = None)
+                override val itemUrl: Option[String] = None,
+                override val next: Boolean = false)
     extends ListItem(date, HtmlContent.fromNonHtmlString(s"$author - $title"), itemSlug, itemUrl) {
   type T = Book
 
@@ -93,6 +95,16 @@ object Books extends Fetchable {
     val introduction = Parsing.introductionFromNode(booksNode).get
     val booksSeq = (booksNode \\ "book").map(Book(_).get)
 
-    Books(introduction, booksSeq.withSlugs)
+    Books(introduction, withNextFlags(booksSeq.withSlugs))
+  }
+
+  // Move this to ListItem (or new trait) if used by other types of list items
+  def withNextFlags(books: Seq[Book]): Seq[Book] = {
+    val headItemWithNoDateCount = books.takeWhile(_.date.emptyDate).size
+
+    for {
+      (book, index) <- books.zipWithIndex
+      next = index < headItemWithNoDateCount
+    } yield book.copy(next = next)
   }
 }

@@ -7,8 +7,11 @@ import util.Slug
 abstract class ListItem(val date: ReadablePartial,
                         val shortRepresentation: HtmlContent,
                         val itemSlug: Option[String],
-                        val itemUrl: Option[String]) {
+                        val itemUrl: Option[String],
+                        val next: Boolean = false) {
   type T <: ListItem
+
+  def noDate: Boolean = date.emptyDate
 
   def withSlug(slug: Option[String]): T
   def withUrl(url: Option[String]): T
