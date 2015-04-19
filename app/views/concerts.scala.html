@@ -30,7 +30,7 @@
   @defining(listItem.asInstanceOf[Concert]) { concert =>
     <tr>
       <td>@sluganddate(concert)</td>
-      <td>@musicians(concert.band, concert.musicians)</td>
+      <td><p>@musicians(concert.band, concert.musicians)</p></td>
       <td>@concert.location</td>
       <td>@concert.event.getOrElse("")</td>
       <td>@views.html.rating(concert.rating)</td>
