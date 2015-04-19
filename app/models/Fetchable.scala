@@ -27,7 +27,7 @@ trait Cacheable {
   }
 
   def latestItems(fetchable: Fetchable, count: Int): ListItems =
-    ListItems(listItems.take(count), fetchable)
+    ListItems(listItems.filterNot(_.next).take(count), fetchable)
 }
 
 trait Fetchable {

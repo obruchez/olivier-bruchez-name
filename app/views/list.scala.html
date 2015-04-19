@@ -12,7 +12,9 @@
         <section id="@tableSlug">
           <i class="fa fa-calendar"></i>
           <span class="panel-year">@tableTitle</span>
-          <span class="pull-right"><span class="badge rounded-2x badge-dark panel-count">@items.size</span></span>
+          @if(items.filterNot(_.next).nonEmpty) {
+            <span class="pull-right"><span class="badge rounded-2x badge-dark panel-count">@items.size</span></span>
+          }
         </section>
       </div>
       <table class="table table-bordered table-striped">
@@ -30,7 +32,7 @@
 @main(page) {
   @cacheable.introduction.map { introduction =>
     @views.html.introduction {
-      @introduction.fullVersion.html <span class="badge rounded-2x badge-dark pull-right">@cacheable.listItems.size</span>
+      @introduction.fullVersion.html <span class="badge rounded-2x badge-dark pull-right">@cacheable.listItems.filterNot(_.next).size</span>
     }
   }
   @defining(cacheable.listItems.partition(_.next)) { case (nextItems, normalItems) =>
