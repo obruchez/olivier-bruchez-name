@@ -13,7 +13,7 @@
     <date>2015.04.18</date>
     <location>Chapiteau, Cully, Switzerland</location>
     <event>Cully Jazz Festival</event>
-    <musician inst="saxophone">Joshua Redman</musician>
+    <musician inst="saxophone" leader="true">Joshua Redman</musician>
     <musician inst="bass">Reuben Rogers</musician>
     <musician inst="drums">Gregory Hutchinson</musician>
     <rating>4.75</rating>
