@@ -13,7 +13,7 @@ case class Crash(override val date: Partial,
                  comments: Option[HtmlContent],
                  override val itemSlug: Option[String] = None,
                  override val itemUrl: Option[String] = None)
-    extends ListItem(date, s"$manufacturer - $model", itemSlug, itemUrl) {
+    extends ListItem(date, HtmlContent.fromNonHtmlString(s"$manufacturer - $model"), itemSlug, itemUrl) {
   type T = Crash
 
   override def withSlug(slug: Option[String]): Crash = copy(itemSlug = slug)

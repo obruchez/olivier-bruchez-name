@@ -24,7 +24,7 @@
 @main(page = controllers.Sitemap.profile) {
   @profile.introduction.map { introduction =>
     @views.html.introduction {
-      <p>@Html(introduction.fullVersion.string)</p>
+      <p>@introduction.fullVersion.html</p>
     }
   }
   <div class="col-md-6">

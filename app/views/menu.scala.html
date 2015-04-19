@@ -11,7 +11,7 @@
         <div class="service-block service-block-u rounded-2x">
           <i class="icon-custom icon-color-light rounded-x fa @page.icon.getOrElse("")"></i>
           <h2 class="heading-md"><a href="@page.url">@page.title</a></h2>
-          @introduction.map { introduction => <p><a href="@page.url">@Html(introduction.shortVersion.string)</a></p> }
+          @introduction.map { introduction => <p><a href="@page.url">@introduction.shortVersion.html</a></p> }
         </div>
       </div>
     }

@@ -19,7 +19,7 @@ case class Play(override val date: Partial,
                 comments: Option[HtmlContent],
                 override val itemSlug: Option[String] = None,
                 override val itemUrl: Option[String] = None)
-    extends ListItem(date, s"$name - $location", itemSlug, itemUrl) {
+    extends ListItem(date, HtmlContent.fromNonHtmlString(s"$name - $location"), itemSlug, itemUrl) {
   type T = Play
 
   override def withSlug(slug: Option[String]): Play = copy(itemSlug = slug)

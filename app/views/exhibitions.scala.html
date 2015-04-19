@@ -17,7 +17,7 @@
       <td>@exhibition.name</td>
       <td>@exhibition.museum</td>
       <td>@views.html.rating(exhibition.rating)</td>
-      <td>@Html(exhibition.comments.fold("")(_.string))</td>
+      <td>@exhibition.comments.fold(Html(""))(_.html)</td>
     </tr>
   }
 }

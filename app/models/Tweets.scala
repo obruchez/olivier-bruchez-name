@@ -11,7 +11,7 @@ case class Tweet(override val date: ReadablePartial,
                  reply: Boolean,
                  override val itemSlug: Option[String] = None,
                  override val itemUrl: Option[String] = None)
-    extends ListItem(date, s"$content", itemSlug, itemUrl) {
+    extends ListItem(date, HtmlContent.fromNonHtmlString(s"$content"), itemSlug, itemUrl) {
   type T = Tweet
 
   override def withSlug(slug: Option[String]): Tweet = copy(itemSlug = slug)
@@ -28,7 +28,10 @@ object Tweet {
 }
 
 case class Tweets(profile: String, override val listItems: Seq[Tweet]) extends Cacheable {
-  override def introduction: Option[Introduction] = Some(Introduction(profile))
+  override val introduction = Some(Introduction(profile))
+
+  override def latestItems(fetchable: Fetchable, count: Int): ListItems =
+    ListItems(listItems.filterNot(_.reply).take(count), fetchable)
 }
 
 object Tweets extends Fetchable {

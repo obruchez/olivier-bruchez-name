@@ -14,7 +14,11 @@ case class Trip(from: Partial,
                 pictures: Seq[Pictures],
                 override val itemSlug: Option[String] = None,
                 override val itemUrl: Option[String] = None)
-    extends ListItem(from, s"${from.yyyymmddString}-${to.yyyymmddString}: $place", itemSlug, itemUrl) {
+    extends ListItem(
+      to,
+      HtmlContent.fromNonHtmlString(s"${from.yyyymmddString}-${to.yyyymmddString}: $place"),
+      itemSlug,
+      itemUrl) {
   type T = Trip
 
   override def withSlug(slug: Option[String]): Trip = copy(itemSlug = slug)

@@ -15,7 +15,7 @@
       <td>@sluganddate(crash)</td>
       <td>@crash.manufacturer</td>
       <td>@crash.model</td>
-      <td>@Html(crash.comments.fold("")(_.string))</td>
+      <td>@crash.comments.fold(Html(""))(_.html)</td>
     </tr>
   }
 }

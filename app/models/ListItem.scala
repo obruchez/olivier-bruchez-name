@@ -5,7 +5,7 @@ import util.Date._
 import util.Slug
 
 abstract class ListItem(val date: ReadablePartial,
-                        val shortRepresentation: String,
+                        val shortRepresentation: HtmlContent,
                         val itemSlug: Option[String],
                         val itemUrl: Option[String]) {
   type T <: ListItem

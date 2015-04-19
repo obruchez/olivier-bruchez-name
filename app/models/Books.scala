@@ -36,7 +36,7 @@ case class Book(override val date: Partial,
                 notes: Option[BookNotes],
                 override val itemSlug: Option[String] = None,
                 override val itemUrl: Option[String] = None)
-    extends ListItem(date, s"$author - $title", itemSlug, itemUrl) {
+    extends ListItem(date, HtmlContent.fromNonHtmlString(s"$author - $title"), itemSlug, itemUrl) {
   type T = Book
 
   override def withSlug(slug: Option[String]): Book = copy(itemSlug = slug)

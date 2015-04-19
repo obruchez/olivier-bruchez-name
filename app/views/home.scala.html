@@ -3,17 +3,23 @@
 @(introduction: Option[Introduction], listItems: Seq[ListItems])
 
 @main(Sitemap.home) {
+  <h1>About me</h1>
+
+  Here's my Twitter profile:
+
   @introduction.map { introduction =>
     @views.html.introduction {
-      @Html(introduction.fullVersion.string)
+      @introduction.fullVersion.html
     }
   }
 
-  <!--@@listItems.groupBy(3).map {} -->
+  <h1>What I have done lately?</h1>
 
-  <div>
-    <div class="col-md-4">@views.html.listitems(listItems(0))</div>
-    <div class="col-md-4">@views.html.listitems(listItems(1))</div>
-    <div class="col-md-4"></div>
-  </div>
+  @listItems.grouped(3).map { listItemsGroup =>
+    <div class="col-md-12">
+      <div class="col-md-4">@listItemsGroup.lift(0).map { listItems => @views.html.listitems(listItems) }</div>
+      <div class="col-md-4">@listItemsGroup.lift(1).map { listItems => @views.html.listitems(listItems) }</div>
+      <div class="col-md-4">@listItemsGroup.lift(2).map { listItems => @views.html.listitems(listItems) }</div>
+    </div>
+  }
 }

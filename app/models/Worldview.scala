@@ -5,13 +5,14 @@ import org.joda.time.Partial
 import scala.util.Try
 import scala.xml.{Node, XML}
 import util._
+import util.Date._
 
 case class WorldviewPosition(summary: HtmlContent,
                              details: HtmlContent,
                              dateAdded: Partial,
                              override val itemSlug: Option[String] = None,
                              override val itemUrl: Option[String] = None)
-    extends ListItem(dateAdded, s"$summary", itemSlug, itemUrl) {
+    extends ListItem(dateAdded, summary, itemSlug, itemUrl) {
   type T = WorldviewPosition
 
   override def withSlug(slug: Option[String]): WorldviewPosition = copy(itemSlug = slug)
@@ -44,7 +45,7 @@ object WorldviewCategory {
 case class Worldview(override val introduction: Option[Introduction],
                      worldviewCategories: Seq[WorldviewCategory],
                      references: Seq[HtmlContent]) extends Cacheable {
-  override val listItems = worldviewCategories.flatMap(_.worldviewPositions)
+  override val listItems = worldviewCategories.flatMap(_.worldviewPositions).sortBy(_.dateAdded.yyyymmddString).reverse
 }
 
 object Worldview extends Fetchable {

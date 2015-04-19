@@ -15,7 +15,7 @@ object Parsing {
     } yield introductionAsHtmlTry.get
 
     val shortVersionOption = introductions.headOption
-    val fullVersion = HtmlContent(string = introductions.map(_.string).mkString(" "))
+    val fullVersion = HtmlContent.fromHtmlString(introductions.map(_.htmlString).mkString(" "))
 
     shortVersionOption.map(shortVersion => Introduction(shortVersion = shortVersion, fullVersion = fullVersion))
   }

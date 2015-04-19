@@ -3,7 +3,7 @@
 @main(page = controllers.Sitemap.worldview) {
   @worldview.introduction.map { introduction =>
     @views.html.introduction {
-      <p>@Html(introduction.fullVersion.string)</p>
+      <p>@introduction.fullVersion.html</p>
     }
   }
 
@@ -19,12 +19,12 @@
           <ul class="list-unstyled">
           @worldview.worldviewCategories.zipWithIndex.map { case (worldviewCategory, index) =>
             <li>
-              <a href="#@worldviewCategory.slug">@{index + 1} @Html(worldviewCategory.description.string)</a>
+              <a href="#@worldviewCategory.slug">@{index + 1} @worldviewCategory.description.html</a>
               <ul class="list-unstyled">
               @worldviewCategory.worldviewPositions.zipWithIndex.map { case (worldviewPosition, subIndex) =>
                 @worldviewPosition.itemSlug match {
-                  case Some(slug) => { <li><a href="#@slug">@{index + 1}.@{subIndex + 1} @Html(worldviewPosition.summary.string)</a></li> }
-                  case None => { <li>@{index + 1}.@{subIndex + 1} @Html(worldviewPosition.summary.string)</li> }
+                  case Some(slug) => { <li><a href="#@slug">@{index + 1}.@{subIndex + 1} @worldviewPosition.summary.html</a></li> }
+                  case None => { <li>@{index + 1}.@{subIndex + 1} @worldviewPosition.summary.html</li> }
                 }
               }
               </ul>
@@ -38,10 +38,10 @@
 
   @worldview.worldviewCategories.map { worldviewCategory =>
     <div class="worldview-category">
-      <section id="@worldviewCategory.slug"><h2>@Html(worldviewCategory.description.string)</h2></section>
+      <section id="@worldviewCategory.slug"><h2>@worldviewCategory.description.html</h2></section>
       @worldviewCategory.worldviewPositions.map { worldviewPosition =>
-        @views.html.contentbox(slug = worldviewPosition.itemSlug, title = Some(Html(worldviewPosition.summary.string))) {
-          <p>@Html(worldviewPosition.details.string)</p>
+        @views.html.contentbox(slug = worldviewPosition.itemSlug, title = Some(worldviewPosition.summary.html)) {
+          <p>@worldviewPosition.details.html</p>
         }
       }
     </div>
@@ -51,7 +51,7 @@
     <section id="references"><h2>Références</h2></section>
     <ul class="list-unstyled">
       @worldview.references.map { reference =>
-        <li>@Html(reference.string)</li>
+        <li>@reference.html</li>
       }
     </ul>
   </div>

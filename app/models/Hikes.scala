@@ -12,7 +12,7 @@ case class Hike(override val date: Partial,
                 pictures: Seq[Pictures],
                 override val itemSlug: Option[String] = None,
                 override val itemUrl: Option[String] = None)
-    extends ListItem(date, s"$place", itemSlug, itemUrl) {
+    extends ListItem(date, HtmlContent.fromNonHtmlString(s"$place"), itemSlug, itemUrl) {
   type T = Hike
 
   override def withSlug(slug: Option[String]): Hike = copy(itemSlug = slug)

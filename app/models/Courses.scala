@@ -33,7 +33,7 @@ case class Course(override val date: Partial,
                   certificate: Option[CourseCertificate],
                   override val itemSlug: Option[String] = None,
                   override val itemUrl: Option[String] = None)
-    extends ListItem(date, s"$name", itemSlug, itemUrl) {
+    extends ListItem(date, HtmlContent.fromNonHtmlString(s"$name"), itemSlug, itemUrl) {
   type T = Course
 
   override def withSlug(slug: Option[String]): Course = copy(itemSlug = slug)

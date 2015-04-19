@@ -5,10 +5,10 @@
 @main(page) {
   @introduction.map { introduction =>
     @views.html.introduction {
-      @Html(introduction.fullVersion.string)
+      @introduction.fullVersion.html
     }
   }
   <div class="markdown">
-    @Html(content.string)
+    @content.html
   </div>
 }

@@ -24,7 +24,7 @@ case class Movie(override val date: Partial,
                  url: Option[URL],
                  override val itemSlug: Option[String] = None,
                  override val itemUrl: Option[String] = None)
-    extends ListItem(date, s"$director - $title", itemSlug, itemUrl) {
+    extends ListItem(date, HtmlContent.fromNonHtmlString(s"$director - $title"), itemSlug, itemUrl) {
   type T = Movie
 
   override def withSlug(slug: Option[String]): Movie = copy(itemSlug = slug)

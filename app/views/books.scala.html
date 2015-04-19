@@ -22,7 +22,7 @@
       <td>@book.subtitle.getOrElse("")</td>
       <td>@book.year</td>
       <td>@views.html.rating(book.rating)</td>
-      <td>@Html(book.comments.fold("")(_.string))</td>
+      <td>@book.comments.fold(Html(""))(_.html)</td>
       <td>@book.notes.map { notes =>
         <a href="@routes.BookNotesController.bookNotes(notes.slug)">@notes.description.getOrElse(BookNotes.DefaultDescription)</a>
       }</td>

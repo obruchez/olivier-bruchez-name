@@ -29,7 +29,7 @@
 @main(page) {
   @cacheable.introduction.map { introduction =>
     @views.html.introduction {
-      @Html(introduction.fullVersion.string) <span class="badge rounded-2x badge-dark pull-right">@cacheable.listItems.size</span>
+      @introduction.fullVersion.html <span class="badge rounded-2x badge-dark pull-right">@cacheable.listItems.size</span>
     }
   }
   @cacheable.listItems.groupBy(_.date.year).toSeq.sortBy(_._1).reverseMap { case (yearOption, itemsForYear) =>

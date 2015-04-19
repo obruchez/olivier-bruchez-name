@@ -6,7 +6,7 @@ object Sitemap {
   // @todo better icon for hikes: https://cdn2.iconfinder.com/data/icons/vacation-landmarks/512/12-512.png
   // @todo better icon for plays: https://cdn0.iconfinder.com/data/icons/huge-basic-icons-part-3/512/Theater_symbol.png
 
-  val home = Page("Home", routes.Application.home().url, Some("fa-home"), fetchables = Seq(Tweets))
+  val home = Page("Home", routes.Application.home().url, Some("fa-home"))
 
   val profile = Page(Profile, routes.Application.profile())
   val lifePrinciples = Page(LifePrinciples, routes.Application.lifePrinciples())
@@ -64,6 +64,8 @@ object Sitemap {
     url = "",
     children = Seq(home, about, lifelogging, votes, cv, contacts))
 
+  val fetchablesWithoutPage = Seq(Tweets)
+
   def pageByUrl(url: String): Option[Page] = {
     def pageByUrl(pageToTest: Page): Option[Page] =
       if (pageToTest.url == url)
@@ -79,10 +81,13 @@ object Sitemap {
     pageByUrl(root)
   }
 
-  def fetchables: Seq[Fetchable] = {
-    def fetchable(page: Page): Seq[Fetchable] =
-      page.fetchables ++ page.children.flatMap(fetchable)
+  def fetchables: Seq[Fetchable] =
+    (allPages.flatMap(_.fetchables) ++ fetchablesWithoutPage).distinct
 
-    fetchable(root).distinct
+  def allPages: Seq[Page] = {
+    def currentAndChildren(page: Page): Seq[Page] =
+      page +: page.children.flatMap(currentAndChildren)
+
+    currentAndChildren(root).distinct
   }
 }

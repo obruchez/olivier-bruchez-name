@@ -34,7 +34,11 @@ case class Concert(override val date: Partial,
                    comments: Option[HtmlContent],
                    override val itemSlug: Option[String] = None,
                    override val itemUrl: Option[String] = None)
-    extends ListItem(date, s"${Musician.musicians(band, musicians)} - $location", itemSlug, itemUrl) {
+    extends ListItem(
+      date,
+      HtmlContent.fromNonHtmlString(s"${Musician.musicians(band, musicians)} - $location"),
+      itemSlug,
+      itemUrl) {
   type T = Concert
 
   override def withSlug(slug: Option[String]): Concert = copy(itemSlug = slug)

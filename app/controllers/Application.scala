@@ -6,19 +6,33 @@ import models.ListItems._
 import play.api.libs.concurrent.Execution.Implicits._
 import play.api.mvc._
 import models.{ PdfCv, WordCv }
+import scala.concurrent.Future
 
 object Application extends Controller {
   def home = Action.async {
+    val MaxItemCount = 5
+
+    val tweetsFuture = Cache.get(Tweets)
+
+    val allListItemsFuture = Future.sequence {
+      val listItemsFromPages =
+        for {
+          page <- Sitemap.allPages
+          if page.fetchables.size == 1
+          fetchable <- page.fetchables
+        } yield Cache.get(fetchable).map(_.latestItems(fetchable, page, count = MaxItemCount))
+
+      val extraListItems = Seq(tweetsFuture.map(_.latestItems(Tweets, count = MaxItemCount)))
+
+      listItemsFromPages ++ extraListItems
+    }
+
     for {
-      tweets <- Cache.get(Tweets)
-      books <- Cache.get(Books)
+      allListItems <- allListItemsFuture
+      nonEmptyListItems = allListItems.filter(_.listItems.nonEmpty)
+      tweets <- tweetsFuture
     } yield {
-      Ok(views.html.home(
-        tweets.introduction,
-        Seq(
-          // @todo clean this
-          ListItems(tweets.listItems.filter(!_.reply).take(5), Tweets),
-          ListItems(books.listItems.take(5).withUrls(Sitemap.books), Books))))
+      Ok(views.html.home(tweets.introduction, nonEmptyListItems.sortBy(_.fetchable.name)))
     }
   }
 
