@@ -73,3 +73,32 @@
     margin-left: 3px;
     font-size: 80%;
 }
+
+.header-link {
+    position: absolute;
+    opacity: 0;
+    color: black;
+
+    -webkit-transition: opacity 0.2s ease-in-out 0.1s;
+    -moz-transition: opacity 0.2s ease-in-out 0.1s;
+    -ms-transition: opacity 0.2s ease-in-out 0.1s;
+}
+
+.head-link-table-row {
+    margin-left: -26px;
+}
+
+.head-link-table-title {
+    margin-left: -35px;
+}
+
+.panel-title:hover .header-link,
+tr:hover .header-link,
+h2:hover .header-link,
+h3:hover .header-link,
+h4:hover .header-link,
+h5:hover .header-link,
+h6:hover .header-link {
+    opacity: 1;
+    color: black;
+}
