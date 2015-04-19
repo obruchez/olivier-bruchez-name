@@ -2,11 +2,6 @@
 
 Pretty much everything from [Les cent livres du siècle](https://fr.wikipedia.org/wiki/Les_cent_livres_du_si%C3%A8cle). See also [Quels sont les classiques littéraires à lire absolument ?](https://fr.answers.yahoo.com/question/index?qid=20111112161815AAh5LUy), [100 Books to Read in a Lifetime](http://www.amazon.com/b?node=8192263011) and many other similar lists.
 
-## Currently reading
-
-* Ben Goldacre, ["Bad Pharma"](https://en.wikipedia.org/wiki/Bad_Pharma)
-* (H.P. Lovecraft, ["The Complete Works of H.P. Lovecraft"](https://www.goodreads.com/book/show/11851522-the-complete-works-of-h-p-lovecraft))
-
 ## Business / entrepreneurship
 
 * Jason Fried, ["Rework"](http://www.amazon.com/ReWork-Change-Way-Work-Forever-ebook/dp/B003ELY7PG/) (mentioned by [@epsitec](https://twitter.com/epsitec))

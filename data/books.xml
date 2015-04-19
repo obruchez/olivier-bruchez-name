@@ -2,6 +2,14 @@
 <books>
     <introduction>A list of books I read.</introduction>
     <book>
+        <date></date>
+        <title>Bad Pharma</title>
+        <author>Ben Goldacre</author>
+        <publishingyear>2012</publishingyear>
+        <rating></rating>
+        <url>https://en.wikipedia.org/wiki/Bad_Pharma</url>
+    </book>
+    <book>
         <date>2015.03.24</date>
         <title>Stupeur et Tremblements</title>
         <author>Amélie Nothomb</author>
