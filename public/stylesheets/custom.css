@@ -79,9 +79,9 @@
     opacity: 0;
     color: black;
 
-    -webkit-transition: opacity 0.2s ease-in-out 0.1s;
-    -moz-transition: opacity 0.2s ease-in-out 0.1s;
-    -ms-transition: opacity 0.2s ease-in-out 0.1s;
+    -webkit-transition: opacity 0.1s ease-in-out 0.1s;
+    -moz-transition: opacity 0.1s ease-in-out 0.1s;
+    -ms-transition: opacity 0.1s ease-in-out 0.1s;
 }
 
 .head-link-table-row {
@@ -93,7 +93,7 @@
 }
 
 .panel-title:hover .header-link,
-tr:hover .header-link,
+td:hover .header-link,
 h2:hover .header-link,
 h3:hover .header-link,
 h4:hover .header-link,
