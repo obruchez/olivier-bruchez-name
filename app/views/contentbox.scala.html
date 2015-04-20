@@ -1,26 +1,28 @@
 @(slug: Option[String], title: Option[Html], titleLink: Option[String] = None)(content: Html)
 
-@titleWithLink = {
-  @titleLink match {
-    case Some(titleLink) => {
-      <h3><a href="@titleLink">@title</a></h3>
-    }
-    case None => {
-      <h3>@title</h3>
-    }
+@anchorLinkInTitle = {
+  @slug match {
+    case Some(slug) => { <a href="#@slug" class="header-link head-link-content-box"><i class="fa fa-link"></i></a> }
+    case None => {}
   }
+}
+
+@titleWithLink = {
+  <h3>
+    @anchorLinkInTitle
+    @titleLink match {
+      case Some(titleLink) => { <a href="@titleLink">@title</a> }
+      case None => { @title }
+    }
+  </h3>
 }
 
 <div class="tag-box tag-box-v3 box-shadow shadow-effect-1 contentbox">
   @title.map { title =>
     <div class="headline">
       @slug match {
-        case Some(slug) => {
-          <section id="@slug">@titleWithLink</section>
-        }
-        case None => {
-          @titleWithLink
-        }
+        case Some(slug) => { <section id="@slug">@titleWithLink</section> }
+        case None => { @titleWithLink }
       }
     </div>
   }

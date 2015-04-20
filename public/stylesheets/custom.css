@@ -92,6 +92,10 @@
     margin-left: -35px;
 }
 
+.head-link-content-box {
+    margin-left: -45px;
+}
+
 .panel-title:hover .header-link,
 td:hover .header-link,
 h2:hover .header-link,
