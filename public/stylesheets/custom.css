@@ -55,14 +55,14 @@
     padding: 6px;
 }
 
+.listitems h3 a, .markdown h2 a {
+    /* @todo this should depend on the theme */
+    color: #555;
+}
+
 .markdown li a {
     /* @todo this should depend on the theme */
     color: #18ba9b;
-}
-
-.markdown h2 a {
-    /* @todo this should depend on the theme */
-    color: #555;
 }
 
 .rating {

@@ -1,6 +1,7 @@
 package controllers
 
 import models._
+import util.Configuration
 
 object Sitemap {
   // @todo better icon for hikes: https://cdn2.iconfinder.com/data/icons/vacation-landmarks/512/12-512.png
@@ -64,7 +65,14 @@ object Sitemap {
     url = "",
     children = Seq(home, about, lifelogging, votes, cv, contacts))
 
-  val fetchablesWithoutPage = Seq(Tweets)
+  val twitter = Page(
+    title = "Twitter",
+    url = Tweets.sourceUrl.toString,
+    icon = Tweets.icon,
+    fetchables = Seq(Tweets),
+    children = Seq())
+
+  val nonRootPages = Seq(twitter)
 
   def pageByUrl(url: String): Option[Page] = {
     def pageByUrl(pageToTest: Page): Option[Page] =
@@ -82,12 +90,12 @@ object Sitemap {
   }
 
   def fetchables: Seq[Fetchable] =
-    (allPages.flatMap(_.fetchables) ++ fetchablesWithoutPage).distinct
+    allPages.flatMap(_.fetchables).distinct
 
   def allPages: Seq[Page] = {
     def currentAndChildren(page: Page): Seq[Page] =
       page +: page.children.flatMap(currentAndChildren)
 
-    currentAndChildren(root).distinct
+    (currentAndChildren(root) ++ nonRootPages).distinct
   }
 }

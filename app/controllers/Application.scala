@@ -12,27 +12,22 @@ object Application extends Controller {
   def home = Action.async {
     val MaxItemCount = 5
 
-    val tweetsFuture = Cache.get(Tweets)
-
     val allListItemsFuture = Future.sequence {
-      val listItemsFromPages =
-        for {
-          page <- Sitemap.allPages
-          if page.fetchables.size == 1
-          fetchable <- page.fetchables
-        } yield Cache.get(fetchable).map(_.latestItems(fetchable, page, count = MaxItemCount))
-
-      val extraListItems = Seq(tweetsFuture.map(_.latestItems(Tweets, count = MaxItemCount)))
-
-      listItemsFromPages ++ extraListItems
+      for {
+        page <- Sitemap.allPages
+        if page.fetchables.size == 1
+        fetchable <- page.fetchables
+      } yield {
+        Cache.get(fetchable).map(_.latestItems(fetchable, page, count = MaxItemCount)).map(_ -> page)
+      }
     }
 
     for {
       allListItems <- allListItemsFuture
-      nonEmptyListItems = allListItems.filter(_.listItems.nonEmpty)
-      tweets <- tweetsFuture
+      nonEmptyListItems = allListItems.filter(_._1.listItems.nonEmpty)
+      tweets <- Cache.get(Tweets)
     } yield {
-      Ok(views.html.home(HtmlContent.fromNonHtmlString(tweets.profile), nonEmptyListItems.sortBy(_.fetchable.name)))
+      Ok(views.html.home(HtmlContent.fromNonHtmlString(tweets.profile), nonEmptyListItems.sortBy(_._1.fetchable.name)))
     }
   }
 

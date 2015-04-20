@@ -1,9 +1,9 @@
-@(listItems: ListItems)
+@(listItems: ListItems, page: Page)
 
 @import util.Date._
 
 <div class="listitems">
-  @views.html.contentbox(slug = None, title = Some(Html(listItems.fetchable.name))) {
+  @views.html.contentbox(slug = None, title = Some(Html(listItems.fetchable.name)), titleLink = Some(page.url)) {
     <table class="table">
       <tbody>
         @listItems.listItems.map { listItem =>

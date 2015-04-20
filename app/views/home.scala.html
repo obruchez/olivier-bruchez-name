@@ -1,4 +1,4 @@
-@(twitterProfile: HtmlContent, listItems: Seq[ListItems])
+@(twitterProfile: HtmlContent, listItemsWithPages: Seq[(ListItems, Page)])
 
 @main(Sitemap.home) {
   <div class="headline"><h2>About me</h2></div>
@@ -14,10 +14,14 @@
 
   <div class="headline"><h2>What have I done lately?</h2></div>
 
-  @listItems.grouped(3).map { listItemsGroup =>
+  @listItemsWithPages.grouped(3).map { listItemsWithPagesGroup =>
     <div class="col-md-12">
       @for(column <- 0 to 2) {
-        <div class="col-md-4">@listItemsGroup.lift(column).map { listItems => @views.html.listitems(listItems) }</div>
+        <div class="col-md-4">
+          @listItemsWithPagesGroup.lift(column).map { case (listItems, page) =>
+            @views.html.listitems(listItems, page)
+          }
+        </div>
       }
     </div>
   }
