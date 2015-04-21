@@ -28,6 +28,7 @@ object Tweet {
 }
 
 case class Tweets(profile: String, override val listItems: Seq[Tweet]) extends Cacheable {
+  override val listItemUrlsFromListItemSlugs = false
   override def latestItems(fetchable: Fetchable, count: Int): ListItems =
     ListItems(listItems.filterNot(_.reply).take(count), fetchable)
 }

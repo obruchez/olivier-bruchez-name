@@ -19,11 +19,15 @@ trait Cacheable {
   //def sizeInBytes: Int
   def introduction: Option[Introduction] = None
   def listItems: Seq[ListItem] = Seq()
+  def listItemUrlsFromListItemSlugs: Boolean = true
   def subFetchables: Seq[Fetchable] = Seq()
 
   def latestItems(fetchable: Fetchable, page: Page, count: Int): ListItems = {
     val latestItems = this.latestItems(fetchable, count)
-    latestItems.copy(listItems = latestItems.listItems.withUrls(page))
+    val latestItemsWithUrls =
+      if (listItemUrlsFromListItemSlugs) latestItems.listItems.withUrls(page) else latestItems.listItems
+
+    latestItems.copy(listItems = latestItemsWithUrls)
   }
 
   def latestItems(fetchable: Fetchable, count: Int): ListItems =
