@@ -8,6 +8,14 @@ Pretty much everything from [Les cent livres du siècle](https://fr.wikipedia.or
 
 ## Computer science
 
+* Jon Bentley, ["Programming Pearls"](http://www.amazon.com/Programming-Pearls-2nd-ACM-Press/dp/0201657880/)
+* Thomas Cormen, ["Introduction to Algorithms"](http://www.amazon.com/Introduction-Algorithms-Thomas-Cormen/dp/0072970545/)
+* Eric Evans, ["Domain-Driven Design: Tackling Complexity in the Heart of Software"](http://www.amazon.com/exec/obidos/ASIN/0321125215/domainlanguag-20) (recommended by [@behaghel](https://twitter.com/behaghel))
+* Erich Gamma, etc., ["Design Patterns: Elements of Reusable Object-Oriented Software"](http://www.amazon.com/Design-Patterns-Object-Oriented-Addison-Wesley-Professional/dp/0201633612/)
+* Steve Krug, ["Don't Make Me Think: A Common Sense Approach to Web Usability"](http://www.amazon.com/Dont-Make-Me-Think-Usability/dp/0321344758) (recommended by [@behaghel](https://twitter.com/behaghel)?)
+* F. William Lawvere & Stephen H. Schanuel, ["Conceptual Mathematics: A First Introduction to Categories"](http://www.amazon.com/Conceptual-Mathematics-First-Introduction-Categories/dp/052171916X/)
+* Robert C. Martin, ["Clean Code: A Handbook of Agile Software Craftsmanship"](http://www.amazon.com/gp/product/0132350882)
+* Steve McConnell, ["Code Complete: A Practical Handbook of Software Construction"](http://www.amazon.com/Code-Complete-Practical-Handbook-Construction/dp/0735619670/)
 * Benjamin C. Pierce, ["Types and Programming Languages"](http://www.cis.upenn.edu/~bcpierce/tapl/) (recommended by [@icassina](https://twitter.com/icassina), quite "academic"/complex; see also [code in Scala](https://github.com/ilya-klyuchnikov/tapl-scala))
 * Harold Simmons, ["An Introduction to Category Theory"](http://www.amazon.com/Introduction-Category-Theory-Harold-Simmons/dp/0521283043/) (also recommended by [@icassina](https://twitter.com/icassina)?)
 
@@ -68,9 +76,14 @@ Pretty much everything from [Les cent livres du siècle](https://fr.wikipedia.or
 ## Personal development
 
 * David Allen, ["Getting Things Done"](https://en.wikipedia.org/wiki/Getting_Things_Done) (already read - read again?)
+* David Allen, ["Making It All Work"](http://www.amazon.com/Making-All-Work-Winning-Business/dp/067001995X/)
 * Leo Babauta, ["The One Skill: How Mastering the Art of Letting Go Will Change Your Life"](http://zenhabits.net/lg/) (free book, mentioned by [@avernet](https://twitter.com/avernet))
 * Leo Babauta, ["Zen To Done"](http://www.amazon.com/Zen-Done-Ultimate-Simple-Productivity-ebook/dp/B001970HQU/)
-* FruitfulTime, ["Stop Procrastination Now"](https://dollswithoutheads.files.wordpress.com/2008/10/stop-procrastination-now.pdf) (and I should probably start by now reading this book...)
+* Arvind Devalia, ["Get the Life You Love and Live It"](http://www.amazon.com/Get-Life-You-Love-Live/dp/1905613008/)
+* Jonathan Fields, ["Career Renegade: How to Make a Great Living Doing What You Love"](http://www.amazon.com/Career-Renegade-Great-Living-Doing/dp/0767927419/)
+* P.M. Forni, ["The Thinking Life: How to Thrive in the Age of Distraction"](http://www.amazon.com/The-Thinking-Life-Thrive-Distraction/dp/B008SMFIC2/)
+* FruitfulTime, ["Stop Procrastination Now"](https://dollswithoutheads.files.wordpress.com/2008/10/stop-procrastination-now.pdf) (and I should probably start by not reading this book...)
+* Eckhart Tolle, ["A New Earth"](http://www.amazon.com/New-Earth-Awakening-Purpose-Selection/dp/0452289963/)
 
 ## Philosophy
 
