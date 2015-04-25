@@ -122,6 +122,7 @@ Pretty much everything from [IMDb's Top 250](http://www.imdb.com/chart/top).
 
 * [Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb](http://www.imdb.com/title/tt0057012) (8.6)
 * [Paths of Glory](http://www.imdb.com/title/tt0050825) (8.5)
+* [The Shining](http://www.imdb.com/title/tt0081505/) (8.5) (not sure I've seen the longer cut/original version)
 * [A Clockwork Orange](http://www.imdb.com/title/tt0066921) (8.4) (already seen on DVD)
 * [Full Metal Jacket](http://www.imdb.com/title/tt0093058) (8.4) (already seen on DVD)
 * [2001: A Space Odyssey](http://www.imdb.com/title/tt0062622/) (8.3) (already seen on TV and at the cinema)
