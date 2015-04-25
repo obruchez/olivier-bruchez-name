@@ -1796,6 +1796,18 @@
     <comments></comments>
   </concert>
   <concert>
+    <date>2004.06.26</date>
+    <location>Arena, Genève, Switzerland</location>
+    <musician inst="vocals" leader="true">Florent Pagny</musician>
+    <comments>Musicians unknown.</comments>
+  </concert>
+  <concert>
+    <date>2004.06.26</date>
+    <location>Arena, Genève, Switzerland</location>
+    <musician inst="vocals" leader="true">Natasha St-Pier</musician>
+    <comments>Musicians unknown.</comments>
+  </concert>
+  <concert>
     <date>2004.03.30</date>
     <location>Chapiteau, Cully, Switzerland</location>
     <event>Cully Jazz Festival</event>
