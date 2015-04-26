@@ -87,7 +87,7 @@ object Concerts extends Fetchable {
 
   def commaOrAnd(index: Int, totalCount: Int): String =
     if (index == totalCount - 2)
-      if (totalCount == 2) " and " else ", and"
+      if (totalCount == 2) " and " else ", and "
     else if (index < totalCount - 2)
       ", "
     else
