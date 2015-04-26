@@ -1,5 +1,13 @@
 /* Add here all your css styles (customizations) */
 
+.home blockquote {
+    margin-bottom: 10px;
+}
+
+.home-lists {
+    margin-top: 20px;
+}
+
 .toc-panel ul {
     margin-bottom: 0;
 }
@@ -47,11 +55,16 @@
     border-top-width: 0;
 }
 
-.listitems .contentbox .headline {
+.tag-box {
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.listitems .tag-box .headline {
     margin-bottom: 10px;
 }
 
-.listitems .contentbox .table td {
+.listitems .tag-box .table td {
     padding: 6px;
 }
 
