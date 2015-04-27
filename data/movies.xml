@@ -2,6 +2,14 @@
 <movies>
   <introduction>A list of movies I saw.</introduction>
   <movie>
+    <date>2015.04.26</date>
+    <theater>Galeries, Lausanne</theater>
+    <director>Richard Glatzer &amp; Wash Westmoreland</director>
+    <title>Still Alice</title>
+    <url>http://www.imdb.com/title/tt3316960/</url>
+    <rating>5.0</rating>
+  </movie>
+  <movie>
     <date>2015.04.04</date>
     <theater>Cinétoile Malley Lumières, Lausanne-Prilly</theater>
     <director>Mark Burton &amp; Richard Starzak</director>
