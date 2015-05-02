@@ -10,6 +10,24 @@
     <actor></actor>
   -->
 
+    <play>
+    <date>2015.05.01</date>
+    <location>Salle Charles Apothéloz, Théâtre de Vidy, Lausanne, Switzerland</location>
+    <name>Les particules élémentaires</name>    
+    <author>Michel Houellebecq</author>
+    <director>Julien Gosselin</director>
+    <actor>Guillaume Bachelé</actor>
+    <actor>Joseph Drouet</actor>
+    <actor>Denis Eyriey</actor>
+    <actor>Antoine Ferron</actor>
+    <actor>Noémie Gantier</actor>
+    <actor>Alexandre Lecroc</actor>
+    <actor>Marine de Missolz</actor>
+    <actor>Caroline Mounier</actor>
+    <actor>Victoria Quesnel</actor>
+    <actor>Tiphaine Raffier</actor>
+    <rating>5.0</rating>
+  </play> 
   <play>
     <date>2015.03.13</date>
     <location>Pulloff Théâtres, Lausanne, Switzerland</location>
