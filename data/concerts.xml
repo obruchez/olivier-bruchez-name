@@ -793,7 +793,7 @@
   </concert>
   <concert>
     <date>2010.09.26</date>
-    <location>Arena, Genève, Switzerland</location>
+    <location>Arena, Geneva, Switzerland</location>
     <musician inst="bass, guitar, vocals" leader="true">Sting</musician>
     <musician inst="guitar">Dominic Miller</musician>
     <musician inst="drums, percussions">David Cossin</musician>
@@ -917,7 +917,7 @@
   </concert>
   <concert>
     <date>2010.03.24</date>
-    <location>Arena, Genève, Switzerland</location>
+    <location>Arena, Geneva, Switzerland</location>
     <group>-M-</group>
     <musician inst="guitar, vocals" leader="true">Mathieu Chedid</musician>
     <musician inst="keyboards, vocals">Anna Chedid</musician>
@@ -931,7 +931,7 @@
   </concert>
   <concert>
     <date>2010.03.24</date>
-    <location>Arena, Genève, Switzerland</location>
+    <location>Arena, Geneva, Switzerland</location>
     <musician inst="vocals, drums" leader="true">Ariane Moffat</musician>
     <musician inst="guitar">François Lasserre</musician>
     <musician inst="bass">Frédéric Dupont</musician>
@@ -951,7 +951,7 @@
   </concert>
   <concert>
     <date>2009.11.11</date>
-    <location>Arena, Genève, Switzerland</location>
+    <location>Arena, Geneva, Switzerland</location>
     <musician inst="vocals" leader="true">Olivia Ruiz</musician>
     <musician inst="guitar">Robin Canac</musician>
     <musician inst="accordion">Cécile Camarasa</musician>
@@ -966,7 +966,7 @@
   </concert>
   <concert>
     <date>2009.11.11</date>
-    <location>Arena, Genève, Switzerland</location>
+    <location>Arena, Geneva, Switzerland</location>
     <musician inst="vocals, guitar">Valhère</musician>
     <rating>3.5</rating>
     <comments/>
@@ -1250,7 +1250,7 @@
   </concert>
   <concert>
     <date>2007.09.16</date>
-    <location>Stade de Genève, Genève, Switzerland</location>
+    <location>Stade de Genève, Geneva, Switzerland</location>
     <group>The Police</group>
     <musician inst="bass, vocals">Sting</musician>
     <musician inst="guitar, vocals">Andy Summers</musician>
@@ -1260,7 +1260,7 @@
   </concert>
   <concert>
     <date>2007.09.16</date>
-    <location>Stade de Genève, Genève, Switzerland</location>
+    <location>Stade de Genève, Geneva, Switzerland</location>
     <group>Fictionplane</group>
     <musician inst="bass, vocals">Joe Sumner</musician>
     <musician inst="guitar">Seton Daunt</musician>
@@ -1797,13 +1797,13 @@
   </concert>
   <concert>
     <date>2004.06.26</date>
-    <location>Arena, Genève, Switzerland</location>
+    <location>Arena, Geneva, Switzerland</location>
     <musician inst="vocals" leader="true">Florent Pagny</musician>
     <comments>Musicians unknown.</comments>
   </concert>
   <concert>
     <date>2004.06.26</date>
-    <location>Arena, Genève, Switzerland</location>
+    <location>Arena, Geneva, Switzerland</location>
     <musician inst="vocals" leader="true">Natasha St-Pier</musician>
     <comments>Musicians unknown.</comments>
   </concert>
