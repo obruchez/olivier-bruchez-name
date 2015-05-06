@@ -1808,6 +1808,38 @@
     <comments>Musicians unknown.</comments>
   </concert>
   <concert>
+    <date>2004.05.21</date>
+    <location>Espace Gruyère, Bulle, Switzerland</location>
+    <event>Francomanias</event>
+    <group>-M-</group>
+    <musician inst="guitar, vocals" leader="true">Mathieu Chedid</musician>
+    <musician inst="bass">Vincent Ségal (?)</musician>
+    <musician inst="drums">Cyril Atef (?)</musician>
+    <musician inst="guitar">Sébastien Martel (?)</musician>
+    <musician inst="bass, keyboards, DJ">Shalom (?)</musician>
+  </concert>
+  <concert>
+    <date>2004.05.21</date>
+    <location>Espace Gruyère, Bulle, Switzerland</location>
+    <event>Francomanias</event>
+    <musician inst="vocals" leader="true">Jérémie Kisling</musician>
+    <musician inst="drums">?</musician>
+    <musician inst="bass">?</musician>
+    <musician inst="trumpet">?</musician>
+    <musician inst="keyboards">?</musician>
+    <comments>Musicians unknown.</comments>
+  </concert>
+  <concert>
+    <date>2004.05.21</date>
+    <location>Espace Gruyère, Bulle, Switzerland</location>
+    <event>Francomanias</event>
+    <group>Regard du Nord</group>
+    <musician inst="guitar, vocals">Pierre Berset</musician>
+    <musician inst="guitar, vocals">Matthieu Huwiler</musician>
+    <musician inst="percussions">Thibault Müller</musician>
+    <musician inst="vocals">?</musician>
+  </concert>
+  <concert>
     <date>2004.03.30</date>
     <location>Chapiteau, Cully, Switzerland</location>
     <event>Cully Jazz Festival</event>
