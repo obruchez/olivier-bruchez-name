@@ -2,6 +2,11 @@
 <shows>
   <introduction>A list of TV shows I saw.</introduction>
   <show>
+    <date>2015.05.10</date>
+    <name url="https://en.wikipedia.org/wiki/The_Big_Bang_Theory">The Big Bang Theory</name>
+    <series url="https://en.wikipedia.org/wiki/The_Big_Bang_Theory_(season_8)">8</series>
+  </show>
+  <show>
     <date>2015.05.04</date>
     <name url="https://en.wikipedia.org/wiki/Episodes_%28TV_series%29">Episodes</name>
     <series url="https://en.wikipedia.org/wiki/List_of_Episodes_episodes#Series_4_.282015.29">4</series>
