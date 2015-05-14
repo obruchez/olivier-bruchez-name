@@ -10,7 +10,45 @@
     <actor></actor>
   -->
 
-    <play>
+  <play>
+    <date>2015.05.13</date>
+    <location>Salle Charles Apothéloz, Théâtre de Vidy, Lausanne, Switzerland</location>
+    <name>Derborence</name>    
+    <author>Charles-Ferdinand Ramuz</author>
+    <director>Mathieu Bertholet</director>
+    <actor>Rébecca Balestra</actor>
+    <actor>Léonard Bertholet</actor>
+    <actor>Agathe Hazard-Raboud</actor>
+    <actor>Fred Jacot-Guillarmod</actor>
+    <actor>Julien Jacquérioz</actor>
+    <actor>Simon Jouannot</actor>
+    <actor>Lenka Luptakova</actor>
+    <actor>Baptiste Morisod</actor>
+    <actor>Louka Petit-Taborelli</actor>
+    <actor>Nora Steinig</actor>
+    <!--
+    Adaptation et mise en scène :
+    Mathieu Bertholet
+    Assistanat à la mise en scène :
+    Maya Boquet et Yoann Daunay
+    Scénographie :
+    Sylvie Kleiber
+    Assistanat scénographie :
+    Yan Muehlheim
+    Costumes :
+    Anna Van Brée
+    Lumière :
+    Frédéric Lombard
+    Son :
+    Quentin Dumay
+    Dramaturgie :
+    Julie Rossello-Rochet
+    Confection costumes :
+    Iris Aeschlimann
+    -->
+    <rating>4.5</rating>
+  </play> 
+  <play>
     <date>2015.05.01</date>
     <location>Salle Charles Apothéloz, Théâtre de Vidy, Lausanne, Switzerland</location>
     <name>Les particules élémentaires</name>    
@@ -26,6 +64,28 @@
     <actor>Caroline Mounier</actor>
     <actor>Victoria Quesnel</actor>
     <actor>Tiphaine Raffier</actor>
+    <!--
+    Adaptation, mise en scène et scénographie :
+    Julien Gosselin
+
+    Création musicale :
+    Guillaume Bachelé
+
+    Création lumière :
+    Nicolas Joubert
+
+    Création vidéo :
+    Pierre Martin
+
+    Création sonore :
+    Julien Feryn
+
+    Costumes :
+    Caroline Tavernier
+
+    Assistanat :
+    Yann Lesvenan
+    -->
     <rating>5.0</rating>
   </play> 
   <play>
@@ -42,21 +102,21 @@
     <actor>Séverine Zuffrey</actor>
     <actor>Didier Coenegracht</actor>
     <!--
-Conception et mise en scène : Laurent Gachoud
-Dramaturgie : Roberto Fratini Serafide
-Scénographie : David Deppierraz
-Lumière : Pascal Montjovent
-Création vidéo : Giuseppe Greco, 
-avec le soutien de Brian Tornay
-Régies : Matthieu Dromelet et Alain Vitaloni
-Musique : Sandro Pires
-Son : François Planson
-Costumes : Celia Franceschi
-Administration : Sandra Borgeaud
-Visuel : Mix&Remix
-Experte en constellations : Catherine Hudovernik
-Accompagnement : Massimo Furlan & 
-Claire de Ribaupierre.
+    Conception et mise en scène : Laurent Gachoud
+    Dramaturgie : Roberto Fratini Serafide
+    Scénographie : David Deppierraz
+    Lumière : Pascal Montjovent
+    Création vidéo : Giuseppe Greco, 
+    avec le soutien de Brian Tornay
+    Régies : Matthieu Dromelet et Alain Vitaloni
+    Musique : Sandro Pires
+    Son : François Planson
+    Costumes : Celia Franceschi
+    Administration : Sandra Borgeaud
+    Visuel : Mix&Remix
+    Experte en constellations : Catherine Hudovernik
+    Accompagnement : Massimo Furlan & 
+    Claire de Ribaupierre.
     -->
     <rating>4.25</rating>
     <comments>Other possible actors: Ana Tordera, Marie Gili-Pierre, Charlotte Deschamps, Anne-Christine Nicole della Valle, Marian Crole-Rees, Sandra Wicky, Céline Frochaux, Anaïs Moors.</comments>
@@ -74,15 +134,15 @@ Claire de Ribaupierre.
     <actor>Marc Mayoraz</actor>
     <actor>Julien George</actor>
     <!--
-Scénographie : Elissa Bier
-Lumières : William Lambert
-Costumes : Scilla Illardo
-Création sonore : Thomas Sillard
-Régie générale : Nicola Frediani
-Régie tournée : Estelle Becker
-Administration : Claire Félix
-Photographies : Mercedes Riedy et Erika Irmler
-Graphisme : Erika Irmler
+    Scénographie : Elissa Bier
+    Lumières : William Lambert
+    Costumes : Scilla Illardo
+    Création sonore : Thomas Sillard
+    Régie générale : Nicola Frediani
+    Régie tournée : Estelle Becker
+    Administration : Claire Félix
+    Photographies : Mercedes Riedy et Erika Irmler
+    Graphisme : Erika Irmler
     -->
     <rating>5.0</rating>
   </play>
@@ -101,16 +161,16 @@ Graphisme : Erika Irmler
     <actor>Maria Métral</actor>
     <actor>Caroline Roëlands</actor>
     <!--
-Collaborateur artistique :
-Stéphane Rentznik
-assistant : Frédéric Joye 
-chorégraphies : Tania de Paola
-adaptation des musiques et coach vocal : Timothée Haller
-création lumière : Gazus Gagnebin
-costumes : Corinne Baeriswyl
-maquillages : Nathalie Mouchnino
-sonorisation : Joël Christen
-construction décor : Patrick Staub
+    Collaborateur artistique :
+    Stéphane Rentznik
+    assistant : Frédéric Joye 
+    chorégraphies : Tania de Paola
+    adaptation des musiques et coach vocal : Timothée Haller
+    création lumière : Gazus Gagnebin
+    costumes : Corinne Baeriswyl
+    maquillages : Nathalie Mouchnino
+    sonorisation : Joël Christen
+    construction décor : Patrick Staub
     -->
     <rating>4.75</rating>
   </play>
@@ -129,14 +189,14 @@ construction décor : Patrick Staub
     <actor>Graham F. Valentine</actor>
     <actor>Nikola Weisse</actor>
     <!--
-Scénographie et costumes:
-Anna Viebrock
+    Scénographie et costumes:
+    Anna Viebrock
 
-Dramaturgie:
-Malte Ubenauf
+    Dramaturgie:
+    Malte Ubenauf
 
-Collaboration à la mise en scène :
-Gerhard Alt
+    Collaboration à la mise en scène :
+    Gerhard Alt
     -->
     <rating>4.75</rating>
   </play> 
