@@ -2,6 +2,23 @@
 <movies>
   <introduction>A list of movies I saw.</introduction>
   <movie>
+    <date>2015.05.16</date>
+    <theater home="true"/>
+    <director>Stanley Kubrick</director>
+    <title>Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb</title>
+    <url>http://www.imdb.com/title/tt0057012/</url>
+    <rating>5.0</rating>
+  </movie>
+  <movie>
+    <date>2015.05.16</date>
+    <theater home="true"/>
+    <director>George Lucas</director>
+    <title>Star Wars: Episode IV - A New Hope</title>
+    <url>http://www.imdb.com/title/tt0076759/</url>
+    <rating>5.0</rating>
+    <comments>1997 version.</comments>
+  </movie>
+  <movie>
     <date>2015.05.15</date>
     <theater home="true"/>
     <director>Oliver Hirschbiegel</director>
