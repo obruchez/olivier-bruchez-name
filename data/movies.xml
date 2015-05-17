@@ -3,6 +3,14 @@
   <introduction>A list of movies I saw.</introduction>
   <movie>
     <date>2015.05.16</date>
+    <theater>Galeries, Lausanne</theater>
+    <director>Alex Lutz</director>
+    <title>Le talent de mes amis</title>
+    <url>http://www.imdb.com/title/tt4032450/</url>
+    <rating>4.25</rating>
+  </movie>
+  <movie>
+    <date>2015.05.15</date>
     <theater home="true"/>
     <director>Stanley Kubrick</director>
     <title>Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb</title>
@@ -10,7 +18,7 @@
     <rating>5.0</rating>
   </movie>
   <movie>
-    <date>2015.05.16</date>
+    <date>2015.05.15</date>
     <theater home="true"/>
     <director>George Lucas</director>
     <title>Star Wars: Episode IV - A New Hope</title>
@@ -19,7 +27,7 @@
     <comments>1997 version.</comments>
   </movie>
   <movie>
-    <date>2015.05.15</date>
+    <date>2015.05.14</date>
     <theater home="true"/>
     <director>Oliver Hirschbiegel</director>
     <title>Der Untergang</title>
