@@ -2,6 +2,14 @@
 <movies>
   <introduction>A list of movies I saw.</introduction>
   <movie>
+    <date>2015.05.17</date>
+    <theater home="true"/>
+    <director>Eric Lartigau</director>
+    <title>La famille Bélier</title>
+    <url>http://www.imdb.com/title/tt3547740/</url>
+    <rating>4.25</rating>
+  </movie>
+  <movie>
     <date>2015.05.16</date>
     <theater>Galeries, Lausanne</theater>
     <director>Alex Lutz</director>
