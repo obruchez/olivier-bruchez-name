@@ -122,6 +122,7 @@ Pretty much everything from [Les cent livres du siècle](https://fr.wikipedia.or
 
 ## Technology
 
+* James Barrat, ["Our Final Invention: Artificial Intelligence and the End of the Human Era"](http://www.amazon.com/Our-Final-Invention-Artificial-Intelligence/dp/1250058783/) (recommended by [@SamHarrisOrg](https://twitter.com/SamHarrisOrg))
 * Nick Bostrom, ["Superintelligence: Paths, Dangers, Strategies"](http://www.amazon.com/Superintelligence-Dangers-Strategies-Nick-Bostrom-ebook/dp/B00LOOCGB2/) (recommended by [@SamHarrisOrg](https://twitter.com/SamHarrisOrg))
 * Peter H. Diamandis & Steven Kotler, ["Abundance: The Future Is Better Than You Think"](http://www.amazon.com/Abundance-Future-Better-Than-Think-ebook/dp/B005FLOGMM) (recommended by Ray Kurzweil)
 
