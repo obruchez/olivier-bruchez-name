@@ -2,6 +2,28 @@
 
 My votes (in French). En Suisse, on ne plaisante pas avec la démocratie directe. :) J'essaie ici de documenter et de justifier la façon dont je me positionne par rapport aux votations fédérales, qui ont lieu jusqu'à quatre fois par année.
 
+## [Votation fédérale du 14 juin 2015](http://www.bk.admin.ch/themen/pore/va/20150614/index.html?lang=fr)
+
+### Acceptez-vous l’arrêté fédéral du 12 décembre 2014 concernant la modification de l’article constitutionnel relatif à la procréation médicalement assistée et au génie génétique dans le domaine humain ?
+
+Oui. Résultat : ?.
+
+- D'un point de vue éthique, je ne vois aucune raison de ne pas accepter cet arrêté, qui a pour effet de diminuer dans certains cas bien précis les risques autant pour les enfants que pour les parents.
+
+- J'imagine aisément qu'on peut lui opposer des arguments de type "pente glissante", mais ces arguments sont rarement pertinents (craintes irrationnelles). En l'occurrence, des garde-fous suffisants sont proposés.
+
+### Acceptez-vous l’initiative populaire "Initiative sur les bourses d’études" ?
+
+?. Résultat : ?.
+
+### Acceptez-vous l’initiative populaire "Imposer les successions de plusieurs millions pour financer notre AVS (Réforme de la fiscalité successorale)" ?
+
+?. Résultat : ?.
+
+### Acceptez-vous la modification du 26 septembre 2014 de la loi fédérale sur la radio et la télévision (LRTV) ?
+
+?. Résultat : ?.
+
 ## [Votation fédérale du 8 mars 2015](http://www.bk.admin.ch/themen/pore/va/20150308/index.html?lang=fr)
 
 ### Acceptez-vous l’initiative populaire "Aider les familles ! Pour des allocations pour enfant et des allocations de formation professionnelle exonérées de l’impôt" ?
