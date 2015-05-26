@@ -30,6 +30,12 @@ See also [1000 places to see before you die](http://1000places.com/).
 
 * [Lapland](https://en.wikipedia.org/wiki/S%C3%A1pmi) (cf Vanessa/Grégoire's trip)
 
+## Themes
+
+* [auroras](https://en.wikipedia.org/wiki/Aurora) (where and when?)
+* [castles](https://en.wikipedia.org/wiki/Castle) ([England](https://en.wikipedia.org/wiki/England), [France](https://en.wikipedia.org/wiki/France), [Germany](https://en.wikipedia.org/wiki/Germany), etc.)
+* [solar eclipses](https://en.wikipedia.org/wiki/Solar_eclipse)
+
 ## To-do
 
 * migrate my Google Drive document to this list
