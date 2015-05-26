@@ -37,13 +37,26 @@ Pretty much everything from [Les cent livres du siècle](https://fr.wikipedia.or
 * Emily Brontë, ["Wuthering Heights"](https://en.wikipedia.org/wiki/Wuthering_Heights)
 * John Christopher, ["The Tripods"](https://en.wikipedia.org/wiki/The_Tripods) (trilogy)
 * Arthur C. Clarke, ["Childhood's End"](https://en.wikipedia.org/wiki/Childhood%27s_End)
-* Friedrich Dürrenmatt, ["Der Tunnel"](https://en.wikipedia.org/wiki/The_Tunnel_%28short_story%29) (short story, mentioned by [@icassina](https://twitter.com/icassina))
 * S. Corinna Bille, ["La Fraise Noire"](https://encrypted.google.com/books/about/La_fraise_noire.html?id=0EUVAAAAMAAJ) (read a long time ago?)
+* Friedrich Dürrenmatt, ["Der Tunnel"](https://en.wikipedia.org/wiki/The_Tunnel_%28short_story%29) (short story, mentioned by [@icassina](https://twitter.com/icassina))
+* Franz Kafka, ["L'amérique"](https://fr.wikipedia.org/wiki/L%27Am%C3%A9rique) (read during the 90s)
+* Frank Kafka, ["Le château"](https://fr.wikipedia.org/wiki/Le_Ch%C3%A2teau) (read in 2001)
+* Franz Kafka, ["La métamorphose"](https://fr.wikipedia.org/wiki/La_M%C3%A9tamorphose) (I might have already read this)
+* Franz Kafka, ["Le procès"](https://fr.wikipedia.org/wiki/Le_Proc%C3%A8s) (read in 2004)
+* H. P. Lovecraft, ["The Complete Works of H.P. Lovecraft"](https://www.goodreads.com/book/show/11851522-the-complete-works-of-h-p-lovecraft)
 * Terry Pratchett, ["The Carpet People"](https://en.wikipedia.org/wiki/The_Carpet_People) (recommended by François?)
 * Terry Pratchett, ["The Colour of Magic"](https://en.wikipedia.org/wiki/The_Colour_of_Magic) (recommended by François in 2015)
 * Terry Pratchett, ["The Dark Side of the Sun"](https://en.wikipedia.org/wiki/The_Dark_Side_of_the_Sun) (recommended by François?)
 * Terry Pratchett, ["Strata"](https://en.wikipedia.org/wiki/Strata_%28novel%29) (recommended by François?)
+* Jean-Paul Sartre, ["Le mur"](https://fr.wikipedia.org/wiki/Le_Mur_%28Sartre%29) (read during the 90s?)
 * Neil Stephenson, ["Cryptonomicon"](https://en.wikipedia.org/wiki/Cryptonomicon) (recommended by [@ebruchez](https://twitter.com/ebruchez))
+* Boris Vian, ["L'Arrache-cœur"](https://fr.wikipedia.org/wiki/L%27Arrache-c%C5%93ur)
+* Boris Vian, ["L'Équarrissage pour tous"](https://fr.wikipedia.org/wiki/L%27%C3%89quarrissage_pour_tous)
+* Boris Vian, ["Et on tuera tous les affreux"](https://fr.wikipedia.org/wiki/Et_on_tuera_tous_les_affreux)
+* Boris Vian, ["Le Goûter des généraux"](https://fr.wikipedia.org/wiki/Le_Go%C3%BBter_des_g%C3%A9n%C3%A9raux)
+* Boris Vian, ["L'Herbe rouge"](https://fr.wikipedia.org/wiki/L%27Herbe_rouge)
+* Boris Vian, ["J'irai cracher sur vos tombes"](https://fr.wikipedia.org/wiki/J%27irai_cracher_sur_vos_tombes)
+* Boris Vian, "Chansons", "Nouvelles", "Poèmes", "Textes sur le jazz" (sections from a Boris Vian I received as a gift)
 
 ## Health
 
@@ -102,12 +115,15 @@ Pretty much everything from [Les cent livres du siècle](https://fr.wikipedia.or
 * Richard P. Feynman, ["What Do You Care What Other People Think?"](http://en.wikipedia.org/wiki/What_Do_You_Care_What_Other_People_Think%3F)
 * Brian Greene, ["The Elegant Universe: Superstrings, Hidden Dimensions, and the Quest for the Ultimate Theory"](https://en.wikipedia.org/wiki/The_Elegant_Universe)
 * Brian Greene, ["The Fabric of the Cosmos: Space, Time, and the Texture of Reality"](https://en.wikipedia.org/wiki/The_Fabric_of_the_Cosmos)
+* Stephen Hawking, ["A Brief History of Time"](https://en.wikipedia.org/wiki/A_Brief_History_of_Time)
+* Stephen Hawking, ["The Universe in a Nutshell"](https://en.wikipedia.org/wiki/The_Universe_in_a_Nutshell)
 * David Lindley, ["Where Does The Weirdness Go?: Why Quantum Mechanics Is Strange, But Not As Strange As You Think"](http://www.amazon.com/Where-Does-The-Weirdness-Mechanics/dp/0465067867) (recommended on Quora)
 * Max Tegmark, ["Our Mathematical Universe: My Quest for the Ultimate Nature of Reality"](http://www.amazon.com/Our-Mathematical-Universe-Ultimate-Reality-ebook/dp/B00DXKJ2DA/) (summarized by [@SelfAwarePatter](https://twitter.com/SelfAwarePatter) on [his blog](http://selfawarepatterns.com/2014/04/21/tegmarks-mathematical-universe-hypothesis/))
 
 ## Psychology
 
 * Eric B. Baum, ["What Is Thought?"](http://www.amazon.com/exec/obidos/tg/detail/-/0262025485/) (recommended by [@r3mix](https://twitter.com/r3mix))
+* Robert-Vincent Joule & Jean-Léon Beauvois, ["La soumission librement consentie"](https://fr.wikipedia.org/wiki/Soumission_librement_consentie) (read ["Petit traité de manipulation à l'usage des honnêtes gens"](https://fr.wikipedia.org/wiki/Petit_trait%C3%A9_de_manipulation_%C3%A0_l%27usage_des_honn%C3%AAtes_gens) from them)
 * Daniel Kahneman, ["Thinking, Fast and Slow"](https://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow) (recommended by [@mistertricker](https://twitter.com/mistertricker))
 
 ## Science
