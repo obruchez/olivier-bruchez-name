@@ -56,7 +56,7 @@ Pretty much everything from [Les cent livres du siècle](https://fr.wikipedia.or
 * Boris Vian, ["Le Goûter des généraux"](https://fr.wikipedia.org/wiki/Le_Go%C3%BBter_des_g%C3%A9n%C3%A9raux)
 * Boris Vian, ["L'Herbe rouge"](https://fr.wikipedia.org/wiki/L%27Herbe_rouge)
 * Boris Vian, ["J'irai cracher sur vos tombes"](https://fr.wikipedia.org/wiki/J%27irai_cracher_sur_vos_tombes)
-* Boris Vian, "Chansons", "Nouvelles", "Poèmes", "Textes sur le jazz" (sections from a Boris Vian I received as a gift)
+* Boris Vian, "Chansons", "Nouvelles", "Poèmes", "Textes sur le jazz" (sections from a Boris Vian collection I received as a gift)
 
 ## Health
 
