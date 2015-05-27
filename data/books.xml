@@ -3,10 +3,18 @@
     <introduction>A list of books I read.</introduction>
     <book>
         <date></date>
+        <title>The White Mountains</title>
+        <author>John Christopher</author>
+        <publishingyear>1967</publishingyear>
+        <rating></rating>
+        <url>https://en.wikipedia.org/wiki/The_Tripods#The_White_Mountains_.281967.29</url>
+    </book>
+    <book>
+        <date>2015.05.27</date>
         <title>Bad Pharma</title>
         <author>Ben Goldacre</author>
         <publishingyear>2012</publishingyear>
-        <rating></rating>
+        <rating>5.0</rating>
         <url>https://en.wikipedia.org/wiki/Bad_Pharma</url>
     </book>
     <book>
