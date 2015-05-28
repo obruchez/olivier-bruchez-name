@@ -12,7 +12,7 @@
   <concert>
     <date>2015.05.28</date>
     <location>Forum Rolex, Learning Center, EPFL, Ecublens, Switzerland</location>
-    <musician inst="trumpet">Erik Truffaz</musician>
+    <musician inst="trumpet" leader="true">Erik Truffaz</musician>
     <musician inst="electronics">Murcof</musician>
     <musician inst="drums">Philippe Garcia</musician>
     <rating>4.5</rating>
