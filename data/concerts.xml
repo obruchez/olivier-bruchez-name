@@ -10,6 +10,21 @@
   -->
   <introduction>A list of concerts I went to.</introduction>
   <concert>
+    <date>2015.05.28</date>
+    <location>Forum Rolex, Learning Center, EPFL, Ecublens, Switzerland</location>
+    <musician inst="trumpet">Erik Truffaz</musician>
+    <musician inst="electronics">Murcof</musician>
+    <musician inst="drums">Philippe Garcia</musician>
+
+ (trompette)
+ (électronique)
+ (batterie)
+Enki Bilal (illustrations visuelles)
+
+    <rating>4.5</rating>
+    <comments></comments>
+  </concert>
+  <concert>
     <date>2015.04.18</date>
     <location>Chapiteau, Cully, Switzerland</location>
     <event>Cully Jazz Festival</event>
