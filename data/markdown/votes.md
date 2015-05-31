@@ -36,6 +36,7 @@ Oui. Résultat : ?.
 - La franchise de 2 millions de francs me semble par contre raisonnable.
 - Un tel impôt pourrait légèrement réduire la concentration des fortunes dans les familles riches.
 - La mise en danger des entreprises familiales est un argument que je comprends et qui me touche, mais le Parlement pourra déterminer la franchise qui s'applique dans ces cas et prévoir d'autres mesures (réductions d'impôts).
+- Le dernier point est la raison pour laquelle je ne penche que pour un "petit oui".
 
 ### Acceptez-vous la modification du 26 septembre 2014 de la loi fédérale sur la radio et la télévision (LRTV) ?
 
