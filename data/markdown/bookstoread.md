@@ -98,13 +98,15 @@ Pretty much everything from [Les cent livres du siècle](https://fr.wikipedia.or
 * FruitfulTime, ["Stop Procrastination Now"](https://dollswithoutheads.files.wordpress.com/2008/10/stop-procrastination-now.pdf) (and I should probably start by not reading this book...)
 * Eckhart Tolle, ["A New Earth"](http://www.amazon.com/New-Earth-Awakening-Purpose-Selection/dp/0452289963/)
 
-## Philosophy
+## Philosophy / atheism / religion
 
 * Scott Atran, ["In Gods We Trust: The Evolutionary Landscape of Religion"](http://www.amazon.com/Gods-Trust-Evolutionary-Landscape-Evolution-ebook/dp/B0058RTMXG/) (mentioned by Carlo Strenger in "The Fear of Insignificance: Searching for Meaning in the Twenty-First Century")
 * Russell Blackford & Damien Broderick, ["Intelligence Unbound: The Future of Uploaded and Machine Minds"](http://www.amazon.com/Intelligence-Unbound-Future-Uploaded-Machine/dp/1118736281/) (mentioned on [kurzweilai.net](http://www.kurzweilai.net/intelligence-unbound-the-future-of-uploaded-and-machine-minds))
 * Jean Bricmont & Alan Sokal, ["Intellectual Impostures"](http://www.amazon.com/Intellectual-Impostures-Jean-Bricmont-ebook/dp/B005OA3I8C/) (recommended by Stephen Law - books about pseudoscience; see also the original French version, ["Impostures intellectuelles"](http://www.amazon.fr/Impostures-intellectuelles-Alan-Sokal-ebook/dp/B00QR1Q48S/))
 * André Comte-Sponville, ["L'esprit de l'athéisme : Introduction à une spiritualité sans Dieu"](https://fr.wikipedia.org/wiki/L%27Esprit_de_l%27ath%C3%A9isme) (Comte-Sponville sounds like an "old atheist", who thinks that religion can be good - e.g. lead to a more moral life)
 * Paul Davies, ["The Mind Of God"](https://en.wikipedia.org/wiki/The_Mind_of_God)
+* Caroline Fourest, ["Tirs croisés : La laïcité à l'épreuve des intégrismes juif, chrétien et musulman"](http://www.amazon.fr/Tirs-crois%C3%A9s-l%C3%A9preuve-int%C3%A9grismes-chr%C3%A9tien/dp/2253114375/) (recommended by [@ArianeBeldi](https://twitter.com/ArianeBeldi))
+* Caroline Fourest, ["Le choc des préjugés : L'impasse des postures sécuritaires et victimaires"](http://www.amazon.fr/choc-pr%C3%A9jug%C3%A9s-Limpasse-s%C3%A9curitaires-victimaires/dp/2702135331/) (recommended by [@ArianeBeldi](https://twitter.com/ArianeBeldi))
 * Michael S. A. Graziano, ["Consciousness and the Social Brain"](http://www.amazon.com/Consciousness-Social-Brain-Michael-Graziano/dp/0199928649) (summarized by [@SelfAwarePatter](https://twitter.com/SelfAwarePatter) on [his blog](http://selfawarepatterns.com/2013/12/30/consciousness-and-the-social-brain-a-review/))
 * Jean-François Revel & Matthieu Ricard, ["Le moine et le philosophe"](http://www.amazon.fr/moine-philosophe-Jean-Fran-ois-Revel-ebook/dp/B009HBIGCC/) (mentioned by Carlo Strenger in "The Fear of Insignificance")
 * Theodore Schick & Lewis Vaughn, ["How to Think About Weird Things: Critical Thinking for a New Age"](http://www.amazon.com/How-Think-About-Weird-Things/dp/007353577X) (recommended by Peter Boghossian, author of "A Manual for Creating Atheists")
