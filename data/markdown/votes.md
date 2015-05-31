@@ -31,7 +31,7 @@ Oui. Résultat : ?.
 Oui. Résultat : ?.
 
 - L'argument du Conseil fédéral concernant la souveraineté cantonale me laisse froid (voir plus haut).
-- Son argument selon lequel cette initiative ne résoudra pas complètement le problème du financement de l'AVS est étrange. Une mesure ne doit pas forcément être rejetée parce qu'elle ne ne résoud pas complètement une problématique.
+- Son argument selon lequel cette initiative ne résoudra pas complètement le problème du financement de l'AVS est étrange. Une mesure ne doit pas forcément être rejetée parce qu'elle ne résoud pas complètement une problématique.
 - La rétroactivité demandée par l'initiative (2012) me semble excessive / arbitraire.
 - La franchise de 2 millions de francs me semble par contre raisonnable.
 - Un tel impôt pourrait légèrement réduire la concentration des fortunes dans les familles riches.
