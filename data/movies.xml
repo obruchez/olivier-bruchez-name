@@ -2,6 +2,15 @@
 <movies>
   <introduction>A list of movies I saw.</introduction>
   <movie>
+    <date>2015.05.30</date>
+    <theater home="true"/>
+    <director>Irvin Kershner</director>
+    <title>Star Wars: Episode V - The Empire Strikes Back</title>
+    <url>http://www.imdb.com/title/tt0080684/</url>
+    <rating>5.0</rating>
+    <comments>1997 version.</comments>
+  </movie>
+  <movie>
     <date>2015.05.17</date>
     <theater home="true"/>
     <director>Eric Lartigau</director>
