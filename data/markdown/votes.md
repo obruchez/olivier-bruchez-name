@@ -17,12 +17,13 @@ Oui. Résultat : ?.
 
 - Il est important que tout le monde puisse accéder à une formation supérieure s'il le souhaite, indépendamment de sa situation financière.
 - Il me semble également important de ne pas encourager des systèmes menant à un endettement des étudiants.
+- La question n'est ici pas de savoir si l'on souhaite ou non encourager les formations supérieures (par opposition, par exemple, aux apprentissages).
 - Les inégalités cantonales actuelles en matière de bourses semblent totalement arbitraires.
 - L'harmonisation en cours ("concordat") est volontaire et incomplète (16 cantons / 70% de la population).
 - Le contre-projet introduirait une incitation indirecte dans le système actuel (contribution fédérale aux cantons qui deviendrait conditionnelle au lieu d'être systématique).
 - La question revient donc à prédire si c'est le contre-projet indirect ou l'initiative qui solutionnera le mieux le problème.
-- Cette prédiction me semble difficile à effectuer à l'aide des informations que j'ai pu lire sur le sujet jusqu'à présent.
-- J'ai toutefois tendance à me méfier des solutions qui donnent une trop grande responsabilité aux cantons (résumé de ma position : la Suisse est un petit pays, avec trop de petits cantons ; la division des responsabilités par canton semble bien souvent venir d'une autre époque...).
+- Cette prédiction me semble difficile à effectuer à l'aide des informations que j'ai pu récolter sur le sujet jusqu'à présent.
+- J'ai toutefois tendance à me méfier des solutions qui donnent une trop grande responsabilité aux cantons (résumé de ma position : la Suisse est un petit pays, avec trop de petits cantons ; la division des responsabilités par canton me semble bien souvent venir d'une époque révolue...).
 - Je penche donc pour le "oui", sans grande conviction.
 
 ### Acceptez-vous l’initiative populaire "Imposer les successions de plusieurs millions pour financer notre AVS (Réforme de la fiscalité successorale)" ?
@@ -30,8 +31,8 @@ Oui. Résultat : ?.
 Oui. Résultat : ?.
 
 - L'argument du Conseil fédéral concernant la souveraineté cantonale me laisse froid (voir plus haut).
-- Son argument selon lesquel cette initiative ne résoudra pas complètement le problème du financement de l'AVS est également étrange. Une mesure ne doit pas forcément être rejetée parce qu'elle ne ne résoud pas complètement une problématique.
-- La rétroactivité demandée par l'initiative (2012) me semble excessive / étrange.
+- Son argument selon lequel cette initiative ne résoudra pas complètement le problème du financement de l'AVS est étrange. Une mesure ne doit pas forcément être rejetée parce qu'elle ne ne résoud pas complètement une problématique.
+- La rétroactivité demandée par l'initiative (2012) me semble excessive / arbitraire.
 - La franchise de 2 millions de francs me semble par contre raisonnable.
 - Un tel impôt pourrait légèrement réduire la concentration des fortunes dans les familles riches.
 - La mise en danger des entreprises familiales est un argument que je comprends et qui me touche, mais le Parlement pourra déterminer la franchise qui s'applique dans ces cas et prévoir d'autres mesures (réductions d'impôts).
@@ -42,6 +43,7 @@ Oui. Résultat : ?.
 
 - Le système actuel est trop compliqué (contrôles, etc.) et ne prend pas en compte l'évolution technologique des vingt dernières années.
 - Toute simplification me semble bienvenue.
+- Je peux compatir avec les personnes qui ne paient pour l'instant aucune redevance, mais nous parlons ici d'un service public et les exceptions proposées me semblent raisonnables.
 
 ## [Votation fédérale du 8 mars 2015](http://www.bk.admin.ch/themen/pore/va/20150308/index.html?lang=fr)
 
