@@ -88,7 +88,7 @@ Pretty much everything from [Les cent livres du siècle](https://fr.wikipedia.or
 
 ## Personal development
 
-* David Allen, ["Getting Things Done"](https://en.wikipedia.org/wiki/Getting_Things_Done) (already read - read again?)
+* David Allen, ["Getting Things Done"](https://en.wikipedia.org/wiki/Getting_Things_Done) (already read - read again? - or read the [2015 version](http://www.amazon.com/Getting-Things-Done-Stress-Free-Productivity/dp/0143126563/))
 * David Allen, ["Making It All Work"](http://www.amazon.com/Making-All-Work-Winning-Business/dp/067001995X/)
 * Leo Babauta, ["The One Skill: How Mastering the Art of Letting Go Will Change Your Life"](http://zenhabits.net/lg/) (free book, mentioned by [@avernet](https://twitter.com/avernet))
 * Leo Babauta, ["Zen To Done"](http://www.amazon.com/Zen-Done-Ultimate-Simple-Productivity-ebook/dp/B001970HQU/)
