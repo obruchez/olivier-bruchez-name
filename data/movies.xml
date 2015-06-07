@@ -2,6 +2,14 @@
 <movies>
   <introduction>A list of movies I saw.</introduction>
   <movie>
+    <date>2015.06.06</date>
+    <theater>Pathé Flon, Lausanne</theater>
+    <director>Alex Garland</director>
+    <title>Ex Machina</title>
+    <url>http://www.imdb.com/title/tt0470752/</url>
+    <rating>5.0</rating>
+  </movie> 
+  <movie>
     <date>2015.05.31</date>
     <theater>Galeries, Lausanne</theater>
     <director>Tal Granit &amp; Sharon Maymon</director>
