@@ -10,6 +10,32 @@
   -->
   <introduction>A list of concerts I went to.</introduction>
   <concert>
+    <date>2015.06.10</date>
+    <location>Opéra de Lausanne, Lausanne, Switzerland</location>
+    <musician inst="vocals">Catalina Bertucci</musician>
+    <musician inst="vocals">Shawn Mathey</musician>
+    <musician inst="vocals">Anna Siminska</musician>
+    <musician inst="vocals">Benoît Capt</musician>
+    <musician inst="vocals">Kenneth Kellogg</musician>
+    <musician inst="vocals">Céline Mellon</musician>
+    <musician inst="vocals">Marion Grange</musician>
+    <musician inst="vocals">Inès Berlet</musician>
+    <musician inst="vocals">Marina Viotti</musician>
+    <musician inst="vocals">Johan Girardin</musician>
+    <musician inst="vocals">Maria Mitterfellner</musician>
+    <musician inst="vocals">Maud Niklas</musician>
+    <musician inst="vocals">André Gass</musician>
+    <musician inst="vocals">Stuart Patterson</musician>
+    <musician inst="vocals">Jérémie Brocard</musician>
+    <musician inst="orchestra">Orchestre de Chambre de Lausanne</musician>
+    <musician inst="conductor">Diego Fasolis</musician>
+    <musician inst="choir">Chœur de l’Opéra de Lausanne</musician>
+    <musician inst="choir director">Pascal Mayer</musician>
+    <musician inst="">Maîtrise Horizons du Conservatoire de Lausanne</musician>
+    <rating>5.0</rating>
+    <comments>"Die Zauberflöte" opera, directed by Pet Halmen.</comments>
+  </concert>
+  <concert>
     <date>2015.05.28</date>
     <location>Forum Rolex, Learning Center, EPFL, Ecublens, Switzerland</location>
     <musician inst="trumpet" leader="true">Erik Truffaz</musician>
