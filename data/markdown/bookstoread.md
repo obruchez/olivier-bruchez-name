@@ -2,9 +2,14 @@
 
 Pretty much everything from [Les cent livres du siècle](https://fr.wikipedia.org/wiki/Les_cent_livres_du_si%C3%A8cle). See also [Quels sont les classiques littéraires à lire absolument ?](https://fr.answers.yahoo.com/question/index?qid=20111112161815AAh5LUy), [100 Books to Read in a Lifetime](http://www.amazon.com/b?node=8192263011) and many other similar lists.
 
+## Biography
+
+* Christopher Hitchens, ["Hitch-22: A Memoir"](https://en.wikipedia.org/wiki/Hitch-22)
+
 ## Business / entrepreneurship
 
 * Jason Fried, ["Rework"](http://www.amazon.com/ReWork-Change-Way-Work-Forever-ebook/dp/B003ELY7PG/) (mentioned by [@epsitec](https://twitter.com/epsitec))
+* Paul Sloane, ["The Innovative Leader: How to Inspire Your Team and Drive Creativity"](http://www.amazon.com/The-Innovative-Leader-Inspire-Creativity/dp/0749450010)
 
 ## Computer science
 
@@ -18,6 +23,8 @@ Pretty much everything from [Les cent livres du siècle](https://fr.wikipedia.or
 * Steve McConnell, ["Code Complete: A Practical Handbook of Software Construction"](http://www.amazon.com/Code-Complete-Practical-Handbook-Construction/dp/0735619670/)
 * Benjamin C. Pierce, ["Types and Programming Languages"](http://www.cis.upenn.edu/~bcpierce/tapl/) (recommended by [@icassina](https://twitter.com/icassina), quite "academic"/complex; see also [code in Scala](https://github.com/ilya-klyuchnikov/tapl-scala))
 * Harold Simmons, ["An Introduction to Category Theory"](http://www.amazon.com/Introduction-Category-Theory-Harold-Simmons/dp/0521283043/) (also recommended by [@icassina](https://twitter.com/icassina)?)
+* see also ["What is the single most influential book every programmer should read?"](https://www.quora.com/What-is-the-single-most-influential-book-every-programmer-should-read)
+* see also  ["What non-programming books should programmers read?"](https://stackoverflow.com/questions/38210/what-non-programming-books-should-programmers-read)
 
 ## Economics
 
@@ -27,6 +34,10 @@ Pretty much everything from [Les cent livres du siècle](https://fr.wikipedia.or
 ## Education
 
 * Martha C. Nussbaum, ["Cultivating Humanity: A Classical Defense of Reform in Liberal Education"](http://www.amazon.com/Cultivating-Humanity-Martha-C-Nussbaum-ebook/dp/B00J8CVOHY/) (mentioned by Carlo Strenger in "The Fear of Insignificance")
+
+## Essays
+
+* Christopher Hitchens, ["Arguably: Essays by Christopher Hitchens"](https://en.wikipedia.org/wiki/Arguably)
 
 ## Fiction
 
@@ -38,11 +49,14 @@ Pretty much everything from [Les cent livres du siècle](https://fr.wikipedia.or
 * John Christopher, ["The Tripods"](https://en.wikipedia.org/wiki/The_Tripods) (trilogy)
 * Arthur C. Clarke, ["Childhood's End"](https://en.wikipedia.org/wiki/Childhood%27s_End)
 * S. Corinna Bille, ["La Fraise Noire"](https://encrypted.google.com/books/about/La_fraise_noire.html?id=0EUVAAAAMAAJ) (read a long time ago?)
+* Douglas Coupland, ["Microserfs"](https://en.wikipedia.org/wiki/Microserfs)
 * Friedrich Dürrenmatt, ["Der Tunnel"](https://en.wikipedia.org/wiki/The_Tunnel_%28short_story%29) (short story, mentioned by [@icassina](https://twitter.com/icassina))
+* Antoine Galland, ["Les Milles et Une Nuits"](https://fr.wikipedia.org/wiki/Les_Mille_et_Une_Nuits)
 * Franz Kafka, ["L'amérique"](https://fr.wikipedia.org/wiki/L%27Am%C3%A9rique) (read during the 90s)
 * Frank Kafka, ["Le château"](https://fr.wikipedia.org/wiki/Le_Ch%C3%A2teau) (read in 2001)
 * Franz Kafka, ["La métamorphose"](https://fr.wikipedia.org/wiki/La_M%C3%A9tamorphose) (I might have already read this)
 * Franz Kafka, ["Le procès"](https://fr.wikipedia.org/wiki/Le_Proc%C3%A8s) (read in 2004)
+* Amélie Nothomb, ["Acide sulfurique"](https://fr.wikipedia.org/wiki/Acide_sulfurique_(roman)) (recommended by Miriam)
 * H. P. Lovecraft, ["The Complete Works of H.P. Lovecraft"](https://www.goodreads.com/book/show/11851522-the-complete-works-of-h-p-lovecraft)
 * Terry Pratchett, ["The Carpet People"](https://en.wikipedia.org/wiki/The_Carpet_People) (recommended by François?)
 * Terry Pratchett, ["The Colour of Magic"](https://en.wikipedia.org/wiki/The_Colour_of_Magic) (recommended by François in 2015)
@@ -50,6 +64,7 @@ Pretty much everything from [Les cent livres du siècle](https://fr.wikipedia.or
 * Terry Pratchett, ["Strata"](https://en.wikipedia.org/wiki/Strata_%28novel%29) (recommended by François?)
 * Jean-Paul Sartre, ["Le mur"](https://fr.wikipedia.org/wiki/Le_Mur_%28Sartre%29) (read during the 90s?)
 * Neil Stephenson, ["Cryptonomicon"](https://en.wikipedia.org/wiki/Cryptonomicon) (recommended by [@ebruchez](https://twitter.com/ebruchez))
+* Charles Stross, ["Singularity Sky"](https://en.wikipedia.org/wiki/Singularity_Sky)
 * Boris Vian, ["L'Arrache-cœur"](https://fr.wikipedia.org/wiki/L%27Arrache-c%C5%93ur)
 * Boris Vian, ["L'Équarrissage pour tous"](https://fr.wikipedia.org/wiki/L%27%C3%89quarrissage_pour_tous)
 * Boris Vian, ["Et on tuera tous les affreux"](https://fr.wikipedia.org/wiki/Et_on_tuera_tous_les_affreux)
@@ -86,6 +101,11 @@ Pretty much everything from [Les cent livres du siècle](https://fr.wikipedia.or
 * Frank Alkyer, ["The Miles Davis Reader"](https://encrypted.google.com/books/about/The_Miles_Davis_Reader.html?id=Dx2Ty5xVg04C)
 * Peter Elsdon, ["The Köln Concert"](https://encrypted.google.com/books/about/Keith_Jarrett_s_The_Koln_Concert.html?id=HdO7iH2Sz6IC) (received from Peter Elsdon)
 
+## Parenthood
+
+* Cyril Jost & Pierre Wazem, ["L’essentiel sur les bébés"](https://www.payot.ch/Detail/lessentiel_sur_les_bebes-cyril_jost-9782606015183)
+* Jennifer Senior, ["All Joy and No Fun: The Paradox of Modern Parenthood"](http://www.amazon.com/All-Joy-No-Fun-Parenthood/dp/0062072242)
+
 ## Personal development
 
 * David Allen, ["Getting Things Done"](https://en.wikipedia.org/wiki/Getting_Things_Done) (already read - read again? - or read the [2015 version](http://www.amazon.com/Getting-Things-Done-Stress-Free-Productivity/dp/0143126563/))
@@ -109,9 +129,10 @@ Pretty much everything from [Les cent livres du siècle](https://fr.wikipedia.or
 * Caroline Fourest, ["Le choc des préjugés : L'impasse des postures sécuritaires et victimaires"](http://www.amazon.fr/choc-pr%C3%A9jug%C3%A9s-Limpasse-s%C3%A9curitaires-victimaires/dp/2702135331/) (recommended by [@ArianeBeldi](https://twitter.com/ArianeBeldi))
 * Michael S. A. Graziano, ["Consciousness and the Social Brain"](http://www.amazon.com/Consciousness-Social-Brain-Michael-Graziano/dp/0199928649) (summarized by [@SelfAwarePatter](https://twitter.com/SelfAwarePatter) on [his blog](http://selfawarepatterns.com/2013/12/30/consciousness-and-the-social-brain-a-review/))
 * Jean-François Revel & Matthieu Ricard, ["Le moine et le philosophe"](http://www.amazon.fr/moine-philosophe-Jean-Fran-ois-Revel-ebook/dp/B009HBIGCC/) (mentioned by Carlo Strenger in "The Fear of Insignificance")
+* Nassim Nicholas Taleb, ["The Black Swan: The Impact of the Highly Improbable"](https://en.wikipedia.org/wiki/The_Black_Swan_(2007_book))
 * Theodore Schick & Lewis Vaughn, ["How to Think About Weird Things: Critical Thinking for a New Age"](http://www.amazon.com/How-Think-About-Weird-Things/dp/007353577X) (recommended by Peter Boghossian, author of "A Manual for Creating Atheists")
 
-## Physics
+## Physics / cosmology
 
 * Richard P. Feynman, ["QED: The Strange Theory of Light and Matter"](http://www.amazon.com/QED-Strange-Princeton-Science-Library/dp/0691125759/) (recommended on Quora)
 * Richard P. Feynman, ["What Do You Care What Other People Think?"](http://en.wikipedia.org/wiki/What_Do_You_Care_What_Other_People_Think%3F)
@@ -119,7 +140,9 @@ Pretty much everything from [Les cent livres du siècle](https://fr.wikipedia.or
 * Brian Greene, ["The Fabric of the Cosmos: Space, Time, and the Texture of Reality"](https://en.wikipedia.org/wiki/The_Fabric_of_the_Cosmos)
 * Stephen Hawking, ["A Brief History of Time"](https://en.wikipedia.org/wiki/A_Brief_History_of_Time)
 * Stephen Hawking, ["The Universe in a Nutshell"](https://en.wikipedia.org/wiki/The_Universe_in_a_Nutshell)
+* Michio Kaku, ["Parallel Worlds: A Journey Through Creation, Higher Dimensions, and the Future of the Cosmos"](https://en.wikipedia.org/wiki/Parallel_Worlds_(book))
 * David Lindley, ["Where Does The Weirdness Go?: Why Quantum Mechanics Is Strange, But Not As Strange As You Think"](http://www.amazon.com/Where-Does-The-Weirdness-Mechanics/dp/0465067867) (recommended on Quora)
+* Charles Seife, ["Decoding the Universe: How the New Science of Information Is Explaining Everything in the Cosmos, from Our Brains to Black Holes"](http://www.amazon.com/Decoding-Universe-Information-Explaining-Everything-ebook/dp/B000O76NFK/)
 * Max Tegmark, ["Our Mathematical Universe: My Quest for the Ultimate Nature of Reality"](http://www.amazon.com/Our-Mathematical-Universe-Ultimate-Reality-ebook/dp/B00DXKJ2DA/) (summarized by [@SelfAwarePatter](https://twitter.com/SelfAwarePatter) on [his blog](http://selfawarepatterns.com/2014/04/21/tegmarks-mathematical-universe-hypothesis/))
 
 ## Psychology
@@ -127,6 +150,7 @@ Pretty much everything from [Les cent livres du siècle](https://fr.wikipedia.or
 * Eric B. Baum, ["What Is Thought?"](http://www.amazon.com/exec/obidos/tg/detail/-/0262025485/) (recommended by [@r3mix](https://twitter.com/r3mix))
 * Robert-Vincent Joule & Jean-Léon Beauvois, ["La soumission librement consentie"](https://fr.wikipedia.org/wiki/Soumission_librement_consentie) (read ["Petit traité de manipulation à l'usage des honnêtes gens"](https://fr.wikipedia.org/wiki/Petit_trait%C3%A9_de_manipulation_%C3%A0_l%27usage_des_honn%C3%AAtes_gens) from them)
 * Daniel Kahneman, ["Thinking, Fast and Slow"](https://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow) (recommended by [@mistertricker](https://twitter.com/mistertricker))
+* Barry Schwartz, ["The Paradox of Choice: Why More Is Less"](https://en.wikipedia.org/wiki/The_Paradox_of_Choice)
 
 ## Science
 
@@ -143,7 +167,12 @@ Pretty much everything from [Les cent livres du siècle](https://fr.wikipedia.or
 
 * James Barrat, ["Our Final Invention: Artificial Intelligence and the End of the Human Era"](http://www.amazon.com/Our-Final-Invention-Artificial-Intelligence/dp/1250058783/) (recommended by [@SamHarrisOrg](https://twitter.com/SamHarrisOrg))
 * Nick Bostrom, ["Superintelligence: Paths, Dangers, Strategies"](http://www.amazon.com/Superintelligence-Dangers-Strategies-Nick-Bostrom-ebook/dp/B00LOOCGB2/) (recommended by [@SamHarrisOrg](https://twitter.com/SamHarrisOrg))
+* Erik Brynjolfsson & Andrew McAfee, ["Race Against The Machine: How the Digital Revolution is Accelerating Innovation, Driving Productivity, and Irreversibly Transforming Employment and the Economy"](https://en.wikipedia.org/wiki/Race_Against_the_Machine)
 * Peter H. Diamandis & Steven Kotler, ["Abundance: The Future Is Better Than You Think"](http://www.amazon.com/Abundance-Future-Better-Than-Think-ebook/dp/B005FLOGMM) (recommended by Ray Kurzweil)
+
+## Travel
+
+* Patricia Schultz, ["1,000 Places to See Before You Die: A Traveler's Life List"](http://www.amazon.com/000-Places-See-Before-You/dp/0761104844)
 
 ## Vegetarianism
 
