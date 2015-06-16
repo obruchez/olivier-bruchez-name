@@ -30,6 +30,12 @@ See also [1000 places to see before you die](http://1000places.com/).
 
 * [Lapland](https://en.wikipedia.org/wiki/S%C3%A1pmi) (cf Vanessa/Grégoire's trip)
 
+## Switzerland
+
+* [Jungfraujoch](https://en.wikipedia.org/wiki/Jungfraujoch)
+* [Ticino](https://en.wikipedia.org/wiki/Ticino)
+* [Zermatt](https://en.wikipedia.org/wiki/Zermatt) / [Matterhorn](https://en.wikipedia.org/wiki/Matterhorn)
+
 ## Themes
 
 * [auroras](https://en.wikipedia.org/wiki/Aurora) (where and when?)
