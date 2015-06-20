@@ -11,6 +11,25 @@
   -->
 
   <play>
+    <date>2015.06.19</date>
+    <location>Pulloff Théâtres, Lausanne, Switzerland</location>
+    <name>Paradise Now!</name>
+    <author>Julie Gilbert</author>
+    <director>Fanny Pelichet &amp; Vincent Bonillo</director>
+    <actor>Fanny Pelichet</actor>
+    <actor>Vincent Bonillo</actor>
+    <!--
+    conception et jeu :
+    Fanny Pelichet et Vincent Bonillo
+    dramaturgie et écriture : Julie Gilbert
+    création sonore : Pierre Audétat
+    scénographie : Serge Perret
+    création lumière : Matthieu Obrist
+    photos : Pénélope Henriod
+    -->
+    <rating>4.5</rating>
+  </play>
+  <play>
     <date>2015.05.13</date>
     <location>Salle Charles Apothéloz, Théâtre de Vidy, Lausanne, Switzerland</location>
     <name>Derborence</name>    
