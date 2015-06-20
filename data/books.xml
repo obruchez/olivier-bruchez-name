@@ -3,10 +3,18 @@
     <introduction>A list of books I read.</introduction>
     <book>
         <date></date>
-        <title>The City of Gold and Lead</title>
+        <title>The Pool of Fire</title>
         <author>John Christopher</author>
         <publishingyear>1968</publishingyear>
         <rating></rating>
+        <url>https://en.wikipedia.org/?title=The_Tripods#The_Pool_of_Fire_.281968.29</url>
+    </book>
+    <book>
+        <date>2015.06.20</date>
+        <title>The City of Gold and Lead</title>
+        <author>John Christopher</author>
+        <publishingyear>1968</publishingyear>
+        <rating>5.0</rating>
         <url>https://en.wikipedia.org/wiki/The_Tripods#The_City_of_Gold_and_Lead_.281968.29</url>
     </book>
     <book>
