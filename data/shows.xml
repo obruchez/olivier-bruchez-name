@@ -77,6 +77,11 @@
     <series url="https://en.wikipedia.org/wiki/List_of_Bob%27s_Burgers_episodes#Season_1_.282011.29">1</series>
   </show>
   <show>
+    <date>2014.04.23</date>
+    <name url="https://en.wikipedia.org/wiki/Community_(TV_series)">Community</name>
+    <series url="https://en.wikipedia.org/wiki/Community_(season_5)">5</series>
+  </show>
+  <show>
     <date>2014.04.01</date>
     <name url="https://en.wikipedia.org/wiki/How_I_Met_Your_Mother">How I Met Your Mother</name>
     <series url="https://en.wikipedia.org/wiki/How_I_Met_Your_Mother#Season_9">9</series>
@@ -87,9 +92,29 @@
     <series url="https://en.wikipedia.org/wiki/How_I_Met_Your_Mother#Season_8">8</series>
   </show>
   <show>
+    <date>2013.05.22</date>
+    <name url="https://en.wikipedia.org/wiki/Community_(TV_series)">Community</name>
+    <series url="https://en.wikipedia.org/wiki/Community_(season_4)">4</series>
+  </show>
+  <show>
+    <date>2012.06.24</date>
+    <name url="https://en.wikipedia.org/wiki/Community_(TV_series)">Community</name>
+    <series url="https://en.wikipedia.org/wiki/Community_(season_3)">3</series>
+  </show>
+  <show>
     <date>2012.05.18</date>
     <name url="https://en.wikipedia.org/wiki/How_I_Met_Your_Mother">How I Met Your Mother</name>
     <series url="https://en.wikipedia.org/wiki/How_I_Met_Your_Mother#Season_7">7</series>
+  </show>
+  <show>
+    <date>2011.09.06</date>
+    <name url="https://en.wikipedia.org/wiki/Community_(TV_series)">Community</name>
+    <series url="https://en.wikipedia.org/wiki/Community_(season_2)">2</series>
+  </show>
+  <show>
+    <date>2011.07.19</date>
+    <name url="https://en.wikipedia.org/wiki/Community_(TV_series)">Community</name>
+    <series url="https://en.wikipedia.org/wiki/Community_(season_1)">1</series>
   </show>
   <show>
     <date>2011.07.09</date>
@@ -184,12 +209,6 @@
 ???: Friends 9
 28 juillet 2010: Friends 10
 
-???: Community 1
-6 septembre 2011: Community 2
-24 juin 2012: Community 3
-22 mai 2013: Community 4
-23 avril 2014: Community 5
-
 ???: The Office 1
 ???: The Office 2
 8 avril 2012: The Office 3
@@ -214,4 +233,6 @@
 18 septembre 2014: Seinfeld 7
 ???: Seinfeld 8
 ???: Seinfeld 9
+
+IT Crowd, etc.
   -->
