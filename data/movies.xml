@@ -2,6 +2,22 @@
 <movies>
   <introduction>A list of movies I saw.</introduction>
   <movie>
+    <date>2015.06.27</date>
+    <theater>Galeries, Lausanne</theater>
+    <director>Pete Docter &amp; Ronaldo Del Carmen</director>
+    <title>Inside Out</title>
+    <url>http://www.imdb.com/title/tt2096673/</url>
+    <rating>5.25</rating>
+  </movie>
+  <movie>
+    <date>2015.06.27</date>
+    <theater>Galeries, Lausanne</theater>
+    <director>James Ford Murphy</director>
+    <title>Lava</title>
+    <url>http://www.imdb.com/title/tt3824386/</url>
+    <rating>4.25</rating>
+  </movie>
+  <movie>
     <date>2015.06.06</date>
     <theater>Pathé Flon, Lausanne</theater>
     <director>Alex Garland</director>
