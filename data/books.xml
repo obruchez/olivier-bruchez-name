@@ -3,10 +3,18 @@
     <introduction>A list of books I read.</introduction>
     <book>
         <date></date>
+        <title>When the Tripods Came</title>
+        <author>John Christopher</author>
+        <publishingyear>1988</publishingyear>
+        <rating></rating>
+        <url>https://en.wikipedia.org/?title=The_Tripods#When_the_Tripods_Came</url>
+    </book>
+    <book>
+        <date>2015.06.28</date>
         <title>The Pool of Fire</title>
         <author>John Christopher</author>
         <publishingyear>1968</publishingyear>
-        <rating></rating>
+        <rating>4.75</rating>
         <url>https://en.wikipedia.org/?title=The_Tripods#The_Pool_of_Fire_.281968.29</url>
     </book>
     <book>
