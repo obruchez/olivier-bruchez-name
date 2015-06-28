@@ -2,6 +2,11 @@
 <shows>
   <introduction>A list of TV shows I saw.</introduction>
   <show>
+    <date>2015.06.26</date>
+    <name url="https://en.wikipedia.org/wiki/Silicon_Valley_(TV_series)">Silicon Valley</name>
+    <series url="https://en.wikipedia.org/wiki/Silicon_Valley_(TV_series)#Season_2">2</series>
+  </show>
+  <show>
     <date>2015.06.21</date>
     <name url="https://en.wikipedia.org/wiki/The_Tripods_(TV_series)">The Tripods</name>
     <series>2</series>
