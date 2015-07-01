@@ -73,6 +73,7 @@
 * [Les Chevaliers du Zodiaque](http://www.imdb.com/title/tt0161952/)
 * [Les Gummi](http://www.imdb.com/title/tt0088528/)
 * [Les Mondes Engloutis](http://www.imdb.com/title/tt0212676/) (apprécie surtout la musique du générique, en fait)
+* [Le Vent dans les saules](http://www.imdb.com/title/tt0086590/)
 * [Pif et Hercule](http://www.imdb.com/title/tt1194638/)
 * [Tom Sawyer](http://www.imdb.com/title/tt0168391/)
 
