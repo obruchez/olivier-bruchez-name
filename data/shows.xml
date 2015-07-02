@@ -2,6 +2,11 @@
 <shows>
   <introduction>A list of TV shows I saw.</introduction>
   <show>
+    <date>2015.07.02</date>
+    <name url="https://en.wikipedia.org/wiki/Seinfeld">Seinfeld</name>
+    <series url="https://en.wikipedia.org/wiki/Seinfeld_(season_9)">9</series>
+  </show>
+  <show>
     <date>2015.06.26</date>
     <name url="https://en.wikipedia.org/wiki/Silicon_Valley_(TV_series)">Silicon Valley</name>
     <series url="https://en.wikipedia.org/wiki/Silicon_Valley_(TV_series)#Season_2">2</series>
@@ -237,7 +242,7 @@
 25 juin 2014: Seinfeld 6
 18 septembre 2014: Seinfeld 7
 ???: Seinfeld 8
-???: Seinfeld 9
+OK: Seinfeld 9
 
 Better Off Ted
 Bref
