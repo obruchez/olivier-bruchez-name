@@ -2,6 +2,14 @@
 <movies>
   <introduction>A list of movies I saw.</introduction>
   <movie>
+    <date>2015.07.09</date>
+    <theater>Galeries, Lausanne</theater>
+    <director>Asif Kapadia</director>
+    <title>Amy</title>
+    <url>http://www.imdb.com/title/tt2870648/</url>
+    <rating>4.5</rating>
+  </movie>
+  <movie>
     <date>2015.06.27</date>
     <theater>Galeries, Lausanne</theater>
     <director>Pete Docter &amp; Ronaldo Del Carmen</director>
