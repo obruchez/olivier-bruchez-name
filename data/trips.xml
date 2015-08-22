@@ -2,6 +2,18 @@
 <trips>
   <introduction>A list of trips I took.</introduction>
   <trip>
+    <from>2015.07.27</from>
+    <to>2015.08.17</to>
+    <place>British Columbia / Alberta, Canada</place>
+    <!-- <pictures url=""/> -->
+  </trip>
+  <trip>
+    <from>2015.07.19</from>
+    <to>2015.07.27</to>
+    <place>San Francisco, USA</place>
+    <!-- <pictures url=""/> -->
+  </trip>
+  <trip>
     <from>2014.10.23</from>
     <to>2014.10.26</to>
     <place>Florence, Italy</place>
