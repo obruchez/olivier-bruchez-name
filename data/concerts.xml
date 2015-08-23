@@ -10,6 +10,28 @@
   -->
   <introduction>A list of concerts I went to.</introduction>
   <concert>
+    <date>2015.07.17</date>
+    <location>Auditorium Stravinski, Montreux, Switzerland</location>
+    <event>Montreux Jazz Festival</event>
+    <group>Louis, Matthieu, Joseph &amp; Anna Chedid</group>
+    <musician inst="vocals, guitars, keyboards, bass, percussions">Louis Chedid</musician>
+    <musician inst="vocals, guitars, bass, drums">Matthieu Chedid</musician>
+    <musician inst="vocals, keyboards, bass, drums, percussions">Anna Chedid</musician>
+    <musician inst="vocals, guitars, bass, drums, percussions">Joseph Chedid</musician>
+    <rating>4.75</rating>
+    <comments/>
+  </concert>
+  <concert>
+    <date>2015.07.16</date>
+    <location>Auditorium Stravinski, Montreux, Switzerland</location>
+    <event>Montreux Jazz Festival</event>
+    <group>Chick Corea &amp; Herbie Hancock</group>
+    <musician inst="piano, keyboards">Chick Corea</musician>
+    <musician inst="piano, keyboards">Herbie Hancock</musician>
+    <rating>4.75</rating>
+    <comments/>
+  </concert>
+  <concert>
     <date>2015.06.10</date>
     <location>Opéra de Lausanne, Lausanne, Switzerland</location>
     <musician inst="vocals">Catalina Bertucci</musician>
@@ -84,7 +106,7 @@
     <event>Cully Jazz Festival</event>
     <group>Andreas Schaerer &amp; Lucas Niggli</group>
     <musician inst="voice, electronics">Andreas Schaerer</musician>
-    <musician inst="drums, percussion">Lucas Niggli</musician>
+    <musician inst="drums, percussions">Lucas Niggli</musician>
     <rating>4.75</rating>
     <comments/>
   </concert>
@@ -121,7 +143,7 @@
     <date>2014.07.19</date>
     <location>Eglise Sainte-Claire, Vevey, Switzerland</location>
     <event>Montreux Jazz Festival</event>
-    <group>Yaron Herman and David Greilsammer</group>
+    <group>Yaron Herman &amp; David Greilsammer</group>
     <musician inst="piano">Yaron Herman</musician>
     <musician inst="piano, director">David Greilsammer</musician>
     <musician inst="double bass, arrangements">Massimo Pinca</musician>
@@ -133,7 +155,7 @@
     <date>2014.07.18</date>
     <location>Auditorium Stravinski, Montreux, Switzerland</location>
     <event>Montreux Jazz Festival</event>
-    <group>Herbie Hancock and Wayne Shorter</group>
+    <group>Herbie Hancock &amp; Wayne Shorter</group>
     <musician inst="piano, keyboards">Herbie Hancock</musician>
     <musician inst="soprano saxophone">Wayne Shorter</musician>
     <rating>4.75</rating>
@@ -287,8 +309,8 @@
     <musician inst="guitar">Ed Kuepper (?)</musician>
     <musician inst="bass">Martyn P. Casey (?)</musician>
     <musician inst="keyboards, vocals">Conway Savage (?)</musician>
-    <musician inst="drums, percussion, keyboards">Barry Adamson (?)</musician>
-    <musician inst="drums, percussion">Jim Sclavunos (?)</musician>
+    <musician inst="drums, percussions, keyboards">Barry Adamson (?)</musician>
+    <musician inst="drums, percussions">Jim Sclavunos (?)</musician>
     <rating>3.5</rating>
     <comments/>
   </concert>
@@ -529,7 +551,7 @@
     <musician inst="cello">Grace Shim</musician>
     <musician inst="viola">Glen McDaniel</musician>
     <musician inst="violin">Andrew Colella</musician>
-    <musician inst="percussion">Joey Gonzales</musician>
+    <musician inst="percussions">Joey Gonzales</musician>
     <musician inst="bassist">Brandon Gilliard</musician>
     <musician inst="trumpet">Lance Powlis</musician>
     <musician inst="trombone">Marcus Lewis</musician>
@@ -635,7 +657,7 @@
     <date>2012.07.06</date>
     <location>Miles Davis Hall, Montreux, Switzerland</location>
     <event>Montreux Jazz Festival</event>
-    <group>Rodrigo y Gabriela and C.U.B.A.</group>
+    <group>Rodrigo y Gabriela &amp; C.U.B.A.</group>
     <musician inst="guitar" leader="true">Rodrigo Sanchez</musician>
     <musician inst="guitar" leader="true">Gabriela Lopez</musician> 
     <musician inst="piano">Alex Wilson</musician>
@@ -1099,7 +1121,7 @@
     <musician inst="bass" leader="true">Ron Carter</musician>
     <musician inst="piano">Stephen Scott</musician>
     <musician inst="drums">Payton Crossley</musician>
-    <musician inst="percussion">Roger Squittero</musician>
+    <musician inst="percussions">Roger Squittero</musician>
     <rating>4.75</rating>
     <comments/>
   </concert>
@@ -1495,9 +1517,9 @@
     <location>Casino Barrière, Montreux, Switzerland</location>
     <event>Montreux Jazz Festival</event>
     <group>Sangam</group>
-    <musician inst="tenor and alto saxophones, tarogato, bass and alto flutes, piano, percussion" leader="true">Charles Lloyd</musician>
-    <musician inst="drums, percussion, piano">Eric Harland</musician>
-    <musician inst="tabla, voice, percussion">Zakir Hussain</musician>
+    <musician inst="tenor and alto saxophones, tarogato, bass and alto flutes, piano, percussions" leader="true">Charles Lloyd</musician>
+    <musician inst="drums, percussions, piano">Eric Harland</musician>
+    <musician inst="tabla, voice, percussions">Zakir Hussain</musician>
     <rating>5.0</rating>
     <comments/>
   </concert>
@@ -2425,7 +2447,7 @@
     <date>1999.07.02</date>
     <location>Auditorium Stravinski, Montreux, Switzerland</location>
     <event>Montreux Jazz Festival</event>
-    <group>The Alphorn Academy of Switzerland and Jozsef Molnar</group>
+    <group>The Alphorn Academy of Switzerland &amp; Jozsef Molnar</group>
     <musician inst="alphorn">Jozsef Molnar</musician>
     <comments/>
   </concert>
