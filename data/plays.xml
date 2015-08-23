@@ -11,6 +11,83 @@
   -->
 
   <play>
+    <date>2015.08.22</date>
+    <location>Carrière des Andonces, St-Triphon, Switzerland</location>
+    <name>Fabrikk</name>
+    <author>Karl's Kühne Gassenschau</author>
+    <director>Paul Weilenmann, Brigitt Maag &amp; Paul Weibel</director>
+    <translation>Yve Delaquis</translation>
+    <actor>Maria Augusta Balla</actor>
+    <actor>Theresa Davi</actor>
+    <actor>Laurent Deshusses</actor>
+    <actor>Guido Frank</actor>
+    <actor>Brigitt Maag</actor>
+    <actor>Julien Opoix</actor>
+    <actor>Karim Slama</actor>
+    <actor>Nicole Steiner</actor>
+    <actor>Paul Weilenmann</actor>
+    <actor>Denise Wintsch</actor>
+    <rating>4.5</rating>
+  </play>
+  <play>
+    <date>2015.08.15</date>
+    <location>Theatre Under the Stars, Vancouver, BC, Canada</location>
+    <name>Hairspray</name>
+    <author>Mark O’Donnell &amp; Thomas Meehan</author>
+    <director>Sarah Rodgers</director>
+    <actor>Erin E. Walker</actor>
+    <actor>Dustin Freeland</actor>
+    <actor>David Lindo-Reid</actor>
+    <actor>Andy Toth</actor>
+    <actor>Chris D. King</actor>
+    <actor>Elyse Maloway</actor>
+    <actor>Lori Ashton Zondag</actor>
+    <actor>Cecilly Day </actor>
+    <actor>Hannah Williams</actor>  
+    <actor>Ryan Purdy</actor>
+    <actor>Georgia Beaty</actor>
+    <actor>Marisa Gold</actor>
+    <actor>Graeme Thompson</actor>
+    <actor>Sophia Curalli</actor>
+    <actor>Grace Newson</actor>
+    <actor>Emily Matchette</actor>
+    <actor>Nicol Spinola</actor>
+    <actor>Michael Wilkinson</actor>
+    <actor>Henry Beasley</actor>
+    <actor>Blake Sartin</actor>
+    <actor>Daniel Curalli</actor>
+    <actor>Jennifer Suratos</actor>
+    <actor>Lindsey Ali Watson</actor>
+    <actor>Michelle Bardach</actor>
+    <actor>Josh Chambers</actor>
+    <actor>Greg Liow</actor>
+    <actor>Nathalie Joyal</actor>
+    <actor>Raylene Harewood</actor>
+    <actor>Tenanye Haglund</actor>
+    <actor>Lyndsey Britten</actor>
+    <actor>Elise Wilson</actor>
+    <actor>Raylene Harewood</actor>
+    <actor>Daren Dyhengco</actor>
+    <actor>Greg Liow</actor>
+    <actor>Graeme Thompson</actor>
+    <actor>Georgia Beaty</actor>
+    <actor>Graeme Thompson</actor>
+    <actor>Lyndsey Britten</actor>   
+    <actor>Brianna Clark</actor>
+    <actor>Melissa Sciarretta</actor>
+    <actor>Daren Dyhengco</actor>
+    <actor>Lyndsey Britten</actor>
+    <actor>Nathalie Joyal</actor>
+    <actor>Josh Chambers</actor>
+    <actor>Greg Liow</actor>
+    <actor>Raylene Harewood</actor>
+    <actor>Tenanye Haglund</actor>
+    <actor>Elise Wilson</actor>
+    <actor>Sophia Curalli</actor>
+    <rating>3.0</rating>
+    <comments>Musical. Music by Marc Shaiman. Lyrics by Scott Wittman and Marc Shaiman.</comments>
+  </play>
+  <play>
     <date>2015.06.19</date>
     <location>Pulloff Théâtres, Lausanne, Switzerland</location>
     <name>Paradise Now!</name>
@@ -1083,6 +1160,25 @@ Joël L’Hopitalier
     <rating>4.75</rating>
   </play>
   <play>
+    <date>2010.10.01</date>
+    <location>Carrière des Andonces, St-Triphon, Switzerland</location>
+    <name>Silo 8</name>
+    <author>Karl's Kühne Gassenschau</author>
+    <director>Paul Weilenmann, Brigitt Maag &amp; Paul Weibel</director>
+    <translation>Raphaël Diener &amp; Christophe Nicolas</translation>
+    <actor>Maria Augusta Balla</actor>
+    <actor>Cynthia Coray</actor>
+    <actor>Theresa Davi</actor>
+    <actor>Xavier Deniau</actor>
+    <actor>Guido Frank</actor>
+    <actor>Khany Hamdaoui</actor>
+    <actor>Brigitt Maag</actor>
+    <actor>Pascal Parizot</actor>
+    <actor>Luigi Prezioso</actor>
+    <actor>Paul Weilenmann</actor>
+    <rating>4.75</rating>
+  </play>
+  <play>
     <date>2010.05.04</date>
     <location>Salle Charles Apothéloz, Théâtre de Vidy, Lausanne, Switzerland</location>
     <name>Raoul</name>
@@ -1889,4 +1985,8 @@ responsable de production : Michel Sauser
     <rating/>
     <comments>Possible dates: July 25-26, August 1, 2, 8, 9, or 15, 1986. Music by Anan Diepen.</comments>
   </play>
+
+  <!--
+    Add Akua (2005-2006?)
+  -->
 </plays>
