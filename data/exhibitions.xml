@@ -1,6 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <exhibitions>
     <introduction>A list of exhibitions I visited.</introduction>
+
+    <exhibition>
+        <date>2015.08.15</date>
+        <name>Permanent exhibition</name>
+        <museum>UBC Museum of Anthropology, Vancouver, BC, Canada</museum>
+        <rating>5.0</rating>
+    </exhibition>
+    <exhibition>
+        <date>2015.08.07</date>
+        <name>Permanent exhibition</name>
+        <museum>Haida Gwaii Museum, Skidegate, BC, Canada</museum>
+        <rating>5.0</rating>
+    </exhibition>
     <exhibition>
         <date>2014.10.26</date>
         <name>Permanent exhibition</name>
