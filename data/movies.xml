@@ -2,6 +2,54 @@
 <movies>
   <introduction>A list of movies I saw.</introduction>
   <movie>
+    <date>2015.08.17</date>
+    <theater>Flight LH 477, Lufthansa</theater>
+    <director>Steven Spielberg</director>
+    <title>A.I. Artificial Intelligence</title>
+    <url>http://www.imdb.com/title/tt0212720/</url>
+    <rating>3.5</rating>
+  </movie>
+  <movie>
+    <date>2015.08.16</date>
+    <theater>Flight LH 477, Lufthansa</theater>
+    <director>Sean Penn</director>
+    <title>Into The Wild</title>
+    <url>http://www.imdb.com/title/tt0758758/</url>
+    <rating>5.0</rating>
+  </movie>
+  <movie>
+    <date>2015.07.26</date>
+    <theater home="true"/>
+    <director>Bryan Singer</director>
+    <title>The Usual Suspects</title>
+    <url>http://www.imdb.com/title/tt0114814/</url>
+    <rating>4.75</rating>
+  </movie>
+  <movie>
+    <date>2015.07.21</date>
+    <theater home="true"/>
+    <director>Mike Newell</director>
+    <title>Four Weddings and a Funeral</title>
+    <url>http://www.imdb.com/title/tt0109831/</url>
+    <rating>3.75</rating>
+  </movie>
+  <movie>
+    <date>2015.07.19</date>
+    <theater>Flight LX 38, Swiss</theater>
+    <director></director>
+    <title>Alien</title>
+    <url>http://www.imdb.com/title/tt0078748/</url>
+    <rating>4.75</rating>
+  </movie>
+  <movie>
+    <date>2015.07.19</date>
+    <theater>Flight LX 38, Swiss</theater>
+    <director>Noah Baumbach</director>
+    <title>While We Were Young"</title>
+    <url>http://www.imdb.com/title/tt1791682/</url>
+    <rating>4.5</rating>
+  </movie>
+  <movie>
     <date>2015.07.09</date>
     <theater>Galeries, Lausanne</theater>
     <director>Asif Kapadia</director>
