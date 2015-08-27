@@ -2,6 +2,14 @@
 <movies>
   <introduction>A list of movies I saw.</introduction>
   <movie>
+    <date>2015.08.26</date>
+    <theater>Le Capitole, Lausanne</theater>
+    <director>Charlie Chaplin</director>
+    <title>The Gold Rush</title>
+    <url>http://www.imdb.com/title/tt0015864/</url>
+    <rating>5.0</rating>
+  </movie>
+  <movie>
     <date>2015.08.17</date>
     <theater>Flight LH 477, Lufthansa</theater>
     <director>Steven Spielberg</director>
