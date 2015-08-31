@@ -55,7 +55,7 @@ See also [1000 places to see before you die](http://1000places.com/).
 
 * [auroras](https://en.wikipedia.org/wiki/Aurora) (where and when?)
 * [castles](https://en.wikipedia.org/wiki/Castle) ([England](https://en.wikipedia.org/wiki/England), [France](https://en.wikipedia.org/wiki/France), [Germany](https://en.wikipedia.org/wiki/Germany), etc.)
-* [polar bears](https://en.wikipedia.org/wiki/Polar_bear) (e.g. in [Churchill, Manitoba](https://en.wikipedia.org/wiki/Churchill,_Manitoba)])
+* [polar bears](https://en.wikipedia.org/wiki/Polar_bear) (e.g. in [Churchill, Manitoba](https://en.wikipedia.org/wiki/Churchill,_Manitoba))
 * [solar eclipses](https://en.wikipedia.org/wiki/Solar_eclipse)
 
 ## To-do
