@@ -42,6 +42,7 @@ Pretty much everything from [Les cent livres du siècle](https://fr.wikipedia.or
 ## Fiction
 
 * Douglas Adams, ["The Hitchhiker's Guide to the Galaxy"](https://en.wikipedia.org/wiki/The_Hitchhiker%27s_Guide_to_the_Galaxy)
+* Gabriel Bá & Fábio Moon, ["Daytripper"](https://en.wikipedia.org/wiki/Daytripper_(DC_Comics)) (recommended by [@avernet](https://twitter.com/avernet/status/638501563384885249))
 * René Barjavel, ["La Nuit des temps"](https://fr.wikipedia.org/wiki/La_Nuit_des_temps) (recommended by [@behaghel](https://twitter.com/behaghel))
 * René Barjavel, ["Le Grand Secret"](https://fr.wikipedia.org/wiki/Le_Grand_Secret_%28roman%29) (recommended by [@behaghel](https://twitter.com/behaghel))
 * René Barjavel, ["Ravage"](https://fr.wikipedia.org/wiki/Ravage_%28roman%29) (recommended by [@behaghel](https://twitter.com/behaghel))
