@@ -193,6 +193,7 @@ Pretty much everything from [IMDb's Top 250](http://www.imdb.com/chart/top).
 * Akira Kurosawa, [The Hidden Fortress](http://www.imdb.com/title/tt0051808/) (8.1) (recommended by [@ebruchez](https://twitter.com/ebruchez))
 * Ray Kurzweil & Anthony Waller, [The Singularity is Near](http://www.imdb.com/title/tt1049412) (6.7)
 * Ken Loach, [It's a Free World](http://www.imdb.com/title/tt0807054) (7.0)
+* Kevin Macdonald, [Touching the Void](http://www.imdb.com/title/tt0379557) (8.1) (recommended by [@caryl_jones](https://twitter.com/caryl_jones))
 * Jessie Nelson, [I Am Sam](http://www.imdb.com/title/tt0277027) (7.6)
 * George Pal, [The Time Machine](http://www.imdb.com/title/tt0054387) (7.6)
 * Robert Barry Ptolemy, [Transcendent Man](http://www.imdb.com/title/tt1117394) (7.2) (documentary about Ray Kurzweil)
