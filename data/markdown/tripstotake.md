@@ -2,6 +2,11 @@
 
 See also [1000 places to see before you die](http://1000places.com/).
 
+## Attractions
+
+* [Great Wall of China](https://en.wikipedia.org/wiki/Great_Wall_of_China)
+* [Mount Rushmore](https://en.wikipedia.org/wiki/Mount_Rushmore)
+
 ## Cities
 
 * [Budapest](https://en.wikipedia.org/wiki/Budapest)
@@ -41,9 +46,12 @@ See also [1000 places to see before you die](http://1000places.com/).
 ## Regions
 
 * [Alaska](https://en.wikipedia.org/wiki/Alaska) (really interesting?)
+* [Alsace](https://en.wikipedia.org/wiki/Alsace) ([Christmas markets](https://en.wikipedia.org/wiki/Christmas_market), [Colmar](https://en.wikipedia.org/wiki/Colmar), etc.)
 * [Lapland](https://en.wikipedia.org/wiki/S%C3%A1pmi) (cf Vanessa/Grégoire's trip)
 * [Northern Canada](https://en.wikipedia.org/wiki/Northern_Canada) (e.g. [Yellowknife](https://en.wikipedia.org/wiki/Yellowknife), [Whitehorse, Yukon](https://en.wikipedia.org/wiki/Whitehorse,_Yukon), etc.)
+* [Northern Norway](https://en.wikipedia.org/wiki/Northern_Norway) (possible to sleep in camping cabins/hytte like in the South? any particular standout hike/trek?)
 * [Rocky Mountain National Park](https://en.wikipedia.org/wiki/Rocky_Mountain_National_Park)
+* [South America](https://en.wikipedia.org/wiki/South_America) (never been there as of 2015)
 
 ## Switzerland
 
