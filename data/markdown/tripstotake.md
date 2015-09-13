@@ -46,7 +46,7 @@ See also [1000 places to see before you die](http://1000places.com/).
 ## Regions
 
 * [Alaska](https://en.wikipedia.org/wiki/Alaska) (really interesting?)
-* [Alsace](https://en.wikipedia.org/wiki/Alsace) ([Christmas markets](https://en.wikipedia.org/wiki/Christmas_market), [Colmar](https://en.wikipedia.org/wiki/Colmar), etc.)
+* [Alsace](https://en.wikipedia.org/wiki/Alsace) ([Christmas markets](https://en.wikipedia.org/wiki/Christmas_market), [Colmar](https://en.wikipedia.org/wiki/Colmar), etc. - in December, book hotels early!)
 * [Lapland](https://en.wikipedia.org/wiki/S%C3%A1pmi) (cf Vanessa/Grégoire's trip)
 * [Northern Canada](https://en.wikipedia.org/wiki/Northern_Canada) (e.g. [Yellowknife](https://en.wikipedia.org/wiki/Yellowknife), [Whitehorse, Yukon](https://en.wikipedia.org/wiki/Whitehorse,_Yukon), etc.)
 * [Northern Norway](https://en.wikipedia.org/wiki/Northern_Norway) (possible to sleep in camping cabins/hytte like in the South? any particular standout hike/trek?)
