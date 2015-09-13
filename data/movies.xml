@@ -2,6 +2,15 @@
 <movies>
   <introduction>A list of movies I saw.</introduction>
   <movie>
+    <date>2015.09.12</date>
+    <theater home="true"/>
+    <director>Jamie Uys</director>
+    <title>The Gods Must Be Crazy</title>
+    <url>http://www.imdb.com/title/tt0080801/</url>
+    <rating>3.5</rating>
+    <comments>Already seen on TV a long time ago (in the 80s).</comments>
+  </movie>
+  <movie>
     <date>2015.08.26</date>
     <theater>Le Capitole, Lausanne</theater>
     <director>Charlie Chaplin</director>

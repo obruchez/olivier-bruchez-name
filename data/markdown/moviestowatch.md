@@ -251,7 +251,6 @@ Pretty much everything from [IMDb's Top 250](http://www.imdb.com/chart/top).
 * Tom Tykwer, [Perfume: The Story of a Murderer ](http://www.imdb.com/title/tt0396171) (7.5)
 * Neil Burger, [Limitless](http://www.imdb.com/title/tt1219289) (7.4)
 * John Carpenter, [They Live](http://www.imdb.com/title/tt0096256) (7.3)
-* Jamie Uys, [The Gods Must Be Crazy](http://www.imdb.com/title/tt0080801) (7.3) (seen on TV a very long time ago)
 * Antonio Naharro & Álvaro Pastor, [Yo, también](http://www.imdb.com/title/tt1289449) (7.2)
 
 ## To-do
