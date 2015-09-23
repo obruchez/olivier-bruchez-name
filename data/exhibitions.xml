@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <exhibitions>
     <introduction>A list of exhibitions I visited.</introduction>
-
+    <exhibition>
+        <date>2015.09.20</date>
+        <name>Klee &amp; Kandinsky / Klee in Bern</name>
+        <museum>Zentrum Paul Klee, Bern, Switzerland</museum>
+        <rating>4.75</rating>
+    </exhibition>
     <exhibition>
         <date>2015.08.15</date>
         <name>Permanent exhibition</name>
