@@ -2,6 +2,13 @@
 <trips>
   <introduction>A list of trips I took.</introduction>
   <trip>
+    <from>2015.09.19</from>
+    <to>2015.09.21</to>
+    <place>Giessbach / Bern, Switzerland</place>
+    <pictures url="https://www.flickr.com/photos/bruchez/sets/72157658590382979">Giessbach</pictures>
+    <pictures url="https://www.flickr.com/photos/bruchez/sets/72157658598909858">Bern</pictures>
+  </trip>
+  <trip>
     <from>2015.07.27</from>
     <to>2015.08.17</to>
     <place>British Columbia / Alberta, Canada</place>
