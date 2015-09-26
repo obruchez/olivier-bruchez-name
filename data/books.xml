@@ -2,6 +2,14 @@
 <books>
     <introduction>A list of books I read.</introduction>
     <book>
+        <date></date>
+        <title>Hygiène de l'assassin</title>
+        <author>Amélie Nothomb</author>
+        <publishingyear>1992</publishingyear>
+        <rating></rating>
+        <url>https://fr.wikipedia.org/wiki/Hygi%C3%A8ne_de_l%27assassin</url>
+    </book>
+    <book>
         <date>2015.09.26</date>
         <title>Surely You're Joking, Mr. Feynman!</title>
         <author>Ralph Leighton &amp; Richard Feynman</author>
