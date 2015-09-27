@@ -28,6 +28,7 @@ Pretty much everything from [Les cent livres du siècle](https://fr.wikipedia.or
 
 ## Economics
 
+* Jacques Attali, ["La crise, et après ?"](http://www.amazon.fr/La-crise-apr%C3%A8s-Jacques-Attali/dp/2213643075) and [other essays](https://fr.wikipedia.org/wiki/Jacques_Attali#Essais) (economics, finance, etc.) (was this recommended by [@behaghel](https://twitter.com/behaghel)?)
 * Ronald Findlay, ["Power and Plenty: Trade, War, and the World Economy in the Second Millennium (Princeton Economic History of the Western World)"](http://www.amazon.com/Power-Plenty-Millennium-Princeton-Economic-ebook/dp/B003SNJEPS/) (recommended by Christoph G.)
 * Thomas Piketty, ["Le Capital au XXIe siècle"](http://www.amazon.fr/Le-Capital-au-XXIe-si%C3%A8cle-ebook/dp/B00EYCOV3M/) (long book - 970 pages -, recommended by [@danielmiessler](https://twitter.com/danielmiessler))
 
@@ -42,6 +43,7 @@ Pretty much everything from [Les cent livres du siècle](https://fr.wikipedia.or
 ## Fiction
 
 * Douglas Adams, ["The Hitchhiker's Guide to the Galaxy"](https://en.wikipedia.org/wiki/The_Hitchhiker%27s_Guide_to_the_Galaxy)
+* Scott Adams, ["The Religion War"](https://en.wikipedia.org/wiki/The_Religion_War)
 * Gabriel Bá & Fábio Moon, ["Daytripper"](https://en.wikipedia.org/wiki/Daytripper_(DC_Comics)) (recommended by [@avernet](https://twitter.com/avernet/status/638501563384885249))
 * René Barjavel, ["La Nuit des temps"](https://fr.wikipedia.org/wiki/La_Nuit_des_temps) (recommended by [@behaghel](https://twitter.com/behaghel))
 * René Barjavel, ["Le Grand Secret"](https://fr.wikipedia.org/wiki/Le_Grand_Secret_%28roman%29) (recommended by [@behaghel](https://twitter.com/behaghel))
@@ -51,6 +53,7 @@ Pretty much everything from [Les cent livres du siècle](https://fr.wikipedia.or
 * Arthur C. Clarke, ["Childhood's End"](https://en.wikipedia.org/wiki/Childhood%27s_End)
 * S. Corinna Bille, ["La Fraise Noire"](https://encrypted.google.com/books/about/La_fraise_noire.html?id=0EUVAAAAMAAJ) (read a long time ago?)
 * Douglas Coupland, ["Microserfs"](https://en.wikipedia.org/wiki/Microserfs)
+* Roald Dahl, short stories not included in ["The Collected Short Stories of Roald Dahl"](https://en.wikipedia.org/wiki/The_Collected_Short_Stories_of_Roald_Dahl)
 * Friedrich Dürrenmatt, ["Der Tunnel"](https://en.wikipedia.org/wiki/The_Tunnel_%28short_story%29) (short story, mentioned by [@icassina](https://twitter.com/icassina))
 * Antoine Galland, ["Les Milles et Une Nuits"](https://fr.wikipedia.org/wiki/Les_Mille_et_Une_Nuits)
 * Franz Kafka, ["L'amérique"](https://fr.wikipedia.org/wiki/L%27Am%C3%A9rique) (read during the 90s)
@@ -122,16 +125,29 @@ Pretty much everything from [Les cent livres du siècle](https://fr.wikipedia.or
 ## Philosophy / atheism / religion
 
 * Scott Atran, ["In Gods We Trust: The Evolutionary Landscape of Religion"](http://www.amazon.com/Gods-Trust-Evolutionary-Landscape-Evolution-ebook/dp/B0058RTMXG/) (mentioned by Carlo Strenger in "The Fear of Insignificance: Searching for Meaning in the Twenty-First Century")
+* Simon Blackburn, ["Think: A Compelling Introduction to Philosophy"](https://en.wikipedia.org/wiki/Think:_A_Compelling_Introduction_to_Philosophy) (Blackburn is an atheist; he doesn't agree with Harris on morality)
 * Russell Blackford & Damien Broderick, ["Intelligence Unbound: The Future of Uploaded and Machine Minds"](http://www.amazon.com/Intelligence-Unbound-Future-Uploaded-Machine/dp/1118736281/) (mentioned on [kurzweilai.net](http://www.kurzweilai.net/intelligence-unbound-the-future-of-uploaded-and-machine-minds))
 * Jean Bricmont & Alan Sokal, ["Intellectual Impostures"](http://www.amazon.com/Intellectual-Impostures-Jean-Bricmont-ebook/dp/B005OA3I8C/) (recommended by Stephen Law - books about pseudoscience; see also the original French version, ["Impostures intellectuelles"](http://www.amazon.fr/Impostures-intellectuelles-Alan-Sokal-ebook/dp/B00QR1Q48S/))
+* Richard Carrier, ["On the Historicity of Jesus: Why We Might Have Reason for Doubt"](http://www.amazon.com/gp/product/1909697494/) (this seems to be a serious book on the topic of the historicity of Jesus - no conspiracy theories, etc.)
 * André Comte-Sponville, ["L'esprit de l'athéisme : Introduction à une spiritualité sans Dieu"](https://fr.wikipedia.org/wiki/L%27Esprit_de_l%27ath%C3%A9isme) (Comte-Sponville sounds like an "old atheist", who thinks that religion can be good - e.g. lead to a more moral life)
 * Paul Davies, ["The Mind Of God"](https://en.wikipedia.org/wiki/The_Mind_of_God)
+* Will Durant, ["The Story of Philosophy: The Lives and Opinions of the World's Greatest Philosophers"](http://www.amazon.com/The-Story-Philosophy-Opinions-Philosophers/dp/0671739166)
+* David Fitzgerald, ["Nailed: Ten Christian Myths That Show Jesus Never Existed at All"](http://www.amazon.com/Nailed-Christian-Myths-Jesus-Existed/dp/0557709911) (is this as seriously researched as Carrier's book?)
 * Caroline Fourest, ["Tirs croisés : La laïcité à l'épreuve des intégrismes juif, chrétien et musulman"](http://www.amazon.fr/Tirs-crois%C3%A9s-l%C3%A9preuve-int%C3%A9grismes-chr%C3%A9tien/dp/2253114375/) (recommended by [@ArianeBeldi](https://twitter.com/ArianeBeldi))
 * Caroline Fourest, ["Le choc des préjugés : L'impasse des postures sécuritaires et victimaires"](http://www.amazon.fr/choc-pr%C3%A9jug%C3%A9s-Limpasse-s%C3%A9curitaires-victimaires/dp/2702135331/) (recommended by [@ArianeBeldi](https://twitter.com/ArianeBeldi))
 * Michael S. A. Graziano, ["Consciousness and the Social Brain"](http://www.amazon.com/Consciousness-Social-Brain-Michael-Graziano/dp/0199928649) (summarized by [@SelfAwarePatter](https://twitter.com/SelfAwarePatter) on [his blog](http://selfawarepatterns.com/2013/12/30/consciousness-and-the-social-brain-a-review/))
+* Bruce Hood, ["The Self Illusion: How the Social Brain Creates Identity"](http://www.amazon.com/The-Self-Illusion-Creates-Identity/dp/0199988781) (interviewed by [@SamHarrisOrg](https://twitter.com/SamHarrisOrg))
+* George Levine, ["The Joy of Secularism: 11 Essays for How We Live Now"](http://www.amazon.com/The-Joy-Secularism-Essays-Live/dp/0691156026)
+* Bryan Magee, ["The Great Philosophers: An Introduction to Western Philosophy"](http://www.amazon.com/The-Great-Philosophers-Introduction-Philosophy/dp/019289322X) (was Magee atheist?)
+* Jacques Monod, ["Le Hasard et la Nécessité. Essai sur la philosophie naturelle de la biologie moderne"](https://fr.wikipedia.org/wiki/Le_Hasard_et_la_N%C3%A9cessit%C3%A9) (Monod was Camus' friend; this book seems to be a good complement to ["The Selfish Gene"](https://en.wikipedia.org/wiki/The_Selfish_Gene))
 * Thomas Nagel, ["The Last Word"](http://www.amazon.com/Last-Word-Thomas-Nagel/dp/0195149831/) (recommended by [@SamHarrisOrg](https://twitter.com/SamHarrisOrg))
+* David Niose, ["Nonbeliever Nation: The Rise of Secular Americans"](http://www.amazon.com/Nonbeliever-Nation-Rise-Secular-Americans/dp/1137278714) (reviewed on [Friendly Atheist](http://www.patheos.com/blogs/friendlyatheist/2012/09/29/a-review-of-david-nioses-nonbeliever-nation/))
+* Robert Nozick, ["Philosophical Explanations"](https://en.wikipedia.org/wiki/Philosophical_Explanations)
+* Richard Oerton, ["The Nonsense of Free Will: Facing Up to a False Belief"](http://www.amazon.com/The-Nonsense-Free-Will-Facing/dp/1780882874) (recommended by [@SamHarrisOrg](https://twitter.com/SamHarrisOrg))
+* Michel Onfray, ["Contre-histoire de la philosophie"](https://fr.wikipedia.org/wiki/Contre-histoire_de_la_philosophie) (several volumes)
 * Derek Parfit, ["Reasons and Persons"](http://www.amazon.com/Reasons-Persons-Derek-Parfit/dp/019824908X/) (recommended by [@SamHarrisOrg](https://twitter.com/SamHarrisOrg))
 * Jean-François Revel & Matthieu Ricard, ["Le moine et le philosophe"](http://www.amazon.fr/moine-philosophe-Jean-Fran-ois-Revel-ebook/dp/B009HBIGCC/) (mentioned by Carlo Strenger in "The Fear of Insignificance")
+* Michael Sandel, ["Justice: What's the Right Thing to Do?"](https://en.wikipedia.org/wiki/Justice:_What%27s_the_Right_Thing_to_Do%3F) (recommended by Massimo Pigliucci in his negative review of ["The Moral Landscape"](https://en.wikipedia.org/wiki/The_Moral_Landscape))
 * Nassim Nicholas Taleb, ["The Black Swan: The Impact of the Highly Improbable"](https://en.wikipedia.org/wiki/The_Black_Swan_(2007_book))
 * Theodore Schick & Lewis Vaughn, ["How to Think About Weird Things: Critical Thinking for a New Age"](http://www.amazon.com/How-Think-About-Weird-Things/dp/007353577X) (recommended by Peter Boghossian, author of "A Manual for Creating Atheists")
 
@@ -184,3 +200,4 @@ Pretty much everything from [Les cent livres du siècle](https://fr.wikipedia.or
 ## To-do
 
 * migrate my Google Drive document to this list
+ 
