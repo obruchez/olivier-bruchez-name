@@ -83,7 +83,6 @@ Pretty much everything from [Les cent livres du siècle](https://fr.wikipedia.or
 * Jean Brissonnet, ["Les pseudo-médecines : Un serment d'hypocrites"](http://www.amazon.fr/pseudo-m%C3%A9decines-Un-serment-dhypocrites/dp/2915312028/)
 * Grégoire Cozon, ["Fatigue chronique"](https://encrypted.google.com/books/about/Fatigue_chronique.html?id=8UFrPQAACAAJ) (bought in 2005 - do I really want to read this?)
 * Edzard Ernst, ["Healing, Hype, or Harm?: A Critical Analysis of Complementary or Alternative Medicine"](http://www.amazon.com/Healing-Hype-Harm-Complementary-Alternative/dp/1845401182/)
-* Ben Goldacre, ["Bad Pharma: How drug companies mislead doctors and harm patients"](http://www.amazon.co.uk/dp/0007350740/)
 * Mikhail Tombak, ["Can We Live 150 Years?"](http://www.amazon.com/Can-Live-150-Years-Maintenance/dp/0972732845/)
 
 ## History / anthropology
