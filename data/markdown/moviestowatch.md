@@ -57,8 +57,8 @@ Pretty much everything from [IMDb's Top 250](http://www.imdb.com/chart/top).
 
 ## [Jean-Pierre Jeunet](http://www.imdb.com/name/nm0000466)
 
-* [The Young and Prodigious T.S. Spivet](http://www.imdb.com/title/tt1981107) (7.2)
 * [Micmacs à tire-larigot](http://www.imdb.com/title/tt1149361) (7.2)
+* [The Young and Prodigious T.S. Spivet](http://www.imdb.com/title/tt1981107) (7.1)
 
 ## [Joel](http://www.imdb.com/name/nm0001054) & [Ethan](http://www.imdb.com/name/nm0001053) Coen
 
@@ -86,6 +86,21 @@ Pretty much everything from [IMDb's Top 250](http://www.imdb.com/chart/top).
 * [Roger & Me](http://www.imdb.com/title/tt0098213) (7.5)
 * [Capitalism: A Love Story](http://www.imdb.com/title/tt1232207) (7.4)
 * [The Big One](http://www.imdb.com/title/tt0124295) (7.1)
+* [Where to Invade Next](http://www.imdb.com/title/tt4897822/)
+
+## [Pedro Almodóvar](http://www.imdb.com/name/nm0000264/)
+
+* [Talk to Her](http://www.imdb.com/title/tt0287467/) (8.0)
+* [Women on the Verge of a Nervous Breakdown](http://www.imdb.com/title/tt0095675/) (7.6)
+* [Bad Education](http://www.imdb.com/title/tt0275491/) (7.5)
+* [Live Flesh ](http://www.imdb.com/title/tt0118819/) (7.5)
+* [Broken Embraces ](http://www.imdb.com/title/tt0913425/) (7.2)
+* [Law of Desire](http://www.imdb.com/title/tt0093412/) (7.2)
+* [High Heels](http://www.imdb.com/title/tt0103030/) (7.2)
+* [What Have I Done to Deserve This?](http://www.imdb.com/title/tt0088461/) (7.2)
+* [The Flower of My Secret](http://www.imdb.com/title/tt0113083/) (7.1)
+* [Tie Me Up! Tie Me Down!](http://www.imdb.com/title/tt0101026/) (7.0)
+* [Matador](http://www.imdb.com/title/tt0091495/) (7.0)
 
 ## [Richard Linklater](http://www.imdb.com/name/nm0000500)
 
@@ -112,6 +127,7 @@ Pretty much everything from [IMDb's Top 250](http://www.imdb.com/chart/top).
 * ([Oliver Twist](http://www.imdb.com/title/tt0380599) (6.9))
 * ([Frantic](http://www.imdb.com/title/tt0095174) (6.9)) (already seen on TV a long time ago)
 * ([What?](http://www.imdb.com/title/tt0070913) (5.9))
+* short films (9 from 1955-1962, one from 2009, one from 2012)
 
 ## [Spike Jonze](http://www.imdb.com/name/nm0005069)
 
@@ -194,12 +210,14 @@ Pretty much everything from [IMDb's Top 250](http://www.imdb.com/chart/top).
 * Ray Kurzweil & Anthony Waller, [The Singularity is Near](http://www.imdb.com/title/tt1049412) (6.7)
 * Ken Loach, [It's a Free World](http://www.imdb.com/title/tt0807054) (7.0)
 * Kevin Macdonald, [Touching the Void](http://www.imdb.com/title/tt0379557) (8.1) (recommended by [@caryl_jones](https://twitter.com/caryl_jones))
+* Louis Malle, [Ascenseur pour l'échafaud](http://www.imdb.com/title/tt0051378/) (8.0) (music by Miles Davis)
 * Jessie Nelson, [I Am Sam](http://www.imdb.com/title/tt0277027) (7.6)
 * George Pal, [The Time Machine](http://www.imdb.com/title/tt0054387) (7.6)
 * Robert Barry Ptolemy, [Transcendent Man](http://www.imdb.com/title/tt1117394) (7.2) (documentary about Ray Kurzweil)
 * Michèle Rosier, [Mon coeur est rouge](http://www.imdb.com/title/tt0074913) (7.8) (some music composed by Keith Jarrett)
 * Patrick Savey, [Marcus](http://www.imdb.com/title/tt4400358) (available on iTunes)
 * Douglas Trumbull, [Brainstorm](http://www.imdb.com/title/tt0085271) (6.5) (not particularly good, saw this as a child)
+* Jacqueline Veuve, [La petite dame du Capitole](http://www.jacquelineveuve.ch/dsp_1f.php?lg=fr&fid=61) (already seen at the cinema, bought on DVD)
 
 ## Selections from [25 Spectacular Movies You (Probably) Haven’t Seen](http://www.highexistence.com/25-spectacular-movies-you-probably-havent-seen/)
 
