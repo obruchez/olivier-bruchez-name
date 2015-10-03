@@ -3,10 +3,18 @@
     <introduction>A list of books I read.</introduction>
     <book>
         <date></date>
+        <title>Functional Programming in Scala</title>
+        <author>Paul Chiusano &amp; Runar Bjarnason </author>
+        <publishingyear>2014</publishingyear>
+        <rating></rating>
+        <url>https://books.google.ch/books?ie=UTF-8&amp;vid=1617290653&amp;redir_esc=y</url>
+    </book>
+    <book>
+        <date>2015.10.03</date>
         <title>Hygiène de l'assassin</title>
         <author>Amélie Nothomb</author>
         <publishingyear>1992</publishingyear>
-        <rating></rating>
+        <rating>3.75</rating>
         <url>https://fr.wikipedia.org/wiki/Hygi%C3%A8ne_de_l%27assassin</url>
     </book>
     <book>
