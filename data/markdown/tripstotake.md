@@ -55,6 +55,7 @@ See also [1000 places to see before you die](http://1000places.com/).
 
 ## Switzerland
 
+* [Ebenalp](https://en.wikipedia.org/wiki/Ebenalp) (hiking, cable car, etc.)
 * [Jungfraujoch](https://en.wikipedia.org/wiki/Jungfraujoch)
 * [Ticino](https://en.wikipedia.org/wiki/Ticino)
 * [Zermatt](https://en.wikipedia.org/wiki/Zermatt) / [Matterhorn](https://en.wikipedia.org/wiki/Matterhorn)
