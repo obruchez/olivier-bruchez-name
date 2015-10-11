@@ -53,17 +53,30 @@ See also [1000 places to see before you die](http://1000places.com/).
 * [Rocky Mountain National Park](https://en.wikipedia.org/wiki/Rocky_Mountain_National_Park)
 * [South America](https://en.wikipedia.org/wiki/South_America) (never been there as of 2015)
 
+## Roads
+
+* [Atlantic Ocean Road](https://en.wikipedia.org/wiki/Atlantic_Ocean_Road)
+* [Furka Pass](https://en.wikipedia.org/wiki/Furka_Pass)
+* [Highway 1, Big Sur](https://en.wikipedia.org/wiki/California_State_Route_1)
+* [U.S. Route 66](https://en.wikipedia.org/wiki/U.S._Route_66)
+* see also [21 Roads You Have to Drive in Your Lifetime](http://twistedsifter.com/2013/03/roads-to-drive-before-you-die/)
+
 ## Switzerland
 
 * [Ebenalp](https://en.wikipedia.org/wiki/Ebenalp) (hiking, cable car, etc.)
 * [Jungfraujoch](https://en.wikipedia.org/wiki/Jungfraujoch)
+* [Lake Constance](https://en.wikipedia.org/wiki/Lake_Constance)
+* [Maison Cailler, Broc](http://www.la-gruyere.ch/en/maison-cailler.html)
+* [Montreux–Oberland Bernois railway](https://en.wikipedia.org/wiki/Montreux%E2%80%93Oberland_Bernois_railway)
+* [St. Gallen](https://en.wikipedia.org/wiki/St._Gallen)
 * [Ticino](https://en.wikipedia.org/wiki/Ticino)
 * [Zermatt](https://en.wikipedia.org/wiki/Zermatt) / [Matterhorn](https://en.wikipedia.org/wiki/Matterhorn)
 
 ## Themes
 
 * [auroras](https://en.wikipedia.org/wiki/Aurora) (where and when?)
-* [castles](https://en.wikipedia.org/wiki/Castle) ([England](https://en.wikipedia.org/wiki/England), [France](https://en.wikipedia.org/wiki/France), [Germany](https://en.wikipedia.org/wiki/Germany), etc.)
+* [castles](https://en.wikipedia.org/wiki/Castle) ([England](https://en.wikipedia.org/wiki/England), [France](https://en.wikipedia.org/wiki/France), [Germany](https://en.wikipedia.org/wiki/Germany), [Switzerland](http://www.myswitzerland.com/en-ch/interests/excursion-summer/historical-switzerland/castles-palaces.html), etc.)
+* [cruises](https://en.wikipedia.org/wiki/Cruise_ship)
 * [polar bears](https://en.wikipedia.org/wiki/Polar_bear) (e.g. in [Churchill, Manitoba](https://en.wikipedia.org/wiki/Churchill,_Manitoba))
 * [solar eclipses](https://en.wikipedia.org/wiki/Solar_eclipse)
 
