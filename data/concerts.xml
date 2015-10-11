@@ -7,8 +7,27 @@
   - 2004/xx/xx EST ??? (vus en tout cas une ou deux fois)
   - 2002/02/11 : Brad Mehldau + Thierry Lang, Lausanne (? -> bad date)
   - 1998/07/08 THE KENNY WAYNE SHEPHERD BAND (http://www.montreuxsounds.com/detail2006.php?fiche=2013) (vu ou pas ?)
+  - Avenches (Arènes): Carmen (Bizet)
   -->
   <introduction>A list of concerts I went to.</introduction>
+  <concert>
+    <date>2015.10.09</date>
+    <location>Opéra de Lausanne, Lausanne, Switzerland</location>
+    <musician inst="vocals">Serena Malfi</musician>
+    <musician inst="vocals">Edgardo Rocha</musician>
+    <musician inst="vocals">Alexandre Diakoff</musician>
+    <musician inst="vocals">Giorgio Caoduro</musician>
+    <musician inst="vocals">Laure Barras</musician>
+    <musician inst="vocals">Catherine Trottmann</musician>
+    <musician inst="vocals">Luigi De Donato</musician>
+    <musician inst="orchestra">Orchestre de Chambre de Lausanne</musician>
+    <musician inst="conductor">Stefano Ranzani</musician>
+    <musician inst="choir">Chœur de l’Opéra de Lausanne</musician>
+    <musician inst="choir director">Pascal Mayer</musician>
+    <musician inst="">Maîtrise Horizons du Conservatoire de Lausanne</musician>
+    <rating>5.0</rating>
+    <comments>"La Cenerentola" opera (Gioachino Rossini), directed by Adriano Sinivia.</comments>
+  </concert>
   <concert>
     <date>2015.07.17</date>
     <location>Auditorium Stravinski, Montreux, Switzerland</location>
@@ -55,7 +74,7 @@
     <musician inst="choir director">Pascal Mayer</musician>
     <musician inst="">Maîtrise Horizons du Conservatoire de Lausanne</musician>
     <rating>5.0</rating>
-    <comments>"Die Zauberflöte" opera, directed by Pet Halmen.</comments>
+    <comments>"Die Zauberflöte" opera (Wolfgang Amadeus Mozart), directed by Pet Halmen.</comments>
   </concert>
   <concert>
     <date>2015.05.28</date>
