@@ -201,7 +201,7 @@ Pretty much everything from [Les cent livres du siècle](https://fr.wikipedia.or
 
 * Caroline Fourest, ["Le choc des préjugés : L'impasse des postures sécuritaires et victimaires"](http://www.amazon.fr/choc-pr%C3%A9jug%C3%A9s-Limpasse-s%C3%A9curitaires-victimaires/dp/2702135331/) (recommended by [@ArianeBeldi](https://twitter.com/ArianeBeldi))
 * Normand Baillargeon, ["Petit cours d'autodéfense intellectuelle"](http://www.amazon.com/petit-dautod%C3%A9fense-intellectuelle-Normand-Baillargeon/dp/2895960445)
-* Thomas Friedman, ["The World Is Flat"](The World Is Flat: A Brief History of the Twenty-First Century)
+* Thomas Friedman, ["The World Is Flat: A Brief History of the Twenty-First Century"](https://en.wikipedia.org/wiki/The_World_Is_Flat)
 * A. des Isnards & T. Zuber, ["L'Open Space m'a tuer"](http://www.amazon.fr/LOpen-space-tuer-Alexandre-ISNARDS/dp/2266258095)
 
 ## Switzerland
