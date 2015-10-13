@@ -2,6 +2,19 @@
 
 Pretty much everything from [Les cent livres du siècle](https://fr.wikipedia.org/wiki/Les_cent_livres_du_si%C3%A8cle). See also [Quels sont les classiques littéraires à lire absolument ?](https://fr.answers.yahoo.com/question/index?qid=20111112161815AAh5LUy), [100 Books to Read in a Lifetime](http://www.amazon.com/b?node=8192263011) and many other similar lists.
 
+## Atheism / religion
+
+* Scott Atran, ["In Gods We Trust: The Evolutionary Landscape of Religion"](http://www.amazon.com/Gods-Trust-Evolutionary-Landscape-Evolution-ebook/dp/B0058RTMXG/) (mentioned by Carlo Strenger in "The Fear of Insignificance: Searching for Meaning in the Twenty-First Century")
+* Richard Carrier, ["On the Historicity of Jesus: Why We Might Have Reason for Doubt"](http://www.amazon.com/gp/product/1909697494/) (this seems to be a serious book on the topic of the historicity of Jesus - no conspiracy theories, etc.)
+* André Comte-Sponville, ["L'esprit de l'athéisme : Introduction à une spiritualité sans Dieu"](https://fr.wikipedia.org/wiki/L%27Esprit_de_l%27ath%C3%A9isme) (Comte-Sponville sounds like an "old atheist", who thinks that religion can be good - e.g. lead to a more moral life)
+* David Fitzgerald, ["Nailed: Ten Christian Myths That Show Jesus Never Existed at All"](http://www.amazon.com/Nailed-Christian-Myths-Jesus-Existed/dp/0557709911) (is this as seriously researched as Carrier's book?)
+* Caroline Fourest, ["Tirs croisés : La laïcité à l'épreuve des intégrismes juif, chrétien et musulman"](http://www.amazon.fr/Tirs-crois%C3%A9s-l%C3%A9preuve-int%C3%A9grismes-chr%C3%A9tien/dp/2253114375/) (recommended by [@ArianeBeldi](https://twitter.com/ArianeBeldi))
+* George Levine, ["The Joy of Secularism: 11 Essays for How We Live Now"](http://www.amazon.com/The-Joy-Secularism-Essays-Live/dp/0691156026)
+* David Niose, ["Nonbeliever Nation: The Rise of Secular Americans"](http://www.amazon.com/Nonbeliever-Nation-Rise-Secular-Americans/dp/1137278714) (reviewed on [Friendly Atheist](http://www.patheos.com/blogs/friendlyatheist/2012/09/29/a-review-of-david-nioses-nonbeliever-nation/))
+* Victor J. Stenger, ["God: The Failed Hypothesis"](https://en.wikipedia.org/wiki/God:_The_Failed_Hypothesis) (Victor J. Stenger is one of the "New Atheists", he died in 2014)
+* [Bible](https://en.wikipedia.org/wiki/Bible) (e-book, really long to read?)
+* authors listed in ["50 Top Atheists in the World Today"](http://www.thebestschools.org/blog/2011/12/01/50-top-atheists-in-the-world-today/) (2011) (Peter Singer, etc.)
+
 ## Biography
 
 * Christopher Hitchens, ["Hitch-22: A Memoir"](https://en.wikipedia.org/wiki/Hitch-22)
@@ -90,6 +103,10 @@ Pretty much everything from [Les cent livres du siècle](https://fr.wikipedia.or
 * Jared Diamond, ["Collapse: How Societies Choose to Fail or Succeed"](https://en.wikipedia.org/wiki/Collapse:_How_Societies_Choose_to_Fail_or_Succeed) (recommended by Franck?)
 * Jared Diamond, ["Guns, Germs, and Steel: The Fates of Human Societies"](https://en.wikipedia.org/wiki/Guns,_Germs,_and_Steel) (recommended by Franck?)
 
+## Humor
+
+* Pierre Desproges, ["Dictionnaire superflu à l'usage de l'élite et des biens nantis"](http://www.amazon.fr/Dictionnaire-superflu-lusage-l%C3%A9lite-nantis/dp/2020324369) (and others)
+
 ## Interviews
 
 * Maurice Chappaz, ["À-Dieu-Vat !"](https://encrypted.google.com/books/about/%C3%80_Dieu_vat.html?id=NJwbAQAAIAAJ)
@@ -98,6 +115,10 @@ Pretty much everything from [Les cent livres du siècle](https://fr.wikipedia.or
 
 * Stephan Bodian, ["Zen ! La méditation pour les nuls"](https://encrypted.google.com/books/about/Zen_La_m%C3%A9ditation_pour_les_nuls.html?id=Qo6gOwAACAAJ) (I started reading this in 2004, never finished it)
 * Alan Watts, ["Out of Your Mind: Essential Listening from the Alan Watts Audio Archives"](http://www.amazon.com/dp/1591791650) (audio book, recommended by [@avernet](https://twitter.com/avernet))
+
+## Misc
+
+* Florence Braunstein & Jean-François Pépin, ["La Culture générale pour les Nuls"](http://www.amazon.fr/Culture-g%C3%A9n%C3%A9rale-Pour-Nuls-%C3%A9dition/dp/2754016287)
 
 ## Music
 
@@ -115,36 +136,35 @@ Pretty much everything from [Les cent livres du siècle](https://fr.wikipedia.or
 * David Allen, ["Making It All Work"](http://www.amazon.com/Making-All-Work-Winning-Business/dp/067001995X/)
 * Leo Babauta, ["The One Skill: How Mastering the Art of Letting Go Will Change Your Life"](http://zenhabits.net/lg/) (free book, mentioned by [@avernet](https://twitter.com/avernet))
 * Leo Babauta, ["Zen To Done"](http://www.amazon.com/Zen-Done-Ultimate-Simple-Productivity-ebook/dp/B001970HQU/)
+* Travis Bradberry & Jean Greaves, ["Emotional Intelligence 2.0"](https://en.wikipedia.org/wiki/Emotional_Intelligence_2.0)
 * Arvind Devalia, ["Get the Life You Love and Live It"](http://www.amazon.com/Get-Life-You-Love-Live/dp/1905613008/)
 * Jonathan Fields, ["Career Renegade: How to Make a Great Living Doing What You Love"](http://www.amazon.com/Career-Renegade-Great-Living-Doing/dp/0767927419/)
 * P.M. Forni, ["The Thinking Life: How to Thrive in the Age of Distraction"](http://www.amazon.com/The-Thinking-Life-Thrive-Distraction/dp/B008SMFIC2/)
 * FruitfulTime, ["Stop Procrastination Now"](https://dollswithoutheads.files.wordpress.com/2008/10/stop-procrastination-now.pdf) (and I should probably start by not reading this book...)
 * Eckhart Tolle, ["A New Earth"](http://www.amazon.com/New-Earth-Awakening-Purpose-Selection/dp/0452289963/)
 
-## Philosophy / atheism / religion
+## Philosophy
 
-* Scott Atran, ["In Gods We Trust: The Evolutionary Landscape of Religion"](http://www.amazon.com/Gods-Trust-Evolutionary-Landscape-Evolution-ebook/dp/B0058RTMXG/) (mentioned by Carlo Strenger in "The Fear of Insignificance: Searching for Meaning in the Twenty-First Century")
 * Simon Blackburn, ["Think: A Compelling Introduction to Philosophy"](https://en.wikipedia.org/wiki/Think:_A_Compelling_Introduction_to_Philosophy) (Blackburn is an atheist; he doesn't agree with Harris on morality)
 * Russell Blackford & Damien Broderick, ["Intelligence Unbound: The Future of Uploaded and Machine Minds"](http://www.amazon.com/Intelligence-Unbound-Future-Uploaded-Machine/dp/1118736281/) (mentioned on [kurzweilai.net](http://www.kurzweilai.net/intelligence-unbound-the-future-of-uploaded-and-machine-minds))
 * Jean Bricmont & Alan Sokal, ["Intellectual Impostures"](http://www.amazon.com/Intellectual-Impostures-Jean-Bricmont-ebook/dp/B005OA3I8C/) (recommended by Stephen Law - books about pseudoscience; see also the original French version, ["Impostures intellectuelles"](http://www.amazon.fr/Impostures-intellectuelles-Alan-Sokal-ebook/dp/B00QR1Q48S/))
-* Richard Carrier, ["On the Historicity of Jesus: Why We Might Have Reason for Doubt"](http://www.amazon.com/gp/product/1909697494/) (this seems to be a serious book on the topic of the historicity of Jesus - no conspiracy theories, etc.)
-* André Comte-Sponville, ["L'esprit de l'athéisme : Introduction à une spiritualité sans Dieu"](https://fr.wikipedia.org/wiki/L%27Esprit_de_l%27ath%C3%A9isme) (Comte-Sponville sounds like an "old atheist", who thinks that religion can be good - e.g. lead to a more moral life)
+* David Chalmers, ["The Conscious Mind: In Search of a Fundamental Theory"](https://en.wikipedia.org/wiki/The_Conscious_Mind) (and others) (seems to have a very weird view on consciousness - and philosophical zombies - not necessarily interesting)
+* Brian Christian, ["The Most Human Human: What Talking with Computers Teaches Us About What It Means to Be Alive"](http://www.amazon.com/The-Most-Human-Talking-Computers-ebook/dp/B004FEG2S6)
 * Paul Davies, ["The Mind Of God"](https://en.wikipedia.org/wiki/The_Mind_of_God)
+* Daniel Dennett, ["Freedom Evolves"](https://en.wikipedia.org/wiki/Freedom_Evolves) (and others) (but I really don't agree with him on free will!)
 * Will Durant, ["The Story of Philosophy: The Lives and Opinions of the World's Greatest Philosophers"](http://www.amazon.com/The-Story-Philosophy-Opinions-Philosophers/dp/0671739166)
-* David Fitzgerald, ["Nailed: Ten Christian Myths That Show Jesus Never Existed at All"](http://www.amazon.com/Nailed-Christian-Myths-Jesus-Existed/dp/0557709911) (is this as seriously researched as Carrier's book?)
-* Caroline Fourest, ["Tirs croisés : La laïcité à l'épreuve des intégrismes juif, chrétien et musulman"](http://www.amazon.fr/Tirs-crois%C3%A9s-l%C3%A9preuve-int%C3%A9grismes-chr%C3%A9tien/dp/2253114375/) (recommended by [@ArianeBeldi](https://twitter.com/ArianeBeldi))
-* Caroline Fourest, ["Le choc des préjugés : L'impasse des postures sécuritaires et victimaires"](http://www.amazon.fr/choc-pr%C3%A9jug%C3%A9s-Limpasse-s%C3%A9curitaires-victimaires/dp/2702135331/) (recommended by [@ArianeBeldi](https://twitter.com/ArianeBeldi))
 * Michael S. A. Graziano, ["Consciousness and the Social Brain"](http://www.amazon.com/Consciousness-Social-Brain-Michael-Graziano/dp/0199928649) (summarized by [@SelfAwarePatter](https://twitter.com/SelfAwarePatter) on [his blog](http://selfawarepatterns.com/2013/12/30/consciousness-and-the-social-brain-a-review/))
 * Bruce Hood, ["The Self Illusion: How the Social Brain Creates Identity"](http://www.amazon.com/The-Self-Illusion-Creates-Identity/dp/0199988781) (interviewed by [@SamHarrisOrg](https://twitter.com/SamHarrisOrg))
-* George Levine, ["The Joy of Secularism: 11 Essays for How We Live Now"](http://www.amazon.com/The-Joy-Secularism-Essays-Live/dp/0691156026)
 * Bryan Magee, ["The Great Philosophers: An Introduction to Western Philosophy"](http://www.amazon.com/The-Great-Philosophers-Introduction-Philosophy/dp/019289322X) (was Magee atheist?)
 * Jacques Monod, ["Le Hasard et la Nécessité. Essai sur la philosophie naturelle de la biologie moderne"](https://fr.wikipedia.org/wiki/Le_Hasard_et_la_N%C3%A9cessit%C3%A9) (Monod was Camus' friend; this book seems to be a good complement to ["The Selfish Gene"](https://en.wikipedia.org/wiki/The_Selfish_Gene))
 * Thomas Nagel, ["The Last Word"](http://www.amazon.com/Last-Word-Thomas-Nagel/dp/0195149831/) (recommended by [@SamHarrisOrg](https://twitter.com/SamHarrisOrg))
-* David Niose, ["Nonbeliever Nation: The Rise of Secular Americans"](http://www.amazon.com/Nonbeliever-Nation-Rise-Secular-Americans/dp/1137278714) (reviewed on [Friendly Atheist](http://www.patheos.com/blogs/friendlyatheist/2012/09/29/a-review-of-david-nioses-nonbeliever-nation/))
 * Robert Nozick, ["Philosophical Explanations"](https://en.wikipedia.org/wiki/Philosophical_Explanations)
 * Richard Oerton, ["The Nonsense of Free Will: Facing Up to a False Belief"](http://www.amazon.com/The-Nonsense-Free-Will-Facing/dp/1780882874) (recommended by [@SamHarrisOrg](https://twitter.com/SamHarrisOrg))
 * Michel Onfray, ["Contre-histoire de la philosophie"](https://fr.wikipedia.org/wiki/Contre-histoire_de_la_philosophie) (several volumes)
+* Donald Palmer, ["Looking at Philosophy: The Unbearable Heaviness of Philosophy Made Lighter"](http://www.amazon.com/Looking-At-Philosophy-Unbearable-Heaviness/dp/007803826X) (easy to read, comics, etc.)
 * Derek Parfit, ["Reasons and Persons"](http://www.amazon.com/Reasons-Persons-Derek-Parfit/dp/019824908X/) (recommended by [@SamHarrisOrg](https://twitter.com/SamHarrisOrg))
+* Roger Penrose, ["Shadows of the Mind: A Search for the Missing Science of Consciousness"](https://en.wikipedia.org/wiki/Shadows_of_the_Mind) (and others) 
+* Massimo Pigliucci, ["Answers for Aristotle: How Science and Philosophy Can Lead Us to A More Meaningful Life"](http://www.amazon.com/Answers-Aristotle-Science-Philosophy-Meaningful/dp/0465021387) (Massimo Pigliucci is a philosopher fighting scientism among "New Atheists" such as Sam Harris, etc.)
 * Jean-François Revel & Matthieu Ricard, ["Le moine et le philosophe"](http://www.amazon.fr/moine-philosophe-Jean-Fran-ois-Revel-ebook/dp/B009HBIGCC/) (mentioned by Carlo Strenger in "The Fear of Insignificance")
 * Michael Sandel, ["Justice: What's the Right Thing to Do?"](https://en.wikipedia.org/wiki/Justice:_What%27s_the_Right_Thing_to_Do%3F) (recommended by Massimo Pigliucci in his negative review of ["The Moral Landscape"](https://en.wikipedia.org/wiki/The_Moral_Landscape))
 * Nassim Nicholas Taleb, ["The Black Swan: The Impact of the Highly Improbable"](https://en.wikipedia.org/wiki/The_Black_Swan_(2007_book))
@@ -177,9 +197,17 @@ Pretty much everything from [Les cent livres du siècle](https://fr.wikipedia.or
 * Ben Goldacre, ["I Think You'll Find It's a Bit More Complicated Than That"](http://www.amazon.co.uk/Think-Youll-Find-More-Complicated-ebook/dp/B00HATQA8K/)
 * Darrell Huff, ["How to Lie with Statistics"](https://en.wikipedia.org/wiki/How_to_Lie_with_Statistics) (recommended by [@behaghel](https://twitter.com/behaghel))
 
+## Social sciences / sociology
+
+* Caroline Fourest, ["Le choc des préjugés : L'impasse des postures sécuritaires et victimaires"](http://www.amazon.fr/choc-pr%C3%A9jug%C3%A9s-Limpasse-s%C3%A9curitaires-victimaires/dp/2702135331/) (recommended by [@ArianeBeldi](https://twitter.com/ArianeBeldi))
+* Normand Baillargeon, ["Petit cours d'autodéfense intellectuelle"](http://www.amazon.com/petit-dautod%C3%A9fense-intellectuelle-Normand-Baillargeon/dp/2895960445)
+* Thomas Friedman, ["The World Is Flat"](The World Is Flat: A Brief History of the Twenty-First Century)
+* A. des Isnards & T. Zuber, ["L'Open Space m'a tuer"](http://www.amazon.fr/LOpen-space-tuer-Alexandre-ISNARDS/dp/2266258095)
+
 ## Switzerland
 
 * Maurice Chappaz, ["Portrait des Valaisans"](https://encrypted.google.com/books/about/Portrait_des_Valaisans_en_l%C3%A9gende_et_en.html?id=82MkAQAAIAAJ)
+* ?, "Forces Motrices de Mauvoisin S.A. : Nos 50 Ans"
 
 ## Technology
 
@@ -199,4 +227,3 @@ Pretty much everything from [Les cent livres du siècle](https://fr.wikipedia.or
 ## To-do
 
 * migrate my Google Drive document to this list
- 
