@@ -2,6 +2,14 @@
 <movies>
   <introduction>A list of movies I saw.</introduction>
   <movie>
+    <date>2015.10.18</date>
+    <theater home="true"/>
+    <director>Joel Coen &amp; Ethan Coen</director>
+    <title>Barton Fink</title>
+    <url>http://www.imdb.com/title/tt0101410</url>
+    <rating>5.0</rating>
+  </movie>
+  <movie>
     <date>2015.10.13</date>
     <theater>Forum Rolex, Learning Center, EPFL, Ecublens, Switzerland</theater>
     <director>Sergei M. Eisenstein</director>
