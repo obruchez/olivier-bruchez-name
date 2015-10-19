@@ -2,6 +2,12 @@
 <exhibitions>
     <introduction>A list of exhibitions I visited.</introduction>
     <exhibition>
+        <date>2015.10.17</date>
+        <name>Matisse</name>
+        <museum>Fondation Pierre Gianadda, Martigny, Switzerland</museum>
+        <rating>4.25</rating>
+    </exhibition>
+    <exhibition>
         <date>2015.09.20</date>
         <name>Klee &amp; Kandinsky / Klee in Bern</name>
         <museum>Zentrum Paul Klee, Bern, Switzerland</museum>
