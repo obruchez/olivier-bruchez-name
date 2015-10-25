@@ -2,6 +2,15 @@
 <movies>
   <introduction>A list of movies I saw.</introduction>
   <movie>
+    <date>2015.10.24</date>
+    <theater>Pathé Flon, Lausanne</theater>
+    <director>Ridley Scott</director>
+    <title>The Martian</title>
+    <url>http://www.imdb.com/title/tt3659388/</url>
+    <rating>5.25</rating>
+    <comments>3D version.</comments>
+  </movie> 
+  <movie>
     <date>2015.10.18</date>
     <theater home="true"/>
     <director>Joel Coen &amp; Ethan Coen</director>
