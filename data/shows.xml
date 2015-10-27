@@ -92,6 +92,11 @@
     <series url="https://en.wikipedia.org/wiki/List_of_Bob%27s_Burgers_episodes#Season_1_.282011.29">1</series>
   </show>
   <show>
+    <date>2014.05.19</date>
+    <name url="https://en.wikipedia.org/wiki/The_Big_Bang_Theory">The Big Bang Theory</name>
+    <series url="https://en.wikipedia.org/wiki/The_Big_Bang_Theory_(season_7)">7</series>
+  </show>
+  <show>
     <date>2014.04.23</date>
     <name url="https://en.wikipedia.org/wiki/Community_(TV_series)">Community</name>
     <series url="https://en.wikipedia.org/wiki/Community_(season_5)">5</series>
@@ -100,6 +105,11 @@
     <date>2014.04.01</date>
     <name url="https://en.wikipedia.org/wiki/How_I_Met_Your_Mother">How I Met Your Mother</name>
     <series url="https://en.wikipedia.org/wiki/How_I_Met_Your_Mother#Season_9">9</series>
+  </show>
+  <show>
+    <date>2013.06.01</date>
+    <name url="https://en.wikipedia.org/wiki/The_Big_Bang_Theory">The Big Bang Theory</name>
+    <series url="https://en.wikipedia.org/wiki/The_Big_Bang_Theory_(season_6)">6</series>
   </show>
   <show>
     <date>2013.05.26</date>
@@ -122,6 +132,11 @@
     <series url="https://en.wikipedia.org/wiki/How_I_Met_Your_Mother#Season_7">7</series>
   </show>
   <show>
+    <date>2012.05.17</date>
+    <name url="https://en.wikipedia.org/wiki/The_Big_Bang_Theory">The Big Bang Theory</name>
+    <series url="https://en.wikipedia.org/wiki/The_Big_Bang_Theory_(season_5)">5</series>
+  </show>
+  <show>
     <date>2011.09.06</date>
     <name url="https://en.wikipedia.org/wiki/Community_(TV_series)">Community</name>
     <series url="https://en.wikipedia.org/wiki/Community_(season_2)">2</series>
@@ -142,6 +157,11 @@
     <series url="https://en.wikipedia.org/wiki/Twin_Peaks#Season_one">1</series>
   </show>
   <show>
+    <date>2011.05.29</date>
+    <name url="https://en.wikipedia.org/wiki/The_Big_Bang_Theory">The Big Bang Theory</name>
+    <series url="https://en.wikipedia.org/wiki/The_Big_Bang_Theory_(season_4)">4</series>
+  </show>
+  <show>
     <date>2011.05.09</date>
     <name url="https://en.wikipedia.org/wiki/How_I_Met_Your_Mother">How I Met Your Mother</name>
     <series url="https://en.wikipedia.org/wiki/How_I_Met_Your_Mother#Season_6">6</series>
@@ -150,6 +170,11 @@
     <date>2010.06.12</date>
     <name url="https://en.wikipedia.org/wiki/How_I_Met_Your_Mother">How I Met Your Mother</name>
     <series url="https://en.wikipedia.org/wiki/How_I_Met_Your_Mother#Season_5">5</series>
+  </show>
+  <show>
+    <date>2010.06.11</date>
+    <name url="https://en.wikipedia.org/wiki/The_Big_Bang_Theory">The Big Bang Theory</name>
+    <series url="https://en.wikipedia.org/wiki/The_Big_Bang_Theory_(season_3)">3</series>
   </show>
   <show>
     <date>2010.02.26</date>
@@ -170,6 +195,16 @@
     <date>2009.08.02</date>
     <name url="https://en.wikipedia.org/wiki/How_I_Met_Your_Mother">How I Met Your Mother</name>
     <series url="https://en.wikipedia.org/wiki/How_I_Met_Your_Mother#Season_1">1</series>
+  </show>
+  <show>
+    <date>2009.05.19</date>
+    <name url="https://en.wikipedia.org/wiki/The_Big_Bang_Theory">The Big Bang Theory</name>
+    <series url="https://en.wikipedia.org/wiki/The_Big_Bang_Theory_(season_2)">2</series>
+  </show>
+  <show>
+    <date>2009.03.19</date>
+    <name url="https://en.wikipedia.org/wiki/The_Big_Bang_Theory">The Big Bang Theory</name>
+    <series url="https://en.wikipedia.org/wiki/The_Big_Bang_Theory_(season_1)">1</series>
   </show>
   <show>
     <date>2001.07.10</date>
@@ -205,14 +240,11 @@
 ???: Futurama 3
 10 janvier 2009: Futurama 4
 
-19 mars 2009: The Big Bang Theory 1
-19 mai 2009: The Big Bang Theory 2
-???: The Big Bang Theory 3
-29 mai 2011: The Big Bang Theory 4
-17 mai 2012 (?): The Big Bang Theory 5
-1er juin 2013: The Big Bang Theory 6
-19 mai 2014: The Big Bang Theory 7
-
+  
+  
+  
+  
+  
 ???: Friends 1
 ???: Friends 2
 ???: Friends 3
