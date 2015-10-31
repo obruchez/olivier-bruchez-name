@@ -11,6 +11,30 @@
   -->
   <introduction>A list of concerts I went to.</introduction>
   <concert>
+    <date>2015.10.30</date>
+    <location>Casino de Montbenon, Lausanne, Switzerland</location>
+    <event>JazzOnze+ Festival Lausanne</event>
+    <musician inst="bass, bass clarinet" leader="true">Marcus Miller</musician>
+    <musician inst="trumpet">Marquis Hill</musician>
+    <musician inst="saxophone">Alex Han</musician>
+    <musician inst="guitar">Adam Agati</musician>
+    <musician inst="keyboards">Brett Williams</musician>
+    <musician inst="drums">Alex Bailey</musician>
+    <musician inst="percussion">Mino Cinelu</musician>
+    <rating>5.25</rating>
+    <comments/>
+  </concert>
+  <concert>
+    <date>2015.10.30</date>
+    <location>Casino de Montbenon, Lausanne, Switzerland</location>
+    <event>JazzOnze+ Festival Lausanne</event>
+    <musician inst="piano" leader="true">Christoph Stiefel</musician>
+    <musician inst="bass">Arne Huber (b)</musician>
+    <musician inst="drums">Peter Gall (dm)</musician>
+    <rating>4.25</rating>
+    <comments/>
+  </concert>
+  <concert>
     <date>2015.10.09</date>
     <location>Opéra de Lausanne, Lausanne, Switzerland</location>
     <musician inst="vocals">Serena Malfi</musician>
