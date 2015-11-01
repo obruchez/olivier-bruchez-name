@@ -2,6 +2,11 @@
 <shows>
   <introduction>A list of TV shows I saw.</introduction>
   <show>
+    <date>2015.11.01</date>
+    <name url="https://en.wikipedia.org/wiki/Go_On_(TV_series)">Go On</name>
+    <series>1</series>
+  </show>
+  <show>
     <date>2015.10.17</date>
     <name url="https://en.wikipedia.org/wiki/Game_of_Thrones">Game of Thrones</name>
     <series url="https://en.wikipedia.org/wiki/Game_of_Thrones_(season_1)">1</series>
