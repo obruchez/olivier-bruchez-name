@@ -15,7 +15,7 @@ See also [1000 places to see before you die](http://1000places.com/).
 * [Kraków](https://en.wikipedia.org/wiki/Krak%C3%B3w)
 * [Venice](https://en.wikipedia.org/wiki/Venice)
 
-## Countries
+## [Countries](https://en.wikipedia.org/wiki/List_of_sovereign_states)
 
 * [Australia](https://en.wikipedia.org/wiki/Australia) (be a little more specific, see Vanessa/Grégoire's trip) (including [Tasmania](https://en.wikipedia.org/wiki/Tasmania))
 * [Chile](https://en.wikipedia.org/wiki/Chile) (including the [Atacama Desert](https://en.wikipedia.org/wiki/Atacama_Desert))
@@ -64,12 +64,15 @@ See also [1000 places to see before you die](http://1000places.com/).
 ## Switzerland
 
 * [Ebenalp](https://en.wikipedia.org/wiki/Ebenalp) (hiking, cable car, etc.)
+* [Grand Tour of Switzerland](http://www.myswitzerland.com/en-ch/grand-tour-of-switzerland.html)
 * [Jungfraujoch](https://en.wikipedia.org/wiki/Jungfraujoch)
 * [Lake Constance](https://en.wikipedia.org/wiki/Lake_Constance)
+* [Lausanne](https://en.wikipedia.org/wiki/Lausanne) ([Top Things to Do in Lausanne](http://www.tripadvisor.com/Attractions-g188107-Activities-Lausanne_Canton_of_Vaud.html) according to TripAdvisor)
 * [Maison Cailler, Broc](http://www.la-gruyere.ch/en/maison-cailler.html)
 * [Montreux–Oberland Bernois railway](https://en.wikipedia.org/wiki/Montreux%E2%80%93Oberland_Bernois_railway)
 * [St. Gallen](https://en.wikipedia.org/wiki/St._Gallen)
 * [Ticino](https://en.wikipedia.org/wiki/Ticino)
+* [Valais](https://en.wikipedia.org/wiki/Valais) (lots of places I've still not visited - example: ["Valais : Les p’tits coins de paradis"](http://www.hebdo.ch/valais___les_coins_de_paradis_112509_.html))
 * [Zermatt](https://en.wikipedia.org/wiki/Zermatt) / [Matterhorn](https://en.wikipedia.org/wiki/Matterhorn)
 
 ## Themes
@@ -79,6 +82,8 @@ See also [1000 places to see before you die](http://1000places.com/).
 * [cruises](https://en.wikipedia.org/wiki/Cruise_ship)
 * [polar bears](https://en.wikipedia.org/wiki/Polar_bear) (e.g. in [Churchill, Manitoba](https://en.wikipedia.org/wiki/Churchill,_Manitoba))
 * [solar eclipses](https://en.wikipedia.org/wiki/Solar_eclipse)
+* [sunset](https://en.wikipedia.org/wiki/Sunset) / [sunrise](https://en.wikipedia.org/wiki/Sunrise) (I've never seen a "clean" sunset - without any cloud - on the sea/ocean, even in Maldives)
+* [Wonders of the World](https://en.wikipedia.org/wiki/Wonders_of_the_World)
 
 ## To-do
 
