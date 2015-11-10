@@ -2,6 +2,12 @@
 <exhibitions>
     <introduction>A list of exhibitions I visited.</introduction>
     <exhibition>
+        <date>2015.11.07</date>
+        <name>Permanent exhibition</name>
+        <museum>Musée et Chiens du Saint-Bernard, Martigny, Switzerland</museum>
+        <rating>3.25</rating>
+    </exhibition>
+    <exhibition>
         <date>2015.10.17</date>
         <name>Matisse</name>
         <museum>Fondation Pierre Gianadda, Martigny, Switzerland</museum>
