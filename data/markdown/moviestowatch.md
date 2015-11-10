@@ -36,6 +36,18 @@ Pretty much everything from [IMDb's Top 250](http://www.imdb.com/chart/top).
 * [Pi](http://www.imdb.com/title/tt0138704) (7.5)
 * ([Noah](http://www.imdb.com/title/tt1959490) (6.6))
 
+## [David Lynch](http://www.imdb.com/name/nm0000186)
+
+* [The Elephant Man](http://www.imdb.com/title/tt0080678) (8.2) (already seen)
+* [The Straight Story](http://www.imdb.com/title/tt0166896) (8.0) (already seen)
+* [Blue Velvet](http://www.imdb.com/title/tt0090756) (7.8) (already seen)
+* [Lost Highway](http://www.imdb.com/title/tt0116922) (7.7) (already seen)
+* [Eraserhead](http://www.imdb.com/title/tt0074486) (7.4) (already seen)
+* [Dynamic:01: The Best of DavidLynch.com](http://www.imdb.com/title/tt1219057) (6.7)
+* [The Lime Green Set](http://www.amazon.com/David-Lynch-The-Lime-Green/dp/B001EAWMPQ)
+
+...
+
 ## [Eric Rohmer](http://www.imdb.com/name/nm0006445)
 
 * [Ma nuit chez Maud](http://www.imdb.com/title/tt0064612) (8.0)
@@ -209,8 +221,6 @@ Pretty much everything from [IMDb's Top 250](http://www.imdb.com/chart/top).
 * Akira Kurosawa, [The Hidden Fortress](http://www.imdb.com/title/tt0051808/) (8.1) (recommended by [@ebruchez](https://twitter.com/ebruchez))
 * Ray Kurzweil & Anthony Waller, [The Singularity is Near](http://www.imdb.com/title/tt1049412) (6.7)
 * Ken Loach, [It's a Free World](http://www.imdb.com/title/tt0807054) (7.0)
-* David Lynch, [Dynamic:01: The Best of DavidLynch.com](http://www.imdb.com/title/tt1219057/) (6.7)
-* David Lynch, [The Lime Green Set](http://www.amazon.com/David-Lynch-The-Lime-Green/dp/B001EAWMPQ)
 * Kevin Macdonald, [Touching the Void](http://www.imdb.com/title/tt0379557) (8.1) (recommended by [@caryl_jones](https://twitter.com/caryl_jones))
 * Louis Malle, [Ascenseur pour l'échafaud](http://www.imdb.com/title/tt0051378/) (8.0) (music by Miles Davis)
 * Jessie Nelson, [I Am Sam](http://www.imdb.com/title/tt0277027) (7.6)
