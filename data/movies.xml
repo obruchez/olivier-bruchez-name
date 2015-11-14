@@ -2,6 +2,22 @@
 <movies>
   <introduction>A list of movies I saw.</introduction>
   <movie>
+    <date>2015.11.14</date>
+    <theater>Galeries, Lausanne</theater>
+    <director>Christian Desmares &amp; Franck Ekinci</director>
+    <title>Avril et le monde truqué</title>
+    <url>http://www.imdb.com/title/tt3422078/</url>
+    <rating>5.0</rating>
+  </movie>
+  <movie>
+    <date>2015.11.14</date>
+    <theater>Galeries, Lausanne</theater>
+    <director>Charlotte Cambon</director>
+    <title>Dans un petit bateau</title>
+    <url>http://charlottecambon.fr/movies/dans-un-petit-bateau/</url>
+    <rating>3.0</rating>
+  </movie>
+  <movie>
     <date>2015.10.24</date>
     <theater>Pathé Flon, Lausanne</theater>
     <director>Ridley Scott</director>
