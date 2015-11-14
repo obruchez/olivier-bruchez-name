@@ -172,6 +172,7 @@ Pretty much everything from [Les cent livres du siècle](https://fr.wikipedia.or
 
 ## Physics / cosmology
 
+* Bill Bryson, ["A Short History Of Nearly Everything"](http://www.amazon.com/Short-History-Nearly-Everything-ebook/dp/B0035OC7VI/)
 * Richard P. Feynman, ["QED: The Strange Theory of Light and Matter"](http://www.amazon.com/QED-Strange-Princeton-Science-Library/dp/0691125759/) (recommended on Quora)
 * Richard P. Feynman, ["What Do You Care What Other People Think?"](http://en.wikipedia.org/wiki/What_Do_You_Care_What_Other_People_Think%3F)
 * Brian Greene, ["The Elegant Universe: Superstrings, Hidden Dimensions, and the Quest for the Ultimate Theory"](https://en.wikipedia.org/wiki/The_Elegant_Universe)
