@@ -9,11 +9,22 @@ See also [1000 places to see before you die](http://1000places.com/).
 
 ## Cities
 
+* [Amsterdam](https://en.wikipedia.org/wiki/Amsterdam) (already visited, to visit again)
+* [Barcelona](https://en.wikipedia.org/wiki/Barcelona) (already visited, to visit again)
+* [Berlin](https://en.wikipedia.org/wiki/Berlin) (already visited, to visit again)
 * [Budapest](https://en.wikipedia.org/wiki/Budapest)
 * [Copenhaguen](https://en.wikipedia.org/wiki/Copenhagen)
+* [Florence](https://en.wikipedia.org/wiki/Florence) (already visited, to visit again)
 * [Istanbul](https://en.wikipedia.org/wiki/Istanbul)
 * [Kraków](https://en.wikipedia.org/wiki/Krak%C3%B3w)
+* [London](https://en.wikipedia.org/wiki/London) (already visited, to visit again)
+* [Paris](https://en.wikipedia.org/wiki/Paris) (already visited, to visit again)
+* [Prague](https://en.wikipedia.org/wiki/Prague) (already visited, to visit again) (Christmas markets?) 
+* [Rome](https://en.wikipedia.org/wiki/Rome) (already visited, to visit again)
+* [Salzburg](https://en.wikipedia.org/wiki/Salzburg)
+* [Stockholm](https://en.wikipedia.org/wiki/Stockholm) (already visited, to visit again)
 * [Venice](https://en.wikipedia.org/wiki/Venice)
+* [Vienna](https://en.wikipedia.org/wiki/Vienna) (already visited, to visit again)
 
 ## [Countries](https://en.wikipedia.org/wiki/List_of_sovereign_states)
 
@@ -63,6 +74,7 @@ See also [1000 places to see before you die](http://1000places.com/).
 
 ## Switzerland
 
+* [Bern](https://en.wikipedia.org/wiki/Bern) (already visited, to visit again)
 * [Ebenalp](https://en.wikipedia.org/wiki/Ebenalp) (hiking, cable car, etc.)
 * [Grand Tour of Switzerland](http://www.myswitzerland.com/en-ch/grand-tour-of-switzerland.html)
 * [Jungfraujoch](https://en.wikipedia.org/wiki/Jungfraujoch)
@@ -80,11 +92,10 @@ See also [1000 places to see before you die](http://1000places.com/).
 * [auroras](https://en.wikipedia.org/wiki/Aurora) (where and when?)
 * [castles](https://en.wikipedia.org/wiki/Castle) ([England](https://en.wikipedia.org/wiki/England), [France](https://en.wikipedia.org/wiki/France), [Germany](https://en.wikipedia.org/wiki/Germany), [Switzerland](http://www.myswitzerland.com/en-ch/interests/excursion-summer/historical-switzerland/castles-palaces.html), etc.)
 * [cruises](https://en.wikipedia.org/wiki/Cruise_ship)
+* [filming locations](https://en.wikipedia.org/wiki/Filming_location) (e.g. [Twin Peaks](https://en.wikipedia.org/wiki/Twin_Peaks), etc.)
+* [first class travel](https://en.wikipedia.org/wiki/First_class_travel (plane or train)
 * [polar bears](https://en.wikipedia.org/wiki/Polar_bear) (e.g. in [Churchill, Manitoba](https://en.wikipedia.org/wiki/Churchill,_Manitoba))
 * [solar eclipses](https://en.wikipedia.org/wiki/Solar_eclipse)
 * [sunset](https://en.wikipedia.org/wiki/Sunset) / [sunrise](https://en.wikipedia.org/wiki/Sunrise) (I've never seen a "clean" sunset - without any cloud - on the sea/ocean, even in Maldives)
+* [volcanoes](https://en.wikipedia.org/wiki/Volcano) (active? inactive?)
 * [Wonders of the World](https://en.wikipedia.org/wiki/Wonders_of_the_World)
-
-## To-do
-
-* migrate my Google Drive document to this list
