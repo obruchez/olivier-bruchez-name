@@ -93,7 +93,7 @@ See also [1000 places to see before you die](http://1000places.com/).
 * [castles](https://en.wikipedia.org/wiki/Castle) ([England](https://en.wikipedia.org/wiki/England), [France](https://en.wikipedia.org/wiki/France), [Germany](https://en.wikipedia.org/wiki/Germany), [Switzerland](http://www.myswitzerland.com/en-ch/interests/excursion-summer/historical-switzerland/castles-palaces.html), etc.)
 * [cruises](https://en.wikipedia.org/wiki/Cruise_ship)
 * [filming locations](https://en.wikipedia.org/wiki/Filming_location) (e.g. [Twin Peaks](https://en.wikipedia.org/wiki/Twin_Peaks), etc.)
-* [first class travel](https://en.wikipedia.org/wiki/First_class_travel (plane or train)
+* [first class travel](https://en.wikipedia.org/wiki/First_class_travel) (plane or train)
 * [polar bears](https://en.wikipedia.org/wiki/Polar_bear) (e.g. in [Churchill, Manitoba](https://en.wikipedia.org/wiki/Churchill,_Manitoba))
 * [solar eclipses](https://en.wikipedia.org/wiki/Solar_eclipse)
 * [sunset](https://en.wikipedia.org/wiki/Sunset) / [sunrise](https://en.wikipedia.org/wiki/Sunrise) (I've never seen a "clean" sunset - without any cloud - on the sea/ocean, even in Maldives)
