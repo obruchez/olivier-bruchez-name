@@ -1,6 +1,16 @@
 # Movies to watch
 
-Pretty much everything from [IMDb's Top 250](http://www.imdb.com/chart/top).
+Pretty much everything from [IMDb's Top 250](http://www.imdb.com/chart/top). See also [List of films considered the best](https://en.wikipedia.org/wiki/List_of_films_considered_the_best).
+
+## [Agnès Varda](http://www.imdb.com/name/nm0889513)
+
+* [Cléo de 5 à 7](http://www.imdb.com/title/tt0055852) (8.0)
+* [Sans toit ni loi](http://www.imdb.com/title/tt0089960) (7.8)
+* [Le Bonheur](http://www.imdb.com/title/tt0058985) (7.7)
+* [Les glaneurs et la glaneuse](http://www.imdb.com/title/tt0247380) (7.6)
+* [Cinévardaphoto](http://www.imdb.com/title/tt0423987) (7.6)
+
+...
 
 ## [Andrei Tarkovsky](http://www.imdb.com/name/nm0001789)
 
@@ -97,21 +107,21 @@ Pretty much everything from [IMDb's Top 250](http://www.imdb.com/chart/top).
 * [Roger & Me](http://www.imdb.com/title/tt0098213) (7.5)
 * [Capitalism: A Love Story](http://www.imdb.com/title/tt1232207) (7.4)
 * [The Big One](http://www.imdb.com/title/tt0124295) (7.1)
-* [Where to Invade Next](http://www.imdb.com/title/tt4897822/)
+* [Where to Invade Next](http://www.imdb.com/title/tt4897822)
 
-## [Pedro Almodóvar](http://www.imdb.com/name/nm0000264/)
+## [Pedro Almodóvar](http://www.imdb.com/name/nm0000264)
 
-* [Talk to Her](http://www.imdb.com/title/tt0287467/) (8.0)
-* [Women on the Verge of a Nervous Breakdown](http://www.imdb.com/title/tt0095675/) (7.6)
-* [Bad Education](http://www.imdb.com/title/tt0275491/) (7.5)
-* [Live Flesh ](http://www.imdb.com/title/tt0118819/) (7.5)
-* [Broken Embraces ](http://www.imdb.com/title/tt0913425/) (7.2)
-* [Law of Desire](http://www.imdb.com/title/tt0093412/) (7.2)
-* [High Heels](http://www.imdb.com/title/tt0103030/) (7.2)
-* [What Have I Done to Deserve This?](http://www.imdb.com/title/tt0088461/) (7.2)
-* [The Flower of My Secret](http://www.imdb.com/title/tt0113083/) (7.1)
-* [Tie Me Up! Tie Me Down!](http://www.imdb.com/title/tt0101026/) (7.0)
-* [Matador](http://www.imdb.com/title/tt0091495/) (7.0)
+* [Talk to Her](http://www.imdb.com/title/tt0287467) (8.0)
+* [Women on the Verge of a Nervous Breakdown](http://www.imdb.com/title/tt0095675) (7.6)
+* [Bad Education](http://www.imdb.com/title/tt0275491) (7.5)
+* [Live Flesh ](http://www.imdb.com/title/tt0118819) (7.5)
+* [Broken Embraces ](http://www.imdb.com/title/tt0913425) (7.2)
+* [Law of Desire](http://www.imdb.com/title/tt0093412) (7.2)
+* [High Heels](http://www.imdb.com/title/tt0103030) (7.2)
+* [What Have I Done to Deserve This?](http://www.imdb.com/title/tt0088461) (7.2)
+* [The Flower of My Secret](http://www.imdb.com/title/tt0113083) (7.1)
+* [Tie Me Up! Tie Me Down!](http://www.imdb.com/title/tt0101026) (7.0)
+* [Matador](http://www.imdb.com/title/tt0091495) (7.0)
 
 ## [Richard Linklater](http://www.imdb.com/name/nm0000500)
 
@@ -204,8 +214,8 @@ Pretty much everything from [IMDb's Top 250](http://www.imdb.com/chart/top).
 * Roy Andersson, [Songs from the Second Floor](http://www.imdb.com/title/tt0120263) (7.7) (already seen at the cinema)
 * Yann Arthus-Bertrand, [Home](http://www.imdb.com/title/tt1014762) (8.6)
 * Jaume Balagueró & Paco Plaza, [[Rec]](http://www.imdb.com/title/tt1038988) (7.5)
-* Marie-Dominique Dhelsing, [Pierre Rabhi : Au nom de la terre](http://www.imdb.com/title/tt2805242/) (7.4) (recommended by [@caryl_jones](https://twitter.com/caryl_jones))
-* Federico Fellini, [8½](http://www.imdb.com/title/tt0056801/) (8.1) (recommended by [@ebruchez](https://twitter.com/ebruchez))
+* Marie-Dominique Dhelsing, [Pierre Rabhi : Au nom de la terre](http://www.imdb.com/title/tt2805242) (7.4) (recommended by [@caryl_jones](https://twitter.com/caryl_jones))
+* Federico Fellini, [8½](http://www.imdb.com/title/tt0056801) (8.1) (recommended by [@ebruchez](https://twitter.com/ebruchez))
 * Richard Fleischer, [Soylent Green](http://www.imdb.com/title/tt0070723) (7.1)
 * Paul Haggis, [In the Valley of Elah](http://www.imdb.com/title/tt0478134) (7.2)
 * Lasse Hallström, [Chocolat](http://www.imdb.com/title/tt0241303) (7.3)
@@ -217,12 +227,12 @@ Pretty much everything from [IMDb's Top 250](http://www.imdb.com/chart/top).
 * Alejandro González Iñárritu, [Biutiful](http://www.imdb.com/title/tt1164999) (7.5)
 * Duncan Jones, [Moon](http://www.imdb.com/title/tt1182345) (8.0)
 * Barbara Kopple & Cecilia Peck, [Shut Up & Sing](http://www.imdb.com/title/tt0811136) (7.7)
-* Akira Kurosawa, [Ran](http://www.imdb.com/title/tt0089881/) (8.3) (recommended by [@ebruchez](https://twitter.com/ebruchez))
-* Akira Kurosawa, [The Hidden Fortress](http://www.imdb.com/title/tt0051808/) (8.1) (recommended by [@ebruchez](https://twitter.com/ebruchez))
+* Akira Kurosawa, [Ran](http://www.imdb.com/title/tt0089881) (8.3) (recommended by [@ebruchez](https://twitter.com/ebruchez))
+* Akira Kurosawa, [The Hidden Fortress](http://www.imdb.com/title/tt0051808) (8.1) (recommended by [@ebruchez](https://twitter.com/ebruchez))
 * Ray Kurzweil & Anthony Waller, [The Singularity is Near](http://www.imdb.com/title/tt1049412) (6.7)
 * Ken Loach, [It's a Free World](http://www.imdb.com/title/tt0807054) (7.0)
 * Kevin Macdonald, [Touching the Void](http://www.imdb.com/title/tt0379557) (8.1) (recommended by [@caryl_jones](https://twitter.com/caryl_jones))
-* Louis Malle, [Ascenseur pour l'échafaud](http://www.imdb.com/title/tt0051378/) (8.0) (music by Miles Davis)
+* Louis Malle, [Ascenseur pour l'échafaud](http://www.imdb.com/title/tt0051378) (8.0) (music by Miles Davis)
 * Jessie Nelson, [I Am Sam](http://www.imdb.com/title/tt0277027) (7.6)
 * George Pal, [The Time Machine](http://www.imdb.com/title/tt0054387) (7.6)
 * Robert Barry Ptolemy, [Transcendent Man](http://www.imdb.com/title/tt1117394) (7.2) (documentary about Ray Kurzweil)
@@ -282,7 +292,3 @@ Pretty much everything from [IMDb's Top 250](http://www.imdb.com/chart/top).
 * Neil Burger, [Limitless](http://www.imdb.com/title/tt1219289) (7.4)
 * John Carpenter, [They Live](http://www.imdb.com/title/tt0096256) (7.3)
 * Antonio Naharro & Álvaro Pastor, [Yo, también](http://www.imdb.com/title/tt1289449) (7.2)
-
-## To-do
-
-* migrate my Google Drive document to this list
