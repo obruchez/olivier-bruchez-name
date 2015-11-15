@@ -2,6 +2,11 @@
 <shows>
   <introduction>A list of TV shows I saw.</introduction>
   <show>
+    <date>2015.11.15</date>
+    <name url="https://en.wikipedia.org/wiki/Inside_No._9">Inside No. 9</name>
+    <series url="https://en.wikipedia.org/wiki/Inside_No._9#Series_2">2</series>
+  </show>
+  <show>
     <date>2015.11.01</date>
     <name url="https://en.wikipedia.org/wiki/Go_On_(TV_series)">Go On</name>
     <series>1</series>
@@ -64,7 +69,7 @@
   <show>
     <date>2014.09.05</date>
     <name url="https://en.wikipedia.org/wiki/Inside_No._9">Inside No. 9</name>
-    <series url="https://en.wikipedia.org/wiki/Inside_No._9#Series_1_.282014.29">1</series>
+    <series url="https://en.wikipedia.org/wiki/Inside_No._9#Series_1">1</series>
   </show>
   <show>
     <date>2014.08.28</date>
