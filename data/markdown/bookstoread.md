@@ -10,6 +10,7 @@ Pretty much everything from [Les cent livres du siècle](https://fr.wikipedia.or
 * David Fitzgerald, ["Nailed: Ten Christian Myths That Show Jesus Never Existed at All"](http://www.amazon.com/Nailed-Christian-Myths-Jesus-Existed/dp/0557709911) (is this as seriously researched as Carrier's book?)
 * Caroline Fourest, ["Tirs croisés : La laïcité à l'épreuve des intégrismes juif, chrétien et musulman"](http://www.amazon.fr/Tirs-crois%C3%A9s-l%C3%A9preuve-int%C3%A9grismes-chr%C3%A9tien/dp/2253114375/) (recommended by [@ArianeBeldi](https://twitter.com/ArianeBeldi))
 * George Levine, ["The Joy of Secularism: 11 Essays for How We Live Now"](http://www.amazon.com/The-Joy-Secularism-Essays-Live/dp/0691156026)
+* David Mills, ["Atheist Universe"](http://www.amazon.com/Atheist-Universe-Thinking-Christian-Fundamentalism/dp/1569755671)
 * David Niose, ["Nonbeliever Nation: The Rise of Secular Americans"](http://www.amazon.com/Nonbeliever-Nation-Rise-Secular-Americans/dp/1137278714) (reviewed on [Friendly Atheist](http://www.patheos.com/blogs/friendlyatheist/2012/09/29/a-review-of-david-nioses-nonbeliever-nation/))
 * Victor J. Stenger, ["God: The Failed Hypothesis"](https://en.wikipedia.org/wiki/God:_The_Failed_Hypothesis) (Victor J. Stenger is one of the "New Atheists", he died in 2014)
 * [Bible](https://en.wikipedia.org/wiki/Bible) (e-book, really long to read?)
@@ -22,9 +23,12 @@ Pretty much everything from [Les cent livres du siècle](https://fr.wikipedia.or
 ## Business / entrepreneurship
 
 * Jason Fried, ["Rework"](http://www.amazon.com/ReWork-Change-Way-Work-Forever-ebook/dp/B003ELY7PG/) (mentioned by [@epsitec](https://twitter.com/epsitec))
+* Christopher Locke, Rick Levine, Doc Searls & David Weinberger, ["The Cluetrain Manifesto: The End of Business as Usual"](https://en.wikipedia.org/wiki/The_Cluetrain_Manifesto)
+* Rowan Manahan, ["Where's My Oasis?: The Essential Handbook for Everyone Wanting that Perfect Job"](http://www.amazon.com/Wheres-My-Oasis-Rowan-Manahan/dp/0091899982)
+* OCTO Technology, ["Partageons Ce Qui Nous Departage"](http://www.amazon.fr/Partageons-ce-qui-nous-d%C3%A9partage/dp/2952589526)
 * Paul Sloane, ["The Innovative Leader: How to Inspire Your Team and Drive Creativity"](http://www.amazon.com/The-Innovative-Leader-Inspire-Creativity/dp/0749450010)
 
-## Computer science
+## Computer science / software
 
 * Jon Bentley, ["Programming Pearls"](http://www.amazon.com/Programming-Pearls-2nd-ACM-Press/dp/0201657880/)
 * Thomas Cormen, ["Introduction to Algorithms"](http://www.amazon.com/Introduction-Algorithms-Thomas-Cormen/dp/0072970545/)
@@ -36,6 +40,7 @@ Pretty much everything from [Les cent livres du siècle](https://fr.wikipedia.or
 * Steve McConnell, ["Code Complete: A Practical Handbook of Software Construction"](http://www.amazon.com/Code-Complete-Practical-Handbook-Construction/dp/0735619670/)
 * Benjamin C. Pierce, ["Types and Programming Languages"](http://www.cis.upenn.edu/~bcpierce/tapl/) (recommended by [@icassina](https://twitter.com/icassina), quite "academic"/complex; see also [code in Scala](https://github.com/ilya-klyuchnikov/tapl-scala))
 * Harold Simmons, ["An Introduction to Category Theory"](http://www.amazon.com/Introduction-Category-Theory-Harold-Simmons/dp/0521283043/) (also recommended by [@icassina](https://twitter.com/icassina)?)
+* Joel Spolsky, ["The Best Software Writing I"](http://www.amazon.com/The-Best-Software-Writing-Introduced/dp/1590595009) (belonging to [@ebruchez](https://twitter.com/ebruchez))
 * see also ["What is the single most influential book every programmer should read?"](https://www.quora.com/What-is-the-single-most-influential-book-every-programmer-should-read)
 * see also  ["What non-programming books should programmers read?"](https://stackoverflow.com/questions/38210/what-non-programming-books-should-programmers-read)
 
@@ -52,6 +57,7 @@ Pretty much everything from [Les cent livres du siècle](https://fr.wikipedia.or
 ## Essays
 
 * Christopher Hitchens, ["Arguably: Essays by Christopher Hitchens"](https://en.wikipedia.org/wiki/Arguably)
+* Daniel Pennac, ["Comme un roman"](https://fr.wikipedia.org/wiki/Comme_un_roman) (already read, to read again)
 
 ## Fiction
 
@@ -73,6 +79,7 @@ Pretty much everything from [Les cent livres du siècle](https://fr.wikipedia.or
 * Frank Kafka, ["Le château"](https://fr.wikipedia.org/wiki/Le_Ch%C3%A2teau) (read in 2001)
 * Franz Kafka, ["La métamorphose"](https://fr.wikipedia.org/wiki/La_M%C3%A9tamorphose) (I might have already read this)
 * Franz Kafka, ["Le procès"](https://fr.wikipedia.org/wiki/Le_Proc%C3%A8s) (read in 2004)
+* Bill Moody, ["Sur les traces de Chet Baker"](http://www.amazon.fr/Sur-traces-Chet-Baker-enqu%C3%AAte/dp/2743612061)
 * Amélie Nothomb, ["Acide sulfurique"](https://fr.wikipedia.org/wiki/Acide_sulfurique_(roman)) (recommended by Miriam)
 * H. P. Lovecraft, ["The Complete Works of H.P. Lovecraft"](https://www.goodreads.com/book/show/11851522-the-complete-works-of-h-p-lovecraft)
 * Terry Pratchett, ["The Carpet People"](https://en.wikipedia.org/wiki/The_Carpet_People) (recommended by François?)
@@ -89,6 +96,8 @@ Pretty much everything from [Les cent livres du siècle](https://fr.wikipedia.or
 * Boris Vian, ["L'Herbe rouge"](https://fr.wikipedia.org/wiki/L%27Herbe_rouge)
 * Boris Vian, ["J'irai cracher sur vos tombes"](https://fr.wikipedia.org/wiki/J%27irai_cracher_sur_vos_tombes)
 * Boris Vian, "Chansons", "Nouvelles", "Poèmes", "Textes sur le jazz" (sections from a Boris Vian collection I received as a gift)
+* Bernard Werber, ["Les fourmis"](https://fr.wikipedia.org/wiki/Les_Fourmis_(Werber))
+* Bernard Werber, ["Nous les Dieux"](https://fr.wikipedia.org/wiki/Nous_les_dieux)
 
 ## Health
 
@@ -119,6 +128,9 @@ Pretty much everything from [Les cent livres du siècle](https://fr.wikipedia.or
 ## Misc
 
 * Florence Braunstein & Jean-François Pépin, ["La Culture générale pour les Nuls"](http://www.amazon.fr/Culture-g%C3%A9n%C3%A9rale-Pour-Nuls-%C3%A9dition/dp/2754016287)
+* Ben Schott, ["Schott's Quintessential Miscellany"](http://www.amazon.co.uk/Schotts-Quintessential-Miscellany-Ben-Schott/dp/140881577X)
+* William Strunk & E.B. White, ["The Elements of Style"](https://en.wikipedia.org/wiki/The_Elements_of_Style)
+* Eric Voutaz, ["Pincées d'espoir"](https://books.google.ch/books/about/Pinc%C3%A9es_d_espoir.html?id=kwUuGQAACAAJ&redir_esc=y) (received from Eric)
 
 ## Music
 
@@ -141,6 +153,9 @@ Pretty much everything from [Les cent livres du siècle](https://fr.wikipedia.or
 * Jonathan Fields, ["Career Renegade: How to Make a Great Living Doing What You Love"](http://www.amazon.com/Career-Renegade-Great-Living-Doing/dp/0767927419/)
 * P.M. Forni, ["The Thinking Life: How to Thrive in the Age of Distraction"](http://www.amazon.com/The-Thinking-Life-Thrive-Distraction/dp/B008SMFIC2/)
 * FruitfulTime, ["Stop Procrastination Now"](https://dollswithoutheads.files.wordpress.com/2008/10/stop-procrastination-now.pdf) (and I should probably start by not reading this book...)
+* Gordon MacKenzie, ["Orbiting the Giant Hairball: A Corporate Fool's Guide to Surviving with Grace"](http://www.amazon.com/Orbiting-Giant-Hairball-Corporate-Surviving/dp/0670879835)
+* Eric Maisel, ["The Creativity Book: A Year's Worth of Inspiration and Guidance"](http://www.amazon.com/The-Creativity-Book-Inspiration-Guidance-ebook/dp/B001NJA8Y0)
+* David McRaney, ["You Are Now Less Dumb: How to Conquer Mob Mentality, How to Buy Happiness, and All the Other Ways to Outsmart Yourself"](http://www.amazon.com/You-Are-Now-Less-Dumb/dp/1592408796)
 * Eckhart Tolle, ["A New Earth"](http://www.amazon.com/New-Earth-Awakening-Purpose-Selection/dp/0452289963/)
 
 ## Philosophy
@@ -163,8 +178,12 @@ Pretty much everything from [Les cent livres du siècle](https://fr.wikipedia.or
 * Michel Onfray, ["Contre-histoire de la philosophie"](https://fr.wikipedia.org/wiki/Contre-histoire_de_la_philosophie) (several volumes)
 * Donald Palmer, ["Looking at Philosophy: The Unbearable Heaviness of Philosophy Made Lighter"](http://www.amazon.com/Looking-At-Philosophy-Unbearable-Heaviness/dp/007803826X) (easy to read, comics, etc.)
 * Derek Parfit, ["Reasons and Persons"](http://www.amazon.com/Reasons-Persons-Derek-Parfit/dp/019824908X/) (recommended by [@SamHarrisOrg](https://twitter.com/SamHarrisOrg))
+* Roger Penrose, ["The Emperor's New Mind"](https://en.wikipedia.org/wiki/The_Emperor%27s_New_Mind)
 * Roger Penrose, ["Shadows of the Mind: A Search for the Missing Science of Consciousness"](https://en.wikipedia.org/wiki/Shadows_of_the_Mind) (and others) 
 * Massimo Pigliucci, ["Answers for Aristotle: How Science and Philosophy Can Lead Us to A More Meaningful Life"](http://www.amazon.com/Answers-Aristotle-Science-Philosophy-Meaningful/dp/0465021387) (Massimo Pigliucci is a philosopher fighting scientism among "New Atheists" such as Sam Harris, etc.)
+* Robert M. Pirsig, ["Zen and the Art of Motorcycle Maintenance: An Inquiry into Values"](https://en.wikipedia.org/wiki/Zen_and_the_Art_of_Motorcycle_Maintenance)
+* Jacques Pitrat, ["Artificial Ethics: Moral Conscience, Awareness and Consciencousness"](https://www.goodreads.com/book/show/6468168-artificial-ethics)
+* W. V. Quine & J. S. Ullian, ["The Web of Belief"](http://www.amazon.com/The-Web-Belief-W-Quine/dp/0075536099)
 * Jean-François Revel & Matthieu Ricard, ["Le moine et le philosophe"](http://www.amazon.fr/moine-philosophe-Jean-Fran-ois-Revel-ebook/dp/B009HBIGCC/) (mentioned by Carlo Strenger in "The Fear of Insignificance")
 * Michael Sandel, ["Justice: What's the Right Thing to Do?"](https://en.wikipedia.org/wiki/Justice:_What%27s_the_Right_Thing_to_Do%3F) (recommended by Massimo Pigliucci in his negative review of ["The Moral Landscape"](https://en.wikipedia.org/wiki/The_Moral_Landscape))
 * Nassim Nicholas Taleb, ["The Black Swan: The Impact of the Highly Improbable"](https://en.wikipedia.org/wiki/The_Black_Swan_(2007_book))
@@ -181,12 +200,15 @@ Pretty much everything from [Les cent livres du siècle](https://fr.wikipedia.or
 * Stephen Hawking, ["The Universe in a Nutshell"](https://en.wikipedia.org/wiki/The_Universe_in_a_Nutshell)
 * Michio Kaku, ["Parallel Worlds: A Journey Through Creation, Higher Dimensions, and the Future of the Cosmos"](https://en.wikipedia.org/wiki/Parallel_Worlds_(book))
 * David Lindley, ["Where Does The Weirdness Go?: Why Quantum Mechanics Is Strange, But Not As Strange As You Think"](http://www.amazon.com/Where-Does-The-Weirdness-Mechanics/dp/0465067867) (recommended on Quora)
+* Bruce Rosenblum & Fred Kuttner, ["Quantum Enigma: Physics Encounters Consciousness"](http://www.amazon.com/Quantum-Enigma-Physics-Encounters-Consciousness/dp/019517559X)
 * Charles Seife, ["Decoding the Universe: How the New Science of Information Is Explaining Everything in the Cosmos, from Our Brains to Black Holes"](http://www.amazon.com/Decoding-Universe-Information-Explaining-Everything-ebook/dp/B000O76NFK/)
 * Max Tegmark, ["Our Mathematical Universe: My Quest for the Ultimate Nature of Reality"](http://www.amazon.com/Our-Mathematical-Universe-Ultimate-Reality-ebook/dp/B00DXKJ2DA/) (summarized by [@SelfAwarePatter](https://twitter.com/SelfAwarePatter) on [his blog](http://selfawarepatterns.com/2014/04/21/tegmarks-mathematical-universe-hypothesis/))
 
 ## Psychology
 
 * Eric B. Baum, ["What Is Thought?"](http://www.amazon.com/exec/obidos/tg/detail/-/0262025485/) (recommended by [@r3mix](https://twitter.com/r3mix))
+* Winifred Gallagher, ["Rapt: Attention and the Focused Life"](http://www.amazon.com/Rapt-Attention-Focused-Winifred-Gallagher/dp/0143116908)
+* Daniel Goleman, ["Emotional Intelligence: 10th Anniversary Edition; Why It Can Matter More Than IQ"](http://www.amazon.com/Emotional-Intelligence-Matter-More-Than/dp/055338371X)
 * Robert-Vincent Joule & Jean-Léon Beauvois, ["La soumission librement consentie"](https://fr.wikipedia.org/wiki/Soumission_librement_consentie) (read ["Petit traité de manipulation à l'usage des honnêtes gens"](https://fr.wikipedia.org/wiki/Petit_trait%C3%A9_de_manipulation_%C3%A0_l%27usage_des_honn%C3%AAtes_gens) from them)
 * Daniel Kahneman, ["Thinking, Fast and Slow"](https://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow) (recommended by [@mistertricker](https://twitter.com/mistertricker))
 * Barry Schwartz, ["The Paradox of Choice: Why More Is Less"](https://en.wikipedia.org/wiki/The_Paradox_of_Choice)
