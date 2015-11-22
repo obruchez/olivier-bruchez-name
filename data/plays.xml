@@ -11,6 +11,30 @@
   -->
 
   <play>
+    <date>2015.11.21</date>
+    <location>Grand Champ, Gland, Switzerland</location>
+    <name>Zorghol 707</name>
+    <author>Christian Rossignol</author>
+    <director>Laurence Christen</director>
+    <actor>Nicolas Crisci</actor>
+    <actor>Hubert Dottrens</actor>
+    <actor>Pierre Luthi</actor>
+    <actor>Jeanne-Marie Martinez</actor>
+    <actor>Alix Perraudin</actor>
+    <actor>Miriam Perraudin</actor>
+    <actor>Stéphane Ruch</actor>
+    <actor>Jeremy Savoir</actor>
+    <actor>Marthe Verschueren</actor>
+    <actor>Ausilia Zelazniewicz</actor>
+    <!--
+Régie son :         Gérard Donzé
+Régie lumière :         Gérard Donzé
+Decors :        Maryline Zimmermann
+Conception affiche :        Bram Dauw
+    -->
+    <rating>4.5</rating>
+  </play>
+  <play>
     <date>2015.08.22</date>
     <location>Carrière des Andonces, St-Triphon, Switzerland</location>
     <name>Fabrikk</name>
