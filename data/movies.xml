@@ -2,6 +2,15 @@
 <movies>
   <introduction>A list of movies I saw.</introduction>
   <movie>
+    <date>2015.11.22</date>
+    <theater home="true"/>
+    <director>Irvin Kershner</director>
+    <title>Star Wars: Episode VI - Return of the Jedi</title>
+    <url>http://www.imdb.com/title/tt0086190/</url>
+    <rating>4.5</rating>
+    <comments>1997 version.</comments>
+  </movie>
+  <movie>
     <date>2015.11.14</date>
     <theater>Galeries, Lausanne</theater>
     <director>Christian Desmares &amp; Franck Ekinci</director>
