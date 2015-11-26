@@ -3,8 +3,16 @@
     <introduction>A list of books I read.</introduction>
     <book>
         <date></date>
+        <title>Les Testaments trahis</title>
+        <author>Milan Kundera</author>
+        <publishingyear>1993</publishingyear>
+        <rating></rating>
+        <url>https://fr.wikipedia.org/wiki/Les_Testaments_trahis</url>
+    </book>
+    <book>
+        <date></date>
         <title>Functional Programming in Scala</title>
-        <author>Paul Chiusano &amp; Runar Bjarnason </author>
+        <author>Paul Chiusano &amp; Runar Bjarnason</author>
         <publishingyear>2014</publishingyear>
         <rating></rating>
         <url>https://books.google.ch/books?ie=UTF-8&amp;vid=1617290653&amp;redir_esc=y</url>
