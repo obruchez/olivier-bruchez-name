@@ -11,6 +11,16 @@
   -->
 
   <play>
+    <date>2015.11.27</date>
+    <location>Salle Charles Apothéloz, Théâtre de Vidy, Lausanne, Switzerland</location>
+    <name>Werther !</name>    
+    <author>Johann Wolfgang von Goethe</author>
+    <director>Nicolas Stemann</director>
+    <actor>Philipp Hochmair</actor>
+    <rating>5.25</rating>
+  </play> 
+
+  <play>
     <date>2015.11.21</date>
     <location>Grand Champ, Gland, Switzerland</location>
     <name>Zorghol 707</name>
