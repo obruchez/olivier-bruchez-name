@@ -28,7 +28,7 @@ Pretty much everything from [Les cent livres du siècle](https://fr.wikipedia.or
 * OCTO Technology, ["Partageons Ce Qui Nous Departage"](http://www.amazon.fr/Partageons-ce-qui-nous-d%C3%A9partage/dp/2952589526)
 * Paul Sloane, ["The Innovative Leader: How to Inspire Your Team and Drive Creativity"](http://www.amazon.com/The-Innovative-Leader-Inspire-Creativity/dp/0749450010)
 
-## Comics
+## Comics
 
 * [Andy Fischli](http://www.andyfischli.ch/) (only available in German?)
 * [F'murr](https://fr.wikipedia.org/wiki/F%27murr) (already read a lot of his works; e.g. ["Bêêêêstes of le Génie des alpages"](https://fr.wikipedia.org/wiki/Le_G%C3%A9nie_des_alpages#Hors_s.C3.A9rie) contains previously unreleased material)
@@ -129,7 +129,7 @@ Pretty much everything from [Les cent livres du siècle](https://fr.wikipedia.or
 * Jared Diamond, ["Collapse: How Societies Choose to Fail or Succeed"](https://en.wikipedia.org/wiki/Collapse:_How_Societies_Choose_to_Fail_or_Succeed) (recommended by Franck?)
 * Jared Diamond, ["Guns, Germs, and Steel: The Fates of Human Societies"](https://en.wikipedia.org/wiki/Guns,_Germs,_and_Steel) (recommended by Franck?)
 
-## Humor
+## Humor
 
 * Pierre Desproges, ["Dictionnaire superflu à l'usage de l'élite et des biens nantis"](http://www.amazon.fr/Dictionnaire-superflu-lusage-l%C3%A9lite-nantis/dp/2020324369) (and others)
 
@@ -143,7 +143,7 @@ Pretty much everything from [Les cent livres du siècle](https://fr.wikipedia.or
 * Bhante Gunaratana, ["Mindfulness In Plain English"](http://www.urbandharma.org/pdf2/Mindfulness%20in%20Plain%20English%20Book%20Preview.pdf)
 * Alan Watts, ["Out of Your Mind: Essential Listening from the Alan Watts Audio Archives"](http://www.amazon.com/dp/1591791650) (audio book, recommended by [@avernet](https://twitter.com/avernet))
 
-## Misc
+## Misc
 
 * Florence Braunstein & Jean-François Pépin, ["La Culture générale pour les Nuls"](http://www.amazon.fr/Culture-g%C3%A9n%C3%A9rale-Pour-Nuls-%C3%A9dition/dp/2754016287)
 * Ben Schott, ["Schott's Quintessential Miscellany"](http://www.amazon.co.uk/Schotts-Quintessential-Miscellany-Ben-Schott/dp/140881577X)
@@ -239,7 +239,7 @@ Pretty much everything from [Les cent livres du siècle](https://fr.wikipedia.or
 * Ben Goldacre, ["I Think You'll Find It's a Bit More Complicated Than That"](http://www.amazon.co.uk/Think-Youll-Find-More-Complicated-ebook/dp/B00HATQA8K/)
 * Darrell Huff, ["How to Lie with Statistics"](https://en.wikipedia.org/wiki/How_to_Lie_with_Statistics) (recommended by [@behaghel](https://twitter.com/behaghel))
 
-## Social sciences / sociology
+## Social sciences / sociology
 
 * Caroline Fourest, ["Le choc des préjugés : L'impasse des postures sécuritaires et victimaires"](http://www.amazon.fr/choc-pr%C3%A9jug%C3%A9s-Limpasse-s%C3%A9curitaires-victimaires/dp/2702135331/) (recommended by [@ArianeBeldi](https://twitter.com/ArianeBeldi))
 * Normand Baillargeon, ["Petit cours d'autodéfense intellectuelle"](http://www.amazon.com/petit-dautod%C3%A9fense-intellectuelle-Normand-Baillargeon/dp/2895960445)
