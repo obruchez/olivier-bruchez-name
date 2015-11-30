@@ -28,12 +28,28 @@ Pretty much everything from [Les cent livres du siècle](https://fr.wikipedia.or
 * OCTO Technology, ["Partageons Ce Qui Nous Departage"](http://www.amazon.fr/Partageons-ce-qui-nous-d%C3%A9partage/dp/2952589526)
 * Paul Sloane, ["The Innovative Leader: How to Inspire Your Team and Drive Creativity"](http://www.amazon.com/The-Innovative-Leader-Inspire-Creativity/dp/0749450010)
 
+## Comics
+
+* [Andy Fischli](http://www.andyfischli.ch/) (only available in German?)
+* [F'murr](https://fr.wikipedia.org/wiki/F%27murr) (already read a lot of his works; e.g. ["Bêêêêstes of le Génie des alpages"](https://fr.wikipedia.org/wiki/Le_G%C3%A9nie_des_alpages#Hors_s.C3.A9rie) contains previously unreleased material)
+* Winsor McCay, ["Little Nemo"](https://en.wikipedia.org/wiki/Little_Nemo)
+* [Guillermo Mordillo](https://en.wikipedia.org/wiki/Guillermo_Mordillo)
+* François Schuiten & Benoît Peeters, ["L'archiviste"](https://fr.wikipedia.org/wiki/L%27Archiviste)
+* François Schuiten & Benoît Peeters, ["L'écho des cités"](https://fr.wikipedia.org/wiki/Les_Cit%C3%A9s_obscures#Hors-s.C3.A9rie)
+* François Schuiten & Benoît Peeters, ["Le guide des cités"](https://fr.wikipedia.org/wiki/Les_Cit%C3%A9s_obscures#Hors-s.C3.A9rie)
+* François Schuiten & Benoît Peeters, ["L'ombre d'un homme"](https://fr.wikipedia.org/wiki/L%27Ombre_d%27un_homme_(bande_dessin%C3%A9e))
+* François Schuiten & Benoît Peeters, ["La route d'Armilia"](https://fr.wikipedia.org/wiki/La_Route_d%27Armilia)
+* François Schuiten & Benoît Peeters, ["Voyages en utopie"](https://fr.wikipedia.org/wiki/Les_Cit%C3%A9s_obscures#Hors-s.C3.A9rie)
+* François Schuiten & Benoît Peeters, other ["Les Cités obscures"](https://en.wikipedia.org/wiki/Les_Cit%C3%A9s_obscures) stories that I haven't read yet
+* [Lewis Trondheim](https://fr.wikipedia.org/wiki/Lewis_Trondheim) (I need to read all his works)
+
 ## Computer science / software
 
 * Jon Bentley, ["Programming Pearls"](http://www.amazon.com/Programming-Pearls-2nd-ACM-Press/dp/0201657880/)
 * Thomas Cormen, ["Introduction to Algorithms"](http://www.amazon.com/Introduction-Algorithms-Thomas-Cormen/dp/0072970545/)
 * Eric Evans, ["Domain-Driven Design: Tackling Complexity in the Heart of Software"](http://www.amazon.com/exec/obidos/ASIN/0321125215/domainlanguag-20) (recommended by [@behaghel](https://twitter.com/behaghel))
 * Erich Gamma, etc., ["Design Patterns: Elements of Reusable Object-Oriented Software"](http://www.amazon.com/Design-Patterns-Object-Oriented-Addison-Wesley-Professional/dp/0201633612/)
+* Imran Ghory, ["Reinforcement learning in board games"](http://www.cs.bris.ac.uk/Publications/Papers/2000100.pdf)
 * Steve Krug, ["Don't Make Me Think: A Common Sense Approach to Web Usability"](http://www.amazon.com/Dont-Make-Me-Think-Usability/dp/0321344758) (recommended by [@behaghel](https://twitter.com/behaghel)?)
 * F. William Lawvere & Stephen H. Schanuel, ["Conceptual Mathematics: A First Introduction to Categories"](http://www.amazon.com/Conceptual-Mathematics-First-Introduction-Categories/dp/052171916X/)
 * Robert C. Martin, ["Clean Code: A Handbook of Agile Software Craftsmanship"](http://www.amazon.com/gp/product/0132350882)
@@ -79,6 +95,7 @@ Pretty much everything from [Les cent livres du siècle](https://fr.wikipedia.or
 * Frank Kafka, ["Le château"](https://fr.wikipedia.org/wiki/Le_Ch%C3%A2teau) (read in 2001)
 * Franz Kafka, ["La métamorphose"](https://fr.wikipedia.org/wiki/La_M%C3%A9tamorphose) (I might have already read this)
 * Franz Kafka, ["Le procès"](https://fr.wikipedia.org/wiki/Le_Proc%C3%A8s) (read in 2004)
+* [Milan Kundera](https://en.wikipedia.org/wiki/Milan_Kundera) (re-read everything I've already read from him and read the rest)
 * Bill Moody, ["Sur les traces de Chet Baker"](http://www.amazon.fr/Sur-traces-Chet-Baker-enqu%C3%AAte/dp/2743612061)
 * Amélie Nothomb, ["Acide sulfurique"](https://fr.wikipedia.org/wiki/Acide_sulfurique_(roman)) (recommended by Miriam)
 * H. P. Lovecraft, ["The Complete Works of H.P. Lovecraft"](https://www.goodreads.com/book/show/11851522-the-complete-works-of-h-p-lovecraft)
@@ -123,6 +140,7 @@ Pretty much everything from [Les cent livres du siècle](https://fr.wikipedia.or
 ## Meditation
 
 * Stephan Bodian, ["Zen ! La méditation pour les nuls"](https://encrypted.google.com/books/about/Zen_La_m%C3%A9ditation_pour_les_nuls.html?id=Qo6gOwAACAAJ) (I started reading this in 2004, never finished it)
+* Bhante Gunaratana, ["Mindfulness In Plain English"](http://www.urbandharma.org/pdf2/Mindfulness%20in%20Plain%20English%20Book%20Preview.pdf)
 * Alan Watts, ["Out of Your Mind: Essential Listening from the Alan Watts Audio Archives"](http://www.amazon.com/dp/1591791650) (audio book, recommended by [@avernet](https://twitter.com/avernet))
 
 ## Misc
@@ -203,6 +221,7 @@ Pretty much everything from [Les cent livres du siècle](https://fr.wikipedia.or
 * Bruce Rosenblum & Fred Kuttner, ["Quantum Enigma: Physics Encounters Consciousness"](http://www.amazon.com/Quantum-Enigma-Physics-Encounters-Consciousness/dp/019517559X)
 * Charles Seife, ["Decoding the Universe: How the New Science of Information Is Explaining Everything in the Cosmos, from Our Brains to Black Holes"](http://www.amazon.com/Decoding-Universe-Information-Explaining-Everything-ebook/dp/B000O76NFK/)
 * Max Tegmark, ["Our Mathematical Universe: My Quest for the Ultimate Nature of Reality"](http://www.amazon.com/Our-Mathematical-Universe-Ultimate-Reality-ebook/dp/B00DXKJ2DA/) (summarized by [@SelfAwarePatter](https://twitter.com/SelfAwarePatter) on [his blog](http://selfawarepatterns.com/2014/04/21/tegmarks-mathematical-universe-hypothesis/))
+* that old book my grandparents gave me when I was 8-10 years old
 
 ## Psychology
 
@@ -247,6 +266,3 @@ Pretty much everything from [Les cent livres du siècle](https://fr.wikipedia.or
 
 * Renan Larue, ["Le végétarisme et ses ennemis: Vingt-cinq siècles de débats"](http://www.amazon.fr/v-g-tarisme-ses-ennemis-Vingt-cinq-si-cles-ebook/dp/B00SBZ69TC/)
 
-## To-do
-
-* migrate my Google Drive document to this list
