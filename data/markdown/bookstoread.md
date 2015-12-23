@@ -226,6 +226,7 @@ Pretty much everything from [Les cent livres du siècle](https://fr.wikipedia.or
 ## Psychology
 
 * Eric B. Baum, ["What Is Thought?"](http://www.amazon.com/exec/obidos/tg/detail/-/0262025485/) (recommended by [@r3mix](https://twitter.com/r3mix))
+* Susan Cain, ["Quiet: The Power of Introverts in a World That Can't Stop Talking"](http://www.amazon.com/Quiet-Power-Introverts-World-Talking-ebook/dp/B0074YVW1G/)
 * Winifred Gallagher, ["Rapt: Attention and the Focused Life"](http://www.amazon.com/Rapt-Attention-Focused-Winifred-Gallagher/dp/0143116908)
 * Daniel Goleman, ["Emotional Intelligence: 10th Anniversary Edition; Why It Can Matter More Than IQ"](http://www.amazon.com/Emotional-Intelligence-Matter-More-Than/dp/055338371X)
 * Robert-Vincent Joule & Jean-Léon Beauvois, ["La soumission librement consentie"](https://fr.wikipedia.org/wiki/Soumission_librement_consentie) (read ["Petit traité de manipulation à l'usage des honnêtes gens"](https://fr.wikipedia.org/wiki/Petit_trait%C3%A9_de_manipulation_%C3%A0_l%27usage_des_honn%C3%AAtes_gens) from them)
