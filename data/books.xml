@@ -2,11 +2,11 @@
 <books>
     <introduction>A list of books I read.</introduction>
     <book>
-        <date></date>
+        <date>2015.12.29</date>
         <title>Les Testaments trahis</title>
         <author>Milan Kundera</author>
         <publishingyear>1993</publishingyear>
-        <rating></rating>
+        <rating>5.0</rating>
         <url>https://fr.wikipedia.org/wiki/Les_Testaments_trahis</url>
     </book>
     <book>
