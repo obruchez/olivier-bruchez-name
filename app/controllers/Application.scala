@@ -9,6 +9,23 @@ import models.{ PdfCv, WordCv }
 import scala.concurrent.Future
 
 object Application extends Controller {
+  // @todo remove this (test code)
+  def test = Action {
+    import scala.collection.JavaConversions._
+
+    val x = blogger.Test.blogger
+    // 3497105234617179295 = Olivier Bruchez's blog
+    //val y = x.blogs().get("3497105234617179295")
+    val z = x.posts().list("3497105234617179295").setMaxResults(500L)
+    val zzz = z.execute()
+    for (post <- zzz.getItems.iterator().toSeq) {
+      println(s"title = ${post.getTitle} -> ${post.getUrl}")
+      println(s"${post.getContent}")
+    }
+
+    Ok("Test")
+  }
+
   def home = Action.async {
     val MaxItemCount = 5
 
