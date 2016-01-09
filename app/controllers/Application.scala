@@ -2,10 +2,10 @@ package controllers
 
 import actors.Cache
 import models._
-import models.ListItems._
 import play.api.libs.concurrent.Execution.Implicits._
 import play.api.mvc._
 import models.{ PdfCv, WordCv }
+import util.Configuration
 import scala.concurrent.Future
 
 object Application extends Controller {
@@ -14,9 +14,7 @@ object Application extends Controller {
     import scala.collection.JavaConversions._
 
     val x = blogger.Test.blogger
-    // 3497105234617179295 = Olivier Bruchez's blog
-    //val y = x.blogs().get("3497105234617179295")
-    val z = x.posts().list("3497105234617179295").setMaxResults(500L)
+    val z = x.posts().list(Configuration.string("blogger.blogid").get).setMaxResults(500L)
     val zzz = z.execute()
     for (post <- zzz.getItems.iterator().toSeq) {
       println(s"title = ${post.getTitle} -> ${post.getUrl}")
