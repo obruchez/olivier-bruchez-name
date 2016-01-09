@@ -31,7 +31,7 @@ object Application extends Controller {
 
     val allListItemsFuture = Future.sequence {
       for {
-        page <- Sitemap.allPages
+        page <- Sitemap.recentActivityPages
         if page.fetchables.size == 1
         fetchable <- page.fetchables
       } yield {

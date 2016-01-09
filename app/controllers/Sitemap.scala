@@ -98,4 +98,6 @@ object Sitemap {
 
     (currentAndChildren(root) ++ nonRootPages).distinct
   }
+
+  val recentActivityPages = Seq(books, concerts, courses, crashes, exhibitions, hikes, movies, plays, trips)
 }
