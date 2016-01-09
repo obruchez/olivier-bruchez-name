@@ -24,10 +24,10 @@ object Application extends Controller {
 
     for {
       allListItems <- allListItemsFuture
-      nonEmptyListItems = allListItems.filter(_._1.listItems.nonEmpty)
+      recentActivityListItemsWithPages = allListItems.filter(_._1.listItems.nonEmpty).sortBy(_._1.fetchable.name)
       tweets <- Cache.get(Tweets)
     } yield {
-      Ok(views.html.home(HtmlContent.fromNonHtmlString(tweets.profile), nonEmptyListItems.sortBy(_._1.fetchable.name)))
+      Ok(views.html.home(tweets, recentActivityListItemsWithPages))
     }
   }
 
