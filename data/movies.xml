@@ -2,6 +2,15 @@
 <movies>
   <introduction>A list of movies I saw.</introduction>
   <movie>
+    <date>2016.01.10</date>
+    <theater>Pathé Flon, Lausanne</theater>
+    <director>J.J. Abrams</director>
+    <title>Star Wars: The Force Awakens</title>
+    <url>http://www.imdb.com/title/tt2488496/</url>
+    <rating>5.0</rating>
+    <comments>3D version.</comments>
+  </movie> 
+  <movie>
     <date>2016.01.09</date>
     <theater home="true"/>
     <director>Frank Darabont</director>
