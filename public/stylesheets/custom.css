@@ -4,6 +4,10 @@
     margin-bottom: 10px;
 }
 
+.home .profile {
+    font-size: 13px;
+}
+
 .home-lists {
     margin-top: 20px;
 }
@@ -73,7 +77,7 @@
     color: #555;
 }
 
-.markdown li a {
+.markdown li a, .latestposts li a, .latesttweets li a {
     /* @todo this should depend on the theme */
     color: #18ba9b;
 }

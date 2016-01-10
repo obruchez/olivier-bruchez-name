@@ -9,7 +9,7 @@
     <p>My name is Olivier Bruchez. To make it short, here's my <a href="https://twitter.com/obruchez">Twitter bio</a>:</p>
 
     <blockquote class="hero-unify">
-    <p><em>"@HtmlContent.fromNonHtmlString(tweets.profile).html"</em></p>
+    <p class="profile"><em>"@HtmlContent.fromNonHtmlString(tweets.profile).html"</em></p>
     </blockquote>
 
     <p>You can find more information about me on my <a href="@routes.Application.profile()">profile</a> page or in
@@ -27,7 +27,7 @@
 
     <p><a href="https://bruchez.blogspot.com">I have a blog on Blogger</a> since September 2006. It is not completely
       integrated with this website yet, but I'm working on it. Here are my latest posts:</p>
-    <ul>
+    <ul class="latestposts">
       @posts.latestItems(Posts, count = 5).listItems.map { listItem =>
         <li><a href="@listItem.itemUrl">@listItem.date.yyyymmddString</a>: @listItem.shortRepresentation.html</li>
       }
@@ -36,7 +36,7 @@
     <div class="headline"><h2>Twitter</h2></div>
 
     <p><a href="https://twitter.com/obruchez">I'm also on Twitter</a> since February 2008. Here are my latest tweets:</p>
-    <ul>
+    <ul class="latesttweets">
       @tweets.latestItems(Tweets, count = 5).listItems.map { listItem =>
         <li><a href="@listItem.itemUrl">@listItem.date.yyyymmddString</a>: @listItem.shortRepresentation.html</li>
       }
