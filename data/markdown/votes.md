@@ -6,14 +6,14 @@ My votes (in French). En Suisse, on ne plaisante pas avec la démocratie directe
 
 ### Acceptez-vous l’arrêté fédéral du 12 décembre 2014 concernant la modification de l’article constitutionnel relatif à la procréation médicalement assistée et au génie génétique dans le domaine humain ?
 
-Oui. Résultat : ?.
+Oui. Résultat : oui (61.9%).
 
 - D'un point de vue éthique, je ne vois aucune raison de ne pas accepter cet arrêté, qui a pour effet de diminuer dans certains cas bien précis les risques autant pour les enfants que pour les parents.
 - J'imagine aisément qu'on peut lui opposer des arguments de type "pente glissante", mais ces arguments sont rarement pertinents (craintes irrationnelles). En l'occurrence, des garde-fous suffisants sont proposés.
 
 ### Acceptez-vous l’initiative populaire "Initiative sur les bourses d’études" ?
 
-Oui. Résultat : ?.
+Oui. Résultat : non (72.5%).
 
 - Il est important que tout le monde puisse accéder à une formation supérieure s'il le souhaite, indépendamment de sa situation financière.
 - Il me semble également important de ne pas encourager des systèmes menant à un endettement des étudiants.
@@ -28,7 +28,7 @@ Oui. Résultat : ?.
 
 ### Acceptez-vous l’initiative populaire "Imposer les successions de plusieurs millions pour financer notre AVS (Réforme de la fiscalité successorale)" ?
 
-Oui. Résultat : ?.
+Oui. Résultat : non (71.0%).
 
 - L'argument du Conseil fédéral concernant la souveraineté cantonale me laisse froid (voir plus haut).
 - Son argument selon lequel cette initiative ne résoudra pas complètement le problème du financement de l'AVS est étrange. Une mesure ne doit pas forcément être rejetée parce qu'elle ne résoud pas complètement une problématique.
@@ -40,7 +40,7 @@ Oui. Résultat : ?.
 
 ### Acceptez-vous la modification du 26 septembre 2014 de la loi fédérale sur la radio et la télévision (LRTV) ?
 
-Oui. Résultat : ?.
+Oui. Résultat : oui (50.1%).
 
 - Le système actuel est trop compliqué (contrôles, etc.) et ne prend pas en compte l'évolution technologique des vingt dernières années.
 - Toute simplification me semble bienvenue.
