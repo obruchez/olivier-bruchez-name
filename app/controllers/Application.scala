@@ -8,17 +8,6 @@ import models.{ PdfCv, WordCv }
 import scala.concurrent.Future
 
 object Application extends Controller {
-  // @todo remove this (test code)
-  def test = Action {
-    val posts = blogger.Blogger.latestPosts(5)
-
-    for (post <- posts) {
-      println(s"post = $post")
-    }
-
-    Ok("Test")
-  }
-
   def home = Action.async {
     val MaxItemCount = 5
 
@@ -35,9 +24,10 @@ object Application extends Controller {
     for {
       allListItems <- allListItemsFuture
       recentActivityListItemsWithPages = allListItems.filter(_._1.listItems.nonEmpty).sortBy(_._1.fetchable.name)
+      posts <- Cache.get(Posts)
       tweets <- Cache.get(Tweets)
     } yield {
-      Ok(views.html.home(tweets, recentActivityListItemsWithPages))
+      Ok(views.html.home(posts, tweets, recentActivityListItemsWithPages))
     }
   }
 

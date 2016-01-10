@@ -37,7 +37,7 @@ object Posts extends Fetchable {
 
   override def fetch(): Try[Posts] = Try {
     Posts(
-      // @todo how many posts do we really want to fetch?
-      listItems = Blogger.latestPosts(count = 1000).map(Post(_)))
+      // @todo how many posts do we really want to fetch? (500 is actually the maximum allowed)
+      listItems = Blogger.latestPosts(count = 500).map(Post(_)))
   }
 }

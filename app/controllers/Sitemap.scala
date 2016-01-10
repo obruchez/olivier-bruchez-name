@@ -65,6 +65,13 @@ object Sitemap {
     url = "",
     children = Seq(home, about, lifelogging, votes, cv, contacts))
 
+  val posts = Page(
+    title = "Posts",
+    url = Posts.sourceUrl.toString,
+    icon = Posts.icon,
+    fetchables = Seq(Posts),
+    children = Seq())
+
   val twitter = Page(
     title = "Twitter",
     url = Tweets.sourceUrl.toString,
@@ -72,7 +79,7 @@ object Sitemap {
     fetchables = Seq(Tweets),
     children = Seq())
 
-  val nonRootPages = Seq(twitter)
+  val nonRootPages = Seq(posts, twitter)
 
   def pageByUrl(url: String): Option[Page] = {
     def pageByUrl(pageToTest: Page): Option[Page] =

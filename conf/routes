@@ -4,9 +4,6 @@
 
 GET        /                                 controllers.Application.home
 
-# @todo remove this (test code)
-GET        /test                             controllers.Application.test
-
 GET        /about                            controllers.Application.about
 
 GET        /profile                          controllers.Application.profile
