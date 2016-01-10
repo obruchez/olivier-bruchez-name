@@ -25,6 +25,13 @@ object FileType {
       Other
   }
 
-  def fileTypeFromUrl(url: URL): FileType =
-    fileTypeFromFilename(url.toString)
+  def fileTypeFromUrl(url: URL): FileType = {
+    val urlString = url.toString
+
+    // Remove any URL parameter
+    val parametersIndex = urlString.lastIndexOf("?")
+    val normalizedUrlString = if (parametersIndex < 0) urlString else urlString.substring(0, parametersIndex)
+
+    fileTypeFromFilename(normalizedUrlString)
+  }
 }
