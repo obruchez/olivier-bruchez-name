@@ -9,13 +9,13 @@ import scala.concurrent.Future
 import scala.concurrent.duration._
 
 sealed trait MasterMessage
-case object CheckCache extends MasterMessage
+case class CheckCache(force: Boolean, reschedule: Boolean) extends MasterMessage
 
 class Master extends Actor {
   import context._
 
   def receive = {
-    case CheckCache =>
+    case CheckCache(force, reschedule) =>
       Logger.trace(s"Checking cache...")
 
       // Retrieve caching times of all fetchables from Sitemap
@@ -30,13 +30,15 @@ class Master extends Actor {
           mustFetch = cachingTimeOption.fold(true) { cachingTime =>
             currentTime.getMillis - cachingTime.getMillis >= fetchable.maximumAge.getMillis
           }
-          if mustFetch
+          if mustFetch || force
         } {
           Master.fetcherRouter ! Fetch(fetchable)
         }
       }
 
-      system.scheduler.scheduleOnce(Master.CheckPeriod, self, CheckCache)
+      if (reschedule) {
+        system.scheduler.scheduleOnce(Master.CheckPeriod, self, CheckCache)
+      }
   }
 }
 
@@ -49,10 +51,14 @@ object Master {
   lazy val fetcherRouter = system.actorOf(RoundRobinPool(10).props(Props(new Fetcher(cache))), "fetcher-pool")
 
   def start(): Unit = {
-    master ! CheckCache
+    master ! CheckCache(force = false, reschedule = true)
   }
 
   def stop(): Unit = {
     system.shutdown()
+  }
+
+  def forceFetch(): Unit = {
+    master ! CheckCache(force = true, reschedule = false)
   }
 }

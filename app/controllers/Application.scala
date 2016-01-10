@@ -127,6 +127,11 @@ object Application extends Controller {
 
   def contacts = Action.async { Cache.get(Contacts).map(contacts => Ok(views.html.contacts(contacts))) }
 
+  def reload = Action {
+    actors.Master.forceFetch()
+    Redirect(routes.Application.home())
+  }
+
   implicit class ResultOps(result: Result) {
     def withFilename(filename: String): Result =
       result.withHeaders(CONTENT_DISPOSITION -> s"""attachment; filename="$filename"""")
