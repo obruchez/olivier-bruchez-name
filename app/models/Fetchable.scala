@@ -42,4 +42,16 @@ trait Fetchable {
   def icon: Option[String] = None
   def maximumAge: Duration = new Duration(15.minutes.toMillis)
   def fetch(): Try[C]
+
+  /*
+    Github seems to cache the data on the server-side (???), so the following have no effect...
+
+      urlConnection.setUseCaches(false)
+      urlConnection.setRequestProperty("Cache-Control", "no-cache, no-store, must-revalidate")
+      urlConnection.setRequestProperty("Pragma", "no-cache")
+      urlConnection.setRequestProperty("Expires", "0")
+
+    For now, we're using the following workaround.
+   */
+  def sourceUrlWithNoCacheParameter: URL = new URL(sourceUrl.toString + "?_=" + System.currentTimeMillis())
 }

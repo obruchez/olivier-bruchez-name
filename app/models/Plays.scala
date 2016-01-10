@@ -52,7 +52,7 @@ object Plays extends Fetchable {
   override val sourceUrl = Configuration.baseUrlWithFile("plays.xml").get
   override val icon = Some("fa-ticket") // @todo better icon
 
-  override def fetch(): Try[Plays] = apply(sourceUrl)
+  override def fetch(): Try[Plays] = apply(sourceUrlWithNoCacheParameter)
 
   def apply(url: URL): Try[Plays] = for {
     xml <- Try(XML.load(url))

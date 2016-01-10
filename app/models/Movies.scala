@@ -69,7 +69,7 @@ object Movies extends Fetchable {
   override val sourceUrl = Configuration.baseUrlWithFile("movies.xml").get
   override val icon = Some("fa-film")
 
-  override def fetch(): Try[Movies] = apply(sourceUrl)
+  override def fetch(): Try[Movies] = apply(sourceUrlWithNoCacheParameter)
 
   def apply(url: URL): Try[Movies] = for {
     xml <- Try(XML.load(url))

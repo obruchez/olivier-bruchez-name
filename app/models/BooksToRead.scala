@@ -14,7 +14,7 @@ object BooksToRead extends Fetchable {
   override val sourceUrl = Configuration.baseUrlWithFile("markdown/bookstoread.md").get
   override val icon = Books.icon
 
-  override def fetch(): Try[BooksToRead] = apply(sourceUrl)
+  override def fetch(): Try[BooksToRead] = apply(sourceUrlWithNoCacheParameter)
 
   def apply(url: URL): Try[BooksToRead] = for {
     markdownContent <- MarkdownContent(url)

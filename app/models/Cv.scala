@@ -12,7 +12,7 @@ object PdfCv extends Fetchable {
   override val sourceUrl = Configuration.baseUrlWithFile("cv/ResumeOlivierBruchez.pdf").get
   override val icon = Some("fa-file-pdf-o")
 
-  override def fetch(): Try[PdfCv] = BinaryContent(sourceUrl).map(PdfCv(_))
+  override def fetch(): Try[PdfCv] = BinaryContent(sourceUrlWithNoCacheParameter).map(PdfCv(_))
 
   val DownloadFilename = sourceUrl.toString.split("/").last
 }
@@ -26,7 +26,7 @@ object WordCv extends Fetchable {
   override val sourceUrl = Configuration.baseUrlWithFile("cv/ResumeOlivierBruchez.doc").get
   override val icon = Some("fa-file-word-o")
 
-  override def fetch(): Try[WordCv] = BinaryContent(sourceUrl).map(WordCv(_))
+  override def fetch(): Try[WordCv] = BinaryContent(sourceUrlWithNoCacheParameter).map(WordCv(_))
 
   val DownloadFilename = sourceUrl.toString.split("/").last
 }

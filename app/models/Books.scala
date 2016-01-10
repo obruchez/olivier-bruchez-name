@@ -83,7 +83,7 @@ object Books extends Fetchable {
   override val sourceUrl = Configuration.baseUrlWithFile("books.xml").get
   override val icon = Some("fa-book")
 
-  override def fetch(): Try[Books] = apply(sourceUrl)
+  override def fetch(): Try[Books] = apply(sourceUrlWithNoCacheParameter)
 
   def apply(url: URL): Try[Books] = for {
     xml <- Try(XML.load(url))

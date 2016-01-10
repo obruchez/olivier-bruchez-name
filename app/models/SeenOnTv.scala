@@ -14,7 +14,7 @@ object SeenOnTv extends Fetchable {
   override val sourceUrl = Configuration.baseUrlWithFile("markdown/seenontv.md").get
   override val icon = Some("fa-desktop") // @todo better icon
 
-  override def fetch(): Try[SeenOnTv] = apply(sourceUrl)
+  override def fetch(): Try[SeenOnTv] = apply(sourceUrlWithNoCacheParameter)
 
   def apply(url: URL): Try[SeenOnTv] = for {
     markdownContent <- MarkdownContent(url)

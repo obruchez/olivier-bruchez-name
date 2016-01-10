@@ -79,7 +79,7 @@ object Profile extends Fetchable {
   override val sourceUrl = Configuration.baseUrlWithFile("profile.xml").get
   override val icon = Some("fa-list")
 
-  override def fetch(): Try[Profile] = apply(sourceUrl)
+  override def fetch(): Try[Profile] = apply(sourceUrlWithNoCacheParameter)
 
   def apply(url: URL): Try[Profile] = for {
     xml <- Try(XML.load(url))

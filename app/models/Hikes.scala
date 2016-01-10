@@ -38,7 +38,7 @@ object Hikes extends Fetchable {
   override val sourceUrl = Configuration.baseUrlWithFile("hikes.xml").get
   override val icon = Some("fa-sun-o") // @todo better icon
 
-  override def fetch(): Try[Hikes] = apply(sourceUrl)
+  override def fetch(): Try[Hikes] = apply(sourceUrlWithNoCacheParameter)
 
   def apply(url: URL): Try[Hikes] = for {
     xml <- Try(XML.load(url))

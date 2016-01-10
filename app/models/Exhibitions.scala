@@ -42,7 +42,7 @@ object Exhibitions extends Fetchable {
   override val sourceUrl = Configuration.baseUrlWithFile("exhibitions.xml").get
   override val icon = Some("fa-picture-o") // @todo better icon
 
-  override def fetch(): Try[Exhibitions] = apply(sourceUrl)
+  override def fetch(): Try[Exhibitions] = apply(sourceUrlWithNoCacheParameter)
 
   def apply(url: URL): Try[Exhibitions] = for {
     xml <- Try(XML.load(url))

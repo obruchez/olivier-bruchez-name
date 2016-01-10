@@ -45,7 +45,7 @@ object Trips extends Fetchable {
   override val sourceUrl = Configuration.baseUrlWithFile("trips.xml").get
   override val icon = Some("fa-suitcase")
 
-  override def fetch(): Try[Trips] = apply(sourceUrl)
+  override def fetch(): Try[Trips] = apply(sourceUrlWithNoCacheParameter)
 
   def apply(url: URL): Try[Trips] = for {
     xml <- Try(XML.load(url))

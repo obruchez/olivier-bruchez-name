@@ -14,7 +14,7 @@ object Votes extends Fetchable {
   override val sourceUrl = Configuration.baseUrlWithFile("markdown/votes.md").get
   override val icon = Some("fa-bullhorn")
 
-  override def fetch(): Try[Votes] = apply(sourceUrl)
+  override def fetch(): Try[Votes] = apply(sourceUrlWithNoCacheParameter)
 
   def apply(url: URL): Try[Votes] = for {
     markdownContent <- MarkdownContent(url)

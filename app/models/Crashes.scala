@@ -40,7 +40,7 @@ object Crashes extends Fetchable {
   override val sourceUrl = Configuration.baseUrlWithFile("crashes.xml").get
   override val icon = Some("fa-hdd-o")
 
-  override def fetch(): Try[Crashes] = apply(sourceUrl)
+  override def fetch(): Try[Crashes] = apply(sourceUrlWithNoCacheParameter)
 
   def apply(url: URL): Try[Crashes] = for {
     xml <- Try(XML.load(url))

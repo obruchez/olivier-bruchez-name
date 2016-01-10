@@ -74,7 +74,7 @@ object Courses extends Fetchable {
   override val sourceUrl = Configuration.baseUrlWithFile("courses.xml").get
   override val icon = Some("fa-graduation-cap")
 
-  override def fetch(): Try[Courses] = apply(sourceUrl)
+  override def fetch(): Try[Courses] = apply(sourceUrlWithNoCacheParameter)
 
   def apply(url: URL): Try[Courses] = for {
     xml <- Try(XML.load(url))

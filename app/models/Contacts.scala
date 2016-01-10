@@ -30,7 +30,7 @@ object Contacts extends Fetchable {
   override val sourceUrl = Configuration.baseUrlWithFile("contacts.xml").get
   override val icon = Some("fa-envelope-o")
 
-  override def fetch(): Try[Contacts] = apply(sourceUrl)
+  override def fetch(): Try[Contacts] = apply(sourceUrlWithNoCacheParameter)
 
   def apply(url: URL): Try[Contacts] = for {
     xml <- Try(XML.load(url))

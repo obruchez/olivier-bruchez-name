@@ -14,7 +14,7 @@ object TripsToTake extends Fetchable {
   override val sourceUrl = Configuration.baseUrlWithFile("markdown/tripstotake.md").get
   override val icon = Trips.icon
 
-  override def fetch(): Try[TripsToTake] = apply(sourceUrl)
+  override def fetch(): Try[TripsToTake] = apply(sourceUrlWithNoCacheParameter)
 
   def apply(url: URL): Try[TripsToTake] = for {
     markdownContent <- MarkdownContent(url)
