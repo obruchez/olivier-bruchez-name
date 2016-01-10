@@ -5,20 +5,15 @@ import models._
 import play.api.libs.concurrent.Execution.Implicits._
 import play.api.mvc._
 import models.{ PdfCv, WordCv }
-import util.Configuration
 import scala.concurrent.Future
 
 object Application extends Controller {
   // @todo remove this (test code)
   def test = Action {
-    import scala.collection.JavaConversions._
+    val posts = blogger.Blogger.latestPosts(5)
 
-    val x = blogger.Blogger.blogger
-    val z = x.posts().list(Configuration.string("blogger.blogid").get).setMaxResults(500L).setKey(Configuration.string("blogger.apikey").get)
-    val zzz = z.execute()
-    for (post <- zzz.getItems.iterator().toSeq) {
-      println(s"title = ${post.getTitle} -> ${post.getUrl}")
-      println(s"${post.getContent}")
+    for (post <- posts) {
+      println(s"post = $post")
     }
 
     Ok("Test")

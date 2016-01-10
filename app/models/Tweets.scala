@@ -11,7 +11,7 @@ case class Tweet(override val date: ReadablePartial,
                  reply: Boolean,
                  override val itemSlug: Option[String] = None,
                  override val itemUrl: Option[String] = None)
-    extends ListItem(date, HtmlContent.fromNonHtmlString(s"$content"), itemSlug, itemUrl) {
+    extends ListItem(date, HtmlContent.fromNonHtmlString(content), itemSlug, itemUrl) {
   type T = Tweet
 
   override def withSlug(slug: Option[String]): Tweet = copy(itemSlug = slug)
