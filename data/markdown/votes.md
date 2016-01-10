@@ -242,7 +242,7 @@ Oui. Résultat : oui (55.8%).
 
 Non. Résultat : non (76.3%).
 
-### Acceptez-vous la modification du 28 septembre 2012 de la loi sur l'asile (LAsi)(Modifications urgentes de la loi sur l'asile) ?
+### Acceptez-vous la modification du 28 septembre 2012 de la loi sur l'asile (LAsi) (Modifications urgentes de la loi sur l'asile) ?
 
 ?. Résultat : oui (78.4%).
 
