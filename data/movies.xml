@@ -2,6 +2,14 @@
 <movies>
   <introduction>A list of movies I saw.</introduction>
   <movie>
+    <date>2016.01.09</date>
+    <theater home="true"/>
+    <director>Frank Darabont</director>
+    <title>The Shawshank Redemption</title>
+    <url>http://www.imdb.com/title/tt0111161/</url>
+    <rating>5.5</rating>
+  </movie>
+  <movie>
     <date>2015.11.22</date>
     <theater home="true"/>
     <director>Irvin Kershner</director>
