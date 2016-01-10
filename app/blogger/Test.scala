@@ -7,7 +7,7 @@ import com.google.api.client.googleapis.auth.oauth2.{ GoogleAuthorizationCodeFlo
 import com.google.api.client.googleapis.javanet.GoogleNetHttpTransport
 import com.google.api.client.json.jackson2.JacksonFactory
 import com.google.api.client.util.store.FileDataStoreFactory
-import com.google.api.services.blogger.{ Blogger, BloggerScopes }
+import com.google.api.services.blogger.{ Blogger => BloggerService, BloggerScopes }
 import java.util.Collections
 import util.Configuration
 
@@ -42,5 +42,5 @@ object Test {
 
   val credential = authorize()
   val applicationName = Configuration.string("blogger.applicationname").get
-  val blogger = new Blogger.Builder(httpTransport, jsonFactory, credential).setApplicationName(applicationName).build()
+  val blogger = new BloggerService.Builder(httpTransport, jsonFactory, credential).setApplicationName(applicationName).build()
 }

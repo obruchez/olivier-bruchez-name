@@ -13,8 +13,8 @@ object Application extends Controller {
   def test = Action {
     import scala.collection.JavaConversions._
 
-    val x = blogger.Test.blogger
-    val z = x.posts().list(Configuration.string("blogger.blogid").get).setMaxResults(500L)
+    val x = blogger.Blogger.blogger
+    val z = x.posts().list(Configuration.string("blogger.blogid").get).setMaxResults(500L).setKey(Configuration.string("blogger.apikey").get)
     val zzz = z.execute()
     for (post <- zzz.getItems.iterator().toSeq) {
       println(s"title = ${post.getTitle} -> ${post.getUrl}")
