@@ -2,14 +2,14 @@
 <movies>
   <introduction>A list of movies I saw.</introduction>
 
-   <movie>
+   <!--<movie>
     <date>2016.01.15</date>
     <theater>Pathé Flon, Lausanne</theater>
     <director>J.J. Abrams</director>
     <title>TEST</title>
     <url>http://www.imdb.com/title/tt2488496/</url>
     <rating></rating>
-  </movie>
+  </movie>-->
 
   <movie>
     <date>2016.01.10</date>
