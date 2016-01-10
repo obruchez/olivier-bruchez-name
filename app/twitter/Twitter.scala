@@ -14,16 +14,16 @@ object Twitter {
     def url: URL = new URL(s"https://twitter.com/$username/status/${status.getId}")
   }
 
-  val configuration = new ConfigurationBuilder().
+  private val configuration = new ConfigurationBuilder().
       setOAuthConsumerKey(Configuration.string("twitter.consumerkey").get).
       setOAuthConsumerSecret(Configuration.string("twitter.consumersecret").get).
       setOAuthAccessToken(Configuration.string("twitter.accesstoken").get).
       setOAuthAccessTokenSecret(Configuration.string("twitter.accesstokensecret").get).
       build()
 
-  val twitter = new TwitterFactory(configuration).getInstance()
+  private val twitter = new TwitterFactory(configuration).getInstance()
 
-  val user = twitter.showUser(Configuration.string("twitter.username").get)
+  private val user = twitter.showUser(Configuration.string("twitter.username").get)
 
   val userDescription: String = user.getDescription
 
