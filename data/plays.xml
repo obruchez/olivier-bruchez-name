@@ -9,7 +9,29 @@
     <translation></translation>
     <actor></actor>
   -->
-
+  <play>
+    <date>2016.01.13</date>
+    <location>Pulloff Théâtres, Lausanne, Switzerland</location>
+    <name>Le Cinoche</name>
+    <author>Annie Baker</author>
+    <translation>Antoinette Monod &amp; Geoffrey Dyson</translation>
+    <director>Geoffrey Dyson</director>
+    <actor>Sabrina Martin</actor>
+    <actor>Karim Marmet</actor>
+    <actor>Matthias Urban</actor>
+    <actor>Simon Labarriere</actor>
+    <actor>Jean-Marc Morel</actor>
+    <!--
+    assistanat Simon Labarriere
+    scenographie Kym Staiff
+    costumes Berivan Meyer
+    maquillage Viviane Lima
+    lumière Jean-Pierre Potvliege
+    relations publiques Pierre Lang
+    aide construction Théo Serez
+    -->
+    <rating>5.25</rating>
+  </play>
   <play>
     <date>2015.11.27</date>
     <location>Salle Charles Apothéloz, Théâtre de Vidy, Lausanne, Switzerland</location>
@@ -19,7 +41,6 @@
     <actor>Philipp Hochmair</actor>
     <rating>5.25</rating>
   </play> 
-
   <play>
     <date>2015.11.21</date>
     <location>Grand Champ, Gland, Switzerland</location>
