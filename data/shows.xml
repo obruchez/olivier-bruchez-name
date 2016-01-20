@@ -232,6 +232,16 @@
     <series url="https://en.wikipedia.org/wiki/The_Big_Bang_Theory_(season_1)">1</series>
   </show>
   <show>
+    <date>2009.01.14</date>
+    <name url="https://en.wikipedia.org/wiki/Chocky_(TV_series)">Chocky</name>
+    <series url="https://en.wikipedia.org/wiki/Chocky_(TV_series)#Chocky.27s_Challenge">Chocky's Challenge</series>
+  </show>
+  <show>
+    <date>2008.03.22</date>
+    <name url="https://en.wikipedia.org/wiki/Prison_Break">Prison Break</name>
+    <series url="https://en.wikipedia.org/wiki/Prison_Break_(season_3)">3</series>
+  </show>
+  <show>
     <date>2001.07.10</date>
     <name url="https://en.wikipedia.org/wiki/The_Tripods_(TV_series)">The Tripods</name>
     <series>1</series>
@@ -246,11 +256,9 @@
 </shows>
 
 <!--
-14 janvier 2009: Chocky's Challenge
 
 ???: Prison Break 1
 ???: Prison Break 2
-22 mars 2008: Prison Break 3
 
 ???: Lost 1
 ???: Lost 2
