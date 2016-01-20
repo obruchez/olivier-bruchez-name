@@ -1,4 +1,4 @@
-# Things to remember
+# General things to remember
 
 ## Nespresso orders/delivery (Swiss Post vs DPD)
 
