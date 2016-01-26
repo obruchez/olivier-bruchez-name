@@ -41,8 +41,18 @@
             <subitem url="https://en.wikipedia.org/wiki/Machine_learning">Machine learning</subitem>
         </item>
         <item url="https://en.wikipedia.org/wiki/Astronomy">Astronomy</item>
+        <item url="https://en.wikipedia.org/wiki/Basic_income">Basic income</item>
+        <item url="https://en.wikipedia.org/wiki/Consumer_protection">Consumer rights</item>
+        <item>
+            <subitem url="https://en.wikipedia.org/wiki/Electric_car">Electric cars</subitem>
+            <subitem url="https://en.wikipedia.org/wiki/Autonomous_car">Self-driving cars</subitem>     
+        </item>
         <item url="https://en.wikipedia.org/wiki/Futures_studies">Futures studies (a.k.a. futurology / futurism)</item>
         <item url="https://en.wikipedia.org/wiki/Getting_Things_Done">Getting Things Done (GTD)</item>
+        <item>
+            <subitem url="https://en.wikipedia.org/wiki/Paperless_office">Going paperless</subitem>
+            <subitem url="https://en.wikipedia.org/wiki/E-book">E-books</subitem>
+        </item>
         <item url="https://en.wikipedia.org/wiki/Jazz">Jazz</item>
         <item>
             <subitem url="https://en.wikipedia.org/wiki/Mooc">MOOCs</subitem>
@@ -60,6 +70,7 @@
             <subitem url="https://en.wikipedia.org/wiki/Lifelog">Lifelogging</subitem>
         </item>
         <item url="https://en.wikipedia.org/wiki/Science">Science</item>
+        <item url="https://en.wikipedia.org/wiki/Simple_living">Simple living</item>
         <item>
             <subitem url="https://en.wikipedia.org/wiki/Technology">Technology</subitem>
             <subitem url="https://en.wikipedia.org/wiki/Computer">Computers</subitem>
