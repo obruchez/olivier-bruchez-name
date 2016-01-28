@@ -2,6 +2,11 @@
 <hikes>
   <introduction>A list of hikes I took.</introduction>
   <hike>
+    <date>2016.01.24</date>
+    <place>Cabane Brunet, Switzerland</place>
+    <comments>Ski touring</comments>
+  </hike>
+  <hike>
     <date>2015.09.26</date>
     <place>Combe de l'A, Switzerland</place>
     <comments>Brame du cerf.</comments>
