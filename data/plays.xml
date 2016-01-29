@@ -10,6 +10,15 @@
     <actor></actor>
   -->
   <play>
+    <date>2016.01.29</date>
+    <location>Le Chapiteau, Théâtre de Vidy, Lausanne, Switzerland</location>
+    <name>Citizen Jobs</name>    
+    <author>Jean-François Peyret</author>
+    <director>Jean-François Peyret</director>
+    <actor>Jos Houben</actor>
+    <rating>4.75</rating>
+  </play> 
+  <play>
     <date>2016.01.13</date>
     <location>Pulloff Théâtres, Lausanne, Switzerland</location>
     <name>Le Cinoche</name>
