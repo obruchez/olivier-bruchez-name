@@ -23,7 +23,7 @@ object Application extends Controller {
 
     for {
       allListItems <- allListItemsFuture
-      recentActivityListItemsWithPages = allListItems.filter(_._1.listItems.nonEmpty).sortBy(_._1.fetchable.name)
+      recentActivityListItemsWithPages = allListItems.filter(_._1.listItems.nonEmpty).sortBy(_._1.fetchable.name.toLowerCase)
       posts <- Cache.get(Posts)
       tweets <- Cache.get(Tweets)
     } yield {
