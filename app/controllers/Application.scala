@@ -73,6 +73,8 @@ object Application extends Controller {
     }
   }
 
+  def shows = Action.async { Cache.get(Shows).map(shows => Ok(views.html.shows(shows))) }
+
   def trips = Action.async { Cache.get(Trips).map(trips => Ok(views.html.trips(trips))) }
 
   def votes = Action.async {

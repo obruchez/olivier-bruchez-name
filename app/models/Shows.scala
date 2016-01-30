@@ -43,7 +43,8 @@ object Shows extends Fetchable {
 
   override val name = "TV shows"
   override val sourceUrl = Configuration.baseUrlWithFile("shows.xml").get
-  override val icon = Some("fa-television")
+  // @todo replace with fa-television when Font Awesome updated
+  override val icon = Some("fa-desktop")
 
   override def fetch(): Try[Shows] = apply(sourceUrlWithNoCacheParameter)
 
