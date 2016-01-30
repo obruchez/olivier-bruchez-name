@@ -6,7 +6,7 @@
     <th class="col-md-2">Location</th>
     <th class="col-md-2">Name</th>
     <th class="col-md-1">Author</th>
-    <th class="col-md-1">Adaptation</th>
+    <th class="col-md-1">Director</th>
     <th class="col-md-1">Translation</th>
     <th class="col-md-2">Actors</th>
     <th class="col-md-1">Rating</th>
@@ -21,7 +21,7 @@
       <td>@play.location</td>
       <td>@play.name</td>
       <td>@play.author</td>
-      <td>@play.adaptation.getOrElse("")</td>
+      <td>@play.director</td>
       <td>@play.translation.getOrElse("")</td>
       <td>@play.actors.mkString(", ")</td>
       <td>@views.html.rating(play.rating)</td>
