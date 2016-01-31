@@ -12,13 +12,24 @@ case class Show(override val date: Partial,
                 url: URL,
                 series: Option[String],
                 seriesUrl: Option[URL],
+                seriesType: Option[SeriesType],
                 override val itemSlug: Option[String] = None,
                 override val itemUrl: Option[String] = None)
-    extends ListItem(date, HtmlContent.fromNonHtmlString(name + series.map(s => s" ($s)").getOrElse("")), itemSlug, itemUrl) {
+    extends ListItem(
+      date,
+      HtmlContent.fromNonHtmlString(name + SeriesType.fullTitleSuffix(series, seriesType)),
+      itemSlug,
+      itemUrl) {
   type T = Show
 
   override def withSlug(slug: Option[String]): Show = copy(itemSlug = slug)
   override def withUrl(url: Option[String]): Show = copy(itemUrl = url)
+
+  val standAloneSeriesString =
+    (for {
+      series <- this.series
+      seriesType = this.seriesType.getOrElse(CustomSeries)
+    } yield seriesType.standAloneString(series)).getOrElse("-")
 }
 
 object Show {
@@ -31,7 +42,8 @@ object Show {
       name = nameNode.text.trim,
       url = new URL((nameNode \@ "url").trim),
       series = Option(seriesNode.text.trim).filter(_.nonEmpty),
-      seriesUrl = Option((rootNode \@ "url").trim).filter(_.nonEmpty).map(new URL(_)))
+      seriesUrl = Option((seriesNode \@ "url").trim).filter(_.nonEmpty).map(new URL(_)),
+      seriesType = SeriesType.fromString((seriesNode \@ "type").trim))
   }
 }
 
@@ -60,4 +72,41 @@ object Shows extends Fetchable {
 
     Shows(introduction, showsSeq.withSlugs)
   }
+}
+
+sealed abstract class SeriesType(val id: String) {
+  def fullTitleSuffix(seriesValue: String): String
+  def standAloneString(seriesValue: String): String
+}
+
+case object CustomSeries extends SeriesType("custom") {
+  override def fullTitleSuffix(seriesValue: String): String =
+    s" ($seriesValue)"
+  override def standAloneString(seriesValue: String): String =
+    seriesValue
+}
+case object Season extends SeriesType("season") {
+  override def fullTitleSuffix(seriesValue: String): String =
+    s" (season $seriesValue)"
+  override def standAloneString(seriesValue: String): String =
+    s"Season $seriesValue"
+}
+case object Series extends SeriesType("series") {
+  override def fullTitleSuffix(seriesValue: String): String =
+    s" (series $seriesValue)"
+  override def standAloneString(seriesValue: String): String =
+    s"Series $seriesValue"
+}
+
+object SeriesType {
+  private val seriesTypes = Seq(CustomSeries, Season, Series)
+
+  def fromString(string: String): Option[SeriesType] =
+    seriesTypes.find(_.id == string)
+
+  def fullTitleSuffix(seriesOption: Option[String], seriesTypeOption: Option[SeriesType]): String =
+    (for {
+      series <- seriesOption
+      seriesType = seriesTypeOption.getOrElse(CustomSeries)
+    } yield seriesType.fullTitleSuffix(series)).getOrElse("")
 }

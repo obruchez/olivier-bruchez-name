@@ -13,7 +13,7 @@
     <tr>
       <td>@sluganddate(show)</td>
       <td><a href="@show.url.toString">@show.name</a></td>
-      <td>@{show.seriesUrl.fold[xml.NodeSeq](xml.Text(show.series.getOrElse("")))(url => <a href={url.toString}>{show.series.getOrElse("")}</a>)}</td>
+      <td>@{show.seriesUrl.fold[xml.NodeSeq](xml.Text(show.standAloneSeriesString))(url => <a href={url.toString}>{show.standAloneSeriesString}</a>)}</td>
     </tr>
   }
 }
