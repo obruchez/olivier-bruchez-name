@@ -2,6 +2,14 @@
 <movies>
   <introduction>A list of movies I saw.</introduction>
   <movie>
+    <date>2016.01.30</date>
+    <theater home="true"/>
+    <director>Quentin Tarantino</director>
+    <title>Pulp Fiction</title>
+    <url>http://www.imdb.com/title/tt0110912/</url>
+    <rating>5.0</rating>
+  </movie>
+  <movie>
     <date>2016.01.10</date>
     <theater>Pathé Flon, Lausanne</theater>
     <director>J.J. Abrams</director>
