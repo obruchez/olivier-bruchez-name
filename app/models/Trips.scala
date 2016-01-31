@@ -16,7 +16,7 @@ case class Trip(from: Partial,
                 override val itemUrl: Option[String] = None)
     extends ListItem(
       date = from,
-      HtmlContent.fromNonHtmlString(s"${from.yyyymmddString}-${to.yyyymmddString}: $place"),
+      HtmlContent.fromNonHtmlString(s"${Date.intervalEnglishString(from, to)}: $place"),
       itemSlug,
       itemUrl) {
   type T = Trip

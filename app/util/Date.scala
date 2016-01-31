@@ -9,9 +9,14 @@ object Date {
     val month = Try(string.substring(5, 7).toInt).map(DateTimeFieldType.monthOfYear() -> _)
     val day = Try(string.substring(8, 10).toInt).map(DateTimeFieldType.dayOfMonth() -> _)
 
-    val validFields = Seq(year, month, day).map(_.toOption).flatten
+    val validFields = Seq(year, month, day).flatMap(_.toOption)
 
     new Partial(validFields.map(_._1).toArray, validFields.map(_._2).toArray)
+  }
+
+  def intervalEnglishString(from: ReadablePartial, to: ReadablePartial): String = {
+    // @todo
+    s"${from.yyyymmddString}-${to.yyyymmddString}"
   }
 
   implicit class PartialOps(readablePartial: ReadablePartial) {
