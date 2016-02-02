@@ -242,6 +242,16 @@
     <series url="https://en.wikipedia.org/wiki/Chocky_(TV_series)#Chocky.27s_Challenge" type="custom">Chocky's Challenge</series>
   </show>
   <show>
+    <date>2009.01.10</date>
+    <name url="https://en.wikipedia.org/wiki/Futurama">Futurama</name>
+    <series url="https://en.wikipedia.org/wiki/Futurama_(season_4)" type="season">4</series>
+  </show>
+  <show>
+    <date>2008.11.14</date>
+    <name url="https://en.wikipedia.org/wiki/Futurama">Futurama</name>
+    <series url="https://en.wikipedia.org/wiki/Futurama_(season_2)" type="season">2</series>
+  </show>
+  <show>
     <date>2008.03.22</date>
     <name url="https://en.wikipedia.org/wiki/Prison_Break">Prison Break</name>
     <series url="https://en.wikipedia.org/wiki/Prison_Break_(season_3)" type="season">3</series>
@@ -255,7 +265,7 @@
   <show>
     <date></date>
     <name url=""></name>
-    <series url=""></series>
+    <series url="" type=""></series>
   </show>
   -->
 </shows>
@@ -274,10 +284,11 @@
 29 octobre 2008: The Simpsons 10
 
 ???: Futurama 1
-14 novembre 2008: Futurama 2
 ???: Futurama 3
-10 janvier 2009: Futurama 4
-
+???: Futurama 5
+???: Futurama 6
+???: Futurama 7
+  
 ???: Friends 1
 ???: Friends 2
 ???: Friends 3
@@ -316,7 +327,6 @@ OK: Seinfeld 9
 
 Better Off Ted
 Bref
-Futurama
 The IT Crowd
 The Spoils of Babylon
   -->
