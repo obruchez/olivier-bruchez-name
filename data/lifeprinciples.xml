@@ -1,17 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <lifeprinciples>
     <introduction>My life principles (in French).</introduction>
-    <introduction>Ceci est un premier jet, un peu "bateau", je l'admets, datant de 2011 ou plus tôt.</introduction>
-    <lifeprinciple summary="Agir" slug="agir">Être plus dynamique, moins passif. Moins hésiter, prendre des décisions rationnelles mais rapides. Prendre plus de risques, savoir saisir les opportunités.</lifeprinciple>
-    <lifeprinciple summary="Apprendre" slug="apprendre">Être curieux. Apprendre de nouvelles choses régulièrement. Comprendre le monde qui m’entoure. Apprendre de mes erreurs.</lifeprinciple>
-    <lifeprinciple summary="Confiance en soi" slug="confiance-en-soi">Savoir ce que je veux. Être conscient de ma valeur. Être à l'aise avec les autres. Faire face à mes peurs/phobies en les affrontant directement.</lifeprinciple>
-    <lifeprinciple summary="Contact" slug="contact">Chercher le contact social. Eviter de me reposer sur d’autres personnes pour entamer ou entretenir une discussion.</lifeprinciple>
+    <introduction>Le premier jet de cette liste date de 2011. J'essaie de faire en sorte qu'elle corresponde en permanence à mes principes de vie actuels.</introduction>
+    <lifeprinciple summary="Agir" slug="agir">Être plus dynamique, moins passif. Moins hésiter, prendre des décisions rationnelles mais rapides. Savoir saisir les opportunités.</lifeprinciple>
+    <lifeprinciple summary="Apprendre" slug="apprendre">Être curieux. Comprendre le monde qui m’entoure. Apprendre de mes erreurs. Apprendre de nouvelles choses régulièrement, si possible tous les jours. Acquérir des connaissances de base dans le plus de domaines possibles. Acquérir des connaissances beaucoup plus approfondies dans quelques domaines spécifiques qui me tiennent à coeur. Développer ma culture (art, cinéma, littérature, musique, etc.).</lifeprinciple>
+    <lifeprinciple summary="Communiquer" slug="communiquer">Communiquer mes idées le plus clairement et honnêtement possible. Apprendre à mieux écrire. Ecrire sur ce qui me tient à coeur. Apprendre à mieux parler.</lifeprinciple>
+    <lifeprinciple summary="Confiance en soi" slug="confiance-en-soi">Savoir ce que je veux. Être conscient de ma valeur, avec humilité. Être à l'aise avec les autres. Faire face à mes peurs/phobies en les affrontant directement plutôt qu'en les évitant.</lifeprinciple>
+    <lifeprinciple summary="Contact social" slug="contact-social">Chercher le contact avec les autres. Eviter de me reposer sur d’autres personnes pour entamer ou entretenir une discussion. Développer ma capacité à discuter en toutes circonstances, avec des personnes que je ne connais pas ou connais peu.</lifeprinciple>
+    <lifeprinciple summary="Contribuer" slug="contribuer">Aider les autres. Me rendre utile à mes proches, à la société en général, via mon activité professionnelle, mais également par des initiatives plus personnelles.</lifeprinciple>
     <lifeprinciple summary="Détente" slug="detente">Loisirs, relaxation, méditation, etc.</lifeprinciple>
-    <lifeprinciple summary="Équilibre" slug="equilibre">Entre la famille, les amis, le travail, les loisirs, etc.</lifeprinciple>
-    <lifeprinciple summary="Laisser tomber / compassion" slug="laisser-tomber">Accepter de ne pas avoir le contrôle sur tout. Savoir pardonner. Accepter les erreurs (les miennes et celles des autres). Ne pas me laisser aller à la colère.</lifeprinciple>
-    <lifeprinciple summary="Présent" slug="present">Vivre le moment présent. Apprécier ce qui est. Savoir écouter. Cesser de me faire du souci concernant le futur ou de trop penser au passé.</lifeprinciple>
+    <lifeprinciple summary="Équilibre" slug="equilibre">Entre la famille, les amis, le travail, les loisirs, etc. Eviter les dépendances.</lifeprinciple>
+    <lifeprinciple summary="Explorer" slug="explorer">Savoir sortir de ma zone de confort, prendre parfois plus de risques. Essayer de nouvelles activités, de nouvelles idées. Visiter des endroits que je ne connais pas.</lifeprinciple>
+    <lifeprinciple summary="Laisser tomber" slug="laisser-tomber">Accepter de ne pas avoir le contrôle sur tout. Ne pas me laisser aller à la colère. Savoir pardonner. Accepter les erreurs (les miennes et celles des autres). Avoir de la compassion.</lifeprinciple>
+    <lifeprinciple summary="Présent" slug="present">Vivre le moment présent. Apprécier ce qui est. Savoir écouter. Cesser de me faire du souci concernant le futur. Ne pas regretter le passé.</lifeprinciple>
     <lifeprinciple summary="Raison" slug="raison">Scepticisme, raison, science, philosophie et curiosité.</lifeprinciple>
+    <lifeprinciple summary="Reconnaissance" slug="reconnaissance">Etre content de ce que j'ai. Savoir remercier les gens.</lifeprinciple>
     <lifeprinciple summary="Santé" slug="sante">Sport, détente, sommeil et nutrition.</lifeprinciple>
-    <lifeprinciple summary="Simplifier" slug="simplifier">Avoir moins de possessions, moins de projets superflus, moins d'informations superflues ("information" overload). Aller à l’essentiel. Eviter la recherche du perfectionnisme ("good enough").</lifeprinciple>
-    <lifeprinciple summary="Travail / argent" slug="travail">Trouver un travail satisfaisant intellectuellement et utile à la société. Favoriser l'intérêt du travail par rapport à l'argent.</lifeprinciple>
+    <lifeprinciple summary="Simplifier" slug="simplifier">Avoir moins de possessions, moins de projets superflus, moins d'informations superflues ("information" overload). Aller à l’essentiel. Eviter le perfectionnisme ("good enough"). Devenir moins dépendant à l'argent.</lifeprinciple>
 </lifeprinciples>
