@@ -2,7 +2,25 @@
 
 My votes (in French). En Suisse, on ne plaisante pas avec la démocratie directe. :) J'essaie ici de documenter et de justifier la façon dont je me positionne par rapport aux votations fédérales, qui ont lieu jusqu'à quatre fois par année.
 
-## [Votation fédérale du 14 juin 2015](http://www.bk.admin.ch/themen/pore/va/20150614/index.html?lang=fr)
+## [Votation fédérale du 28 février 2016](https://www.bk.admin.ch/themen/pore/va/20160228/index.html?lang=fr)
+
+### Acceptez-vous l’initiative populaire "Pour le couple et la famille – Non à la pénalisation du mariage" ?
+
+?. Résultat : ? (?%).
+
+### Acceptez-vous l’initiative populaire "Pour le renvoi effectif des étrangers criminels (initiative de mise en oeuvre)" ?
+
+?. Résultat : ? (?%).
+
+### Acceptez-vous l’initiative populaire "Pas de spéculation sur les denrées alimentaires" ?
+
+?. Résultat : ? (?%).
+
+### Acceptez-vous la modification du 26 septembre 2014 de la loi fédérale sur le transit routier dans la région alpine (LTRA) (Réfection du tunnel routier du Gothard) ?
+
+?. Résultat : ? (?%).
+
+## [Votation fédérale du 14 juin 2015](https://www.bk.admin.ch/themen/pore/va/20150614/index.html?lang=fr)
 
 ### Acceptez-vous l’arrêté fédéral du 12 décembre 2014 concernant la modification de l’article constitutionnel relatif à la procréation médicalement assistée et au génie génétique dans le domaine humain ?
 
@@ -46,7 +64,7 @@ Oui. Résultat : oui (50.1%).
 - Toute simplification me semble bienvenue.
 - Je peux compatir avec les personnes qui ne paient pour l'instant aucune redevance, mais nous parlons ici d'un service public et les exceptions proposées me semblent raisonnables.
 
-## [Votation fédérale du 8 mars 2015](http://www.bk.admin.ch/themen/pore/va/20150308/index.html?lang=fr)
+## [Votation fédérale du 8 mars 2015](https://www.bk.admin.ch/themen/pore/va/20150308/index.html?lang=fr)
 
 ### Acceptez-vous l’initiative populaire "Aider les familles ! Pour des allocations pour enfant et des allocations de formation professionnelle exonérées de l’impôt" ?
 
@@ -56,7 +74,7 @@ Non. Résultat : non (75.4%).
 
 Non. Résultat : non (92%).
 
-## [Votation fédérale du 30 novembre 2014](http://www.bk.admin.ch/themen/pore/va/20141130/index.html?lang=fr)
+## [Votation fédérale du 30 novembre 2014](https://www.bk.admin.ch/themen/pore/va/20141130/index.html?lang=fr)
 
 ### Acceptez-vous l'initiative populaire "Halte aux privilèges fiscaux des millionnaires (abolition des forfaits fiscaux)" ?
 
@@ -85,7 +103,7 @@ Non. Résultat : non (74.1%).
 - L'initiative ne propose rien pour s'attaquer aux problèmes écologiques par lesquels elle est supposée être motivée (ressources, énergies, etc.).
 - Elle ne propose rien non plus concernant les autres problèmes liés à une population grandissante (infrastructures, transports, immobilier, etc.).
 - Bref, c'est le prototype même de l'initiative simpliste et non constructive, encourageant un repli sur soi au lieu d'une ouverture constructive et active au monde.
-- Enfin, cette initiative mettrait, une fois de plus, comme le [9 février 2014](http://www.bk.admin.ch/themen/pore/va/20140209/index.html?lang=fr), la Suisse en position très inconfortable par rapport à l'Europe, avec tous les dommages collatéraux que cela représente (financement de la recherche, etc.).
+- Enfin, cette initiative mettrait, une fois de plus, comme le [9 février 2014](https://www.bk.admin.ch/themen/pore/va/20140209/index.html?lang=fr), la Suisse en position très inconfortable par rapport à l'Europe, avec tous les dommages collatéraux que cela représente (financement de la recherche, etc.).
 
 ### Acceptez-vous l'initiative populaire "Sauvez l'or de la Suisse (Initiative sur l'or)" ?
 
@@ -94,7 +112,7 @@ Non. Résultat : non (77.3%).
 - La Banque nationale suisse (BNS) a des outils plus modernes que l'or pour mener à bien sa mission.
 - Difficile de comprendre les arguments du comité d'initiative (réaction irrationnelle de repli sur soi ?).
 
-## [Votation fédérale du 28 septembre 2014](http://www.bk.admin.ch/themen/pore/va/20140928/index.html?lang=fr)
+## [Votation fédérale du 28 septembre 2014](https://www.bk.admin.ch/themen/pore/va/20140928/index.html?lang=fr)
 
 ### Acceptez-vous l'initiative populaire "Stop à la TVA discriminatoire pour la restauration !" ?
 
@@ -117,7 +135,7 @@ Oui. Résultat : non (61.8%).
 - ["Les assureurs battent toujours campagne aux frais des assurés"](http://www.frc.ch/articles/les-assureurs-battent-toujours-campagne-aux-frais-des-assures/).
 - Les coûts élevés de la santé sont loin d'être exclusivement liés au système d'assurance obligatoire : mauvaise hygiène de vie moyenne de la population, manque de prévention, [dérives de l'industrie pharmaceutique](https://en.wikipedia.org/wiki/Bad_Pharma), coûts élevés des études pour valider de nouveaux traitements, etc. Simplifier le système de l'assurance de base permettrait de se focaliser sur des thématiques plus prioritaires que l'optimisation des risques et le marketing.
 
-## [Votation fédérale du 18 mai 2014](http://www.bk.admin.ch/themen/pore/va/20140518/index.html?lang=fr)
+## [Votation fédérale du 18 mai 2014](https://www.bk.admin.ch/themen/pore/va/20140518/index.html?lang=fr)
 
 ### Acceptez-vous l'arrêté fédéral du 19 septembre 2013 concernant les soins médicaux de base ? (Contre-projet direct à l'initiative populaire "Oui à la médecine de famille", qui a été retirée).
 
@@ -157,7 +175,7 @@ Non. Résultat : non (53.4%).
 - Il est étonnant qu'un petit pays comme la Suisse, en plein milieu de l'Europe, ne collabore pas beaucoup plus avec les pays voisins pour son aviation militaire, au lieu d'acheter lui-même des avions. Cela paraît totalement sous-optimal.
 - Quelques mois après s'être tiré une balle dans le pied (votations du 9 février 2014), il est complètement absurde pour la Suisse de consacrer plus de trois milliards de francs à des avions de combat, alors que la recherche et l'éducation pourraient en bénéficier.
 
-## [Votation fédérale du 9 février 2014](http://www.bk.admin.ch/themen/pore/va/20140209/index.html?lang=fr)
+## [Votation fédérale du 9 février 2014](https://www.bk.admin.ch/themen/pore/va/20140209/index.html?lang=fr)
 
 ### Acceptez-vous l'arrêté fédéral du 20 juin 2013 portant règlement du financement et de l'aménagement de l'infrastructure ferroviaire?
 
@@ -171,7 +189,7 @@ Non. Résultat : non (69.8%).
 
 Non. Résultat : oui (50.3%).
 
-## [Votation fédérale du 24 novembre 2013](http://www.bk.admin.ch/themen/pore/va/20131124/index.html?lang=fr)
+## [Votation fédérale du 24 novembre 2013](https://www.bk.admin.ch/themen/pore/va/20131124/index.html?lang=fr)
 
 ### Acceptez-vous l’initiative populaire "1:12 – Pour des salaires équitables" ?
 
@@ -222,7 +240,7 @@ Oui. Résultat : non (60.5%).
 - Une augmentation de 40 CHF à 100 CHF est importante, mais le nouveau prix semble très raisonnable par rapport aux coûts totaux liés à un véhicule, ainsi que par rapport aux prix dans les pays voisins.
 - Le seul argument contre qui m'a paru plus ou moins valable est celui selon lequel le modèle forfaitaire de la vignette est mauvais, qu'une taxation supplémentaire de l'essence, par exemple, déjà en place pour d'autres raisons, serait plus juste, de même que la suppression de la distinction entre routes nationales et cantonales. Refuser l'augmentation du prix de la vignette à 100 CHF forcerait donc à trouver d'autres solutions, ce qui mènerait peut-être à ces voies alternatives. Tout cela me paraît toutefois très hypothétique et très risqué.
 
-## [Votation fédérale du 22 septembre 2013](http://www.bk.admin.ch/themen/pore/va/20130922/index.html?lang=fr)
+## [Votation fédérale du 22 septembre 2013](https://www.bk.admin.ch/themen/pore/va/20130922/index.html?lang=fr)
 
 ### Acceptez-vous l'initiative populaire "Oui a l‘abrogation du service militaire obligatoire"? 
 
@@ -236,7 +254,7 @@ Oui. Résultat : oui (60.0%).
 
 Oui. Résultat : oui (55.8%).
 
-## [Votation fédérale du 9 juin 2013](http://www.bk.admin.ch/themen/pore/va/20130609/index.html?lang=fr)
+## [Votation fédérale du 9 juin 2013](https://www.bk.admin.ch/themen/pore/va/20130609/index.html?lang=fr)
 
 ### Acceptez-vous l'initiative populaire "Election du Conseil fédéral par le peuple" ?
 
@@ -246,7 +264,7 @@ Non. Résultat : non (76.3%).
 
 ?. Résultat : oui (78.4%).
 
-## [Votation fédérale du 3 mars 2013](http://www.bk.admin.ch/themen/pore/va/03032013/index.html?lang=fr)
+## [Votation fédérale du 3 mars 2013](https://www.bk.admin.ch/themen/pore/va/03032013/index.html?lang=fr)
 
 ### Acceptez-vous l'arrêté fédéral du 15 juin 2012 sur la politique familiale ?
 
