@@ -17,12 +17,24 @@ object Musician {
      leader = Parsing.isTrue(rootNode \@ "leader"))
   }
 
-  def musicians(band: Option[String], musicians: Seq[Musician]): String =
-    band.map(_ + (if (musicians.nonEmpty) ": " else "")).getOrElse("") +
+  def musicians(bandOption: Option[String], musicians: Seq[Musician]): String =
+    bandOption.map(_ + (if (musicians.nonEmpty) ": " else "")).getOrElse("") +
       (musicians.zipWithIndex map { case (musician, index) =>
         val separator = Concerts.commaOrAnd(index = index, totalCount = musicians.size)
         musician.name + separator
       }).mkString("")
+
+  def musiciansSummary(bandOption: Option[String], musicians: Seq[Musician], eventOption: Option[String]): String =
+    bandOption match {
+      case Some(band) =>
+        band
+      case None =>
+        val leaders = musicians.filter(_.leader)
+        if (leaders.isEmpty)
+          eventOption.getOrElse(this.musicians(bandOption = None, musicians))
+        else
+          this.musicians(bandOption = None, leaders)
+    }
 }
 
 case class Concert(override val date: Partial,
@@ -36,7 +48,7 @@ case class Concert(override val date: Partial,
                    override val itemUrl: Option[String] = None)
     extends ListItem(
       date,
-      HtmlContent.fromNonHtmlString(s"${Musician.musicians(band, musicians)} - $location"),
+      HtmlContent.fromNonHtmlString(s"${Musician.musiciansSummary(band, musicians, event)} - $location"),
       itemSlug,
       itemUrl) {
   type T = Concert
