@@ -9,6 +9,7 @@
         <publishingyear>2015</publishingyear>
         <rating></rating>
         <url>https://books.google.com/books?id=iB6ICgAAQBAJ</url>
+        <!-- <notes description="Kindle highlights"></notes> -->
     </book>
     <book>
         <date>2015.12.29</date>
@@ -17,6 +18,7 @@
         <publishingyear>1993</publishingyear>
         <rating>5.0</rating>
         <url>https://fr.wikipedia.org/wiki/Les_Testaments_trahis</url>
+        <notes description="Kindle highlights">Les Testaments Trahis (Milan Kundera).md</notes>
     </book>
     <book>
         <date>2015.12.18</date>
@@ -25,6 +27,7 @@
         <publishingyear>2014</publishingyear>
         <rating>4.75</rating>
         <url>https://books.google.com/books?vid=1617290653</url>
+        <notes description="Kindle highlights">Functional Programming in Scala (Paul Chiusano &amp; Runar Bjarnason).md</notes>
     </book>
     <book>
         <date>2015.10.03</date>
@@ -33,6 +36,7 @@
         <publishingyear>1992</publishingyear>
         <rating>3.75</rating>
         <url>https://fr.wikipedia.org/wiki/Hygi%C3%A8ne_de_l%27assassin</url>
+        <notes description="Kindle highlights">Hygiene de l'assassin (Amelie Nothomb).md</notes>
     </book>
     <book>
         <date>2015.09.26</date>
@@ -41,6 +45,7 @@
         <publishingyear>1988</publishingyear>
         <rating>5.0</rating>
         <url>https://en.wikipedia.org/wiki/Surely_You%27re_Joking,_Mr._Feynman!</url>
+        <notes description="Kindle highlights">Surely You're Joking, Mr. Feynman! (Ralph Leighton &amp; Richard Feynman).md</notes>
     </book>
     <book>
         <date>2015.07.19</date>
@@ -49,6 +54,7 @@
         <publishingyear>1988</publishingyear>
         <rating>4.0</rating>
         <url>https://en.wikipedia.org/?title=The_Tripods#When_the_Tripods_Came</url>
+        <notes description="Kindle highlights">When the Tripods Came (John Christopher).md</notes>
     </book>
     <book>
         <date>2015.06.28</date>
@@ -65,6 +71,7 @@
         <publishingyear>1968</publishingyear>
         <rating>5.0</rating>
         <url>https://en.wikipedia.org/wiki/The_Tripods#The_City_of_Gold_and_Lead_.281968.29</url>
+        <notes description="Kindle highlights">The City of Gold and Lead (John Christopher).md</notes>
     </book>
     <book>
         <date>2015.06.04</date>
@@ -81,6 +88,7 @@
         <publishingyear>2012</publishingyear>
         <rating>5.0</rating>
         <url>https://en.wikipedia.org/wiki/Bad_Pharma</url>
+        <notes description="Kindle highlights">Bad Pharma (Ben Goldacre).md</notes>
     </book>
     <book>
         <date>2015.03.24</date>
@@ -89,6 +97,7 @@
         <publishingyear>1999</publishingyear>
         <rating>4.75</rating>
         <url>https://fr.wikipedia.org/wiki/Stupeur_et_Tremblements</url>
+        <notes description="Kindle highlights">Stupeur et Tremblements (Amelie Nothomb).md</notes>
     </book>
     <book>
         <date>2015.03.21</date>
@@ -98,6 +107,7 @@
         <rating>5.0</rating>
         <url>https://fr.wikipedia.org/wiki/Gargantua</url>
         <comments>See comments for "Pantagruel".</comments>
+        <notes description="Kindle highlights">Gargantua (Francois Rabelais).md</notes>
     </book>
     <book>
         <date>2014.12.30</date>

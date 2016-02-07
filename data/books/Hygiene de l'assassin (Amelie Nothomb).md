@@ -1,0 +1,5 @@
+# Hygiène de l'assassin (Amélie Nothomb)
+* Attention, ne mélangez pas : écrire, ce n'est pas chercher à communiquer. (loc. 837-38)
+* Les sujets des thèses m'ont toujours amusé et attendri : c'est mignon, ces étudiants qui, pour imiter les grands, écrivent des sottises dont les titres sont hypersophistiqués et dont les contenus sont la banalité même, comme ces restaurants prétentieux qui affublent les oeufs mayonnaise d'appellations grandioses. (loc. 923-25)
+* Vous savez, il y a toujours une poignée de désoeuvrés, de végétariens, de critiques novices, d'étudiants masochistes ou encore de curieux qui vont jusqu'à lire les livres qu'ils achètent. (loc. 1587-89)
+* \- En ce cas, je veux vous voir déchoir davantage. Allez-y, déchoyez. - Vous ne pouvez pas dire ça, c'est un verbe défectif. - Si vous saviez ce que je m'en fous. Mais si ce verbe défectif vous gêne, j'en connais un autre qui ne l'est pas : rampez. (loc. 2148-50)

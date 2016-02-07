@@ -1,0 +1,3 @@
+# Gargantua (François Rabelais)
+* Puis alloit es lieux secretz faire excretion des digestions naturelles. Là son precepteur repetoit ce que avoit esté leu, luy exposant les poinctz plus obscurs et difficiles. (loc. 3602-3)
+* Ainsi, par sa prouesse, feurent desconfiz tous ceulx de l’année qui estoient entrez dedans le clous, jusques au nombre de treze mille six cens vingt et deux, sans les femmes et petitz enfans, cela s’entend tousjours. (loc. 4379-80)

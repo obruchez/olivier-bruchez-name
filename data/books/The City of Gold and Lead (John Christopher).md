@@ -1,0 +1,3 @@
+# The City of Gold and Lead (John Christopher)
+* The carriage ran on very many small wheels, set beneath one face of a pyramid, and the driver had a seat in the pointed front part for controlling it. (loc. 1109-10)
+* A human slave to him was not merely something to do various menial chores around the home, not merely a sign that he was of the rank that qualified him to own such a one, but someone who could listen to him talk. In my village at home, old Mrs. Ash had six cats and spent most of her day talking to one or the other of them. I was my Master's cat. (loc. 1285-88)

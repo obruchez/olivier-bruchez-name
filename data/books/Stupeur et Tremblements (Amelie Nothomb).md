@@ -1,0 +1,5 @@
+# Stupeur et Tremblements (Amélie Nothomb)
+* Enfin et surtout parce qu'une beauté qui a résisté à tant de corsets physiques et mentaux, à tant de contraintes, d'écrasements, d'interdits absurdes, de dogmes, d'asphyxie, de désolations, de sadisme, de conspiration du silence et d'humiliations, une telle beauté, donc, est un miracle d'héroïsme. (loc. 714-16)
+* L'honneur consiste le plus souvent à être idiot. Et ne vaut-il pas mieux se conduire comme une imbécile que se déshonorer ? (loc. 937-38)
+* Comme l'a remarqué le commun des mortels, les toilettes sont un endroit propice à la méditation. Pour moi qui y étais devenue carmélite, ce fut l'occasion de réfléchir. Et j'y compris une grande chose : c'est qu'au Japon, l'existence, c'est l'entreprise. (loc. 1261-63)
+* Ce constat me rappela le mot d'André Maurois : "Ne dites pas trop de mal de vous-même : on vous croirait." (loc. 1420-21)
