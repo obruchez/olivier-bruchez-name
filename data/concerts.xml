@@ -37,6 +37,7 @@
   <concert>
     <date>2015.10.09</date>
     <location>Opéra de Lausanne, Lausanne, Switzerland</location>
+    <event>"La Cenerentola" opera</event>
     <musician inst="vocals">Serena Malfi</musician>
     <musician inst="vocals">Edgardo Rocha</musician>
     <musician inst="vocals">Alexandre Diakoff</musician>
@@ -77,6 +78,7 @@
   <concert>
     <date>2015.06.10</date>
     <location>Opéra de Lausanne, Lausanne, Switzerland</location>
+    <event>"Die Zauberflöte" opera</event>
     <musician inst="vocals">Catalina Bertucci</musician>
     <musician inst="vocals">Shawn Mathey</musician>
     <musician inst="vocals">Anna Siminska</musician>
