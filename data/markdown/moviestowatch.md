@@ -1,6 +1,6 @@
 # Movies to watch
 
-Pretty much everything from [IMDb's Top 250](http://www.imdb.com/chart/top). See also [List of films considered the best](https://en.wikipedia.org/wiki/List_of_films_considered_the_best).
+Pretty much everything from [IMDb's Top 250](http://www.imdb.com/chart/top). See also [List of films considered the best](https://en.wikipedia.org/wiki/List_of_films_considered_the_best) and [Rotten Tomatoes' Top 100 movies of all time](http://www.rottentomatoes.com/top/bestofrt/).
 
 ## [Agnès Varda](http://www.imdb.com/name/nm0889513)
 
