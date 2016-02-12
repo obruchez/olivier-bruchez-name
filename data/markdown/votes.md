@@ -6,19 +6,37 @@ My votes (in French). En Suisse, on ne plaisante pas avec la démocratie directe
 
 ### Acceptez-vous l’initiative populaire "Pour le couple et la famille – Non à la pénalisation du mariage" ?
 
-?. Résultat : ? (?%).
+Non. Résultat : ? (?%).
+
+- Je suis pour la suppression de la pénalisation du mariage en matière d'impôts.
+- Je suis néanmoins contre l'inscription d'une définition désuette du mariage dans la Constitution ("union durable et réglementée par la loi d'un homme et d'une femme").
 
 ### Acceptez-vous l’initiative populaire "Pour le renvoi effectif des étrangers criminels (initiative de mise en oeuvre)" ?
 
-?. Résultat : ? (?%).
+Non. Résultat : ? (?%).
+
+- Les lois sur le renvoi des étrangers criminels ont déjà été durcies.
+- L'argument du Conseil fédéral selon lequel l'initiative va à l'encontre des principes d'un État de droit respectueux des "droits de l'homme garantis par le droit international" me convainc.
+- La justice est dépassée, les tribunaux sont surchargés - j'en sais quelque chose ! -, mais je ne pense pas que cette initiative améliorerait significativement la situation. D'autres voies, plus constructives, pourraient le faire (actions collectives, etc.).
 
 ### Acceptez-vous l’initiative populaire "Pas de spéculation sur les denrées alimentaires" ?
 
-?. Résultat : ? (?%).
+Oui. Résultat : ? (?%).
+
+- Je suis sensible à la problématique soulevée par l'initiative.
+- Comme d'habitude, je suis peu sensible aux arguments du Conseil fédéral concernant les pertes d'emploi, la diminution des recettes fiscales, etc.
+- Je suis également peu convaincu par l'argument selon lequel une interdiction en Suisse n'aurait aucun d'effet sur le plan international. La Suisse a toujours un rôle d'exemple à jouer. Elle peut se le permettre.
+- Par contre, la question de l'efficacité me touche plus. Le comité d'initiative parle principalement d'une étude de l'EPFZ. Le Conseil fédéral parle de "nombreuses études scientifiques" dont les "résultats divergent".
+- Sur [son site](http://spekulationsstopp.ch/wp-content/uploads/2015/12/151218_Die-Luegenkampagne-hat-begonnen_Fr.pdf), le comité d'initiative mentionne d'[autres études](http://www2.weed-online.org/uploads/evidence_on_impact_of_commodity_speculation.pdf) que celle de l'EPFZ et explique : "47% des études examinées montrent un effet d'augmentation sur les prix, 40% ne peuvent pas trouver d'effet et 13% montrent un effet de stabilisation."
+- J'apprécierais une analyse plus rigoureuses de toutes ces études (une [méta-analyse](https://fr.wikipedia.org/wiki/M%C3%A9ta-analyse), idéalement). A défaut de mieux, je me rallie aux arguments du comité d'initiative.
 
 ### Acceptez-vous la modification du 26 septembre 2014 de la loi fédérale sur le transit routier dans la région alpine (LTRA) (Réfection du tunnel routier du Gothard) ?
 
-?. Résultat : ? (?%).
+Non. Résultat : ? (?%).
+
+- L'argument de la sécurité est valable, étant donné l'[accident de 2001](https://fr.wikipedia.org/wiki/Tunnel_routier_du_Saint-Gothard#L.27accident). Des mesures ont toutefois été prises depuis (trafic alterné, distance de sécurité et aires d'attente). Après réfection, le tunnel routier actuel pourra en outre être équipé d'une [glissière centrale](http://www.2tunnel-non.ch/fr/arguments/video.html).
+- Il semble à l'heure actuelle plus sain de miser sur le [trafic ferroviaire](https://fr.wikipedia.org/wiki/Tunnel_de_base_du_Saint-Gothard) que sur le trafic routier.
+- Le coût de 3 milliards de francs suisses semble énorme et une partie de ce montant pourrait être [économisé en optant pour des solutions alternatives](http://www.2tunnel-non.ch/fr/arguments/absurde.html).
 
 ## [Votation fédérale du 14 juin 2015](https://www.bk.admin.ch/themen/pore/va/20150614/index.html?lang=fr)
 
