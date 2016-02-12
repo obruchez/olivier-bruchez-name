@@ -12,3 +12,14 @@
 * [Oxyd](https://en.wikipedia.org/wiki/Oxyd) [[Dongleware Verlags GmbH](http://www.dongleware.com/)]
 * [Vroom](http://www.giantbomb.com/vroom/3030-11336/) [[Lankhor](https://en.wikipedia.org/wiki/Lankhor)] (briefly played a demo version?)
 * [Wizkid](https://en.wikipedia.org/wiki/Wizkid_(video_game)) [[Sensible Software](https://en.wikipedia.org/wiki/Sensible_Software)]
+
+## PC
+
+* [Blood](https://en.wikipedia.org/wiki/Blood_%28video_game%29)
+* [Blood II: The Chosen](https://en.wikipedia.org/wiki/Blood_II:_The_Chosen) (not finished?)
+* [Blupimania](http://blupi.wikia.com/wiki/Blupimania) (first version, non-3D)
+* [Doom](https://en.wikipedia.org/wiki/Doom_(1993_video_game))
+  * [Ultimate Doom](https://en.wikipedia.org/wiki/Doom_(1993_video_game)#Expansions_and_ports)
+* [Doom II: Hell on Earth](https://en.wikipedia.org/wiki/Doom_II:_Hell_on_Earth)
+  * [Master Levels for Doom II](https://en.wikipedia.org/wiki/Doom_II:_Hell_on_Earth#Master_Levels_for_Doom_II)
+  * [Final Doom](https://en.wikipedia.org/wiki/Final_Doom)
