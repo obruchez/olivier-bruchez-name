@@ -123,3 +123,31 @@ h6:hover .header-link {
     opacity: 1;
     color: black;
 }
+
+.header .container {
+    min-height: 40px;
+}
+
+.breadcrumbs.breadcrumbs-small {
+    padding-top: 0;
+    padding-bottom: 0;
+}
+
+.breadcrumb.breadcrumb-small {
+    padding-top: 0;
+    padding-bottom: 0;
+}
+
+.breadcrumbs .container {
+    height: 40px;
+}
+
+.breadcrumbs-v3.header-default {
+  background: url(../img/louvie.jpg) no-repeat;
+  background-size: cover;
+  background-position: center center;
+}
+
+.breadcrumbs-v3.header-bright {
+    position: static;
+}
