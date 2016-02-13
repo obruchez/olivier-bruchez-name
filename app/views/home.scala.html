@@ -6,7 +6,7 @@
   <div class="home">
     <div class="headline"><h2>About me</h2></div>
 
-    <p>My name is Olivier Bruchez. To make it short, here's my <a href="https://twitter.com/obruchez">Twitter bio</a>:</p>
+    <p>My name is Olivier Bruchez. To make it short, here's my <a href="https://twitter.com/obruchez">Twitter bio</a>&ast;:</p>
 
     <blockquote class="hero-unify">
     <p class="profile"><em>"@HtmlContent.fromNonHtmlString(tweets.profile).html"</em></p>
@@ -15,6 +15,8 @@
     <p>You can find more information about me on my <a href="@routes.Application.profile()">profile</a> page or in
       my <a href="@routes.Application.pdfCv()">CV / résumé</a>.</p>
 
+    <p><small>&ast; Retrieved dynamically from Twitter, of course!</small></p>
+
     <div class="headline"><h2>About this website</h2></div>
 
     <p>This site is meant as a central repository for my public lists and documents, which were previously stored on
@@ -22,6 +24,11 @@
       <a href="https://github.com/obruchez/olivier-bruchez-name">programming project</a>, using
       <a href="http://www.scala-lang.org/">Scala</a>, <a href="https://www.playframework.com/">Play</a>,
       <a href="http://akka.io/">Akka</a>, and more.</p>
+
+    <p>Most of the content on this site is stored on
+      <a href="https://github.com/obruchez/olivier-bruchez-name/tree/master/data">Github</a>, but some of it also comes
+      from external APIs such as the <a href="https://developers.google.com/blogger/">Blogger API</a> or the
+      <a href="https://dev.twitter.com/rest/public">Twitter API</a>.</p>
 
     <div class="headline"><h2>Blog</h2></div>
 
