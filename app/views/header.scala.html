@@ -1,5 +1,46 @@
 @(page: Page)
 
+@headerMenu(page: Page, level: Int) = {
+    @level match {
+        case 0 => {
+            <ul class="nav navbar-nav">
+            @page.children.map { page =>
+                @if(page.children.isEmpty) {
+                    <li><a href="@page.url">@page.title</a></li>
+                } else {
+                    <li class="dropdown">
+                    @headerMenu(page, level = level + 1)
+                    </li>
+                }
+            }
+            </ul>
+        }
+        case _ => {
+            @if(level == 1) {
+                <a href="@page.url" class="dropdown-toggle" data-toggle="dropdown">@page.title</a>
+            } else {
+                <a href="@page.url" class="noseparator"><i class="fa @page.icon.getOrElse("")"></i> @page.title</a>
+            }
+            <ul class="dropdown-menu">
+            @Header.menuItems(page).map { menuItem =>
+                @menuItem match {
+                    case Header.MenuSeparator => {
+                        <li role="separator" class="divider"></li>
+                    }
+                    case Header.MenuPage(childPage) => {
+                        @defining(if (childPage.children.nonEmpty) "dropdown-submenu" else "") { liClass =>
+                            <li class="@liClass">
+                            @headerMenu(childPage, level = level + 1)
+                            </li>
+                        }
+                    }
+                }
+            }
+            </ul>
+        }
+    }
+}
+
 <!--=== Header ===-->
 <div class="header">
     <div class="container">
@@ -47,33 +88,7 @@
     <!-- Collect the nav links, forms, and other content for toggling -->
     <div class="collapse navbar-collapse mega-menu navbar-responsive-collapse">
         <div class="container">
-            <ul class="nav navbar-nav">
-                @controllers.Sitemap.root.children.map { page =>
-                    @if(page.children.isEmpty) {
-                        <li><a href="@page.url">@page.title</a></li>
-                    } else {
-                        <li class="dropdown">
-                            <a href="@page.url" class="dropdown-toggle" data-toggle="dropdown">@page.title</a>
-                            <ul class="dropdown-menu">
-                                @page.children.map { childPage =>
-                                    @if(childPage.children.isEmpty) {
-                                        <li><a href="@childPage.url"><i class="fa @childPage.icon.getOrElse("")"></i> @childPage.title</a></li>
-                                    } else {
-                                        <li class="dropdown-submenu">
-                                            <a href="@childPage.url"><i class="fa @childPage.icon.getOrElse("")"></i> @childPage.title</a>
-                                            <ul class="dropdown-menu">
-                                                @childPage.children.map { grandChildPage =>
-                                                    <li><a href="@grandChildPage.url"><i class="fa @grandChildPage.icon.getOrElse("")"></i> @grandChildPage.title</a></li>
-                                                }
-                                            </ul>
-                                        </li>
-                                    }
-                                }
-                            </ul>
-                        </li>
-                    }
-                }
-            </ul>
+            @headerMenu(controllers.Sitemap.root, level = 0)
         </div><!--/end container-->
     </div><!--/navbar-collapse-->
 </div>

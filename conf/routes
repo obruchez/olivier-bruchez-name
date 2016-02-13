@@ -26,15 +26,13 @@ GET        /shows                            controllers.Application.shows
 GET        /trips                            controllers.Application.trips
 GET        /votes                            controllers.Application.votes
 
-GET        /statistics                       controllers.Application.statistics
-
-GET        /seenontv                         controllers.Application.seenOnTv
-
-GET        /todo                             controllers.Application.toDo
-
 GET        /bookstoread                      controllers.Application.booksToRead
 GET        /moviestowatch                    controllers.Application.moviesToWatch
 GET        /tripstotake                      controllers.Application.tripsToTake
+
+GET        /statistics                       controllers.Application.statistics
+
+GET        /seenontv                         controllers.Application.seenOnTv
 
 GET        /cv                               controllers.Application.cv
 

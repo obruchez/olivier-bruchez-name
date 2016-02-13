@@ -30,6 +30,10 @@ object Sitemap {
   val shows = Page(Shows, routes.Application.shows())
   val trips = Page(Trips, routes.Application.trips())
 
+  val booksToRead = Page(BooksToRead, routes.Application.booksToRead())
+  val moviesToWatch = Page(MoviesToWatch, routes.Application.moviesToWatch())
+  val tripsToTake = Page(TripsToTake, routes.Application.tripsToTake())
+
   val statistics = Page("Statistics", routes.Application.statistics(), "fa-line-chart")
 
   val lifelogging = Page(
@@ -38,17 +42,8 @@ object Sitemap {
     "fa-list",
     groupChildren = Seq(
       PageGroup(Seq(books, concerts, courses, crashes, exhibitions, hikes, movies, plays, trips, shows)),
+      PageGroup(Seq(booksToRead, moviesToWatch, tripsToTake)),
       PageGroup(Seq(statistics))))
-
-  val booksToRead = Page(BooksToRead, routes.Application.booksToRead())
-  val moviesToWatch = Page(MoviesToWatch, routes.Application.moviesToWatch())
-  val tripsToTake = Page(TripsToTake, routes.Application.tripsToTake())
-
-  val toDo = Page(
-    "To-do",
-    routes.Application.toDo(),
-    "fa-check-square-o", // @todo better icon
-    groupChildren = singlePageGroup(booksToRead, moviesToWatch, tripsToTake))
 
   val votes = Page(Votes, routes.Application.votes())
 
@@ -66,7 +61,7 @@ object Sitemap {
   val root = Page(
     title = "",
     url = "",
-    groupChildren = singlePageGroup(home, about, lifelogging, toDo, votes, cv, contacts))
+    groupChildren = singlePageGroup(home, about, lifelogging, votes, cv, contacts))
 
   val posts = Page(
     title = "Posts",

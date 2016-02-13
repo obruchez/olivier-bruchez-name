@@ -105,14 +105,6 @@ object Application extends Controller {
     }
   }
 
-  def toDo = Action.async {
-    Page.introductionsFromPages(Sitemap.toDo.children) map { pagesAndIntroductions =>
-      // Don't include introductions as long as they come from the raw Markdown pages
-      val pagesWithoutIntroductions = pagesAndIntroductions.map(pai => (pai._1, None))
-      Ok(views.html.menu(Sitemap.toDo, pagesWithoutIntroductions, groupSize = 3, colSize = 4))
-    }
-  }
-
   def cv = Action.async {
     Page.introductionsFromPages(Sitemap.cv.children) map { pagesAndIntroductions =>
       Ok(views.html.menu(Sitemap.cv, pagesAndIntroductions, groupSize = 2, colSize = 6))
