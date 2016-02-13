@@ -1,7 +1,7 @@
 package controllers
 
 import models._
-import util.Configuration
+import models.PageGroup._
 
 object Sitemap {
   // @todo better icon for hikes: https://cdn2.iconfinder.com/data/icons/vacation-landmarks/512/12-512.png
@@ -14,10 +14,10 @@ object Sitemap {
   val worldview = Page(Worldview, routes.Application.worldview())
 
   val about = Page(
-      "About",
-      routes.Application.about(),
-      "fa-user",
-      children = Seq(profile, lifePrinciples, worldview))
+    "About",
+    routes.Application.about(),
+    "fa-user",
+    groupChildren = singlePageGroup(profile, lifePrinciples, worldview))
 
   val books = Page(Books, routes.Application.books())
   val concerts = Page(Concerts, routes.Application.concerts())
@@ -30,23 +30,25 @@ object Sitemap {
   val shows = Page(Shows, routes.Application.shows())
   val trips = Page(Trips, routes.Application.trips())
 
-  val seenOnTv = Page(SeenOnTv, routes.Application.seenOnTv())
+  val statistics = Page("Statistics", routes.Application.statistics(), "fa-line-chart")
+
+  val lifelogging = Page(
+    "Lifelogging",
+    routes.Application.lifelogging(),
+    "fa-list",
+    groupChildren = Seq(
+      PageGroup(Seq(books, concerts, courses, crashes, exhibitions, hikes, movies, plays, trips, shows)),
+      PageGroup(Seq(statistics))))
 
   val booksToRead = Page(BooksToRead, routes.Application.booksToRead())
   val moviesToWatch = Page(MoviesToWatch, routes.Application.moviesToWatch())
   val tripsToTake = Page(TripsToTake, routes.Application.tripsToTake())
 
   val toDo = Page(
-      "To-do",
-      routes.Application.toDo(),
-      "fa-check-square-o", // @todo better icon
-      children = Seq(booksToRead, moviesToWatch, tripsToTake))
-
-  val lifelogging = Page(
-    "Lifelogging",
-    routes.Application.lifelogging(),
-    "fa-list",
-    children = Seq(books, concerts, courses, crashes, exhibitions, hikes, movies, plays, trips, shows, toDo))
+    "To-do",
+    routes.Application.toDo(),
+    "fa-check-square-o", // @todo better icon
+    groupChildren = singlePageGroup(booksToRead, moviesToWatch, tripsToTake))
 
   val votes = Page(Votes, routes.Application.votes())
 
@@ -57,30 +59,32 @@ object Sitemap {
     "CV / résumé",
     routes.Application.cv(),
     "fa-file-text-o", // @todo better icon
-    children = Seq(pdfCv, wordCv))
+    groupChildren = singlePageGroup(pdfCv, wordCv))
 
   val contacts = Page(Contacts, routes.Application.contacts())
 
   val root = Page(
     title = "",
     url = "",
-    children = Seq(home, about, lifelogging, votes, cv, contacts))
+    groupChildren = singlePageGroup(home, about, lifelogging, toDo, votes, cv, contacts))
 
   val posts = Page(
     title = "Posts",
     url = Posts.sourceUrl.toString,
     icon = Posts.icon,
     fetchables = Seq(Posts),
-    children = Seq())
+    groupChildren = Seq())
 
   val twitter = Page(
     title = "Twitter",
     url = Tweets.sourceUrl.toString,
     icon = Tweets.icon,
     fetchables = Seq(Tweets),
-    children = Seq())
+    groupChildren = Seq())
 
-  val nonRootPages = Seq(posts, twitter)
+  val seenOnTv = Page(SeenOnTv, routes.Application.seenOnTv())
+
+  val nonRootPages = Seq(posts, twitter, seenOnTv, statistics)
 
   def pageByUrl(url: String): Option[Page] = {
     def pageByUrl(pageToTest: Page): Option[Page] =

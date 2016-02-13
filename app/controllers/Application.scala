@@ -67,15 +67,19 @@ object Application extends Controller {
 
   def plays = Action.async { Cache.get(Plays).map(plays => Ok(views.html.plays(plays))) }
 
-  def seenOnTv = Action.async {
-    Cache.get(SeenOnTv) map { seenOnTv =>
-      Ok(views.html.markdown(Sitemap.seenOnTv, seenOnTv.introduction, seenOnTv.content))
-    }
-  }
-
   def shows = Action.async { Cache.get(Shows).map(shows => Ok(views.html.shows(shows))) }
 
   def trips = Action.async { Cache.get(Trips).map(trips => Ok(views.html.trips(trips))) }
+
+  def statistics = Action {
+    Ok(views.html.statistics())
+  }
+
+  def seenOnTv = Action.async {
+      Cache.get(SeenOnTv) map { seenOnTv =>
+        Ok(views.html.markdown(Sitemap.seenOnTv, seenOnTv.introduction, seenOnTv.content))
+      }
+    }
 
   def votes = Action.async {
     Cache.get(Votes) map { votes =>

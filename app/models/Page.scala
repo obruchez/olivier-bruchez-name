@@ -9,17 +9,21 @@ case class Page(title: String,
                 url: String,
                 icon: Option[String] = None,
                 fetchables: Seq[Fetchable] = Seq(),
-                children: Seq[Page] = Seq())
+                groupChildren: Seq[PageGroup] = Seq()) {
+  def children: Seq[Page] = groupChildren.flatMap(_.pages)
+}
+
+case class PageGroup(pages: Seq[Page])
 
 object Page {
   def apply(fetchable: Fetchable, call: Call): Page =
     Page(title = fetchable.name, call.url, icon = fetchable.icon, fetchables = Seq(fetchable))
 
   def apply(title: String, call: Call, icon: String): Page =
-    Page(title, call.url, icon = Some(icon), children = Seq())
+    Page(title, call.url, icon = Some(icon), groupChildren = Seq())
 
-  def apply(title: String, call: Call, icon: String, children: Seq[Page]): Page =
-    Page(title, call.url, icon = Some(icon), children = children)
+  def apply(title: String, call: Call, icon: String, groupChildren: Seq[PageGroup]): Page =
+    Page(title, call.url, icon = Some(icon), groupChildren = groupChildren)
 
   def introductionsFromPages(pages: Seq[Page]): Future[Seq[(Page, Option[Introduction])]] = {
     val sequenceOfFutures = for (page <- pages) yield {
@@ -33,4 +37,8 @@ object Page {
 
     Future.sequence(sequenceOfFutures)
   }
+}
+
+object PageGroup {
+  def singlePageGroup(pages: Page*): Seq[PageGroup] = Seq(PageGroup(pages = pages.toSeq))
 }
