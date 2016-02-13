@@ -132,6 +132,11 @@ h6:hover .header-link {
     border-bottom: 0;
 }
 
+.breadcrumbs .breadcrumb.breadcrumb-right {
+    float: right;
+    top: 10px;
+}
+
 .breadcrumbs.breadcrumbs-small {
     padding-top: 0;
     padding-bottom: 0;

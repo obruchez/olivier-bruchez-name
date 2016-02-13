@@ -8,7 +8,7 @@
 </div>
 <div class="breadcrumbs breadcrumbs-light breadcrumbs-small">
   <div class="container">
-    <ul class="pull-right breadcrumb breadcrumb-small">
+    <ul class="breadcrumb breadcrumb-right breadcrumb-small">
       @controllers.Breadcrumbs.links(page).map { link =>
         @link.url match {
           case Some(url) => {
