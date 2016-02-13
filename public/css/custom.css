@@ -88,7 +88,7 @@ body.larger-font {
 
 .markdown li a, .latestposts li a, .latesttweets li a {
     /* @todo this should depend on the theme */
-    color: #18ba9b;
+    color: #72c02c;
 }
 
 .rating {
