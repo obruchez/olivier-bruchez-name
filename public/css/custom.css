@@ -1,5 +1,10 @@
 /* Add here all your css styles (customizations) */
 
+body.larger-font {
+    font-size: 14px;
+    line-height: 1.8;
+}
+
 .content.main-content {
     padding-top: 20px;
 }
@@ -10,10 +15,6 @@
 
 .home blockquote {
     margin-bottom: 10px;
-}
-
-.home .profile {
-    font-size: 13px;
 }
 
 .home-lists {
