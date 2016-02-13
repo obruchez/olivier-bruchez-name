@@ -49,7 +49,7 @@
 
     @breadcrumbs(page)
 
-    <div class="container content height-500">
+    <div class="container content main-content height-500">
         @content
         @Some(page.fetchables).filter(_.size == 1).flatMap(fetchables => Some(fetchables.head)).map { fetchable =>
             <div class="col-md-12"></div>
