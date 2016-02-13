@@ -41,7 +41,10 @@ case class MarkdownContent(lines: Seq[String]) extends FileContent(FileType.Mark
         heading = "h2",
         cssClass = MarkdownContent.HeadlineClass)
 
-    (introductionHtmlOption.map(html => Introduction(shortVersion = html, fullVersion = html)), contentHtml)
+    (introductionHtmlOption.map { html =>
+      Introduction(shortVersion = HtmlContent.fromNonHtmlString(""), fullVersion = html)
+    },
+        contentHtml)
   }
 }
 
