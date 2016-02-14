@@ -2,12 +2,24 @@ package models
 
 case class Statistics(concerts: Concerts) {
   def mostSeenArtists(mainMusiciansOnly: Boolean): Seq[(Double, String)] = {
-    val musicianFilter: (Musician) => Boolean = if (mainMusiciansOnly) _.main else _ => true
-
     val strings =
       concerts.listItems.flatMap { concert =>
-        if (concert.musicians.size == 1) concert.musicians else concert.musicians.filter(musicianFilter)
-      }.map(_.name).filterNot(_ == UnknownArtist)
+          if (concert.musicians.size == 1) {
+            concert.musicians.map(_.name)
+          } else if (mainMusiciansOnly) {
+            val mainMusicians = concert.musicians.filter(_.main).map(_.name)
+
+            concert.band match {
+              case Some(band) =>
+                // No main musician + band available => return band instead
+                if (mainMusicians.isEmpty) Seq(band) else Seq()
+              case None =>
+                mainMusicians
+            }
+          } else {
+            concert.musicians.map(_.name)
+          }
+      }.filterNot(_ == UnknownArtist)
 
     sortedValuesWithLabels(strings)
   }
