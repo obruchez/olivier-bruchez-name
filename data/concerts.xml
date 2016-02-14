@@ -1597,7 +1597,7 @@
     <event>Montreux Jazz Festival</event>
     <group>Trio Beyond</group>
     <musician inst="drums" main="true">Jack DeJohnette</musician>
-    <musician inst="guitar">John Scofield</musician>
+    <musician inst="guitar" main="true">John Scofield</musician>
     <musician inst="organ">Larry Goldings</musician>
     <rating>5.0</rating>
     <comments/>
