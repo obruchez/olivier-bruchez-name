@@ -71,8 +71,11 @@ object Application extends Controller {
 
   def trips = Action.async { Cache.get(Trips).map(trips => Ok(views.html.trips(trips))) }
 
-  def statistics = Action {
-    Ok(views.html.statistics())
+  def statistics = Action.async {
+    for {
+      concerts <- Cache.get(Concerts)
+      statistics = Statistics(concerts)
+    } yield Ok(views.html.statistics(statistics))
   }
 
   def seenOnTv = Action.async {

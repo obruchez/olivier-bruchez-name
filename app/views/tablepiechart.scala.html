@@ -1,0 +1,26 @@
+@(pieChart: PieChart)
+
+<div class="col-md-12">
+  <div class="col-md-6">
+    <div class="panel panel-sea margin-bottom-40">
+      <div class="panel-heading"><h3 class="panel-title">@pieChart.title</h3></div>
+      <table class="table table-striped">
+      <thead>
+        <tr><th>@pieChart.entityName</th><th>@pieChart.valueUnit</th></tr>
+      </thead>
+      <tbody>
+      @pieChart.values.map { pieChartValue =>
+          <tr>
+          <td><span class="label rounded label-default" style="background-color: @pieChartValue.color.html;">@pieChartValue.label</span></td>
+          <td>@pieChartValue.value</td>
+          </tr>
+        }
+      </tbody>
+      </table>
+    </div>
+  </div>
+
+  <div class="col-md-6">
+    @views.html.piechart(pieChart)
+  </div>
+</div>

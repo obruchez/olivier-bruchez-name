@@ -1,4 +1,4 @@
-@(page: Page)(content: Html)
+@(page: Page, scripts: Html = Html(""))(content: Html)
 
 <!DOCTYPE html>
 <!--[if IE 8]> <html lang="en" class="ie8"> <![endif]-->
@@ -41,6 +41,31 @@
 
     <!-- CSS Customization -->
     <link rel="stylesheet" href="@routes.Assets.at("css/custom.css")">
+
+    <!-- JS Global Compulsory -->
+    <script type="text/javascript" src="@routes.Assets.at("plugins/jquery/jquery.min.js")"></script>
+    <script type="text/javascript" src="@routes.Assets.at("plugins/jquery/jquery-migrate.min.js")"></script>
+    <script type="text/javascript" src="@routes.Assets.at("plugins/bootstrap/js/bootstrap.min.js")"></script>
+    <!-- JS Implementing Plugins -->
+    <script type="text/javascript" src="@routes.Assets.at("plugins/back-to-top.js")"></script>
+    <script type="text/javascript" src="@routes.Assets.at("plugins/smoothScroll.js")"></script>
+    <!-- JS Customization -->
+    <script type="text/javascript" src="@routes.Assets.at("js/custom.js")"></script>
+    <!-- JS Page Level -->
+    <script type="text/javascript" src="@routes.Assets.at("js/app.js")"></script>
+    <script type="text/javascript">
+        jQuery(document).ready(function() {
+            App.init();
+        });
+    </script>
+
+    <!--[if lt IE 9]>
+        <script src="@routes.Assets.at("plugins/respond.js")"></script>
+        <script src="@routes.Assets.at("plugins/html5shiv.js")"></script>
+        <script src="@routes.Assets.at("plugins/placeholder-IE-fixes.js")"></script>
+    <![endif]-->
+
+    @scripts
 </head>
 
 <body class="font-open-sans larger-font">
@@ -63,22 +88,6 @@
     @footer(page)
 </div>
 
-<!-- JS Global Compulsory -->
-<script type="text/javascript" src="@routes.Assets.at("plugins/jquery/jquery.min.js")"></script>
-<script type="text/javascript" src="@routes.Assets.at("plugins/jquery/jquery-migrate.min.js")"></script>
-<script type="text/javascript" src="@routes.Assets.at("plugins/bootstrap/js/bootstrap.min.js")"></script>
-<!-- JS Implementing Plugins -->
-<script type="text/javascript" src="@routes.Assets.at("plugins/back-to-top.js")"></script>
-<script type="text/javascript" src="@routes.Assets.at("plugins/smoothScroll.js")"></script>
-<!-- JS Customization -->
-<script type="text/javascript" src="@routes.Assets.at("js/custom.js")"></script>
-<!-- JS Page Level -->
-<script type="text/javascript" src="@routes.Assets.at("js/app.js")"></script>
-<script type="text/javascript">
-    jQuery(document).ready(function() {
-      	App.init();
-        });
-</script>
 <!-- Google Analytics -->
 <script type="text/javascript">
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
@@ -89,11 +98,6 @@
   ga('create', 'UA-807292-6', 'auto');
   ga('send', 'pageview');
 </script>
-<!--[if lt IE 9]>
-    <script src="@routes.Assets.at("plugins/respond.js")"></script>
-    <script src="@routes.Assets.at("plugins/html5shiv.js")"></script>
-    <script src="@routes.Assets.at("plugins/placeholder-IE-fixes.js")"></script>
-<![endif]-->
 
 </body>
 </html>

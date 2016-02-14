@@ -42,8 +42,8 @@ object Sitemap {
     "fa-list",
     groupChildren = Seq(
       PageGroup(Seq(books, concerts, courses, crashes, exhibitions, hikes, movies, plays, trips, shows)),
-      PageGroup(Seq(booksToRead, moviesToWatch, tripsToTake))/*,
-      PageGroup(Seq(statistics))*/))
+      PageGroup(Seq(booksToRead, moviesToWatch, tripsToTake)),
+      PageGroup(Seq(statistics))))
 
   val votes = Page(Votes, routes.Application.votes())
 
@@ -79,7 +79,7 @@ object Sitemap {
 
   val seenOnTv = Page(SeenOnTv, routes.Application.seenOnTv())
 
-  val nonRootPages = Seq(posts, twitter, seenOnTv, statistics)
+  val nonRootPages = Seq(posts, twitter, seenOnTv)
 
   def pageByUrl(url: String): Option[Page] = {
     def pageByUrl(pageToTest: Page): Option[Page] =

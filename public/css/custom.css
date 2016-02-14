@@ -169,3 +169,8 @@ h6:hover .header-link {
 .breadcrumbs-v3.header-bright {
     position: static;
 }
+
+.centered-canvas {
+    display: block;
+    margin: 0 auto;
+}

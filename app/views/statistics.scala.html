@@ -1,5 +1,38 @@
-@()
+@(statistics: Statistics)
 
-@main(Sitemap.statistics) {
-  <span>Hello, world!</span>
+@scripts = {
+  <script type="text/javascript" src="@routes.Assets.at("plugins/moment.min.js")"></script>
+  <script type="text/javascript" src="@routes.Assets.at("plugins/chart.min.js")"></script>
+}
+
+@main(Sitemap.statistics, scripts) {
+  <div class="headline"><h2>Concerts</h2></div>
+
+  <div class="headline"><h3>Most seen artists</h3></div>
+
+  @{
+    val pieChart = PieChart(
+      id = "chart-most-seen-artists",
+      title = "Most seen artists",
+      entityName = "Artist",
+      valueUnit = "Count",
+      statistics.mostSeenArtists(leadersOnly = false),
+      maxValues = 12)
+
+    views.html.tablepiechart(pieChart)
+  }
+
+  <div class="headline"><h3>Most seen artists (leaders only)</h3></div>
+
+  @{
+      val pieChart = PieChart(
+        id = "chart-most-seen-artists-leaders-only",
+        title = "Most seen artists (leaders only)",
+        entityName = "Artist",
+        valueUnit = "Count",
+        statistics.mostSeenArtists(leadersOnly = true),
+        maxValues = 15)
+
+      views.html.tablepiechart(pieChart)
+    }
 }
