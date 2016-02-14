@@ -5,7 +5,9 @@ case class Statistics(concerts: Concerts) {
     val musicianFilter: (Musician) => Boolean = if (leadersOnly) _.leader else _ => true
 
     val strings =
-      concerts.listItems.flatMap(_.musicians.filter(musicianFilter).map(_.name)).filterNot(_ == UnknownArtist)
+      concerts.listItems.flatMap { concert =>
+        if (concert.musicians.size == 1) concert.musicians else concert.musicians.filter(musicianFilter)
+      }.map(_.name).filterNot(_ == UnknownArtist)
 
     sortedValuesWithLabels(strings)
   }
@@ -14,8 +16,8 @@ case class Statistics(concerts: Concerts) {
     strings.groupBy(string => string).
       toSeq.
       map(kv => kv._2.size.toDouble -> kv._1).
-      sortBy(_._1).
-      reverse
+      // Sort by count (highest first) and then by name (alphabetical order)
+      sortBy(kv => (-kv._1, kv._2))
 
   private val UnknownArtist = "?"
 }
