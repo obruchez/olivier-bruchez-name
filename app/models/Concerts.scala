@@ -65,7 +65,7 @@ object Concert {
     Concert(
       date = Parsing.dateFromString((rootNode \\ "date").text).get,
       location = (rootNode \\ "location").text,
-      concertType = ConcertType.fromString((rootNode \@ "type").trim).getOrElse(NormalConcert),
+      concertType = ConcertType.fromString((rootNode \\ "type").text.trim).getOrElse(NormalConcert),
       event = Option((rootNode \\ "event").text.trim).filter(_.nonEmpty),
       band = Option((rootNode \\ "group").text.trim).filter(_.nonEmpty),
       musicians = musicans,
