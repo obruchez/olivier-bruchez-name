@@ -70,8 +70,8 @@
     <location>Auditorium Stravinski, Montreux, Switzerland</location>
     <event>Montreux Jazz Festival</event>
     <group>Chick Corea &amp; Herbie Hancock</group>
-    <musician inst="piano, keyboards">Chick Corea</musician>
-    <musician inst="piano, keyboards">Herbie Hancock</musician>
+    <musician inst="piano, keyboards" leader="true">Chick Corea</musician>
+    <musician inst="piano, keyboards" leader="true">Herbie Hancock</musician>
     <rating>4.75</rating>
     <comments/>
   </concert>
@@ -150,8 +150,8 @@
     <location>Chapiteau, Cully, Switzerland</location>
     <event>Cully Jazz Festival</event>
     <group>Andreas Schaerer &amp; Lucas Niggli</group>
-    <musician inst="voice, electronics">Andreas Schaerer</musician>
-    <musician inst="drums, percussions">Lucas Niggli</musician>
+    <musician inst="voice, electronics" leader="true">Andreas Schaerer</musician>
+    <musician inst="drums, percussions" leader="true">Lucas Niggli</musician>
     <rating>4.75</rating>
     <comments/>
   </concert>
@@ -189,8 +189,8 @@
     <location>Eglise Sainte-Claire, Vevey, Switzerland</location>
     <event>Montreux Jazz Festival</event>
     <group>Yaron Herman &amp; David Greilsammer</group>
-    <musician inst="piano">Yaron Herman</musician>
-    <musician inst="piano, director">David Greilsammer</musician>
+    <musician inst="piano" leader="true">Yaron Herman</musician>
+    <musician inst="piano, director" leader="true">David Greilsammer</musician>
     <musician inst="double bass, arrangements">Massimo Pinca</musician>
     <musician inst="orchestra">Geneva Camerata</musician>
     <rating>5.25</rating>
@@ -201,8 +201,8 @@
     <location>Auditorium Stravinski, Montreux, Switzerland</location>
     <event>Montreux Jazz Festival</event>
     <group>Herbie Hancock &amp; Wayne Shorter</group>
-    <musician inst="piano, keyboards">Herbie Hancock</musician>
-    <musician inst="soprano saxophone">Wayne Shorter</musician>
+    <musician inst="piano, keyboards" leader="true">Herbie Hancock</musician>
+    <musician inst="soprano saxophone" leader="true">Wayne Shorter</musician>
     <rating>4.75</rating>
     <comments/>
   </concert>
@@ -222,7 +222,7 @@
     <location>Montreux Jazz Club, Montreux, Switzerland</location>
     <event>Montreux Jazz Festival</event>
     <group>Prism</group>
-    <musician inst="double bass">Dave Holland</musician>
+    <musician inst="double bass" leader="true">Dave Holland</musician>
     <musician inst="guitar">Kevin Eubanks</musician>
     <musician inst="piano">Craig Taborn</musician>
     <musician inst="drums">Eric Harland</musician>
@@ -244,7 +244,7 @@
     <location>Auditorium Stravinski, Montreux, Switzerland</location>
     <event>Montreux Jazz Festival</event>
     <group>Robert Plant &amp; The Sensational Space Shifters</group>
-    <musician inst="vocals">Robert Plant</musician>
+    <musician inst="vocals" leader="true">Robert Plant</musician>
     <musician inst="drums">Dave Smith</musician>
     <musician inst="bass, vocals">Billy Fuller</musician>
     <musician inst="guitar, vocals">Justin Adams</musician>
@@ -259,8 +259,8 @@
     <location>Auditorium Stravinski, Montreux, Switzerland</location>
     <event>Montreux Jazz Festival</event>
     <group>Rodrigo y Gabriela</group>
-    <musician inst="guitar">Rodrigo Sanchez</musician>
-    <musician inst="guitar">Gabriela Lopez</musician>
+    <musician inst="guitar" leader="true">Rodrigo Sanchez</musician>
+    <musician inst="guitar" leader="true">Gabriela Lopez</musician>
     <rating>4.75</rating>
     <comments/>
   </concert>
@@ -279,7 +279,7 @@
     <location>Chapiteau, Cully, Switzerland</location>
     <event>Cully Jazz Festival</event>
     <group>Rusconi</group>
-    <musician inst="piano">Stefan Rusconi</musician>
+    <musician inst="piano" leader="true">Stefan Rusconi</musician>
     <musician inst="drums">Claudio Strüby</musician>
     <musician inst="bass">Fabian Gisler</musician>
     <rating>4.5</rating>
@@ -377,8 +377,8 @@
     <location>Montreux Jazz Club, Montreux, Switzerland</location>
     <event>Montreux Jazz Festival</event>
     <group>Bob James &amp; David Sanborn</group>
-    <musician inst="piano">Bob James</musician>
-    <musician inst="saxophone">David Sanborn</musician>
+    <musician inst="piano" leader="true">Bob James</musician>
+    <musician inst="saxophone" leader="true">David Sanborn</musician>
     <musician inst="drums">Steve Gadd</musician>
     <musician inst="bass">James Genus</musician>
     <rating>4.75</rating>
@@ -492,7 +492,7 @@
     <date>2013.02.08</date>
     <location>Auditorium Stravinski, Montreux, Switzerland</location>
     <event>Funky Claude</event>
-    <musician inst="conductor">Pepe Lienhard</musician>
+    <musician inst="conductor" leader="true">Pepe Lienhard</musician>
     <musician inst="big band">Pepe Lienhard Big Band</musician>
     <musician inst="vocals, piano">Sophie Hunger</musician>
     <musician inst="vocals">Marc Sway</musician>
@@ -730,8 +730,8 @@
     <location>Miles Davis Hall, Montreux, Switzerland</location>
     <event>Montreux Jazz Festival</event>
     <group>Bobby McFerrin &amp; Chick Corea</group>
-    <musician inst="vocals">Bobby McFerrin</musician>
-    <musician inst="piano">Chick Corea</musician>
+    <musician inst="vocals" leader="true">Bobby McFerrin</musician>
+    <musician inst="piano" leader="true">Chick Corea</musician>
     <musician inst="vocals">Nikki Yanofsky</musician>
     <rating>4.5</rating>
     <comments/>
@@ -764,8 +764,8 @@
     <location>Chapiteau, Cully, Switzerland</location>
     <event>Cully Jazz Festival</event>
     <group>Trilok Gurtu &amp; Tigran Hamasyan</group>
-    <musician inst="tabla">Trilok Gurtu</musician>
-    <musician inst="piano">Tigran Hamasyan</musician>
+    <musician inst="tabla" leader="true">Trilok Gurtu</musician>
+    <musician inst="piano" leader="true">Tigran Hamasyan</musician>
     <rating>5.0</rating>
     <comments/>
   </concert>
@@ -875,8 +875,8 @@
     <location>Salle Paderewski, Casino de Montbenon, Lausanne</location>
     <event>JazzOnze+</event>
     <group>Archie Shepp &amp; Joachim Kühn</group>
-    <musician inst="saxophone, vocals">Archie Shepp</musician>
-    <musician inst="piano">Joachim Kühn</musician>
+    <musician inst="saxophone, vocals" leader="true">Archie Shepp</musician>
+    <musician inst="piano" leader="true">Joachim Kühn</musician>
     <musician inst="bass">Wayne Dockery</musician>
     <musician inst="drums">Ramon Lopez</musician>
     <rating>5.0</rating>
@@ -968,8 +968,8 @@
     <location>Temple, Cully, Switzerland</location>
     <event>Cully Jazz Festival</event>
     <group>Yaron Herman &amp; Michel Portal</group>
-    <musician inst="piano">Yaron Herman</musician>
-    <musician inst="saxophone, clarinet">Michel Portal</musician>
+    <musician inst="piano" leader="true">Yaron Herman</musician>
+    <musician inst="saxophone, clarinet" leader="true">Michel Portal</musician>
     <rating>5.0</rating>
     <comments/>
   </concert>
@@ -978,8 +978,8 @@
     <location>Temple, Cully, Switzerland</location>
     <event>Cully Jazz Festival</event>
     <group>Charlie Haden &amp; John Taylor</group>
-    <musician inst="bass">Charlie Haden</musician>
-    <musician inst="piano">John Taylor</musician>
+    <musician inst="bass" leader="true">Charlie Haden</musician>
+    <musician inst="piano" leader="true">John Taylor</musician>
     <rating>5.0</rating>
     <comments>7:30 PM concert.</comments>
   </concert>
@@ -1091,7 +1091,7 @@
     <date>2009.10.03</date>
     <location>Chorus, Lausanne, Switzerland</location>
     <group>John Scofield, Daniel Humair &amp; Jean-Paul Celea</group>
-    <musician inst="guitar">John Scofield</musician>
+    <musician inst="guitar" leader="true">John Scofield</musician>
     <musician inst="bass">Jean-Paul Céléa</musician>
     <musician inst="drums">Daniel Humair</musician>
     <rating>4.75</rating>
@@ -1101,7 +1101,7 @@
     <date>2009.07.18</date>
     <location>Olympiastadion, Berlin, Germany</location>
     <group>U2</group>
-    <musician inst="vocals">Bono</musician>
+    <musician inst="vocals" leader="true">Bono</musician>
     <musician inst="guitar">David Howell Evans</musician>
     <musician inst="bass">Adam Clayton</musician>
     <musician inst="drums">Larry Mullen, Jr.</musician>
@@ -1281,8 +1281,8 @@
     <location>Chapiteau, Cully, Switzerland</location>
     <event>Cully Jazz Festival</event>
     <group>Erik Truffaz &amp; Malcolm Braff Indian Project</group>
-    <musician inst="piano">Malcolm Braff</musician>
-    <musician inst="trumpet">Erik Truffaz</musician>
+    <musician inst="piano" leader="true">Malcolm Braff</musician>
+    <musician inst="trumpet" leader="true">Erik Truffaz</musician>
     <musician inst="tabla">Apurba Mukherjee</musician>
     <musician inst="bhajans, thumris">Indrani Mukherjee</musician>
     <rating>4.75</rating>
@@ -1354,7 +1354,7 @@
     <date>2007.09.16</date>
     <location>Stade de Genève, Geneva, Switzerland</location>
     <group>The Police</group>
-    <musician inst="bass, vocals">Sting</musician>
+    <musician inst="bass, vocals" leader="true">Sting</musician>
     <musician inst="guitar, vocals">Andy Summers</musician>
     <musician inst="drums, vocals">Stewart Copeland</musician>
     <rating>4.5</rating>
@@ -1411,7 +1411,7 @@
     <location>Salle Médran, Verbier, Switzerland</location>
     <event>Verbier Festival &amp; Academy</event>
     <group>Martha Argerich &amp; UBS Verbier Festival Orchestra</group>
-    <musician inst="piano">Martha Argerich</musician>
+    <musician inst="piano" leader="true">Martha Argerich</musician>
     <musician inst="orchestra">UBS Verbier Festival Orchestra</musician>
     <musician inst="director">Mikhaïl Pletnev</musician>
     <rating>5.0</rating>
@@ -1460,8 +1460,8 @@
     <location>Miles Davis Hall, Montreux, Switzerland</location>
     <event>Montreux Jazz Festival</event>
     <group>Pat Metheny &amp; Brad Mehldau</group>
-    <musician inst="guitar">Pat Metheny</musician>
-    <musician inst="piano">Brad Mehldau</musician>
+    <musician inst="guitar" leader="true">Pat Metheny</musician>
+    <musician inst="piano" leader="true">Brad Mehldau</musician>
     <musician inst="bass">Larry Grenadier</musician>
     <musician inst="drums">Jeff Ballard</musician>
     <rating>5.0</rating>
@@ -1584,7 +1584,7 @@
     <location>Auditorium Stravinski, Montreux, Switzerland</location>
     <event>Montreux Jazz Festival</event>
     <group>Starsailor</group>
-    <musician inst="vocals, guitar">James Walsh</musician>
+    <musician inst="vocals, guitar" leader="true">James Walsh</musician>
     <musician inst="guitar, backing vocals">Richard Warren</musician>
     <musician inst="bass">James Stelfox</musician>
     <rating>4.0</rating>
@@ -1613,7 +1613,7 @@
     <date>2006.05.24</date>
     <location>Le Bout du Monde, Vevey, Switzerland</location>
     <group></group>
-    <musician inst="piano">Malcom Braff</musician>
+    <musician inst="piano" leader="true">Malcom Braff</musician>
     <musician inst="bass">Patrice Moret</musician>
     <musician inst="drums">Pascal ?</musician>
     <comments>Pascal ? was replacing Marcel Papaux.</comments>
@@ -1622,7 +1622,7 @@
     <date>2006.05.17</date>
     <location>Le Bout du Monde, Vevey, Switzerland</location>
     <group></group>
-    <musician inst="piano">Malcom Braff</musician>
+    <musician inst="piano" leader="true">Malcom Braff</musician>
     <musician inst="bass">Patrice Moret</musician>
     <musician inst="drums">Dominic Egli</musician>
     <comments>Two sets.</comments>
@@ -1631,7 +1631,7 @@
     <date>2006.05.10</date>
     <location>Le Bout du Monde, Vevey, Switzerland</location>
     <group>Mats-Up</group>
-    <musician inst="trumpet">Matthias Spillmann</musician>
+    <musician inst="trumpet" leader="true">Matthias Spillmann</musician>
     <musician inst="trombone">Andreas Tschoppi</musician>
     <musician inst="saxophone">Domenic Landolf</musician>
     <musician inst="saxophone">Thomas Lüthi</musician>
@@ -1644,7 +1644,7 @@
     <date>2006.04.26</date>
     <location>Le Bout du Monde, Vevey, Switzerland</location>
     <group></group>
-    <musician inst="saxophone">Samuel Huguenin</musician>
+    <musician inst="saxophone" leader="true">Samuel Huguenin</musician>
     <musician inst="bass">Julien Neuman</musician>
     <musician inst="drums">? Frey</musician>
     <musician inst="piano">Julien Galant</musician>
@@ -1654,7 +1654,7 @@
     <date>2006.04.19</date>
     <location>Le Bout du Monde, Vevey, Switzerland</location>
     <group></group>
-    <musician inst="saxophone">Samuel Huguenin</musician>
+    <musician inst="saxophone" leader="true">Samuel Huguenin</musician>
     <musician inst="piano">Gabriel Zufferey</musician>
     <musician inst="bass">Julien Neuman</musician>
     <musician inst="drums">Gilles Dupuis</musician>
@@ -1664,7 +1664,7 @@
     <date>2006.04.12</date>
     <location>Le Bout du Monde, Vevey, Switzerland</location>
     <group></group>
-    <musician inst="piano, vocals">Julien Galant</musician>
+    <musician inst="piano, vocals" leader="true">Julien Galant</musician>
     <musician inst="bass">Julien Neumann</musician>
     <comments>Followed by a jam with two saxophonists, one guitarist, and one singer.</comments>
   </concert> 
@@ -1728,7 +1728,7 @@
   <concert>
     <date>2006.03.22</date>
     <location>Le Bout du Monde, Vevey, Switzerland</location>
-    <musician inst="piano">Malcom Braff</musician>
+    <musician inst="piano" leader="true">Malcom Braff</musician>
     <musician inst="bass">Patrice Moret</musician>
     <musician inst="drums">Marcel Papaux</musician>
     <comments>Followed by a jam with two drummers and one bassist.</comments>
@@ -1736,7 +1736,7 @@
   <concert>
     <date>2006.03.15</date>
     <location>Le Bout du Monde, Vevey, Switzerland</location>
-    <musician inst="saxophone">Cyril Bugnon</musician>
+    <musician inst="saxophone" leader="true">Cyril Bugnon</musician>
     <musician inst="bass">Patrice Moret</musician>
     <musician inst="drums">Dominic Egli</musician>
     <comments>Followed by a jam with one pianist and one bassist.</comments>
@@ -1998,8 +1998,8 @@
     <location>Chapiteau, Cully, Switzerland</location>
     <event>Cully Jazz Festival</event>
     <group>Charles Lloyd &amp; Geri Allen</group>
-    <musician inst="saxophone">Charles Lloyd</musician>
-    <musician inst="piano">Geri Allen</musician>
+    <musician inst="saxophone" leader="true">Charles Lloyd</musician>
+    <musician inst="piano" leader="true">Geri Allen</musician>
     <comments></comments>
   </concert>
   <concert>
@@ -2209,8 +2209,8 @@
     <location>Auditorium Stravinski, Montreux, Switzerland</location>
     <event>Montreux Jazz Festival</event>
     <group>Charlie Haden &amp; Pat Metheny</group>
-    <musician inst="double bass">Charlie Haden</musician>
-    <musician inst="acoustic guitar, electric guitar, Pikasso guitar">Pat Metheny</musician>
+    <musician inst="double bass" leader="true">Charlie Haden</musician>
+    <musician inst="acoustic guitar, electric guitar, Pikasso guitar" leader="true">Pat Metheny</musician>
     <comments></comments>
   </concert>
   <concert>
@@ -2314,8 +2314,8 @@
     <location>Chapiteau, Cully, Switzerland</location>
     <event>Cully Jazz Festival</event>
     <group>Eddy Louiss &amp; Richard Galliano</group>
-    <musician inst="organ">Eddy Louiss</musician>
-    <musician inst="accordion">Richard Galliano</musician>
+    <musician inst="organ" leader="true">Eddy Louiss</musician>
+    <musician inst="accordion" leader="true">Richard Galliano</musician>
     <comments/>
   </concert>
   <concert>
@@ -2379,8 +2379,8 @@
     <date>2000.11.22</date>
     <location>Théâtre de Valère, Sion, Switzerland</location>
     <group>Thierry Lang &amp; Paolo Fresu</group>
-    <musician inst="piano">Thierry Lang</musician>
-    <musician inst="trumpet">Paolo Fresu</musician>
+    <musician inst="piano" leader="true">Thierry Lang</musician>
+    <musician inst="trumpet" leader="true">Paolo Fresu</musician>
     <musician inst="bass">Heiri Känzig</musician>
     <musician inst="drums">Marcel Papaux</musician>
     <comments/>
@@ -2404,8 +2404,8 @@
     <location>Auditorium Stravinski, Montreux, Switzerland</location>
     <event>Montreux Jazz Festival</event>
     <group>Michael Brecker &amp; Pat Metheny</group>
-    <musician inst="saxophone">Michael Brecker</musician>
-    <musician inst="guitar">Pat Metheny</musician>
+    <musician inst="saxophone" leader="true">Michael Brecker</musician>
+    <musician inst="guitar" leader="true">Pat Metheny</musician>
     <musician inst="organ">Larry Goldings</musician>
     <musician inst="drums">Bill Stewart</musician>
     <comments/>
@@ -2424,8 +2424,8 @@
     <location>Next Step (?), Cully, Switzerland</location>
     <event>Cully Jazz Festival</event>
     <group>Erik Truffaz &amp; Malcom Braff</group>
-    <musician inst="trumpet">Erik Truffaz</musician>
-    <musician inst="piano">Malcom Braff</musician>
+    <musician inst="trumpet" leader="true">Erik Truffaz</musician>
+    <musician inst="piano" leader="true">Malcom Braff</musician>
     <comments/>
   </concert>
   <concert>
@@ -2604,8 +2604,8 @@
     <date>1997.10.11</date>
     <location>Auditorium Stravinski, Montreux, Switzerland</location>
     <group>Herbie Hancock &amp; Wayne Shorter</group>
-    <musician inst="piano">Herbie Hancock</musician>
-    <musician inst="saxophone">Wayne Shorter</musician>
+    <musician inst="piano" leader="true">Herbie Hancock</musician>
+    <musician inst="saxophone" leader="true">Wayne Shorter</musician>
     <comments/>
   </concert>
   <concert>
@@ -2648,8 +2648,8 @@
     <location>Auditorium Stravinski, Montreux, Switzerland</location>
     <event>Montreux Jazz Festival</event>
     <group>John Scofield &amp; Pat Metheny Quartet</group>
-    <musician inst="guitar">John Scofield</musician>
-    <musician inst="guitar">Pat Metheny</musician>
+    <musician inst="guitar" leader="true">John Scofield</musician>
+    <musician inst="guitar" leader="true">Pat Metheny</musician>
     <musician inst="bass">Bill Stewart</musician>
     <musician inst="drums">Steve Swallow</musician>
     <comments/>
