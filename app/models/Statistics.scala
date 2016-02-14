@@ -10,10 +10,10 @@ case class Statistics(concerts: Concerts) {
             val mainMusicians = concert.musicians.filter(_.main).map(_.name)
 
             concert.band match {
-              case Some(band) =>
+              case Some(band) if mainMusicians.isEmpty =>
                 // No main musician + band available => return band instead
-                if (mainMusicians.isEmpty) Seq(band) else Seq()
-              case None =>
+                Seq(band)
+              case _ =>
                 mainMusicians
             }
           } else {
