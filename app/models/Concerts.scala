@@ -7,14 +7,14 @@ import scala.util.Try
 import scala.xml.{Node, XML}
 import util._
 
-case class Musician(name: String, instrument: Option[String], leader: Boolean)
+case class Musician(name: String, instrument: Option[String], main: Boolean)
 
 object Musician {
   def apply(rootNode: Node): Try[Musician] = Try {
    Musician(
      name = rootNode.text.trim,
      instrument = Option((rootNode \@ "instrument").trim).filter(_.nonEmpty),
-     leader = Parsing.isTrue(rootNode \@ "leader"))
+     main = Parsing.isTrue(rootNode \@ "main"))
   }
 
   def musicians(bandOption: Option[String], musicians: Seq[Musician]): String =
@@ -29,11 +29,11 @@ object Musician {
       case Some(band) =>
         band
       case None =>
-        val leaders = musicians.filter(_.leader)
-        if (leaders.isEmpty)
+        val mainMusicians = musicians.filter(_.main)
+        if (mainMusicians.isEmpty)
           eventOption.getOrElse(this.musicians(bandOption = None, musicians))
         else
-          this.musicians(bandOption = None, leaders)
+          this.musicians(bandOption = None, mainMusicians)
     }
 }
 

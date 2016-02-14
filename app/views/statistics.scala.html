@@ -15,7 +15,7 @@
       title = "Most seen artists",
       entityName = "Artist",
       valueUnit = "Count",
-      statistics.mostSeenArtists(leadersOnly = false),
+      statistics.mostSeenArtists(mainMusiciansOnly = false),
       maxValues = 12)
 
     views.html.tablepiechart(pieChart)
@@ -23,12 +23,12 @@
 
   @{
       val pieChart = PieChart(
-        id = "chart-most-seen-artists-leaders-only",
-        anchor = "most-seen-artists-leaders-only",
-        title = "Most seen artists (leaders only)",
+        id = "chart-most-seen-artists-main-musicians-only",
+        anchor = "most-seen-artists-main-musicians-only",
+        title = "Most seen artists (main musicians only)",
         entityName = "Artist",
         valueUnit = "Count",
-        statistics.mostSeenArtists(leadersOnly = true),
+        statistics.mostSeenArtists(mainMusiciansOnly = true),
         maxValues = 16)
 
       views.html.tablepiechart(pieChart)

@@ -1,8 +1,8 @@
 package models
 
 case class Statistics(concerts: Concerts) {
-  def mostSeenArtists(leadersOnly: Boolean): Seq[(Double, String)] = {
-    val musicianFilter: (Musician) => Boolean = if (leadersOnly) _.leader else _ => true
+  def mostSeenArtists(mainMusiciansOnly: Boolean): Seq[(Double, String)] = {
+    val musicianFilter: (Musician) => Boolean = if (mainMusiciansOnly) _.main else _ => true
 
     val strings =
       concerts.listItems.flatMap { concert =>
