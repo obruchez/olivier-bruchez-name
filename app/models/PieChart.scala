@@ -3,6 +3,7 @@ package models
 case class PieChartValue(value: Double, label: String, color: Color, lighterColor: Color)
 
 case class PieChart(id: String,
+                    anchor: String,
                     title: String,
                     entityName: String,
                     valueUnit: String,
@@ -10,6 +11,7 @@ case class PieChart(id: String,
 
 object PieChart {
   def apply(id: String,
+            anchor: String,
             title: String,
             entityName: String,
             valueUnit: String,
@@ -18,6 +20,7 @@ object PieChart {
             otherValuesLabel: String = "Other"): PieChart =
     PieChart(
       id = id,
+      anchor = anchor,
       title = title,
       entityName = entityName,
       valueUnit = valueUnit,

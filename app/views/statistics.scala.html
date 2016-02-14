@@ -8,11 +8,10 @@
 @main(Sitemap.statistics, scripts) {
   <div class="headline"><h2>Concerts</h2></div>
 
-  <div class="headline"><h3>Most seen artists</h3></div>
-
   @{
     val pieChart = PieChart(
       id = "chart-most-seen-artists",
+      anchor = "most-seen-artists",
       title = "Most seen artists",
       entityName = "Artist",
       valueUnit = "Count",
@@ -22,11 +21,10 @@
     views.html.tablepiechart(pieChart)
   }
 
-  <div class="headline"><h3>Most seen artists (leaders only)</h3></div>
-
   @{
       val pieChart = PieChart(
         id = "chart-most-seen-artists-leaders-only",
+        anchor = "most-seen-artists-leaders-only",
         title = "Most seen artists (leaders only)",
         entityName = "Artist",
         valueUnit = "Count",
