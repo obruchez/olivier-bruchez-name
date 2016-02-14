@@ -100,8 +100,10 @@ case object Series extends SeriesType("series") {
 object SeriesType {
   private val seriesTypes = Seq(CustomSeries, Season, Series)
 
-  def fromString(string: String): Option[SeriesType] =
-    seriesTypes.find(_.id == string)
+  def fromString(string: String): Option[SeriesType] = {
+    val stringLC = string.toLowerCase
+    seriesTypes.find(_.id.toLowerCase == stringLC)
+  }
 
   def fullTitleSuffix(seriesOption: Option[String], seriesTypeOption: Option[SeriesType]): String =
     (for {

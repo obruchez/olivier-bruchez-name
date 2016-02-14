@@ -1373,6 +1373,7 @@
   <concert>
     <date>2007.09.10</date>
     <location>Indigo2, London, UK</location>
+    <type>Aftershow</type>
     <musician inst="guitar, vocals, bass, keyboards" main="true">Prince</musician>
     <musician inst="keyboards">Morris Hayes</musician>
     <musician inst="keyboards">Renato Neto</musician>
@@ -1386,7 +1387,7 @@
     <musician inst="vocals">Nandy McClean</musician>
     <musician inst="vocals">Maya McClean</musician>
     <rating>5.25</rating>
-    <comments>After show.</comments>
+    <comments>Aftershow.</comments>
   </concert>  
   <concert>
     <date>2007.09.09</date>
@@ -2060,6 +2061,7 @@
     <date>2003.07.17</date>
     <location>Pinède Gould, Antibes Juan-les-Pins, France</location>
     <event>Jazz à Juan</event>
+    <type>Soundcheck</type>
     <musician inst="piano" main="true">Keith Jarrett</musician>
     <musician inst="bass">Gary Peacock</musician>
     <musician inst="drums">Jack DeJohnette</musician>
@@ -2111,6 +2113,7 @@
     <date>2003.07.15</date>
     <location>Pinède Gould, Antibes Juan-les-Pins, France</location>
     <event>Jazz à Juan</event>
+    <type>Soundcheck</type>
     <musician inst="bass guitar, bass clarinet, soprano sax" main="true">Marcus Miller</musician>
     <musician inst="guitar">Dean Brown</musician>
     <musician inst="drums">Poogie Bell</musician>
@@ -2172,6 +2175,7 @@
   <concert>
     <date>2002.10.30</date>
     <location>Hallenstadion, Zürich, Switzerland</location>
+    <type>Soundcheck</type>
     <musician inst="vocals, guitar, bass, keyboards, drums" main="true">Prince</musician>
     <musician inst="drums">John Blackwell</musician>
     <musician inst="bass, vocals">Rhonda Smith</musician>

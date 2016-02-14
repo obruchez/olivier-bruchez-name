@@ -3,7 +3,7 @@ package models
 case class Statistics(concerts: Concerts) {
   def mostSeenArtists(mainMusiciansOnly: Boolean): Seq[(Double, String)] = {
     val strings =
-      concerts.listItems.flatMap { concert =>
+      concerts.listItems.filterNot(_.concertType == Soundcheck).flatMap { concert =>
           if (concert.musicians.size == 1) {
             concert.musicians.map(_.name)
           } else if (mainMusiciansOnly) {

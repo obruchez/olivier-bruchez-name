@@ -40,6 +40,7 @@ object Musician {
 case class Concert(override val date: Partial,
                    location: String,
                    event: Option[String],
+                   concertType: ConcertType,
                    band: Option[String],
                    musicians: Seq[Musician],
                    rating: Option[Double],
@@ -64,6 +65,7 @@ object Concert {
     Concert(
       date = Parsing.dateFromString((rootNode \\ "date").text).get,
       location = (rootNode \\ "location").text,
+      concertType = ConcertType.fromString((rootNode \@ "type").trim).getOrElse(NormalConcert),
       event = Option((rootNode \\ "event").text.trim).filter(_.nonEmpty),
       band = Option((rootNode \\ "group").text.trim).filter(_.nonEmpty),
       musicians = musicans,
@@ -104,4 +106,19 @@ object Concerts extends Fetchable {
       ", "
     else
       ""
+}
+
+sealed abstract class ConcertType(val id: String)
+
+case object NormalConcert extends ConcertType("normal")
+case object Aftershow extends ConcertType("aftershow")
+case object Soundcheck extends ConcertType("soundcheck")
+
+object ConcertType {
+  private val concertTypes = Seq(NormalConcert, Aftershow, Soundcheck)
+
+  def fromString(string: String): Option[ConcertType] = {
+    val stringLC = string.toLowerCase
+    concertTypes.find(_.id.toLowerCase == stringLC)
+  }
 }
