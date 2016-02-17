@@ -64,6 +64,7 @@ Pretty much everything from [Les cent livres du siècle](https://fr.wikipedia.or
 
 * Jacques Attali, ["La crise, et après ?"](http://www.amazon.fr/La-crise-apr%C3%A8s-Jacques-Attali/dp/2213643075) and [other essays](https://fr.wikipedia.org/wiki/Jacques_Attali#Essais) (economics, finance, etc.) (was this recommended by [@behaghel](https://twitter.com/behaghel)?)
 * Ronald Findlay, ["Power and Plenty: Trade, War, and the World Economy in the Second Millennium (Princeton Economic History of the Western World)"](http://www.amazon.com/Power-Plenty-Millennium-Princeton-Economic-ebook/dp/B003SNJEPS/) (recommended by Christoph G.)
+* Milton Friedman & Rose Friedman, ["Free to Choose"](https://en.wikipedia.org/wiki/Free_to_Choose) (recommended by [@avernet](https://twitter.com/avernet)
 * Thomas Piketty, ["Le Capital au XXIe siècle"](http://www.amazon.fr/Le-Capital-au-XXIe-si%C3%A8cle-ebook/dp/B00EYCOV3M/) (long book - 970 pages -, recommended by [@danielmiessler](https://twitter.com/danielmiessler))
 
 ## Education
