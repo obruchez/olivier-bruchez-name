@@ -91,6 +91,7 @@ Pretty much everything from [Les cent livres du siècle](https://fr.wikipedia.or
 * Douglas Coupland, ["Microserfs"](https://en.wikipedia.org/wiki/Microserfs)
 * Roald Dahl, short stories not included in ["The Collected Short Stories of Roald Dahl"](https://en.wikipedia.org/wiki/The_Collected_Short_Stories_of_Roald_Dahl)
 * Friedrich Dürrenmatt, ["Der Tunnel"](https://en.wikipedia.org/wiki/The_Tunnel_%28short_story%29) (short story, mentioned by [@icassina](https://twitter.com/icassina))
+* Umberto Eco, "Il nome della rosa" ([English](https://en.wikipedia.org/wiki/The_Name_of_the_Rose) or [French](https://fr.wikipedia.org/wiki/Le_Nom_de_la_rose_(roman)) version?) (recommended by [@ebruchez](https://twitter.com/ebruchez))
 * Antoine Galland, ["Les Milles et Une Nuits"](https://fr.wikipedia.org/wiki/Les_Mille_et_Une_Nuits)
 * William Gibson, ["Neuromancer"](https://en.wikipedia.org/wiki/Neuromancer) (science fiction classic, recommended by [@JeromeCaillet](https://twitter.com/JeromeCaillet))
 * Frank Herbert, ["Dune"](https://en.wikipedia.org/wiki/Dune_(franchise)) (series) (science fiction classic)
