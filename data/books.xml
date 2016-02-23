@@ -2,12 +2,12 @@
 <books>
     <introduction>A list of books I read.</introduction>
     <book>
-        <date></date>
+        <date>2016.02.23</date>
         <title>Our Accelerating Future</title>
         <subtitle>How Superintelligence, Nanotechnology, and Transhumanism Will Transform the Planet</subtitle>
         <author>Michael M. Anissimov</author>
         <publishingyear>2015</publishingyear>
-        <rating></rating>
+        <rating>3.0</rating>
         <url>https://books.google.com/books?id=iB6ICgAAQBAJ</url>
         <!-- <notes description="Kindle highlights"></notes> -->
     </book>
