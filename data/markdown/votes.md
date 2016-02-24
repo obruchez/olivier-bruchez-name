@@ -10,6 +10,7 @@ Non. Résultat : ? (?%).
 
 - Je suis pour la suppression de la pénalisation du mariage en matière d'impôts.
 - Je suis néanmoins contre l'inscription d'une définition désuette du mariage dans la Constitution ("union durable et réglementée par la loi d'un homme et d'une femme").
+- Cet article résume bien ma position : ["Apprendre à lancer une initiative"](http://soliloques.blog.tdg.ch/archive/2015/12/07/apprendre-a-lancer-une-initiative.html).
 
 ### Acceptez-vous l’initiative populaire "Pour le renvoi effectif des étrangers criminels (initiative de mise en oeuvre)" ?
 
