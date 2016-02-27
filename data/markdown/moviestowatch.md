@@ -84,7 +84,6 @@ Pretty much everything from [IMDb's Top 250](http://www.imdb.com/chart/top). See
 
 ## [Joel](http://www.imdb.com/name/nm0001054) & [Ethan](http://www.imdb.com/name/nm0001053) Coen
 
-* [Blood Simple](http://www.imdb.com/title/tt0086979) (7.7)
 * [The Hudsucker Proxy](http://www.imdb.com/title/tt0110074) (7.4)
 
 ## [Lars von Trier](http://www.imdb.com/name/nm0001885)
