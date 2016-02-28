@@ -6,7 +6,7 @@ My votes (in French). En Suisse, on ne plaisante pas avec la démocratie directe
 
 ### Acceptez-vous l’initiative populaire "Pour le couple et la famille – Non à la pénalisation du mariage" ?
 
-Non. Résultat : ? (?%).
+Non. Résultat : non (50.8%).
 
 - Je suis pour la suppression de la pénalisation du mariage en matière d'impôts.
 - Je suis néanmoins contre l'inscription d'une définition désuette du mariage dans la Constitution ("union durable et réglementée par la loi d'un homme et d'une femme").
@@ -14,7 +14,7 @@ Non. Résultat : ? (?%).
 
 ### Acceptez-vous l’initiative populaire "Pour le renvoi effectif des étrangers criminels (initiative de mise en oeuvre)" ?
 
-Non. Résultat : ? (?%).
+Non. Résultat : non (58.9%).
 
 - Les lois sur le renvoi des étrangers criminels ont déjà été durcies.
 - L'argument du Conseil fédéral selon lequel l'initiative va à l'encontre des principes d'un État de droit respectueux des "droits de l'homme garantis par le droit international" me convainc.
@@ -22,7 +22,7 @@ Non. Résultat : ? (?%).
 
 ### Acceptez-vous l’initiative populaire "Pas de spéculation sur les denrées alimentaires" ?
 
-Oui. Résultat : ? (?%).
+Oui. Résultat : non (59.9%).
 
 - Je suis sensible à la problématique soulevée par l'initiative.
 - Comme d'habitude, je suis peu sensible aux arguments du Conseil fédéral concernant les pertes d'emploi, la diminution des recettes fiscales, etc.
@@ -33,7 +33,7 @@ Oui. Résultat : ? (?%).
 
 ### Acceptez-vous la modification du 26 septembre 2014 de la loi fédérale sur le transit routier dans la région alpine (LTRA) (Réfection du tunnel routier du Gothard) ?
 
-Non. Résultat : ? (?%).
+Non. Résultat : oui (57%).
 
 - L'argument de la sécurité est valable, étant donné l'[accident de 2001](https://fr.wikipedia.org/wiki/Tunnel_routier_du_Saint-Gothard#L.27accident). Des mesures ont toutefois été prises depuis (trafic alterné, distance de sécurité et aires d'attente). Après réfection, le tunnel routier actuel pourra en outre être équipé d'une [glissière centrale](http://www.2tunnel-non.ch/fr/arguments/video.html).
 - Il semble à l'heure actuelle plus sain de miser sur le [trafic ferroviaire](https://fr.wikipedia.org/wiki/Tunnel_de_base_du_Saint-Gothard) que sur le trafic routier.
