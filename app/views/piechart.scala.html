@@ -27,8 +27,8 @@
         datasets: [
           {
             data: [ @pieChart.values.map(_.value.toString).mkString(", ") ],
-            backgroundColor: [ @colorsAsJavaScript(pieChart.values.zipWithIndex.map(_._2).map(PieChart.color)) ],
-            hoverBackgroundColor: [ @colorsAsJavaScript(pieChart.values.zipWithIndex.map(_._2).map(PieChart.lighterColor)) ]
+            backgroundColor: [ @colorsAsJavaScript(pieChart.values.map(_.color)) ],
+            hoverBackgroundColor: [ @colorsAsJavaScript(pieChart.values.map(_.lighterColor)) ]
           }]
       },
       options: {}
