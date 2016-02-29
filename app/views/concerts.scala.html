@@ -1,3 +1,5 @@
+@import models.lifelogging.{ Concert, Concerts, Musician }
+
 @(concerts: Concerts)
 
 @musicians(band: Option[String], musicians: Seq[Musician]) = {

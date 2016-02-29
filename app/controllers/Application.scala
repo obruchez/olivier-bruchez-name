@@ -2,6 +2,12 @@ package controllers
 
 import actors.Cache
 import models._
+import models.about.{LifePrinciples, Worldview, Profile}
+import models.blogger.Posts
+import models.lifelogging._
+import models.statistics.Statistics
+import models.todo.{TripsToTake, MoviesToWatch, BooksToRead}
+import models.twitter.Tweets
 import play.api.libs.concurrent.Execution.Implicits._
 import play.api.mvc._
 import models.{ PdfCv, WordCv }

@@ -1,4 +1,6 @@
-package models
+package models.statistics
+
+import models.lifelogging.{ Concerts, Soundcheck }
 
 case class Statistics(concerts: Concerts) {
   def mostSeenArtists(mainMusiciansOnly: Boolean): Seq[(Double, String)] = {

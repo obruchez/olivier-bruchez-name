@@ -1,12 +1,13 @@
-package models
+package models.lifelogging
 
 import java.net.URL
 import java.util.Locale
+import models._
 import models.ListItems._
 import org.joda.time.Partial
-import scala.util.Try
-import scala.xml.{Node, XML}
 import util._
+import scala.util.Try
+import scala.xml.{ Node, XML }
 
 sealed abstract class SpecialLocation(val description: String)
 case object Home extends SpecialLocation("Home")

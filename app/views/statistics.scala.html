@@ -1,3 +1,4 @@
+@import models.statistics.{ PieChart, Statistics }
 @(statistics: Statistics)
 
 @scripts = {
@@ -22,15 +23,15 @@
   }
 
   @{
-      val pieChart = PieChart(
-        id = "chart-most-seen-artists-main-musicians-only",
-        anchor = "most-seen-artists-main-musicians-only",
-        title = "Most seen artists (main musicians only)",
-        entityName = "Artist",
-        valueUnit = "Count",
-        statistics.mostSeenArtists(mainMusiciansOnly = true),
-        maxValues = 17)
+    val pieChart = PieChart(
+      id = "chart-most-seen-artists-main-musicians-only",
+      anchor = "most-seen-artists-main-musicians-only",
+      title = "Most seen artists (main musicians only)",
+      entityName = "Artist",
+      valueUnit = "Count",
+      statistics.mostSeenArtists(mainMusiciansOnly = true),
+      maxValues = 17)
 
-      views.html.tablepiechart(pieChart)
-    }
+    views.html.tablepiechart(pieChart)
+  }
 }

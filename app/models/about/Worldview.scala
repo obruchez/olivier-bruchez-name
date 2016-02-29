@@ -1,11 +1,12 @@
-package models
+package models.about
 
 import java.net.URL
+import models._
 import org.joda.time.Partial
 import scala.util.Try
-import scala.xml.{Node, XML}
-import util._
+import scala.xml.{ Node, XML }
 import util.Date._
+import util._
 
 case class WorldviewPosition(summary: HtmlContent,
                              details: HtmlContent,

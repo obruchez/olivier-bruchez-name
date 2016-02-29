@@ -2,6 +2,11 @@ package controllers
 
 import models._
 import models.PageGroup._
+import models.about.{LifePrinciples, Worldview, Profile}
+import models.blogger.Posts
+import models.lifelogging._
+import models.todo.{TripsToTake, MoviesToWatch, BooksToRead}
+import models.twitter.Tweets
 
 object Sitemap {
   // @todo better icon for hikes: https://cdn2.iconfinder.com/data/icons/vacation-landmarks/512/12-512.png

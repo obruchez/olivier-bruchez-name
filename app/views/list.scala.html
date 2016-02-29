@@ -1,9 +1,8 @@
 @import models.Cacheable
 @import play.twirl.api.Html
+@import util.Date._
 
 @(page: Page, cacheable: Cacheable, header: Html, rowFromItem: (ListItem) => Html, nextItemsTitle: Option[String] = None)
-
-@import util.Date._
 
 @table(tableTitle: String, tableSlug: String, items: Seq[ListItem]) = {
   @if(items.nonEmpty) {

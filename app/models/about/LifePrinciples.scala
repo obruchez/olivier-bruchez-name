@@ -1,8 +1,9 @@
-package models
+package models.about
 
 import java.net.URL
+import models._
 import scala.util._
-import scala.xml.{Node, XML}
+import scala.xml.{ Node, XML }
 import util._
 
 case class LifePrinciple(summary: HtmlContent, details: HtmlContent, slug: String)

@@ -1,12 +1,13 @@
-package models
+package models.lifelogging
 
 import java.net.URL
+import models._
 import models.ListItems._
 import org.joda.time.Partial
 import scala.util.Try
-import scala.xml.{Node, XML}
-import util._
+import scala.xml.{ Node, XML }
 import util.Date._
+import util._
 
 case class BookNotes(description: Option[String], url: URL, slug: String) {
   def fileSource: FileSource =

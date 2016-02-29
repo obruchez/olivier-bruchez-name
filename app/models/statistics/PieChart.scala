@@ -1,4 +1,4 @@
-package models
+package models.statistics
 
 case class PieChartValue(value: Double, label: String, color: Color, lighterColor: Color)
 

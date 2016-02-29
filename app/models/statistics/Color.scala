@@ -1,4 +1,4 @@
-package models
+package models.statistics
 
 case class Color(red: Int, green: Int, blue: Int) {
   assert(red >= 0 && red <= 255)
@@ -81,7 +81,7 @@ object Color {
   }
 
   private def orderedColors(baseColor: Color, count: Int): Seq[Color] = {
-    import java.awt.{ Color => AwtColor }
+    import java.awt.{Color => AwtColor}
 
     val baseHue :: baseSaturation :: baseBrightness :: Nil =
       AwtColor.RGBtoHSB(baseColor.red, baseColor.green, baseColor.blue, null).toList

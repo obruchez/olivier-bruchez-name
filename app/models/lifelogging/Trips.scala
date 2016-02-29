@@ -1,12 +1,12 @@
-package models
+package models.lifelogging
 
 import java.net.URL
+import models._
 import models.ListItems._
 import org.joda.time.Partial
 import scala.util.Try
-import scala.xml.{Node, XML}
+import scala.xml.{ Node, XML }
 import util._
-import util.Date._
 
 case class Trip(from: Partial,
                 to: Partial,

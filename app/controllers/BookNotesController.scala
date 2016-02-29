@@ -2,6 +2,7 @@ package controllers
 
 import actors.Cache
 import models._
+import models.lifelogging.{BookNotes, Books}
 import play.api.libs.concurrent.Execution.Implicits._
 import play.api.mvc._
 import scala.concurrent.Future

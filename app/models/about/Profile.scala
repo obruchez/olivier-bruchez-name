@@ -1,8 +1,9 @@
-package models
+package models.about
 
 import java.net.URL
+import models.{ Cacheable, Fetchable, Introduction }
 import scala.util.Try
-import scala.xml.{Node, XML}
+import scala.xml.{ Node, XML }
 import util._
 
 case class ProfileSubItem(description: String, url: String)

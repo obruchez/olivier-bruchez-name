@@ -1,10 +1,11 @@
-package models
+package models.lifelogging
 
 import java.net.URL
+import models._
 import models.ListItems._
 import org.joda.time.Partial
 import scala.util.Try
-import scala.xml.{Node, XML}
+import scala.xml.{ Node, XML }
 import util._
 
 case class Play(override val date: Partial,

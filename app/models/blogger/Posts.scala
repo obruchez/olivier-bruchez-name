@@ -1,6 +1,7 @@
-package models
+package models.blogger
 
 import blogger.Blogger
+import models._
 import org.joda.time.ReadablePartial
 import scala.util.Try
 import util._

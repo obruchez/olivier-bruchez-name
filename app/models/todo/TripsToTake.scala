@@ -1,6 +1,8 @@
-package models
+package models.todo
 
 import java.net.URL
+import models._
+import models.lifelogging.Trips
 import scala.util._
 import util._
 

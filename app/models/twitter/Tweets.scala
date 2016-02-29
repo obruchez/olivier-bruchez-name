@@ -1,9 +1,10 @@
-package models
+package models.twitter
 
-import org.joda.time.{LocalDateTime, ReadablePartial}
+import models._
+import org.joda.time.{ LocalDateTime, ReadablePartial }
 import scala.util.Try
-import twitter.Twitter
-import twitter.Twitter._
+import _root_.twitter.Twitter
+import _root_.twitter.Twitter._
 import util._
 
 case class Tweet(override val date: ReadablePartial,
