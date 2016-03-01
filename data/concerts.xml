@@ -12,7 +12,7 @@
   <introduction>A list of concerts I went to.</introduction>
   <concert>
     <date>2015.10.30</date>
-    <location>Casino de Montbenon, Lausanne, Switzerland</location>
+    <location>Salle Paderewski, Casino de Montbenon, Lausanne, Switzerland</location>
     <event>JazzOnze+ Festival Lausanne</event>
     <musician inst="bass, bass clarinet" main="true">Marcus Miller</musician>
     <musician inst="trumpet">Marquis Hill</musician>
@@ -26,7 +26,7 @@
   </concert>
   <concert>
     <date>2015.10.30</date>
-    <location>Casino de Montbenon, Lausanne, Switzerland</location>
+    <location>Salle Paderewski, Casino de Montbenon, Lausanne, Switzerland</location>
     <event>JazzOnze+ Festival Lausanne</event>
     <musician inst="piano" main="true">Christoph Stiefel</musician>
     <musician inst="bass">Arne Huber</musician>
@@ -313,7 +313,7 @@
   </concert>
   <concert>
     <date>2013.10.31</date>
-    <location>Casino de Montbenon, Lausanne, Switzerland</location>
+    <location>Salle Paderewski, Casino de Montbenon, Lausanne, Switzerland</location>
     <event>JazzOnze+ Festival Lausanne</event>
     <group>Überjam Band</group>
     <musician inst="guitar" main="true">John Scofield</musician>
@@ -325,7 +325,7 @@
   </concert>
   <concert>
     <date>2013.10.31</date>
-    <location>Casino de Montbenon, Lausanne, Switzerland</location>
+    <location>Salle Paderewski, Casino de Montbenon, Lausanne, Switzerland</location>
     <event>JazzOnze+ Festival Lausanne</event>
     <musician inst="trombone" main="true">Samuel Blaser</musician>
     <musician inst="guitar">Marc Ducret</musician>
@@ -550,7 +550,7 @@
   </concert>
   <concert>
     <date>2012.11.02</date>
-    <location>Casino de Montbenon, Lausanne, Switzerland</location>
+    <location>Salle Paderewski, Casino de Montbenon, Lausanne, Switzerland</location>
     <event>JazzOnze+ Festival Lausanne</event>
     <musician inst="bass, bass clarinet" main="true">Marcus Miller</musician>
     <musician inst="guitar">Adam Agati</musician>
@@ -563,7 +563,7 @@
   </concert>
   <concert>
     <date>2012.11.02</date>
-    <location>Casino de Montbenon, Lausanne, Switzerland</location>
+    <location>Salle Paderewski, Casino de Montbenon, Lausanne, Switzerland</location>
     <event>JazzOnze+ Festival Lausanne</event>
     <group>Pierre-Luc Vallet - Claude Schneider Hammond Quartet</group>
     <musician inst="Hammond organ" main="true">Pierre-Luc Vallet</musician>
@@ -793,7 +793,7 @@
   </concert>
   <concert>
     <date>2011.11.03</date>
-    <location>Casino de Montbenon, Lausanne, Switzerland</location>
+    <location>Salle Paderewski, Casino de Montbenon, Lausanne, Switzerland</location>
     <event>JazzOnze+ Festival Lausanne</event>
     <group>Charles Lloyd New Quartet</group>
     <musician inst="saxophone" main="true">Charles Lloyd</musician>
@@ -805,7 +805,7 @@
   </concert>
   <concert>
     <date>2011.11.03</date>
-    <location>Casino de Montbenon, Lausanne, Switzerland</location>
+    <location>Salle Paderewski, Casino de Montbenon, Lausanne, Switzerland</location>
     <event>JazzOnze+ Festival Lausanne</event>
     <group>Colin Vallon Trio</group>
     <musician inst="piano" main="true">Colin Vallon</musician>
@@ -872,7 +872,7 @@
   </concert>
     <concert>
     <date>2010.11.04</date>
-    <location>Salle Paderewski, Casino de Montbenon, Lausanne</location>
+    <location>Salle Paderewski, Casino de Montbenon, Lausanne, Switzerland</location>
     <event>JazzOnze+</event>
     <group>Archie Shepp &amp; Joachim Kühn</group>
     <musician inst="saxophone, vocals" main="true">Archie Shepp</musician>
@@ -884,7 +884,7 @@
   </concert>
   <concert>
     <date>2010.11.04</date>
-    <location>Salle Paderewski, Casino de Montbenon, Lausanne</location>
+    <location>Salle Paderewski, Casino de Montbenon, Lausanne, Switzerland</location>
     <event>JazzOnze+</event>
     <group>Marc Perrenoud Trio</group>
     <musician inst="piano" main="true">Marc Perrenoud</musician>
