@@ -26,6 +26,12 @@ case class Statistics(concerts: Concerts) {
     sortedValuesWithLabels(strings)
   }
 
+  def mostVisitedConcertVenues(): Seq[(Double, String)] = {
+    val concertVenues = concerts.listItems.map(_.location).filterNot(_.isEmpty)
+
+    sortedValuesWithLabels(concertVenues)
+  }
+
   private def sortedValuesWithLabels(strings: Seq[String]): Seq[(Double, String)] =
     strings.groupBy(string => string).
       toSeq.

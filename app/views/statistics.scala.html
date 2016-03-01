@@ -34,4 +34,17 @@
 
     views.html.tablepiechart(pieChart)
   }
+
+  @{
+    val pieChart = PieChart(
+      id = "chart-most-visited-concert-venues",
+      anchor = "most-visited-concert-venues",
+      title = "Most visited concert venues",
+      entityName = "Concert venues",
+      valueUnit = "Count",
+      statistics.mostVisitedConcertVenues(),
+      maxValues = 26)
+
+    views.html.tablepiechart(pieChart)
+  }
 }
