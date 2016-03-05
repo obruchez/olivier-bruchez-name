@@ -82,10 +82,6 @@ Pretty much everything from [IMDb's Top 250](http://www.imdb.com/chart/top). See
 * [Micmacs à tire-larigot](http://www.imdb.com/title/tt1149361) (7.2)
 * [The Young and Prodigious T.S. Spivet](http://www.imdb.com/title/tt1981107) (7.1)
 
-## [Joel](http://www.imdb.com/name/nm0001054) & [Ethan](http://www.imdb.com/name/nm0001053) Coen
-
-* [The Hudsucker Proxy](http://www.imdb.com/title/tt0110074) (7.4)
-
 ## [Lars von Trier](http://www.imdb.com/name/nm0001885)
 
 * [Breaking the Waves](http://www.imdb.com/title/tt0115751) (7.9)
@@ -156,7 +152,6 @@ Pretty much everything from [IMDb's Top 250](http://www.imdb.com/chart/top). See
 
 ## [Stanley Kubrick](http://www.imdb.com/name/nm0000040)
 
-* [Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb](http://www.imdb.com/title/tt0057012) (8.6)
 * [Paths of Glory](http://www.imdb.com/title/tt0050825) (8.5)
 * [The Shining](http://www.imdb.com/title/tt0081505) (8.5) (not sure I've seen the longer cut/original version)
 * [A Clockwork Orange](http://www.imdb.com/title/tt0066921) (8.4) (already seen on DVD)
