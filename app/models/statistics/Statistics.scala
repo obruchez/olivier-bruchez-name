@@ -3,13 +3,12 @@ package models.statistics
 import models.lifelogging._
 
 case class Statistics(books: Books, concerts: Concerts, movies: Movies, plays: Plays) {
-  def mostReadAuthors: Seq[(Int, String)] = {
+  def mostReadBookAuthors: Seq[(Int, String)] = {
     val authors = books.listItems.map(_.author)
-
     sortedValuesWithLabels(personsFromRawList(authors))
   }
 
-  def mostSeenArtists(mainMusiciansOnly: Boolean): Seq[(Int, String)] = {
+  def mostSeenConcertArtists(mainMusiciansOnly: Boolean): Seq[(Int, String)] = {
     val artists =
       concerts.listItems.filterNot(_.concertType == Soundcheck).flatMap { concert =>
           if (concert.musicians.size == 1) {
@@ -50,16 +49,34 @@ case class Statistics(books: Books, concerts: Concerts, movies: Movies, plays: P
     sortedValuesWithLabels(concertVenues)
   }
 
-  def mostSeenDirectors: Seq[(Int, String)] = {
+  def mostSeenMovieDirectors: Seq[(Int, String)] = {
     val directors = movies.listItems.map(_.director)
-
     sortedValuesWithLabels(personsFromRawList(directors))
   }
 
   def mostSeenMovies: Seq[(Int, String)] = {
     val movieTitles = movies.listItems.map(_.title)
-
     sortedValuesWithLabels(movieTitles)
+  }
+
+  def mostSeenPlayAuthors: Seq[(Int, String)] = {
+    val authors = plays.listItems.map(_.author)
+    sortedValuesWithLabels(personsFromRawList(authors))
+  }
+
+  def mostSeenPlayDirectors: Seq[(Int, String)] = {
+    val directors = plays.listItems.map(_.director)
+    sortedValuesWithLabels(personsFromRawList(directors))
+  }
+
+  def mostSeenPlayActors: Seq[(Int, String)] = {
+    val actors = plays.listItems.flatMap(_.actors)
+    sortedValuesWithLabels(personsFromRawList(actors))
+  }
+
+  def mostVisitedPlayTheatre: Seq[(Int, String)] = {
+    val theatres = plays.listItems.map(_.location)
+    sortedValuesWithLabels(theatres)
   }
 
   private def sortedValuesWithLabels(strings: Seq[String]): Seq[(Int, String)] =

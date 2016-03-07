@@ -2,16 +2,17 @@ package models.statistics
 
 case class PieChartValue[T](value: T, label: String, color: Color, lighterColor: Color)(implicit ev: Numeric[T])
 
-case class PieChart[T](id: String,
-                       anchor: String,
+case class PieChart[T](baseId: String,
                        title: String,
                        entityName: String,
                        valueUnit: String,
-                       values: Seq[PieChartValue[T]])(implicit ev: Numeric[T])
+                       values: Seq[PieChartValue[T]])(implicit ev: Numeric[T]) {
+  val id = s"chart-$baseId"
+  val anchor = baseId
+}
 
 object PieChart {
-  def apply[T](id: String,
-               anchor: String,
+  def apply[T](baseId: String,
                title: String,
                entityName: String,
                valueUnit: String,
@@ -24,8 +25,7 @@ object PieChart {
     val colors = Color.colors(count = minimalValuesSet.size)
 
     PieChart(
-      id = id,
-      anchor = anchor,
+      baseId = baseId,
       title = title,
       entityName = entityName,
       valueUnit = valueUnit,

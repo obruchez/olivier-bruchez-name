@@ -11,12 +11,11 @@
 
   @{
     val pieChart = PieChart(
-      id = "chart-most-read-authors",
-      anchor = "most-read-authors",
+      baseId = "most-read-book-authors",
       title = "Most read authors",
       entityName = "Author",
       valueUnit = "Count",
-      statistics.mostReadAuthors,
+      statistics.mostReadBookAuthors,
       threshold = Some(2),
       maxValueCount = Some(17))
 
@@ -27,12 +26,11 @@
 
   @{
     val pieChart = PieChart(
-      id = "chart-most-seen-artists",
-      anchor = "most-seen-artists",
+      baseId = "most-seen-concert-artists",
       title = "Most seen artists",
       entityName = "Artist",
       valueUnit = "Count",
-      statistics.mostSeenArtists(mainMusiciansOnly = false),
+      statistics.mostSeenConcertArtists(mainMusiciansOnly = false),
       threshold = Some(6),
       maxValueCount = Some(17))
 
@@ -41,12 +39,11 @@
 
   @{
     val pieChart = PieChart(
-      id = "chart-most-seen-artists-main-musicians-only",
-      anchor = "most-seen-artists-main-musicians-only",
+      baseId = "most-seen-concert-artists-main-musicians-only",
       title = "Most seen artists (main musicians only)",
       entityName = "Artist",
       valueUnit = "Count",
-      statistics.mostSeenArtists(mainMusiciansOnly = true),
+      statistics.mostSeenConcertArtists(mainMusiciansOnly = true),
       threshold = Some(4),
       maxValueCount = Some(17))
 
@@ -55,8 +52,7 @@
 
   @{
     val pieChart = PieChart(
-      id = "chart-most-visited-concert-venues",
-      anchor = "most-visited-concert-venues",
+      baseId = "most-visited-concert-venues",
       title = "Most visited concert venues",
       entityName = "Concert venues",
       valueUnit = "Count",
@@ -73,8 +69,7 @@
 
   @{
     val pieChart = PieChart(
-      id = "chart-most-seen-movies",
-      anchor = "most-seen-movies",
+      baseId = "most-seen-movies",
       title = "Most seen movies",
       entityName = "Movie",
       valueUnit = "Count",
@@ -87,12 +82,11 @@
 
   @{
     val pieChart = PieChart(
-      id = "chart-most-seen-directors",
-      anchor = "most-seen-directors",
+      baseId = "most-seen-movie-directors",
       title = "Most seen directors",
       entityName = "Director",
       valueUnit = "Count",
-      statistics.mostSeenDirectors,
+      statistics.mostSeenMovieDirectors,
       threshold = Some(4),
       maxValueCount = Some(17))
 
@@ -101,5 +95,55 @@
 
   <div class="headline"><h2>Plays</h2></div>
 
-  <p>...</p>
+  @{
+    val pieChart = PieChart(
+      baseId = "most-seen-play-authors",
+      title = "Most seen authors",
+      entityName = "Author",
+      valueUnit = "Count",
+      statistics.mostSeenPlayAuthors,
+      threshold = Some(2),
+      maxValueCount = Some(17))
+
+    views.html.tablepiechart(pieChart)
+  }
+
+  @{
+    val pieChart = PieChart(
+      baseId = "most-seen-play-directors",
+      title = "Most seen directors",
+      entityName = "Director",
+      valueUnit = "Count",
+      statistics.mostSeenPlayDirectors,
+      threshold = Some(2),
+      maxValueCount = Some(17))
+
+    views.html.tablepiechart(pieChart)
+  }
+
+  @{
+    val pieChart = PieChart(
+      baseId = "most-seen-play-actors",
+      title = "Most seen actors",
+      entityName = "Actor",
+      valueUnit = "Count",
+      statistics.mostSeenPlayActors,
+      threshold = Some(3),
+      maxValueCount = Some(17))
+
+    views.html.tablepiechart(pieChart)
+  }
+
+  @{
+    val pieChart = PieChart(
+      baseId = "most-visited-play-theatres",
+      title = "Most visited theatres",
+      entityName = "Theatre",
+      valueUnit = "Count",
+      statistics.mostVisitedPlayTheatre,
+      threshold = Some(2),
+      maxValueCount = Some(17))
+
+    views.html.tablepiechart(pieChart)
+  }
 }
