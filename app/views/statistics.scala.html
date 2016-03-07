@@ -7,6 +7,10 @@
 }
 
 @main(Sitemap.statistics, scripts) {
+  <div class="headline"><h2>Books</h2></div>
+
+  <p>...</p>
+
   <div class="headline"><h2>Concerts</h2></div>
 
   @{
@@ -17,7 +21,8 @@
       entityName = "Artist",
       valueUnit = "Count",
       statistics.mostSeenArtists(mainMusiciansOnly = false),
-      threshold = Some(6))
+      threshold = Some(6),
+      maxValueCount = Some(17))
 
     views.html.tablepiechart(pieChart)
   }
@@ -30,7 +35,8 @@
       entityName = "Artist",
       valueUnit = "Count",
       statistics.mostSeenArtists(mainMusiciansOnly = true),
-      threshold = Some(4))
+      threshold = Some(4),
+      maxValueCount = Some(17))
 
     views.html.tablepiechart(pieChart)
   }
@@ -42,11 +48,46 @@
       title = "Most visited concert venues",
       entityName = "Concert venues",
       valueUnit = "Count",
-      statistics.mostVisitedConcertVenues(),
-      threshold = Some(3))
+      statistics.mostVisitedConcertVenues,
+      threshold = Some(3),
+      maxValueCount = Some(17))
 
     views.html.tablepiechart(pieChart)
   }
 
   <p>Note: venues are counted at most once per day.</p>
+
+  <div class="headline"><h2>Movies</h2></div>
+
+  @{
+    val pieChart = PieChart(
+      id = "most-seen-movies",
+      anchor = "most-seen-movies",
+      title = "Most seen movies",
+      entityName = "Movie",
+      valueUnit = "Count",
+      statistics.mostSeenMovies,
+      threshold = Some(2),
+      maxValueCount = Some(17))
+
+    views.html.tablepiechart(pieChart)
+  }
+
+  @{
+    val pieChart = PieChart(
+      id = "most-seen-directors",
+      anchor = "most-seen-directors",
+      title = "Most seen directors",
+      entityName = "Director",
+      valueUnit = "Count",
+      statistics.mostSeenDirectors,
+      threshold = Some(4),
+      maxValueCount = Some(17))
+
+    views.html.tablepiechart(pieChart)
+  }
+
+  <div class="headline"><h2>Plays</h2></div>
+
+  <p>...</p>
 }

@@ -79,8 +79,11 @@ object Application extends Controller {
 
   def statistics = Action.async {
     for {
+      books <- Cache.get(Books)
       concerts <- Cache.get(Concerts)
-      statistics = Statistics(concerts)
+      movies <- Cache.get(Movies)
+      plays <- Cache.get(Plays)
+      statistics = Statistics(books, concerts, movies, plays)
     } yield Ok(views.html.statistics(statistics))
   }
 

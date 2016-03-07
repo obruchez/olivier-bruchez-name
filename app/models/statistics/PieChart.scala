@@ -16,9 +16,10 @@ object PieChart {
                entityName: String,
                valueUnit: String,
                values: Seq[(T, String)],
-               threshold: Option[T],
+               threshold: Option[T] = None,
+               maxValueCount: Option[Int] = None,
                otherValuesLabel: String = "Other")(implicit ev: Numeric[T]): PieChart[T] = {
-    val minimalValuesSet = threshold.map(this.minimalValuesSet(values, _, otherValuesLabel)).getOrElse(values)
+    val minimalValuesSet = this.minimalValuesSet(values, threshold, maxValueCount, otherValuesLabel)
 
     val colors = Color.colors(count = minimalValuesSet.size)
 
@@ -35,9 +36,24 @@ object PieChart {
   }
 
   private def minimalValuesSet[T](values: Seq[(T, String)],
-                                  threshold: T,
+                                  thresholdOption: Option[T],
+                                  maxValueCountOption: Option[Int],
                                   otherValuesLabel: String)(implicit num: Numeric[T]): Seq[(T, String)] = {
-    val (valuesToKeep, valuesToAggregate) = values.partition(value => num.gteq(value._1, threshold))
+    val (valuesToKeepByThreshold, valuesToAggregateByThreshold) =
+      thresholdOption.
+        map(threshold => values.partition(value => num.gteq(value._1, threshold))).
+        getOrElse((values, Seq()))
+
+    val (valuesToKeepByMaxValueCount, valuesToAggregateByMaxValueCount) =
+      maxValueCountOption.
+        map(maxValueCount => (values.take(maxValueCount - 1), values.drop(maxValueCount - 1))).
+        getOrElse((values, Seq()))
+
+    val (valuesToKeep, valuesToAggregate) =
+      if (valuesToKeepByThreshold.size < valuesToKeepByMaxValueCount.size)
+        (valuesToKeepByThreshold, valuesToAggregateByThreshold)
+      else
+        (valuesToKeepByMaxValueCount, valuesToAggregateByMaxValueCount)
 
     if (valuesToAggregate.isEmpty)
       values
