@@ -4020,7 +4020,10 @@
   </movie>
   <movie>
     <date>2003.12.27</date>
-    <title>Le Seigneur Des Anneaux : Le Retour Du Roi</title>
+    <director>Peter Jackson</director>
+    <title>The Lord Of The Rings: The Return Of The King</title>
+    <title language="fr">Le Seigneur Des Anneaux : Le Retour Du Roi</title>
+    <url>http://www.imdb.com/title/tt0167260/</url>
   </movie>
   <movie>
     <date>2003.12.21</date>
@@ -4168,7 +4171,10 @@
   </movie>
   <movie>
     <date>2002.12.17</date>
-    <title>Le Seigneur Des Anneaux : Les Deux Tours</title>
+    <director>Peter Jackson</director>
+    <title>The Lord Of The Rings: The Two Towers</title>
+    <title language="fr">Le Seigneur Des Anneaux : Les Deux Tours</title>
+    <url>http://www.imdb.com/title/tt0167261/</url>
     <version>fr</version>
   </movie>
   <movie>
