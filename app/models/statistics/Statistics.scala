@@ -29,6 +29,8 @@ case class Statistics(concerts: Concerts) {
   def mostVisitedConcertVenues(): Seq[(Int, String)] = {
     import util.Date._
 
+    val normalizedName = Map("Casino Barrière, Montreux, Switzerland" -> "Casino, Montreux, Switzerland")
+
     // Count a venue at most once for a given day
     val concertVenues =
       concerts.
@@ -36,7 +38,8 @@ case class Statistics(concerts: Concerts) {
         map(c => (c.location, c.date.yyyymmddString)).
         distinct.
         map(_._1).
-        filterNot(_.isEmpty)
+        filterNot(_.isEmpty).
+        map(location => normalizedName.getOrElse(location, location))
 
     sortedValuesWithLabels(concertVenues)
   }
