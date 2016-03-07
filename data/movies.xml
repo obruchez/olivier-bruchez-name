@@ -3688,8 +3688,11 @@
   <movie>
     <date>2005.01.15</date>
     <theater>Sion</theater>
-    <title>Le Château Ambulant</title>
+    <director>Hayao Miyazaki</director>
+    <title>Howl's Moving Castle</title>
+    <title language="fr">Le Château Ambulant</title>
     <version>fr</version>
+    <url>http://www.imdb.com/title/tt0347149/</url>
     <rating>5.5</rating>
   </movie>
   <movie>
@@ -3862,7 +3865,9 @@
   </movie>
   <movie>
     <date>2004.09.10</date>
+    <director>Hayao Miyazaki</director>
     <title>Princess Mononoke</title>
+    <url>http://www.imdb.com/title/tt0119698/</url>
   </movie>
   <movie>
     <date>2004.09.09</date>
@@ -4327,7 +4332,10 @@
   </movie>
   <movie>
     <date>2002.05.07</date>
-    <title>Le Voyage De Chihiro</title>
+    <director>Hayao Miyazaki</director>
+    <title>Spirited Away</title>
+    <title language="fr">Le Voyage De Chihiro</title>
+    <url>http://www.imdb.com/title/tt0245429/</url>
   </movie>
   <movie>
     <date>2002.05.01</date>
@@ -4336,7 +4344,10 @@
   </movie>
   <movie>
     <date>2002.04.25</date>
-    <title>Le Voyage De Chihiro</title>
+    <director>Hayao Miyazaki</director>
+    <title>Spirited Away</title>
+    <title language="fr">Le Voyage De Chihiro</title>
+    <url>http://www.imdb.com/title/tt0245429/</url>
   </movie>
   <movie>
     <date>2002.04.17</date>
