@@ -27,7 +27,16 @@ case class Statistics(concerts: Concerts) {
   }
 
   def mostVisitedConcertVenues(): Seq[(Double, String)] = {
-    val concertVenues = concerts.listItems.map(_.location).filterNot(_.isEmpty)
+    import util.Date._
+
+    // Count a venue at most once for a given day
+    val concertVenues =
+      concerts.
+        listItems.
+        map(c => (c.location, c.date.yyyymmddString)).
+        distinct.
+        map(_._1).
+        filterNot(_.isEmpty)
 
     sortedValuesWithLabels(concertVenues)
   }
