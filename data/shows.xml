@@ -2,6 +2,11 @@
 <shows>
   <introduction>A list of TV shows I saw.</introduction>
   <show>
+    <date>2016.03.07</date>
+    <name url="https://en.wikipedia.org/wiki/Curb_Your_Enthusiasm">Curb Your Enthusiasm</name>
+    <series url="https://en.wikipedia.org/wiki/Curb_Your_Enthusiasm#Season_3_.282002.29" type="season">3</series>
+  </show>
+  <show>
     <date>2016.02.26</date>
     <name url="https://en.wikipedia.org/wiki/Game_of_Thrones">Game of Thrones</name>
     <series url="https://en.wikipedia.org/wiki/Game_of_Thrones_(season_4)" type="season">4</series>
