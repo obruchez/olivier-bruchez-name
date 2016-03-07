@@ -9,7 +9,19 @@
 @main(Sitemap.statistics, scripts) {
   <div class="headline"><h2>Books</h2></div>
 
-  <p>...</p>
+  @{
+    val pieChart = PieChart(
+      id = "chart-most-read-authors",
+      anchor = "most-read-authors",
+      title = "Most read authors",
+      entityName = "Author",
+      valueUnit = "Count",
+      statistics.mostReadAuthors,
+      threshold = Some(2),
+      maxValueCount = Some(17))
+
+    views.html.tablepiechart(pieChart)
+  }
 
   <div class="headline"><h2>Concerts</h2></div>
 

@@ -3,6 +3,12 @@ package models.statistics
 import models.lifelogging._
 
 case class Statistics(books: Books, concerts: Concerts, movies: Movies, plays: Plays) {
+  def mostReadAuthors: Seq[(Int, String)] = {
+    val authors = books.listItems.map(_.author)
+
+    sortedValuesWithLabels(personsFromRawList(authors))
+  }
+
   def mostSeenArtists(mainMusiciansOnly: Boolean): Seq[(Int, String)] = {
     val artists =
       concerts.listItems.filterNot(_.concertType == Soundcheck).flatMap { concert =>
@@ -45,10 +51,10 @@ case class Statistics(books: Books, concerts: Concerts, movies: Movies, plays: P
   }
 
   def mostSeenDirectors: Seq[(Int, String)] = {
-      val directors = movies.listItems.map(_.director)
+    val directors = movies.listItems.map(_.director)
 
-      sortedValuesWithLabels(personsFromRawList(directors))
-    }
+    sortedValuesWithLabels(personsFromRawList(directors))
+  }
 
   def mostSeenMovies: Seq[(Int, String)] = {
     val movieTitles = movies.listItems.map(_.title)
