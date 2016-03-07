@@ -53,8 +53,8 @@ object Color {
     Color("B2912F"), // Brown
     Color("B276B2"), // Purple
     Color("DECF3F"), // Yellow
-    Color("4D4D4D"), // Gray
-    Color("F17CB0")) // Pink*
+    Color("C0C0C0"), // Gray
+    Color("F17CB0")) // Pink
 
   private def algorithm2Colors(baseColor: Color, count: Int): Seq[Color] = {
     val orderedColors = this.orderedColors(baseColor, count)
