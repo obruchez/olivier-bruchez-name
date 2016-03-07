@@ -3497,8 +3497,9 @@
   <movie>
     <date>2005.11.04</date>
     <theater>Galeries, Lausanne</theater>
-    <title>Tim Burton's Corpse Bride</title>
-    <title language="fr">Les Noces Funèbres De Tim Burton</title>
+    <director>Tim Burton</director>
+    <title>Corpse Bride</title>
+    <title language="fr">Les noces funèbres</title>
     <rating>5.0</rating>
   </movie>
   <movie>
@@ -3548,6 +3549,7 @@
   <movie>
     <date>2005.07.17</date>
     <theater>Capitole, Sion</theater>
+    <director>Tim Burton</director>
     <title>Charly And The Chocolate Factory</title>
     <title language="fr">Charlie Et La Chocolaterie</title>
     <version>fr</version>
@@ -4044,7 +4046,9 @@
   </movie>
   <movie>
     <date>2004.03.10</date>
+    <director>Tim Burton</director>
     <title>Big Fish</title>
+    <url>http://www.imdb.com/title/tt0319061/</url>
   </movie>
   <movie>
     <date>2004.03.06</date>
@@ -4649,7 +4653,9 @@
   </movie>
   <movie>
     <date>2000.02.09</date>
+    <director>Tim Burton</director>
     <title>Sleepy Hollow</title>
+    <url>http://www.imdb.com/title/tt0162661/</url>
   </movie>
   <movie>
     <date>2000.02.02</date>
