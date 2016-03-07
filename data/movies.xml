@@ -619,7 +619,7 @@
   <movie>
     <date>2014.03.26</date>
     <theater>Cinémathèque, Lausanne</theater>
-    <director>Joel &amp; Ethan Coen</director>
+    <director>Joel Coen &amp; Ethan Coen</director>
     <title>Miller's Crossing</title>
     <url>http://www.imdb.com/title/tt0100150/</url>
     <rating>4.5</rating>
@@ -635,7 +635,7 @@
   <movie>
     <date>2014.03.21</date>
     <theater>Cinémathèque, Lausanne</theater>
-    <director>Joel &amp; Ethan Coen</director>
+    <director>Joel Coen &amp; Ethan Coen</director>
     <title>Inside Llewyn Davis</title>
     <url>http://www.imdb.com/title/tt2042568/</url>
     <rating>4.75</rating>
@@ -651,7 +651,7 @@
   <movie>
     <date>2014.03.15</date>
     <theater>Cinémathèque, Lausanne</theater>
-    <director>Joel &amp; Ethan Coen</director>
+    <director>Joel Coen &amp; Ethan Coen</director>
     <title>The Man Who Wasn't There</title>
     <url>http://www.imdb.com/title/tt0243133/</url>
     <rating>5.0</rating>
@@ -2843,7 +2843,8 @@
     <date>2007.03.13</date>
     <theater>Galeries, Lausanne</theater>
     <director>David Lynch</director>
-    <title>INLAND EMPIRE</title>
+    <title>Inland Empire</title>
+    <url>http://www.imdb.com/title/tt0460829/</url>
     <rating>4.75</rating>
   </movie>
   <movie>
@@ -3916,6 +3917,15 @@
     <title>Ladykillers</title>
   </movie>
   <movie>
+    <date>2004.06.09</date>
+    <theater home="true"/>
+    <director>David Lynch</director>
+    <title>Wild At Heart</title>
+    <title language="fr">Sailor et Lula</title>
+    <version>fr</version>
+    <url>http://www.imdb.com/title/tt0100935/</url>
+  </movie>
+  <movie>
     <date>2004.06.08</date>
     <title>La Vie Est Un Miracle</title>
   </movie>
@@ -3939,16 +3949,34 @@
     <version>fr</version>
   </movie>
   <movie>
+    <date>2004.04.29</date>
+    <theater home="true"/>
+    <director>David Lynch</director>
+    <title>Blue Velvet</title>
+    <url>http://www.imdb.com/title/tt0090756/</url>
+  </movie>
+  <movie>
     <date>2004.04.24</date>
     <title>Monster</title>
   </movie>
   <movie>
     <date>2004.04.22</date>
+    <director>David Lynch</director>
     <title>The Straight Story</title>
+    <url>http://www.imdb.com/title/tt0166896/</url>
   </movie>
   <movie>
     <date>2004.04.22</date>
+    <director>David Lynch</director>
     <title>Twin Peaks: Fire Walk With Me</title>
+    <url>http://www.imdb.com/title/tt0105665/</url>
+  </movie>
+  <movie>
+    <date>2004.04.21</date>
+    <theater home="true"/>
+    <director>David Lynch</director>
+    <title>Lost Highway</title>
+    <url>http://www.imdb.com/title/tt0116922/</url>
   </movie>
   <movie>
     <date>2004.04.18</date>
@@ -3957,7 +3985,9 @@
   </movie>
   <movie>
     <date>2004.04.13</date>
+    <director>David Lynch</director>
     <title>Dune</title>
+    <url>http://www.imdb.com/title/tt0087182/</url>
   </movie>
   <movie>
     <date>2004.04.09</date>
@@ -3971,11 +4001,15 @@
   </movie>
   <movie>
     <date>2004.04.06</date>
+    <director>David Lynch</director>
     <title>The Elephant Man</title>
+    <url>http://www.imdb.com/title/tt0080678/</url>
   </movie>
   <movie>
     <date>2004.04.05</date>
+    <director>David Lynch</director>
     <title>Eraserhead</title>
+    <url>http://www.imdb.com/title/tt0074486/</url>
   </movie>
   <movie>
     <date>2004.03.31</date>
@@ -4356,7 +4390,9 @@
   </movie>
   <movie>
     <date>2001.12.10</date>
+    <director>David Lynch</director>
     <title>Mulholland Drive</title>
+    <url>http://www.imdb.com/title/tt0166924/</url>
   </movie>
   <movie>
     <date>2001.12.05</date>
