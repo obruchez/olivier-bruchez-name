@@ -1,23 +1,23 @@
 package models.statistics
 
-case class PieChartValue(value: Double, label: String, color: Color, lighterColor: Color)
+case class PieChartValue[T](value: T, label: String, color: Color, lighterColor: Color)(implicit ev: Numeric[T])
 
-case class PieChart(id: String,
-                    anchor: String,
-                    title: String,
-                    entityName: String,
-                    valueUnit: String,
-                    values: Seq[PieChartValue])
+case class PieChart[T](id: String,
+                       anchor: String,
+                       title: String,
+                       entityName: String,
+                       valueUnit: String,
+                       values: Seq[PieChartValue[T]])(implicit ev: Numeric[T])
 
 object PieChart {
-  def apply(id: String,
-            anchor: String,
-            title: String,
-            entityName: String,
-            valueUnit: String,
-            values: Seq[(Double, String)],
-            maxValues: Int = 10,
-            otherValuesLabel: String = "Other"): PieChart = {
+  def apply[T](id: String,
+               anchor: String,
+               title: String,
+               entityName: String,
+               valueUnit: String,
+               values: Seq[(T, String)],
+               maxValues: Int = 10,
+               otherValuesLabel: String = "Other")(implicit ev: Numeric[T]): PieChart[T] = {
     val minimalValuesSet = this.minimalValuesSet(values, maxValues, otherValuesLabel)
     val colors = Color.colors(count = minimalValuesSet.size)
 
@@ -33,9 +33,9 @@ object PieChart {
         })
   }
 
-  private def minimalValuesSet(values: Seq[(Double, String)],
-                               maxValues: Int,
-                               otherValuesLabel: String): Seq[(Double, String)] =
+  private def minimalValuesSet[T](values: Seq[(T, String)],
+                                  maxValues: Int,
+                                  otherValuesLabel: String)(implicit ev: Numeric[T]): Seq[(T, String)] =
     if (values.size <= maxValues) {
       values
     } else {

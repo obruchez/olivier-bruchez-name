@@ -3,7 +3,7 @@ package models.statistics
 import models.lifelogging.{ Concerts, Soundcheck }
 
 case class Statistics(concerts: Concerts) {
-  def mostSeenArtists(mainMusiciansOnly: Boolean): Seq[(Double, String)] = {
+  def mostSeenArtists(mainMusiciansOnly: Boolean): Seq[(Int, String)] = {
     val strings =
       concerts.listItems.filterNot(_.concertType == Soundcheck).flatMap { concert =>
           if (concert.musicians.size == 1) {
@@ -26,7 +26,7 @@ case class Statistics(concerts: Concerts) {
     sortedValuesWithLabels(strings)
   }
 
-  def mostVisitedConcertVenues(): Seq[(Double, String)] = {
+  def mostVisitedConcertVenues(): Seq[(Int, String)] = {
     import util.Date._
 
     // Count a venue at most once for a given day
@@ -41,10 +41,10 @@ case class Statistics(concerts: Concerts) {
     sortedValuesWithLabels(concertVenues)
   }
 
-  private def sortedValuesWithLabels(strings: Seq[String]): Seq[(Double, String)] =
+  private def sortedValuesWithLabels(strings: Seq[String]): Seq[(Int, String)] =
     strings.groupBy(string => string).
       toSeq.
-      map(kv => kv._2.size.toDouble -> kv._1).
+      map(kv => kv._2.size -> kv._1).
       // Sort by count (highest first) and then by name (alphabetical order)
       sortBy(kv => (-kv._1, kv._2))
 
