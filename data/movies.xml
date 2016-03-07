@@ -3715,7 +3715,9 @@
   </movie>
   <movie>
     <date>2004.12.30</date>
+    <director>Roman Polanski</director>
     <title>The Pianist</title>
+    <url>http://www.imdb.com/title/tt0253474/</url>
     <rating>5.5</rating>
   </movie>
   <movie>
@@ -3725,7 +3727,9 @@
   </movie>
   <movie>
     <date>2004.12.27</date>
+    <director>Roman Polanski</director>
     <title>The Ninth Gate</title>
+    <url>http://www.imdb.com/title/tt0142688/</url>
     <rating>4.0</rating>
   </movie>
   <movie>
@@ -3736,37 +3740,52 @@
   </movie>
   <movie>
     <date>2004.12.22</date>
-    <title>Death And The Maiden</title>
+    <director>Roman Polanski</director>
+    <title>Death and the Maiden</title>
+    <url>http://www.imdb.com/title/tt0109579/</url>
     <rating>5.0</rating>
   </movie>
   <movie>
     <date>2004.12.20</date>
+    <director>Roman Polanski</director>
     <title>Bitter Moon</title>
+    <url>http://www.imdb.com/title/tt0104779/</url>
     <rating>4.5</rating>
   </movie>
   <movie>
     <date>2004.12.16</date>
+    <director>Roman Polanski</director>
     <title>Chinatown</title>
+    <url>http://www.imdb.de/title/tt0071315/</url>
     <rating>5.5</rating>
   </movie>
   <movie>
     <date>2004.12.15</date>
+    <director>Roman Polanski</director>
     <title>Pirates</title>
+    <url>http://www.imdb.com/title/tt0091757/</url>
     <rating>4.0</rating>
   </movie>
   <movie>
     <date>2004.12.14</date>
+    <director>Roman Polanski</director>
     <title>Tess</title>
+    <url>http://www.imdb.com/title/tt0080009/</url>
     <rating>5.0</rating>
   </movie>
   <movie>
     <date>2004.12.13</date>
-    <title>Le Locataire</title>
+    <director>Roman Polanski</director>
+    <title>The Tenant</title>
+    <title language="fr">Le Locataire</title>
+    <url>http://www.imdb.com/title/tt0074811/</url>
     <rating>5.0</rating>
   </movie>
   <movie>
     <date>2004.12.11</date>
+    <director>Roman Polanski</director>
     <title>Rosemary's Baby</title>
+    <url>http://www.imdb.com/title/tt0063522/</url>
     <rating>5.5</rating>
   </movie>
   <movie>
@@ -3776,7 +3795,9 @@
   </movie>
   <movie>
     <date>2004.12.07</date>
-    <title>Cul-De-Sac</title>
+    <director>Roman Polanski</director>
+    <title>Cul-de-sac</title>
+    <url>http://www.imdb.com/title/tt0060268/</url>
     <rating>5.0</rating>
   </movie>
   <movie>
