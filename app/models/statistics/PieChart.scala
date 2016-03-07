@@ -16,9 +16,10 @@ object PieChart {
                entityName: String,
                valueUnit: String,
                values: Seq[(T, String)],
-               maxValues: Int = 10,
+               threshold: Option[T],
                otherValuesLabel: String = "Other")(implicit ev: Numeric[T]): PieChart[T] = {
-    val minimalValuesSet = this.minimalValuesSet(values, maxValues, otherValuesLabel)
+    val minimalValuesSet = threshold.map(this.minimalValuesSet(values, _, otherValuesLabel)).getOrElse(values)
+
     val colors = Color.colors(count = minimalValuesSet.size)
 
     PieChart(
@@ -34,18 +35,15 @@ object PieChart {
   }
 
   private def minimalValuesSet[T](values: Seq[(T, String)],
-                                  maxValues: Int,
-                                  otherValuesLabel: String)(implicit ev: Numeric[T]): Seq[(T, String)] =
-    if (values.size <= maxValues) {
+                                  threshold: T,
+                                  otherValuesLabel: String)(implicit num: Numeric[T]): Seq[(T, String)] = {
+    val (valuesToKeep, valuesToAggregate) = values.partition(value => num.gteq(value._1, threshold))
+
+    if (valuesToAggregate.isEmpty)
       values
-    } else {
-      val valuesToKeep = values.take(maxValues - 1)
-      val valuesToAggregate = values.drop(maxValues -1)
-
-      val aggregatedValue = valuesToAggregate.map(_._1).sum -> otherValuesLabel
-
-      valuesToKeep :+ aggregatedValue
-    }
+    else
+      valuesToKeep :+ valuesToAggregate.map(_._1).sum -> otherValuesLabel
+  }
 
   private val LighterOrDarkerFactor = 1.1
 }

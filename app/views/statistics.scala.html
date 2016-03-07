@@ -17,7 +17,7 @@
       entityName = "Artist",
       valueUnit = "Count",
       statistics.mostSeenArtists(mainMusiciansOnly = false),
-      maxValues = 17)
+      threshold = Some(6))
 
     views.html.tablepiechart(pieChart)
   }
@@ -30,7 +30,7 @@
       entityName = "Artist",
       valueUnit = "Count",
       statistics.mostSeenArtists(mainMusiciansOnly = true),
-      maxValues = 17)
+      threshold = Some(4))
 
     views.html.tablepiechart(pieChart)
   }
@@ -43,7 +43,7 @@
       entityName = "Concert venues",
       valueUnit = "Count",
       statistics.mostVisitedConcertVenues(),
-      maxValues = 26)
+      threshold = Some(3))
 
     views.html.tablepiechart(pieChart)
   }
