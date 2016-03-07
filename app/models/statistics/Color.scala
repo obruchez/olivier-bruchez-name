@@ -43,7 +43,13 @@ object Color {
   }
 
   private def algorithm1Colors(count: Int): Seq[Color] =
-    (0 until count).map(i => fixedPalette(i % fixedPalette.size))
+    for {
+      i <- 0 until count
+      last = i == count - 1
+      baseColorIndex = i % fixedPalette.size
+      // Prevent case where first and last colors are the same, as they are next to each other in a pie chart
+      colorIndex = if (last && baseColorIndex == 0) baseColorIndex + 1 else baseColorIndex
+    } yield fixedPalette(colorIndex)
 
   private val fixedPalette = Seq(
     Color("F15854"), // Red
