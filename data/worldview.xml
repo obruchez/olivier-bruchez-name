@@ -45,6 +45,8 @@
     <themesToAdd>
         <theme>armée, guerre</theme>
         <theme>armes (port d'armes, etc.)</theme>
+        <theme>connaissance : "The human brain (in its current state of evolution) can't comprehend the universe." (Buster)</theme>
+        <theme>cosmologie (big bang, etc.)</theme>
         <theme>drogues (légalisation, cannabis, etc)</theme>
         <theme>droits des enfants (éducation, travail, etc.)</theme>
         <theme>droits des femmes ([prostitution](http://danielmiessler.com/blog/current-view-prostitution/), etc.)</theme>
@@ -55,7 +57,10 @@
         <theme>justice (prison, réhabilitation, etc.)</theme>
         <theme>liberté d'expression, de la presse</theme>
         <theme>politique (démocratie, systèmes politiques, etc.)</theme>
+        <theme>vie extra-terrestre (existe ou n'existe pas ? sous quelle forme ?)</theme>
+        <theme>technologie (importance de la) : "Technology will eventually disrupt all other human-created institutions (politics, religion, identity, economics, energy)." (Buster)</theme>
         <theme>vin, audiophilie (effet placebo et snobisme)</theme>
+        <theme>voitures sans conducteur (impact sur société) (futorologie)</theme>
         <theme>voir aussi ["What do philosophers believe?"](http://philpapers.org/archive/BOUWDP)</theme>
     </themesToAdd>
     <ideasToAdd>
@@ -67,7 +72,7 @@
         <idea>libre arbitre : ajouter lien [Does the average person believe in determinism, free will, and moral responsibility?](http://whyevolutionistrue.wordpress.com/2014/02/19/does-the-average-person-believe-in-determinism-free-will-and-moral-responsibility/)</idea>
         <idea>déterminisme : est-ce que je partage le point de vue de [Ted Honderich](http://www.informationphilosopher.com/solutions/philosophers/honderich/) ?</idea>
         <idea>physique quantique : est-ce que je tends vraiment vers l'interprétation de [de Broglie–Bohm](https://en.wikipedia.org/wiki/De_Broglie-Bohm_theory) ?</idea>
-        <idea>déterminisme : lien réalité/mathématique (extême : idée d’univers mathématique) </idea>
+        <idea>déterminisme : lien réalité/mathématique (extême : idée d’univers mathématique)</idea>
         <idea>déterminisme / libre arbitre : principe d'incertitude (quantum indeterminacy) pas la même chose que [self-caused causes](http://www.informationphilosopher.com/freedom/causa_sui.html)</idea>
         <idea>libre arbitre : ["The dark side of free will"](https://www.youtube.com/watch?v=rfOMqehl-ZA) par Gregg Caruso (conséquences sociales négatives de la croyance en un libre arbitre)</idea>
         <idea>système nerveux : comment généraliser ? autres systèmes possibles (extra-terrestres, consciences/intelligence artificielles, panthéisme, etc.) ?</idea>
