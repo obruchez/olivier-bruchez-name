@@ -1,0 +1,43 @@
+@import models.statistics.BarChart
+
+@(barChart: BarChart[Int])
+
+@import org.apache.commons.lang3.StringEscapeUtils
+
+<script>
+  jQuery(document).ready(function() {
+    var context = document.getElementById("@barChart.id").getContext("2d");
+
+    Chart.defaults.global.legend.display = false;
+
+    var data = {
+      labels: [
+        @{
+          val Quote = "\""
+          Html(barChart.values.map(value => s"$Quote${StringEscapeUtils.escapeEcmaScript(value._1)}$Quote").mkString(", "))
+        }
+      ],
+      datasets: [
+        {
+           label: "@barChart.datasetLabel",
+           backgroundColor: "rgba(220,220,220,0.2)",
+           borderColor: "rgba(220,220,220,1)",
+           borderWidth: 1,
+           hoverBackgroundColor: "rgba(220,220,220,0.2)",
+           hoverBorderColor: "rgba(220,220,220,1)",
+           data: [ @barChart.values.map(_._2.toString).mkString(", ") ]
+        }
+      ]
+    };
+
+    var myBarChart = new Chart(context,{
+       type: 'bar',
+       data: data,
+       options: {}
+    });
+  });
+</script>
+
+<div style="width: 500px; height: 300px;">
+  <canvas id="@barChart.id" class="centered-canvas" width="500" height="300"/>
+</div>

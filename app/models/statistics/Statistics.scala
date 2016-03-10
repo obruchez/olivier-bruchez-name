@@ -2,7 +2,7 @@ package models.statistics
 
 import models.lifelogging._
 
-case class Statistics(books: Books, concerts: Concerts, movies: Movies, plays: Plays) {
+case class Statistics(books: Books, concerts: Concerts, exhibitions: Exhibitions, movies: Movies, plays: Plays) {
   def mostReadBookAuthors: Seq[(Int, String)] = {
     val authors = books.listItems.map(_.author)
     sortedValuesWithLabels(personsFromRawList(authors))
@@ -59,6 +59,9 @@ case class Statistics(books: Books, concerts: Concerts, movies: Movies, plays: P
     sortedValuesWithLabels(movieTitles)
   }
 
+  def moviesRatingsDistribution: Seq[(String, Int)] =
+    ratingsDistribution(movies.listItems.flatMap(_.rating))
+
   def mostSeenPlayAuthors: Seq[(Int, String)] = {
     val authors = plays.listItems.map(_.author)
     sortedValuesWithLabels(personsFromRawList(authors))
@@ -90,4 +93,10 @@ case class Statistics(books: Books, concerts: Concerts, movies: Movies, plays: P
     rawList.flatMap(_.split("[,&]")).map(_.trim).filterNot(PersonsToIgnore.contains)
 
   private val PersonsToIgnore = Set("", "?", "etc.")
+
+  private def ratingsDistribution(ratings: Seq[Double]): Seq[(String, Int)] =
+    for {
+      rating <- 0.0 to(5.0, 0.25)
+      count = ratings.count(_ == rating)
+    } yield f"$rating%1.2f" -> count
 }

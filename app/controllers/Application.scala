@@ -81,9 +81,10 @@ object Application extends Controller {
     for {
       books <- Cache.get(Books)
       concerts <- Cache.get(Concerts)
+      exhibitions <- Cache.get(Exhibitions)
       movies <- Cache.get(Movies)
       plays <- Cache.get(Plays)
-      statistics = Statistics(books, concerts, movies, plays)
+      statistics = Statistics(books, concerts, exhibitions, movies, plays)
     } yield Ok(views.html.statistics(statistics))
   }
 

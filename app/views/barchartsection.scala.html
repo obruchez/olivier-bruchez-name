@@ -1,0 +1,12 @@
+@import models.statistics.BarChart
+
+@(barChart: BarChart[Int])
+
+<div class="headline">
+  <h3>
+  <a href="#@barChart.anchor" class="header-link head-link-table-title"><i class="fa fa-link"></i></a>
+  <section id="@barChart.anchor">@barChart.title</section>
+  </h3>
+</div>
+
+@views.html.barchart(barChart)

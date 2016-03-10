@@ -1,9 +1,9 @@
-@import models.statistics.{ PieChart, Statistics }
+@import models.statistics.{ BarChart, PieChart, Statistics }
 @(statistics: Statistics)
 
 @scripts = {
   <script type="text/javascript" src="@routes.Assets.at("plugins/moment.min.js")"></script>
-  <script type="text/javascript" src="@routes.Assets.at("plugins/chart.min.js")"></script>
+  <script type="text/javascript" src="@routes.Assets.at("plugins/chart.js")"></script>
 }
 
 @main(Sitemap.statistics, scripts) {
@@ -19,7 +19,7 @@
       threshold = Some(2),
       maxValueCount = Some(17))
 
-    views.html.tablepiechart(pieChart)
+    views.html.piechartsection(pieChart)
   }
 
   <div class="headline"><h2>Concerts</h2></div>
@@ -34,7 +34,7 @@
       threshold = Some(6),
       maxValueCount = Some(17))
 
-    views.html.tablepiechart(pieChart)
+    views.html.piechartsection(pieChart)
   }
 
   @{
@@ -47,20 +47,20 @@
       threshold = Some(4),
       maxValueCount = Some(17))
 
-    views.html.tablepiechart(pieChart)
+    views.html.piechartsection(pieChart)
   }
 
   @{
     val pieChart = PieChart(
       baseId = "most-visited-concert-venues",
       title = "Most visited concert venues",
-      entityName = "Concert venues",
+      entityName = "Concert venue",
       valueUnit = "Count",
       statistics.mostVisitedConcertVenues,
       threshold = Some(3),
       maxValueCount = Some(17))
 
-    views.html.tablepiechart(pieChart)
+    views.html.piechartsection(pieChart)
   }
 
   <p>Note: venues are counted at most once per day.</p>
@@ -77,7 +77,7 @@
       threshold = Some(2),
       maxValueCount = Some(17))
 
-    views.html.tablepiechart(pieChart)
+    views.html.piechartsection(pieChart)
   }
 
   @{
@@ -90,7 +90,17 @@
       threshold = Some(4),
       maxValueCount = Some(17))
 
-    views.html.tablepiechart(pieChart)
+    views.html.piechartsection(pieChart)
+  }
+
+  @{
+    val barChart = BarChart(
+      baseId = "movie-ratings-distribution",
+      title = "Movie ratings (distribution)",
+      datasetLabel = "Count",
+      statistics.moviesRatingsDistribution)
+
+    views.html.barchartsection(barChart)
   }
 
   <div class="headline"><h2>Plays</h2></div>
@@ -105,7 +115,7 @@
       threshold = Some(2),
       maxValueCount = Some(17))
 
-    views.html.tablepiechart(pieChart)
+    views.html.piechartsection(pieChart)
   }
 
   @{
@@ -118,7 +128,7 @@
       threshold = Some(2),
       maxValueCount = Some(17))
 
-    views.html.tablepiechart(pieChart)
+    views.html.piechartsection(pieChart)
   }
 
   @{
@@ -131,7 +141,7 @@
       threshold = Some(3),
       maxValueCount = Some(17))
 
-    views.html.tablepiechart(pieChart)
+    views.html.piechartsection(pieChart)
   }
 
   @{
@@ -144,6 +154,6 @@
       threshold = Some(2),
       maxValueCount = Some(17))
 
-    views.html.tablepiechart(pieChart)
+    views.html.piechartsection(pieChart)
   }
 }
