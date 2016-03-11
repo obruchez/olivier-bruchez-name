@@ -14,18 +14,20 @@
       labels: [
         @{
           val Quote = "\""
-          Html(barChart.values.map(value => s"$Quote${StringEscapeUtils.escapeEcmaScript(value._1)}$Quote").mkString(", "))
+          Html(barChart.labels.map(label => s"$Quote${StringEscapeUtils.escapeEcmaScript(label)}$Quote").mkString(", "))
         }
       ],
       datasets: [
+        @barChart.valueSets.map { valueSet =>
         {
-           label: "@barChart.datasetLabel",
-           backgroundColor: "rgba(220,220,220,0.2)",
-           borderColor: "rgba(220,220,220,1)",
-           borderWidth: 1,
-           hoverBackgroundColor: "rgba(220,220,220,0.2)",
-           hoverBorderColor: "rgba(220,220,220,1)",
-           data: [ @barChart.values.map(_._2.toString).mkString(", ") ]
+          label: "@barChart.datasetLabel",
+          backgroundColor: "rgba(@valueSet.color.red,@valueSet.color.green,@valueSet.color.blue,0.2)",
+          borderColor: "rgba(@valueSet.color.red,@valueSet.color.green,@valueSet.color.blue,1)",
+          borderWidth: 1,
+          hoverBackgroundColor: "rgba(@valueSet.color.red,@valueSet.color.green,@valueSet.color.blue,0.2)",
+          hoverBorderColor: "rgba(@valueSet.color.red,@valueSet.color.green,@valueSet.color.blue,1)",
+          data: [ @valueSet.values.map(_.toString).mkString(", ") ]
+        }
         }
       ]
     };
