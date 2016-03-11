@@ -1,6 +1,15 @@
 package models.statistics
 
 import models.lifelogging._
+import org.joda.time.{DateTimeFieldType, Partial}
+import scala.util.Try
+
+case class MinAvgMax(min: Double, avg: Double, max: Double)
+
+object MinAvgMax {
+  def apply(values: Seq[Double]): MinAvgMax =
+    MinAvgMax(min = values.min, avg = values.sum / values.size.toDouble, max = values.max)
+}
 
 case class Statistics(books: Books, concerts: Concerts, exhibitions: Exhibitions, movies: Movies, plays: Plays) {
   def mostReadBookAuthors: Seq[(Int, String)] = {
@@ -10,6 +19,9 @@ case class Statistics(books: Books, concerts: Concerts, exhibitions: Exhibitions
 
   def bookRatingsDistribution: Seq[(String, Int)] =
     ratingsDistribution(books.listItems.flatMap(_.rating))
+
+  def bookRatingsEvolution: Seq[(String, MinAvgMax)] =
+    ratingsEvolution(books.listItems.flatMap(i => i.rating.map(r => (i.date, r))))
 
   def mostSeenConcertArtists(mainMusiciansOnly: Boolean): Seq[(Int, String)] = {
     val artists =
@@ -55,6 +67,9 @@ case class Statistics(books: Books, concerts: Concerts, exhibitions: Exhibitions
   def concertRatingsDistribution: Seq[(String, Int)] =
     ratingsDistribution(concerts.listItems.flatMap(_.rating))
 
+  def concertRatingsEvolution: Seq[(String, MinAvgMax)] =
+     ratingsEvolution(concerts.listItems.flatMap(i => i.rating.map(r => (i.date, r))))
+
   def mostSeenMovieDirectors: Seq[(Int, String)] = {
     val directors = movies.listItems.map(_.director)
     sortedValuesWithLabels(personsFromRawList(directors))
@@ -67,6 +82,9 @@ case class Statistics(books: Books, concerts: Concerts, exhibitions: Exhibitions
 
   def movieRatingsDistribution: Seq[(String, Int)] =
     ratingsDistribution(movies.listItems.flatMap(_.rating))
+
+  def movieRatingsEvolution: Seq[(String, MinAvgMax)] =
+    ratingsEvolution(movies.listItems.flatMap(i => i.rating.map(r => (i.date, r))))
 
   def mostSeenPlayAuthors: Seq[(Int, String)] = {
     val authors = plays.listItems.map(_.author)
@@ -91,6 +109,9 @@ case class Statistics(books: Books, concerts: Concerts, exhibitions: Exhibitions
   def playRatingsDistribution: Seq[(String, Int)] =
     ratingsDistribution(plays.listItems.flatMap(_.rating))
 
+  def playRatingsEvolution: Seq[(String, MinAvgMax)] =
+    ratingsEvolution(plays.listItems.flatMap(i => i.rating.map(r => (i.date, r))))
+
   private def sortedValuesWithLabels(strings: Seq[String]): Seq[(Int, String)] =
     strings.groupBy(string => string).
       toSeq.
@@ -108,4 +129,11 @@ case class Statistics(books: Books, concerts: Concerts, exhibitions: Exhibitions
       rating <- 0.0 to(5.0, 0.25)
       count = ratings.count(_ == rating)
     } yield f"$rating%1.2f" -> count
+
+  private def ratingsEvolution(datesAndRatings: Seq[(Partial, Double)]): Seq[(String, MinAvgMax)] =
+    for {
+      (yearOption, datesAndRatings) <- datesAndRatings.groupBy(dar => Try(dar._1.get(DateTimeFieldType.year())).toOption).toSeq.sortBy(_._1)
+      year <- yearOption
+      minAvgMax = MinAvgMax(datesAndRatings.map(_._2))
+    } yield (year.toString, minAvgMax)
 }

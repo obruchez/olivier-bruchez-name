@@ -1,6 +1,6 @@
 @import models.statistics.BarOrLineChart
 
-@(barChart: BarOrLineChart[Int])
+@(barChart: BarOrLineChart[Double])
 
 @import org.apache.commons.lang3.StringEscapeUtils
 
@@ -21,11 +21,16 @@
         @barChart.valueSets.map { valueSet =>
         {
           label: "@valueSet.label",
+          fill: false,
           backgroundColor: "rgba(@valueSet.color.red,@valueSet.color.green,@valueSet.color.blue,0.2)",
           borderColor: "rgba(@valueSet.color.red,@valueSet.color.green,@valueSet.color.blue,1)",
-          borderWidth: 1,
-          hoverBackgroundColor: "rgba(@valueSet.color.red,@valueSet.color.green,@valueSet.color.blue,0.2)",
-          hoverBorderColor: "rgba(@valueSet.color.red,@valueSet.color.green,@valueSet.color.blue,1)",
+          pointBorderColor: "rgba(@valueSet.color.red,@valueSet.color.green,@valueSet.color.blue,1)",
+          pointBackgroundColor: "#fff",
+          pointBorderWidth: 1,
+          pointHoverRadius: 5,
+          pointHoverBackgroundColor: "rgba(@valueSet.color.red,@valueSet.color.green,@valueSet.color.blue,1)",
+          pointHoverBorderColor: "rgba(@valueSet.color.red,@valueSet.color.green,@valueSet.color.blue,1)",
+          pointHoverBorderWidth: 2,
           data: [ @valueSet.values.map(_.toString).mkString(", ") ]
         },
         }
@@ -33,7 +38,7 @@
     };
 
     var myBarChart = new Chart(context,{
-       type: 'bar',
+       type: 'line',
        data: data,
        options: {}
     });

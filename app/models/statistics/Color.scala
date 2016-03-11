@@ -51,16 +51,17 @@ object Color {
       colorIndex = if (last && baseColorIndex == 0) baseColorIndex + 1 else baseColorIndex
     } yield fixedPalette(colorIndex)
 
-  private val fixedPalette = Seq(
-    Color("F15854"), // Red
-    Color("60BD68"), // Green
-    Color("5DA5DA"), // Blue
-    Color("FAA43A"), // Orange
-    Color("B2912F"), // Brown
-    Color("B276B2"), // Purple
-    Color("DECF3F"), // Yellow
-    Color("C0C0C0"), // Gray
-    Color("F17CB0")) // Pink
+  val Blue = Color("5DA5DA")
+  val Brown = Color("B2912F")
+  val Gray = Color("C0C0C0")
+  val Green = Color("60BD68")
+  val Orange = Color("FAA43A")
+  val Pink = Color("F17CB0")
+  val Purple = Color("B276B2")
+  val Red = Color("F15854")
+  val Yellow = Color("DECF3F")
+
+  private val fixedPalette = Seq(Red, Green, Blue, Orange, Brown, Purple, Yellow, Gray, Pink)
 
   private def algorithm2Colors(baseColor: Color, count: Int): Seq[Color] = {
     val orderedColors = this.orderedColors(baseColor, count)

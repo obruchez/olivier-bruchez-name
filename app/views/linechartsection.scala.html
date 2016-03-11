@@ -1,0 +1,12 @@
+@import models.statistics.BarOrLineChart
+
+@(lineChart: BarOrLineChart[Double])
+
+<div class="headline">
+  <h3>
+  <a href="#@lineChart.anchor" class="header-link head-link-table-title"><i class="fa fa-link"></i></a>
+  <section id="@lineChart.anchor">@lineChart.title</section>
+  </h3>
+</div>
+
+@views.html.linechart(lineChart)

@@ -1,5 +1,4 @@
 @import models.statistics._
-@import models.statistics.BarChartValueSet
 @(statistics: Statistics)
 
 @scripts = {
@@ -24,14 +23,28 @@
 
 @ratingsDistribution(ratings: Seq[(String, Int)], entity: String) = {
   @{
-    val barChart = BarChart(
+    val barChart = BarOrLineChart(
       baseId = s"${entity.toLowerCase}-ratings-distribution",
       title = s"$entity ratings (distribution)",
-      datasetLabel = "Count",
       labels = ratings.map(_._1),
-      valueSets = Seq(BarChartValueSet(values = ratings.map(_._2), color = Color("C0C0C0"))))
+      valueSets = Seq(BarOrLineChartValueSet(values = ratings.map(_._2), label = "Count", color = Color.Gray)))
 
     views.html.barchartsection(barChart)
+  }
+}
+
+@ratingsEvolution(ratings: Seq[(String, MinAvgMax)], entity: String) = {
+  @{
+    val lineChart = BarOrLineChart(
+      baseId = s"${entity.toLowerCase}-ratings-evolution",
+      title = s"$entity ratings (evolution)",
+      labels = ratings.map(_._1),
+      valueSets = Seq(
+        BarOrLineChartValueSet(values = ratings.map(_._2.min), label = "Min", color = Color.Green),
+        BarOrLineChartValueSet(values = ratings.map(_._2.avg), label = "Avg", color = Color.Red),
+        BarOrLineChartValueSet(values = ratings.map(_._2.max), label = "Max", color = Color.Blue)))
+
+    views.html.linechartsection(lineChart)
   }
 }
 
@@ -41,6 +54,8 @@
   @pieChart(statistics.mostReadBookAuthors, "Author", "Most read book authors", threshold = 2)
 
   @ratingsDistribution(statistics.bookRatingsDistribution, "Book")
+
+  @ratingsEvolution(statistics.bookRatingsEvolution, "Book")
 
   <div class="headline"><h2>Concerts</h2></div>
 
@@ -58,6 +73,8 @@
 
   @ratingsDistribution(statistics.concertRatingsDistribution, "Concert")
 
+  @ratingsEvolution(statistics.concertRatingsEvolution, "Concert")
+
   <div class="headline"><h2>Movies</h2></div>
 
   @pieChart(statistics.mostSeenMovies, "Movie", "Most seen movies", threshold = 2)
@@ -65,6 +82,8 @@
   @pieChart(statistics.mostSeenMovieDirectors, "Director", "Most seen movie directors", threshold = 4)
 
   @ratingsDistribution(statistics.movieRatingsDistribution, "Movie")
+
+  @ratingsEvolution(statistics.movieRatingsEvolution, "Movie")
 
   <div class="headline"><h2>Plays</h2></div>
 
@@ -77,4 +96,6 @@
   @pieChart(statistics.mostVisitedPlayTheatre, "Theatre", "Most visited theatres", threshold = 2)
 
   @ratingsDistribution(statistics.playRatingsDistribution, "Play")
+
+  @ratingsEvolution(statistics.playRatingsEvolution, "Play")
 }
