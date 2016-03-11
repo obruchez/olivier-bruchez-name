@@ -8,6 +8,9 @@ case class Statistics(books: Books, concerts: Concerts, exhibitions: Exhibitions
     sortedValuesWithLabels(personsFromRawList(authors))
   }
 
+  def bookRatingsDistribution: Seq[(String, Int)] =
+    ratingsDistribution(books.listItems.flatMap(_.rating))
+
   def mostSeenConcertArtists(mainMusiciansOnly: Boolean): Seq[(Int, String)] = {
     val artists =
       concerts.listItems.filterNot(_.concertType == Soundcheck).flatMap { concert =>
@@ -49,6 +52,9 @@ case class Statistics(books: Books, concerts: Concerts, exhibitions: Exhibitions
     sortedValuesWithLabels(concertVenues)
   }
 
+  def concertRatingsDistribution: Seq[(String, Int)] =
+    ratingsDistribution(concerts.listItems.flatMap(_.rating))
+
   def mostSeenMovieDirectors: Seq[(Int, String)] = {
     val directors = movies.listItems.map(_.director)
     sortedValuesWithLabels(personsFromRawList(directors))
@@ -59,7 +65,7 @@ case class Statistics(books: Books, concerts: Concerts, exhibitions: Exhibitions
     sortedValuesWithLabels(movieTitles)
   }
 
-  def moviesRatingsDistribution: Seq[(String, Int)] =
+  def movieRatingsDistribution: Seq[(String, Int)] =
     ratingsDistribution(movies.listItems.flatMap(_.rating))
 
   def mostSeenPlayAuthors: Seq[(Int, String)] = {
@@ -81,6 +87,9 @@ case class Statistics(books: Books, concerts: Concerts, exhibitions: Exhibitions
     val theatres = plays.listItems.map(_.location)
     sortedValuesWithLabels(theatres)
   }
+
+  def playRatingsDistribution: Seq[(String, Int)] =
+    ratingsDistribution(plays.listItems.flatMap(_.rating))
 
   private def sortedValuesWithLabels(strings: Seq[String]): Seq[(Int, String)] =
     strings.groupBy(string => string).

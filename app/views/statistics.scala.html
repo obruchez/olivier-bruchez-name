@@ -22,6 +22,16 @@
     views.html.piechartsection(pieChart)
   }
 
+  @{
+    val barChart = BarChart(
+      baseId = "book-ratings-distribution",
+      title = "Book ratings (distribution)",
+      datasetLabel = "Count",
+      statistics.bookRatingsDistribution)
+
+    views.html.barchartsection(barChart)
+  }
+
   <div class="headline"><h2>Concerts</h2></div>
 
   @{
@@ -65,6 +75,16 @@
 
   <p>Note: venues are counted at most once per day.</p>
 
+  @{
+    val barChart = BarChart(
+      baseId = "concert-ratings-distribution",
+      title = "Concert ratings (distribution)",
+      datasetLabel = "Count",
+      statistics.concertRatingsDistribution)
+
+    views.html.barchartsection(barChart)
+  }
+
   <div class="headline"><h2>Movies</h2></div>
 
   @{
@@ -98,7 +118,7 @@
       baseId = "movie-ratings-distribution",
       title = "Movie ratings (distribution)",
       datasetLabel = "Count",
-      statistics.moviesRatingsDistribution)
+      statistics.movieRatingsDistribution)
 
     views.html.barchartsection(barChart)
   }
@@ -155,5 +175,15 @@
       maxValueCount = Some(17))
 
     views.html.piechartsection(pieChart)
+  }
+
+  @{
+    val barChart = BarChart(
+      baseId = "play-ratings-distribution",
+      title = "Play ratings (distribution)",
+      datasetLabel = "Count",
+      statistics.playRatingsDistribution)
+
+    views.html.barchartsection(barChart)
   }
 }
