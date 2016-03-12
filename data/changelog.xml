@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<changelog>
+    <change>
+        <date>2016-03-12</date>
+        <description>Added ratings distribution and evolution charts (statistics).</description>
+    </change>
+    <change>
+        <date>2016-03-07</date>
+        <description>Added more statistics (books, movies, plays).</description>
+    </change>
+    <change>
+        <date>2016-02-14</date>
+        <description>Added statistics page (basic statistics about concert artists).</description>
+    </change>
+    <change>
+        <date>2016-02-12</date>
+        <description>Added header image.</description>
+    </change>
+    <change>
+        <date>2016-02-07</date>
+        <description>Upgraded to Unify 1.9.1.</description>
+    </change>
+    <change>
+        <date>2016-01-31</date>
+        <description>Added TV shows.</description>
+    </change>
+    <change>
+        <date>2016-01-10</date>
+        <description>Added basic Blogger integration.</description>
+    </change>
+    <change>
+        <date>2015-04-26</date>
+        <description>First version.</description>
+    </change>
+    <change>
+        <date>2015-03-22</date>
+        <description>First commit.</description>
+    </change>
+</changelog>
