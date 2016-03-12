@@ -40,7 +40,16 @@
     var myBarChart = new Chart(context,{
        type: 'line',
        data: data,
-       options: {}
+       options: {
+         scales: {
+           yAxes: [ {
+             ticks: {
+               @barChart.minYValue.map(min => s"suggestedMin: $min,").getOrElse("")
+               @barChart.maxYValue.map(max => s"suggestedMax: $max,").getOrElse("")
+             }
+           }]
+         }
+       }
     });
   });
 </script>

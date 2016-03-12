@@ -42,7 +42,9 @@
       valueSets = Seq(
         BarOrLineChartValueSet(values = ratings.map(_._2.min), label = "Min", color = Color.Green),
         BarOrLineChartValueSet(values = ratings.map(_._2.avg), label = "Avg", color = Color.Red),
-        BarOrLineChartValueSet(values = ratings.map(_._2.max), label = "Max", color = Color.Blue)))
+        BarOrLineChartValueSet(values = ratings.map(_._2.max), label = "Max", color = Color.Blue)),
+      minYValue = Some(0.0),
+      maxYValue = Some(5.0))
 
     views.html.linechartsection(lineChart)
   }
