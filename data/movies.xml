@@ -2409,7 +2409,7 @@
     <theater home="true"/>
     <director>Joel Coen &amp; Ethan Coen</director>
     <title>O Brother, Where Art Thou?</title>
-    <title language="fr">O'Brother</title>
+    <title language="fr">O' Brother</title>
     <url>http://www.imdb.com/title/tt0190590/</url>
     <rating>5.25</rating>
   </movie>
@@ -3950,7 +3950,9 @@
   </movie>
   <movie>
     <date>2004.06.09</date>
-    <title>Ladykillers</title>
+    <director>Joel Coen &amp; Ethan Coen</director>
+    <title>The Ladykillers</title>
+    <url>http://www.imdb.com/title/tt0335245/</url>
   </movie>
   <movie>
     <date>2004.06.09</date>
@@ -4131,8 +4133,11 @@
   </movie>
   <movie>
     <date>2003.11.16</date>
-    <title>Intolérable Cruauté</title>
+    <director>Joel Coen &amp; Ethan Coen</director>
+    <title>Intolerable Cruelty</title>
+    <title language="fr">Intolérable cruauté</title>
     <version>fr</version>
+    <url>http://www.imdb.com/title/tt0138524/</url>
   </movie>
   <movie>
     <date>2003.11.15</date>
@@ -4588,8 +4593,12 @@
   </movie>
   <movie>
     <date>2000.11.15</date>
-    <title>O Brother</title>
+    <theater home="true"/>
+    <director>Joel Coen &amp; Ethan Coen</director>
+    <title>O Brother, Where Art Thou?</title>
+    <title language="fr">O' Brother</title>
     <version>fr</version>
+    <url>http://www.imdb.com/title/tt0190590/</url>
   </movie>
   <movie>
     <date>2000.11.09</date>
