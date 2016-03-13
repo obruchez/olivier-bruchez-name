@@ -2,6 +2,14 @@
 <movies>
   <introduction>A list of movies I saw.</introduction>
   <movie>
+    <date>2016.03.13</date>
+    <theater>Galeries, Lausanne</theater>
+    <director>Joel Coen &amp; Ethan Coen</director>
+    <title>Hail, Caesar!</title>
+    <url>http://www.imdb.com/title/tt0475290/</url>
+    <rating>4.75</rating>
+  </movie>
+  <movie>
     <date>2016.03.05</date>
     <theater home="true"/>
     <director>Joel Coen &amp; Ethan Coen</director>
@@ -2403,7 +2411,7 @@
     <title>O Brother, Where Art Thou?</title>
     <title language="fr">O'Brother</title>
     <url>http://www.imdb.com/title/tt0190590/</url>
-    <rating>5.0</rating>
+    <rating>5.25</rating>
   </movie>
   <movie>
     <date>2008.05.20</date>
