@@ -252,6 +252,11 @@
     <series url="https://en.wikipedia.org/wiki/The_Big_Bang_Theory_(season_2)" type="season">2</series>
   </show>
   <show>
+    <date>2009.05.16</date>
+    <name url="https://en.wikipedia.org/wiki/Lost_(TV_series)">Lost</name>
+    <series url="https://en.wikipedia.org/wiki/Lost_(season_5)" type="season">5</series>
+  </show>
+  <show>
     <date>2009.03.19</date>
     <name url="https://en.wikipedia.org/wiki/The_Big_Bang_Theory">The Big Bang Theory</name>
     <series url="https://en.wikipedia.org/wiki/The_Big_Bang_Theory_(season_1)" type="season">1</series>
@@ -270,6 +275,11 @@
     <date>2008.11.14</date>
     <name url="https://en.wikipedia.org/wiki/Futurama">Futurama</name>
     <series url="https://en.wikipedia.org/wiki/Futurama_(season_2)" type="season">2</series>
+  </show>
+  <show>
+    <date>2008.06.23</date>
+    <name url="https://en.wikipedia.org/wiki/Lost_(TV_series)">Lost</name>
+    <series url="https://en.wikipedia.org/wiki/Lost_(season_4)" type="season">4</series>
   </show>
   <show>
     <date>2008.03.22</date>
@@ -298,8 +308,6 @@
 ???: Lost 1
 ???: Lost 2
 ???: Lost 3
-23 juin 2008: Lost 4
-16 mai 2009: Lost 5
 
 29 octobre 2008: The Simpsons 10
 
