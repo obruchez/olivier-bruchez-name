@@ -11,6 +11,14 @@
 * [asphalte](https://fr.wikipedia.org/wiki/Asphalte) : mélange de bitume et de granulats; souvent confondu avec l'enrobé, le bitume, le goudron ou le macadam
 * en gros : les termes "bitume", "goudron", "asphalte" et "macadam" sont encore souvent utilisés, à tort, pour faire référence à l'enrobé
 
+## Blogging advice
+
+* think about the headline
+* finish the post with a question
+* think of the post as a list (of ideas, etc.)
+* do not post more than twice a week
+* start with beginning and end, and then fill in the middle
+
 ## Brisolée (lieux pour la manger)
 
 * [La Treille](http://www.proresto.ch/company-286.html), Muraz
