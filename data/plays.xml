@@ -10,6 +10,34 @@
     <actor></actor>
   -->
   <play>
+    <date>2016.03.16</date>
+    <location>Pulloff Théâtres, Lausanne, Switzerland</location>
+    <name>Caligula</name>
+    <author>Albert Camus</author>
+    <director>Jean-Gabriel Chobaz</director>
+    <actor>Paola Landolt</actor>
+    <actor>Raphaël Bilbeny</actor>
+    <actor>Julien Opoix</actor>
+    <actor>Frank Michaux</actor>
+    <actor>Jean-Marc Hérouin</actor>
+    <actor>Stéphane Rentznik</actor>
+    <actor>Matthieu Sesseli</actor>
+    <actor>Daniel Vouillamoz</actor>
+    <actor>Leslie Rudolf</actor>
+    <actor>Nicolas Leoni</actor>
+    <!--
+    assistante à la mise en scène Leslie Rudolf
+    collaboration artistique Stéphane Rentznik
+    création lumières Gazus Gagnebin
+    costumes Scilla Ilardo
+    musique et effets sonores Félix Bergeron et
+    Timothée Haller
+    masques Antoinette Baira
+    maquillages Séverine Irondelle
+    -->
+    <rating>4.75</rating>
+  </play>
+  <play>
     <date>2016.01.29</date>
     <location>Le Chapiteau, Théâtre de Vidy, Lausanne, Switzerland</location>
     <name>Citizen Jobs</name>    
