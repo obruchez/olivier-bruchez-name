@@ -2,6 +2,14 @@
 <movies>
   <introduction>A list of movies I saw.</introduction>
   <movie>
+    <date>2016.03.22</date>
+    <theater>Pathé Flon, Lausanne</theater>
+    <director>Alejandro González Iñárritu</director>
+    <title>The Revenant</title>
+    <url>http://www.imdb.com/title/tt1663202/</url>
+    <rating>5.0</rating>
+  </movie> 
+  <movie>
     <date>2016.03.13</date>
     <theater>Galeries, Lausanne</theater>
     <director>Joel Coen &amp; Ethan Coen</director>
