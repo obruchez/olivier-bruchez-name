@@ -51,3 +51,19 @@
   * find . -iname "*.flac" -and -type f -print0 | xargs -0 -i metaflac --remove-tag='Album Artist' "{}"
   * find . -iname "*.flac" -and -type f -print0 | xargs -0 -i metaflac --set-tag='COMPILATION=1' "{}"
   * find . -iname "*.flac" -and -type f -print0 | xargs -0 -i metaflac --set-tag='ALBUMARTIST=Prince' "{}"
+
+# Concatenate all files in a folder
+
+* ls -1 | sed -e 's/^\\(.*\\)$/"\1"/g' | xargs cat > Folder1
+
+# Control Tracker (indexer)
+
+* start with : tracker-control -s
+* get status with : tracker-control -S
+* website : http://projects.gnome.org/tracker/
+
+# Convert anything to H.264/AAC
+
+* ffmpeg -i input -c:v libx264 -preset slow -crf 22 -c:a libfdk_aac -b:a 128k output.mkv
+* more information [here](https://trac.ffmpeg.org/wiki/Encode/H.264)
+
