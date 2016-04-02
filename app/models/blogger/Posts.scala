@@ -1,6 +1,7 @@
 package models.blogger
 
 import blogger.Blogger
+import controllers.routes
 import models._
 import org.joda.time.ReadablePartial
 import scala.util.Try
@@ -26,7 +27,7 @@ object Post {
       title = bloggerPost.title,
       content = bloggerPost.content,
       relativePermalink = bloggerPost.relativePermalink,
-      itemUrl = Some(bloggerPost.url))
+      itemUrl = Some(routes.BlogPostsController.blogPost(bloggerPost.relativePermalink).url))
 }
 
 case class Posts(override val listItems: Seq[Post]) extends Cacheable {

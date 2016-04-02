@@ -6,7 +6,7 @@
 @main(page) {
   <ul>
   @posts.map { post =>
-    <li><a href="@post.itemUrl">@post.date.yyyymmddString</a>: @post.shortRepresentation.html</li>
+    <li><a href="@post.itemUrl">@post.date.yyyymmddString: @post.shortRepresentation.html</a></li>
   }
   </ul>
 }
