@@ -19,10 +19,10 @@ object BlogPostsController extends Controller {
   }
 
   implicit class PostOps(post: Post) {
-      def page: Page =
-        Page(
-          title = post.title,
-          url = routes.BlogPostsController.blogPost(post.relativePermalink).url,
-          icon = Sitemap.blog.icon)
-    }
+    def page: Page =
+      Page(
+        title = post.title,
+        url = routes.BlogPostsController.blogPost(post.relativePermalink).url,
+        icon = Sitemap.blog.icon)
+  }
 }
