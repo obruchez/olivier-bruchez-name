@@ -8,6 +8,8 @@ import util._
 
 case class Post(override val date: ReadablePartial,
                 title: String,
+                content: HtmlContent,
+                relativePermalink: String,
                 override val itemSlug: Option[String] = None,
                 override val itemUrl: Option[String] = None)
     extends ListItem(date, HtmlContent.fromNonHtmlString(title), itemSlug, itemUrl) {
@@ -22,6 +24,8 @@ object Post {
     Post(
       date = bloggerPost.publicationDate,
       title = bloggerPost.title,
+      content = bloggerPost.content,
+      relativePermalink = bloggerPost.relativePermalink,
       itemUrl = Some(bloggerPost.url))
 }
 

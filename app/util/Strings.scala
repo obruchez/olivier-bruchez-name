@@ -42,6 +42,9 @@ object Strings {
   def withoutPrefix(string: String, prefix: String): String =
     if (string.startsWith(prefix)) string.substring(prefix.length) else string
 
+  def withoutSuffix(string: String, suffix: String): String =
+    if (string.endsWith(suffix)) string.substring(0, string.length - suffix.length) else string
+
   def withSuffix(string: String, suffix: String): String =
     if (!string.endsWith(suffix)) string + suffix else string
 }

@@ -61,12 +61,14 @@ object Sitemap {
     "fa-file-text-o", // @todo better icon
     groupChildren = singlePageGroup(pdfCv, wordCv))
 
+  val blog = Page("Blog", routes.Application.blogPosts(), "fa-rss")
+
   val contacts = Page(Contacts, routes.Application.contacts())
 
   val root = Page(
     title = "",
     url = "",
-    groupChildren = singlePageGroup(home, about, lifelogging, votes, cv, contacts))
+    groupChildren = singlePageGroup(home, about, blog, lifelogging, votes, cv, contacts))
 
   val posts = Page(
     title = "Posts",

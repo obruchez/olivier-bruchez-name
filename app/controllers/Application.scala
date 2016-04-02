@@ -136,6 +136,12 @@ object Application extends Controller {
     }
   }
 
+  def blogPosts = Action.async {
+    Cache.get(Posts) map { posts =>
+      Ok(views.html.blogPosts(Sitemap.blog, posts.listItems))
+    }
+  }
+
   def contacts = Action.async { Cache.get(Contacts).map(contacts => Ok(views.html.contacts(contacts))) }
 
   def reload = Action {

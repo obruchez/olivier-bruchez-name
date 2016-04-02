@@ -39,6 +39,9 @@ GET        /cv                               controllers.Application.cv
 GET        /cv/pdf                           controllers.Application.pdfCv
 GET        /cv/word                          controllers.Application.wordCv
 
+GET        /blog                             controllers.Application.blogPosts
+GET        /blog/*relativePermalink          controllers.BlogPostsController.blogPost(relativePermalink)
+
 GET        /contacts                         controllers.Application.contacts
 
 GET        /reload                           controllers.Application.reload

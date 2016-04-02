@@ -1,0 +1,7 @@
+@import models.blogger.Post
+
+@(page: Page, post: Post)
+
+@main(page) {
+  @post.content.html
+}
