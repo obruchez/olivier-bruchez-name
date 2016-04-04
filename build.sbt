@@ -22,5 +22,6 @@ libraryDependencies ++= Seq(
   "com.google.oauth-client" % "google-oauth-client-jetty" % "1.21.0",
   "joda-time" % "joda-time" % "2.9.2",
   "org.apache.commons" % "commons-lang3" % "3.4",
+  "org.jsoup" % "jsoup" % "1.8.3",
   "org.twitter4j" % "twitter4j-core" % "4.0.4")
 
