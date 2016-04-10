@@ -2,6 +2,14 @@
 <movies>
   <introduction>A list of movies I saw.</introduction>
   <movie>
+    <date>2016.04.09</date>
+    <theater>Galeries, Lausanne</theater>
+    <director>Lenny Abrahamson</director>
+    <title>Room</title>
+    <url>http://www.imdb.com/title/tt3170832/</url>
+    <rating>5.0</rating>
+  </movie>
+  <movie>
     <date>2016.03.28</date>
     <theater>Galeries, Lausanne</theater>
     <director>Cyril Dion &amp; Mélanie Laurent</director>
