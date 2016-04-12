@@ -11,6 +11,26 @@
   -->
   <introduction>A list of concerts I went to.</introduction>
   <concert>
+    <date>2016.04.11</date>
+    <location>Chapiteau, Cully, Switzerland</location>
+    <event>Cully Jazz Festival</event>
+    <musician inst="alto saxophone, soprano saxophone, vocals" main="yes">Kenny Garrett</musician>
+    <musician inst="piano">Vernell Brown</musician>
+    <musician inst="bass">Corcoran Holt</musician>
+    <musician inst="percussions">Rudy Bird</musician>
+    <rating>5.0</rating>
+    <comments/>
+  </concert>
+  <concert>
+    <date>2016.04.11</date>
+    <location>Chapiteau, Cully, Switzerland</location>
+    <event>Cully Jazz Festival</event>
+    <musician inst="piano" main="yes">Yaron Herman</musician>
+    <musician inst="drums, laptop">Ziv Ravitz</musician>
+    <rating>5.0</rating>
+    <comments/>
+  </concert>
+  <concert>
     <date>2015.10.30</date>
     <location>Salle Paderewski, Casino de Montbenon, Lausanne, Switzerland</location>
     <event>JazzOnze+ Festival Lausanne</event>
