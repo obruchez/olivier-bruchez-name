@@ -11,6 +11,29 @@
   -->
   <introduction>A list of concerts I went to.</introduction>
   <concert>
+    <date>2016.04.15</date>
+    <location>Chapiteau, Cully, Switzerland</location>
+    <event>Cully Jazz Festival</event>
+    <musician inst="saxophone" main="yes">Wayne Shorter</musician>
+    <musician inst="piano">Danilo Perez</musician>
+    <musician inst="bass">John Patitucci</musician>
+    <musician inst="drums">Terri Lyne Carrington</musician>
+    <rating>5.25</rating>
+    <comments/>
+  </concert>
+  <concert>
+    <date>2016.04.15</date>
+    <location>Chapiteau, Cully, Switzerland</location>
+    <event>Cully Jazz Festival</event>
+    <musician inst="piano, Rhodes electric piano" main="yes">Gauthier Toux</musician>
+    <musician inst="drums">Maxence Sibille</musician>
+    <musician inst="bass">Kenneth Dahl Knudsen</musician>
+    <musician inst="trumpet">Zacharie Ksyk</musician>
+    <musician inst="guitar">Erwan Valazza</musician>
+    <rating>4.25</rating>
+    <comments/>
+  </concert>
+  <concert>
     <date>2016.04.11</date>
     <location>Chapiteau, Cully, Switzerland</location>
     <event>Cully Jazz Festival</event>
