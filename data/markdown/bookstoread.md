@@ -271,5 +271,6 @@ Pretty much everything from [Les cent livres du siècle](https://fr.wikipedia.or
 
 ## Vegetarianism
 
+* Aymeric Caron, ["Antispéciste: Réconcilier l'humain, l'animal, la nature"](http://www.amazon.fr/Antisp%C3%A9ciste-R%C3%A9concilier-lhumain-lanimal-FICTION-ebook/dp/B01DDOWFVG/)
 * Renan Larue, ["Le végétarisme et ses ennemis: Vingt-cinq siècles de débats"](http://www.amazon.fr/v-g-tarisme-ses-ennemis-Vingt-cinq-si-cles-ebook/dp/B00SBZ69TC/)
 
