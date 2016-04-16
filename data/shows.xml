@@ -172,9 +172,29 @@
     <series url="https://en.wikipedia.org/wiki/Community_(season_4)" type="season">4</series>
   </show>
   <show>
+    <date>2012.10.28</date>
+    <name url="https://en.wikipedia.org/wiki/Arrested_Development_(TV_series)">Arrested Development</name>
+    <series url="https://en.wikipedia.org/wiki/Arrested_Development_(season_1)" type="season">1</series>
+  </show>
+  <show>
+    <date>2012.09.19</date>
+    <name url="https://en.wikipedia.org/wiki/The_Office_(U.S._TV_series)">The Office (US)</name>
+    <series url="https://en.wikipedia.org/wiki/The_Office_(U.S._season_8)" type="season">8</series>
+  </show>
+  <show>
+    <date>2012.08.24</date>
+    <name url="https://en.wikipedia.org/wiki/The_Office_(U.S._TV_series)">The Office (US)</name>
+    <series url="https://en.wikipedia.org/wiki/The_Office_(U.S._season_7)" type="season">7</series>
+  </show>
+  <show>
     <date>2012.06.24</date>
     <name url="https://en.wikipedia.org/wiki/Community_(TV_series)">Community</name>
     <series url="https://en.wikipedia.org/wiki/Community_(season_3)" type="season">3</series>
+  </show>
+  <show>
+    <date>2012.06.24</date>
+    <name url="https://en.wikipedia.org/wiki/The_Office_(U.S._TV_series)">The Office (US)</name>
+    <series url="https://en.wikipedia.org/wiki/The_Office_(U.S._season_6)" type="season">6</series>
   </show>
   <show>
     <date>2012.05.18</date>
@@ -185,6 +205,16 @@
     <date>2012.05.17</date>
     <name url="https://en.wikipedia.org/wiki/The_Big_Bang_Theory">The Big Bang Theory</name>
     <series url="https://en.wikipedia.org/wiki/The_Big_Bang_Theory_(season_5)" type="season">5</series>
+  </show>
+  <show>
+    <date>2012.04.11</date>
+    <name url="https://en.wikipedia.org/wiki/The_Office_(U.S._TV_series)">The Office (US)</name>
+    <series url="https://en.wikipedia.org/wiki/The_Office_(U.S._season_4)" type="season">4</series>
+  </show>
+  <show>
+    <date>2012.04.08</date>
+    <name url="https://en.wikipedia.org/wiki/The_Office_(U.S._TV_series)">The Office (US)</name>
+    <series url="https://en.wikipedia.org/wiki/The_Office_(U.S._season_3)" type="season">3</series>
   </show>
   <show>
     <date>2011.09.06</date>
@@ -217,6 +247,11 @@
     <series url="https://en.wikipedia.org/wiki/How_I_Met_Your_Mother#Season_6" type="season">6</series>
   </show>
   <show>
+    <date>2010.07.28</date>
+    <name url="https://en.wikipedia.org/wiki/Friends">Friends</name>
+    <series url="https://en.wikipedia.org/wiki/Friends_(season_10)" type="season">10</series>
+  </show>
+  <show>
     <date>2010.06.12</date>
     <name url="https://en.wikipedia.org/wiki/How_I_Met_Your_Mother">How I Met Your Mother</name>
     <series url="https://en.wikipedia.org/wiki/How_I_Met_Your_Mother#Season_5" type="season">5</series>
@@ -230,6 +265,11 @@
     <date>2010.02.26</date>
     <name url="https://en.wikipedia.org/wiki/How_I_Met_Your_Mother">How I Met Your Mother</name>
     <series url="https://en.wikipedia.org/wiki/How_I_Met_Your_Mother#Season_4" type="season">4</series>
+  </show>
+  <show>
+    <date>2010.01.26</date>
+    <name url="https://en.wikipedia.org/wiki/Friends">Friends</name>
+    <series url="https://en.wikipedia.org/wiki/Friends_(season_8)" type="season">8</series>
   </show>
   <show>
     <date>2009.12.30</date>
@@ -257,6 +297,11 @@
     <series url="https://en.wikipedia.org/wiki/Lost_(season_5)" type="season">5</series>
   </show>
   <show>
+    <date>2009.05.05</date>
+    <name url="https://en.wikipedia.org/wiki/Friends">Friends</name>
+    <series url="https://en.wikipedia.org/wiki/Friends_(season_4)" type="season">4</series>
+  </show>
+  <show>
     <date>2009.03.19</date>
     <name url="https://en.wikipedia.org/wiki/The_Big_Bang_Theory">The Big Bang Theory</name>
     <series url="https://en.wikipedia.org/wiki/The_Big_Bang_Theory_(season_1)" type="season">1</series>
@@ -275,6 +320,11 @@
     <date>2008.11.14</date>
     <name url="https://en.wikipedia.org/wiki/Futurama">Futurama</name>
     <series url="https://en.wikipedia.org/wiki/Futurama_(season_2)" type="season">2</series>
+  </show>
+  <show>
+    <date>2008.10.29</date>
+    <name url="https://en.wikipedia.org/wiki/The_Simpsons">The Simpsons </name>
+    <series url="https://en.wikipedia.org/wiki/The_Simpsons_(season_10)" type="season">10</series>
   </show>
   <show>
     <date>2008.06.23</date>
@@ -301,7 +351,6 @@
 </shows>
 
 <!--
-
 ???: Prison Break 1
 ???: Prison Break 2
 
@@ -309,7 +358,7 @@
 ???: Lost 2
 ???: Lost 3
 
-29 octobre 2008: The Simpsons 10
+???: The Simpsons 1-9
 
 ???: Futurama 1
 ???: Futurama 3
@@ -320,25 +369,17 @@
 ???: Friends 1
 ???: Friends 2
 ???: Friends 3
-5 mai 2009: Friends 4
+
 ???: Friends 5
 ???: Friends 6
 ???: Friends 7
-26 janvier 2010: Friends 8
 ???: Friends 9
-28 juillet 2010: Friends 10
 
 ???: The Office 1
 ???: The Office 2
-8 avril 2012: The Office 3
-11 avril 2012: The Office 4
 ???: The Office 5
-24 juin 2012: The Office 6
-24 août 2012: The Office 7
-19 septembre 2012: The Office 8
 ???: The Office 9
 
-28 octobre 2012: Arrested Development 1
 ???: Arrested Development 2
 ???: Arrested Development 3
 ???: Arrested Development 4
