@@ -52,18 +52,50 @@
   * find . -iname "*.flac" -and -type f -print0 | xargs -0 -i metaflac --set-tag='COMPILATION=1' "{}"
   * find . -iname "*.flac" -and -type f -print0 | xargs -0 -i metaflac --set-tag='ALBUMARTIST=Prince' "{}"
 
-# Concatenate all files in a folder
+## Concatenate all files in a folder
 
 * ls -1 | sed -e 's/^\\(.*\\)$/"\1"/g' | xargs cat > Folder1
 
-# Control Tracker (indexer)
+## Control Tracker (indexer)
 
 * start with : tracker-control -s
 * get status with : tracker-control -S
 * website : http://projects.gnome.org/tracker/
 
-# Convert anything to H.264/AAC
+## Convert anything to H.264/AAC
 
 * ffmpeg -i input -c:v libx264 -preset slow -crf 22 -c:a libfdk_aac -b:a 128k output.mkv
 * more information [here](https://trac.ffmpeg.org/wiki/Encode/H.264)
 
+## Convert a DVD to MKV files
+
+* use Handbrake (but impossible to create a single MKV file?)
+* use MakeMKV (but impossible to select the codecs?)
+
+## Convert FLAC files to MP3 (including tags)
+
+* use flac2mp3 Perl script (nothing better?)
+* fix fixUpTrackNumber sub function, add following code before "if ($trackNum) {"
+```perl
+my $pos = index($trackNum, "/");
+if ($pos >= 0) {
+  $trackNum = substr($trackNum, 0, $pos);
+}
+```
+* use Active Perl binary (Windows)
+
+## Convert PNG files to an ICO Windows icon file
+
+* use ImageMagick: convert file1.png file2.png file3.png file.ico
+* as of October 8, 2008, there's a transparency bug in ImageMagick
+
+## Copy EXIF tags from one file to another one
+
+* exiftool -TagsFromFile source.jpg dest.jpg
+
+## Create a customized bootable image of Linux from scratch (using ptxdist, for e.g.)
+
+* create a root image (kernel compilation, etc.) using ptxdist
+* follow the instructions on "How to create an initramfs image" (correction: in the init script, "busybox --install -s" should be called before the first mounts)
+* additional information about initramfs here and there
+* trick : to determine which options to activate for kernel compilation, boot on the target hardware using u USB stick containing SystemRescueCd and display the hardware information (take note of the drivers to use)
