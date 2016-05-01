@@ -2,6 +2,16 @@
 <books>
     <introduction>A list of books I read.</introduction>
     <book>
+        <date></date>
+        <title>Faith Versus Fact</title>
+        <subtitle>Why Science and Religion are Incompatible</subtitle>
+        <author>Jerry Coyne</author>
+        <publishingyear>2015</publishingyear>
+        <rating></rating>
+        <url>https://books.google.ch/books/about/Faith_Versus_Fact.html?id=ra26oQEACAAJ</url>
+        <!-- <notes description="Kindle highlights"></notes> -->
+    </book>
+    <book>
         <date>2016.04.24</date>
         <title>L'Insoutenable Légèreté de l'être</title>
         <author>Milan Kundera</author>
