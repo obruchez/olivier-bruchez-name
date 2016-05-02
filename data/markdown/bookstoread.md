@@ -9,6 +9,7 @@ Pretty much everything from [Les cent livres du siècle](https://fr.wikipedia.or
 * André Comte-Sponville, ["L'esprit de l'athéisme : Introduction à une spiritualité sans Dieu"](https://fr.wikipedia.org/wiki/L%27Esprit_de_l%27ath%C3%A9isme) (Comte-Sponville sounds like an "old atheist", who thinks that religion can be good - e.g. lead to a more moral life)
 * David Fitzgerald, ["Nailed: Ten Christian Myths That Show Jesus Never Existed at All"](http://www.amazon.com/Nailed-Christian-Myths-Jesus-Existed/dp/0557709911) (is this as seriously researched as Carrier's book?)
 * Caroline Fourest, ["Tirs croisés : La laïcité à l'épreuve des intégrismes juif, chrétien et musulman"](http://www.amazon.fr/Tirs-crois%C3%A9s-l%C3%A9preuve-int%C3%A9grismes-chr%C3%A9tien/dp/2253114375/) (recommended by [@ArianeBeldi](https://twitter.com/ArianeBeldi))
+* Philip Kitcher, ["Life After Faith: The Case for Secular Humanism"](http://www.amazon.com/Life-After-Faith-Humanism-Lectures/dp/0300203438/)
 * George Levine, ["The Joy of Secularism: 11 Essays for How We Live Now"](http://www.amazon.com/The-Joy-Secularism-Essays-Live/dp/0691156026)
 * David Mills, ["Atheist Universe"](http://www.amazon.com/Atheist-Universe-Thinking-Christian-Fundamentalism/dp/1569755671)
 * David Niose, ["Nonbeliever Nation: The Rise of Secular Americans"](http://www.amazon.com/Nonbeliever-Nation-Rise-Secular-Americans/dp/1137278714) (reviewed on [Friendly Atheist](http://www.patheos.com/blogs/friendlyatheist/2012/09/29/a-review-of-david-nioses-nonbeliever-nation/))
