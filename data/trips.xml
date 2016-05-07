@@ -496,6 +496,13 @@
     <!-- <pictures url=""/> -->
   </trip>
   <trip>
+    <from>1994.??.??</from>
+    <to>1994.??.??</to>
+    <place>Liguria (Cinque Terre, etc.) / Tuscany (Pisa, etc.), Italy</place>
+    <!-- Scans photos -->
+    <!-- <pictures url=""/> -->
+  </trip>
+  <trip>
     <from>1993.07.27</from>
     <to>1993.08.03</to>
     <place>Andalusia, Spain</place>
