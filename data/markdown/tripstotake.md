@@ -9,22 +9,25 @@ See also [1000 places to see before you die](http://1000places.com/).
 
 ## Cities
 
-* [Amsterdam](https://en.wikipedia.org/wiki/Amsterdam) (already visited, to visit again)
-* [Barcelona](https://en.wikipedia.org/wiki/Barcelona) (already visited, to visit again)
-* [Berlin](https://en.wikipedia.org/wiki/Berlin) (already visited, to visit again)
 * [Budapest](https://en.wikipedia.org/wiki/Budapest)
-* [Copenhaguen](https://en.wikipedia.org/wiki/Copenhagen)
-* [Florence](https://en.wikipedia.org/wiki/Florence) (already visited, to visit again)
 * [Istanbul](https://en.wikipedia.org/wiki/Istanbul)
 * [Kraków](https://en.wikipedia.org/wiki/Krak%C3%B3w)
-* [London](https://en.wikipedia.org/wiki/London) (already visited, to visit again)
-* [Paris](https://en.wikipedia.org/wiki/Paris) (already visited, to visit again)
-* [Prague](https://en.wikipedia.org/wiki/Prague) (already visited, to visit again) (Christmas markets?) 
-* [Rome](https://en.wikipedia.org/wiki/Rome) (already visited, to visit again)
 * [Salzburg](https://en.wikipedia.org/wiki/Salzburg)
-* [Stockholm](https://en.wikipedia.org/wiki/Stockholm) (already visited, to visit again)
 * [Venice](https://en.wikipedia.org/wiki/Venice)
-* [Vienna](https://en.wikipedia.org/wiki/Vienna) (already visited, to visit again)
+
+## Cities (already visited, to visit again)
+
+* [Amsterdam](https://en.wikipedia.org/wiki/Amsterdam)
+* [Barcelona](https://en.wikipedia.org/wiki/Barcelona)
+* [Berlin](https://en.wikipedia.org/wiki/Berlin)
+* [Copenhaguen](https://en.wikipedia.org/wiki/Copenhagen)
+* [Florence](https://en.wikipedia.org/wiki/Florence)
+* [London](https://en.wikipedia.org/wiki/London)
+* [Paris](https://en.wikipedia.org/wiki/Paris)
+* [Prague](https://en.wikipedia.org/wiki/Prague) (Christmas markets?) 
+* [Rome](https://en.wikipedia.org/wiki/Rome)
+* [Stockholm](https://en.wikipedia.org/wiki/Stockholm)
+* [Vienna](https://en.wikipedia.org/wiki/Vienna)
 
 ## [Countries](https://en.wikipedia.org/wiki/List_of_sovereign_states)
 
