@@ -2,6 +2,11 @@
 <podcasts>
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date>2016.05.10</date>
+    <name url="http://verybadwizards.com/">Very Bad Wizards</name>
+    <episode url="http://verybadwizards.com/episodes/7" number="7">Psychopaths and Utilitarians Pt. 2</episode>
+  </podcast>
+  <podcast>
     <date>2016.05.09</date>
     <name url="http://verybadwizards.com/">Very Bad Wizards</name>
     <episode url="http://verybadwizards.com/episodes/6" number="6">Trolleys, Utilitarians, and Psychopaths</episode>
