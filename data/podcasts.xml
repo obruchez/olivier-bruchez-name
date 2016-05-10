@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<podcasts>
+  <introduction>A list of podcasts I listened to.</introduction>
+  <podcast>
+    <date>2016.05.09</date>
+    <name url="http://verybadwizards.com/">Very Bad Wizards</name>
+    <episode url="http://verybadwizards.com/episodes/6" number="6">Trolleys, Utilitarians, and Psychopaths</episode>
+  </podcast>
+  <!--
+  <show>
+    <date></date>
+    <name url=""></name>
+    <episode url="" number=""></episode>
+  </show>
+  -->
+</podcasts>
+
+<!--
+Alex & Erik's Podcast
+Compared To What Podcast
+Peach & Black Podcast (~89 episodes)
+Waking Up with Sam Harris
+etc.
+-->
