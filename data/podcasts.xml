@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <podcasts>
   <introduction>A list of podcasts I listened to.</introduction>
+  <show>
+    <date>2016.05.12</date>
+    <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
+    <episode url="https://www.samharris.org/podcast/item/what-makes-us-safer">What Makes Us Safer?</episode>
+  </show>
   <podcast>
     <date>2016.05.10</date>
     <name url="http://verybadwizards.com/">Very Bad Wizards</name>
