@@ -2,7 +2,7 @@
 
 My votes (in French). En Suisse, on ne plaisante pas avec la démocratie directe. :) J'essaie ici de documenter et de justifier la façon dont je me positionne par rapport aux votations fédérales, qui ont lieu jusqu'à quatre fois par année.
 
-## [Votation fédérale du 28 février 2016](https://www.bk.admin.ch/themen/pore/va/20160228/index.html?lang=fr)
+## [Votation fédérale du 28 février 2016](https://www.admin.ch/ch/f/pore/va/20160228/index.html)
 
 ### Acceptez-vous l’initiative populaire "Pour le couple et la famille – Non à la pénalisation du mariage" ?
 
