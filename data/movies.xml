@@ -2,6 +2,14 @@
 <movies>
   <introduction>A list of movies I saw.</introduction>
   <movie>
+    <date>2016.05.14</date>
+    <theater home="true"/>
+    <director>Francis Lawrence</director>
+    <title>The Hunger Games: Mockingjay - Part 2</title>
+    <url>http://www.imdb.com/title/tt1951266/</url>
+    <rating>4.25</rating>
+  </movie>
+  <movie>
     <date>2016.04.09</date>
     <theater>Galeries, Lausanne</theater>
     <director>Lenny Abrahamson</director>
