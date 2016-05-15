@@ -2,6 +2,18 @@
 <exhibitions>
     <introduction>A list of exhibitions I visited.</introduction>
     <exhibition>
+        <date>2016.05.06</date>
+        <name>Permanent exhibition</name>
+        <museum>Ny Carlsberg Glyptotek, Copenhagen, Denmark</museum>
+        <rating>5.0</rating>
+    </exhibition>
+    <exhibition>
+        <date>2016.05.05</date>
+        <name>Permanent exhibition / Eye Attack / Illumination / Fire Under Snow</name>
+        <museum>Louisiana Museum of Modern Art, Humlebæk, Denmark</museum>
+        <rating>5.0</rating>
+    </exhibition>
+    <exhibition>
         <date>2015.11.07</date>
         <name>Permanent exhibition</name>
         <museum>Musée et Chiens du Saint-Bernard, Martigny, Switzerland</museum>
