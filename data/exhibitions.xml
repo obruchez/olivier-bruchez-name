@@ -2,6 +2,12 @@
 <exhibitions>
     <introduction>A list of exhibitions I visited.</introduction>
     <exhibition>
+        <date>2016.05.15</date>
+        <name>Signac : une vie au fil de l'eau</name>
+        <museum>Fondation de l’Hermitage, Lausanne, Switzerland</museum>
+        <rating>4.5</rating>
+    </exhibition>
+    <exhibition>
         <date>2016.05.06</date>
         <name>Permanent exhibition</name>
         <museum>Ny Carlsberg Glyptotek, Copenhagen, Denmark</museum>
