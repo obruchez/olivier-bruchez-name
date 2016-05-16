@@ -2,6 +2,11 @@
 <shows>
   <introduction>A list of TV shows I saw.</introduction>
   <show>
+    <date>2016.05.16</date>
+    <name url="https://en.wikipedia.org/wiki/The_Big_Bang_Theory">The Big Bang Theory</name>
+    <series url="https://en.wikipedia.org/wiki/The_Big_Bang_Theory_(season_9)" type="season">9</series>
+  </show>
+  <show>
     <date>2016.05.13</date>
     <name url="https://en.wikipedia.org/wiki/Broad_City">Broad City</name>
     <series url="https://en.wikipedia.org/wiki/List_of_Broad_City_episodes#Season_1_.282014.29" type="season">1</series>
