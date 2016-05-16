@@ -2,6 +2,14 @@
 <movies>
   <introduction>A list of movies I saw.</introduction>
   <movie>
+    <date>2016.05.15</date>
+    <theater>Cinémathèque, Lausanne</theater>
+    <director>Duncan Jones</director>
+    <title>Moon</title>
+    <url>http://www.imdb.com/title/tt1182345/</url>
+    <rating>5.0</rating>
+  </movie>
+  <movie>
     <date>2016.05.14</date>
     <theater home="true"/>
     <director>Francis Lawrence</director>
