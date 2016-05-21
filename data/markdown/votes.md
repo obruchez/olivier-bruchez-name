@@ -2,6 +2,28 @@
 
 My votes (in French). En Suisse, on ne plaisante pas avec la démocratie directe. :) J'essaie ici de documenter et de justifier la façon dont je me positionne par rapport aux votations fédérales, qui ont lieu jusqu'à quatre fois par année.
 
+## [Votation fédérale du 5 juin 2016](https://www.admin.ch/gov/fr/accueil/documentation/votations/20160605.html)
+
+### Acceptez-vous l’initiative populaire "En faveur du service public" ?
+
+?. Résultat : ? (??.?%).
+
+### Acceptez-vous l’initiative populaire "Pour un revenu de base inconditionnel" ?
+
+?. Résultat : ? (??.?%).
+
+### Acceptez-vous l’initiative populaire "Pour un financement équitable des transports" ?
+
+?. Résultat : ? (??.?%).
+
+### Acceptez-vous la modification du 12 décembre 2014 de la loi fédérale sur la procréation médicalement assistée (LPMA) ?
+
+?. Résultat : ? (??.?%).
+
+### Acceptez-vous la modification du 25 septembre 2015 de la loi sur l’asile (LAsi) ?
+
+?. Résultat : ? (??.?%).
+
 ## [Votation fédérale du 28 février 2016](https://www.admin.ch/ch/f/pore/va/20160228/index.html)
 
 ### Acceptez-vous l’initiative populaire "Pour le couple et la famille – Non à la pénalisation du mariage" ?
