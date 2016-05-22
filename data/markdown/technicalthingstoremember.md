@@ -99,3 +99,26 @@ if ($pos >= 0) {
 * follow the instructions on "How to create an initramfs image" (correction: in the init script, "busybox --install -s" should be called before the first mounts)
 * additional information about initramfs here and there
 * trick : to determine which options to activate for kernel compilation, boot on the target hardware using u USB stick containing SystemRescueCd and display the hardware information (take note of the drivers to use)
+
+## Create a script to launch a Wine application (Mac OS)
+
+* follow instructions on [Making a Dock Icon](https://www.davidbaumgold.com/tutorials/wine-mac/#making-a-dock-icon)
+
+## Download entire Flickr sets
+
+* use [Flickr Downloadr](https://flickrdownloadr.com/)
+
+## Download video streams
+
+* use HiDownload and URL Helper (Windows)
+
+## Extract a clip from a video file
+
+* ffmpeg -ss 01:15:51 -t 00:05:59 -i in.mp4 -acodec copy -vcodec copy out.mp4
+
+## Extract the audio of a DVD-Audio
+
+* decrypt AUDIO_TS folder using DVDARipper 0.99f and WinDVD 7
+* extract MLP files using DVDAExplorer Alpha 7
+* uncompress MLP files to WAV using SurCode MLP 1.0.29 [eac3to](http://forum.doom9.org/showthread.php?t=125966) (FFmpeg?)
+* convert 2-channel WAV files to 6-channel WAV files using wavewizard 0.54b
