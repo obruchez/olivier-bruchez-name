@@ -2,6 +2,11 @@
 <podcasts>
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date>2016.05.25</date>
+    <name url="http://verybadwizards.com/">Very Bad Wizards</name>
+    <episode url="http://verybadwizards.com/episodes/1" number="1">Brains, Robots, and Free Will (Free Will Pt. 1)</episode>
+  </podcast>
+  <podcast>
     <date>2016.05.23</date>
     <name>Alex &amp; Erik's Podcast</name>
     <episode number="31">IoT</episode>
