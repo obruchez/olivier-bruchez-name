@@ -11,6 +11,15 @@
   -->
   <introduction>A list of concerts I went to.</introduction>
   <concert>
+    <date>2015.05.25</date>
+    <location>Forum Rolex, Learning Center, EPFL, Ecublens, Switzerland</location>
+    <musician inst="violin" main="true">Didier Lockwood</musician>
+    <musician inst="piano">Antonio Faraò</musician>
+    <musician inst="bass">Martin Gjakonovski</musician>
+    <musician inst="drums">Vladimir Kostadinovic</musician>
+    <rating>5.0</rating>
+  </concert>
+  <concert>
     <date>2016.04.15</date>
     <location>Chapiteau, Cully, Switzerland</location>
     <event>Cully Jazz Festival</event>
