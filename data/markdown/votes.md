@@ -6,23 +6,41 @@ My votes (in French). En Suisse, on ne plaisante pas avec la démocratie directe
 
 ### Acceptez-vous l’initiative populaire "En faveur du service public" ?
 
-?. Résultat : ? (??.?%).
+Non. Résultat : ? (??.?%).
+
+- Je suis d'accord avec le constat que Swisscom, la Poste et les CFF pourraient proposer de biens meilleurs services et/ou des prix plus bas.
+- Je n'arrive pas à me convaincre que l'initiative propose quoi que ce soit pour vraiment aller dans ce sens.
 
 ### Acceptez-vous l’initiative populaire "Pour un revenu de base inconditionnel" ?
 
-?. Résultat : ? (??.?%).
+Oui. Résultat : ? (??.?%).
+
+- Le revenu de base inconditionnel est à mon avis indispensable sur le long terme, comme je l'explique [ici](http://olivier.bruchez.name/worldview#revenu-de-base).
+- L'initiative propose de voter sur un principe : elle ne fixe ni le financement ni le montant du revenu de base.
+- Il est peut-être trop tôt, en 2016, pour introduire un revenu de base inconditionnel en Suisse, mais il me semble utopique de penser qu'en cas d'acceptation, le Parlement proposera quoi que ce soit de concret avant de longues années.
 
 ### Acceptez-vous l’initiative populaire "Pour un financement équitable des transports" ?
 
-?. Résultat : ? (??.?%).
+Non. Résultat : ? (??.?%).
+
+- Je ne comprends pas le principe selon lequel une taxe prélevée dans un domaine devrait forcément être réinvestie/utilisée dans ce domaine. Cela supprime une marge de manoeuvre importante à la Confédération.
+- Le réseau routier en Suisse est déjà très développé. Il me paraît contre-productif de vouloir construire de nouvelles routes sur un territoire aussi petit.
+- Il faudrait plutôt encourager une diminution du nombre de véhicules sur les routes, l'augmentation du nombre de personnes par véhicule, le travail à domicile, les transports publics, le développement de nouvelles technologies (voitures électriques et/ou autonomes), etc.
 
 ### Acceptez-vous la modification du 12 décembre 2014 de la loi fédérale sur la procréation médicalement assistée (LPMA) ?
 
-?. Résultat : ? (??.?%).
+Oui. Résultat : ? (??.?%).
+
+- Les arguments du comité référendaires sont éthiquement confus (embryons et personnes mises sur un pied d'égalité, etc.).
+- Le comité référendaire semble refuser de voir les conséquences positives de la loi...
+- ...et se contente de brandir le spectre de l'eugénisme en l'absence d'arguments solides. C'est particulièrement mesquin.
 
 ### Acceptez-vous la modification du 25 septembre 2015 de la loi sur l’asile (LAsi) ?
 
-?. Résultat : ? (??.?%).
+Oui. Résultat : ? (??.?%).
+
+- La modification de la loi semble raisonnable et rationnelle (baisse des coûts, etc.).
+- L'argument du comité référendaire concernant la hausse des recours contredit les conclusions de la phase de test.
 
 ## [Votation fédérale du 28 février 2016](https://www.admin.ch/ch/f/pore/va/20160228/index.html)
 
