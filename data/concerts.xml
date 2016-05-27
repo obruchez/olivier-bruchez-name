@@ -13,6 +13,7 @@
   <concert>
     <date>2016.05.25</date>
     <location>Forum Rolex, Learning Center, EPFL, Ecublens, Switzerland</location>
+    <event>Jazz at the Polytechnique</event>
     <musician inst="violin" main="true">Didier Lockwood</musician>
     <musician inst="piano">Antonio Faraò</musician>
     <musician inst="bass">Martin Gjakonovski</musician>
@@ -157,6 +158,7 @@
   <concert>
     <date>2015.05.28</date>
     <location>Forum Rolex, Learning Center, EPFL, Ecublens, Switzerland</location>
+    <event>Jazz at the Polytechnique</event>
     <musician inst="trumpet" main="true">Erik Truffaz</musician>
     <musician inst="electronics">Murcof</musician>
     <musician inst="drums">Philippe Garcia</musician>
