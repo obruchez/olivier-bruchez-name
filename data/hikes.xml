@@ -5,6 +5,7 @@
     <date>2016.05.21</date>
     <place>Clambin, Switzerland</place>
     <comments>Started from Montagnier.</comments>
+    <pictures url="https://www.flickr.com/photos/bruchez/sets/72157667989774956/"/>
   </hike>
   <hike>
     <date>2016.01.24</date>
@@ -88,5 +89,10 @@
     <date>2012.10.13</date>
     <place>Grand-Tsai / Col de Mille, Switzerland</place>
     <pictures url="https://secure.flickr.com/photos/bruchez/sets/72157631877647311/"/>
+  </hike>
+  <hike>
+    <date>2012.08.11</date>
+    <place>Panossière / Col des Otanes, Switzerland</place>
+    <pictures url="https://www.flickr.com/photos/bruchez/sets/72157631086249954/"/>
   </hike>
 </hikes>
