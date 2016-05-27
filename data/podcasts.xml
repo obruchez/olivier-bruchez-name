@@ -52,6 +52,11 @@
     <episode url="https://www.samharris.org/podcast/item/ask-me-anything-4">Ask Me Anything #4</episode>
   </show>
   <show>
+    <date>2016.03.29</date>
+    <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
+    <episode url="https://www.samharris.org/podcast/item/islam-and-the-future-of-tolerance-a-dialogue">Islam and the Future of Tolerance: A Dialogue</episode>
+  </show>
+  <show>
     <date>2016.03.24</date>
     <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
     <episode url="https://www.samharris.org/podcast/item/inside-the-crucible-syria-and-the-islamic-state">Inside the Crucible: Syria and the Islamic State - A Conversation with Michael Weiss</episode>
@@ -67,6 +72,11 @@
     <episode url="https://www.samharris.org/podcast/item/the-logic-of-violence">The Logic of Violence - A Conversation with Jocko Willink</episode>
   </show>
   <show>
+    <date>2016.03.11</date>
+    <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
+    <episode url="https://www.samharris.org/podcast/item/behind-the-gun">Behind the Gun - A Conversation with Scott Reitz</episode>
+  </show>
+  <show>
     <date>2016.03.01</date>
     <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
     <episode url="https://www.samharris.org/podcast/item/meat-without-murder">Meat Without Misery - A Conversation with Uma Valeti</episode>
@@ -75,6 +85,36 @@
     <date>2016.02.25</date>
     <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
     <episode url="https://www.samharris.org/podcast/item/ask-me-anything-3">Ask Me Anything #3</episode>
+  </show>
+  <show>
+    <date>2016.01.05</date>
+    <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
+    <episode url="https://www.samharris.org/podcast/item/ask-me-anything-2">Ask Me Anything #2</episode>
+  </show>
+  <show>
+    <date>2015.12.29</date>
+    <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
+    <episode url="https://www.samharris.org/podcast/item/on-the-maintenance-of-civilization">On the Maintenance of Civilization - A Conversation with Douglas Murray</episode>
+  </show>
+  <show>
+    <date>2015.12.22</date>
+    <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
+    <episode url="https://www.samharris.org/podcast/item/surviving-the-cosmos">Surviving the Cosmos - A Conversation with David Deutsch</episode>
+  </show>
+  <show>
+    <date>2015.11.16</date>
+    <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
+    <episode url="https://www.samharris.org/podcast/item/still-sleepwalking-toward-armageddon">Still Sleepwalking Toward Armageddon</episode>
+  </show>
+  <show>
+    <date>2015.11.13</date>
+    <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
+    <episode url="https://www.samharris.org/podcast/item/the-riddle-of-the-gun-revisited">The Riddle of the Gun (Revisited)</episode>
+  </show>
+  <show>
+    <date>2015.11.12</date>
+    <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
+    <episode url="https://www.samharris.org/podcast/item/the-multiverse-you-you-you-you">The Multiverse &amp; You (&amp; You &amp; You &amp; You…) - A Conversation with Max Tegmark</episode>
   </show>
   <!--
   <show>
