@@ -2,6 +2,22 @@
 <movies>
   <introduction>A list of movies I saw.</introduction>
   <movie>
+    <date>2016.05.29</date>
+    <theater>Galeries, Lausanne</theater>
+    <director>Woody Allen</director>
+    <title>Café Society</title>
+    <url>http://www.imdb.com/title/tt4513674/</url>
+    <rating>5.0</rating>
+  </movie>
+  <movie>
+    <date>2016.05.28</date>
+    <theater home="true"/>
+    <director>Francis Ford Coppola</director>
+    <title>The Godfather</title>
+    <url>http://www.imdb.com/title/tt0068646/</url>
+    <rating>5.0</rating>
+  </movie>
+  <movie>
     <date>2016.05.15</date>
     <theater>Cinémathèque, Lausanne</theater>
     <director>Duncan Jones</director>
@@ -31,7 +47,7 @@
     <director>Cyril Dion &amp; Mélanie Laurent</director>
     <title>Demain</title>
     <url>http://www.imdb.com/title/tt4449576/</url>
-    <rating>5.0</rating>
+    <rating>4.75</rating>
   </movie>
   <movie>
     <date>2016.03.22</date>
@@ -88,7 +104,7 @@
     <director>Frank Darabont</director>
     <title>The Shawshank Redemption</title>
     <url>http://www.imdb.com/title/tt0111161/</url>
-    <rating>5.5</rating>
+    <rating>5.25</rating>
   </movie>
   <movie>
     <date>2015.11.22</date>
