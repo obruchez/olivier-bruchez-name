@@ -1,6 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <podcasts>
   <introduction>A list of podcasts I listened to.</introduction>
+  <show>
+    <date></date>
+    <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
+    <episode url="https://www.samharris.org/podcast/item/thinking-in-public">Thinking in Public</episode>
+  </show>
+  <podcast>
+    <date>2016.06.01</date>
+    <name url="http://verybadwizards.com/">Very Bad Wizards</name>
+    <episode url="http://verybadwizards.com/episodes/10" number="10">Religion, Meaning, and Morality</episode>
+  </podcast>
   <podcast>
     <date>2016.05.31</date>
     <name>Alex &amp; Erik's Podcast</name>
