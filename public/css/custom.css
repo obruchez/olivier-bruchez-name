@@ -64,6 +64,10 @@ body.larger-font {
     margin-bottom: 0;
 }
 
+.tag-box.contentbox p:not(:last-child) {
+    margin-bottom: 10px;
+}
+
 .contentbox .table tr:first-child td {
     border-top-width: 0;
 }
