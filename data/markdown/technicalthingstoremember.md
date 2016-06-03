@@ -84,6 +84,10 @@ if ($pos >= 0) {
 ```
 * use Active Perl binary (Windows)
 
+## Convert FLAC files to MP3 (including tags) (Mac OS X)
+
+* for f in *.flac; do ffmpeg -i "$f" -ab 320k -map_metadata 0 -id3v2_version 3 "${f%flac}mp3"; done
+
 ## Convert PNG files to an ICO Windows icon file
 
 * use ImageMagick: convert file1.png file2.png file3.png file.ico
