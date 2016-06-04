@@ -2,6 +2,14 @@
 <movies>
   <introduction>A list of movies I saw.</introduction>
   <movie>
+    <date>2016.06.04</date>
+    <theater home="true"/>
+    <director>Sidney Lumet</director>
+    <title>12 Angry Men</title>
+    <url>http://www.imdb.com/title/tt0050083/</url>
+    <rating>5.25</rating>
+  </movie>
+  <movie>
     <date>2016.05.29</date>
     <theater>Galeries, Lausanne</theater>
     <director>Woody Allen</director>
