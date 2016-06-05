@@ -6,14 +6,14 @@ My votes (in French). En Suisse, on ne plaisante pas avec la démocratie directe
 
 ### Acceptez-vous l’initiative populaire "En faveur du service public" ?
 
-Non. Résultat : ? (??.?%).
+Non. Résultat : non (67.6%).
 
 - Je suis d'accord avec le constat que Swisscom, la Poste et les CFF pourraient proposer de biens meilleurs services et/ou des prix plus bas.
 - Je n'arrive pas à me convaincre que l'initiative propose quoi que ce soit pour vraiment aller dans ce sens.
 
 ### Acceptez-vous l’initiative populaire "Pour un revenu de base inconditionnel" ?
 
-Oui. Résultat : ? (??.?%).
+Oui. Résultat : non (76.9%).
 
 - Le revenu de base inconditionnel est à mon avis indispensable sur le long terme, comme je l'explique [ici](http://olivier.bruchez.name/worldview#revenu-de-base).
 - L'initiative propose de voter sur un principe : elle ne fixe ni le financement ni le montant du revenu de base.
@@ -21,7 +21,7 @@ Oui. Résultat : ? (??.?%).
 
 ### Acceptez-vous l’initiative populaire "Pour un financement équitable des transports" ?
 
-Non. Résultat : ? (??.?%).
+Non. Résultat : non (70.8%).
 
 - Je ne comprends pas le principe selon lequel une taxe prélevée dans un domaine devrait forcément être réinvestie/utilisée dans ce domaine. Cela supprime une marge de manoeuvre importante à la Confédération.
 - Le réseau routier en Suisse est déjà très développé. Il me paraît contre-productif de vouloir construire de nouvelles routes sur un territoire aussi petit.
@@ -29,7 +29,7 @@ Non. Résultat : ? (??.?%).
 
 ### Acceptez-vous la modification du 12 décembre 2014 de la loi fédérale sur la procréation médicalement assistée (LPMA) ?
 
-Oui. Résultat : ? (??.?%).
+Oui. Résultat : oui (62.4%).
 
 - Les arguments du comité référendaires sont éthiquement confus (embryons et personnes mises sur un pied d'égalité, etc.).
 - Le comité référendaire semble refuser de voir les conséquences positives de la loi...
@@ -37,7 +37,7 @@ Oui. Résultat : ? (??.?%).
 
 ### Acceptez-vous la modification du 25 septembre 2015 de la loi sur l’asile (LAsi) ?
 
-Oui. Résultat : ? (??.?%).
+Oui. Résultat : oui (66.8%).
 
 - La modification de la loi semble raisonnable et rationnelle (baisse des coûts, etc.).
 - L'argument du comité référendaire concernant la hausse des recours contredit les conclusions de la phase de test.
