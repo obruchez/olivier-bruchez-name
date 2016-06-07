@@ -73,7 +73,10 @@
             <subitem url="https://en.wikipedia.org/wiki/Quantified_Self">Quantified Self</subitem>
             <subitem url="https://en.wikipedia.org/wiki/Lifelog">Lifelogging</subitem>
         </item>
-        <item url="https://en.wikipedia.org/wiki/Science">Science</item>
+        <item>
+            <subitem url="https://en.wikipedia.org/wiki/Science">Science</subitem>
+            <subitem url="https://en.wikipedia.org/wiki/Mathematics">Mathematics</subitem>
+        </item>
         <item url="https://en.wikipedia.org/wiki/Simple_living">Simple living</item>
         <item>
             <subitem url="https://en.wikipedia.org/wiki/Technology">Technology</subitem>
