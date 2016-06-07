@@ -2,6 +2,11 @@
 <shows>
   <introduction>A list of TV shows I saw.</introduction>
   <show>
+    <date>2016.06.07</date>
+    <name url="https://en.wikipedia.org/wiki/Curb_Your_Enthusiasm">Curb Your Enthusiasm</name>
+    <series url="https://en.wikipedia.org/wiki/Curb_Your_Enthusiasm#Season_5_.282005.29" type="season">5</series>
+  </show>
+  <show>
     <date>2016.06.06</date>
     <name url="https://en.wikipedia.org/wiki/Bob's_Burgers">Bob's Burgers</name>
     <series url="https://en.wikipedia.org/wiki/Bob%27s_Burgers_(season_3)" type="season">3</series>
