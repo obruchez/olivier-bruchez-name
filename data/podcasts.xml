@@ -2,6 +2,11 @@
 <podcasts>
   <introduction>A list of podcasts I listened to.</introduction>
   <show>
+    <date>2016.06.07</date>
+    <name url="http://peachandblack.podbean.com/">Peach &amp; Black Podcast</name>
+    <episode url="http://peachandblack.podbean.com/e/prince-a-tribute/">Prince: A Tribute</episode>
+  </show>
+  <show>
     <date>2016.06.03</date>
     <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
     <episode url="https://www.samharris.org/podcast/item/thinking-in-public">Thinking in Public - A Conversation with Neil deGrasse Tyson</episode>
