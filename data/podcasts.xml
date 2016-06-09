@@ -176,7 +176,46 @@
     <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
     <episode url="https://www.samharris.org/podcast/item/faith-vs.-fact">Faith vs. Fact - An Interview with Jerry Coyne</episode>
   </show>
-
+  <show>
+    <date>2015.05.19</date>
+    <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
+    <episode url="https://www.samharris.org/podcast/item/final-thoughts-on-chomsky">Final Thoughts on Chomsky</episode>
+  </show>
+  <show>
+    <date>2015.05.01</date>
+    <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
+    <episode url="https://www.samharris.org/podcast/item/ask-me-anything-1">Ask Me Anything #1</episode>
+  </show>
+  <show>
+    <date>2015.04.29</date>
+    <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
+    <episode url="https://www.samharris.org/podcast/item/through-the-eyes-of-a-cult">Through the Eyes of a Cult</episode>
+  </show>
+  <show>
+    <date>2015.04.29</date>
+    <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
+    <episode url="https://www.samharris.org/podcast/item/the-chapel-hill-murders-and-militant-atheism">The Chapel Hill Murders and ‘Militant’ Atheism</episode>
+  </show>
+  <show>
+    <date>2015.04.28</date>
+    <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
+    <episode url="https://www.samharris.org/podcast/item/after-charlie-hebdo-and-other-thoughts">After Charlie Hebdo and Other Thoughts</episode>
+  </show>
+  <show>
+    <date>2015.04.27</date>
+    <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
+    <episode url="https://www.samharris.org/podcast/item/the-path-and-the-goal">The Path and the Goal - A Conversation with Joseph Goldstein</episode>
+  </show>
+  <show>
+    <date>2015.04.24</date>
+    <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
+    <episode url="https://www.samharris.org/podcast/item/why-dont-i-criticize-israel">Why Don’t I Criticize Israel?</episode>
+  </show>
+  <show>
+    <date>2015.04.24</date>
+    <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
+    <episode url="https://www.samharris.org/podcast/item/drugs-and-the-meaning-of-life">Drugs and the Meaning of Life</episode>
+  </show>
   <!--
   <show>
     <date></date>
@@ -186,10 +225,15 @@
   -->
 </podcasts>
 
+<!--<show>
+<date>201</date>
+  <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
+  <episode url="https://www.samharris.org/podcast/item/morality-and-the-christian-god">Morality and the Christian God - An Invitation to Animators and Filmmakers</episode>
+</show>-->
+
 <!--
 Alex & Erik's Podcast
 Compared To What Podcast
 Peach & Black Podcast (~89 episodes)
-Waking Up with Sam Harris
 etc.
 -->
