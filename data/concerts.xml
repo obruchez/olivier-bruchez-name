@@ -11,6 +11,24 @@
   -->
   <introduction>A list of concerts I went to.</introduction>
   <concert>
+    <date>2016.06.12</date>
+    <location>Opéra de Lausanne, Lausanne, Switzerland</location>
+    <event>"Faust" opera</event>
+    <musician inst="vocals">Paolo Fanale</musician>
+    <musician inst="vocals">Kenneth Kellog</musician>
+    <musician inst="vocals">Maria Katzarava</musician>
+    <musician inst="vocals">Régis Mengus</musician>
+    <musician inst="vocals">Benoît Capt</musician>
+    <musician inst="vocals">Carine Séchaye</musician>
+    <musician inst="vocals">Marina Viotti</musician>
+    <musician inst="orchestra">Orchestre de Chambre de Lausanne</musician>
+    <musician inst="conductor">Jean-Yves Ossonce</musician>
+    <musician inst="choir">Chœur de l’Opéra de Lausanne</musician>
+    <musician inst="choir director">Marcel Seminara</musician>
+    <rating>5.0</rating>
+    <comments>"Faust" opera (Charles Gounod), directed by Stefano Poda.</comments>
+  </concert>
+  <concert>
     <date>2016.05.25</date>
     <location>Forum Rolex, Learning Center, EPFL, Ecublens, Switzerland</location>
     <event>Jazz at the Polytechnique</event>
