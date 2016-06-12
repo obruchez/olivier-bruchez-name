@@ -2,6 +2,14 @@
 <movies>
   <introduction>A list of movies I saw.</introduction>
   <movie>
+    <date>2016.06.11</date>
+    <theater home="true"/>
+    <director>Sergio Leone</director>
+    <title>The Good, the Bad and the Ugly</title>
+    <url>http://www.imdb.com/title/tt0060196/</url>
+    <rating>5.0</rating>
+  </movie>
+  <movie>
     <date>2016.06.04</date>
     <theater home="true"/>
     <director>Sidney Lumet</director>
