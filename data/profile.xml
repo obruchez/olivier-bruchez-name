@@ -3,6 +3,7 @@
     <introduction>I'm a geek. I like lists. So this is me. In lists.</introduction>
     <list title="Activities">
         <item url="https://en.wikipedia.org/wiki/Blogging">Blogging</item>
+        <item url="https://en.wikipedia.org/wiki/Opera">Going to the opera</item>
         <item url="https://en.wikipedia.org/wiki/Theatre">Going to the theater</item>
         <item url="https://en.wikipedia.org/wiki/Meditating">Meditating</item>
         <item url="https://en.wikipedia.org/wiki/Reading_(process)">Reading</item>
@@ -42,10 +43,6 @@
         </item>
         <item url="https://en.wikipedia.org/wiki/Astronomy">Astronomy</item>
         <item url="https://en.wikipedia.org/wiki/Basic_income">Basic income</item>
-        <item>
-            <subitem url="https://en.wikipedia.org/wiki/Consciousness">Consciousness</subitem>
-            <subitem url="https://en.wikipedia.org/wiki/Free_will">Free will</subitem>     
-        </item>
         <item url="https://en.wikipedia.org/wiki/Consumer_protection">Consumer rights</item>
         <item>
             <subitem url="https://en.wikipedia.org/wiki/Electric_car">Electric cars</subitem>
@@ -62,7 +59,11 @@
             <subitem url="https://en.wikipedia.org/wiki/Mooc">MOOCs</subitem>
             <subitem url="https://en.wikipedia.org/wiki/Coursera">Coursera</subitem>
         </item>
-        <item url="https://en.wikipedia.org/wiki/Philosophy">Philosophy</item>
+        <item>
+            <subitem url="https://en.wikipedia.org/wiki/Philosophy">Philosophy</subitem>
+            <subitem url="https://en.wikipedia.org/wiki/Consciousness">Consciousness</subitem>
+            <subitem url="https://en.wikipedia.org/wiki/Free_will">Free will</subitem>     
+        </item>
         <item>
             <subitem url="https://en.wikipedia.org/wiki/Computer_programming">Programming</subitem>
             <subitem url="https://en.wikipedia.org/wiki/Software_development">Software development</subitem>
