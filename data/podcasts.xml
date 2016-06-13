@@ -2,6 +2,11 @@
 <podcasts>
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date>2016.06.13</date>
+    <name url="http://verybadwizards.com/">Very Bad Wizards</name>
+    <episode url="http://verybadwizards.com/episodes/38" number="38">The Greatest Movies Ever Made about Personal Identity</episode>
+  </podcast>
+  <podcast>
     <date>2016.06.10</date>
     <name url="http://verybadwizards.com/">Very Bad Wizards</name>
     <episode url="http://verybadwizards.com/episodes/27" number="27">You, Your Self, and Your Brain (with Eddy Nahmias)</episode>
