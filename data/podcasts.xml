@@ -77,6 +77,11 @@
     <episode url="https://www.samharris.org/podcast/item/the-light-of-the-mind">The Light of the Mind - A Conversation with David Chalmers</episode>
   </show>
   <show>
+    <date>2016.04.07</date>
+    <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
+    <episode url="https://www.samharris.org/podcast/item/evolving-minds">Evolving Minds - A Conversation with Jonathan Haidt</episode>
+  </show>
+  <show>
     <date>2016.03.31</date>
     <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
     <episode url="https://www.samharris.org/podcast/item/ask-me-anything-4">Ask Me Anything #4</episode>
