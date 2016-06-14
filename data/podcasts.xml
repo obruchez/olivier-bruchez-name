@@ -112,6 +112,11 @@
     <episode url="https://www.samharris.org/podcast/item/behind-the-gun">Behind the Gun - A Conversation with Scott Reitz</episode>
   </show>
   <show>
+    <date>2016.03.08</date>
+    <name url="http://peachandblack.podbean.com/">Peach &amp; Black Podcast</name>
+    <episode url="http://peachandblack.podbean.com/e/episode-3-3121-review/">3121 Review</episode>
+  </show>
+  <show>
     <date>2016.03.01</date>
     <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
     <episode url="https://www.samharris.org/podcast/item/meat-without-murder">Meat Without Misery - A Conversation with Uma Valeti</episode>
@@ -120,6 +125,21 @@
     <date>2016.02.25</date>
     <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
     <episode url="https://www.samharris.org/podcast/item/ask-me-anything-3">Ask Me Anything #3</episode>
+  </show>
+  <show>
+    <date>2016.02.19</date>
+    <name url="http://peachandblack.podbean.com/">Peach &amp; Black Podcast</name>
+    <episode url="http://peachandblack.podbean.com/e/lotusflow3r-review/">Lotusflow3r Review</episode>
+  </show>
+  <show>
+    <date>2016.02.15</date>
+    <name url="http://peachandblack.podbean.com/">Peach &amp; Black Podcast</name>
+    <episode url="http://peachandblack.podbean.com/e/mplsound-review/">MPLSound Review</episode>
+  </show>
+  <show>
+    <date>2016.02.09</date>
+    <name url="http://peachandblack.podbean.com/">Peach &amp; Black Podcast</name>
+    <episode url="http://peachandblack.podbean.com/e/musicology-review/">Musicology Review</episode>
   </show>
   <show>
     <date>2016.01.05</date>
@@ -135,6 +155,21 @@
     <date>2015.12.22</date>
     <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
     <episode url="https://www.samharris.org/podcast/item/surviving-the-cosmos">Surviving the Cosmos - A Conversation with David Deutsch</episode>
+  </show>
+  <show>
+    <date>2015.11.26</date>
+    <name url="http://peachandblack.podbean.com/">Peach &amp; Black Podcast</name>
+    <episode url="http://peachandblack.podbean.com/e/michael-jackson-and-prince-show/">Michael Jackson (and Prince) Show</episode>
+  </show>
+  <show>
+    <date>2015.11.18</date>
+    <name url="http://peachandblack.podbean.com/">Peach &amp; Black Podcast</name>
+    <episode url="http://peachandblack.podbean.com/e/lotusflow3r-first-impressions-podcast/">Lotusflow3r - First Impressions Podcast!</episode>
+  </show>
+  <show>
+    <date>2015.11.17</date>
+    <name url="http://peachandblack.podbean.com/">Peach &amp; Black Podcast</name>
+    <episode url="http://peachandblack.podbean.com/e/lotusflow3r-anticipation-podcast/">Lotusflow3r Anticipation Podcast</episode>
   </show>
   <show>
     <date>2015.11.16</date>
@@ -231,6 +266,11 @@
     <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
     <episode url="https://www.samharris.org/podcast/item/drugs-and-the-meaning-of-life">Drugs and the Meaning of Life</episode>
   </show>
+  <show>
+    <date>2015.04.15</date>
+    <name url="http://peachandblack.podbean.com/">Peach &amp; Black Podcast</name>
+    <episode url="http://peachandblack.podbean.com/e/episode-2-planet-earth-review/">Planet Earth Review</episode>
+  </show>
   <!--
   <show>
     <date></date>
@@ -249,6 +289,6 @@
 <!--
 Alex & Erik's Podcast
 Compared To What Podcast
-Peach & Black Podcast (~89 episodes)
+Peach & Black Podcast (~89 episodes) (OK -> Michael Jackson (and Prince) Show)
 etc.
 -->
