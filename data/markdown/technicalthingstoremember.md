@@ -126,3 +126,9 @@ if ($pos >= 0) {
 * extract MLP files using DVDAExplorer Alpha 7
 * uncompress MLP files to WAV using SurCode MLP 1.0.29 [eac3to](http://forum.doom9.org/showthread.php?t=125966) (FFmpeg?)
 * convert 2-channel WAV files to 6-channel WAV files using wavewizard 0.54b
+
+## Fix MySQL not starting
+
+* error: "Do you already have another mysqld server running on socket: /var/run/mysqld/mysqld.sock"
+* solution: [http://ubuntuforums.org/showthread.php?t=1861136](http://ubuntuforums.org/showthread.php?t=1861136)
+* important : partie "/{,var/}run" (accolades)
