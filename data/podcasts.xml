@@ -285,6 +285,11 @@
     <name url="http://peachandblack.podbean.com/">Peach &amp; Black Podcast</name>
     <episode url="http://peachandblack.podbean.com/e/episode-2-planet-earth-review/">Planet Earth Review</episode>
   </show>
+  <podcast>
+    <date>2015.02.26</date>
+    <name url="http://verybadwizards.com/">Very Bad Wizards</name>
+    <episode url="http://verybadwizards.com/episodes/59" number="59">Tumors All the Way Down (With Sam Harris)</episode>
+  </podcast>
   <!--
   <show>
     <date></date>
