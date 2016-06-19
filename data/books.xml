@@ -2,6 +2,16 @@
 <books>
     <introduction>A list of books I read.</introduction>
     <book>
+        <date></date>
+        <title>Pladoyer pour les animaux</title>
+        <subtitle>Vers une bienveillance pour tous</subtitle>
+        <author>Matthieu Ricard</author>
+        <publishingyear>2014</publishingyear>
+        <rating></rating>
+        <url>https://books.google.ch/books?id=pHmuBAAAQBAJ</url>
+        <!-- <notes description="Kindle highlights"></notes> -->
+    </book>
+    <book>
         <date>2016.06.19</date>
         <title>Faith Versus Fact</title>
         <subtitle>Why Science and Religion are Incompatible</subtitle>
