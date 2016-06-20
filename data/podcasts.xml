@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <podcasts>
   <introduction>A list of podcasts I listened to.</introduction>
+  <date></date>
+    <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
+    <episode url="https://www.samharris.org/podcast/item/the-end-of-faith-sessions-2">The End of Faith Sessions 2</episode>
+  </show>
+  <podcast>
+    <date>2016.06.20</date>
+    <name>Alex &amp; Erik's Podcast</name>
+    <episode number="33">Long or short</episode>
+  </podcast>
   <podcast>
     <date>2016.06.17</date>
     <name url="http://verybadwizards.com/">Very Bad Wizards</name>
