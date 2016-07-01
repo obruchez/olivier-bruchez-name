@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <podcasts>
   <introduction>A list of podcasts I listened to.</introduction>
+  <show>
+    <date>2016.07.01</date>
+    <name url="http://peachandblack.podbean.com/">Peach &amp; Black Podcast</name>
+    <episode url="http://peachandblack.podbean.com/e/the-slaughterhouse-review/">The Slaughterhouse Review</episode>
+  </show>
   <podcast>
     <date>2016.07.01</date>
     <name url="http://verybadwizards.com/">Very Bad Wizards</name>
