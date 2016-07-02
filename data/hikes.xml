@@ -115,4 +115,31 @@
     <place>Gd-St-Bernard, Switzerland</place>
     <pictures url="https://www.flickr.com/photos/bruchez/sets/72157624768442755/"/>
   </hike>
+  <hike>
+    <date>2010.06.26</date>
+    <place>Panossière, Switzerland</place>
+    <pictures url="https://www.flickr.com/photos/bruchez/sets/72157624472561093/"/>
+  </hike>
+  <hike>
+    <date>2009.11.01</date>
+    <place>Sovereu, Switzerland</place>
+    <pictures url="https://www.flickr.com/photos/bruchez/sets/72157623318189240/"/>
+  </hike>
+  <hike>
+    <date>2009.08.05</date>
+    <place>Col des Avouillons, Switzerland</place>
+    <pictures url="https://www.flickr.com/photos/bruchez/sets/72157621862438517/"/>
+  </hike>
+  <hike>
+    <date>2009.07.05</date>
+    <place>Cabane Brunet, Switzerland</place>
+    <pictures url="https://www.flickr.com/photos/bruchez/sets/72157621189493354/"/>
+  </hike>
+
+  <!-- <hike>
+    <date></date>
+    <place></place>
+    <pictures url=""/>
+  </hike> -->
+
 </hikes>
