@@ -126,6 +126,11 @@
     <episode url="https://www.samharris.org/podcast/item/the-light-of-the-mind">The Light of the Mind - A Conversation with David Chalmers</episode>
   </show>
   <show>
+    <date>2016.04.13</date>
+    <name url="http://peachandblack.podbean.com/">Peach &amp; Black Podcast</name>
+    <episode url="http://peachandblack.podbean.com/e/na-na-na-na-na-na-na-batman-review/">Na Na Na Na Na Na Na Batman Review!</episode>
+  </show>
+  <show>
     <date>2016.04.07</date>
     <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
     <episode url="https://www.samharris.org/podcast/item/evolving-minds">Evolving Minds - A Conversation with Jonathan Haidt</episode>
@@ -206,6 +211,16 @@
     <episode url="https://www.samharris.org/podcast/item/surviving-the-cosmos">Surviving the Cosmos - A Conversation with David Deutsch</episode>
   </show>
   <show>
+    <date>2015.11.28</date>
+    <name url="http://peachandblack.podbean.com/">Peach &amp; Black Podcast</name>
+    <episode url="http://peachandblack.podbean.com/e/sydney-opera-house-challenge/">Sydney Opera House Challenge!</episode>
+  </show>
+  <show>
+    <date>2015.11.27</date>
+    <name url="http://peachandblack.podbean.com/">Peach &amp; Black Podcast</name>
+    <episode url="http://peachandblack.podbean.com/e/mjf-review/">MJF Review</episode>
+  </show>
+  <show>
     <date>2015.11.26</date>
     <name url="http://peachandblack.podbean.com/">Peach &amp; Black Podcast</name>
     <episode url="http://peachandblack.podbean.com/e/michael-jackson-and-prince-show/">Michael Jackson (and Prince) Show</episode>
@@ -271,6 +286,36 @@
     <episode url="https://www.samharris.org/podcast/item/shouldering-the-burden-of-history">Shouldering the Burden of History - A Crosscast with Dan Carlin</episode>
   </show>
   <show>
+    <date>2015.09.11</date>
+    <name url="http://peachandblack.podbean.com/">Peach &amp; Black Podcast</name>
+    <episode url="http://peachandblack.podbean.com/e/october-news-episode/">October News Episode</episode>
+  </show>
+  <show>
+    <date>2015.09.10</date>
+    <name url="http://peachandblack.podbean.com/">Peach &amp; Black Podcast</name>
+    <episode url="http://peachandblack.podbean.com/e/news-episode-september/">News Episode - September</episode>
+  </show>
+  <show>
+    <date>2015.09.03</date>
+    <name url="http://peachandblack.podbean.com/">Peach &amp; Black Podcast</name>
+    <episode url="http://peachandblack.podbean.com/e/one-nite-alone-era-0203/">One Nite Alone Era (02/03)</episode>
+  </show>
+  <show>
+    <date>2015.07.06</date>
+    <name url="http://peachandblack.podbean.com/">Peach &amp; Black Podcast</name>
+    <episode url="http://peachandblack.podbean.com/e/symbolic-beginnings/">Symbolic Beginnings</episode>
+  </show>
+  <show>
+    <date>2015.06.30</date>
+    <name url="http://peachandblack.podbean.com/">Peach &amp; Black Podcast</name>
+    <episode url="http://peachandblack.podbean.com/e/the-rainbow-children-review-part-1/">The Rainbow Children Review - Part 1</episode>
+  </show>
+  <show>
+    <date>2015.06.29</date>
+    <name url="http://peachandblack.podbean.com/">Peach &amp; Black Podcast</name>
+    <episode url="http://peachandblack.podbean.com/e/the-rainbow-children-review-part-2/">The Rainbow Children Review - Part 2</episode>
+  </show>
+  <show>
     <date>2015.05.21</date>
     <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
     <episode url="https://www.samharris.org/podcast/item/faith-vs.-fact">Faith vs. Fact - An Interview with Jerry Coyne</episode>
@@ -325,6 +370,7 @@
     <name url="http://verybadwizards.com/">Very Bad Wizards</name>
     <episode url="http://verybadwizards.com/episodes/59" number="59">Tumors All the Way Down (With Sam Harris)</episode>
   </podcast>
+
   <!--
   <show>
     <date></date>
@@ -332,11 +378,17 @@
     <episode url="" number=""></episode>
   </show>
   -->
+
+  <!-- <show>
+    <date></date>
+    <name url="http://peachandblack.podbean.com/">Peach &amp; Black Podcast</name>
+    <episode url="http://peachandblack.podbean.com/e/the-shelbey-interview/">The Shelbey Interview</episode>
+  </show> -->
 </podcasts>
 
 <!--
 Alex & Erik's Podcast
 Compared To What Podcast
-Peach & Black Podcast (~89 episodes) (OK -> Michael Jackson (and Prince) Show)
+Peach & Black Podcast (~89 episodes) (OK -> SYMBOLIC BEGINNINGS = January 2010)
 etc.
 -->
