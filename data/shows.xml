@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <shows>
   <introduction>A list of TV shows I saw.</introduction>
+    <show>
+    <date>2016.07.03</date>
+    <name url="https://en.wikipedia.org/wiki/Louie_(TV_series)">Louie</name>
+    <series url="https://en.wikipedia.org/wiki/Louie_(season_3)" type="season">3</series>
+  </show>
   <show>
     <date>2016.07.02</date>
     <name url="https://en.wikipedia.org/wiki/Silicon_Valley_(TV_series)">Silicon Valley</name>
@@ -34,7 +39,7 @@
   <show>
     <date>2016.05.10</date>
     <name url="https://en.wikipedia.org/wiki/Louie_(TV_series)">Louie</name>
-    <series url="https://en.wikipedia.org/wiki/List_of_Louie_episodes#Season_2_.282011.29" type="season">2</series>
+    <series url="https://en.wikipedia.org/wiki/Louie_(season_2)" type="season">2</series>
   </show>
   <show>
     <date>2016.05.01</date>
@@ -49,7 +54,7 @@
   <show>
     <date>2016.03.10</date>
     <name url="https://en.wikipedia.org/wiki/Louie_(TV_series)">Louie</name>
-    <series url="https://en.wikipedia.org/wiki/List_of_Louie_episodes#Season_1_.282010.29" type="season">1</series>
+    <series url="https://en.wikipedia.org/wiki/Louie_(season_1)" type="season">1</series>
   </show>
   <show>
     <date>2016.03.07</date>
