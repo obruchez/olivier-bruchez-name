@@ -4,6 +4,7 @@ import blogger.Blogger
 import controllers.routes
 import models._
 import org.joda.time.ReadablePartial
+import org.jsoup.Jsoup
 import scala.util.Try
 import util._
 
@@ -26,8 +27,27 @@ object Post {
       date = bloggerPost.publicationDate,
       title = bloggerPost.title,
       content = bloggerPost.content,
+      //content = HtmlContent(cleanHtml(bloggerPost.content.htmlString)),
       relativePermalink = bloggerPost.relativePermalink,
       itemUrl = Some(routes.BlogPostsController.blogPost(bloggerPost.relativePermalink).url))
+
+  protected def cleanHtml(html: String): String = {
+    val doc = Jsoup.parse(html)
+
+    //val cleaner = new org.jsoup.safety.Cleaner(org.jsoup.safety.Whitelist.relaxed())
+    //val cleanDoc = cleaner.clean(doc)
+
+    doc.outputSettings(doc.outputSettings().prettyPrint(false))
+
+    val out = doc.outerHtml
+
+    println("=" * 80)
+    println(out)
+    println("=" * 80)
+
+    // @todo
+    out
+  }
 }
 
 case class Posts(override val listItems: Seq[Post]) extends Cacheable {
@@ -45,5 +65,6 @@ object Posts extends Fetchable {
     Posts(
       // @todo how many posts do we really want to fetch? (500 is actually the maximum allowed)
       listItems = Blogger.latestPosts(count = 500).map(Post(_)))
+      //listItems = Blogger.latestPosts(count = 1).map(Post(_)))
   }
 }
