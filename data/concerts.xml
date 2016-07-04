@@ -11,6 +11,40 @@
   -->
   <introduction>A list of concerts I went to.</introduction>
   <concert>
+    <date>2016.07.03</date>
+    <location>Auditorium Stravinski, Montreux, Switzerland</location>
+    <event>Montreux Jazz Festival</event>
+    <group>John McLaughlin &amp; the 4th Dimension</group>
+    <musician inst="guitar, vocals" main="true">John McLaughlin</musician>
+    <musician inst="keyboards, drums, vocals">Gary Husband</musician>
+    <musician inst="bass, vocals">Etienne Mbappe</musician>
+    <musician inst="drums, vocals">Ranjit Barot</musician>
+    <rating>5.25</rating>
+    <comments/>
+  </concert>
+  <concert>
+    <date>2016.07.03</date>
+    <location>Auditorium Stravinski, Montreux, Switzerland</location>
+    <event>Montreux Jazz Festival</event>
+    <group>Scofield Mehldau Guiliana</group>
+    <musician inst="guitar, bass" main="true">John Scofield</musician>
+    <musician inst="piano, keyboards" main="true">Brad Mehdlau</musician>
+    <musician inst="drums">Mark Guiliana</musician>
+    <rating>5.0</rating>
+    <comments/>
+  </concert>
+  <concert>
+    <date>2016.07.03</date>
+    <location>Auditorium Stravinski, Montreux, Switzerland</location>
+    <event>Montreux Jazz Festival</event>
+    <musician inst="piano, keyboards" main="true">Herbie Hancock</musician>
+    <musician inst="bass ">James Genus</musician>
+    <musician inst="drums">Travor Lawrence Jr</musician>
+    <musician inst="keyboards, saxophone, vocoder">Terrace Martin</musician>
+    <rating>4.75</rating>
+    <comments/>
+  </concert>
+  <concert>
     <date>2016.06.12</date>
     <location>Opéra de Lausanne, Lausanne, Switzerland</location>
     <event>"Faust" opera</event>
