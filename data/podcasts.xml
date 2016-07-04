@@ -2,6 +2,11 @@
 <podcasts>
   <introduction>A list of podcasts I listened to.</introduction>
   <show>
+    <date>2016.07.04</date>
+    <name url="http://peachandblack.podbean.com/">Peach &amp; Black Podcast</name>
+    <episode url="http://peachandblack.podbean.com/e/20ten-review/">20Ten Review</episode>
+  </show>
+  <show>
     <date>2016.07.01</date>
     <name url="http://peachandblack.podbean.com/">Peach &amp; Black Podcast</name>
     <episode url="http://peachandblack.podbean.com/e/the-slaughterhouse-review/">The Slaughterhouse Review</episode>
