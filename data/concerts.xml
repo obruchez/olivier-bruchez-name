@@ -10,6 +10,32 @@
   - Avenches (Arènes): Carmen (Bizet)
   -->
   <introduction>A list of concerts I went to.</introduction>
+
+  <concert>
+    <date>2016.07.11</date>
+    <location>Montreux Jazz Club, Montreux, Switzerland</location>
+    <event>Montreux Jazz Festival</event>
+    <group>Bill Evans, Darryl Jones, Dennis Chambers &amp; Dean Brown</group>
+    <musician inst="saxophone, vocals" main="true">Bill Evans</musician>
+    <musician inst="bass" main="true">Darryl Jones</musician>
+    <musician inst="drums" main="true">Dennis Chambers</musician>
+    <musician inst="guitar, vocals" main="true">Dean Brown</musician>
+    <rating>5.25</rating>
+    <comments/>
+  </concert>
+  <concert>
+    <date>2016.07.11</date>
+    <location>Montreux Jazz Club, Montreux, Switzerland</location>
+    <event>Montreux Jazz Festival</event>
+    <musician inst="trumpet, reverse flugelhorn, sirenette" main="true">Christian Scott</musician>
+    <musician inst="saxophone alto">Braxton Cook</musician>
+    <musician inst="piano, keyboards">Lawrence Fields</musician>
+    <musician inst="bass">Kris Funn</musician>
+    <musician inst="drums">Cory Fonville</musician>
+    <musician inst="flute">Elena Pinderhughes</musician>
+    <rating>4.5</rating>
+    <comments/>
+  </concert>
   <concert>
     <date>2016.07.03</date>
     <location>Auditorium Stravinski, Montreux, Switzerland</location>
