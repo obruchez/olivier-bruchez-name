@@ -132,3 +132,48 @@ if ($pos >= 0) {
 * error: "Do you already have another mysqld server running on socket: /var/run/mysqld/mysqld.sock"
 * solution: [http://ubuntuforums.org/showthread.php?t=1861136](http://ubuntuforums.org/showthread.php?t=1861136)
 * important : partie "/{,var/}run" (accolades)
+
+## Install postfix on Debian to send e-mail without an external mail server
+
+* install postfix package
+* sudo mkfifo /var/spool/postfix/public/pickup
+* sudo /etc/init.d/sendmail stop
+* sudo /etc/init.d/postfix restart
+* appeler newaliases après avoir modifié aliases (/etc/aliases)
+
+## Make/rip an image from a DVD-Video (Mac only)
+
+* use [RipIt](http://thelittleappfactory.com/ripit/)
+
+## Install pure-ftpd on Debian
+
+* install pure-ftpd package
+* create folder for FTP user
+* create new user following the instructions in [README.Virtual-Users](https://download.pureftpd.org/pub/pure-ftpd/doc/README.Virtual-Users)
+* modify /etc/inetd.conf and update the FTP command as "/usr/sbin/pure-ftpd -l puredb:/etc/pure-ftpd/pureftpd.pdb" (needed only once)
+* don't forget to commit the changes (pure-pw mkdb)
+* restart inetd (killall -HUP inetd)
+
+## Make a PDF from JPEG files
+
+* use Mac OS Preview
+
+## Make SqueezeBox Server list multi-disc compilations correctly
+
+A multi-disc compilation would be an album with several discs and different artists per track. The goal is to have it listed under each artist under "Artists", as well as a single entry under "Albums".
+
+* add "COMPILATION" tag with a value of "1" using Mp3tag
+* add an album artist, if needed
+* if needed, update "MUSICBRAINZ_*" tags to force the album artist to a given name or to force the "various artists" mode
+* make sure "List compilation albums under each artist" option is enabled
+* make sure "List albums by all artists for that album" option is enabled
+* make sure "Treat multi-disc sets as a single album" option is enabled
+* make sure "Treat TPE2 MP3 tag as Album Artist" option is enabled
+* if this doesn't work, make sure DISCNUMBER tags are present (one per folder)
+
+## Make SqueezeBox Server parse all folders correctly (guess tags)
+
+* add the following "Guess Tags Formats" (Settings > Advanced > Formatting)
+  * ARTIST - ALBUM/DISC COMMENT/TRACKNUM TITLE
+  * ARTIST - ALBUM/DISC/TRACKNUM TITLE
+  * ARTIST - ALBUM/TRACKNUM TITLE
