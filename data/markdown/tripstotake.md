@@ -88,7 +88,7 @@ See also [1000 places to see before you die](http://1000places.com/).
 * [St. Gallen](https://en.wikipedia.org/wiki/St._Gallen)
 * [Ticino](https://en.wikipedia.org/wiki/Ticino)
 * [Valais](https://en.wikipedia.org/wiki/Valais) (lots of places I've still not visited - example: ["Valais : Les p’tits coins de paradis"](http://www.hebdo.ch/valais___les_coins_de_paradis_112509_.html))
-* [Zermatt](https://en.wikipedia.org/wiki/Zermatt) / [Matterhorn](https://en.wikipedia.org/wiki/Matterhorn)
+* [Zermatt](https://en.wikipedia.org/wiki/Zermatt) / [Matterhorn](https://en.wikipedia.org/wiki/Matterhorn) (already visited, to visit again in the winter?)
 
 ## Themes
 
