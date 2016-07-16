@@ -12,6 +12,34 @@
   <introduction>A list of concerts I went to.</introduction>
 
   <concert>
+    <date>2016.07.14</date>
+    <location>Auditorium Stravinski, Montreux, Switzerland</location>
+    <event>Montreux Jazz Festival</event>
+    <musician inst="guitar, vocals" main="true">Carlos Santana</musician>
+    <musician inst="percussion">Paoli Mejias</musician>
+    <musician inst="guitar, vocals">Tommy Anthony</musician>
+    <musician inst="percussion">Karl Perazzo</musician>
+    <musician inst="vocals">Andy Vargas</musician>
+    <musician inst="keyboards">David K. Mathews</musician>
+    <musician inst="bass">Benny Rietveld</musician>
+    <musician inst="drums">Cindy Blackman Santana</musician>
+    <musician inst="vocals">Ray Greene</musician>
+    <rating>4.25</rating>
+    <comments/>
+  </concert>
+  <concert>
+    <date>2016.07.14</date>
+    <location>Auditorium Stravinski, Montreux, Switzerland</location>
+    <event>Montreux Jazz Festival</event>
+    <musician inst="bass, bass clarinet, gimbri" main="true">Marcus Miller</musician>
+    <musician inst="drums">Alex Bailey</musician>
+    <musician inst="saxophone">Alex Han</musician>
+    <musician inst="trumpet">Russell Gunn</musician>
+    <musician inst="keyboards">Brett Williams</musician>
+    <rating>5.25</rating>
+    <comments/>
+  </concert>
+  <concert>
     <date>2016.07.11</date>
     <location>Montreux Jazz Club, Montreux, Switzerland</location>
     <event>Montreux Jazz Festival</event>
@@ -145,7 +173,7 @@
     <date>2015.10.30</date>
     <location>Salle Paderewski, Casino de Montbenon, Lausanne, Switzerland</location>
     <event>JazzOnze+ Festival Lausanne</event>
-    <musician inst="bass, bass clarinet" main="true">Marcus Miller</musician>
+    <musician inst="bass, bass clarinet, gimbri" main="true">Marcus Miller</musician>
     <musician inst="trumpet">Marquis Hill</musician>
     <musician inst="saxophone">Alex Han</musician>
     <musician inst="guitar">Adam Agati</musician>
