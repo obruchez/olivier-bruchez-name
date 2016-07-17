@@ -220,6 +220,8 @@ Pretty much everything from [IMDb's Top 250](http://www.imdb.com/chart/top). See
 * Alejandro González Iñárritu, [Amores Perros](http://www.imdb.com/title/tt0245712) (8.1)
 * Alejandro González Iñárritu, [21 Grams](http://www.imdb.com/title/tt0315733) (7.7)
 * Alejandro González Iñárritu, [Biutiful](http://www.imdb.com/title/tt1164999) (7.5)
+* Alejandro Jodorowsky, [Endless Poetry](http://www.imdb.com/title/tt4451458/) (8.0)
+* Alejandro Jodorowsky, [The Holy Mountain](http://www.imdb.com/title/tt0071615/) (7.9)
 * Duncan Jones, [Moon](http://www.imdb.com/title/tt1182345) (8.0)
 * Barbara Kopple & Cecilia Peck, [Shut Up & Sing](http://www.imdb.com/title/tt0811136) (7.7)
 * Akira Kurosawa, [Ran](http://www.imdb.com/title/tt0089881) (8.3) (recommended by [@ebruchez](https://twitter.com/ebruchez))
