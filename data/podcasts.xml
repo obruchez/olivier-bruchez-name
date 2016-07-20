@@ -2,6 +2,11 @@
 <podcasts>
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date>2016.07.20</date>
+    <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
+    <episode url="https://www.samharris.org/podcast/item/complexity-stupidity">Complexity &amp; Stupidity - A Conversation with David Krakauer</episode>
+  </show>
+  <podcast>
     <date>2016.07.08</date>
     <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
     <episode url="https://www.samharris.org/podcast/item/free-will-revisited">Free Will Revisited - A Conversation with Daniel Dennett</episode>
