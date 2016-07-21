@@ -3,6 +3,11 @@
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
     <date>2016.07.20</date>
+    <name url="http://verybadwizards.com/">Very Bad Wizards</name>
+    <episode url="http://verybadwizards.com/episodes/9" number="9">Social Psychology, Situationism, and Moral Character</episode>
+  </podcast>
+  <podcast>
+    <date>2016.07.20</date>
     <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
     <episode url="https://www.samharris.org/podcast/item/complexity-stupidity">Complexity &amp; Stupidity - A Conversation with David Krakauer</episode>
   </show>
