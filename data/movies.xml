@@ -2,6 +2,22 @@
 <movies>
   <introduction>A list of movies I saw.</introduction>
   <movie>
+    <date>2016.08.20</date>
+    <theater>Corso, Martigny</theater>
+    <director>Frédéric Mermoud</director>
+    <title>Moka</title>
+    <url>http://www.imdb.com/title/tt5072406/</url>
+    <rating>4.0</rating>
+  </movie>
+  <movie>
+    <date>2016.07.30</date>
+    <theater>Flight QR 0100, Qatar Airways</theater>
+    <director>David O. Russell</director>
+    <title>Silver Linings Playbook</title>
+    <url>http://www.imdb.com/title/tt1045658/</url>
+    <rating>4.25</rating>
+  </movie>
+  <movie>
     <date>2016.06.11</date>
     <theater home="true"/>
     <director>Sergio Leone</director>
