@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <podcasts>
   <introduction>A list of podcasts I listened to.</introduction>
-    <show>
+  <podcast>
+    <date>2016.08.24</date>
+    <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
+    <episode url="https://www.samharris.org/podcast/item/faith-in-reason">Faith in Reason - A Conversation with Eric R. Weinstein</episode>
+  </show>
+  <show>
     <date>2016.07.29</date>
     <name url="http://peachandblack.podbean.com/">Peach &amp; Black Podcast</name>
     <episode url="http://peachandblack.podbean.com/e/parade-review-25th-anniversary-edition/">Parade Review - 25th Anniversary Edition!</episode>
