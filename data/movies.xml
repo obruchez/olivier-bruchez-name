@@ -2,6 +2,24 @@
 <movies>
   <introduction>A list of movies I saw.</introduction>
   <movie>
+    <date>2016.08.24</date>
+    <theater>Le Capitole, Lausanne</theater>
+    <director>Charlie Chaplin</director>
+    <title>A Dog's Life</title>
+    <url>http://www.imdb.com/title/tt0009018/</url>
+    <rating>5.0</rating>
+    <comments>Live music by the Orchestre des Jardins Musicaux.</comments>
+  </movie>
+  <movie>
+    <date>2016.08.24</date>
+    <theater>Le Capitole, Lausanne</theater>
+    <director>Charlie Chaplin</director>
+    <title>The Pilgrim</title>
+    <url>http://www.imdb.com/title/tt0014358/</url>
+    <rating>5.0</rating>
+    <comments>Live music by the Orchestre des Jardins Musicaux.</comments>
+  </movie>
+  <movie>
     <date>2016.08.20</date>
     <theater>Corso, Martigny</theater>
     <director>Frédéric Mermoud</director>
