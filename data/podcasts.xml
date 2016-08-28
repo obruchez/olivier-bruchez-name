@@ -2,6 +2,11 @@
 <podcasts>
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date>2016.08.28</date>
+    <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
+    <episode url="https://www.samharris.org/podcast/item/racism-and-violence-in-america">Racism and Violence in America - A Conversation with Glenn C. Loury</episode>
+  </show>
+  <podcast>
     <date>2016.08.24</date>
     <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
     <episode url="https://www.samharris.org/podcast/item/faith-in-reason">Faith in Reason - A Conversation with Eric R. Weinstein</episode>
