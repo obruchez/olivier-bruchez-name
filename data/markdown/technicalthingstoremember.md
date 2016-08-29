@@ -84,7 +84,7 @@ if ($pos >= 0) {
 ```
 * use Active Perl binary (Windows)
 
-## Convert FLAC files to MP3 (including tags) (Mac OS X)
+## Convert FLAC files to MP3 (including tags) (OS X)
 
 * for f in *.flac; do ffmpeg -i "$f" -ab 320k -map_metadata 0 -id3v2_version 3 "${f%flac}mp3"; done
 
@@ -158,7 +158,7 @@ if ($pos >= 0) {
 
 * use Mac OS Preview
 
-## Make SqueezeBox Server list multi-disc compilations correctly
+## Make Logitech Media Server list multi-disc compilations correctly
 
 A multi-disc compilation would be an album with several discs and different artists per track. The goal is to have it listed under each artist under "Artists", as well as a single entry under "Albums".
 
@@ -171,9 +171,25 @@ A multi-disc compilation would be an album with several discs and different arti
 * make sure "Treat TPE2 MP3 tag as Album Artist" option is enabled
 * if this doesn't work, make sure DISCNUMBER tags are present (one per folder)
 
-## Make SqueezeBox Server parse all folders correctly (guess tags)
+## Make Logitech Media Server parse all folders correctly (guess tags)
 
 * add the following "Guess Tags Formats" (Settings > Advanced > Formatting)
   * ARTIST - ALBUM/DISC COMMENT/TRACKNUM TITLE
   * ARTIST - ALBUM/DISC/TRACKNUM TITLE
   * ARTIST - ALBUM/TRACKNUM TITLE
+
+## Make Tomcat follow symlinks
+
+* add an "allowLinking" attribute in conf/context.xml (<Context allowLinking="true">)
+
+## Mount a CD/DVD image under Windows
+
+* use VCdControlTool.exe (available from microsoft.com)
+
+## Mount an SSHFS volume with accented characters (OS X)
+
+* use “-omodules=iconv,from_code=UTF-8,to_code=UTF-8-MAC” option
+
+## Mount a read-only SSHFS volume using MacFUSE/MacFusion
+
+* use "-o ro" option
