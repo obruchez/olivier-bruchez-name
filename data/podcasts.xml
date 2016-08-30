@@ -2,6 +2,11 @@
 <podcasts>
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date>2016.08.30</date>
+    <name>Alex &amp; Erik's Podcast</name>
+    <episode number="35">Public vs private image</episode>
+  </podcast>
+  <podcast>
     <date>2016.08.28</date>
     <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
     <episode url="https://www.samharris.org/podcast/item/racism-and-violence-in-america">Racism and Violence in America - A Conversation with Glenn C. Loury</episode>
