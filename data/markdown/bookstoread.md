@@ -236,6 +236,7 @@ Pretty much everything from [Les cent livres du siècle](https://fr.wikipedia.or
 * Winifred Gallagher, ["Rapt: Attention and the Focused Life"](http://www.amazon.com/Rapt-Attention-Focused-Winifred-Gallagher/dp/0143116908)
 * Daniel Goleman, ["Emotional Intelligence: 10th Anniversary Edition; Why It Can Matter More Than IQ"](http://www.amazon.com/Emotional-Intelligence-Matter-More-Than/dp/055338371X)
 * Jonathan Haidt, ["The Happiness Hypothesis: Putting Ancient Wisdom to the Test of Modern Science"](http://www.amazon.com/Happiness-Hypothesis-Putting-Ancient-Science-ebook/dp/B00YY05O7G/) (had a really good discussion with [@SamHarrisOrg](https://twitter.com/SamHarrisOrg) on his podcast)
+* Michael John Harris, ["The End of Absence: Reclaiming What We've Lost in a World of Constant Connection"](https://www.amazon.com/End-Absence-Reclaiming-Constant-Connection-ebook/dp/B00INIYHFU/)
 * Robert-Vincent Joule & Jean-Léon Beauvois, ["La soumission librement consentie"](https://fr.wikipedia.org/wiki/Soumission_librement_consentie) (read ["Petit traité de manipulation à l'usage des honnêtes gens"](https://fr.wikipedia.org/wiki/Petit_trait%C3%A9_de_manipulation_%C3%A0_l%27usage_des_honn%C3%AAtes_gens) from them)
 * Daniel Kahneman, ["Thinking, Fast and Slow"](https://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow) (recommended by [@mistertricker](https://twitter.com/mistertricker))
 * Barry Schwartz, ["The Paradox of Choice: Why More Is Less"](https://en.wikipedia.org/wiki/The_Paradox_of_Choice)
