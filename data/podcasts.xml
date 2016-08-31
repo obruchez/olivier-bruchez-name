@@ -2,6 +2,11 @@
 <podcasts>
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date>2016.08.31</date>
+    <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
+    <episode url="https://www.samharris.org/podcast/item/what-do-jihadists-really-want" number="43">What Do Jihadists Really Want?</episode>
+  </show>
+  <podcast>
     <date>2016.08.30</date>
     <name>Alex &amp; Erik's Podcast</name>
     <episode number="35">Public vs private image</episode>
@@ -9,12 +14,12 @@
   <podcast>
     <date>2016.08.28</date>
     <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
-    <episode url="https://www.samharris.org/podcast/item/racism-and-violence-in-america">Racism and Violence in America - A Conversation with Glenn C. Loury</episode>
+    <episode url="https://www.samharris.org/podcast/item/racism-and-violence-in-america" number="42">Racism and Violence in America - A Conversation with Glenn C. Loury</episode>
   </show>
   <podcast>
     <date>2016.08.24</date>
     <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
-    <episode url="https://www.samharris.org/podcast/item/faith-in-reason">Faith in Reason - A Conversation with Eric R. Weinstein</episode>
+    <episode url="https://www.samharris.org/podcast/item/faith-in-reason" number="41">Faith in Reason - A Conversation with Eric R. Weinstein</episode>
   </show>
   <show>
     <date>2016.07.29</date>
@@ -34,12 +39,12 @@
   <podcast>
     <date>2016.07.20</date>
     <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
-    <episode url="https://www.samharris.org/podcast/item/complexity-stupidity">Complexity &amp; Stupidity - A Conversation with David Krakauer</episode>
+    <episode url="https://www.samharris.org/podcast/item/complexity-stupidity" number="40">Complexity &amp; Stupidity - A Conversation with David Krakauer</episode>
   </show>
   <podcast>
     <date>2016.07.08</date>
     <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
-    <episode url="https://www.samharris.org/podcast/item/free-will-revisited">Free Will Revisited - A Conversation with Daniel Dennett</episode>
+    <episode url="https://www.samharris.org/podcast/item/free-will-revisited" number="39">Free Will Revisited - A Conversation with Daniel Dennett</episode>
   </show>
   <show>
     <date>2016.07.04</date>
@@ -74,7 +79,7 @@
   <podcast>
     <date>2016.06.24</date>
     <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
-    <episode url="https://www.samharris.org/podcast/item/the-end-of-faith-sessions-2">The End of Faith Sessions 2</episode>
+    <episode url="https://www.samharris.org/podcast/item/the-end-of-faith-sessions-2" number="38">The End of Faith Sessions 2</episode>
   </show>
   <podcast>
     <date>2016.06.20</date>
@@ -113,7 +118,7 @@
   <show>
     <date>2016.06.03</date>
     <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
-    <episode url="https://www.samharris.org/podcast/item/thinking-in-public">Thinking in Public - A Conversation with Neil deGrasse Tyson</episode>
+    <episode url="https://www.samharris.org/podcast/item/thinking-in-public" number="37">Thinking in Public - A Conversation with Neil deGrasse Tyson</episode>
   </show>
   <podcast>
     <date>2016.06.01</date>
@@ -148,7 +153,7 @@
   <show>
     <date>2016.05.12</date>
     <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
-    <episode url="https://www.samharris.org/podcast/item/what-makes-us-safer">What Makes Us Safer? - A Conversation with Juliette Kayyem</episode>
+    <episode url="https://www.samharris.org/podcast/item/what-makes-us-safer" number="36">What Makes Us Safer? - A Conversation with Juliette Kayyem</episode>
   </show>
   <podcast>
     <date>2016.05.10</date>
@@ -163,12 +168,12 @@
   <show>
     <date>2016.05.02</date>
     <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
-    <episode url="https://www.samharris.org/podcast/item/the-end-of-faith-sessions-1">The End of Faith Sessions 1</episode>
+    <episode url="https://www.samharris.org/podcast/item/the-end-of-faith-sessions-1" number="35">The End of Faith Sessions 1</episode>
   </show>
   <show>
     <date>2016.04.22</date>
     <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
-    <episode url="https://www.samharris.org/podcast/item/the-light-of-the-mind">The Light of the Mind - A Conversation with David Chalmers</episode>
+    <episode url="https://www.samharris.org/podcast/item/the-light-of-the-mind" number="34">The Light of the Mind - A Conversation with David Chalmers</episode>
   </show>
   <show>
     <date>2016.04.13</date>
@@ -178,37 +183,37 @@
   <show>
     <date>2016.04.07</date>
     <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
-    <episode url="https://www.samharris.org/podcast/item/evolving-minds">Evolving Minds - A Conversation with Jonathan Haidt</episode>
+    <episode url="https://www.samharris.org/podcast/item/evolving-minds" number="31">Evolving Minds - A Conversation with Jonathan Haidt</episode>
   </show>
   <show>
     <date>2016.03.31</date>
     <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
-    <episode url="https://www.samharris.org/podcast/item/ask-me-anything-4">Ask Me Anything #4</episode>
+    <episode url="https://www.samharris.org/podcast/item/ask-me-anything-4" number="33">Ask Me Anything #4</episode>
   </show>
   <show>
     <date>2016.03.29</date>
     <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
-    <episode url="https://www.samharris.org/podcast/item/islam-and-the-future-of-tolerance-a-dialogue">Islam and the Future of Tolerance: A Dialogue</episode>
+    <episode url="https://www.samharris.org/podcast/item/islam-and-the-future-of-tolerance-a-dialogue" number="23">Islam and the Future of Tolerance: A Dialogue</episode>
   </show>
   <show>
     <date>2016.03.24</date>
     <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
-    <episode url="https://www.samharris.org/podcast/item/inside-the-crucible-syria-and-the-islamic-state">Inside the Crucible: Syria and the Islamic State - A Conversation with Michael Weiss</episode>
+    <episode url="https://www.samharris.org/podcast/item/inside-the-crucible-syria-and-the-islamic-state" number="30">Inside the Crucible: Syria and the Islamic State - A Conversation with Michael Weiss</episode>
   </show>
   <show>
     <date>2016.03.21</date>
     <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
-    <episode url="https://www.samharris.org/podcast/item/throw-open-the-gates">Throw Open the Gates - A Conversation with Maryam Namazie</episode>
+    <episode url="https://www.samharris.org/podcast/item/throw-open-the-gates" number="29">Throw Open the Gates - A Conversation with Maryam Namazie</episode>
   </show>
   <show>
     <date>2016.03.16</date>
     <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
-    <episode url="https://www.samharris.org/podcast/item/the-logic-of-violence">The Logic of Violence - A Conversation with Jocko Willink</episode>
+    <episode url="https://www.samharris.org/podcast/item/the-logic-of-violence" number="26">The Logic of Violence - A Conversation with Jocko Willink</episode>
   </show>
   <show>
     <date>2016.03.11</date>
     <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
-    <episode url="https://www.samharris.org/podcast/item/behind-the-gun">Behind the Gun - A Conversation with Scott Reitz</episode>
+    <episode url="https://www.samharris.org/podcast/item/behind-the-gun" number="25">Behind the Gun - A Conversation with Scott Reitz</episode>
   </show>
   <show>
     <date>2016.03.08</date>
@@ -218,12 +223,12 @@
   <show>
     <date>2016.03.01</date>
     <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
-    <episode url="https://www.samharris.org/podcast/item/meat-without-murder">Meat Without Misery - A Conversation with Uma Valeti</episode>
+    <episode url="https://www.samharris.org/podcast/item/meat-without-murder" number="28">Meat Without Misery - A Conversation with Uma Valeti</episode>
   </show>
   <show>
     <date>2016.02.25</date>
     <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
-    <episode url="https://www.samharris.org/podcast/item/ask-me-anything-3">Ask Me Anything #3</episode>
+    <episode url="https://www.samharris.org/podcast/item/ask-me-anything-3" number="27">Ask Me Anything #3</episode>
   </show>
   <show>
     <date>2016.02.19</date>
@@ -243,17 +248,17 @@
   <show>
     <date>2016.01.05</date>
     <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
-    <episode url="https://www.samharris.org/podcast/item/ask-me-anything-2">Ask Me Anything #2</episode>
+    <episode url="https://www.samharris.org/podcast/item/ask-me-anything-2" number="24">Ask Me Anything #2</episode>
   </show>
   <show>
     <date>2015.12.29</date>
     <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
-    <episode url="https://www.samharris.org/podcast/item/on-the-maintenance-of-civilization">On the Maintenance of Civilization - A Conversation with Douglas Murray</episode>
+    <episode url="https://www.samharris.org/podcast/item/on-the-maintenance-of-civilization" number="21">On the Maintenance of Civilization - A Conversation with Douglas Murray</episode>
   </show>
   <show>
     <date>2015.12.22</date>
     <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
-    <episode url="https://www.samharris.org/podcast/item/surviving-the-cosmos">Surviving the Cosmos - A Conversation with David Deutsch</episode>
+    <episode url="https://www.samharris.org/podcast/item/surviving-the-cosmos" number="22">Surviving the Cosmos - A Conversation with David Deutsch</episode>
   </show>
   <show>
     <date>2015.11.28</date>
@@ -283,52 +288,52 @@
   <show>
     <date>2015.11.16</date>
     <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
-    <episode url="https://www.samharris.org/podcast/item/still-sleepwalking-toward-armageddon">Still Sleepwalking Toward Armageddon</episode>
+    <episode url="https://www.samharris.org/podcast/item/still-sleepwalking-toward-armageddon" number="20">Still Sleepwalking Toward Armageddon</episode>
   </show>
   <show>
     <date>2015.11.13</date>
     <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
-    <episode url="https://www.samharris.org/podcast/item/the-riddle-of-the-gun-revisited">The Riddle of the Gun (Revisited)</episode>
+    <episode url="https://www.samharris.org/podcast/item/the-riddle-of-the-gun-revisited" number="19">The Riddle of the Gun (Revisited)</episode>
   </show>
   <show>
     <date>2015.11.12</date>
     <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
-    <episode url="https://www.samharris.org/podcast/item/the-multiverse-you-you-you-you">The Multiverse &amp; You (&amp; You &amp; You &amp; You…) - A Conversation with Max Tegmark</episode>
+    <episode url="https://www.samharris.org/podcast/item/the-multiverse-you-you-you-you" number="18">The Multiverse &amp; You (&amp; You &amp; You &amp; You…) - A Conversation with Max Tegmark</episode>
   </show>
   <show>
     <date>2015.11.10</date>
     <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
-    <episode url="https://www.samharris.org/podcast/item/what-i-really-think-about-profiling">What I Really Think About Profiling</episode>
+    <episode url="https://www.samharris.org/podcast/item/what-i-really-think-about-profiling" number="17">What I Really Think About Profiling</episode>
   </show>
   <show>
     <date>2015.11.06</date>
     <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
-    <episode url="https://www.samharris.org/podcast/item/the-dark-side">The Dark Side - A Conversation with Paul Bloom</episode>
+    <episode url="https://www.samharris.org/podcast/item/the-dark-side" number="16">The Dark Side - A Conversation with Paul Bloom</episode>
   </show>
   <show>
     <date>2015.10.29</date>
     <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
-    <episode url="https://www.samharris.org/podcast/item/questions-along-the-way-further-reflections-on-the-practice-of-meditation-w">Questions Along the Path - Further Reflections on the Practice of Meditation with Joseph Goldstein</episode>
+    <episode url="https://www.samharris.org/podcast/item/questions-along-the-way-further-reflections-on-the-practice-of-meditation-w" number="15">Questions Along the Path - Further Reflections on the Practice of Meditation with Joseph Goldstein</episode>
   </show>
   <show>
     <date>2015.10.21</date>
     <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
-    <episode url="https://www.samharris.org/podcast/item/the-virtues-of-cold-blood">The Virtues of Cold Blood - A Conversation with Paul Bloom</episode>
+    <episode url="https://www.samharris.org/podcast/item/the-virtues-of-cold-blood" number="14">The Virtues of Cold Blood - A Conversation with Paul Bloom</episode>
   </show>
   <show>
     <date>2015.10.15</date>
     <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
-    <episode url="https://www.samharris.org/podcast/item/the-moral-gaze">The Moral Gaze - A Conversation with Joshua Oppenheimer</episode>
+    <episode url="https://www.samharris.org/podcast/item/the-moral-gaze" number="13">The Moral Gaze - A Conversation with Joshua Oppenheimer</episode>
   </show>
   <show>
     <date>2015.09.28</date>
     <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
-    <episode url="https://www.samharris.org/podcast/item/leaving-the-church">Leaving the Church - A Conversation with Megan Phelps-Roper</episode>
+    <episode url="https://www.samharris.org/podcast/item/leaving-the-church" number="12">Leaving the Church - A Conversation with Megan Phelps-Roper</episode>
   </show>
   <show>
     <date>2015.09.24</date>
     <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
-    <episode url="https://www.samharris.org/podcast/item/shouldering-the-burden-of-history">Shouldering the Burden of History - A Crosscast with Dan Carlin</episode>
+    <episode url="https://www.samharris.org/podcast/item/shouldering-the-burden-of-history" number="11">Shouldering the Burden of History - A Crosscast with Dan Carlin</episode>
   </show>
   <show>
     <date>2015.09.11</date>
@@ -363,47 +368,47 @@
   <show>
     <date>2015.05.21</date>
     <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
-    <episode url="https://www.samharris.org/podcast/item/faith-vs.-fact">Faith vs. Fact - An Interview with Jerry Coyne</episode>
+    <episode url="https://www.samharris.org/podcast/item/faith-vs.-fact" number="10">Faith vs. Fact - An Interview with Jerry Coyne</episode>
   </show>
   <show>
     <date>2015.05.19</date>
     <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
-    <episode url="https://www.samharris.org/podcast/item/final-thoughts-on-chomsky">Final Thoughts on Chomsky</episode>
+    <episode url="https://www.samharris.org/podcast/item/final-thoughts-on-chomsky" number="9">Final Thoughts on Chomsky</episode>
   </show>
   <show>
     <date>2015.05.01</date>
     <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
-    <episode url="https://www.samharris.org/podcast/item/ask-me-anything-1">Ask Me Anything #1</episode>
+    <episode url="https://www.samharris.org/podcast/item/ask-me-anything-1" number="8">Ask Me Anything #1</episode>
   </show>
   <show>
     <date>2015.04.29</date>
     <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
-    <episode url="https://www.samharris.org/podcast/item/through-the-eyes-of-a-cult">Through the Eyes of a Cult</episode>
+    <episode url="https://www.samharris.org/podcast/item/through-the-eyes-of-a-cult" number="7">Through the Eyes of a Cult</episode>
   </show>
   <show>
     <date>2015.04.29</date>
     <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
-    <episode url="https://www.samharris.org/podcast/item/the-chapel-hill-murders-and-militant-atheism">The Chapel Hill Murders and ‘Militant’ Atheism</episode>
+    <episode url="https://www.samharris.org/podcast/item/the-chapel-hill-murders-and-militant-atheism" number="6">The Chapel Hill Murders and ‘Militant’ Atheism</episode>
   </show>
   <show>
     <date>2015.04.28</date>
     <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
-    <episode url="https://www.samharris.org/podcast/item/after-charlie-hebdo-and-other-thoughts">After Charlie Hebdo and Other Thoughts</episode>
+    <episode url="https://www.samharris.org/podcast/item/after-charlie-hebdo-and-other-thoughts" number="5">After Charlie Hebdo and Other Thoughts</episode>
   </show>
   <show>
     <date>2015.04.27</date>
     <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
-    <episode url="https://www.samharris.org/podcast/item/the-path-and-the-goal">The Path and the Goal - A Conversation with Joseph Goldstein</episode>
+    <episode url="https://www.samharris.org/podcast/item/the-path-and-the-goal" number="4">The Path and the Goal - A Conversation with Joseph Goldstein</episode>
   </show>
   <show>
     <date>2015.04.24</date>
     <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
-    <episode url="https://www.samharris.org/podcast/item/why-dont-i-criticize-israel">Why Don’t I Criticize Israel?</episode>
+    <episode url="https://www.samharris.org/podcast/item/why-dont-i-criticize-israel" number="2">Why Don’t I Criticize Israel?</episode>
   </show>
   <show>
     <date>2015.04.24</date>
     <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
-    <episode url="https://www.samharris.org/podcast/item/drugs-and-the-meaning-of-life">Drugs and the Meaning of Life</episode>
+    <episode url="https://www.samharris.org/podcast/item/drugs-and-the-meaning-of-life" number="1">Drugs and the Meaning of Life</episode>
   </show>
   <show>
     <date>2015.04.15</date>
