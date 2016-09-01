@@ -193,6 +193,7 @@ Pretty much everything from [Les cent livres du siècle](https://fr.wikipedia.or
 * Will Durant, ["The Story of Philosophy: The Lives and Opinions of the World's Greatest Philosophers"](http://www.amazon.com/The-Story-Philosophy-Opinions-Philosophers/dp/0671739166)
 * Michael S. A. Graziano, ["Consciousness and the Social Brain"](http://www.amazon.com/Consciousness-Social-Brain-Michael-Graziano/dp/0199928649) (summarized by [@SelfAwarePatter](https://twitter.com/SelfAwarePatter) on [his blog](http://selfawarepatterns.com/2013/12/30/consciousness-and-the-social-brain-a-review/))
 * Bruce Hood, ["The Self Illusion: How the Social Brain Creates Identity"](http://www.amazon.com/The-Self-Illusion-Creates-Identity/dp/0199988781) (interviewed by [@SamHarrisOrg](https://twitter.com/SamHarrisOrg))
+* William MacAskill, ["Doing Good Better: Effective Altruism and a Radical New Way to Make a Difference"](https://www.amazon.com/Doing-Good-Better-Effective-Difference-ebook/dp/B00XGX17IM) (interviewed by [@SamHarrisOrg](https://twitter.com/SamHarrisOrg))
 * Bryan Magee, ["The Great Philosophers: An Introduction to Western Philosophy"](http://www.amazon.com/The-Great-Philosophers-Introduction-Philosophy/dp/019289322X) (was Magee atheist?)
 * Jacques Monod, ["Le Hasard et la Nécessité. Essai sur la philosophie naturelle de la biologie moderne"](https://fr.wikipedia.org/wiki/Le_Hasard_et_la_N%C3%A9cessit%C3%A9) (Monod was Camus' friend; this book seems to be a good complement to ["The Selfish Gene"](https://en.wikipedia.org/wiki/The_Selfish_Gene))
 * Thomas Nagel, ["The Last Word"](http://www.amazon.com/Last-Word-Thomas-Nagel/dp/0195149831/) (recommended by [@SamHarrisOrg](https://twitter.com/SamHarrisOrg))
@@ -210,6 +211,7 @@ Pretty much everything from [Les cent livres du siècle](https://fr.wikipedia.or
 * W. V. Quine & J. S. Ullian, ["The Web of Belief"](http://www.amazon.com/The-Web-Belief-W-Quine/dp/0075536099)
 * Jean-François Revel & Matthieu Ricard, ["Le moine et le philosophe"](http://www.amazon.fr/moine-philosophe-Jean-Fran-ois-Revel-ebook/dp/B009HBIGCC/) (mentioned by Carlo Strenger in "The Fear of Insignificance")
 * Michael Sandel, ["Justice: What's the Right Thing to Do?"](https://en.wikipedia.org/wiki/Justice:_What%27s_the_Right_Thing_to_Do%3F) (recommended by Massimo Pigliucci in his negative review of ["The Moral Landscape"](https://en.wikipedia.org/wiki/The_Moral_Landscape))
+* Peter Singer, ["The Most Good You Can Do: How Effective Altruism Is Changing Ideas About Living Ethically"](https://www.amazon.com/Most-Good-You-Can-Effective-ebook/dp/B00VQPLZX4)
 * Nassim Nicholas Taleb, ["The Black Swan: The Impact of the Highly Improbable"](https://en.wikipedia.org/wiki/The_Black_Swan_(2007_book))
 * Theodore Schick & Lewis Vaughn, ["How to Think About Weird Things: Critical Thinking for a New Age"](http://www.amazon.com/How-Think-About-Weird-Things/dp/007353577X) (recommended by Peter Boghossian, author of "A Manual for Creating Atheists")
 
@@ -254,6 +256,7 @@ Pretty much everything from [Les cent livres du siècle](https://fr.wikipedia.or
 * Normand Baillargeon, ["Petit cours d'autodéfense intellectuelle"](http://www.amazon.com/petit-dautod%C3%A9fense-intellectuelle-Normand-Baillargeon/dp/2895960445)
 * Thomas Friedman, ["The World Is Flat: A Brief History of the Twenty-First Century"](https://en.wikipedia.org/wiki/The_World_Is_Flat)
 * A. des Isnards & T. Zuber, ["L'Open Space m'a tuer"](http://www.amazon.fr/LOpen-space-tuer-Alexandre-ISNARDS/dp/2266258095)
+* Johan Norberg, ["Progress: Ten Reasons to Look Forward to the Future"](https://www.amazon.com/Progress-Reasons-Look-Forward-Future-ebook/dp/B01C9O36UK)
 
 ## Switzerland
 
@@ -275,4 +278,3 @@ Pretty much everything from [Les cent livres du siècle](https://fr.wikipedia.or
 
 * Aymeric Caron, ["Antispéciste: Réconcilier l'humain, l'animal, la nature"](http://www.amazon.fr/Antisp%C3%A9ciste-R%C3%A9concilier-lhumain-lanimal-FICTION-ebook/dp/B01DDOWFVG/)
 * Renan Larue, ["Le végétarisme et ses ennemis: Vingt-cinq siècles de débats"](http://www.amazon.fr/v-g-tarisme-ses-ennemis-Vingt-cinq-si-cles-ebook/dp/B00SBZ69TC/)
-
