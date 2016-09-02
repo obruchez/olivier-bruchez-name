@@ -202,7 +202,7 @@ Pretty much everything from [Les cent livres du siècle](https://fr.wikipedia.or
 * Michel Onfray, ["Contre-histoire de la philosophie"](https://fr.wikipedia.org/wiki/Contre-histoire_de_la_philosophie) (several volumes)
 * George Orwell, ["1984"](https://en.wikipedia.org/wiki/Nineteen_Eighty-Four) (science fiction classic)
 * Donald Palmer, ["Looking at Philosophy: The Unbearable Heaviness of Philosophy Made Lighter"](http://www.amazon.com/Looking-At-Philosophy-Unbearable-Heaviness/dp/007803826X) (easy to read, comics, etc.)
-* Derek Parfit, ["Reasons and Persons"](http://www.amazon.com/Reasons-Persons-Derek-Parfit/dp/019824908X/) (recommended by [@SamHarrisOrg](https://twitter.com/SamHarrisOrg))
+* Derek Parfit, ["Reasons and Persons"](http://www.amazon.com/Reasons-Persons-Derek-Parfit/dp/019824908X/) (recommended by [@SamHarrisOrg](https://twitter.com/SamHarrisOrg) and [@willmacaskill](https://twitter.com/willmacaskill))
 * Roger Penrose, ["The Emperor's New Mind"](https://en.wikipedia.org/wiki/The_Emperor%27s_New_Mind)
 * Roger Penrose, ["Shadows of the Mind: A Search for the Missing Science of Consciousness"](https://en.wikipedia.org/wiki/Shadows_of_the_Mind) (and others) 
 * Massimo Pigliucci, ["Answers for Aristotle: How Science and Philosophy Can Lead Us to A More Meaningful Life"](http://www.amazon.com/Answers-Aristotle-Science-Philosophy-Meaningful/dp/0465021387) (Massimo Pigliucci is a philosopher fighting scientism among "New Atheists" such as Sam Harris, etc.)
