@@ -2,6 +2,11 @@
 <hikes>
   <introduction>A list of hikes I took.</introduction>
   <hike>
+    <date>2016.09.03</date>
+    <place>Sovereu / Le Dâ / Col du Bec d'Aigle / Louvie, Switzerland</place>
+    <!-- <pictures url=""/> -->
+  </hike>
+  <hike>
     <date>2016.05.21</date>
     <place>Clambin, Switzerland</place>
     <comments>Started from Montagnier.</comments>
