@@ -634,7 +634,7 @@ a.btn-u-xs {
 
 /*For FF Only*/
 @-moz-document url-prefix() {
-	.footer-subsribe .btn-u {
+	.footer-subscribe .btn-u {
 		padding-bottom: 4px;
 	}
 }
