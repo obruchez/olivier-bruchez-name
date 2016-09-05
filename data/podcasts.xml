@@ -2,6 +2,11 @@
 <podcasts>
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date>2016.09.05</date>
+    <name url="http://fourhourworkweek.com/podcast/">The Tim Ferriss Show</name>
+    <episode url="http://fourhourworkweek.com/2015/11/22/will-macaskill/" number="120">Will MacAskill on Effective Altruism, Y Combinator, and Artificial Intelligence</episode>
+  </show>
+  <podcast>
     <date>2016.09.02</date>
     <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
     <episode url="https://www.samharris.org/podcast/item/being-good-and-doing-good" number="44">Being Good and Doing Good - A Conversation with William MacAskill</episode>
@@ -444,6 +449,7 @@
 <!--
 Alex & Erik's Podcast
 Compared To What Podcast
+Tim Ferriss (Scott Adams, etc.)
 Peach & Black Podcast (~89 episodes) (OK -> SYMBOLIC BEGINNINGS = January 2010)
 etc.
 -->
