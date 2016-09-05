@@ -241,6 +241,7 @@ Pretty much everything from [Les cent livres du siècle](https://fr.wikipedia.or
 * Michael John Harris, ["The End of Absence: Reclaiming What We've Lost in a World of Constant Connection"](https://www.amazon.com/End-Absence-Reclaiming-Constant-Connection-ebook/dp/B00INIYHFU/)
 * Robert-Vincent Joule & Jean-Léon Beauvois, ["La soumission librement consentie"](https://fr.wikipedia.org/wiki/Soumission_librement_consentie) (read ["Petit traité de manipulation à l'usage des honnêtes gens"](https://fr.wikipedia.org/wiki/Petit_trait%C3%A9_de_manipulation_%C3%A0_l%27usage_des_honn%C3%AAtes_gens) from them)
 * Daniel Kahneman, ["Thinking, Fast and Slow"](https://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow) (recommended by [@mistertricker](https://twitter.com/mistertricker))
+* Robert Levine, ["The Power of Persuasion: How We're Bought and Sold"](https://www.amazon.com/Power-Persuasion-Were-Bought-Sold-ebook/dp/B000QEOVG4/ref=mt_kindle) (recommended by [@willmacaskill](https://twitter.com/willmacaskill))
 * Barry Schwartz, ["The Paradox of Choice: Why More Is Less"](https://en.wikipedia.org/wiki/The_Paradox_of_Choice)
 
 ## Science
