@@ -2,6 +2,14 @@
 <movies>
   <introduction>A list of movies I saw.</introduction>
   <movie>
+    <date>2016.09.09</date>
+    <theater>Le Capitole, Lausanne</theater>
+    <director>Albert Magnoli</director>
+    <title>Purple Rain</title>
+    <url>http://www.imdb.com/title/tt0087957/</url>
+    <rating>4.0</rating>
+  </movie>
+  <movie>
     <date>2016.08.24</date>
     <theater>Le Capitole, Lausanne</theater>
     <director>Charlie Chaplin</director>
