@@ -270,6 +270,7 @@ Pretty much everything from [Les cent livres du siècle](https://fr.wikipedia.or
 * Nick Bostrom, ["Superintelligence: Paths, Dangers, Strategies"](http://www.amazon.com/Superintelligence-Dangers-Strategies-Nick-Bostrom-ebook/dp/B00LOOCGB2/) (recommended by [@SamHarrisOrg](https://twitter.com/SamHarrisOrg))
 * Erik Brynjolfsson & Andrew McAfee, ["Race Against The Machine: How the Digital Revolution is Accelerating Innovation, Driving Productivity, and Irreversibly Transforming Employment and the Economy"](https://en.wikipedia.org/wiki/Race_Against_the_Machine)
 * Peter H. Diamandis & Steven Kotler, ["Abundance: The Future Is Better Than You Think"](http://www.amazon.com/Abundance-Future-Better-Than-Think-ebook/dp/B005FLOGMM) (recommended by Ray Kurzweil)
+* Douglas Rushkoff, ["Throwing Rocks at the Google Bus: How Growth Became the Enemy of Prosperity"](https://www.amazon.com/Throwing-Rocks-Google-Bus-Prosperity-ebook/dp/B00Z8VTKBQ)
 
 ## Travel
 
