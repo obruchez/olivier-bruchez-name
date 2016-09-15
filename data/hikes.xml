@@ -141,6 +141,26 @@
     <place>Cabane Brunet, Switzerland</place>
     <pictures url="https://www.flickr.com/photos/bruchez/sets/72157621189493354/"/>
   </hike>
+  <hike>
+    <date>2009.05.24</date>
+    <place>Verbier</place>
+    <pictures url="https://www.flickr.com/photos/bruchez/sets/72157618775650667/"/>
+  </hike>
+  <hike>
+    <date>2008.11.10</date>
+    <place>La Pasay</place>
+    <pictures url="https://www.flickr.com/photos/bruchez/sets/72157608874802857/"/>
+  </hike>
+  <hike>
+    <date>2008.10.11</date>
+    <place>Plan des Lires</place>
+    <pictures url="https://www.flickr.com/photos/bruchez/sets/72157608243015592/"/>
+  </hike>
+  <hike>
+    <date>2008.07.27</date>
+    <place>Louvie</place>
+    <pictures url="https://www.flickr.com/photos/bruchez/sets/72157606706370391/"/>
+  </hike>
 
   <!-- <hike>
     <date></date>
