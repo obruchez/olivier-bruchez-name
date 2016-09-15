@@ -206,6 +206,11 @@
     <episode url="https://www.samharris.org/podcast/item/the-light-of-the-mind" number="34">The Light of the Mind - A Conversation with David Chalmers</episode>
   </show>
   <show>
+    <date>2016.04.20</date>
+    <name url="http://peachandblack.podbean.com/">Peach &amp; Black Podcast</name>
+    <episode url="http://peachandblack.podbean.com/e/the-chocolate-invasion-review/">The Chocolate Invasion Review</episode>
+  </show>
+  <show>
     <date>2016.04.13</date>
     <name url="http://peachandblack.podbean.com/">Peach &amp; Black Podcast</name>
     <episode url="http://peachandblack.podbean.com/e/na-na-na-na-na-na-na-batman-review/">Na Na Na Na Na Na Na Batman Review!</episode>
@@ -289,6 +294,16 @@
     <date>2015.12.22</date>
     <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
     <episode url="https://www.samharris.org/podcast/item/surviving-the-cosmos" number="22">Surviving the Cosmos - A Conversation with David Deutsch</episode>
+  </show>
+  <show>
+    <date>2015.12.06</date>
+    <name url="http://peachandblack.podbean.com/">Peach &amp; Black Podcast</name>
+    <episode url="http://peachandblack.podbean.com/e/the-top-20-greatest-prince-songsever/">The Top 20 Greatest Prince Songs....Ever!</episode>
+  </show>
+  <show>
+    <date>2015.12.03</date>
+    <name url="http://peachandblack.podbean.com/">Peach &amp; Black Podcast</name>
+    <episode url="http://peachandblack.podbean.com/e/20ten-first-impressions/">20TEN - First Impressions!</episode>
   </show>
   <show>
     <date>2015.11.28</date>
@@ -376,9 +391,34 @@
     <episode url="http://peachandblack.podbean.com/e/news-episode-september/">News Episode - September</episode>
   </show>
   <show>
+    <date>2015.09.09</date>
+    <name url="http://peachandblack.podbean.com/">Peach &amp; Black Podcast</name>
+    <episode url="http://peachandblack.podbean.com/e/june-news-episode/">June News Episode</episode>
+  </show>
+  <show>
+    <date>2015.09.07</date>
+    <name url="http://peachandblack.podbean.com/">Peach &amp; Black Podcast</name>
+    <episode url="http://peachandblack.podbean.com/e/cause-effect/">Cause &amp; Effect?</episode>
+  </show>
+  <show>
+    <date>2015.09.03</date>
+    <name url="http://peachandblack.podbean.com/">Peach &amp; Black Podcast</name>
+    <episode url="http://peachandblack.podbean.com/e/hot-summer-its-gonna-be-a/">Hot Summer! (it's gonna be a...)</episode>
+  </show>
+  <show>
     <date>2015.09.03</date>
     <name url="http://peachandblack.podbean.com/">Peach &amp; Black Podcast</name>
     <episode url="http://peachandblack.podbean.com/e/one-nite-alone-era-0203/">One Nite Alone Era (02/03)</episode>
+  </show>
+  <show>
+    <date>2015.08.21</date>
+    <name url="http://peachandblack.podbean.com/">Peach &amp; Black Podcast</name>
+    <episode url="http://peachandblack.podbean.com/e/the-b-sides-part-2/">The B Sides - Part 2</episode>
+  </show>
+  <show>
+    <date>2015.08.19</date>
+    <name url="http://peachandblack.podbean.com/">Peach &amp; Black Podcast</name>
+    <episode url="http://peachandblack.podbean.com/e/the-b-sides-part-1/">The B Sides - Part 1</episode>
   </show>
   <show>
     <date>2015.07.06</date>
@@ -394,6 +434,11 @@
     <date>2015.06.29</date>
     <name url="http://peachandblack.podbean.com/">Peach &amp; Black Podcast</name>
     <episode url="http://peachandblack.podbean.com/e/the-rainbow-children-review-part-2/">The Rainbow Children Review - Part 2</episode>
+  </show>
+  <show>
+    <date>2015.05.21</date>
+    <name url="http://peachandblack.podbean.com/">Peach &amp; Black Podcast</name>
+    <episode url="http://peachandblack.podbean.com/e/around-the-world-in-a-day-review/">Around The World In A Day Review</episode>
   </show>
   <show>
     <date>2015.05.21</date>
@@ -459,17 +504,25 @@
   </show>
   -->
 
-  <!-- <show>
+  <!--
+  <show>
     <date></date>
     <name url="http://peachandblack.podbean.com/">Peach &amp; Black Podcast</name>
     <episode url="http://peachandblack.podbean.com/e/the-shelbey-interview/">The Shelbey Interview</episode>
-  </show> -->
+  </show>
+  <show>
+    <date></date>
+    <name url="http://peachandblack.podbean.com/">Peach &amp; Black Podcast</name>
+    <episode url="http://peachandblack.podbean.com/e/ricky-peterson-the-peterson-brothers-with-sheila-e-australian-tour/">Ricky Peterson &amp; The Peterson Brothers with Sheila E. - Australian Tour</episode>
+  </show>
+  -->
 </podcasts>
 
 <!--
 Alex & Erik's Podcast
 Compared To What Podcast
 Tim Ferriss (Scott Adams, etc.)
-Peach & Black Podcast (~89 episodes) (OK -> SYMBOLIC BEGINNINGS = January 2010)
+Peach & Black Podcast (~89 episodes) (OK -> The B Sides - Part 2 = September 2010 - included)
+Prince Podcast
 etc.
 -->
