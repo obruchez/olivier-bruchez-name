@@ -3,11 +3,21 @@
     <introduction>A list of books I read.</introduction>
     <book>
         <date></date>
+        <title>Islam and the Future of Tolerance</title>
+        <subtitle>A Dialogue</subtitle>
+        <author>Sam Harris &amp; Maajid Nawaz</author>
+        <publishingyear>2015</publishingyear>
+        <rating></rating>
+        <url>https://en.wikipedia.org/wiki/Islam_and_the_Future_of_Tolerance</url>
+        <!-- <notes description="Kindle highlights"></notes> -->
+    </book>
+    <book>
+        <date>2016.09.15</date>
         <title>Plaidoyer pour les animaux</title>
         <subtitle>Vers une bienveillance pour tous</subtitle>
         <author>Matthieu Ricard</author>
         <publishingyear>2014</publishingyear>
-        <rating></rating>
+        <rating>5.0</rating>
         <url>https://books.google.ch/books?id=pHmuBAAAQBAJ</url>
         <!-- <notes description="Kindle highlights"></notes> -->
     </book>
