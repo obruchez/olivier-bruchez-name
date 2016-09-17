@@ -2,6 +2,21 @@
 
 My votes (in French). En Suisse, on ne plaisante pas avec la démocratie directe. :) J'essaie ici de documenter et de justifier la façon dont je me positionne par rapport aux votations fédérales, qui ont lieu jusqu'à quatre fois par année.
 
+## [Votation fédérale du 25 septembre 2016](https://www.admin.ch/gov/fr/accueil/documentation/votations/20160925.html)
+
+### Acceptez-vous l’initiative populaire "Pour une économie durable et fondée sur une gestion efficiente des ressources (économie verte)" ?
+
+?. Résultat : ? (??.?%).
+
+### Acceptez-vous l’initiative populaire "AVSplus: pour une AVS forte" ?
+
+?. Résultat : ? (??.?%).
+
+### Acceptez-vous la loi fédérale du 25 septembre 2015 sur le renseignement (LRens) ?
+
+?. Résultat : ? (??.?%).
+
+
 ## [Votation fédérale du 5 juin 2016](https://www.admin.ch/gov/fr/accueil/documentation/votations/20160605.html)
 
 ### Acceptez-vous l’initiative populaire "En faveur du service public" ?
