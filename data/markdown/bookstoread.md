@@ -250,6 +250,7 @@ Pretty much everything from [Les cent livres du siècle](https://fr.wikipedia.or
 * Richard Dawkins, ["The Magic of Reality: How We Know What's Really True"](https://en.wikipedia.org/wiki/The_Magic_of_Reality)
 * Ben Goldacre, ["I Think You'll Find It's a Bit More Complicated Than That"](http://www.amazon.co.uk/Think-Youll-Find-More-Complicated-ebook/dp/B00HATQA8K/)
 * Darrell Huff, ["How to Lie with Statistics"](https://en.wikipedia.org/wiki/How_to_Lie_with_Statistics) (recommended by [@behaghel](https://twitter.com/behaghel))
+* Matt Ridley, ["The Evolution of Everything: How New Ideas Emerge"](https://www.amazon.com/Evolution-Everything-How-Ideas-Emerge/dp/0062296000)
 
 ## Social sciences / sociology
 
