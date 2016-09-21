@@ -11,36 +11,36 @@
     <name url="http://verybadwizards.com/">Very Bad Wizards</name>
     <episode url="http://verybadwizards.com/episodes/12" number="12">Justice for #!$@ ?</episode>
   </podcast>
-  <show>
+  <podcast>
     <date>2016.09.13</date>
     <name url="http://peachandblack.podbean.com/">Peach &amp; Black Podcast</name>
     <episode url="http://peachandblack.podbean.com/e/the-gold-experience-review/">The Gold Experience Review</episode>
-  </show>
-  <show>
+  </podcast>
+  <podcast>
     <date>2016.09.10</date>
     <name url="http://peachandblack.podbean.com/">Peach &amp; Black Podcast</name>
     <episode url="http://peachandblack.podbean.com/e/ask-peach-black/">Ask Peach &amp; Black</episode>
-  </show>
-  <show>
+  </podcast>
+  <podcast>
     <date>2016.09.08</date>
     <name url="http://peachandblack.podbean.com/">Peach &amp; Black Podcast</name>
     <episode url="http://peachandblack.podbean.com/e/controversy-30th-anniversary-review/">Controversy - 30th Anniversary Review</episode>
-  </show>
+  </podcast>
   <podcast>
     <date>2016.09.05</date>
     <name url="http://fourhourworkweek.com/podcast/">The Tim Ferriss Show</name>
     <episode url="http://fourhourworkweek.com/2015/11/22/will-macaskill/" number="120">Will MacAskill on Effective Altruism, Y Combinator, and Artificial Intelligence</episode>
-  </show>
+  </podcast>
   <podcast>
     <date>2016.09.02</date>
     <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
     <episode url="https://www.samharris.org/podcast/item/being-good-and-doing-good" number="44">Being Good and Doing Good - A Conversation with William MacAskill</episode>
-  </show>
+  </podcast>
   <podcast>
     <date>2016.08.31</date>
     <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
     <episode url="https://www.samharris.org/podcast/item/what-do-jihadists-really-want" number="43">What Do Jihadists Really Want?</episode>
-  </show>
+  </podcast>
   <podcast>
     <date>2016.08.30</date>
     <name>Alex &amp; Erik's Podcast</name>
@@ -50,17 +50,17 @@
     <date>2016.08.28</date>
     <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
     <episode url="https://www.samharris.org/podcast/item/racism-and-violence-in-america" number="42">Racism and Violence in America - A Conversation with Glenn C. Loury</episode>
-  </show>
+  </podcast>
   <podcast>
     <date>2016.08.24</date>
     <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
     <episode url="https://www.samharris.org/podcast/item/faith-in-reason" number="41">Faith in Reason - A Conversation with Eric R. Weinstein</episode>
-  </show>
-  <show>
+  </podcast>
+  <podcast>
     <date>2016.07.29</date>
     <name url="http://peachandblack.podbean.com/">Peach &amp; Black Podcast</name>
     <episode url="http://peachandblack.podbean.com/e/parade-review-25th-anniversary-edition/">Parade Review - 25th Anniversary Edition!</episode>
-  </show>
+  </podcast>
   <podcast>
     <date>2016.07.25</date>
     <name url="http://verybadwizards.com/">Very Bad Wizards</name>
@@ -75,22 +75,22 @@
     <date>2016.07.20</date>
     <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
     <episode url="https://www.samharris.org/podcast/item/complexity-stupidity" number="40">Complexity &amp; Stupidity - A Conversation with David Krakauer</episode>
-  </show>
+  </podcast>
   <podcast>
     <date>2016.07.08</date>
     <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
     <episode url="https://www.samharris.org/podcast/item/free-will-revisited" number="39">Free Will Revisited - A Conversation with Daniel Dennett</episode>
-  </show>
-  <show>
+  </podcast>
+  <podcast>
     <date>2016.07.04</date>
     <name url="http://peachandblack.podbean.com/">Peach &amp; Black Podcast</name>
     <episode url="http://peachandblack.podbean.com/e/20ten-review/">20Ten Review</episode>
-  </show>
-  <show>
+  </podcast>
+  <podcast>
     <date>2016.07.01</date>
     <name url="http://peachandblack.podbean.com/">Peach &amp; Black Podcast</name>
     <episode url="http://peachandblack.podbean.com/e/the-slaughterhouse-review/">The Slaughterhouse Review</episode>
-  </show>
+  </podcast>
   <podcast>
     <date>2016.07.01</date>
     <name url="http://verybadwizards.com/">Very Bad Wizards</name>
@@ -115,7 +115,7 @@
     <date>2016.06.24</date>
     <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
     <episode url="https://www.samharris.org/podcast/item/the-end-of-faith-sessions-2" number="38">The End of Faith Sessions 2</episode>
-  </show>
+  </podcast>
   <podcast>
     <date>2016.06.20</date>
     <name>Alex &amp; Erik's Podcast</name>
@@ -129,7 +129,7 @@
   <date>2016.06.15</date>
     <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
     <episode url="https://www.samharris.org/podcast/item/morality-and-the-christian-god">Morality and the Christian God - An Invitation to Animators and Filmmakers</episode>
-  </show>
+  </podcast>
   <podcast>
     <date>2016.06.15</date>
     <name url="http://verybadwizards.com/">Very Bad Wizards</name>
@@ -145,16 +145,16 @@
     <name url="http://verybadwizards.com/">Very Bad Wizards</name>
     <episode url="http://verybadwizards.com/episodes/27" number="27">You, Your Self, and Your Brain (with Eddy Nahmias)</episode>
   </podcast>
-  <show>
+  <podcast>
     <date>2016.06.07</date>
     <name url="http://peachandblack.podbean.com/">Peach &amp; Black Podcast</name>
     <episode url="http://peachandblack.podbean.com/e/prince-a-tribute/">Prince: A Tribute</episode>
-  </show>
-  <show>
+  </podcast>
+  <podcast>
     <date>2016.06.03</date>
     <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
     <episode url="https://www.samharris.org/podcast/item/thinking-in-public" number="37">Thinking in Public - A Conversation with Neil deGrasse Tyson</episode>
-  </show>
+  </podcast>
   <podcast>
     <date>2016.06.01</date>
     <name url="http://verybadwizards.com/">Very Bad Wizards</name>
@@ -185,11 +185,11 @@
     <name url="http://verybadwizards.com/">Very Bad Wizards</name>
     <episode url="http://verybadwizards.com/episodes/63" number="65">Stalemates and Closets (with Sam Harris)</episode>
   </podcast>
-  <show>
+  <podcast>
     <date>2016.05.12</date>
     <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
     <episode url="https://www.samharris.org/podcast/item/what-makes-us-safer" number="36">What Makes Us Safer? - A Conversation with Juliette Kayyem</episode>
-  </show>
+  </podcast>
   <podcast>
     <date>2016.05.10</date>
     <name url="http://verybadwizards.com/">Very Bad Wizards</name>
@@ -200,301 +200,301 @@
     <name url="http://verybadwizards.com/">Very Bad Wizards</name>
     <episode url="http://verybadwizards.com/episodes/6" number="6">Trolleys, Utilitarians, and Psychopaths</episode>
   </podcast>
-  <show>
+  <podcast>
     <date>2016.05.02</date>
     <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
     <episode url="https://www.samharris.org/podcast/item/the-end-of-faith-sessions-1" number="35">The End of Faith Sessions 1</episode>
-  </show>
-  <show>
+  </podcast>
+  <podcast>
     <date>2016.04.22</date>
     <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
     <episode url="https://www.samharris.org/podcast/item/the-light-of-the-mind" number="34">The Light of the Mind - A Conversation with David Chalmers</episode>
-  </show>
-  <show>
+  </podcast>
+  <podcast>
     <date>2016.04.20</date>
     <name url="http://peachandblack.podbean.com/">Peach &amp; Black Podcast</name>
     <episode url="http://peachandblack.podbean.com/e/the-chocolate-invasion-review/">The Chocolate Invasion Review</episode>
-  </show>
-  <show>
+  </podcast>
+  <podcast>
     <date>2016.04.13</date>
     <name url="http://peachandblack.podbean.com/">Peach &amp; Black Podcast</name>
     <episode url="http://peachandblack.podbean.com/e/na-na-na-na-na-na-na-batman-review/">Na Na Na Na Na Na Na Batman Review!</episode>
-  </show>
-  <show>
+  </podcast>
+  <podcast>
     <date>2016.04.07</date>
     <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
     <episode url="https://www.samharris.org/podcast/item/evolving-minds" number="31">Evolving Minds - A Conversation with Jonathan Haidt</episode>
-  </show>
-  <show>
+  </podcast>
+  <podcast>
     <date>2016.03.31</date>
     <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
     <episode url="https://www.samharris.org/podcast/item/ask-me-anything-4" number="33">Ask Me Anything #4</episode>
-  </show>
-  <show>
+  </podcast>
+  <podcast>
     <date>2016.03.29</date>
     <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
     <episode url="https://www.samharris.org/podcast/item/islam-and-the-future-of-tolerance-a-dialogue" number="23">Islam and the Future of Tolerance: A Dialogue</episode>
-  </show>
-  <show>
+  </podcast>
+  <podcast>
     <date>2016.03.24</date>
     <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
     <episode url="https://www.samharris.org/podcast/item/inside-the-crucible-syria-and-the-islamic-state" number="30">Inside the Crucible: Syria and the Islamic State - A Conversation with Michael Weiss</episode>
-  </show>
-  <show>
+  </podcast>
+  <podcast>
     <date>2016.03.21</date>
     <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
     <episode url="https://www.samharris.org/podcast/item/throw-open-the-gates" number="29">Throw Open the Gates - A Conversation with Maryam Namazie</episode>
-  </show>
-  <show>
+  </podcast>
+  <podcast>
     <date>2016.03.16</date>
     <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
     <episode url="https://www.samharris.org/podcast/item/the-logic-of-violence" number="26">The Logic of Violence - A Conversation with Jocko Willink</episode>
-  </show>
-  <show>
+  </podcast>
+  <podcast>
     <date>2016.03.11</date>
     <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
     <episode url="https://www.samharris.org/podcast/item/behind-the-gun" number="25">Behind the Gun - A Conversation with Scott Reitz</episode>
-  </show>
-  <show>
+  </podcast>
+  <podcast>
     <date>2016.03.08</date>
     <name url="http://peachandblack.podbean.com/">Peach &amp; Black Podcast</name>
     <episode url="http://peachandblack.podbean.com/e/episode-3-3121-review/">3121 Review</episode>
-  </show>
-  <show>
+  </podcast>
+  <podcast>
     <date>2016.03.01</date>
     <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
     <episode url="https://www.samharris.org/podcast/item/meat-without-murder" number="28">Meat Without Misery - A Conversation with Uma Valeti</episode>
-  </show>
-  <show>
+  </podcast>
+  <podcast>
     <date>2016.02.25</date>
     <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
     <episode url="https://www.samharris.org/podcast/item/ask-me-anything-3" number="27">Ask Me Anything #3</episode>
-  </show>
-  <show>
+  </podcast>
+  <podcast>
     <date>2016.02.19</date>
     <name url="http://peachandblack.podbean.com/">Peach &amp; Black Podcast</name>
     <episode url="http://peachandblack.podbean.com/e/lotusflow3r-review/">Lotusflow3r Review</episode>
-  </show>
-  <show>
+  </podcast>
+  <podcast>
     <date>2016.02.15</date>
     <name url="http://peachandblack.podbean.com/">Peach &amp; Black Podcast</name>
     <episode url="http://peachandblack.podbean.com/e/mplsound-review/">MPLSound Review</episode>
-  </show>
-  <show>
+  </podcast>
+  <podcast>
     <date>2016.02.09</date>
     <name url="http://peachandblack.podbean.com/">Peach &amp; Black Podcast</name>
     <episode url="http://peachandblack.podbean.com/e/musicology-review/">Musicology Review</episode>
-  </show>
-  <show>
+  </podcast>
+  <podcast>
     <date>2016.01.05</date>
     <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
     <episode url="https://www.samharris.org/podcast/item/ask-me-anything-2" number="24">Ask Me Anything #2</episode>
-  </show>
-  <show>
+  </podcast>
+  <podcast>
     <date>2015.12.29</date>
     <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
     <episode url="https://www.samharris.org/podcast/item/on-the-maintenance-of-civilization" number="21">On the Maintenance of Civilization - A Conversation with Douglas Murray</episode>
-  </show>
-  <show>
+  </podcast>
+  <podcast>
     <date>2015.12.22</date>
     <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
     <episode url="https://www.samharris.org/podcast/item/surviving-the-cosmos" number="22">Surviving the Cosmos - A Conversation with David Deutsch</episode>
-  </show>
-  <show>
+  </podcast>
+  <podcast>
     <date>2015.12.06</date>
     <name url="http://peachandblack.podbean.com/">Peach &amp; Black Podcast</name>
     <episode url="http://peachandblack.podbean.com/e/the-top-20-greatest-prince-songsever/">The Top 20 Greatest Prince Songs....Ever!</episode>
-  </show>
-  <show>
+  </podcast>
+  <podcast>
     <date>2015.12.03</date>
     <name url="http://peachandblack.podbean.com/">Peach &amp; Black Podcast</name>
     <episode url="http://peachandblack.podbean.com/e/20ten-first-impressions/">20TEN - First Impressions!</episode>
-  </show>
-  <show>
+  </podcast>
+  <podcast>
     <date>2015.11.28</date>
     <name url="http://peachandblack.podbean.com/">Peach &amp; Black Podcast</name>
     <episode url="http://peachandblack.podbean.com/e/sydney-opera-house-challenge/">Sydney Opera House Challenge!</episode>
-  </show>
-  <show>
+  </podcast>
+  <podcast>
     <date>2015.11.27</date>
     <name url="http://peachandblack.podbean.com/">Peach &amp; Black Podcast</name>
     <episode url="http://peachandblack.podbean.com/e/mjf-review/">MJF Review</episode>
-  </show>
-  <show>
+  </podcast>
+  <podcast>
     <date>2015.11.26</date>
     <name url="http://peachandblack.podbean.com/">Peach &amp; Black Podcast</name>
     <episode url="http://peachandblack.podbean.com/e/michael-jackson-and-prince-show/">Michael Jackson (and Prince) Show</episode>
-  </show>
-  <show>
+  </podcast>
+  <podcast>
     <date>2015.11.18</date>
     <name url="http://peachandblack.podbean.com/">Peach &amp; Black Podcast</name>
     <episode url="http://peachandblack.podbean.com/e/lotusflow3r-first-impressions-podcast/">Lotusflow3r - First Impressions Podcast!</episode>
-  </show>
-  <show>
+  </podcast>
+  <podcast>
     <date>2015.11.17</date>
     <name url="http://peachandblack.podbean.com/">Peach &amp; Black Podcast</name>
     <episode url="http://peachandblack.podbean.com/e/lotusflow3r-anticipation-podcast/">Lotusflow3r Anticipation Podcast</episode>
-  </show>
-  <show>
+  </podcast>
+  <podcast>
     <date>2015.11.16</date>
     <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
     <episode url="https://www.samharris.org/podcast/item/still-sleepwalking-toward-armageddon" number="20">Still Sleepwalking Toward Armageddon</episode>
-  </show>
-  <show>
+  </podcast>
+  <podcast>
     <date>2015.11.13</date>
     <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
     <episode url="https://www.samharris.org/podcast/item/the-riddle-of-the-gun-revisited" number="19">The Riddle of the Gun (Revisited)</episode>
-  </show>
-  <show>
+  </podcast>
+  <podcast>
     <date>2015.11.12</date>
     <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
     <episode url="https://www.samharris.org/podcast/item/the-multiverse-you-you-you-you" number="18">The Multiverse &amp; You (&amp; You &amp; You &amp; You…) - A Conversation with Max Tegmark</episode>
-  </show>
-  <show>
+  </podcast>
+  <podcast>
     <date>2015.11.10</date>
     <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
     <episode url="https://www.samharris.org/podcast/item/what-i-really-think-about-profiling" number="17">What I Really Think About Profiling</episode>
-  </show>
-  <show>
+  </podcast>
+  <podcast>
     <date>2015.11.06</date>
     <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
     <episode url="https://www.samharris.org/podcast/item/the-dark-side" number="16">The Dark Side - A Conversation with Paul Bloom</episode>
-  </show>
-  <show>
+  </podcast>
+  <podcast>
     <date>2015.10.29</date>
     <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
     <episode url="https://www.samharris.org/podcast/item/questions-along-the-way-further-reflections-on-the-practice-of-meditation-w" number="15">Questions Along the Path - Further Reflections on the Practice of Meditation with Joseph Goldstein</episode>
-  </show>
-  <show>
+  </podcast>
+  <podcast>
     <date>2015.10.21</date>
     <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
     <episode url="https://www.samharris.org/podcast/item/the-virtues-of-cold-blood" number="14">The Virtues of Cold Blood - A Conversation with Paul Bloom</episode>
-  </show>
-  <show>
+  </podcast>
+  <podcast>
     <date>2015.10.15</date>
     <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
     <episode url="https://www.samharris.org/podcast/item/the-moral-gaze" number="13">The Moral Gaze - A Conversation with Joshua Oppenheimer</episode>
-  </show>
-  <show>
+  </podcast>
+  <podcast>
     <date>2015.09.28</date>
     <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
     <episode url="https://www.samharris.org/podcast/item/leaving-the-church" number="12">Leaving the Church - A Conversation with Megan Phelps-Roper</episode>
-  </show>
-  <show>
+  </podcast>
+  <podcast>
     <date>2015.09.24</date>
     <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
     <episode url="https://www.samharris.org/podcast/item/shouldering-the-burden-of-history" number="11">Shouldering the Burden of History - A Crosscast with Dan Carlin</episode>
-  </show>
-  <show>
+  </podcast>
+  <podcast>
     <date>2015.09.11</date>
     <name url="http://peachandblack.podbean.com/">Peach &amp; Black Podcast</name>
     <episode url="http://peachandblack.podbean.com/e/october-news-episode/">October News Episode</episode>
-  </show>
-  <show>
+  </podcast>
+  <podcast>
     <date>2015.09.10</date>
     <name url="http://peachandblack.podbean.com/">Peach &amp; Black Podcast</name>
     <episode url="http://peachandblack.podbean.com/e/news-episode-september/">News Episode - September</episode>
-  </show>
-  <show>
+  </podcast>
+  <podcast>
     <date>2015.09.09</date>
     <name url="http://peachandblack.podbean.com/">Peach &amp; Black Podcast</name>
     <episode url="http://peachandblack.podbean.com/e/june-news-episode/">June News Episode</episode>
-  </show>
-  <show>
+  </podcast>
+  <podcast>
     <date>2015.09.07</date>
     <name url="http://peachandblack.podbean.com/">Peach &amp; Black Podcast</name>
     <episode url="http://peachandblack.podbean.com/e/cause-effect/">Cause &amp; Effect?</episode>
-  </show>
-  <show>
+  </podcast>
+  <podcast>
     <date>2015.09.03</date>
     <name url="http://peachandblack.podbean.com/">Peach &amp; Black Podcast</name>
     <episode url="http://peachandblack.podbean.com/e/hot-summer-its-gonna-be-a/">Hot Summer! (it's gonna be a...)</episode>
-  </show>
-  <show>
+  </podcast>
+  <podcast>
     <date>2015.09.03</date>
     <name url="http://peachandblack.podbean.com/">Peach &amp; Black Podcast</name>
     <episode url="http://peachandblack.podbean.com/e/one-nite-alone-era-0203/">One Nite Alone Era (02/03)</episode>
-  </show>
-  <show>
+  </podcast>
+  <podcast>
     <date>2015.08.21</date>
     <name url="http://peachandblack.podbean.com/">Peach &amp; Black Podcast</name>
     <episode url="http://peachandblack.podbean.com/e/the-b-sides-part-2/">The B Sides - Part 2</episode>
-  </show>
-  <show>
+  </podcast>
+  <podcast>
     <date>2015.08.19</date>
     <name url="http://peachandblack.podbean.com/">Peach &amp; Black Podcast</name>
     <episode url="http://peachandblack.podbean.com/e/the-b-sides-part-1/">The B Sides - Part 1</episode>
-  </show>
-  <show>
+  </podcast>
+  <podcast>
     <date>2015.07.06</date>
     <name url="http://peachandblack.podbean.com/">Peach &amp; Black Podcast</name>
     <episode url="http://peachandblack.podbean.com/e/symbolic-beginnings/">Symbolic Beginnings</episode>
-  </show>
-  <show>
+  </podcast>
+  <podcast>
     <date>2015.06.30</date>
     <name url="http://peachandblack.podbean.com/">Peach &amp; Black Podcast</name>
     <episode url="http://peachandblack.podbean.com/e/the-rainbow-children-review-part-1/">The Rainbow Children Review - Part 1</episode>
-  </show>
-  <show>
+  </podcast>
+  <podcast>
     <date>2015.06.29</date>
     <name url="http://peachandblack.podbean.com/">Peach &amp; Black Podcast</name>
     <episode url="http://peachandblack.podbean.com/e/the-rainbow-children-review-part-2/">The Rainbow Children Review - Part 2</episode>
-  </show>
-  <show>
+  </podcast>
+  <podcast>
     <date>2015.05.21</date>
     <name url="http://peachandblack.podbean.com/">Peach &amp; Black Podcast</name>
     <episode url="http://peachandblack.podbean.com/e/around-the-world-in-a-day-review/">Around The World In A Day Review</episode>
-  </show>
-  <show>
+  </podcast>
+  <podcast>
     <date>2015.05.21</date>
     <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
     <episode url="https://www.samharris.org/podcast/item/faith-vs.-fact" number="10">Faith vs. Fact - An Interview with Jerry Coyne</episode>
-  </show>
-  <show>
+  </podcast>
+  <podcast>
     <date>2015.05.19</date>
     <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
     <episode url="https://www.samharris.org/podcast/item/final-thoughts-on-chomsky" number="9">Final Thoughts on Chomsky</episode>
-  </show>
-  <show>
+  </podcast>
+  <podcast>
     <date>2015.05.01</date>
     <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
     <episode url="https://www.samharris.org/podcast/item/ask-me-anything-1" number="8">Ask Me Anything #1</episode>
-  </show>
-  <show>
+  </podcast>
+  <podcast>
     <date>2015.04.29</date>
     <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
     <episode url="https://www.samharris.org/podcast/item/through-the-eyes-of-a-cult" number="7">Through the Eyes of a Cult</episode>
-  </show>
-  <show>
+  </podcast>
+  <podcast>
     <date>2015.04.29</date>
     <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
     <episode url="https://www.samharris.org/podcast/item/the-chapel-hill-murders-and-militant-atheism" number="6">The Chapel Hill Murders and ‘Militant’ Atheism</episode>
-  </show>
-  <show>
+  </podcast>
+  <podcast>
     <date>2015.04.28</date>
     <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
     <episode url="https://www.samharris.org/podcast/item/after-charlie-hebdo-and-other-thoughts" number="5">After Charlie Hebdo and Other Thoughts</episode>
-  </show>
-  <show>
+  </podcast>
+  <podcast>
     <date>2015.04.27</date>
     <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
     <episode url="https://www.samharris.org/podcast/item/the-path-and-the-goal" number="4">The Path and the Goal - A Conversation with Joseph Goldstein</episode>
-  </show>
-  <show>
+  </podcast>
+  <podcast>
     <date>2015.04.24</date>
     <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
     <episode url="https://www.samharris.org/podcast/item/why-dont-i-criticize-israel" number="2">Why Don’t I Criticize Israel?</episode>
-  </show>
-  <show>
+  </podcast>
+  <podcast>
     <date>2015.04.24</date>
     <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
     <episode url="https://www.samharris.org/podcast/item/drugs-and-the-meaning-of-life" number="1">Drugs and the Meaning of Life</episode>
-  </show>
-  <show>
+  </podcast>
+  <podcast>
     <date>2015.04.15</date>
     <name url="http://peachandblack.podbean.com/">Peach &amp; Black Podcast</name>
     <episode url="http://peachandblack.podbean.com/e/episode-2-planet-earth-review/">Planet Earth Review</episode>
-  </show>
+  </podcast>
   <podcast>
     <date>2015.02.26</date>
     <name url="http://verybadwizards.com/">Very Bad Wizards</name>
@@ -502,24 +502,24 @@
   </podcast>
 
   <!--
-  <show>
+  <podcast>
     <date></date>
     <name url=""></name>
     <episode url="" number=""></episode>
-  </show>
+  </podcast>
   -->
 
   <!--
-  <show>
+  <podcast>
     <date></date>
     <name url="http://peachandblack.podbean.com/">Peach &amp; Black Podcast</name>
     <episode url="http://peachandblack.podbean.com/e/the-shelbey-interview/">The Shelbey Interview</episode>
-  </show>
-  <show>
+  </podcast>
+  <podcast>
     <date></date>
     <name url="http://peachandblack.podbean.com/">Peach &amp; Black Podcast</name>
     <episode url="http://peachandblack.podbean.com/e/ricky-peterson-the-peterson-brothers-with-sheila-e-australian-tour/">Ricky Peterson &amp; The Peterson Brothers with Sheila E. - Australian Tour</episode>
-  </show>
+  </podcast>
   -->
 </podcasts>
 
