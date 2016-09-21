@@ -2,6 +2,11 @@
 <podcasts>
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date>2016.09.21</date>
+    <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
+    <episode url="https://www.samharris.org/podcast/item/ask-me-anything-5" number="45">Ask Me Anything #5</episode>
+  </podcast>
+  <podcast>
     <date>2016.09.16</date>
     <name>Alex &amp; Erik's Podcast</name>
     <episode number="36">Follow-up on vegetarism</episode>
