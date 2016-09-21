@@ -3,6 +3,11 @@
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
     <date>2016.09.21</date>
+    <name url="http://fourhourworkweek.com/podcast/">The Tim Ferriss Show</name>
+    <episode url="http://fourhourworkweek.com/2007/08/16/the-not-to-do-list-9-habits-to-stop-now/" number="9">The Not-To-Do List: 9 Habits to Stop Now</episode>
+  </podcast>
+  <podcast>
+    <date>2016.09.21</date>
     <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
     <episode url="https://www.samharris.org/podcast/item/ask-me-anything-5" number="45">Ask Me Anything #5</episode>
   </podcast>
