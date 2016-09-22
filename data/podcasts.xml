@@ -1,6 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <podcasts>
   <introduction>A list of podcasts I listened to.</introduction>
+  <!-- <podcast>
+    <date>2016.09.</date>
+    <name url="http://fourhourworkweek.com/podcast/">The Dr Funk Podcast</name>
+    <episode url="https://itunes.apple.com/us/podcast/the-dr-funk-podcast/id1087272594" number="21">Dave Hampton interview</episode>
+  </podcast> -->
+  <podcast>
+    <date>2016.09.22</date>
+    <name url="http://fourhourworkweek.com/podcast/">The Tim Ferriss Show</name>
+    <episode url="http://fourhourworkweek.com/2014/06/18/sam-harris/" number="14">Sam Harris, PhD on Spirituality, Neuroscience, Meditation, and More</episode>
+  </podcast>
   <podcast>
     <date>2016.09.21</date>
     <name url="http://fourhourworkweek.com/podcast/">The Tim Ferriss Show</name>
