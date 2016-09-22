@@ -6,16 +6,36 @@ My votes (in French). En Suisse, on ne plaisante pas avec la démocratie directe
 
 ### Acceptez-vous l’initiative populaire "Pour une économie durable et fondée sur une gestion efficiente des ressources (économie verte)" ?
 
-?. Résultat : ? (??.?%).
+Oui. Résultat : ? (??.?%).
+
+- Il est positif d'avoir une vision "long terme", dont notre société manque en général cruellement.
+- Il est utile de "laisser faire le marché" lorsque cela est possible, mais cela ne me semble pas forcément être le cas dans le domaine de l'écologie et de l'environnement.
+- Les arguments contre l'initiative (voir plus loin) ne me convainquent pas.
+- Certains prétendent que l'initiative est trop ambitieuse et veut faire trop en trop peu de temps, mais on parle de 2050. Nous avons 34 ans pour atteindre les buts stipulés par l'initiative. Cela me semble au contraire assez peu agressif.
+- Il est question de "mesures radicales qui affecteraient l'économie, ce qui risquerait d'avoir des incidences négatives sur la compétivité, la croissance et l'emploi". Les risques sur l'économie et l'emploi doivent être prouvés. L'initiative peut au contraire inciter la recherche et l'innovation, donc la création de nouveaux emplois. Quant aux incidences négatives sur la croissance, cela traduit ironiquement une idéologie, celle de la croissance à tout prix.
+- On parle de coûts élevés, de diminution de la consommation (très ironique, à nouveau...), etc., mais quels sont les coûts d'une société consommant trop de ressources ? Ce genre de réactions me paraissent particulièrement concentrées sur le court terme.
+- Comme pour le RBI, on reproche une fois de plus à l'initiative de ne pas proposer de mesures concrètes, mais il me semble que c'est justement sa force, puisque les mesures devront être ré-évaluées régulièrement par le Parlement.
+- On parle aussi d'initiative "extrême". C'est un adjectif qui [démontre surtout un manque d'imagination](https://bruchez.blogspot.ch/2012/02/le-juste-milieu.html), à mon avis.
+- Enfin, on parle de la Suisse qui "ferait cavalier seul". Ca n'est pas forcément mauvais. La Suisse est un pays riche. Elle peut se permettre de jouer un rôle d'exemple.
 
 ### Acceptez-vous l’initiative populaire "AVSplus: pour une AVS forte" ?
 
-?. Résultat : ? (??.?%).
+Non. Résultat : ? (??.?%).
+
+- Le projet "Prévoyance vieillesse 2020" étant en cours, l'initiative me semble un peu malvenue.
+- Il est important d'avoir une approche globale, prenant en compte les trois piliers, ainsi que les prestations complémentaires. Il est un peu étrange d'isoler l'AVS dans cette réflexion.
+- Pour ces raisons, je vote un "petit non".
 
 ### Acceptez-vous la loi fédérale du 25 septembre 2015 sur le renseignement (LRens) ?
 
-?. Résultat : ? (??.?%).
+Oui. Résultat : ? (??.?%).
 
+- Il s'agit d'un sujet sensible.
+- Il est difficile de trouver un équilibre entre sécurité et liberté qui conviennent à tout le monde.
+- Loin de faire appel à des arguments fallacieux de type "Je n'ai rien à cacher", je pense qu'il est toutefois nécessaire d'adapter les méthodes de renseignement aux technologies modernes.
+- La loi semble comprendre des mécanismes de contrôle et des conditions strictes qui, en théorie, tout du moins, me semblent raisonnables.
+- Un argument contre cette loi prétend qu'il est plus difficile de trouver des informations utiles dans une grosse masse de données, mais je pense que cet argument est infondé/dépassé (cf progrès du machine learning).
+- Un autre argument contre mentionne que la collaboration avec l'étranger met en danger la neutralité suisse. J'ai de la peine à voir en quoi c'est le cas. Il me semble logique et rationnel de collaborer avec des pays étrangers lorsqu'il s'agit de renseigmement.
 
 ## [Votation fédérale du 5 juin 2016](https://www.admin.ch/gov/fr/accueil/documentation/votations/20160605.html)
 
