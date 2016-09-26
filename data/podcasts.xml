@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <podcasts>
   <introduction>A list of podcasts I listened to.</introduction>
+  The Tim Ferriss Show: Ep 44: 
+  <podcast>
+    <date>2016.09.26</date>
+    <name url="http://fourhourworkweek.com/podcast/">The Tim Ferriss Show</name>
+    <episode url="http://fourhourworkweek.com/2014/12/23/4-hour-work-week-2015/" number="44">How to Avoid Decision Fatigue</episode>
+  </podcast>
   <podcast>
     <date>2016.09.26</date>
     <name url="http://fourhourworkweek.com/podcast/">The Tim Ferriss Show</name>
