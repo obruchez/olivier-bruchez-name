@@ -66,3 +66,19 @@
  * [Wing Commander III: Heart of the Tiger](https://en.wikipedia.org/wiki/Wing_Commander_III:_Heart_of_the_Tiger)
  * [Wing Commander IV: The Price of Freedom](https://en.wikipedia.org/wiki/Wing_Commander_IV:_The_Price_of_Freedom)
  * [Wing Commander: Prophecy](https://en.wikipedia.org/wiki/Wing_Commander:_Prophecy) (not finished?)
+
+## Gamecube / Wii
+
+* [Mario Kart: Double Dash!!](https://en.wikipedia.org/wiki/Mario_Kart:_Double_Dash)
+* [Mario Kart Wii](https://en.wikipedia.org/wiki/Mario_Kart_Wii)
+* [Super Mario Galaxy](https://en.wikipedia.org/wiki/Super_Mario_Galaxy)
+* [Wii Fit](https://en.wikipedia.org/wiki/Wii_Fit)
+* [Wii Sports](https://en.wikipedia.org/wiki/Wii_Sports)
+
+## iPhone
+
+* [Angry Birds](https://en.wikipedia.org/wiki/Angry_Birds)
+* [Cut the Rope](https://en.wikipedia.org/wiki/Cut_the_Rope)
+* [Doodle Jump](https://en.wikipedia.org/wiki/Doodle_Jump)
+* [Edge](https://en.wikipedia.org/wiki/Edge_(video_game))
+* [Rolando](https://en.wikipedia.org/wiki/Rolando_%28video_game%29)
