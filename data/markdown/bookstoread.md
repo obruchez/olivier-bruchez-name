@@ -24,8 +24,10 @@ Pretty much everything from [Les cent livres du siècle](https://fr.wikipedia.or
 ## Business / entrepreneurship
 
 * Jason Fried, ["Rework"](http://www.amazon.com/ReWork-Change-Way-Work-Forever-ebook/dp/B003ELY7PG/) (mentioned by [@epsitec](https://twitter.com/epsitec))
+* Michael A. Hiltzik, ["Dealers of Lightning: Xerox PARC and the Dawn of the Computer Age"](https://www.amazon.com/Dealers-Lightning-Michael-A-Hiltzik-ebook/dp/B0029PBVCA) (recommended by [@akosma](https://twitter.com/akosma))
 * Christopher Locke, Rick Levine, Doc Searls & David Weinberger, ["The Cluetrain Manifesto: The End of Business as Usual"](https://en.wikipedia.org/wiki/The_Cluetrain_Manifesto)
 * Rowan Manahan, ["Where's My Oasis?: The Essential Handbook for Everyone Wanting that Perfect Job"](http://www.amazon.com/Wheres-My-Oasis-Rowan-Manahan/dp/0091899982)
+* Don Norman, ["The Design of Everyday Things: Revised and Expanded Edition"](https://www.amazon.com/Design-Everyday-Things-Revised-Expanded-ebook/dp/B00E257T6C) (recommended by [@akosma](https://twitter.com/akosma))
 * OCTO Technology, ["Partageons Ce Qui Nous Departage"](http://www.amazon.fr/Partageons-ce-qui-nous-d%C3%A9partage/dp/2952589526)
 * Paul Sloane, ["The Innovative Leader: How to Inspire Your Team and Drive Creativity"](http://www.amazon.com/The-Innovative-Leader-Inspire-Creativity/dp/0749450010)
 
@@ -47,17 +49,26 @@ Pretty much everything from [Les cent livres du siècle](https://fr.wikipedia.or
 ## Computer science / software
 
 * Jon Bentley, ["Programming Pearls"](http://www.amazon.com/Programming-Pearls-2nd-ACM-Press/dp/0201657880/)
+* Frederick P. Brooks Jr., ["The Mythical Man-Month, Anniversary Edition: Essays On Software Engineering"](https://www.amazon.com/Mythical-Man-Month-Anniversary-Software-Engineering-ebook/dp/B00B8USS14) (recommended by [@akosma](https://twitter.com/akosma))
+* Raymond Chen, ["The Old New Thing: Practical Development Throughout the Evolution of Windows"](https://www.amazon.com/Old-New-Thing-Development-Throughout-ebook/dp/B004YWCL5W) (recommended by [@akosma](https://twitter.com/akosma))
 * Thomas Cormen, ["Introduction to Algorithms"](http://www.amazon.com/Introduction-Algorithms-Thomas-Cormen/dp/0072970545/)
+* Tom DeMarco, ["Peopleware: Productive Projects and Teams"](https://www.amazon.com/Peopleware-Productive-Projects-Tom-DeMarco-ebook/dp/B00DY5A8X2) (recommended by [@akosma](https://twitter.com/akosma))
 * Eric Evans, ["Domain-Driven Design: Tackling Complexity in the Heart of Software"](http://www.amazon.com/exec/obidos/ASIN/0321125215/domainlanguag-20) (recommended by [@behaghel](https://twitter.com/behaghel))
 * Erich Gamma, etc., ["Design Patterns: Elements of Reusable Object-Oriented Software"](http://www.amazon.com/Design-Patterns-Object-Oriented-Addison-Wesley-Professional/dp/0201633612/)
 * Imran Ghory, ["Reinforcement learning in board games"](http://www.cs.bris.ac.uk/Publications/Papers/2000100.pdf)
+* Robert L. Glass, ["Facts and Fallacies of Software Engineering"](https://www.amazon.com/Facts-Fallacies-Software-Engineering-Robert-ebook/dp/B001TKD4RG) (recommended by [@akosma](https://twitter.com/akosma))
+* Andy Hertzfeld, ["Revolution in The Valley: The Insanely Great Story of How the Mac Was Made"](https://www.amazon.com/Revolution-Valley-Paperback-Insanely-Great-ebook/dp/B006BAW3N0) (recommended by [@akosma](https://twitter.com/akosma))
 * Steve Krug, ["Don't Make Me Think: A Common Sense Approach to Web Usability"](http://www.amazon.com/Dont-Make-Me-Think-Usability/dp/0321344758) (recommended by [@behaghel](https://twitter.com/behaghel)?)
 * F. William Lawvere & Stephen H. Schanuel, ["Conceptual Mathematics: A First Introduction to Categories"](http://www.amazon.com/Conceptual-Mathematics-First-Introduction-Categories/dp/052171916X/)
 * Robert C. Martin, ["Clean Code: A Handbook of Agile Software Craftsmanship"](http://www.amazon.com/gp/product/0132350882)
 * Steve McConnell, ["Code Complete: A Practical Handbook of Software Construction"](http://www.amazon.com/Code-Complete-Practical-Handbook-Construction/dp/0735619670/)
 * Benjamin C. Pierce, ["Types and Programming Languages"](http://www.cis.upenn.edu/~bcpierce/tapl/) (recommended by [@icassina](https://twitter.com/icassina), quite "academic"/complex; see also [code in Scala](https://github.com/ilya-klyuchnikov/tapl-scala))
+* Eric S. Raymond, ["The Cathedral & the Bazaar: Musings on Linux and Open Source by an Accidental Revolutionary"](https://www.amazon.com/Cathedral-Bazaar-Musings-Accidental-Revolutionary/dp/0596001088) (recommended by [@akosma](https://twitter.com/akosma))
+* David Rice, ["Geekonomics: The Real Cost of Insecure Software"](https://www.amazon.com/Geekonomics-Real-Cost-Insecure-Software-ebook/dp/B004UAALT6) (recommended by [@akosma](https://twitter.com/akosma))
 * Harold Simmons, ["An Introduction to Category Theory"](http://www.amazon.com/Introduction-Category-Theory-Harold-Simmons/dp/0521283043/) (also recommended by [@icassina](https://twitter.com/icassina)?)
 * Joel Spolsky, ["The Best Software Writing I"](http://www.amazon.com/The-Best-Software-Writing-Introduced/dp/1590595009) (belonging to [@ebruchez](https://twitter.com/ebruchez))
+* Steve Weber, ["The Success of Open Source"](https://www.amazon.com/Success-Open-Source-Steve-WEBER-ebook/dp/B002OSXS0U) (recommended by [@akosma](https://twitter.com/akosma))
+* Gerald Weinberg, ["The Psychology of Computer Programming: Silver Anniversary"](https://www.amazon.com/Psychology-Computer-Programming-Silver-Anniversary-ebook/dp/B004R9QACC) (recommended by [@akosma](https://twitter.com/akosma))
 * see also ["What is the single most influential book every programmer should read?"](https://www.quora.com/What-is-the-single-most-influential-book-every-programmer-should-read)
 * see also  ["What non-programming books should programmers read?"](https://stackoverflow.com/questions/38210/what-non-programming-books-should-programmers-read)
 
