@@ -2,12 +2,12 @@
 <books>
     <introduction>A list of books I read.</introduction>
     <book>
-        <date></date>
+        <date>2016.09.28</date>
         <title>Islam and the Future of Tolerance</title>
         <subtitle>A Dialogue</subtitle>
         <author>Sam Harris &amp; Maajid Nawaz</author>
         <publishingyear>2015</publishingyear>
-        <rating></rating>
+        <rating>4.0</rating>
         <url>https://en.wikipedia.org/wiki/Islam_and_the_Future_of_Tolerance</url>
         <!-- <notes description="Kindle highlights"></notes> -->
     </book>
