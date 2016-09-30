@@ -227,6 +227,11 @@
     <series url="https://en.wikipedia.org/wiki/How_I_Met_Your_Mother#Season_9" type="season">9</series>
   </show>
   <show>
+    <date>2014.03.07</date>
+    <name url="https://en.wikipedia.org/wiki/Seinfeld">Seinfeld</name>
+    <series url="https://en.wikipedia.org/wiki/Seinfeld_(season_5)" type="season">5</series>
+  </show>
+  <show>
     <date>2013.06.01</date>
     <name url="https://en.wikipedia.org/wiki/The_Big_Bang_Theory">The Big Bang Theory</name>
     <series url="https://en.wikipedia.org/wiki/The_Big_Bang_Theory_(season_6)" type="season">6</series>
@@ -240,6 +245,11 @@
     <date>2013.05.22</date>
     <name url="https://en.wikipedia.org/wiki/Community_(TV_series)">Community</name>
     <series url="https://en.wikipedia.org/wiki/Community_(season_4)" type="season">4</series>
+  </show>
+  <show>
+    <date>2013.05.11</date>
+    <name url="https://en.wikipedia.org/wiki/Seinfeld">Seinfeld</name>
+    <series url="https://en.wikipedia.org/wiki/Seinfeld_(season_2)" type="season">2</series>
   </show>
   <show>
     <date>2012.10.28</date>
@@ -423,6 +433,7 @@
 <!--
 ???: Prison Break 1
 ???: Prison Break 2
+OK ajouté: 22 mars 2008: Prison Break 2
 
 ???: Lost 1
 ???: Lost 2
@@ -455,14 +466,14 @@
 ???: Arrested Development 4
 
 ???: Seinfeld 1
-11 mai 2013: Seinfeld 2
+OK ajouté: 11 mai 2013: Seinfeld 2
 ???: Seinfeld 3
 ???: Seinfeld 4
-7 mars 2014: Seinfeld 5
+OK ajouté: 7 mars 2014: Seinfeld 5
 25 juin 2014: Seinfeld 6
 18 septembre 2014: Seinfeld 7
 ???: Seinfeld 8
-OK: Seinfeld 9
+OK ajouté: Seinfeld 9
 
 Better Off Ted
 Bref
