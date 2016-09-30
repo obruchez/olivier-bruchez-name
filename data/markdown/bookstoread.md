@@ -86,6 +86,7 @@ Pretty much everything from [Les cent livres du siècle](https://fr.wikipedia.or
 ## Essays
 
 * Christopher Hitchens, ["Arguably: Essays by Christopher Hitchens"](https://en.wikipedia.org/wiki/Arguably)
+* Tim Kreider, ["We Learn Nothing: Essays"](https://www.amazon.com/We-Learn-Nothing-Tim-Kreider/dp/1439198713) (recommended by [@tferriss](https://twitter.com/tferriss))
 * Daniel Pennac, ["Comme un roman"](https://fr.wikipedia.org/wiki/Comme_un_roman) (already read, to read again)
 
 ## Fiction
