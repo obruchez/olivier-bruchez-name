@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <podcasts>
   <introduction>A list of podcasts I listened to.</introduction>
-  <!--<podcast>
-    <date>2016.09.</date>
+  <podcast>
+    <date>2016.09.30</date>
     <name url="http://fourhourworkweek.com/podcast/">The Tim Ferriss Show</name>
     <episode url="http://fourhourworkweek.com/2015/04/03/lazy-a-manifesto/" number="68">Lazy: A Manifesto</episode>
-  </podcast>-->
+  </podcast>
   <podcast>
     <date>2016.09.29</date>
     <name url="http://fourhourworkweek.com/podcast/">The Tim Ferriss Show</name>
