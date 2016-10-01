@@ -124,3 +124,7 @@
   * I should become upset when other people have problems and feel unhappy when they’re sad.
   * I shouldn’t have to feel discomfort and pain. I can’t stand them and must avoid them at all costs.
   * Every problem should have an ideal solution, and it is intolerable when one can’t be found.
+
+## Vichy (Régime de)
+
+Les Allemands, qui occupent d'abord le Nord et l'Ouest, et à partir du 11 novembre 1942, la métropole toute entière, laissent l'administration française sous l'autorité d'un gouvernement français installé à Vichy et dirigé par le maréchal **Pétain**, nommé président du Conseil par le président Albert Lebrun. Dès juin 1940, Pétain, met en œuvre une politique de **collaboration avec les Nazis**, se substitue au président de la République, qui, bien que n'ayant pas démissionné de son mandat, se retire de la fonction, puis s’autoproclame "chef de l’État français".
