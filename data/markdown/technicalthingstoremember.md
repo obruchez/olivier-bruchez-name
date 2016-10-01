@@ -193,3 +193,32 @@ A multi-disc compilation would be an album with several discs and different arti
 ## Mount a read-only SSHFS volume using MacFUSE/MacFusion
 
 * use "-o ro" option
+
+## Print a PDF file including the form fields
+
+* use [PDFPen](https://smilesoftware.com/pdfpen) (commercial, demo version prints watermarks)
+
+## Remove extended file attributes in Mac OS X (asks for password to move/rename files)
+
+* chmod -R -N <dir>
+
+## Reset the System Management Controller (SMC) on MacBook Pro (late 2008)
+
+* shutdown, remove battery, press/hold power button for 5 seconds ([link](https://support.apple.com/en-us/HT201295))
+* in case of problems with fans, etc.
+
+## Rotate a JPEG file losslessly
+
+* use Picasa (also keeps EXIF tags)
+
+## Set EXIF date/time from file "last modification time"
+
+* exiftool '-FileModifyDate>DateTimeOriginal' <directory>
+
+## Set "last modification time" of picture file from the EXIF date/time
+
+* exiftool '-DateTimeOriginal>FileModifyDate' <directory>
+
+## Shift EXIF date/time in pictures
+
+* exiftool "-AllDates+=01:02:03" -P <directory>
