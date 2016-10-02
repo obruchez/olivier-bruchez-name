@@ -191,6 +191,7 @@ Pretty much everything from [Les cent livres du siècle](https://fr.wikipedia.or
 * Gordon MacKenzie, ["Orbiting the Giant Hairball: A Corporate Fool's Guide to Surviving with Grace"](http://www.amazon.com/Orbiting-Giant-Hairball-Corporate-Surviving/dp/0670879835)
 * Eric Maisel, ["The Creativity Book: A Year's Worth of Inspiration and Guidance"](http://www.amazon.com/The-Creativity-Book-Inspiration-Guidance-ebook/dp/B001NJA8Y0)
 * David McRaney, ["You Are Now Less Dumb: How to Conquer Mob Mentality, How to Buy Happiness, and All the Other Ways to Outsmart Yourself"](http://www.amazon.com/You-Are-Now-Less-Dumb/dp/1592408796)
+* Becki Saltzman, ["Living Curiously: How to Use Curiosity to be Remarkable and Do Good Stuff"](https://www.amazon.com/Living-Curiously-Curiosity-Remarkable-English-ebook/dp/B01EKOGYCY/) (recommended by [@gschaer](https://twitter.com/gschaer))
 * Eckhart Tolle, ["A New Earth"](http://www.amazon.com/New-Earth-Awakening-Purpose-Selection/dp/0452289963/)
 
 ## Philosophy
