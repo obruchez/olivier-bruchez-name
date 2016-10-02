@@ -2,6 +2,17 @@
 <books>
     <introduction>A list of books I read.</introduction>
     <book>
+        <date>2016.10.02</date>
+        <title>Non-militarisation: countries without armies</title>
+        <subtitle>Identification criteria and first findings</subtitle>
+        <author>Christophe Barbey</author>
+        <publishingyear>2015</publishingyear>
+        <rating>4.0</rating>
+        <url>http://www.peace.ax/images/stories/pdf/Christophe_Barbey_non-militarisation.pdf</url>
+        <!-- <notes description="Kindle highlights"></notes> -->
+        <comments>More of a working paper than a book, but received as a printed book, so I'm including it here.</comments>
+    </book>
+    <book>
         <date>2016.09.28</date>
         <title>Islam and the Future of Tolerance</title>
         <subtitle>A Dialogue</subtitle>
