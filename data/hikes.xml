@@ -143,23 +143,48 @@
   </hike>
   <hike>
     <date>2009.05.24</date>
-    <place>Verbier</place>
+    <place>Verbier, Switzerland</place>
     <pictures url="https://www.flickr.com/photos/bruchez/sets/72157618775650667/"/>
   </hike>
   <hike>
     <date>2008.11.10</date>
-    <place>La Pasay</place>
+    <place>La Pasay, Switzerland</place>
     <pictures url="https://www.flickr.com/photos/bruchez/sets/72157608874802857/"/>
   </hike>
   <hike>
     <date>2008.10.11</date>
-    <place>Plan des Lires</place>
+    <place>Plan des Lires, Switzerland</place>
     <pictures url="https://www.flickr.com/photos/bruchez/sets/72157608243015592/"/>
   </hike>
   <hike>
     <date>2008.07.27</date>
-    <place>Louvie</place>
+    <place>Louvie, Switzerland</place>
     <pictures url="https://www.flickr.com/photos/bruchez/sets/72157606706370391/"/>
+  </hike>
+  <hike>
+    <date>2008.07.10</date>
+    <place>Mauvoisin / Panossière, Switzerland</place>
+    <pictures url="https://www.flickr.com/photos/bruchez/sets/72157606704977839/"/>
+  </hike>
+  <hike>
+    <date>2008.06.22</date>
+    <place>Cornettes de Bise, Switzerland</place>
+    <pictures url="https://www.flickr.com/photos/bruchez/sets/72157605850048638/"/>
+  </hike>
+  <hike>
+    <date>2007.11.04</date>
+    <place>Combe de Drône, Switzerland</place>
+    <pictures url="https://www.flickr.com/photos/bruchez/sets/72157603180282255/"/>
+  </hike>
+  <hike>
+    <date>2007.10.14</date>
+    <place>Combe de l'A, Switzerland</place>
+    <pictures url="https://www.flickr.com/photos/bruchez/sets/72157602454817310/"/>
+  </hike>
+  <hike>
+    <date>2007.10.07</date>
+    <place>Pointe de Toules / Annibal Wall, Switzerland</place>
+    <pictures url="https://www.flickr.com/photos/bruchez/sets/72157602320638822/"/>
   </hike>
 
   <!-- <hike>
