@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <podcasts>
   <introduction>A list of podcasts I listened to.</introduction>
-  <!--<podcast>
-    <date>2016.10.06</date>
+  <podcast>
+    <date>2016.10.07</date>
     <name url="http://peachandblack.podbean.com/">Peach &amp; Black Podcast</name>
     <episode url="http://peachandblack.podbean.com/e/black-album-review/">Black - The Album Review</episode>
-  </podcast>-->
+  </podcast>
   <podcast>
     <date>2016.10.</date>
     <name url="http://fourhourworkweek.com/podcast/">The Dr Funk Podcast</name>
