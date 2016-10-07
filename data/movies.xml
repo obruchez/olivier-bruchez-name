@@ -2,6 +2,14 @@
 <movies>
   <introduction>A list of movies I saw.</introduction>
   <movie>
+    <date>2016.10.07</date>
+    <theater>Cinémathèque, Lausanne</theater>
+    <director>Prince</director>
+    <title>Graffiti Bridge</title>
+    <url>http://www.imdb.com/title/tt0099691/</url>
+    <rating>3.0</rating>
+  </movie>
+  <movie>
     <date>2016.09.11</date>
     <theater>Cinémathèque, Lausanne</theater>
     <director>Prince &amp; Michael Ballhaus</director>
