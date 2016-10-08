@@ -2,6 +2,13 @@
 <courses>
     <introduction>A list of MOOC courses I took.</introduction>
     <course>
+        <date>2016-10-08</date>
+        <provider>Coursera</provider>
+        <name>Parallel programming</name>
+        <instructor>Viktor Kuncak &amp; Aleksandar Prokopec</instructor>
+        <url>https://www.coursera.org/learn/parprog1</url>
+    </course>
+    <course>
         <date>2015-02-21</date>
         <provider>Coursera</provider>
         <name>Introduction to Astronomy</name>
