@@ -2,6 +2,14 @@
 <movies>
   <introduction>A list of movies I saw.</introduction>
   <movie>
+    <date>2016.10.08</date>
+    <theater home="true"/>
+    <director>Steven Spielberg</director>
+    <title>Schindler's List</title>
+    <url>http://www.imdb.com/title/tt0108052/</url>
+    <rating>5.5</rating>
+  </movie>
+  <movie>
     <date>2016.10.07</date>
     <theater>Cinémathèque, Lausanne</theater>
     <director>Prince</director>
