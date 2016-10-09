@@ -2,6 +2,14 @@
 <movies>
   <introduction>A list of movies I saw.</introduction>
   <movie>
+    <date>2016.10.09</date>
+    <theater>Galeries, Lausanne</theater>
+    <director>Tim Burton</director>
+    <title>Miss Peregrine's Home for Peculiar Children</title>
+    <url>http://www.imdb.com/title/tt1935859/</url>
+    <rating>4.75</rating>
+  </movie>
+  <movie>
     <date>2016.10.08</date>
     <theater home="true"/>
     <director>Steven Spielberg</director>
