@@ -10,6 +10,14 @@
     <rating>4.75</rating>
   </movie>
   <movie>
+    <date>2016.10.09</date>
+    <theater>Galeries, Lausanne</theater>
+    <director>Marcel Barelli</director>
+    <title>Habitat</title>
+    <url>https://marcelbarelli.blogspot.ch/p/habitat.html</url>
+    <rating>4.5</rating>
+  </movie>
+  <movie>
     <date>2016.10.08</date>
     <theater home="true"/>
     <director>Steven Spielberg</director>
