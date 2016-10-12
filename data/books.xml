@@ -2,6 +2,15 @@
 <books>
     <introduction>A list of books I read.</introduction>
     <book>
+        <date></date>
+        <title>L'Enfant du placard</title>
+        <author>Tiffany Jaquet</author>
+        <publishingyear>2016</publishingyear>
+        <rating></rating>
+        <url>http://www.plaisirdelire.ch/jaquet-tiffany/t-jaquet-lenfant-du-placard</url>
+        <!-- <notes description="Kindle highlights"></notes> -->
+    </book>
+    <book>
         <date>2016.10.02</date>
         <title>Non-militarisation: countries without armies</title>
         <subtitle>Identification criteria and first findings</subtitle>
@@ -9,7 +18,6 @@
         <publishingyear>2015</publishingyear>
         <rating>4.0</rating>
         <url>http://www.peace.ax/images/stories/pdf/Christophe_Barbey_non-militarisation.pdf</url>
-        <!-- <notes description="Kindle highlights"></notes> -->
         <comments>More of a working paper than a book, but received as a printed book, so I'm including it here.</comments>
     </book>
     <book>
