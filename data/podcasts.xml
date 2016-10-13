@@ -2,6 +2,11 @@
 <podcasts>
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date>2016.10.13</date>
+    <name url="http://www.stitcher.com/podcast/the-dr-funk-podcast">The Dr Funk Podcast</name>
+    <episode url="http://www.stitcher.com/podcast/the-dr-funk-podcast/e/episode-23-scott-baldwin-46746584" number="23">Scott Baldwin</episode>
+  </podcast>
+  <podcast>
     <date>2016.10.11</date>
     <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
     <episode url="https://www.samharris.org/podcast/item/the-frontiers-of-political-correctness" number="47">The Frontiers of Political Correctness - A Conversation with Gad Saad</episode>
@@ -12,9 +17,9 @@
     <episode url="http://peachandblack.podbean.com/e/black-album-review/">Black - The Album Review</episode>
   </podcast>
   <podcast>
-    <date>2016.10.</date>
-    <name url="http://fourhourworkweek.com/podcast/">The Dr Funk Podcast</name>
-    <episode url="https://itunes.apple.com/us/podcast/the-dr-funk-podcast/id1087272594" number="22">Dave Hampton interview (part 2)</episode>
+    <date>2016.10.04</date>
+    <name url="http://www.stitcher.com/podcast/the-dr-funk-podcast">The Dr Funk Podcast</name>
+    <episode url="http://www.stitcher.com/podcast/the-dr-funk-podcast/e/episode-22-46653696" number="22">Dave Hampton interview (part 2)</episode>
   </podcast>
   <podcast>
     <date>2016.10.03</date>
@@ -48,8 +53,8 @@
   </podcast>
   <podcast>
     <date>2016.09.23</date>
-    <name url="http://fourhourworkweek.com/podcast/">The Dr Funk Podcast</name>
-    <episode url="https://itunes.apple.com/us/podcast/the-dr-funk-podcast/id1087272594" number="21">Dave Hampton interview</episode>
+    <name url="http://www.stitcher.com/podcast/the-dr-funk-podcast">The Dr Funk Podcast</name>
+    <episode url="http://www.stitcher.com/podcast/the-dr-funk-podcast/e/episode-21-46494131" number="21">Dave Hampton interview</episode>
   </podcast>
   <podcast>
     <date>2016.09.22</date>
