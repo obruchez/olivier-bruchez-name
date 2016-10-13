@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <podcasts>
   <introduction>A list of podcasts I listened to.</introduction>
+  <!-- TODO: add URL -->
+  <podcast>
+    <date>2016.10.13</date>
+    <name url="http://www.stitcher.com/podcast/the-dr-funk-podcast">The Dr Funk Podcast</name>
+    <episode url="" number="24">Scott Baldwin (part 2)</episode>
+  </podcast>
   <podcast>
     <date>2016.10.13</date>
     <name url="http://www.stitcher.com/podcast/the-dr-funk-podcast">The Dr Funk Podcast</name>
