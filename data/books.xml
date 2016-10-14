@@ -2,11 +2,11 @@
 <books>
     <introduction>A list of books I read.</introduction>
     <book>
-        <date></date>
+        <date>2016.10.13</date>
         <title>L'Enfant du placard</title>
         <author>Tiffany Jaquet</author>
         <publishingyear>2016</publishingyear>
-        <rating></rating>
+        <rating>4.5</rating>
         <url>http://www.plaisirdelire.ch/jaquet-tiffany/t-jaquet-lenfant-du-placard</url>
         <!-- <notes description="Kindle highlights"></notes> -->
     </book>
