@@ -2,6 +2,14 @@
 <movies>
   <introduction>A list of movies I saw.</introduction>
   <movie>
+    <date>2016.10.15</date>
+    <theater home="true"/>
+    <director>Francis Ford Coppola</director>
+    <title>The Godfather: Part II</title>
+    <url>http://www.imdb.com/title/tt0071562/</url>
+    <rating>4.75</rating>
+  </movie>
+  <movie>
     <date>2016.10.09</date>
     <theater>Galeries, Lausanne</theater>
     <director>Tim Burton</director>
