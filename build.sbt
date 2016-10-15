@@ -24,3 +24,5 @@ libraryDependencies ++= Seq(
   "org.apache.commons" % "commons-lang3" % "3.4",
   "org.jsoup" % "jsoup" % "1.9.2",
   "org.twitter4j" % "twitter4j-core" % "4.0.5")
+
+routesGenerator := StaticRoutesGenerator
