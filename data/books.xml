@@ -2,13 +2,21 @@
 <books>
     <introduction>A list of books I read.</introduction>
     <book>
+        <date></date>
+        <title>Everybody Is Wrong About God</title>
+        <author>James A. Lindsay</author>
+        <publishingyear>2015</publishingyear>
+        <rating></rating>
+        <url>https://books.google.ch/books/about/Everybody_Is_Wrong_about_God.html?id=rLozrgEACAAJ</url>
+        <!-- <notes description="Kindle highlights"></notes> -->
+    </book>
+    <book>
         <date>2016.10.13</date>
         <title>L'Enfant du placard</title>
         <author>Tiffany Jaquet</author>
         <publishingyear>2016</publishingyear>
         <rating>4.5</rating>
         <url>http://www.plaisirdelire.ch/jaquet-tiffany/t-jaquet-lenfant-du-placard</url>
-        <!-- <notes description="Kindle highlights"></notes> -->
     </book>
     <book>
         <date>2016.10.02</date>
