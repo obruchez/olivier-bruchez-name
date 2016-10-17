@@ -222,3 +222,31 @@ A multi-disc compilation would be an album with several discs and different arti
 ## Shift EXIF date/time in pictures
 
 * exiftool "-AllDates+=01:02:03" -P <directory>
+
+## Show hidden files in Finder (OS X)
+
+* defaults write com.apple.finder AppleShowAllFiles TRUE
+* killall Finder
+
+## Shutdown completely an Ubuntu server (remotely)
+
+* sudo shutdown -h -P now
+
+## Split an animated GIF file
+
+* use ImageMagick (convert image.gif image_%d.gif)
+
+## Test the integrity of a JPEG file (old)
+
+* use jpeginfo
+* to make jpeginfo
+  * download [jpeginfo](https://github.com/tjko/jpeginfo) sources
+  * download [jpeglib](http://www.ijg.org/) sources
+  * configure/make jpeglib
+  * configure/make jpeginfo
+
+## Wordpress - Fix home / site URL in Wordpress
+
+* mysql -u root -p
+* update wp_options set option_value='http://...' where option_name='home';
+* update wp_options set option_value='http://...' where option_name='siteurl';
