@@ -4,7 +4,7 @@
     <list title="Activities">
         <item url="https://en.wikipedia.org/wiki/Blogging">Blogging</item>
         <item url="https://en.wikipedia.org/wiki/Opera">Going to the opera</item>
-        <item url="https://en.wikipedia.org/wiki/Theatre">Going to the theater</item>
+        <item url="https://en.wikipedia.org/wiki/Theatre">Going to the theatre</item>
         <item url="https://en.wikipedia.org/wiki/Meditating">Meditating</item>
         <item url="https://en.wikipedia.org/wiki/Reading_(process)">Reading</item>
         <item url="https://en.wikipedia.org/wiki/Traveling">Traveling</item>
@@ -181,7 +181,7 @@
         <item url="https://www.samharris.org/podcast">Waking Up (Sam Harris)</item>
     </list>
     <list title="Political views">
-        <item url="https://en.wikipedia.org/wiki/Centre-left">Center-left</item>
+        <item url="https://en.wikipedia.org/wiki/Centre-left">Centre-left</item>
         <item url="https://en.wikipedia.org/wiki/Moderate">Moderism</item>
     </list>
     <list title="Sports">
@@ -222,6 +222,7 @@
         <!-- <item url="https://en.wikipedia.org/wiki/Westworld_(TV_series)">Westworld</item> -->
     </list>
     <list title="Web comics">
+        <item url="http://909sickle.net/">909sickle</item>
         <item url="http://abstrusegoose.com/">Abstruse Goose</item>
         <item url="http://www.buttercupfestival.com/">Buttercup Festival</item>
         <item url="http://buttersafe.com/">Buttersafe</item>
@@ -236,6 +237,7 @@
         <item url="http://www.lunarbaboon.com/">Lunarbaboon</item>
         <item url="http://www.marriedtothesea.com/">Married to the Sea</item>
         <item url="http://nedroid.com/">Nedroid</item>
+        <item url="http://owlturd.com/">Owlturd</item>
         <item url="http://www.gocomics.com/peanuts">Peanuts</item>
         <item url="http://www.gocomics.com/pearlsbeforeswine">Pearls Befores Wine</item>
         <item url="http://phdcomics.com/comics.php">PHD Comics</item>
