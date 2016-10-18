@@ -188,6 +188,7 @@ Pretty much everything from [Les cent livres du siècle](https://fr.wikipedia.or
 * Jonathan Fields, ["Career Renegade: How to Make a Great Living Doing What You Love"](http://www.amazon.com/Career-Renegade-Great-Living-Doing/dp/0767927419/)
 * P.M. Forni, ["The Thinking Life: How to Thrive in the Age of Distraction"](http://www.amazon.com/The-Thinking-Life-Thrive-Distraction/dp/B008SMFIC2/)
 * FruitfulTime, ["Stop Procrastination Now"](https://dollswithoutheads.files.wordpress.com/2008/10/stop-procrastination-now.pdf) (and I should probably start by not reading this book...)
+* Dan Harris, ["10% Happier: How I Tamed the Voice in My Head, Reduced Stress Without Losing My Edge, and Found Self-Help That Actually Works"](https://www.amazon.com/10-Happier-Self-Help-Actually-Works-A/dp/0062265423) (recommended by [@PeterAttiamd](https://twitter.com/PeterAttiamd))
 * Gordon MacKenzie, ["Orbiting the Giant Hairball: A Corporate Fool's Guide to Surviving with Grace"](http://www.amazon.com/Orbiting-Giant-Hairball-Corporate-Surviving/dp/0670879835)
 * Eric Maisel, ["The Creativity Book: A Year's Worth of Inspiration and Guidance"](http://www.amazon.com/The-Creativity-Book-Inspiration-Guidance-ebook/dp/B001NJA8Y0)
 * David McRaney, ["You Are Now Less Dumb: How to Conquer Mob Mentality, How to Buy Happiness, and All the Other Ways to Outsmart Yourself"](http://www.amazon.com/You-Are-Now-Less-Dumb/dp/1592408796)
@@ -256,6 +257,7 @@ Pretty much everything from [Les cent livres du siècle](https://fr.wikipedia.or
 * Daniel Kahneman, ["Thinking, Fast and Slow"](https://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow) (recommended by [@mistertricker](https://twitter.com/mistertricker))
 * Robert Levine, ["The Power of Persuasion: How We're Bought and Sold"](https://www.amazon.com/Power-Persuasion-Were-Bought-Sold-ebook/dp/B000QEOVG4/ref=mt_kindle) (recommended by [@willmacaskill](https://twitter.com/willmacaskill))
 * Barry Schwartz, ["The Paradox of Choice: Why More Is Less"](https://en.wikipedia.org/wiki/The_Paradox_of_Choice)
+* Carol Tavris & Elliot Aronson, ["Mistakes Were Made (But Not by Me): Why We Justify Foolish Beliefs, Bad Decisions, and Hurtful Acts"](https://www.amazon.com/Mistakes-Were-Made-But-Not/dp/0156033909) (recommended by [@PeterAttiamd](https://twitter.com/PeterAttiamd))
 
 ## Science
 
