@@ -2,6 +2,7 @@
 
 ## Atari 1040 STE
 
+* [Alpha Waves](https://en.wikipedia.org/wiki/Alpha_Waves) [[Infogrames](https://en.wikipedia.org/wiki/Infogrames)]
 * [Disc](http://www.loriciel.net/fiche.php?id=25) [[Loriciel](https://en.wikipedia.org/wiki/Loriciel)]
 * [Entombed](https://www.mobygames.com/game/entombed___) [Nick Concannon] (ported by [@ebruchez](https://twitter.com/ebruchez) and me to the [Smaky](https://en.wikipedia.org/wiki/Smaky) platform; nothing to do with the Commodore 64 game)
 * [Flight of the Intruder](https://en.wikipedia.org/wiki/Flight_of_the_Intruder_(video_game)) [[Rowan Software](https://en.wikipedia.org/wiki/Rowan_Software)]
@@ -10,8 +11,18 @@
 * [Fire and Ice](https://en.wikipedia.org/wiki/Fire_and_Ice_%28video_game%29) [[Craftgold](https://en.wikipedia.org/wiki/Graftgold)]
 * [Maziacs](https://en.wikipedia.org/wiki/Maziacs) [Dietrich Raisin]
 * [Oxyd](https://en.wikipedia.org/wiki/Oxyd) [[Dongleware Verlags GmbH](http://www.dongleware.com/)]
+* [Street Fighter](https://en.wikipedia.org/wiki/Street_Fighter_(video_game)) (briefly played a demo version?)
 * [Vroom](http://www.giantbomb.com/vroom/3030-11336/) [[Lankhor](https://en.wikipedia.org/wiki/Lankhor)] (briefly played a demo version?)
 * [Wizkid](https://en.wikipedia.org/wiki/Wizkid_(video_game)) [[Sensible Software](https://en.wikipedia.org/wiki/Sensible_Software)]
+* probably many games sold with magazines (Atari Magazine, ST Magazine, ST Format, etc.)
+
+## Atari 2600
+
+* [Centipede](https://en.wikipedia.org/wiki/Centipede_(video_game))
+
+## Atari Falcon030
+
+* [Space Junk](http://www.atarimania.com/game-atari-st-space-junk_23375.html) [[Imagitec Design Limited](https://en.wikipedia.org/wiki/Imagitec_Design)] (mainly remember the music from the demo)
 
 ## PC
 
@@ -66,6 +77,7 @@
  * [Wing Commander III: Heart of the Tiger](https://en.wikipedia.org/wiki/Wing_Commander_III:_Heart_of_the_Tiger)
  * [Wing Commander IV: The Price of Freedom](https://en.wikipedia.org/wiki/Wing_Commander_IV:_The_Price_of_Freedom)
  * [Wing Commander: Prophecy](https://en.wikipedia.org/wiki/Wing_Commander:_Prophecy) (not finished?)
+ * many demos
 
 ## Gamecube / Wii
 
@@ -82,3 +94,21 @@
 * [Doodle Jump](https://en.wikipedia.org/wiki/Doodle_Jump)
 * [Edge](https://en.wikipedia.org/wiki/Edge_(video_game))
 * [Rolando](https://en.wikipedia.org/wiki/Rolando_%28video_game%29)
+
+
+## Sony Ericsson T-630
+
+* [MDoom](http://boostapps.com/games/mdoom/) [JShape Software]
+* [Q*bert](https://en.wikipedia.org/wiki/Q*bert)
+
+# LCD games
+
+* [Bandai Penguin Land](http://www.handheldmuseum.com/Bandai/PenguinLand.htm)
+* [Donkey Kong](https://en.wikipedia.org/wiki/List_of_LCD_games_featuring_Mario#Donkey_Kong) (not sure)
+* [Mario's Cement Factory](https://en.wikipedia.org/wiki/List_of_LCD_games_featuring_Mario#Mario.27s_Cement_Factory)
+
+# Others
+
+* [Tetris](https://en.wikipedia.org/wiki/Tetris) (many versions, I guess)
+* [XBlast](https://fr.wikipedia.org/wiki/XBlast) (mainly on Solaris, also tried on Windows / OS X)
+* Smaky games?
