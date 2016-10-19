@@ -2,6 +2,11 @@
 <podcasts>
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date>2016.10.19</date>
+    <name url="http://fourhourworkweek.com/podcast/">The Tim Ferriss Show</name>
+    <episode url="http://fourhourworkweek.com/2014/12/18/peter-attia/" number="50">Dr. Peter Attia on Ultra-Endurance, Drinking Jet Fuel, Human Foie Gras, and More</episode>
+  </podcast>
+  <podcast>
     <date>2016.10.14</date>
     <name>Alex &amp; Erik's Podcast</name>
     <episode number="37">Democracy and elections</episode>
