@@ -1,0 +1,2 @@
+# Islam and the Future of Tolerance (Sam Harris & Maajid Nawaz)
+* While they rightly question every aspect of their “own” Western culture in the name of progress, they censure liberal Muslims who attempt to do so within Islam, and they choose to side instead with every regressive reactionary in the name of “cultural authenticity” and anticolonialism. (loc. 484-86)

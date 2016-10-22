@@ -8,7 +8,7 @@
         <publishingyear>2015</publishingyear>
         <rating></rating>
         <url>https://books.google.ch/books/about/Everybody_Is_Wrong_about_God.html?id=rLozrgEACAAJ</url>
-        <!-- <notes description="Kindle highlights"></notes> -->
+        <notes description="Kindle highlights">Plaidoyer pour les animaux (Matthieu Ricard).md</notes>
     </book>
     <book>
         <date>2016.10.13</date>
@@ -36,7 +36,7 @@
         <publishingyear>2015</publishingyear>
         <rating>4.0</rating>
         <url>https://en.wikipedia.org/wiki/Islam_and_the_Future_of_Tolerance</url>
-        <!-- <notes description="Kindle highlights"></notes> -->
+        <notes description="Kindle highlights">Islam and the Future of Tolerance (Sam Harris &amp; Maajid Nawaz).md</notes>
     </book>
     <book>
         <date>2016.09.15</date>
@@ -56,7 +56,7 @@
         <publishingyear>2015</publishingyear>
         <rating>4.75</rating>
         <url>https://books.google.ch/books/about/Faith_Versus_Fact.html?id=ra26oQEACAAJ</url>
-        <!-- <notes description="Kindle highlights"></notes> -->
+        <notes description="Kindle highlights">Faith Versus Fact (Jerry A. Coyne).md</notes>
     </book>
     <book>
         <date>2016.04.24</date>
@@ -65,7 +65,7 @@
         <publishingyear>1984</publishingyear>
         <rating>5.25</rating>
         <url>https://fr.wikipedia.org/wiki/L%27Insoutenable_L%C3%A9g%C3%A8ret%C3%A9_de_l%27%C3%AAtre</url>
-        <!-- <notes description="Kindle highlights"></notes> -->
+        <notes description="Kindle highlights">L'Insoutenable Legerete de l'etre (Milan Kundera).md</notes>
     </book>
     <book>
         <date>2016.03.01</date>
@@ -74,7 +74,7 @@
         <publishingyear>1943</publishingyear>
         <rating>5.0</rating>
         <url>https://fr.wikipedia.org/wiki/Le_Petit_Prince</url>
-        <!-- <notes description="Kindle highlights"></notes> -->
+        <notes description="Kindle highlights">Le Petit Prince (Antoine de Saint-Exupery).md</notes>
     </book>
     <book>
         <date>2016.02.23</date>
@@ -84,7 +84,7 @@
         <publishingyear>2015</publishingyear>
         <rating>3.0</rating>
         <url>https://books.google.com/books?id=iB6ICgAAQBAJ</url>
-        <!-- <notes description="Kindle highlights"></notes> -->
+        <notes description="Kindle highlights">Our Accelerating Future (Michael M. Anissimov).md</notes>
     </book>
     <book>
         <date>2015.12.29</date>
