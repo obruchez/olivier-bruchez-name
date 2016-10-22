@@ -8,7 +8,7 @@
         <publishingyear>2015</publishingyear>
         <rating></rating>
         <url>https://books.google.ch/books/about/Everybody_Is_Wrong_about_God.html?id=rLozrgEACAAJ</url>
-        <notes description="Kindle highlights">Plaidoyer pour les animaux (Matthieu Ricard).md</notes>
+        <!-- <notes description="Kindle highlights"></notes> -->
     </book>
     <book>
         <date>2016.10.13</date>
@@ -46,7 +46,7 @@
         <publishingyear>2014</publishingyear>
         <rating>5.0</rating>
         <url>https://books.google.ch/books?id=pHmuBAAAQBAJ</url>
-        <!-- <notes description="Kindle highlights"></notes> -->
+        <notes description="Kindle highlights">Plaidoyer pour les animaux (Matthieu Ricard).md</notes>
     </book>
     <book>
         <date>2016.06.19</date>
