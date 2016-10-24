@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <podcasts>
   <introduction>A list of podcasts I listened to.</introduction>
+  <!-- TODO: add URL -->
+  <podcast>
+    <date>2016.10.24</date>
+    <name url="http://www.stitcher.com/podcast/the-dr-funk-podcast">The Dr Funk Podcast</name>
+    <episode url="" number="26">Scott Baldwin (part 3)</episode>
+  </podcast>
   <podcast>
     <date>2016.10.23</date>
     <name url="http://podcasts.joerogan.net/podcasts">The Joe Rogan Experience</name>
@@ -16,11 +22,10 @@
     <name>Alex &amp; Erik's Podcast</name>
     <episode number="37">Democracy and elections</episode>
   </podcast>
-  <!-- TODO: add URL -->
   <podcast>
     <date>2016.10.13</date>
     <name url="http://www.stitcher.com/podcast/the-dr-funk-podcast">The Dr Funk Podcast</name>
-    <episode url="" number="24">Scott Baldwin (part 2)</episode>
+    <episode url="http://www.stitcher.com/podcast/the-dr-funk-podcast/e/episode-24-scott-baldwin-part-2-46817212" number="24">Scott Baldwin (part 2)</episode>
   </podcast>
   <podcast>
     <date>2016.10.13</date>
