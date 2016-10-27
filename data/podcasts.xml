@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <podcasts>
   <introduction>A list of podcasts I listened to.</introduction>
+  <podcast>
+    <date>2016.10.27</date>
+    <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
+    <episode url="https://www.samharris.org/podcast/item/what-is-moral-progress" number="48">What Is Moral Progress? - A Conversation with Peter Singer</episode>
+  </podcast>
   <!-- TODO: add URL -->
   <podcast>
     <date>2016.10.24</date>
