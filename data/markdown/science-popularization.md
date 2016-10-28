@@ -23,7 +23,7 @@
 
 ## Mathematics (general)
 
-* [Visually stunning math concepts which are easy to explain](https://math.stackexchange.com/questions/733754/visually-stunning-math-concepts-which-are-easy-to-explain] (graphics / animations)
+* [Visually stunning math concepts which are easy to explain](https://math.stackexchange.com/questions/733754/visually-stunning-math-concepts-which-are-easy-to-explain) (graphics / animations)
 
 ## Neural networks (ANN)
 
