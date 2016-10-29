@@ -387,6 +387,11 @@
     <episode url="http://peachandblack.podbean.com/e/musicology-review/">Musicology Review</episode>
   </podcast>
   <podcast>
+    <date>2016.01.08</date>
+    <name url="http://peachandblack.podbean.com/">Peach &amp; Black Podcast</name>
+    <episode url="https://peachandblack.podbean.com/e/clare-fischer-tribute/">Clare Fischer Tribute</episode>
+  </podcast>
+  <podcast>
     <date>2016.01.05</date>
     <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
     <episode url="https://www.samharris.org/podcast/item/ask-me-anything-2" number="24">Ask Me Anything #2</episode>
@@ -400,6 +405,16 @@
     <date>2015.12.22</date>
     <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
     <episode url="https://www.samharris.org/podcast/item/surviving-the-cosmos" number="22">Surviving the Cosmos - A Conversation with David Deutsch</episode>
+  </podcast>
+  <podcast>
+    <date>2015.12.15</date>
+    <name url="http://peachandblack.podbean.com/">Peach &amp; Black Podcast</name>
+    <episode url="https://peachandblack.podbean.com/e/the-xmas-show-one-song-episode-1/">The Xmas Show &amp; 'One Song' Episode 1</episode>
+  </podcast>
+  <podcast>
+    <date>2015.12.11</date>
+    <name url="http://peachandblack.podbean.com/">Peach &amp; Black Podcast</name>
+    <episode url="https://peachandblack.podbean.com/e/the-greatest-prince-tv-performances/">The Greatest Prince TV Performances</episode>
   </podcast>
   <podcast>
     <date>2015.12.09</date>
@@ -572,6 +587,26 @@
     <episode url="http://peachandblack.podbean.com/e/newpower-soul-review/">Newpower Soul Review</episode>
   </podcast>
   <podcast>
+    <date>2015.06.10</date>
+    <name url="http://peachandblack.podbean.com/">Peach &amp; Black Podcast</name>
+    <episode url="https://peachandblack.podbean.com/e/emancipation-review-disc-3/">Emancipation Review - Disc 3</episode>
+  </podcast>
+  <podcast>
+    <date>2015.06.05</date>
+    <name url="http://peachandblack.podbean.com/">Peach &amp; Black Podcast</name>
+    <episode url="https://peachandblack.podbean.com/e/emancipation-review-disc-2/">Emancipation Review - Disc 2</episode>
+  </podcast>
+  <podcast>
+    <date>2015.06.03</date>
+    <name url="http://peachandblack.podbean.com/">Peach &amp; Black Podcast</name>
+    <episode url="https://peachandblack.podbean.com/e/emancipation-15th-anniversary-review/">Emancipation - 15th Anniversary Review</episode>
+  </podcast>
+  <podcast>
+    <date>2015.05.26</date>
+    <name url="http://peachandblack.podbean.com/">Peach &amp; Black Podcast</name>
+    <episode url="https://peachandblack.podbean.com/e/chaos-disorder-review/">Chaos &amp; Disorder Review</episode>
+  </podcast>
+  <podcast>
     <date>2015.05.21</date>
     <name url="http://peachandblack.podbean.com/">Peach &amp; Black Podcast</name>
     <episode url="http://peachandblack.podbean.com/e/around-the-world-in-a-day-review/">Around The World In A Day Review</episode>
@@ -668,7 +703,7 @@
 Alex & Erik's Podcast
 Compared To What Podcast
 Tim Ferriss (Scott Adams, etc.)
-Peach & Black Podcast (~89 episodes) (OK -> NORTH SEA JAZZ REVIEW, page 4 - included) (Black Album already added)
+Peach & Black Podcast (~89 episodes) (OK -> CLARE FISCHER TRIBUTE, page 3 - included) (Black Album already added)
 Prince Podcast
 etc.
 -->
