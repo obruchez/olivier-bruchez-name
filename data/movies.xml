@@ -2,6 +2,14 @@
 <movies>
   <introduction>A list of movies I saw.</introduction>
   <movie>
+    <date>2016.10.29</date>
+    <theater home="true"/>
+    <director>Steven Spielberg</director>
+    <title>Raiders of the Lost Ark</title>
+    <url>http://www.imdb.com/title/tt0082971//</url>
+    <rating>4.75</rating>
+  </movie>
+  <movie>
     <date>2016.10.15</date>
     <theater home="true"/>
     <director>Francis Ford Coppola</director>
