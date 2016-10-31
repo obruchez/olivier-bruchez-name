@@ -2,6 +2,11 @@
 <shows>
   <introduction>A list of TV shows I saw.</introduction>
   <show>
+    <date>2016.10.31</date>
+    <name url="https://en.wikipedia.org/wiki/Party_Down">Party Down</name>
+    <series url="https://en.wikipedia.org/wiki/Party_Down#Season_1_.282009.29" type="season">1</series>
+  </show>
+  <show>
     <date>2016.10.25</date>
     <name url="https://en.wikipedia.org/wiki/Louie_(TV_series)">Louie</name>
     <series url="https://en.wikipedia.org/wiki/Louie_(season_5)" type="season">5</series>
