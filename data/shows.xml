@@ -262,6 +262,11 @@
     <series url="https://en.wikipedia.org/wiki/Seinfeld_(season_5)" type="season">5</series>
   </show>
   <show>
+    <date>2014.01.26</date>
+    <name url="https://en.wikipedia.org/wiki/Arrested_Development_(TV_series)">Arrested Development</name>
+    <series url="https://en.wikipedia.org/wiki/Arrested_Development_(season_4)" type="season">4</series>
+  </show>
+  <show>
     <date>2013.06.01</date>
     <name url="https://en.wikipedia.org/wiki/The_Big_Bang_Theory">The Big Bang Theory</name>
     <series url="https://en.wikipedia.org/wiki/The_Big_Bang_Theory_(season_6)" type="season">6</series>
@@ -280,6 +285,18 @@
     <date>2013.05.11</date>
     <name url="https://en.wikipedia.org/wiki/Seinfeld">Seinfeld</name>
     <series url="https://en.wikipedia.org/wiki/Seinfeld_(season_2)" type="season">2</series>
+  </show>
+  <show>
+    <date>2013.04.??</date>
+    <name url="https://en.wikipedia.org/wiki/Arrested_Development_(TV_series)">Arrested Development</name>
+    <series url="https://en.wikipedia.org/wiki/Arrested_Development_(season_3)" type="season">3</series>
+    <comments>Date uncertain.</comments>
+  </show>
+  <show>
+    <date>2013.01.22</date>
+    <name url="https://en.wikipedia.org/wiki/Arrested_Development_(TV_series)">Arrested Development</name>
+    <series url="https://en.wikipedia.org/wiki/Arrested_Development_(season_2)" type="season">2</series>
+    <comments>Date uncertain.</comments>
   </show>
   <show>
     <date>2012.10.28</date>
@@ -463,7 +480,7 @@
 <!--
 ???: Prison Break 1
 ???: Prison Break 2
-OK ajouté: 22 mars 2008: Prison Break 2
+OK ajouté: 22 mars 2008: Prison Break 3
 
 ???: Lost 1
 ???: Lost 2
@@ -492,10 +509,6 @@ OK: Friends 10
 ???: The Office 2
 ???: The Office 5
 ???: The Office 9
-
-???: Arrested Development 2
-???: Arrested Development 3
-???: Arrested Development 4
 
 ???: Seinfeld 1
 OK ajouté: 11 mai 2013: Seinfeld 2
