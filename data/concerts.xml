@@ -10,7 +10,26 @@
   - Avenches (Arènes): Carmen (Bizet)
   -->
   <introduction>A list of concerts I went to.</introduction>
-
+  <concert>
+    <date>2016.11.02</date>
+    <location>Salle Paderewski, Casino de Montbenon, Lausanne, Switzerland</location>
+    <event>JazzOnze+ Festival Lausanne</event>
+    <musician inst="bass" main="true">Gary Peacock</musician>
+    <musician inst="piano">Marc Copland</musician>
+    <musician inst="drums">Joey Baron</musician>
+    <rating>4.75</rating>
+    <comments/>
+  </concert>
+  <concert>
+    <date>2016.11.02</date>
+    <location>Salle Paderewski, Casino de Montbenon, Lausanne, Switzerland</location>
+    <event>JazzOnze+ Festival Lausanne</event>
+    <musician inst="piano" main="true">Florian Favre</musician>
+    <musician inst="bass">Manu Hagmann</musician>
+    <musician inst="drums">Arthur Hnatek</musician>
+    <rating>4.75</rating>
+    <comments/>
+  </concert>
   <concert>
     <date>2016.07.14</date>
     <location>Auditorium Stravinski, Montreux, Switzerland</location>
