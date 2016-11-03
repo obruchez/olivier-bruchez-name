@@ -11,6 +11,28 @@
   -->
   <introduction>A list of concerts I went to.</introduction>
   <concert>
+    <date>2016.11.03</date>
+    <location>Salle Paderewski, Casino de Montbenon, Lausanne, Switzerland</location>
+    <event>JazzOnze+ Festival Lausanne</event>
+    <musician inst="alto saxophone" main="true">David Sanborn</musician>
+    <musician inst="bass" main="true">Christian McBride</musician>
+    <musician inst="piano">Christian Sands</musician>
+    <musician inst="drums">Jerome Jennings</musician>
+    <rating>5.0</rating>
+    <comments/>
+  </concert>
+  <concert>
+    <date>2016.11.03</date>
+    <location>Salle Paderewski, Casino de Montbenon, Lausanne, Switzerland</location>
+    <event>JazzOnze+ Festival Lausanne</event>
+    <group>Rosset Meyer Geiger</group>
+    <musician inst="piano">Josquin Rosset</musician>
+    <musician inst="bass">Gabriel Meyer</musician>
+    <musician inst="drums">Jan Geiger</musician>
+    <rating>4.5</rating>
+    <comments/>
+  </concert>
+  <concert>
     <date>2016.11.02</date>
     <location>Salle Paderewski, Casino de Montbenon, Lausanne, Switzerland</location>
     <event>JazzOnze+ Festival Lausanne</event>
