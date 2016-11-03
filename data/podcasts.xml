@@ -16,11 +16,10 @@
     <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
     <episode url="https://www.samharris.org/podcast/item/what-is-moral-progress" number="48">What Is Moral Progress? - A Conversation with Peter Singer</episode>
   </podcast>
-  <!-- TODO: add URL -->
   <podcast>
     <date>2016.10.24</date>
     <name url="http://www.stitcher.com/podcast/the-dr-funk-podcast">The Dr Funk Podcast</name>
-    <episode url="" number="26">Scott Baldwin (part 3)</episode>
+    <episode url="http://www.stitcher.com/podcast/the-dr-funk-podcast/e/episode-26-scott-baldwin-part-3-47967735" number="26">Scott Baldwin (part 3)</episode>
   </podcast>
   <podcast>
     <date>2016.10.23</date>
