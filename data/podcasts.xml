@@ -2,6 +2,11 @@
 <podcasts>
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date>2016.11.03</date>
+    <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
+    <episode url="https://www.samharris.org/podcast/item/the-lesser-evil" number="49">The Lesser Evil - A Conversation with Andrew Sullivan</episode>
+  </podcast>
+  <podcast>
     <date>2016.10.31</date>
     <name url="http://verybadwizards.com/">Very Bad Wizards</name>
     <episode url="http://verybadwizards.com/episodes/13" number="13">Beanballs, Blood Feuds, and Collective Moral Responsibility (With Fiery Cushman)</episode>
