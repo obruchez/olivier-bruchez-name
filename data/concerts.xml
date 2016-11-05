@@ -10,6 +10,27 @@
   - Avenches (Arènes): Carmen (Bizet)
   -->
   <introduction>A list of concerts I went to.</introduction>
+
+  <concert>
+    <date>2016.11.04</date>
+    <location>Salle Paderewski, Casino de Montbenon, Lausanne, Switzerland</location>
+    <event>JazzOnze+ Festival Lausanne</event>
+    <group>Aziza</group>
+    <musician inst="bass">Dave Holland</musician>
+    <musician inst="tenor saxophone, soprano saxophone">Chris Potter</musician>
+    <musician inst="guitar">Lionel Loueke</musician>
+    <musician inst="drums">Eric Harland</musician>
+    <rating>5.25</rating>
+    <comments/>
+  </concert>
+  <concert>
+    <date>2016.11.04</date>
+    <location>Salle Paderewski, Casino de Montbenon, Lausanne, Switzerland</location>
+    <event>JazzOnze+ Festival Lausanne</event>
+    <musician inst="drums, percussions" main="true">Julian Sartorius</musician>
+    <rating>4.5</rating>
+    <comments/>
+  </concert>
   <concert>
     <date>2016.11.03</date>
     <location>Salle Paderewski, Casino de Montbenon, Lausanne, Switzerland</location>
