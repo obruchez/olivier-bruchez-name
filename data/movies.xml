@@ -6,8 +6,9 @@
     <theater home="true"/>
     <director>Steven Spielberg</director>
     <title>Raiders of the Lost Ark</title>
-    <url>http://www.imdb.com/title/tt0082971//</url>
+    <url>http://www.imdb.com/title/tt0082971/</url>
     <rating>4.75</rating>
+    <image>Raiders of the Lost Ark.jpg</image>
   </movie>
   <movie>
     <date>2016.10.15</date>

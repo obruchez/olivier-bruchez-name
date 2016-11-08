@@ -7,6 +7,7 @@
         <name>Parallel programming</name>
         <instructor>Viktor Kuncak &amp; Aleksandar Prokopec</instructor>
         <url>https://www.coursera.org/learn/parprog1</url>
+        <image>Parallel programming.jpg</image>
     </course>
     <course>
         <date>2015-02-21</date>
@@ -15,6 +16,7 @@
         <instructor>Ronen Plesser</instructor>
         <url>https://class.coursera.org/introastro-003</url>
         <certificate description="Statement of Accomplishment">Coursera (Introduction to Astronomy).pdf</certificate>
+        <image>Introduction to Astronomy.png</image>
     </course>
     <course>
         <date>2014-05-14</date>
@@ -23,6 +25,7 @@
         <instructor>Andrew Ng</instructor>
         <url>https://class.coursera.org/ml-005</url>
         <certificate description="Statement of Accomplishment">Coursera (Machine Learning).pdf</certificate>
+        <image>Machine Learning.png</image>
     </course>
     <course>
         <date>2014-03-08</date>
@@ -31,6 +34,7 @@
         <instructor>Valerio Scarani</instructor>
         <url>https://class.coursera.org/randomness-001</url>
         <certificate description="Statement of Accomplishment">Coursera (Unpredictable - Randomness, Chance and Free Will).pdf</certificate>
+        <image>Unpredictable - Randomness, Chance and Free Will.jpg</image>
     </course>
     <course>
         <date>2013-12-25</date>
@@ -38,6 +42,7 @@
         <name>Neural Networks for Machine Learning</name>
         <instructor>Geoffrey Hinton</instructor>
         <url>https://class.coursera.org/neuralnets-2012-001</url>
+        <image>Neural Networks for Machine Learning.png</image>
     </course>
     <course>
         <date>2013-12-22</date>
@@ -46,6 +51,7 @@
         <instructor>Erik Meijer, Martin Odersky &amp; Roland Kuhn</instructor>
         <url>https://class.coursera.org/reactive-001</url>
         <certificate description="Statement of Accomplishment">Coursera (Principles of Reactive Programming).pdf</certificate>
+        <image>Principles of Reactive Programming.jpg</image>
     </course>
     <course>
         <date>2013-04-20</date>
@@ -53,5 +59,6 @@
         <name>Calculus One</name>
         <instructor>Jim Fowler</instructor>
         <url>https://class.coursera.org/calc1-001</url>
+        <image>Calculus One.png</image>
     </course>
 </courses>
