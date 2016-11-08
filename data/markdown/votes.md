@@ -2,11 +2,19 @@
 
 My votes (in French). En Suisse, on ne plaisante pas avec la démocratie directe. :) J'essaie ici de documenter et de justifier la façon dont je me positionne par rapport aux votations fédérales, qui ont lieu jusqu'à quatre fois par année.
 
+## [Votation fédérale du 27 novembre 2016](https://www.admin.ch/gov/fr/accueil/documentation/votations/20161127/initiative-sortir-du-nucleaire.html)
+
+### Acceptez-vous l’initiative populaire "Pour la sortie programmée de l’énergie nucléaire (Initiative "Sortir du nucléaire")" ?
+
+?. Résultat : ? (??.?%).
+
+...
+
 ## [Votation fédérale du 25 septembre 2016](https://www.admin.ch/gov/fr/accueil/documentation/votations/20160925.html)
 
 ### Acceptez-vous l’initiative populaire "Pour une économie durable et fondée sur une gestion efficiente des ressources (économie verte)" ?
 
-Oui. Résultat : ? (??.?%).
+Oui. Résultat : non (63.6%).
 
 - Il est positif d'avoir une vision "long terme", dont notre société manque en général cruellement.
 - Il est utile de "laisser faire le marché" lorsque cela est possible, mais cela ne me semble pas forcément être le cas dans le domaine de l'écologie et de l'environnement.
@@ -20,7 +28,7 @@ Oui. Résultat : ? (??.?%).
 
 ### Acceptez-vous l’initiative populaire "AVSplus: pour une AVS forte" ?
 
-Non. Résultat : ? (??.?%).
+Non. Résultat : non (59.4%).
 
 - Le projet "Prévoyance vieillesse 2020" étant en cours, l'initiative me semble un peu malvenue.
 - Il est important d'avoir une approche globale, prenant en compte les trois piliers, ainsi que les prestations complémentaires. Il est un peu étrange d'isoler l'AVS dans cette réflexion.
@@ -28,14 +36,14 @@ Non. Résultat : ? (??.?%).
 
 ### Acceptez-vous la loi fédérale du 25 septembre 2015 sur le renseignement (LRens) ?
 
-Oui. Résultat : ? (??.?%).
+Oui. Résultat : oui (65.5%).
 
 - Il s'agit d'un sujet sensible.
-- Il est difficile de trouver un équilibre entre sécurité et liberté qui conviennent à tout le monde.
+- Il est difficile de trouver un équilibre entre sécurité et liberté qui convienne à tout le monde.
 - Loin de faire appel à des arguments fallacieux de type "Je n'ai rien à cacher", je pense qu'il est toutefois nécessaire d'adapter les méthodes de renseignement aux technologies modernes.
 - La loi semble comprendre des mécanismes de contrôle et des conditions strictes qui, en théorie, tout du moins, me semblent raisonnables.
-- Un argument contre cette loi prétend qu'il est plus difficile de trouver des informations utiles dans une grosse masse de données, mais je pense que cet argument est infondé/dépassé (cf progrès du machine learning).
-- Un autre argument contre mentionne que la collaboration avec l'étranger met en danger la neutralité suisse. J'ai de la peine à voir en quoi c'est le cas. Il me semble logique et rationnel de collaborer avec des pays étrangers lorsqu'il s'agit de renseigmement.
+- Un argument "contre" cette loi prétend qu'il est plus difficile de trouver des informations utiles dans une grosse masse de données, mais je pense que cet argument est infondé/dépassé (cf progrès du machine learning).
+- Un autre argument "contre" mentionne que la collaboration avec l'étranger met en danger la neutralité suisse. J'ai de la peine à voir en quoi c'est le cas. Il me semble logique et rationnel de collaborer avec des pays étrangers lorsqu'il s'agit de renseigmement.
 
 ## [Votation fédérale du 5 juin 2016](https://www.admin.ch/gov/fr/accueil/documentation/votations/20160605.html)
 
