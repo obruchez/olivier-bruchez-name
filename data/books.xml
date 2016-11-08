@@ -1,13 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <books>
     <introduction>A list of books I read.</introduction>
-    <book>
+     <book>
         <date></date>
+        <title>L'emploi est mort, vive le travail !</title>
+        <author>Bernard Stiegler</author>
+        <publishingyear>2015</publishingyear>
+        <rating></rating>
+        <url>https://books.google.com/books?id=izV9CAAAQBAJ</url>
+        <!-- <notes description="Kindle highlights"></notes> -->
+        <image></image>
+    </book>
+    <book>
+        <date>2016.11.08</date>
         <title>Everybody Is Wrong About God</title>
         <author>James A. Lindsay</author>
         <publishingyear>2015</publishingyear>
-        <rating></rating>
-        <url>https://books.google.ch/books/about/Everybody_Is_Wrong_about_God.html?id=rLozrgEACAAJ</url>
+        <rating>4.5</rating>
+        <url>https://books.google.com/books/about/Everybody_Is_Wrong_about_God.html?id=rLozrgEACAAJ</url>
         <!-- <notes description="Kindle highlights"></notes> -->
         <image>Everybody Is Wrong About God.jpg</image>
     </book>
@@ -46,7 +56,7 @@
         <author>Matthieu Ricard</author>
         <publishingyear>2014</publishingyear>
         <rating>5.0</rating>
-        <url>https://books.google.ch/books?id=pHmuBAAAQBAJ</url>
+        <url>https://books.google.com/books?id=pHmuBAAAQBAJ</url>
         <notes description="Kindle highlights">Plaidoyer pour les animaux (Matthieu Ricard).md</notes>
     </book>
     <book>
@@ -56,7 +66,7 @@
         <author>Jerry Coyne</author>
         <publishingyear>2015</publishingyear>
         <rating>4.75</rating>
-        <url>https://books.google.ch/books/about/Faith_Versus_Fact.html?id=ra26oQEACAAJ</url>
+        <url>https://books.google.com/books/about/Faith_Versus_Fact.html?id=ra26oQEACAAJ</url>
         <notes description="Kindle highlights">Faith Versus Fact (Jerry A. Coyne).md</notes>
     </book>
     <book>
