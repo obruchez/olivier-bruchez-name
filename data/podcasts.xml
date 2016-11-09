@@ -3,6 +3,11 @@
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
     <date>2016.11.09</date>
+    <name url="http://peachandblack.podbean.com/">Peach &amp; Black Podcast</name>
+    <episode url="https://peachandblack.podbean.com/e/ida-nielsen-interview/">Ida Nielsen Interview</episode>
+  </podcast>
+  <podcast>
+    <date>2016.11.09</date>
     <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
     <episode url="https://www.samharris.org/podcast/item/the-borders-of-tolerance" number="50">The Borders of Tolerance - A Conversation with Ayaan Hirsi Ali</episode>
   </podcast>
