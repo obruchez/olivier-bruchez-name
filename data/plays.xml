@@ -10,6 +10,25 @@
     <actor></actor>
   -->
   <play>
+    <date>2016.11.11</date>
+    <location>Pulloff Théâtres, Lausanne, Switzerland</location>
+    <name>Blanc</name>
+    <author>Emmanuelle Marie</author>
+    <director>François Marin</director>
+    <actor>Caroline Althaus</actor>
+    <actor>Christine Vouilloz</actor>
+    <!--
+    scénographie Elissa Bier
+    création lumières William Lambert
+    maquillage Séverine Irondelle
+    costumes Scilla Ilardo
+    régie générale Estelle Becker
+    administration Claire Félix
+    -->
+    <rating>4.5</rating>
+    <image>Blanc.jpg</image>
+  </play>
+  <play>
     <date>2016.03.16</date>
     <location>Pulloff Théâtres, Lausanne, Switzerland</location>
     <name>Caligula</name>
