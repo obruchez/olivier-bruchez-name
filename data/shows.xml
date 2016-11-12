@@ -183,6 +183,11 @@
     <series url="https://en.wikipedia.org/wiki/Moone_Boy#Series_2_.282014.29" type="series">2</series>
   </show>
   <show>
+    <date>2015.04.10</date>
+    <name url="https://en.wikipedia.org/wiki/Seinfeld">Seinfeld</name>
+    <series url="https://en.wikipedia.org/wiki/Seinfeld_(season_8)" type="season">8</series>
+  </show>
+  <show>
     <date>2015.03.15</date>
     <name url="https://en.wikipedia.org/wiki/Episodes_%28TV_series%29">Episodes</name>
     <series url="https://en.wikipedia.org/wiki/List_of_Episodes_episodes#Series_3_.282014.29" type="series">3</series>
@@ -266,6 +271,17 @@
     <date>2014.01.26</date>
     <name url="https://en.wikipedia.org/wiki/Arrested_Development_(TV_series)">Arrested Development</name>
     <series url="https://en.wikipedia.org/wiki/Arrested_Development_(season_4)" type="season">4</series>
+  </show>
+  <show>
+    <date>2013.12.??</date>
+    <name url="https://en.wikipedia.org/wiki/Seinfeld">Seinfeld</name>
+    <series url="https://en.wikipedia.org/wiki/Seinfeld_(season_4)" type="season">4</series>
+    <comments>Date uncertain.</comments>
+  </show>
+  <show>
+    <date>2013.11.15</date>
+    <name url="https://en.wikipedia.org/wiki/Seinfeld">Seinfeld</name>
+    <series url="https://en.wikipedia.org/wiki/Seinfeld_(season_3)" type="season">3</series>
   </show>
   <show>
     <date>2013.06.01</date>
@@ -358,6 +374,11 @@
     <date>2011.07.09</date>
     <name url="https://en.wikipedia.org/wiki/Twin_Peaks">Twin Peaks</name>
     <series url="https://en.wikipedia.org/wiki/Twin_Peaks#Season_two" type="season">2</series>
+  </show>
+  <show>
+    <date>2011.07.02</date>
+    <name url="https://en.wikipedia.org/wiki/Seinfeld">Seinfeld</name>
+    <series url="https://en.wikipedia.org/wiki/Seinfeld_(season_1)" type="season">1</series>
   </show>
   <show>
     <date>2011.06.04</date>
@@ -510,16 +531,6 @@ OK: Friends 10
 ???: The Office 2
 ???: The Office 5
 ???: The Office 9
-
-???: Seinfeld 1
-OK ajouté: 11 mai 2013: Seinfeld 2
-???: Seinfeld 3
-???: Seinfeld 4
-OK ajouté: 7 mars 2014: Seinfeld 5
-OK ajouté: 25 juin 2014: Seinfeld 6
-OK ajouté: 18 septembre 2014: Seinfeld 7
-???: Seinfeld 8
-OK ajouté: Seinfeld 9
 
 Better Off Ted
 Bref
