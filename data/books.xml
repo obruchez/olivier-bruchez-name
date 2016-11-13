@@ -1,15 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <books>
     <introduction>A list of books I read.</introduction>
-     <book>
+    <book>
         <date></date>
+        <title>Les Catilinaires</title>
+        <author>Amélie Nothomb</author>
+        <publishingyear>1995</publishingyear>
+        <rating></rating>
+        <url>https://fr.wikipedia.org/wiki/Les_Catilinaires</url>
+        <!-- <notes description="Kindle highlights"></notes>
+        <image></image> -->
+    </book>
+     <book>
+        <date>2016.11.12</date>
         <title>L'emploi est mort, vive le travail !</title>
         <author>Bernard Stiegler</author>
         <publishingyear>2015</publishingyear>
-        <rating></rating>
+        <rating>3.0</rating>
         <url>https://books.google.com/books?id=izV9CAAAQBAJ</url>
-        <!-- <notes description="Kindle highlights"></notes> -->
-        <image></image>
+        <notes description="Kindle highlights">L'emploi est mort, vive le travail (Bernard Stiegler).md</notes>
+        <image>L'emploi est mort, vive le travail.jpg</image>
     </book>
     <book>
         <date>2016.11.08</date>
@@ -18,7 +28,7 @@
         <publishingyear>2015</publishingyear>
         <rating>4.5</rating>
         <url>https://books.google.com/books/about/Everybody_Is_Wrong_about_God.html?id=rLozrgEACAAJ</url>
-        <!-- <notes description="Kindle highlights"></notes> -->
+        <notes description="Kindle highlights">Everybody Is Wrong About God (James A. Lindsay).md</notes>
         <image>Everybody Is Wrong About God.jpg</image>
     </book>
     <book>
