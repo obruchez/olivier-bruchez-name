@@ -2,6 +2,11 @@
 <podcasts>
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date>2016.11.16</date>
+    <name url="http://www.stitcher.com/podcast/the-dr-funk-podcast">The Dr Funk Podcast</name>
+    <episode url="http://www.stitcher.com/podcast/the-dr-funk-podcast/e/episode-27-dave-h-scott-b-part-1-48046239" number="27">Dave H Scott B Part 1</episode>
+  </podcast>
+  <podcast>
     <date>2016.11.14</date>
     <name url="http://www.stitcher.com/podcast/the-dr-funk-podcast">The Dr Funk Podcast</name>
     <episode url="http://www.stitcher.com/podcast/the-dr-funk-podcast/e/episode-25-morris-hayes-47935881" number="25">Morris Hayes</episode>
@@ -54,7 +59,7 @@
   <podcast>
     <date>2016.10.24</date>
     <name url="http://www.stitcher.com/podcast/the-dr-funk-podcast">The Dr Funk Podcast</name>
-    <episode url="http://www.stitcher.com/podcast/the-dr-funk-podcast/e/episode-26-scott-baldwin-part-3-47967735" number="26">Scott Baldwin (part 3)</episode>
+    <episode url="http://www.stitcher.com/podcast/the-dr-funk-podcast/e/episode-26-scott-baldwin-part-3-47967735" number="26">Scott Baldwin Part 3</episode>
   </podcast>
   <podcast>
     <date>2016.10.23</date>
@@ -74,12 +79,12 @@
   <podcast>
     <date>2016.10.13</date>
     <name url="http://www.stitcher.com/podcast/the-dr-funk-podcast">The Dr Funk Podcast</name>
-    <episode url="http://www.stitcher.com/podcast/the-dr-funk-podcast/e/episode-24-scott-baldwin-part-2-46817212" number="24">Scott Baldwin (part 2)</episode>
+    <episode url="http://www.stitcher.com/podcast/the-dr-funk-podcast/e/episode-24-scott-baldwin-part-2-46817212" number="24">Scott Baldwin Part 2</episode>
   </podcast>
   <podcast>
     <date>2016.10.13</date>
     <name url="http://www.stitcher.com/podcast/the-dr-funk-podcast">The Dr Funk Podcast</name>
-    <episode url="http://www.stitcher.com/podcast/the-dr-funk-podcast/e/episode-23-scott-baldwin-46746584" number="23">Scott Baldwin</episode>
+    <episode url="http://www.stitcher.com/podcast/the-dr-funk-podcast/e/episode-23-scott-baldwin-46746584" number="23">Scott Baldwin Part 1</episode>
   </podcast>
   <podcast>
     <date>2016.10.11</date>
