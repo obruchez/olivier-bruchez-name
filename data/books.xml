@@ -2,14 +2,14 @@
 <books>
     <introduction>A list of books I read.</introduction>
     <book>
-        <date></date>
+        <date>2016.11.17</date>
         <title>Les Catilinaires</title>
         <author>Amélie Nothomb</author>
         <publishingyear>1995</publishingyear>
-        <rating></rating>
+        <rating>4.75</rating>
         <url>https://fr.wikipedia.org/wiki/Les_Catilinaires</url>
-        <!-- <notes description="Kindle highlights"></notes>
-        <image></image> -->
+        <!-- <notes description="Kindle highlights"></notes> -->
+        <image>Les Catilinaires.jpg</image>
     </book>
      <book>
         <date>2016.11.12</date>
