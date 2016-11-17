@@ -2,6 +2,11 @@
 <podcasts>
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date>2016.11.17</date>
+    <name url="http://verybadwizards.com/">Very Bad Wizards</name>
+    <episode url="https://verybadwizards.fireside.fm/22" number="22">An Enquiry Concerning Slurs and Offensiveness</episode>
+  </podcast>
+  <podcast>
     <date>2016.11.16</date>
     <name url="http://www.stitcher.com/podcast/the-dr-funk-podcast">The Dr Funk Podcast</name>
     <episode url="http://www.stitcher.com/podcast/the-dr-funk-podcast/e/episode-27-dave-h-scott-b-part-1-48046239" number="27">Dave H Scott B Part 1</episode>
