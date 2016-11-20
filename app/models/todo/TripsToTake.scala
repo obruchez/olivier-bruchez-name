@@ -13,7 +13,7 @@ object TripsToTake extends Fetchable {
   type C = TripsToTake
 
   override val name = "Trips to take"
-  override val sourceUrl = Configuration.baseUrlWithFile("markdown/tripstotake.md").get
+  override val sourceUrl = Configuration.baseUrlWithFile("markdown/trips-to-take.md").get
   override val icon = Trips.icon
 
   override def fetch(): Try[TripsToTake] = apply(sourceUrlWithNoCacheParameter)

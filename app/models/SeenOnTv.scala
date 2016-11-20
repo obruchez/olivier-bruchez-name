@@ -11,7 +11,7 @@ object SeenOnTv extends Fetchable {
   type C = SeenOnTv
 
   override val name = "Seen on TV"
-  override val sourceUrl = Configuration.baseUrlWithFile("markdown/seenontv.md").get
+  override val sourceUrl = Configuration.baseUrlWithFile("markdown/seen-on-tv.md").get
   override val icon = Some("fa-television")
 
   override def fetch(): Try[SeenOnTv] = apply(sourceUrlWithNoCacheParameter)
