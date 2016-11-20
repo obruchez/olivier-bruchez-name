@@ -1,4 +1,13 @@
 #!/bin/bash
+### BEGIN INIT INFO
+# Provides:
+# Required-Start:
+# Required-Stop:
+# Default-Start:
+# Default-Stop:
+# Short-Description:
+### END INIT INFO
+
 #
 # =========================================================================
 # Copyright 2014 Rado Buransky, Dominion Marine Media
