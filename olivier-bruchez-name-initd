@@ -77,13 +77,13 @@ COMMAND=$1
 
 NAME=olivier-bruchez-name
 PORT=10080
-APP_DIR=/home/obruchez/olivier-bruchez-name
+APP_DIR=/srv/olivier-bruchez-name
 
 # ***********************************************
 # ***********************************************
 
 # Additional arguments to be passed to the Play application
-APP_ARGS="-Dhttp.port=${PORT} -Dconfig.file=/home/obruchez/application.production.conf"
+APP_ARGS="-Dhttp.port=${PORT} -Dconfig.file=/srv/olivier-bruchez-name.conf"
 
 # Path to the RUNNING_PID file containing process ID
 PID_FILE=$APP_DIR/RUNNING_PID
