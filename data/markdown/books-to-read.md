@@ -267,8 +267,9 @@ Pretty much everything from [Les cent livres du siècle](https://fr.wikipedia.or
 * Darrell Huff, ["How to Lie with Statistics"](https://en.wikipedia.org/wiki/How_to_Lie_with_Statistics) (recommended by [@behaghel](https://twitter.com/behaghel))
 * Matt Ridley, ["The Evolution of Everything: How New Ideas Emerge"](https://www.amazon.com/Evolution-Everything-How-Ideas-Emerge/dp/0062296000)
 
-## Social sciences / sociology
+## Social sciences / sociology / politics
 
+* Noam Chomsky, ["Understanding Power: The Indispensible Chomsky"](https://www.amazon.com/Understanding-Power-Indispensible-Chomsky-Noam/dp/1565847032/) (one of this best books, apparently)
 * Caroline Fourest, ["Le choc des préjugés : L'impasse des postures sécuritaires et victimaires"](http://www.amazon.fr/choc-pr%C3%A9jug%C3%A9s-Limpasse-s%C3%A9curitaires-victimaires/dp/2702135331/) (recommended by [@ArianeBeldi](https://twitter.com/ArianeBeldi))
 * Normand Baillargeon, ["Petit cours d'autodéfense intellectuelle"](http://www.amazon.com/petit-dautod%C3%A9fense-intellectuelle-Normand-Baillargeon/dp/2895960445)
 * Thomas Friedman, ["The World Is Flat: A Brief History of the Twenty-First Century"](https://en.wikipedia.org/wiki/The_World_Is_Flat)
