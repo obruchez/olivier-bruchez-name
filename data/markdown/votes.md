@@ -6,9 +6,11 @@ My votes (in French). En Suisse, on ne plaisante pas avec la démocratie directe
 
 ### Acceptez-vous l’initiative populaire "Pour la sortie programmée de l’énergie nucléaire (Initiative "Sortir du nucléaire")" ?
 
-?. Résultat : ? (??.?%).
+Oui. Résultat : ? (??.?%).
 
-...
+- Je trouve regrettable que l'initiative ne fasse pas une exception, au moins symboliquement, pour d'éventuels [réacteurs nucléaires de génération IV](https://fr.wikipedia.org/wiki/Générations_de_réacteurs_nucléaires).
+- Je trouve néanmoins important de donner un signal fort à l'étranger (rôle de modèle). La Suisse peut se le permettre, financièrement.
+- C'est donc un petit oui de ma part pour cette initiative.
 
 ## [Votation fédérale du 25 septembre 2016](https://www.admin.ch/gov/fr/accueil/documentation/votations/20160925.html)
 
