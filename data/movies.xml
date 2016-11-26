@@ -2,6 +2,14 @@
 <movies>
   <introduction>A list of movies I saw.</introduction>
   <movie>
+    <date>2016.11.26</date>
+    <theater>Casino, Martigny</theater>
+    <director>Ken Loach</director>
+    <title>I, Daniel Blake</title>
+    <url>http://www.imdb.com/title/tt5168192/</url>
+    <rating>5.0</rating>
+  </movie>
+  <movie>
     <date>2016.11.19</date>
     <theater>Galeries, Lausanne</theater>
     <director>Matt Ross</director>
