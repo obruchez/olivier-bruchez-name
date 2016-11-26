@@ -256,12 +256,35 @@
     <place>Bonatchiesse / Mauvoisin, Switzerland</place>
     <pictures url="https://www.flickr.com/photos/bruchez/sets/72157594249350785/"/>
   </hike>
-
+  <hike>
+    <date>2005.10.29</date>
+    <place>Louvie / Le Crêt, Switzerland</place>
+    <pictures url="https://www.flickr.com/photos/bruchez/sets/72157594269883976/"/>
+  </hike>
+  <hike>
+    <date>2005.05.01</date>
+    <place>Verbier, Switzerland</place>
+    <pictures url="https://www.flickr.com/photos/bruchez/sets/407188/"/>
+  </hike>
+  <hike>
+    <date>2004.08.01</date>
+    <place>Mont Rogneux, Switzerland</place>
+    <pictures url="https://www.flickr.com/photos/bruchez/sets/72057594077094542/"/>
+  </hike>
+  <hike>
+    <date>2004.06.27</date>
+    <place>Dent de Morcles, Switzerland</place>
+    <pictures url="https://www.flickr.com/photos/bruchez/sets/72057594076927018/"/>
+  </hike>
+  <hike>
+    <date>2003.09.22</date>
+    <place>Pierre Avoi, Switzerland</place>
+    <pictures url="https://www.flickr.com/photos/bruchez/sets/72057594073525360/"/>
+  </hike>
 
   <!-- <hike>
     <date></date>
     <place></place>
     <pictures url=""/>
   </hike> -->
-
 </hikes>
