@@ -10,6 +10,41 @@
     <actor></actor>
   -->
   <play>
+    <date>2016.11.25</date>
+    <location>Salle Charles Apothéloz, Théâtre de Vidy, Lausanne, Switzerland</location>
+    <name>Dom Juan</name>    
+    <author>Molière</author>
+    <director>Jean-François Sivadier</director>
+    <actor>Marc Arnaud</actor>
+    <actor>Nicolas Bouchaud</actor>
+    <actor>Stephen Butel</actor>
+    <actor>Vincent Guédon</actor>
+    <actor>Lucie Valon</actor>
+    <actor>Marie Vialle</actor>
+    <!--
+    Collaboration artistique :
+    Nicolas Bouchaud
+    Véronique Timsit
+    Scénographie :
+    Daniel Jeanneteau
+    Jean-François Sivadier
+    Christian Tirole
+    Lumière :
+    Philippe Berthomé
+    Costumes :
+    Virginie Gervaise
+    Maquillage, perruques :
+    Cécile Kretschmar
+    Son :
+    Eve-Anne Joalland
+    Assistanat mise en scène :
+    Véronique Timsit
+    Maxime Contrepois
+    -->
+    <rating>5.25</rating>
+    <image>Dom Juan.jpg</image>
+  </play> 
+  <play>
     <date>2016.11.11</date>
     <location>Pulloff Théâtres, Lausanne, Switzerland</location>
     <name>Blanc</name>
