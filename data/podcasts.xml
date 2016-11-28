@@ -2,6 +2,11 @@
 <podcasts>
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date>2016.11.28</date>
+    <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
+    <episode url="https://www.samharris.org/podcast/item/the-dawn-of-artificial-intelligence1" number="53">The Dawn of Artificial Intelligence - A Conversation with Stuart Russell</episode>
+  </podcast>
+  <podcast>
     <date>2016.11.23</date>
     <name url="http://peachandblack.podbean.com/">Peach &amp; Black Podcast</name>
     <episode url="https://peachandblack.podbean.com/e/tony-m-the-interview/">Tony M: The Interview</episode>
