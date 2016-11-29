@@ -2,6 +2,11 @@
 <podcasts>
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date>2016.11.29</date>
+    <name url="http://www.bbc.co.uk/programmes/p033dmdy">BBC Music Jazz</name>
+    <episode url="http://www.bbc.co.uk/programmes/p048gyw4">Alyn Shipton in conversation with Keith Jarrett</episode>
+  </podcast>
+  <podcast>
     <date>2016.11.28</date>
     <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
     <episode url="https://www.samharris.org/podcast/item/the-dawn-of-artificial-intelligence1" number="53">The Dawn of Artificial Intelligence - A Conversation with Stuart Russell</episode>
