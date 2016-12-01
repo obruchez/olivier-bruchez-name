@@ -2,6 +2,15 @@
 <movies>
   <introduction>A list of movies I saw.</introduction>
   <movie>
+    <date>2016.11.30</date>
+    <theater>Forum Rolex, Learning Center, EPFL, Ecublens, Switzerland</theater>
+    <director>James Algar, Gaëtan Brizzi, Paul Brizzi, Hendel Butoy, Francis Glebas, Eric Goldberg, Don Hahn &amp; Pixote Hunt</director>
+    <title>Fantasia 2000</title>
+    <url>http://www.imdb.com/title/tt0120910/</url>
+    <rating>4.5</rating>
+    <comments>Live music by the Orchestre d'harmonie de l'Etat de Genève.</comments>
+  </movie>
+  <movie>
     <date>2016.11.26</date>
     <theater>Casino, Martigny</theater>
     <director>Ken Loach</director>
