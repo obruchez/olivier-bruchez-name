@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <plays>
   <introduction>A list of plays I saw.</introduction>
-
   <!--
     <author></author>
     <director></director>
@@ -9,6 +8,26 @@
     <translation></translation>
     <actor></actor>
   -->
+  <play>
+    <date>2016.12.01</date>
+    <location>Pulloff Théâtres, Lausanne, Switzerland</location>
+    <name>Une femme à Berlin</name>
+    <author>Marta Hillers</author>
+    <translation>Françoise Wuilmart</translation>
+    <director>Séverine Bujard</director>
+    <actor>Véronique Montel</actor>
+    <actor>Marco Calamandrei</actor>
+    <!--
+    création lumières Jean-Phillippe Roy
+    maquillage Nathalie Mouchnino
+    musique originale et création sonore Jerome Baur
+    décor Célia Zanghi, Luca Orlandini
+    technique et régie Patrick Guex
+    graphiste Victor Audétat
+    -->
+    <rating>4.5</rating>
+    <image>Une femme à Berlin.jpg</image>
+  </play>
   <play>
     <date>2016.11.25</date>
     <location>Salle Charles Apothéloz, Théâtre de Vidy, Lausanne, Switzerland</location>
