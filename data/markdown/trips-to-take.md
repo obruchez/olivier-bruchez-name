@@ -41,7 +41,6 @@ See also [1000 places to see before you die](http://1000places.com/).
 * [Japan](https://en.wikipedia.org/wiki/Japan) ([cherry blossom](https://en.wikipedia.org/wiki/Cherry_blossom), etc.)
 * [Lithuania](https://en.wikipedia.org/wiki/Lithuania)
 * [Morocco](https://en.wikipedia.org/wiki/Morocco)
-* [Namibia](https://en.wikipedia.org/wiki/Namibia)
 * [New Zealand](https://en.wikipedia.org/wiki/New_Zealand) (cf Marc-André's trip)
 * [Nicaragua](https://en.wikipedia.org/wiki/Nicaragua)
 * [Peru](https://en.wikipedia.org/wiki/Peru) ([Machu Picchu](https://en.wikipedia.org/wiki/Machu_Picchu), etc.)
