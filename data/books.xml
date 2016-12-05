@@ -2,6 +2,16 @@
 <books>
     <introduction>A list of books I read.</introduction>
     <book>
+        <date></date>
+        <title>Childhood's End</title>
+        <author>Arthur C. Clarke</author>
+        <publishingyear>1953</publishingyear>
+        <rating></rating>
+        <url>https://en.wikipedia.org/wiki/Childhood's_End</url>
+        <!-- <notes description="Kindle highlights"></notes> -->
+        <image>Childhood's End.jpg</image>
+    </book>
+    <book>
         <date>2016.11.17</date>
         <title>Les Catilinaires</title>
         <author>Amélie Nothomb</author>
