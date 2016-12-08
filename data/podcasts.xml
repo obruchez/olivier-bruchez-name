@@ -2,6 +2,11 @@
 <podcasts>
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date>2016.12.08</date>
+    <name url="http://www.stitcher.com/podcast/the-dr-funk-podcast">The Dr Funk Podcast</name>
+    <episode url="http://www.stitcher.com/podcast/the-dr-funk-podcast/e/episode-29-adrian-crutchfield-part-1-48205759" number="29">Adrian Crutchfield Part 1</episode>
+  </podcast>
+  <podcast>
     <date>2016.12.06</date>
     <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
     <episode url="https://www.samharris.org/podcast/item/trumping-the-world" number="54">Trumping the World - A Conversation with James Kirchick</episode>
