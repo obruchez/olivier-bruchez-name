@@ -2,11 +2,11 @@
 <books>
     <introduction>A list of books I read.</introduction>
     <book>
-        <date></date>
+        <date>2016.12.09</date>
         <title>Childhood's End</title>
         <author>Arthur C. Clarke</author>
         <publishingyear>1953</publishingyear>
-        <rating></rating>
+        <rating>5.0</rating>
         <url>https://en.wikipedia.org/wiki/Childhood's_End</url>
         <!-- <notes description="Kindle highlights"></notes> -->
         <image>Childhood's End.jpg</image>
