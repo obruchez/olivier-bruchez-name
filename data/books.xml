@@ -2,6 +2,17 @@
 <books>
     <introduction>A list of books I read.</introduction>
     <book>
+        <date></date>
+        <title>Disparaître de soi</title>
+        <subtitle>Une tentation contemporaine</subtitle>
+        <author>David Le Breton</author>
+        <publishingyear>2015</publishingyear>
+        <rating></rating>
+        <url>https://books.google.com/books?id=QVhFBgAAQBAJ</url>
+        <!-- <notes description="Kindle highlights"></notes> -->
+        <image>Disparaître de soi.jpg</image>
+    </book>
+    <book>
         <date>2016.12.09</date>
         <title>Childhood's End</title>
         <author>Arthur C. Clarke</author>
