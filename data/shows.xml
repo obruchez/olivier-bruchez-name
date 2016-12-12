@@ -2,6 +2,11 @@
 <shows>
   <introduction>A list of TV shows I saw.</introduction>
   <show>
+    <date>2016.12.12</date>
+    <name url="https://en.wikipedia.org/wiki/Broad_City">Broad City</name>
+    <series url="https://en.wikipedia.org/wiki/List_of_Broad_City_episodes#Season_2_.282015.29" type="season">2</series>
+  </show>
+  <show>
     <date>2016.12.08</date>
     <name url="https://en.wikipedia.org/wiki/Community_(TV_series)">Community</name>
     <series url="https://en.wikipedia.org/wiki/Community_(season_6)" type="season">6</series>
