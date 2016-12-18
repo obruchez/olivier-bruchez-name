@@ -209,7 +209,7 @@
   <podcast>
     <date>2016.09.16</date>
     <name>Alex &amp; Erik's Podcast</name>
-    <episode number="36">Follow-up on vegetarism</episode>
+    <episode number="36">Follow-up on vegetarianism</episode>
   </podcast>
   <podcast>
     <date>2016.09.15</date>
@@ -426,6 +426,11 @@
     <episode url="http://peachandblack.podbean.com/e/na-na-na-na-na-na-na-batman-review/">Na Na Na Na Na Na Na Batman Review!</episode>
   </podcast>
   <podcast>
+    <date>2016.04.11</date>
+    <name>Alex &amp; Erik's Podcast</name>
+    <episode number="30">Thoughts on LambdaConf</episode>
+  </podcast>
+  <podcast>
     <date>2016.04.07</date>
     <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
     <episode url="https://www.samharris.org/podcast/item/evolving-minds" number="31">Evolving Minds - A Conversation with Jonathan Haidt</episode>
@@ -451,6 +456,11 @@
     <episode url="https://www.samharris.org/podcast/item/throw-open-the-gates" number="29">Throw Open the Gates - A Conversation with Maryam Namazie</episode>
   </podcast>
   <podcast>
+    <date>2016.03.17</date>
+    <name>Alex &amp; Erik's Podcast</name>
+    <episode number="29">Internet addiction</episode>
+  </podcast>
+  <podcast>
     <date>2016.03.16</date>
     <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
     <episode url="https://www.samharris.org/podcast/item/the-logic-of-violence" number="26">The Logic of Violence - A Conversation with Jocko Willink</episode>
@@ -466,14 +476,29 @@
     <episode url="http://peachandblack.podbean.com/e/episode-3-3121-review/">3121 Review</episode>
   </podcast>
   <podcast>
+    <date>2016.03.02</date>
+    <name>Alex &amp; Erik's Podcast</name>
+    <episode number="28">Apple vs. FBI</episode>
+  </podcast>
+  <podcast>
     <date>2016.03.01</date>
     <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
     <episode url="https://www.samharris.org/podcast/item/meat-without-murder" number="28">Meat Without Misery - A Conversation with Uma Valeti</episode>
   </podcast>
   <podcast>
+    <date>2016.02.26</date>
+    <name>Alex &amp; Erik's Podcast</name>
+    <episode number="27">What education should be about</episode>
+  </podcast>
+  <podcast>
     <date>2016.02.25</date>
     <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
     <episode url="https://www.samharris.org/podcast/item/ask-me-anything-3" number="27">Ask Me Anything #3</episode>
+  </podcast>
+  <podcast>
+    <date>2016.02.23</date>
+    <name>Alex &amp; Erik's Podcast</name>
+    <episode number="26">The future of computing</episode>
   </podcast>
   <podcast>
     <date>2016.02.19</date>
@@ -496,9 +521,24 @@
     <episode url="https://peachandblack.podbean.com/e/the-time-the-first-two-albums-review/">The Time - The First Two Albums Review</episode>
   </podcast>
   <podcast>
+    <date>2016.02.02</date>
+    <name>Alex &amp; Erik's Podcast</name>
+    <episode number="25">We don't know anything</episode>
+  </podcast>
+  <podcast>
+    <date>2016.01.28</date>
+    <name>Alex &amp; Erik's Podcast</name>
+    <episode number="24">Uninteresting</episode>
+  </podcast>
+  <podcast>
     <date>2016.01.15</date>
     <name url="http://peachandblack.podbean.com/">Peach &amp; Black Podcast</name>
     <episode url="https://peachandblack.podbean.com/e/london-2014-review/">London 2014 Review</episode>
+  </podcast>
+  <podcast>
+    <date>2016.01.13</date>
+    <name>Alex &amp; Erik's Podcast</name>
+    <episode number="23">The retractable wheel (on autonomous cars)</episode>
   </podcast>
   <podcast>
     <date>2016.01.08</date>
@@ -519,6 +559,16 @@
     <date>2015.12.22</date>
     <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
     <episode url="https://www.samharris.org/podcast/item/surviving-the-cosmos" number="22">Surviving the Cosmos - A Conversation with David Deutsch</episode>
+  </podcast>
+  <podcast>
+    <date>2015.12.18</date>
+    <name>Alex &amp; Erik's Podcast</name>
+    <episode number="22">On rent control and minimum wage</episode>
+  </podcast>
+  <podcast>
+    <date>2015.12.17</date>
+    <name>Alex &amp; Erik's Podcast</name>
+    <episode number="21">On education</episode>
   </podcast>
   <podcast>
     <date>2015.12.15</date>
@@ -561,6 +611,11 @@
     <episode url="http://peachandblack.podbean.com/e/michael-jackson-and-prince-show/">Michael Jackson (and Prince) Show</episode>
   </podcast>
   <podcast>
+    <date>2015.11.23</date>
+    <name>Alex &amp; Erik's Podcast</name>
+    <episode number="20">The future of work</episode>
+  </podcast>
+  <podcast>
     <date>2015.11.18</date>
     <name url="http://peachandblack.podbean.com/">Peach &amp; Black Podcast</name>
     <episode url="http://peachandblack.podbean.com/e/lotusflow3r-first-impressions-podcast/">Lotusflow3r - First Impressions Podcast!</episode>
@@ -569,6 +624,11 @@
     <date>2015.11.17</date>
     <name url="http://peachandblack.podbean.com/">Peach &amp; Black Podcast</name>
     <episode url="http://peachandblack.podbean.com/e/lotusflow3r-anticipation-podcast/">Lotusflow3r Anticipation Podcast</episode>
+  </podcast>
+  <podcast>
+    <date>2015.11.16</date>
+    <name>Alex &amp; Erik's Podcast</name>
+    <episode number="19">Follow-ups</episode>
   </podcast>
   <podcast>
     <date>2015.11.16</date>
@@ -591,14 +651,54 @@
     <episode url="https://www.samharris.org/podcast/item/what-i-really-think-about-profiling" number="17">What I Really Think About Profiling</episode>
   </podcast>
   <podcast>
+    <date>2015.11.09</date>
+    <name>Alex &amp; Erik's Podcast</name>
+    <episode number="18">The colonization of the universe</episode>
+  </podcast>
+  <podcast>
+    <date>2015.11.06</date>
+    <name>Alex &amp; Erik's Podcast</name>
+    <episode number="17">Slowly being replaced</episode>
+  </podcast>
+  <podcast>
     <date>2015.11.06</date>
     <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
     <episode url="https://www.samharris.org/podcast/item/the-dark-side" number="16">The Dark Side - A Conversation with Paul Bloom</episode>
   </podcast>
   <podcast>
+    <date>2015.10.30</date>
+    <name>Alex &amp; Erik's Podcast</name>
+    <episode number="16">The Facebook spouse (on the future of humanity)</episode>
+  </podcast>
+  <podcast>
     <date>2015.10.29</date>
     <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
     <episode url="https://www.samharris.org/podcast/item/questions-along-the-way-further-reflections-on-the-practice-of-meditation-w" number="15">Questions Along the Path - Further Reflections on the Practice of Meditation with Joseph Goldstein</episode>
+  </podcast>
+  <podcast>
+    <date>2015.10.27</date>
+    <name>Alex &amp; Erik's Podcast</name>
+    <episode number="15">We're done for (on the Turing test)</episode>
+  </podcast>
+  <podcast>
+    <date>2015.10.26</date>
+    <name>Alex &amp; Erik's Podcast</name>
+    <episode number="14">Follow-up on vegetarianism</episode>
+  </podcast>
+  <podcast>
+    <date>2015.10.23</date>
+    <name>Alex &amp; Erik's Podcast</name>
+    <episode number="13">Too busy with your hands (follow-up on ad blocking)</episode>
+  </podcast>
+  <podcast>
+    <date>2015.10.23</date>
+    <name>Alex &amp; Erik's Podcast</name>
+    <episode number="7">Advertising and iPhone 6S follow-ups</episode>
+  </podcast>
+  <podcast>
+    <date>2015.10.22</date>
+    <name>Alex &amp; Erik's Podcast</name>
+    <episode number="6">Ad blocking on iOS</episode>
   </podcast>
   <podcast>
     <date>2015.10.21</date>
@@ -609,6 +709,56 @@
     <date>2015.10.15</date>
     <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
     <episode url="https://www.samharris.org/podcast/item/the-moral-gaze" number="13">The Moral Gaze - A Conversation with Joshua Oppenheimer</episode>
+  </podcast>
+  <podcast>
+    <date>2015.10.14</date>
+    <name>Alex &amp; Erik's Podcast</name>
+    <episode number="5">Schools</episode>
+  </podcast>
+  <podcast>
+    <date>2015.10.13</date>
+    <name>Alex &amp; Erik's Podcast</name>
+    <episode number="4">Privacy</episode>
+  </podcast>
+  <podcast>
+    <date>2015.10.13</date>
+    <name>Alex &amp; Erik's Podcast</name>
+    <episode number="3">September 9 Apple Event</episode>
+  </podcast>
+  <podcast>
+    <date>2015.10.07</date>
+    <name>Alex &amp; Erik's Podcast</name>
+    <episode number="12">Evaluating Sam Harris</episode>
+  </podcast>
+  <podcast>
+    <date>2015.10.04</date>
+    <name>Alex &amp; Erik's Podcast</name>
+    <episode number="11">The limits of conversation</episode>
+  </podcast>
+  <podcast>
+    <date>2015.10.04</date>
+    <name>Alex &amp; Erik's Podcast</name>
+    <episode number="2">Rumors ahead of September 9 Apple Event</episode>
+  </podcast>
+  <podcast>
+    <date>2015.10.02</date>
+    <name>Alex &amp; Erik's Podcast</name>
+    <episode number="10">Alex's 30-day experiment</episode>
+  </podcast>
+  <podcast>
+    <date>2015.10.02</date>
+    <name>Alex &amp; Erik's Podcast</name>
+    <episode number="9">One of those moments that will never happen again, hopefully</episode>
+  </podcast>
+  <podcast>
+    <date>2015.09.30</date>
+    <name>Alex &amp; Erik's Podcast</name>
+    <episode number="1">The ethics of advertising</episode>
+  </podcast>
+  <podcast>
+    <date>2015.09.29</date>
+    <name>Alex &amp; Erik's Podcast</name>
+    <episode number="8">Harm in the category of cows</episode>
   </podcast>
   <podcast>
     <date>2015.09.28</date>
@@ -870,7 +1020,7 @@
     <name url="http://verybadwizards.com/">Very Bad Wizards</name>
     <episode url="http://verybadwizards.com/episodes/59" number="59">Tumors All the Way Down (With Sam Harris)</episode>
   </podcast>
-
+  
   <!--
   <podcast>
     <date></date>
@@ -878,7 +1028,7 @@
     <episode url="" number=""></episode>
   </podcast>
   -->
- 
+
   <!--
   <podcast>
     <date>2015.??.??</date>
@@ -904,7 +1054,6 @@
 </podcasts>
 
 <!--
-Alex & Erik's Podcast
 Compared To What Podcast
 Tim Ferriss (Scott Adams, etc.)
 Peach & Black Podcast (~89 episodes) (OK -> LONDON 2014 REVIEW, page 2 - included) (Black Album already added)
