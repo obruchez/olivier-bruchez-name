@@ -2,6 +2,15 @@
 <movies>
   <introduction>A list of movies I saw.</introduction>
   <movie>
+    <date>2016.12.18</date>
+    <theater>Galeries, Lausanne</theater>
+    <director>Denis Villeneuve</director>
+    <title>Arrival</title>
+    <url>http://www.imdb.com/title/tt2543164/</url>
+    <rating>5.0</rating>
+    <image>Arrival.jpg</image>
+  </movie>
+  <movie>
     <date>2016.11.30</date>
     <theater>Forum Rolex, Learning Center, EPFL, Ecublens, Switzerland</theater>
     <director>James Algar, Gaëtan Brizzi, Paul Brizzi, Hendel Butoy, Francis Glebas, Eric Goldberg, Don Hahn &amp; Pixote Hunt</director>
@@ -9,6 +18,7 @@
     <url>http://www.imdb.com/title/tt0120910/</url>
     <rating>4.5</rating>
     <comments>Live music by the Orchestre d'harmonie de l'Etat de Genève.</comments>
+    <image>Fantasia 2000.jpg</image>
   </movie>
   <movie>
     <date>2016.11.26</date>
@@ -17,6 +27,7 @@
     <title>I, Daniel Blake</title>
     <url>http://www.imdb.com/title/tt5168192/</url>
     <rating>5.0</rating>
+    <image>I, Daniel Blake.jpg</image>
   </movie>
   <movie>
     <date>2016.11.19</date>
@@ -25,6 +36,7 @@
     <title>Captain Fantastic</title>
     <url>http://www.imdb.com/title/tt3553976/</url>
     <rating>5.25</rating>
+    <image>Captain Fantastic.jpg</image>
   </movie>
   <movie>
     <date>2016.10.29</date>
