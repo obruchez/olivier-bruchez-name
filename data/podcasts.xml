@@ -926,6 +926,11 @@
     <episode url="https://peachandblack.podbean.com/e/lovesexy-25th-anniversary-review/">Lovesexy - 25th Anniversary Review</episode>
   </podcast>
   <podcast>
+    <date>2015.06.14</date>
+    <name url="https://danielmiessler.com/">Daniel Miessler</name>
+    <episode url="https://danielmiessler.com/blog/absolute_vs_practical_free_will/">Absolute vs. Practical Free Will</episode>
+  </podcast>
+  <podcast>
     <date>2015.06.12</date>
     <name url="http://peachandblack.podbean.com/">Peach &amp; Black Podcast</name>
     <episode url="https://peachandblack.podbean.com/e/indigo-nights-remixed-and-remastered/">Indigo Nights - Remixed And Remastered</episode>
@@ -1164,5 +1169,5 @@
 </podcasts>
 
 <!--
-2015(1)=OK("écout")
+2015(2)=OK("écout")
 -->
