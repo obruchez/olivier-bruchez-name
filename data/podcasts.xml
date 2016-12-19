@@ -411,6 +411,11 @@
     <episode url="https://www.samharris.org/podcast/item/the-end-of-faith-sessions-1" number="35">The End of Faith Sessions 1</episode>
   </podcast>
   <podcast>
+    <date>2016.04.25</date>
+    <name url="http://fourhourworkweek.com/podcast/">The Tim Ferriss Show</name>
+    <episode url="http://fourhourworkweek.com/2015/09/22/scott-adams-the-man-behind-dilbert/" number="106">Scott Adams: The Man Behind Dilbert</episode>
+  </podcast>
+  <podcast>
     <date>2016.04.22</date>
     <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
     <episode url="https://www.samharris.org/podcast/item/the-light-of-the-mind" number="34">The Light of the Mind - A Conversation with David Chalmers</episode>
@@ -419,6 +424,11 @@
     <date>2016.04.20</date>
     <name url="http://peachandblack.podbean.com/">Peach &amp; Black Podcast</name>
     <episode url="http://peachandblack.podbean.com/e/the-chocolate-invasion-review/">The Chocolate Invasion Review</episode>
+  </podcast>
+  <podcast>
+    <date>2016.04.18</date>
+    <name url="http://comparedtowhatpodcast.com/">Compared To What Podcast</name>
+    <episode url="http://comparedtowhatpodcast.com/episode-26-the-vince-wilburn-conversation/" number="26">The Vince Wilburn Conversation</episode>
   </podcast>
   <podcast>
     <date>2016.04.13</date>
@@ -434,6 +444,11 @@
     <date>2016.04.07</date>
     <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
     <episode url="https://www.samharris.org/podcast/item/evolving-minds" number="31">Evolving Minds - A Conversation with Jonathan Haidt</episode>
+  </podcast>
+  <podcast>
+    <date>2016.04.04</date>
+    <name url="http://peachandblack.podbean.com/">Peach &amp; Black Podcast</name>
+    <episode url="http://peachandblack.podbean.com/e/prince-piano-a-microphone-the-australia-shows-review/">Prince: Piano &amp; A Microphone - The Autralia Shows review</episode>
   </podcast>
   <podcast>
     <date>2016.03.31</date>
@@ -526,9 +541,29 @@
     <episode number="25">We don't know anything</episode>
   </podcast>
   <podcast>
+    <date>2016.02.01</date>
+    <name url="http://peachandblack.podbean.com/">Peach &amp; Black Podcast</name>
+    <episode url="http://peachandblack.podbean.com/e/2-new-prince-album-releases-pb-discussion/">2 New Prince Albums - P&amp;B Discussion</episode>
+  </podcast>
+  <podcast>
+    <date>2016.01.29</date>
+    <name url="http://peachandblack.podbean.com/">Peach &amp; Black Podcast</name>
+    <episode url="http://peachandblack.podbean.com/e/larry-graham-the-interview/">Larry Graham: The Interview</episode>
+  </podcast>
+  <podcast>
     <date>2016.01.28</date>
     <name>Alex &amp; Erik's Podcast</name>
     <episode number="24">Uninteresting</episode>
+  </podcast>
+  <podcast>
+    <date>2016.01.26</date>
+    <name url="http://peachandblack.podbean.com/">Peach &amp; Black Podcast</name>
+    <episode url="http://peachandblack.podbean.com/e/hitnrun-phase-2-review/">Hit n Run: Phase 2 Review</episode>
+  </podcast>
+  <podcast>
+    <date>2016.01.19</date>
+    <name url="http://peachandblack.podbean.com/">Peach &amp; Black Podcast</name>
+    <episode url="http://peachandblack.podbean.com/e/rob-esse-mc-presentsharts/">Rob Esse (MC) Presents... Harts</episode>
   </podcast>
   <podcast>
     <date>2016.01.15</date>
@@ -724,6 +759,11 @@
     <date>2015.10.13</date>
     <name>Alex &amp; Erik's Podcast</name>
     <episode number="3">September 9 Apple Event</episode>
+  </podcast>
+  <podcast>
+    <date>2015.10.13</date>
+    <name url="http://peachandblack.podbean.com/">Peach &amp; Black Podcast</name>
+    <episode url="http://peachandblack.podbean.com/e/hitnrun-review/">Hit n Run Review</episode>
   </podcast>
   <podcast>
     <date>2015.10.07</date>
@@ -986,6 +1026,11 @@
     <episode url="https://www.samharris.org/podcast/item/drugs-and-the-meaning-of-life" number="1">Drugs and the Meaning of Life</episode>
   </podcast>
   <podcast>
+    <date>2015.04.24</date>
+    <name url="http://peachandblack.podbean.com/">Peach &amp; Black Podcast</name>
+    <episode url="http://peachandblack.podbean.com/e/purple-rain-review/">Purple Rain Review</episode>
+  </podcast>
+  <podcast>
     <date>2015.04.17</date>
     <name url="http://peachandblack.podbean.com/">Peach &amp; Black Podcast</name>
     <episode url="https://peachandblack.podbean.com/e/the-truth-review/">The Truth Review</episode>
@@ -1016,11 +1061,66 @@
     <episode url="http://peachandblack.podbean.com/e/black-album-review/">Black - The Album Review</episode>
   </podcast>
   <podcast>
+    <date>2015.03.25</date>
+    <name url="http://peachandblack.podbean.com/">Peach &amp; Black Podcast</name>
+    <episode url="http://peachandblack.podbean.com/e/exodus-review/">Exodus Review</episode>
+  </podcast>
+  <podcast>
+    <date>2015.03.24</date>
+    <name url="http://peachandblack.podbean.com/">Peach &amp; Black Podcast</name>
+    <episode url="http://peachandblack.podbean.com/e/1999-review-part-2/">1999 Review - Part 2</episode>
+  </podcast>
+  <podcast>
+    <date>2015.03.20</date>
+    <name url="http://peachandblack.podbean.com/">Peach &amp; Black Podcast</name>
+    <episode url="http://peachandblack.podbean.com/e/1999-review-part-one/">1999 Review - Part 1</episode>
+  </podcast>
+  <podcast>
+    <date>2015.03.17</date>
+    <name url="http://peachandblack.podbean.com/">Peach &amp; Black Podcast</name>
+    <episode url="http://peachandblack.podbean.com/e/aoa-pe-first-impressions-1412229265/">Art Official Age / Plectrumelectrum - First Impressions</episode>
+  </podcast>
+  <podcast>
+    <date>2015.03.13</date>
+    <name url="http://peachandblack.podbean.com/">Peach &amp; Black Podcast</name>
+    <episode url="http://peachandblack.podbean.com/e/plectrumelectrum-review/">Plectrumelectrum Review</episode>
+  </podcast>
+  <podcast>
+    <date>2015.03.12</date>
+    <name url="http://peachandblack.podbean.com/">Peach &amp; Black Podcast</name>
+    <episode url="http://peachandblack.podbean.com/e/art-official-age-review-part-1/">Art Official Age Review - Part 1</episode>
+  </podcast>
+  <podcast>
+    <date>2015.03.09</date>
+    <name url="http://podcastjuice.net/category/shows/the-prince-podcast/">The Prince Podcast</name>
+    <episode url="http://podcastjuice.net/the-prince-podcast-what-if-you-never-heard-unreleased-music/">What If You Never Heard Unreleased Music?</episode>
+  </podcast>
+  <podcast>
+    <date>2015.03.05</date>
+    <name url="http://podcastjuice.net/category/shows/the-prince-podcast/">The Prince Podcast</name>
+    <episode url="http://podcastjuice.net/the-prince-podcast-the-ultimate-prince-band/">The Ultimate Prince Band</episode>
+  </podcast>
+  <podcast>
+    <date>2015.03.04</date>
+    <name url="http://podcastjuice.net/category/shows/the-prince-podcast/">The Prince Podcast</name>
+    <episode url="http://podcastjuice.net/the-prince-podcast-when-the-music-changed/">When The Music Changed</episode>
+  </podcast>
+  <podcast>
+    <date>2015.03.02</date>
+    <name url="http://podcastjuice.net/category/shows/the-prince-podcast/">The Prince Podcast</name>
+    <episode url="http://podcastjuice.net/the-prince-podcast-the-bottom-5-prince-songs/">The Bottom 5 Prince Songs</episode>
+  </podcast>
+  <podcast>
     <date>2015.02.26</date>
     <name url="http://verybadwizards.com/">Very Bad Wizards</name>
     <episode url="http://verybadwizards.com/episodes/59" number="59">Tumors All the Way Down (With Sam Harris)</episode>
   </podcast>
-  
+  <podcast>
+    <date>2015.01.24</date>
+    <name url="http://comparedtowhatpodcast.com/">Compared To What Podcast</name>
+    <episode url="http://comparedtowhatpodcast.com/episode-42-the-marcus-miller-conversation/" number="42">The Marcus Miller Conversation</episode>
+  </podcast>
+
   <!--
   <podcast>
     <date></date>
@@ -1030,6 +1130,16 @@
   -->
 
   <!--
+  <podcast>
+    <date>?</date>
+    <name url="http://peachandblack.podbean.com/">Peach &amp; Black Podcast</name>
+    <episode url="http://peachandblack.podbean.com/e/may-2014-news/">May 2014 News Episode</episode>
+  </podcast>
+  <podcast>
+    <date>?</date>
+    <name url="http://peachandblack.podbean.com/">Peach &amp; Black Podcast</name>
+    <episode url="http://peachandblack.podbean.com/e/july-2015-news-reviews/">Juky 2015 News &amp; (Re)views</episode>
+  </podcast>
   <podcast>
     <date>2015.??.??</date>
     <name url="http://peachandblack.podbean.com/">Peach &amp; Black Podcast</name>
@@ -1041,12 +1151,12 @@
     <episode url="http://peachandblack.podbean.com/e/the-shelbey-interview/">The Shelbey Interview</episode>
   </podcast>
   <podcast>
-    <date></date>
+    <date>?</date>
     <name url="http://peachandblack.podbean.com/">Peach &amp; Black Podcast</name>
     <episode url="http://peachandblack.podbean.com/e/ricky-peterson-the-peterson-brothers-with-sheila-e-australian-tour/">Ricky Peterson &amp; The Peterson Brothers with Sheila E. - Australian Tour</episode>
   </podcast>
   <podcast>
-    <date></date>
+    <date>?</date>
     <name url="http://peachandblack.podbean.com/">Peach &amp; Black Podcast</name>
     <episode url="http://peachandblack.podbean.com/e/peach-black-interview-jason-draper/">Peach &amp; Black interview Jason Draper</episode>
   </podcast>
@@ -1054,9 +1164,5 @@
 </podcasts>
 
 <!--
-Compared To What Podcast
-Tim Ferriss (Scott Adams, etc.)
-Peach & Black Podcast (~89 episodes) (OK -> LONDON 2014 REVIEW, page 2 - included) (Black Album already added)
-Prince Podcast
-etc.
+2015(1)=OK("écout")
 -->
