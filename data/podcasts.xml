@@ -2,6 +2,11 @@
 <podcasts>
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date>2016.12.20</date>
+    <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
+    <episode url="https://www.samharris.org/podcast/item/abusing-dolores" number="56">Abusing Dolores - A Conversation with Paul Bloom</episode>
+  </podcast>
+  <podcast>
     <date>2016.12.16</date>
     <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
     <episode url="https://www.samharris.org/podcast/item/trumping-the-world" number="55">Islamism vs Secularism - A Conversation with Shadi Hamid</episode>
