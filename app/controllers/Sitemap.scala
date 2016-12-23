@@ -32,6 +32,7 @@ object Sitemap {
   val hikes = Page(Hikes, routes.Application.hikes())
   val movies = Page(Movies, routes.Application.movies())
   val plays = Page(Plays, routes.Application.plays())
+  val podcasts = Page(Podcasts, routes.Application.podcasts())
   val shows = Page(Shows, routes.Application.shows())
   val trips = Page(Trips, routes.Application.trips())
 
@@ -46,7 +47,7 @@ object Sitemap {
     routes.Application.lifelogging(),
     "fa-list",
     groupChildren = Seq(
-      PageGroup(Seq(books, concerts, courses, crashes, exhibitions, hikes, movies, plays, trips, shows)),
+      PageGroup(Seq(books, concerts, courses, crashes, exhibitions, hikes, movies, plays, podcasts, shows, trips)),
       PageGroup(Seq(booksToRead, moviesToWatch, tripsToTake)),
       PageGroup(Seq(statistics))))
 
@@ -113,5 +114,5 @@ object Sitemap {
     (currentAndChildren(root) ++ nonRootPages).distinct
   }
 
-  val recentActivityPages = Seq(books, concerts, courses, exhibitions, hikes, movies, plays, trips, shows)
+  val recentActivityPages = Seq(books, concerts, courses, exhibitions, movies, plays, podcasts, trips, shows)
 }

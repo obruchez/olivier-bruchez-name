@@ -73,6 +73,8 @@ object Application extends Controller {
 
   def plays = Action.async { Cache.get(Plays).map(plays => Ok(views.html.plays(plays))) }
 
+  def podcasts = Action.async { Cache.get(Podcasts).map(podcasts => Ok(views.html.podcasts(podcasts))) }
+
   def shows = Action.async { Cache.get(Shows).map(shows => Ok(views.html.shows(shows))) }
 
   def trips = Action.async { Cache.get(Trips).map(trips => Ok(views.html.trips(trips))) }

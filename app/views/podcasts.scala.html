@@ -1,0 +1,29 @@
+@import models.lifelogging.{ Podcast, Podcasts }
+
+@(podcasts: Podcasts)
+
+@header = {
+    <tr>
+        <th class="col-md-2">Date</th>
+        <th class="col-md-3">Name</th>
+        <th class="col-md-1">#</th>
+        <th class="col-md-6">Episode</th>
+    </tr>
+}
+
+@rowFromItem(listItem: ListItem) = {
+@defining(listItem.asInstanceOf[Podcast]) { podcast =>
+    <tr>
+        <td>@sluganddate(podcast)</td>
+        <td>@{podcast.url.fold[xml.NodeSeq](xml.Text(podcast.name))(url => <a href={url.toString}>{podcast.name}</a>)}</td>
+        <td>@{podcast.episodeNumber.fold("_")(_.toString)}</td>
+        <td>@{podcast.episodeUrl.fold[xml.NodeSeq](xml.Text(podcast.episodeName))(url => <a href={url.toString}>{podcast.episodeName}</a>)}</td>
+    </tr>
+}
+}
+
+@list(
+    page = Sitemap.podcasts,
+    cacheable = podcasts,
+    header = header,
+    rowFromItem = rowFromItem)

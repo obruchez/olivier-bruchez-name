@@ -22,6 +22,7 @@ GET        /exhibitions                      controllers.Application.exhibitions
 GET        /hikes                            controllers.Application.hikes
 GET        /movies                           controllers.Application.movies
 GET        /plays                            controllers.Application.plays
+GET        /podcasts                         controllers.Application.podcasts
 GET        /shows                            controllers.Application.shows
 GET        /trips                            controllers.Application.trips
 GET        /votes                            controllers.Application.votes
