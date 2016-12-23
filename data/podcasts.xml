@@ -351,7 +351,8 @@
     <name url="http://verybadwizards.com/">Very Bad Wizards</name>
     <episode url="http://verybadwizards.com/episodes/52" number="52">Thought Experiments (Huh!) What Are They Good For? (Pt. 2)</episode>
   </podcast>
-  <date>2016.06.15</date>
+  <podcast>
+    <date>2016.06.15</date>
     <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
     <episode url="https://www.samharris.org/podcast/item/morality-and-the-christian-god">Morality and the Christian God - An Invitation to Animators and Filmmakers</episode>
   </podcast>
