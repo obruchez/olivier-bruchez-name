@@ -37,6 +37,35 @@ body.larger-font {
     margin-bottom: 0;
 }
 
+.panel-heading.toc-heading {
+    background: #fefefe;
+}
+
+h4.toc-title-and-toggle {
+    margin: 7px;
+}
+
+.toc-title-and-toggle .toc-title {
+    font-weight: bold;
+    font-size: 14px;
+}
+
+.toc-title-and-toggle .toc-toggle {
+    margin-left: 10px;
+    font-size: 12px;
+}
+
+.toc-title-and-toggle a.toc-toggle-link {
+    font-size: 12px;
+    display: inline-block;
+    padding: 0;
+}
+
+.toc-panel li a {
+    /* @@todo this should depend on the theme */
+    color: #72c02c;
+}
+
 .service-block-u a {
     color: white;
 }
