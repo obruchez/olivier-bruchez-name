@@ -592,6 +592,11 @@
     <episode url="https://peachandblack.podbean.com/e/london-2014-review/">London 2014 Review</episode>
   </podcast>
   <podcast>
+    <date>2015.01.14</date>
+    <name url="http://peachandblack.podbean.com/">Peach &amp; Black Podcast</name>
+    <episode url="https://peachandblack.podbean.com/e/talking-for-the-funk-of-it/">Talking For The Fun(k) Of It</episode>
+  </podcast>
+  <podcast>
     <date>2016.01.13</date>
     <name>Alex &amp; Erik's Podcast</name>
     <episode number="23">The retractable wheel (on autonomous cars)</episode>
@@ -600,6 +605,11 @@
     <date>2016.01.08</date>
     <name url="http://peachandblack.podbean.com/">Peach &amp; Black Podcast</name>
     <episode url="https://peachandblack.podbean.com/e/clare-fischer-tribute/">Clare Fischer Tribute</episode>
+  </podcast>
+  <podcast>
+    <date>2016.01.07</date>
+    <name url="http://peachandblack.podbean.com/">Peach &amp; Black Podcast</name>
+    <episode url="http://peachandblack.podbean.com/e/may-2014-news/">May 2014 News Episode</episode>
   </podcast>
   <podcast>
     <date>2016.01.05</date>
@@ -672,7 +682,7 @@
     <episode number="20">The future of work</episode>
   </podcast>
   <podcast>
-    <date>2015.11.18</date>
+    <date>2015.11.20</date>
     <name url="http://peachandblack.podbean.com/">Peach &amp; Black Podcast</name>
     <episode url="http://peachandblack.podbean.com/e/lotusflow3r-first-impressions-podcast/">Lotusflow3r - First Impressions Podcast!</episode>
   </podcast>
@@ -717,12 +727,37 @@
     <episode number="17">Slowly being replaced</episode>
   </podcast>
   <podcast>
-    <date>2015.11.06</date>
+    <date>2015.11.05</date>
     <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
     <episode url="https://www.samharris.org/podcast/item/the-dark-side" number="16">The Dark Side - A Conversation with Paul Bloom</episode>
   </podcast>
   <podcast>
-    <date>2015.10.30</date>
+    <date>2015.11.05</date>
+    <name url="http://www.rts.ch/play/radio/emission/vacarme?id=4197904">Vacarme</name>
+    <episode url="http://www.rts.ch/play/radio/vacarme/audio/faut-il-craindre-les-ondes-electromagnetiques-55?id=7153547">Faut-il craindre les ondes électromagnétiques? (5/5)</episode>
+  </podcast>
+  <podcast>
+    <date>2015.11.04</date>
+    <name url="http://www.rts.ch/play/radio/emission/vacarme?id=4197904">Vacarme</name>
+    <episode url="http://www.rts.ch/play/radio/vacarme/audio/faut-il-craindre-les-ondes-electromagnetiques-45?id=7150407">Faut-il craindre les ondes électromagnétiques? (4/5)</episode>
+  </podcast>
+  <podcast>
+    <date>2015.11.04</date>
+    <name url="http://www.rts.ch/play/radio/emission/vacarme?id=4197904">Vacarme</name>
+    <episode url="http://www.rts.ch/play/radio/vacarme/audio/faut-il-craindre-les-ondes-electromagnetiques-35?id=7147262">Faut-il craindre les ondes électromagnétiques? (3/5)</episode>
+  </podcast>
+  <podcast>
+    <date>2015.11.03</date>
+    <name url="http://www.rts.ch/play/radio/emission/vacarme?id=4197904">Vacarme</name>
+    <episode url="http://www.rts.ch/play/radio/vacarme/audio/faut-il-craindre-les-ondes-electromagnetiques-25?id=7143885">Faut-il craindre les ondes électromagnétiques? (2/5)</episode>
+  </podcast>
+  <podcast>
+    <date>2015.11.02</date>
+    <name url="http://www.rts.ch/play/radio/emission/vacarme?id=4197904">Vacarme</name>
+    <episode url="http://www.rts.ch/play/radio/vacarme/audio/faut-il-craindre-les-ondes-electromagnetiques-15?id=7140805">Faut-il craindre les ondes électromagnétiques? (1/5)</episode>
+  </podcast>
+  <podcast>
+    <date>2015.12.02</date>
     <name>Alex &amp; Erik's Podcast</name>
     <episode number="16">The Facebook spouse (on the future of humanity)</episode>
   </podcast>
@@ -833,6 +868,11 @@
   </podcast>
   <podcast>
     <date>2015.09.17</date>
+    <name url="http://fourhourworkweek.com/podcast/">The Tim Ferriss Show</name>
+    <episode url="http://fourhourworkweek.com/2015/07/08/sam-harris-on-daily-routines-the-trolley-scenario-and-5-books-everyone-should-read/" number="87">Sam Harris on Daily Routines, The Trolley Scenario, and 5 Books Everyone Should Read</episode>
+  </podcast>
+  <podcast>
+    <date>2015.09.17</date>
     <name url="http://peachandblack.podbean.com/">Peach &amp; Black Podcast</name>
     <episode url="https://peachandblack.podbean.com/e/welcome-2-australia-tour-report/">Welcome 2 Australia Tour Report</episode>
   </podcast>
@@ -880,6 +920,11 @@
     <date>2015.08.28</date>
     <name url="http://peachandblack.podbean.com/">Peach &amp; Black Podcast</name>
     <episode url="https://peachandblack.podbean.com/e/montreux-2013-review-with-niki/">Montreux 2013 Review (with Niki)</episode>
+  </podcast>
+  <podcast>
+    <date>2015.08.25</date>
+    <name url="http://peachandblack.podbean.com/">Peach &amp; Black Podcast</name>
+    <episode url="http://peachandblack.podbean.com/e/july-2015-news-reviews/">July 2015 News &amp; (Re)views</episode>
   </podcast>
   <podcast>
     <date>2015.08.21</date>
@@ -1162,21 +1207,6 @@
 
   <!--
   <podcast>
-    <date>?</date>
-    <name url="http://peachandblack.podbean.com/">Peach &amp; Black Podcast</name>
-    <episode url="http://peachandblack.podbean.com/e/may-2014-news/">May 2014 News Episode</episode>
-  </podcast>
-  <podcast>
-    <date>?</date>
-    <name url="http://peachandblack.podbean.com/">Peach &amp; Black Podcast</name>
-    <episode url="http://peachandblack.podbean.com/e/july-2015-news-reviews/">Juky 2015 News &amp; (Re)views</episode>
-  </podcast>
-  <podcast>
-    <date>2015.??.??</date>
-    <name url="http://peachandblack.podbean.com/">Peach &amp; Black Podcast</name>
-    <episode url="https://peachandblack.podbean.com/e/talking-for-the-funk-of-it/">Talking For The Fun(k) Of It</episode>
-  </podcast>
-  <podcast>
     <date></date>
     <name url="http://peachandblack.podbean.com/">Peach &amp; Black Podcast</name>
     <episode url="http://peachandblack.podbean.com/e/the-shelbey-interview/">The Shelbey Interview</episode>
@@ -1193,7 +1223,3 @@
   </podcast>
   -->
 </podcasts>
-
-<!--
-2015(2)=OK("écout")
--->
