@@ -11,7 +11,7 @@ case class Fetch(fetchable: Fetchable) extends FetcherMessage
 class Fetcher(cache: ActorRef) extends Actor {
   def receive = {
     case Fetch(fetchable) =>
-      Logger.trace(s"Fetch(${fetchable.name})...")
+      Logger.debug(s"Fetch(${fetchable.name})...")
 
       fetch(fetchable)
   }

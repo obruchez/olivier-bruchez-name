@@ -27,7 +27,7 @@ class Cache extends Actor {
 
   def receive = {
     case GetCache(fetchable) =>
-      Logger.trace(s"GetCache(${fetchable.name})")
+      Logger.debug(s"GetCache(${fetchable.name})")
 
       cachedValues.get(fetchable) match {
         case Some(cachedValue) =>
@@ -37,14 +37,14 @@ class Cache extends Actor {
       }
 
     case SetCache(fetchable, cacheable) =>
-      Logger.trace(s"SetCache(${fetchable.name})")
+      Logger.debug(s"SetCache(${fetchable.name})")
 
       cachedValues(fetchable) = CachedValue(cacheable, cachingTime = new DateTime())
       subscribers(fetchable).foreach(_ ! CacheResult(fetchable, cacheable))
       subscribers(fetchable) = Seq()
 
     case GetCachingTime(fetchable) =>
-      Logger.trace(s"GetCachingTime(${fetchable.name})")
+      Logger.debug(s"GetCachingTime(${fetchable.name})")
 
       sender ! CachingTimeResult(fetchable, cachingTime = cachedValues.get(fetchable).map(_.cachingTime))
   }

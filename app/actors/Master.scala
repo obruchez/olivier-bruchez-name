@@ -16,7 +16,7 @@ class Master extends Actor {
 
   def receive = {
     case CheckCache(force, reschedule) =>
-      Logger.trace(s"Checking cache...")
+      Logger.debug(s"Checking cache...")
 
       // Retrieve caching times of all fetchables from Sitemap
       val sequenceOfFutures = Sitemap.fetchables.map(fetchable => Cache.cachingTime(fetchable).map(fetchable -> _))
@@ -37,7 +37,10 @@ class Master extends Actor {
       }
 
       if (reschedule) {
+        Logger.debug(s"Reschedule CheckCache")
         system.scheduler.scheduleOnce(Master.CheckPeriod, self, CheckCache)
+      } else {
+        Logger.debug(s"Do *not* reschedule CheckCache")
       }
   }
 }
