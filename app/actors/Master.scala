@@ -58,7 +58,7 @@ object Master {
   }
 
   def stop(): Unit = {
-    system.shutdown()
+    system.terminate()
   }
 
   def forceFetch(): Unit = {
