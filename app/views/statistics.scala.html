@@ -51,7 +51,46 @@
 }
 
 @main(Sitemap.statistics, scripts) {
-  <div class="headline"><h2>Books</h2></div>
+  @toc("Contents", "show", "hide") {
+    <ul class="list-unstyled">
+      <li>1 <a href="#books">Books</a>
+        <ul class="list-unstyled">
+          <li>1.1 <a href="#most-read-book-authors">Most read book authors</a></li>
+          <li>1.2 <a href="#book-ratings-distribution">Book ratings (distribution)</a></li>
+          <li>1.3 <a href="#book-ratings-evolution">Book ratings (evolution)</a></li>
+        </ul>
+      </li>
+      <li>2 <a href="#concerts">Concerts</a>
+        <ul class="list-unstyled">
+          <li>2.1 <a href="#most-seen-concert-artists">Most seen concert artists</a></li>
+          <li>2.2 <a href="#most-seen-concert-artists-main-musicians-only">Most seen concert artists (main musicians only)</a></li>
+          <li>2.3 <a href="#most-visited-concert-venues">Most visited concert venues</a></li>
+          <li>2.4 <a href="#concert-ratings-distribution">Concert ratings (distribution)</a></li>
+          <li>2.5 <a href="#concert-ratings-evolution">Concert ratings (evolution)</a></li>
+        </ul>
+      </li>
+      <li>3 <a href="#movies">Movies</a>
+        <ul class="list-unstyled">
+          <li>3.1 <a href="#most-seen-movies">Most seen movies</a></li>
+          <li>3.2 <a href="#most-seen-movie-directors">Most seen movie directors</a></li>
+          <li>3.3 <a href="#movie-ratings-distribution">Movie ratings (distribution)</a></li>
+          <li>3.4 <a href="#movie-ratings-evolution">Movie ratings (evolution)</a></li>
+        </ul>
+      </li>
+      <li>4 <a href="#plays">Plays</a>
+        <ul class="list-unstyled">
+          <li>4.1 <a href="#most-seen-play-authors">Most seen play authors</a></li>
+          <li>4.2 <a href="#most-seen-play-directors">Most seen play directors</a></li>
+          <li>4.3 <a href="#most-seen-play-actor">Most seen play actor</a></li>
+          <li>4.4 <a href="#most-visited-theatres">Most visited theatres</a></li>
+          <li>4.5 <a href="#play-ratings-distribution">Play ratings (distribution)</a></li>
+          <li>4.6 <a href="#play-ratings-evolution">Play ratings (evolution)</a></li>
+        </ul>
+      </li>
+    </ul>
+  }
+
+  <div class="headline"><a name="books"></a><h2>Books</h2></div>
 
   @pieChart(statistics.mostReadBookAuthors, "Author", "Most read book authors", threshold = 2)
 
@@ -59,7 +98,7 @@
 
   @ratingsEvolution(statistics.bookRatingsEvolution, "Book")
 
-  <div class="headline"><h2>Concerts</h2></div>
+  <div class="headline"><a name="concerts"></a><h2>Concerts</h2></div>
 
   @pieChart(statistics.mostSeenConcertArtists(mainMusiciansOnly = false), "Artist", "Most seen concert artists", threshold = 6)
 
@@ -77,7 +116,7 @@
 
   @ratingsEvolution(statistics.concertRatingsEvolution, "Concert")
 
-  <div class="headline"><h2>Movies</h2></div>
+  <div class="headline"><a name="movies"></a><h2>Movies</h2></div>
 
   @pieChart(statistics.mostSeenMovies, "Movie", "Most seen movies", threshold = 2)
 
@@ -87,7 +126,7 @@
 
   @ratingsEvolution(statistics.movieRatingsEvolution, "Movie")
 
-  <div class="headline"><h2>Plays</h2></div>
+  <div class="headline"><a name="plays"></a><h2>Plays</h2></div>
 
   @pieChart(statistics.mostSeenPlayAuthors, "Author", "Most seen play authors", threshold = 2)
 

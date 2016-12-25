@@ -1,0 +1,32 @@
+@(title: String, showText: String, hideText: String)(content: Html)
+
+<script>
+  $(document).ready(function() {
+    var link = $('a.toc-toggle-link');
+    link.click(function () {
+      var toc = $('#collapse-toc');
+      if (toc.is(":visible")) {
+        toc.slideUp('fast');
+        link.text('@showText');
+      } else {
+        toc.slideDown('fast');
+        link.text('@hideText');
+      }
+    });
+  });
+</script>
+
+<div class="panel-group acc-v1" id="accordion-1">
+  <div class="panel panel-default">
+    <div class="panel-heading toc-heading">
+      <h4 class="panel-title toc-title-and-toggle">
+        <span class="toc-title">@title</span><span class="toc-toggle">[<a class="toc-toggle-link" role="button">@showText</a>]</span>
+      </h4>
+    </div>
+    <div id="collapse-toc" class="panel-collapse collapse">
+      <div class="panel-body toc-panel">
+        @content
+      </div>
+    </div>
+  </div>
+</div>
