@@ -41,9 +41,9 @@ object Post {
 
     val out = doc.outerHtml
 
-    println("=" * 80)
-    println(out)
-    println("=" * 80)
+    //println("=" * 80)
+    //println(out)
+    //println("=" * 80)
 
     // @todo
     out
