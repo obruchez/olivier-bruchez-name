@@ -103,6 +103,12 @@
           <li>4.7 <a href="#play-counts">Play counts</a></li>
         </ul>
       </li>
+      <li>5 <a href="#podcasts">Podcasts</a>
+        <ul class="list-unstyled">
+          <li>5.1 <a href="#most-listened-to-podcasts">Most listened to podcasts</a></li>
+          <li>5.2 <a href="#podcast-counts">Podcast counts</a></li>
+        </ul>
+      </li>
     </ul>
   }
 
@@ -163,4 +169,10 @@
   @ratingsEvolution(statistics.playRatingsEvolution, "Play")
 
   @yearlyCounts(statistics.playYearlyCounts, "Play")
+
+  <div class="headline"><a name="podcasts"></a><h2>Podcasts</h2></div>
+
+  @pieChart(statistics.mostListenedToPodcasts, "Podcast", "Most listened to podcasts", threshold = 2)
+
+  @yearlyCounts(statistics.podcastYearlyCounts, "Podcast")
 }

@@ -13,7 +13,12 @@ object MinAvgMax {
     MinAvgMax(min = values.min, avg = values.sum / values.size.toDouble, max = values.max)
 }
 
-case class Statistics(books: Books, concerts: Concerts, exhibitions: Exhibitions, movies: Movies, plays: Plays) {
+case class Statistics(books: Books,
+                      concerts: Concerts,
+                      exhibitions: Exhibitions,
+                      movies: Movies,
+                      plays: Plays,
+                      podcasts: Podcasts) {
   def mostReadBookAuthors: Seq[(Int, String)] = {
     val authors = books.listItems.map(_.author)
     sortedValuesWithLabels(personsFromRawList(authors))
@@ -125,6 +130,14 @@ case class Statistics(books: Books, concerts: Concerts, exhibitions: Exhibitions
 
   def playYearlyCounts: Seq[(String, Int)] =
     yearlyCounts(plays.listItems)
+
+  def mostListenedToPodcasts: Seq[(Int, String)] = {
+    val podcastNames = podcasts.listItems.map(_.name)
+    sortedValuesWithLabels(podcastNames)
+  }
+
+  def podcastYearlyCounts: Seq[(String, Int)] =
+    yearlyCounts(podcasts.listItems)
 
   private def sortedValuesWithLabels(strings: Seq[String]): Seq[(Int, String)] =
     strings.groupBy(string => string).
