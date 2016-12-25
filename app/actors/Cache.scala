@@ -44,7 +44,7 @@ class Cache extends Actor {
       subscribers(fetchable) = Seq()
 
     case GetCachingTime(fetchable) =>
-      Logger.info(s"GetCachingTime(${fetchable.name})")
+      Logger.debug(s"GetCachingTime(${fetchable.name})")
 
       sender ! CachingTimeResult(fetchable, cachingTime = cachedValues.get(fetchable).map(_.cachingTime))
   }

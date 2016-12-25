@@ -37,10 +37,10 @@ class Master extends Actor {
       }
 
       if (reschedule) {
-        Logger.info(s"Reschedule CheckCache")
-        system.scheduler.scheduleOnce(Master.CheckPeriod, self, CheckCache)
+        Logger.info(s"Reschedule CheckCache (force = $force)")
+        system.scheduler.scheduleOnce(Master.CheckPeriod, self, CheckCache(force = force, reschedule = true))
       } else {
-        Logger.info(s"Do not reschedule CheckCache")
+        Logger.info(s"Do not reschedule CheckCache (force = $force)")
       }
   }
 }
