@@ -50,7 +50,7 @@ object Podcasts extends Fetchable {
 
   override val name = "Podcasts"
   override val sourceUrl = Configuration.baseUrlWithFile("podcasts.xml").get
-  override val icon = Some("fa-rss")
+  override val icon = Some("fa-podcast")
 
   override def fetch(): Try[Podcasts] = apply(sourceUrlWithNoCacheParameter)
 
