@@ -92,7 +92,7 @@ APP_DIR=/srv/olivier-bruchez-name
 # ***********************************************
 
 # Additional arguments to be passed to the Play application
-APP_ARGS="-Dhttp.port=${PORT} -Dconfig.file=/srv/olivier-bruchez-name.conf"
+APP_ARGS="-Dhttp.port=${PORT} -Dconfig.file=/srv/olivier-bruchez-name.conf -Dlogger.file=/srv/olivier-bruchez-name.logger.xml"
 
 # Path to the RUNNING_PID file containing process ID
 PID_FILE=$APP_DIR/RUNNING_PID
