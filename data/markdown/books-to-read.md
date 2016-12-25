@@ -99,7 +99,6 @@ Pretty much everything from [Les cent livres du siècle](https://fr.wikipedia.or
 * René Barjavel, ["Le Grand Secret"](https://fr.wikipedia.org/wiki/Le_Grand_Secret_%28roman%29) (recommended by [@behaghel](https://twitter.com/behaghel))
 * René Barjavel, ["Ravage"](https://fr.wikipedia.org/wiki/Ravage_%28roman%29) (recommended by [@behaghel](https://twitter.com/behaghel))
 * Emily Brontë, ["Wuthering Heights"](https://en.wikipedia.org/wiki/Wuthering_Heights)
-* Arthur C. Clarke, ["Childhood's End"](https://en.wikipedia.org/wiki/Childhood%27s_End)
 * S. Corinna Bille, ["La Fraise Noire"](https://encrypted.google.com/books/about/La_fraise_noire.html?id=0EUVAAAAMAAJ) (read a long time ago?)
 * Douglas Coupland, ["Microserfs"](https://en.wikipedia.org/wiki/Microserfs)
 * Roald Dahl, short stories not included in ["The Collected Short Stories of Roald Dahl"](https://en.wikipedia.org/wiki/The_Collected_Short_Stories_of_Roald_Dahl)
