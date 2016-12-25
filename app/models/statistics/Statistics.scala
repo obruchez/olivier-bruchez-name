@@ -1,8 +1,10 @@
 package models.statistics
 
+import models.ListItem
 import models.lifelogging._
 import org.joda.time.{DateTimeFieldType, Partial}
 import scala.util.Try
+import util.Date._
 
 case class MinAvgMax(min: Double, avg: Double, max: Double)
 
@@ -22,6 +24,9 @@ case class Statistics(books: Books, concerts: Concerts, exhibitions: Exhibitions
 
   def bookRatingsEvolution: Seq[(String, MinAvgMax)] =
     ratingsEvolution(books.listItems.flatMap(i => i.rating.map(r => (i.date, r))))
+
+  def bookYearlyCounts: Seq[(String, Int)] =
+    yearlyCounts(books.listItems)
 
   def mostSeenConcertArtists(mainMusiciansOnly: Boolean): Seq[(Int, String)] = {
     val artists =
@@ -70,6 +75,9 @@ case class Statistics(books: Books, concerts: Concerts, exhibitions: Exhibitions
   def concertRatingsEvolution: Seq[(String, MinAvgMax)] =
      ratingsEvolution(concerts.listItems.flatMap(i => i.rating.map(r => (i.date, r))))
 
+  def concertYearlyCounts: Seq[(String, Int)] =
+    yearlyCounts(concerts.listItems)
+
   def mostSeenMovieDirectors: Seq[(Int, String)] = {
     val directors = movies.listItems.map(_.director)
     sortedValuesWithLabels(personsFromRawList(directors))
@@ -85,6 +93,9 @@ case class Statistics(books: Books, concerts: Concerts, exhibitions: Exhibitions
 
   def movieRatingsEvolution: Seq[(String, MinAvgMax)] =
     ratingsEvolution(movies.listItems.flatMap(i => i.rating.map(r => (i.date, r))))
+
+  def movieYearlyCounts: Seq[(String, Int)] =
+    yearlyCounts(movies.listItems)
 
   def mostSeenPlayAuthors: Seq[(Int, String)] = {
     val authors = plays.listItems.map(_.author)
@@ -112,6 +123,9 @@ case class Statistics(books: Books, concerts: Concerts, exhibitions: Exhibitions
   def playRatingsEvolution: Seq[(String, MinAvgMax)] =
     ratingsEvolution(plays.listItems.flatMap(i => i.rating.map(r => (i.date, r))))
 
+  def playYearlyCounts: Seq[(String, Int)] =
+    yearlyCounts(plays.listItems)
+
   private def sortedValuesWithLabels(strings: Seq[String]): Seq[(Int, String)] =
     strings.groupBy(string => string).
       toSeq.
@@ -136,4 +150,14 @@ case class Statistics(books: Books, concerts: Concerts, exhibitions: Exhibitions
       year <- yearOption
       minAvgMax = MinAvgMax(datesAndRatings.map(_._2))
     } yield (year.toString, minAvgMax)
+
+  protected def yearlyCounts(listItems: Seq[ListItem]): Seq[(String, Int)] = {
+    val yearsAndCounts =
+      for {
+        (yearOption, items) <- listItems.groupBy(li => li.date.year).toSeq
+        year <- yearOption
+      } yield (year, items.size)
+
+    yearsAndCounts.sortBy(_._1).map { case (year, count) => (year.toString, count) }
+  }
 }

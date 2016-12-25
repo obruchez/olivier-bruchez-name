@@ -50,6 +50,18 @@
   }
 }
 
+@yearlyCounts(counts: Seq[(String, Int)], entity: String) = {
+@{
+  val lineChart = BarOrLineChart(
+    baseId = s"${entity.toLowerCase}-counts",
+    title = s"$entity counts",
+    labels = counts.map(_._1),
+    valueSets = Seq(BarOrLineChartValueSet(values = counts.map(_._2.toDouble), label = "Count", color = Color.Red)))
+
+  views.html.linechartsection(lineChart)
+}
+}
+
 @main(Sitemap.statistics, scripts) {
   @toc("Contents", "show", "hide") {
     <ul class="list-unstyled">
@@ -58,6 +70,7 @@
           <li>1.1 <a href="#most-read-book-authors">Most read book authors</a></li>
           <li>1.2 <a href="#book-ratings-distribution">Book ratings (distribution)</a></li>
           <li>1.3 <a href="#book-ratings-evolution">Book ratings (evolution)</a></li>
+          <li>1.4 <a href="#book-counts">Book counts</a></li>
         </ul>
       </li>
       <li>2 <a href="#concerts">Concerts</a>
@@ -67,6 +80,7 @@
           <li>2.3 <a href="#most-visited-concert-venues">Most visited concert venues</a></li>
           <li>2.4 <a href="#concert-ratings-distribution">Concert ratings (distribution)</a></li>
           <li>2.5 <a href="#concert-ratings-evolution">Concert ratings (evolution)</a></li>
+          <li>2.6 <a href="#concert-counts">Concert counts</a></li>
         </ul>
       </li>
       <li>3 <a href="#movies">Movies</a>
@@ -75,6 +89,7 @@
           <li>3.2 <a href="#most-seen-movie-directors">Most seen movie directors</a></li>
           <li>3.3 <a href="#movie-ratings-distribution">Movie ratings (distribution)</a></li>
           <li>3.4 <a href="#movie-ratings-evolution">Movie ratings (evolution)</a></li>
+          <li>3.5 <a href="#movie-counts">Movie counts</a></li>
         </ul>
       </li>
       <li>4 <a href="#plays">Plays</a>
@@ -85,6 +100,7 @@
           <li>4.4 <a href="#most-visited-theatres">Most visited theatres</a></li>
           <li>4.5 <a href="#play-ratings-distribution">Play ratings (distribution)</a></li>
           <li>4.6 <a href="#play-ratings-evolution">Play ratings (evolution)</a></li>
+          <li>4.7 <a href="#play-counts">Play counts</a></li>
         </ul>
       </li>
     </ul>
@@ -97,6 +113,8 @@
   @ratingsDistribution(statistics.bookRatingsDistribution, "Book")
 
   @ratingsEvolution(statistics.bookRatingsEvolution, "Book")
+
+  @yearlyCounts(statistics.bookYearlyCounts, "Book")
 
   <div class="headline"><a name="concerts"></a><h2>Concerts</h2></div>
 
@@ -116,6 +134,8 @@
 
   @ratingsEvolution(statistics.concertRatingsEvolution, "Concert")
 
+  @yearlyCounts(statistics.concertYearlyCounts, "Concert")
+
   <div class="headline"><a name="movies"></a><h2>Movies</h2></div>
 
   @pieChart(statistics.mostSeenMovies, "Movie", "Most seen movies", threshold = 2)
@@ -125,6 +145,8 @@
   @ratingsDistribution(statistics.movieRatingsDistribution, "Movie")
 
   @ratingsEvolution(statistics.movieRatingsEvolution, "Movie")
+
+  @yearlyCounts(statistics.movieYearlyCounts, "Movie")
 
   <div class="headline"><a name="plays"></a><h2>Plays</h2></div>
 
@@ -139,4 +161,6 @@
   @ratingsDistribution(statistics.playRatingsDistribution, "Play")
 
   @ratingsEvolution(statistics.playRatingsEvolution, "Play")
+
+  @yearlyCounts(statistics.playYearlyCounts, "Play")
 }
