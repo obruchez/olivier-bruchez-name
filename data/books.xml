@@ -3,11 +3,22 @@
     <introduction>A list of books I read.</introduction>
     <book>
         <date></date>
+        <title>The Subtle Art of Not Giving a F*ck</title>
+        <subtitle>A Counterintuitive Approach to Living a Good Life</subtitle>
+        <author>Mark Manson</author>
+        <publishingyear>2016</publishingyear>
+        <rating></rating>
+        <url>https://books.google.com/books?id=yng_CwAAQBAJ</url>
+        <!-- <notes description="Kindle highlights"></notes> -->
+        <image>The Subtle Art of Not Giving a Fuck.jpg</image>
+    </book>
+    <book>
+        <date>2017.01.01</date>
         <title>Disparaître de soi</title>
         <subtitle>Une tentation contemporaine</subtitle>
         <author>David Le Breton</author>
         <publishingyear>2015</publishingyear>
-        <rating></rating>
+        <rating>3.5</rating>
         <url>https://books.google.com/books?id=QVhFBgAAQBAJ</url>
         <!-- <notes description="Kindle highlights"></notes> -->
         <image>Disparaître de soi.jpg</image>
