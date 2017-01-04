@@ -2,6 +2,15 @@
 <movies>
   <introduction>A list of movies I saw.</introduction>
   <movie>
+    <date>2017.01.03</date>
+    <theater>CineStar Original und IMAX, Berlin</theater>
+    <director>Gareth Edwards</director>
+    <title>Rogue One</title>
+    <url>http://www.imdb.com/title/tt3748528/</url>
+    <rating>5.0</rating>
+    <image>Rogue One.jpg</image>
+  </movie>
+  <movie>
     <date>2016.12.18</date>
     <theater>Galeries, Lausanne</theater>
     <director>Denis Villeneuve</director>
