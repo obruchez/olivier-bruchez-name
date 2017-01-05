@@ -2,6 +2,44 @@
 <exhibitions>
     <introduction>A list of exhibitions I visited.</introduction>
     <exhibition>
+        <date>2017.01.03</date>
+        <name>Hieronymus Bosch and His Pictorial World in the 16th and 17th century / Permanent exhibition</name>
+        <museum>Gemäldegalerie, Berlin, Germany</museum>
+        <rating></rating>
+        <image>Hieronymus Bosch and His Pictorial World in the 16th and 17th century.png</image>
+    </exhibition>
+    <exhibition>
+        <date>2017.01.02</date>
+        <name>The Heritage of the Old Kings. Ctesiphon and the Persian Sources of Islamic Art / Permanent exhibition</name>
+        <museum>Pergamonmuseum, Berlin, Germany</museum>
+        <rating></rating>
+        <image>The Heritage of the Old Kings.jpg</image>
+    </exhibition>
+    <exhibition>
+        <date>2017.01.01</date>
+        <name>All about GOLEM! / Eran Shakine. A Muslim, a Christian and a Jew / Permanent exhibition</name>
+        <museum>Jewish Museum, Berlin, Germany</museum>
+        <rating></rating>
+        <image>All about GOLEM!.jpg</image>
+        <image>Eran Shakine. A Muslim, a Christian and a Jew.jpg</image>
+    </exhibition>
+    <exhibition>
+        <date>2016.12.30</date>
+        <name>Permanent exhibition / Things to Come</name>
+        <museum>Museum für Film und Fernsehen, Berlin, Germany</museum>
+        <rating></rating>
+        <image>Things to Come.png</image>
+    </exhibition>
+    <exhibition>
+        <date>2016.12.30</date>
+        <name>Gülsün Karamustafa. Chronographia / Ernst Ludwig Kirchner: Hieroglyphics / The Collections</name>
+        <museum>Hamburger Bahnhof, Berlin, Germany</museum>
+        <rating></rating>
+        <image>Gülsün Karamustafa. Chronographia.jpg</image>
+        <image>Ernst Ludwig Kirchner - Hieroglyphics.jpg</image>
+        <image>Hamburger Bahnhof - The Collections.jpg</image>
+    </exhibition>
+    <exhibition>
         <date>2016.11.12</date>
         <name>Picasso - L’œuvre ultime - Hommage à Jacqueline</name>
         <museum>Fondation Pierre Gianadda, Martigny, Switzerland</museum>
