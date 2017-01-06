@@ -2,8 +2,13 @@
 <shows>
   <introduction>A list of TV shows I saw.</introduction>
   <show>
+    <date>2017.01.06</date>
+    <name url="https://en.wikipedia.org/wiki/The_Crazy_Ones">The Crazy Ones</name>
+    <series url="https://en.wikipedia.org/wiki/The_Crazy_Ones#Episodes" type="season">1</series>
+  </show>
+  <show>
     <date>2017.01.04</date>
-    <name url="https://en.wikipedia.org/wiki/Modern_Family">Modern Famiky</name>
+    <name url="https://en.wikipedia.org/wiki/Modern_Family">Modern Family</name>
     <series url="https://en.wikipedia.org/wiki/Modern_Family#Season_1" type="season">1</series>
   </show>
   <show>
