@@ -2,6 +2,11 @@
 <podcasts>
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date>2017.01.10</date>
+    <name url="http://peachandblack.podbean.com/">Peach &amp; Black Podcast</name>
+    <episode url="http://peachandblack.podbean.com/e/2016-epilogue/">2016 - Epilogue</episode>
+  </podcast>
+  <podcast>
     <date>2016.12.23</date>
     <name url="http://www.stitcher.com/podcast/the-dr-funk-podcast">The Dr Funk Podcast</name>
     <episode url="http://www.stitcher.com/podcast/the-dr-funk-podcast/e/episode-31-48345176" number="31">Episode 31</episode>
