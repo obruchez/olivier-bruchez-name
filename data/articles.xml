@@ -2,9 +2,14 @@
 <articles>
   <introduction>A list of articles I read.</introduction>
   <article>
+    <date>2017.01.13</date>
+    <title url="http://www.economist.com/news/science-and-technology/21714326-tale-scientific-serendipity-new-star-should-appear-2022">A "new" star should appear in 2022</title>
+    <subtitle>A tale of scientific serendipity</subtitle>
+  </article>
+  <article>
     <date>2017.01.12</date>
     <title url="http://www.vox.com/2016/7/12/12148938/friendship-adult-challenges-solutions">How to Convince Someone When Facts Fail</title>
-	<subtitle>Why worldview threats undermine evidence</subtitle>
+	  <subtitle>Why worldview threats undermine evidence</subtitle>
   </article>
   <article>
     <date>2017.01.09</date>
