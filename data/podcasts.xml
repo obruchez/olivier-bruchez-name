@@ -2,6 +2,11 @@
 <podcasts>
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date>2017.01.13</date>
+    <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
+    <episode url="https://www.samharris.org/podcast/item/the-putin-question" number="58">The Putin Question - A Conversation with Garry Kasparov</episode>
+  </podcast>
+  <podcast>
     <date>2017.01.10</date>
     <name url="http://peachandblack.podbean.com/">Peach &amp; Black Podcast</name>
     <episode url="http://peachandblack.podbean.com/e/2016-epilogue/">2016 - Epilogue</episode>
