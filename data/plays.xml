@@ -9,6 +9,27 @@
     <actor></actor>
   -->
   <play>
+    <date>2017.01.13</date>
+    <location>Pulloff Théâtres, Lausanne, Switzerland</location>
+    <name>L'enculé au chapeau</name>
+    <author>Stephen Adly Guirgis</author>
+    <translation>Antoinette Monod</translation>
+    <director>Geoffrey Dyson</director>
+    <actor>Caroline Althaus</actor>
+    <actor>Fanny Pelichet</actor>
+    <actor>David Marchetto</actor>
+    <actor>Edmond Vullioud</actor>
+    <actor>Matthieu Sesseli</actor>
+    <!--
+    scénographie Kym Staiff
+    création lumières Jean-Pierre Potvliege
+    costumes Berivan Meyer
+    relations publiques Pierre Lang 
+    -->
+    <rating>4.25</rating>
+    <image>L'enculé au chapeau.jpg</image>
+  </play>
+  <play>
     <date>2016.12.01</date>
     <location>Pulloff Théâtres, Lausanne, Switzerland</location>
     <name>Une femme à Berlin</name>
