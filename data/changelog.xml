@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <changelog>
     <change>
+        <date>2016-12-25</date>
+        <description>Added table of contents, yearly counts, and podcasts (statistics).</description>
+    </change>
+    <change>
+        <date>2016-12-23</date>
+        <description>Added podcasts.</description>
+    </change>
+    <change>
         <date>2016-03-12</date>
         <description>Added ratings distribution and evolution charts (statistics).</description>
     </change>
@@ -15,10 +23,6 @@
     <change>
         <date>2016-02-12</date>
         <description>Added header image.</description>
-    </change>
-    <change>
-        <date>2016-02-07</date>
-        <description>Upgraded to Unify 1.9.1.</description>
     </change>
     <change>
         <date>2016-01-31</date>
