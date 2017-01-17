@@ -203,6 +203,7 @@ Pretty much everything from [Les cent livres du siècle](https://fr.wikipedia.or
 * Brian Christian, ["The Most Human Human: What Talking with Computers Teaches Us About What It Means to Be Alive"](http://www.amazon.com/The-Most-Human-Talking-Computers-ebook/dp/B004FEG2S6)
 * Paul Davies, ["The Mind Of God"](https://en.wikipedia.org/wiki/The_Mind_of_God)
 * Daniel Dennett, ["Freedom Evolves"](https://en.wikipedia.org/wiki/Freedom_Evolves) (and others) (but I really don't agree with him on free will!)
+* Denis Diderot, ["Jacques le fataliste et son maître"](https://fr.wikipedia.org/wiki/Jacques_le_fataliste_et_son_ma%C3%AEtre) (recommended by [@verybadwizards](https://twitter.com/verybadwizards))
 * Will Durant, ["The Story of Philosophy: The Lives and Opinions of the World's Greatest Philosophers"](http://www.amazon.com/The-Story-Philosophy-Opinions-Philosophers/dp/0671739166)
 * Michael S. A. Graziano, ["Consciousness and the Social Brain"](http://www.amazon.com/Consciousness-Social-Brain-Michael-Graziano/dp/0199928649) (summarized by [@SelfAwarePatter](https://twitter.com/SelfAwarePatter) on [his blog](http://selfawarepatterns.com/2013/12/30/consciousness-and-the-social-brain-a-review/))
 * Bruce Hood, ["The Self Illusion: How the Social Brain Creates Identity"](http://www.amazon.com/The-Self-Illusion-Creates-Identity/dp/0199988781) (interviewed by [@SamHarrisOrg](https://twitter.com/SamHarrisOrg))
@@ -248,6 +249,7 @@ Pretty much everything from [Les cent livres du siècle](https://fr.wikipedia.or
 
 * Eric B. Baum, ["What Is Thought?"](http://www.amazon.com/exec/obidos/tg/detail/-/0262025485/) (recommended by [@r3mix](https://twitter.com/r3mix))
 * Susan Cain, ["Quiet: The Power of Introverts in a World That Can't Stop Talking"](http://www.amazon.com/Quiet-Power-Introverts-World-Talking-ebook/dp/B0074YVW1G/)
+* Robert H. Frank, ["Passions Within Reason: The Strategic Role of the Emotions"](https://www.amazon.com/gp/product/0393960226/) (recommended by [@verybadwizards](https://twitter.com/verybadwizards), not available as e-book as of Jan. 2017)
 * Winifred Gallagher, ["Rapt: Attention and the Focused Life"](http://www.amazon.com/Rapt-Attention-Focused-Winifred-Gallagher/dp/0143116908)
 * Daniel Goleman, ["Emotional Intelligence: 10th Anniversary Edition; Why It Can Matter More Than IQ"](http://www.amazon.com/Emotional-Intelligence-Matter-More-Than/dp/055338371X)
 * Jonathan Haidt, ["The Happiness Hypothesis: Putting Ancient Wisdom to the Test of Modern Science"](http://www.amazon.com/Happiness-Hypothesis-Putting-Ancient-Science-ebook/dp/B00YY05O7G/) (had a really good discussion with [@SamHarrisOrg](https://twitter.com/SamHarrisOrg) on his podcast)
