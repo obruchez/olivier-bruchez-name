@@ -2,6 +2,10 @@
 <articles>
   <introduction>A list of articles I read.</introduction>
   <article>
+    <date>2017.01.18</date>
+    <title url="http://maciejjaskowski.github.io/2016/03/09/space-invaders.html">Deep Q-Learning (Space Invaders)</title>
+  </article>
+  <article>
     <date>2017.01.16</date>
     <title url="http://www.economist.com/news/business-and-finance/21711846-vacuum-packs-mean-meat-can-stay-shelves-between-five-and-eight-days-food-packaging">Food packaging is not the enemy of the environment that it is assumed to be</title>
     <subtitle>Vacuum packs mean meat can stay on shelves for between five and eight days</subtitle>
