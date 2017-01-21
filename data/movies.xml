@@ -2,6 +2,15 @@
 <movies>
   <introduction>A list of movies I saw.</introduction>
   <movie>
+    <date>2017.01.21</date>
+    <theater>Galeries, Lausanne</theater>
+    <director>Tom Ford</director>
+    <title>Nocturnal Animals</title>
+    <url>http://www.imdb.com/title/tt4550098/</url>
+    <rating>4.75</rating>
+    <image>Nocturnal Animals.jpg</image>
+  </movie>
+  <movie>
     <date>2017.01.03</date>
     <theater>CineStar Original und IMAX, Berlin</theater>
     <director>Gareth Edwards</director>
