@@ -9,6 +9,46 @@
     <actor></actor>
   -->
   <play>
+    <date>2017.05.19</date>
+    <location>Pulloff Théâtres, Lausanne, Switzerland</location>
+    <name>A number</name>
+    <author>Caryl Churchill</author>
+    <director>Geoffrey Dyson &amp; James Spencer</director>
+    <actor>Geoffrey Dyson</actor>
+    <actor>James Spencer</actor>
+    <rating></rating>
+    <image>A number.jpg</image>
+  </play>
+  <play>
+    <date>2017.02.24</date>
+    <location>Pulloff Théâtres, Lausanne, Switzerland</location>
+    <name>On purge bébé</name>
+    <author>Georges Feydeau</author>
+    <director>Jean-Gabriel Chobaz</director>
+    <actor>Claudine Berthet</actor>
+    <actor>Raphaël Bilbeny</actor>
+    <actor>Anne Comte</actor>
+    <actor>Michèle Grand</actor>
+    <actor>Frank Michaux</actor>
+    <actor>Jean-Marc Morel</actor>
+    <actor>Stéphane Rentznik</actor>
+    <!--
+    collaboration artistique Stéphane Rentznik
+    création lumières et
+    construction décor Jean-Denis Gagnebin
+    costumes Scilla Ilardo
+    adaptation des musiques
+    et coach vocal Timothée Haller
+    perruques et accessoiriste Antoinette Baira
+    maquillages Nathalie Mouchnino
+    ingénieur du son Willy Heger
+    technique lumière Patrick Guex
+    relations publiques Pierrette Peter
+    -->
+    <rating></rating>
+    <image>On purge bébé.jpg</image>
+  </play>
+  <play>
     <date>2017.01.13</date>
     <location>Pulloff Théâtres, Lausanne, Switzerland</location>
     <name>L'enculé au chapeau</name>
