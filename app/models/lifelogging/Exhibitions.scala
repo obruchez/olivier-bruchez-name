@@ -14,10 +14,12 @@ case class Exhibition(override val date: Partial,
                       rating: Option[Double],
                       comments: Option[HtmlContent],
                       override val itemSlug: Option[String] = None,
-                      override val itemUrl: Option[String] = None)
+                      override val itemUrl: Option[String] = None,
+                      override val next: Boolean = false)
     extends ListItem(date, HtmlContent.fromNonHtmlString(s"$museum - $name"), itemSlug, itemUrl) {
   type T = Exhibition
 
+  override def withNext(next: Boolean): Exhibition = copy(next = next)
   override def withSlug(slug: Option[String]): Exhibition = copy(itemSlug = slug)
   override def withUrl(url: Option[String]): Exhibition = copy(itemUrl = url)
 }
@@ -55,6 +57,6 @@ object Exhibitions extends Fetchable {
     val introduction = Parsing.introductionFromNode(exhibitionsNode).get
     val exhibitionsSeq = (exhibitionsNode \\ "exhibition").map(Exhibition(_).get)
 
-    Exhibitions(introduction, exhibitionsSeq.withSlugs)
+    Exhibitions(introduction, exhibitionsSeq.withSlugs.withNextFlags)
   }
 }

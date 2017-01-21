@@ -19,10 +19,12 @@ case class Play(override val date: Partial,
                 rating: Option[Double],
                 comments: Option[HtmlContent],
                 override val itemSlug: Option[String] = None,
-                override val itemUrl: Option[String] = None)
+                override val itemUrl: Option[String] = None,
+                override val next: Boolean = false)
     extends ListItem(date, HtmlContent.fromNonHtmlString(s"$name - $location"), itemSlug, itemUrl) {
   type T = Play
 
+  override def withNext(next: Boolean): Play = copy(next = next)
   override def withSlug(slug: Option[String]): Play = copy(itemSlug = slug)
   override def withUrl(url: Option[String]): Play = copy(itemUrl = url)
 }
@@ -65,6 +67,6 @@ object Plays extends Fetchable {
     val introduction = Parsing.introductionFromNode(playsNode).get
     val playsSeq = (playsNode \\ "play").map(Play(_).get)
 
-    Plays(introduction, playsSeq.withSlugs)
+    Plays(introduction, playsSeq.withSlugs.withNextFlags)
   }
 }

@@ -13,7 +13,8 @@ case class Trip(from: Partial,
                 place: String,
                 pictures: Seq[Pictures],
                 override val itemSlug: Option[String] = None,
-                override val itemUrl: Option[String] = None)
+                override val itemUrl: Option[String] = None,
+                override val next: Boolean = false)
     extends ListItem(
       date = from,
       HtmlContent.fromNonHtmlString(s"${Date.intervalEnglishString(from, to)}: $place"),
@@ -21,6 +22,7 @@ case class Trip(from: Partial,
       itemUrl) {
   type T = Trip
 
+  override def withNext(next: Boolean): Trip = copy(next = next)
   override def withSlug(slug: Option[String]): Trip = copy(itemSlug = slug)
   override def withUrl(url: Option[String]): Trip = copy(itemUrl = url)
 }
@@ -57,6 +59,6 @@ object Trips extends Fetchable {
     val introduction = Parsing.introductionFromNode(tripsNode).get
     val tripsSeq = (tripsNode \\ "trip").map(Trip(_).get)
 
-    Trips(introduction, tripsSeq.withSlugs)
+    Trips(introduction, tripsSeq.withSlugs.withNextFlags)
   }
 }

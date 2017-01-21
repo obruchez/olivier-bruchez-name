@@ -39,5 +39,8 @@ object Date {
 
     def emptyDate: Boolean =
       readablePartial.size() == 0
+
+    def futureDate: Boolean =
+      false // @todo
   }
 }

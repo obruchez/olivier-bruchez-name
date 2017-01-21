@@ -47,7 +47,8 @@ case class Concert(override val date: Partial,
                    rating: Option[Double],
                    comments: Option[HtmlContent],
                    override val itemSlug: Option[String] = None,
-                   override val itemUrl: Option[String] = None)
+                   override val itemUrl: Option[String] = None,
+                   override val next: Boolean = false)
     extends ListItem(
       date,
       HtmlContent.fromNonHtmlString(s"${Musician.musiciansSummary(band, musicians, event)} - $location"),
@@ -55,6 +56,7 @@ case class Concert(override val date: Partial,
       itemUrl) {
   type T = Concert
 
+  override def withNext(next: Boolean): Concert = copy(next = next)
   override def withSlug(slug: Option[String]): Concert = copy(itemSlug = slug)
   override def withUrl(url: Option[String]): Concert = copy(itemUrl = url)
 }
@@ -97,7 +99,7 @@ object Concerts extends Fetchable {
     val introduction = Parsing.introductionFromNode(concertsNode).get
     val concertsSeq = (concertsNode \\ "concert").map(Concert(_).get)
 
-    Concerts(introduction, concertsSeq.withSlugs)
+    Concerts(introduction, concertsSeq.withSlugs.withNextFlags)
   }
 
   def commaOrAnd(index: Int, totalCount: Int): String =

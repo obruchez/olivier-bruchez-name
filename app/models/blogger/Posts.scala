@@ -13,10 +13,12 @@ case class Post(override val date: ReadablePartial,
                 content: HtmlContent,
                 relativePermalink: String,
                 override val itemSlug: Option[String] = None,
-                override val itemUrl: Option[String] = None)
+                override val itemUrl: Option[String] = None,
+                override val next: Boolean = false)
     extends ListItem(date, HtmlContent.fromNonHtmlString(title), itemSlug, itemUrl) {
   type T = Post
 
+  override def withNext(next: Boolean): Post = copy(next = next)
   override def withSlug(slug: Option[String]): Post = copy(itemSlug = slug)
   override def withUrl(url: Option[String]): Post = copy(itemUrl = url)
 }

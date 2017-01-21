@@ -24,10 +24,12 @@ case class Movie(override val date: Partial,
                  comments: Option[HtmlContent],
                  url: Option[URL],
                  override val itemSlug: Option[String] = None,
-                 override val itemUrl: Option[String] = None)
+                 override val itemUrl: Option[String] = None,
+                 override val next: Boolean = false)
     extends ListItem(date, HtmlContent.fromNonHtmlString(s"$director - $title"), itemSlug, itemUrl) {
   type T = Movie
 
+  override def withNext(next: Boolean): Movie = copy(next = next)
   override def withSlug(slug: Option[String]): Movie = copy(itemSlug = slug)
   override def withUrl(url: Option[String]): Movie = copy(itemUrl = url)
 }
@@ -82,6 +84,6 @@ object Movies extends Fetchable {
     val introduction = Parsing.introductionFromNode(moviesNode).get
     val moviesSeq = (moviesNode \\ "movie").map(Movie(_).get)
 
-    Movies(introduction, moviesSeq.withSlugs)
+    Movies(introduction, moviesSeq.withSlugs.withNextFlags)
   }
 }

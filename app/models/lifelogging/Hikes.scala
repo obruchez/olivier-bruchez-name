@@ -12,10 +12,12 @@ case class Hike(override val date: Partial,
                 place: String,
                 pictures: Seq[Pictures],
                 override val itemSlug: Option[String] = None,
-                override val itemUrl: Option[String] = None)
+                override val itemUrl: Option[String] = None,
+                override val next: Boolean = false)
     extends ListItem(date, HtmlContent.fromNonHtmlString(s"$place"), itemSlug, itemUrl) {
   type T = Hike
 
+  override def withNext(next: Boolean): Hike = copy(next = next)
   override def withSlug(slug: Option[String]): Hike = copy(itemSlug = slug)
   override def withUrl(url: Option[String]): Hike = copy(itemUrl = url)
 }
@@ -51,6 +53,6 @@ object Hikes extends Fetchable {
     val introduction = Parsing.introductionFromNode(hikesNode).get
     val hikesSeq = (hikesNode \\ "hike").map(Hike(_).get)
 
-    Hikes(introduction, hikesSeq.withSlugs)
+    Hikes(introduction, hikesSeq.withSlugs.withNextFlags)
   }
 }

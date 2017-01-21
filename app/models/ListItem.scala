@@ -13,6 +13,7 @@ abstract class ListItem(val date: ReadablePartial,
 
   def noDate: Boolean = date.emptyDate
 
+  def withNext(next: Boolean): T
   def withSlug(slug: Option[String]): T
   def withUrl(url: Option[String]): T
 }
@@ -40,6 +41,15 @@ case class ListItems(listItems: Seq[ListItem], fetchable: Fetchable) {
 
 object ListItems {
   implicit class ListItemsOps[L <: ListItem](listItems: Seq[L]) {
+    def withNextFlags: Seq[L#T] = {
+      val headItemWithNoDateCount = listItems.takeWhile(li => li.date.emptyDate || li.date.futureDate).size
+
+      for {
+        (listItem, index) <- listItems.zipWithIndex
+        next = index < headItemWithNoDateCount
+      } yield listItem.withNext(next = next)
+    }
+
     def withSlugs: Seq[L#T] = for {
       listItem <- listItems
       slug = ListItem.slug(listItem, listItems)

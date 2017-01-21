@@ -13,10 +13,12 @@ case class Crash(override val date: Partial,
                  model: String,
                  comments: Option[HtmlContent],
                  override val itemSlug: Option[String] = None,
-                 override val itemUrl: Option[String] = None)
+                 override val itemUrl: Option[String] = None,
+                 override val next: Boolean = false)
     extends ListItem(date, HtmlContent.fromNonHtmlString(s"$manufacturer - $model"), itemSlug, itemUrl) {
   type T = Crash
 
+  override def withNext(next: Boolean): Crash = copy(next = next)
   override def withSlug(slug: Option[String]): Crash = copy(itemSlug = slug)
   override def withUrl(url: Option[String]): Crash = copy(itemUrl = url)
 }
@@ -53,6 +55,6 @@ object Crashes extends Fetchable {
     val introduction = Parsing.introductionFromNode(crashesNode).get
     val crashesSeq = (crashesNode \\ "crash").map(Crash(_).get)
 
-    Crashes(introduction, crashesSeq.withSlugs)
+    Crashes(introduction, crashesSeq.withSlugs.withNextFlags)
   }
 }

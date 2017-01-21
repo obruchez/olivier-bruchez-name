@@ -12,10 +12,12 @@ case class WorldviewPosition(summary: HtmlContent,
                              details: HtmlContent,
                              dateAdded: Partial,
                              override val itemSlug: Option[String] = None,
-                             override val itemUrl: Option[String] = None)
+                             override val itemUrl: Option[String] = None,
+                             override val next: Boolean = false)
     extends ListItem(dateAdded, summary, itemSlug, itemUrl) {
   type T = WorldviewPosition
 
+  override def withNext(next: Boolean): WorldviewPosition = copy(next = next)
   override def withSlug(slug: Option[String]): WorldviewPosition = copy(itemSlug = slug)
   override def withUrl(url: Option[String]): WorldviewPosition = copy(itemUrl = url)
 }

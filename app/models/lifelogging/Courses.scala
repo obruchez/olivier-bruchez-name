@@ -33,10 +33,12 @@ case class Course(override val date: Partial,
                   url: URL,
                   certificate: Option[CourseCertificate],
                   override val itemSlug: Option[String] = None,
-                  override val itemUrl: Option[String] = None)
+                  override val itemUrl: Option[String] = None,
+                  override val next: Boolean = false)
     extends ListItem(date, HtmlContent.fromNonHtmlString(s"$name"), itemSlug, itemUrl) {
   type T = Course
 
+  override def withNext(next: Boolean): Course = copy(next = next)
   override def withSlug(slug: Option[String]): Course = copy(itemSlug = slug)
   override def withUrl(url: Option[String]): Course = copy(itemUrl = url)
 }
@@ -87,6 +89,6 @@ object Courses extends Fetchable {
     val introduction = Parsing.introductionFromNode(coursesNode).get
     val coursesSeq = (coursesNode \\ "course").map(Course(_).get)
 
-    Courses(introduction, coursesSeq.withSlugs)
+    Courses(introduction, coursesSeq.withSlugs.withNextFlags)
   }
 }

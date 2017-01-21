@@ -11,10 +11,12 @@ case class Tweet(override val date: ReadablePartial,
                  content: String,
                  reply: Boolean,
                  override val itemSlug: Option[String] = None,
-                 override val itemUrl: Option[String] = None)
+                 override val itemUrl: Option[String] = None,
+                 override val next: Boolean = false)
     extends ListItem(date, HtmlContent.fromNonHtmlString(content), itemSlug, itemUrl) {
   type T = Tweet
 
+  override def withNext(next: Boolean): Tweet = copy(next = next)
   override def withSlug(slug: Option[String]): Tweet = copy(itemSlug = slug)
   override def withUrl(url: Option[String]): Tweet = copy(itemUrl = url)
 }

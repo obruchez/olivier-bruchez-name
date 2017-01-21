@@ -15,7 +15,8 @@ case class Podcast(override val date: Partial,
                    episodeUrl: Option[URL],
                    episodeNumber: Option[Int],
                    override val itemSlug: Option[String] = None,
-                   override val itemUrl: Option[String] = None)
+                   override val itemUrl: Option[String] = None,
+                   override val next: Boolean = false)
   extends ListItem(
     date,
     HtmlContent.fromNonHtmlString(s"$name - $episodeName"),
@@ -23,6 +24,7 @@ case class Podcast(override val date: Partial,
     itemUrl) {
   type T = Podcast
 
+  override def withNext(next: Boolean): Podcast = copy(next = next)
   override def withSlug(slug: Option[String]): Podcast = copy(itemSlug = slug)
   override def withUrl(url: Option[String]): Podcast = copy(itemUrl = url)
 }
@@ -64,6 +66,6 @@ object Podcasts extends Fetchable {
     val introduction = Parsing.introductionFromNode(podcastsNode).get
     val podcastsSeq = (podcastsNode \\ "podcast").map(Podcast(_).get)
 
-    Podcasts(introduction, podcastsSeq.withSlugs)
+    Podcasts(introduction, podcastsSeq.withSlugs.withNextFlags.withNextFlags)
   }
 }

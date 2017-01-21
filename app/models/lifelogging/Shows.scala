@@ -15,7 +15,8 @@ case class Show(override val date: Partial,
                 seriesUrl: Option[URL],
                 seriesType: Option[SeriesType],
                 override val itemSlug: Option[String] = None,
-                override val itemUrl: Option[String] = None)
+                override val itemUrl: Option[String] = None,
+                override val next: Boolean = false)
     extends ListItem(
       date,
       HtmlContent.fromNonHtmlString(name + SeriesType.fullTitleSuffix(series, seriesType)),
@@ -23,6 +24,7 @@ case class Show(override val date: Partial,
       itemUrl) {
   type T = Show
 
+  override def withNext(next: Boolean): Show = copy(next = next)
   override def withSlug(slug: Option[String]): Show = copy(itemSlug = slug)
   override def withUrl(url: Option[String]): Show = copy(itemUrl = url)
 
@@ -70,7 +72,7 @@ object Shows extends Fetchable {
     val introduction = Parsing.introductionFromNode(showsNode).get
     val showsSeq = (showsNode \\ "show").map(Show(_).get)
 
-    Shows(introduction, showsSeq.withSlugs)
+    Shows(introduction, showsSeq.withSlugs.withNextFlags)
   }
 }
 

@@ -42,6 +42,7 @@ case class Book(override val date: Partial,
     extends ListItem(date, HtmlContent.fromNonHtmlString(s"$author - $title"), itemSlug, itemUrl) {
   type T = Book
 
+  override def withNext(next: Boolean): Book = copy(next = next)
   override def withSlug(slug: Option[String]): Book = copy(itemSlug = slug)
   override def withUrl(url: Option[String]): Book = copy(itemUrl = url)
 }
@@ -96,16 +97,6 @@ object Books extends Fetchable {
     val introduction = Parsing.introductionFromNode(booksNode).get
     val booksSeq = (booksNode \\ "book").map(Book(_).get)
 
-    Books(introduction, withNextFlags(booksSeq.withSlugs))
-  }
-
-  // Move this to ListItem (or new trait) if used by other types of list items
-  def withNextFlags(books: Seq[Book]): Seq[Book] = {
-    val headItemWithNoDateCount = books.takeWhile(_.date.emptyDate).size
-
-    for {
-      (book, index) <- books.zipWithIndex
-      next = index < headItemWithNoDateCount
-    } yield book.copy(next = next)
+    Books(introduction, booksSeq.withSlugs.withNextFlags)
   }
 }
