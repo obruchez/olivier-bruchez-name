@@ -10,7 +10,26 @@
   - Avenches (Arènes): Carmen (Bizet)
   -->
   <introduction>A list of concerts I went to.</introduction>
-
+  <concert>
+    <date>2017.03.26</date>
+    <location>Opéra de Lausanne, Lausanne, Switzerland</location>
+    <event>"La Bohème" opera</event>
+    <musician inst="vocals">Emily Dorn</musician>
+    <musician inst="vocals">Giorgio Berrugi</musician>
+    <musician inst="vocals">Anne-Sophie Petit</musician>
+    <musician inst="vocals">Vittorio Prato</musician>
+    <musician inst="vocals">Luigi De Donato</musician>
+    <musician inst="vocals">Benoît Capt</musician>
+    <musician inst="vocals">Mario Marchisio</musician>
+    <musician inst="vocals">Marin Yonchev</musician>
+    <musician inst="orchestra">Orchestre de Chambre de Lausanne</musician>
+    <musician inst="conductor">Jean-Yves Ossonce</musician>
+    <musician inst="choir">Chœur de l’Opéra de Lausanne</musician>
+    <musician inst="choir director">Jacques Blanc</musician>
+    <musician inst="">Maîtrise Opéra du Conservatoire de Lausanne</musician>
+    <rating></rating>
+    <comments>"La Bohème" opera (Giacomo Puccini), directed by Claude Stratz.</comments>
+  </concert>
   <concert>
     <date>2016.11.04</date>
     <location>Salle Paderewski, Casino de Montbenon, Lausanne, Switzerland</location>
