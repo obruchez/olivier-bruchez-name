@@ -8,6 +8,11 @@
   </show>
   <show>
     <date></date>
+    <name url="https://en.wikipedia.org/wiki/The_Big_Bang_Theory">The Big Bang Theory</name>
+    <series url="https://en.wikipedia.org/wiki/The_Big_Bang_Theory_(season_10)" type="season">10</series>
+  </show>
+  <show>
+    <date></date>
     <name url="https://en.wikipedia.org/wiki/Bob's_Burgers">Bob's Burgers</name>
     <series url="https://en.wikipedia.org/wiki/Bob%27s_Burgers_(season_4)" type="season">4</series>
   </show>
