@@ -40,7 +40,36 @@ object Date {
     def emptyDate: Boolean =
       readablePartial.size() == 0
 
-    def futureDate: Boolean =
-      false // @todo
+    def futureDate: Boolean = {
+      val now = new LocalDate
+
+      val fieldsToCompare = List(
+        DateTimeFieldType.year(),
+        DateTimeFieldType.monthOfYear(),
+        DateTimeFieldType.dayOfMonth())
+
+      def nowBefore(fieldsLeftToCompare: List[DateTimeFieldType]): Boolean =
+        fieldsLeftToCompare match {
+          case Nil =>
+            // All fields equal
+            false
+          case field :: rest =>
+            Try(readablePartial.get(field)) match {
+              case Success(value) =>
+                val nowValue = now.get(field)
+                if (nowValue < value)
+                  true
+                else if (nowValue > value)
+                  false
+                else
+                  nowBefore(rest)
+              case Failure(_) =>
+                // No more field available for comparison => consider the date as future (in that case, unknown/undetermined)
+                true
+            }
+        }
+
+      nowBefore(fieldsToCompare)
+    }
   }
 }
