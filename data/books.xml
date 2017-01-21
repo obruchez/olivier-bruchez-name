@@ -3,11 +3,21 @@
     <introduction>A list of books I read.</introduction>
     <book>
         <date></date>
+        <title>Life in Light of Death</title>
+        <author>James A. Lindsay</author>
+        <publishingyear>2016</publishingyear>
+        <rating></rating>
+        <url>https://books.google.ch/books/about/Life_in_Light_of_Death.html?id=lYAPkAEACAAJ</url>
+        <!-- <notes description="Kindle highlights"></notes> -->
+        <image>Life in Light of Death.jpg</image>
+    </book>
+    <book>
+        <date>2017.01.20</date>
         <title>The Subtle Art of Not Giving a F*ck</title>
         <subtitle>A Counterintuitive Approach to Living a Good Life</subtitle>
         <author>Mark Manson</author>
         <publishingyear>2016</publishingyear>
-        <rating></rating>
+        <rating>4.75</rating>
         <url>https://books.google.com/books?id=yng_CwAAQBAJ</url>
         <!-- <notes description="Kindle highlights"></notes> -->
         <image>The Subtle Art of Not Giving a Fuck.jpg</image>
