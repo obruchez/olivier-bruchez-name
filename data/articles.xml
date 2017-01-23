@@ -2,6 +2,10 @@
 <articles>
   <introduction>A list of articles I read.</introduction>
   <article>
+    <date>2017.01.23</date>
+    <title url="http://mnemstudio.org/path-finding-q-learning-tutorial.htm">A Painless Q-Learning Tutorial</title>
+  </article>
+  <article>
     <date>2017.01.18</date>
     <title url="http://maciejjaskowski.github.io/2016/03/09/space-invaders.html">Deep Q-Learning (Space Invaders)</title>
   </article>
