@@ -2,6 +2,10 @@
 <articles>
   <introduction>A list of articles I read.</introduction>
   <article>
+    <date>2017.01.24</date>
+    <title url="http://nymag.com/scienceofus/2017/01/how-to-change-your-personality.html">You (and Your Therapist) Can Change Your Personality</title>
+  </article> 
+  <article>
     <date>2017.01.23</date>
     <title url="http://mnemstudio.org/path-finding-q-learning-tutorial.htm">A Painless Q-Learning Tutorial</title>
   </article>
