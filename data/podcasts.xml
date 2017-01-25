@@ -3,6 +3,11 @@
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
     <date></date>
+    <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
+    <episode url="https://www.samharris.org/podcast/item/an-evening-with-richard-dawkins-and-sam-harris-2" number="60">An Evening with Richard Dawkins and Sam Harris (2)</episode>
+  </podcast>
+  <podcast>
+    <date>2017.01.25</date>
     <name url="http://podcastjuice.net/category/shows/the-prince-podcast/">The Prince Podcast</name>
     <episode url="http://podcastjuice.net/the-prince-podcast-susan-rogers-interview/">Susan Rogers Interview</episode>
   </podcast>
