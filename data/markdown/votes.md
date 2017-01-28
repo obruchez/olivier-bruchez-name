@@ -6,11 +6,19 @@ My votes (in French). En Suisse, on ne plaisante pas avec la démocratie directe
 
 ### Acceptez-vous l’arrêté fédéral du 30 septembre 2016 concernant la naturalisation facilitée des étrangers de la troisième génération ?
 
-?. Résultat : ? (??.?%).
+Oui. Résultat : ? (??.?%).
+
+- Il s'agit de faciliter (et non d'automatiser) la naturalisation d'un certain nombre de personnes qui doivent remplir des critères bien définis et qui, selon ces critères, sont forcément déjà bien intégrées en Suisse. Cela me semble raisonnable.
+- Je n'ai entendu aucun argument convaincant contre cet arrêté fédéral.
+- Comme d'habitude, l'UDC radote et devient de plus en plus une caricature d'elle-même...
 
 ### Acceptez-vous l’arrêté fédéral du 30 septembre 2016 sur la création d’un fonds pour les routes nationales et pour le trafic d’agglomération ?
 
-?. Résultat : ? (??.?%).
+Oui. Résultat : ? (??.?%).
+
+- L'essence est relativement bon marché en Suisse. Une taxe de 4 centimes me semble tout à fait supportable. Il est vrai qu'elle pourrait être bien plus élevée, mais une augmentation plus importante risquerait de dissuader les automobilistes d'accepter ce projet.
+- Je ne crois pas en un futur où seuls les trains ou les trams seraient utilisés par les gens pour se déplacer. Cela n'est pas réaliste. J'entrevois sérieusement un futur avec des véhicules électriques complètement autonomes (d'ici 15-20 ans, disons). Se déplaçant sur des routes, pas des rails. Un tel système pourrait permettre une utilisation moins importante des routes (partage des véhicules se déplaçant selon la demande, moins de propriétaires de véhicules, etc.), mais cela reste à prouver. D'ici là, il faudra bien trouver des solutions pour les problèmes actuels (goulets d'étranglement, sécurité, bruit routier, etc.).
+- Les projets liés aux transports publics ou "doux" (bus, tram, vélo, piétons) seront également soutenus, ce qui me semble raisonnable.
 
 ### Acceptez-vous la loi fédérale du 17 juin 2016 sur l’amélioration des conditions fiscales en vue de renforcer la compétitivité du site entrepreneurial suisse (Loi sur la réforme de l’imposition des entreprises III) ?
 
