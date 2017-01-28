@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<comics>
+  <introduction>A list of comics I read.</introduction>
+  <comic>
+    <date></date>
+    <writer>Luiz Eduardo de Oliveira</writer>
+    <artist>Luiz Eduardo de Oliveira</artist>
+    <colorist>Luiz Eduardo de Oliveira</colorist>
+    <series url="https://fr.wikipedia.org/wiki/Les_Mondes_d'Ald%C3%A9baran#Cycle_de_B.C3.A9telgeuse">Bételgeuse</series>
+    <volume url="https://fr.wikipedia.org/wiki/Les_Survivants_(B%C3%A9telgeuse)" number="2">Les survivants</volume>
+    <image>Bételgeuse - Les survivants.jpg</image>
+  </comic>
+  <comic>
+    <date>2017.01.28</date>
+    <writer>Luiz Eduardo de Oliveira</writer>
+    <artist>Luiz Eduardo de Oliveira</artist>
+    <colorist>Luiz Eduardo de Oliveira</colorist>
+    <series url="https://fr.wikipedia.org/wiki/Les_Mondes_d'Ald%C3%A9baran#Cycle_de_B.C3.A9telgeuse">Bételgeuse</series>
+    <volume url="https://fr.wikipedia.org/wiki/La_Plan%C3%A8te_(B%C3%A9telgeuse)" number="1">La planète</volume>
+    <image>Bételgeuse - La planè̀te.jpg</image>
+  </comic>
+  <comic>
+    <date>2016.09.03</date>
+    <writer>Luiz Eduardo de Oliveira</writer>
+    <artist>Luiz Eduardo de Oliveira</artist>
+    <colorist>Luiz Eduardo de Oliveira</colorist>
+    <series url="https://fr.wikipedia.org/wiki/Les_Mondes_d%27Ald%C3%A9baran#Cycle_d.27Ald.C3.A9baran">Aldébaran</series>
+    <volume url="https://fr.wikipedia.org/wiki/La_Cr%C3%A9ature_(Ald%C3%A9baran)" number="5">La créature</volume>
+    <image>Aldébaran - La créature.jpg</image>
+  </comic>
+  <comic>
+    <date>2016.09.01</date>
+    <writer>Luiz Eduardo de Oliveira</writer>
+    <artist>Luiz Eduardo de Oliveira</artist>
+    <colorist>Luiz Eduardo de Oliveira</colorist>
+    <series url="https://fr.wikipedia.org/wiki/Les_Mondes_d%27Ald%C3%A9baran#Cycle_d.27Ald.C3.A9baran">Aldébaran</series>
+    <volume url="https://fr.wikipedia.org/wiki/Le_Groupe_(Ald%C3%A9baran)" number="4">Le groupe</volume>
+    <image>Aldébaran - Le groupe.jpg</image>
+  </comic>
+  <comic>
+    <date>2016.08.31</date>
+    <writer>Luiz Eduardo de Oliveira</writer>
+    <artist>Luiz Eduardo de Oliveira</artist>
+    <colorist>Luiz Eduardo de Oliveira</colorist>
+    <series url="https://fr.wikipedia.org/wiki/Les_Mondes_d%27Ald%C3%A9baran#Cycle_d.27Ald.C3.A9baran">Aldébaran</series>
+    <volume url="https://fr.wikipedia.org/wiki/La_Photo_(Ald%C3%A9baran)" number="3">La photo</volume>
+    <image>Aldébaran - La photo.jpg</image>
+  </comic>
+  <comic>
+    <date>2016.08.30</date>
+    <writer>Luiz Eduardo de Oliveira</writer>
+    <artist>Luiz Eduardo de Oliveira</artist>
+    <colorist>Luiz Eduardo de Oliveira</colorist>
+    <series url="https://fr.wikipedia.org/wiki/Les_Mondes_d%27Ald%C3%A9baran#Cycle_d.27Ald.C3.A9baran">Aldébaran</series>
+    <volume url="https://fr.wikipedia.org/wiki/La_Blonde_(Ald%C3%A9baran)" number="2">La blonde</volume>
+    <image>Aldébaran - La blonde.jpg</image>
+  </comic>
+  <comic>
+    <date>2016.08.29</date>
+    <writer>Luiz Eduardo de Oliveira</writer>
+    <artist>Luiz Eduardo de Oliveira</artist>
+    <colorist>Luiz Eduardo de Oliveira</colorist>
+    <series url="https://fr.wikipedia.org/wiki/Les_Mondes_d%27Ald%C3%A9baran#Cycle_d.27Ald.C3.A9baran">Aldébaran</series>
+    <volume url="https://fr.wikipedia.org/wiki/La_Catastrophe_(Ald%C3%A9baran)" number="1">La catastrophe</volume>
+    <image>Aldébaran - La catastrophe.jpg</image>
+  </comic>
+  <!-- <comic>
+    <date></date>
+    <writer></writer>
+    <artist></artist>
+    <colorist></colorist>
+    <series url=""></series>
+    <volume url="" number=""></volume>
+    <image></image>
+  </comic> -->
+</comics>
