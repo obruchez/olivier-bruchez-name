@@ -22,7 +22,12 @@ Oui. Résultat : ? (??.?%).
 
 ### Acceptez-vous la loi fédérale du 17 juin 2016 sur l’amélioration des conditions fiscales en vue de renforcer la compétitivité du site entrepreneurial suisse (Loi sur la réforme de l’imposition des entreprises III) ?
 
-?. Résultat : ? (??.?%).
+Oui. Résultat : ? (??.?%).
+
+- Le comité référendaire dénonce l'utilisation de "mots compliqués", mais le sujet *est* compliqué. Peut-on vraiment espérer qu'une partie significative de la population comprenne tous les enjeux de cette réforme ? Est-ce que cela doit forcément être le cas ?
+- C'est un mauvais argument, mais le ton utilisé par le comité référendaire n'est vraiment pas sérieux : "combines", "arnaque", etc. Cela me rappelle tristement l'UDC.
+- La question, finalement, revient à savoir à quel point on souhaite encourager certaines entreprises, intéressantes fiscalement, à rester en Suisse.
+- Loin de comprendre tous les enjeux de ce référendum, je penche pour un petit oui.
 
 ## [Votation fédérale du 27 novembre 2016](https://www.admin.ch/gov/fr/accueil/documentation/votations/20161127/initiative-sortir-du-nucleaire.html)
 
