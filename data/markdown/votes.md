@@ -2,11 +2,25 @@
 
 My votes (in French). En Suisse, on ne plaisante pas avec la démocratie directe. :) J'essaie ici de documenter et de justifier la façon dont je me positionne par rapport aux votations fédérales, qui ont lieu jusqu'à quatre fois par année.
 
+## [Votation fédérale du 12 février 2017](https://www.admin.ch/gov/fr/accueil/documentation/votations/20170212.html)
+
+### Acceptez-vous l’arrêté fédéral du 30 septembre 2016 concernant la naturalisation facilitée des étrangers de la troisième génération ?
+
+?. Résultat : ? (??.?%).
+
+### Acceptez-vous l’arrêté fédéral du 30 septembre 2016 sur la création d’un fonds pour les routes nationales et pour le trafic d’agglomération ?
+
+?. Résultat : ? (??.?%).
+
+### Acceptez-vous la loi fédérale du 17 juin 2016 sur l’amélioration des conditions fiscales en vue de renforcer la compétitivité du site entrepreneurial suisse (Loi sur la réforme de l’imposition des entreprises III) ?
+
+?. Résultat : ? (??.?%).
+
 ## [Votation fédérale du 27 novembre 2016](https://www.admin.ch/gov/fr/accueil/documentation/votations/20161127/initiative-sortir-du-nucleaire.html)
 
 ### Acceptez-vous l’initiative populaire "Pour la sortie programmée de l’énergie nucléaire (Initiative "Sortir du nucléaire")" ?
 
-Oui. Résultat : ? (??.?%).
+Oui. Résultat : non (54.2%).
 
 - Je trouve regrettable que l'initiative ne fasse pas une exception, au moins symboliquement, pour d'éventuels [réacteurs nucléaires de génération IV](https://fr.wikipedia.org/wiki/Générations_de_réacteurs_nucléaires).
 - Je trouve néanmoins important de donner un signal fort à l'étranger (rôle de modèle). La Suisse peut se le permettre, financièrement.
