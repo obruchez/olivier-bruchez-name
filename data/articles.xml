@@ -4,41 +4,50 @@
   <article>
     <date>2017.01.25</date>
     <title url="https://qz.com/892247/dont-set-goals-for-yourself-instead-create-systems-that-make-it-easy-for-you-to-succeed/">Don’t set goals for yourself—instead, create systems that make it easy for you to succeed</title>
+    <comments>This is Scott Adams' approach. And also the basis for Getting Things Done (GTD), I guess. The article itself was not particularly illuminating.</comments>
   </article>
   <article>
     <date>2017.01.24</date>
     <title url="http://nymag.com/scienceofus/2017/01/how-to-change-your-personality.html">You (and Your Therapist) Can Change Your Personality</title>
+    <comments>We can (somewhat) change our personality, with the help of therapists. I don't really know what to do with this information. I guess it's a source of hope if we don't like some facets of our personalities?</comments>
   </article> 
   <article>
     <date>2017.01.23</date>
     <title url="http://mnemstudio.org/path-finding-q-learning-tutorial.htm">A Painless Q-Learning Tutorial</title>
+    <comments>A very easy-to-understand introduction to Q-learning.</comments>
   </article>
   <article>
     <date>2017.01.18</date>
     <title url="http://maciejjaskowski.github.io/2016/03/09/space-invaders.html">Deep Q-Learning (Space Invaders)</title>
+    <comments>Again, we live exciting times: we can now reproduce <a href="https://storage.googleapis.com/deepmind-data/assets/papers/DeepMindNature14236Paper.pdf">state-of-the-art AI papers</a> by just using (relatively) easy-to-use libraries (Theano, here, but many others are available).</comments>
   </article>
   <article>
     <date>2017.01.16</date>
     <title url="http://www.economist.com/news/business-and-finance/21711846-vacuum-packs-mean-meat-can-stay-shelves-between-five-and-eight-days-food-packaging">Food packaging is not the enemy of the environment that it is assumed to be</title>
     <subtitle>Vacuum packs mean meat can stay on shelves for between five and eight days</subtitle>
+    <comments>Packaging is apparently very useful for meat and dairy products in particular. Another reason to become vegetarian/vegan?</comments>
   </article>
   <article>
     <date>2017.01.16</date>
     <title url="https://qz.com/866352/scientists-say-your-mind-isnt-confined-to-your-brain-or-even-your-body/">Scientists say your "mind" isn’t confined to your brain, or even your body</title>
+    <comments>This reminds me of the concept of extended phenotype by Richard Dawkins, but I'm not convinced it is as useful here.</comments>
   </article>
   <article>
     <date>2017.01.13</date>
     <title url="http://www.economist.com/news/science-and-technology/21714326-tale-scientific-serendipity-new-star-should-appear-2022">A "new" star should appear in 2022</title>
     <subtitle>A tale of scientific serendipity</subtitle>
+    <comments>We live exciting times. An astronomer has predicted a nova before it happened.</comments>
   </article>
   <article>
     <date>2017.01.12</date>
-    <title url="http://www.vox.com/2016/7/12/12148938/friendship-adult-challenges-solutions">How to Convince Someone When Facts Fail</title>
+    <title url="https://www.scientificamerican.com/article/how-to-convince-someone-when-facts-fail/">How to Convince Someone When Facts Fail</title>
 	  <subtitle>Why worldview threats undermine evidence</subtitle>
+    <comments>Nothing new here: facts often don't convince people. Just like statistics don't convince people, but anecdotes sometimes do. We're all victims of cognitive biases.</comments>
   </article>
   <article>
     <date>2017.01.09</date>
     <title url="http://www.vox.com/2016/7/12/12148938/friendship-adult-challenges-solutions">Why 30 is the decade friends disappear — and what to do about it</title>
+    <comments>People get busy with their work and their family. Nothing new, here. I'm not sure the "what to do about it" part of the title has really been addressed by the article. Is the solution really to be less demanding - or something like that?</comments>
   </article>
   <article>
     <date>2016.12.21</date>
@@ -88,5 +97,6 @@
     <date></date>
     <title url=""></title>
     <subtitle></subtitle>
+    <comments></comments>
   </article> -->
 </articles>
