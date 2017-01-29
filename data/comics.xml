@@ -8,6 +8,7 @@
     <colorist>Luiz Eduardo de Oliveira</colorist>
     <series url="https://fr.wikipedia.org/wiki/Les_Mondes_d'Ald%C3%A9baran#Cycle_de_B.C3.A9telgeuse">Bételgeuse</series>
     <volume url="https://fr.wikipedia.org/wiki/Les_Survivants_(B%C3%A9telgeuse)" number="2">Les survivants</volume>
+    <comments></comments>
     <image>Bételgeuse - Les survivants.jpg</image>
   </comic>
   <comic>
@@ -17,6 +18,7 @@
     <colorist>Luiz Eduardo de Oliveira</colorist>
     <series url="https://fr.wikipedia.org/wiki/Les_Mondes_d'Ald%C3%A9baran#Cycle_de_B.C3.A9telgeuse">Bételgeuse</series>
     <volume url="https://fr.wikipedia.org/wiki/La_Plan%C3%A8te_(B%C3%A9telgeuse)" number="1">La planète</volume>
+    <comments>Quelques éléments me rappellent furieusement des films connus tels que "Star Wars" et "2001: A Space Odyssey" : l'habitation dans le désert et l'ordinateur de bord qui se fait pirater. La scène du réveil de l'hibernation est également un classique de la science-fiction. Globalement une bonne introduction.</comments>
     <image>Bételgeuse - La planè̀te.jpg</image>
   </comic>
   <comic>
@@ -71,6 +73,7 @@
     <colorist></colorist>
     <series url=""></series>
     <volume url="" number=""></volume>
+    <comments></comments>
     <image></image>
   </comic> -->
 </comics>
