@@ -27,6 +27,12 @@
   </show>
   <show>
     <date></date>
+    <name url="https://en.wikipedia.org/wiki/Modern_Family">Modern Family</name>
+    <series url="https://en.wikipedia.org/wiki/Modern_Family#Season_2" type="season">2</series>
+    <comments></comments>
+  </show>
+  <show>
+    <date></date>
     <name url="https://en.wikipedia.org/wiki/Mr._Sunshine_(2011_TV_series)">Mr. Sunshine</name>
     <series url="https://en.wikipedia.org/wiki/Mr._Sunshine_(2011_TV_series)#Episodes" type="season">1</series>
     <comments></comments>
