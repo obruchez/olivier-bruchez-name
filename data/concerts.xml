@@ -11,6 +11,44 @@
   -->
   <introduction>A list of concerts I went to.</introduction>
   <concert>
+    <date>2017.04.04</date>
+    <location>Chapiteau, Cully, Switzerland</location>
+    <event>Cully Jazz Festival</event>
+    <musician inst="piano" main="true">McCoy Tyner</musician>
+    <musician inst="piano">Geri Allen</musician>
+    <musician inst="piano">Craig Taborn</musician>
+    <musician inst="bass">Gerald Cannon</musician>
+    <musician inst="drums">Francisco Mela</musician>
+    <rating></rating>
+    <comments/>
+  </concert>
+  <concert>
+    <date>2017.04.04</date>
+    <location>Chapiteau, Cully, Switzerland</location>
+    <event>Cully Jazz Festival</event>
+    <musician inst="piano" main="true">Colin Vallon</musician>
+    <musician inst="bass">Patrice Moret</musician>
+    <musician inst="drums">Julian Sartorius</musician>
+    <rating></rating>
+    <comments/>
+  </concert>
+  <concert>
+    <date>2017.04.02</date>
+    <location>Chapiteau, Cully, Switzerland</location>
+    <event>Cully Jazz Festival</event>
+    <group>Autour de Chet</group>
+    <musician inst="trumpet">Erik Truffaz (tp</musician>
+    <musician inst="vocals">Camélia Jordana</musician>
+    <musician inst="trumpet, flugelhorn">Airelle Besson</musician>
+    <musician inst="vocals">Hugh Coltman</musician>
+    <musician inst="drums">Cyril Atef</musician>
+    <musician inst="bass guitar">Christophe Minck</musician>
+    <musician inst="cello">Pierre-François Dufour</musician>
+    <musician inst="piano">Bojan Z</musician>
+    <rating></rating>
+    <comments/>
+  </concert>
+  <concert>
     <date>2017.03.26</date>
     <location>Opéra de Lausanne, Lausanne, Switzerland</location>
     <event>"La Bohème" opera</event>
