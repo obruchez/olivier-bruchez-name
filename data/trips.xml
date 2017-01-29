@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <trips>
   <introduction>A list of trips I took.</introduction>
+  <!-- TODO: add comments for new trips? -->
   <trip>
     <from>2016.12.29</from>
     <to>2017.01.03</to>

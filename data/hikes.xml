@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <hikes>
   <introduction>A list of hikes I took.</introduction>
+  <!-- TODO: add comments for new hikes? -->
   <hike>
     <date>2016.09.03</date>
     <place>Sovereu / Le Dâ / Col du Bec d'Aigle / Louvie, Switzerland</place>

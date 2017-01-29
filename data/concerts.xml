@@ -10,6 +10,7 @@
   - Avenches (Arènes): Carmen (Bizet)
   -->
   <introduction>A list of concerts I went to.</introduction>
+  <!-- TODO: add comments for new concerts? -->
   <concert>
     <date>2017.04.04</date>
     <location>Chapiteau, Cully, Switzerland</location>
