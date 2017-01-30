@@ -2,6 +2,16 @@
 <comics>
   <introduction>A list of comics I read.</introduction>
   <comic>
+    <date></date>
+    <writer>Luiz Eduardo de Oliveira</writer>
+    <artist>Luiz Eduardo de Oliveira</artist>
+    <colorist>Luiz Eduardo de Oliveira</colorist>
+    <series url="https://fr.wikipedia.org/wiki/Les_Mondes_d'Ald%C3%A9baran#Cycle_de_B.C3.A9telgeuse">Bételgeuse</series>
+    <volume url="https://fr.wikipedia.org/wiki/L'Exp%C3%A9dition_(B%C3%A9telgeuse)" number="3">L'expédition</volume>
+    <comments></comments>
+    <image>Bételgeuse - L'expédition.png</image>
+  </comic>
+  <comic>
     <date>2017.01.30</date>
     <writer>Luiz Eduardo de Oliveira</writer>
     <artist>Luiz Eduardo de Oliveira</artist>
