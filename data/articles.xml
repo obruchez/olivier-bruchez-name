@@ -2,6 +2,12 @@
 <articles>
   <introduction>A list of articles I read.</introduction>
   <article>
+    <date>2017.01.30</date>
+    <title url="http://www.bbc.com/capital/story/20170120-why-paper-is-the-real-killer-app">Why paper is the real 'killer app'</title>
+    <subtitle>With apps taking over our lives, there’s a movement afoot as people yearn for simpler, technology-free times.</subtitle>
+    <comments>Paper might be a solution for brainstorming and note-taking, but I remain convinced that it's not a good way to organize tasks and projects. Simple online documents win, here.</comments>
+  </article> 
+  <article>
     <date>2017.01.25</date>
     <title url="https://qz.com/892247/dont-set-goals-for-yourself-instead-create-systems-that-make-it-easy-for-you-to-succeed/">Don’t set goals for yourself—instead, create systems that make it easy for you to succeed</title>
     <comments>This is Scott Adams' approach. And also the basis for Getting Things Done (GTD), I guess. The article itself was not particularly illuminating.</comments>
