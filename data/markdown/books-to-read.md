@@ -239,6 +239,7 @@ Pretty much everything from [Les cent livres du siècle](https://fr.wikipedia.or
 * Stephen Hawking, ["A Brief History of Time"](https://en.wikipedia.org/wiki/A_Brief_History_of_Time)
 * Stephen Hawking, ["The Universe in a Nutshell"](https://en.wikipedia.org/wiki/The_Universe_in_a_Nutshell)
 * Michio Kaku, ["Parallel Worlds: A Journey Through Creation, Higher Dimensions, and the Future of the Cosmos"](https://en.wikipedia.org/wiki/Parallel_Worlds_(book))
+* Manjit Kumar, ["Quantum: Einstein, Bohr and the Great Debate About the Nature of Reality"](https://www.amazon.fr/Quantum-Einstein-Debate-Nature-Reality-ebook/dp/B002RI9ZRC) (recommended by dad)
 * David Lindley, ["Where Does The Weirdness Go?: Why Quantum Mechanics Is Strange, But Not As Strange As You Think"](http://www.amazon.com/Where-Does-The-Weirdness-Mechanics/dp/0465067867) (recommended on Quora)
 * Bruce Rosenblum & Fred Kuttner, ["Quantum Enigma: Physics Encounters Consciousness"](http://www.amazon.com/Quantum-Enigma-Physics-Encounters-Consciousness/dp/019517559X)
 * Charles Seife, ["Decoding the Universe: How the New Science of Information Is Explaining Everything in the Cosmos, from Our Brains to Black Holes"](http://www.amazon.com/Decoding-Universe-Information-Explaining-Everything-ebook/dp/B000O76NFK/)
