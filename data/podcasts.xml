@@ -3,9 +3,15 @@
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
     <date></date>
+    <name url="http://peachandblack.podbean.com/">Peach &amp; Black Podcast</name>
+    <episode url="http://peachandblack.podbean.com/e/vanity-6-review/">Vanity 6 Review</episode>
+    <comments></comments>
+  </podcast>
+  <podcast>
+    <date>2017.02.01</date>
     <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
     <episode url="https://www.samharris.org/podcast/item/the-power-of-belief" number="61">The Power of Belief - A Conversation with Lawrence Wright</episode>
-    <comments>Surprising to learn that many women Saudi Arabia are very conservative. Instructive exchange about conspiracy theories and fake news: we need more skepticism, as cognitive biases can be dangerous. We have an ethical obligation to help refugees, but at the same time we can't help everybody: this is a hard problem. The situation in the Middle East is the worst Wright has seen in all his life.</comments>
+    <comments>Surprising to learn that many women in Saudi Arabia are very conservative. Instructive exchange about conspiracy theories and fake news: we need more skepticism, as cognitive biases can be dangerous. We have an ethical obligation to help refugees, but at the same time we can't help everybody: this is a hard problem. The situation in the Middle East is the worst Wright has seen in all his life. The discussion about scientology was instructive as well. What a dangerous, powerful, and hence worrying sect!</comments>
   </podcast>
   <podcast>
     <date>2017.01.27</date>
