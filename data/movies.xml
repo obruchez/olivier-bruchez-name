@@ -2,6 +2,17 @@
 <movies>
   <introduction>A list of movies I saw.</introduction>
   <movie>
+    <date>2017.02.04</date>
+    <theater home="true"/>
+    <director>Mamoru Hosoda</director>
+    <title>Wolf Children</title>
+    <title language="jp">Ookami kodomo no Ame to Yuki</title>
+    <url>http://www.imdb.com/title/tt2140203/</url>
+    <rating>4.75</rating>
+    <comments>A bit too cheesy to my taste (werewolves, really?), but also very well done and beautiful/poetic at times.</comments>
+    <image>Wolf Children.jpg</image>
+  </movie>
+  <movie>
     <date>2017.01.21</date>
     <theater>Galeries, Lausanne</theater>
     <director>Tom Ford</director>
