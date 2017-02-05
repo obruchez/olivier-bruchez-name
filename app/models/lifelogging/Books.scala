@@ -61,7 +61,7 @@ object Book {
       subtitle = Option((rootNode \\ "subtitle").text.trim).filter(_.nonEmpty),
       year = (rootNode \\ "publishingyear").text.trim.toInt,
       rating = Parsing.ratingFromString((rootNode \\ "rating").text),
-      comments = Parsing.commentsFromString((rootNode \\ "comments").text),
+      comments = Parsing.commentsFromString((rootNode \\ "comments").toString),
       url = new URL((rootNode \\ "url").text.trim),
       notesOption)
   }

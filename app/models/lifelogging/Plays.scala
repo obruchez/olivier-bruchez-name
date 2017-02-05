@@ -41,7 +41,7 @@ object Play {
       translation = Option((rootNode \\ "translation").text.trim).filter(_.nonEmpty),
       actors = (rootNode \\ "actor").map(_.text.trim),
       rating = Parsing.ratingFromString((rootNode \\ "rating").text),
-      comments = Parsing.commentsFromString((rootNode \\ "comments").text))
+      comments = Parsing.commentsFromString((rootNode \\ "comments").toString))
   }
 }
 

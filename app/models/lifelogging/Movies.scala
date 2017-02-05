@@ -57,7 +57,7 @@ object Movie {
       otherTitles = otherTitles,
       version = Option((rootNode \\ "version").text.trim).filter(_.nonEmpty).map(new Locale(_)),
       rating = Parsing.ratingFromString((rootNode \\ "rating").text),
-      comments = Parsing.commentsFromString((rootNode \\ "comments").text),
+      comments = Parsing.commentsFromString((rootNode \\ "comments").toString),
       url = Option((rootNode \\ "url").text.trim).filter(_.nonEmpty).map(new URL(_)))
   }
 }

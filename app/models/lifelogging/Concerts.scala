@@ -73,7 +73,7 @@ object Concert {
       band = Option((rootNode \\ "group").text.trim).filter(_.nonEmpty),
       musicians = musicans,
       rating = Parsing.ratingFromString((rootNode \\ "rating").text),
-      comments = Parsing.commentsFromString((rootNode \\ "comments").text))
+      comments = Parsing.commentsFromString((rootNode \\ "comments").toString))
   }
 }
 
