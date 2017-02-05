@@ -8,8 +8,9 @@
   <tr>
     <th class="col-md-1">From</th>
     <th class="col-md-1">To</th>
-    <th class="col-md-5">Place</th>
+    <th>Place</th>
     <th class="col-md-5">Pictures</th>
+    <th>Comments</th>
   </tr>
 }
 
@@ -20,6 +21,7 @@
       <td>@trip.to.yyyymmddString</td>
       <td>@trip.place</td>
       <td>@pictures(trip.pictures, trip.place)</td>
+      <td>@trip.comments.map(_.html).getOrElse(Html(""))</td>
     </tr>
   }
 }

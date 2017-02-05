@@ -12,6 +12,7 @@ case class Trip(from: Partial,
                 to: Partial,
                 place: String,
                 pictures: Seq[Pictures],
+                comments: Option[HtmlContent],
                 override val itemSlug: Option[String] = None,
                 override val itemUrl: Option[String] = None,
                 override val next: Boolean = false)
@@ -33,7 +34,8 @@ object Trip {
       from = Parsing.dateFromString((rootNode \\ "from").text).get,
       to = Parsing.dateFromString((rootNode \\ "to").text).get,
       place = (rootNode \\ "place").text,
-      pictures = Parsing.picturesFromNode(rootNode))
+      pictures = Parsing.picturesFromNode(rootNode),
+      comments = Parsing.commentsFromNodeChildren((rootNode \\ "comments").headOption))
   }
 }
 
