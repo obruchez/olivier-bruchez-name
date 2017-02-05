@@ -124,7 +124,7 @@ h4.toc-title-and-toggle {
     color: #72c02c;
 }
 
-.movie-alternate-title {
+.movie-alternate-title, .concert-event {
     font-size: smaller;
     font-style: italic;
 }

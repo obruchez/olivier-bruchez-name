@@ -32,7 +32,13 @@
     <tr>
       <td>@sluganddate(concert)</td>
       <td><p>@musicians(concert.band, concert.musicians)</p></td>
-      <td>@{xml.Text(concert.location) ++ concert.event.map(e => <br/> ++ xml.Text(s"($e)")).getOrElse(xml.NodeSeq.Empty)}</td>
+      <td>@{
+        val location = xml.Text(concert.location)
+
+        val event = concert.event.map(event => <br/> ++ <span class="concert-event">{event}</span>)
+
+        location ++ event
+      }</td>
       <td>@views.html.rating(concert.rating)</td>
       <td>@concert.comments.fold(Html(""))(_.html)</td>
     </tr>

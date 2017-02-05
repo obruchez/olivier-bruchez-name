@@ -27,7 +27,8 @@
         val mainTitle = movie.url.fold[xml.NodeSeq](xml.Text(movie.title))(url => <a href={url.toString}>{movie.title}</a>)
 
         val otherTitles = movie.otherTitles map { title =>
-          <br/> ++ <span class="movie-alternate-title">{s"${title.locale.getDisplayName(java.util.Locale.ENGLISH)}: ${title.title}"}</span>
+          val language = title.locale.getDisplayName(java.util.Locale.ENGLISH)
+          <br/> ++ <span class="movie-alternate-title">{s"$language: ${title.title}"}</span>
         }
 
         mainTitle ++ otherTitles
