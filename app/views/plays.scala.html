@@ -4,15 +4,12 @@
 
 @header = {
   <tr>
-    <th class="col-md-2">Date</th>
+    <th class="col-md-1">Date</th>
     <th class="col-md-2">Location</th>
     <th class="col-md-2">Name</th>
-    <th class="col-md-1">Author</th>
-    <th class="col-md-1">Director</th>
-    <th>Translation</th>
-    <th class="col-md-2">Actors</th>
+    <th>Credits</th>
     <th>Rating</th>
-    <th>Comments</th>
+    <th class="col-md-3">Comments</th>
   </tr>
 }
 
@@ -22,10 +19,16 @@
       <td>@sluganddate(play)</td>
       <td>@play.location</td>
       <td>@play.name</td>
-      <td>@play.author</td>
-      <td>@play.director</td>
-      <td>@play.translation.getOrElse("")</td>
-      <td>@play.actors.mkString(", ")</td>
+      <td>@{
+        val paragraphs =
+          Seq(s"Author: ${play.author}", s"Director: ${play.director}") ++
+          play.adaptation.map(adaptation => s"Adaptation: $adaptation") ++
+          play.translation.map(translation => s"Translation: $translation") ++
+          (if (play.actors.isEmpty) Seq() else Seq(s"Actors: ${play.actors.mkString(", ")}"))
+
+        paragraphs.map(paragraph => <p>{paragraph}</p>).foldLeft(xml.NodeSeq.Empty)(_ ++ _)
+
+      }</td>
       <td>@views.html.rating(play.rating)</td>
       <td>@play.comments.fold(Html(""))(_.html)</td>
     </tr>
