@@ -11,9 +11,8 @@
     <th class="col-md-1">Date</th>
     <th class="col-md-2">Theater</th>
     <th class="col-md-2">Director</th>
-    <th class="col-md-2">Title</th>
-    <th>Version</th>
-    <th>Rating</th>
+    <th class="col-md-3">Title</th>
+    <th class="col-md-1">Rating</th>
     <th class="col-md-3">Comments</th>
   </tr>
 }
@@ -28,14 +27,23 @@
         val mainTitle = movie.url.fold[xml.NodeSeq](xml.Text(movie.title))(url => <a href={url.toString}>{movie.title}</a>)
 
         val otherTitles = movie.otherTitles map { title =>
-          <br/> ++ xml.Text(s"${title.locale.getDisplayName(java.util.Locale.ENGLISH)}: ${title.title}")
+          <br/> ++ <span class="movie-alternate-title">{s"${title.locale.getDisplayName(java.util.Locale.ENGLISH)}: ${title.title}"}</span>
         }
 
         mainTitle ++ otherTitles
       }</td>
-      <td>@movie.version.fold("Original")(_.getDisplayName(java.util.Locale.ENGLISH))</td>
       <td>@views.html.rating(movie.rating)</td>
-      <td>@movie.comments.fold(Html(""))(_.html)</td>
+      <td>@{
+        val comments = movie.comments map { comments =>
+          <p>{comments.html}</p>
+        }
+
+        val version = movie.version map { version =>
+          <p>{xml.Text(s"Version: ${version.getDisplayName(java.util.Locale.ENGLISH)}")}</p>
+        }
+
+        comments ++ version
+      }</td>
     </tr>
   }
 }

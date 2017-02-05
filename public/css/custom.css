@@ -124,6 +124,11 @@ h4.toc-title-and-toggle {
     color: #72c02c;
 }
 
+.movie-alternate-title {
+    font-size: smaller;
+    font-style: italic;
+}
+
 .rating {
     white-space: nowrap;
 }
