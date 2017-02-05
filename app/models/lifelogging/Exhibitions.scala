@@ -31,7 +31,7 @@ object Exhibition {
        name = (rootNode \\ "name").text.trim,
        museum = (rootNode \\ "museum").text.trim,
        rating = Parsing.ratingFromString((rootNode \\ "rating").text),
-       comments = Parsing.commentsFromString((rootNode \\ "comments").toString))
+       comments = Parsing.commentsFromNodeChildren((rootNode \\ "comments").headOption))
   }
 }
 

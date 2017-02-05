@@ -31,6 +31,14 @@ object Parsing {
   def commentsFromString(string: String): Option[HtmlContent] =
     Option(string).map(_.trim).filter(_.nonEmpty).map(HtmlContent(_))
 
+  def commentsFromNodeChildren(nodeOption: Option[Node]): Option[HtmlContent] =
+    nodeOption match {
+      case None =>
+        None
+      case Some(node) =>
+        commentsFromString(node.child.mkString)
+    }
+
   def dateFromString(string: String): Try[Partial] =
     Date.partialFromYyyymmddString(string.trim)
 

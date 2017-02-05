@@ -29,7 +29,7 @@ object Crash {
       date = Parsing.dateFromString((rootNode \\ "date").text).get,
       manufacturer = (rootNode \\ "manufacturer").text.trim,
       model = (rootNode \\ "model").text.trim,
-      comments = Parsing.commentsFromString((rootNode \\ "comments").toString))
+      comments = Parsing.commentsFromNodeChildren((rootNode \\ "comments").headOption))
   }
 }
 
