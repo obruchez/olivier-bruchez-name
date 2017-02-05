@@ -14,6 +14,7 @@ case class Show(override val date: Partial,
                 series: Option[String],
                 seriesUrl: Option[URL],
                 seriesType: Option[SeriesType],
+                comments: Option[HtmlContent],
                 override val itemSlug: Option[String] = None,
                 override val itemUrl: Option[String] = None,
                 override val next: Boolean = false)
@@ -46,7 +47,8 @@ object Show {
       url = new URL((nameNode \@ "url").trim),
       series = Option(seriesNode.text.trim).filter(_.nonEmpty),
       seriesUrl = Option((seriesNode \@ "url").trim).filter(_.nonEmpty).map(new URL(_)),
-      seriesType = SeriesType.fromString((seriesNode \@ "type").trim))
+      seriesType = SeriesType.fromString((seriesNode \@ "type").trim),
+      comments = Parsing.commentsFromNodeChildren((rootNode \\ "comments").headOption))
   }
 }
 
