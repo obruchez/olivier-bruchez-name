@@ -24,6 +24,7 @@ object Sitemap {
     "fa-user",
     groupChildren = singlePageGroup(profile, lifePrinciples, worldview))
 
+  val articles = Page(Articles, routes.Application.articles())
   val books = Page(Books, routes.Application.books())
   val concerts = Page(Concerts, routes.Application.concerts())
   val courses = Page(Courses, routes.Application.courses())
@@ -47,7 +48,7 @@ object Sitemap {
     routes.Application.lifelogging(),
     "fa-list",
     groupChildren = Seq(
-      PageGroup(Seq(books, concerts, courses, crashes, exhibitions, hikes, movies, plays, podcasts, shows, trips)),
+      PageGroup(Seq(articles, books, concerts, courses, crashes, exhibitions, hikes, movies, plays, podcasts, shows, trips)),
       PageGroup(Seq(booksToRead, moviesToWatch, tripsToTake)),
       PageGroup(Seq(statistics))))
 
@@ -114,5 +115,5 @@ object Sitemap {
     (currentAndChildren(root) ++ nonRootPages).distinct
   }
 
-  val recentActivityPages = Seq(books, concerts, courses, exhibitions, movies, plays, podcasts, trips, shows)
+  val recentActivityPages = Seq(articles, books, concerts, exhibitions, movies, plays, podcasts, trips, shows)
 }
