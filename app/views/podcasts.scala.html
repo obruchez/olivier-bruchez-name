@@ -3,30 +3,30 @@
 @(podcasts: Podcasts)
 
 @header = {
-    <tr>
-        <th class="col-md-1">Date</th>
-        <th class="col-md-3">Name</th>
-        <th>#</th>
-        <th>Episode</th>
-        <th class="col-md-3">Comments</th>
-    </tr>
+  <tr>
+    <th class="col-md-1">Date</th>
+    <th class="col-md-3">Name</th>
+    <th>#</th>
+    <th>Episode</th>
+    <th class="col-md-3">Comments</th>
+  </tr>
 }
 
 @rowFromItem(listItem: ListItem) = {
-@defining(listItem.asInstanceOf[Podcast]) { podcast =>
+  @defining(listItem.asInstanceOf[Podcast]) { podcast =>
     <tr>
-        <td>@sluganddate(podcast)</td>
-        <td>@{podcast.url.fold[xml.NodeSeq](xml.Text(podcast.name))(url => <a href={url.toString}>{podcast.name}</a>)}</td>
-        <td>@{podcast.episodeNumber.fold("-")(_.toString)}</td>
-        <td>@{podcast.episodeUrl.fold[xml.NodeSeq](xml.Text(podcast.episodeName))(url => <a href={url.toString}>{podcast.episodeName}</a>)}</td>
-        <td>@podcast.comments.map(_.html).getOrElse(Html(""))</td>
+      <td>@sluganddate(podcast)</td>
+      <td>@{podcast.url.fold[xml.NodeSeq](xml.Text(podcast.name))(url => <a href={url.toString}>{podcast.name}</a>)}</td>
+      <td>@{podcast.episodeNumber.fold("-")(_.toString)}</td>
+      <td>@{podcast.episodeUrl.fold[xml.NodeSeq](xml.Text(podcast.episodeName))(url => <a href={url.toString}>{podcast.episodeName}</a>)}</td>
+      <td>@podcast.comments.map(_.html).getOrElse(Html(""))</td>
     </tr>
-}
+  }
 }
 
 @list(
-    page = Sitemap.podcasts,
-    cacheable = podcasts,
-    header = header,
-    rowFromItem = rowFromItem,
-    nextItemsTitle = Some("Currently listening to"))
+  page = Sitemap.podcasts,
+  cacheable = podcasts,
+  header = header,
+  rowFromItem = rowFromItem,
+  nextItemsTitle = Some("Currently listening to"))

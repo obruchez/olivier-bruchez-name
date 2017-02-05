@@ -3,28 +3,28 @@
 @(articles: Articles)
 
 @header = {
-    <tr>
-        <th class="col-md-1">Date</th>
-        <th class="col-md-3">Title</th>
-        <th>Subtitle</th>
-        <th class="col-md-3">Comments</th>
-    </tr>
+  <tr>
+    <th class="col-md-1">Date</th>
+    <th class="col-md-3">Title</th>
+    <th>Subtitle</th>
+    <th class="col-md-3">Comments</th>
+  </tr>
 }
 
 @rowFromItem(listItem: ListItem) = {
-@defining(listItem.asInstanceOf[Article]) { article =>
+  @defining(listItem.asInstanceOf[Article]) { article =>
     <tr>
-        <td>@sluganddate(article)</td>
-        <td>@{article.url.fold[xml.NodeSeq](xml.Text(article.title))(url => <a href={url.toString}>{article.title}</a>)}</td>
-        <td>@article.subtitle.getOrElse("")</td>
-        <td>@article.comments.map(_.html).getOrElse(Html(""))</td>
+      <td>@sluganddate(article)</td>
+      <td>@{article.url.fold[xml.NodeSeq](xml.Text(article.title))(url => <a href={url.toString}>{article.title}</a>)}</td>
+      <td>@article.subtitle.getOrElse("")</td>
+      <td>@article.comments.map(_.html).getOrElse(Html(""))</td>
     </tr>
-}
+  }
 }
 
 @list(
-    page = Sitemap.articles,
-    cacheable = articles,
-    header = header,
-    rowFromItem = rowFromItem,
-    nextItemsTitle = Some("Currently reading"))
+  page = Sitemap.articles,
+  cacheable = articles,
+  header = header,
+  rowFromItem = rowFromItem,
+  nextItemsTitle = Some("Currently reading"))
