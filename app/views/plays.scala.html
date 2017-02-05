@@ -27,7 +27,6 @@
           (if (play.actors.isEmpty) Seq() else Seq(s"Actors: ${play.actors.mkString(", ")}"))
 
         paragraphs.map(paragraph => <p>{paragraph}</p>).foldLeft(xml.NodeSeq.Empty)(_ ++ _)
-
       }</td>
       <td>@views.html.rating(play.rating)</td>
       <td>@play.comments.fold(Html(""))(_.html)</td>

@@ -14,6 +14,7 @@ GET        /lifelogging                      controllers.Application.lifelogging
 
 GET        /articles                         controllers.Application.articles
 GET        /books                            controllers.Application.books
+GET        /comics                           controllers.Application.comics
 GET        /books/:slug/notes                controllers.BookNotesController.bookNotes(slug: String)
 GET        /concerts                         controllers.Application.concerts
 GET        /courses                          controllers.Application.courses

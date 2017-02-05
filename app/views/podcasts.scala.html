@@ -17,7 +17,7 @@
     <tr>
         <td>@sluganddate(podcast)</td>
         <td>@{podcast.url.fold[xml.NodeSeq](xml.Text(podcast.name))(url => <a href={url.toString}>{podcast.name}</a>)}</td>
-        <td>@{podcast.episodeNumber.fold("_")(_.toString)}</td>
+        <td>@{podcast.episodeNumber.fold("-")(_.toString)}</td>
         <td>@{podcast.episodeUrl.fold[xml.NodeSeq](xml.Text(podcast.episodeName))(url => <a href={url.toString}>{podcast.episodeName}</a>)}</td>
         <td>@podcast.comments.map(_.html).getOrElse(Html(""))</td>
     </tr>

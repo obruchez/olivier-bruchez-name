@@ -26,6 +26,7 @@ object Sitemap {
 
   val articles = Page(Articles, routes.Application.articles())
   val books = Page(Books, routes.Application.books())
+  val comics = Page(Comics, routes.Application.comics())
   val concerts = Page(Concerts, routes.Application.concerts())
   val courses = Page(Courses, routes.Application.courses())
   val crashes = Page(Crashes, routes.Application.crashes())
@@ -48,7 +49,7 @@ object Sitemap {
     routes.Application.lifelogging(),
     "fa-list",
     groupChildren = Seq(
-      PageGroup(Seq(articles, books, concerts, courses, crashes, exhibitions, hikes, movies, plays, podcasts, shows, trips)),
+      PageGroup(Seq(articles, books, comics, concerts, courses, crashes, exhibitions, hikes, movies, plays, podcasts, shows, trips)),
       PageGroup(Seq(booksToRead, moviesToWatch, tripsToTake)),
       PageGroup(Seq(statistics))))
 
