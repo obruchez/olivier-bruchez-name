@@ -89,11 +89,11 @@ h4.toc-title-and-toggle {
     margin-top: 0;
 }
 
-.contentbox .table {
+.contentbox .table, table p {
     margin-bottom: 0;
 }
 
-.tag-box.contentbox p:not(:last-child) {
+.tag-box.contentbox p:not(:last-child), table p:not(:last-child) {
     margin-bottom: 10px;
 }
 
