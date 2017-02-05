@@ -7,10 +7,9 @@
     <th class="col-md-1">Date</th>
     <th class="col-md-2">Author</th>
     <th class="col-md-3">Title</th>
-    <th class="col-md-2">Subtitle</th>
     <th>Year</th>
     <th>Rating</th>
-    <th class="col-md-1">Comments</th>
+    <th class="col-md-3">Comments</th>
     <th class="col-md-1">Notes</th>
   </tr>
 }
@@ -20,8 +19,9 @@
     <tr>
       <td>@sluganddate(book)</td>
       <td>@book.author</td>
-      <td><a href="@book.url.toString">@book.title</a></td>
-      <td>@book.subtitle.getOrElse("")</td>
+      <td>@{
+        <a href={book.url.toString}>{book.title}</a> ++ book.subtitle.map(s => xml.Text(s": $s")).getOrElse(xml.NodeSeq.Empty)
+      }</td>
       <td>@book.year</td>
       <td>@views.html.rating(book.rating)</td>
       <td>@book.comments.fold(Html(""))(_.html)</td>
