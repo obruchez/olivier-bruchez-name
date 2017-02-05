@@ -20,11 +20,10 @@
 @header = {
   <tr>
     <th class="col-md-1">Date</th>
-    <th class="col-md-3">Musicians</th>
-    <th class="col-md-3">Location</th>
-    <th class="col-md-2">Event</th>
+    <th class="col-md-4">Musicians</th>
+    <th class="col-md-3">Location / event</th>
     <th class="col-md-1">Rating</th>
-    <th class="col-md-2">Comments</th>
+    <th class="col-md-3">Comments</th>
   </tr>
 }
 
@@ -33,8 +32,7 @@
     <tr>
       <td>@sluganddate(concert)</td>
       <td><p>@musicians(concert.band, concert.musicians)</p></td>
-      <td>@concert.location</td>
-      <td>@concert.event.getOrElse("")</td>
+      <td>@{xml.Text(concert.location) ++ concert.event.map(e => <br/> ++ xml.Text(s"($e)")).getOrElse(xml.NodeSeq.Empty)}</td>
       <td>@views.html.rating(concert.rating)</td>
       <td>@concert.comments.fold(Html(""))(_.html)</td>
     </tr>
