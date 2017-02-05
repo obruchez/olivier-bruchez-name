@@ -14,6 +14,7 @@ case class Podcast(override val date: Partial,
                    episodeName: String,
                    episodeUrl: Option[URL],
                    episodeNumber: Option[Int],
+                   comments: Option[HtmlContent],
                    override val itemSlug: Option[String] = None,
                    override val itemUrl: Option[String] = None,
                    override val next: Boolean = false)
@@ -40,7 +41,8 @@ object Podcast {
       url = Option((nameNode \@ "url").trim).filter(_.nonEmpty).map(new URL(_)),
       episodeName = episodeNode.text.trim,
       episodeUrl = Option((episodeNode \@ "url").trim).filter(_.nonEmpty).map(new URL(_)),
-      episodeNumber = Option((episodeNode \@ "number").trim).filter(_.nonEmpty).map(_.toInt))
+      episodeNumber = Option((episodeNode \@ "number").trim).filter(_.nonEmpty).map(_.toInt),
+      comments = Parsing.commentsFromNodeChildren((rootNode \\ "comments").headOption))
   }
 }
 

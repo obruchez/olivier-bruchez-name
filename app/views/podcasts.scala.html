@@ -4,10 +4,11 @@
 
 @header = {
     <tr>
-        <th class="col-md-2">Date</th>
+        <th class="col-md-1">Date</th>
         <th class="col-md-3">Name</th>
-        <th class="col-md-1">#</th>
-        <th class="col-md-6">Episode</th>
+        <th>#</th>
+        <th>Episode</th>
+        <th class="col-md-3">Comments</th>
     </tr>
 }
 
@@ -18,6 +19,7 @@
         <td>@{podcast.url.fold[xml.NodeSeq](xml.Text(podcast.name))(url => <a href={url.toString}>{podcast.name}</a>)}</td>
         <td>@{podcast.episodeNumber.fold("_")(_.toString)}</td>
         <td>@{podcast.episodeUrl.fold[xml.NodeSeq](xml.Text(podcast.episodeName))(url => <a href={url.toString}>{podcast.episodeName}</a>)}</td>
+        <td>@podcast.comments.map(_.html).getOrElse(Html(""))</td>
     </tr>
 }
 }
