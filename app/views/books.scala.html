@@ -20,11 +20,11 @@
       <td>@sluganddate(book)</td>
       <td>@book.author</td>
       <td>@{
-        <a href={book.url.toString}>{book.title}</a> ++ book.subtitle.map(s => xml.Text(s": $s")).getOrElse(xml.NodeSeq.Empty)
+        <a href={book.url.toString}>{book.title}</a> ++ book.subtitle.map(subtitle => xml.Text(s": $subtitle"))
       }</td>
       <td>@book.year</td>
       <td>@views.html.rating(book.rating)</td>
-      <td>@book.comments.fold(Html(""))(_.html)</td>
+      <td>@book.comments.map(_.html).getOrElse(Html(""))</td>
       <td>@book.notes.map { notes =>
         <a href="@routes.BookNotesController.bookNotes(notes.slug)">@notes.description.getOrElse(BookNotes.DefaultDescription)</a>
       }</td>

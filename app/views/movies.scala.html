@@ -35,15 +35,16 @@
       }</td>
       <td>@views.html.rating(movie.rating)</td>
       <td>@{
-        val comments = movie.comments map { comments =>
-          <p>{comments.html}</p>
-        }
+        // Warning: we're manipulating raw HTML here (comments); don't inject it into XML trees
 
-        val version = movie.version map { version =>
-          <p>{xml.Text(s"Version: ${version.getDisplayName(java.util.Locale.ENGLISH)}")}</p>
-        }
+        val rawComments = movie.comments.map(comments => s"<p>${comments.html}</p>").getOrElse("")
 
-        comments ++ version
+
+        val rawVersion = movie.version map { version =>
+          s"<p>Version: ${version.getDisplayName(java.util.Locale.ENGLISH)}</p>"
+        } getOrElse ""
+
+        Html(rawComments + rawVersion)
       }</td>
     </tr>
   }
