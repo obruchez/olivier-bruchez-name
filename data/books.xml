@@ -178,6 +178,7 @@
         <rating>4.75</rating>
         <url>https://books.google.com/books?vid=1617290653</url>
         <notes description="Kindle highlights">Functional Programming in Scala (Paul Chiusano &amp; Runar Bjarnason).md</notes>
+        <image>Functional Programming in Scala.jpg</image>
     </book>
     <book>
         <date>2015.10.03</date>
@@ -187,6 +188,7 @@
         <rating>3.75</rating>
         <url>https://fr.wikipedia.org/wiki/Hygi%C3%A8ne_de_l%27assassin</url>
         <notes description="Kindle highlights">Hygiene de l'assassin (Amelie Nothomb).md</notes>
+        <image>Hygiène de l'assassin.jpg</image>
     </book>
     <book>
         <date>2015.09.26</date>
