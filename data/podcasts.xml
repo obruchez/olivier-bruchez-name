@@ -3,9 +3,15 @@
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
     <date></date>
+    <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
+    <episode url="https://www.samharris.org/podcast/item/what-is-true" number="62">What is True? - A Conversation with Jordan B. Peterson</episode>
+    <comments></comments>
+  </podcast>
+  <podcast>
+    <date>2017.02.08</date>
     <name>Alex &amp; Erik's Podcast</name>
     <episode number="38">Democracy, a new era of demagoguery, or just a fluke?</episode>
-    <comments>Is the rise of populism caused by more democratic, less elitist societies? What role does technology have when it comes to democracy? Those are intriguing questions. I agree that the "fake news" phenomenon is similar to spam and can probably be fixed, technologically, in a similar way. The "echo chamber" phenomenon is a bit harder to fix, as people are on social networks such as Facebook for fun, not to be challenged. But I have the intuition that it can also be fixed (via psychology, deep learning, etc.).</comments>
+    <comments>Is the rise of populism (and the election of people such as Trump) caused by more democratic, less elitist societies? What role does technology have when it comes to democracy? Those are intriguing questions. I agree that the "fake news" phenomenon is similar to spam and can probably be fixed, technologically, in a similar way. The "echo chamber" phenomenon is a bit harder to fix, as people are on social networks such as Facebook for fun, not to be challenged. But I have the intuition that it can also be fixed (via psychology, deep learning, etc.). Another factor is the rise of inequalities. Here, I don't completely agree with <a href="https://danielmiessler.com/blog/its-the-people-stupid/">Daniel Miessler</a>: you have to "fix" the people, but you also have to fix (by fine-tuning or radically changing?) the system.</comments>
   </podcast>
   <podcast>
     <date>2017.02.06</date>
