@@ -22,12 +22,28 @@ Oui. Résultat : ? (??.?%).
 
 ### Acceptez-vous la loi fédérale du 17 juin 2016 sur l’amélioration des conditions fiscales en vue de renforcer la compétitivité du site entrepreneurial suisse (Loi sur la réforme de l’imposition des entreprises III) ?
 
-Oui. Résultat : ? (??.?%).
+Non. Résultat : ? (??.?%).
 
 - Le comité référendaire dénonce l'utilisation de "mots compliqués", mais le sujet *est* compliqué. Peut-on vraiment espérer qu'une partie significative de la population comprenne tous les enjeux de cette réforme ? Est-ce que cela doit forcément être le cas ?
 - C'est un mauvais argument, mais le ton utilisé par le comité référendaire n'est vraiment pas sérieux : "combines", "arnaque", etc. Cela me rappelle tristement l'UDC.
 - La question, finalement, revient à savoir à quel point on souhaite encourager certaines entreprises, intéressantes fiscalement, à rester en Suisse.
-- Loin de comprendre tous les enjeux de ce référendum, je penche pour un petit oui.
+- Je suis pour le fait de supprimer les statuts spéciaux (comme j'étais pour la suppression du secret bancaire).
+- Il est positif d'encourager "l'innovation" par la recherche et le développement.
+- Après la lecture de ["Pourquoi des économistes votent non à la RIE III"](https://www.letemps.ch/opinions/2017/01/31/economistes-votent-non-rie-iii) et l'écoute du débat Infrarouge, je penche pour un petit non.
+
+[Débat Infrarouge du 11 janvier 2017](https://www.rts.ch/info/suisse/8300299-rie-iii-catastrophe-a-venir-ou-bienfait-pour-l-economie-.html) :
+
+- Contre : déséquilibre entre fiscalité des personnes physiques et des entreprises.
+- Pour : il y a urgence (Trump, Brexit, les US et les UK ont annoncé des taux à 15%).
+- Contre : la RIE III va entraîner une baisse des prestations de la part des villes et des communes et/ou des hausses d'impôts chez les personnes physiques.
+- Argument de la droite : "la dignité passe par l'emploi" (discours idéologique auquel je n'adhère pas).
+- Contre : le concept d'intérêt notionnel semble ne pas vraiment fonctionner (Belgique).
+- Pays de l'OCDE : bénéfices des entreprises en hausse, investissements en recul.
+- Grands gagnants de la RIE III : grands actionnaires des grosses entreprises ? 75% des dividendes versés à des étrangers ?
+- PME pourraient bénéficier indirectement ("tissu économique suisse").
+- Fiscalité = pas le seul élément retenant les sociétés en Suisse : qualification des employés, qualité des prestations publiques, stabilité politique.
+- En cas d'acceptation, il y aura environ 2.7 milliards de pertes fiscales.
+- Une étude mentionne 7 milliards de pertes en cas de refus.
 
 ## [Votation fédérale du 27 novembre 2016](https://www.admin.ch/gov/fr/accueil/documentation/votations/20161127/initiative-sortir-du-nucleaire.html)
 
