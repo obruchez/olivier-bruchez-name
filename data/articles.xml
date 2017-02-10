@@ -2,6 +2,12 @@
 <articles>
   <introduction>A list of articles I read.</introduction>
   <article>
+    <date>2017.02.10</date>
+    <title url="https://blog.plan99.net/the-science-of-westworld-ec624585e47">The science of Westworld</title>
+    <subtitle>A summary of recent artificial intelligence research</subtitle>
+    <comments>"A summary of recent artificial intelligence research" using Westworld, one of my favorite shows, as an illustration. This works well and the article touches on some complex topics/issues (intermediate tests towards a more complete Turing test, memory and neural networks, AI control problem, etc.).</comments>
+  </article> 
+  <article>
     <date>2017.02.05</date>
     <title url="https://medium.com/@jitbit/facebook-is-terrifying-8dc4a016b64b">Facebook is terrifying</title>
     <comments>I'm not terrified. Is there anything wrong with me? More seriously, I do have things to hide (my passwords, for one thing), but I'm less concerned than most people about privacy issues.</comments>
