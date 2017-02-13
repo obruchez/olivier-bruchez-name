@@ -205,6 +205,7 @@
         <item url="https://en.wikipedia.org/wiki/Friends">Friends</item>
         <item url="https://en.wikipedia.org/wiki/Futurama">Futurama</item>
         <item url="https://en.wikipedia.org/wiki/Game_of_Thrones">Game of Thrones</item>
+        <item url="https://en.wikipedia.org/wiki/Horace_and_Pete">Horace and Pete</item>
         <item url="https://en.wikipedia.org/wiki/How_I_Met_Your_Mother">How I Met Your Mother</item>
         <item url="https://en.wikipedia.org/wiki/Inside_No._9">Inside No. 9</item>
         <item url="https://en.wikipedia.org/wiki/The_IT_Crowd">The IT Crowd</item>
@@ -220,7 +221,7 @@
         <item url="https://en.wikipedia.org/wiki/The_Spoils_of_Babylon">The Spoils of Babylon</item>
         <item url="https://en.wikipedia.org/wiki/The_Tripods_(TV_series)">The Tripods</item>
         <item url="https://en.wikipedia.org/wiki/Twin_Peaks">Twin Peaks</item>
-        <!-- <item url="https://en.wikipedia.org/wiki/Westworld_(TV_series)">Westworld</item> -->
+        <item url="https://en.wikipedia.org/wiki/Westworld_(TV_series)">Westworld</item>
     </list>
     <list title="Web comics">
         <item url="http://909sickle.net/">909sickle</item>
@@ -233,7 +234,6 @@
         <item url="http://dilbert.com/">Dilbert</item>
         <item url="http://existentialcomics.com/">Existential Comics</item>
         <item url="http://geek-and-poke.com/">Geek &amp; Poke</item>
-        <item url="http://vidberg.blog.lemonde.fr/">L'actu en patates</item>
         <item url="http://www.lunarbaboon.com/">Lunarbaboon</item>
         <item url="http://nedroid.com/">Nedroid</item>
         <item url="http://owlturd.com/">Owlturd</item>
