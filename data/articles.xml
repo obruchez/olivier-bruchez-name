@@ -2,6 +2,12 @@
 <articles>
   <introduction>A list of articles I read.</introduction>
   <article>
+    <date>2017.02.13</date>
+    <title url="http://www.bbc.com/future/story/20170131-the-secret-to-living-a-meaningful-life">The secret to living a meaningful life</title>
+    <subtitle>Your ambitions to improve your life do not need to be confined by your personality.</subtitle>
+    <comments>The title is a clickbait, of course. Our core projects affect our happiness, so they should feel attainable and be aligned with our values. Nothing that Getting Things Done (GTD) hasn't said before, I guess.</comments>
+  </article>
+  <article>
     <date>2017.02.10</date>
     <title url="https://blog.plan99.net/the-science-of-westworld-ec624585e47">The science of Westworld</title>
     <subtitle>A summary of recent artificial intelligence research</subtitle>
