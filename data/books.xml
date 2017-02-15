@@ -2,6 +2,17 @@
 <books>
     <introduction>A list of books I read.</introduction>
     <book>
+        <date></date>
+        <title>Nineteen Eighty-Four</title>
+        <author>George Orwell</author>
+        <publishingyear>1949</publishingyear>
+        <rating></rating>
+        <url>https://en.wikipedia.org/wiki/Nineteen_Eighty-Four</url>
+        <!-- <notes description="Kindle highlights"></notes> -->
+        <comments></comments>
+        <image>Nineteen Eighty-Four.jpg</image>
+    </book>
+    <book>
         <date>2017.02.08</date>
         <title>Life in Light of Death</title>
         <author>James A. Lindsay</author>
