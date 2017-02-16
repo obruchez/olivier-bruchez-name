@@ -2,7 +2,7 @@
 <lifeprinciples>
     <introduction>My life principles (in French).</introduction>
     <introduction>Le premier jet de cette liste date de 2011. J'essaie de faire en sorte qu'elle corresponde en permanence à mes principes de vie actuels.</introduction>
-    <lifeprinciple summary="Agir" slug="agir">Être plus dynamique, moins passif. Moins hésiter, prendre des décisions rationnelles mais rapides. Savoir saisir les opportunités.</lifeprinciple>
+    <lifeprinciple summary="Agir" slug="agir">Être plus dynamique, moins passif. Moins hésiter, prendre des décisions rationnelles mais rapides. Eviter le perfectionnisme ("good enough"). Savoir saisir les opportunités.</lifeprinciple>
     <lifeprinciple summary="Apprendre" slug="apprendre">Être curieux. Comprendre le monde qui m’entoure. Savoir ce que je crois et pourquoi je le crois. Savoir me remettre en question. Apprendre de mes erreurs. Apprendre de nouvelles choses régulièrement, si possible tous les jours. Acquérir des connaissances de base dans le plus de domaines possibles. Acquérir des connaissances beaucoup plus approfondies dans quelques domaines spécifiques qui me tiennent à coeur. Développer ma culture (art, cinéma, littérature, musique, etc.).</lifeprinciple>
     <lifeprinciple summary="Communiquer" slug="communiquer">Communiquer mes idées le plus clairement et honnêtement possible. Apprendre à mieux écrire. Ecrire sur ce qui me tient à coeur. Apprendre à mieux parler.</lifeprinciple>
     <lifeprinciple summary="Confiance en soi" slug="confiance-en-soi">Savoir ce que je veux. Être conscient de ma valeur, avec humilité. Être à l'aise avec les autres. Faire face à mes peurs/phobies en les affrontant directement plutôt qu'en les évitant.</lifeprinciple>
@@ -11,10 +11,10 @@
     <lifeprinciple summary="Détente" slug="detente">Loisirs, relaxation, méditation, etc.</lifeprinciple>
     <lifeprinciple summary="Équilibre" slug="equilibre">Entre la famille, les amis, le travail, les loisirs, etc. Eviter les dépendances.</lifeprinciple>
     <lifeprinciple summary="Explorer" slug="explorer">Savoir sortir de ma zone de confort, prendre parfois plus de risques. Essayer de nouvelles activités, de nouvelles idées. Visiter des endroits que je ne connais pas.</lifeprinciple>
-    <lifeprinciple summary="Laisser tomber" slug="laisser-tomber">Accepter de ne pas avoir le contrôle sur tout. Ne pas me laisser aller à la colère. Savoir pardonner. Accepter les erreurs (les miennes et celles des autres). Avoir de la compassion.</lifeprinciple>
-    <lifeprinciple summary="Présent" slug="present">Vivre le moment présent. Apprécier ce qui est. Savoir écouter. Cesser de me faire du souci concernant le futur. Ne pas regretter le passé.</lifeprinciple>
+    <lifeprinciple summary="Laisser tomber" slug="laisser-tomber">Accepter de ne pas avoir le contrôle sur tout. Ne pas me laisser aller à la colère. Savoir pardonner. Accepter les erreurs (les miennes et celles des autres). Avoir de la compassion (mais pas trop d'empathie, c'est différent).</lifeprinciple>
+    <lifeprinciple summary="Présent" slug="present">Vivre le moment présent. Apprécier ce qui est. Savoir écouter. Cesser de me faire du souci concernant le futur. Ne pas regretter le passé. Prendre conscience du fait que mon temps est limité (i.e. la vie a une durée limitée).</lifeprinciple>
     <lifeprinciple summary="Raison" slug="raison">Scepticisme, raison, science, philosophie et curiosité.</lifeprinciple>
     <lifeprinciple summary="Reconnaissance" slug="reconnaissance">Etre content de ce que j'ai. Savoir remercier les gens.</lifeprinciple>
     <lifeprinciple summary="Santé" slug="sante">Sport, détente, sommeil et nutrition.</lifeprinciple>
-    <lifeprinciple summary="Simplifier" slug="simplifier">Avoir moins de possessions, moins d'activités superflues, moins d'informations superflues ("information" overload). Aller à l’essentiel. Privilégier la qualité (le temps étant précieux). Eviter le perfectionnisme ("good enough"). Devenir moins dépendant de l'argent.</lifeprinciple>
+    <lifeprinciple summary="Simplifier" slug="simplifier">Avoir moins de possessions, moins d'activités superflues, moins d'informations superflues ("information" overload). Aller à l’essentiel. Privilégier la qualité (le temps étant précieux). Devenir moins dépendant de l'argent.</lifeprinciple>
 </lifeprinciples>
