@@ -2,6 +2,16 @@
 <movies>
   <introduction>A list of movies I saw.</introduction>
   <movie>
+    <date>2017.02.18</date>
+    <theater home="true"/>
+    <director>Lana Wachowski &amp; Lilly Wachowski</director>
+    <title>The Matrix</title>
+    <url>http://www.imdb.com/title/tt0133093/</url>
+    <rating>5.25</rating>
+    <comments>A classic. I saw this movie twice, in 1999 and 2000. 18 years later, it's a bit weird to see huge computer monitors and old mobile phones. But it's still an excellent movie.</comments>
+    <image>The Matrix.jpg</image>
+  </movie>
+  <movie>
     <date>2017.02.04</date>
     <theater home="true"/>
     <director>Mamoru Hosoda</director>
