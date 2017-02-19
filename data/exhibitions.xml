@@ -2,6 +2,14 @@
 <exhibitions>
     <introduction>A list of exhibitions I visited.</introduction>
     <exhibition>
+        <date>2017.02.19</date>
+        <name>Permanent exhibition</name>
+        <museum>Nest, Vevey, Switzerland</museum>
+        <rating>4.25</rating>
+        <comments>We visited this museum to see if it would be suitable for a school trip. It's very well done, but, at the end of the day, it's a museum dedicated to one of the largest food companies in the world.</comments>
+        <image>Nest.jpg</image>
+    </exhibition>
+    <exhibition>
         <date>2017.01.03</date>
         <name>Hieronymus Bosch and His Pictorial World in the 16th and 17th century / Permanent exhibition</name>
         <museum>Gemäldegalerie, Berlin, Germany</museum>
