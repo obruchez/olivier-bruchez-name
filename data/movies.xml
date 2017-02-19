@@ -2,6 +2,16 @@
 <movies>
   <introduction>A list of movies I saw.</introduction>
   <movie>
+    <date>2017.02.19</date>
+    <theater>Galeries, Lausanne</theater>
+    <director>Kenneth Lonergan</director>
+    <title>Manchester by the Sea</title>
+    <url>http://www.imdb.com/title/tt4034228/</url>
+    <rating>5.0</rating>
+    <comments>A very moving movie, without, of course, much action, as it's all about the caracters. Very hard not to cry at least twice or three times during the movie...</comments>
+    <image>Manchester by the Sea.jpg</image>
+  </movie>
+  <movie>
     <date>2017.02.18</date>
     <theater home="true"/>
     <director>Lana Wachowski &amp; Lilly Wachowski</director>
