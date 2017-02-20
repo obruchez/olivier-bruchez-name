@@ -3,9 +3,15 @@
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
     <date></date>
+    <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
+    <episode url="https://www.samharris.org/podcast/item/why-meditate" number="63">Why Meditate? - A Conversation with Joseph Goldstein</episode>
+    <comments></comments>
+  </podcast>
+  <podcast>
+    <date>2017.02.20</date>
     <name url="http://podcastjuice.net/category/shows/the-prince-podcast/">The Prince Podcast</name>
     <episode url="http://podcastjuice.net/the-prince-podcast-eric-leeds-interview-part-2/">Eric Leeds Interview Part 2</episode>
-    <comments>Surprising to learn that Eric "suffered through" the Lovesexy tour (because the show was very repetitive, because it started after months of boring rehearsals, etc.), when, from a fan perspective, it's just a fantastic tour. The fact that Eric came from a jazz/R&amp;B background and was not particularly interested in the pop/rock dimension of Prince's music, in particular, but is very grateful of all the opportunities Prince gave him, is refreshing. I like the way Alan and Eric have never been afraid to say positive, as well as negative things about Prince. The parts about the dinner with Miles Davis at Prince's home and Prince listening to Coltrane's "A Love Supreme" on repeat were fun. Also, the background story of the Madhouse albums and Eric's own first two albums, even if largely known, was also nice to hear. Will they talk about "N.E.W.S."?</comments>
+    <comments>Surprising to learn that Eric "suffered through" the Lovesexy tour (because the show was very repetitive, because it started after months of boring rehearsals, etc.), when, from a fan perspective, it's just a fantastic tour. The fact that Eric came from a jazz/R&amp;B background and was not particularly interested in the pop/rock dimension of Prince's music, in particular, but is very grateful of all the opportunities Prince gave him, is refreshing. I like the way Alan and Eric have never been afraid to say positive, as well as negative things about Prince. The parts about the dinner with Miles Davis at Prince's home and Prince listening to Coltrane's "A Love Supreme" on repeat were fun. Also, the background story of the Madhouse albums and Eric's own first two albums, even if largely known, was also nice to hear. It's a shame they didn't talk about "N.E.W.S.", though.</comments>
   </podcast>
   <podcast>
     <date>2017.02.16</date>
