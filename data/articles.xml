@@ -2,6 +2,11 @@
 <articles>
   <introduction>A list of articles I read.</introduction>
   <article>
+    <date>2017.02.20</date>
+    <title url="http://corgibytes.com/blog/2016/12/06/getting-old-er-in-tech/">On Getting Old(er) in Tech</title>
+    <comments>This is a topic I'm interested in, as I'm approaching my 40s and I'm a software engineer. tl;dr: you have to keep learning.</comments>
+  </article>
+  <article>
     <date>2017.02.17</date>
     <title url="http://nymag.com/scienceofus/2017/01/why-your-mind-is-always-wandering.html">Is the Default Mode of the Brain to Suffer?</title>
     <comments>"When the brain is "at rest," it’s doing anything but resting." This is obvious to anybody who's ever tried to meditate. The good news seems to be that there's mounting evidence that becoming more aware of what's going on in our minds (e.g. by meditating) changes our default state (our "default mode network", or DMN) in a positive way.</comments>
