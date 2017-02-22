@@ -20,6 +20,7 @@
 ## Mathematics (calculus)
 
 * [0a explains: Calculus (with pics and gifs)](http://0a.io/calculus-explained) (graphics / animations)
+* [Understanding e to the pi i](https://www.youtube.com/watch?v=F_0yfvm0UoU)
 
 ## Mathematics (general)
 
