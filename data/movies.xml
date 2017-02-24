@@ -2,6 +2,16 @@
 <movies>
   <introduction>A list of movies I saw.</introduction>
   <movie>
+    <date>2017.02.24</date>
+    <theater home="true"/>
+    <director>David Fincher</director>
+    <title>Fight Club</title>
+    <url>http://www.imdb.com/title/tt0137523/</url>
+    <rating>5.0</rating>
+    <comments>"The things you own end up owning you". I really like the anti-consumerism theme in the movie, as I tend (or would like) to be a <a href="https://en.wikipedia.org/wiki/Simple_living">minimalist</a>. This is the first time I watched "Fight Club" since 1999. This is obviously a good movie, but watching it more than once is a bit like watching <a href="http://www.imdb.com/title/tt0167404/">"The Sixth Sense"</a> more than once, right?</comments>
+    <image>Fight Club.jpg</image>
+  </movie>
+  <movie>
     <date>2017.02.19</date>
     <theater>Galeries, Lausanne</theater>
     <director>Kenneth Lonergan</director>
