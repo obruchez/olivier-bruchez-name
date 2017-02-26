@@ -2,6 +2,16 @@
 <movies>
   <introduction>A list of movies I saw.</introduction>
   <movie>
+    <date>2017.02.25</date>
+    <theater>Pathé Flon, Lausanne</theater>
+    <director>Damien Chazelle</director>
+    <title>La La Land</title>
+    <url>http://www.imdb.com/title/tt3783958/</url>
+    <rating>5.0</rating>
+    <comments>"I hate jazz" (Mia). I can imagine many people saying exactly that. Or at least: "I don't understand jazz". Actually, that's what I regularly hear. Like Sebastian, I love jazz, so I could totally understand his reaction to Mia's ignorant comment. But "La La Land" is not only about jazz. It's also about Los Angeles and Hollywood in particular. It's about what we want in our lives, about our dreams. So, yes, it's a bit cliché and the movie is probably not as good as many people say it is. <a href="http://www.imdb.com/title/tt2582802/">"Whiplash"</a> was better. But it's a good movie nevertheless. Very well done.</comments>
+    <image>La La Land.jpg</image>
+  </movie>
+  <movie>
     <date>2017.02.24</date>
     <theater home="true"/>
     <director>David Fincher</director>
