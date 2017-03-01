@@ -257,6 +257,7 @@
         <rating>5.0</rating>
         <url>https://en.wikipedia.org/wiki/Bad_Pharma</url>
         <notes description="Kindle highlights">Bad Pharma (Ben Goldacre).md</notes>
+        <image>Bad Pharma.jpg</image>
     </book>
     <book>
         <date>2015.03.24</date>
@@ -266,6 +267,7 @@
         <rating>4.75</rating>
         <url>https://fr.wikipedia.org/wiki/Stupeur_et_Tremblements</url>
         <notes description="Kindle highlights">Stupeur et Tremblements (Amelie Nothomb).md</notes>
+        <image>Stupeur et Tremblements.jpg</image>
     </book>
     <book>
         <date>2015.03.21</date>
