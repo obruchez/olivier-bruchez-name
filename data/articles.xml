@@ -2,10 +2,21 @@
 <articles>
   <introduction>A list of articles I read.</introduction>
   <article>
+    <date>2017.03.01</date>
+    <title url="http://antirez.com/news/112"></title>
+    <comments>There are a lot of "10x programmer" articles. This one is not bad. I guess the conclusion is always the same: you can be a programmer without knowking too many things (the barrier to entry to become a programmer is really low), but you have to know a lot of things to be a good programmer. Also, some of the things you need to know are not technical per se (avoiding complex designs, avoiding "perfection", etc.).</comments>
+  </article>
+  <article>
+    <date>2017.03.01</date>
+    <title url="http://www.wired.co.uk/article/singularity-comes-from-clay-not-computers">The roots of technological singularity can be traced backed to the Stone Age</title>
+    <subtitle>The true obstacle for the human race has always been overcoming our own organic matter, not the threat posed by intelligent machines</subtitle>
+    <comments>"With clay tablets, humans overcame the limitations of their brains 5,000 years ago. The first singularity took place in the Stone Age." I don't agree with their use of the word "singularity", but the first writing is an important step towards the Singularity, as it allowed information to start circulating outside of our brains.</comments>
+  </article>
+  <article>
     <date>2017.02.25</date>
     <title url="http://timharford.com/2017/02/what_makes_the_perfect_office/">What makes the perfect office?</title>
     <comments>"What people love, instead, is the ability to control the space in which they work". I sure wouldn't want people to tell me how to organize my office. Personally, I enjoy a clear desk. And a coffee machine very close to my desk.</comments>
-  </article> 
+  </article>
   <article>
     <date>2017.02.20</date>
     <title url="http://corgibytes.com/blog/2016/12/06/getting-old-er-in-tech/">On Getting Old(er) in Tech</title>
