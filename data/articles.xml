@@ -3,7 +3,7 @@
   <introduction>A list of articles I read.</introduction>
   <article>
     <date>2017.03.01</date>
-    <title url="http://antirez.com/news/112"></title>
+    <title url="http://antirez.com/news/112">The mythical 10x programmer</title>
     <comments>There are a lot of "10x programmer" articles. This one is not bad. I guess the conclusion is always the same: you can be a programmer without knowking too many things (the barrier to entry to become a programmer is really low), but you have to know a lot of things to be a good programmer. Also, some of the things you need to know are not technical per se (avoiding complex designs, avoiding "perfection", etc.).</comments>
   </article>
   <article>
