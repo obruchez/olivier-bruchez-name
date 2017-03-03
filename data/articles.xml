@@ -2,6 +2,12 @@
 <articles>
   <introduction>A list of articles I read.</introduction>
   <article>
+    <date>2017.03.03</date>
+    <title url="http://www.newyorker.com/magazine/2016/12/19/how-to-be-a-stoic">How to Be a Stoic</title>
+    <subtitle>Born nearly two thousand years before Darwin and Freud, Epictetus seems to have anticipated a way out of their prisons.</subtitle>
+    <comments>This is a short article about how Epictetus got many things right more than 2000 years ago. I'm quite interested in stoicism. The video <a href="https://www.youtube.com/watch?v=seLLJP3H1FU">"Stoicism 101"</a> by Massimo Pigliucci, that I watched a few months ago, was quite good. I will probably also read <a href="http://www.goodreads.com/book/show/5617966-a-guide-to-the-good-life">"A Guide to the Good Life: The Ancient Art of Stoic Joy"</a> later this year.</comments>
+  </article>
+  <article>
     <date>2017.03.01</date>
     <title url="http://antirez.com/news/112">The mythical 10x programmer</title>
     <comments>There are a lot of "10x programmer" articles. This one is not bad. I guess the conclusion is always the same: you can be a programmer without knowing too many things (the barrier to entry to become a programmer is really low), but you have to know a lot of things to be a good programmer. Also, some of the things you need to know are not technical per se (avoiding complex designs, avoiding "perfection", etc.).</comments>
