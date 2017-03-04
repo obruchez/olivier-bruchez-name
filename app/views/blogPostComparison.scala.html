@@ -1,0 +1,12 @@
+@import models.blogger.Post
+
+@(posts: Seq[Post])
+
+<table>
+  <col width="750px" />
+  <col width="750px" />
+  <tr><th>Filtered</th><th>Original</th></tr>
+  @posts.take(3).map { post =>
+    <tr><td>@post.content.html</td><td><iframe src="@post.originalUrl" width="100%" height="100%"></iframe></td></tr>
+  }
+</table>

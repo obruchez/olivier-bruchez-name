@@ -12,6 +12,7 @@ case class Post(override val date: ReadablePartial,
                 title: String,
                 content: HtmlContent,
                 relativePermalink: String,
+                originalUrl: String,
                 override val itemSlug: Option[String] = None,
                 override val itemUrl: Option[String] = None,
                 override val next: Boolean = false)
@@ -28,20 +29,21 @@ object Post {
     Post(
       date = bloggerPost.publicationDate,
       title = bloggerPost.title,
-      content = bloggerPost.content,
-      //content = HtmlContent(cleanHtml(bloggerPost.content.htmlString)),
+      //content = bloggerPost.content,
+      content = HtmlContent(cleanHtml(bloggerPost.content.htmlString)),
       relativePermalink = bloggerPost.relativePermalink,
+      originalUrl = bloggerPost.url,
       itemUrl = Some(routes.BlogPostsController.blogPost(bloggerPost.relativePermalink).url))
 
   protected def cleanHtml(html: String): String = {
     val doc = Jsoup.parse(html)
 
-    //val cleaner = new org.jsoup.safety.Cleaner(org.jsoup.safety.Whitelist.relaxed())
-    //val cleanDoc = cleaner.clean(doc)
+    val cleaner = new org.jsoup.safety.Cleaner(org.jsoup.safety.Whitelist.relaxed())
+    val cleanDoc = cleaner.clean(doc)
 
-    doc.outputSettings(doc.outputSettings().prettyPrint(false))
+    cleanDoc.outputSettings(doc.outputSettings().prettyPrint(false))
 
-    val out = doc.outerHtml
+    val out =  cleanDoc.outerHtml
 
     //println("=" * 80)
     //println(out)

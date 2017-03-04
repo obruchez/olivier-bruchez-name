@@ -156,6 +156,12 @@ object Application extends Controller {
     Redirect(routes.Application.home())
   }
 
+  def blogPostComparison = Action.async {
+    Cache.get(Posts) map { posts =>
+      Ok(views.html.blogPostComparison(posts.listItems))
+    }
+  }
+
   implicit class ResultOps(result: Result) {
     def withFilename(filename: String): Result =
       result.withHeaders(CONTENT_DISPOSITION -> s"""attachment; filename="$filename"""")
