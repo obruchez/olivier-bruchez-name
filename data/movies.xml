@@ -2,6 +2,16 @@
 <movies>
   <introduction>A list of movies I saw.</introduction>
   <movie>
+    <date>2017.03.04</date>
+    <theater home="true"/>
+    <director>Frank Capra</director>
+    <title>It's a Wonderful Life</title>
+    <url>http://www.imdb.com/title/tt0038650/</url>
+    <rating>4.5</rating>
+    <comments>This is a movie about crowdfunding. And God. And angels. Just kidding. This is a movie about why friends/family are more important than money. I guess. It's so difficult to judge those old movies... I will just say that it's not a bad movie, but it doesn't "feel" like a real classic to me (like "Metropolis", for example, which is even older).</comments>
+    <image>It's a Wonderful Life.jpg</image>
+  </movie>
+  <movie>
     <date>2017.02.25</date>
     <theater>Pathé Flon, Lausanne</theater>
     <director>Damien Chazelle</director>
