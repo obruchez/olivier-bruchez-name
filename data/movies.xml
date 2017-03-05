@@ -1553,13 +1553,13 @@
     <rating>4.25</rating>
   </movie>
   <movie>
-    <!-- 3D -->
     <date>2011.06.04</date>
     <theater>Pathé Flon, Lausanne</theater>
     <director>Rob Marshall</director>
     <title>Pirates of the Caribbean: On Stranger Tides</title>
     <url>http://www.imdb.com/title/tt1298650/</url>
     <rating>4.5</rating>
+    <comments>3D version.</comments>
   </movie>
   <movie>
     <date>2011.04.16</date>
@@ -1570,13 +1570,13 @@
     <rating>5.25</rating>
   </movie>
   <movie>
-    <!-- 3D -->
     <date>2011.04.16</date>
     <theater>Pathé Flon, Lausanne</theater>
     <director>Carlos Saldanha</director>
     <title>Rio</title>
     <url>http://www.imdb.com/title/tt1436562/</url>
     <rating>4.75</rating>
+    <comments>3D version.</comments>
   </movie>
   <movie>
     <date>2011.03.18</date>
@@ -4007,6 +4007,7 @@
     <version>fr</version>
     <url>http://www.imdb.com/title/tt0368891/</url>
     <rating>4.0</rating>
+    <comments>Les méchants sont très méchants, limite horripilants. Les gentils résolvent les énigmes avec une facilité déconcertante. Le tout sur un fond d'histoire américaine, un peu trop lourd à mon goût. C'est plein de rebondissements et, somme toute, assez divertissant, mais ça manque cruellement d'auto-dérision.</comments>
   </movie>
   <movie>
     <date>2005.01.05</date>
@@ -4014,6 +4015,7 @@
     <version>fr</version>
     <url>http://www.imdb.com/title/tt0410639/</url>
     <rating>3.5</rating>
+    <comments>Ce film manque de relief. J'ai eu l'impression de revoir la même scène tout au long du film, comme si les personnages joués par Isabelle Huppert et Catherine Frot n'évoluaient pas et se disaient toujours la même chose. Pour une comédie, ça n'est pas très drôle et ça manque de dynamisme.</comments>
   </movie>
   <movie>
     <date>2004.12.30</date>
