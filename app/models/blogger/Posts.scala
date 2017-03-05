@@ -5,6 +5,8 @@ import controllers.routes
 import models._
 import org.joda.time.ReadablePartial
 import org.jsoup.Jsoup
+import org.jsoup.nodes._
+import org.jsoup.safety._
 import scala.util.Try
 import util._
 
@@ -38,20 +40,50 @@ object Post {
   protected def cleanHtml(html: String): String = {
     val doc = Jsoup.parse(html)
 
-    val cleaner = new org.jsoup.safety.Cleaner(org.jsoup.safety.Whitelist.relaxed())
+    val whitelist = Whitelist.relaxed()
+    val cleaner = new Cleaner(whitelist)
     val cleanDoc = cleaner.clean(doc)
+
+    import scala.collection.JavaConversions._
+
+    for {
+      element <- cleanDoc.select("div")
+    } {
+      if (divWithSingleBr(element)) {
+        element.remove()
+      } else {
+        element.tagName("p")
+      }
+      //println(s"element.children().size = ${element.children().size} -> ${element.children().map(_.tagName()).mkString(", ")}")
+    }
+
+    /*
+    @todo replace spaces with &nbsp; before "?", "!", ":", etc.
+    @todo add "blog post cover image" class to first image in post (this class must have float: right style) and put it
+    outside of a/p elements
+    @todo instead of replacing div with p elements, remove br elements, etc., look for all paragraphs by searching for
+    element children that contain HTML/XML text, as well as, possibly, other elemenrs (i, a, etc.)
+
+    see https://jsoup.org/cookbook/extracting-data/selector-syntax for JSoup select syntax
+    */
 
     cleanDoc.outputSettings(doc.outputSettings().prettyPrint(false))
 
-    val out =  cleanDoc.outerHtml
+    val out = cleanDoc.outerHtml
 
     //println("=" * 80)
     //println(out)
     //println("=" * 80)
 
-    // @todo
     out
   }
+
+  private def divWithSingleBr(element: Element): Boolean =
+    element.tagName == "div" && element.children.size == 1 && {
+      val divSingleChild = element.children.first
+
+      divSingleChild.tagName == "br" && divSingleChild.children.size == 0
+    }
 }
 
 case class Posts(override val listItems: Seq[Post]) extends Cacheable {
