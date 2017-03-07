@@ -2,6 +2,12 @@
 <articles>
   <introduction>A list of articles I read.</introduction>
   <article>
+    <date>2017.03.07</date>
+    <title url="https://www.theatlantic.com/technology/archive/2017/02/the-singularity-in-the-toilet-stall/517551/">Why Nothing Works Anymore</title>
+    <subtitle>Technology has its own purposes.</subtitle>
+    <comments>This article sounds like somebody describing the empty half of a half-full, half-empty glass. Yes, search results on Google are not perfect, but is it easier to find information nowadays or before Google existed? Before the Internet existed? Yes, Amazon is also far from perfect, but is it easier to buy/order things nowadays or before Amazon existed? Before the Internet existed? And yes, automation is leading to serious problems (low-wage work, etc.). Yet, this article doesn't even mention the obvious solution everyone has been talking about for years (basic income). The concluding paragraph is talking about the <a href="https://en.wikipedia.org/wiki/AI_control_problem">AI control problem</a> without even naming it. And, no, I haven't had any problem with automatic-flush toilets in recent years, so maybe this is a US thing?</comments>
+  </article>
+  <article>
     <date>2017.03.03</date>
     <title url="http://www.slate.com/articles/health_and_science/science/2014/08/musical_nostalgia_the_psychology_and_neuroscience_for_song_preference_and.html">Musical nostalgia: The psychology and neuroscience for song preference and the reminiscence bump</title>
     <subtitle>Why do we love the music we heard as teenagers?</subtitle>
