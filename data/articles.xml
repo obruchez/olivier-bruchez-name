@@ -2,6 +2,12 @@
 <articles>
   <introduction>A list of articles I read.</introduction>
   <article>
+    <date>2017.03.10</date>
+    <title url="https://www.nytimes.com/2017/02/23/magazine/universal-income-global-inequality.html">The Future of Not Working</title>
+    <subtitle>As automation reduces the need for human labor, some Silicon Valley executives think a universal income will be the answer — and the beta test is happening in Kenya.</subtitle>
+    <comments>I'm very interested in <a href="https://en.wikipedia.org/wiki/Basic_income">basic income</a> and <a href="https://en.wikipedia.org/wiki/Effective_altruism">effective altruism</a>. I had already heard of <a href="https://www.givedirectly.org/">GiveDirectly</a>, probably via William MacAskill, who initially was not convinced by the effectiveness of that nonprofit organization (see his <a href="https://www.givingwhatwecan.org/blog/2012-11-30/givewell%E2%80%99s-recommendation-of-givedirectly">2012</a> and <a href="https://www.givingwhatwecan.org/blog/2014-02-27/why-we-still-don%E2%80%99t-recommend-givedirectly">2014</a> comments), but later changed his mind. This article discusses how GiveDirectly works in the field (in rural Kenya). I must admit that I'm still not intuitively convinced that giving money directly to very poor people is a good idea (compared to financing education, health, etc.), but I'm happy that it actually is.</comments>
+  </article>
+  <article>
     <date>2017.03.07</date>
     <title url="https://www.theatlantic.com/technology/archive/2017/02/the-singularity-in-the-toilet-stall/517551/">Why Nothing Works Anymore</title>
     <subtitle>Technology has its own purposes.</subtitle>
