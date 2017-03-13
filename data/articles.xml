@@ -2,6 +2,23 @@
 <articles>
   <introduction>A list of articles I read.</introduction>
   <article>
+    <date>2017.03.13</date>
+    <title url="http://www.newyorker.com/culture/cultural-comment/did-the-oscars-just-prove-that-we-are-living-in-a-computer-simulation">Did the Oscars Just Prove That We Are Living in a Computer Simulation?</title>
+    <comments>Betteridge's law of headlines is respected, once again: the answer is no. This article is not serious (or, at least, I can't read it seriously). We might be living in a simulation, but I don't think that any of the samples in the article (the Oscars, Trump, etc.) is an indication that we do.</comments>
+  </article> 
+  <article>
+    <date>2017.03.13</date>
+    <title url="https://www.theatlantic.com/science/archive/2016/12/the-best-music-for-productivity-silence/509948/">The Best Music for Productivity? Silence</title>
+    <subtitle>Studies show that for most types of cognitively demanding tasks, anything but quiet hurts performance.</subtitle>
+    <comments>This article kind of contradicts the previous one. The conclusion/takeaway is: "Take a break every few hours and listen to music for 15 minutes." It sounds reasonable. Or listen to music only when doing repetitive/mundane tasks. Or work on the problem itself (office noises), by asking people to be more disciplined (talking outside of the office, etc.).</comments>
+  </article> 
+  <article>
+    <date>2017.03.13</date>
+    <title url="https://medium.com/the-mission/the-science-backed-ways-music-affects-your-brain-and-productivity-e11145079305">The Science Backed Ways Music Affects Your Brain and Productivity</title>
+    <subtitle>Plus 11 artists to listen to while you work</subtitle>
+    <comments>"Music can help relieve negative emotions like stress, anxiety and depression." That's why we tend to think that music might be better than the sounds/noises of our offices (chatter, phones, etc.): because we like listening to music. "Listening to music with lyrics may actually help people working on repetitive or mundane tasks, perhaps because the distracting nature of lyrical music can provide a kind of relief from the monotony of boring work." My problem is that I rarely work on repetitive tasks (software engineering). Now, if I'm sick or tired, listening to music might be a way to do something instead of... not much.</comments>
+  </article> 
+  <article>
     <date>2017.03.10</date>
     <title url="https://www.nytimes.com/2017/02/23/magazine/universal-income-global-inequality.html">The Future of Not Working</title>
     <subtitle>As automation reduces the need for human labor, some Silicon Valley executives think a universal income will be the answer — and the beta test is happening in Kenya.</subtitle>
