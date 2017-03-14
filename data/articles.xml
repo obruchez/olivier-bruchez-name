@@ -4,20 +4,20 @@
   <article>
     <date>2017.03.13</date>
     <title url="http://www.newyorker.com/culture/cultural-comment/did-the-oscars-just-prove-that-we-are-living-in-a-computer-simulation">Did the Oscars Just Prove That We Are Living in a Computer Simulation?</title>
-    <comments>Betteridge's law of headlines is respected, once again: the answer is no. This article is not serious (or, at least, I can't read it seriously). We might be living in a simulation, but I don't think that any of the examples in the article (the Oscars, Trump, etc.) is an indication that we do.</comments>
-  </article> 
+    <comments>Betteridge's law of headlines is respected, once again: the answer is no. This article is not serious (or, at least, I can't read it seriously). We might be living in a simulation (I'm open to that possibility, although I'm still not convinced it really makes sense). But I don't think that any of the examples in the article (the Oscars, Trump, etc.) is an indication that we do.</comments>
+  </article>
   <article>
     <date>2017.03.13</date>
     <title url="https://www.theatlantic.com/science/archive/2016/12/the-best-music-for-productivity-silence/509948/">The Best Music for Productivity? Silence</title>
     <subtitle>Studies show that for most types of cognitively demanding tasks, anything but quiet hurts performance.</subtitle>
     <comments>This article kind of contradicts the previous one. The conclusion/takeaway is: "Take a break every few hours and listen to music for 15 minutes." It sounds reasonable. Or listen to music only when doing repetitive/mundane tasks. Or work on the problem itself (office noises), by asking people to be more disciplined (talking outside of the office, etc.).</comments>
-  </article> 
+  </article>
   <article>
     <date>2017.03.13</date>
     <title url="https://medium.com/the-mission/the-science-backed-ways-music-affects-your-brain-and-productivity-e11145079305">The Science Backed Ways Music Affects Your Brain and Productivity</title>
     <subtitle>Plus 11 artists to listen to while you work</subtitle>
     <comments>"Music can help relieve negative emotions like stress, anxiety and depression." That's why we tend to think that music might be better than the sounds/noises of our offices (chatter, phones, etc.): because we like listening to music. "Listening to music with lyrics may actually help people working on repetitive or mundane tasks, perhaps because the distracting nature of lyrical music can provide a kind of relief from the monotony of boring work." My problem is that I rarely work on repetitive tasks (software engineering). Now, if I'm sick or tired, listening to music might be a way to do something instead of... not much.</comments>
-  </article> 
+  </article>
   <article>
     <date>2017.03.10</date>
     <title url="https://www.nytimes.com/2017/02/23/magazine/universal-income-global-inequality.html">The Future of Not Working</title>
@@ -35,7 +35,7 @@
     <title url="http://www.slate.com/articles/health_and_science/science/2014/08/musical_nostalgia_the_psychology_and_neuroscience_for_song_preference_and.html">Musical nostalgia: The psychology and neuroscience for song preference and the reminiscence bump</title>
     <subtitle>Why do we love the music we heard as teenagers?</subtitle>
     <comments>This is clearly a bias and we have to be aware of it when we judge the music we listen to: do we like it because we discovered it when we were teenagers or do we like it because it is good (i.e. because it has objective merits)?</comments>
-  </article> 
+  </article>
   <article>
     <date>2017.03.03</date>
     <title url="http://www.newyorker.com/magazine/2016/12/19/how-to-be-a-stoic">How to Be a Stoic</title>
@@ -90,7 +90,7 @@
     <title url="https://blog.plan99.net/the-science-of-westworld-ec624585e47">The science of Westworld</title>
     <subtitle>A summary of recent artificial intelligence research</subtitle>
     <comments>"A summary of recent artificial intelligence research" using Westworld, one of my favorite shows, as an illustration. This works well and the article touches on some complex topics/issues (intermediate tests towards a more complete Turing test, memory and neural networks, AI control problem, etc.).</comments>
-  </article> 
+  </article>
   <article>
     <date>2017.02.05</date>
     <title url="https://medium.com/@jitbit/facebook-is-terrifying-8dc4a016b64b">Facebook is terrifying</title>
@@ -112,7 +112,7 @@
     <title url="http://www.bbc.com/capital/story/20170120-why-paper-is-the-real-killer-app">Why paper is the real 'killer app'</title>
     <subtitle>With apps taking over our lives, there’s a movement afoot as people yearn for simpler, technology-free times.</subtitle>
     <comments>Paper might be a solution for brainstorming and note-taking, but I remain convinced that it's not a good way to organize tasks and projects. Simple online documents win, here.</comments>
-  </article> 
+  </article>
   <article>
     <date>2017.01.25</date>
     <title url="https://qz.com/892247/dont-set-goals-for-yourself-instead-create-systems-that-make-it-easy-for-you-to-succeed/">Don’t set goals for yourself—instead, create systems that make it easy for you to succeed</title>
@@ -122,7 +122,7 @@
     <date>2017.01.24</date>
     <title url="http://nymag.com/scienceofus/2017/01/how-to-change-your-personality.html">You (and Your Therapist) Can Change Your Personality</title>
     <comments>We can (somewhat) change our personality, with the help of therapists. I don't really know what to do with this information. I guess it's a source of hope if we don't like some facets of our personalities?</comments>
-  </article> 
+  </article>
   <article>
     <date>2017.01.23</date>
     <title url="http://mnemstudio.org/path-finding-q-learning-tutorial.htm">A Painless Q-Learning Tutorial</title>
@@ -239,11 +239,11 @@
     <date>2016.10.12</date>
     <title url="http://www.economist.com/news/science-and-technology/21706459-once-derided-relic-past-handwriting-looks-poised-revival-comeback-cursive">The comeback of cursive</title>
     <subtitle>Once derided as a relic of the past, handwriting looks poised for a revival</subtitle>
-  </article> 
+  </article>
   <article>
     <date>2016.10.12</date>
     <title url="https://selfawarepatterns.com/2016/10/03/the-problems-with-philosophical-zombies/">The problems with philosophical zombies</title>
-  </article> 
+  </article>
   <article>
     <date>2016.10.08</date>
     <title url="http://www.bennorthrop.com/Essays/2016/reflections-of-an-old-programmer.php">Reflections of an "Old" Programmer</title>
@@ -256,7 +256,7 @@
     <date>2016.09.30</date>
     <title url="http://www.computerworld.com/article/3048497/personal-technology/lifelogging-is-dead-for-now.html">Lifelogging is dead (for now)</title>
     <subtitle>A funny thing happened on the road to capturing everything: Hardware failed to keep up, and social media made it redundant.</subtitle>
-  </article>  
+  </article> 
   <article>
     <date>2016.08.30</date>
     <title url="http://www.spectator.co.uk/2016/08/why-cant-we-see-that-were-living-in-a-golden-age/">Why can’t we see that we’re living in a golden age?</title>
@@ -274,11 +274,11 @@
     <date>2016.08.17</date>
     <title url="http://www.economist.com/news/briefing/21704788-fight-cheat-death-hotting-up-adding-ages">Adding ages</title>
     <subtitle>The fight to cheat death is hotting up</subtitle>
-  </article> 
+  </article>
   <article>
     <date>2016.08.17</date>
     <title url="http://www.vibe.com/featured/hitnrun-phase-two-an-oral-history-of-princes-last-studio-album/">‘HitnRUN Phase Two’: An Oral History Of Prince’s Last Studio Album</title>
-  </article> 
+  </article>
   <article>
     <date>2016.08.17</date>
     <title url="https://www.theatlantic.com/business/archive/2016/06/would-a-world-without-work-be-so-bad/488711/">Would a Work-Free World Be So Bad?</title>
@@ -305,12 +305,12 @@
     <date>2016.07.31</date>
     <title url="http://menace-theoriste.fr/plaidoyer-bonne-communication-sceptique/">Plaidoyer pour une (bonne) communication sceptique</title>
     <subtitle>Article invité de Xavier Ristat, auteur du blog Cygnification qui traite de la communication (et un peu du scepticisme)</subtitle>
-  </article> 
+  </article>
   <article>
     <date>2016.07.30</date>
     <title url="https://www.theguardian.com/commentisfree/2016/jul/17/self-driving-car-crash-proves-nothing-tesla-autopilot">The first self-driving car fatality proves nothing</title>
     <subtitle>The death of a driver using the Tesla Autopilot function doesn’t show that the technology is unsafe</subtitle>
-  </article> 
+  </article>
   <article>
     <date>2016.07.18</date>
     <title url="https://selfawarepatterns.com/2016/07/18/the-challenges-of-copying-a-mind/">The challenges of copying a mind</title>
@@ -323,11 +323,11 @@
   <article>
     <date>2016.06.28</date>
     <title url="http://www.npr.org/sections/13.7/2016/06/28/483805061/has-physics-gotten-something-really-important-really-wrong">Has Physics Gotten Something Really Important Really Wrong?</title>
-  </article> 
+  </article>
   <!-- <article>
     <date></date>
     <title url=""></title>
     <subtitle></subtitle>
     <comments></comments>
-  </article> -->
+  </article>-->
 </articles>
