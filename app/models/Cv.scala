@@ -23,7 +23,7 @@ object WordCv extends Fetchable {
   type C = WordCv
 
   override val name = "Word"
-  override val sourceUrl = Configuration.baseUrlWithFile("cv/ResumeOlivierBruchez.doc").get
+  override val sourceUrl = Configuration.baseUrlWithFile("cv/ResumeOlivierBruchez.docx").get
   override val icon = Some("fa-file-word-o")
 
   override def fetch(): Try[WordCv] = BinaryContent(sourceUrlWithNoCacheParameter).map(WordCv(_))

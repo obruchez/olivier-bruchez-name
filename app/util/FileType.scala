@@ -8,6 +8,7 @@ object FileType {
   case object Markdown extends FileType("text/x-markdown")
   case object Pdf extends FileType("application/pdf")
   case object Word extends FileType("application/msword")
+  case object WordXml extends FileType("application/vnd.openxmlformats-officedocument.wordprocessingml.document")
   case object Html extends FileType("text/html")
   case object Other extends FileType("application/octet-stream")
 
@@ -19,6 +20,8 @@ object FileType {
       Pdf
     else if (lowerCaseFilename.endsWith(".doc"))
       Word
+    else if (lowerCaseFilename.endsWith(".docx"))
+      WordXml
     else if (lowerCaseFilename.endsWith(".html"))
       Html
     else
