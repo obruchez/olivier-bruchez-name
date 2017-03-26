@@ -2,6 +2,17 @@
 <movies>
   <introduction>A list of movies I saw.</introduction>
   <movie>
+    <date>2017.03.05</date>
+    <theater home="true"/>
+    <director>Fernando Meirelles &amp; Kátia Lund</director>
+    <title>City of God</title>
+    <title language="pt">Cidade de Deus</title>
+    <url>http://www.imdb.com/title/tt0317248/</url>
+    <rating>4.5</rating>
+    <comments>At the moment I'm writing this, "City of God" is #21 in <a href="http://www.imdb.com/chart/top">IMDb's Top 250</a>. Clearly, I think this movie is overrated. I liked the rhythm. I liked the structure. I liked the visuals. This is not a bad movie. But I didn't like the violence. I'm tired of violent movies. Yes, I get it: human beings can be violent and stupid. This is something I already knew. Ironically/paradoxically, I enjoy <a href="https://en.wikipedia.org/wiki/Game_of_Thrones">"Game of Thrones"</a>. Go figure.</comments>
+    <image>City of God.jpg</image>
+  </movie>
+  <movie>
     <date>2017.03.04</date>
     <theater home="true"/>
     <director>Frank Capra</director>
