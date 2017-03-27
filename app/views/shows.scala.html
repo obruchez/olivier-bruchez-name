@@ -3,22 +3,23 @@
 @(shows: Shows)
 
 @header = {
-  <tr>
+  <tr class="header">
     <th class="col-md-1">Date</th>
-    <th class="col-md-5">Name</th>
+    <th class="col-md-8">Name</th>
     <th class="col-md-3">Season/series</th>
-    <th class="col-md-3">Comments</th>
   </tr>
 }
 
 @rowFromItem(listItem: ListItem) = {
   @defining(listItem.asInstanceOf[Show]) { show =>
-    <tr>
+    <tr class="details">
       <td>@sluganddate(show)</td>
       <td><a href="@show.url.toString">@show.name</a></td>
       <td>@{show.seriesUrl.fold[xml.NodeSeq](xml.Text(show.standAloneSeriesString))(url => <a href={url.toString}>{show.standAloneSeriesString}</a>)}</td>
-      <td>@show.comments.map(_.html).getOrElse(Html(""))</td>
     </tr>
+    @show.comments.map { comments =>
+      <tr><td colspan="3">@comments.html</td></tr>
+    }
   }
 }
 

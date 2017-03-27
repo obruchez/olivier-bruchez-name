@@ -18,18 +18,17 @@
 }
 
 @header = {
-  <tr>
+  <tr class="header">
     <th class="col-md-1">Date</th>
-    <th class="col-md-4">Musicians</th>
-    <th class="col-md-3">Location / event</th>
+    <th class="col-md-6">Musicians</th>
+    <th class="col-md-4">Location / event</th>
     <th class="col-md-1">Rating</th>
-    <th class="col-md-3">Comments</th>
   </tr>
 }
 
 @rowFromItem(listItem: ListItem) = {
   @defining(listItem.asInstanceOf[Concert]) { concert =>
-    <tr>
+    <tr class="details">
       <td>@sluganddate(concert)</td>
       <td><p>@musicians(concert.band, concert.musicians)</p></td>
       <td>@{
@@ -40,8 +39,10 @@
         location ++ event
       }</td>
       <td>@views.html.rating(concert.rating)</td>
-      <td>@concert.comments.fold(Html(""))(_.html)</td>
     </tr>
+    @concert.comments.map { comments =>
+      <tr><td colspan="4">@comments.html</td></tr>
+    }
   }
 }
 

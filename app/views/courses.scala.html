@@ -3,7 +3,7 @@
 @(courses: Courses)
 
 @header = {
-  <tr>
+  <tr class="header">
     <th class="col-md-1">Date</th>
     <th class="col-md-1">Provider</th>
     <th class="col-md-4">Name</th>
@@ -14,7 +14,7 @@
 
 @rowFromItem(listItem: ListItem) = {
   @defining(listItem.asInstanceOf[Course]) { course =>
-    <tr>
+    <tr class="details">
       <td>@sluganddate(course)</td>
       <td>@course.provider</td>
       <td><a href="@course.url">@course.name</a></td>

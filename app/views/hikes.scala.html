@@ -3,7 +3,7 @@
 @(hikes: Hikes)
 
 @header = {
-  <tr>
+  <tr class="header">
     <th class="col-md-2">Date</th>
     <th class="col-md-5">Place</th>
     <th class="col-md-5">Pictures</th>
@@ -12,7 +12,7 @@
 
 @rowFromItem(listItem: ListItem) = {
   @defining(listItem.asInstanceOf[Hike]) { hike =>
-    <tr>
+    <tr class="details">
       <td>@sluganddate(hike)</td>
       <td>@hike.place</td>
       <td>@pictures(hike.pictures, hike.place)</td>

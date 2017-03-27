@@ -212,3 +212,11 @@ h6:hover .header-link {
     display: block;
     margin: 0 auto;
 }
+
+.lifelogging-table tr.header {
+    background-color: #eaeaea;
+}
+
+.lifelogging-table tr.details {
+    background-color: #f7f7f7;
+}

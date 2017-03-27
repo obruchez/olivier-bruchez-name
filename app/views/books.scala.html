@@ -3,20 +3,19 @@
 @(books: Books)
 
 @header = {
-  <tr>
+  <tr class="header">
     <th class="col-md-1">Date</th>
     <th class="col-md-2">Author</th>
-    <th class="col-md-3">Title</th>
-    <th>Year</th>
-    <th>Rating</th>
-    <th class="col-md-3">Comments</th>
-    <th class="col-md-1">Notes</th>
+    <th class="col-md-4">Title</th>
+    <th class="col-md-1">Year</th>
+    <th class="col-md-2">Rating</th>
+    <th class="col-md-2">Notes</th>
   </tr>
 }
 
 @rowFromItem(listItem: ListItem) = {
   @defining(listItem.asInstanceOf[Book]) { book =>
-    <tr>
+    <tr class="details">
       <td>@sluganddate(book)</td>
       <td>@book.author</td>
       <td>@{
@@ -24,11 +23,13 @@
       }</td>
       <td>@book.year</td>
       <td>@views.html.rating(book.rating)</td>
-      <td>@book.comments.map(_.html).getOrElse(Html(""))</td>
       <td>@book.notes.map { notes =>
         <a href="@routes.BookNotesController.bookNotes(notes.slug)">@notes.description.getOrElse(BookNotes.DefaultDescription)</a>
       }</td>
     </tr>
+    @book.comments.map { comments =>
+      <tr><td colspan="6">@comments.html</td></tr>
+    }
   }
 }
 

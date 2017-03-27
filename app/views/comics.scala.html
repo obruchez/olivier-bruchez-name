@@ -3,19 +3,18 @@
 @(comics: Comics)
 
 @header = {
-  <tr>
+  <tr class="header">
     <th class="col-md-1">Date</th>
-    <th class="col-md-2">Author(s)</th>
-    <th class="col-md-2">Series</th>
-    <th>#</th>
-    <th class="col-md-2">Volume</th>
-    <th>Comments</th>
+    <th class="col-md-3">Author(s)</th>
+    <th class="col-md-3">Series</th>
+    <th class="col-md-1">#</th>
+    <th class="col-md-4">Volume</th>
   </tr>
 }
 
 @rowFromItem(listItem: ListItem) = {
   @defining(listItem.asInstanceOf[Comic]) { comic =>
-    <tr>
+    <tr class="details">
       <td>@sluganddate(comic)</td>
       <td>@{
         val distinctAuthors = Seq(comic.writer, comic.artist, comic.colorist).flatten.distinct
@@ -41,8 +40,10 @@
       }</td>
       <td>@{comic.volumeNumber.fold("-")(_.toString)}</td>
       <td>@{comic.volumeUrl.fold[xml.NodeSeq](xml.Text(comic.volume))(url => <a href={url.toString}>{comic.volume}</a>)}</td>
-      <td>@comic.comments.map(_.html).getOrElse(Html(""))</td>
     </tr>
+    @comic.comments.map { comments =>
+      <tr><td colspan="5">@comments.html</td></tr>
+    }
   }
 }
 

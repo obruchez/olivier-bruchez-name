@@ -3,22 +3,23 @@
 @(articles: Articles)
 
 @header = {
-  <tr>
+  <tr class="header">
     <th class="col-md-1">Date</th>
-    <th class="col-md-3">Title</th>
-    <th>Subtitle</th>
-    <th class="col-md-3">Comments</th>
+    <th class="col-md-6">Title</th>
+    <th class="col-md-5">Subtitle</th>
   </tr>
 }
 
 @rowFromItem(listItem: ListItem) = {
   @defining(listItem.asInstanceOf[Article]) { article =>
-    <tr>
+    <tr class="details">
       <td>@sluganddate(article)</td>
       <td>@{article.url.fold[xml.NodeSeq](xml.Text(article.title))(url => <a href={url.toString}>{article.title}</a>)}</td>
       <td>@article.subtitle.getOrElse("")</td>
-      <td>@article.comments.map(_.html).getOrElse(Html(""))</td>
     </tr>
+    @article.comments.map { comments =>
+      <tr><td colspan="3">@comments.html</td></tr>
+    }
   }
 }
 

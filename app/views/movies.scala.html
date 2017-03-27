@@ -7,19 +7,18 @@
 }
 
 @header = {
-  <tr>
+  <tr class="header">
     <th class="col-md-1">Date</th>
     <th class="col-md-2">Theater</th>
-    <th class="col-md-2">Director</th>
-    <th class="col-md-3">Title</th>
+    <th class="col-md-4">Director</th>
+    <th class="col-md-4">Title</th>
     <th class="col-md-1">Rating</th>
-    <th class="col-md-3">Comments</th>
   </tr>
 }
 
 @rowFromItem(listItem: ListItem) = {
   @defining(listItem.asInstanceOf[Movie]) { movie =>
-    <tr>
+    <tr class="details">
       <td>@sluganddate(movie)</td>
       <td>@movie.theater.fold(theater => theater, _.description)</td>
       <td>@movie.director</td>
@@ -34,19 +33,24 @@
         mainTitle ++ otherTitles
       }</td>
       <td>@views.html.rating(movie.rating)</td>
-      <td>@{
-        // Warning: we're manipulating raw HTML here (comments); don't inject it into XML trees
-
-        val rawComments = movie.comments.map(comments => s"<p>${comments.html}</p>").getOrElse("")
-
-
-        val rawVersion = movie.version map { version =>
-          s"<p>Version: ${version.getDisplayName(java.util.Locale.ENGLISH)}</p>"
-        } getOrElse ""
-
-        Html(rawComments + rawVersion)
-      }</td>
     </tr>
+    @{
+      // Warning: we're manipulating raw HTML here (comments); don't inject it into XML trees
+
+      val rawComments = movie.comments.map(comments => s"<p>${comments.html}</p>").getOrElse("")
+
+
+      val rawVersion = movie.version map { version =>
+        s"<p>Version: ${version.getDisplayName(java.util.Locale.ENGLISH)}</p>"
+      } getOrElse ""
+
+      val allComments = rawComments + rawVersion
+
+      if (allComments.nonEmpty) {
+        val Quote = "\""
+        Html(s"<tr><td colspan=${Quote}5${Quote}>$allComments</td></tr>")
+      }
+    }
   }
 }
 

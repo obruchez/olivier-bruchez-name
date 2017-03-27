@@ -5,24 +5,25 @@
 @import util.Date._
 
 @header = {
-  <tr>
+  <tr class="header">
     <th class="col-md-1">From</th>
     <th class="col-md-1">To</th>
-    <th>Place</th>
-    <th class="col-md-5">Pictures</th>
-    <th>Comments</th>
+    <th class="col-md-4">Place</th>
+    <th class="col-md-6">Pictures</th>
   </tr>
 }
 
 @rowFromItem(listItem: ListItem) = {
   @defining(listItem.asInstanceOf[Trip]) { trip =>
-    <tr>
+    <tr class="details">
       <td>@sluganddate(trip)</td>
       <td>@trip.to.yyyymmddString</td>
       <td>@trip.place</td>
       <td>@pictures(trip.pictures, trip.place)</td>
-      <td>@trip.comments.map(_.html).getOrElse(Html(""))</td>
     </tr>
+    @trip.comments.map { comments =>
+      <tr><td colspan="4">@comments.html</td></tr>
+    }
   }
 }
 

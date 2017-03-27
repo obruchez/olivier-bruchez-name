@@ -3,24 +3,25 @@
 @(exhibitions: Exhibitions)
 
 @header = {
-  <tr>
+  <tr class="header">
     <th class="col-md-1">Date</th>
-    <th class="col-md-4">Name</th>
-    <th class="col-md-3">Museum</th>
+    <th class="col-md-6">Name</th>
+    <th class="col-md-4">Museum</th>
     <th class="col-md-1">Rating</th>
-    <th class="col-md-3">Comments</th>
   </tr>
 }
 
 @rowFromItem(listItem: ListItem) = {
   @defining(listItem.asInstanceOf[Exhibition]) { exhibition =>
-    <tr>
+    <tr class="details">
       <td>@sluganddate(exhibition)</td>
       <td>@exhibition.name</td>
       <td>@exhibition.museum</td>
       <td>@views.html.rating(exhibition.rating)</td>
-      <td>@exhibition.comments.fold(Html(""))(_.html)</td>
     </tr>
+    @exhibition.comments.map { comments =>
+      <tr><td colspan="4">@comments.html</td></tr>
+    }
   }
 }
 
