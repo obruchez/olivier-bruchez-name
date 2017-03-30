@@ -2,14 +2,14 @@
 <books>
     <introduction>A list of books I read.</introduction>
     <book>
-        <date></date>
+        <date>2017.03.30</date>
         <title>Nineteen Eighty-Four</title>
         <author>George Orwell</author>
         <publishingyear>1949</publishingyear>
-        <rating></rating>
+        <rating>5.25</rating>
         <url>https://en.wikipedia.org/wiki/Nineteen_Eighty-Four</url>
         <!-- <notes description="Kindle highlights"></notes> -->
-        <comments></comments>
+        <comments>A classic. The more the story progresses, the more it becomes captivating. The ending chapters grab you by the guts, in a kind of crescendo. Many people say that "Nineteen Eighty-Four" is very relevant today, because, according to them, we're living in a society of surveillance (think Facebook, the NSA, surveillance cameras, etc.), but, for me, what strikes me the most is the similarity between the constant lies of the Party and the constant lies of people such as Donald Trump. Of course, <a href="https://en.wikipedia.org/wiki/Fake_news">fake news</a> is not a new phenomenon, but it is starting to look more and more like it is described in "Nineteen Eighty-Four".</comments>
         <image>Nineteen Eighty-Four.jpg</image>
     </book>
     <book>
