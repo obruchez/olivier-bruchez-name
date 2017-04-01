@@ -2,12 +2,12 @@
 <courses>
     <introduction>A list of MOOC courses I took.</introduction>
     <course>
-        <date></date>
+        <date>2017-04-01</date>
         <provider>Coursera</provider>
         <name>Big Data Analysis with Scala and Spark</name>
         <instructor>Heather Miller</instructor>
         <url>https://www.coursera.org/learn/big-data-analysys</url>
-        <image></image>
+        <image>Big Data Analysis with Scala and Spark.png</image>
     </course>
     <course>
         <date>2016-10-08</date>
