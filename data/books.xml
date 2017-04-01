@@ -2,6 +2,17 @@
 <books>
     <introduction>A list of books I read.</introduction>
     <book>
+        <date></date>
+        <title>Meaning in Life and Why It Matters</title>
+        <author>Susan Wolf</author>
+        <publishingyear>2010</publishingyear>
+        <rating></rating>
+        <url>https://books.google.ch/books/about/Meaning_in_Life_and_Why_It_Matters.html?id=_eoPB9zLXFoC</url>
+        <!-- <notes description="Kindle highlights"></notes> -->
+        <comments></comments>
+        <image>Meaning in Life and Why It Matters.gif</image>
+    </book>
+    <book>
         <date>2017.03.31</date>
         <title>Nineteen Eighty-Four</title>
         <author>George Orwell</author>
