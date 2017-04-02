@@ -3,7 +3,7 @@
 @(crashes: Crashes)
 
 @header = {
-  <tr class="header">
+  <tr class="list-header">
     <th class="col-md-1">Date</th>
     <th class="col-md-3">Manufacturer</th>
     <th class="col-md-3">Model</th>
@@ -11,9 +11,9 @@
   </tr>
 }
 
-@rowFromItem(listItem: ListItem) = {
+@rowFromItem(listItem: ListItem, trClass: String) = {
   @defining(listItem.asInstanceOf[Crash]) { crash =>
-    <tr class="details">
+    <tr class="list-details @trClass">
       <td>@sluganddate(crash)</td>
       <td>@crash.manufacturer</td>
       <td>@crash.model</td>

@@ -3,7 +3,7 @@
 @(plays: Plays)
 
 @header = {
-  <tr class="header">
+  <tr class="list-header">
     <th class="col-md-1">Date</th>
     <th class="col-md-3">Location</th>
     <th class="col-md-3">Name</th>
@@ -12,9 +12,9 @@
   </tr>
 }
 
-@rowFromItem(listItem: ListItem) = {
+@rowFromItem(listItem: ListItem, trClass: String) = {
   @defining(listItem.asInstanceOf[Play]) { play =>
-    <tr class="details">
+    <tr class="list-details @trClass">
       <td>@sluganddate(play)</td>
       <td>@play.location</td>
       <td>@play.name</td>

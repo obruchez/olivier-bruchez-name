@@ -3,7 +3,7 @@
 @(comics: Comics)
 
 @header = {
-  <tr class="header">
+  <tr class="list-header">
     <th class="col-md-1">Date</th>
     <th class="col-md-3">Author(s)</th>
     <th class="col-md-3">Series</th>
@@ -12,9 +12,9 @@
   </tr>
 }
 
-@rowFromItem(listItem: ListItem) = {
+@rowFromItem(listItem: ListItem, trClass: String) = {
   @defining(listItem.asInstanceOf[Comic]) { comic =>
-    <tr class="details">
+    <tr class="list-details @trClass">
       <td>@sluganddate(comic)</td>
       <td>@{
         val distinctAuthors = Seq(comic.writer, comic.artist, comic.colorist).flatten.distinct

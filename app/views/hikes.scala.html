@@ -3,16 +3,16 @@
 @(hikes: Hikes)
 
 @header = {
-  <tr class="header">
+  <tr class="list-header">
     <th class="col-md-2">Date</th>
     <th class="col-md-5">Place</th>
     <th class="col-md-5">Pictures</th>
   </tr>
 }
 
-@rowFromItem(listItem: ListItem) = {
+@rowFromItem(listItem: ListItem, trClass: String) = {
   @defining(listItem.asInstanceOf[Hike]) { hike =>
-    <tr class="details">
+    <tr class="list-details @trClass">
       <td>@sluganddate(hike)</td>
       <td>@hike.place</td>
       <td>@pictures(hike.pictures, hike.place)</td>

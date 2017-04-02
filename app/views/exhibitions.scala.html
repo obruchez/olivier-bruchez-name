@@ -3,7 +3,7 @@
 @(exhibitions: Exhibitions)
 
 @header = {
-  <tr class="header">
+  <tr class="list-header">
     <th class="col-md-1">Date</th>
     <th class="col-md-6">Name</th>
     <th class="col-md-4">Museum</th>
@@ -11,9 +11,9 @@
   </tr>
 }
 
-@rowFromItem(listItem: ListItem) = {
+@rowFromItem(listItem: ListItem, trClass: String) = {
   @defining(listItem.asInstanceOf[Exhibition]) { exhibition =>
-    <tr class="details">
+    <tr class="list-details @trClass">
       <td>@sluganddate(exhibition)</td>
       <td>@exhibition.name</td>
       <td>@exhibition.museum</td>

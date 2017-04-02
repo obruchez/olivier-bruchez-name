@@ -3,7 +3,7 @@
 @(podcasts: Podcasts)
 
 @header = {
-  <tr class="header">
+  <tr class="list-header">
     <th class="col-md-1">Date</th>
     <th class="col-md-4">Name</th>
     <th class="col-md-1">#</th>
@@ -11,9 +11,9 @@
   </tr>
 }
 
-@rowFromItem(listItem: ListItem) = {
+@rowFromItem(listItem: ListItem, trClass: String) = {
   @defining(listItem.asInstanceOf[Podcast]) { podcast =>
-    <tr class="details">
+    <tr class="list-details @trClass">
       <td>@sluganddate(podcast)</td>
       <td>@{podcast.url.fold[xml.NodeSeq](xml.Text(podcast.name))(url => <a href={url.toString}>{podcast.name}</a>)}</td>
       <td>@{podcast.episodeNumber.fold("-")(_.toString)}</td>

@@ -3,16 +3,16 @@
 @(articles: Articles)
 
 @header = {
-  <tr class="header">
+  <tr class="list-header">
     <th class="col-md-1">Date</th>
     <th class="col-md-6">Title</th>
     <th class="col-md-5">Subtitle</th>
   </tr>
 }
 
-@rowFromItem(listItem: ListItem) = {
+@rowFromItem(listItem: ListItem, trClass: String) = {
   @defining(listItem.asInstanceOf[Article]) { article =>
-    <tr class="details">
+    <tr class="list-details @trClass">
       <td>@sluganddate(article)</td>
       <td>@{article.url.fold[xml.NodeSeq](xml.Text(article.title))(url => <a href={url.toString}>{article.title}</a>)}</td>
       <td>@article.subtitle.getOrElse("")</td>

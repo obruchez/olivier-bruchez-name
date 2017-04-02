@@ -18,7 +18,7 @@
 }
 
 @header = {
-  <tr class="header">
+  <tr class="list-header">
     <th class="col-md-1">Date</th>
     <th class="col-md-6">Musicians</th>
     <th class="col-md-4">Location / event</th>
@@ -26,9 +26,9 @@
   </tr>
 }
 
-@rowFromItem(listItem: ListItem) = {
+@rowFromItem(listItem: ListItem, trClass: String) = {
   @defining(listItem.asInstanceOf[Concert]) { concert =>
-    <tr class="details">
+    <tr class="list-details @trClass">
       <td>@sluganddate(concert)</td>
       <td><p>@musicians(concert.band, concert.musicians)</p></td>
       <td>@{

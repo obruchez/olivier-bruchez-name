@@ -2,7 +2,7 @@
 @import play.twirl.api.Html
 @import util.Date._
 
-@(page: Page, cacheable: Cacheable, header: Html, rowFromItem: (ListItem) => Html, nextItemsTitle: Option[String] = None)
+@(page: Page, cacheable: Cacheable, header: Html, rowFromItem: (ListItem, String) => Html, nextItemsTitle: Option[String] = None)
 
 @table(tableTitle: String, tableSlug: String, items: Seq[ListItem]) = {
   @if(items.nonEmpty) {
@@ -23,7 +23,7 @@
           @header
           </thead>
           <tbody>
-          @items.map { item => @rowFromItem(item) }
+          @items.zipWithIndex.map { case (item, index) => @rowFromItem(item, if (index % 2 == 0) "even" else "odd") }
           </tbody>
         </table>
       </div>
