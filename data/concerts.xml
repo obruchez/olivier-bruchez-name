@@ -10,7 +10,6 @@
   - Avenches (Arènes): Carmen (Bizet)
   -->
   <introduction>A list of concerts I went to.</introduction>
-  <!-- TODO: add comments for new concerts? -->
   <concert>
     <date>2017.04.04</date>
     <location>Chapiteau, Cully, Switzerland</location>
@@ -20,8 +19,8 @@
     <musician inst="piano">Craig Taborn</musician>
     <musician inst="bass">Gerald Cannon</musician>
     <musician inst="drums">Francisco Mela</musician>
-    <rating></rating>
-    <comments/>
+    <rating>4.5</rating>
+    <comments>McCoy Tyner is a legend, but let's be honest: at 78, he's currently not at his best. He still has some energy left, but his playing is a bit patchy, to say the least. I must say that I was not completely comfortable seeing him like that (i.e. less than healthy, barely able to walk and speak). I was far more impressed by Wayne Shorter's concert last year, for example (he was 82 at the time). Anyway, the concert consisted of three parts, each with a single piano player (Craig Taborn came first, then Geri Allen, and finally McCoy Tyner, who played for about 30 minutes).</comments>
   </concert>
   <concert>
     <date>2017.04.04</date>
@@ -30,8 +29,8 @@
     <musician inst="piano" main="true">Colin Vallon</musician>
     <musician inst="bass">Patrice Moret</musician>
     <musician inst="drums">Julian Sartorius</musician>
-    <rating></rating>
-    <comments/>
+    <rating>4.5</rating>
+    <comments>This was the third time I saw Colin Vallon, but I can't say I'm really familiar with his music, which is quite melodic, sometimes based on repetitive, almost funky riffs. I had already seen Patrice Moret a lot at Le Bout du Monde, a bar with a small concert room in Vevey, back in 2006. This was the second time I saw him with Colin Vallon. This was also the third time I saw Julian Sartorius and the first two times were solo performances (drums only), which were enjoyable but didn't particularly convince me. I liked him way better in the context of this trio. So, yes, musicians I had already seen quite a few times, but that I don't really know. I think I'm going to buy Colin Vallon's latest album, "Danse". We'll see.</comments>
   </concert>
   <concert>
     <date>2017.04.02</date>
