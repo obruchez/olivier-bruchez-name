@@ -3,6 +3,13 @@
   <introduction>A list of trips I took.</introduction>
   <!-- TODO: add comments for new trips? -->
   <trip>
+    <from>2017.04.08</from>
+    <to>2017.04.23</to>
+    <place>Tokyo / Kyoto, Japan</place>
+    <pictures url="https://www.flickr.com/photos/bruchez/albums/72157679884813503">Japan</pictures>
+    <comments>This was a trip we had wanted to do for several years now. It was obviously very different from our trip to Namibia (big cities, many people, language we couldn't read, etc.), but also quite "exotic", in a different way. This was the cherry blossom season, so nature was still an important dimension of the trip, in a sense, although we mainly visited cities. It was quite a dense trip, which I see as a kind of introduction to a country I had never visited before. We definitely need to go back to Japan someday.</comments>
+  </trip>
+  <trip>
     <from>2016.12.29</from>
     <to>2017.01.03</to>
     <place>Berlin, Germany</place>

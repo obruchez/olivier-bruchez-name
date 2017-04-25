@@ -19,7 +19,6 @@ See also [1000 places to see before you die](http://1000places.com/).
 
 * [Amsterdam](https://en.wikipedia.org/wiki/Amsterdam)
 * [Barcelona](https://en.wikipedia.org/wiki/Barcelona)
-* [Berlin](https://en.wikipedia.org/wiki/Berlin)
 * [Copenhaguen](https://en.wikipedia.org/wiki/Copenhagen)
 * [Florence](https://en.wikipedia.org/wiki/Florence)
 * [London](https://en.wikipedia.org/wiki/London)
@@ -38,7 +37,6 @@ See also [1000 places to see before you die](http://1000places.com/).
 * [Germany](https://en.wikipedia.org/wiki/Germany) ([large cities](https://en.wikipedia.org/wiki/List_of_cities_in_Germany_by_population), e.g. in train; can be combined with [Prague](https://en.wikipedia.org/wiki/Prague) or even [Amsterdam](https://en.wikipedia.org/wiki/Amsterdam))
 * [Iceland](https://en.wikipedia.org/wiki/Iceland) (trekking, etc.)
 * [India](https://en.wikipedia.org/wiki/India) ([Taj Mahal](https://en.wikipedia.org/wiki/Taj_Mahal), etc.)
-* [Japan](https://en.wikipedia.org/wiki/Japan) ([cherry blossom](https://en.wikipedia.org/wiki/Cherry_blossom), etc.)
 * [Lithuania](https://en.wikipedia.org/wiki/Lithuania)
 * [Morocco](https://en.wikipedia.org/wiki/Morocco)
 * [New Zealand](https://en.wikipedia.org/wiki/New_Zealand) (cf Marc-André's trip)
