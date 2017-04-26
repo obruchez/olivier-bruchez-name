@@ -11,7 +11,13 @@
     <date>2017.04.25</date>
     <name url="http://verybadwizards.com/">Very Bad Wizards</name>
     <episode url="https://verybadwizards.fireside.fm/86" number="86">Guns, Shame, and the Meaning of Punishment</episode>
-    <comments>...</comments>
+    <comments>I had never really thought about the fact that the way a criminal punishment is presented (to criminals, to society), the "story" behind it, its meaning, matters. Community service, for example, is problematic. Do we want to convey the idea, to criminals, to society, that serving our communities is a punishment (i.e. a bad thing)? Of course not, so we have to be careful in how we present this kind of alternative punishments (in that case, in insisting that this is a symbolic way to restitute something to society). About shame: I'm not convinced that it has to be part of punishments.</comments>
+  </podcast>
+  <podcast>
+    <date>2017.04.23</date>
+    <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
+    <episode url="https://www.samharris.org/podcast/item/privacy-and-security" number="72">Privacy and Security - A Conversation with Gen. Michael V. Hayden</episode>
+    <comments>A very short episode (unusual for Harris). I guess I learnt the difference between the different intelligence agencies (NSA and CIA, mainly). I also realized that I don't really know what to think about Snowden. By default, I'm going to align my opinion on <a href="https://danielmiessler.com/blog/changing-opinion-edward-snowden/">Daniel Miessler's</a> ("In short, it’s complicated, and be cautious of thinking you have all the information.").</comments>
   </podcast>
   <podcast>
     <date>2017.04.05</date>
