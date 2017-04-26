@@ -1,12 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <articles>
   <introduction>A list of articles I read.</introduction>
-  <!-- <article>
-    <date></date>
-    <title url=""></title>
-    <subtitle></subtitle>
-    <comments>"The proposition that we can live forever is obvious. It doesn’t violate the laws of physics, so we will achieve it." "It’s hard to run a clinical trial on subjects who take eighty years to die." "It’s based on the frustration of many successful rich people that life is too short: ‘We have all this money, but we only get to live a normal life span.'"</comments>
-  </article>-->
+  <article>
+    <date>2017.04.17</date>
+    <title url="https://stratechery.com/2017/the-arrival-of-artificial-intelligence/">The arrival of artificial intelligence</title>
+    <comments>Humanity has a long story of automating work (logic/mathematics, tools, technology, computers, artificial intelligence, machine learning). "To date automation has displaced blue collar workers; are we prepared for machine learning to displace huge numbers of white collar ones?" How many people will be able to live meaningful lives without work? I find this is a hard question. Again, like in the case of "immortality", I really don't know how we will be able to adapt to those changes.</comments>
+  </article>
+  <article>
+    <date>2017.04.17</date>
+    <title url="http://mspmag.com/arts-and-culture/how-paisley-parks-archives-director-is-telling-princes-story/">How Paisley Park's Archives Director is Telling Prince's Story</title>
+    <subtitle>As we approach the one-year anniversary of Prince's death, we talk with Angela Marchese, Paisley Park's head curator, about Prince's vision for a museum, what she's finding, and more.</subtitle>
+    <comments>I'd like to read a similar article about the archiving/inventory work on the audiovisual material found at Paisley Park. I hope they're very serious about this, as I'm far more interested in the music/recordings Prince left behind than his clothes...</comments>
+  </article>
+  <article>
+    <date>2017.04.08</date>
+    <title url="http://www.newyorker.com/magazine/2017/04/03/silicon-valleys-quest-to-live-forever">Silicon Valley's quest to live forever</title>
+    <subtitle>Can billions of dollars' worth of high-tech research succeed in making death optional?</subtitle>
+    <comments>Some excerpts: "The proposition that we can live forever is obvious. It doesn't violate the laws of physics, so we will achieve it." "It's hard to run a clinical trial on subjects who take eighty years to die." "It's based on the frustration of many successful rich people that life is too short: 'We have all this money, but we only get to live a normal life span.'" I've been interested in this topic for a long time now. People have probably been rationalizing death for millennia (death is unavoidable, death is what makes things important/beautiful, life would be boring without death, death is only the end of our physical life, etc.). The fact is that nobody really wants to die (except very depressed or very ill people). As said in one of the previous excerpts: preventing death doesn't violate the laws of physics, so science will manage to make death optional. One of the questions is when? In 2050? In 2500? With billions of dollars invested in the research, we might see results sooner than expected. Also, how will we manage a population with more and more very old people (200 or 1000 years old)? Will people accept the idea that we should stop making babies? I really don't see how our societies will be able to adapt to such radical changes.</comments>
+  </article>
   <article>
     <date>2017.03.28</date>
     <title url="https://www.theguardian.com/news/2017/mar/15/stranger-in-the-woods-christopher-knight-hermit-maine">Into the woods: how one man survived alone in the wilderness for 27 years</title>
@@ -27,7 +38,7 @@
     <date>2017.03.23</date>
     <title url="http://www.newyorker.com/magazine/2017/02/27/why-facts-dont-change-our-minds">Why Facts Don't Change Our Minds</title>
     <subtitle>New discoveries about the human mind show the limitations of reason.</subtitle>
-    <comments>There seems to be an evolutionary explanation for why we are much more sensitive to weaknesses in other people's arguments than in our own arguments. At first, it can seem counterintuitive, as we should be open to new information, at least when it comes to new threats. "[...] reason evolved to perform, which is to prevent us from getting screwed by the other members of our group. Living in small bands of hunter-gatherers, our ancestors were primarily concerned with their social standing, and with making sure that they weren’t the ones risking their lives on the hunt while others loafed around in the cave. There was little advantage in reasoning clearly, while much was to be gained from winning arguments." Another bias: we think we understand things way more than we actually understand them. It fostered progress ("When it comes to new technologies, incomplete understanding is empowering"), but it's a problem when it comes to politics or health. Another bias that can be physiologically measured: "people experience genuine pleasure—a rush of dopamine—when processing information that supports their beliefs." </comments>
+    <comments>There seems to be an evolutionary explanation for why we are much more sensitive to weaknesses in other people's arguments than in our own arguments. At first, it can seem counterintuitive, as we should be open to new information, at least when it comes to new threats. "[...] reason evolved to perform, which is to prevent us from getting screwed by the other members of our group. Living in small bands of hunter-gatherers, our ancestors were primarily concerned with their social standing, and with making sure that they weren't the ones risking their lives on the hunt while others loafed around in the cave. There was little advantage in reasoning clearly, while much was to be gained from winning arguments." Another bias: we think we understand things way more than we actually understand them. It fostered progress ("When it comes to new technologies, incomplete understanding is empowering"), but it's a problem when it comes to politics or health. Another bias that can be physiologically measured: "people experience genuine pleasure—a rush of dopamine—when processing information that supports their beliefs." </comments>
   </article>
   <article>
     <date>2017.03.13</date>
@@ -94,7 +105,7 @@
   <article>
     <date>2017.02.17</date>
     <title url="http://nymag.com/scienceofus/2017/01/why-your-mind-is-always-wandering.html">Is the Default Mode of the Brain to Suffer?</title>
-    <comments>"When the brain is "at rest," it’s doing anything but resting." This is obvious to anybody who's ever tried to meditate. The good news seems to be that there's mounting evidence that becoming more aware of what's going on in our minds (e.g. by meditating) changes our default state (our "default mode network", or DMN) in a positive way.</comments>
+    <comments>"When the brain is "at rest," it's doing anything but resting." This is obvious to anybody who's ever tried to meditate. The good news seems to be that there's mounting evidence that becoming more aware of what's going on in our minds (e.g. by meditating) changes our default state (our "default mode network", or DMN) in a positive way.</comments>
   </article>
   <article>
     <date>2017.02.15</date>
@@ -127,7 +138,7 @@
   <article>
     <date>2017.02.03</date>
     <title url="https://www.letemps.ch/opinions/2017/01/31/economistes-votent-non-rie-iii">Pourquoi des économistes votent non à la RIE III</title>
-    <subtitle>Oui, il nous faut une réforme, mais évidemment pas celle-ci. Car la RIE III est bourrée de défauts, incohérente, et potentiellement dangereuse pour l’emploi, estime François Grin, économiste</subtitle>
+    <subtitle>Oui, il nous faut une réforme, mais évidemment pas celle-ci. Car la RIE III est bourrée de défauts, incohérente, et potentiellement dangereuse pour l'emploi, estime François Grin, économiste</subtitle>
     <comments>Un article clair, qui semble indiquer que la RIE III est une mauvaise solution. Une source précieuse quelques jours avant les votations fédérales du 12 février 2017.</comments>
   </article>
   <article>
@@ -138,12 +149,12 @@
   <article>
     <date>2017.01.30</date>
     <title url="http://www.bbc.com/capital/story/20170120-why-paper-is-the-real-killer-app">Why paper is the real 'killer app'</title>
-    <subtitle>With apps taking over our lives, there’s a movement afoot as people yearn for simpler, technology-free times.</subtitle>
+    <subtitle>With apps taking over our lives, there's a movement afoot as people yearn for simpler, technology-free times.</subtitle>
     <comments>Paper might be a solution for brainstorming and note-taking, but I remain convinced that it's not a good way to organize tasks and projects. Simple online documents win, here.</comments>
   </article>
   <article>
     <date>2017.01.25</date>
-    <title url="https://qz.com/892247/dont-set-goals-for-yourself-instead-create-systems-that-make-it-easy-for-you-to-succeed/">Don’t set goals for yourself—instead, create systems that make it easy for you to succeed</title>
+    <title url="https://qz.com/892247/dont-set-goals-for-yourself-instead-create-systems-that-make-it-easy-for-you-to-succeed/">Don't set goals for yourself—instead, create systems that make it easy for you to succeed</title>
     <comments>This is Scott Adams' approach. And also the basis for Getting Things Done (GTD), I guess. The article itself was not particularly illuminating.</comments>
   </article>
   <article>
@@ -169,7 +180,7 @@
   </article>
   <article>
     <date>2017.01.16</date>
-    <title url="https://qz.com/866352/scientists-say-your-mind-isnt-confined-to-your-brain-or-even-your-body/">Scientists say your "mind" isn’t confined to your brain, or even your body</title>
+    <title url="https://qz.com/866352/scientists-say-your-mind-isnt-confined-to-your-brain-or-even-your-body/">Scientists say your "mind" isn't confined to your brain, or even your body</title>
     <comments>This reminds me of the concept of extended phenotype by Richard Dawkins, but I'm not convinced it is as useful here.</comments>
   </article>
   <article>
@@ -192,7 +203,7 @@
   <article>
     <date>2016.12.21</date>
     <title url="https://www.1843magazine.com/features/why-do-we-work-so-hard">Why do we work so hard?</title>
-    <subtitle>Ryan Avent reckons that our jobs have become prisons from which we don’t want to escape</subtitle>
+    <subtitle>Ryan Avent reckons that our jobs have become prisons from which we don't want to escape</subtitle>
   </article>
   <article>
     <date>2016.12.21</date>
@@ -235,16 +246,16 @@
   </article>
   <article>
     <date>2016.11.21</date>
-    <title url="http://nautil.us/blog/you-can-have-emotions-you-dont-feel">You Can Have Emotions You Don’t Feel</title>
+    <title url="http://nautil.us/blog/you-can-have-emotions-you-dont-feel">You Can Have Emotions You Don't Feel</title>
   </article>
   <article>
     <date>2016.11.18</date>
-    <title url="https://www.wsj.com/articles/miles-davis-quintet-freedom-jazz-dance-the-bootleg-series-vol-5-review-1478557594">‘Miles Davis Quintet: Freedom Jazz Dance: The Bootleg Series, Vol. 5’ Review</title>
-    <subtitle>Bootlegs reveal the inner workings of Miles Davis’s creative process.</subtitle>
+    <title url="https://www.wsj.com/articles/miles-davis-quintet-freedom-jazz-dance-the-bootleg-series-vol-5-review-1478557594">‘Miles Davis Quintet: Freedom Jazz Dance: The Bootleg Series, Vol. 5' Review</title>
+    <subtitle>Bootlegs reveal the inner workings of Miles Davis's creative process.</subtitle>
   </article>
   <article>
     <date>2016.11.18</date>
-    <title url="https://www.nytimes.com/2016/05/16/opinion/consciousness-isnt-a-mystery-its-matter.html">Consciousness Isn’t a Mystery. It’s Matter.</title>
+    <title url="https://www.nytimes.com/2016/05/16/opinion/consciousness-isnt-a-mystery-its-matter.html">Consciousness Isn't a Mystery. It's Matter.</title>
   </article>
   <article>
     <date>2016.11.08</date>
@@ -287,8 +298,8 @@
   </article> 
   <article>
     <date>2016.08.30</date>
-    <title url="http://www.spectator.co.uk/2016/08/why-cant-we-see-that-were-living-in-a-golden-age/">Why can’t we see that we’re living in a golden age?</title>
-    <subtitle>If you look at all the data, it’s clear there’s never been a better time to be alive</subtitle>
+    <title url="http://www.spectator.co.uk/2016/08/why-cant-we-see-that-were-living-in-a-golden-age/">Why can't we see that we're living in a golden age?</title>
+    <subtitle>If you look at all the data, it's clear there's never been a better time to be alive</subtitle>
   </article>
   <article>
     <date>2016.08.30</date>
@@ -305,7 +316,7 @@
   </article>
   <article>
     <date>2016.08.17</date>
-    <title url="http://www.vibe.com/featured/hitnrun-phase-two-an-oral-history-of-princes-last-studio-album/">‘HitnRUN Phase Two’: An Oral History Of Prince’s Last Studio Album</title>
+    <title url="http://www.vibe.com/featured/hitnrun-phase-two-an-oral-history-of-princes-last-studio-album/">‘HitnRUN Phase Two': An Oral History Of Prince's Last Studio Album</title>
   </article>
   <article>
     <date>2016.08.17</date>
@@ -337,7 +348,7 @@
   <article>
     <date>2016.07.30</date>
     <title url="https://www.theguardian.com/commentisfree/2016/jul/17/self-driving-car-crash-proves-nothing-tesla-autopilot">The first self-driving car fatality proves nothing</title>
-    <subtitle>The death of a driver using the Tesla Autopilot function doesn’t show that the technology is unsafe</subtitle>
+    <subtitle>The death of a driver using the Tesla Autopilot function doesn't show that the technology is unsafe</subtitle>
   </article>
   <article>
     <date>2016.07.18</date>
@@ -345,7 +356,7 @@
   </article>
   <article>
     <date>2016.07.17</date>
-    <title url="https://www.wsj.com/articles/whats-next-for-artificial-intelligence-1465827619">What’s Next for Artificial Intelligence</title>
+    <title url="https://www.wsj.com/articles/whats-next-for-artificial-intelligence-1465827619">What's Next for Artificial Intelligence</title>
     <subtitle>The best minds in the business—Yann LeCun of Facebook, Luke Nosek of the Founders Fund, Nick Bostrom of Oxford University and Andrew Ng of Baidu—on what life will look like in the age of the machines</subtitle>
   </article>
   <article>
