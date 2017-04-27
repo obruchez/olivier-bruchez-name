@@ -2,6 +2,68 @@
 <movies>
   <introduction>A list of movies I saw.</introduction>
   <movie>
+    <date>2017.04.23</date>
+    <theater>Flight LH 741, Lufthansa</theater>
+    <director>Pedro Almodóvar</director>
+    <title>Julieta</title>
+    <url>http://www.imdb.com/title/tt4326444/</url>
+    <rating>4.75</rating>
+    <comments>...</comments>
+    <image>Julieta.jpg</image>
+  </movie>
+  <movie>
+    <date>2017.04.23</date>
+    <theater>Flight LH 741, Lufthansa</theater>
+    <director>Morten Tyldum</director>
+    <title>Passengers</title>
+    <url>http://www.imdb.com/title/tt1355644/</url>
+    <rating>4.75</rating>
+    <comments>...</comments>
+    <!-- meaning of life; alone; two only, other people -->
+    <image>Passengers.jpg</image>
+  </movie>
+  <movie>
+    <date>2017.04.23</date>
+    <theater>Flight LH 741, Lufthansa</theater>
+    <director>Sebastian Hilger</director>
+    <title>Wir sind die Flut</title>
+    <url>http://www.imdb.com/title/tt5271906/</url>
+    <rating>4.5</rating>
+    <comments>...</comments>
+    <image>Wir sind die Flut.jpg</image>
+  </movie>
+  <movie>
+    <date>2017.04.23</date>
+    <theater>Flight LH 741, Lufthansa</theater>
+    <director>Barry Jenkins</director>
+    <title>Moonlight</title>
+    <url>http://www.imdb.com/title/tt4975722/</url>
+    <rating>4.75</rating>
+    <comments>...</comments>
+    <image>Moonlight.jpg</image>
+  </movie>
+  <movie>
+    <date>2017.04.15</date>
+    <theater>Ghibli Museum, Tokyo</theater>
+    <director>Hayao Miyazaki</director>
+    <title>Monmon the Water Spider</title>
+    <title language="jp">Mizugumo Monmon</title>
+    <url>http://www.imdb.com/title/tt0768132/</url>
+    <rating>4.5</rating>
+    <comments>...</comments>
+    <image>Monmon the Water Spider.jpg</image>
+  </movie>
+  <movie>
+    <date>2017.04.08</date>
+    <theater>Flight LX 160, Swiss</theater>
+    <director>Claude Barras</director>
+    <title>Ma vie de Courgette</title>
+    <url>http://www.imdb.com/title/tt2321405/</url>
+    <rating>4.5</rating>
+    <comments>...</comments>
+    <image>Ma vie de Courgette.jpg</image>
+  </movie>
+  <movie>
     <date>2017.04.01</date>
     <theater home="true"/>
     <director>Hayao Miyazaki</director>
