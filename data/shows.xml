@@ -15,6 +15,11 @@
   </show>
   <show>
     <date></date>
+    <name url="https://en.wikipedia.org/wiki/Inside_No._9">Inside No. 9</name>
+    <series url="https://en.wikipedia.org/wiki/Inside_No._9#Series_3" type="series">3</series>
+  </show>
+  <show>
+    <date></date>
     <name url="https://en.wikipedia.org/wiki/Modern_Family">Modern Family</name>
     <series url="https://en.wikipedia.org/wiki/Modern_Family#Season_2" type="season">2</series>
     <comments></comments>
@@ -24,6 +29,11 @@
     <name url="https://en.wikipedia.org/wiki/Mr._Sunshine_(2011_TV_series)">Mr. Sunshine</name>
     <series url="https://en.wikipedia.org/wiki/Mr._Sunshine_(2011_TV_series)#Episodes" type="season">1</series>
     <comments></comments>
+  </show>
+  <show>
+    <date></date>
+    <name url="https://en.wikipedia.org/wiki/Silicon_Valley_(TV_series)">Silicon Valley</name>
+    <series url="https://en.wikipedia.org/wiki/Silicon_Valley_(TV_series)#Season_4" type="season">4</series>
   </show>
   <show>
     <date></date>
