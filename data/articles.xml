@@ -2,6 +2,27 @@
 <articles>
   <introduction>A list of articles I read.</introduction>
   <article>
+    <date>2017.04.30</date>
+    <title url="https://www.nytimes.com/2017/02/04/opinion/sunday/why-nobody-cares-the-president-is-lying.html">Why Nobody Cares the President Is Lying</title>
+    <comments>"Mr. Trump and his allies in the right media have already turned the term "fake news" against its critics, essentially draining it of any meaning." This is a bit like the word "racist": it has lost almost all meaning, because it's used in too many contexts (mainly to imply a discrimination against religions, cultures, nationalities, etc.). "The real danger is that, inundated with "alternative facts,"" many voters will simply shrug, asking, "What is truth?"" — and not wait for an answer." This is worrying. All relativisms are. Sometimes this is done in the name of tolerance ("all opinions have some value"), but here this is way more pernicious.</comments>
+  </article>
+  <article>
+    <date>2017.04.29</date>
+    <title url="https://www.nytimes.com/2017/04/08/opinion/sunday/the-utter-uselessness-of-job-interviews.html">The Utter Uselessness of Job Interviews</title>
+    <comments>It's somewhat reassuring to know that researchers are thinking about better ways to conduct job interviews and that solutions exist. Selfishly I guess I'm not that concerned anyway, since in my field (software engineering / computer science), we tend to use technical interviews as a way to predict the performance of a candidate, and they're probably less useless than unstructured interviews.</comments>
+  </article>
+  <article>
+    <date>2017.04.29</date>
+    <title url="https://www.letemps.ch/societe/2017/04/17/lhumanite-estelle-carnivore">Pourquoi l'humanité est-elle carnivore?</title>
+    <subtitle>Les humains ne tuent pas pour manger de la viande mais mangent de la viande pour tuer: telle est la thèse renversante de la philosophe Florence Burgat</subtitle>
+    <comments>La question est clairement posée : "Les solutions alternatives à l'alimentation carnée sont en effet aujourd'hui nombreuses et connues; et si l'on considère en outre que la famine est largement entretenue par la mobilisation des terres et autres ressources nécessaires à l'élevage, la question n'en devient que plus aiguë: pourquoi diable l'humanité est-elle carnivore?" Une fois de plus, je suis d'accord avec la conclusion du livre dont il est question : "l'auteure montre comment l'humanité pourrait à la fois maintenir la place de la viande dans son imaginaire, et se passer des meurtres de masse en développant les simili-carnés végétaux (connus dès le Xe siècle en Chine), ou la viande in vitro produite en laboratoire."</comments>
+  </article>
+  <article>
+    <date>2017.04.29</date>
+    <title url="https://markmanson.net/smartphones">Smartphones are the New Cigarettes</title>
+    <comments>I'm constantly trying to be more focused, by meditating, having clear to-do lists, doing one thing at a time, not using my smartphone "too much" (whatever that means) when I'm with other people, etc. The problem is that even though we can try to make an effort for ourselves, this is not enough: "Their inability to focus interferes with our (already-fragile) ability to focus. The same way second-hand smoke harms the lungs of people around the smoker, smartphones harm the attention and focus of people around the smartphone user." Smartphones are a fantastic tool, but I tend to agree with the author: smartphones are also an annoying problem.</comments>
+  </article>
+  <article>
     <date>2017.04.17</date>
     <title url="https://stratechery.com/2017/the-arrival-of-artificial-intelligence/">The arrival of artificial intelligence</title>
     <comments>Humanity has a long story of automating work (logic/mathematics, tools, technology, computers, artificial intelligence, machine learning). "To date automation has displaced blue collar workers; are we prepared for machine learning to displace huge numbers of white collar ones?" How many people will be able to live meaningful lives without work? I find this is a hard question. Again, like in the case of "immortality", I really don't know how we will be able to adapt to those changes.</comments>
