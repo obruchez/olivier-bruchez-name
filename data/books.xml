@@ -3,6 +3,17 @@
     <introduction>A list of books I read.</introduction>
     <!-- For comments about Homo Deus: https://danielmiessler.com/projects/reading/summary-homo-deus/ -->
     <book>
+        <date></date>
+        <title>The Hitchhiker's Guide to the Galaxy</title>
+        <author>Douglas Adams</author>
+        <publishingyear>1979</publishingyear>
+        <rating></rating>
+        <url>https://en.wikipedia.org/wiki/The_Hitchhiker%27s_Guide_to_the_Galaxy_(novel)</url>
+        <!-- <notes description="Kindle highlights"></notes> -->
+        <comments></comments>
+        <image>The Hitchhiker's Guide to the Galaxy.jpg</image>
+    </book>
+    <book>
         <date>2017.04.30</date>
         <title>Meaning in Life and Why It Matters</title>
         <author>Susan Wolf</author>
