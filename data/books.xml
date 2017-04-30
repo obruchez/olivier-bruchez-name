@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <books>
     <introduction>A list of books I read.</introduction>
+    <!-- For comments about Homo Deus: https://danielmiessler.com/projects/reading/summary-homo-deus/ -->
     <book>
         <date></date>
         <title>Meaning in Life and Why It Matters</title>
