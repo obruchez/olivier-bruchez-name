@@ -3,9 +3,15 @@
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
     <date></date>
+    <name url="http://peachandblack.podbean.com/">Peach &amp; Black Podcast</name>
+    <episode url="https://peachandblack.podbean.com/e/deliverance-ep-review/">Deliverance EP Review</episode>
+    <comments></comments>
+  </podcast>
+  <podcast>
+    <date>2017.05.01</date>
     <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
     <episode url="https://www.samharris.org/podcast/item/beauty-and-terror" number="70">Beauty and Terror - A Conversation with Lawrence Krauss</episode>
-    <comments>The "debate format is a very poor format. It's a rethorical format." The goal is to convince the audience, not your opponents. Scientists are humans, biased as all other humans, but science is an error-correcting process, so those biases are not really important.</comments>
+    <comments>Some ideas that stood out for me: 1) The "debate format is a very poor format. It's a rethorical format."; the goal is to convince the audience, not your opponents. 2) Scientists are humans, biased as all other humans, but science is an error-correcting process, so those biases are not really important. The part about quantum mechanics was a nice refresher, but, having already read quite a lot about the topic, I realize that I still don't undertand anything... The last part, about the danger of Christian vs Islamic fundamentalism, was also interesting in the sense that Harris and Krauss seem to largely agree and, at the same time, arrive at different conclusions.</comments>
   </podcast>
   <podcast>
     <date>2017.04.25</date>
