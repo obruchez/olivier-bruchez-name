@@ -3,9 +3,15 @@
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
     <date></date>
+    <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
+    <episode url="https://www.samharris.org/podcast/item/what-is-technology-doing-to-us" number="71">What is Technology Doing to Us? - A Conversation with Tristan Harris</episode>
+    <comments></comments> <!-- How I "fight" the attention war: Feedly, "do not miss" list, score threshold for Hacker News, try to limit Facebook, etc. -->
+  </podcast>
+  <podcast>
+    <date>2017.05.04</date>
     <name url="http://peachandblack.podbean.com/">Peach &amp; Black Podcast</name>
     <episode url="https://peachandblack.podbean.com/e/apollonia-6-review/">Apollonia 6 Review</episode>
-    <comments></comments>
+    <comments>This is a <a href="https://twitter.com/obruchez/status/741593492833636352">"forgettable"</a> album, but it's always illuminating to hear the Peach &amp; Black Podcast review an album, even a bad album, track by track. As usual, it gave me a slightly different/new perspective.</comments>
   </podcast>
   <podcast>
     <date>2017.05.03</date>
