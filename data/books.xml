@@ -431,6 +431,7 @@
         <publishingyear>2009</publishingyear>
         <rating>4.5</rating>
         <url>https://books.google.com/books/about/Pierres_%C3%A0_cupules_et_autres_pierres_gra.html?id=y2h-KQEACAAJ</url>
+        <!-- Cover not found online -->
     </book>
     <book>
         <date>2013.11.21</date>
@@ -451,6 +452,7 @@
         <rating>4.75</rating>
         <url>https://fr.wikipedia.org/wiki/M%C3%A9taphysique_des_tubes</url>
         <notes description="Kindle highlights">Metaphysique des Tubes (Amelie Nothomb).md</notes>
+        <image>Métaphysique des tubes.jpg</image>
     </book>
     <book>
         <date>2013.10.17</date>
@@ -461,6 +463,7 @@
         <url>https://en.wikipedia.org/wiki/The_Selfish_Gene</url>
         <notes description="Kindle highlights">The Selfish Gene (Richard Dawkins).md</notes>
         <comments>30th Anniversary edition.</comments>
+        <image>The Selfish Gene.jpg</image>
     </book>
 	<book>
         <date>2013.08.01</date>
@@ -470,6 +473,7 @@
         <rating>4.75</rating>
         <url>https://en.wikipedia.org/wiki/A_Universe_from_Nothing</url>
         <notes description="Kindle highlights">A Universe from Nothing (Lawrence M. Krauss).md</notes>
+        <image>A Universe from Nothing.jpg</image>
     </book>
 	<book>
         <date>2013.06.07</date>
