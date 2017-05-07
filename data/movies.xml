@@ -2,6 +2,16 @@
 <movies>
   <introduction>A list of movies I saw.</introduction>
   <movie>
+    <date>2017.05.06</date>
+    <theater home="true"/>
+    <director>Dean DeBlois &amp; Chris Sanders</director>
+    <title>How to Train Your Dragon</title>
+    <url>http://www.imdb.com/title/tt0892769/</url>
+    <rating>4.75</rating>
+    <comments>Am I crazy or is this a movie against speciesism? The vikings represent humain beings in general. They have always been violent against other animals (killing them, etc.). Hiccup is considered as a weak viking by the entire village. He is "different", "not like us", etc. And he's the only one who decided not to kill dragons. So, in a sense, he's like a vegetarian/vegan/animal rights activist. Anyway, this is a nicely done movie. At least technically. And, as I said, the story is pretty good.</comments>
+    <image>How to Train Your Dragon.jpg</image>
+  </movie>
+  <movie>
     <date>2017.04.23</date>
     <theater>Flight LH 741, Lufthansa</theater>
     <director>Pedro Almodóvar</director>
