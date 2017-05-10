@@ -44,8 +44,14 @@
   <show>
     <date></date>
     <name url="https://en.wikipedia.org/wiki/Veep_(TV_series)">Veep</name>
-    <series url="https://en.wikipedia.org/wiki/Veep_(TV_series)#Season_3" type="season">3</series>
+    <series url="https://en.wikipedia.org/wiki/Veep_(TV_series)#Season_4" type="season">4</series>
     <comments></comments>
+  </show>
+  <show>
+    <date>2017.05.10</date>
+    <name url="https://en.wikipedia.org/wiki/Veep_(TV_series)">Veep</name>
+    <series url="https://en.wikipedia.org/wiki/Veep_(TV_series)#Season_3" type="season">3</series>
+    <comments>I don't have much more to say about this show. I would say season 3 is slightly better than season 2 (more "action" and more twists). I'm not sure I know where it can go from there, though.</comments>
   </show>
   <show>
     <date>2017.03.31</date>
