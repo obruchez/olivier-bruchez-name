@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <exhibitions>
     <introduction>A list of exhibitions I visited.</introduction>
+    <!--
+        Japon :
+        - Musee technique expon perm et disney, 5.0 9 avril
+        - Musee militaire, histoire, complexe, bcp de textes 4.5-4.75 ?
+        - Musee art moderne avec expo meubles 5.0
+        - Musee estampe tokyo 14/04 5.0
+        - ghibli 5
+        - nezu 4.5-4.75 (pour le jardin ?)
+        - Design festa gallery 4.5-4.75?
+        - Musee art moderne 21/4 4.5 un peu petit expo trmporaire poszers films interessant
+        - Musée manga, 21/4, 4.75, perturbant pour débutants
+    -->
     <exhibition>
         <date>2017.02.19</date>
         <name>Permanent exhibition</name>
