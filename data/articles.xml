@@ -2,6 +2,16 @@
 <articles>
   <introduction>A list of articles I read.</introduction>
   <article>
+    <date>2017.05.11</date>
+    <title url="https://www.nytimes.com/2017/05/06/opinion/sunday/dont-let-facebook-make-you-miserable.html">Don’t Let Facebook Make You Miserable</title>
+    <comments>"It is now official. Scholars have analyzed the data and confirmed what we already knew in our hearts. Social media is making us miserable." After a 2-year break, I started using Facebook again. It's still a mess. You can't really have lists like you can on Twitter. So I still can't use Facebook like I would like to use it. And it's frustrating. The result is that I sometimes don't check my Facebook feed for days. It's not a bad thing, of course. But I still miss the <em>good content</em> on Facebook (the statuses where people don't brag too much about how their life is fantastic, that is).</comments>
+  </article>
+  <article>
+    <date>2017.05.11</date>
+    <title url="http://www.nybooks.com/daily/2015/06/26/reading-is-forgetting/">Reading Is Forgetting</title>
+    <comments>This is something that happens not only for books, but also for articles, movies, podcasts, etc. I used to rationalize this by saying that, even if we forget most of what we read or hear, it still subconsciously changes us and how we think. But this is not enough. And I don't think the solution is to keep rereading the same 5-10 books (although it's still a good idea to reread books we loved). I'm convinced there are way too many good books for that idea to make sense. The solution is to change the way we read articles/books, listen to podcasts, etc. My current attempt at becoming better at this, in 2017, is to never read an article or a book, never listen to a podcast, etc. without having at least a few words or sentences to write about them. I already clearly see an effect on the way I listen to podcasts. I'm not sure about books yet.</comments>
+  </article>
+  <article>
     <date>2017.05.10</date>
     <title url="https://medium.freecodecamp.com/being-a-developer-after-40-3c5dd112210c">Being A Developer After 40</title>
     <subtitle>This is the talk I have given at App Builders Switzerland on April 25th, 2016.</subtitle>
