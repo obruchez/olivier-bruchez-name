@@ -483,6 +483,7 @@
         <rating>5.0</rating>
         <url>https://fr.wikipedia.org/wiki/Le_Vieil_Homme_et_la_Mer</url>
         <comments>French translation of "The Old Man and the Sea" by Jean Dutourd.</comments>
+        <image>Le Vieil Homme et la Mer.jpg</image>
     </book>
 	<book>
         <date>2013.05.08</date>
@@ -492,6 +493,7 @@
         <rating>4.75</rating>
         <url>https://fr.wikipedia.org/wiki/Le_Mythe_de_Sisyphe</url>
         <notes description="Kindle highlights">Le Mythe de Sisyphe (Albert Camus).md</notes>
+        <image>Le Mythe de Sisyphe.jpg</image>
     </book>
     <book>
         <date>2013.03.07</date>
@@ -500,6 +502,7 @@
         <publishingyear>2009</publishingyear>
         <rating>4.5</rating>
         <url>https://fr.wikipedia.org/wiki/Le_Voyage_d'hiver</url>
+        <image>Le Voyage d'hiver.jpg</image>
     </book>
     <book>
         <date>2013.02.19</date>
