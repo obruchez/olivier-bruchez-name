@@ -2,6 +2,12 @@
 <podcasts>
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date></date>
+    <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
+    <episode url="https://www.samharris.org/podcast/item/what-should-we-eat" number="74">What Should We Eat? - A Conversation with Gary Taubes</episode>
+    <comments></comments>
+  </podcast>
+  <podcast>
     <date>2017.05.12</date>
     <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
     <episode url="https://www.samharris.org/podcast/item/forbidden-knowledge" number="73">Forbidden Knowledge - A Conversation with Charles Murray</episode>
