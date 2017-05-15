@@ -2,11 +2,24 @@
 
 My votes (in French). En Suisse, on ne plaisante pas avec la démocratie directe. :) J'essaie ici de documenter et de justifier la façon dont je me positionne par rapport aux votations fédérales, qui ont lieu jusqu'à quatre fois par année.
 
+## [Votation fédérale du 21 mai 2017](https://www.admin.ch/gov/fr/accueil/documentation/votations/20170521/Loi-sur-l-energie.html)
+
+### Acceptez-vous la loi du 30 septembre 2016 sur l’énergie (LEne) ?
+
+Oui. Résultat : ? (??.?%).
+
+- La loi doit s'adapter aux changements (importants) dans le domaine de l'énergie.
+- Les arguments du comité référendaire ne me semblent pas pertinents (arguments habituels de l'augmentation des interdictions, des pertes d'emplois, de la dépendance à l'étranger, etc.).
+- L'augmentation du coût est attendue : les sources d'énergie polluantes (charbon, etc.) coûtent moins, mais ont un gros impact sur l'environnement.
+- L'argument de l'impact sur le paysage me touche plus ou moins, mais il fonctionne pour les éoliennes, pas pour les panneaux solaires. Il y a des solutions (voir par exemple [Solar Roof](https://www.tesla.com/solarroof) de Tesla).
+- Il faut aussi miser sur les avancées technologiques dans le domaine des batteries, par exemple. C'est un pari, certes, mais les pressions sont telles qu'il serait étonnant que des progrès importants ne soient pas réalisés dans les 10-15 prochaines années.
+- La loi proposée a des faiblesses, comme par exemple la mise à contribution exagérée des ménages et PME, comme le relève la Fédération Romande des Consommateurs (N° 98 de son magazine), mais cette dernière recommande tout de même d'accepter la loi. Je m'aligne sur son avis.
+
 ## [Votation fédérale du 12 février 2017](https://www.admin.ch/gov/fr/accueil/documentation/votations/20170212.html)
 
 ### Acceptez-vous l’arrêté fédéral du 30 septembre 2016 concernant la naturalisation facilitée des étrangers de la troisième génération ?
 
-Oui. Résultat : ? (??.?%).
+Oui. Résultat : oui (60.4%).
 
 - Il s'agit de faciliter (et non d'automatiser) la naturalisation d'un certain nombre de personnes qui doivent remplir des critères bien définis et qui, selon ces critères, sont forcément déjà bien intégrées en Suisse. Cela me semble raisonnable.
 - Je n'ai entendu aucun argument convaincant contre cet arrêté fédéral.
@@ -14,7 +27,7 @@ Oui. Résultat : ? (??.?%).
 
 ### Acceptez-vous l’arrêté fédéral du 30 septembre 2016 sur la création d’un fonds pour les routes nationales et pour le trafic d’agglomération ?
 
-Oui. Résultat : ? (??.?%).
+Oui. Résultat : oui (61.9%).
 
 - L'essence est relativement bon marché en Suisse. Une taxe de 4 centimes me semble tout à fait supportable. Il est vrai qu'elle pourrait être bien plus élevée, mais une augmentation plus importante risquerait de dissuader les automobilistes d'accepter ce projet.
 - Je ne crois pas en un futur où seuls les trains ou les trams seraient utilisés par les gens pour se déplacer. Cela n'est pas réaliste. J'entrevois sérieusement un futur avec des véhicules électriques complètement autonomes (d'ici 15-20 ans, disons). Se déplaçant sur des routes, pas des rails. Un tel système pourrait permettre une utilisation moins importante des routes (partage des véhicules se déplaçant selon la demande, moins de propriétaires de véhicules, etc.), mais cela reste à prouver. D'ici là, il faudra bien trouver des solutions pour les problèmes actuels (goulets d'étranglement, sécurité, bruit routier, etc.).
@@ -22,7 +35,7 @@ Oui. Résultat : ? (??.?%).
 
 ### Acceptez-vous la loi fédérale du 17 juin 2016 sur l’amélioration des conditions fiscales en vue de renforcer la compétitivité du site entrepreneurial suisse (Loi sur la réforme de l’imposition des entreprises III) ?
 
-Non. Résultat : ? (??.?%).
+Non. Résultat : non (59.1%).
 
 - Le comité référendaire dénonce l'utilisation de "mots compliqués", mais le sujet *est* compliqué. Peut-on vraiment espérer qu'une partie significative de la population comprenne tous les enjeux de cette réforme ? Est-ce que cela doit forcément être le cas ?
 - C'est un mauvais argument, mais le ton utilisé par le comité référendaire n'est vraiment pas sérieux : "combines", "arnaque", etc. Cela me rappelle tristement l'UDC.
