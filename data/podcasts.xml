@@ -2,10 +2,16 @@
 <podcasts>
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date></date>
+    <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
+    <episode url="https://www.samharris.org/podcast/item/ask-me-anything-7" number="75">Ask Me Anything 7</episode>
+    <comments></comments>
+  </podcast>
+  <podcast>
     <date>2017.05.17</date>
     <name url="https://danielmiessler.com/podcast/">Unsupervised Learning with Daniel Miessler</name>
     <episode url="https://danielmiessler.com/blog/unsupervised-learning-no-78/" number="78">Unsupervised Learning: No. 78</episode>
-    <comments><a href="http://mailchi.mp/danielmiessler/daniels-unsupervised-learning-newsletter-no-2412705">Show notes / newsletter</a>.</comments>
+    <comments><a href="http://mailchi.mp/danielmiessler/daniels-unsupervised-learning-newsletter-no-2412705">Show notes / newsletter</a>. The ransomware worm (based on WannaCry) is yet another reminder that you should backup your data. And be serious about security. I like the "swap TV time for reading time" idea, but, <a href="https://twitter.com/obruchez/status/863798527830437888">for me, it's not enough</a>.</comments>
   </podcast>
   <podcast>
     <date>2017.05.17</date>
