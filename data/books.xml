@@ -512,6 +512,7 @@
         <rating>4.75</rating>
         <url>http://en.wikipedia.org/wiki/What_I_Believe</url>
         <notes description="Kindle highlights">What I Believe (Bertrand Russell).md</notes>
+        <image>What I Believe.jpg</image>
     </book>
     <book>
         <date>2013.02.04</date>
@@ -522,6 +523,7 @@
         <rating>5.0</rating>
         <url>http://en.wikipedia.org/wiki/How_to_Create_a_Mind</url>
         <notes description="Kindle highlights">How to Create a Mind (Ray Kurzweil).md</notes>
+        <image>How to Create a Mind.jpg</image>
     </book>
     <book>
         <date>2012.12.06</date>
@@ -530,6 +532,7 @@
         <publishingyear>2008</publishingyear>
         <rating>4.25</rating>
         <url>https://books.google.com/books/about/JavaScript_The_Good_Parts.html?id=PXa2bby0oQ0C</url>
+        <image>JavaScript - The Good Parts.jpg</image>
     </book>
     <book>
         <date>2012.11.28</date>
