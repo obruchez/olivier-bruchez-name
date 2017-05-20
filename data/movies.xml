@@ -2,6 +2,16 @@
 <movies>
   <introduction>A list of movies I saw.</introduction>
   <movie>
+    <date>2017.05.20</date>
+    <theater home="true"/>
+    <director>Tim Burton</director>
+    <title>Sleepy Hollow</title>
+    <url>http://www.imdb.com/title/tt0162661/</url>
+    <rating>5.0</rating>
+    <comments>My wife didn't remember much about this movie, so we watched it again. For me, it was the third time. It's not Tim Burton's best movie, but it's pretty good. Johnny Depp is excellent, as is often the case. I'm a bit unsettled by the science/reason vs faith/magic theme. But we're talking about a movie about a headless horseman, so science/reason doesn't really stand a chance, does it?</comments>
+    <image>Sleepy Hollow.jpg</image>
+  </movie>
+  <movie>
     <date>2017.05.06</date>
     <theater home="true"/>
     <director>Dean DeBlois &amp; Chris Sanders</director>
@@ -2776,6 +2786,7 @@
     <title language="fr">Sleepy Hollow, La Légende Du Cavalier Sans Tête</title>
     <url>http://www.imdb.com/title/tt0162661/</url>
     <rating>4.75</rating>
+    <image>Sleepy Hollow.jpg</image>
   </movie>
   <movie>
     <date>2008.05.24</date>
@@ -5057,6 +5068,7 @@
     <director>Tim Burton</director>
     <title>Sleepy Hollow</title>
     <url>http://www.imdb.com/title/tt0162661/</url>
+    <image>Sleepy Hollow.jpg</image>
   </movie>
   <movie>
     <date>2000.02.02</date>
