@@ -3,14 +3,14 @@
     <introduction>A list of books I read.</introduction>
     <!-- For comments about Homo Deus: https://danielmiessler.com/projects/reading/summary-homo-deus/ -->
     <book>
-        <date></date>
+        <date>2017.05.21</date>
         <title>The Hitchhiker's Guide to the Galaxy</title>
         <author>Douglas Adams</author>
         <publishingyear>1979</publishingyear>
-        <rating></rating>
+        <rating>5.0</rating>
         <url>https://en.wikipedia.org/wiki/The_Hitchhiker%27s_Guide_to_the_Galaxy_(novel)</url>
         <!-- <notes description="Kindle highlights"></notes> -->
-        <comments></comments>
+        <comments>Another classic. But of course very different from <i>Nineteen Eighty-Four</i>, which I read two months ago. This is the first book by Douglas Adams that I read. His style is surprising, in a good way. This is definitely not "serious" science fiction, which I feared would lessen my interest, but it didn't.</comments>
         <image>The Hitchhiker's Guide to the Galaxy.jpg</image>
     </book>
     <book>
