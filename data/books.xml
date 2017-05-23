@@ -3,6 +3,17 @@
     <introduction>A list of books I read.</introduction>
     <!-- For comments about Homo Deus: https://danielmiessler.com/projects/reading/summary-homo-deus/ -->
     <book>
+        <date></date>
+        <title>La Plaisanterie</title>
+        <author>Milan Kundera</author>
+        <publishingyear>1968</publishingyear>
+        <rating></rating>
+        <url>https://fr.wikipedia.org/wiki/La_Plaisanterie</url>
+        <!-- <notes description="Kindle highlights"></notes> -->
+        <comments></comments>
+        <image>La Plaisanterie.jpg</image>
+    </book>
+    <book>
         <date>2017.05.21</date>
         <title>The Hitchhiker's Guide to the Galaxy</title>
         <author>Douglas Adams</author>
