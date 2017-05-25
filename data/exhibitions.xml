@@ -1,18 +1,78 @@
 <?xml version="1.0" encoding="utf-8"?>
 <exhibitions>
     <introduction>A list of exhibitions I visited.</introduction>
-    <!--
-        Japon :
-        - Musee technique expon perm et disney, 5.0 9 avril
-        - Musee militaire, histoire, complexe, bcp de textes 4.5-4.75 ?
-        - Musee art moderne avec expo meubles 5.0
-        - Musee estampe tokyo 14/04 5.0
-        - ghibli 5
-        - nezu 4.5-4.75 (pour le jardin ?)
-        - Design festa gallery 4.5-4.75?
-        - Musee art moderne 21/4 4.5 un peu petit expo trmporaire poszers films interessant
-        - Musée manga, 21/4, 4.75, perturbant pour débutants
-    -->
+    <exhibition>
+        <date>2017.04.21</date>
+        <name>Permanent exhibition</name>
+        <museum>Kyoto International Manga Museum, Kyoto, Japan</museum>
+        <rating>4.75</rating>
+        <comments>It looks like a huge library with about 300'000 manga books, magazines, and other items. As a complete neophyte when it comes to mangas, I found it a little disconcerting (this time in a bad way). The central room had a lot of explanations that were interesting and fun to read, though.</comments>
+        <image>Kyoto International Manga Museum.jpg</image>
+    </exhibition>
+    <exhibition>
+        <date>2017.04.21</date>
+        <name>Postwar German Posters for Films / Permanent exhibition</name>
+        <museum>National Museum of Modern Art, Kyoto, Japan</museum>
+        <rating>4.5</rating>
+        <comments>The permanent exhibition was a bit disappointing (too small), but the <i>Postwar German Posters for Films</i> exhibition was interesting (although it could have been better structured).</comments>
+        <image>Postwar German Posters for Films.jpg</image>
+    </exhibition>
+    <exhibition>
+        <date>2017.04.15</date>
+        <name>Many small exhibitions</name>
+        <museum>Design Festa Gallery, Tokyo</museum>
+        <rating>4.5</rating>
+        <comments>Not really a museum, but a gallery, with 15-20 small rooms / temporary exhibitions. Most of them by students or artists trying to get known. I was not particularly impressed by the paintings, drawings, etc. in themselves, but going in a small room, where the artist is present, looking at her/his art in front of her/him, and repeating the experience many times is a disconcerting experience (in a good way, if that makes sense).</comments>
+        <image>Design Festa Gallery.jpg</image>
+    </exhibition>
+    <exhibition>
+        <date>2017.04.15</date>
+        <name>Permanent exhibition</name>
+        <museum>Nezu Museum, Tokyo, Japan</museum>
+        <rating>4.5</rating>
+        <comments>Not a bad museum, but definitely not my cup of tea (a heterogeneous collection of paintings, ceramics, textiles, etc.). The garden is absolutely beautiful, though.</comments>
+        <image>Nezu Museum.jpg</image>
+    </exhibition>
+    <exhibition>
+        <date>2017.04.15</date>
+        <name>All Aboard! The Cat Bus to the Ghibli Forest / Permanent exhibition</name>
+        <museum>Ghibli Museum, Tokyo, Japan</museum>
+        <rating>5.0</rating>
+        <comments>This is a museum for children and for adults. Many, many, many small things to see (drawings, in particular, books, photos, etc.). Isao Takahata's personal photos from his trip to Switzerland in the 70s were quite funny. The museum is not too big and probably always almost full, so some rooms were very crowded and definitely less pleasant to visit. I was a bit disappointed to learn that not all of Miyazaki's short movies are shown at the same time (only one is shown at a given period and they're rotated regularly). I guess I'll have to settle for the bad-quality bootlegs that you can find online...</comments>
+        <image>All Aboard! The Cat Bus to the Ghibli Forest.jpg</image>
+    </exhibition>
+    <exhibition>
+        <date>2017.04.14</date>
+        <name>Permanent exhibition</name>
+        <museum>Ukiyo-e Ōta Memorial Museum of Art, Tokyo, Japan</museum>
+        <rating>5.0</rating>
+        <comments>A rather small museum with a selection of ukiyo-e prints/paintings from a 12'000-piece collection. Some of them are serious. Some of them are funny. The styles, subjects, etc. are quite different. So a nice and quick visit.</comments>
+        <image>Ukiyo-e Ōta Memorial Museum of Art.jpg</image>
+    </exhibition>
+    <exhibition>
+        <date>2017.04.11</date>
+        <name>Marcel Breuer's Furniture: Improvement for good / Permanent exhibition</name>
+        <museum>National Museum of Modern Art, Tokyo, Japan</museum>
+        <rating>5.0</rating>
+        <comments>Smaller than expected, but, overall, I really liked this museum. Lots of paintings, sculptures, video installations, etc. We had fun watching <i>Hideo, It’s Me, Mama</i> by Mako Idemitsu, but didn't have enought time to watch it until the end, unfortunately.</comments>
+        <image>Marcel Breuer's Furniture - Improvement for good.jpg</image>
+    </exhibition>
+    <exhibition>
+        <date>2017.04.11</date>
+        <name>Permanent exhibition</name>
+        <museum>Yūshūkan War Memorial Museum, Tokyo, Japan</museum>
+        <rating>4.5</rating>
+        <comments>I'm not a fan of history (and ashamed of admitting it) and even less interested in military/war museums. Objectively, it looks like an interesting museum, with <em>a lot</em> of texts to read - some of them quite controversial (i.e. revisionist), apparently - and some impressive military artefacts (planes, etc.).</comments>
+        <image>Yūshūkan War Memorial Museum.jpg</image>
+    </exhibition>
+    <exhibition>
+        <date>2017.04.09</date>
+        <name>The Art of Disney - The Magic of Animation / Permanent exhibition</name>
+        <museum>National Museum of Emerging Science and Innovation (Miraikan), Tokyo, Japan</museum>
+        <rating>5.0</rating>
+        <comments>The permanent exhibition is well done, but probably more interesting for children. The special exhibition ("The Art of Disney - The Magic of Animation") was particularly well done - although not very "Japanese".</comments>
+        <image>The Art of Disney - The Magic of Animation.jpg</image>
+    </exhibition>
     <exhibition>
         <date>2017.02.19</date>
         <name>Permanent exhibition</name>
@@ -224,4 +284,14 @@
         <museum>Kunstmuseum, Basel, Switzerland</museum>
         <rating>4.5</rating>
     </exhibition>
+    <!--
+    <exhibition>
+        <date></date>
+        <name></name>
+        <museum></museum>
+        <rating></rating>
+        <comments></comments>
+        <image></image>
+    </exhibition>
+    -->
 </exhibitions>
