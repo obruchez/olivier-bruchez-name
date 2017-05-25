@@ -553,6 +553,7 @@
         <rating>5.25</rating>
         <url>https://fr.wikipedia.org/wiki/L%27%C3%A9tranger</url>
         <notes description="Kindle highlights">L'Etranger (Albert Camus).md</notes>
+        <image>L'Étranger.jpg</image>
     </book>
     <book>
         <date>2012.11.05</date>
@@ -563,6 +564,7 @@
         <rating>5.25</rating>
         <url>https://en.wikipedia.org/wiki/The_Moral_Landscape</url>
         <notes description="Kindle highlights">The Moral Landscape (Sam Harris).md</notes>
+        <image>The Moral Landscape.jpg</image>
     </book>
     <book>
         <date>2012.09.19</date>
@@ -573,6 +575,7 @@
         <rating>5.25</rating>
         <url>https://books.google.com/books/about/You_Are_Not_So_Smart.html?id=7qJfuAAACAAJ</url>
         <notes description="Kindle highlights">You Are Not So Smart (David McRaney).md</notes>
+        <image>You Are Not So Smart.jpg</image>
     </book>
 	<book>
 		<date>2012.04.26</date>
