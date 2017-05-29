@@ -3,6 +3,12 @@
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
     <date></date>
+    <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
+    <episode url="https://www.samharris.org/podcast/item/the-moral-complexity-of-genetics" number="77">The Moral Complexity of Genetics - A Conversation with Siddhartha Mukherjee</episode>
+    <comments></comments>
+  </podcast>
+  <podcast>
+    <date>2017.05.29</date>
     <name url="https://danielmiessler.com/podcast/">Unsupervised Learning with Daniel Miessler</name>
     <episode url="https://danielmiessler.com/blog/unsupervised-learning-no-79/" number="79">Unsupervised Learning: No. 79</episode>
     <comments><a href="http://mailchi.mp/danielmiessler/daniels-unsupervised-learning-newsletter-no-2451457">Show notes / newsletter</a>. This is a good thing that the creators of WannaCry didn't receive too much money ("only" 100'000 USD). This might discourage an explosion of future attacks. About remote working: companies shouldn't ban remote working, but I understand why they also don't want to have people always working from home.</comments>
