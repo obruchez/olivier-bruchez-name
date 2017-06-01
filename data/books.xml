@@ -585,6 +585,7 @@
 		<rating>5.0</rating>
         <url>https://books.google.com/books/about/Free_Will.html?id=iRpkNcRt1IcC</url>
         <notes description="Kindle highlights">Free Will (Sam Harris).md</notes>
+        <image>Free Will.jpg</image>
 	</book>
 	<book>
 		<date>2012.04.06</date>
@@ -594,6 +595,7 @@
 		<rating>5.25</rating>
         <url>https://books.google.com/books/about/Bad_Science.html?id=wICuv0ePMYoC</url>
         <notes description="Kindle highlights">Bad Science (Ben Goldacre).md</notes>
+        <image>Bad Science.jpg</image>
 	</book>
 	<book>
 		<date>2011.11.14</date>
@@ -603,6 +605,7 @@
 		<publishingyear>2011</publishingyear>
 		<rating>4.75</rating>
         <url>https://books.google.com/books/about/Anything_You_Want.html?id=962NZwEACAAJ</url>
+        <image>Anything You Want.jpg</image>
 	</book>
     <book>
 		<date>2011.10.20</date>
