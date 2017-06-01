@@ -4,8 +4,14 @@
   <podcast>
     <date></date>
     <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
-    <episode url="https://www.samharris.org/podcast/item/the-moral-complexity-of-genetics" number="77">The Moral Complexity of Genetics - A Conversation with Siddhartha Mukherjee</episode>
+    <episode url="https://www.samharris.org/podcast/item/persuasion-and-control" number="78">Persuasion and Control - A Conversation with Zeynep Tufekci</episode>
     <comments></comments>
+  </podcast>
+  <podcast>
+    <date>2017.06.01</date>
+    <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
+    <episode url="https://www.samharris.org/podcast/item/the-moral-complexity-of-genetics" number="77">The Moral Complexity of Genetics - A Conversation with Siddhartha Mukherjee</episode>
+    <comments>I don't know what to make of the Boghossian/Lindsay hoax. Sam's discussion with Mukherjee was interesting/dense and, in particular, the part about intelligence. I'm not sure I agree with Mukherjee's position on this (that intelligence is a kind of cultural construct, that it cannot really be defined, etc.). Genetic engineering is exciting and at the same time frightening (just like artificial intelligence).</comments>
   </podcast>
   <podcast>
     <date>2017.05.29</date>
