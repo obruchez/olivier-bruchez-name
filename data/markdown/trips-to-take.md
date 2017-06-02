@@ -35,6 +35,7 @@ See also [1000 places to see before you die](http://1000places.com/).
 * [Finland](https://en.wikipedia.org/wiki/Finland)
 * [Greece](https://en.wikipedia.org/wiki/Greece)
 * [Germany](https://en.wikipedia.org/wiki/Germany) ([large cities](https://en.wikipedia.org/wiki/List_of_cities_in_Germany_by_population), e.g. in train; can be combined with [Prague](https://en.wikipedia.org/wiki/Prague) or even [Amsterdam](https://en.wikipedia.org/wiki/Amsterdam))
+* [Greenland](https://en.wikipedia.org/wiki/Greenland)
 * [Iceland](https://en.wikipedia.org/wiki/Iceland) (trekking, etc.)
 * [India](https://en.wikipedia.org/wiki/India) ([Taj Mahal](https://en.wikipedia.org/wiki/Taj_Mahal), etc.)
 * [Lithuania](https://en.wikipedia.org/wiki/Lithuania)
