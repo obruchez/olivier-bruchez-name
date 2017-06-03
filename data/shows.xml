@@ -15,6 +15,12 @@
   </show>
   <show>
     <date></date>
+    <name url="https://en.wikipedia.org/wiki/Mr._Robot_(TV_series)">Mr. Robot</name>
+    <series url="https://en.wikipedia.org/wiki/List_of_Mr._Robot_episodes#Season_1_.282015.29" type="season">1</series>
+    <comments></comments>
+  </show>
+  <show>
+    <date></date>
     <name url="https://en.wikipedia.org/wiki/Mr._Sunshine_(2011_TV_series)">Mr. Sunshine</name>
     <series url="https://en.wikipedia.org/wiki/Mr._Sunshine_(2011_TV_series)#Episodes" type="season">1</series>
     <comments></comments>
@@ -24,10 +30,16 @@
     <name url="https://en.wikipedia.org/wiki/Silicon_Valley_(TV_series)">Silicon Valley</name>
     <series url="https://en.wikipedia.org/wiki/Silicon_Valley_(TV_series)#Season_4" type="season">4</series>
   </show>
-  <show>
+  <!--<show>
     <date></date>
     <name url="https://en.wikipedia.org/wiki/This_Is_Us_(TV_series)">This Is Us</name>
     <series url="https://en.wikipedia.org/wiki/This_Is_Us_(TV_series)#Episodes" type="season">1</series>
+    <comments></comments>
+  </show>-->
+  <show>
+    <date></date>
+    <name url="https://en.wikipedia.org/wiki/Twin_Peak">Twin Peaks</name>
+    <series url="https://en.wikipedia.org/wiki/Twin_Peaks_(2017_TV_series)" type="season">3</series>
     <comments></comments>
   </show>
   <show>
