@@ -78,6 +78,7 @@ Pretty much everything from [Les cent livres du siècle](https://fr.wikipedia.or
 * Ronald Findlay, ["Power and Plenty: Trade, War, and the World Economy in the Second Millennium (Princeton Economic History of the Western World)"](http://www.amazon.com/Power-Plenty-Millennium-Princeton-Economic-ebook/dp/B003SNJEPS/) (recommended by Christoph G.)
 * Milton Friedman & Rose Friedman, ["Free to Choose"](https://en.wikipedia.org/wiki/Free_to_Choose) (recommended by [@avernet](https://twitter.com/avernet))
 * Thomas Piketty, ["Le Capital au XXIe siècle"](http://www.amazon.fr/Le-Capital-au-XXIe-si%C3%A8cle-ebook/dp/B00EYCOV3M/) (long book - 970 pages -, recommended by [@danielmiessler](https://twitter.com/danielmiessler))
+* Charles Wheelan, ["Naked Economics: Undressing the Dismal Science"](https://www.amazon.com/Naked-Economics-Undressing-Science-Revised-ebook/dp/B003NX6TYC) (recommended by [@danielmiessler](https://twitter.com/danielmiessler))
 
 ## Education
 
@@ -144,6 +145,7 @@ Pretty much everything from [Les cent livres du siècle](https://fr.wikipedia.or
 
 * Jared Diamond, ["Collapse: How Societies Choose to Fail or Succeed"](https://en.wikipedia.org/wiki/Collapse:_How_Societies_Choose_to_Fail_or_Succeed) (recommended by Franck?)
 * Jared Diamond, ["Guns, Germs, and Steel: The Fates of Human Societies"](https://en.wikipedia.org/wiki/Guns,_Germs,_and_Steel) (recommended by Franck?)
+* Yuval Noah Harari, ["Sapiens: A Brief History of Humankind"](https://www.amazon.com/Sapiens-Humankind-Yuval-Noah-Harari-ebook/dp/B00K7ED54M/) (listed on [Hacker News](https://news.ycombinator.com/item?id=14477851))
 
 ## Humor
 
@@ -183,6 +185,7 @@ Pretty much everything from [Les cent livres du siècle](https://fr.wikipedia.or
 * Leo Babauta, ["The One Skill: How Mastering the Art of Letting Go Will Change Your Life"](http://zenhabits.net/lg/) (free book, mentioned by [@avernet](https://twitter.com/avernet))
 * Leo Babauta, ["Zen To Done"](http://www.amazon.com/Zen-Done-Ultimate-Simple-Productivity-ebook/dp/B001970HQU/)
 * Travis Bradberry & Jean Greaves, ["Emotional Intelligence 2.0"](https://en.wikipedia.org/wiki/Emotional_Intelligence_2.0)
+* Dale Carnegie, ["How To Win Friends and Influence People"](https://www.amazon.com/How-Win-Friends-Influence-People-ebook/dp/B003WEAI4E/) (listed on [Hacker News](https://news.ycombinator.com/item?id=14477851))
 * Arvind Devalia, ["Get the Life You Love and Live It"](http://www.amazon.com/Get-Life-You-Love-Live/dp/1905613008/)
 * Jonathan Fields, ["Career Renegade: How to Make a Great Living Doing What You Love"](http://www.amazon.com/Career-Renegade-Great-Living-Doing/dp/0767927419/)
 * P.M. Forni, ["The Thinking Life: How to Thrive in the Age of Distraction"](http://www.amazon.com/The-Thinking-Life-Thrive-Distraction/dp/B008SMFIC2/)
@@ -190,6 +193,7 @@ Pretty much everything from [Les cent livres du siècle](https://fr.wikipedia.or
 * Dan Harris, ["10% Happier: How I Tamed the Voice in My Head, Reduced Stress Without Losing My Edge, and Found Self-Help That Actually Works"](https://www.amazon.com/10-Happier-Self-Help-Actually-Works-A/dp/0062265423) (recommended by [@PeterAttiamd](https://twitter.com/PeterAttiamd))
 * Gordon MacKenzie, ["Orbiting the Giant Hairball: A Corporate Fool's Guide to Surviving with Grace"](http://www.amazon.com/Orbiting-Giant-Hairball-Corporate-Surviving/dp/0670879835)
 * Eric Maisel, ["The Creativity Book: A Year's Worth of Inspiration and Guidance"](http://www.amazon.com/The-Creativity-Book-Inspiration-Guidance-ebook/dp/B001NJA8Y0)
+* Mark Manson, ["Models: Attract Women Through Honesty"](https://www.amazon.com/Models-Attract-Women-Through-Honesty-ebook/dp/B005EOTH24) (recommended by [@danielmiessler](https://twitter.com/danielmiessler))
 * David McRaney, ["You Are Now Less Dumb: How to Conquer Mob Mentality, How to Buy Happiness, and All the Other Ways to Outsmart Yourself"](http://www.amazon.com/You-Are-Now-Less-Dumb/dp/1592408796)
 * Becki Saltzman, ["Living Curiously: How to Use Curiosity to be Remarkable and Do Good Stuff"](https://www.amazon.com/Living-Curiously-Curiosity-Remarkable-English-ebook/dp/B01EKOGYCY/) (recommended by [@gschaer](https://twitter.com/gschaer))
 * Eckhart Tolle, ["A New Earth"](http://www.amazon.com/New-Earth-Awakening-Purpose-Selection/dp/0452289963/)
@@ -206,6 +210,7 @@ Pretty much everything from [Les cent livres du siècle](https://fr.wikipedia.or
 * Denis Diderot, ["Jacques le fataliste et son maître"](https://fr.wikipedia.org/wiki/Jacques_le_fataliste_et_son_ma%C3%AEtre) (recommended by [@verybadwizards](https://twitter.com/verybadwizards))
 * Will Durant, ["The Story of Philosophy: The Lives and Opinions of the World's Greatest Philosophers"](http://www.amazon.com/The-Story-Philosophy-Opinions-Philosophers/dp/0671739166)
 * Michael S. A. Graziano, ["Consciousness and the Social Brain"](http://www.amazon.com/Consciousness-Social-Brain-Michael-Graziano/dp/0199928649) (summarized by [@SelfAwarePatter](https://twitter.com/SelfAwarePatter) on [his blog](http://selfawarepatterns.com/2013/12/30/consciousness-and-the-social-brain-a-review/))
+* Jonathan Haidt, ["The Happiness Hypothesis: Finding Modern Truth in Ancient Wisdom"](https://www.amazon.com/Happiness-Hypothesis-Finding-Modern-Ancient-ebook/dp/B06XCF7WFR/) (listed on [Hacker News](https://news.ycombinator.com/item?id=14477851))
 * Bruce Hood, ["The Self Illusion: How the Social Brain Creates Identity"](http://www.amazon.com/The-Self-Illusion-Creates-Identity/dp/0199988781) (interviewed by [@SamHarrisOrg](https://twitter.com/SamHarrisOrg))
 * William MacAskill, ["Doing Good Better: Effective Altruism and a Radical New Way to Make a Difference"](https://www.amazon.com/Doing-Good-Better-Effective-Difference-ebook/dp/B00XGX17IM) (interviewed by [@SamHarrisOrg](https://twitter.com/SamHarrisOrg))
 * Bryan Magee, ["The Great Philosophers: An Introduction to Western Philosophy"](http://www.amazon.com/The-Great-Philosophers-Introduction-Philosophy/dp/019289322X) (was Magee atheist?)
@@ -269,6 +274,7 @@ Pretty much everything from [Les cent livres du siècle](https://fr.wikipedia.or
 * Douglas Richard Hofstadter, ["Gödel, Escher, Bach: An Eternal Golden Braid"](https://en.wikipedia.org/wiki/G%C3%B6del,_Escher,_Bach) (recommended by [@aloiscochard](https://twitter.com/aloiscochard))
 * Darrell Huff, ["How to Lie with Statistics"](https://en.wikipedia.org/wiki/How_to_Lie_with_Statistics) (recommended by [@behaghel](https://twitter.com/behaghel))
 * Matt Ridley, ["The Evolution of Everything: How New Ideas Emerge"](https://www.amazon.com/Evolution-Everything-How-Ideas-Emerge/dp/0062296000)
+* Matt Ridley, ["The Red Queen: Sex and the Evolution of Human Nature"](https://www.amazon.com/Red-Queen-Evolution-Human-Nature-ebook/dp/B006O4227U) (recommended by [@danielmiessler](https://twitter.com/danielmiessler))
 
 ## Social sciences / sociology / politics
 
