@@ -38,6 +38,10 @@
 * [Jérusalem](https://fr.wikipedia.org/wiki/J%C3%A9rusalem) : partagée entre Jérusalem-Ouest (Israël) et [Jérusalem-Est](https://fr.wikipedia.org/wiki/J%C3%A9rusalem-Est) (annexé par la Jordanie entre 1949 et 1967, occupé par Israël, revendiqué par la Palestine comme capitale) ; statut de capitale d’Israël [presque pas reconnu par la communauté internationale](https://fr.wikipedia.org/wiki/Isra%C3%ABl#Position_des_institutions_internationales) (diplomatie installée à Tel-Aviv), à part par les Etats-Unis
 * voir aussi [Wikipedia](https://fr.wikipedia.org/wiki/Conflit_isra%C3%A9lo-palestinien)
 
+## Earplugs
+
+* the most satisfying earplugs I've used so far (2017) are [Mack's Pillow Soft Silicone Earplugs](http://www.macksearplugs.com/details/musicians-ear-plugs/pillow-soft-earplugs-6-pair-value)
+
 ## Effet Barnum
 
 * autrement appelé effet Forer, effet de validation subjective ou effet de validation personnelle, désigne un biais subjectif induisant toute personne à accepter une vague description de la personnalité comme s'appliquant spécifiquement à elle-même.
