@@ -2,6 +2,16 @@
 <movies>
   <introduction>A list of movies I saw.</introduction>
   <movie>
+    <date>2017.06.03</date>
+    <theater>Galeries, Lausanne</theater>
+    <director>Maysaloun Hamoud</director>
+    <title>In Between</title>
+    <url>http://www.imdb.com/title/tt5974388/</url>
+    <rating>4.75</rating>
+    <comments>This was a theme I was <em>a priori</em> not very interested in, but the life and struggle of those Palestinian women in a somehwat segregated Tel Aviv, in a modern but still conservative society, was captivating. The movie was not as moving as it could have been. Some clichés could also have been avoided. But, overall, it was pretty good.</comments>
+    <image>In Between.jpg</image>
+  </movie>
+  <movie>
     <date>2017.05.20</date>
     <theater home="true"/>
     <director>Tim Burton</director>
