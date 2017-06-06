@@ -4,8 +4,14 @@
   <podcast>
     <date></date>
     <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
-    <episode url="https://www.samharris.org/podcast/item/persuasion-and-control" number="78">Persuasion and Control - A Conversation with Zeynep Tufekci</episode>
+    <episode url="https://www.samharris.org/podcast/item/the-road-to-tyranny" number="79">The Road to Tyranny - A Conversation with Timothy Snyder</episode>
     <comments></comments>
+  </podcast>
+  <podcast>
+    <date>2017.07.06</date>
+    <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
+    <episode url="https://www.samharris.org/podcast/item/persuasion-and-control" number="78">Persuasion and Control - A Conversation with Zeynep Tufekci</episode>
+    <comments>This sounded more like a monologue than a real discussion, but Tufekci sounds knowledgeable, although the part about internet connectivity, iOS vs Android, Microsoft vs Apple, etc. was a bit cringeworthy (from a software engineer standpoint). The potential for mass manipulation by companies such as Facebook, Google, etc., using their data and deep learning, is a bit frightening.</comments>
   </podcast>
   <podcast>
     <date>2017.06.01</date>
