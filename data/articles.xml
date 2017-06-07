@@ -2,6 +2,12 @@
 <articles>
   <introduction>A list of articles I read.</introduction>
   <article>
+    <date>2017.06.07</date>
+    <title url="http://www.cio.com/article/3198472/careers-staffing/the-hard-truths-of-navigating-ageism-in-it.html">The hard truths of navigating ageism in IT</title>
+    <subtitle>In an industry that favors youth over experience, the best defense against age discrimination may be avoiding becoming a victim in the first place</subtitle>
+    <comments>Nothing really new here. A couple of good advices. "Many employers believe that older workers are reluctant to try new technologies [...] Because age discrimination is difficult to prove in a lawsuit, the best defense might be to do everything you can to avoid becoming a victim, McCann says. That includes being a lifelong learner and staying on top of developments in your field at every stage of your career, and seeking out training at your workplace and on your own. [...] It’s probably a good idea to also delete references to older technologies that are no longer in use. [...] Also be ready for questions such as whether you are overqualified for the position or if you have difficulty dealing with a younger or less experienced supervisor".</comments>
+  </article>
+  <article>
     <date>2017.06.04</date>
     <title url="https://www.theatlantic.com/magazine/archive/2017/01/how-to-sleep/508781/">How to Sleep</title>
     <subtitle>Should you drink more coffee? Should you take melatonin? Can you train yourself to need less sleep? A physician’s guide to sleep in a stressful age.</subtitle>
