@@ -3,9 +3,15 @@
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
     <date></date>
+    <name url="https://danielmiessler.com/podcast/">Unsupervised Learning with Daniel Miessler</name>
+    <episode url="https://danielmiessler.com/blog/unsupervised-learning-no-81/" number="81">Unsupervised Learning: No. 81</episode>
+    <comments></comments>
+  </podcast>
+  <podcast>
+    <date>2017.06.08</date>
     <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
     <episode url="https://www.samharris.org/podcast/item/the-road-to-tyranny" number="79">The Road to Tyranny - A Conversation with Timothy Snyder</episode>
-    <comments></comments>
+    <comments>It's useful to remember how people such as Hitler, Stalin, etc. came to power, how the press reacted at the time, how the populations progressively accepted to lose their freedoms without even realizing it, etc. It's a bit frightening. It can sound a bit too hyperbolic at times. But to quote a comment on Reddit: "comparing Trump in 2020 with Hitler in 1945 is ridiculous at this point, but comparing Trump in 2017 with Hitler in 1933, when Hitler wasn't yet a monster but merely an authoritarian, can teach us useful lessons on how to perserve democracy".</comments>
   </podcast>
   <podcast>
     <date>2017.06.06</date>
