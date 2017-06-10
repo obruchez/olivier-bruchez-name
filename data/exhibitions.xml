@@ -2,6 +2,14 @@
 <exhibitions>
     <introduction>A list of exhibitions I visited.</introduction>
     <exhibition>
+        <date>2017.06.10</date>
+        <name>Hodler Monet Munch. Peindre l'impossible.</name>
+        <museum>Fondation Pierre Gianadda, Martigny, Switzerland</museum>
+        <rating>4.75</rating>
+        <comments>A lot of landscapes, particularly mountains by Hodler. Maybe a bit too much for my taste, even though some of them are excellent. Some familiar views around Lake Geneva. A couple of fantastic paintings by Monet and Munch.</comments>
+        <image>Hodler Monet Munch - Peindre l'impossible.jpg</image>
+    </exhibition>
+    <exhibition>
         <date>2017.04.21</date>
         <name>Permanent exhibition</name>
         <museum>Kyoto International Manga Museum, Kyoto, Japan</museum>
