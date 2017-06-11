@@ -11,6 +11,25 @@
   -->
   <introduction>A list of concerts I went to.</introduction>
   <concert>
+    <date>2017.06.11</date>
+    <location>Opéra de Lausanne, Lausanne, Switzerland</location>
+    <event><i>Don Giovanni</i> opera</event>
+    <musician inst="vocals">Kostas Smoriginas</musician>
+    <musician inst="vocals">Riccardo Novaro</musician>
+    <musician inst="vocals">Anne-Catherine Gillet</musician>
+    <musician inst="vocals">Lucia Cirillo</musician>
+    <musician inst="vocals">Catherine Trottmann</musician>
+    <musician inst="vocals">Anicio Zorzi Giustiniani</musician>
+    <musician inst="vocals">Ruben Amoretti</musician>
+    <musician inst="vocals">Leon Košavić</musician>
+    <musician inst="orchestra">Orchestre de Chambre de Lausanne</musician>
+    <musician inst="conductor">Michael Güttler</musician>
+    <musician inst="choir">Chœur de l’Opéra de Lausanne</musician>
+    <musician inst="choir director">Pascal Mayer</musician>
+    <rating>5.0</rating>
+    <comments><i>Don Giovanni</i> opera (Wolfgang Amadeus Mozart), directed by Éric Vigié. Yet another famous opera that I didn't know. A lot of excellent singers. The sets in the second part were particularly impressive (the scenes with the Statue), yet quite simple. Some of the colors/lights effects were also simple but effective. After seeing Molière's <i>Dom Juan</i> at Théâtre de Vidy last year, it was intriguing to see Mozart / Lorenzo da Ponte's take on the Don Juan character.</comments>
+  </concert>
+  <concert>
     <date>2017.04.04</date>
     <location>Chapiteau, Cully, Switzerland</location>
     <event>Cully Jazz Festival</event>
@@ -54,7 +73,7 @@
   <concert>
     <date>2017.03.26</date>
     <location>Opéra de Lausanne, Lausanne, Switzerland</location>
-    <event>"La Bohème" opera</event>
+    <event><i>La Bohème</i> opera</event>
     <musician inst="vocals">Emily Dorn</musician>
     <musician inst="vocals">Giorgio Berrugi</musician>
     <musician inst="vocals">Anne-Sophie Petit</musician>
@@ -69,7 +88,7 @@
     <musician inst="choir director">Jacques Blanc</musician>
     <musician inst="">Maîtrise Opéra du Conservatoire de Lausanne</musician>
     <rating>5.0</rating>
-    <comments>"La Bohème" opera (Giacomo Puccini), directed by Claude Stratz. This was my fourth opera at the Opéra de Lausanne. As usual, I didn't know anything about the work (let's say I wanted to have a fresh, neophyte perspective - but I'm a bit lazy as well...). The first two acts (before the intermission) are very happy. Almost mushy. The last two acts are a bit more dramatic. The very end of the fourth act is really designed to make you cry. The main themes are quite common, a bit clichés: the poor artist, love at first sight, happiness in poverty, etc. The music is easy to follow. Overall, I really liked the simple (but not pared-down) set and the singers were very good. Some of the longer "monologues" got a lot of applause from the audience.</comments>
+    <comments><i>La Bohème</i> opera (Giacomo Puccini), directed by Claude Stratz. This was my fourth opera at the Opéra de Lausanne. As usual, I didn't know anything about the work (let's say I wanted to have a fresh, neophyte perspective - but I'm a bit lazy as well...). The first two acts (before the intermission) are very happy. Almost mushy. The last two acts are a bit more dramatic. The very end of the fourth act is really designed to make you cry. The main themes are quite common, a bit clichés: the poor artist, love at first sight, happiness in poverty, etc. The music is easy to follow. Overall, I really liked the simple (but not pared-down) set and the singers were very good. Some of the longer "monologues" got a lot of applause from the audience.</comments>
   </concert>
   <concert>
     <date>2016.11.04</date>
@@ -224,7 +243,7 @@
   <concert>
     <date>2016.06.12</date>
     <location>Opéra de Lausanne, Lausanne, Switzerland</location>
-    <event>"Faust" opera</event>
+    <event><i>Faust</i> opera</event>
     <musician inst="vocals">Paolo Fanale</musician>
     <musician inst="vocals">Kenneth Kellog</musician>
     <musician inst="vocals">Maria Katzarava</musician>
@@ -237,7 +256,7 @@
     <musician inst="choir">Chœur de l’Opéra de Lausanne</musician>
     <musician inst="choir director">Marcel Seminara</musician>
     <rating>5.0</rating>
-    <comments>"Faust" opera (Charles Gounod), directed by Stefano Poda.</comments>
+    <comments><i>Faust</i> opera (Charles Gounod), directed by Stefano Poda.</comments>
   </concert>
   <concert>
     <date>2016.05.25</date>
@@ -319,7 +338,7 @@
   <concert>
     <date>2015.10.09</date>
     <location>Opéra de Lausanne, Lausanne, Switzerland</location>
-    <event>"La Cenerentola" opera</event>
+    <event><i>La Cenerentola</i> opera</event>
     <musician inst="vocals">Serena Malfi</musician>
     <musician inst="vocals">Edgardo Rocha</musician>
     <musician inst="vocals">Alexandre Diakoff</musician>
@@ -333,7 +352,7 @@
     <musician inst="choir director">Pascal Mayer</musician>
     <musician inst="">Maîtrise Horizons du Conservatoire de Lausanne</musician>
     <rating>5.0</rating>
-    <comments>"La Cenerentola" opera (Gioachino Rossini), directed by Adriano Sinivia.</comments>
+    <comments><i>La Cenerentola</i> opera (Gioachino Rossini), directed by Adriano Sinivia.</comments>
   </concert>
   <concert>
     <date>2015.07.17</date>
@@ -360,7 +379,7 @@
   <concert>
     <date>2015.06.10</date>
     <location>Opéra de Lausanne, Lausanne, Switzerland</location>
-    <event>"Die Zauberflöte" opera</event>
+    <event><i>Die Zauberflöte</i> opera</event>
     <musician inst="vocals">Catalina Bertucci</musician>
     <musician inst="vocals">Shawn Mathey</musician>
     <musician inst="vocals">Anna Siminska</musician>
@@ -382,7 +401,7 @@
     <musician inst="choir director">Pascal Mayer</musician>
     <musician inst="">Maîtrise Horizons du Conservatoire de Lausanne</musician>
     <rating>5.0</rating>
-    <comments>"Die Zauberflöte" opera (Wolfgang Amadeus Mozart), directed by Pet Halmen.</comments>
+    <comments><i>Die Zauberflöte</i> opera (Wolfgang Amadeus Mozart), directed by Pet Halmen.</comments>
   </concert>
   <concert>
     <date>2015.05.28</date>
