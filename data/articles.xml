@@ -2,16 +2,22 @@
 <articles>
   <introduction>A list of articles I read.</introduction>
   <article>
+    <date>2017.06.12</date>
+    <title url="https://medium.com/swlh/lets-talk-about-self-driving-cars-387cd5adb834">Let's Talk About Self-Driving Cars</title>
+    <subtitle>Overview of a presentation by Andreessen Horowitz on the future of autonomous vehicles</subtitle>
+    <comments>This article is based on the "16 Questions About Self-Driving Cars" video by Frank Chen, which I had already seen, so I didn't learn much. I can't wait for this particular change, which is very likely, I think: "This will cause the car industry to look more like an airline industry, where you don't necessarily pick which plane you would like to fly on but dedicate your money to a fleet provider — airline company." I'm not convinced by the fact that commutes will become more interesting, though. Even if I'm not driving, there aren't many things I can do in a car or bus. I can't really read or work on a laptop without getting sick. I can't really sleep (I'm a light sleeper, so I cannot even sleep on a plane, for example). So I would have to do what I'm already doing, i.e. listening to podcasts. Unless driverless cars can someday drive in such a way that I won't get sick (which could be possible, I guess).</comments>
+  </article>
+  <article>
     <date>2017.06.07</date>
     <title url="http://www.cio.com/article/3198472/careers-staffing/the-hard-truths-of-navigating-ageism-in-it.html">The hard truths of navigating ageism in IT</title>
     <subtitle>In an industry that favors youth over experience, the best defense against age discrimination may be avoiding becoming a victim in the first place</subtitle>
-    <comments>Nothing really new here. A couple of good advices. "Many employers believe that older workers are reluctant to try new technologies [...] Because age discrimination is difficult to prove in a lawsuit, the best defense might be to do everything you can to avoid becoming a victim, McCann says. That includes being a lifelong learner and staying on top of developments in your field at every stage of your career, and seeking out training at your workplace and on your own. [...] It’s probably a good idea to also delete references to older technologies that are no longer in use. [...] Also be ready for questions such as whether you are overqualified for the position or if you have difficulty dealing with a younger or less experienced supervisor".</comments>
+    <comments>Nothing really new here. A couple of good advices. "Many employers believe that older workers are reluctant to try new technologies [...] Because age discrimination is difficult to prove in a lawsuit, the best defense might be to do everything you can to avoid becoming a victim, McCann says. That includes being a lifelong learner and staying on top of developments in your field at every stage of your career, and seeking out training at your workplace and on your own. [...] It's probably a good idea to also delete references to older technologies that are no longer in use. [...] Also be ready for questions such as whether you are overqualified for the position or if you have difficulty dealing with a younger or less experienced supervisor".</comments>
   </article>
   <article>
     <date>2017.06.04</date>
     <title url="https://www.theatlantic.com/magazine/archive/2017/01/how-to-sleep/508781/">How to Sleep</title>
-    <subtitle>Should you drink more coffee? Should you take melatonin? Can you train yourself to need less sleep? A physician’s guide to sleep in a stressful age.</subtitle>
-    <comments>"Try to keep a somewhat constant bedtime and wake-up time, even on weekends. Keep caffeine use moderate, even if you don’t feel like a nighttime coffee affects you. The same goes for nightcaps. (Not necessarily a joyless suggestion—maybe you can meet a friend for a beer at 4 p.m. instead of 10 p.m.) Use screens judiciously, too. Remember that even on night mode, a phone is shooting light into your brain. Have sex with someone instead. Or, sometimes preferable, read something on paper." So, in summary, there are no miracle solutions.</comments>
+    <subtitle>Should you drink more coffee? Should you take melatonin? Can you train yourself to need less sleep? A physician's guide to sleep in a stressful age.</subtitle>
+    <comments>"Try to keep a somewhat constant bedtime and wake-up time, even on weekends. Keep caffeine use moderate, even if you don't feel like a nighttime coffee affects you. The same goes for nightcaps. (Not necessarily a joyless suggestion—maybe you can meet a friend for a beer at 4 p.m. instead of 10 p.m.) Use screens judiciously, too. Remember that even on night mode, a phone is shooting light into your brain. Have sex with someone instead. Or, sometimes preferable, read something on paper." So, in summary, there are no miracle solutions.</comments>
   </article>
   <article>
     <date>2017.06.01</date>
@@ -23,7 +29,7 @@
     <date>2017.05.25</date>
     <title url="https://www.theatlantic.com/science/archive/2017/02/what-do-animals-see-in-the-mirror/516348/">What Mirrors Tell Us About Animal Minds</title>
     <subtitle>... including our own.</subtitle>
-    <comments>"It’s a bit about what animals see reflected in the mirror. But it’s also about what we see of ourselves reflected in animals." The mirror test is an imperfect one, because we have to make at least some assumptions about what goes on in the animal's mind to know what to expect from the test.</comments>
+    <comments>"It's a bit about what animals see reflected in the mirror. But it's also about what we see of ourselves reflected in animals." The mirror test is an imperfect one, because we have to make at least some assumptions about what goes on in the animal's mind to know what to expect from the test.</comments>
   </article>
   <article>
     <date>2017.05.20</date>
@@ -33,7 +39,7 @@
   </article>
   <article>
     <date>2017.05.11</date>
-    <title url="https://www.nytimes.com/2017/05/06/opinion/sunday/dont-let-facebook-make-you-miserable.html">Don’t Let Facebook Make You Miserable</title>
+    <title url="https://www.nytimes.com/2017/05/06/opinion/sunday/dont-let-facebook-make-you-miserable.html">Don't Let Facebook Make You Miserable</title>
     <comments>"It is now official. Scholars have analyzed the data and confirmed what we already knew in our hearts. Social media is making us miserable." After a 2-year break, I started using Facebook again. It's still a mess. You can't really have lists like you can on Twitter. So I still can't use Facebook like I would like to use it. And it's frustrating. The result is that I sometimes don't check my Facebook feed for days. It's not a bad thing, of course. But I still miss the <em>good content</em> on Facebook (the statuses where people don't brag too much about how their life is fantastic, that is).</comments>
   </article>
   <article>
