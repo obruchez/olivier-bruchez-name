@@ -643,6 +643,7 @@
 		<publishingyear>2008</publishingyear>
 		<rating>5.25</rating>
         <url>https://books.google.com/books/about/Programming_in_Scala.html?id=MFjNhTjeQKkC</url>
+        <image>Programming in Scala.png</image>
 	</book>
     <book>
 		<date>2011.02.01</date>
@@ -652,6 +653,7 @@
 		<publishingyear>2010</publishingyear>
 		<rating>4.75</rating>
         <url>https://books.google.com/books/about/The_Immortality_Edge.html?id=loTusEZNu7oC</url>
+        <image>The Immortality Edge.jpg</image>
 	</book>
     <book>
 		<date>2010.09.27</date>
@@ -661,6 +663,7 @@
 		<publishingyear>2006</publishingyear>
 		<rating>4.75</rating>
         <url>https://en.wikipedia.org/wiki/Stumbling_on_Happiness</url>
+        <image>Stumbling on Happiness.jpg</image>
 	</book>
 	<book>
 		<date>2010.08.30</date>
