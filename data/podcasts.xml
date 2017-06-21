@@ -3,9 +3,15 @@
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
     <date></date>
+    <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
+    <episode url="https://www.samharris.org/podcast/item/the-end-of-the-world-according-to-isis" number="82">The End of the World According to ISIS - A Conversation with Graeme Wood</episode>
+    <comments></comments>
+  </podcast>
+  <podcast>
+    <date>2017.06.21</date>
     <name url="http://peachandblack.podbean.com/">Peach &amp; Black Podcast</name>
     <episode url="https://peachandblack.podbean.com/e/goldnigga-review/">Goldnigga Review</episode>
-    <comments></comments>
+    <comments>The first New Power Generation album. According to my notes, I received it on March 21, 1996, after ordering it <em>by fax</em> (!) from the New Power Generation Store in Chanhassen/Minneapolis. Good memories! This is not a bad album. Way better than Apollonia 6. So, as usual, the review was fun.</comments>
   </podcast>
   <podcast>
     <date>2017.06.19</date>
