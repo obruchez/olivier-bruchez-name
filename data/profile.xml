@@ -94,7 +94,6 @@
         <item url="https://en.wikipedia.org/wiki/The_Beatles">The Beatles</item>
         <item url="https://en.wikipedia.org/wiki/Bj%C3%B6rk">Björk</item>
         <item url="https://en.wikipedia.org/wiki/Brad_Mehldau">Brad Mehldau</item>
-        <item url="https://en.wikipedia.org/wiki/Camille_(singer)">Camille</item>
         <item>
             <subitem url="https://en.wikipedia.org/wiki/George_Clinton_(musician)">George Clinton</subitem>
             <subitem url="https://en.wikipedia.org/wiki/Parliament_(band)">Parliament</subitem>
@@ -114,8 +113,6 @@
         <item url="https://en.wikipedia.org/wiki/Mathieu_Chedid">Mathieu Chedid</item>
         <item url="https://en.wikipedia.org/wiki/Michael_Brecker">Michael Brecker</item>
         <item url="https://en.wikipedia.org/wiki/Neneh_Cherry">Neneh Cherry</item>
-        <item url="https://en.wikipedia.org/wiki/Queen_(band)">Queen</item>
-        <item url="https://en.wikipedia.org/wiki/Radiohead">Radiohead</item>
         <item>
             <subitem url="https://en.wikipedia.org/wiki/Sting_(musician)">Sting</subitem>
             <subitem url="https://en.wikipedia.org/wiki/The_Police">The Police</subitem>
@@ -184,10 +181,10 @@
         <item url="http://verybadwizards.com/">Very Bad Wizards</item>
         <item url="https://www.samharris.org/podcast">Waking Up (Sam Harris)</item>
     </list>
-    <list title="Political views">
+    <!-- <list title="Political views">
         <item url="https://en.wikipedia.org/wiki/Centre-left">Centre-left</item>
         <item url="https://en.wikipedia.org/wiki/Moderate">Moderism</item>
-    </list>
+    </list> -->
     <list title="Sports">
         <item url="https://en.wikipedia.org/wiki/Elliptical_trainer">Elliptical trainer / cross-trainer</item>
         <item url="https://en.wikipedia.org/wiki/Mountain_biking">Mountain biking</item>
@@ -200,6 +197,7 @@
         <item url="https://en.wikipedia.org/wiki/Better_Off_Ted">Better Off Ted</item>
         <item url="https://en.wikipedia.org/wiki/The_Big_Bang_Theory">The Big Bang Theory</item>
         <item url="https://en.wikipedia.org/wiki/Blackadder">Blackadder</item>
+        <item url="https://en.wikipedia.org/wiki/Black_Mirror">Black Mirror</item>
         <item url="https://en.wikipedia.org/wiki/Bob%27s_Burgers">Bob's Burgers</item>
         <item url="https://en.wikipedia.org/wiki/Bref">Bref</item>
         <item url="https://en.wikipedia.org/wiki/Community_(TV_series)">Community</item>
