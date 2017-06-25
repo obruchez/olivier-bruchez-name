@@ -3,6 +3,11 @@
   <introduction>A list of hikes I took.</introduction>
   <!-- TODO: add comments for new hikes? -->
   <hike>
+    <date>2017.06.24</date>
+    <place>Cabane Brunet / Cabane FXB Panossière, Switzerland</place>
+    <!-- <pictures url=""/> -->
+  </hike>
+  <hike>
     <date>2016.09.03</date>
     <place>Sovereu / Le Dâ / Col du Bec d'Aigle / Louvie, Switzerland</place>
     <pictures url="https://www.flickr.com/photos/bruchez/sets/72157674102674510"/>
