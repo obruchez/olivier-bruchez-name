@@ -3,6 +3,17 @@
     <introduction>A list of books I read.</introduction>
     <!-- For comments about Homo Deus: https://danielmiessler.com/projects/reading/summary-homo-deus/ -->
     <book>
+        <date></date>
+        <title>Micromégas</title>
+        <author>Voltaire</author>
+        <publishingyear>1752</publishingyear>
+        <rating></rating>
+        <url>https://fr.wikipedia.org/wiki/Microm%C3%A9gas</url>
+        <!-- <notes description="Kindle highlights"></notes> -->
+        <comments></comments>
+        <image>Micromégas.jpg</image>
+    </book>
+    <book>
         <date>2017.06.28</date>
         <title>La Plaisanterie</title>
         <author>Milan Kundera</author>
