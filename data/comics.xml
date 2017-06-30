@@ -2,6 +2,26 @@
 <comics>
   <introduction>A list of comics I read.</introduction>
   <comic>
+    <date></date>
+    <writer>Luiz Eduardo de Oliveira</writer>
+    <artist>Luiz Eduardo de Oliveira</artist>
+    <colorist>Luiz Eduardo de Oliveira</colorist>
+    <series url="https://fr.wikipedia.org/wiki/Les_Mondes_d%27Ald%C3%A9baran#Cycle_Survivants">Les Survivants</series>
+    <volume url="http://www.dargaud.com/bd/Mondes-d-Aldebaran-Les/Survivants/Survivants-tome-5-Anomalies-quantiques-Episode-5" number="5">Épisode 5</volume>
+    <comments></comments>
+    <image>Survivants - Épisode 5.jpg</image>
+  </comic>
+  <comic>
+    <date>2017.06.30</date>
+    <writer>Luiz Eduardo de Oliveira</writer>
+    <artist>Luiz Eduardo de Oliveira</artist>
+    <colorist>Luiz Eduardo de Oliveira</colorist>
+    <series url="https://fr.wikipedia.org/wiki/Les_Mondes_d%27Ald%C3%A9baran#Cycle_Survivants">Les Survivants</series>
+    <volume url="http://www.dargaud.com/bd/Mondes-d-Aldebaran-Les/Survivants/Survivants-tome-4-Anomalies-quantiques-Episode-4" number="4">Épisode 4</volume>
+    <comments>Le <i>cliffhanger</i> de l'épisode précédent est "résolu" dès la première page. Un épisode qui se termine un peu comme il a commencé. Beaucoup de violence. Encore une rencontre avec la Mantrisse.</comments>
+    <image>Survivants - Épisode 4.jpg</image>
+  </comic>
+  <comic>
     <date>2017.06.29</date>
     <writer>Luiz Eduardo de Oliveira</writer>
     <artist>Luiz Eduardo de Oliveira</artist>
@@ -97,8 +117,8 @@
     <artist>Luiz Eduardo de Oliveira</artist>
     <colorist>Luiz Eduardo de Oliveira</colorist>
     <series url="https://fr.wikipedia.org/wiki/Les_Mondes_d'Ald%C3%A9baran#Cycle_de_B.C3.A9telgeuse">Bételgeuse</series>
-    <volume url="https://fr.wikipedia.org/wiki/L'Autre_(B%C3%A9telgeuse)" number="5">L'autre</volume>
-    <comments>Des rencontres, avec la mantrisse, avec ce qui se cache derrière la "boule mystérieuse", du sexe, comme d'habitude, et une conclusion un peu bateau laissant deviner une suite.</comments>
+    <volume url="https://fr.wikipedia.omantrg/wiki/L'Autre_(B%C3%A9telgeuse)" number="5">L'autre</volume>
+    <comments>Des rencontres, avec la risse, avec ce qui se cache derrière la "boule mystérieuse", du sexe, comme d'habitude, et une conclusion un peu bateau laissant deviner une suite.</comments>
     <image>Bételgeuse - L'autre.jpg</image>
   </comic>
   <comic>
