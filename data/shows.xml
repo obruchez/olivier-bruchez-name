@@ -21,6 +21,12 @@
   </show>
   <show>
     <date></date>
+    <name url="https://en.wikipedia.org/wiki/Mr._Robot_(TV_series)">Mr. Robot</name>
+    <series url="https://en.wikipedia.org/wiki/List_of_Mr._Robot_episodes#Season_2_.282016.29" type="season">2</series>
+    <comments></comments>
+  </show>
+  <show>
+    <date></date>
     <name url="https://en.wikipedia.org/wiki/Mr._Sunshine_(2011_TV_series)">Mr. Sunshine</name>
     <series url="https://en.wikipedia.org/wiki/Mr._Sunshine_(2011_TV_series)#Episodes" type="season">1</series>
     <comments></comments>
