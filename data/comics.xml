@@ -2,6 +2,16 @@
 <comics>
   <introduction>A list of comics I read.</introduction>
   <comic>
+    <date>2017.07.01</date>
+    <writer>Lewis Trondheim</writer>
+    <artist>Lewis Trondheim</artist>
+    <colorist>Brigitte Findakly</colorist>
+    <series url="https://fr.wikipedia.org/wiki/Les_Formidables_Aventures_de_Lapinot">Les Formidables Aventures de Lapinot</series>
+    <volume url="http://www.dargaud.com/bd/Lapinot/Formidables-aventures-de-Lapinot-Les/Formidables-aventures-de-Lapinot-Les-tome-0-Slaloms" number="0">Slaloms</volume>
+    <comments>Le loup tueur d'homme est finalement l'élément le moins réaliste de ce tome. Trondheim se traite de névropathe pour avoir passé des mois à redessiner ce tome, mais il faut bien admettre que la version originale, non colorisée, est esthétiquement bien moins agréable...</comments>
+    <image>Lapinot - Slaloms.jpg</image>
+  </comic>
+  <comic>
     <date>2017.06.30</date>
     <writer>Luiz Eduardo de Oliveira</writer>
     <artist>Luiz Eduardo de Oliveira</artist>
