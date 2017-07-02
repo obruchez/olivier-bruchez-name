@@ -2,6 +2,17 @@
 <movies>
   <introduction>A list of movies I saw.</introduction>
   <movie>
+    <date>2017.07.02</date>
+    <theater home="true"/>
+    <director>Akira Kurosawa</director>
+    <title>Seven Samurai</title>
+    <title language="ja">Shichinin no samurai</title>
+    <url>http://www.imdb.com/title/tt0047478/</url>
+    <rating>5.25</rating>
+    <comments>It's always hard to judge older movies... I had kind of expected a very serious, 3-and-a-half-hour movie about samurais, with lots of fight scenes. I don't know why. I was pleasantly surprised to discover a movie with less violence than I had anticipated, likable characters, many humorous moments, as well as very serious themes (inequalities, social classes, injustice, duty, etc.).</comments>
+    <image>Seven Samurai.jpg</image>
+  </movie>
+  <movie>
     <date>2017.06.03</date>
     <theater>Galeries, Lausanne</theater>
     <director>Maysaloun Hamoud</director>
