@@ -744,15 +744,16 @@
 		<publishingyear>2009</publishingyear>
 		<rating>5.0</rating>
         <url>https://books.google.com/books/about/Transcend.html?id=J0XFdYjYE9AC</url>
+        <image>Transcend.jpg</image>
 	</book>
     <book>
 		<date>2009.06.12</date>
 		<title>Au bonheur des ogres</title>
-		<subtitle/>
 		<author>Daniel Pennac</author>
 		<publishingyear>1985</publishingyear>
 		<rating>5.0</rating>
         <url>https://fr.wikipedia.org/wiki/Au_bonheur_des_ogres</url>
+        <image>Au bonheur des ogres.jpg</image>
 	</book>
     <book>
 		<date>2009.05.27</date>
@@ -762,6 +763,7 @@
 		<publishingyear>2000</publishingyear>
 		<rating>4.25</rating>
         <url>https://books.google.com/books/about/Je_suis_fatigu%C3%A9_mais_je_ne_sais_pas_pou.html?id=Br4TAAAACAAJ</url>
+        <image>Je suis fatigué mais je ne sais pas pourquoi.jpg</image>
 	</book>
     <book>
 		<date>2009.05.27</date>
