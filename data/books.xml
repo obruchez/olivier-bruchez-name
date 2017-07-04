@@ -4,13 +4,25 @@
     <!-- For comments about Homo Deus: https://danielmiessler.com/projects/reading/summary-homo-deus/ -->
     <book>
         <date></date>
+        <title>A Guide to the Good Life</title>
+        <subtitle>The Ancient Art of Stoic Joy</subtitle>
+        <author>William B. Irvine</author>
+        <publishingyear>2008</publishingyear>
+        <rating></rating>
+        <url>https://books.google.com/books?id=yQ59JV_9AfIC</url>
+        <!-- <notes description="Kindle highlights"></notes> -->
+        <comments></comments>
+        <image></image>
+    </book>
+    <book>
+        <date>2017.07.04</date>
         <title>Micromégas</title>
         <author>Voltaire</author>
         <publishingyear>1752</publishingyear>
-        <rating></rating>
+        <rating>4.5</rating>
         <url>https://fr.wikipedia.org/wiki/Microm%C3%A9gas</url>
         <!-- <notes description="Kindle highlights"></notes> -->
-        <comments></comments>
+        <comments>Je liste <i>Migromégas</i> ici comme livre. Il s'agit plutôt d'un conte. Un conte philosophique, selon Wikipedia. Est-ce également de la science-fiction ? On y parle de science, de visiteurs de Sirus et de Saturne. Donc je dirais que oui, mais l'idée première est bel et bien de "remettre l'être humain à sa place". Il n'est pas le centre de l'univers. L'humour est également présent dans ce conte et il est difficile de ne pas penser en tout cas un peu aux géants de Rabelais.</comments>
         <image>Micromégas.jpg</image>
     </book>
     <book>
@@ -41,7 +53,7 @@
         <author>Susan Wolf</author>
         <publishingyear>2010</publishingyear>
         <rating>4.0</rating>
-        <url>https://books.google.ch/books/about/Meaning_in_Life_and_Why_It_Matters.html?id=_eoPB9zLXFoC</url>
+        <url>https://books.google.com/books?id=_eoPB9zLXFoC</url>
         <!-- <notes description="Kindle highlights"></notes> -->
         <comments>I'm not sure I'm convinced by Wolf's argument: "In arguing that meaningfulness is a distinctive dimension of a good life, different from both happiness and moral goodness, and that the concept of meaningfulness is essentially tied to a commitment to objective distinctions in value, I have tried to show the importance of keeping the vocabulary of meaningfulness and value alive, and of not assimilating or reducing these terms to others that we are more comfortable with in both philosophy and popular culture." I will be very (too) brief, but, intuitively, I would say that Wolf's concept of meaningfulness looks like a kind of mix between self-interest and morality, not a distinct dimension. Of course, it's still important to have a concept of a "meaningful life" and Wolf at least tries to give a definition of what "meaningfulness" is in that context, but I'm not sure this book helped me clarify anything. On the contrary, I would say it made be a bit more confused than before.</comments>
         <image>Meaning in Life and Why It Matters.gif</image>
@@ -63,7 +75,7 @@
         <author>James A. Lindsay</author>
         <publishingyear>2016</publishingyear>
         <rating>4.0</rating>
-        <url>https://books.google.ch/books/about/Life_in_Light_of_Death.html?id=lYAPkAEACAAJ</url>
+        <url>https://books.google.com/books?id=lYAPkAEACAAJ</url>
         <!-- <notes description="Kindle highlights"></notes> -->
         <comments>I agree with the main message of this book. Life is short. We will die. Really die. No heaven, no persistence of a soul, no resurrection, no reincarnation (the author is an atheist). Even if we manage to live longer and/or to upload our minds to machines, <a href="https://en.wikipedia.org/wiki/Future_of_Earth#Solar_evolution">Earth will be destroyed by the Sun at some point in the future</a>. And even if we manage to move to another planetary system and/or galaxy, <a href="https://en.wikipedia.org/wiki/Ultimate_fate_of_the_universe">the universe will most probably die as well</a>. Our time is limited. We have to make the most out of it. Mainly by being kind, being with our loved ones, etc. The message is simple. Almost cheesy. This is not a "how-to" book. This is merely a warning. A reminder. I'm not sure I really learned anything. Also, the part of the book about ethical vegetarianism was pretty bad/baffling: the author seems to completely underestimate the suffering of animals in factory farms and doesn't address the environmental impact of meat.</comments>
         <image>Life in Light of Death.jpg</image>
