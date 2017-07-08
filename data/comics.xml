@@ -2,6 +2,16 @@
 <comics>
   <introduction>A list of comics I read.</introduction>
   <comic>
+    <date>2017.07.08</date>
+    <writer>Lewis Trondheim</writer>
+    <artist>Lewis Trondheim</artist>
+    <colorist>Brigitte Findakly</colorist>
+    <series url="https://fr.wikipedia.org/wiki/Les_Formidables_Aventures_de_Lapinot">Les Formidables Aventures de Lapinot</series>
+    <volume url="http://www.dargaud.com/bd/Lapinot/Formidables-aventures-de-Lapinot-Les/Formidables-aventures-de-Lapinot-Les-tome-1-Blacktown" number="1">Blacktown</volume>
+    <comments>"Ce premier tome des formidables aventures de Lapinot réjouira les amateurs de western, d'humour, de philosophie et de plâtrées de gros fayots rouges." Je ne suis pas très amateur de western, mais j'aime définitivement l'humour de Trondheim, la philosophie et les haricots rouges. Un tome réussi.</comments>
+    <image>Lapinot - Blacktown.jpg</image>
+  </comic>
+  <comic>
     <date>2017.07.01</date>
     <writer>Lewis Trondheim</writer>
     <artist>Lewis Trondheim</artist>
