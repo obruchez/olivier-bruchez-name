@@ -11,6 +11,49 @@
   -->
   <introduction>A list of concerts I went to.</introduction>
   <concert>
+    <date>2017.07.07</date>
+    <location>Montreux Jazz Club, Montreux, Switzerland</location>
+    <event>Montreux Jazz Festival</event>
+    <group>John Scofield Überjam</group>
+    <musician inst="guitar" main="true">John Scofield</musician>
+    <musician inst="bass">Andy Hess</musician>
+    <musician inst="guitar, samplers">Avi Bortnick</musician>
+    <musician inst="drums">Dennis Chambers</musician>
+    <rating>5.25</rating>
+    <comments>An excellent concert! This was my 8th John Scofield concert and my 3rd Überjam concert, this time with Dennis Chambers, which I saw last year for the first time with Bill Evans &amp; Co. This was excellent, funky, full of energy from start to finish. I really like the Überjam concept. It works well. Miles would be proud (?).</comments>
+  </concert>
+  <concert>
+    <date>2017.07.07</date>
+    <location>Montreux Jazz Club, Montreux, Switzerland</location>
+    <event>Montreux Jazz Festival</event>
+    <group>Kurt Rosenwinkel's Caipi</group>
+    <musician inst="guitar, vocals" main="true">Kurt Rosenwinkel</musician>
+    <musician inst="guitar, keyboards, vocals">Pedro Martins</musician>
+    <musician inst="percussions, vocals">Antonio Loureiro</musician>
+    <musician inst="drums">Bill Campbell</musician>
+    <musician inst="bass, vocals">Federico Heliodoro</musician>
+    <musician inst="piano, vocals">Olivia Trummer</musician>
+    <rating>3.5</rating>
+    <comments>They're talented, that's for sure. But I was definitely not impressed by the compositions and the unison-like singing. A couple of guitar solos were pretty good.</comments>
+  </concert>
+  <concert>
+    <date>2016.07.06</date>
+    <location>Auditorium Stravinski, Montreux, Switzerland</location>
+    <event>Montreux Jazz Festival</event>
+    <group>The New Power Generation</group>
+    <musician inst="vocals, guitar">Andre Anderson (aka André Cymone)</musician>
+    <musician inst="vocals">Kip Blackshire</musician>
+    <musician inst="keyboards">Thomas Elm (aka Tommy Barbarella)</musician>
+    <musician inst="keyboards">Morris Hayes</musician>
+    <musician inst="vocals, percussions">Damon Herbert-Dickson</musician>
+    <musician inst="drums">Kirk Johnson</musician>
+    <musician inst="vocals, guitar">Anthony Mosley (aka Tony M.)</musician>
+    <musician inst="guitar">Michael Scott</musician>
+    <musician inst="bass">Lloyd Thompson (aka Sonny T.)</musician>
+    <rating>4.75</rating>
+    <comments>If it wasn't for the music, my rating would be lower. Let's be honest: I had fun from start to finish, even if they're not the greatest musicians. Two conclusions: Prince's music, in itself, is great, but Prince was of course an important part of the equation. Anyway, I didn't expect much, so I was happy to be there. The New Power Generation was opening for Lauryn Hill, but there were a lot of Prince fans in the audience (hints: t-shirts, tatoos, etc.). The setlist was, I think, pretty much the same as at the other European concerts (7 songs from 1991-92 and 18 songs from 1980-90, if I'm correct). Mainly hits. Nothing from 1993-2016 (a real shame!). "Call the Law" was an excellent surprise (although, Mike Scott on the guitar is definitely not the same as Prince, of course). "Jughead" was fun. There was a moment of silence for John Blackwell just before "Purple Rain".</comments>
+  </concert>
+  <concert>
     <date>2017.06.11</date>
     <location>Opéra de Lausanne, Lausanne, Switzerland</location>
     <event><i>Don Giovanni</i> opera</event>
