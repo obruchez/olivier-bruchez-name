@@ -1,6 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <comics>
   <introduction>A list of comics I read.</introduction>
+   <comic>
+    <date>2017.07.09</date>
+    <writer>Lewis Trondheim</writer>
+    <artist>Lewis Trondheim</artist>
+    <colorist>Brigitte Findakly</colorist>
+    <series url="https://fr.wikipedia.org/wiki/Les_Formidables_Aventures_de_Lapinot">Les Formidables Aventures de Lapinot</series>
+    <volume url="http://www.dargaud.com/bd/Lapinot/Formidables-aventures-de-Lapinot-Les/Formidables-aventures-de-Lapinot-Les-tome-2-Pichenettes" number="2">Pichenettes</volume>
+    <comments>Je ne suis pas fan du thème du surnaturel, mais ça reste très drôle, en particulier la scène de la galerie d'art.</comments>
+    <image>Lapinot - Pichenettes.jpg</image>
+  </comic>
   <comic>
     <date>2017.07.08</date>
     <writer>Lewis Trondheim</writer>
