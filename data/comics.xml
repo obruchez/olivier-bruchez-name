@@ -2,6 +2,16 @@
 <comics>
   <introduction>A list of comics I read.</introduction>
   <comic>
+    <date>2017.07.11</date>
+    <writer>Lewis Trondheim</writer>
+    <artist>Lewis Trondheim</artist>
+    <colorist>Brigitte Findakly</colorist>
+    <series url="https://fr.wikipedia.org/wiki/Les_Formidables_Aventures_de_Lapinot">Les Formidables Aventures de Lapinot</series>
+    <volume url="http://www.dargaud.com/bd/Lapinot/Formidables-aventures-de-Lapinot-Les/Formidables-aventures-de-Lapinot-Les-tome-4-Amour-et-Interim" number="4">Amour &amp; Intérim</volume>
+    <comments>Un tome "réaliste" / contemporain (relativement) de Lapinot. J'aime bien l'humour ancré dans le quotidien de Trondheim, ainsi que les questionnements philosophiques des personnages (j'aime bien l'idée d'une forme de "philosophie pratiquée au quotidien", également). Comme les tomes précédents, ça doit être la deuxième fois que je lis ce tome.</comments>
+    <image>Lapinot - Amour &amp; Intérim.jpg</image>
+  </comic>
+  <comic>
     <date>2017.07.09</date>
     <writer>Lewis Trondheim</writer>
     <artist>Lewis Trondheim</artist>
