@@ -3,9 +3,21 @@
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
     <date></date>
+    <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
+    <episode url="https://www.samharris.org/podcast/item/is-this-the-end-of-europe" number="85">Is this the End of Europe? - A Conversation with Douglas Murray</episode>
+    <comments></comments>
+  </podcast>
+  <podcast>
+    <date>2017.07.10</date>
+    <name url="http://peachandblack.podbean.com/">Peach &amp; Black Podcast</name>
+    <episode url="http://peachandblack.podbean.com/e/purple-rain-deluxe-review-part-1/">Purple Rain Deluxe Review Part 1</episode>
+    <comments>This is a review of discs 1 and 3, i.e. the remastered album, as well as the B-sides and edits. Nothing really exciting on these discs. The second part will be about the unreleased tracks (the most interesting part of the set). The remaster is not impressive. It's overcompressed (see <a href="https://en.wikipedia.org/wiki/Loudness_war">loudness war</a> on Wikipedia), like all Prince albums since <i>The Gold Experience</i> (1995). There are sound glitches (end of "Let's Go Crazy", start of "Erotic City", etc.). Captain is right to say that it is unforgivable. Overall, a light and fun episode, as always.</comments>
+  </podcast>
+  <podcast>
+    <date>2017.07.10</date>
     <name url="http://peachandblack.podbean.com/">Peach &amp; Black Podcast</name>
     <episode url="http://peachandblack.podbean.com/e/john-blackwell-a-tribute/">John Blackwell - A Tribute</episode>
-    <comments></comments>
+    <comments>John Blackwell is probably my second favorite Prince drummer, after Michael Bland. He died on July 4, 2017. I was not even aware that he played so much with Prince (from 2000 to 2004 and from 2010 to 2013). I saw him live only once, in Zürich in 2002. I really like his studio work with Prince (<i>The Rainbow Children</i>, <i>Xpectation</i>, <i>N.E.W.S.</i>, and some of the tracks on <i>Musicology</i>). The Montreux 2009 concerts are also a highlight. I don't have much to say about the episode itself. The anecdotes were fun. The rest of the episode was serious, as expected.</comments>
   </podcast>
   <podcast>
     <date>2017.07.07</date>
