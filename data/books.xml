@@ -12,7 +12,7 @@
         <url>https://books.google.com/books?id=yQ59JV_9AfIC</url>
         <!-- <notes description="Kindle highlights"></notes> -->
         <comments></comments>
-        <image></image>
+        <image>A Guide to the Good Life.jpg</image>
     </book>
     <book>
         <date>2017.07.04</date>
@@ -785,6 +785,7 @@
 		<publishingyear>1995</publishingyear>
 		<rating>4.5</rating>
         <url>https://books.google.com/books/about/Le_gar%C3%A7on_qui_croyait_au_paradis.html?id=-5kbAQAAIAAJ</url>
+        <image>Le garçon qui croyait au paradis.jpg</image>
 	</book>
     <book>
 		<date>2009.05.18</date>
@@ -794,15 +795,16 @@
 		<publishingyear>2004</publishingyear>
 		<rating>5.25</rating>
         <url>https://en.wikipedia.org/wiki/Fantastic_Voyage:_Live_Long_Enough_to_Live_Forever</url>
+        <image>Fantastic Voyage.jpg</image>
 	</book>
     <book>
 		<date>2009.04.25</date>
 		<title>Chagrin d'école</title>
-		<subtitle/>
 		<author>Daniel Pennac</author>
 		<publishingyear>2007</publishingyear>
 		<rating>5.0</rating>
         <url>https://fr.wikipedia.org/wiki/Chagrin_d%27%C3%A9cole</url>
+        <image>Chagrin d'école.jpg</image>
 	</book>
     <book>
 		<date>2009.04.10</date>
