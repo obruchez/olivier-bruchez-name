@@ -11,6 +11,45 @@
   -->
   <introduction>A list of concerts I went to.</introduction>
   <concert>
+    <date>2017.07.10</date>
+    <location>Montreux Jazz Club, Montreux, Switzerland</location>
+    <event>Montreux Jazz Festival</event>
+    <group>Mike Stern &amp; Randy Brecker</group>
+    <musician inst="electric guitar" main="true">Mike Stern</musician>
+    <musician inst="trumpet" main="true">Randy Brecker</musician>
+    <musician inst="drums">Lenny White</musician>
+    <musician inst="bass">Teymur Phell</musician>
+    <rating>5.0</rating>
+    <comments>Mike Stern and Lenny White are two musicians who, again, played with Miles Davis (Mike Stern in 1981-83 and 1985-86, and Lenny White, on the <i>Bitches Brew</i> album). I had already seen Mike Stern with Bill Evans (another musician who played with Miles) in 2005. A good and fun concert. I don't think I'm a fan of the way Randy Brecker plays the trumpet, but there aren't many trumpet players I enjoy outside of Miles. I should probably give him another chance. All the musicians were good, though, especially Mike Stern, who has a very recognizable style.</comments>
+  </concert>
+  <concert>
+    <date>2017.07.10</date>
+    <location>Montreux Jazz Club, Montreux, Switzerland</location>
+    <event>Montreux Jazz Festival</event>
+    <group>Saxophone Summit</group>
+    <musician inst="saxophone" main="true">Dave Liebman</musician>
+    <musician inst="saxophone" main="true">Joe Lovano</musician>
+    <musician inst="saxophone" main="true">Greg Osby</musician>
+    <musician inst="piano">Phil Markowitz</musician>
+    <musician inst="double bass">Cecil McBee</musician>
+    <musician inst="drums">Billy Hart</musician>
+    <rating>4.75</rating>
+    <comments>I had already seen Joe Lovano in Cully in 2009 and Billy Hart with Charles Lloyd in 1999. Dave Liebman played with Miles Davis on the <i>On The Corner</i> album, on tracks such as "Calypso Frelimo" and "He Loved Him Madly", as well as on many concerts in 1973-74. I didn't know Billy Hart played with Miles Davis (on <i>On The Corner</i> and <i>Tutu</i>). This was what I would call "cerebral music" (not many melodies, a lot of dissonance, etc.). Overall, I liked Dave Liebman better than the other two sax players.</comments>
+  </concert>
+  <concert>
+    <date>2017.07.10</date>
+    <location>Montreux Jazz Club, Montreux, Switzerland</location>
+    <event>Montreux Jazz Festival</event>
+    <group>Olli Hirvonen New Helsinki</group>
+    <musician inst="electric guitar" main="true">Olli Hirvonen</musician>
+    <musician inst="trumpet">Adam O'Farrill</musician>
+    <musician inst="piano">Luke Marantz</musician>
+    <musician inst="double bass">Marty Kenney</musician>
+    <musician inst="drums">Nathan Ellman-bell</musician>
+    <rating>4.5</rating>
+    <comments>A "young" band. I liked it a lot better than Kurt Rosenwinkel a few days earlier. A lot of energy. I liked how Olli Hirvonen played the guitar. Unfortunately, the audience was apparently not convinced (the music was a bit too loud, maybe?) and there wasn't any encore (they played for less than 40 minutes). A shame.</comments>
+  </concert>
+  <concert>
     <date>2017.07.07</date>
     <location>Montreux Jazz Club, Montreux, Switzerland</location>
     <event>Montreux Jazz Festival</event>
@@ -678,7 +717,7 @@
     <rating>4.25</rating>
     <comments/>
   </concert>
- <concert>
+  <concert>
     <date>2013.07.26</date>
     <location>Grande Scène, Nyon, Switzerland</location>
     <event>Paléo Festival de Nyon</event>
@@ -704,7 +743,7 @@
     <rating>3.5</rating>
     <comments/>
   </concert>
- <concert>
+  <concert>
     <date>2013.07.21</date>
     <location>Auditorium Stravinski, Montreux, Switzerland</location>
     <event>Montreux Jazz Festival</event>
@@ -885,7 +924,7 @@
     <location>Victoria Hall, Geneva, Switzerland</location>
     <event></event>
     <musician inst="tenor saxophone" main="true">Sonny Rollins</musician>
-    <musician inst="trombone">Clifton Anderson </musician>
+    <musician inst="trombone">Clifton Anderson</musician>
     <musician inst="bass">Bob Cranshaw</musician>
     <musician inst="guitar">Saul Rubin</musician>
     <musician inst="percussions">Sammy Figueroa</musician>
@@ -1187,7 +1226,7 @@
     <location>Chapiteau, Cully, Switzerland</location>
     <event>Cully Jazz Festival</event>
     <musician inst="bass" main="true">Avishai Cohen</musician>
-    <musician inst="piano">Shai Maestro </musician>
+    <musician inst="piano">Shai Maestro</musician>
     <musician inst="drums">Amir Bresler</musician>
     <rating>5.0</rating>
     <comments/>
@@ -1863,7 +1902,7 @@
     <date>2006.12.02</date>
     <location>Arena, Geneva, Switzerland</location>
     <group>Guillemots</group>
-    <musician inst="keyboards, vocals" main="true">Fyfe Dangerfield </musician>
+    <musician inst="keyboards, vocals" main="true">Fyfe Dangerfield</musician>
     <musician inst="guitar">MC Lord Magrão</musician>
     <musician inst="double bass">Aristazabal Hawkes</musician>
     <musician inst="drums">Greig Stewart</musician>
@@ -2860,7 +2899,7 @@
     <location>Chapiteau, Cully, Switzerland</location>
     <event>Cully Jazz Festival</event>
     <musician inst="saxophone" main="true">Kenny Garrett</musician>
-    <musician inst="drums">Benjamin Henock </musician>
+    <musician inst="drums">Benjamin Henock</musician>
     <musician inst="piano">Shedrick Mitchell</musician>
     <musician inst="bass">Nat Reeves</musician>
     <comments>Benjamin Henock replaced Chris Dave, who wasn't there.</comments>
