@@ -21,12 +21,6 @@
   </show>
   <show>
     <date></date>
-    <name url="https://en.wikipedia.org/wiki/Mr._Robot_(TV_series)">Mr. Robot</name>
-    <series url="https://en.wikipedia.org/wiki/List_of_Mr._Robot_episodes#Season_2_.282016.29" type="season">2</series>
-    <comments></comments>
-  </show>
-  <show>
-    <date></date>
     <name url="https://en.wikipedia.org/wiki/Mr._Sunshine_(2011_TV_series)">Mr. Sunshine</name>
     <series url="https://en.wikipedia.org/wiki/Mr._Sunshine_(2011_TV_series)#Episodes" type="season">1</series>
     <comments></comments>
@@ -53,6 +47,12 @@
     <name url="https://en.wikipedia.org/wiki/Veep_(TV_series)">Veep</name>
     <series url="https://en.wikipedia.org/wiki/Veep_(TV_series)#Season_4" type="season">4</series>
     <comments></comments>
+  </show>
+  <show>
+    <date>2017.07.17</date>
+    <name url="https://en.wikipedia.org/wiki/Mr._Robot_(TV_series)">Mr. Robot</name>
+    <series url="https://en.wikipedia.org/wiki/List_of_Mr._Robot_episodes#Season_2_.282016.29" type="season">2</series>
+    <comments>What a fantastic, weird, sometimes dark show! The first season was quite normal in comparison with the second one. There were a few "David Lynch" moments (the scenes with the little girl, the fish, etc.). I hope the show won't end end being disapppointing, like <i>Lost</i> after a few seasons. I can't wait for season 3, obviously!</comments>
   </show>
   <show>
     <date>2017.06.30</date>
