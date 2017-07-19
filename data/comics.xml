@@ -2,6 +2,16 @@
 <comics>
   <introduction>A list of comics I read.</introduction>
   <comic>
+    <date>2017.07.19</date>
+    <writer>Frank Le Gall</writer>
+    <artist>Lewis Trondheim</artist>
+    <colorist>Brigitte Findakly</colorist>
+    <series url="https://fr.wikipedia.org/wiki/Les_Formidables_Aventures_de_Lapinot">Les Formidables Aventures de Lapinot</series>
+    <volume url="http://www.dargaud.com/bd/Lapinot/Formidables-aventures-de-Lapinot-Les/Formidables-aventures-de-Lapinot-Les-tome-5-Vacances-de-printemps" number="5">Vacances de printemps</volume>
+    <comments>Je suis un peu déçu par ce tome. Le thème de l'amour n'est pas forcément mauvais, mais ça manque de mordant. Je m'aperçois à l'instant que le scénario n'est pas de Trondheim. Ça ne m'étonne pas (et me rassure un peu, à vrai dire).</comments>
+    <image>Lapinot - Vacances de printemps.jpg</image>
+  </comic>
+  <comic>
     <date>2017.07.11</date>
     <writer>Lewis Trondheim</writer>
     <artist>Lewis Trondheim</artist>
