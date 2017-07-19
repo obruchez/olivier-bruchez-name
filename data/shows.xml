@@ -25,11 +25,6 @@
     <series url="https://en.wikipedia.org/wiki/Mr._Sunshine_(2011_TV_series)#Episodes" type="season">1</series>
     <comments></comments>
   </show>
-  <show>
-    <date></date>
-    <name url="https://en.wikipedia.org/wiki/Silicon_Valley_(TV_series)">Silicon Valley</name>
-    <series url="https://en.wikipedia.org/wiki/Silicon_Valley_(TV_series)#Season_4" type="season">4</series>
-  </show>
   <!--<show>
     <date></date>
     <name url="https://en.wikipedia.org/wiki/This_Is_Us_(TV_series)">This Is Us</name>
@@ -49,6 +44,12 @@
     <comments></comments>
   </show>
   <show>
+    <date>2017.07.19</date>
+    <name url="https://en.wikipedia.org/wiki/It%27s_Always_Sunny_in_Philadelphia">It's Always Sunny in Philadelphia</name>
+    <series url="https://en.wikipedia.org/wiki/It%27s_Always_Sunny_in_Philadelphia_(season_1)" type="season">1</series>
+    <comments>I started watching this short season (7 episodes) in 2011 and then completely stopped for six years. I don't know if I'm completely convinced yet, but this show is highly regarded (currently "Top Rated TV #63" on IMDb), so I'll probably try and watch season 2.</comments>
+  </show>
+  <show>
     <date>2017.07.17</date>
     <name url="https://en.wikipedia.org/wiki/Mr._Robot_(TV_series)">Mr. Robot</name>
     <series url="https://en.wikipedia.org/wiki/List_of_Mr._Robot_episodes#Season_2_.282016.29" type="season">2</series>
@@ -59,6 +60,12 @@
     <name url="https://en.wikipedia.org/wiki/Mr._Robot_(TV_series)">Mr. Robot</name>
     <series url="https://en.wikipedia.org/wiki/List_of_Mr._Robot_episodes#Season_1_.282015.29" type="season">1</series>
     <comments>Hackers, mental illness, conspiracies, revolution. A lot of interesting themes in this show. I first heard colleagues mention this show. After hearing Tamler and David from the Very Bad Wizards podcast talk about it, I knew I <em>had</em> to watch it! And it didn't disappoint.</comments>
+  </show>
+  <show>
+    <date>2017.06.29</date>
+    <name url="https://en.wikipedia.org/wiki/Silicon_Valley_(TV_series)">Silicon Valley</name>
+    <series url="https://en.wikipedia.org/wiki/Silicon_Valley_(TV_series)#Season_4" type="season">4</series>
+    <comments>A great show and a good season. Yes, it's not always very realistic (unlike <i>Mr. Robot</i>, where you can regularly see snippets of code being written on the screen), but this is a comedy, after all, so exaggerations are expected. Virtual reality, deep learning, decentralized protocols, etc. are common themes, though, so it's still a sophisticated show (unlike <i>The Big Bang Theory</i>...).</comments>
   </show>
   <show>
     <date>2017.06.02</date>
