@@ -44,3 +44,4 @@
 
 * [Explained Visually](http://setosa.io/ev/)
 * [User:LucasVB/Gallery](https://en.wikipedia.org/wiki/User:LucasVB/Gallery)
+* [Visualizing Algorithms](https://bost.ocks.org/mike/algorithms/)
