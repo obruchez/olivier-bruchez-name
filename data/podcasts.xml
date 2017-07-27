@@ -3,9 +3,15 @@
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
     <date></date>
+    <name url="http://peachandblack.podbean.com/">Peach &amp; Black Podcast</name>
+    <episode url="http://peachandblack.podbean.com/e/purple-rain-deluxe-review-part-2/">Purple Rain Deluxe Review Part 2</episode>
+    <comments></comments>
+  </podcast>
+  <podcast>
+    <date>2017.07.25</date>
     <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
     <episode url="https://www.samharris.org/podcast/item/triggered" number="87">Triggered - A Conversation with Scott Adams</episode>
-    <comments></comments>
+    <comments>Scott Adams likes to see the world through filters, patterns, etc. Using an analogy? You've run out of argument. This sometimes leads to lazy, frustrating oversimplifications. Other than that, Scott Adams is intelligent, but he gives a way too charitable interpretation of how Trump operates. I agree with Sam that Trump, more often than not, operates in a "whatever sticks, sticks" mode. He's not using a method. Unless you think the absence of a method is in itself a method. But Scott Adams will always find a way to justify what Trump does, using his "master persuader" filter. As someone said on Reddit, Scott Adams is "setting himself up to always be right". Also, the idea that something can be "not exactly true", but "true enough" (à la Jordan Peterson) or "emotionally true" is really an annoying idea. In the end, I still don't know why Scott Adams defends Trump as much as he does. Is he trying to make people (on the left, especially) see things from a different perspective? Is he trying to sell as many ads on his blog as possible? Is he trying to make his next book as successful as possible? I don't know. It doesn't really make sense.</comments>
   </podcast>
   <podcast>
     <date>2017.07.20</date>
