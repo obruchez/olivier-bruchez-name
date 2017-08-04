@@ -15,6 +15,11 @@
   </show>
   <show>
     <date></date>
+    <name url="https://en.wikipedia.org/wiki/Game_of_Thrones">Game of Thrones</name>
+    <series url="https://en.wikipedia.org/wiki/Game_of_Thrones_(season_7)" type="season">7</series>
+  </show>
+  <show>
+    <date></date>
     <name url="https://en.wikipedia.org/wiki/Modern_Family">Modern Family</name>
     <series url="https://en.wikipedia.org/wiki/Modern_Family#Season_2" type="season">2</series>
     <comments></comments>
