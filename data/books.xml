@@ -4,14 +4,26 @@
     <!-- For comments about Homo Deus: https://danielmiessler.com/projects/reading/summary-homo-deus/ -->
     <book>
         <date></date>
+        <title>Homo Deus</title>
+        <subtitle>A Brief History of Tomorrow</subtitle>
+        <author>Yuval Noah Harari</author>
+        <publishingyear>2015</publishingyear>
+        <rating></rating>
+        <url>https://en.wikipedia.org/wiki/Homo_Deus:_A_Brief_History_of_Tomorrow</url>
+        <!-- <notes description="Kindle highlights"></notes> -->
+        <comments></comments>
+        <image>Homo Deus.jpg</image>
+    </book>
+    <book>
+        <date>2017.07.31</date>
         <title>A Guide to the Good Life</title>
         <subtitle>The Ancient Art of Stoic Joy</subtitle>
         <author>William B. Irvine</author>
         <publishingyear>2008</publishingyear>
-        <rating></rating>
+        <rating>5.0</rating>
         <url>https://books.google.com/books?id=yQ59JV_9AfIC</url>
         <!-- <notes description="Kindle highlights"></notes> -->
-        <comments></comments>
+        <comments>This very book convinced me that: 1) I really need a philosophy of life 2) stoicism is a good option 3) I'm already doing a lot of things correctly (according to stoicism). These next few months, I hope to "implement" stoicism in a bit more practical and conscious way (using reminders, etc.).</comments>
         <image>A Guide to the Good Life.jpg</image>
     </book>
     <book>
