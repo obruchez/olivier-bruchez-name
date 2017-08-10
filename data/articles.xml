@@ -2,6 +2,33 @@
 <articles>
   <introduction>A list of articles I read.</introduction>
   <article>
+    <date>2017.07.28</date>
+    <title url="https://www.stedavies.com/intermittent-fasting/">A Guide To Intermittent Fasting</title>
+    <subtitle>This intermittent fasting guide shows you how to lose weight, improve your brain health and live a long and healthy life.</subtitle>
+    <comments>Fasting / intermittent fasting never passed my "BS filter", until I read this article. "It gives you more energy, reduces body fat, helps with brain function, fights off diseases and increases your chances of living a long and healthy life." This really sounds too good to be true. "Breakfast is NOT the most important meal of the day." This is hard for me to accept, but I don't see why it wouldn't be true. The benefits exposed in the article: 1) "It supports with hormone regulation and lowers diabetes II risk" 2) "It helps with calorie restriction" 3) "It helps you lose weight and body fat" 4) "It reduces inflammation" 5) "It helps your cells clean and repair themselves" 6) "It helps the brain create new neurons and protects against brain damage" 7) "It regenerates the immune system". I will try the "17/18hr fast" used by the article's author the next few weeks (once a week).</comments>
+  </article>
+  <article>
+    <date>2017.07.28</date>
+    <title url="http://blog.thecurrent.org/2017/06/michael-bland-shares-his-incredible-stories-of-working-with-prince-soul-asylum-westerberg-and-more/">Michael Bland shares his incredible stories of working with Prince, Soul Asylum, Westerberg and more</title>
+    <comments>Michael Bland is one of my favorite Prince drummer. I was a bit disappointed that he was not part of the New Power Generation tour this year. He obviously has a lot of fun anecdotes to tell. "I remember one of the last conversations I had with Prince, he was talking about how he had dinner with Elton John and they were talking about how there’s entirely too much music being made on this planet right now." Too much music is being made. I don't agree with Prince about many things, but this is probably something I could agree with.</comments>
+  </article>
+  <article>
+    <date>2017.07.28</date>
+    <title url="https://motherboard.vice.com/en_us/article/kzakkn/nasa-destroyed-hundreds-of-mystery-tapes-found-in-a-dead-mans-basement-apollo-era">NASA Destroyed Hundreds of Mystery Tapes Found in a Dead Man’s Basement</title>
+    <subtitle>More than 300 data reels, some from Apollo-Era missions, were discovered in a deceased Pennsylvania man’s basement, FOIA documents reveal.</subtitle>
+    <comments>"Salvaging their data would've been "very costly," according to one NASA archivist who examined the artifacts. [...] During the 1970s and 1980s, surplussed items were frequently auctioned off by NASA. Technology became obsolete, funding dried up, or there just wasn't enough space. Some items survive today in private collections; others were repurposed as scrap. Other times, employees and contractors took materials that could have otherwise been destroyed. [...] As one NASA archivist put it: "It really feels like archaeology to me."" Yes, archiving costs a lot of money and is a lot of work. This is a bit sad to think that a lot of data (including images and videos) have been lost by NASA.</comments>
+  </article>
+  <article>
+    <date>2017.07.28</date>
+    <title url="https://medium.freecodecamp.org/blockchain-is-our-first-22nd-century-technology-d4ad45fca2ce">Blockchain: the revolution we’re not ready for</title>
+    <comments>"Blockchain is going to upend entire societies. It’s going to enable new kinds of governance systems that were before only the daydreams of utopians and philosophers." I don't understand a lot about blockchains, at the moment, but there sure are a lot of people very excited about the concept!</comments>
+  </article>
+  <article>
+    <date>2017.07.28</date>
+    <title url="http://www.thebookoflife.org/how-we-end-up-marrying-the-wrong-people/">On Marrying the Wrong Person</title>
+    <comments>"A good partnership is not so much one between two healthy people (there aren’t many of these on the planet), it’s one between two demented people who have had the skill or luck to find a non-threatening conscious accommodation between their relative insanities." The reasons exposed in the article: 1) "We don’t understand ourselves" 2) "We don’t understand other people" 3) "We aren’t used to being happy" 4) "Being single is so awful" 5) "Instinct has too much prestige" 6) "We don’t go to Schools of Love" 7) "We want to freeze happiness" 8) "We believe we are special" 9) "We want to stop thinking about Love". So, yes, marriage is not something to take lightly. It's also a lot of work <em>after</em> the wedding.</comments>
+  </article>
+  <article>
     <date>2017.07.22</date>
     <title url="http://aging.nautil.us/feature/226/how-aging-research-is-changing-our-lives">How Aging Research Is Changing Our Lives</title>
     <subtitle>An interview with Eric Verdin, CEO of the Buck Institute for Research on Aging.</subtitle>
