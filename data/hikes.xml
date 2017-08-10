@@ -3,6 +3,11 @@
   <introduction>A list of hikes I took.</introduction>
   <!-- TODO: add comments for new hikes? -->
   <hike>
+    <date>2017.08.06</date>
+    <place>Cabane Brunet / Cabane FXB Panossière / Mauvoisin, Switzerland</place>
+    <!-- <pictures url=""/> -->
+  </hike>
+  <hike>
     <date>2017.06.24</date>
     <place>Cabane Brunet / Cabane FXB Panossière, Switzerland</place>
     <!-- <pictures url=""/> -->
