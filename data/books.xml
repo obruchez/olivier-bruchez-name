@@ -856,6 +856,7 @@
 		<publishingyear>2006</publishingyear>
 		<rating>3.5</rating>
         <url>https://books.google.com/books/about/Professional_Web_2_0_Programming.html?id=hyV-IX8W30QC</url>
+        <image>Professional Web 2.0 Programming.jpg</image>
 	</book>
     <book>
 		<date>2008.12.17</date>
@@ -865,6 +866,7 @@
 		<publishingyear>2006</publishingyear>
 		<rating>4.5</rating>
         <url>https://books.google.com/books/about/365_jours_pour_r%C3%A9fl%C3%A9chir_%C3%A0_notre_Terr.html?id=5P7GAwAACAAJ</url>
+        <image>365 jours pour réfléchir à notre Terre.jpg</image>
 	</book>
 	<book>
 		<date>2008.08.17</date>
@@ -874,6 +876,7 @@
 		<publishingyear>2006</publishingyear>
 		<rating>4.75</rating>
         <url>https://en.wikipedia.org/wiki/Thinking_in_Java</url>
+        <image>Thinking In Java.jpg</image>
 	</book>
 	<book>
 		<date>2008.03.24</date>
