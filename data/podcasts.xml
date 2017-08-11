@@ -3,9 +3,15 @@
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
     <date></date>
+    <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
+    <episode url="https://www.samharris.org/podcast/item/must-we-accept-a-nuclear-north-korea" number="87">Must We Accept a Nuclear North Korea? - A Conversation with Mark Bowden</episode>
+    <comments></comments>
+  </podcast>
+  <podcast>
+    <date>2017.08.11</date>
     <name url="http://peachandblack.podbean.com/">Peach &amp; Black Podcast</name>
     <episode url="http://peachandblack.podbean.com/e/purple-rain-deluxe-review-part-2/">Purple Rain Deluxe Review Part 2</episode>
-    <comments></comments>
+    <comments>Another long (almost four hours!), fun episode, about the second disc (<i>From The Vault &amp; Previously Unreleased</i>) of the <i>Purple Rain Deluxe</i> release. Again, there are a lot of sound glitches/problems and errors in the liner notes for this disc, but, as Captain would say, "it is what it is". Most of the songs probably come from old cassettes stored at Warner Bros., so this was to be expected. All in all, this is the first official album of previously unreleased music by Prince, so this is an important release.</comments>
   </podcast>
   <podcast>
     <date>2017.07.25</date>
