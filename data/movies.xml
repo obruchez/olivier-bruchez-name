@@ -2,6 +2,16 @@
 <movies>
   <introduction>A list of movies I saw.</introduction>
   <movie>
+    <date>2017.08.11</date>
+    <theater>Galeries, Lausanne</theater>
+    <director>Edgar Wright</director>
+    <title>Baby Driver</title>
+    <url>http://www.imdb.com/title/tt3890160/</url>
+    <rating>4.75</rating>
+    <comments>Can violence be funny? I guess it can, but I'm less and less convinced. All in all a very good movie, with fresh/original ideas, fantastic cinematography, "video games" / car chase sequences, a lot of music, likeable/cool characters. A very unique movie. My only complaint is that it's too violent.</comments>
+    <image>Baby Driver.jpg</image>
+  </movie>
+  <movie>
     <date>2017.07.02</date>
     <theater home="true"/>
     <director>Akira Kurosawa</director>
