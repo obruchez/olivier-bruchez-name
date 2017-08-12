@@ -1,10 +1,14 @@
 package actors
 
+import javax.inject.Inject
+
 import akka.actor._
 import akka.routing.RoundRobinPool
 import controllers.Sitemap
 import org.joda.time.DateTime
 import play.api.Logger
+import play.api.inject.ApplicationLifecycle
+
 import scala.concurrent.Future
 import scala.concurrent.duration._
 
@@ -53,6 +57,8 @@ object Master {
   lazy val cache = system.actorOf(Props[Cache], name = "cache")
   lazy val fetcherRouter = system.actorOf(RoundRobinPool(10).props(Props(new Fetcher(cache))), "fetcher-pool")
 
+  start()
+
   def start(): Unit = {
     master ! CheckCache(force = false, reschedule = true)
   }
@@ -63,5 +69,11 @@ object Master {
 
   def forceFetch(): Unit = {
     master ! CheckCache(force = true, reschedule = false)
+  }
+}
+
+class MasterLifecycle @Inject()(applicationLifecycle: ApplicationLifecycle) {
+  applicationLifecycle.addStopHook { () =>
+    Future.successful(Master.stop())
   }
 }
