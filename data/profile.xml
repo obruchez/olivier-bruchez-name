@@ -44,6 +44,10 @@
         <item url="https://en.wikipedia.org/wiki/Astronomy">Astronomy</item>
         <item url="https://en.wikipedia.org/wiki/Basic_income">Basic income</item>
         <item url="https://en.wikipedia.org/wiki/Consumer_protection">Consumer rights</item>
+        <item>
+            <subitem url="https://en.wikipedia.org/wiki/Crowdfunding">Crowdfunding</subitem>
+            <subitem url="https://en.wikipedia.org/wiki/Patreon">Patreon</subitem>
+        </item>
         <item url="https://en.wikipedia.org/wiki/Effective_altruism">Effective altruism</item>
         <item>
             <subitem url="https://en.wikipedia.org/wiki/Electric_car">Electric cars</subitem>
