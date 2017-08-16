@@ -4,6 +4,12 @@
   <podcast>
     <date></date>
     <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
+    <episode url="https://www.samharris.org/podcast/item/living-with-violence" number="89">Living With Violence - A Conversation with Gavin de Becker</episode>
+    <comments></comments>
+  </podcast>
+  <podcast>
+    <date>2017.08.16</date>
+    <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
     <episode url="https://www.samharris.org/podcast/item/on-becoming-a-better-person" number="88">On Becoming a Better Person - A Conversation with David Brooks</episode>
     <comments></comments>
   </podcast>
