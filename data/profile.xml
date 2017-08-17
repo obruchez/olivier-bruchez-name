@@ -20,7 +20,7 @@
         <item url="https://en.wikipedia.org/wiki/David_Lynch">David Lynch</item>
         <item url="https://en.wikipedia.org/wiki/Coen_brothers">Joel &amp; Ethan Coen</item>
         <item url="https://fr.wikipedia.org/wiki/Hayao_Miyazaki">Hayao Miyazaki</item>
-        <item url="https://en.wikipedia.org/wiki/Michael_Moore">Michael Moore</item>
+        <!-- <item url="https://en.wikipedia.org/wiki/Michael_Moore">Michael Moore</item> -->
         <item url="https://en.wikipedia.org/wiki/Roman_Polanski">Roman Polanski</item>
         <item url="https://en.wikipedia.org/wiki/Stanley_Kubrick">Stanley Kubrick</item>
         <item url="https://en.wikipedia.org/wiki/Tim_Burton">Tim Burton</item>
@@ -32,7 +32,7 @@
         <item url="https://en.wikipedia.org/wiki/Chocolate">Chocolate</item>
         <item url="https://en.wikipedia.org/wiki/Coffee">Coffee</item>
         <item url="https://en.wikipedia.org/wiki/Tea">Tea</item>
-        <item url="https://en.wikipedia.org/wiki/Veganism#Cuisine">Vegan cuisine</item>
+        <item url="https://en.wikipedia.org/wiki/Veganism#Vegan_diet">Vegan cuisine</item>
         <item url="https://en.wikipedia.org/wiki/Vegetarian_cuisine">Vegetarian cuisine</item>
         <item url="https://en.wikipedia.org/wiki/Wine">Wine</item>
     </list>
@@ -239,8 +239,8 @@
         <item url="http://catandgirl.com/">Cat and Girl</item>
         <item url="http://www.commitstrip.com/">CommitStrip</item>
         <item url="http://dilbert.com/">Dilbert</item>
-        <item url="http://existentialcomics.com/">Existential Comics</item>
-        <item url="http://geek-and-poke.com/">Geek &amp; Poke</item>
+        <!-- <item url="http://existentialcomics.com/">Existential Comics</item> -->
+        <!-- <item url="http://geek-and-poke.com/">Geek &amp; Poke</item> -->
         <item url="http://www.lunarbaboon.com/">Lunarbaboon</item>
         <item url="http://nedroid.com/">Nedroid</item>
         <item url="http://owlturd.com/">Owlturd</item>
