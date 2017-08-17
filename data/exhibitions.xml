@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!-- TODO: add pictures -->
 <exhibitions>
     <introduction>A list of exhibitions I visited.</introduction>
     <exhibition>
@@ -8,6 +9,7 @@
         <rating>4.75</rating>
         <comments>A lot of landscapes, particularly mountains by Hodler. Maybe a bit too much for my taste, even though some of them are excellent. Some familiar views around Lake Geneva. A couple of fantastic paintings by Monet and Munch.</comments>
         <image>Hodler Monet Munch - Peindre l'impossible.jpg</image>
+        <pictures url="https://www.flickr.com/photos/bruchez/sets/72157685125783794"/>
     </exhibition>
     <exhibition>
         <date>2017.04.21</date>
