@@ -2,6 +2,12 @@
 <articles>
   <introduction>A list of articles I read.</introduction>
   <article>
+    <date>2017.08.19</date>
+    <title url="https://www.theatlantic.com/magazine/archive/2017/09/has-the-smartphone-destroyed-a-generation/534198/">Have Smartphones Destroyed a Generation?</title>
+    <subtitle>More comfortable online than out partying, post-Millennials are safer, physically, than adolescents have ever been. But they’re on the brink of a mental-health crisis.</subtitle>
+    <comments>First: <a href="https://en.wikipedia.org/wiki/Betteridge%27s_law_of_headlines">Betteridge's law of headlines</a>. "There is compelling evidence that the devices we’ve placed in young people’s hands are having profound effects on their lives—and making them seriously unhappy. [...] 18-year-olds now act more like 15-year-olds used to, and 15-year-olds more like 13-year-olds. [...] Teens who spend more time than average on screen activities are more likely to be unhappy, and those who spend more time than average on nonscreen activities are more likely to be happy. [...] Social-networking sites like Facebook promise to connect us to friends. But the portrait of iGen teens emerging from the data is one of a lonely, dislocated generation. [...] Social media levy a psychic tax on the teen doing the posting as well, as she anxiously awaits the affirmation of comments and likes. [...] In my conversations with teens, I saw hopeful signs that kids themselves are beginning to link some of their troubles to their ever-present phone." So, basically, we have to learn how to use smartphones with moderation and we have to find ways to teach our children how to use them that way. It's a difficult problem, but there is hope.</comments>
+  </article>
+  <article>
     <date>2017.08.12</date>
     <title url="http://okigiveup.net/not-big-fan-of-scrum/">Why I'm not a big fan of Scrum</title>
     <comments>I'm not either. As a consultant, I had to work in a team who used Scrum (the whole process, with the daily meetings and all the other meetings). For a future job, a company/team using Scrum would definitely be a negative point for me. "Nowadays devs are communicating on all kinds of channels (email, Slack, Github/Gitlab, ticketing system) and tracking detailed progress on some of these. What's the point in having them stand around for another ten minutes to repeat a few standard sentences? [...] If neither the behavior nor performance change, why even bother with refactoring? [...] Claiming that Scrum is generic is admitting that it is not cut for the specific nature of software development. [...] To make it short, my dream workflow would combine offline working, continuous analysis of the sources of complexity and errors, and detailed, open-ended discussion on the path on which the team is approaching the goal (or not). The correct way of building software should align the understanding that devs have of the problem and the complexity involved with the aims of the other parts of the company."</comments>
@@ -531,5 +537,5 @@
     <title url=""></title>
     <subtitle></subtitle>
     <comments></comments>
-  </article>-->
+  </article> -->
 </articles>
