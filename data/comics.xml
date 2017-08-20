@@ -2,6 +2,16 @@
 <comics>
   <introduction>A list of comics I read.</introduction>
   <comic>
+    <date>2017.08.20</date>
+    <writer>Lewis Trondheim</writer>
+    <artist>Lewis Trondheim</artist>
+    <colorist>Brigitte Findakly</colorist>
+    <series url="https://fr.wikipedia.org/wiki/Les_Formidables_Aventures_de_Lapinot">Les Formidables Aventures de Lapinot</series>
+    <volume url="http://www.dargaud.com/bd/Lapinot/Formidables-aventures-de-Lapinot-Les/Formidables-aventures-de-Lapinot-Les-tome-6-Pour-de-vrai" number="6">Pour de vrai</volume>
+    <comments>Un nouveau tome "contemporain", avec une touche de paranormal. C'est meilleur que le tome précédent, mais... un peu étrange.</comments>
+    <image>Lapinot - Pour de vrai.jpg</image>
+  </comic>
+  <comic>
     <date>2017.07.19</date>
     <writer>Frank Le Gall</writer>
     <artist>Lewis Trondheim</artist>
