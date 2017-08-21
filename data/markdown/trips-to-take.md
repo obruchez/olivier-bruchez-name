@@ -78,6 +78,7 @@ See also [1000 places to see before you die](http://1000places.com/).
 * [Bern](https://en.wikipedia.org/wiki/Bern) (already visited, to visit again)
 * [Ebenalp](https://en.wikipedia.org/wiki/Ebenalp) (hiking, cable car, etc.)
 * [Grand Tour of Switzerland](http://www.myswitzerland.com/en-ch/grand-tour-of-switzerland.html)
+* [Grisons](https://en.wikipedia.org/wiki/Grisons) ([Caumasee](https://en.wikipedia.org/wiki/Caumasee), etc.)
 * [Jungfraujoch](https://en.wikipedia.org/wiki/Jungfraujoch)
 * [Lake Constance](https://en.wikipedia.org/wiki/Lake_Constance)
 * [Lausanne](https://en.wikipedia.org/wiki/Lausanne) ([Top Things to Do in Lausanne](http://www.tripadvisor.com/Attractions-g188107-Activities-Lausanne_Canton_of_Vaud.html) according to TripAdvisor)
