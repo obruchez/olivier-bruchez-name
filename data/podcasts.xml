@@ -4,20 +4,25 @@
   <podcast>
     <date></date>
     <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
-    <episode url="https://www.samharris.org/podcast/item/living-with-violence" number="89">Living With Violence - A Conversation with Gavin de Becker</episode>
+    <episode url="https://www.samharris.org/podcast/item/the-biology-of-good-and-evil" number="91">The Biology of Good and Evil - A Conversation with Robert Sapolsky</episode>
     <comments></comments>
-    <!-- Listen to your intuitions: not convinced, only heuristics, "I hate statistics" -->
+  </podcast>
+  <podcast>
+    <date>2017.08.21</date>
+    <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
+    <episode url="https://www.samharris.org/podcast/item/living-with-violence" number="90">Living With Violence - A Conversation with Gavin de Becker</episode>
+    <comments>de Becker's message is perhaps not that bad, but the way he presents it is sometimes off-putting. For example: "I hate statistics." Me? I like good statistics. They're useful. If you know how to interpret them. Also, the way he seems to think we should listen to our intuitions more is weird. Intuitions are heuristics. They're a way to quickly come to a conclusion. But the speed of our intuitions comes at a price: intuitions are often wrong (e.g. we're all biased). So, yes, I understand that distrusting people more will lead to less "tissue damage", but I'm not concinved that we need a society where people distrust each other more. And I also understand that it's not exactly what de Becker is saying. But he should probably insist less on the intuition/reason dichotomy. I guess my takeaway is that we should learn how to use our in-the-moment intuitions as inputs, among other inputs, to decide whether a situation is dangerous or not. But it's not a very practical piece of advice. How do we tune our intuitions?</comments>
   </podcast>
   <podcast>
     <date>2017.08.16</date>
     <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
-    <episode url="https://www.samharris.org/podcast/item/on-becoming-a-better-person" number="88">On Becoming a Better Person - A Conversation with David Brooks</episode>
+    <episode url="https://www.samharris.org/podcast/item/on-becoming-a-better-person" number="89">On Becoming a Better Person - A Conversation with David Brooks</episode>
     <comments>David Brooks seems to defend virtue ethics and uses words such as "sin", arguing that they can be used in a non-religious sense. I didn't retain much from this discussion, as I see myself more as a consequentialist. I guess I accept the fact that virtues can have some value, but I see them more as heuristics that have survived the test of time. Like Sam, I'm pretty much convinced that you should lie as little as possible. But exceptions are always possible. The discussion about Patreon (before the actual interview) was also interesting: the community aspect of a platform such as Patreon is important.</comments>
   </podcast>
   <podcast>
     <date>2017.08.14</date>
     <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
-    <episode url="https://www.samharris.org/podcast/item/must-we-accept-a-nuclear-north-korea" number="87">Must We Accept a Nuclear North Korea? - A Conversation with Mark Bowden</episode>
+    <episode url="https://www.samharris.org/podcast/item/must-we-accept-a-nuclear-north-korea" number="88">Must We Accept a Nuclear North Korea? - A Conversation with Mark Bowden</episode>
     <comments>The current situation in North Korea is an ethical nightmare. If nobody does anything, million of North Koreans are already starving/suffering. If anybody does anything, we risk a nuclear war and hundreds of thousands or millions of deaths. About Trump: according to Bowden, an impeachment procedure is unlikely and not desirable; the Democrats should focus on finding a good candidate for the next elections.</comments>
   </podcast>
   <podcast>
