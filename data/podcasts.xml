@@ -4,8 +4,14 @@
   <podcast>
     <date></date>
     <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
-    <episode url="https://www.samharris.org/podcast/item/the-biology-of-good-and-evil" number="91">The Biology of Good and Evil - A Conversation with Robert Sapolsky</episode>
+    <episode url="https://www.samharris.org/podcast/item/the-limits-of-persuasion" number="92">The Limits of Persuasion A - Conversation with David Pizarro and Tamler Sommers</episode>
     <comments></comments>
+  </podcast>
+  <podcast>
+    <date>2017.08.23</date>
+    <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
+    <episode url="https://www.samharris.org/podcast/item/the-biology-of-good-and-evil" number="91">The Biology of Good and Evil - A Conversation with Robert Sapolsky</episode>
+    <comments>The discussion about free will was, of course, interesting. But I'm not sure it will advance the debate between compatibilists and determinists.</comments>
   </podcast>
   <podcast>
     <date>2017.08.21</date>
