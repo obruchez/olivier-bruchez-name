@@ -4,9 +4,15 @@
   <podcast>
     <date></date>
     <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
+    <episode url="https://www.samharris.org/podcast/item/the-future-of-intelligence" number="94">The Future of Intelligence - A Conversation with Max Tegmark</episode>
+    <comments></comments>
+  </podcast>
+  <podcast>
+    <date>2017.08.30</date>
+    <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
     <episode url="https://www.samharris.org/podcast/item/identity-terror" number="93">Identity &amp; Terror - A Conversation with Douglas Murray</episode>
     <comments></comments>
-    <!-- uncanny valley applied to morality -->
+    <!-- uncanny valley applied to morality + First, whenever the topic of meaning and what things should replace Christianity in the West gets brought up -->
   </podcast>
   <podcast>
     <date>2017.08.28</date>
