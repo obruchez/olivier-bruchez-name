@@ -15,8 +15,9 @@
   </show>
   <show>
     <date></date>
-    <name url="https://en.wikipedia.org/wiki/Game_of_Thrones">Game of Thrones</name>
-    <series url="https://en.wikipedia.org/wiki/Game_of_Thrones_(season_7)" type="season">7</series>
+    <name url="https://en.wikipedia.org/wiki/Episodes_%28TV_series%29">Episodes</name>
+    <series url="https://en.wikipedia.org/wiki/List_of_Episodes_episodes#Season_5_.282017.29" type="series">5</series>
+    <comments></comments>
   </show>
   <show>
     <date></date>
@@ -47,6 +48,12 @@
     <name url="https://en.wikipedia.org/wiki/Veep_(TV_series)">Veep</name>
     <series url="https://en.wikipedia.org/wiki/Veep_(TV_series)#Season_4" type="season">4</series>
     <comments></comments>
+  </show>
+  <show>
+    <date>2017.08.28</date>
+    <name url="https://en.wikipedia.org/wiki/Game_of_Thrones">Game of Thrones</name>
+    <series url="https://en.wikipedia.org/wiki/Game_of_Thrones_(season_7)" type="season">7</series>
+    <comments>This was a short season (only seven episodes) and season 8 "is expected to premiere in late 2018/early 2019" only. The fact that season 2 of <i>Westworld</i> apparently won't start before Spring 2018 is also a bit frustrating. Anyway, these are impressive shows and I understand that they take time to produce. Season 7 of <i>Game of Thrones</i> was quite intense. As always, important characters got killed. It goes without saying. Now I'm really curious about what will happen in season 8, because, at this point, it looks quite predictable. </comments>
   </show>
   <show>
     <date>2017.07.19</date>
@@ -328,7 +335,7 @@
   <show>
     <date>2015.05.04</date>
     <name url="https://en.wikipedia.org/wiki/Episodes_%28TV_series%29">Episodes</name>
-    <series url="https://en.wikipedia.org/wiki/List_of_Episodes_episodes#Series_4_.282015.29" type="series">4</series>
+    <series url="https://en.wikipedia.org/wiki/List_of_Episodes_episodes#Season_4_.282015.29" type="series">4</series>
   </show>
   <show>
     <date>2015.04.24</date>
@@ -343,7 +350,7 @@
   <show>
     <date>2015.03.15</date>
     <name url="https://en.wikipedia.org/wiki/Episodes_%28TV_series%29">Episodes</name>
-    <series url="https://en.wikipedia.org/wiki/List_of_Episodes_episodes#Series_3_.282014.29" type="series">3</series>
+    <series url="https://en.wikipedia.org/wiki/List_of_Episodes_episodes#Season_3_.282014.29" type="series">3</series>
   </show>
   <show>
     <date>2014.09.28</date>
@@ -358,7 +365,7 @@
   <show>
     <date>2014.09.15</date>
     <name url="https://en.wikipedia.org/wiki/Episodes_%28TV_series%29">Episodes</name>
-    <series url="https://en.wikipedia.org/wiki/List_of_Episodes_episodes#Series_2_.282012.29" type="series">2</series>
+    <series url="https://en.wikipedia.org/wiki/List_of_Episodes_episodes#Season_2_.282012.29" type="series">2</series>
   </show>
   <show>
     <date>2014.09.05</date>
@@ -383,7 +390,7 @@
   <show>
     <date>2014.08.15</date>
     <name url="https://en.wikipedia.org/wiki/Episodes_%28TV_series%29">Episodes</name>
-    <series url="https://en.wikipedia.org/wiki/List_of_Episodes_episodes#Series_1_.282011.29" type="series">1</series>
+    <series url="https://en.wikipedia.org/wiki/List_of_Episodes_episodes#Season_1_.282011.29" type="series">1</series>
   </show> 
   <show>
     <date>2014.08.15</date>
