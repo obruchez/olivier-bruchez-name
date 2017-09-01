@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <trips>
   <introduction>A list of trips I took.</introduction>
-  <!-- TODO: add comments for new trips? -->
+  <trip>
+    <from>2017.08.25</from>
+    <to>2017.08.27</to>
+    <place>Adelboden, Switzerland</place>
+    <!-- <pictures url="">Alcúdia</pictures> -->
+    <comments>A weekend in Adelboden for our 5-year wedding anniversary. We stayed at The Cambrian, a wonderful hotel, with a beautiful view, a spa, an indoor pool, a small outdoor pool (warmer), an excellent restaurant, etc. A very relaxing stay. We visited Thun Castle on our way back.</comments>
+  </trip>
   <trip>
     <from>2017.07.28</from>
     <to>2017.08.04</to>
