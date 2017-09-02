@@ -1,20 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <books>
     <introduction>A list of books I read.</introduction>
-    <!-- For comments about Homo Deus: https://danielmiessler.com/projects/reading/summary-homo-deus/ -->
     <book>
         <date></date>
+        <title>Keith Jarrett's The Köln Concert</title>
+        <subtitle></subtitle>
+        <author>Peter Elsdon</author>
+        <publishingyear>2012</publishingyear>
+        <rating>https://books.google.com/books?id=HdO7iH2Sz6IC</rating>
+        <url></url>
+        <!-- <notes description="Kindle highlights"></notes> -->
+        <comments></comments>
+        <image>Keith Jarrett's The Köln Concert.jpg</image>
+    </book>
+    <book>
+        <date>2017.08.26</date>
         <title>Homo Deus</title>
         <subtitle>A Brief History of Tomorrow</subtitle>
         <author>Yuval Noah Harari</author>
         <publishingyear>2015</publishingyear>
-        <rating></rating>
+        <rating>5.25</rating>
         <url>https://en.wikipedia.org/wiki/Homo_Deus:_A_Brief_History_of_Tomorrow</url>
         <!-- <notes description="Kindle highlights"></notes> -->
-        <comments></comments>
-        <!-- Supports the NOMA view about science vs religion 
-             Religion for him includes philosophy?
-             Word count for: science, religion, philosophy-->
+        <comments>This is a book I really liked. I heard Yuval Noah Harari on <a href="http://olivier.bruchez.name/podcasts#2017-03-27">Sam Harris' podcast in March 2017</a>. And then I kept hearing about people reading <i>Sapiens</i> or <i>Homo Deus</i>, so I <em>knew</em> I had to read one of his books... I had completely forgotten about it, but Harari is a vegan, an atheist, and meditates a lot, so I can easily relate to a lot of what he has to say. He also starts his book by mentioning Ray Kurzweil, Aubrey de Grey, and Steven Pinker, people I'm very familiar with, so I was hooked from the very beginning. Now I don't agree with everything he says. This is something I had already noticed during his discussion with Sam Harris, but he uses some words very loosely. For example, he seems to use the word "religion" for "philosophy" and "ideology". I understand why he's doing it, but it doesn't make his point clearer, in my opinion. Just for reference, the word "science" (and related) appears 317 times in the book, "religion" appears 211 times. and "philosophy" appears only 27 times. He also seems to support the <a href="https://en.wikipedia.org/wiki/Non-overlapping_magisteria">non-overlapping magisteria (NOMA)</a> view. I clearly don't agree with him on these points. Contrary to Kurzweil, he knows a lot about history and psychology, so he has quite a different point of view about our future. Whereas Kurzweil is very enthusiastic about uploading our minds to machines and living in virtual worlds, Harari is encouraging us to think about the relationship between intelligence and consciousness, the source of our values (in a world without gods and afterlife), and about how society and politics will work in such a future. Also for reference: <a href="https://danielmiessler.com/projects/reading/summary-homo-deus/">Daniel Miessler's summary of the book</a>.</comments>
         <image>Homo Deus.jpg</image>
     </book>
     <book>
