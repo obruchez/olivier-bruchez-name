@@ -4,8 +4,14 @@
   <podcast>
     <date></date>
     <name url="http://verybadwizards.com/">Very Bad Wizards</name>
-    <episode url="https://verybadwizards.fireside.fm/98" number="98">Mind the Gap</episode>
+    <episode url="https://verybadwizards.fireside.fm/99" number="99">Mockingbirds, Destructo-Critics, and Mr. Robot</episode>
     <comments></comments>
+  </podcast>
+  <podcast>
+    <date>2017.09.04</date>
+    <name url="http://verybadwizards.com/">Very Bad Wizards</name>
+    <episode url="https://verybadwizards.fireside.fm/98" number="98">Mind the Gap</episode>
+    <comments>An episode about the <a href="https://en.wikipedia.org/wiki/Is%E2%80%93ought_problem">is-ought problem</a>. So, yes, there is a gap between facts and values, and people disagree about the size of that gap. Is it a large gap? Or a very narrow gap? I'm not totally convinced by <a href="https://en.wikipedia.org/wiki/The_Moral_Landscape">Sam Harris' argument</a> and I guess it would be stronger if he accepted to engage in actual philosophy and <a href="https://en.wikipedia.org/wiki/Meta-ethics">meta-ethics</a> (instead of dismissing that branch), but I tend to agree with him. He's on the right track. The fact-value gap is not that big. At least in principle. And that's maybe part of the problem when we're talking about meta-ethics. It's often not clear if we're talking about the ability to determine values in principle or in practice. This is a distinction I've not heard from David and Tamler. But at the end of the day, I think Harris is right: the gap we're talking about is not that wide and it's very likely that it can be bridged with a few axiomatic ideas (see Harris' health/medicine analogy).</comments>
   </podcast>
   <podcast>
     <date>2017.09.01</date>
