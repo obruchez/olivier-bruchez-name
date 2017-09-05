@@ -2,6 +2,16 @@
 <comics>
   <introduction>A list of comics I read.</introduction>
   <comic>
+    <date>2017.09.05</date>
+    <writer>Lewis Trondheim</writer>
+    <artist>Lewis Trondheim</artist>
+    <colorist>Brigitte Findakly</colorist>
+    <series url="https://fr.wikipedia.org/wiki/Les_Formidables_Aventures_de_Lapinot">Les Formidables Aventures de Lapinot</series>
+    <volume url="http://www.dargaud.com/bd/Lapinot/Formidables-aventures-de-Lapinot-Les/Formidables-aventures-de-Lapinot-Les-tome-7-Couleur-de-l-enfer-La" number="7">La Couleur de l'enfer</volume>
+    <comments>J'aime beaucoup l'idée de la vingtaine d'appartements contigus, qui est une sorte de fantasme enfantin. La question du militantisme est, finalement, assez sérieuse. Quant à l'histoire du chat du voisin, elle est fondamentalement triste. Un tome réussi, mais qui me laisse une impression mélancolique...</comments>
+    <image>Lapinot - La Couleur de l'enfer.jpg</image>
+  </comic>
+  <comic>
     <date>2017.08.20</date>
     <writer>Lewis Trondheim</writer>
     <artist>Lewis Trondheim</artist>
