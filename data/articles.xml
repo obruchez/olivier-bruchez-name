@@ -2,6 +2,12 @@
 <articles>
   <introduction>A list of articles I read.</introduction>
   <article>
+    <date>2017.09.08</date>
+    <title url="https://www.scientificamerican.com/article/intelligence-and-the-dna-revolution/">Intelligence and the DNA Revolution</title>
+    <subtitle>Scientists identify 22 genes associated with intelligence</subtitle>
+    <comments>Just a short report on the recent discovery that "[of] the over 12 million SNPs analyzed, 336 correlated significantly with intelligence, implicating 22 different genes." And the result is quite strong: "As a check on the replicability of their results, the scientists then tested for correlations between the 336 SNPs and level of education—a variable known to be strongly correlated with intelligence—in an independent sample of nearly 200,000 people who had previously undergone DNA testing. Ninety-nine percent of the time, the SNPs correlated in the same direction with education as they did with intelligence." The article includes the usual, tactful reminder: "Of course, intelligence is not solely the product of DNA—and no scientist studying intelligence thinks otherwise." We should get more results like this in the future, thanks to genome-wide association studies (GWAS).</comments>
+  </article> 
+  <article>
     <date>2017.09.07</date>
     <title url="https://www.nytimes.com/2017/09/05/smarter-living/workplace-burnout-symptoms.html">How to Recognize Burnout Before You’re Burned Out</title>
     <comments>I read this article because burnout seems to be a problem in the "software development / Hacker News" community. I don't know if I'm at risk, but, without knowing it, I'm apparently already doing some things to avoid burnout (breathing exercises / meditation, frequent breaks, exercising, humor, etc.).</comments>
