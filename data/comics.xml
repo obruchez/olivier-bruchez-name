@@ -2,6 +2,16 @@
 <comics>
   <introduction>A list of comics I read.</introduction>
   <comic>
+    <date>2017.09.09</date>
+    <writer>Lewis Trondheim</writer>
+    <artist>Lewis Trondheim</artist>
+    <colorist>Brigitte Findakly</colorist>
+    <series url="https://fr.wikipedia.org/wiki/Les_Formidables_Aventures_de_Lapinot">Les Formidables Aventures de Lapinot</series>
+    <volume url="http://www.dargaud.com/bd/Lapinot/Formidables-aventures-de-Lapinot-Les/Formidables-aventures-de-Lapinot-Les-tome-8-Vie-comme-elle-vient-La" number="8">La Vie comme elle vient</volume>
+    <comments>Je ne l'avais jamais lu. J'en avais vaguement entendu parler. Un tome très triste. Plein de philosophie. J'ai bien aimé.</comments>
+    <image>Lapinot - La Vie comme elle vient.jpg</image>
+  </comic>
+  <comic>
     <date>2017.09.05</date>
     <writer>Lewis Trondheim</writer>
     <artist>Lewis Trondheim</artist>
