@@ -3,6 +3,15 @@
 <exhibitions>
     <introduction>A list of exhibitions I visited.</introduction>
     <exhibition>
+        <date>2017.09.09</date>
+        <name>Cézanne - Le chant de la terre</name>
+        <museum>Fondation Pierre Gianadda, Martigny, Switzerland</museum>
+        <rating>4.75</rating>
+        <comments>I was not impressed by the still life section, but some of the landscapes were gorgeous. The baigneuses/baigneurs section (covering about 30 years) was nice. I liked the portraits, too.</comments>
+        <image>Cézanne - Le chant de la terre.jpg</image>
+        <!-- <pictures url=""/> -->
+    </exhibition>
+    <exhibition>
         <date>2017.06.10</date>
         <name>Hodler Monet Munch. Peindre l'impossible.</name>
         <museum>Fondation Pierre Gianadda, Martigny, Switzerland</museum>
