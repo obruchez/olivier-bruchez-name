@@ -3,12 +3,6 @@
   <introduction>A list of TV shows I saw.</introduction>
   <show>
     <date></date>
-    <name url="https://en.wikipedia.org/wiki/Black_Mirror">Black Mirror</name>
-    <series url="https://en.wikipedia.org/wiki/List_of_Black_Mirror_episodes#Series_3_.282016.29" type="series">3</series>
-    <comments></comments>
-  </show>
-  <show>
-    <date></date>
     <name url="https://en.wikipedia.org/wiki/Bob's_Burgers">Bob's Burgers</name>
     <series url="https://en.wikipedia.org/wiki/Bob%27s_Burgers_(season_4)" type="season">4</series>
     <comments></comments>
@@ -48,6 +42,12 @@
     <name url="https://en.wikipedia.org/wiki/Veep_(TV_series)">Veep</name>
     <series url="https://en.wikipedia.org/wiki/Veep_(TV_series)#Season_4" type="season">4</series>
     <comments></comments>
+  </show>
+  <show>
+    <date>2017.09.10</date>
+    <name url="https://en.wikipedia.org/wiki/Black_Mirror">Black Mirror</name>
+    <series url="https://en.wikipedia.org/wiki/List_of_Black_Mirror_episodes#Series_3_.282016.29" type="series">3</series>
+    <comments>This season was about social networks, virtual reality, autonomous drones, hacking, online blackmail, mind uploading, etc. Overall, a very dark season. The last episode, in particular, <a href="https://en.wikipedia.org/wiki/Hated_in_the_Nation_(Black_Mirror)"><i>Hated in the Nation</i></a>, was terrifying. Let's be honest, it's something that could happen in the future. This is why some people think the <a href="https://en.wikipedia.org/wiki/AI_control_problem">AI control problem</a> is so important.</comments>
   </show>
   <show>
     <date>2017.08.28</date>
