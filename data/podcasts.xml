@@ -3,9 +3,15 @@
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
     <date></date>
-    <name url="http://www.theskepticsguide.org/podcast/sgu">The Skeptics’ Guide to the Universe</name>
+    <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
+    <episode url="https://www.samharris.org/podcast/item/what-you-need-to-know-about-climate-change" number="95">What You Need to Know About Climate Change - A Conversation with Joseph Romm</episode>
+    <comments></comments>
+  </podcast>
+  <podcast>
+    <date>2017.09.11</date>
+    <name url="http://www.theskepticsguide.org/podcast/sgu">The Skeptics' Guide to the Universe</name>
     <episode url="http://www.theskepticsguide.org/podcast/sgu/634" number="634">Podcast #634 - September 2nd, 2017</episode>
-    <comments>This podcast has been recommended to me several times, so I'm giving it a chance, although I don't really have the time to listen to it regularly.</comments>
+    <comments>This podcast has been recommended to me several times, so I'm giving it a chance, although I don't really have the time to listen to it regularly. This particular episode was about the 40 years of the Voyager space probes, among other things. The Voyager program has really cemented my interest for space and astronomy. The first pictures of Neptune I saw from Voyager II were absolutely gorgeous. These were really exciting times! All in all, this podcast seems interesting. I'm not sure I'll be able to listen to it regularly, but I'll try.</comments>
   </podcast>
   <podcast>
     <date>2017.09.07</date>
