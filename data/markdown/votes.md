@@ -6,7 +6,11 @@ My votes (in French). En Suisse, on ne plaisante pas avec la démocratie directe
 
 ### Acceptez-vous l’arrêté fédéral du 14 mars 2017 sur la sécurité alimentaire ?
 
-?. Résultat : ? (??.?%).
+Oui. Résultat : ? (??.?%).
+
+- Il semblerait que ce soit un projet très peu controversé.
+- Il ne considère pas la Suisse comme un îlot isolé et n'insiste pas trop sur le côté "indigène" mis en avant par l'initiative retirée.
+- Je ne suis pas sûr que cela change grand-chose, mais je ne vois aucune raison de voter contre cet objet.
 
 ### Acceptez-vous l’arrêté fédéral du 17 mars 2017 sur le financement additionnel de l’AVS par le biais d’un relèvement de la taxe sur la valeur ajoutée ?
 
@@ -15,6 +19,14 @@ My votes (in French). En Suisse, on ne plaisante pas avec la démocratie directe
 ### Acceptez-vous la loi fédérale du 17 mars 2017 sur la réforme de la prévoyance vieillesse 2020 ?
 
 ?. Résultat : ? (??.?%).
+
+- Il s'agit d'un objet très controversé.
+- On est encore loin de quelque chose de visionnaire, mais néanmoins indispensable, tel qu'un revenu de base inconditionnel (voir mon avis ici : [ici](http://olivier.bruchez.name/worldview#revenu-de-base).
+- Je suis étonné que beaucoup des chiffres dont on parle (taux TVA, taux de conversion, etc.) soient constants et ne soient pas adaptés automatiquement. Du point de vue de l'ingénieur logiciel que je suis, tout cela ressemble à un algorithme beaucoup trop simpliste, beaucoup trop peu adaptatif et, donc, forcément voué à l'échec, tôt ou tard.
+- L'élévation de l'âge de la retraite des femmes me semble malvenue, mais on ne parle que d'une seule année.
+- Le relèvement du taux de la TVA est peut-être une mesure antisociale, mais ce taux est bas en comparaison internationale.
+- On parle d'un relèvement très modéré (0.3% et 0.2% en plus).
+- ...
 
 ## [Votation fédérale du 21 mai 2017](https://www.admin.ch/gov/fr/accueil/documentation/votations/20170521.html)
 
