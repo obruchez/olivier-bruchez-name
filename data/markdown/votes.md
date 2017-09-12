@@ -2,11 +2,25 @@
 
 My votes (in French). En Suisse, on ne plaisante pas avec la démocratie directe. :) J'essaie ici de documenter et de justifier la façon dont je me positionne par rapport aux votations fédérales, qui ont lieu jusqu'à quatre fois par année.
 
-## [Votation fédérale du 21 mai 2017](https://www.admin.ch/gov/fr/accueil/documentation/votations/20170521/Loi-sur-l-energie.html)
+## [Votation fédérale du 24 septembre 2017](https://www.admin.ch/gov/fr/accueil/documentation/votations/20170924.html)
+
+### Acceptez-vous l’arrêté fédéral du 14 mars 2017 sur la sécurité alimentaire ?
+
+?. Résultat : ? (??.?%).
+
+### Acceptez-vous l’arrêté fédéral du 17 mars 2017 sur le financement additionnel de l’AVS par le biais d’un relèvement de la taxe sur la valeur ajoutée ?
+
+?. Résultat : ? (??.?%).
+
+### Acceptez-vous la loi fédérale du 17 mars 2017 sur la réforme de la prévoyance vieillesse 2020 ?
+
+?. Résultat : ? (??.?%).
+
+## [Votation fédérale du 21 mai 2017](https://www.admin.ch/gov/fr/accueil/documentation/votations/20170521.html)
 
 ### Acceptez-vous la loi du 30 septembre 2016 sur l’énergie (LEne) ?
 
-Oui. Résultat : ? (??.?%).
+Oui. Résultat : oui (58.2%).
 
 - La loi doit s'adapter aux changements (importants) dans le domaine de l'énergie.
 - Les arguments du comité référendaire ne me semblent pas pertinents (arguments habituels de l'augmentation des interdictions, des pertes d'emplois, de la dépendance à l'étranger, etc.).
