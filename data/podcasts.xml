@@ -4,6 +4,12 @@
   <!-- @avernet's comments about Very Bad Wizard #123: http://avernet.blogspot.ch/2017/09/very-bad-wizards-discussion-on-iq-and.html -->
   <podcast>
     <date></date>
+    <name url="http://verybadwizards.com/">Very Bad Wizards</name>
+    <episode url="https://verybadwizards.fireside.fm/100" number="100">It's a Celebration</episode>
+    <comments></comments>
+  </podcast>
+  <podcast>
+    <date>2017.09.13</date>
     <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
     <episode url="https://www.samharris.org/podcast/item/what-you-need-to-know-about-climate-change" number="95">What You Need to Know About Climate Change - A Conversation with Joseph Romm</episode>
     <comments></comments>
