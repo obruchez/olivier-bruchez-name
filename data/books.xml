@@ -2,15 +2,15 @@
 <books>
     <introduction>A list of books I read.</introduction>
     <book>
-        <date></date>
+        <date>2017.09.14</date>
         <title>Keith Jarrett's The Köln Concert</title>
         <subtitle></subtitle>
         <author>Peter Elsdon</author>
         <publishingyear>2012</publishingyear>
-        <rating></rating>
+        <rating>4.5</rating>
         <url>https://books.google.com/books?id=HdO7iH2Sz6IC</url>
         <!-- <notes description="Kindle highlights"></notes> -->
-        <comments></comments>
+        <comments>It's difficult to judge this book fairly, because I'm not a musician and a couple of chapters are pretty technical. That being said, I'm a Keith Jarrett fan, so it was interesting to read about <i>The Köln Concert</i> in several contexts: jazz in general, the 1970s, Keith Jarrett's other solo albums (<i>Facing You</i> in particular), other pianists' solo recordings (e.g. Chick Corea's), Keith Jarrett's 1975 solo tour, etc. The more "philosophical" discussions such as what it means to improvise (vs compose), what it means for a live performance to be released as an album, etc. were also quite illuminating.</comments>
         <image>Keith Jarrett's The Köln Concert.jpg</image>
     </book>
     <book>
