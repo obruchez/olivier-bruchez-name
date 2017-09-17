@@ -4,10 +4,11 @@
     <introduction>A list of exhibitions I visited.</introduction>
     <exhibition>
         <date>2017.09.17</date>
-        <name>Claudio Moser, I come from the other side</name>
+        <name>Claudio Moser - I come from the other side</name>
         <museum>Musée de Bagnes, Le Châble, Switzerland</museum>
         <rating>3.0</rating>
         <comments>Exhibition located a the top of the Mauvoisin Dam. Let's just say that I'm not a fan and that I regularly said to myself: "Hey, I could have taken that photograph." It's not bad, though.</comments>
+        <!-- <pictures url=""/> -->
     </exhibition>
     <exhibition>
         <date>2017.09.09</date>
@@ -158,6 +159,14 @@
         <image>Picasso - L’œuvre ultime - Hommage à Jacqueline.jpg</image>
     </exhibition>
     <exhibition>
+        <date>2016.09.19</date>
+        <name>Alain Bublex - Une après-midi japonaise</name>
+        <museum>Musée de Bagnes, Le Châble, Switzerland</museum>
+        <rating>4.25</rating>
+        <comments>Exhibition located a the top of the Mauvoisin Dam.</comments>
+        <!-- <pictures url=""/> -->
+    </exhibition>
+    <exhibition>
         <date>2016.05.15</date>
         <name>Signac : une vie au fil de l'eau</name>
         <museum>Fondation de l’Hermitage, Lausanne, Switzerland</museum>
@@ -286,7 +295,7 @@
     </exhibition>
     <exhibition>
         <date>2012.09.02</date>
-        <name>Aux dépens du réel, Christian Lutz</name>
+        <name>Christian Lutz - Aux dépens du réel</name>
         <museum>Musée de Bagnes, Le Châble, Switzerland</museum>
         <rating>4.0</rating>
         <comments>Exhibition located a the top of the Mauvoisin Dam.</comments>
