@@ -14,18 +14,24 @@ Oui. Résultat : ? (??.?%).
 
 ### Acceptez-vous l’arrêté fédéral du 17 mars 2017 sur le financement additionnel de l’AVS par le biais d’un relèvement de la taxe sur la valeur ajoutée ?
 
-?. Résultat : ? (??.?%).
+Oui. Résultat : ? (??.?%).
 
 ### Acceptez-vous la loi fédérale du 17 mars 2017 sur la réforme de la prévoyance vieillesse 2020 ?
 
-?. Résultat : ? (??.?%).
+Oui. Résultat : ? (??.?%).
 
 - Il s'agit d'un objet très controversé.
 - On est encore loin de quelque chose de visionnaire, mais néanmoins indispensable, tel qu'un revenu de base inconditionnel (voir mon avis ici : [ici](http://olivier.bruchez.name/worldview#revenu-de-base)).
 - Je suis étonné que beaucoup des chiffres dont on parle (taux de la TVA, taux de conversion, etc.) soient constants et ne soient pas adaptés automatiquement. Du point de vue de l'ingénieur logiciel que je suis, tout cela ressemble à un algorithme beaucoup trop simpliste, beaucoup trop peu adaptatif et, donc, forcément voué à l'échec, tôt ou tard.
 - L'élévation de l'âge de la retraite des femmes me semble malvenue, mais on ne parle que d'une seule année.
-- Le relèvement du taux de la TVA est peut-être une mesure antisociale, mais ce taux est bas en comparaison internationale. On parle d'un relèvement très modéré (0.3% et 0.2% en plus).
-- ...
+- Le relèvement du taux de la TVA est peut-être une mesure antisociale, mais ce taux est bas en comparaison internationale. On parle d'un relèvement très modéré (0.3% et 0.2% en plus). Je ne vois donc vraiment pas le problème de cette hausse mesurée.
+- La mesure concernant les chômeurs âgés me semble judicieuse, puisque c'est un cas de figure qui va être de plus en plus fréquent.
+- Le fait de prendre en compte les personnes travaillant à temps partiel (il y en a de plus en plus) est une bonne chose.
+- Le concept de départ à la retraite flexible me paraît aussi, en théorie tout du moins, une bonne idée.
+- Côté comité référendaire, l'éternel argument de la pente glissante ("Parce qu’elle préparerait l’étape suivante : les 67 ans pour toutes et tous.") est à nouveau utilisé.
+- Côté Ensemble à Gauche, c'est l'élévation de l'âge de la retraite des femmes à 65 ans qui pose problème. Et le fait qu'on ferait mieux de s'attaquer à la problématique de l'égalité salariale homme-femme. Je suis d'accord que c'est un problème, mais quel rapport ?
+- Pour moi, cette réforme est un premier pas. Elle n'est pas suffisante. Il s'agira de trouver des solutions plus ambitieuses, plus durables ces prochaines années. Mais il s'agit aussi de parer au plus pressé.
+- C'est donc un petit oui de ma part.
 
 ## [Votation fédérale du 21 mai 2017](https://www.admin.ch/gov/fr/accueil/documentation/votations/20170521.html)
 
