@@ -3,6 +3,13 @@
 <exhibitions>
     <introduction>A list of exhibitions I visited.</introduction>
     <exhibition>
+        <date>2017.09.17</date>
+        <name>Claudio Moser, I come from the other side</name>
+        <museum>Musée de Bagnes, Le Châble, Switzerland</museum>
+        <rating>2.5</rating>
+        <comments>Exhibition located a the top of the Mauvoisin Dam. Let's just say that I'm not a fan and that I regularly said to myself: "Hey, I could have taken that photograph." It's not bad, though.</comments>
+    </exhibition>
+    <exhibition>
         <date>2017.09.09</date>
         <name>Cézanne - Le chant de la terre</name>
         <museum>Fondation Pierre Gianadda, Martigny, Switzerland</museum>
@@ -282,7 +289,7 @@
         <name>Aux dépens du réel, Christian Lutz</name>
         <museum>Musée de Bagnes, Le Châble, Switzerland</museum>
         <rating>4.0</rating>
-        <comments>Exhibition located in Mauvoisin.</comments>
+        <comments>Exhibition located a the top of the Mauvoisin Dam.</comments>
     </exhibition>
     <exhibition>
         <date>2012.09.02</date>
