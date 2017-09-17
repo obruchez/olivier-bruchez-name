@@ -2,6 +2,11 @@
 <articles>
   <introduction>A list of articles I read.</introduction>
   <article>
+    <date>2017.09.17</date>
+    <title url="http://www.thebookoflife.org/how-to-live-more-wisely-around-our-phones/">How to Live More Wisely Around Our Phones</title>
+    <comments>I realized only at the end of the "article" (which I added to Instapaper from Facebook) that it's part of <a href="http://www.thebookoflife.org/">The Book of Life</a>, which is sponsored by <a href="https://www.theschooloflife.com/">The School of Life</a>. So I guess the whole point of this article is to show the limits of our smartphones and to motivate us to be more mindful, more focused, more aware that our time is limited, more at ease with being alone, less afraid of being bored. We need to pay more attention. It's refreshing, because it doesn't demonize our phones. It just starts from what they are: "The dark truth is that it's become very hard to find anyone (and certainly anything) more interesting than one's smartphone." But current phones are largely imperfect: "We are still waiting for phones that will help us properly address the greatest struggles of our lives, the ones at the summit of Abraham Maslow's famous pyramid." An example of limitation mentioned in the article: "But while our phones can record the moment they can't - as yet - bring our submerged reactions to the surface. They can tell us what time the museum opens but not why we - uniquely, we - should go there."</comments>
+  </article> 
+  <article>
     <date>2017.09.08</date>
     <title url="https://www.scientificamerican.com/article/intelligence-and-the-dna-revolution/">Intelligence and the DNA Revolution</title>
     <subtitle>Scientists identify 22 genes associated with intelligence</subtitle>
@@ -9,12 +14,12 @@
   </article> 
   <article>
     <date>2017.09.07</date>
-    <title url="https://www.nytimes.com/2017/09/05/smarter-living/workplace-burnout-symptoms.html">How to Recognize Burnout Before You’re Burned Out</title>
+    <title url="https://www.nytimes.com/2017/09/05/smarter-living/workplace-burnout-symptoms.html">How to Recognize Burnout Before You're Burned Out</title>
     <comments>I read this article because burnout seems to be a problem in the "software development / Hacker News" community. I don't know if I'm at risk, but, without knowing it, I'm apparently already doing some things to avoid burnout (breathing exercises / meditation, frequent breaks, exercising, humor, etc.).</comments>
   </article>
   <article>
     <date>2017.09.07</date>
-    <title url="https://www.nytimes.com/2017/08/18/your-money/aging-parents-with-lots-of-stuff-and-children-who-dont-want-it.html">Aging Parents With Lots of Stuff, and Children Who Don’t Want It</title>
+    <title url="https://www.nytimes.com/2017/08/18/your-money/aging-parents-with-lots-of-stuff-and-children-who-dont-want-it.html">Aging Parents With Lots of Stuff, and Children Who Don't Want It</title>
     <comments>This is a topic of high interest to me, because I have accumulated a lot of stuff myself, including at my parents' house, that I am now slowly throwing away, selling, recycling, scanning, etc. My goal is to have as little physical possessions as possible. I guess my parents kind of know that I'm not interested in their stuff and that they should do something about it while they're still alive, but we haven't discussed this seriously yet.</comments>
   </article>
   <article>
@@ -26,8 +31,8 @@
   <article>
     <date>2017.08.19</date>
     <title url="https://www.theatlantic.com/magazine/archive/2017/09/has-the-smartphone-destroyed-a-generation/534198/">Have Smartphones Destroyed a Generation?</title>
-    <subtitle>More comfortable online than out partying, post-Millennials are safer, physically, than adolescents have ever been. But they’re on the brink of a mental-health crisis.</subtitle>
-    <comments>First: <a href="https://en.wikipedia.org/wiki/Betteridge%27s_law_of_headlines">Betteridge's law of headlines</a>. "There is compelling evidence that the devices we’ve placed in young people’s hands are having profound effects on their lives—and making them seriously unhappy. [...] 18-year-olds now act more like 15-year-olds used to, and 15-year-olds more like 13-year-olds. [...] Teens who spend more time than average on screen activities are more likely to be unhappy, and those who spend more time than average on nonscreen activities are more likely to be happy. [...] Social-networking sites like Facebook promise to connect us to friends. But the portrait of iGen teens emerging from the data is one of a lonely, dislocated generation. [...] Social media levy a psychic tax on the teen doing the posting as well, as she anxiously awaits the affirmation of comments and likes. [...] In my conversations with teens, I saw hopeful signs that kids themselves are beginning to link some of their troubles to their ever-present phone." So, basically, we have to learn how to use smartphones with moderation and we have to find ways to teach our children how to use them that way. It's a difficult problem, but there is hope.</comments>
+    <subtitle>More comfortable online than out partying, post-Millennials are safer, physically, than adolescents have ever been. But they're on the brink of a mental-health crisis.</subtitle>
+    <comments>First: <a href="https://en.wikipedia.org/wiki/Betteridge%27s_law_of_headlines">Betteridge's law of headlines</a>. "There is compelling evidence that the devices we've placed in young people's hands are having profound effects on their lives—and making them seriously unhappy. [...] 18-year-olds now act more like 15-year-olds used to, and 15-year-olds more like 13-year-olds. [...] Teens who spend more time than average on screen activities are more likely to be unhappy, and those who spend more time than average on nonscreen activities are more likely to be happy. [...] Social-networking sites like Facebook promise to connect us to friends. But the portrait of iGen teens emerging from the data is one of a lonely, dislocated generation. [...] Social media levy a psychic tax on the teen doing the posting as well, as she anxiously awaits the affirmation of comments and likes. [...] In my conversations with teens, I saw hopeful signs that kids themselves are beginning to link some of their troubles to their ever-present phone." So, basically, we have to learn how to use smartphones with moderation and we have to find ways to teach our children how to use them that way. It's a difficult problem, but there is hope.</comments>
   </article>
   <article>
     <date>2017.08.12</date>
@@ -43,23 +48,23 @@
   <article>
     <date>2017.07.28</date>
     <title url="http://blog.thecurrent.org/2017/06/michael-bland-shares-his-incredible-stories-of-working-with-prince-soul-asylum-westerberg-and-more/">Michael Bland shares his incredible stories of working with Prince, Soul Asylum, Westerberg and more</title>
-    <comments>Michael Bland is one of my favorite Prince drummers. I was a bit disappointed that he was not part of the New Power Generation tour this year. He obviously has a lot of fun anecdotes to tell. "I remember one of the last conversations I had with Prince, he was talking about how he had dinner with Elton John and they were talking about how there’s entirely too much music being made on this planet right now." Too much music is being made. I don't agree with Prince about many things, but this is probably something I could agree with.</comments>
+    <comments>Michael Bland is one of my favorite Prince drummers. I was a bit disappointed that he was not part of the New Power Generation tour this year. He obviously has a lot of fun anecdotes to tell. "I remember one of the last conversations I had with Prince, he was talking about how he had dinner with Elton John and they were talking about how there's entirely too much music being made on this planet right now." Too much music is being made. I don't agree with Prince about many things, but this is probably something I could agree with.</comments>
   </article>
   <article>
     <date>2017.07.28</date>
-    <title url="https://motherboard.vice.com/en_us/article/kzakkn/nasa-destroyed-hundreds-of-mystery-tapes-found-in-a-dead-mans-basement-apollo-era">NASA Destroyed Hundreds of Mystery Tapes Found in a Dead Man’s Basement</title>
-    <subtitle>More than 300 data reels, some from Apollo-Era missions, were discovered in a deceased Pennsylvania man’s basement, FOIA documents reveal.</subtitle>
+    <title url="https://motherboard.vice.com/en_us/article/kzakkn/nasa-destroyed-hundreds-of-mystery-tapes-found-in-a-dead-mans-basement-apollo-era">NASA Destroyed Hundreds of Mystery Tapes Found in a Dead Man's Basement</title>
+    <subtitle>More than 300 data reels, some from Apollo-Era missions, were discovered in a deceased Pennsylvania man's basement, FOIA documents reveal.</subtitle>
     <comments>"Salvaging their data would've been "very costly," according to one NASA archivist who examined the artifacts. [...] During the 1970s and 1980s, surplussed items were frequently auctioned off by NASA. Technology became obsolete, funding dried up, or there just wasn't enough space. Some items survive today in private collections; others were repurposed as scrap. Other times, employees and contractors took materials that could have otherwise been destroyed. [...] As one NASA archivist put it: "It really feels like archaeology to me."" Yes, archiving costs a lot of money and is a lot of work. This is a bit sad to think that a lot of data (including images and videos) have been lost by NASA.</comments>
   </article>
   <article>
     <date>2017.07.28</date>
-    <title url="https://medium.freecodecamp.org/blockchain-is-our-first-22nd-century-technology-d4ad45fca2ce">Blockchain: the revolution we’re not ready for</title>
-    <comments>"Blockchain is going to upend entire societies. It’s going to enable new kinds of governance systems that were before only the daydreams of utopians and philosophers." I don't understand a lot about blockchains, at the moment, but there sure are a lot of people very excited about the concept!</comments>
+    <title url="https://medium.freecodecamp.org/blockchain-is-our-first-22nd-century-technology-d4ad45fca2ce">Blockchain: the revolution we're not ready for</title>
+    <comments>"Blockchain is going to upend entire societies. It's going to enable new kinds of governance systems that were before only the daydreams of utopians and philosophers." I don't understand a lot about blockchains, at the moment, but there sure are a lot of people very excited about the concept!</comments>
   </article>
   <article>
     <date>2017.07.28</date>
     <title url="http://www.thebookoflife.org/how-we-end-up-marrying-the-wrong-people/">On Marrying the Wrong Person</title>
-    <comments>"A good partnership is not so much one between two healthy people (there aren’t many of these on the planet), it’s one between two demented people who have had the skill or luck to find a non-threatening conscious accommodation between their relative insanities." The reasons exposed in the article: 1) "We don’t understand ourselves" 2) "We don’t understand other people" 3) "We aren’t used to being happy" 4) "Being single is so awful" 5) "Instinct has too much prestige" 6) "We don’t go to Schools of Love" 7) "We want to freeze happiness" 8) "We believe we are special" 9) "We want to stop thinking about Love". So, yes, marriage is not something to take lightly. It's also a lot of work <em>after</em> the wedding.</comments>
+    <comments>"A good partnership is not so much one between two healthy people (there aren't many of these on the planet), it's one between two demented people who have had the skill or luck to find a non-threatening conscious accommodation between their relative insanities." The reasons exposed in the article: 1) "We don't understand ourselves" 2) "We don't understand other people" 3) "We aren't used to being happy" 4) "Being single is so awful" 5) "Instinct has too much prestige" 6) "We don't go to Schools of Love" 7) "We want to freeze happiness" 8) "We believe we are special" 9) "We want to stop thinking about Love". So, yes, marriage is not something to take lightly. It's also a lot of work <em>after</em> the wedding.</comments>
   </article>
   <article>
     <date>2017.07.22</date>
@@ -69,12 +74,12 @@
   </article>
   <article>
     <date>2017.07.14</date>
-    <title url="https://www.nytimes.com/2017/05/19/opinion/sunday/why-the-future-is-always-on-your-mind.html?nytmobile=0">We Aren’t Built to Live in the Moment</title>
-    <comments>"When making plans, they reported higher levels of happiness and lower levels of stress than at other times, presumably because planning turns a chaotic mass of concerns into an organized sequence. [...] While most people tend to be optimistic, those suffering from depression and anxiety have a bleak view of the future — and that in fact seems to be the chief cause of their problems, not their past traumas nor their view of the present. [...] The brain’s long-term memory has often been compared to an archive, but that’s not its primary purpose. Instead of faithfully recording the past, it keeps rewriting history. [...] Coaching of eyewitnesses can cause people to reconstruct their memory so that no trace of the original is left. [...] To exploit the past, we metabolize it by extracting and recombining relevant information to fit novel situations. [...] The main purpose of emotions is to guide future behavior and moral judgments, according to researchers in a new field called prospective psychology. Emotions enable you to empathize with others by predicting their reactions." So, to oversimplify: to be happy, be optimistic.</comments>
+    <title url="https://www.nytimes.com/2017/05/19/opinion/sunday/why-the-future-is-always-on-your-mind.html?nytmobile=0">We Aren't Built to Live in the Moment</title>
+    <comments>"When making plans, they reported higher levels of happiness and lower levels of stress than at other times, presumably because planning turns a chaotic mass of concerns into an organized sequence. [...] While most people tend to be optimistic, those suffering from depression and anxiety have a bleak view of the future — and that in fact seems to be the chief cause of their problems, not their past traumas nor their view of the present. [...] The brain's long-term memory has often been compared to an archive, but that's not its primary purpose. Instead of faithfully recording the past, it keeps rewriting history. [...] Coaching of eyewitnesses can cause people to reconstruct their memory so that no trace of the original is left. [...] To exploit the past, we metabolize it by extracting and recombining relevant information to fit novel situations. [...] The main purpose of emotions is to guide future behavior and moral judgments, according to researchers in a new field called prospective psychology. Emotions enable you to empathize with others by predicting their reactions." So, to oversimplify: to be happy, be optimistic.</comments>
   </article>
   <article>
     <date>2017.07.04</date>
-    <title url="https://www.brainpickings.org/2015/09/21/bertrand-russell-nobel-prize-acceptance-speech/">The Four Desires Driving All Human Behavior: Bertrand Russell’s Magnificent Nobel Prize Acceptance Speech</title>
+    <title url="https://www.brainpickings.org/2015/09/21/bertrand-russell-nobel-prize-acceptance-speech/">The Four Desires Driving All Human Behavior: Bertrand Russell's Magnificent Nobel Prize Acceptance Speech</title>
     <comments>The four desires: 1) acquisitiveness ("the wish to possess as much as possible of goods, or the title to goods") 2) rivalry 3) vanity 4) love of power. But love of power can also be a positive force. Secondary desires: 1) love of excitement (to escape boredom) 2) the need for physical activity (which is difficult to satisfy given the "sedentary nature of modern life").</comments>
   </article>
   <article>
@@ -100,7 +105,7 @@
   </article>
   <article>
     <date>2017.06.22</date>
-    <title url="http://neurosciencenews.com/atheism-growing-psychology-6694/">Atheism More Common Than Assumed, But It’s Complicated</title>
+    <title url="http://neurosciencenews.com/atheism-growing-psychology-6694/">Atheism More Common Than Assumed, But It's Complicated</title>
     <subtitle>Summary: New research suggests atheists may represent between 20-35 percent of the US popluation. Findings challenge prevailing theories that atheism is rare in the population.</subtitle>
     <comments>This reminds me of studies in experimental philosophy trying to determine if people believe in free will or not. Most people have probably never really thought about the question, so the results should be taken with a pinch of salt. But the idea that there are more atheists than people willing to admit, even anonymously, that they do not believe in God seems reasonable.</comments>
   </article>
