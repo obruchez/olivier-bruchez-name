@@ -3,12 +3,6 @@
   <introduction>A list of TV shows I saw.</introduction>
   <show>
     <date></date>
-    <name url="https://en.wikipedia.org/wiki/Bob's_Burgers">Bob's Burgers</name>
-    <series url="https://en.wikipedia.org/wiki/Bob%27s_Burgers_(season_4)" type="season">4</series>
-    <comments></comments>
-  </show>
-  <show>
-    <date></date>
     <name url="https://en.wikipedia.org/wiki/Episodes_%28TV_series%29">Episodes</name>
     <series url="https://en.wikipedia.org/wiki/List_of_Episodes_episodes#Season_5_.282017.29" type="series">5</series>
     <comments></comments>
@@ -17,12 +11,6 @@
     <date></date>
     <name url="https://en.wikipedia.org/wiki/Modern_Family">Modern Family</name>
     <series url="https://en.wikipedia.org/wiki/Modern_Family#Season_2" type="season">2</series>
-    <comments></comments>
-  </show>
-  <show>
-    <date></date>
-    <name url="https://en.wikipedia.org/wiki/Mr._Sunshine_(2011_TV_series)">Mr. Sunshine</name>
-    <series url="https://en.wikipedia.org/wiki/Mr._Sunshine_(2011_TV_series)#Episodes" type="season">1</series>
     <comments></comments>
   </show>
   <!--<show>
@@ -42,6 +30,12 @@
     <name url="https://en.wikipedia.org/wiki/Veep_(TV_series)">Veep</name>
     <series url="https://en.wikipedia.org/wiki/Veep_(TV_series)#Season_4" type="season">4</series>
     <comments></comments>
+  </show>
+  <show>
+    <date>2017.09.17</date>
+    <name url="https://en.wikipedia.org/wiki/Bob's_Burgers">Bob's Burgers</name>
+    <series url="https://en.wikipedia.org/wiki/Bob%27s_Burgers_(season_4)" type="season">4</series>
+    <comments>I haven't commented on the first three seasons, so I'll make my general comments here. <i>Bob's Burgers</i> is a kind of mix between a more edgy version of <i>The Simpsons</i> and a more family-friendly version of <i>South Park</i>. The voice acting is excellent and is a huge part of the show. At the moment, it's one of my favorite comedy animation shows.</comments>
   </show>
   <show>
     <date>2017.09.10</date>
