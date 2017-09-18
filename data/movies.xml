@@ -2,6 +2,16 @@
 <movies>
   <introduction>A list of movies I saw.</introduction>
   <movie>
+    <date>2017.09.18</date>
+    <theater home="true"/>
+    <director>Michael Curtiz</director>
+    <title>Casablanca</title>
+    <url>http://www.imdb.com/title/tt0034583/</url>
+    <rating>5.0</rating>
+    <comments>As I said for <i>Seven Samurai</i>, it's very hard to judge older movies and this is the case again for <i>Casablanca</i>. I can see the historical importance of that movie. I'm not shocked by the racism, sexism, and patriotism. I understand that it's a movie made in the early 1940s. I can understand why it had the success it had. It's a movie that doesn't have the level of sophistication that recent movies <em>can</em> have, but, at the same time, I was hooked from start to finish. The fact that it was filmed in a studio gives it a certain charm, too.</comments>
+    <image>Casablanca.jpg</image>
+  </movie>
+  <movie>
     <date>2017.09.17</date>
     <theater home="true"/>
     <director>Christopher Nolan</director>
