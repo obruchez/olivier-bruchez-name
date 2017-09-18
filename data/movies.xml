@@ -2,6 +2,16 @@
 <movies>
   <introduction>A list of movies I saw.</introduction>
   <movie>
+    <date>2017.09.17</date>
+    <theater home="true"/>
+    <director>Christopher Nolan</director>
+    <title>The Prestige</title>
+    <url>http://www.imdb.com/title/tt0482571/</url>
+    <rating>5.0</rating>
+    <comments>This is an excellent movie about magic, obsession, rivalry, death, identity, and, I guess, science (David Bowie as Tesla is very good). I always say that I like movies that I can watch multiple times better, so this would be my only complaint with this movie: once you've seen the multiple twists at the end, I think it loses some of its interest. And I don't want to brag, but I anticipated the final twist way before Nolan probably intended the audience to understand it, but that's because I'm obsessed with the philosophy of <a href="https://en.wikipedia.org/wiki/Personal_identity">personal identity</a> and related topics (<a href="https://en.wikipedia.org/wiki/Mind_uploading">mind uploading</a>, teleportation, etc.).</comments>
+    <image>The Prestige.jpg</image>
+  </movie>
+  <movie>
     <date>2017.08.11</date>
     <theater>Galeries, Lausanne</theater>
     <director>Edgar Wright</director>
