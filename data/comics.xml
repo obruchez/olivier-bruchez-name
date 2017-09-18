@@ -2,6 +2,16 @@
 <comics>
   <introduction>A list of comics I read.</introduction>
   <comic>
+    <date>2017.09.18</date>
+    <writer>Lewis Trondheim</writer>
+    <artist>Lewis Trondheim</artist>
+    <colorist>Brigitte Findakly</colorist>
+    <series url="https://fr.wikipedia.org/wiki/Les_Formidables_Aventures_de_Lapinot">Les Formidables Aventures de Lapinot</series>
+    <volume url="https://fr.wikipedia.org/wiki/L%27Acc%C3%A9l%C3%A9rateur_atomique" number="9">L'Accélérateur atomique</volume>
+    <comments>...</comments>
+    <image>Lapinot - L'Accélérateur atomique.jpg</image>
+  </comic>
+  <comic>
     <date>2017.09.09</date>
     <writer>Lewis Trondheim</writer>
     <artist>Lewis Trondheim</artist>
