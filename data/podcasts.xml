@@ -4,10 +4,15 @@
   <!-- @avernet's comments about Very Bad Wizard #123: http://avernet.blogspot.ch/2017/09/very-bad-wizards-discussion-on-iq-and.html -->
   <podcast>
     <date></date>
+    <name url="http://verybadwizards.com/">Very Bad Wizards</name>
+    <episode url="https://verybadwizards.fireside.fm/122" number="122">Nothing but a "G" Thing (Intelligence Pt. 1)</episode>
+    <comments>The first part about the paper on dogs' desires and fMRI was interesting, in that it shows that research using fMRI often leads to simplistic conclusions. What does it mean to desire something? Are we "allowed" to have conflicting desires? In such cases, what does "real desire" mean? What does it mean for a dog to desire something? Is fMRI more robust than simply observing the dog's behavior? Anyway, it's a good thing that we're starting to take our pets' preferences when deciding who gets to keep them in a divorce, for example.</comments>
+  </podcast>
+  <podcast>
+    <date>2017.09.20</date>
     <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
     <episode url="https://www.samharris.org/podcast/item/the-nature-of-consciousness" number="96">The Nature of Consciousness - A Conversation with Thomas Metzinger</episode>
-    <comments></comments>
-    <!-- existence bias -->
+    <comments>A great discussion about consciousness, meditation, the self, etc. The existence bias mentioned by Metzinger is a useful concept (from an ethical point of view). I think I had never encountered it before. From Reddit: "existence bias is the tendency that conscious creatures have toward both continuing to live themselves and continuing the species in the future". From another comment (about Metzinger's thought experiment): "a god-like super-intelligence with perfect ethics and a perfect allignment of values with our own, determines that non-existence is ethically and even subjectively preferable to existence and [...] our own evolved bias towards continued conscious states is an illusion". I don't think I would completely agree with Metzinger about death and technology/AI, but another podcast would be needed for him to better explain his position. I agree with him that we should accept the reality of death more (this is the main idea in <a href="http://olivier.bruchez.name/books#2017-02-08"><i>Life in Light of Death</i></a> by James A. Lindsay), but I also agree with Yuval Noah Harari, who explains in <a href="http://olivier.bruchez.name/books#2017-08-26"><i>Homo Deus</i></a> that technology will eventually allow us to become gods. I agree that atheism (and "New Atheism" in particular) is somewhat shallow and that more is needed (a new kind of secular "spirituality" - see <a href="http://olivier.bruchez.name/books#2014-09-27"><i>Waking Up</i></a> by Sam Harris). The same thing can be said of some skeptics communities online. I don't know if Metzinger is correct to say that the <a href="https://en.wikipedia.org/wiki/Hard_problem_of_consciousness">hard problem of consciousness</a> is maybe not that worthy of our attention. But I'm glad that people as clever as him are still studying consciousness seriously. We need a model of consciousness to have better, more universal ethical theories.</comments>
   </podcast>
   <podcast>
     <date>2017.09.15</date>
