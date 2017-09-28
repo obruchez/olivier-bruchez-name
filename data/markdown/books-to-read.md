@@ -78,6 +78,7 @@ Pretty much everything from [Les cent livres du siècle](https://fr.wikipedia.or
 * Ronald Findlay, ["Power and Plenty: Trade, War, and the World Economy in the Second Millennium (Princeton Economic History of the Western World)"](http://www.amazon.com/Power-Plenty-Millennium-Princeton-Economic-ebook/dp/B003SNJEPS/) (recommended by Christoph G.)
 * Milton Friedman & Rose Friedman, ["Free to Choose"](https://en.wikipedia.org/wiki/Free_to_Choose) (recommended by [@avernet](https://twitter.com/avernet))
 * Thomas Piketty, ["Le Capital au XXIe siècle"](http://www.amazon.fr/Le-Capital-au-XXIe-si%C3%A8cle-ebook/dp/B00EYCOV3M/) (long book - 970 pages -, recommended by [@danielmiessler](https://twitter.com/danielmiessler))
+* Nassim Nicholas Taleb, ["Antifragile: Things that Gain from Disorder"](https://www.amazon.com/Antifragile-Things-that-Gain-Disorder-ebook/dp/B009K6DKTS/)
 * Charles Wheelan, ["Naked Economics: Undressing the Dismal Science"](https://www.amazon.com/Naked-Economics-Undressing-Science-Revised-ebook/dp/B003NX6TYC) (recommended by [@danielmiessler](https://twitter.com/danielmiessler))
 
 ## Education
@@ -171,7 +172,6 @@ Pretty much everything from [Les cent livres du siècle](https://fr.wikipedia.or
 ## Music
 
 * Frank Alkyer, ["The Miles Davis Reader"](https://encrypted.google.com/books/about/The_Miles_Davis_Reader.html?id=Dx2Ty5xVg04C)
-* Peter Elsdon, ["The Köln Concert"](https://encrypted.google.com/books/about/Keith_Jarrett_s_The_Koln_Concert.html?id=HdO7iH2Sz6IC) (received from Peter Elsdon)
 
 ## Parenthood
 
@@ -283,6 +283,7 @@ Pretty much everything from [Les cent livres du siècle](https://fr.wikipedia.or
 * Caroline Fourest, ["Le choc des préjugés : L'impasse des postures sécuritaires et victimaires"](http://www.amazon.fr/choc-pr%C3%A9jug%C3%A9s-Limpasse-s%C3%A9curitaires-victimaires/dp/2702135331/) (recommended by [@ArianeBeldi](https://twitter.com/ArianeBeldi))
 * Normand Baillargeon, ["Petit cours d'autodéfense intellectuelle"](http://www.amazon.com/petit-dautod%C3%A9fense-intellectuelle-Normand-Baillargeon/dp/2895960445)
 * Thomas Friedman, ["The World Is Flat: A Brief History of the Twenty-First Century"](https://en.wikipedia.org/wiki/The_World_Is_Flat)
+* Eric Hoffer, ["The True Believer: Thoughts on the Nature of Mass Movements"](https://www.amazon.com/True-Believer-Thoughts-Movements-Perennial-ebook/dp/B003TO5838)
 * A. des Isnards & T. Zuber, ["L'Open Space m'a tuer"](http://www.amazon.fr/LOpen-space-tuer-Alexandre-ISNARDS/dp/2266258095)
 * Johan Norberg, ["Progress: Ten Reasons to Look Forward to the Future"](https://www.amazon.com/Progress-Reasons-Look-Forward-Future-ebook/dp/B01C9O36UK)
 
