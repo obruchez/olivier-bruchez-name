@@ -2,6 +2,16 @@
 <comics>
   <introduction>A list of comics I read.</introduction>
   <comic>
+    <date>2017.09.28</date>
+    <writer>Lewis Trondheim</writer>
+    <artist>Lewis Trondheim</artist>
+    <colorist>Brigitte Findakly</colorist>
+    <series url="https://fr.wikipedia.org/wiki/Les_Formidables_Aventures_de_Lapinot#Les_Formidables_Aventures_sans_Lapinot">Les Formidables Aventures sans Lapinot</series>
+    <volume url="http://www.dargaud.com/bd/Lapinot/Formidables-aventures-sans-Lapinot-Les/Formidables-aventures-sans-Lapinot-Les-tome-1-Aventures-de-l-Univers-Les" number="1">Les Aventures de l'univers</volume>
+    <comments>La vie à la campagne, les enfants, le sport, l'actualité, le capitalisme, le travail, les vacances, la technologie, la société. Bref, la vie et l'univers. Tout y passe, avec sérieux et légèreté en même temps. Sans prétention.</comments>
+    <image>Les Aventures de l'univers.jpg</image>
+  </comic>
+  <comic>
     <date>2017.09.18</date>
     <writer>Lewis Trondheim</writer>
     <artist>Lewis Trondheim</artist>
