@@ -125,7 +125,7 @@
     <date>2017.01.15</date>
     <name url="https://en.wikipedia.org/wiki/Black_Mirror">Black Mirror</name>
     <series url="https://en.wikipedia.org/wiki/List_of_Black_Mirror_episodes#Series_1_.282011.29" type="series">1</series>
-    <comments>Excellent, troubling show. Only three episodes in the first series. <a hef="https://en.wikipedia.org/wiki/The_Entire_History_of_You">"The Entire History of You"</a> was particularly thought-provoking.</comments>
+    <comments>Excellent, troubling show. Only three episodes in the first series. <a href="https://en.wikipedia.org/wiki/The_Entire_History_of_You">"The Entire History of You"</a> was particularly thought-provoking.</comments>
   </show>
   <show>
     <date>2017.01.06</date>
