@@ -1,12 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <podcasts>
   <introduction>A list of podcasts I listened to.</introduction>
-  <!-- @avernet's comments about Very Bad Wizard #123: http://avernet.blogspot.ch/2017/09/very-bad-wizards-discussion-on-iq-and.html -->
   <podcast>
     <date></date>
     <name url="http://verybadwizards.com/">Very Bad Wizards</name>
-    <episode url="https://verybadwizards.fireside.fm/123" number="123">What Chilling Effect? (Intelligence Pt. 2)</episode>
+    <episode url="https://verybadwizards.fireside.fm/124" number="124">Dr. Strawson or: How I Learned to Stop Worrying and Love the Episodic Life</episode>
     <comments></comments>
+  </podcast>
+  <podcast>
+    <date>2017.09.30</date>
+    <name url="http://verybadwizards.com/">Very Bad Wizards</name>
+    <episode url="https://verybadwizards.fireside.fm/123" number="123">What Chilling Effect? (Intelligence Pt. 2)</episode>
+    <comments>Race is a fuzzy term. It doesn't correlate exactly with biological features. Sometimes it correlates more with cultural features. Sometimes, it's not clear which "race" (or, more exactly, ethnicity) you should belong to (e.g. latin vs black). For studies about intelligence, the race that is used is the self-reported race. Which means that it will sometimes include ethnicity or other more cultural concepts. Also, the obvious biological features we use to determine the race of a person (color of the skin, shape of the mouth, nose or eyes, hair color and texture, etc.) are just a small subset of the biological features we could actually use. So, that's one problem. Then, the scientific evidence shows that there are significant differences in mean IQ between races. This is a very sensitive topic. The question is: do those differences come from genetic differences or from environmental differences? If I understand correctly, this is an open question. David thinks that this is highly unlikely those differences come from genetic differences, because it is completely unlikely that the genes that encode visible differences that are clustered into races would be the same genes that influence intelligence. I'm not sure I understand his argument correctly, but I'm not convinced. Quoting a <a href="https://www.facebook.com/VeryBadWizards/posts/1453227258096237?comment_id=1453986454686984">comment on Facebook</a>: "If you have a stable population for many generations, you should expect them to exhibit many internal similarities relative to other populations." So, in other words and if I understand correctly, is there a third (still genetic) variable to explain the correlation between race and IQ? Alessandro Vernet also wrote <a href="http://avernet.blogspot.ch/2017/09/very-bad-wizards-discussion-on-iq-and.html">a post on why he found David's argument unconvincing</a>. So the question remains, I think: is the race/IQ correlation explained by genetic or environmental differences (or both)?</comments>
   </podcast>
   <podcast>
     <date>2017.09.26</date>
