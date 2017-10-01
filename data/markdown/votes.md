@@ -6,7 +6,7 @@ My votes (in French). En Suisse, on ne plaisante pas avec la démocratie directe
 
 ### Acceptez-vous l’arrêté fédéral du 14 mars 2017 sur la sécurité alimentaire ?
 
-Oui. Résultat : ? (??.?%).
+Oui. Résultat : oui (78.7%).
 
 - Il semblerait que ce soit un projet très peu controversé.
 - Il ne considère pas la Suisse comme un îlot isolé et n'insiste pas trop sur le côté "indigène" mis en avant par l'initiative retirée.
@@ -14,11 +14,11 @@ Oui. Résultat : ? (??.?%).
 
 ### Acceptez-vous l’arrêté fédéral du 17 mars 2017 sur le financement additionnel de l’AVS par le biais d’un relèvement de la taxe sur la valeur ajoutée ?
 
-Oui. Résultat : ? (??.?%).
+Oui. Résultat : non (50.0%).
 
 ### Acceptez-vous la loi fédérale du 17 mars 2017 sur la réforme de la prévoyance vieillesse 2020 ?
 
-Oui. Résultat : ? (??.?%).
+Oui. Résultat : non (52.7%).
 
 - Il s'agit d'un objet très controversé.
 - On est encore loin de quelque chose de visionnaire, mais néanmoins indispensable, tel qu'un revenu de base inconditionnel (voir mon avis ici : [ici](http://olivier.bruchez.name/worldview#revenu-de-base)).
