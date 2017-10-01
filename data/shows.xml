@@ -21,15 +21,15 @@
   </show>-->
   <show>
     <date></date>
-    <name url="https://en.wikipedia.org/wiki/Twin_Peak">Twin Peaks</name>
-    <series url="https://en.wikipedia.org/wiki/Twin_Peaks_(2017_TV_series)" type="season">3</series>
-    <comments></comments>
-  </show>
-  <show>
-    <date></date>
     <name url="https://en.wikipedia.org/wiki/Veep_(TV_series)">Veep</name>
     <series url="https://en.wikipedia.org/wiki/Veep_(TV_series)#Season_4" type="season">4</series>
     <comments></comments>
+  </show>
+  <show>
+    <date>2017.09.30</date>
+    <name url="https://en.wikipedia.org/wiki/Twin_Peak">Twin Peaks</name>
+    <series url="https://en.wikipedia.org/wiki/Twin_Peaks_(2017_TV_series)" type="season">3</series>
+    <comments>This is simply the most fantastic "TV show" I've seen in a long time. I use quotes, because this is actually like an 18-hour movie. Pure David Lynch from start to finish. Entire books could be written about this season and about some of the episodes in particular (<a href="https://en.wikipedia.org/wiki/Part_8_(Twin_Peaks)">"Part 8"</a> is a mini-movie in itself).</comments>
   </show>
   <show>
     <date>2017.09.17</date>
