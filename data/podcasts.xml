@@ -2,6 +2,18 @@
 <podcasts>
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date></date>
+    <name url="http://verybadwizards.com/">Very Bad Wizards</name>
+    <episode url="https://verybadwizards.fireside.fm/42" number="42">Reason, Responsibility, and Roombas (With Paul Bloom)</episode>
+    <comments>It's interesting to think about our intuitions about teleportation, identity, and death. The movie <a href="https://en.wikipedia.org/wiki/The_Prestige_(film)"><i>The Prestige</i></a> is illuminating in that respect. I agree that <a href="http://existentialcomics.com/comic/1">a teleporter is basically a suicide machine</a>. It doesn't matter if the reconstructed person at the other end of the teleporter says he's me. It could be an entirely different person; my intuitions shouldn't change. I agree with that. I've always wondered what this means for mind uploading. The logical conclusion seems to be that mind uploading is impossible (it would be another kind of suicide machine, after all). But, at the same time, this all sounds too dualist to me. I don't know how to completely reconcile the suicide machine intuition with the materialist view of the mind (i.e. we don't have a soul).</comments>
+  </podcast>
+  <podcast>
+    <date>2017.10.03</date>
+    <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
+    <episode url="https://www.samharris.org/podcast/item/into-the-dark-land" number="98">Into the Dark Land - A Conversation with Siddhartha Mukherjee</episode>
+    <comments>The way a doctor communicates a diagnosis to a patient is very important, especially when it comes to cancer. He has to be understanding, but not too empathic (really empathic or faking empathy, both are bad). He also has the very difficult task of explaining the statistics. Where the patient is located on a bell curve and why, etc. Other than that, I don't know what to retain from this episode. Statistically speaking, a lot of people around me will get cancer. I will maybe get cancer. This is depressing. And we still don't know how to treat it efficiently even though we know a lot more about cancer than we did only 20 years ago (thanks to genome sequencing).</comments>
+  </podcast>
+  <podcast>
     <date>2017.10.02</date>
     <name url="http://verybadwizards.com/">Very Bad Wizards</name>
     <episode url="https://verybadwizards.fireside.fm/124" number="124">Dr. Strawson or: How I Learned to Stop Worrying and Love the Episodic Life</episode>
