@@ -3,11 +3,20 @@
 <exhibitions>
     <introduction>A list of exhibitions I visited.</introduction>
     <exhibition>
+        <date>2017.10.05</date>
+        <name>Chefs-d'oeuvre de la collection Bührle - Manet, Cézanne, Monet, Van Gogh...</name>
+        <museum>Fondation de l’Hermitage, Lausanne, Switzerland</museum>
+        <rating>4.5</rating>
+        <comments>A lot of well-known painters. A lot of good paintings. A couple of excellent ones (Van Gogh's "Semeur, soleil couchant", among others).</comments>
+        <image>Chefs-d'oeuvre de la collection Bührle - Manet, Cézanne, Monet, Van Gogh.jpg</image>
+    </exhibition>
+    <exhibition>
         <date>2017.09.17</date>
         <name>Claudio Moser - I come from the other side</name>
         <museum>Musée de Bagnes, Le Châble, Switzerland</museum>
         <rating>3.0</rating>
         <comments>Exhibition located a the top of the Mauvoisin Dam. Let's just say that I'm not a fan and that I regularly said to myself: "Hey, I could have taken that photograph." It's not bad, though.</comments>
+        <image>Claudio Moser - I come from the other side.jpg</image>
         <!-- <pictures url=""/> -->
     </exhibition>
     <exhibition>
