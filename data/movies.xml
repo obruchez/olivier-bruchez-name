@@ -2,6 +2,16 @@
 <movies>
   <introduction>A list of movies I saw.</introduction>
   <movie>
+    <date>2017.10.05</date>
+    <theater home="true"/>
+    <director>David Lynch</director>
+    <title>Twin Peaks: The Missing Pieces</title>
+    <url>http://www.imdb.com/title/tt5334704/</url>
+    <rating>4.0</rating>
+    <comments>I'm a huge fan of the third season of <i>Twin Peaks</i>, which I finished watching last week. I also watched <i>Twin Peaks: Fire Walk With Me</i> (13 years ago) and the first two seasons of the show (6 years ago), which I also enjoyed. I'm not sure <i>Twin Peaks: The Missing Pieces</i> is completely consistent. It's a whole movie made out of deleted scenes, after all. So it's good to go back to the Twin Peaks universe, but, at the same time, it makes the fact that the third season of the show is the best of all the movies/seasons even more obvious.</comments>
+    <image>Twin Peaks - The Missing Pieces.jpg</image>
+  </movie>
+  <movie>
     <date>2017.09.18</date>
     <theater home="true"/>
     <director>Michael Curtiz</director>
