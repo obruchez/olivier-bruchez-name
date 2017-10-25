@@ -2,6 +2,16 @@
 <movies>
   <introduction>A list of movies I saw.</introduction>
   <movie>
+    <date>2017.10.25</date>
+    <theater home="true"/>
+    <director>Jon Nguyen &amp; Rick Barnes</director>
+    <title>David Lynch: The Art Life</title>
+    <url>http://www.imdb.com/title/tt1691152/</url>
+    <rating>4.25</rating>
+    <comments>Almost 90 minutes of David Lynch filmed while painting and telling stories about his life up to <i>Eraserhead</i>. Kind of meditative. I wasn't aware that Lynch painted so much.</comments>
+    <image>David Lynch - The Art Life.jpg</image>
+  </movie>
+  <movie>
     <date>2017.10.05</date>
     <theater home="true"/>
     <director>David Lynch</director>
