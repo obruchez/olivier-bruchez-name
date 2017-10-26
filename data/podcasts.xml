@@ -3,9 +3,21 @@
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
     <date></date>
+    <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
+    <episode url="https://www.samharris.org/podcast/item/facing-the-crowd" number="100">Facing the Crowd - A Conversation with Nicholas Christakis</episode>
+    <comments>I've always thought that, as human beings, we have more in common than not. More than that, we have a lot in common with non-human animals and even plants! I don't like it when people say or imply that I can't understand them, because I haven't had the same life path as them. It doesn't make sense.</comments>
+  </podcast>
+  <podcast>
+    <date>2017.10.25</date>
+    <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
+    <episode url="https://www.samharris.org/podcast/item/the-after-on-interview">The "After On" Interview - A Conversation with Rob Reid</episode>
+    <comments>An excellent interview! Many topics were covered. Like someone said on <a href="https://www.reddit.com/r/samharris/comments/74lbzk/the_after_on_interview/">Reddit</a>, this was like a "greatest hits". If someone needs to be introduced to Sam Harris, this is an excellent starting point. The part about Sam "dropping out" of college and then going back to school was something I had not heard in such detail before. I'm not sure I agree with Sam about phones and encryption. I understand his point of view, but he seems to underestimate the dangers of introducing any backdoor in an encryption mechanism.</comments>
+  </podcast>
+  <podcast>
+    <date>2017.10.06</date>
     <name url="http://verybadwizards.com/">Very Bad Wizards</name>
     <episode url="https://verybadwizards.fireside.fm/44" number="44">Killer Robots</episode>
-    <comments></comments>
+    <comments>I'm convinced that we will be able to create perfectly moral AI agents. Conscious or not, they will be able to replicate or simulate the effects of emotions, if needed. Now I'm not sure I'm convinced that any country would really want to "play nice" during an armed conflict. Yes, I'm aware of the Geneva Conventions, but I'm not sure the concept of <em>ethical war</em> really makes sense... The idea of simulating a war (instead of actually, physically going to war) is intriguing, but, ultimately, could only work in a context where countries have become mature to realize that war is useless. Isn't that what sports are about, anyway?</comments>
   </podcast>
   <podcast>
     <date>2017.10.05</date>
