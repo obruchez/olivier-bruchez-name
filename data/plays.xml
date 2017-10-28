@@ -9,6 +9,32 @@
     <actor></actor>
   -->
   <play>
+    <date>2017.10.27</date>
+    <location>Pulloff Théâtres, Lausanne, Switzerland</location>
+    <name>En découdre</name>
+    <author>Luc Tartar</author>
+    <director>François Marin</director>
+    <actor>Barbara Tobola</actor>
+    <actor>Caroline Imhof</actor>
+    <actor>Mali Van Valenberg</actor>
+    <actor>Simon Bonvin</actor>
+    <actor>Marc Mayoraz</actor>
+    <rating>4.5</rating>
+    <comments>Un sujet étonnant et difficile (la schizophrénie), mais une belle prestation de la part des cinq comédiens. J'ai bien aimé la forme poétique du texte.</comments>
+    <image>En découdre.png</image>
+    <!--
+    scénographie : Elissa Bier
+    création lumières : William Lambert
+    costumes : Scilla Illardo
+    son : Jérémy Conne
+    régie générale : Estelle Becker
+    construction décor: Frédéric Baudoin
+    régie plateau : Léo Piccirelli
+    administration : Claire Félix
+    exposition : Eugenia Poblete
+    -->
+  </play>
+  <play>
     <date>2017.06.17</date>
     <location>Casino Théâtre, Rolle, Switzerland</location>
     <name>Toc Toc</name>
@@ -23,7 +49,7 @@
     <actor>Gilles Stuby</actor>
     <rating>4.75</rating>
     <comments>Une comédie réussie. Comme on peut l'attendre de la part de Laurent Baffie, c'est un peu vulgaire, mais pas forcément gratuitement. Est-ce particulièrement moral ou intelligent de se moquer de gens ayant des troubles obsessionnels compulsifs (TOC) ou souffrant du syndrome de Gilles de La Tourette ? Si c'est fait avec tendresse et un message positif (presque sirupeux), de tolérance, comme c'est le cas ici, alors, oui, pourquoi pas ? L'utilisation d'un personnage souffrant du syndrome de Gilles de La Tourette me rappelle la série <a href="https://en.wikipedia.org/wiki/Horace_and_Pete"><i>Horace and Pete</i></a>, très touchante et nettement moins comique.</comments>
-    <image></image>
+    <image>Toc Toc.jpg</image>
   </play>
   <play>
     <date>2017.05.19</date>
