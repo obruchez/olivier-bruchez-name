@@ -2,6 +2,12 @@
 <podcasts>
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date></date>
+    <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
+    <episode url="https://www.samharris.org/podcast/item/defending-the-republic" number="101">Defending the Republic - A Conversation with Cass R. Sunstein</episode>
+    <comments></comments>
+  </podcast>
+  <podcast>
     <date>2017.10.30</date>
     <name url="http://peachandblack.podbean.com/">Peach &amp; Black Podcast</name>
     <episode url="http://peachandblack.podbean.com/e/the-family-review-1508819583/">The Family - Album Review</episode>
