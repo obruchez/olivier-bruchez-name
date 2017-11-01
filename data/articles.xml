@@ -2,6 +2,21 @@
 <articles>
   <introduction>A list of articles I read.</introduction>
   <article>
+    <date>2017.11.01</date>
+    <title url="https://medium.com/@evidanary/cognitive-biases-in-programming-5e937707c27b">Cognitive Biases in Programming</title>
+    <comments>Hyperbolic discounting: "Going for an immediate payoff instead of a delayed larger one". IKEA effect: "Overvaluing your own solutions to a problem, and thus in contrast undervalue other solutions". Premature optimization: "Optimizing before you know that you need to". Planning fallacy: "Optimistically underestimating the time required to complete a task". Recency bias: "Placing higher value on recent events than ones that occurred further in the past".</comments>
+  </article> 
+  <article>
+    <date>2017.11.01</date>
+    <title url="https://www.wired.com/story/wikipedias-fate-shows-how-the-web-endangers-knowledge/"></title>
+    <comments>"That trend toward rationality and enlightenment was endangered long before the advent of the Internet. As Neil Postman noted in his 1985 book Amusing Ourselves to Death, the rise of television introduced not just a new medium but a new discourse: a gradual shift from a typographic culture to a photographic one, which in turn meant a shift from rationality to emotions, exposition to entertainment. [...] For more than a decade, the web created an alternative space that threatened television's grip on society. Social networks, though, have since colonized the web for television's values."</comments>
+  </article> 
+  <article>
+    <date>2017.11.01</date>
+    <title url="https://www.nytimes.com/2017/10/19/smarter-living/simple-ways-to-be-better-at-remembering.html?nytmobile=0">Simple Ways to Be Better at Remembering</title>
+    <comments>"Everything is available through a Google search almost instantaneously [...] this instant-fact setup clouds our judgment on what information to filter and store. [...] As simple as it sounds, the repetition of tasks — reading, or saying words over and over — continues to be the best method for transforming short-term memories into long-term ones. [...] Spaced repetition might be the best way. [...] Memory and focus go hand-in-hand. [...] Stop engaging in useless tasks like surfing the web and just tackle whatever it is you need to work on. Then watch your focus soar and your memory improve. [...] A simple way around that is to set reminders. [...] A lot of people are overconfident that they can handle distractions."</comments>
+  </article> 
+  <article>
     <date>2017.10.26</date>
     <title url="https://qz.com/714987/what-you-read-matters-more-than-you-might-think/">What you read matters more than you might think</title>
     <comments>Deep reading (books, etc.) is not the same as light reading (short blog posts, etc.). "Deep reading activates our brain's centers for speech, vision, and hearing, all of which work together to help us speak, read, and write. [...] When volunteers read their favorite poems, areas of the brain associated with memory were stimulated more strongly than "reading areas," indicating that reading poems you love is the kind of recollection that evokes strong emotions—and strong emotions are always good for creative writing. [...] [T]hese results showed that reading literary fiction temporarily enhances theory of mind, and, more broadly, that theory of mind may be influenced greater by engagement with true works of art. [...] Time spent watching television is almost always pointless."</comments>
@@ -15,7 +30,7 @@
   <article>
     <date>2017.09.28</date>
     <title url="http://www.bbc.com/future/story/20170828-the-amazing-fertility-of-the-older-mind">The amazing fertility of the older mind</title>
-    <subtitle>It’s never too late to learn – if you go about it in the right way.</subtitle>
+    <subtitle>It's never too late to learn – if you go about it in the right way.</subtitle>
     <comments>So, yes, it's apparently never too late to learn new things, even if our abilities go down with age. "[T]he brain boost of taking up a new hobby may trump so-called "brain training" computer games and apps, with study after study finding that these programs fail to bring about meaningful benefits in real life."</comments>
   </article>
   <article>
