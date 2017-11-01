@@ -172,6 +172,7 @@ Pretty much everything from [Les cent livres du siècle](https://fr.wikipedia.or
 ## Music
 
 * Frank Alkyer, ["The Miles Davis Reader"](https://encrypted.google.com/books/about/The_Miles_Davis_Reader.html?id=Dx2Ty5xVg04C)
+* Jan Swafford, ["Language of the Spirit: An Introduction to Classical Music"](https://www.amazon.com/Language-Spirit-Introduction-Classical-Music/dp/0465097545/) (looks like a good introduction to classical music)
 
 ## Parenthood
 
