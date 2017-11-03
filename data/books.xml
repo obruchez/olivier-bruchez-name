@@ -2,6 +2,41 @@
 <books>
     <introduction>A list of books I read.</introduction>
     <book>
+        <date></date>
+        <title>The Theoretical Minimum</title>
+        <subtitle>What You Need to Know to Start Doing Physics</subtitle>
+        <author>Leonard Susskind &amp; George Hrabovsky</author>
+        <publishingyear>2013</publishingyear>
+        <rating></rating>
+        <url>https://en.wikipedia.org/wiki/The_Theoretical_Minimum</url>
+        <!-- <notes description="Kindle highlights"></notes> -->
+        <comments></comments>
+        <image>The Theoretical Minimum.jpg</image>
+    </book>
+    <book>
+        <date></date>
+        <title>Paroles</title>
+        <author>Jacques Prévert</author>
+        <publishingyear>1946</publishingyear>
+        <rating></rating>
+        <url>https://fr.wikipedia.org/wiki/Paroles_(Pr%C3%A9vert)</url>
+        <!-- <notes description="Kindle highlights"></notes> -->
+        <comments></comments>
+        <image>Paroles.jpg</image>
+    </book>
+    <book>
+        <date>2017.10.12</date>
+        <title>What If?</title>
+        <subtitle>Serious Scientific Answers to Absurd Hypothetical Questions</subtitle>
+        <author>Randall Munroe</author>
+        <publishingyear>2014</publishingyear>
+        <rating>4.5</rating>
+        <url>https://en.wikipedia.org/wiki/What_If%3F:_Serious_Scientific_Answers_to_Absurd_Hypothetical_Questions</url>
+        <!-- <notes description="Kindle highlights"></notes> -->
+        <comments>Not a bad book, but I must admit that, after a while, the concept (explained in the subtitle - "serious scientific answers to absurd hypothetical questions") gets a bit repetitive. But, yes, some parts were funny and I even learnt some things (and already forgot many things!).</comments>
+        <image>What If.jpg</image>
+    </book>
+    <book>
         <date>2017.09.14</date>
         <title>Keith Jarrett's The Köln Concert</title>
         <subtitle></subtitle>
