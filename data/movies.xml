@@ -2,6 +2,16 @@
 <movies>
   <introduction>A list of movies I saw.</introduction>
   <movie>
+    <date>2017.11.03</date>
+    <theater home="true"/>
+    <director>Alfred Hitchcock</director>
+    <title>Psycho</title>
+    <url>http://www.imdb.com/title/tt0054215/</url>
+    <rating>5.0</rating>
+    <comments>A classic, straightforward "horror" movie. I must have seen it once about 20-25 years ago. I remembered most of the story, but seeing it again after all this time was still an enjoyable experience. Everything in this movie is very well made. The music, in particular, has an important role. The only thing that I found a bit over the top was the scene at the end, with the psychiatrist explaining what happened. I guess this part could have been a bit more subtle.</comments>
+    <image>Psycho.jpg</image>
+  </movie>
+  <movie>
     <date>2017.10.25</date>
     <theater home="true"/>
     <director>Jon Nguyen &amp; Rick Barnes</director>
