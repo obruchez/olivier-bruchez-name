@@ -2,6 +2,12 @@
 <articles>
   <introduction>A list of articles I read.</introduction>
   <article>
+    <date>2017.11.03</date>
+    <title url="https://elth.co/sedentary-lifestyle-killing/">How Your Sedentary Lifestyle is Killing You</title>
+    <subtitle>Desk jobs got us tied to our chairs all day long. Sitting down too much and having very less activity is doing more harm to your body than you can possibly imagine.</subtitle>
+    <comments>So sitting at your desk: 1) "makes you fat" 2) "increases your chances of having a heart attack" 3) "reduces your brain’s performance". The solution? Move/exercise as much as possible.</comments>
+  </article>
+  <article>
     <date>2017.11.01</date>
     <title url="https://medium.com/@evidanary/cognitive-biases-in-programming-5e937707c27b">Cognitive Biases in Programming</title>
     <comments>Hyperbolic discounting: "Going for an immediate payoff instead of a delayed larger one". IKEA effect: "Overvaluing your own solutions to a problem, and thus in contrast undervalue other solutions". Premature optimization: "Optimizing before you know that you need to". Planning fallacy: "Optimistically underestimating the time required to complete a task". Recency bias: "Placing higher value on recent events than ones that occurred further in the past".</comments>
