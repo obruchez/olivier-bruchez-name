@@ -2,6 +2,16 @@
 <movies>
   <introduction>A list of movies I saw.</introduction>
   <movie>
+    <date>2017.11.04</date>
+    <theater home="true"/>
+    <director>Martin Scorsese</director>
+    <title>The Departed</title>
+    <url>http://www.imdb.com/title/tt0407887/</url>
+    <rating>4.25</rating>
+    <comments>I think I'm slowly beginning to realize that I simply don't like Martin Scorsese. There's nothing wrong with <i>The Departed</i>. It's technically a good movie. It's just that I don't care at all for the characters and the story. It's yet another gangster movie and I don't like that genre. I'm usually a huge fan of Jack Nicholson, though, but, here, it just doesn't work for me.</comments>
+    <image>The Departed.jpg</image>
+  </movie>
+  <movie>
     <date>2017.11.03</date>
     <theater home="true"/>
     <director>Alfred Hitchcock</director>
