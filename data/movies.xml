@@ -32,6 +32,16 @@
     <image>David Lynch - The Art Life.jpg</image>
   </movie>
   <movie>
+    <date>2017.10.07</date>
+    <theater>Flight UA 953, United Airlines</theater>
+    <director>Steven Spielberg</director>
+    <title>Close Encounters of the Third Kind</title>
+    <url>http://www.imdb.com/title/tt0075860/</url>
+    <rating>4.75</rating>
+    <comments>"This means something. It's important." It has always been hard for me to judge science fiction movies. The special effects are not too bad, even 40 years later. Seeing all this old technology (fixed phones, CB radios, paper maps, etc.) can be funny at times, but it's not distracting. The story takes place in the 70s, after all. The presence of François Truffaut is a bit weird. What does a French movie director do in a Steven Spielberg movie? But it also gives the movie a certain charm. Overall, I liked the poetic tone of the movie (the repeated music pattern, the symbolism of the mountain, etc.). The theme of language and interspecies communication has been treated in a more scientific and satisfying way in <i>Arrival</i>, for example, but Spielberg's take on this theme is still good, I think.</comments>
+    <image>Close Encounters of the Third Kind.jpg</image>
+  </movie>
+  <movie>
     <date>2017.10.05</date>
     <theater home="true"/>
     <director>David Lynch</director>
