@@ -3,6 +3,11 @@
   <introduction>A list of articles I read.</introduction>
   <article>
     <date>2017.11.08</date>
+    <title url="https://www.wired.com/story/googles-ai-wizard-unveils-a-new-twist-on-neural-networks/">Google's AI Wizard Unveils a New Twist on Neural Networks</title>
+    <comments>I don't understand this "capsule" concept (yet), but the idea that, after all those years, Geoffrey Hinton can still come up with new ideas, that would potentially fix the "big data" problem (i.e. the fact that current approaches in machine learning need a lot of data to work well) is exciting.</comments>
+  </article>
+  <article>
+    <date>2017.11.08</date>
     <title url="https://stratechery.com/2017/apple-at-its-best/">Apple at its best</title>
     <comments>"What is fascinating to consider is just how far might Apple go if it decided to do nothing but hardware and its associated software: if Google Assistant could be the iPhone default, why would any iPhone user even give a second thought to Android?" I'm currently an iPhone user, using a lot of Google apps on iOS (Gmail, Chrome, Maps, Calendar, Drive, Docs, etc.), so this is an intriguing thought. Ten years ago, Apple was way ahead in the game (for smartphones), but it's not the case anymore, and it's also difficult to see how Apple can get as good as Google in the Artificial Intelligence (AI) field.</comments>
   </article>
