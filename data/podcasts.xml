@@ -2,6 +2,12 @@
 <podcasts>
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date>2017.11.10</date>
+    <name url="http://verybadwizards.com/">Very Bad Wizards</name>
+    <episode url="https://verybadwizards.fireside.fm/126" number="126">The Absurd</episode>
+    <comments>The moral dilemmas at the beginning were fun. People have very different moral intuitions. As often, I tend to agree more with David. I would also pay $100 to make my next child more intelligent (by one standard deviation), but I'm ready to bet that a lot of people I know would be against it. Another proof that appeal to nature is hard to escape, I guess. The case of the anti-gay baker was definitely not a "no-brainer" for me. Absurdism is a topic I'm highly interested in. I read <i>Le Mythe de Sisyphe</i> by Camus in 2013. Like David (again), I tend to be regularly depressed when realizing the absurdity of life (i.e. the absence of "ultimate" meaning in life). Some people find it easy to not think too much about it. Or have commited a philosophical suicide (to use a terminology introduced by Camus) by embracing religions. Not me. I liked the interpretation that "nothing is important" can be depressing, but it can also help us overcome arguments and put our problem in perspective.</comments>
+  </podcast>
+  <podcast>
     <date>2017.11.08</date>
     <name url="http://verybadwizards.com/">Very Bad Wizards</name>
     <episode url="https://verybadwizards.fireside.fm/121" number="121">The Beauty of Illusion - David Lynch's "Mulholland Drive"</episode>
