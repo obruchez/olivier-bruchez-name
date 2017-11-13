@@ -9,6 +9,58 @@
     <actor></actor>
   -->
   <play>
+    <date>2017.11.11</date>
+    <location>Salle Charles Apothéloz, Théâtre de Vidy, Lausanne, Switzerland</location>
+    <name>Le Direktør</name>    
+    <author>Lars von Trier</author>
+    <director>Oscar Gómez Mata</director>
+    <adaptation>Oscar Gómez Mata</adaptation>
+    <translation>Catherine Lise Dubost</translation>
+    <actor>Pierre Banderet</actor>
+    <actor>Valeria Bertolotto</actor>
+    <actor>Claire Deutsch</actor>
+    <actor>Vincent Fontannaz</actor>
+    <actor>Christian Geffroy Schlittler</actor>
+    <actor>David Gobet</actor>
+    <actor>Camille Mermet</actor>
+    <actor>Aurélien Patouillard</actor>
+    <actor>Bastien Semenzato</actor>
+    <!--
+    Assistanat à la mise en scène:
+    Jean-Daniel Piguet
+
+    Création lumière et direction technique:
+    Roberto Cafaggini
+
+    Création et régie son:
+    Fernando de Miguel
+
+    Scénographie:
+    Daniel Zamarbide - Bureau
+
+    Assistante scénographie:
+    Vanessa Vicente
+
+    Costumes:
+    Veronica Segovia
+
+    Assistée de:
+    Marie Diatchenko
+
+    Médiation:
+    Simon Hildebrand
+
+    Administration:
+    Aymeric Demay
+
+    Production et diffusion:
+    Barbara Giongo
+    -->
+    <rating>4.5</rating>
+    <comments>Je n'avais pas vu le film et je n'ai pas l'intention de le regarder, vu les critiques... J'aime beaucoup Lars von Trier, pourtant. L'adaptation est ici une interprétation absurde. Je ne sais pas si le film l'était autant. Il y avait de très bons moments. Certaines longueurs, aussi. La critique du monde du travail reste superficielle. La conclusion était très simpliste (le bien et le mal). Démarche volontaire ?</comments>
+    <image>Le Direktør.jpg</image>
+  </play> 
+  <play>
     <date>2017.10.27</date>
     <location>Pulloff Théâtres, Lausanne, Switzerland</location>
     <name>En découdre</name>
