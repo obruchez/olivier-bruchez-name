@@ -2,6 +2,11 @@
 <articles>
   <introduction>A list of articles I read.</introduction>
   <article>
+    <date>2017.11.15</date>
+    <title url="https://medium.com/@karpathy/software-2-0-a64152b37c35">Software 2.0</title>
+    <comments>I agree with a lot of things in this article. Neural networks / deep learning are a new and exciting way of solving problems. But, like quantum computing, you can't solve every problem using them. They're still impressive, though. In particular, the "one model to rule them all" approach is exciting. It looks like a possible way to <a href="https://en.wikipedia.org/wiki/Artificial_general_intelligence">artificial general intelligence (AGI)</a>.</comments>
+  </article> 
+  <article>
     <date>2017.11.08</date>
     <title url="https://www.wired.com/story/googles-ai-wizard-unveils-a-new-twist-on-neural-networks/">Google's AI Wizard Unveils a New Twist on Neural Networks</title>
     <comments>I don't understand this "capsule" concept (yet), but the idea that, after all those years, Geoffrey Hinton can still come up with new ideas, that would potentially fix the "big data" problem (i.e. the fact that current approaches in machine learning need a lot of data to work well) is exciting.</comments>
