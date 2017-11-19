@@ -2,6 +2,16 @@
 <movies>
   <introduction>A list of movies I saw.</introduction>
   <movie>
+    <date></date>
+    <theater home="true"/>
+    <director>Sergio Leone</director>
+    <title>Once Upon a Time in the West</title>
+    <url>http://www.imdb.com/title/tt0064116/</url>
+    <rating></rating>
+    <comments></comments>
+    <image>Once Upon a Time in the West.jpg</image>
+  </movie>
+  <movie>
     <date>2017.11.04</date>
     <theater home="true"/>
     <director>Martin Scorsese</director>
