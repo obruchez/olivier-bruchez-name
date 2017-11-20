@@ -2,6 +2,18 @@
 <podcasts>
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date></date>
+    <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
+    <episode url="https://www.samharris.org/podcast/item/richard-dawkins-sam-harris-and-matt-dillahunty" number="105">Richard Dawkins, Sam Harris, and Matt Dillahunty - A Live Recording from the Orpheum Theatre in Vancouver</episode>
+    <comments></comments>
+  </podcast>
+  <podcast>
+    <date>2017.11.20</date>
+    <name url="http://verybadwizards.com/">Very Bad Wizards</name>
+    <episode url="https://verybadwizards.fireside.fm/127" number="127">Moral Luck</episode>
+    <comments>For once, I didn't disagree with David and Tamler about free will. Yes, we have to accept both the reality of determinism (microscopic/physical view) and the reality that our brains don't see people as things and don't see people's actions as just physical events (macroscopic/societal view). Our brains evolved to understand the world as a place with agents having intentions, not as a place composed of a large number of particles interacting in a very complex and chaotic way. Are we completely constrained by our brains? Maybe. Maybe not. Apparently, some people can use meditation to really see that there's no limit between the self and the rest of the world, and that thoughts just happen (i.e. that there's no thinking self having those thoughts). Anyway, Thomas Nagel really sounds like a very clever philosopher. I should read one of his books or papers someday. I like how he doesn't feel the need to resolve the tension he describes in his paper.</comments>
+  </podcast>
+  <podcast>
     <date>2017.11.17</date>
     <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
     <episode url="https://www.samharris.org/podcast/item/the-lessons-of-death" number="104">The Lessons of Death - A Conversation with Frank Ostaseski</episode>
