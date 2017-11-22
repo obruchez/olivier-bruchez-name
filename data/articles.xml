@@ -2,6 +2,17 @@
 <articles>
   <introduction>A list of articles I read.</introduction>
   <article>
+    <date>2017.11.22</date>
+    <title url="https://medium.com/ai%C2%B3-theory-practice-business/understanding-hintons-capsule-networks-part-i-intuition-b4b559d1159b">Understanding Hinton’s Capsule Networks. Part I: Intuition.</title>
+    <comments>"Internal data representation of a convolutional neural network does not take into account important spacial hierarchies between simple and complex objects. [...] [T]he key idea is that representation of objects in the brain does not depend on view angle. [...] Current implementations are much slower than other modern deep learning models. Time will show if capsule networks can be trained quickly and efficiently."</comments>
+  </article> 
+  <article>
+    <date>2017.11.22</date>
+    <title url="http://nautil.us/issue/53/monsters/what-boredom-does-to-you">What Boredom Does to You</title>
+    <subtitle>The science of the wandering mind.</subtitle>
+    <comments>"[W]hen our minds wander, we activate a part of our brain called the "default mode network". [...] People who are bored think more creatively. [...] It feels like we are wasting time when we wait for the longest red light in the world to turn green, but the brain is putting ideas and events into perspective. [...] Is mind-wandering productive or self-defeating? Well, it seems that, like everything else in life, daydreaming is complicated. [...] The study also found that "by contrast, future- and self-related thoughts preceded improvements of mood, even when current thought content was negative." [...] Mind-wandering is not unlike our smartphones, where you can easily have too much of a good thing. [...] You could say that boredom is an incubator lab for brilliance. It's the messy, uncomfortable, confusing, frustrating place one has to occupy for a while before finally coming up with the winning equation or formula."</comments>
+  </article> 
+  <article>
     <date>2017.11.15</date>
     <title url="https://medium.com/@karpathy/software-2-0-a64152b37c35">Software 2.0</title>
     <comments>I agree with a lot of things in this article. Neural networks / deep learning are a new and exciting way of solving problems. But, like quantum computing, you can't solve every problem using them. They're still impressive, though. In particular, the "one model to rule them all" approach is exciting. It looks like a possible way to <a href="https://en.wikipedia.org/wiki/Artificial_general_intelligence">artificial general intelligence (AGI)</a>.</comments>
