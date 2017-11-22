@@ -3,9 +3,15 @@
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
     <date></date>
+    <name url="http://verybadwizards.com/">Very Bad Wizards</name>
+    <episode url="https://verybadwizards.fireside.fm/101" number="101">Having Desert and Eating It Too</episode>
+    <comments></comments>
+  </podcast>
+  <podcast>
+    <date>2017.11.22</date>
     <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
     <episode url="https://www.samharris.org/podcast/item/richard-dawkins-sam-harris-and-matt-dillahunty" number="105">Richard Dawkins, Sam Harris, and Matt Dillahunty - A Live Recording from the Orpheum Theatre in Vancouver</episode>
-    <comments></comments>
+    <comments>I'm less familiar with Matt Dillahunty and, judging by the audience questions at the end, most people are way more familiar with Sam and Richard. If I have the opportunity, I might want to go to one of those "live events" one day, but hearing an audio recording of this event is a weird experience. It sometimes sounds like a rock concert or a stand-up comedy show, to the point of being a bit cringeworthy at times. I wouldn't want a non-agnostic/atheist/humanist person to hear this.</comments>
   </podcast>
   <podcast>
     <date>2017.11.20</date>
