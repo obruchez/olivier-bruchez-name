@@ -2,6 +2,16 @@
 <movies>
   <introduction>A list of movies I saw.</introduction>
   <movie>
+    <date>2017.11.23</date>
+    <theater home="true"/>
+    <director>Tony Kaye</director>
+    <title>American History X</title>
+    <url>http://www.imdb.com/title/tt0120586/</url>
+    <rating>5.0</rating>
+    <comments></comments>
+    <image>American History X.jpg</image>
+  </movie>
+  <movie>
     <date>2017.11.20</date>
     <theater home="true"/>
     <director>Sergio Leone</director>
