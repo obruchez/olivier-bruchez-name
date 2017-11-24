@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <movies>
   <introduction>A list of movies I saw.</introduction>
+  <!-- Checklist: add rating to IMDb -->
+  <movie>
+    <date>2017.11.23</date>
+    <theater>Pathé Flon, Lausanne</theater>
+    <director>Prince</director>
+    <title>Sign O' The Times</title>
+    <url>http://www.imdb.com/title/tt0093970/</url>
+    <rating>5.0</rating>
+    <comments>I've probably watched this concert film only once in its entirety, on VHS, in the 90s.</comments>
+    <image>Sign O' The Times.jpg</image>
+  </movie>
   <movie>
     <date>2017.11.23</date>
     <theater home="true"/>
