@@ -15,6 +15,18 @@
   </show>
   <show>
     <date></date>
+    <name url="https://en.wikipedia.org/wiki/Mr._Robot_(TV_series)">Mr. Robot</name>
+    <series url="https://en.wikipedia.org/wiki/List_of_Mr._Robot_episodes#Season_3_.282017.29" type="season">3</series>
+    <comments></comments>
+  </show>
+  <show>
+    <date></date>
+    <name url="https://en.wikipedia.org/wiki/The_Big_Bang_Theory">The Big Bang Theory</name>
+    <series url="https://en.wikipedia.org/wiki/The_Big_Bang_Theory_(season_11)" type="season">11</series>
+    <comments></comments>
+  </show>
+  <show>
+    <date></date>
     <name url="https://en.wikipedia.org/wiki/This_Is_Us_(TV_series)">This Is Us</name>
     <series url="https://en.wikipedia.org/wiki/This_Is_Us_(TV_series)#Episodes" type="season">1</series>
     <comments></comments>
