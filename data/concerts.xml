@@ -11,6 +11,30 @@
   -->
   <introduction>A list of concerts I went to.</introduction>
   <concert>
+    <date>2017.10.15</date>
+    <location>Preservation Hall, New Orleans, USA</location>
+    <group>The Preservation All Stars</group>
+    <musician inst="trumpet" main="true">Wendell Brunious</musician>
+    <musician inst="trumpet">Will Smith</musician>
+    <musician inst="trombone">Maynard Chatters</musician>
+    <musician inst="piano">Rickie Monie</musician>
+    <musician inst="?">?</musician>
+    <musician inst="bass">?</musician>
+    <musician inst="drums">?</musician>
+    <rating>4.5</rating>
+    <comments>A 45-minute show. No smartphone. An attentive audience. We were really close to the musicians (next to the trombone player). We had a really good time.</comments>
+  </concert>
+  <concert>
+    <date>2017.10.13</date>
+    <location>The Spotted Cat Music Club, New Orleans, USA</location>
+    <group>Washboard Chaz Blues Trio</group>
+    <musician inst="washboard, vocals" main="true">Chaz Leary</musician>
+    <musician inst="guitar, vocals">?</musician>
+    <musician inst="harmonica, vocals">?</musician>
+    <rating>4.0</rating>
+    <comments>A nice blues trio in a noisy bar. For the price of a cheap drink. Not really my cup of tea, but it was not bad.</comments>
+  </concert>
+  <concert>
     <date>2017.07.10</date>
     <location>Montreux Jazz Club, Montreux, Switzerland</location>
     <event>Montreux Jazz Festival</event>
