@@ -61,6 +61,10 @@
 * catholicisme = religion d'état
 * "dictature"
 
+## Grammaire : lorsqu'on n'a pas compris/entendu quelque chose
+
+Selon Grevisse, par ordre décroissant de politesse : "plaît-il, pardon, comment, hein, quoi".
+
 ## Inspiration
 
 * pour résoudre un problème, il faut mieux laisser son cerveau inconsciemment y réfléchir (ne pas le soumettre à trop de données, trop de "bruit" mental)
