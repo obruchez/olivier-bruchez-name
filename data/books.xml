@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <books>
     <introduction>A list of books I read.</introduction>
-    <book>
+    <!-- <book>
         <date></date>
         <title>The Theoretical Minimum</title>
         <subtitle>What You Need to Know to Start Doing Physics</subtitle>
@@ -9,9 +9,20 @@
         <publishingyear>2013</publishingyear>
         <rating></rating>
         <url>https://en.wikipedia.org/wiki/The_Theoretical_Minimum</url>
-        <!-- <notes description="Kindle highlights"></notes> -->
+        <notes description="Kindle highlights"></notes>
         <comments></comments>
         <image>The Theoretical Minimum.jpg</image>
+    </book> -->
+    <book>
+        <date></date>
+        <title>Prince and the Purple Rain Era Studio Sessions: 1983 and 1984</title>
+        <author>Duane Tudhal</author>
+        <publishingyear>2017</publishingyear>
+        <rating></rating>
+        <url>https://books.google.com/books?id=MrE5DwAAQBAJ</url>
+        <!-- <notes description="Kindle highlights"></notes> -->
+        <comments></comments>
+        <image>Prince and the Purple Rain Era Studio Sessions - 1983 and 1984.jpg</image>
     </book>
     <book>
         <date></date>
