@@ -2,6 +2,11 @@
 <articles>
   <introduction>A list of articles I read.</introduction>
   <article>
+    <date>2017.11.29</date>
+    <title url="https://danielmiessler.com/blog/struggle-as-the-center-of-happiness/">Struggle as the Center of Happiness</title>
+    <comments>"All of this depends on people believing themselves to be in a struggle. It used to be a struggle to survive, then it was a struggle to do well in society, and soon it'll be to discover. But we cannot let ourselves be convinced that struggle is bad, or that the goal is to remove it completely." I agree that, as long as we don't change the way our psychology works, we'll have to respect some of the rules imposed by the way evolution shaped our psychology. And I agree that one of those rules could be that we need to somehow struggle to be happy. But if we start not only to understand our brains, but to artificially change/enhance them, I don't see why we still would have to respect those rules.</comments>
+  </article> 
+  <article>
     <date>2017.11.22</date>
     <title url="https://medium.com/ai%C2%B3-theory-practice-business/understanding-hintons-capsule-networks-part-i-intuition-b4b559d1159b">Understanding Hinton’s Capsule Networks. Part I: Intuition.</title>
     <comments>"Internal data representation of a convolutional neural network does not take into account important spacial hierarchies between simple and complex objects. [...] [T]he key idea is that representation of objects in the brain does not depend on view angle. [...] Current implementations are much slower than other modern deep learning models. Time will show if capsule networks can be trained quickly and efficiently."</comments>
