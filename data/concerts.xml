@@ -12,7 +12,7 @@
   <introduction>A list of concerts I went to.</introduction>
   <concert>
     <date>2017.10.15</date>
-    <location>Preservation Hall, New Orleans, USA</location>
+    <location>Preservation Hall, New Orleans, LA, USA</location>
     <group>The Preservation All Stars</group>
     <musician inst="trumpet" main="true">Wendell Brunious</musician>
     <musician inst="trombone">Maynard Chatters</musician>
@@ -26,7 +26,7 @@
   </concert>
   <concert>
     <date>2017.10.13</date>
-    <location>The Spotted Cat Music Club, New Orleans, USA</location>
+    <location>The Spotted Cat Music Club, New Orleans, LA, USA</location>
     <group>Washboard Chaz Blues Trio</group>
     <musician inst="washboard, vocals" main="true">Chaz Leary</musician>
     <musician inst="guitar, vocals">?</musician>
