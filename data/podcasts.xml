@@ -3,9 +3,15 @@
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
     <date></date>
+    <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
+    <episode url="https://www.samharris.org/podcast/item/humanity-2.0" number="106">Humanity 2.0 - A Conversation with Jennifer A. Doudna</episode>
+    <comments></comments>
+  </podcast>
+  <podcast>
+    <date>2017.12.01</date>
     <name>Alex &amp; Erik's Podcast</name>
     <episode number="39">Scott Adam's interview by Sam Harris</episode>
-    <comments>Scott Adams "is playing a game". I agree with that. What's frustrating is that it's hard to understand which game, whereas before he simply was provocative, purposefully. You could even say he was thought-provoking, which is positive.</comments>
+    <comments>Scott Adams "is playing a game". I agree with that. What's frustrating is that it's hard to understand which game, whereas before he simply was provocative, purposefully. You could even say he was thought-provoking, which is positive. To quote myself: "In the end, I still don't know why Scott Adams defends Trump as much as he does. Is he trying to make people (on the left, especially) see things from a different perspective? Is he trying to sell as many ads on his blog as possible? Is he trying to make his next book as successful as possible? I don't know. It doesn't really make sense." In that respect, I find Alex's view a bit too charitable.</comments>
   </podcast>
   <podcast>
     <date>2017.12.01</date>
