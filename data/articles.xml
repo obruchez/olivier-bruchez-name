@@ -2,6 +2,11 @@
 <articles>
   <introduction>A list of articles I read.</introduction>
   <article>
+    <date>2017.12.01</date>
+    <title url="https://medium.com/ai%C2%B3-theory-practice-business/understanding-hintons-capsule-networks-part-ii-how-capsules-work-153b6ade9f66">Understanding Hinton’s Capsule Networks. Part II: How Capsules Work.</title>
+    <comments>"We see that the design of the capsule builds up upon the design of artificial neuron, but expands it to the vector form to allow for more powerful representational capabilities. It also introduces matrix weights to encode important hierarchical relationships between features of different layers."</comments>
+  </article>
+  <article>
     <date>2017.11.29</date>
     <title url="https://danielmiessler.com/blog/struggle-as-the-center-of-happiness/">Struggle as the Center of Happiness</title>
     <comments>"All of this depends on people believing themselves to be in a struggle. It used to be a struggle to survive, then it was a struggle to do well in society, and soon it'll be to discover. But we cannot let ourselves be convinced that struggle is bad, or that the goal is to remove it completely." I agree that, as long as we don't change the way our psychology works, we'll have to respect some of the rules imposed by the way evolution shaped our psychology. And I agree that one of those rules could be that we need to somehow struggle to be happy. But if we start not only to understand our brains, but to artificially change/enhance them, I don't see why we still would have to respect those rules.</comments>
