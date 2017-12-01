@@ -3,9 +3,15 @@
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
     <date></date>
+    <name>Alex &amp; Erik's Podcast</name>
+    <episode number="39">Scott Adam's interview by Sam Harris</episode>
+    <comments>Scott Adams "is playing a game". I agree with that. What's frustrating is that it's hard to understand which game, whereas before he simply was provocative, purposefully. You could even say he was thought-provoking, which is positive.</comments>
+  </podcast>
+  <podcast>
+    <date>2017.12.01</date>
     <name url="http://peachandblack.podbean.com/">Peach &amp; Black Podcast</name>
     <episode url="http://peachandblack.podbean.com/e/duane-tudahl-interview/">Duane Tudahl Interview</episode>
-    <comments>I've started reading <i>Prince and the Purple Rain Era Studio Sessions: 1983 and 1984</i> last week. Tudahl sounds like a very nice and knowledgeable person.</comments>
+    <comments>I've started reading <i>Prince and the Purple Rain Era Studio Sessions: 1983 and 1984</i> last week. Tudahl sounds like a very nice and knowledgeable person. He's the kind of geek I kind relate to (attentive to details, etc.). I'm glad to hear that he'd like to work on further volumes (1985-86, 1987-88, and 1981-82, mainly).</comments>
   </podcast>
   <podcast>
     <date>2017.11.27</date>
