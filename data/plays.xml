@@ -9,6 +9,55 @@
     <actor></actor>
   -->
   <play>
+    <date>2017.12.01</date>
+    <location>Salle Charles Apothéloz, Théâtre de Vidy, Lausanne, Switzerland</location>
+    <name>L'Avare</name>    
+    <author>Molière</author>
+    <director>Ludovic Lagarde</director>
+    <actor>Laurent Poitrenaux</actor>
+    <actor>Christèle Tual</actor>
+    <actor>Julien Storini</actor>
+    <actor>Tom Politano</actor>
+    <actor>Myrtille Bordier</actor>
+    <actor>Alexandre Pallu</actor>
+    <actor>Marion Barché</actor>
+    <actor>Louise Dupuis</actor>
+    <actor>Élie Chapus</actor>
+    <actor>Sophie Engel</actor>
+    <actor>Zacharie Jourdain</actor>
+    <actor>Élodie Leau</actor>
+    <actor>Benoît Muzard</actor>
+    <!--
+    Scénographie:
+    Antoine Vasseur
+
+    Lumière:
+    Sébastien Michaud
+
+    Costumes:
+    Marie La Rocca
+    Gwendoline Bouget
+
+    Maquillage et coiffure:
+    Cécile Kretschmar
+
+    Musique:
+    Pierre-Alexandre «Yuksek» Busson
+
+    Dramaturgie:
+    Marion Stoufflet
+
+    Son et vidéo:
+    David Bichindaritz
+
+    Assistanat mise en scène et vidéo:
+    Céline Gaudier
+    -->
+    <rating>5.25</rating>
+    <comments>Je n'y connais pas grand-chose en théâtre, mais je dirais qu'il est devenu presque rare que les "vieilles" pièces ne soient pas mises en scène dans un contexte contemporain. <i>L'Avare</i> n'échappe ici pas à cette règle. 349 ans plus tard, la mise en scène est résolument moderne : entrepôt d'import-export, téléviseur, caméra de surveillance, smartphones, etc. ; mais aussi la manière de parler, les attitudes, les tics de langage ; tout est là pour nous rappeler l'époque contemporaine. Pourtant, ce qui aurait pu n'être qu'un simple <i>gimmick</i> fonctionne étonnamment bien. Il y a un certain décalage comique entre le texte et le contexte, mais, en même temps, pas tant que cela, ce qui démontre du coup l'intemporalité de Molière. J'ai beaucoup aimé.</comments>
+    <image>L'Avare.jpg</image>
+  </play> 
+  <play>
     <date>2017.11.11</date>
     <location>Salle Charles Apothéloz, Théâtre de Vidy, Lausanne, Switzerland</location>
     <name>Le Direktør</name>    
