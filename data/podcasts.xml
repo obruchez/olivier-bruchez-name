@@ -3,9 +3,15 @@
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
     <date></date>
+    <name url="http://verybadwizards.com/">Very Bad Wizards</name>
+    <episode url="https://verybadwizards.fireside.fm/128" number="128">Fragmented Values and Sex Panics (with Christina Hoff Sommers)</episode>
+    <comments></comments>
+  </podcast>
+  <podcast>
+    <date>2017.12.04</date>
     <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
     <episode url="https://www.samharris.org/podcast/item/humanity-2.0" number="106">Humanity 2.0 - A Conversation with Jennifer A. Doudna</episode>
-    <comments></comments>
+    <comments>Again, I think Kurzweil was onto something. It took 15 years for the <a href="https://en.wikipedia.org/wiki/Human_Genome_Project">Human Genome Project</a> to be completed. And then, during more than 10 years, almost nothing happened (I'm oversimplifying, here). But now, <a href="https://en.wikipedia.org/wiki/CRISPR#Cas9">CRISPR-Cas9</a> is there and it looks like it could change everything, very quickly. So, this is the usual slow-phase-followed-by-rapid-change Kurzweil has always been talking about. Doudna is not convinced that we will be able to change things such as intelligence in the short term (because it depends on dozens or hundreds of genes and changing them could lead to unexpected downsides), but there are a lot of clear applications that could appear in a few years already. Again, Kurzweil warned that experts are often less worried about advances in their field (it was the case with artificial intelligence and it appears to be the case here as well). So, as usual, technology advances and the public debate is lagging behind. Most people have absolutely no idea what's happening. This is frightening, in a sense.</comments>
   </podcast>
   <podcast>
     <date>2017.12.01</date>
