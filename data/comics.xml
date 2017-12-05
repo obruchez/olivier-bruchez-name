@@ -2,6 +2,16 @@
 <comics>
   <introduction>A list of comics I read.</introduction>
   <comic>
+    <date>2017.12.05</date>
+    <writer>Lewis Trondheim</writer>
+    <artist>Lewis Trondheim</artist>
+    <colorist>Brigitte Findakly</colorist>
+    <series url="https://fr.wikipedia.org/wiki/Les_Formidables_Aventures_de_Lapinot#Les_Nouvelles_Aventures_de_Lapinot">Les Nouvelles Aventures de Lapinot</series>
+    <volume url="https://fr.wikipedia.org/wiki/Les_Formidables_Aventures_de_Lapinot#Les_Nouvelles_Aventures_de_Lapinot" number="1">Un monde un peu meilleur</volume>
+    <comments>On a un certain plaisir à retrouver Lapinot, mais ça reste un peu "plat". Le bien, le mal, les médias, les sites de rencontre, les conséquences imprévues de nos actes, etc. Il y a quelques idées, mais qui ont de la peine à décoller.</comments>
+    <image>Lapinot - Un monde un peu meilleur.jpg</image>
+  </comic>
+  <comic>
     <date>2017.11.09</date>
     <writer>Lewis Trondheim</writer>
     <artist>Lewis Trondheim</artist>
