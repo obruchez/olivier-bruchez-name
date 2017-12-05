@@ -2,8 +2,14 @@
 <articles>
   <introduction>A list of articles I read.</introduction>
   <article>
+    <date>2017.12.05</date>
+    <title url="https://medium.com/@melissamcewen/i-just-dont-want-to-be-a-software-developer-anymore-a371422069a1">I just don't want to be a software developer anymore</title>
+    <subtitle>I still love coding, but I hate this industry</subtitle>
+    <comments>"[T]he problem with that is that hobby coding isn't at all like coding for work. [...] I dream of a world where we all work less. In the meantime I'll still be here coding, maybe actually enjoying it again, and trying to find a life where I have true balance between my work and my other needs." I can relate to this. I've often wondered if a career change would be a solution. So far I've always concluded that being a software engineer is still one of the better options.</comments>
+  </article>
+  <article>
     <date>2017.12.01</date>
-    <title url="https://medium.com/ai%C2%B3-theory-practice-business/understanding-hintons-capsule-networks-part-ii-how-capsules-work-153b6ade9f66">Understanding Hinton’s Capsule Networks. Part II: How Capsules Work.</title>
+    <title url="https://medium.com/ai%C2%B3-theory-practice-business/understanding-hintons-capsule-networks-part-ii-how-capsules-work-153b6ade9f66">Understanding Hinton's Capsule Networks. Part II: How Capsules Work.</title>
     <comments>"We see that the design of the capsule builds up upon the design of artificial neuron, but expands it to the vector form to allow for more powerful representational capabilities. It also introduces matrix weights to encode important hierarchical relationships between features of different layers."</comments>
   </article>
   <article>
@@ -13,7 +19,7 @@
   </article> 
   <article>
     <date>2017.11.22</date>
-    <title url="https://medium.com/ai%C2%B3-theory-practice-business/understanding-hintons-capsule-networks-part-i-intuition-b4b559d1159b">Understanding Hinton’s Capsule Networks. Part I: Intuition.</title>
+    <title url="https://medium.com/ai%C2%B3-theory-practice-business/understanding-hintons-capsule-networks-part-i-intuition-b4b559d1159b">Understanding Hinton's Capsule Networks. Part I: Intuition.</title>
     <comments>"Internal data representation of a convolutional neural network does not take into account important spacial hierarchies between simple and complex objects. [...] [T]he key idea is that representation of objects in the brain does not depend on view angle. [...] Current implementations are much slower than other modern deep learning models. Time will show if capsule networks can be trained quickly and efficiently."</comments>
   </article> 
   <article>
@@ -41,7 +47,7 @@
     <date>2017.11.03</date>
     <title url="https://elth.co/sedentary-lifestyle-killing/">How Your Sedentary Lifestyle is Killing You</title>
     <subtitle>Desk jobs got us tied to our chairs all day long. Sitting down too much and having very less activity is doing more harm to your body than you can possibly imagine.</subtitle>
-    <comments>So sitting at your desk: 1) "makes you fat" 2) "increases your chances of having a heart attack" 3) "reduces your brain’s performance". The solution? Move/exercise as much as possible.</comments>
+    <comments>So sitting at your desk: 1) "makes you fat" 2) "increases your chances of having a heart attack" 3) "reduces your brain's performance". The solution? Move/exercise as much as possible.</comments>
   </article>
   <article>
     <date>2017.11.01</date>
@@ -72,7 +78,7 @@
     <date>2017.10.16</date>
     <title url="https://www.theguardian.com/society/2016/apr/07/the-sugar-conspiracy-robert-lustig-john-yudkin">The sugar conspiracy</title>
     <subtitle>In 1972, a British scientist sounded the alarm that sugar – and not fat – was the greatest danger to our health. But his findings were ridiculed and his reputation ruined. How did the world's top nutrition scientists get it so wrong for so long?</subtitle>
-    <comments>"Nutrition scientists are angry with the press for distorting their findings, politicians for failing to heed them, and the rest of us for overeating and under-exercising. In short, everyone – business, media, politicians, consumers – is to blame. Everyone, that is, except scientists. [...] These sharp fluctuations in Yudkin’s stock have had little to do with the scientific method, and a lot to do with the unscientific way in which the field of nutrition has conducted itself over the years. [...] [S]ugar is processed in the liver, where it turns to fat, before entering the bloodstream. [...] [W]hile humans have always been carnivorous, carbohydrates only became a major component of their diet 10,000 years ago, with the advent of mass agriculture. Sugar – a pure carbohydrate, with all fibre and nutrition stripped out – has been part of western diets for just 300 years; in evolutionary terms, it is as if we have, just this second, taken our first dose of it. [...] This makes scientific inquiry prone to the eternal rules of human social life: deference to the charismatic, herding towards majority opinion, punishment for deviance, and intense discomfort with admitting to error. [...] [I]t is a biological error to confuse what a person puts in their mouth with what it becomes after it is swallowed. [...] France, the country with the highest intake of saturated fat, has the lowest rate of heart disease. [...] The circular logic is symptomatic of a field with an unusually high propensity for ignoring evidence that does not fit its conventional wisdom. [...] By opening the gates of publishing to all, the internet has flattened hierarchies everywhere they exist. [...] The nutritional establishment has proved itself, over the years, skilled at ad hominem takedowns."</comments>
+    <comments>"Nutrition scientists are angry with the press for distorting their findings, politicians for failing to heed them, and the rest of us for overeating and under-exercising. In short, everyone – business, media, politicians, consumers – is to blame. Everyone, that is, except scientists. [...] These sharp fluctuations in Yudkin's stock have had little to do with the scientific method, and a lot to do with the unscientific way in which the field of nutrition has conducted itself over the years. [...] [S]ugar is processed in the liver, where it turns to fat, before entering the bloodstream. [...] [W]hile humans have always been carnivorous, carbohydrates only became a major component of their diet 10,000 years ago, with the advent of mass agriculture. Sugar – a pure carbohydrate, with all fibre and nutrition stripped out – has been part of western diets for just 300 years; in evolutionary terms, it is as if we have, just this second, taken our first dose of it. [...] This makes scientific inquiry prone to the eternal rules of human social life: deference to the charismatic, herding towards majority opinion, punishment for deviance, and intense discomfort with admitting to error. [...] [I]t is a biological error to confuse what a person puts in their mouth with what it becomes after it is swallowed. [...] France, the country with the highest intake of saturated fat, has the lowest rate of heart disease. [...] The circular logic is symptomatic of a field with an unusually high propensity for ignoring evidence that does not fit its conventional wisdom. [...] By opening the gates of publishing to all, the internet has flattened hierarchies everywhere they exist. [...] The nutritional establishment has proved itself, over the years, skilled at ad hominem takedowns."</comments>
   </article>
   <article>
     <date>2017.10.16</date>
