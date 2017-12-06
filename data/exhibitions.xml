@@ -57,7 +57,7 @@
         <rating>3.0</rating>
         <comments>Exhibition located a the top of the Mauvoisin Dam. Let's just say that I'm not a fan and that I regularly said to myself: "Hey, I could have taken that photograph." It's not bad, though.</comments>
         <image>Claudio Moser - I come from the other side.jpg</image>
-        <!-- <pictures url=""/> -->
+        <pictures url="https://www.flickr.com/photos/bruchez/sets/72157689999838786"/>
     </exhibition>
     <exhibition>
         <date>2017.09.09</date>
@@ -67,6 +67,15 @@
         <comments>I was not impressed by the still life section, but some of the landscapes were gorgeous. The baigneuses/baigneurs section (covering about 30 years) was nice. I liked the portraits, too.</comments>
         <image>Cézanne - Le chant de la terre.jpg</image>
         <!-- <pictures url=""/> -->
+    </exhibition>
+    <exhibition>
+        <date>2017.07.22</date>
+        <name>Permanent exhibition</name>
+        <museum>Chaplin's World, Vevey, Switzerland</museum>
+        <rating>5.0</rating>
+        <comments>A very nice museum, for children and adults. The omnipresence of wax figures gives the place a special touch. They're sometimes almost disturbing, especially when you don't realize right away that they're not visitors. There is a nice balance between the texts to read, the movies to watch, and the movie sets to visit. The Champ de Ban Estate Manor is also interesting. The bathroom with Einstein in front of the mirror is a funny experience. It's a symbol of the whole museum/manor, in a way.</comments>
+        <image>Chaplin's World.jpg</image>
+        <pictures url="https://www.flickr.com/photos/bruchez/albums/72157685129030654"/>
     </exhibition>
     <exhibition>
         <date>2017.06.10</date>
