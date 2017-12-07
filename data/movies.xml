@@ -3,6 +3,16 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Checklist: add rating to IMDb -->
   <movie>
+    <date>2017.12.07</date>
+    <theater home="true"/>
+    <director>James Cameron</director>
+    <title>The Terminator</title>
+    <url>http://www.imdb.com/title/tt0088247/</url>
+    <rating>3.5</rating>
+    <comments>This is a classic. I must admit I had probably never seen this movie before, at least in its entirety. I've heard about it. I knew the story. I knew the quotes. The problem with the classics is that they're hard to judge, especially when it comes to special effects. The ones in <i>The Terminator</i> looks like they're not even good for 1984 (sloppy stop motion, etc.). The story is really linear: a robot comes from the future to kill a woman who will give birth to a man who will fight the robots in the future; he's really hard to kill. Then you have a lot of car/truck chases and <em>a lot</em> of people getting killed. And there's one sex scene, of course. It's not a bad movie, though. It's probably even original for its time.s</comments>
+    <image>The Terminator.jpg</image>
+  </movie>
+  <movie>
     <date>2017.11.23</date>
     <theater>Pathé Flon, Lausanne</theater>
     <director>Prince</director>
