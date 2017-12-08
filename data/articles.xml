@@ -2,6 +2,16 @@
 <articles>
   <introduction>A list of articles I read.</introduction>
   <article>
+    <date>2017.12.08</date>
+    <title url="https://www.nytimes.com/2017/11/28/opinion/metoo-sexual-harassment-believe-women.html">The Limits of 'Believe All Women'</title>
+    <comments>"In a climate in which sexual mores are transforming so rapidly, many men are asking: If I were wrongly accused, who would believe me? [...] I believe that facts serve feminists far better than faith. [...] What we owe all people, including women, is to listen to them and to respect them and to take them seriously. But we don't owe anyone our unthinking belief."</comments>
+  </article>
+  <article>
+    <date>2017.12.08</date>
+    <title url="https://medium.com/@NSallakAnderson/pretty-birds-in-pretty-cages-could-the-nuclear-family-be-the-reason-were-all-miserable-46126d573263">Pretty Birds in Pretty Cages: Could the Nuclear Family Be the Reason We're All Miserable?</title>
+    <comments>"[W]e've made the raising of our children incredibly isolating in the process. [...] [O]ur [species] has spent millennia raising our children and working together rather than isolated in singular pods. [...] The nuclear family has allowed the first world to grow our economies in many ways, and give more of our attention to fewer children. Yet it has also isolated us, creating situations where many adults are lonely."</comments>
+  </article>
+  <article>
     <date>2017.12.05</date>
     <title url="https://medium.com/@melissamcewen/i-just-dont-want-to-be-a-software-developer-anymore-a371422069a1">I just don't want to be a software developer anymore</title>
     <subtitle>I still love coding, but I hate this industry</subtitle>
