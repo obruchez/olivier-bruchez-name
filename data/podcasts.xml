@@ -3,19 +3,21 @@
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
     <date></date>
+    <name url="http://peachandblack.podbean.com/">Peach &amp; Black Podcast</name>
+    <episode url="http://peachandblack.podbean.com/e/mr-hayes-interview/">Mr. Hayes Interview</episode>
+    <comments></comments>
+  </podcast>
+  <podcast>
+    <date>2017.12.08</date>
+    <name>Alex &amp; Erik's Podcast</name>
+    <episode number="40">Patriotism</episode>
+    <comments>I agree with pretty much everything that's been said during the episode. You don't choose where you were born. If you live in a good country, with a good education system, a good economy, etc., then, great, be happy you were not born in North Korea. But being <em>proud</em> of something you didn't do is just weird. If you live in a great country, then you probably have nothing to do with it. And there are other countries on the planet. Some of them are good as well. Some are even better than your country, possibly. Now, patriotism certainly had some utility from a historic point of view, when nations were born, to gather communities/tribes together, but it's like religion: yes, it might have had <em>some</em> utility, at some point, but it's currently suboptimal (in the better case). I don't agree that there can be "cute" patriotism or religion. There's always a downside to those simplistic views.</comments>
+  </podcast>
+  <podcast>
+    <date>2017.12.08</date>
     <name url="http://verybadwizards.com/">Very Bad Wizards</name>
     <episode url="https://verybadwizards.fireside.fm/128" number="128">Fragmented Values and Sex Panics (with Christina Hoff Sommers)</episode>
-    <comments></comments>
-    <!--
-      - Louis CK, struggling
-      - no sex panic yet, but we could get there
-      - David/Tamler not utilitarians, struggling with that also
-      - values with unified system
-      - computer scientist view: algorithms are not necessarily simple
-      - disagree with Tamler (and David) about the fact that intuitions or wisdom cannot be modeled as algorithm
-      - neural networks, machine learning, etc. are also kinds of algorithms + can model fuzzy concepts => they're hard to describe (black box problems)
-      - Nagel: good thing to identify hard, unsolvable problems (and not try and solve them)
-    -->
+    <comments>I kind of struggled with what Louis CK did (I wrote <a href="https://bruchez.blogspot.ch/2017/12/luvre-et-lartiste-metoo.html">an article about it</a>). This episode helped me clarify my position. I agree that we're not in a "sex panic" yet, but I see how we could get there, so we have to be careful. Not all men are bad. Not all women can be trusted. The part about Thomas Nagel' paper was interesting, but harder for me to follow. Again, I think the point of view of a computer scientist can help. I disagree with Tamler (and David?) about the fact that our intuitions and our wisdom cannot be modeled by algorithms. Not by simple, naive algorithms, no, but by more complex algorithms, such as neural networks. Modern machine learning / deep learning algorithms are still crude, but they can already learn and model complex and fuzzy data sets. The problem is that they then become "black boxes": we don't know how they learned what they learned. So, yes, it's easier for humans to come up with simple, discrete, "fragmented" values, but it doesn't mean, in my opinion, that a more complex, harder-to-understand unified system is not possible, in principle. If utilitarianism is about simple utility functions, then, yes, utilitarianism is wrong. If utilitarianism can use complex utility functions that don't necessarily make sense to humans, then I think it can still be true. That's my intuition, at least. Again, Nagel sounds like someone I should read. He doesn't seem put off by hard, (currently) unsolvable problems.</comments>
   </podcast>
   <podcast>
     <date>2017.12.04</date>
