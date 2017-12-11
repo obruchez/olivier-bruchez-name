@@ -5,7 +5,7 @@ import models._
 import models.ListItems._
 import org.joda.time.Partial
 import scala.util.Try
-import scala.xml.{ Node, XML }
+import scala.xml.{Node, XML}
 import util.Date._
 import util._
 
@@ -22,7 +22,8 @@ object BookNotes {
       BookNotes(
         description = Option((rootNode \@ "description").trim).filter(_.nonEmpty),
         url = Configuration.urlWithFile("url.booknotes", url).get,
-        slug = Slug.slugFromString(s"$author $title"))
+        slug = Slug.slugFromString(s"$author $title")
+      )
     }
   }
 }
@@ -63,19 +64,21 @@ object Book {
       rating = Parsing.ratingFromString((rootNode \\ "rating").text),
       comments = Parsing.commentsFromNodeChildren((rootNode \\ "comments").headOption),
       url = new URL((rootNode \\ "url").text.trim),
-      notesOption)
+      notesOption
+    )
   }
 }
 
-case class Books(override val introduction: Option[Introduction],
-                 override val listItems: Seq[Book]) extends Cacheable {
+case class Books(override val introduction: Option[Introduction], override val listItems: Seq[Book])
+    extends Cacheable {
   def notesFromSlug(slug: String): Option[BookNotes] =
     listItems.find(_.notes.exists(_.slug == slug)).flatMap(_.notes)
 
-  override def subFetchables: Seq[FileSource] = for {
-    book <- listItems
-    notes <- book.notes
-  } yield notes.fileSource
+  override def subFetchables: Seq[FileSource] =
+    for {
+      book <- listItems
+      notes <- book.notes
+    } yield notes.fileSource
 }
 
 object Books extends Fetchable {
@@ -87,10 +90,11 @@ object Books extends Fetchable {
 
   override def fetch(): Try[Books] = apply(sourceUrlWithNoCacheParameter)
 
-  def apply(url: URL): Try[Books] = for {
-    xml <- Try(XML.load(url))
-    books <- apply(xml)
-  } yield books
+  def apply(url: URL): Try[Books] =
+    for {
+      xml <- Try(XML.load(url))
+      books <- apply(xml)
+    } yield books
 
   def apply(rootNode: Node): Try[Books] = Try {
     val booksNode = (rootNode \\ "books").head

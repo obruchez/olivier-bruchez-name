@@ -26,7 +26,8 @@ case class HtmlContent(htmlString: String) extends FileContent(FileType.Html) {
 
   def withCssClassAddedToHeadings(heading: String, cssClass: String): HtmlContent = {
     val quotes = "\""
-    val updatedString = htmlString.replaceAll(s"(<$heading>.*</$heading>)", s"<div class=$quotes$cssClass$quotes>$$1</div>")
+    val updatedString = htmlString.replaceAll(s"(<$heading>.*</$heading>)",
+                                              s"<div class=$quotes$cssClass$quotes>$$1</div>")
 
     copy(htmlString = updatedString)
   }

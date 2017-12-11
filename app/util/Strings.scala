@@ -8,7 +8,8 @@ object Strings {
     val dots = "..."
     val dotsLength = dots.length
 
-    def truncatedAnywhere(string: String): String = rightTrim(string.substring(0, (maxSize - dotsLength).max(0))) + dots
+    def truncatedAnywhere(string: String): String =
+      rightTrim(string.substring(0, (maxSize - dotsLength).max(0))) + dots
 
     def truncatedOnWordLimit(string: String): String = {
       @annotation.tailrec

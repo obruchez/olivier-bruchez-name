@@ -5,7 +5,7 @@ import models._
 import models.ListItems._
 import org.joda.time.Partial
 import scala.util._
-import scala.xml.{ Node, XML }
+import scala.xml.{Node, XML}
 import util._
 
 case class CourseCertificate(description: Option[String], url: URL, slug: String) {
@@ -21,7 +21,8 @@ object CourseCertificate {
       CourseCertificate(
         description = Option((rootNode \@ "description").trim).filter(_.nonEmpty),
         url = Configuration.urlWithFile("url.coursecertificates", url).get,
-        slug = Slug.slugFromString(name))
+        slug = Slug.slugFromString(name)
+      )
     }
   }
 }
@@ -47,7 +48,8 @@ object Course {
   def apply(rootNode: Node): Try[Course] = Try {
     val name = (rootNode \\ "name").text.trim
 
-    val certificateOption = (rootNode \\ "certificate").headOption.flatMap(CourseCertificate(_, name).get)
+    val certificateOption =
+      (rootNode \\ "certificate").headOption.flatMap(CourseCertificate(_, name).get)
 
     Course(
       date = Parsing.dateFromString((rootNode \\ "date").text).get,
@@ -55,19 +57,22 @@ object Course {
       name = name,
       instructor = (rootNode \\ "instructor").text.trim,
       url = new URL((rootNode \\ "url").text.trim),
-      certificate = certificateOption)
+      certificate = certificateOption
+    )
   }
 }
 
 case class Courses(override val introduction: Option[Introduction],
-                   override val listItems: Seq[Course]) extends Cacheable {
+                   override val listItems: Seq[Course])
+    extends Cacheable {
   def certificateFromSlug(slug: String): Option[CourseCertificate] =
     listItems.find(_.certificate.exists(_.slug == slug)).flatMap(_.certificate)
 
-  override def subFetchables: Seq[FileSource] = for {
-    course <- listItems
-    certificate <- course.certificate
-  } yield certificate.fileSource
+  override def subFetchables: Seq[FileSource] =
+    for {
+      course <- listItems
+      certificate <- course.certificate
+    } yield certificate.fileSource
 }
 
 object Courses extends Fetchable {
@@ -79,10 +84,11 @@ object Courses extends Fetchable {
 
   override def fetch(): Try[Courses] = apply(sourceUrlWithNoCacheParameter)
 
-  def apply(url: URL): Try[Courses] = for {
-    xml <- Try(XML.load(url))
-    courses <- apply(xml)
-  } yield courses
+  def apply(url: URL): Try[Courses] =
+    for {
+      xml <- Try(XML.load(url))
+      courses <- apply(xml)
+    } yield courses
 
   def apply(rootNode: Node): Try[Courses] = Try {
     val coursesNode = (rootNode \\ "courses").head

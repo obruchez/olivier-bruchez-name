@@ -35,7 +35,8 @@ object Post {
       content = HtmlContent(cleanHtml(bloggerPost.content.htmlString)),
       relativePermalink = bloggerPost.relativePermalink,
       originalUrl = bloggerPost.url,
-      itemUrl = Some(routes.BlogPostsController.blogPost(bloggerPost.relativePermalink).url))
+      itemUrl = Some(routes.BlogPostsController.blogPost(bloggerPost.relativePermalink).url)
+    )
 
   protected def cleanHtml(html: String): String = {
     val doc = Jsoup.parse(html)
@@ -65,7 +66,7 @@ object Post {
     element children that contain HTML/XML text, as well as, possibly, other elemenrs (i, a, etc.)
 
     see https://jsoup.org/cookbook/extracting-data/selector-syntax for JSoup select syntax
-    */
+     */
 
     cleanDoc.outputSettings(doc.outputSettings().prettyPrint(false))
 
@@ -101,6 +102,6 @@ object Posts extends Fetchable {
     Posts(
       // @todo how many posts do we really want to fetch? (500 is actually the maximum allowed)
       listItems = Blogger.latestPosts(count = 500).map(Post(_)))
-      //listItems = Blogger.latestPosts(count = 1).map(Post(_)))
+    //listItems = Blogger.latestPosts(count = 1).map(Post(_)))
   }
 }

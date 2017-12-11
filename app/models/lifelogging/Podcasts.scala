@@ -5,7 +5,7 @@ import models._
 import models.ListItems._
 import org.joda.time.Partial
 import scala.util.Try
-import scala.xml.{ Node, XML }
+import scala.xml.{Node, XML}
 import util._
 
 case class Podcast(override val date: Partial,
@@ -18,11 +18,10 @@ case class Podcast(override val date: Partial,
                    override val itemSlug: Option[String] = None,
                    override val itemUrl: Option[String] = None,
                    override val next: Boolean = false)
-  extends ListItem(
-    date,
-    HtmlContent.fromNonHtmlString(s"$name - $episodeName"),
-    itemSlug,
-    itemUrl) {
+    extends ListItem(date,
+                     HtmlContent.fromNonHtmlString(s"$name - $episodeName"),
+                     itemSlug,
+                     itemUrl) {
   type T = Podcast
 
   override def withNext(next: Boolean): Podcast = copy(next = next)
@@ -42,12 +41,14 @@ object Podcast {
       episodeName = episodeNode.text.trim,
       episodeUrl = Option((episodeNode \@ "url").trim).filter(_.nonEmpty).map(new URL(_)),
       episodeNumber = Option((episodeNode \@ "number").trim).filter(_.nonEmpty).map(_.toInt),
-      comments = Parsing.commentsFromNodeChildren((rootNode \\ "comments").headOption))
+      comments = Parsing.commentsFromNodeChildren((rootNode \\ "comments").headOption)
+    )
   }
 }
 
 case class Podcasts(override val introduction: Option[Introduction],
-                    override val listItems: Seq[Podcast]) extends Cacheable
+                    override val listItems: Seq[Podcast])
+    extends Cacheable
 
 object Podcasts extends Fetchable {
   type C = Podcasts
@@ -58,10 +59,11 @@ object Podcasts extends Fetchable {
 
   override def fetch(): Try[Podcasts] = apply(sourceUrlWithNoCacheParameter)
 
-  def apply(url: URL): Try[Podcasts] = for {
-    xml <- Try(XML.load(url))
-    podcasts <- apply(xml)
-  } yield podcasts
+  def apply(url: URL): Try[Podcasts] =
+    for {
+      xml <- Try(XML.load(url))
+      podcasts <- apply(xml)
+    } yield podcasts
 
   def apply(rootNode: Node): Try[Podcasts] = Try {
     val podcastsNode = (rootNode \\ "podcasts").head

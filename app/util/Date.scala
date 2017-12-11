@@ -21,7 +21,7 @@ object Date {
 
   implicit class PartialOps(readablePartial: ReadablePartial) {
     def yyyymmddString: String = {
-      val valuesByType =  Map((for {
+      val valuesByType = Map((for {
         fieldIndex <- 0 until readablePartial.size
         dateTimeFieldType = readablePartial.getFieldType(fieldIndex)
         dateTimeFieldValue = readablePartial.getValue(fieldIndex)
@@ -43,10 +43,9 @@ object Date {
     def futureDate: Boolean = {
       val now = new LocalDate
 
-      val fieldsToCompare = List(
-        DateTimeFieldType.year(),
-        DateTimeFieldType.monthOfYear(),
-        DateTimeFieldType.dayOfMonth())
+      val fieldsToCompare = List(DateTimeFieldType.year(),
+                                 DateTimeFieldType.monthOfYear(),
+                                 DateTimeFieldType.dayOfMonth())
 
       def nowBefore(fieldsLeftToCompare: List[DateTimeFieldType]): Boolean =
         fieldsLeftToCompare match {

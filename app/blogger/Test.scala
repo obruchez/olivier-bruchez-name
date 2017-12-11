@@ -3,11 +3,14 @@ package blogger
 import com.google.api.client.auth.oauth2.Credential
 import com.google.api.client.extensions.java6.auth.oauth2.AuthorizationCodeInstalledApp
 import com.google.api.client.extensions.jetty.auth.oauth2.LocalServerReceiver
-import com.google.api.client.googleapis.auth.oauth2.{ GoogleAuthorizationCodeFlow, GoogleClientSecrets }
+import com.google.api.client.googleapis.auth.oauth2.{
+  GoogleAuthorizationCodeFlow,
+  GoogleClientSecrets
+}
 import com.google.api.client.googleapis.javanet.GoogleNetHttpTransport
 import com.google.api.client.json.jackson2.JacksonFactory
 import com.google.api.client.util.store.FileDataStoreFactory
-import com.google.api.services.blogger.{ Blogger => BloggerService, BloggerScopes }
+import com.google.api.services.blogger.{Blogger => BloggerService, BloggerScopes}
 import java.util.Collections
 import util.Configuration
 
@@ -23,14 +26,17 @@ object Test {
     val clientId = Configuration.string("blogger.clientid").get
     val clientSecret = Configuration.string("blogger.clientsecret").get
 
-    val clientDetails = (new GoogleClientSecrets.Details).setClientId(clientId).setClientSecret(clientSecret)
+    val clientDetails =
+      (new GoogleClientSecrets.Details).setClientId(clientId).setClientSecret(clientSecret)
     val clientSecrets = (new GoogleClientSecrets).setInstalled(clientDetails)
 
-    val flow = new GoogleAuthorizationCodeFlow.Builder(
-      httpTransport,
-      jsonFactory,
-      clientSecrets,
-      Collections.singleton(BloggerScopes.BLOGGER_READONLY)).setDataStoreFactory(dataStoreFactory).build()
+    val flow =
+      new GoogleAuthorizationCodeFlow.Builder(httpTransport,
+                                              jsonFactory,
+                                              clientSecrets,
+                                              Collections.singleton(BloggerScopes.BLOGGER_READONLY))
+        .setDataStoreFactory(dataStoreFactory)
+        .build()
 
     // allow redirect URI here: https://console.developers.google.com/apis/credentials?project=olivier-bruchez-org
 
@@ -42,5 +48,7 @@ object Test {
 
   val credential = authorize()
   val applicationName = Configuration.string("blogger.applicationname").get
-  val blogger = new BloggerService.Builder(httpTransport, jsonFactory, credential).setApplicationName(applicationName).build()
+  val blogger = new BloggerService.Builder(httpTransport, jsonFactory, credential)
+    .setApplicationName(applicationName)
+    .build()
 }

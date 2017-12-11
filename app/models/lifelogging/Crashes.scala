@@ -5,7 +5,7 @@ import models._
 import models.ListItems._
 import org.joda.time.Partial
 import scala.util.Try
-import scala.xml.{ Node, XML }
+import scala.xml.{Node, XML}
 import util._
 
 case class Crash(override val date: Partial,
@@ -15,7 +15,10 @@ case class Crash(override val date: Partial,
                  override val itemSlug: Option[String] = None,
                  override val itemUrl: Option[String] = None,
                  override val next: Boolean = false)
-    extends ListItem(date, HtmlContent.fromNonHtmlString(s"$manufacturer - $model"), itemSlug, itemUrl) {
+    extends ListItem(date,
+                     HtmlContent.fromNonHtmlString(s"$manufacturer - $model"),
+                     itemSlug,
+                     itemUrl) {
   type T = Crash
 
   override def withNext(next: Boolean): Crash = copy(next = next)
@@ -29,12 +32,14 @@ object Crash {
       date = Parsing.dateFromString((rootNode \\ "date").text).get,
       manufacturer = (rootNode \\ "manufacturer").text.trim,
       model = (rootNode \\ "model").text.trim,
-      comments = Parsing.commentsFromNodeChildren((rootNode \\ "comments").headOption))
+      comments = Parsing.commentsFromNodeChildren((rootNode \\ "comments").headOption)
+    )
   }
 }
 
 case class Crashes(override val introduction: Option[Introduction],
-                   override val listItems: Seq[Crash]) extends Cacheable
+                   override val listItems: Seq[Crash])
+    extends Cacheable
 
 object Crashes extends Fetchable {
   type C = Crashes
@@ -45,10 +50,11 @@ object Crashes extends Fetchable {
 
   override def fetch(): Try[Crashes] = apply(sourceUrlWithNoCacheParameter)
 
-  def apply(url: URL): Try[Crashes] = for {
-    xml <- Try(XML.load(url))
-    crashes <- apply(xml)
-  } yield crashes
+  def apply(url: URL): Try[Crashes] =
+    for {
+      xml <- Try(XML.load(url))
+      crashes <- apply(xml)
+    } yield crashes
 
   def apply(rootNode: Node): Try[Crashes] = Try {
     val crashesNode = (rootNode \\ "crashes").head

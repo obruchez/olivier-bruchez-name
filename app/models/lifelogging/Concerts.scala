@@ -5,27 +5,29 @@ import models._
 import models.ListItems._
 import org.joda.time.Partial
 import scala.util.Try
-import scala.xml.{ Node, XML }
+import scala.xml.{Node, XML}
 import util._
 
 case class Musician(name: String, instrument: Option[String], main: Boolean)
 
 object Musician {
   def apply(rootNode: Node): Try[Musician] = Try {
-   Musician(
-     name = rootNode.text.trim,
-     instrument = Option((rootNode \@ "instrument").trim).filter(_.nonEmpty),
-     main = Parsing.isTrue(rootNode \@ "main"))
+    Musician(name = rootNode.text.trim,
+             instrument = Option((rootNode \@ "instrument").trim).filter(_.nonEmpty),
+             main = Parsing.isTrue(rootNode \@ "main"))
   }
 
   def musicians(bandOption: Option[String], musicians: Seq[Musician]): String =
     bandOption.map(_ + (if (musicians.nonEmpty) ": " else "")).getOrElse("") +
-      (musicians.zipWithIndex map { case (musician, index) =>
-        val separator = Concerts.commaOrAnd(index = index, totalCount = musicians.size)
-        musician.name + separator
+      (musicians.zipWithIndex map {
+        case (musician, index) =>
+          val separator = Concerts.commaOrAnd(index = index, totalCount = musicians.size)
+          musician.name + separator
       }).mkString("")
 
-  def musiciansSummary(bandOption: Option[String], musicians: Seq[Musician], eventOption: Option[String]): String =
+  def musiciansSummary(bandOption: Option[String],
+                       musicians: Seq[Musician],
+                       eventOption: Option[String]): String =
     bandOption match {
       case Some(band) =>
         band
@@ -49,11 +51,11 @@ case class Concert(override val date: Partial,
                    override val itemSlug: Option[String] = None,
                    override val itemUrl: Option[String] = None,
                    override val next: Boolean = false)
-    extends ListItem(
-      date,
-      HtmlContent.fromNonHtmlString(s"${Musician.musiciansSummary(band, musicians, event)} - $location"),
-      itemSlug,
-      itemUrl) {
+    extends ListItem(date,
+                     HtmlContent.fromNonHtmlString(
+                       s"${Musician.musiciansSummary(band, musicians, event)} - $location"),
+                     itemSlug,
+                     itemUrl) {
   type T = Concert
 
   override def withNext(next: Boolean): Concert = copy(next = next)
@@ -73,12 +75,14 @@ object Concert {
       band = Option((rootNode \\ "group").text.trim).filter(_.nonEmpty),
       musicians = musicans,
       rating = Parsing.ratingFromString((rootNode \\ "rating").text),
-      comments = Parsing.commentsFromNodeChildren((rootNode \\ "comments").headOption))
+      comments = Parsing.commentsFromNodeChildren((rootNode \\ "comments").headOption)
+    )
   }
 }
 
 case class Concerts(override val introduction: Option[Introduction],
-                    override val listItems: Seq[Concert]) extends Cacheable
+                    override val listItems: Seq[Concert])
+    extends Cacheable
 
 object Concerts extends Fetchable {
   type C = Concerts
@@ -89,10 +93,11 @@ object Concerts extends Fetchable {
 
   override def fetch(): Try[Concerts] = apply(sourceUrlWithNoCacheParameter)
 
-  def apply(url: URL): Try[Concerts] = for {
-    xml <- Try(XML.load(url))
-    concerts <- apply(xml)
-  } yield concerts
+  def apply(url: URL): Try[Concerts] =
+    for {
+      xml <- Try(XML.load(url))
+      concerts <- apply(xml)
+    } yield concerts
 
   def apply(rootNode: Node): Try[Concerts] = Try {
     val concertsNode = (rootNode \\ "concerts").head

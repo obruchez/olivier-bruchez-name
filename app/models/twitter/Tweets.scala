@@ -1,7 +1,7 @@
 package models.twitter
 
 import models._
-import org.joda.time.{ LocalDateTime, ReadablePartial }
+import org.joda.time.{LocalDateTime, ReadablePartial}
 import scala.util.Try
 import _root_.twitter.Twitter
 import _root_.twitter.Twitter._
@@ -23,11 +23,10 @@ case class Tweet(override val date: ReadablePartial,
 
 object Tweet {
   def apply(status: ExtendedStatus): Tweet =
-    Tweet(
-      date = new LocalDateTime(status.status.getCreatedAt),
-      content = status.status.getText,
-      reply = status.isReply,
-      itemUrl = Some(status.url.toString))
+    Tweet(date = new LocalDateTime(status.status.getCreatedAt),
+          content = status.status.getText,
+          reply = status.isReply,
+          itemUrl = Some(status.url.toString))
 }
 
 case class Tweets(profile: String, override val listItems: Seq[Tweet]) extends Cacheable {
@@ -44,9 +43,8 @@ object Tweets extends Fetchable {
   override val icon = Some("fa-twitter")
 
   override def fetch(): Try[Tweets] = Try {
-    Tweets(
-      profile = Twitter.userDescription,
-      // @todo how many tweets do we really want to fetch?
-      listItems = Twitter.latestStatuses(count = 1000).map(Tweet(_)))
+    Tweets(profile = Twitter.userDescription,
+           // @todo how many tweets do we really want to fetch?
+           listItems = Twitter.latestStatuses(count = 1000).map(Tweet(_)))
   }
 }

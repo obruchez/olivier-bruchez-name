@@ -8,10 +8,9 @@ case class Color(red: Int, green: Int, blue: Int) {
   def html: String = f"#$red%02X$green%02X$blue%02X"
 
   def lighterOrDarker(factor: Double): Color =
-    Color(
-      red = Color.lighterOrDarker(red, factor),
-      green = Color.lighterOrDarker(green, factor),
-      blue = Color.lighterOrDarker(blue, factor))
+    Color(red = Color.lighterOrDarker(red, factor),
+          green = Color.lighterOrDarker(green, factor),
+          blue = Color.lighterOrDarker(blue, factor))
 
   def distance(that: Color): Double =
     math.sqrt(
@@ -29,13 +28,14 @@ object Color {
     Color(
       red = Integer.parseInt(withoutSharpSymbol.substring(0, 2), 16),
       green = Integer.parseInt(withoutSharpSymbol.substring(2, 4), 16),
-      blue = Integer.parseInt(withoutSharpSymbol.substring(4, 6), 16))
+      blue = Integer.parseInt(withoutSharpSymbol.substring(4, 6), 16)
+    )
   }
 
   def colors(count: Int): Seq[Color] =
     algorithm1Colors(count = count)
-    //algorithm2Colors(baseColor = Color("5DA5DA"), count = count)
-    //algorithm3Colors(baseColor = Color("5DA5DA"), count = count)
+  //algorithm2Colors(baseColor = Color("5DA5DA"), count = count)
+  //algorithm3Colors(baseColor = Color("5DA5DA"), count = count)
 
   private def lighterOrDarker(colorValue: Int, factor: Double): Int = {
     assert(colorValue >= 0 && colorValue <= 255)
@@ -76,7 +76,8 @@ object Color {
       } else {
         val lastAddedColor = acc.head
         val mostDistantInRemaining = mostDistant(lastAddedColor, remaining)
-        contrastedColors(mostDistantInRemaining :: acc, remaining.filterNot(_ == mostDistantInRemaining))
+        contrastedColors(mostDistantInRemaining :: acc,
+                         remaining.filterNot(_ == mostDistantInRemaining))
       }
 
     orderedColors.toList match {
@@ -109,8 +110,8 @@ object Color {
     Idea:
     - choose randomly count colors, with a constraint on the luminosity (Lmin < L < Lmax)
     - arrange those count colors in a given order
-       * start with the base color (baseColor)
-       * choose each following color trying to maximize the sum of the distances with all the colors that have already
+     * start with the base color (baseColor)
+     * choose each following color trying to maximize the sum of the distances with all the colors that have already
          been chosen (maybe with a factor to decrease the importance of the more distance colors)
     - evaluate the color arrangement using the total sum of the distances between two consecutive colors
     - repeat several times

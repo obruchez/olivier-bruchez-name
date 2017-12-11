@@ -2,7 +2,7 @@ package controllers
 
 import actors.Cache
 import models.Page
-import models.blogger.{ Post, Posts }
+import models.blogger.{Post, Posts}
 import play.api.libs.concurrent.Execution.Implicits._
 import play.api.mvc._
 
@@ -20,9 +20,8 @@ object BlogPostsController extends Controller {
 
   implicit class PostOps(post: Post) {
     def page: Page =
-      Page(
-        title = post.title,
-        url = routes.BlogPostsController.blogPost(post.relativePermalink).url,
-        icon = Sitemap.blog.icon)
+      Page(title = post.title,
+           url = routes.BlogPostsController.blogPost(post.relativePermalink).url,
+           icon = Sitemap.blog.icon)
   }
 }

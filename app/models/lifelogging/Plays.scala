@@ -5,7 +5,7 @@ import models._
 import models.ListItems._
 import org.joda.time.Partial
 import scala.util.Try
-import scala.xml.{ Node, XML }
+import scala.xml.{Node, XML}
 import util._
 
 case class Play(override val date: Partial,
@@ -41,12 +41,13 @@ object Play {
       translation = Option((rootNode \\ "translation").text.trim).filter(_.nonEmpty),
       actors = (rootNode \\ "actor").map(_.text.trim),
       rating = Parsing.ratingFromString((rootNode \\ "rating").text),
-      comments = Parsing.commentsFromNodeChildren((rootNode \\ "comments").headOption))
+      comments = Parsing.commentsFromNodeChildren((rootNode \\ "comments").headOption)
+    )
   }
 }
 
-case class Plays(override val introduction: Option[Introduction],
-                 override val listItems: Seq[Play]) extends Cacheable
+case class Plays(override val introduction: Option[Introduction], override val listItems: Seq[Play])
+    extends Cacheable
 
 object Plays extends Fetchable {
   type C = Plays
@@ -57,10 +58,11 @@ object Plays extends Fetchable {
 
   override def fetch(): Try[Plays] = apply(sourceUrlWithNoCacheParameter)
 
-  def apply(url: URL): Try[Plays] = for {
-    xml <- Try(XML.load(url))
-    plays <- apply(xml)
-  } yield plays
+  def apply(url: URL): Try[Plays] =
+    for {
+      xml <- Try(XML.load(url))
+      plays <- apply(xml)
+    } yield plays
 
   def apply(rootNode: Node): Try[Plays] = Try {
     val playsNode = (rootNode \\ "plays").head

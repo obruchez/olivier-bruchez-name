@@ -10,9 +10,8 @@ case class Introduction(shortVersion: HtmlContent, fullVersion: HtmlContent)
 
 object Introduction {
   def apply(string: String): Introduction =
-    Introduction(
-      shortVersion = HtmlContent.fromNonHtmlString(string),
-      fullVersion = HtmlContent.fromNonHtmlString(string))
+    Introduction(shortVersion = HtmlContent.fromNonHtmlString(string),
+                 fullVersion = HtmlContent.fromNonHtmlString(string))
 }
 
 trait Cacheable {
@@ -25,7 +24,8 @@ trait Cacheable {
   def latestItems(fetchable: Fetchable, page: Page, count: Int): ListItems = {
     val latestItems = this.latestItems(fetchable, count)
     val latestItemsWithUrls =
-      if (listItemUrlsFromListItemSlugs) latestItems.listItems.withUrls(page) else latestItems.listItems
+      if (listItemUrlsFromListItemSlugs) latestItems.listItems.withUrls(page)
+      else latestItems.listItems
 
     latestItems.copy(listItems = latestItemsWithUrls)
   }
@@ -53,5 +53,6 @@ trait Fetchable {
 
     For now, we're using the following workaround.
    */
-  def sourceUrlWithNoCacheParameter: URL = new URL(sourceUrl.toString + "?_=" + System.currentTimeMillis())
+  def sourceUrlWithNoCacheParameter: URL =
+    new URL(sourceUrl.toString + "?_=" + System.currentTimeMillis())
 }

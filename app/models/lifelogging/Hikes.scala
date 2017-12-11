@@ -5,7 +5,7 @@ import models._
 import models.ListItems._
 import org.joda.time.Partial
 import scala.util.Try
-import scala.xml.{ Node, XML }
+import scala.xml.{Node, XML}
 import util._
 
 case class Hike(override val date: Partial,
@@ -24,15 +24,14 @@ case class Hike(override val date: Partial,
 
 object Hike {
   def apply(rootNode: Node): Try[Hike] = Try {
-    Hike(
-      date = Parsing.dateFromString((rootNode \\ "date").text).get,
-      place = (rootNode \\ "place").text.trim,
-      pictures = Parsing.picturesFromNode(rootNode))
+    Hike(date = Parsing.dateFromString((rootNode \\ "date").text).get,
+         place = (rootNode \\ "place").text.trim,
+         pictures = Parsing.picturesFromNode(rootNode))
   }
 }
 
-case class Hikes(override val introduction: Option[Introduction],
-                 override val listItems: Seq[Hike]) extends Cacheable
+case class Hikes(override val introduction: Option[Introduction], override val listItems: Seq[Hike])
+    extends Cacheable
 
 object Hikes extends Fetchable {
   type C = Hikes
@@ -43,10 +42,11 @@ object Hikes extends Fetchable {
 
   override def fetch(): Try[Hikes] = apply(sourceUrlWithNoCacheParameter)
 
-  def apply(url: URL): Try[Hikes] = for {
-    xml <- Try(XML.load(url))
-    hikes <- apply(xml)
-  } yield hikes
+  def apply(url: URL): Try[Hikes] =
+    for {
+      xml <- Try(XML.load(url))
+      hikes <- apply(xml)
+    } yield hikes
 
   def apply(rootNode: Node): Try[Hikes] = Try {
     val hikesNode = (rootNode \\ "hikes").head

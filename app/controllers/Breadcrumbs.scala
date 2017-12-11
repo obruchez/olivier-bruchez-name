@@ -66,9 +66,11 @@ object Breadcrumbs {
     if (totalLength <= TotalMaxLength || links.isEmpty) {
       links
     } else {
-      val lastLinkMaxLength = math.max(LastLinkMinLength, TotalMaxLength - links.init.map(_.name.length).sum)
+      val lastLinkMaxLength =
+        math.max(LastLinkMinLength, TotalMaxLength - links.init.map(_.name.length).sum)
       val lastLink = links.last
-      val lastLinkName = Strings.truncatedWithDots(lastLink.name, maxSize = lastLinkMaxLength, onWordLimit = true)
+      val lastLinkName =
+        Strings.truncatedWithDots(lastLink.name, maxSize = lastLinkMaxLength, onWordLimit = true)
       links.init :+ lastLink.copy(name = lastLinkName)
     }
   }

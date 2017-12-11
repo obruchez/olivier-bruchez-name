@@ -6,8 +6,8 @@ import models.lifelogging.Trips
 import scala.util._
 import util._
 
-case class TripsToTake(override val introduction: Option[Introduction],
-                       content: HtmlContent) extends Cacheable
+case class TripsToTake(override val introduction: Option[Introduction], content: HtmlContent)
+    extends Cacheable
 
 object TripsToTake extends Fetchable {
   type C = TripsToTake
@@ -18,8 +18,9 @@ object TripsToTake extends Fetchable {
 
   override def fetch(): Try[TripsToTake] = apply(sourceUrlWithNoCacheParameter)
 
-  def apply(url: URL): Try[TripsToTake] = for {
-    markdownContent <- MarkdownContent(url)
-    (introduction, content) <- markdownContent.toIntroductionAndMainContent
-   } yield TripsToTake(introduction, content)
+  def apply(url: URL): Try[TripsToTake] =
+    for {
+      markdownContent <- MarkdownContent(url)
+      (introduction, content) <- markdownContent.toIntroductionAndMainContent
+    } yield TripsToTake(introduction, content)
 }

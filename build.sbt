@@ -6,10 +6,7 @@ lazy val root = (project in file(".")).enablePlugins(PlayScala)
 
 scalaVersion := "2.11.12"
 
-libraryDependencies ++= Seq(
-  jdbc,
-  cache,
-  ws)
+libraryDependencies ++= Seq(jdbc, cache, ws)
 
 libraryDependencies ++= Seq(
   "com.github.rjeschke" % "txtmark" % "0.13",
@@ -23,6 +20,9 @@ libraryDependencies ++= Seq(
   "joda-time" % "joda-time" % "2.9.9",
   "org.apache.commons" % "commons-lang3" % "3.7",
   "org.jsoup" % "jsoup" % "1.10.3",
-  "org.twitter4j" % "twitter4j-core" % "4.0.6")
+  "org.twitter4j" % "twitter4j-core" % "4.0.6"
+)
 
 routesGenerator := StaticRoutesGenerator
+
+scalafmtOnCompile in ThisBuild := true

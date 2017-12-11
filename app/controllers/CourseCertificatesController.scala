@@ -9,13 +9,14 @@ import scala.concurrent.Future
 
 object CourseCertificatesController extends Controller {
   def courseCertificate(slug: String) = Action.async {
-      for {
-        courses <- Cache.get(Courses)
-        result <- resultFromSlug(courses, slug)
-      } yield result
-    }
+    for {
+      courses <- Cache.get(Courses)
+      result <- resultFromSlug(courses, slug)
+    } yield result
+  }
 
-    private def resultFromSlug(courses: Courses, slug: String): Future[Result] = courses.certificateFromSlug(slug) match {
+  private def resultFromSlug(courses: Courses, slug: String): Future[Result] =
+    courses.certificateFromSlug(slug) match {
       case Some(certificate) =>
         val page = courses.pageFromCertificate(certificate)
 
@@ -38,7 +39,8 @@ object CourseCertificatesController extends Controller {
         title = course.name,
         url = routes.CourseCertificatesController.courseCertificate(courseCertificate.slug).url,
         icon = Sitemap.courses.icon,
-        fetchables = Seq(courseCertificate.fileSource))
+        fetchables = Seq(courseCertificate.fileSource)
+      )
     }
   }
 }

@@ -36,21 +36,21 @@ case class Statistics(books: Books,
   def mostSeenConcertArtists(mainMusiciansOnly: Boolean): Seq[(Int, String)] = {
     val artists =
       concerts.listItems.filterNot(_.concertType == Soundcheck).flatMap { concert =>
-          if (concert.musicians.size == 1) {
-            concert.musicians.map(_.name)
-          } else if (mainMusiciansOnly) {
-            val mainMusicians = concert.musicians.filter(_.main).map(_.name)
+        if (concert.musicians.size == 1) {
+          concert.musicians.map(_.name)
+        } else if (mainMusiciansOnly) {
+          val mainMusicians = concert.musicians.filter(_.main).map(_.name)
 
-            concert.band match {
-              case Some(band) if mainMusicians.isEmpty =>
-                // No main musician + band available => return band instead
-                Seq(band)
-              case _ =>
-                mainMusicians
-            }
-          } else {
-            concert.musicians.map(_.name)
+          concert.band match {
+            case Some(band) if mainMusicians.isEmpty =>
+              // No main musician + band available => return band instead
+              Seq(band)
+            case _ =>
+              mainMusicians
           }
+        } else {
+          concert.musicians.map(_.name)
+        }
       }
 
     sortedValuesWithLabels(personsFromRawList(artists))
@@ -59,17 +59,17 @@ case class Statistics(books: Books,
   def mostVisitedConcertVenues: Seq[(Int, String)] = {
     import util.Date._
 
-    val normalizedName = Map("Casino Barrière, Montreux, Switzerland" -> "Casino, Montreux, Switzerland")
+    val normalizedName = Map(
+      "Casino Barrière, Montreux, Switzerland" -> "Casino, Montreux, Switzerland")
 
     // Count a venue at most once for a given day
     val concertVenues =
-      concerts.
-        listItems.
-        map(c => (c.location, c.date.yyyymmddString)).
-        distinct.
-        map(_._1).
-        filterNot(_.isEmpty).
-        map(location => normalizedName.getOrElse(location, location))
+      concerts.listItems
+        .map(c => (c.location, c.date.yyyymmddString))
+        .distinct
+        .map(_._1)
+        .filterNot(_.isEmpty)
+        .map(location => normalizedName.getOrElse(location, location))
 
     sortedValuesWithLabels(concertVenues)
   }
@@ -78,7 +78,7 @@ case class Statistics(books: Books,
     ratingsDistribution(concerts.listItems.flatMap(_.rating))
 
   def concertRatingsEvolution: Seq[(String, MinAvgMax)] =
-     ratingsEvolution(concerts.listItems.flatMap(i => i.rating.map(r => (i.date, r))))
+    ratingsEvolution(concerts.listItems.flatMap(i => i.rating.map(r => (i.date, r))))
 
   def concertYearlyCounts: Seq[(String, Int)] =
     yearlyCounts(concerts.listItems)
@@ -140,9 +140,11 @@ case class Statistics(books: Books,
     yearlyCounts(podcasts.listItems)
 
   private def sortedValuesWithLabels(strings: Seq[String]): Seq[(Int, String)] =
-    strings.groupBy(string => string).
-      toSeq.
-      map(kv => kv._2.size -> kv._1).
+    strings
+      .groupBy(string => string)
+      .toSeq
+      .map(kv => kv._2.size -> kv._1)
+      .
       // Sort by count (highest first) and then by name (alphabetical order)
       sortBy(kv => (-kv._1, kv._2))
 
@@ -153,13 +155,16 @@ case class Statistics(books: Books,
 
   private def ratingsDistribution(ratings: Seq[Double]): Seq[(String, Int)] =
     for {
-      rating <- 0.0 to(5.0, 0.25)
+      rating <- 0.0 to (5.0, 0.25)
       count = ratings.count(_ == rating)
     } yield f"$rating%1.2f" -> count
 
   private def ratingsEvolution(datesAndRatings: Seq[(Partial, Double)]): Seq[(String, MinAvgMax)] =
     for {
-      (yearOption, datesAndRatings) <- datesAndRatings.groupBy(dar => Try(dar._1.get(DateTimeFieldType.year())).toOption).toSeq.sortBy(_._1)
+      (yearOption, datesAndRatings) <- datesAndRatings
+        .groupBy(dar => Try(dar._1.get(DateTimeFieldType.year())).toOption)
+        .toSeq
+        .sortBy(_._1)
       year <- yearOption
       minAvgMax = MinAvgMax(datesAndRatings.map(_._2))
     } yield (year.toString, minAvgMax)

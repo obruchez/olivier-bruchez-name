@@ -5,7 +5,7 @@ import models._
 import models.ListItems._
 import org.joda.time.Partial
 import scala.util.Try
-import scala.xml.{ Node, XML }
+import scala.xml.{Node, XML}
 import util._
 
 case class Article(override val date: Partial,
@@ -16,11 +16,7 @@ case class Article(override val date: Partial,
                    override val itemSlug: Option[String] = None,
                    override val itemUrl: Option[String] = None,
                    override val next: Boolean = false)
-  extends ListItem(
-    date,
-    HtmlContent.fromNonHtmlString(s"$title"),
-    itemSlug,
-    itemUrl) {
+    extends ListItem(date, HtmlContent.fromNonHtmlString(s"$title"), itemSlug, itemUrl) {
   type T = Article
 
   override def withNext(next: Boolean): Article = copy(next = next)
@@ -37,12 +33,14 @@ object Article {
       title = titleNode.text.trim,
       subtitle = Option((rootNode \\ "subtitle").text.trim).filter(_.nonEmpty),
       url = Option((titleNode \@ "url").trim).filter(_.nonEmpty).map(new URL(_)),
-      comments = Parsing.commentsFromNodeChildren((rootNode \\ "comments").headOption))
+      comments = Parsing.commentsFromNodeChildren((rootNode \\ "comments").headOption)
+    )
   }
 }
 
 case class Articles(override val introduction: Option[Introduction],
-                    override val listItems: Seq[Article]) extends Cacheable
+                    override val listItems: Seq[Article])
+    extends Cacheable
 
 object Articles extends Fetchable {
   type C = Articles
@@ -53,10 +51,11 @@ object Articles extends Fetchable {
 
   override def fetch(): Try[Articles] = apply(sourceUrlWithNoCacheParameter)
 
-  def apply(url: URL): Try[Articles] = for {
-    xml <- Try(XML.load(url))
-    articles <- apply(xml)
-  } yield articles
+  def apply(url: URL): Try[Articles] =
+    for {
+      xml <- Try(XML.load(url))
+      articles <- apply(xml)
+    } yield articles
 
   def apply(rootNode: Node): Try[Articles] = Try {
     val articlesNode = (rootNode \\ "articles").head

@@ -2,10 +2,10 @@ package blogger
 
 import com.google.api.client.googleapis.javanet.GoogleNetHttpTransport
 import com.google.api.client.json.jackson2.JacksonFactory
-import com.google.api.services.blogger.{ Blogger => BloggerService }
+import com.google.api.services.blogger.{Blogger => BloggerService}
 import models.HtmlContent
 import org.joda.time.LocalDateTime
-import util.{ Configuration, Strings }
+import util.{Configuration, Strings}
 
 object Blogger {
   private val httpTransport = GoogleNetHttpTransport.newTrustedTransport()
@@ -28,15 +28,18 @@ object Blogger {
   def latestPosts(count: Int): Seq[BloggerPost] = {
     import scala.collection.JavaConversions._
 
-    val posts = blogger.posts().list(blogId).setMaxResults(count.toLong).setKey(apiKey).execute().getItems
+    val posts =
+      blogger.posts().list(blogId).setMaxResults(count.toLong).setKey(apiKey).execute().getItems
 
     for (post <- posts.iterator().toSeq)
-      yield BloggerPost(
-        title = post.getTitle,
-        url = post.getUrl,
-        publicationDate = new LocalDateTime(post.getPublished.getValue),
-        content = HtmlContent(post.getContent),
-        labels = post.getLabels)
+      yield
+        BloggerPost(
+          title = post.getTitle,
+          url = post.getUrl,
+          publicationDate = new LocalDateTime(post.getPublished.getValue),
+          content = HtmlContent(post.getContent),
+          labels = post.getLabels
+        )
   }
 
   protected def permalinkFromUrl(url: String): String = {

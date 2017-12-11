@@ -1,9 +1,9 @@
 package models.about
 
 import java.net.URL
-import models.{ Cacheable, Fetchable, Introduction }
+import models.{Cacheable, Fetchable, Introduction}
 import scala.util.Try
-import scala.xml.{ Node, XML }
+import scala.xml.{Node, XML}
 import util._
 
 case class ProfileSubItem(description: String, url: String)
@@ -20,10 +20,11 @@ object ProfileItem {
   def apply(rootNode: Node): Try[ProfileItem] = Try {
     val profileSubItemsSeq = (rootNode \\ "subitem").map(ProfileSubItem(_).get)
 
-    val allProfileSubItemsSeq = if (profileSubItemsSeq.nonEmpty)
-      profileSubItemsSeq
-    else
-      Seq(ProfileSubItem(description = rootNode.text, url = rootNode \@ "url"))
+    val allProfileSubItemsSeq =
+      if (profileSubItemsSeq.nonEmpty)
+        profileSubItemsSeq
+      else
+        Seq(ProfileSubItem(description = rootNode.text, url = rootNode \@ "url"))
 
     ProfileItem(allProfileSubItemsSeq)
   }
@@ -40,29 +41,31 @@ object ProfileList {
   }
 }
 
-case class Profile(override val introduction: Option[Introduction],
-                   profileLists: Seq[ProfileList]) extends Cacheable {
+case class Profile(override val introduction: Option[Introduction], profileLists: Seq[ProfileList])
+    extends Cacheable {
+
   /**
-   * @param partNumber 0-based part number (maximum value can be partCount - 1)
-   * @param partCount total number of parts
-   * @return a subset of the ProfileList instances corresponding to the (partNumber + 1)-th part when dividing all the
-   *         ProfileList instances into partCount parts
-   */
+    * @param partNumber 0-based part number (maximum value can be partCount - 1)
+    * @param partCount total number of parts
+    * @return a subset of the ProfileList instances corresponding to the (partNumber + 1)-th part when dividing all the
+    *         ProfileList instances into partCount parts
+    */
   def partOfProfileLists(partNumber: Int, partCount: Int): Seq[ProfileList] = {
     val totalProfileItemCount = profileLists.map(_.profileItems.size).sum
 
     var startInColumns = 0.0
 
-    val profileListEndsInColumns = for ((profileList, profileListIndex) <- profileLists.zipWithIndex) yield {
-      val profileListLengthInColumns =
-        partCount * profileList.profileItems.size.toDouble / totalProfileItemCount.toDouble
+    val profileListEndsInColumns =
+      for ((profileList, profileListIndex) <- profileLists.zipWithIndex) yield {
+        val profileListLengthInColumns =
+          partCount * profileList.profileItems.size.toDouble / totalProfileItemCount.toDouble
 
-      val pair = profileListIndex -> startInColumns
+        val pair = profileListIndex -> startInColumns
 
-      startInColumns += profileListLengthInColumns
+        startInColumns += profileListLengthInColumns
 
-      pair
-    }
+        pair
+      }
 
     for {
       (index, startInColumns) <- profileListEndsInColumns
@@ -82,10 +85,11 @@ object Profile extends Fetchable {
 
   override def fetch(): Try[Profile] = apply(sourceUrlWithNoCacheParameter)
 
-  def apply(url: URL): Try[Profile] = for {
-    xml <- Try(XML.load(url))
-    profile <- apply(xml)
-  } yield profile
+  def apply(url: URL): Try[Profile] =
+    for {
+      xml <- Try(XML.load(url))
+      profile <- apply(xml)
+    } yield profile
 
   def apply(rootNode: Node): Try[Profile] = Try {
     val profileNode = (rootNode \\ "profile").head

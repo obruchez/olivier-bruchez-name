@@ -17,16 +17,16 @@ object Parsing {
     val shortVersionOption = introductions.headOption
     val fullVersion = HtmlContent.fromHtmlString(introductions.map(_.htmlString).mkString(" "))
 
-    shortVersionOption.map(shortVersion => Introduction(shortVersion = shortVersion, fullVersion = fullVersion))
+    shortVersionOption.map(shortVersion =>
+      Introduction(shortVersion = shortVersion, fullVersion = fullVersion))
   }
 
-  def picturesFromNode(node: Node): Seq[Pictures] = for {
-    pictures <- node \\ "pictures"
-    title = pictures.text
-    url = pictures \@ "url"
-  } yield Pictures(
-    title = Option(title.trim).filter(_.nonEmpty),
-    url = new URL(url))
+  def picturesFromNode(node: Node): Seq[Pictures] =
+    for {
+      pictures <- node \\ "pictures"
+      title = pictures.text
+      url = pictures \@ "url"
+    } yield Pictures(title = Option(title.trim).filter(_.nonEmpty), url = new URL(url))
 
   def commentsFromString(string: String): Option[HtmlContent] =
     Option(string).map(_.trim).filter(_.nonEmpty).map(HtmlContent(_))

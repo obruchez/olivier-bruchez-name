@@ -6,8 +6,8 @@ import models.lifelogging.Movies
 import scala.util._
 import util._
 
-case class MoviesToWatch(override val introduction: Option[Introduction],
-                         content: HtmlContent) extends Cacheable
+case class MoviesToWatch(override val introduction: Option[Introduction], content: HtmlContent)
+    extends Cacheable
 
 object MoviesToWatch extends Fetchable {
   type C = MoviesToWatch
@@ -18,8 +18,9 @@ object MoviesToWatch extends Fetchable {
 
   override def fetch(): Try[MoviesToWatch] = apply(sourceUrlWithNoCacheParameter)
 
-  def apply(url: URL): Try[MoviesToWatch] = for {
-    markdownContent <- MarkdownContent(url)
-    (introduction, content) <- markdownContent.toIntroductionAndMainContent
- } yield MoviesToWatch(introduction, content)
+  def apply(url: URL): Try[MoviesToWatch] =
+    for {
+      markdownContent <- MarkdownContent(url)
+      (introduction, content) <- markdownContent.toIntroductionAndMainContent
+    } yield MoviesToWatch(introduction, content)
 }

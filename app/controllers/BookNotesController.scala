@@ -16,27 +16,28 @@ object BookNotesController extends Controller {
     } yield result
   }
 
-  private def resultFromSlug(books: Books, slug: String): Future[Result] = books.notesFromSlug(slug) match {
-    case Some(notes) =>
-      val page = books.pageFromNotes(notes)
+  private def resultFromSlug(books: Books, slug: String): Future[Result] =
+    books.notesFromSlug(slug) match {
+      case Some(notes) =>
+        val page = books.pageFromNotes(notes)
 
-      Cache.fileContent(notes.fileSource) map {
-        case markdownContent: MarkdownContent =>
-          markdownContent.withoutHeadingTitle.toHtmlContent match {
-            case Success(htmlContent) =>
-              Ok(views.html.markdown(page, introduction = None, htmlContent))
-            case Failure(throwable) =>
-              Ok(views.html.error(page, throwable))
-          }
+        Cache.fileContent(notes.fileSource) map {
+          case markdownContent: MarkdownContent =>
+            markdownContent.withoutHeadingTitle.toHtmlContent match {
+              case Success(htmlContent) =>
+                Ok(views.html.markdown(page, introduction = None, htmlContent))
+              case Failure(throwable) =>
+                Ok(views.html.error(page, throwable))
+            }
 
-        case binaryContent: BinaryContent =>
-          Ok(binaryContent.content).as(binaryContent.fileType.mimeType)
-        case _ =>
-          NotImplemented
-      }
-    case None =>
-      Future(NotFound)
-  }
+          case binaryContent: BinaryContent =>
+            Ok(binaryContent.content).as(binaryContent.fileType.mimeType)
+          case _ =>
+            NotImplemented
+        }
+      case None =>
+        Future(NotFound)
+    }
 
   implicit class BooksOps(books: Books) {
     def pageFromNotes(bookNotes: BookNotes): Page = {
@@ -48,11 +49,10 @@ object BookNotesController extends Controller {
         else
           s"${book.title} (${bookNotes.description.getOrElse(BookNotes.DefaultDescription)})"
 
-      Page(
-        title = pageTitle,
-        url = routes.BookNotesController.bookNotes(bookNotes.slug).url,
-        icon = Sitemap.books.icon,
-        fetchables = Seq(bookNotes.fileSource))
+      Page(title = pageTitle,
+           url = routes.BookNotesController.bookNotes(bookNotes.slug).url,
+           icon = Sitemap.books.icon,
+           fetchables = Seq(bookNotes.fileSource))
     }
   }
 }

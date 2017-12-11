@@ -17,7 +17,8 @@ case class GetCachingTime[F <: Fetchable](fetchable: F) extends CacheMessage
 
 sealed trait CacheResultMessage
 case class CacheResult[F <: Fetchable](fetchable: F, cacheable: F#C) extends CacheResultMessage
-case class CachingTimeResult[F <: Fetchable](fetchable: F, cachingTime: Option[DateTime]) extends CacheResultMessage
+case class CachingTimeResult[F <: Fetchable](fetchable: F, cachingTime: Option[DateTime])
+    extends CacheResultMessage
 
 class Cache extends Actor {
   case class CachedValue(cacheable: Cacheable, cachingTime: DateTime)
@@ -46,7 +47,8 @@ class Cache extends Actor {
     case GetCachingTime(fetchable) =>
       Logger.debug(s"GetCachingTime(${fetchable.name})")
 
-      sender ! CachingTimeResult(fetchable, cachingTime = cachedValues.get(fetchable).map(_.cachingTime))
+      sender ! CachingTimeResult(fetchable,
+                                 cachingTime = cachedValues.get(fetchable).map(_.cachingTime))
   }
 }
 

@@ -5,7 +5,7 @@ import models._
 import models.ListItems._
 import org.joda.time.Partial
 import scala.util.Try
-import scala.xml.{ Node, XML }
+import scala.xml.{Node, XML}
 import util._
 
 case class Comic(override val date: Partial,
@@ -21,11 +21,11 @@ case class Comic(override val date: Partial,
                  override val itemSlug: Option[String] = None,
                  override val itemUrl: Option[String] = None,
                  override val next: Boolean = false)
-  extends ListItem(
-    date,
-    HtmlContent.fromNonHtmlString(s"${Comics.authorSummary(writer, artist)} - $volume"),
-    itemSlug,
-    itemUrl) {
+    extends ListItem(
+      date,
+      HtmlContent.fromNonHtmlString(s"${Comics.authorSummary(writer, artist)} - $volume"),
+      itemSlug,
+      itemUrl) {
   type T = Comic
 
   override def withNext(next: Boolean): Comic = copy(next = next)
@@ -48,12 +48,14 @@ object Comic {
       volume = volumeNode.text.trim,
       volumeNumber = Option((volumeNode \@ "number").trim).filter(_.nonEmpty).map(_.toInt),
       volumeUrl = Option((volumeNode \@ "url").trim).filter(_.nonEmpty).map(new URL(_)),
-      comments = Parsing.commentsFromNodeChildren((rootNode \\ "comments").headOption))
+      comments = Parsing.commentsFromNodeChildren((rootNode \\ "comments").headOption)
+    )
   }
 }
 
 case class Comics(override val introduction: Option[Introduction],
-                  override val listItems: Seq[Comic]) extends Cacheable
+                  override val listItems: Seq[Comic])
+    extends Cacheable
 
 object Comics extends Fetchable {
   type C = Comics
@@ -64,10 +66,11 @@ object Comics extends Fetchable {
 
   override def fetch(): Try[Comics] = apply(sourceUrlWithNoCacheParameter)
 
-  def apply(url: URL): Try[Comics] = for {
-    xml <- Try(XML.load(url))
-    comics <- apply(xml)
-  } yield comics
+  def apply(url: URL): Try[Comics] =
+    for {
+      xml <- Try(XML.load(url))
+      comics <- apply(xml)
+    } yield comics
 
   def apply(rootNode: Node): Try[Comics] = Try {
     val comicsNode = (rootNode \\ "comics").head

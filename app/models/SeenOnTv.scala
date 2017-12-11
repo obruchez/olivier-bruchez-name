@@ -4,8 +4,8 @@ import java.net.URL
 import scala.util._
 import util._
 
-case class SeenOnTv(override val introduction: Option[Introduction],
-                    content: HtmlContent) extends Cacheable
+case class SeenOnTv(override val introduction: Option[Introduction], content: HtmlContent)
+    extends Cacheable
 
 object SeenOnTv extends Fetchable {
   type C = SeenOnTv
@@ -16,8 +16,9 @@ object SeenOnTv extends Fetchable {
 
   override def fetch(): Try[SeenOnTv] = apply(sourceUrlWithNoCacheParameter)
 
-  def apply(url: URL): Try[SeenOnTv] = for {
-    markdownContent <- MarkdownContent(url)
-    (introduction, content) <- markdownContent.toIntroductionAndMainContent
-  } yield SeenOnTv(introduction, content)
+  def apply(url: URL): Try[SeenOnTv] =
+    for {
+      markdownContent <- MarkdownContent(url)
+      (introduction, content) <- markdownContent.toIntroductionAndMainContent
+    } yield SeenOnTv(introduction, content)
 }

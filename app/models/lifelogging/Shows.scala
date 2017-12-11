@@ -5,7 +5,7 @@ import models._
 import models.ListItems._
 import org.joda.time.Partial
 import scala.util.Try
-import scala.xml.{ Node, XML }
+import scala.xml.{Node, XML}
 import util._
 
 case class Show(override val date: Partial,
@@ -48,12 +48,13 @@ object Show {
       series = Option(seriesNode.text.trim).filter(_.nonEmpty),
       seriesUrl = Option((seriesNode \@ "url").trim).filter(_.nonEmpty).map(new URL(_)),
       seriesType = SeriesType.fromString((seriesNode \@ "type").trim),
-      comments = Parsing.commentsFromNodeChildren((rootNode \\ "comments").headOption))
+      comments = Parsing.commentsFromNodeChildren((rootNode \\ "comments").headOption)
+    )
   }
 }
 
-case class Shows(override val introduction: Option[Introduction],
-                  override val listItems: Seq[Show]) extends Cacheable
+case class Shows(override val introduction: Option[Introduction], override val listItems: Seq[Show])
+    extends Cacheable
 
 object Shows extends Fetchable {
   type C = Shows
@@ -64,10 +65,11 @@ object Shows extends Fetchable {
 
   override def fetch(): Try[Shows] = apply(sourceUrlWithNoCacheParameter)
 
-  def apply(url: URL): Try[Shows] = for {
-    xml <- Try(XML.load(url))
-    shows <- apply(xml)
-  } yield shows
+  def apply(url: URL): Try[Shows] =
+    for {
+      xml <- Try(XML.load(url))
+      shows <- apply(xml)
+    } yield shows
 
   def apply(rootNode: Node): Try[Shows] = Try {
     val showsNode = (rootNode \\ "shows").head

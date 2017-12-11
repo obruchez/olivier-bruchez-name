@@ -10,7 +10,7 @@ import models.todo.{TripsToTake, MoviesToWatch, BooksToRead}
 import models.twitter.Tweets
 import play.api.libs.concurrent.Execution.Implicits._
 import play.api.mvc._
-import models.{ PdfCv, WordCv }
+import models.{PdfCv, WordCv}
 import scala.concurrent.Future
 
 object Application extends Controller {
@@ -23,13 +23,18 @@ object Application extends Controller {
         if page.fetchables.size == 1
         fetchable <- page.fetchables
       } yield {
-        Cache.get(fetchable).map(_.latestItems(fetchable, page, count = MaxItemCount)).map(_ -> page)
+        Cache
+          .get(fetchable)
+          .map(_.latestItems(fetchable, page, count = MaxItemCount))
+          .map(_ -> page)
       }
     }
 
     for {
       allListItems <- allListItemsFuture
-      recentActivityListItemsWithPages = allListItems.filter(_._1.listItems.nonEmpty).sortBy(_._1.fetchable.name.toLowerCase)
+      recentActivityListItemsWithPages = allListItems
+        .filter(_._1.listItems.nonEmpty)
+        .sortBy(_._1.fetchable.name.toLowerCase)
       posts <- Cache.get(Posts)
       tweets <- Cache.get(Tweets)
     } yield {
@@ -49,7 +54,9 @@ object Application extends Controller {
     Cache.get(LifePrinciples).map(lifePrinciples => Ok(views.html.lifeprinciples(lifePrinciples)))
   }
 
-  def worldview = Action.async { Cache.get(Worldview).map(worldview => Ok(views.html.worldview(worldview))) }
+  def worldview = Action.async {
+    Cache.get(Worldview).map(worldview => Ok(views.html.worldview(worldview)))
+  }
 
   def lifelogging = Action.async {
     Page.introductionsFromPages(Sitemap.lifelogging.children) map { pagesAndIntroductions =>
@@ -57,19 +64,25 @@ object Application extends Controller {
     }
   }
 
-  def articles = Action.async { Cache.get(Articles).map(articles => Ok(views.html.articles(articles))) }
+  def articles = Action.async {
+    Cache.get(Articles).map(articles => Ok(views.html.articles(articles)))
+  }
 
   def books = Action.async { Cache.get(Books).map(books => Ok(views.html.books(books))) }
 
   def comics = Action.async { Cache.get(Comics).map(comics => Ok(views.html.comics(comics))) }
 
-  def concerts =  Action.async { Cache.get(Concerts).map(concerts => Ok(views.html.concerts(concerts))) }
+  def concerts = Action.async {
+    Cache.get(Concerts).map(concerts => Ok(views.html.concerts(concerts)))
+  }
 
-  def courses =  Action.async { Cache.get(Courses).map(courses => Ok(views.html.courses(courses))) }
+  def courses = Action.async { Cache.get(Courses).map(courses => Ok(views.html.courses(courses))) }
 
   def crashes = Action.async { Cache.get(Crashes).map(crashes => Ok(views.html.crashes(crashes))) }
 
-  def exhibitions = Action.async { Cache.get(Exhibitions).map(exhibitions => Ok(views.html.exhibitions(exhibitions))) }
+  def exhibitions = Action.async {
+    Cache.get(Exhibitions).map(exhibitions => Ok(views.html.exhibitions(exhibitions)))
+  }
 
   def hikes = Action.async { Cache.get(Hikes).map(hikes => Ok(views.html.hikes(hikes))) }
 
@@ -77,7 +90,9 @@ object Application extends Controller {
 
   def plays = Action.async { Cache.get(Plays).map(plays => Ok(views.html.plays(plays))) }
 
-  def podcasts = Action.async { Cache.get(Podcasts).map(podcasts => Ok(views.html.podcasts(podcasts))) }
+  def podcasts = Action.async {
+    Cache.get(Podcasts).map(podcasts => Ok(views.html.podcasts(podcasts)))
+  }
 
   def shows = Action.async { Cache.get(Shows).map(shows => Ok(views.html.shows(shows))) }
 
@@ -96,10 +111,10 @@ object Application extends Controller {
   }
 
   def seenOnTv = Action.async {
-      Cache.get(SeenOnTv) map { seenOnTv =>
-        Ok(views.html.markdown(Sitemap.seenOnTv, seenOnTv.introduction, seenOnTv.content))
-      }
+    Cache.get(SeenOnTv) map { seenOnTv =>
+      Ok(views.html.markdown(Sitemap.seenOnTv, seenOnTv.introduction, seenOnTv.content))
     }
+  }
 
   def votes = Action.async {
     Cache.get(Votes) map { votes =>
@@ -115,7 +130,9 @@ object Application extends Controller {
 
   def moviesToWatch = Action.async {
     Cache.get(MoviesToWatch) map { moviesToWatch =>
-      Ok(views.html.markdown(Sitemap.moviesToWatch, moviesToWatch.introduction, moviesToWatch.content))
+      Ok(
+        views.html
+          .markdown(Sitemap.moviesToWatch, moviesToWatch.introduction, moviesToWatch.content))
     }
   }
 
@@ -139,7 +156,9 @@ object Application extends Controller {
 
   def wordCv = Action.async {
     Cache.get(WordCv) map { wordCv =>
-      Ok(wordCv.binaryContent.content).as(wordCv.binaryContent.fileType.mimeType).withFilename(WordCv.DownloadFilename)
+      Ok(wordCv.binaryContent.content)
+        .as(wordCv.binaryContent.fileType.mimeType)
+        .withFilename(WordCv.DownloadFilename)
     }
   }
 
@@ -149,7 +168,9 @@ object Application extends Controller {
     }
   }
 
-  def contacts = Action.async { Cache.get(Contacts).map(contacts => Ok(views.html.contacts(contacts))) }
+  def contacts = Action.async {
+    Cache.get(Contacts).map(contacts => Ok(views.html.contacts(contacts)))
+  }
 
   def reload = Action {
     actors.Master.forceFetch()

@@ -4,8 +4,8 @@ import java.net.URL
 import scala.util._
 import util._
 
-case class Votes(override val introduction: Option[Introduction],
-                 content: HtmlContent) extends Cacheable
+case class Votes(override val introduction: Option[Introduction], content: HtmlContent)
+    extends Cacheable
 
 object Votes extends Fetchable {
   type C = Votes
@@ -16,8 +16,9 @@ object Votes extends Fetchable {
 
   override def fetch(): Try[Votes] = apply(sourceUrlWithNoCacheParameter)
 
-  def apply(url: URL): Try[Votes] = for {
-    markdownContent <- MarkdownContent(url)
-    (introduction, content) <- markdownContent.toIntroductionAndMainContent
-  } yield Votes(introduction, content)
+  def apply(url: URL): Try[Votes] =
+    for {
+      markdownContent <- MarkdownContent(url)
+      (introduction, content) <- markdownContent.toIntroductionAndMainContent
+    } yield Votes(introduction, content)
 }

@@ -14,5 +14,5 @@ object Imdb {
   - display UI elements to search IMDb on /movies page, but only in dev mode (play.api.Play.isDev(play.api.Play.current()))
   - display a select element with search results
   - add download link to download movies.xml file (modify it in memory using JSoup)
-   */
+ */
 }

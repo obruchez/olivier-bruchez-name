@@ -1,6 +1,7 @@
 package models.statistics
 
-case class PieChartValue[T](value: T, label: String, color: Color, lighterColor: Color)(implicit ev: Numeric[T])
+case class PieChartValue[T](value: T, label: String, color: Color, lighterColor: Color)(
+    implicit ev: Numeric[T])
 
 case class PieChart[T](baseId: String,
                        title: String,
@@ -29,25 +30,30 @@ object PieChart {
       title = title,
       entityName = entityName,
       valueUnit = valueUnit,
-      values =
-        minimalValuesSet.zipWithIndex.map { case ((value, label), index) =>
-          PieChartValue(value, label, colors(index), colors(index).lighterOrDarker(LighterOrDarkerFactor))
-        })
+      values = minimalValuesSet.zipWithIndex.map {
+        case ((value, label), index) =>
+          PieChartValue(value,
+                        label,
+                        colors(index),
+                        colors(index).lighterOrDarker(LighterOrDarkerFactor))
+      }
+    )
   }
 
-  private def minimalValuesSet[T](values: Seq[(T, String)],
-                                  thresholdOption: Option[T],
-                                  maxValueCountOption: Option[Int],
-                                  otherValuesLabel: String)(implicit num: Numeric[T]): Seq[(T, String)] = {
+  private def minimalValuesSet[T](
+      values: Seq[(T, String)],
+      thresholdOption: Option[T],
+      maxValueCountOption: Option[Int],
+      otherValuesLabel: String)(implicit num: Numeric[T]): Seq[(T, String)] = {
     val (valuesToKeepByThreshold, valuesToAggregateByThreshold) =
-      thresholdOption.
-        map(threshold => values.partition(value => num.gteq(value._1, threshold))).
-        getOrElse((values, Seq()))
+      thresholdOption
+        .map(threshold => values.partition(value => num.gteq(value._1, threshold)))
+        .getOrElse((values, Seq()))
 
     val (valuesToKeepByMaxValueCount, valuesToAggregateByMaxValueCount) =
-      maxValueCountOption.
-        map(maxValueCount => (values.take(maxValueCount - 1), values.drop(maxValueCount - 1))).
-        getOrElse((values, Seq()))
+      maxValueCountOption
+        .map(maxValueCount => (values.take(maxValueCount - 1), values.drop(maxValueCount - 1)))
+        .getOrElse((values, Seq()))
 
     val (valuesToKeep, valuesToAggregate) =
       if (valuesToKeepByThreshold.size < valuesToKeepByMaxValueCount.size)

@@ -8,7 +8,8 @@ object FileType {
   case object Markdown extends FileType("text/x-markdown")
   case object Pdf extends FileType("application/pdf")
   case object Word extends FileType("application/msword")
-  case object WordXml extends FileType("application/vnd.openxmlformats-officedocument.wordprocessingml.document")
+  case object WordXml
+      extends FileType("application/vnd.openxmlformats-officedocument.wordprocessingml.document")
   case object Html extends FileType("text/html")
   case object Other extends FileType("application/octet-stream")
 
@@ -33,7 +34,8 @@ object FileType {
 
     // Remove any URL parameter
     val parametersIndex = urlString.lastIndexOf("?")
-    val normalizedUrlString = if (parametersIndex < 0) urlString else urlString.substring(0, parametersIndex)
+    val normalizedUrlString =
+      if (parametersIndex < 0) urlString else urlString.substring(0, parametersIndex)
 
     fileTypeFromFilename(normalizedUrlString)
   }

@@ -4,7 +4,7 @@ import java.net.URL
 import models._
 import org.joda.time.Partial
 import scala.util.Try
-import scala.xml.{ Node, XML }
+import scala.xml.{Node, XML}
 import util.Date._
 import util._
 
@@ -28,27 +28,31 @@ object WorldviewPosition {
       summary = MarkdownContent(rootNode \@ "summary").toHtmlContent.get,
       details = MarkdownContent(rootNode.text).toHtmlContent.get,
       dateAdded = Parsing.dateFromString((rootNode \@ "added").trim).get,
-      itemSlug = Some((rootNode \@ "slug").trim))
+      itemSlug = Some((rootNode \@ "slug").trim)
+    )
   }
 }
 
-case class WorldviewCategory(description: HtmlContent, worldviewPositions: Seq[WorldviewPosition], slug: String)
+case class WorldviewCategory(description: HtmlContent,
+                             worldviewPositions: Seq[WorldviewPosition],
+                             slug: String)
 
 object WorldviewCategory {
   def apply(rootNode: Node): Try[WorldviewCategory] = Try {
     val worldviewPositionsSeq = (rootNode \\ "position").map(WorldviewPosition(_).get)
 
-    WorldviewCategory(
-      description = MarkdownContent(rootNode \@ "description").toHtmlContent.get,
-      worldviewPositions = worldviewPositionsSeq,
-      slug = (rootNode \@ "slug").trim)
+    WorldviewCategory(description = MarkdownContent(rootNode \@ "description").toHtmlContent.get,
+                      worldviewPositions = worldviewPositionsSeq,
+                      slug = (rootNode \@ "slug").trim)
   }
 }
 
 case class Worldview(override val introduction: Option[Introduction],
                      worldviewCategories: Seq[WorldviewCategory],
-                     references: Seq[HtmlContent]) extends Cacheable {
-  override val listItems = worldviewCategories.flatMap(_.worldviewPositions).sortBy(_.dateAdded.yyyymmddString).reverse
+                     references: Seq[HtmlContent])
+    extends Cacheable {
+  override val listItems =
+    worldviewCategories.flatMap(_.worldviewPositions).sortBy(_.dateAdded.yyyymmddString).reverse
 }
 
 object Worldview extends Fetchable {
@@ -60,10 +64,11 @@ object Worldview extends Fetchable {
 
   override def fetch(): Try[Worldview] = apply(sourceUrlWithNoCacheParameter)
 
-  def apply(url: URL): Try[Worldview] = for {
-     xml <- Try(XML.load(url))
-     profile <- apply(xml)
-   } yield profile
+  def apply(url: URL): Try[Worldview] =
+    for {
+      xml <- Try(XML.load(url))
+      profile <- apply(xml)
+    } yield profile
 
   def apply(rootNode: Node): Try[Worldview] = Try {
     val worldviewNode = (rootNode \\ "worldview").head
@@ -77,6 +82,6 @@ object Worldview extends Fetchable {
       referenceAsMarkdown = reference.text
     } yield MarkdownContent(referenceAsMarkdown).toHtmlContent.get
 
-     Worldview(introduction, worldviewCategories, references)
-   }
+    Worldview(introduction, worldviewCategories, references)
+  }
 }

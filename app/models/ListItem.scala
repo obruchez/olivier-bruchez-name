@@ -42,7 +42,8 @@ case class ListItems(listItems: Seq[ListItem], fetchable: Fetchable) {
 object ListItems {
   implicit class ListItemsOps[L <: ListItem](listItems: Seq[L]) {
     def withNextFlags: Seq[L#T] = {
-      val headItemWithNoDateCount = listItems.takeWhile(li => li.date.emptyDate || li.date.futureDate).size
+      val headItemWithNoDateCount =
+        listItems.takeWhile(li => li.date.emptyDate || li.date.futureDate).size
 
       for {
         (listItem, index) <- listItems.zipWithIndex
@@ -50,14 +51,16 @@ object ListItems {
       } yield listItem.withNext(next = next)
     }
 
-    def withSlugs: Seq[L#T] = for {
-      listItem <- listItems
-      slug = ListItem.slug(listItem, listItems)
-    } yield listItem.withSlug(Some(slug))
+    def withSlugs: Seq[L#T] =
+      for {
+        listItem <- listItems
+        slug = ListItem.slug(listItem, listItems)
+      } yield listItem.withSlug(Some(slug))
 
-    def withUrls(page: Page): Seq[L#T] = for {
-      listItem <- listItems
-      url = listItem.itemSlug.map(itemSlug => Slug.withBaseUrl(page.url, itemSlug))
-    } yield listItem.withUrl(url)
+    def withUrls(page: Page): Seq[L#T] =
+      for {
+        listItem <- listItems
+        url = listItem.itemSlug.map(itemSlug => Slug.withBaseUrl(page.url, itemSlug))
+      } yield listItem.withUrl(url)
   }
 }

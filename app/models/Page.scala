@@ -30,7 +30,7 @@ object Page {
       // Take only first fetchable into account
       val introductionFuture = page.fetchables.headOption match {
         case Some(fetchable) => Cache.get(fetchable).map(cacheable => cacheable.introduction)
-        case None => Future(None)
+        case None            => Future(None)
       }
       introductionFuture.map(page -> _)
     }

@@ -7,7 +7,7 @@ import models.ListItems._
 import org.joda.time.Partial
 import util._
 import scala.util.Try
-import scala.xml.{ Node, XML }
+import scala.xml.{Node, XML}
 
 sealed abstract class SpecialLocation(val description: String)
 case object Home extends SpecialLocation("Home")
@@ -58,12 +58,14 @@ object Movie {
       version = Option((rootNode \\ "version").text.trim).filter(_.nonEmpty).map(new Locale(_)),
       rating = Parsing.ratingFromString((rootNode \\ "rating").text),
       comments = Parsing.commentsFromNodeChildren((rootNode \\ "comments").headOption),
-      url = Option((rootNode \\ "url").text.trim).filter(_.nonEmpty).map(new URL(_)))
+      url = Option((rootNode \\ "url").text.trim).filter(_.nonEmpty).map(new URL(_))
+    )
   }
 }
 
 case class Movies(override val introduction: Option[Introduction],
-                  override val listItems: Seq[Movie]) extends Cacheable
+                  override val listItems: Seq[Movie])
+    extends Cacheable
 
 object Movies extends Fetchable {
   type C = Movies
@@ -74,10 +76,11 @@ object Movies extends Fetchable {
 
   override def fetch(): Try[Movies] = apply(sourceUrlWithNoCacheParameter)
 
-  def apply(url: URL): Try[Movies] = for {
-    xml <- Try(XML.load(url))
-    movies <- apply(xml)
-  } yield movies
+  def apply(url: URL): Try[Movies] =
+    for {
+      xml <- Try(XML.load(url))
+      movies <- apply(xml)
+    } yield movies
 
   def apply(rootNode: Node): Try[Movies] = Try {
     val moviesNode = (rootNode \\ "movies").head

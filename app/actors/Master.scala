@@ -19,7 +19,8 @@ class Master extends Actor {
       Logger.info(s"Checking cache...")
 
       // Retrieve caching times of all fetchables from Sitemap
-      val sequenceOfFutures = Sitemap.fetchables.map(fetchable => Cache.cachingTime(fetchable).map(fetchable -> _))
+      val sequenceOfFutures =
+        Sitemap.fetchables.map(fetchable => Cache.cachingTime(fetchable).map(fetchable -> _))
 
       Future.sequence(sequenceOfFutures) foreach { fetchablesAndCachingTimes =>
         val currentTime = new DateTime()
@@ -38,7 +39,9 @@ class Master extends Actor {
 
       if (reschedule) {
         Logger.info(s"Reschedule CheckCache (force = $force)")
-        system.scheduler.scheduleOnce(Master.CheckPeriod, self, CheckCache(force = force, reschedule = true))
+        system.scheduler.scheduleOnce(Master.CheckPeriod,
+                                      self,
+                                      CheckCache(force = force, reschedule = true))
       } else {
         Logger.info(s"Do not reschedule CheckCache (force = $force)")
       }
@@ -51,7 +54,8 @@ object Master {
   lazy val system = ActorSystem("System")
   lazy val master = system.actorOf(Props[Master], name = "master")
   lazy val cache = system.actorOf(Props[Cache], name = "cache")
-  lazy val fetcherRouter = system.actorOf(RoundRobinPool(10).props(Props(new Fetcher(cache))), "fetcher-pool")
+  lazy val fetcherRouter =
+    system.actorOf(RoundRobinPool(10).props(Props(new Fetcher(cache))), "fetcher-pool")
 
   def start(): Unit = {
     master ! CheckCache(force = false, reschedule = true)

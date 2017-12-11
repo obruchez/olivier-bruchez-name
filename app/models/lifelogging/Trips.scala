@@ -5,7 +5,7 @@ import models._
 import models.ListItems._
 import org.joda.time.Partial
 import scala.util.Try
-import scala.xml.{ Node, XML }
+import scala.xml.{Node, XML}
 import util._
 
 case class Trip(from: Partial,
@@ -35,12 +35,13 @@ object Trip {
       to = Parsing.dateFromString((rootNode \\ "to").text).get,
       place = (rootNode \\ "place").text,
       pictures = Parsing.picturesFromNode(rootNode),
-      comments = Parsing.commentsFromNodeChildren((rootNode \\ "comments").headOption))
+      comments = Parsing.commentsFromNodeChildren((rootNode \\ "comments").headOption)
+    )
   }
 }
 
-case class Trips(override val introduction: Option[Introduction],
-                 override val listItems: Seq[Trip]) extends Cacheable
+case class Trips(override val introduction: Option[Introduction], override val listItems: Seq[Trip])
+    extends Cacheable
 
 object Trips extends Fetchable {
   type C = Trips
@@ -51,10 +52,11 @@ object Trips extends Fetchable {
 
   override def fetch(): Try[Trips] = apply(sourceUrlWithNoCacheParameter)
 
-  def apply(url: URL): Try[Trips] = for {
-    xml <- Try(XML.load(url))
-    trips <- apply(xml)
-  } yield trips
+  def apply(url: URL): Try[Trips] =
+    for {
+      xml <- Try(XML.load(url))
+      trips <- apply(xml)
+    } yield trips
 
   def apply(rootNode: Node): Try[Trips] = Try {
     val tripsNode = (rootNode \\ "trips").head
