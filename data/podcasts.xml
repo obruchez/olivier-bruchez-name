@@ -3,9 +3,15 @@
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
     <date></date>
+    <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
+    <episode url="https://www.samharris.org/podcast/item/is-life-actually-worth-living" number="107">Is Life Actually Worth Living? - A Conversation with David Benatar</episode>
+    <comments></comments>
+  </podcast>
+  <podcast>
+    <date>2017.12.12</date>
     <name url="http://peachandblack.podbean.com/">Peach &amp; Black Podcast</name>
     <episode url="http://peachandblack.podbean.com/e/mr-hayes-interview/">Mr. Hayes Interview</episode>
-    <comments></comments>
+    <comments>Morris Hayes has been in Prince's band or entourage for more than 20 years, until 2012, but he's definitely not Prince's most well-known and/or visible musician. He played on many studio sessions for songs I love, though (mainly in the 90s). He's also very humble and knows that he's no Herbie Hancock (to paraphrase him). I find those interviews interesting (musicians, engineers, etc.), but I wish somebody would write books with all those anecdotes, all those facts.</comments>
   </podcast>
   <podcast>
     <date>2017.12.08</date>
