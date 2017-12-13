@@ -3,13 +3,23 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Checklist: add rating to IMDb -->
   <movie>
+    <date>2017.12.12</date>
+    <theater>Le Capitole, Lausanne</theater>
+    <director>Louis Malle</director>
+    <title>Ascenseur pour l'échafaud</title>
+    <url>http://www.imdb.com/title/tt0051378/</url>
+    <rating>4.75</rating>
+    <comments>I've been familiar with Miles Davis' music for this movie for 25-30 years, but it was the first time I saw it. I've seen excerpts from it, but only a couple of minutes. I was also familiar with the titles on the soundtrack album ("L'Assassinat de Carala", "Sur L'Autoroute", etc.). It was a weird experience finally seing all those scenes. My verdict? It was not the movie I expected. The music is fantastic, hence my high rating, but I can't see it as a timeless classic. I can forgive the technical limitations (sound effects, sound quality, etc.). We're in 1957, after all. But the plot and dialogues are somewhat limited and naive, to the point of being (involuntarily) funny at times, which is not a good thing. A lot of the scenes are beautifully shot, though.</comments>
+    <image>Ascenseur pour l'échafaud.jpg</image>
+  </movie>
+  <movie>
     <date>2017.12.07</date>
     <theater home="true"/>
     <director>James Cameron</director>
     <title>The Terminator</title>
     <url>http://www.imdb.com/title/tt0088247/</url>
     <rating>3.5</rating>
-    <comments>This is a classic. I must admit I had probably never seen this movie before, at least in its entirety. I've heard about it. I knew the story. I knew the quotes. The problem with the classics is that they're hard to judge, especially when it comes to special effects. The ones in <i>The Terminator</i> looks like they're not even good for 1984 (sloppy stop motion, etc.). The story is really linear: a robot comes from the future to kill a woman who will give birth to a man who will fight the robots in the future; he's really hard to kill. Then you have a lot of car/truck chases and <em>a lot</em> of people getting killed. And there's one sex scene, of course. It's not a bad movie, though. It's probably even original for its time.s</comments>
+    <comments>This is a classic. I must admit I had probably never seen this movie before, at least in its entirety. I've heard about it. I knew the story. I knew the quotes. The problem with the classics is that they're hard to judge, especially when it comes to special effects. The ones in <i>The Terminator</i> looks like they're not even good for 1984 (sloppy stop motion, etc.). The story is really linear: a robot comes from the future to kill a woman who will give birth to a man who will fight the robots in the future; he's really hard to kill. Then you have a lot of car/truck chases and <em>a lot</em> of people getting killed. And there's one sex scene, of course. It's not a bad movie, though. It's probably even original for its time.</comments>
     <image>The Terminator.jpg</image>
   </movie>
   <movie>
@@ -5606,4 +5616,16 @@
   </movie>
   <!-- Court film d'animation vu en 2005 ou 2006 avec Denis : "Herr Würfel" de Rafael Sommerhalder, 2004 -->
   <!-- "Chéri, j'ai rétréci les gosses" également vu au cinéma ? -->
+  <!--
+  <movie>
+    <date></date>
+    <theater home="true"/>
+    <director></director>
+    <title></title>
+    <url></url>
+    <rating></rating>
+    <comments></comments>
+    <image></image>
+  </movie>
+  -->
 </movies>
