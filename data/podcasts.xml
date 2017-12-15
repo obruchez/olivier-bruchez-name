@@ -3,19 +3,15 @@
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
     <date></date>
+    <name url="http://verybadwizards.com/">Very Bad Wizards</name>
+    <episode url="https://verybadwizards.fireside.fm/106" number="106">American Grandstand</episode>
+    <comments></comments>
+  </podcast>
+  <podcast>
+    <date>2017.12.14</date>
     <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
     <episode url="https://www.samharris.org/podcast/item/is-life-actually-worth-living" number="107">Is Life Actually Worth Living? - A Conversation with David Benatar</episode>
-    <comments></comments>
-    <!--
-      - the bad movie analogy
-      - but aren't there good movies?
-      - don't understand the giving birth is bad => anti-natalist, while not being pro-mortalist
-      - good explanation of the asymmetry: https://www.reddit.com/r/samharris/comments/7hukcj/107_is_life_actually_worth_living/dqxk8oi/
-      - but one answer to that good explanation is good as well: https://www.reddit.com/r/samharris/comments/7hukcj/107_is_life_actually_worth_living/dr4vniz/
-      - why is instant/painless death so bad? no answer
-      - Mars analogy: not convinced, we don't think about the absence of pain on mars, but we don't think about the absence of happiness on mars either
-      - it's hard to think clearly about non-existing consciousness / non-existing conscious beings
-    -->
+    <comments><a href="https://en.wikipedia.org/wiki/Antinatalism">Antinatalism</a> is something I had already heard about, but this is the first time I hear somebody defending the position. I'm sympathetic to the idea that having children is something that people do way too easily, without even thinking about it. There are way too many people on this planet. We're polluting it, exhausting its resources, etc. Also, at any moment, there are more than 100 million orphans in the world. So my reasoning has more to do with the negative impact of a child on the world, including existing people and, in particular, the parents themselves. Benatar's position is based on several asymmetries. A good explanation (I think) of <a href="https://www.reddit.com/r/samharris/comments/7hukcj/107_is_life_actually_worth_living/dqxk8oi/">one of those asymmetries</a> was given on Reddit. <a href="https://www.reddit.com/r/samharris/comments/7hukcj/107_is_life_actually_worth_living/dr4vniz/">A good refutation</a> is also given (by the same person). So this is one of the problems I see with this assumption that there's a fundamental asymmetry: it's only an asymmetry because you intuitively think it is one (?). Or at least because you're asking a biased question. Sam was, I think, right to ask Benatar if his personal experience was tainting his reasoning/intuition. Benatar refused to answer. I also didn't understand why Benatar can be an anti-natalist but not a pro-mortalist. Not going from non-existing to existing is good, but going from existing to non-existing is inherently bad? Benatar used the movie analogy to explain his position. If you're at a movie theatre, watching a bad movie, you will probably resist the urge to get up and exit, because, maybe, you think, the movie is going to get better at some point. Now, if at the end of the movie, you realize that the movie was really bad, then you probably think that you shouldn't have started watching the movie in the first place. It's another asymmetry, according to him. But how does Benatar come to the conclusion that we're watching a bad movie? That our lives are barely worth living or not worth living at all? It's not clear. He also didn't answer clearly when Sam presented its instant/painless death thought experiment. This was frustrating. I also agree with <a href="https://www.reddit.com/r/samharris/comments/7hukcj/107_is_life_actually_worth_living/dqv3ok6/">another person on Reddit</a>: the Mars analogy was not helpful. We don't think much about the absence of lives on Mars, but we actually don't think much equally about the absence of lives, happiness, or suffering on Mars. I don't think there's an asymmetry here or at least not a strong or useful asymmetry. All in all, I'm not convinced by Benatar. I agree that it's not obvious that we should have children. I agree that it's not obvious that life has meaning. But I don't agree with his reasoning. Of course, there's still the very likely possibility that I don't understand what he's actually saying. One thing is certain: this is a somewhat depressing topic, but a very imporant one. Also, I realize that it's very hard to reason clearly about non-existing consciousness / non-existing conscious beings.</comments>
   </podcast>
   <podcast>
     <date>2017.12.12</date>
