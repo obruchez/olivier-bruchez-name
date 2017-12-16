@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <articles>
   <introduction>A list of articles I read.</introduction>
+  <!-- Checklist: post to Twitter and/or Facebook -->
   <article>
     <date>2017.12.13</date>
     <title url="https://www.scientificamerican.com/article/bad-news-for-the-highly-intelligent/">Bad News for the Highly Intelligent</title>
