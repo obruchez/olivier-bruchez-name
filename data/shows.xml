@@ -15,12 +15,6 @@
   </show>
   <show>
     <date></date>
-    <name url="https://en.wikipedia.org/wiki/Mr._Robot_(TV_series)">Mr. Robot</name>
-    <series url="https://en.wikipedia.org/wiki/List_of_Mr._Robot_episodes#Season_3_.282017.29" type="season">3</series>
-    <comments></comments>
-  </show>
-  <show>
-    <date></date>
     <name url="https://en.wikipedia.org/wiki/The_Big_Bang_Theory">The Big Bang Theory</name>
     <series url="https://en.wikipedia.org/wiki/The_Big_Bang_Theory_(season_11)" type="season">11</series>
     <comments></comments>
@@ -36,6 +30,12 @@
     <name url="https://en.wikipedia.org/wiki/Veep_(TV_series)">Veep</name>
     <series url="https://en.wikipedia.org/wiki/Veep_(TV_series)#Season_4" type="season">4</series>
     <comments></comments>
+  </show>
+  <show>
+    <date>2017.12.15</date>
+    <name url="https://en.wikipedia.org/wiki/Mr._Robot_(TV_series)">Mr. Robot</name>
+    <series url="https://en.wikipedia.org/wiki/List_of_Mr._Robot_episodes#Season_3_.282017.29" type="season">3</series>
+    <comments>Again, a fantastic show (I'm repeating myself, here). Season 3 was more fast-paced than season 2. It was very dark/depressing, as usual. My only complaint would be that there were maybe a little too many twists and turns. I'm relieved that the show is not going the "<i>Lost</i> way" (yet), though, i.e. using paranormal and time travel to explain things.</comments>
   </show>
   <show>
     <date>2017.10.31</date>
