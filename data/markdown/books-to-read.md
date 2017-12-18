@@ -109,6 +109,7 @@ Pretty much everything from [Les cent livres du siècle](https://fr.wikipedia.or
 * Antoine Galland, ["Les Milles et Une Nuits"](https://fr.wikipedia.org/wiki/Les_Mille_et_Une_Nuits)
 * William Gibson, ["Neuromancer"](https://en.wikipedia.org/wiki/Neuromancer) (science fiction classic, recommended by [@JeromeCaillet](https://twitter.com/JeromeCaillet))
 * Frank Herbert, ["Dune"](https://en.wikipedia.org/wiki/Dune_(franchise)) (series) (science fiction classic)
+* Aldous Huxley, ["Brave New World"](https://en.wikipedia.org/wiki/Brave_New_World) (mentioned by [@verybadwizards](https://twitter.com/verybadwizards))
 * Franz Kafka, ["L'amérique"](https://fr.wikipedia.org/wiki/L%27Am%C3%A9rique) (read during the 90s)
 * Frank Kafka, ["Le château"](https://fr.wikipedia.org/wiki/Le_Ch%C3%A2teau) (read in 2001)
 * Franz Kafka, ["La métamorphose"](https://fr.wikipedia.org/wiki/La_M%C3%A9tamorphose) (I might have already read this)
