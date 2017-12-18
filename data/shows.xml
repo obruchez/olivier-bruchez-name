@@ -10,7 +10,7 @@
   <show>
     <date></date>
     <name url="https://en.wikipedia.org/wiki/Modern_Family">Modern Family</name>
-    <series url="https://en.wikipedia.org/wiki/Modern_Family#Season_2" type="season">2</series>
+    <series url="https://en.wikipedia.org/wiki/Modern_Family_(season_3)" type="season">3</series>
     <comments></comments>
   </show>
   <show>
@@ -22,7 +22,7 @@
   <show>
     <date></date>
     <name url="https://en.wikipedia.org/wiki/This_Is_Us_(TV_series)">This Is Us</name>
-    <series url="https://en.wikipedia.org/wiki/This_Is_Us_(TV_series)#Episodes" type="season">1</series>
+    <series url="https://en.wikipedia.org/wiki/This_Is_Us_(season_2)" type="season">2</series>
     <comments></comments>
   </show>
   <show>
@@ -30,6 +30,18 @@
     <name url="https://en.wikipedia.org/wiki/Veep_(TV_series)">Veep</name>
     <series url="https://en.wikipedia.org/wiki/Veep_(TV_series)#Season_4" type="season">4</series>
     <comments></comments>
+  </show>
+  <show>
+    <date>2017.12.17</date>
+    <name url="https://en.wikipedia.org/wiki/Modern_Family">Modern Family</name>
+    <series url="https://en.wikipedia.org/wiki/Modern_Family_(season_2)" type="season">2</series>
+    <comments>As said in January 2017 when we finished the first season, we're watching "the other seasons". I probably enjoyed the second season more than the first one, so this is a good sign. Again (like <i>This Is Us</i>), it's not one of my favorite shows (yet), but it's not too far behind.</comments>
+  </show>
+  <show>
+    <date>2017.12.17</date>
+    <name url="https://en.wikipedia.org/wiki/This_Is_Us_(TV_series)">This Is Us</name>
+    <series url="https://en.wikipedia.org/wiki/This_Is_Us_(season_1)" type="season">1</series>
+    <comments>I'm not a huge fan of this show, but it has its charms. I cried a few times. It's sometimes funny. I wouldn't say it's edgy, but it's not corny either (except maybe a couple of times). Let's see where it goes with season 2.</comments>
   </show>
   <show>
     <date>2017.12.15</date>
@@ -154,7 +166,7 @@
   <show>
     <date>2017.01.04</date>
     <name url="https://en.wikipedia.org/wiki/Modern_Family">Modern Family</name>
-    <series url="https://en.wikipedia.org/wiki/Modern_Family#Season_1" type="season">1</series>
+    <series url="https://en.wikipedia.org/wiki/Modern_Family_(season_1)" type="season">1</series>
     <comments>An "old" (2009) show. Quite funny. We will probably watch the other seasons.</comments>
   </show>
   <show>
