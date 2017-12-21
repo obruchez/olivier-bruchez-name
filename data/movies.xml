@@ -3,6 +3,16 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Checklist: add rating to IMDb -->
   <movie>
+    <date>2017.12.21</date>
+    <theater home="true"/>
+    <director>James Cameron</director>
+    <title>Terminator 2</title>
+    <url>http://www.imdb.com/title/tt0103064/</url>
+    <rating>4.5</rating>
+    <comments>Clearly a better movie than <i>The Terminator</i>, but it still has a linear story and shallow characters. The special effects are better, this time, but, once again, it's a movie about a robot from the future trying to kill a boy. With car/truck chases. And people getting killed, but less of them, I guess. Oh, and there's a second robot. It's nice, this time. But pretty stupid, with no sense of humor or morality. It learns something at the end of the movie, though. I'm not sure what. That life can have... value? There's an interesting question being raised at some point: can you be guilty of something that you haven't done yet? There's also a romantic side to this movie: humans can get attached to robots, robots can <em>almost</em> feel emotions, and it's not necessarily the best robot (from a technological point of view) that wins at the end (i.e. you can still succeed with flaws).</comments>
+    <image>Terminator 2.jpg</image>
+  </movie>
+  <movie>
     <date>2017.12.12</date>
     <theater>Le Capitole, Lausanne</theater>
     <director>Louis Malle</director>
