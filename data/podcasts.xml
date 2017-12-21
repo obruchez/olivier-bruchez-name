@@ -3,9 +3,15 @@
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
     <date></date>
+    <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
+    <episode url="https://www.samharris.org/podcast/item/biology-and-culture" number="109">Biology and Culture - A Conversation with Bret Weinstein</episode>
+    <comments></comments>
+  </podcast>
+  <podcast>
+    <date>2017.12.21</date>
     <name url="http://verybadwizards.com/">Very Bad Wizards</name>
     <episode url="https://verybadwizards.fireside.fm/107" number="107">Winking Under Oppression (with Manuel Vargas)</episode>
-    <comments></comments>
+    <comments>This was a hard one. First of all, because I didn't think the discussion/interview was particularly well structured; it was really hard to follow. Then, when it comes to free will, I'm a determinist more than a compatibilist, although I think I understand the compatibilist position pretty well. I also understand that the determinist position is not very useful in practice, when we're talking about justice. So one of the main questions in this episode was: does oppression reduce the number of degrees of freedom of an agent/person? Does it reduce his/her culpability? If so, in what way? Maybe I was too tired, but I didn't think the discussion was very illuminating.</comments>
   </podcast>
   <podcast>
     <date>2017.12.19</date>
