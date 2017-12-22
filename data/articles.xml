@@ -3,6 +3,11 @@
   <introduction>A list of articles I read.</introduction>
   <!-- Checklist: post to Twitter and/or Facebook -->
   <article>
+    <date>2017.12.22</date>
+    <title url="http://bscb.org/learning-resources/softcell-e-learning/epigenetics-its-not-just-genes-that-make-us/">Epigenetics - It's not just genes that make us</title>
+    <comments>As usual, it's more complicated than that. "To make a computer analogy, think of epigenetics as metadata, information describing and ordering the underlying data. [...] [T]he switch between queen and worker can be flipped by the abundance of methyl tags on the bee larvae's DNA. [...] [G]enes can be switched right off (this is called silencing), full on, or somewhere in between by DNA methyl tags and histone tail tags. [...] When cells divide, the entire DNA sequence from the original cell (3 billion base pairs contained in 23 pairs of chromosomes in a human cell) is duplicated so that both daughter cells receive an exact copy. What, you might ask, happens to all those epigenetic tags? We have known for some time that the DNA-methyl tags are copied too, so that both daughter cells have the same pattern of DNA methylation. We now know that the pattern of histone tags is also mostly duplicated as cells divide, although this is currently less well understood. [...] [G]enes received from Mum and those from Dad are labelled differently with epigenetic tags and so are not equivalent. [...] [C]ells randomly switch off either the paternal or maternal X chromosome, so that when a girl baby is born her body is a mixture or chimera of cells where either the maternal or paternal X-chromosome is switched off. [...] Although we can find cases where epigenetic effects apparently last from parents to offspring, this is not usually the case and almost all of the epigenetic switches or marks are reset in germ cells (eggs and sperm) and in the very earliest stages of development of an embryo."</comments>
+  </article>
+  <article>
     <date>2017.12.13</date>
     <title url="https://www.scientificamerican.com/article/bad-news-for-the-highly-intelligent/">Bad News for the Highly Intelligent</title>
     <subtitle>Superior IQs associated with mental and physical disorders, research suggests</subtitle>
