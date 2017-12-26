@@ -31,7 +31,7 @@
         <publishingyear>1946</publishingyear>
         <rating>4.75</rating>
         <url>https://fr.wikipedia.org/wiki/Paroles_(Pr%C3%A9vert)</url>
-        <!-- <notes description="Kindle highlights"></notes> -->
+        <notes description="Kindle highlights">Paroles (Jacques Prevert).md</notes>
         <comments>Le premier recueil de poèmes que j'ai lu depuis très longtemps (depuis les études, en fait). Je n'avais jamais rien lu de Prévert et ne savais pas à quoi m'attendre. J'ai été agréablement surpris par le côté absurde de ses poèmes. Et par son côté antimilitariste et anticlérical. D'un point de vue plus terre à terre, j'ai apprécié pouvoir lire un livre de manière plus découpée. Il n'y a pas vraiment de continuité, hors des thèmes, entre chaque poème. Cela permet de lire un autre livre en parallèle, par exemple. Ce recueil me motive à lire plus de poésie.</comments>
         <image>Paroles.jpg</image>
     </book>
@@ -43,7 +43,7 @@
         <publishingyear>2014</publishingyear>
         <rating>4.5</rating>
         <url>https://en.wikipedia.org/wiki/What_If%3F:_Serious_Scientific_Answers_to_Absurd_Hypothetical_Questions</url>
-        <!-- <notes description="Kindle highlights"></notes> -->
+        <notes description="Kindle highlights">What If (Randall Munroe).md</notes>
         <comments>Not a bad book, but I must admit that, after a while, the concept (explained in the subtitle - "serious scientific answers to absurd hypothetical questions") gets a bit repetitive. But, yes, some parts were funny and I even learnt some things (and already forgot many of them!).</comments>
         <image>What If.jpg</image>
     </book>
@@ -55,7 +55,7 @@
         <publishingyear>2012</publishingyear>
         <rating>4.5</rating>
         <url>https://books.google.com/books?id=HdO7iH2Sz6IC</url>
-        <!-- <notes description="Kindle highlights"></notes> -->
+        <notes description="Kindle highlights">Keith Jarrett's The Koln Concert (Peter Elsdon).md</notes>
         <comments>It's difficult to judge this book fairly, because I'm not a musician and a couple of chapters are pretty technical. That being said, I'm a Keith Jarrett fan, so it was interesting to read about <i>The Köln Concert</i> in several contexts: jazz in general, the 1970s, Keith Jarrett's other solo albums (<i>Facing You</i> in particular), other pianists' solo recordings (e.g. Chick Corea's), Keith Jarrett's 1975 solo tour, etc. The more "philosophical" discussions such as what it means to improvise (vs compose), what it means for a live performance to be released as an album, etc. were also quite illuminating.</comments>
         <image>Keith Jarrett's The Köln Concert.jpg</image>
     </book>
@@ -67,7 +67,7 @@
         <publishingyear>2015</publishingyear>
         <rating>5.25</rating>
         <url>https://en.wikipedia.org/wiki/Homo_Deus:_A_Brief_History_of_Tomorrow</url>
-        <!-- <notes description="Kindle highlights"></notes> -->
+        <notes description="Kindle highlights">Homo Deus (Yuval Noah Harari).md</notes>
         <comments>This is a book I really liked. I heard Yuval Noah Harari on <a href="http://olivier.bruchez.name/podcasts#2017-03-27">Sam Harris' podcast in March 2017</a>. And then I kept hearing about people reading <i>Sapiens</i> or <i>Homo Deus</i>, so I <em>knew</em> I had to read one of his books... I had completely forgotten about it, but Harari is a vegan, an atheist, and meditates a lot, so I can easily relate to a lot of what he has to say. He also starts his book by mentioning Ray Kurzweil, Aubrey de Grey, and Steven Pinker, people I'm very familiar with, so I was hooked from the very beginning. Now I don't agree with everything he says. This is something I had already noticed during his discussion with Sam Harris, but he uses some words very loosely. For example, he seems to use the word "religion" for "philosophy" and "ideology". I understand why he's doing it, but it doesn't make his point clearer, in my opinion. Just for reference, the word "science" (and related) appears 317 times in the book, "religion" appears 211 times, and "philosophy" appears only 27 times. He also seems to support the <a href="https://en.wikipedia.org/wiki/Non-overlapping_magisteria">non-overlapping magisteria (NOMA)</a> view. I clearly don't agree with him on these points. Contrary to Kurzweil, he knows a lot about history and psychology, so he has quite a different point of view about our future. Whereas Kurzweil is very enthusiastic about uploading our minds to machines and living in virtual worlds, Harari is encouraging us to think about the relationship between intelligence and consciousness, the source of our values (in a world without gods and afterlife), and about how society and politics will work in such a future. Also for reference: <a href="https://danielmiessler.com/projects/reading/summary-homo-deus/">Daniel Miessler's summary of the book</a>.</comments>
         <image>Homo Deus.jpg</image>
     </book>
@@ -79,7 +79,7 @@
         <publishingyear>2008</publishingyear>
         <rating>5.0</rating>
         <url>https://books.google.com/books?id=yQ59JV_9AfIC</url>
-        <!-- <notes description="Kindle highlights"></notes> -->
+        <notes description="Kindle highlights">A Guide to the Good Life (William B. Irvine).md</notes>
         <comments>This very book convinced me that: 1) I really need a philosophy of life 2) stoicism is a good option 3) I'm already doing a lot of things correctly (according to stoicism). These next few months, I hope to "implement" stoicism in a bit more practical and conscious way (using reminders, etc.).</comments>
         <image>A Guide to the Good Life.jpg</image>
     </book>
@@ -90,7 +90,7 @@
         <publishingyear>1752</publishingyear>
         <rating>4.5</rating>
         <url>https://fr.wikipedia.org/wiki/Microm%C3%A9gas</url>
-        <!-- <notes description="Kindle highlights"></notes> -->
+        <notes description="Kindle highlights">Micromegas (Voltaire).md</notes>
         <comments>Je liste <i>Migromégas</i> ici comme livre. Il s'agit plutôt d'un conte. Un conte philosophique, selon Wikipedia. Est-ce également de la science-fiction ? On y parle de science, de visiteurs de Sirus et de Saturne. Donc je dirais que oui, mais l'idée première est bel et bien de "remettre l'être humain à sa place". Il n'est pas le centre de l'univers. L'humour est également présent dans ce conte et il est difficile de ne pas penser en tout cas un peu aux géants de Rabelais.</comments>
         <image>Micromégas.jpg</image>
     </book>
@@ -101,7 +101,7 @@
         <publishingyear>1967</publishingyear>
         <rating>5.0</rating>
         <url>https://fr.wikipedia.org/wiki/La_Plaisanterie</url>
-        <!-- <notes description="Kindle highlights"></notes> -->
+        <notes description="Kindle highlights">La Plaisanterie (Milan Kundera).md</notes>
         <comments>Il n'y a pas grand-chose que je puisse dire à propos de ce roman qui n'ait pas été déjà dit mille fois. J'aime beaucoup Kundera. <i>La Plaisanterie</i> est son premier roman, que je n'avais pas encore lu. Il s'agissait ici de la traduction française revue par Kundera lui-même. J'ai beaucoup aimé le récit à la première personne, les personnages devenant tour à tour narrateur et leur histoire se rejoignant à la fin. Amour, politique, communisme, tradition, modernisme, vengeance, jeunesse, maturité, musique, etc. Les thèmes sont multiples et il est difficile de ne pas se laisser entraîner par les personnages de ce roman.</comments>
         <image>La Plaisanterie.jpg</image>
     </book>
@@ -112,7 +112,7 @@
         <publishingyear>1979</publishingyear>
         <rating>5.0</rating>
         <url>https://en.wikipedia.org/wiki/The_Hitchhiker%27s_Guide_to_the_Galaxy_(novel)</url>
-        <!-- <notes description="Kindle highlights"></notes> -->
+        <notes description="Kindle highlights">The Hitchhiker's Guide to the Galaxy (Douglas Adams).md</notes>
         <comments>Another classic. But of course very different from <i>Nineteen Eighty-Four</i>, which I read two months ago. This is the first book by Douglas Adams that I read. His style is surprising, in a good way. This is definitely not "serious" science fiction, which I feared would lessen my interest, but it didn't.</comments>
         <image>The Hitchhiker's Guide to the Galaxy.jpg</image>
     </book>
@@ -123,7 +123,7 @@
         <publishingyear>2010</publishingyear>
         <rating>4.0</rating>
         <url>https://books.google.com/books?id=_eoPB9zLXFoC</url>
-        <!-- <notes description="Kindle highlights"></notes> -->
+        <notes description="Kindle highlights">Meaning in Life and Why It Matters (Susan Wolf).md</notes>
         <comments>I'm not sure I'm convinced by Wolf's argument: "In arguing that meaningfulness is a distinctive dimension of a good life, different from both happiness and moral goodness, and that the concept of meaningfulness is essentially tied to a commitment to objective distinctions in value, I have tried to show the importance of keeping the vocabulary of meaningfulness and value alive, and of not assimilating or reducing these terms to others that we are more comfortable with in both philosophy and popular culture." I will be very (too) brief, but, intuitively, I would say that Wolf's concept of meaningfulness looks like a kind of mix between self-interest and morality, not a distinct dimension. Of course, it's still important to have a concept of a "meaningful life" and Wolf at least tries to give a definition of what "meaningfulness" is in that context, but I'm not sure this book helped me clarify anything. On the contrary, I would say it made me a bit more confused than before.</comments>
         <image>Meaning in Life and Why It Matters.gif</image>
     </book>
@@ -134,7 +134,7 @@
         <publishingyear>1949</publishingyear>
         <rating>5.25</rating>
         <url>https://en.wikipedia.org/wiki/Nineteen_Eighty-Four</url>
-        <!-- <notes description="Kindle highlights"></notes> -->
+        <notes description="Kindle highlights">Nineteen Eighty-Four (George Orwell).md</notes>
         <comments>A classic. The more the story progresses, the more it becomes captivating. The ending chapters grab you by the guts, in a kind of crescendo. Many people say that "Nineteen Eighty-Four" is very relevant today, because, according to them, we're living in a society of surveillance (think Facebook, the NSA, surveillance cameras, etc.), but, for me, what strikes me the most is the similarity between the constant lies of the Party and the constant lies of people such as Donald Trump. Of course, <a href="https://en.wikipedia.org/wiki/Fake_news">fake news</a> is not a new phenomenon, but it is starting to look more and more like it is described in "Nineteen Eighty-Four".</comments>
         <image>Nineteen Eighty-Four.jpg</image>
     </book>
@@ -145,7 +145,7 @@
         <publishingyear>2016</publishingyear>
         <rating>4.0</rating>
         <url>https://books.google.com/books?id=lYAPkAEACAAJ</url>
-        <!-- <notes description="Kindle highlights"></notes> -->
+        <notes description="Kindle highlights">Life in Light of Death (James A. Lindsay).md</notes>
         <comments>I agree with the main message of this book. Life is short. We will die. Really die. No heaven, no persistence of a soul, no resurrection, no reincarnation (the author is an atheist). Even if we manage to live longer and/or to upload our minds to machines, <a href="https://en.wikipedia.org/wiki/Future_of_Earth#Solar_evolution">Earth will be destroyed by the Sun at some point in the future</a>. And even if we manage to move to another planetary system and/or galaxy, <a href="https://en.wikipedia.org/wiki/Ultimate_fate_of_the_universe">the universe will most probably die as well</a>. Our time is limited. We have to make the most out of it. Mainly by being kind, being with our loved ones, etc. The message is simple. Almost cheesy. This is not a "how-to" book. This is merely a warning. A reminder. I'm not sure I really learned anything. Also, the part of the book about ethical vegetarianism was pretty bad/baffling: the author seems to completely underestimate the suffering of animals in factory farms and doesn't address the environmental impact of meat.</comments>
         <image>Life in Light of Death.jpg</image>
     </book>

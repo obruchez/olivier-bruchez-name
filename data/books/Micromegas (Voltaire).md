@@ -1,0 +1,5 @@
+# Micromégas (Voltaire)
+* Le voyageur se sentait ému de pitié pour la petite race humaine, dans laquelle il découvrait de si étonnants contrastes. (loc. 310-311)
+* Nous disséquons des mouches, dit le philosophe, nous mesurons des lignes, nous assemblons des nombres; nous sommes d'accord sur deux ou trois points que nous entendons, et nous disputons sur deux ou trois mille que nous n'entendons pas. (loc. 313-314)
+* Pourquoi donc, reprit le Sirien, citez−vous un certain Aristote en grec? C'est, répliqua le savant, qu'il faut bien citer ce qu'on ne comprend point du tout dans la langue qu'on entend le moins. (loc. 326-328)
+* Le Sirien reprit les petites mites; il leur parla encore avec beaucoup de bonté, quoiqu'il fût un peu fâché dans le fond du coeur de voir que les infiniment petits eussent un orgueil presque infiniment grand. (loc. 356-358)
