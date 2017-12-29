@@ -3,6 +3,17 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Checklist: add rating to IMDb -->
   <movie>
+    <date>2017.12.29</date>
+    <theater>Casino, Martigny</theater>
+    <director></director>
+    <title>Coco</title>
+    <version>fr</version>
+    <url>http://www.imdb.com/title/tt2380307/</url>
+    <rating>4.5</rating>
+    <comments>I'm maybe a bit harsh with my rating. Technically, it's a fantastic movie. Very colorful. The city in the Land of the Dead is spectacular. Some of the themes are nice, I guess. You have to respect your family and, at the same time, you have to follow your passions. So your family might be wrong. But what about the afterlife, though? This is mainly a movie for children, after all. I know this is not a movie you're supposed to take seriously (obviously), but this is the central theme in the movie: after they die, people go to the Land of the Dead, they get to meet the people that have already died, and everybody is happy (more or less). There's still so much religious bullshit in the world today that I can't simply be entertained by this theme/idea (whereas I have no problem watching a Star Wars movie - people usually don't believe that Star Wars is true in the real world...). Like religion in real life, religious ideas in <i>Coco</i> don't make much sense, of course. People in the Land of the Dead who are forgotten by their family completely disappear. But if they "die for real" (which will happen eventually after 4-5 generations, apparently, because families can't have photos of older family members...), why didn't die for real in the first place? It's like the idea of God: if you really think about it, it doesn't explain anything. It just moves the problem a bit farther. Anyway, a nice movie, but I didn't like the main theme. As of December 29, 2017, it's #30 in<a href="http://www.imdb.com/chart/top">IMDb's top 250</a>. It shouldn't be so high in the list, in my opinion.</comments>
+    <image>Coco.jpg</image>
+  </movie>
+  <movie>
     <date>2017.12.21</date>
     <theater home="true"/>
     <director>James Cameron</director>
