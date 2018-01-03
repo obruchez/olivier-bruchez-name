@@ -11,6 +11,12 @@
 * [asphalte](https://fr.wikipedia.org/wiki/Asphalte) : mélange de bitume et de granulats; souvent confondu avec l'enrobé, le bitume, le goudron ou le macadam
 * en gros : les termes "bitume", "goudron", "asphalte" et "macadam" sont encore souvent utilisés, à tort, pour faire référence à l'enrobé
 
+## Bains de Lavey
+
+* ne pas y aller durant les vacances de Noël (deux semaines de vacances scolaires)
+* ou alors, au pire, y aller dès l'ouverture le matin
+* le conseil fonctionne aussi, j'imagine, pour tous les week-ends durant la saison de ski
+
 ## Blogging advice
 
 * think about the headline
