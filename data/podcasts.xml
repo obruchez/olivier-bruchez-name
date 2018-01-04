@@ -2,6 +2,18 @@
 <podcasts>
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date></date>
+    <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
+    <episode url="https://www.samharris.org/podcast/item/the-change-artist" number="110">The Change Artist - A Conversation with A.J. Jacobs</episode>
+    <comments></comments>
+    <!--
+    I like the idea of trying out new stuff and seing what sticks
+    gossiping = bad
+    is vegetarian
+    Drop Dead Healthy: useful?
+    -->
+  </podcast>
+  <podcast>
     <date>2018.01.03</date>
     <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
     <episode url="https://www.samharris.org/podcast/item/biology-and-culture" number="109">Biology and Culture - A Conversation with Bret Weinstein</episode>
