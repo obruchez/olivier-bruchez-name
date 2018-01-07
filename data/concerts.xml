@@ -2741,6 +2741,24 @@
     <comments/>
   </concert>
   <concert>
+    <date>2001.08.27</date>
+    <location>The Nashville Palace, Nashville, TN, USA</location>
+    <group>Unknown band</group>
+    <comments>Musicians unknown.</comments>
+  </concert>
+  <concert>
+    <date>2001.08.26</date>
+    <location>Rum Boogie Café, Memphis, TN, USA</location>
+    <group>Unknown band</group>
+    <comments>Musicians unknown.</comments>
+  </concert>
+  <concert>
+    <date>2001.08.24</date>
+    <location>Preservation Hall, New Orleans, LA, USA</location>
+    <group>The Preservation All Stars</group>
+    <comments>Musicians unknown.</comments>
+  </concert>
+  <concert>
     <date>2001.07.22</date>
     <location>Auditorium Stravinski, Montreux, Switzerland</location>
     <event>Montreux Jazz Festival</event>
