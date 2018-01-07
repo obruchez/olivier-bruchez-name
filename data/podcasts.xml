@@ -5,6 +5,12 @@
     <date></date>
     <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
     <episode url="https://www.samharris.org/podcast/item/the-change-artist" number="110">The Change Artist - A Conversation with A.J. Jacobs</episode>
+    <comments></comments> honesty: rule = truth only if useful (applies to gossiping as well)
+    -->
+  <podcast>
+    <date>2018.01.07</date>
+    <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
+    <episode url="https://www.samharris.org/podcast/item/the-change-artist" number="110">The Change Artist - A Conversation with A.J. Jacobs</episode>
     <comments></comments>
     <!--
     I like the idea of trying out new stuff and seing what sticks (kind of personal development)
@@ -13,6 +19,7 @@
     Drop Dead Healthy: useful?
     germophobia: should I do something about it?
     radical honesty: rule = truth only if useful (applies to gossiping as well)
+    genome: more interested about health, but ancestry can be interesting as well?
     -->
   </podcast>
   <podcast>

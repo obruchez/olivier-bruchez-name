@@ -3,6 +3,15 @@
   <introduction>A list of TV shows I saw.</introduction>
   <show>
     <date></date>
+    <name url="https://en.wikipedia.org/wiki/Black_Mirror">Black Mirror</name>
+    <series url="https://en.wikipedia.org/wiki/List_of_Black_Mirror_episodes#Series_4_(2017)" type="series">4</series>
+    <comments></comments>
+    <!--
+    USS Callister: concept of artificial consciousness and torture in VR, reminiscent of https://en.wikipedia.org/wiki/White_Christmas_(Black_Mirror)
+    -->
+  </show>
+  <show>
+    <date></date>
     <name url="https://en.wikipedia.org/wiki/Bob's_Burgers">Bob's Burgers</name>
     <series url="https://en.wikipedia.org/wiki/Bob%27s_Burgers_(season_5)" type="season">5</series>
     <comments></comments>
@@ -46,13 +55,13 @@
   <show>
     <date>2017.12.15</date>
     <name url="https://en.wikipedia.org/wiki/Mr._Robot_(TV_series)">Mr. Robot</name>
-    <series url="https://en.wikipedia.org/wiki/List_of_Mr._Robot_episodes#Season_3_.282017.29" type="season">3</series>
+    <series url="https://en.wikipedia.org/wiki/List_of_Mr._Robot_episodes#Season_3_(2017)" type="season">3</series>
     <comments>Again, a fantastic show (I'm repeating myself, here). Season 3 was more fast-paced than season 2. It was very dark/depressing, as usual. My only complaint would be that there were maybe a little too many twists and turns. I'm relieved that the show is not going the "<i>Lost</i> way" (yet), though, i.e. using paranormal and time travel to explain things.</comments>
   </show>
   <show>
     <date>2017.10.31</date>
     <name url="https://en.wikipedia.org/wiki/Episodes_%28TV_series%29">Episodes</name>
-    <series url="https://en.wikipedia.org/wiki/List_of_Episodes_episodes#Season_5_.282017.29" type="series">5</series>
+    <series url="https://en.wikipedia.org/wiki/List_of_Episodes_episodes#Season_5_(2017)" type="series">5</series>
     <comments>A fun show. Matt LeBlanc playing Matt LeBlanc was an excellent idea, at least in 2011. Then it kind of lost its charm over the years, so it's a good thing this is the final series/season, even if I enjoyed it, overall.</comments>
   </show>
   <show>
@@ -70,7 +79,7 @@
   <show>
     <date>2017.09.10</date>
     <name url="https://en.wikipedia.org/wiki/Black_Mirror">Black Mirror</name>
-    <series url="https://en.wikipedia.org/wiki/List_of_Black_Mirror_episodes#Series_3_.282016.29" type="series">3</series>
+    <series url="https://en.wikipedia.org/wiki/List_of_Black_Mirror_episodes#Series_3_(2016)" type="series">3</series>
     <comments>This season was about social networks, virtual reality, autonomous drones, hacking, online blackmail, mind uploading, etc. Overall, a very dark season. The last episode, in particular, <a href="https://en.wikipedia.org/wiki/Hated_in_the_Nation_(Black_Mirror)"><i>Hated in the Nation</i></a>, was terrifying. Let's be honest, it's something that could happen in the future. This is why some people think the <a href="https://en.wikipedia.org/wiki/AI_control_problem">AI control problem</a> is so important.</comments>
   </show>
   <show>
@@ -88,7 +97,7 @@
   <show>
     <date>2017.07.17</date>
     <name url="https://en.wikipedia.org/wiki/Mr._Robot_(TV_series)">Mr. Robot</name>
-    <series url="https://en.wikipedia.org/wiki/List_of_Mr._Robot_episodes#Season_2_.282016.29" type="season">2</series>
+    <series url="https://en.wikipedia.org/wiki/List_of_Mr._Robot_episodes#Season_2_(2016)" type="season">2</series>
     <comments>What a fantastic, weird, sometimes dark show! The first season was quite normal in comparison with the second one. There were a few "David Lynch" moments (the scenes with the little girl, the fish, etc.). I hope the show won't end up being disapppointing, like <i>Lost</i> after a few seasons. I can't wait for season 3, obviously!</comments>
   </show>
   <show>
@@ -124,7 +133,7 @@
   <show>
     <date>2017.03.31</date>
     <name url="https://en.wikipedia.org/wiki/Black_Mirror">Black Mirror</name>
-    <series url="https://en.wikipedia.org/wiki/List_of_Black_Mirror_episodes#Series_2_.282013.29" type="series">2</series>
+    <series url="https://en.wikipedia.org/wiki/List_of_Black_Mirror_episodes#Series_2_(2013)" type="series">2</series>
     <comments><a href="https://en.wikipedia.org/wiki/Be_Right_Back">"Be Right Back"</a> is thought-provoking, because (at least in my opinion), it's something that will really happen at some point in the near future (at least the part with the chatbot). Ray Kurzweil is planning to do it with his father. <a href="https://en.wikipedia.org/wiki/White_Bear_(Black_Mirror)">"White Bear"</a> was a bit more Twilight Zone-ish and disturbing. <a href="https://en.wikipedia.org/wiki/The_Waldo_Moment">"The Waldo Moment"</a> was the weakest of the three episodes. I guess this is a reminder that most people don't seriously care about politics. We currently have Donald Trump, Brexit, and other instances of populism as evidence for that. Overall, it's still a good show. The <a href="https://en.wikipedia.org/wiki/White_Christmas_(Black_Mirror)">"White Christmas"</a> special episode was particularly good. The part about artificial intelligence torture/slavery was really disturbing (because it could become a real).</comments>
   </show>
   <show>
@@ -148,13 +157,13 @@
   <show>
     <date>2017.01.16</date>
     <name url="https://en.wikipedia.org/wiki/Broad_City">Broad City</name>
-    <series url="https://en.wikipedia.org/wiki/List_of_Broad_City_episodes#Season_3_.282016.29" type="season">3</series>
+    <series url="https://en.wikipedia.org/wiki/List_of_Broad_City_episodes#Season_3_(2016)" type="season">3</series>
     <comments>A bit too vulgar at times, but I still like it.</comments>
   </show>
   <show>
     <date>2017.01.15</date>
     <name url="https://en.wikipedia.org/wiki/Black_Mirror">Black Mirror</name>
-    <series url="https://en.wikipedia.org/wiki/List_of_Black_Mirror_episodes#Series_1_.282011.29" type="series">1</series>
+    <series url="https://en.wikipedia.org/wiki/List_of_Black_Mirror_episodes#Series_1_(2011)" type="series">1</series>
     <comments>Excellent, troubling show. Only three episodes in the first series. <a href="https://en.wikipedia.org/wiki/The_Entire_History_of_You">"The Entire History of You"</a> was particularly thought-provoking.</comments>
   </show>
   <show>
@@ -172,7 +181,7 @@
   <show>
     <date>2016.12.12</date>
     <name url="https://en.wikipedia.org/wiki/Broad_City">Broad City</name>
-    <series url="https://en.wikipedia.org/wiki/List_of_Broad_City_episodes#Season_2_.282015.29" type="season">2</series>
+    <series url="https://en.wikipedia.org/wiki/List_of_Broad_City_episodes#Season_2_(2015)" type="season">2</series>
   </show>
   <show>
     <date>2016.12.08</date>
@@ -259,7 +268,7 @@
   <show>
     <date>2016.05.13</date>
     <name url="https://en.wikipedia.org/wiki/Broad_City">Broad City</name>
-    <series url="https://en.wikipedia.org/wiki/List_of_Broad_City_episodes#Season_1_.282014.29" type="season">1</series>
+    <series url="https://en.wikipedia.org/wiki/List_of_Broad_City_episodes#Season_1_(2014)" type="season">1</series>
   </show>
   <show>
     <date>2016.05.10</date>
