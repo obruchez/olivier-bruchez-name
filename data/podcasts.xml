@@ -6,18 +6,15 @@
     <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
     <episode url="https://www.samharris.org/podcast/item/111-the-science-of-meditation" number="111">The Science of Meditation</episode>
     <comments></comments>
+    <!--
+    not useful for physical problems, barely useful for mental problems
+    -->
   <podcast>
     <date>2018.01.07</date>
     <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
     <episode url="https://www.samharris.org/podcast/item/the-change-artist" number="110">The Change Artist - A Conversation with A.J. Jacobs</episode>
-    <!-- <comments>I like the idea of changing habits, trying out new things, in a kind of extreme way, and seeing what works and what doesn't. Tim Ferris does that, but I find he takes himself way too seriously. Also, A.J. is a vegetarian, so I definitely</comments> -->
+    <comments>I like the idea of changing habits, trying out new things, in a kind of extreme way, and seeing what works and what doesn't. Timothy Ferriss does that, too, but I like him less and less with time. Jacobs is a vegetarian, so I definitely feel closer to him. I might be interested in his book <i>Drop Dead Healthy</i>, but it seems that Jacobs feels that there aren't many health advice to give and they're always the same (exercise, eat well, mostly vegetables, sleep enough, regulate your stress, etc.), so reading another book on health might not be very useful to me at this point. Hearing Jacobs talk about germophobia made me think about the fact that I wash my hands very often. I'm not sure it's a bad thing, though. The bit about radical honesty was fun. I guess a simple rule might be that we should say something if it is true, useful, and, in the case of a fact or judgement about a person, if it is something we would say in that person's presence. About genealogy: I haven't been very interested in that subject so far. I have been more intrigued by the idea of analyzing our DNA to get some insights about our health. But the idea of a huge family tree with billions of persons sounds exciting.</comments>
     <!--
-    I like the idea of trying out new stuff and seing what sticks (kind of personal development)
-    gossiping = bad
-    is vegetarian
-    Drop Dead Healthy: useful?
-    germophobia: should I do something about it?
-    radical honesty: rule = truth only if useful (applies to gossiping as well)
     genome: more interested about health, but ancestry can be interesting as well?
     -->
   </podcast>
