@@ -3,17 +3,20 @@
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
     <date></date>
+    <name url="http://verybadwizards.com/">Very Bad Wizards</name>
+    <episode url="https://verybadwizards.fireside.fm/130" number="130">Dehumanization and Disintegration (with Paul Bloom)</episode>
+    <comments></comments>
+  </podcast>
+  <podcast>
+    <date>2018.01.09</date>
     <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
     <episode url="https://www.samharris.org/podcast/item/111-the-science-of-meditation" number="111">The Science of Meditation</episode>
-    <comments></comments>
-    <!--
-    not useful for physical problems, barely useful for mental problems
-    -->
+    <comments>Quite a technical episode. What I retain from it is that meditation is probably not useful for physical problems and barely useful for mental problems such as regular depression, for example. Also, using meditation specifically for its side effects on well-being, relaxation, etc. might be counterproductive, as it can lead to unrealistic expectations. I guess we should focus on its usefulness as a tool to better understand ourselves.</comments>
   <podcast>
     <date>2018.01.07</date>
     <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
     <episode url="https://www.samharris.org/podcast/item/the-change-artist" number="110">The Change Artist - A Conversation with A.J. Jacobs</episode>
-    <comments>I like the idea of changing habits, trying out new things, in a kind of extreme way, and seeing what works and what doesn't. Timothy Ferriss does that, too, but I like him less and less with time. Jacobs is a vegetarian, so I definitely feel closer to him. I might be interested in his book <i>Drop Dead Healthy</i>, but it seems that Jacobs feels that there aren't many health advice to give and they're always the same (exercise, eat well, mostly vegetables, sleep enough, regulate your stress, etc.), so reading another book on health might not be very useful to me at this point. Hearing Jacobs talk about germophobia made me think about the fact that I wash my hands very often. I'm not sure it's a bad thing, though. The bit about radical honesty was fun. I guess a simple rule might be that we should say something if it is true, useful, and, in the case of a fact or judgement about a person, if it is something we would say in that person's presence. About genealogy: I haven't been very interested in that subject so far. I have been more intrigued by the idea of analyzing our DNA to get some insights about our health. But the idea of a huge family tree with billions of persons sounds exciting.</comments>
+    <comments>I like the idea of changing habits, trying out new things, in a kind of extreme way, and seeing what works and what doesn't. Timothy Ferriss does that, too, but I like him less and less with time. Jacobs is a vegetarian, so I definitely feel closer to him (i.e. I definitely sense an ethical / empathic sensitivity to his approach, which I don't get at all from Timothy). I might be interested in his book <i>Drop Dead Healthy</i>, but it seems that Jacobs feels that there aren't many pieces of health advice to give and they're always the same (exercise, eat well, mostly vegetables, sleep enough, regulate your stress, etc.), so reading another book on health might not be very useful to me at this point. Hearing Jacobs talk about germophobia made me think about the fact that I wash my hands very often. I'm not sure it's a bad thing, though. The bit about radical honesty was fun. I guess a simple rule might be that we should say something if it is true, useful, and, in the case of a fact or judgement about a person, if it is something we would say in the presence of that person. About genealogy: I haven't been very interested in that subject so far. I have been more intrigued by the idea of analyzing my DNA to get some insights about my health. But the idea of a huge family tree with billions of persons sounds intriguing. If I remember correctly, Sam used his "happy cow farm" ethical argument once again in this episode. I wish someone would explain to him why it's not a good argument (because we're so far from a "happy cow" situation that it's a misleading argument, because it's not practical/scalable, because a cow, happy or not, is still using energy and emitting greenhouse gases, etc.).</comments>
   </podcast>
   <podcast>
     <date>2018.01.03</date>
