@@ -2,6 +2,16 @@
 <comics>
   <introduction>A list of comics I read.</introduction>
   <comic>
+    <date>2018.01.10</date>
+    <writer>Joann Sfar &amp; Lewis Trondheim</writer>
+    <artist>Christophe Blain</artist>
+    <colorist>Walter</colorist>
+    <series url="https://fr.wikipedia.org/wiki/Donjon_Potron-Minet">Donjon Potron-Minet</series>
+    <volume url="https://fr.wikipedia.org/wiki/La_Chemise_de_la_nuit" number="-99">La Chemise de la nuit</volume>
+    <comments>Premier album de Donjon que je relis depuis de longues années. J'ai eu un peu de peine à m'habituer au dessin. Le côté anti-héros et idéaliste du personnage principal est plaisant. La scène avec la larme de l'arbolesse est touchante.</comments>
+    <image>La Chemise de la nuit - La Chemise de la nuit.jpg</image>
+  </comic>
+  <comic>
     <date>2017.12.05</date>
     <writer>Lewis Trondheim</writer>
     <artist>Lewis Trondheim</artist>
