@@ -3,26 +3,27 @@
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
     <date></date>
+    <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
+    <episode url="https://www.samharris.org/podcast/item/112-the-intellectual-dark-web" number="112">The Intellectual Dark Web - A Conversation with Eric Weinstein and Ben Shapiro</episode>
+    <comments></comments>
+  </podcast>
+  <podcast>
+    <date>2018.01.12</date>
     <name url="http://verybadwizards.com/">Very Bad Wizards</name>
     <episode url="https://verybadwizards.fireside.fm/131" number="131">I Have No Genitals and I Must Scream</episode>
-    <comments></comments>
-    <!--
-    - children lying: good or not? sign of intelligence but...
-    - sponsoring???
-    -->
+    <comments>According to the paper mentioned in that episode, children that lie tend to be more intelligent than others. Should we encourage our children to lie more? Of course not. Lying is just one of many metrics you can use as a correlate for intelligence. There are many other things that you <i>should</i> encourage before lying.
+
+About the <i>Black Mirror</i> episodes: I was expecting a discussion about the feasibility of artificial consciousness, philosophical zombies, etc., but I guess Dave and Tamler's discussion was a good start. They of course mentioned the fact that it's impossible to duplicate a person with all her/his memories using just her/his DNA (it's so obvious I don't know what the writers were thinking...). Sam Harris' idea that morality matters only when we're talking about conscious creatures/entities was, I think, briefly mentioned. The part of the discussion about punishment and what it means to punish a (conscious) digital copy of a person was interesting. I think that, at this point, they should have mentioned free will, though. If it doesn't make any sense to punish a copy of someone, does it make sense to punish the "original"? Of course, here, it's all about the psychological "benefits" of revenge, not about its effects on the "guilty" persons and on society as a whole. I already mentioned that <a href="http://olivier.bruchez.name/podcasts#2017-09-01">artificially conscious agents created with the goal of maximizing suffering is one of my worst nightmares</a>. Think about a conscious entity suffering at the maximum level at all time, continually, for billion of years, in a virtual environment where this entity cannot do anything but suffer (including choosing to die / committing suicide). Now think about a billion of those entities. What's the limit? "USS Callister" and "Black Museum" came pretty close to this idea.</comments>
   </podcast>
   <podcast>
     <date>2018.01.11</date>
     <name url="http://verybadwizards.com/">Very Bad Wizards</name>
     <episode url="https://verybadwizards.fireside.fm/130" number="130">Dehumanization and Disintegration (with Paul Bloom)</episode>
-    <comments>About personal identity: I was glad to hear Paul Bloom talking about some people that have different intuitions
-      
-    </comments>
-    <!--
-    - personal identity: glad to hear Paul Bloom about some people that have different intuitions about personal identity and what matters (if I understand correctly); should we fear death by teletransporter if we're ok with sleeping, with not being the same person what we were 20-30 years ago, etc.? now should we be that interested in mind uploading? probably not. I still can't wrap my head around the fact that 1) the soul doesn't exist 2) we seem to be our brains 3) the actual matter in our brains change over time (really?)
-    - mr robot: agree only 4 seasons
-    - dehumanization: being more humane doesn't magically leads to more good, violence often comes from lack of control
-    -->
+    <comments>About personal identity: I was glad/intrigued to hear Paul Bloom talk about some people that have different intuitions, in particular about what matters or what should matter (if I understood correctly). Should we fear death by a teleporter, knowing that we're usually okay with sleeping and that we lose consciousness every night? Knowing that we're not really the same persons as we were 20-30 years ago? Yes, there's a physical continuity in the case of sleep, but without being a dualist, if I understand correctly (again), particles/atoms don't have what we could call an identity, so there's nothing special about the fact that our brains are made by a certain set of particles/atoms. Is there anything intrinsically bad about death knowing that we're all going to die someday? Also, should we be that interested in mind uploading if we're making copies of ourselves and not "transfering" any dualist soul? In summary, I still can't wrap my head around the fact that: 1) the soul doesn't exist 2) we seem to be our brains 3) the actual matter in our brains change over time (really?). I think our intuitions are wrong here, including Dave and Tamler's. I really need to read Derek Parfit.
+
+About <i>Mr. Robot</i>: I guess I'm starting to agree what there should be only four seasons. I really hope that Sam Esmail has a real ending in mind and that the show won't end in a disappointing way like <i>Lost</i>.
+
+About dehumanization: one the one hand, being more humane doesn't magically leads to more good; violence often comes from lack of control. On the other hand, <a href="https://www.facebook.com/VeryBadWizards/posts/1547784538640508">as someone writes on Facebook</a>: "We have glaring examples all around us that indicate that understanding the humanity of another individual is a laborious and skillful process; we shouldn't assume that everybody has completed this process for everybody on the planet. [...] We are born being able to see individuals as agentic beings and therefore consider strategies about how to interact with them to our advantage (whether through violent or pro-social behaviors), but seeing their humanity (and the "humanity" of animals) is a process which relies on a seed (of varying viability for different people) of empathy and cultivation of that seed (both by the individual and the society)."</comments>
   </podcast>
   <podcast>
     <date>2018.01.09</date>
