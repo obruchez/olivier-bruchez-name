@@ -9,6 +9,37 @@
     <actor></actor>
   -->
   <play>
+    <date>2018.01.12</date>
+    <location>Pulloff Théâtres, Lausanne, Switzerland</location>
+    <name>Lucrèce Borgia</name>
+    <author>Victor Hugo</author>
+    <director>Jean-Gabriel Chobaz</director>
+    <actor>Isabelle Bosson</actor>
+    <actor>Paola Landolt</actor>
+    <actor>Chady Abu-Nijmeh</actor>
+    <actor>Pierre Banderet</actor>
+    <actor>Jean-Marc Hérouin</actor>
+    <actor>Daniel Jeanloz</actor>
+    <actor>Karim Marmet</actor>
+    <actor>Frank Michaux</actor>
+    <actor>Damien Naimi</actor>
+    <actor>Edmond Vullioud</actor>
+    <rating>4.5</rating>
+    <comments>Beaucoup d'acteurs que j'avais déjà vus. Globalement, une bonne prestation, avec peut-être quelques imprécisions au niveau du texte. Je n'ai par contre pas été très touché par le texte de Victor Hugo. Il s'agit d'un drame finalement assez classique, dont la révélation finale n'est pas une surprise (mais est-elle censée l'être ?).</comments>
+    <image>Lucrèce Borgia.png</image>
+    <!--
+    chorégraphie : Marco Cantalupo
+    musique et coaching : vocal Timothée Haller
+    assistante à la mise en scène : Leslie Rudolf
+    collaboration artistique : Stéphane Rentznik
+    création lumières : Jean-Denis Gagnebin
+    costumes : Corinne Baeriswyl et Scilla Ilardo
+    masques et accessoires : Antoinette Baira
+    maquillages et perruques : Nathalie Mouchnino et Manux Olivet Pellegrin
+    relations publiques : Pierrette Peter
+    -->
+  </play>
+  <play>
     <date>2017.12.01</date>
     <location>Salle Charles Apothéloz, Théâtre de Vidy, Lausanne, Switzerland</location>
     <name>L'Avare</name>    
