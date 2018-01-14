@@ -3,6 +3,16 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Checklist: add rating to IMDb -->
   <movie>
+    <date>2018.01.13</date>
+    <theater home="true"/>
+    <director>Adam Elliot</director>
+    <title>Mary and Max</title>
+    <url>http://www.imdb.com/title/tt0978762/</url>
+    <rating>5.0</rating>
+    <comments>I was naively expecting a fun comedy and I got a dark movie about mental disorders, friendship, how hard it is to find friends in our societies, what it means to be different, etc. It's still an animation movie. It's still funny at times. But it's mainly serious stuff. It's... different. And it's good.</comments>
+    <image>Mary and Max.jpg</image>
+  </movie>
+  <movie>
     <date>2017.12.29</date>
     <theater>Casino, Martigny</theater>
     <director></director>
