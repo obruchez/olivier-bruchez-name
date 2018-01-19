@@ -3,6 +3,11 @@
   <introduction>A list of articles I read.</introduction>
   <!-- Checklist: post to Twitter and/or Facebook -->
   <article>
+    <date>2018.01.19</date>
+    <title url="https://www.ldeming.com/longevityfaq/">Longevity FAQ: A beginner's guide to longevity research</title>
+    <comments>It's a technical overview, so it's not a simple "article". Basically, there are a lot of directions for further research. <a href="https://en.wikipedia.org/wiki/Nicotinamide_riboside">Nicotinamide riboside (NR)</a> doesn't seem to be that promising (105% lifespan increase in mouses). "Lowering protein:carbohydrate ratio" seems to be way more interesting (128%). Another hint that we should all lower our sugar consumption. "Fasting mimicking diet" (112%) is another intriguing idea (it's <em>not</em> the same thing as intermittent fasting). Aspirin (108%) seems to be beneficial as well. And then there is <a href="https://en.wikipedia.org/wiki/Calorie_restriction">CR</a> (132%), which is well known, but not very practical. I don't know if the 90 other ways of extending mouse lifespans can lead to "quick hacks" or not.</comments>
+  </article> 
+  <article>
     <date>2018.01.10</date>
     <title url="https://www.nytimes.com/2018/01/06/opinion/sunday/2017-progress-illiteracy-poverty.html">Why 2017 Was the Best Year in Human History</title>
     <comments>This sounds like an article written by Steven Pinker, but it's not, although he is mentioned. In summary, the world gets better and better according to a lot of metrics: hunger, poverty, literacy, health, education, etc. It's important to also remember the following, though: "The world is registering important progress, but it also faces mortal threats." North Korea, if you insist, but, more importantly, climate change, artificial intelligence, etc.</comments>
