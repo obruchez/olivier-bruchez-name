@@ -17,19 +17,20 @@
     }
     case _ => {
       @if(level == 1) {
-        <a href="@page.url" class="dropdown-toggle" data-toggle="dropdown">@page.title</a>
+        <a href="@page.url" class="nav-link g-py-7 g-px-0">@page.title</a>
+        <ul class="hs-sub-menu list-unstyled u-shadow-v11 g-brd-top g-brd-primary g-brd-top-2 g-min-width-220 g-mt-18 g-mt-8--lg--scrolling">
       } else {
-        <a href="@page.url" class="noseparator"><i class="fa @page.icon.getOrElse("")"></i> @page.title</a>
+        <a href="@page.url" class="nav-link"><i class="fa @page.icon.getOrElse("")"></i> @page.title</a>
+        <ul class="hs-sub-menu list-unstyled u-shadow-v11 g-brd-top g-brd-primary g-brd-top-2 g-min-width-220 g-mt-minus-2">
       }
-      <ul class="dropdown-menu">
       @Header.menuItems(page).map { menuItem =>
         @menuItem match {
           case Header.MenuSeparator => {
-            <li role="separator" class="divider"></li>
+            <li class="dropdown-divider"></li>
           }
           case Header.MenuPage(childPage) => {
-            @defining(if (childPage.children.nonEmpty) "dropdown-submenu" else "") { liClass =>
-              <li class="@liClass">
+            @defining(if (childPage.children.nonEmpty) "hs-has-sub-menu" else "") { liClass =>
+              <li class="dropdown-item @liClass">
               @headerMenu(childPage, level = level + 1)
               </li>
             }
@@ -64,4 +65,3 @@
     </nav>
   </div>
 </header>
-s
