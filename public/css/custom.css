@@ -1,6 +1,6 @@
 /* Add here all your css styles (customizations) */
 
-body.larger-font {
+/*body.larger-font {
     font-size: 14px;
     line-height: 1.8;
 }
@@ -59,14 +59,14 @@ h4.toc-title-and-toggle {
     font-size: 12px;
     display: inline-block;
     padding: 0;
-}
+}*/
 
 .toc-panel li a {
     /* @@todo this should depend on the theme */
-    color: #72c02c;
+    /*color: #72c02c;*/
 }
 
-.service-block-u a {
+/*.service-block-u a {
     color: white;
 }
 
@@ -112,19 +112,19 @@ h4.toc-title-and-toggle {
 
 .listitems .tag-box .table td {
     padding: 6px;
-}
+}*/
 
 .listitems h3 a, .markdown h2 a {
     /* @todo this should depend on the theme */
-    color: #555;
+    /*color: #555;*/
 }
 
 .markdown li a, .latestposts li a, .latesttweets li a {
     /* @todo this should depend on the theme */
-    color: #72c02c;
+    /*color: #72c02c;*/
 }
 
-.movie-alternate-title, .concert-event {
+/*.movie-alternate-title, .concert-event {
     font-size: smaller;
     font-style: italic;
 }
@@ -223,4 +223,4 @@ h6:hover .header-link {
 
 .lifelogging-table tr.list-details.odd {
     background-color: #f7f7f7;
-}
+}*/

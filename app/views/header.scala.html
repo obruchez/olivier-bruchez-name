@@ -1,95 +1,67 @@
 @(page: Page)
 
 @headerMenu(page: Page, level: Int) = {
-    @level match {
-        case 0 => {
-            <ul class="nav navbar-nav">
-            @page.children.map { page =>
-                @if(page.children.isEmpty) {
-                    <li><a href="@page.url">@page.title</a></li>
-                } else {
-                    <li class="dropdown">
-                    @headerMenu(page, level = level + 1)
-                    </li>
-                }
-            }
-            </ul>
+  @level match {
+    case 0 => {
+      <ul class="navbar-nav text-uppercase g-pos-rel g-font-weight-600 ml-auto">
+      @page.children.map { page =>
+        @if(page.children.isEmpty) {
+          <li class="nav-item g-mx-10--lg g-mx-15--xl"><a href="@page.url" class="nav-link g-py-7 g-px-0">@page.title</a></li>
+        } else {
+          <li class="nav-item hs-has-sub-menu g-mx-10--lg g-mx-15--xl" data-animation-in="fadeIn" data-animation-out="fadeOut">
+          @headerMenu(page, level = level + 1)
+          </li>
         }
-        case _ => {
-            @if(level == 1) {
-                <a href="@page.url" class="dropdown-toggle" data-toggle="dropdown">@page.title</a>
-            } else {
-                <a href="@page.url" class="noseparator"><i class="fa @page.icon.getOrElse("")"></i> @page.title</a>
-            }
-            <ul class="dropdown-menu">
-            @Header.menuItems(page).map { menuItem =>
-                @menuItem match {
-                    case Header.MenuSeparator => {
-                        <li role="separator" class="divider"></li>
-                    }
-                    case Header.MenuPage(childPage) => {
-                        @defining(if (childPage.children.nonEmpty) "dropdown-submenu" else "") { liClass =>
-                            <li class="@liClass">
-                            @headerMenu(childPage, level = level + 1)
-                            </li>
-                        }
-                    }
-                }
-            }
-            </ul>
-        }
+      }
+      </ul>
     }
+    case _ => {
+      @if(level == 1) {
+        <a href="@page.url" class="dropdown-toggle" data-toggle="dropdown">@page.title</a>
+      } else {
+        <a href="@page.url" class="noseparator"><i class="fa @page.icon.getOrElse("")"></i> @page.title</a>
+      }
+      <ul class="dropdown-menu">
+      @Header.menuItems(page).map { menuItem =>
+        @menuItem match {
+          case Header.MenuSeparator => {
+            <li role="separator" class="divider"></li>
+          }
+          case Header.MenuPage(childPage) => {
+            @defining(if (childPage.children.nonEmpty) "dropdown-submenu" else "") { liClass =>
+              <li class="@liClass">
+              @headerMenu(childPage, level = level + 1)
+              </li>
+            }
+          }
+        }
+      }
+      </ul>
+    }
+  }
 }
 
-<!--=== Header ===-->
-<div class="header">
-    <div class="container">
-        <!-- Logo -->
-        <!--
-        <a class="logo" href="index.html">
-            <img src="@routes.Assets.at("images/logo1-default.png")" alt="Logo">
-        </a>
-        -->
-        <!-- End Logo -->
+<header id="js-header" class="u-header u-header--static">
+  <div class="u-header__section u-header__section--light g-bg-white g-transition-0_3 g-py-10">
+    <nav class="js-mega-menu navbar navbar-expand-lg hs-menu-initialized hs-menu-horizontal">
+      <div class="container">
+        <!-- Responsive Toggle Button -->
+        <button class="navbar-toggler navbar-toggler-right btn g-line-height-1 g-brd-none g-pa-0 g-pos-abs g-top-3 g-right-0" type="button" aria-label="Toggle navigation" aria-expanded="false" aria-controls="navBar" data-toggle="collapse" data-target="#navBar">
+                    <span class="hamburger hamburger--slider">
+                        <span class="hamburger-box">
+                            <span class="hamburger-inner"></span>
+                        </span>
+                    </span>
+                </button>
+        <!-- End Responsive Toggle Button -->
 
-        <!-- Topbar -->
-        <!--
-        <div class="topbar">
-            <ul class="loginbar pull-right">
-                <li class="hoverSelector">
-                    <i class="fa fa-globe"></i>
-                    <a>Languages</a>
-                    <ul class="languages hoverSelectorBlock">
-                        <li class="active">
-                            <a href="#">English <i class="fa fa-check"></i></a>
-                        </li>
-                        <li><a href="#">Spanish</a></li>
-                        <li><a href="#">Russian</a></li>
-                        <li><a href="#">German</a></li>
-                    </ul>
-                </li>
-                <li class="topbar-devider"></li>
-                <li><a href="page_faq.html">Help</a></li>
-                <li class="topbar-devider"></li>
-                <li><a href="javascript:void(0);">Login</a></li>
-            </ul>
+        <!-- Navigation -->
+        <div class="collapse navbar-collapse align-items-center flex-sm-row g-pt-10 g-pt-5--lg g-mr-40--lg" id="navBar">
+        @headerMenu(controllers.Sitemap.root, level = 0)
         </div>
-        -->
-        <!-- End Topbar -->
-
-        <!-- Toggle get grouped for better mobile display -->
-        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-responsive-collapse">
-            <span class="sr-only">Toggle navigation</span>
-            <span class="fa fa-bars"></span>
-        </button>
-        <!-- End Toggle -->
-    </div><!--/end container-->
-
-    <!-- Collect the nav links, forms, and other content for toggling -->
-    <div class="collapse navbar-collapse mega-menu navbar-responsive-collapse">
-        <div class="container">
-            @headerMenu(controllers.Sitemap.root, level = 0)
-        </div><!--/end container-->
-    </div><!--/navbar-collapse-->
-</div>
-<!--=== End Header ===-->
+        <!-- End Navigation -->
+      </div>
+    </nav>
+  </div>
+</header>
+s
