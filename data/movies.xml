@@ -3,6 +3,16 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Checklist: add rating to IMDb -->
   <movie>
+    <date>2018.01.20</date>
+    <theater home="true"/>
+    <director>Roger Allers &amp; Rob Minkoff</director>
+    <title>The Lion King</title>
+    <url>http://www.imdb.com/title/tt0110357/</url>
+    <rating>4.5</rating>
+    <comments>I have seen a lot of Disney movies. I even saw the <i>Lion King</i> musical in London in 2007, but it's the first time I see the movie, surprisingly. Let's just say that I would have probably enjoyed it more as a child. I'm not saying you can't enjoy an animation movie as an adult, but <i>The Lion King</i> is definitely less complex, more shallow than some Miyazaki/Ghibli movies, for example.</comments>
+    <image>The Lion King.jpg</image>
+  </movie>
+  <movie>
     <date>2018.01.19</date>
     <theater home="true"/>
     <director>Francis Ford Coppola</director>
