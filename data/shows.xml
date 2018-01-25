@@ -43,6 +43,12 @@
     <comments></comments>
   </show>
   <show>
+    <date>2018.01.24</date>
+    <name url="https://en.wikipedia.org/wiki/Rick_and_Morty">Rick and Morty</name>
+    <series url="https://en.wikipedia.org/wiki/Rick_and_Morty_(season_3)" type="season">3</series>
+    <comments>One of my favorite animated shows. It tackles at lot of philosophical themes, some of them rather negative (absurdism, nihilism, etc.), some of them intriguing (personal identity, etc.). The framework of (infinite) parallel universes is an ideal way to explore those themes, I think, since it puts "our world" into perspective. <a href="https://www.google.ch/search?q=philosophy+of+rick+and+morty">Many articles</a> have been written about it. What's also interesting to me is that all those serious themes are treated with (dark) humor, which is refreshing.</comments>
+  </show>
+  <show>
     <date>2018.01.07</date>
     <name url="https://en.wikipedia.org/wiki/Modern_Family">Modern Family</name>
     <series url="https://en.wikipedia.org/wiki/Modern_Family_(season_3)" type="season">3</series>
@@ -231,7 +237,7 @@
   <show>
     <date>2016.09.10</date>
     <name url="https://en.wikipedia.org/wiki/Rick_and_Morty">Rick and Morty</name>
-    <series url="https://en.wikipedia.org/wiki/List_of_Rick_and_Morty_episodes#Season_2_(2015)" type="season">2</series>
+    <series url="https://en.wikipedia.org/wiki/Rick_and_Morty_(season_2)" type="season">2</series>
   </show>
   <show>
     <date>2016.08.30</date>
@@ -241,7 +247,7 @@
   <show>
     <date>2016.08.23</date>
     <name url="https://en.wikipedia.org/wiki/Rick_and_Morty">Rick and Morty</name>
-    <series url="https://en.wikipedia.org/wiki/List_of_Rick_and_Morty_episodes#Season_1_(2013%E2%80%9314)" type="season">1</series>
+    <series url="https://en.wikipedia.org/wiki/Rick_and_Morty_(season_1)" type="season">1</series>
   </show>
   <show>
     <date>2016.07.03</date>
