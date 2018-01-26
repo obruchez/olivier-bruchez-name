@@ -2,34 +2,22 @@
 <podcasts>
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date>2018.01.26</date>
+    <name>Alex &amp; Erik's Podcast</name>
+    <episode number="41">The ethics of having children</episode>
+    <comments>A topic that's very relevant to me at this time in my life. I agree that David Benatar's argument is not totally convincing (see <a href="http://olivier.bruchez.name/podcasts#2017-12-14">my comments</a>). I agree that the average/potential happiness of a child will depend on the parents, country, etc., so we probably can't say, globally, that people should stop reproducing. We need to be more nuanced than that. We can't make it illegal to have children or require parenting permits. This is not practical. So, yes, we need indirect measures (sex education, education in general, etc.). The discussion about the environmental impact of a child was a good start, but probably a bit too optimistic. I sense that there is a bias towards thinking that our children will have a positive impact on the world. Also, the fact that people in India are not as starved as anticipated several decades ago is not the whole story. Yes, we have more effective agricultural techniques, but what are their impact on the environment? Are they sustainable? I'm not so sure they are. A few important points also missing from this discussion: adoption (and the fact that there are more than 100 million orphans at any given time), parents' happiness, the effect of the number of children you have (1, 2, or more), etc. Studies have been done on these variables/effects and should probably be taken into account when deciding whether you should have children and, if so, how many you should have.</comments>
+  </podcast>
+  <podcast>
     <date>2018.01.25</date>
     <name url="http://verybadwizards.com/">Very Bad Wizards</name>
     <episode url="https://verybadwizards.fireside.fm/120" number="120">Clap Your Hand for Robert Wright</episode>
-    <comments></comments>
-    <!--
-    - meditation as a way to become more aware of our evolutionary biases (moral values, emotions, etc.)
-    - evolution doesn't want us to be happy
-    - Buddhism: seeing things as they really are can lead to happiness and makes us better persons
-    -->
+    <comments>The second interview with Robert Wright that I listen to (the first one being the interview on the Sam Harris podcast). I like how Wright describes meditation as a way to become more aware of our evolutionary biases (moral values, emotions, etc.). Evolution doesn't want us to be happy; it wants us to reproduce, to copy our genes. For that, it kind of needs us to be unhappy, to be always struggling, unsatisfied. For Buddhism, seing things as they really are can lead to happiness and make us better persons. Is it really true, though? This is an empirical question. Do we have any data about this?</comments>
   </podcast>
   <podcast>
     <date>2018.01.23</date>
     <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
     <episode url="https://samharris.org/podcasts/113-consciousness-self" number="113">Consciousness and the Self - A Conversation with Anil K. Seth</episode>
-    <comments></comments>
-    <!--
-      - second person to reject Chalmers / hard problem of consciousness; i.e. "we have moved on since the 90s", conceivability is a bit native, etc.
-      - vitalism: we used to think that life was a mystery ; it's a bit easy to find it "obvious" now, in hindsight
-      - Seth not convinced that we will still have a hard problem "at the end", when we'll have a detailed model
-      - Seth: I have the same idea about animal consciousness (consciousness for sure in mammals, probably in birds, less sure about fish, and even less with insects), idea of gradual consciousness
-      - idea of predictions of perceptions (like Hinton's capsules?) / Bayesian brain
-      - we do not notice gradual changes => we tend to overestimate the stability of our self
-      - for the same reason, we might not notice a gradual decrease of our consciousness if we gradually replace our biological neurons with silicon neurons => our intuitions might be bad here!
-      - Seth not convinced by philosophical zombie argument, but for him it doesn't mean that AI has to be exactly like human intelligence => for him we can have AI and no consciousness (?)
-      - IIT /  Giulio Tononi: in Waking Up or elsewhere?
-      - Seth: simulated consciousness not necessarily possible
-      - Westworld effect can be gradual, psychopathy can be gradual too, see Alexa/Siri vs children saying "please" or not
-    -->
+    <comments>A dense discussion about one of my favorite topics. I found it difficult to follow Sam and Seth at times. If I had to listen to an episode several times, this would be one of them. Seth is the second person to reject some of Chalmers' ideas, mainly the <a href="http://www.scholarpedia.org/article/Hard_problem_of_consciousness">hard problem of consciousness</a> (i.e. "we have moved on since the 90s", focusing on conceivability is a bit naive, etc.). Seth's take on vitalism: we used to think that life was a mystery, but it's a bit too easy to find our modern explanation "obvious" now, in hindsight; consciousness could be the same. Seth is not convinced that we will still have a hard problem "at the end", when we have a detailed model of the brain. Consciousness in non-human animals: it seems that I have the same intuitions as Seth, i.e. mammals are almost certainly conscious; birds are probably conscious; he's not sure about fishes and even less sure about insects; but consciousness is a gradual phenomenon. I didn't completely understand the concept of a Bayesian brain, that the brain is constanstly trying to predict perceptions. It reminds me of the idea of Geoffrey Hinton's Capsule Networks. We don't notice gradual changes, so we tend to overestimate the stability of our self. For the same reason, we might not notice a gradual decrease of our consciousness if we gradually replace our biological neurons with silicon neurons, so we shouldn't necessarily trust our intuitions when thinking about this kind of thought experiments. Seth is not convinced by the philosophical zombie argument, but for him it doesn't mean that AI has to be exactly like human intelligence; for him we can have AI agents without any consciousness (if I understand correctly). I don't know where I first heard about Giulio Tononi's <a href="https://en.wikipedia.org/wiki/Integrated_information_theory">integrated information theory (IIT)</a> (probably in Christof Koch's book). Seth seems to think that we should explore this kind of models. I personally don't know/understand if this will lead us anywhere. For Seth, simulated consciousness is not necessarily possible and this matches my current intuitions. Can AI agents make us more psychopathic, à la <i>Westworld</i>? Are children giving orders to Alexa/Siri without saying "please" problematic? It might be. Again, according to Seth, our loss of empathy can be gradual, so this is something that might happen without us even noticing it.</comments>
   </podcast>
   <podcast>
     <date>2018.01.17</date>
