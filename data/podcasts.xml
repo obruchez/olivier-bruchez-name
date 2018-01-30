@@ -4,11 +4,23 @@
   <podcast>
     <date></date>
     <name url="http://verybadwizards.com/">Very Bad Wizards</name>
-    <episode url="https://verybadwizards.fireside.fm/132" number="132">Emotional Willpower (with David DeSteno)</episode>
+    <episode url="https://verybadwizards.fireside.fm/108" number="108">The Gimp Exception</episode>
     <comments></comments>
     <!--
+    research: you have to read a lot (papers, books) or else you risk being not very original (old/derivative ideas, etc.)
+    moral hypocrisy
+    -->
+  </podcast>
+  <podcast>
+    <date>2018.01.29</date>
+    <name url="http://verybadwizards.com/">Very Bad Wizards</name>
+    <episode url="https://verybadwizards.fireside.fm/132" number="132">Emotional Willpower (with David DeSteno)</episode>
+    <comments>Betting on our willpower to achieve our goals is a bad idea. This is not a new observation. Scott Adams says we should bet on systems, for example. For DeSteno, we should develop positive emotional habits, as <a href="https://greatergood.berkeley.edu/article/item/three_emotions_that_can_help_you_succeed_at_your_goals">he explains in this article</a>. "The problem is that when we are faced with choices between pleasure now and reward in the future, we will often choose the former."</comments>
+    <!--
+      positive emotional habits
       meditation => compassion
       gratitude = important
+      gratitude towards who/what? -> appreciation
     -->
   </podcast>
   <podcast>
