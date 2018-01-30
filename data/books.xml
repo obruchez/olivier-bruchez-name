@@ -14,6 +14,17 @@
         <image>The Theoretical Minimum.jpg</image>
     </book> -->
     <book>
+        <date></date>
+        <title>La Fête de l'insignifiance</title>
+        <author>Milan Kundera</author>
+        <publishingyear>2014</publishingyear>
+        <rating></rating>
+        <url>https://fr.wikipedia.org/wiki/La_F%C3%AAte_de_l%27insignifiance</url>
+        <!-- <notes description="Kindle highlights"></notes> -->
+        <comments></comments>
+        <image>La Fête de l'insignifiance.jpg</image>
+    </book>
+    <book>
         <date>2018.01.28</date>
         <title>The Expectant Father</title>
         <subtitle>The Ultimate Guide for Dads-to-Be</subtitle>
