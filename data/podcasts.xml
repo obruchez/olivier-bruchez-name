@@ -4,12 +4,16 @@
   <podcast>
     <date></date>
     <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
-    <episode url="https://samharris.org/podcasts/115-sam-harris-lawrence-krauss-matt-dillahunty-1/" number="115">Sam Harris, Lawrence Krauss, and Matt Dillahunty (1) - A Live Recording from New York City Center in NYC</episode>
+    <episode url="https://samharris.org/podcasts/116-ai-racing-toward-brink/" number="116">AI: Racing Toward the Brink - A Conversation with Eliezer Yudkowsky</episode>
     <comments></comments>
     <!--
-    Dillahunty: better this time?
-    Krauss: doesn’t like philosophy, trust only empirical data
     -->
+  </podcast>
+  <podcast>
+    <date>2018.02.06</date>
+    <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
+    <episode url="https://samharris.org/podcasts/115-sam-harris-lawrence-krauss-matt-dillahunty-1/" number="115">Sam Harris, Lawrence Krauss, and Matt Dillahunty (1) - A Live Recording from New York City Center in NYC</episode>
+    <comments>There was a lot of talking over each other. This was annoying at times. I like Krauss, but he doesn't seem to think philosophy is a worthy pursuit and some of his comments were too dismissive/childish. He only trusts empirical data. Dillahunty was better here than last time (but not everyone agrees, it seems). This episode included some standard discussions/arguments about morality (is–ought problem, etc.), consciousness, free will, the (illusion of the) self, and meditation. <a href="https://www.reddit.com/r/samharris/comments/7tq14j/115_sam_harris_lawrence_krauss_and_matt/dtfpip5/">This comment</a> probably sums up the discussion about free will pretty well: "Sometimes it gets really hard to parse what is a real difference of opinion and what just comes down to semantics." The discussion about epistemology, intuition, what it means to know something, the nature of time, etc. was more interesting. Sometimes I get the dizzying feeling that we cannot really know anything, especially the things we take for granted (time, space, etc.).</comments>
   </podcast>
   <podcast>
     <date>2018.02.01</date>
