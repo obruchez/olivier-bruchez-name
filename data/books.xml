@@ -15,13 +15,25 @@
     </book> -->
     <book>
         <date></date>
+        <title>The Social Skills Guidebook</title>
+        <subtitle>Manage Shyness, Improve Your Conversations, and Make Friends, Without Giving Up Who You Are</subtitle>
+        <author>Chris MacLeod</author>
+        <publishingyear>2016</publishingyear>
+        <rating></rating>
+        <url>https://books.google.com?id=SKNajwEACAAJ</url>
+        <!-- <notes description="Kindle highlights"></notes> -->
+        <comments></comments>
+        <image>The Social Skills Guidebook.jpg</image>
+    </book>
+    <book>
+        <date>2018.02.05</date>
         <title>La Fête de l'insignifiance</title>
         <author>Milan Kundera</author>
         <publishingyear>2014</publishingyear>
-        <rating></rating>
+        <rating>4.5</rating>
         <url>https://fr.wikipedia.org/wiki/La_F%C3%AAte_de_l%27insignifiance</url>
         <!-- <notes description="Kindle highlights"></notes> -->
-        <comments></comments>
+        <comments>L'un des livres les plus courts que j'aie lu ces dernières années.</comments>
         <image>La Fête de l'insignifiance.jpg</image>
     </book>
     <book>
