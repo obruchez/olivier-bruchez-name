@@ -7,6 +7,7 @@
     <episode url="https://samharris.org/podcasts/116-ai-racing-toward-brink/" number="116">AI: Racing Toward the Brink - A Conversation with Eliezer Yudkowsky</episode>
     <comments></comments>
     <!--
+      coordination problem: a single person loses, but many persons changing together => escape from local optimum to go to better, distant optimum
     -->
   </podcast>
   <podcast>
