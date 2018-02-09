@@ -3,6 +3,12 @@
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
     <date></date>
+    <name url="http://verybadwizards.com/">Very Bad Wizards</name>
+    <episode url="https://verybadwizards.fireside.fm/133" number="133">Death and Dreams</episode>
+    <comments></comments>
+  </podcast>
+  <podcast>
+    <date>2018.02.09</date>
     <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
     <episode url="https://samharris.org/podcasts/116-ai-racing-toward-brink/" number="116">AI: Racing Toward the Brink - A Conversation with Eliezer Yudkowsky</episode>
     <comments></comments>
