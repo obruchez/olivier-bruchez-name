@@ -16,10 +16,7 @@
     <date>2018.02.09</date>
     <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
     <episode url="https://samharris.org/podcasts/116-ai-racing-toward-brink/" number="116">AI: Racing Toward the Brink - A Conversation with Eliezer Yudkowsky</episode>
-    <comments></comments>
-    <!--
-      coordination problem: a single person loses, but many persons changing together => escape from local optimum to go to better, distant optimum
-    -->
+    <comments>Yudkowsky is very clever and knowledgeable, so this was a hard discussion to follow. My general feeling is that "it's a bit more complicated than that", again. A summary of the podcast is available <a href="https://www.reddit.com/r/samharris/comments/7vjnr1/116_ai_racing_toward_the_brink/dttkbhe/">here</a>. I liked the part about the coordination problem: if a group of people is stuck on a local optimum, any single individual will lose if he/she decides to move alone; the only way to go to another, better local optimum is to move as a coordinated group. This is difficult to do (i.e. the right incentives are hard to find).</comments>
   </podcast>
   <podcast>
     <date>2018.02.06</date>
