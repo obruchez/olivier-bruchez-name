@@ -3,6 +3,12 @@
   <introduction>A list of articles I read.</introduction>
   <!-- Checklist: post to Twitter and/or Facebook -->
   <article>
+    <date>2018.02.10</date>
+    <title url="http://www.macleans.ca/regretful-mothers/">'I regret having children'</title>
+    <subtitle>In pushing the boundaries of accepted maternal response, women are challenging an explosive taboo-and reframing motherhood in the process</subtitle>
+    <comments>"The premise that motherhood is not a one-size-fits-all role shouldn't come as a surprise in 2018, given the rise of the "childless by choice" movement or an international decline in birth rates. Still, it's received as an affront to the "sanctity" of motherhood and the entrenched belief that the maternal instinct is innate and unconditional—despite ample historical evidence to the contrary. [...] Anti-natalist philosopher David Benatar [...] even argues no one should have children on compassionate grounds given the painfulness of life. [...] A 2016 German study found eight per cent of 1,200 parents polled said they would choose not to have children again. [...] [A] 2010 American Sociological Association study found that parents were more likely to be depressed than their child-free counterparts, and that people without kids were happier than any other group. [...] [W]omen who feel guilt over regret are more conscientious parents. "The more I feel [regret], the more I give them." [...] [M]ost men who became fathers even though they didn't want to did so because their partner wanted to be a mother, and they didn't want to live without her. [...] Pro-natalism serves national interests. [...] The belief that women are uniquely equipped to parent also marginalizes fathers. [...] 'What if my child ever read this?' [...] Women who express regret, or any critique of motherhood, typically have done so through humour. [...] So many mothers are on anti-anxiety medication and antidepressants or have secret post-partum lasting for years. [...] [T]his is where the subject of regret introduces a radical new twist in the mother plot: It introduces the notion that mothers can exist autonomously from their children. [...] Recognizing regret as part of the maternal experience requires a sea change in thinking."</comments>
+  </article> 
+  <article>
     <date>2018.02.01</date>
     <title url="https://www.theguardian.com/society/2018/jan/07/is-everything-you-think-you-know-about-depression-wrong-johann-hari-lost-connections">Is everything you think you know about depression wrong?</title>
     <subtitle>In this extract from his new book, Johann Hari, who took antidepressants for 13 years, calls for a new approach</subtitle>
@@ -38,7 +44,7 @@
     <date>2017.12.30</date>
     <title url="https://www.nytimes.com/2017/12/18/business/electric-car-adoption.html">What Needs to Happen Before Electric Cars Take Over the World</title>
     <subtitle>Electric vehicles have only a tiny market share, but the auto industry is betting billions that they will soon be as cheap as conventional cars.</subtitle>
-    <comments>What's needed: 1) cheaper <a href="https://en.wikipedia.org/wiki/Powertrain">powertrains</a> (2-3 times cheaper) 2) "steady, affordable supply of the resources required to make batteries" (mainly cobalt, lithium, and graphite) 3) "more charging stations [...] and they’ll need to charge faster" 4) a psychological shift (not really a problem, I would guess) 5) investments in new production lines and technologies (i.e. manufacturers will need to cut losses).</comments>
+    <comments>What's needed: 1) cheaper <a href="https://en.wikipedia.org/wiki/Powertrain">powertrains</a> (2-3 times cheaper) 2) "steady, affordable supply of the resources required to make batteries" (mainly cobalt, lithium, and graphite) 3) "more charging stations [...] and they'll need to charge faster" 4) a psychological shift (not really a problem, I would guess) 5) investments in new production lines and technologies (i.e. manufacturers will need to cut losses).</comments>
   </article>
   <article>
     <date>2017.12.22</date>
