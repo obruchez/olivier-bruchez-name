@@ -3,6 +3,16 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Checklist: add rating to IMDb -->
   <movie>
+    <date>2018.02.10</date>
+    <theater home="true"/>
+    <director>Richard Linklater</director>
+    <title>Before Sunrise</title>
+    <url>http://www.imdb.com/title/tt0112471/</url>
+    <rating>5.0</rating>
+    <comments>I discovered Richard Linklater a few years ago with <i>Boyhood</i>, which blew my mind. I've always wanted to see more of his movies. Having finally seen <i>Before Sunrise</i>, I definitely want to see <i>Before Sunset</i> and <i>Before Midnight</i> as well. There are several subjective reasons why I enjoyed this movie. I didn't know anything about the plot, the caracters, etc. It's almost a perfect coincidence, but we watched <i>Before Sunrise</i> on February 10, 2018 and the only time I've ever been to Vienna was on February 11-15, 2008. And, yes, the movie takes place in Vienna. Another thing was that the movie, although it was filmed in 1994, was released in 1995 and this was the year I discovered another European capital as a teenager, with my classmates: Paris. The result is that I can relate to several aspects of the movie: the period (mid-90s), the young caracters discovering a European city, wondering about what it means to live, to love, etc. Can things be meaningful if they don't last? Are they meaningful <em>because</em> they don't last? At the end, yes, it's still a romance movie, but it's definitely not overromantic and the form of the movie (two caracters talking for more than 90 minutes, walking in a city) makes it quite original. It's simple. It captures a moment in time in an authentic way. It's captivating.</comments>
+    <image>Before Sunrise.jpg</image>
+  </movie>
+  <movie>
     <date>2018.01.20</date>
     <theater home="true"/>
     <director>Roger Allers &amp; Rob Minkoff</director>
@@ -35,7 +45,7 @@
   <movie>
     <date>2017.12.29</date>
     <theater>Casino, Martigny</theater>
-    <director></director>
+    <director>Lee Unkrich &amp; Adrian Molina</director>
     <title>Coco</title>
     <version>fr</version>
     <url>http://www.imdb.com/title/tt2380307/</url>
