@@ -3,17 +3,6 @@
   <introduction>A list of TV shows I saw.</introduction>
   <show>
     <date></date>
-    <name url="https://en.wikipedia.org/wiki/Black_Mirror">Black Mirror</name>
-    <series url="https://en.wikipedia.org/wiki/List_of_Black_Mirror_episodes#Series_4_(2017)" type="series">4</series>
-    <comments></comments>
-    <!--
-    USS Callister: concept of artificial consciousness and torture in VR, reminiscent of https://en.wikipedia.org/wiki/White_Christmas_(Black_Mirror)
-    Black Museum: same but goes further
-    Crocodile: beautiful (Iceland) and very stressful
-    -->
-  </show>
-  <show>
-    <date></date>
     <name url="https://en.wikipedia.org/wiki/Bob's_Burgers">Bob's Burgers</name>
     <series url="https://en.wikipedia.org/wiki/Bob%27s_Burgers_(season_5)" type="season">5</series>
     <comments></comments>
@@ -21,7 +10,7 @@
   <show>
     <date></date>
     <name url="https://en.wikipedia.org/wiki/Modern_Family">Modern Family</name>
-    <series url="https://en.wikipedia.org/wiki/Modern_Family_(season_4)" type="season">4</series>
+    <series url="https://en.wikipedia.org/wiki/Modern_Family_(season_5)" type="season">5</series>
     <comments></comments>
   </show>
   <show>
@@ -41,6 +30,24 @@
     <name url="https://en.wikipedia.org/wiki/Veep_(TV_series)">Veep</name>
     <series url="https://en.wikipedia.org/wiki/Veep_(TV_series)#Season_4" type="season">4</series>
     <comments></comments>
+  </show>
+  <show>
+    <date>2018.02.04</date>
+    <name url="https://en.wikipedia.org/wiki/Modern_Family">Modern Family</name>
+    <series url="https://en.wikipedia.org/wiki/Modern_Family_(season_4)" type="season">4</series>
+    <comments>I don't have much to add compared to season 3. This was an average/good season. Like <i>This Is Us</i>, it's not a particularly edgy show, but it's just what I need from time to time (something funny and light).</comments>
+  </show>
+  <show>
+    <date>2018.01.31</date>
+    <name url="https://en.wikipedia.org/wiki/Black_Mirror">Black Mirror</name>
+    <series url="https://en.wikipedia.org/wiki/List_of_Black_Mirror_episodes#Series_4_(2017)" type="series">4</series>
+    <comments>I wrote that the previous season was "very dark", but this one is, I think, even darker. The theme of <a href="https://en.wikipedia.org/wiki/Artificial_consciousness">artificial consciousness</a> and "artificial torture/hell" is present in several episodes: <a href="https://en.wikipedia.org/wiki/USS_Callister">"USS Callister"</a>, <a href="https://en.wikipedia.org/wiki/Hang_the_DJ_(Black_Mirror)">"Hang the DJ"</a>, and <a href="https://en.wikipedia.org/wiki/Black_Museum_(Black_Mirror)">"Black Museum"</a>. It was also present in <a href="https://en.wikipedia.org/wiki/White_Christmas_(Black_Mirror)">"White Christmas"</a> in 2014. It's a fascinating topic and I think it's a good thing that it can be popularized in such a way. In "Hang the DJ", an intriguing idea is introduced: artificial intelligence/consciousness agents in a simulation, not realizing that they're in a simulation. Of course, <i>Matrix</i> did it first, but here the simulation is "pure" (i.e. there are no "real" bodies anywhere). <a href="https://en.wikipedia.org/wiki/Crocodile_(Black_Mirror)">"Crocodile"</a> and <a href="https://en.wikipedia.org/wiki/Metalhead_(Black_Mirror)">"Metalhead"</a> (autonomous weapons, post-apocalyptic world) were particularly stress-inducing. My least favorite episode of the season was probably the one directed by Jodie Foster, <a href="https://en.wikipedia.org/wiki/Arkangel_(Black_Mirror)">"Arkangel"</a>.</comments>
+  </show>
+  <show>
+    <date>2018.01.24</date>
+    <name url="https://en.wikipedia.org/wiki/Rick_and_Morty">Rick and Morty</name>
+    <series url="https://en.wikipedia.org/wiki/Rick_and_Morty_(season_3)" type="season">3</series>
+    <comments>One of my favorite animated shows. It tackles at lot of philosophical themes, some of them rather negative (absurdism, nihilism, etc.), some of them intriguing (personal identity, etc.). The framework of (infinite) parallel universes is an ideal way to explore those themes, I think, since it puts "our world" into perspective. <a href="https://www.google.ch/search?q=philosophy+of+rick+and+morty">Many articles</a> have been written about it. What's also interesting to me is that all those serious themes are treated with (dark) humor, which is refreshing.</comments>
   </show>
   <show>
     <date>2018.01.07</date>
@@ -88,7 +95,7 @@
     <date>2017.09.10</date>
     <name url="https://en.wikipedia.org/wiki/Black_Mirror">Black Mirror</name>
     <series url="https://en.wikipedia.org/wiki/List_of_Black_Mirror_episodes#Series_3_(2016)" type="series">3</series>
-    <comments>This season was about social networks, virtual reality, autonomous drones, hacking, online blackmail, mind uploading, etc. Overall, a very dark season. The last episode, in particular, <a href="https://en.wikipedia.org/wiki/Hated_in_the_Nation_(Black_Mirror)"><i>Hated in the Nation</i></a>, was terrifying. Let's be honest, it's something that could happen in the future. This is why some people think the <a href="https://en.wikipedia.org/wiki/AI_control_problem">AI control problem</a> is so important.</comments>
+    <comments>This season was about social networks, virtual reality, autonomous drones, hacking, online blackmail, mind uploading, etc. Overall, a very dark season. The last episode, in particular, <a href="https://en.wikipedia.org/wiki/Hated_in_the_Nation_(Black_Mirror)">"Hated in the Nation"</a>, was terrifying. Let's be honest, it's something that could happen in the future. This is why some people think the <a href="https://en.wikipedia.org/wiki/AI_control_problem">AI control problem</a> is so important.</comments>
   </show>
   <show>
     <date>2017.08.28</date>
@@ -124,7 +131,7 @@
     <date>2017.06.02</date>
     <name url="https://en.wikipedia.org/wiki/Inside_No._9">Inside No. 9</name>
     <series url="https://en.wikipedia.org/wiki/Inside_No._9#Series_3" type="series">3</series>
-    <comments>An excellent series. Very Roald Dahlesque. <a href="https://en.wikipedia.org/wiki/The_Riddle_of_the_Sphinx_(Inside_No._9)"><i>The Riddle of the Sphinx</i></a> was one the best episodes, but it was also surprinsingly really dark. I'm really glad to read that a fourth series will be produced.</comments>
+    <comments>An excellent series. Very Roald Dahlesque. <a href="https://en.wikipedia.org/wiki/The_Riddle_of_the_Sphinx_(Inside_No._9)">"The Riddle of the Sphinx"</a> was one the best episodes, but it was also surprinsingly really dark. I'm really glad to read that a fourth series will be produced.</comments>
   </show>
   <show>
     <date>2017.05.14</date>
@@ -231,7 +238,7 @@
   <show>
     <date>2016.09.10</date>
     <name url="https://en.wikipedia.org/wiki/Rick_and_Morty">Rick and Morty</name>
-    <series url="https://en.wikipedia.org/wiki/List_of_Rick_and_Morty_episodes#Season_2_(2015)" type="season">2</series>
+    <series url="https://en.wikipedia.org/wiki/Rick_and_Morty_(season_2)" type="season">2</series>
   </show>
   <show>
     <date>2016.08.30</date>
@@ -241,7 +248,7 @@
   <show>
     <date>2016.08.23</date>
     <name url="https://en.wikipedia.org/wiki/Rick_and_Morty">Rick and Morty</name>
-    <series url="https://en.wikipedia.org/wiki/List_of_Rick_and_Morty_episodes#Season_1_(2013%E2%80%9314)" type="season">1</series>
+    <series url="https://en.wikipedia.org/wiki/Rick_and_Morty_(season_1)" type="season">1</series>
   </show>
   <show>
     <date>2016.07.03</date>
@@ -396,7 +403,7 @@
   <show>
     <date>2014.09.28</date>
     <name url="https://en.wikipedia.org/wiki/Web_Therapy_(TV_series)">Web Therapy</name>
-    <series url="https://en.wikipedia.org/wiki/List_of_Web_Therapy_episodes#Season_1_.282011.29" type="season">1</series>
+    <series url="https://en.wikipedia.org/wiki/List_of_Web_Therapy_episodes#Season_1_(2011)" type="season">1</series>
   </show>
   <show>
     <date>2014.09.18</date>

@@ -3,16 +3,63 @@
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
     <date></date>
-    <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
-    <episode url="https://samharris.org/podcasts/113-consciousness-self" number="113">Consciousness and the Self - A Conversation with Anil K. Seth</episode>
+    <name url="http://verybadwizards.com/">Very Bad Wizards</name>
+    <episode url="https://verybadwizards.fireside.fm/133" number="133">Death and Dreams</episode>
     <comments></comments>
     <!--
-      - second person to reject Chalmers / hard problem of consciousness; i.e. "we have moved on since the 90s", conceivability is a bit native, etc.
-      - vitalism: we used to think that life was a mystery ; it's a bit easy to find it "obvious" now, in hindsight
-      - Seth not convinced that we will still have a hard problem "at the end", when we'll have a detailed model
-      - Seth: I have the same idea about animal consciousness (consciousness for sure in mammals, probably in birds, less sure about fish, and even less with insects), idea of gradual consciousness
-      - idea of predictions of perceptions (like Hinton's capsules?)
+    dream = poor ending for TV show / movie
+    death is like before birth, doesn’t comfort Dave at all
+    it’s not the absence of consciousness that’s scary  
+    "death" before life vs after asymmetry: it sucks more to lose what you have than what you've never had
     -->
+  </podcast>
+  <podcast>
+    <date>2018.02.09</date>
+    <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
+    <episode url="https://samharris.org/podcasts/116-ai-racing-toward-brink/" number="116">AI: Racing Toward the Brink - A Conversation with Eliezer Yudkowsky</episode>
+    <comments>Yudkowsky is very clever and knowledgeable, so this was a hard discussion to follow. My general feeling is that "it's a bit more complicated than that", again. A summary of the podcast is available <a href="https://www.reddit.com/r/samharris/comments/7vjnr1/116_ai_racing_toward_the_brink/dttkbhe/">here</a>. I liked the part about the coordination problem: if a group of people is stuck on a local optimum, any single individual will lose if he/she decides to move alone; the only way to go to another, better local optimum is to move as a coordinated group. This is difficult to do (i.e. the right incentives are hard to find).</comments>
+  </podcast>
+  <podcast>
+    <date>2018.02.06</date>
+    <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
+    <episode url="https://samharris.org/podcasts/115-sam-harris-lawrence-krauss-matt-dillahunty-1/" number="115">Sam Harris, Lawrence Krauss, and Matt Dillahunty (1) - A Live Recording from New York City Center in NYC</episode>
+    <comments>There was a lot of talking over each other. This was annoying at times. I like Krauss, but he doesn't seem to think philosophy is a worthy pursuit and some of his comments were too dismissive/childish. He only trusts empirical data. Dillahunty was better here than last time (but not everyone agrees, it seems). This episode included some standard discussions/arguments about morality (is–ought problem, etc.), consciousness, free will, the (illusion of the) self, and meditation. <a href="https://www.reddit.com/r/samharris/comments/7tq14j/115_sam_harris_lawrence_krauss_and_matt/dtfpip5/">This comment</a> probably sums up the discussion about free will pretty well: "Sometimes it gets really hard to parse what is a real difference of opinion and what just comes down to semantics." The discussion about epistemology, intuition, what it means to know something, the nature of time, etc. was more interesting. Sometimes I get the dizzying feeling that we cannot really know anything, especially the things we take for granted (time, space, etc.).</comments>
+  </podcast>
+  <podcast>
+    <date>2018.02.01</date>
+    <name url="http://verybadwizards.com/">Very Bad Wizards</name>
+    <episode url="https://verybadwizards.fireside.fm/109" number="109">Moral Pluralism: Behind the Lube</episode>
+    <comments>Most people will probably say that child sex dolls should be illegal and are unethical. As a consequentialist, I would say that it depends whether the consequences are good (i.e. it will lead a paedophile to not have sex with actual children) or bad (i.e. it will exacerbate the problem). I guess we don't have empirical data about this and, in the absence of any such data, it's probably a safe "bet" to make them illegal. Unfortunately, the problem will only get worse with virtual reality, realistic computer-generated videos, etc. The discussion about moral pluralism was hard to follow. I think I still don't understand what <a href="http://ethicsunwrapped.utexas.edu/glossary/moral-pluralism">moral pluralism</a> is in practice. "Moral pluralism is the idea that there can be conflicting moral views that are each worthy of respect. [...] Moral pluralists believe that many moral issues are extremely complicated." It sounds like I might be a moral pluralist, then. Does it make sense to be a consequentialist in principle and a moral pluralist in practice? I'm not sure.</comments>
+  </podcast>
+  <podcast>
+    <date>2018.01.30</date>
+    <name url="http://verybadwizards.com/">Very Bad Wizards</name>
+    <episode url="https://verybadwizards.fireside.fm/108" number="108">The Gimp Exception</episode>
+    <comments>Research tip: you have to read a lot (papers, books) or else you risk being not very original (old/derivative ideas). Moral hypocrisy: see <a href="https://www.nytimes.com/2017/01/13/opinion/sunday/the-real-problem-with-hypocrisy.html">this article</a>. "We contend that the reason people dislike hypocrites is that their outspoken moralizing falsely signals their own virtue. People object, in other words, to the misleading implication — not to a failure of will or a weakness of character. [...] Logically speaking, there is nothing dishonest about condemning an action and also engaging in it. [...] Our contention is that your objection to your co-worker is perfectly logical, because the principal offense of a hypocrite is not that he violates his own principles, but rather that his use of moral proclamations falsely implies that he himself behaves morally."</comments>
+  </podcast>
+  <podcast>
+    <date>2018.01.29</date>
+    <name url="http://verybadwizards.com/">Very Bad Wizards</name>
+    <episode url="https://verybadwizards.fireside.fm/132" number="132">Emotional Willpower (with David DeSteno)</episode>
+    <comments>Betting on our willpower to achieve our goals is a bad idea. This is not a new observation. Scott Adams says we should bet on systems, for example. For DeSteno, we should develop positive emotional habits, as <a href="https://greatergood.berkeley.edu/article/item/three_emotions_that_can_help_you_succeed_at_your_goals">he explains in this article</a>: "The problem is that when we are faced with choices between pleasure now and reward in the future, we will often choose the former. [...] I propose that you cultivate the positive emotions of gratitude, compassion, and pride. Why these emotions? Because they evolved to help us act in "prosocial" (kind and helpful) ways, effortlessly bringing out our better natures and encouraging a long-term view of our present-day actions. And these emotions have three advantages over reason, habits, and willpower: Their strength doesn't wane after repeated use, they can't be hijacked to favor immediate rewards, and they improve our decisions in different areas of life at the same time." There's a "a connection between daily gratitude and greater average patience and self-control." Writing a gratitude journal can help. And you don't need to feel gratitude towards someone: "Even luck [...] can lead to a feeling of gratitude." Compassion for our future self and self-compassion can help, and meditation can be used to encourage compassion. Finally, "authentic pride" can help, too, so it's important to realize that "we learn from our mistakes and that effort matters".</comments>
+  </podcast>
+  <podcast>
+    <date>2018.01.26</date>
+    <name>Alex &amp; Erik's Podcast</name>
+    <episode number="41">The ethics of having children</episode>
+    <comments>A topic that's very relevant to me at this time in my life. I agree that David Benatar's argument is not totally convincing (see <a href="http://olivier.bruchez.name/podcasts#2017-12-14">my comments</a>). I agree that the average/potential happiness of a child will depend on the parents, country, etc., so we probably can't say, globally, that people should stop reproducing. We need to be more nuanced than that. We can't make it illegal to have children or require parenting permits. This is not practical. So, yes, we need indirect measures (sex education, education in general, etc.). The discussion about the environmental impact of a child was a good start, but probably a bit too optimistic. I sense that there is a bias towards thinking that our children will have a positive impact on the world. Also, the fact that people in India are not as starved as anticipated several decades ago is not the whole story. Yes, we have more effective agricultural techniques, but what are their impact on the environment? Are they sustainable? I'm not so sure they are. A few important points also missing from this discussion: adoption (and the fact that there are more than 100 million orphans at any given time), parents' happiness, the effect of the number of children you have (1, 2, or more), etc. Studies have been done on these variables/effects and should probably be taken into account when deciding whether you should have children and, if so, how many you should have.</comments>
+  </podcast>
+  <podcast>
+    <date>2018.01.25</date>
+    <name url="http://verybadwizards.com/">Very Bad Wizards</name>
+    <episode url="https://verybadwizards.fireside.fm/120" number="120">Clap Your Hand for Robert Wright</episode>
+    <comments>The second interview with Robert Wright that I listen to (the first one being the interview on the Sam Harris podcast). I like how Wright describes meditation as a way to become more aware of our evolutionary biases (moral values, emotions, etc.). Evolution doesn't want us to be happy; it wants us to reproduce, to copy our genes. For that, it kind of needs us to be unhappy, to be always struggling, unsatisfied. For Buddhism, seing things as they really are can lead to happiness and make us better persons. Is it really true, though? This is an empirical question. Do we have any data about this?</comments>
+  </podcast>
+  <podcast>
+    <date>2018.01.23</date>
+    <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
+    <episode url="https://samharris.org/podcasts/113-consciousness-self" number="113">Consciousness and the Self - A Conversation with Anil K. Seth</episode>
+    <comments>A dense discussion about one of my favorite topics. I found it difficult to follow Sam and Seth at times. If I had to listen to an episode several times, this would be one of them. Seth is the second person to reject some of Chalmers' ideas, mainly the <a href="http://www.scholarpedia.org/article/Hard_problem_of_consciousness">hard problem of consciousness</a> (i.e. "we have moved on since the 90s", focusing on conceivability is a bit naive, etc.). Seth's take on vitalism: we used to think that life was a mystery, but it's a bit too easy to find our modern explanation "obvious" now, in hindsight; consciousness could be the same. Seth is not convinced that we will still have a hard problem "at the end", when we have a detailed model of the brain. Consciousness in non-human animals: it seems that I have the same intuitions as Seth, i.e. mammals are almost certainly conscious; birds are probably conscious; he's not sure about fishes and even less sure about insects; but consciousness is a gradual phenomenon. I didn't completely understand the concept of a Bayesian brain, that the brain is constanstly trying to predict perceptions. It reminds me of the idea of Geoffrey Hinton's Capsule Networks. We don't notice gradual changes, so we tend to overestimate the stability of our self. For the same reason, we might not notice a gradual decrease of our consciousness if we gradually replace our biological neurons with silicon neurons, so we shouldn't necessarily trust our intuitions when thinking about this kind of thought experiments. Seth is not convinced by the philosophical zombie argument, but for him it doesn't mean that AI has to be exactly like human intelligence; for him we can have AI agents without any consciousness (if I understand correctly). I don't know where I first heard about Giulio Tononi's <a href="https://en.wikipedia.org/wiki/Integrated_information_theory">integrated information theory (IIT)</a> (probably in Christof Koch's book). Seth seems to think that we should explore this kind of models. I personally don't know/understand if this will lead us anywhere. For Seth, simulated consciousness is not necessarily possible and this matches my current intuitions. Can AI agents make us more psychopathic, à la <i>Westworld</i>? Are children giving orders to Alexa/Siri without saying "please" problematic? It might be. Again, according to Seth, our loss of empathy can be gradual, so this is something that might happen without us even noticing it.</comments>
   </podcast>
   <podcast>
     <date>2018.01.17</date>

@@ -1,0 +1,16 @@
+#!/usr/bin/env bash
+
+main_directory=/usr/share/olivier-bruchez-name
+log_directory=/var/log/olivier-bruchez-name
+opt_directory=/opt/olivier-bruchez-name
+
+chown -R olivier-bruchez-name:olivier-bruchez-name ${main_directory}
+chown -R olivier-bruchez-name:olivier-bruchez-name ${log_directory}
+chown -R olivier-bruchez-name:olivier-bruchez-name ${opt_directory}
+
+find ${main_directory} -type f -exec chmod 644 {} \;
+find ${main_directory} -type d -exec chmod 755 {} \;
+
+chmod 755 ${main_directory}
+chmod 755 ${main_directory}/bin/olivier-bruchez-name
+chmod 640 ${opt_directory}/production.conf
