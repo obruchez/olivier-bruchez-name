@@ -3,9 +3,15 @@
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
     <date></date>
+    <name url="http://peachandblack.podbean.com/">Peach &amp; Black Podcast</name>
+    <episode url="http://peachandblack.podbean.com/e/non-album-tracks-vol1/">Non-Album Tracks Vol. 1</episode>
+    <comments></comments>
+  </podcast>
+  <podcast>
+    <date>2018.02.16</date>
     <name url="https://www.rts.ch/play/radio/emission/nectar?id=7949570">Nectars</name>
     <episode url="https://www.rts.ch/play/radio/nectar/audio/archives-on-regarde-dans-le-retro?id=9274889">Archives: On regarde dans le rétro?</episode>
-    <comments></comments>
+    <comments>Le bout d'archive à propos du passage de Marconi à Salvan en 1895, raconté par Maurice Gay-Balmaz en 1968, est fascinant : c'est un double saut dans le temps. Les archives, c'est important. Encore un argument contre l'initiative irresponsable No Billag, car la SSR est aussi chargée de conserver toutes ces archives, dont la valeur est inestimable. Globalement, je n'ai pas appris grand-chose. Numériser des documents, audio-visuels ou autres, ne suffit pas : ça n'est qu'un début et la conservation des fichiers résultants est un travail de longue haleine. Le rôle de la technologie est important : il est possible d'extraire plus d'information de supports physiques en les numérisant à l'aide de technologies plus récentes, plus précises. Il est donc important de conserver les supports physiques, même une fois numérisés.</comments>
   </podcast>
   <podcast>
     <date>2018.02.14</date>
