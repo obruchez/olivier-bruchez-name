@@ -2,10 +2,16 @@
 <podcasts>
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
-    <date></date>
+    <date>2018.02.18</date>
+    <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
+    <episode>Ask Me Anything #10</episode>
+    <comments>A few interesting topics. Should we give money to beggars (probably not)? Are prostitution and pornography ethical (it depends), and should they be legal (yes)? Adoption versus having one's own biological children. And I'm starting to understand the concept of metaphorical truth a bit better. The example of manipulating a gun (something I never do) as if it were always loaded is a good one. Sometimes, it's factually incorrect and it's possible to <em>know</em> it's incorrect, but it's still encouraging a good behaviour.</comments>
+  </podcast>
+  <podcast>
+    <date>2018.02.18</date>
     <name url="http://peachandblack.podbean.com/">Peach &amp; Black Podcast</name>
     <episode url="http://peachandblack.podbean.com/e/non-album-tracks-vol1/">Non-Album Tracks Vol. 1</episode>
-    <comments></comments>
+    <comments>Just three songs were covered: an excellent one, <a href="http://princevault.com/index.php?title=F.U.N.K.">"F.U.N.K."</a>, an average one (in my opinion), <a href="http://princevault.com/index.php?title=Purple_House">Purple House</a> (a straight blues, basically), and one of Prince's worst released songs, <a href="http://www.princevault.com/index.php?title=Purple_And_Gold">Purple And Gold</a>. An odd selection, but a fun episode, as usual. </comments>
   </podcast>
   <podcast>
     <date>2018.02.16</date>
