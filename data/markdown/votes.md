@@ -2,6 +2,16 @@
 
 My votes (in French). En Suisse, on ne plaisante pas avec la démocratie directe. :) J'essaie ici de documenter et de justifier la façon dont je me positionne par rapport aux votations fédérales, qui ont lieu jusqu'à quatre fois par année.
 
+## [Votation fédérale du 4 mars 2018](https://www.admin.ch/gov/fr/accueil/documentation/votations/20180304.html)
+
+### Acceptez-vous l’arrêté fédéral du 16 juin 2017 concernant le nouveau régime financier 2021 ?
+
+Oui. Résultat : ? (??.?%).
+
+### Acceptez-vous l’initiative populaire « Oui à la suppression des redevances radio et télévision (suppression des redevances Billag) » ?s
+
+Non. Résultat : ? (??.?%).
+
 ## [Votation fédérale du 24 septembre 2017](https://www.admin.ch/gov/fr/accueil/documentation/votations/20170924.html)
 
 ### Acceptez-vous l’arrêté fédéral du 14 mars 2017 sur la sécurité alimentaire ?
