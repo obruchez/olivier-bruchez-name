@@ -12,6 +12,12 @@ Oui. Résultat : ? (??.?%).
 
 Non. Résultat : ? (??.?%).
 
+- Je comprends l'argument selon lequel nous ne devrions payer que ce que nous consommons directement.
+- Je pense également qu'il faut laisser les forces du marché opérer, autant que faire se peut.
+- En l'occurrence, je pense que le marché suisse, en général, et suisse romand, en particulier, est trop petit pour donner naissance à une offre vraiment de qualité en matière d'information et de culture locales.
+- La redevance baissera de toute manière dès 2019.
+- La redevance permet également de financer l'archivage de décennies d'émissions de radio et de télévision, qui font partie du patrimoine suisse.
+
 ## [Votation fédérale du 24 septembre 2017](https://www.admin.ch/gov/fr/accueil/documentation/votations/20170924.html)
 
 ### Acceptez-vous l’arrêté fédéral du 14 mars 2017 sur la sécurité alimentaire ?
