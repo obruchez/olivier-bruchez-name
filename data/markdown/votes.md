@@ -8,7 +8,7 @@ My votes (in French). En Suisse, on ne plaisante pas avec la démocratie directe
 
 Oui. Résultat : ? (??.?%).
 
-### Acceptez-vous l’initiative populaire « Oui à la suppression des redevances radio et télévision (suppression des redevances Billag) » ?s
+### Acceptez-vous l’initiative populaire « Oui à la suppression des redevances radio et télévision (suppression des redevances Billag) » ?
 
 Non. Résultat : ? (??.?%).
 
