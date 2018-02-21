@@ -3,6 +3,16 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Checklist: add rating to IMDb -->
   <movie>
+    <date>2018.02.20</date>
+    <theater home="true"/>
+    <director>Wim Wenders</director>
+    <title>Paris, Texas</title>
+    <url>https://www.imdb.com/title/tt0087884/</url>
+    <rating>5.0</rating>
+    <comments>A slow, beautiful, and intriguing movie. The only thing that kind of bothered me was Aurore Clément's French accent. After four years, she can't even pronounce Hunter's name correctly? Not very believable... Other than that, it was a very good and unique movie.</comments>
+    <image>Paris, Texas.jpg</image>
+  </movie>
+  <movie>
     <date>2018.02.11</date>
     <theater home="true"/>
     <director>Makoto Shinkai</director>
