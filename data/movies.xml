@@ -3,6 +3,16 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Checklist: add rating to IMDb -->
   <movie>
+    <date>2018.02.24</date>
+    <theater home="true"/>
+    <director>John Lasseter</director>
+    <title>Toy Story</title>
+    <url>http://www.imdb.com/title/tt0114709/</url>
+    <rating>4.75</rating>
+    <comments>A story about jealousy and friendship. From a technical point of view, this movie has aged well. Some characters (e.g. the dog) are a bit rough from a 2018 standpoint, but it's actually pretty impressive for a computer-animated film done in 1995. Maybe I'm reading too much into it, but is it also a movie about the roles we play in our lives without realizing it? In other words, are we toys who don't realize we're toys? Is the scene with Buzz Lightyear realizing that he's a mass-produced toy and not an actual astronaut a metaphor for the human condition (i.e. we feel unique/original when we're actually just one individual among billions of very similar persons)? I apparently saw this movie in 2006, but I didn't remember much from it.</comments>
+    <image>Toy Story.jpg</image>
+  </movie>
+  <movie>
     <date>2018.02.20</date>
     <theater home="true"/>
     <director>Wim Wenders</director>
