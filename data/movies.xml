@@ -3,6 +3,16 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Checklist: add rating to IMDb -->
   <movie>
+    <date>2018.02.25</date>
+    <theater>Galeries, Lausanne</theater>
+    <director>Martin McDonagh</director>
+    <title>Three Billboards Outside Ebbing, Missouri</title>
+    <url>https://www.imdb.com/title/tt5027774/</url>
+    <rating>5.25</rating>
+    <comments>One of the best movies I've seen recently! It's sad, funny, revolting, and somewhat disturbing. I can totally relate to Mildred, her fight against injustice/status quo, and her desire for revenge. I would classify this movie in the "manipulative movie" category, like <a href="http://www.imdb.com/title/tt0168629/"><i>Dancer in the Dark</i></a> or <a href="https://www.imdb.com/title/tt0095327/"><i>Grave of the Fireflies</i></a>. Yes, it's designed to make you cry and to make you angry, but it was done in a clever way (i.e. I don't feel cheated).</comments>
+    <image>Three Billboards Outside Ebbing, Missouri.jpg</image>
+  </movie>
+  <movie>
     <date>2018.02.24</date>
     <theater home="true"/>
     <director>John Lasseter</director>
