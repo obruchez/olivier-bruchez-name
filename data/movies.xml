@@ -3,6 +3,26 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Checklist: add rating to IMDb -->
   <movie>
+    <date>2018.02.26</date>
+    <theater home="true"/>
+    <director>Charles Chaplin</director>
+    <title>City Lights</title>
+    <url>http://www.imdb.com/title/tt0021749/</url>
+    <rating>5.25</rating>
+    <comments>It's hard to judge a 87-year old silent movie. What's also hard is to realize that what you see in that movie happened 87 years ago, because most things look pretty familiar. Yes, people don't have smartphones, but they have passionate discussions, drive cars, walk on the street, sell flowers, go to restaurants, drink alcool, dance, etc. The characters are attaching. The comic elements still work. Each scene looks like a mini-movie in itself. It really deserves its classic status.</comments>
+    <image>City Lights.jpg</image>
+  </movie>
+  <movie>
+    <date>2018.02.25</date>
+    <theater home="true"/>
+    <director>John Lasseter, Ash Brannon &amp; Lee Unkrich</director>
+    <title>Toy Story 2</title>
+    <url>https://www.imdb.com/title/tt0120363/</url>
+    <rating>4.5</rating>
+    <comments>According to IMDb and Metacritic, Toy Story 2 is supposed to be good, but not as good as <i>Toy Story</i>. I actually found that <i>Toy Story 2</i> is just as good, if not better than <i>Toy Story</i>. Yes, at this point, the Toy Story universe is not new anymore, but the themes (the toy collector, Buzz Lightyear actually meeting other "copies" of himself, Woody discovering his backstory, the moral dilemma,  etc.) were quite original and interesting.</comments>
+    <image>Toy Story 2.jpg</image>
+  </movie>
+  <movie>
     <date>2018.02.25</date>
     <theater>Galeries, Lausanne</theater>
     <director>Martin McDonagh</director>
@@ -18,7 +38,7 @@
     <director>John Lasseter</director>
     <title>Toy Story</title>
     <url>http://www.imdb.com/title/tt0114709/</url>
-    <rating>4.75</rating>
+    <rating>4.5</rating>
     <comments>A story about jealousy and friendship. From a technical point of view, this movie has aged well. Some characters (e.g. the dog) are a bit rough from a 2018 standpoint, but it's actually pretty impressive for a computer-animated film done in 1995. Maybe I'm reading too much into it, but is it also a movie about the roles we play in our lives without realizing it? In other words, are we toys who don't realize we're toys? Is the scene with Buzz Lightyear realizing that he's a mass-produced toy and not an actual astronaut a metaphor for the human condition (i.e. we feel unique/original when we're actually just one individual among billions of very similar persons)? I apparently saw this movie in 2006, but I didn't remember much from it.</comments>
     <image>Toy Story.jpg</image>
   </movie>
