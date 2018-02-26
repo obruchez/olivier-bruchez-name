@@ -2,6 +2,16 @@
 <comics>
   <introduction>A list of comics I read.</introduction>
   <comic>
+    <date>2018.02.26</date>
+    <writer>Joann Sfar &amp; Lewis Trondheim</writer>
+    <artist>Christophe Blain</artist>
+    <colorist>Walter</colorist>
+    <series url="https://fr.wikipedia.org/wiki/Donjon_Potron-Minet">Donjon Potron-Minet</series>
+    <volume url="https://fr.wikipedia.org/wiki/Une_jeunesse_qui_s%27enfuit" number="-97">Une jeunesse qui s'enfuit</volume>
+    <comments>La perte de l'innocence. Du sexe et de la violence. Un tome un peu plus sombre que le précédent.</comments>
+    <image>Donjon - Une jeunesse qui s'enfuit.jpg</image>
+  </comic>
+  <comic>
     <date>2018.01.30</date>
     <writer>Joann Sfar &amp; Lewis Trondheim</writer>
     <artist>Christophe Blain</artist>
