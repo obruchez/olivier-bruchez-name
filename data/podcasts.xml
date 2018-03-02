@@ -3,9 +3,15 @@
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
     <date></date>
+    <name url="https://www.rts.ch/play/radio/emission/versus-ecouter?id=7949984">Versus-écouter</name>
+    <episode url="https://www.rts.ch/play/radio/versus-ecouter/audio/hommage-a-didier-lockwood?id=9326630">Hommage à Didier Lockwood</episode>
+    <comments></comments>
+  </podcast>
+  <podcast>
+    <date>2018.02.28</date>
     <name url="http://verybadwizards.com/">Very Bad Wizards</name>
     <episode url="https://verybadwizards.fireside.fm/115" number="115">Which Field is More Fu@%ed: Philosophy or Psychology?</episode>
-    <comments></comments>
+    <comments>Philosophy: it's an old field (more than 2000 years old), but has it "solved" any problem? How could we measure it? Then there's the problem that philosophy is not really tackling the "big questions" anymore (i.e. the meaning of life, etc.). In that sense, is it really "useful"? Doesn't philosophy spend too much time on defining and redefining words and questions? Psychology: there's the huge problem of replication (see <a href="https://en.wikipedia.org/wiki/Replication_crisis#In_psychology">replication crisis</a>). Then there's the problem that it sometimes make claims that are too broad/general. Some of the problems in psychology are widespread in science in general (e.g. modifying the hypothesis after analyzing the data, fraud, <a href="https://en.wikipedia.org/wiki/Data_dredging">p-hacking</a>, etc.).</comments>
   </podcast>
   <podcast>
     <date>2018.02.23</date>
