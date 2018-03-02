@@ -3,6 +3,16 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Checklist: add rating to IMDb -->
   <movie>
+    <date>2018.03.02</date>
+    <theater home="true"/>
+    <director>Charles Chaplin</director>
+    <title>Modern Times</title>
+    <url>https://www.imdb.com/title/tt0027977/</url>
+    <rating>5.25</rating>
+    <comments>Another classic. Times have changed and, at the same time, many people are still doing meaningless and repetitive jobs. Many suffer from burnout. Many struggle to even get a job. Micromanagement is still a thing (the factory's boss appearing on those big screens is frightening). Also, work automation is something that has never been as discussed as nowadays. In that sense, the scenes in the factory, in particular, are timeless as much as they're hilarious.</comments>
+    <image>Modern Times.jpg</image>
+  </movie>
+  <movie>
     <date>2018.02.26</date>
     <theater home="true"/>
     <director>Charles Chaplin</director>
