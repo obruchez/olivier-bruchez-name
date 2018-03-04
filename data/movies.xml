@@ -3,6 +3,17 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Checklist: add rating to IMDb -->
   <movie>
+    <date>2018.03.03</date>
+    <theater home="true"/>
+    <director>Isao Takahata</director>
+    <title>The Tale of the Princess Kaguya</title>
+    <title language="ja">Kaguyahime no monogatari</title>
+    <url>https://www.imdb.com/title/tt2576852/</url>
+    <rating>5.0</rating>
+    <comments>Based on the 10th-century Japanese <a href="https://en.wikipedia.org/wiki/The_Tale_of_the_Bamboo_Cutter">Tale of the Bamboo Cutter</a>, this hand-drawn animation movie is really something else. Very elegant, mysterious, touching, almost Zen-like. Yes, maybe a bit too slow at times. It's a tale about the innocence and simplicity of childhood, what society and sometimes our families expect from us, and nostalgia for things we might have already forgotten. The ending is surprisingly almost science-fiction-esque, but more in a <i>2001: A Space Odyssey</i> way than a <i>Star Wars</i> way.</comments>
+    <image>The Tale of the Princess Kaguya.jpg</image>
+  </movie>
+  <movie>
     <date>2018.03.02</date>
     <theater home="true"/>
     <director>Charles Chaplin</director>
