@@ -2,6 +2,18 @@
 <podcasts>
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date>2018.03.08</date>
+    <name url="http://verybadwizards.com/">Very Bad Wizards</name>
+    <episode url="https://verybadwizards.fireside.fm/116" number="116">Pain, Pleasure, and Peer-Reviewed Penises</episode>
+    <comments></comments>
+  </podcast>
+  <podcast>
+    <date>2018.03.07</date>
+    <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
+    <episode url="https://samharris.org/podcasts/117-networks-power-chaos/" number="117">Networks, Power, and Chaos - A Conversation with Niall Ferguson</episode>
+    <comments></comments>
+  </podcast>
+  <podcast>
     <date>2018.03.04</date>
     <name url="https://www.rts.ch/play/radio/emission/versus-ecouter?id=7949984">Versus-écouter</name>
     <episode url="https://www.rts.ch/play/radio/versus-ecouter/audio/hommage-a-didier-lockwood?id=9326630">Hommage à Didier Lockwood</episode>
