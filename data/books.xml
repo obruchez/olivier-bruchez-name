@@ -15,14 +15,36 @@
     </book> -->
     <book>
         <date></date>
+        <title>Les Fleurs du mal</title>
+        <author>Charles Baudelaire</author>
+        <publishingyear>1857</publishingyear>
+        <rating></rating>
+        <url>https://fr.wikipedia.org/wiki/Les_Fleurs_du_mal</url>
+        <!-- <notes description="Kindle highlights"></notes> -->
+        <comments></comments>
+        <image>Les Fleurs du mal.jpg</image>
+    </book>
+    <book>
+        <date></date>
+        <title>Le Rideau</title>
+        <author>Milan Kundera</author>
+        <publishingyear>2005</publishingyear>
+        <rating></rating>
+        <url>https://fr.wikipedia.org/wiki/Le_Rideau</url>
+        <!-- <notes description="Kindle highlights"></notes> -->
+        <comments></comments>
+        <image>Le Rideau.jpg</image>
+    </book>
+    <book>
+        <date>2018.03.10</date>
         <title>The Social Skills Guidebook</title>
         <subtitle>Manage Shyness, Improve Your Conversations, and Make Friends, Without Giving Up Who You Are</subtitle>
         <author>Chris MacLeod</author>
         <publishingyear>2016</publishingyear>
-        <rating></rating>
+        <rating>4.0</rating>
         <url>https://books.google.com?id=SKNajwEACAAJ</url>
         <!-- <notes description="Kindle highlights"></notes> -->
-        <comments></comments>
+        <comments>Probably the kind of book I should have read twenty years ago. I'm shy. I've always seen it as a handicap. This book contains good "tips", but I guess they can only go so far in improving one's natural tendencies (personality, genes, etc.).</comments>
         <image>The Social Skills Guidebook.jpg</image>
     </book>
     <book>
