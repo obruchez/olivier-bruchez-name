@@ -36,6 +36,18 @@
         <image>Le Rideau.jpg</image>
     </book>
     <book>
+        <date></date>
+        <title>Learn You a Haskell for Great Good!</title>
+        <subtitle>A Beginner's Guide</subtitle>
+        <author>Miran Lipovača</author>
+        <publishingyear>2011</publishingyear>
+        <rating></rating>
+        <url>http://learnyouahaskell.com/</url>
+        <!-- <notes description="Kindle highlights"></notes> -->
+        <comments></comments>
+        <image>Learn You a Haskell for Great Good!.jpg</image>
+    </book>
+    <book>
         <date>2018.03.10</date>
         <title>The Social Skills Guidebook</title>
         <subtitle>Manage Shyness, Improve Your Conversations, and Make Friends, Without Giving Up Who You Are</subtitle>
