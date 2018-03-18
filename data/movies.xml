@@ -3,6 +3,38 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Checklist: add rating to IMDb -->
   <movie>
+    <date>2018.03.18</date>
+    <theater>Galeries, Lausanne</theater>
+    <director>Luca Guadagnino</director>
+    <title>Call Me by Your Name</title>
+    <url>https://www.imdb.com/title/tt5726616/</url>
+    <rating>4.75</rating>
+    <comments>It was like watching two movies: one is a contemplative movie about Italy, summer vacations, music, books, swimming in rivers, drinking wine, living in a big old house with someone cooking for you, etc.; the other one is about a 17-year old Jewish boy discovering his sexuality and finding out that he's also attracted to men. It's raw. It's sad. It's tragic. It was also refreshing to go back to the 80s, a world without smartphones, constant interruptions, computers everywhere.</comments>
+    <image>Call Me by Your Name.jpg</image>
+  </movie>
+  <movie>
+    <date>2018.03.18</date>
+    <theater>Galeries, Lausanne</theater>
+    <director>Pablo Martín Torrado</director>
+    <title>El amor ciego</title>
+    <url>https://www.imdb.com/title/tt7525998/</url>
+    <rating>4.0</rating>
+    <comments>A short film about a couple not really living their lives, but living them via virtual reality. It's well done, kind of funny, but I'm not sure it goes anywhere.</comments>
+    <image>El amor ciego.jpg</image>
+  </movie>
+  <movie>
+    <date>2018.03.17</date>
+    <theater home="true"/>
+    <director>Yoshifumi Kondô</director>
+    <title>Whisper of the Heart</title>
+    <title language="ja">Mimi wo sumaseba</title>
+    <version>en</version>
+    <url>https://www.imdb.com/title/tt0113824/</url>
+    <rating>4.75</rating>
+    <comments>Ironically, I thought it was still a bit corny, even though cheesiness is criticized/ridiculed in the movie. At the end, it's still a romance movie about teenagers looking for what they want to do in their life. Overall a decent, feel-good animation movie. I mistakenly downloaded the English-dubbed version instead of the original version, but the dubbed version is pretty good.</comments>
+    <image>Whisper of the Heart.jpg</image>
+  </movie>
+  <movie>
     <date>2018.03.03</date>
     <theater home="true"/>
     <director>Isao Takahata</director>
