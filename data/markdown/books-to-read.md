@@ -1,6 +1,6 @@
 # Books to read
 
-Pretty much everything from [Les cent livres du siècle](https://fr.wikipedia.org/wiki/Les_cent_livres_du_si%C3%A8cle) and [Les 100 meilleurs livres de tous les temps](https://fr.wikipedia.org/wiki/Les_100_meilleurs_livres_de_tous_les_temps). See also [Quels sont les classiques littéraires à lire absolument ?](https://fr.answers.yahoo.com/question/index?qid=20111112161815AAh5LUy), [100 Books to Read in a Lifetime](http://www.amazon.com/b?node=8192263011), [Alan Kay from Viewpoints Research Institute recommends his reading list for beginners](http://shelfjoy.com/shelfjoy/alan-kay-from-viewpoints-research-institute-recommends-his-reading-list-for-beginners), and many other similar lists.
+Pretty much everything from [Les cent livres du siècle](https://fr.wikipedia.org/wiki/Les_cent_livres_du_si%C3%A8cle) and [Les 100 meilleurs livres de tous les temps](https://fr.wikipedia.org/wiki/Les_100_meilleurs_livres_de_tous_les_temps). See also [Quels sont les classiques littéraires à lire absolument ?](https://fr.answers.yahoo.com/question/index?qid=20111112161815AAh5LUy), [100 Books to Read in a Lifetime](http://www.amazon.com/b?node=8192263011), [Alan Kay from Viewpoints Research Institute recommends his reading list for beginners](http://shelfjoy.com/shelfjoy/alan-kay-from-viewpoints-research-institute-recommends-his-reading-list-for-beginners), and many other similar lists. [Five Books](https://fivebooks.com/) seems to be a good resource as well.
 
 ## Atheism / religion
 
