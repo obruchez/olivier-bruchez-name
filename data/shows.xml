@@ -21,12 +21,6 @@
   </show>
   <show>
     <date></date>
-    <name url="https://en.wikipedia.org/wiki/This_Is_Us_(TV_series)">This Is Us</name>
-    <series url="https://en.wikipedia.org/wiki/This_Is_Us_(season_2)" type="season">2</series>
-    <comments></comments>
-  </show>
-  <show>
-    <date></date>
     <name url="https://en.wikipedia.org/wiki/Veep_(TV_series)">Veep</name>
     <series url="https://en.wikipedia.org/wiki/Veep_(TV_series)#Season_4" type="season">4</series>
     <comments></comments>
@@ -36,6 +30,12 @@
     <name url="https://en.wikipedia.org/wiki/Inside_No._9">Inside No. 9</name>
     <series url="https://en.wikipedia.org/wiki/Inside_No._9#Series_4_(2018)" type="series">4</series>
     <comments>I'd say this series was weaker than the previous ones. "Zanzibar", "And the Winner Is...", and "Tempting Fate" were not up to par.</comments>
+  </show>
+  <show>
+    <date>2018.03.15</date>
+    <name url="https://en.wikipedia.org/wiki/This_Is_Us_(TV_series)">This Is Us</name>
+    <series url="https://en.wikipedia.org/wiki/This_Is_Us_(season_2)" type="season">2</series>
+    <comments>Still not a huge fan after two seasons, but it's a good show, often moving.</comments>
   </show>
   <show>
     <date>2018.03.15</date>
