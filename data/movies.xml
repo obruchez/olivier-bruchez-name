@@ -3,6 +3,16 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Checklist: add rating to IMDb -->
   <movie>
+    <date>2018.03.23</date>
+    <theater home="true"/>
+    <director>Lee Unkrich</director>
+    <title>Toy Story 3</title>
+    <url>http://www.imdb.com/title/tt0435761/</url>
+    <rating>4.5</rating>
+    <comments>The third <i>Toy Story</i> manages to be as original and inventive as the first two movies, in my opinion. It's a bit sadder, but in a good way, I guess.</comments>
+    <image>Toy Story 3.jpg</image>
+  </movie>
+  <movie>
     <date>2018.03.18</date>
     <theater>Galeries, Lausanne</theater>
     <director>Luca Guadagnino</director>
