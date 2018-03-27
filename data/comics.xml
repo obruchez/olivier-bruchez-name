@@ -2,6 +2,16 @@
 <comics>
   <introduction>A list of comics I read.</introduction>
   <comic>
+    <date>2018.03.27</date>
+    <writer>Joann Sfar &amp; Lewis Trondheim</writer>
+    <artist>Christophe Blain</artist>
+    <colorist>Walter</colorist>
+    <series url="https://fr.wikipedia.org/wiki/Donjon_Potron-Minet">Donjon Potron-Minet</series>
+    <volume url="https://fr.wikipedia.org/wiki/Apr%C3%A8s_la_pluie_(Donjon)" number="-84">Après la pluie</volume>
+    <comments>Un tome chaotique, autant au niveau de l'histoire que du dessin. J'ai eu un peu plus de peine à suivre.</comments>
+    <image>Donjon - Après la pluie.jpg</image>
+  </comic>
+  <comic>
     <date>2018.02.26</date>
     <writer>Joann Sfar &amp; Lewis Trondheim</writer>
     <artist>Christophe Blain</artist>
