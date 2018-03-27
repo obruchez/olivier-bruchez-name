@@ -3,9 +3,15 @@
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
     <date></date>
+    <name url="http://verybadwizards.com/">Very Bad Wizards</name>
+    <episode url="https://verybadwizards.fireside.fm/135" number="135">Utilitarianism and Moral Identity</episode>
+    <comments></comments>
+  </podcast>
+  <podcast>
+    <date>2018.03.27</date>
     <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
     <episode url="https://samharris.org/podcasts/108702/" number="120">What Is and What Matters - A Conversation with Rebecca Goldstein and Max Tegmark</episode>
-    <comments></comments>
+    <comments>Some of the audience questions tend to be repetitive after a while (always the same questions, more or less, about free will, etc.) and there are often cringeworthy moments (long questions, questions that are not really questions, etc.). I'm not sure the fact that this talk had two guests worked this time. Strangely, I felt it was not enough about philosophy, not enough about science, and not enough about their relationship.</comments>
   </podcast>
   <podcast>
     <date>2018.03.21</date>
