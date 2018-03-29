@@ -3,9 +3,15 @@
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
     <date></date>
+    <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
+    <episode url="https://samharris.org/podcasts/121-white-power/" number="121">White Power - A Conversation with Christian Picciolini</episode>
+    <comments></comments>
+  </podcast>
+  <podcast>
+    <date>2018.03.29</date>
     <name url="http://verybadwizards.com/">Very Bad Wizards</name>
     <episode url="https://verybadwizards.fireside.fm/135" number="135">Utilitarianism and Moral Identity</episode>
-    <comments></comments>
+    <comments><a href="https://en.wikipedia.org/wiki/Bernard_Williams">Bernard Williams</a>'s idea that, if we really try and maximize a utility function (well-being of a population, etc.), we sometimes have to go against some of our core values, is interesting. His two moral dilemmas (<a href="http://philosophy.gmgauthier.com/bernard-williams-moral-dilemmas-and-utilitarianism/">Jim and George</a>) were illuminating. Now, after hearing this episode, I'm still not convinced that utilitarianism or consequentialism are problematic as theories. It just means that they're hard to implement in real life situations. <a href="https://www.reddit.com/r/VeryBadWizards/comments/84a5qp/ep_135_utilitarianism_moral_identity/">Some of the comments on Reddit were longer than usual</a>.</comments>
   </podcast>
   <podcast>
     <date>2018.03.27</date>
