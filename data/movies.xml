@@ -3,6 +3,16 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Checklist: add rating to IMDb -->
   <movie>
+    <date>2018.03.30</date>
+    <theater>Galeries, Lausanne</theater>
+    <director>Greta Gerwig</director>
+    <title>Lady Bird</title>
+    <url>https://www.imdb.com/title/tt4925292/</url>
+    <rating>4.75</rating>
+    <comments>A good coming-of-age movie. It's somewhat realistic and funny at the same time (so a bit cliché, every now and then). It touches on friendship, family, unemployment, homosexuality, religion, identity, adulthood, and many other aspects of life, without too much judgement.</comments>
+    <image>Lady Bird.jpg</image>
+  </movie>
+  <movie>
     <date>2018.03.23</date>
     <theater home="true"/>
     <director>Lee Unkrich</director>
