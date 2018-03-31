@@ -15,14 +15,60 @@
     </book> -->
     <book>
         <date></date>
+        <title>Les Fleurs du mal</title>
+        <author>Charles Baudelaire</author>
+        <publishingyear>1857</publishingyear>
+        <rating></rating>
+        <url>https://fr.wikipedia.org/wiki/Les_Fleurs_du_mal</url>
+        <!-- <notes description="Kindle highlights"></notes> -->
+        <comments></comments>
+        <image>Les Fleurs du mal.jpg</image>
+    </book>
+    <book>
+        <date></date>
+        <title>Learn You a Haskell for Great Good!</title>
+        <subtitle>A Beginner's Guide</subtitle>
+        <author>Miran Lipovača</author>
+        <publishingyear>2011</publishingyear>
+        <rating></rating>
+        <url>http://learnyouahaskell.com/</url>
+        <!-- <notes description="Kindle highlights"></notes> -->
+        <comments></comments>
+        <image>Learn You a Haskell for Great Good!.jpg</image>
+    </book>
+    <book>
+        <date></date>
+        <title>Life 3.0</title>
+        <subtitle>Being Human in the Age of Artificial Intelligence</subtitle>
+        <author>Max Tegmark</author>
+        <publishingyear>2017</publishingyear>
+        <rating></rating>
+        <url>https://en.wikipedia.org/wiki/Life_3.0</url>
+        <!-- <notes description="Kindle highlights"></notes> -->
+        <comments></comments>
+        <image>Life 3.0.jpg</image>
+    </book>
+    <book>
+        <date>2018.03.29</date>
+        <title>Le Rideau</title>
+        <author>Milan Kundera</author>
+        <publishingyear>2005</publishingyear>
+        <rating>4.75</rating>
+        <url>https://fr.wikipedia.org/wiki/Le_Rideau</url>
+        <!-- <notes description="Kindle highlights"></notes> -->
+        <comments>J'ai toujours du plaisir à me plonger dans les essais de Kundera, même si je suis parfois dépassé par toutes les références à des auteurs ou compositeurs qui me sont inconnus. Il a toutefois une manière éclairante de mettre en contexte l'art du roman, ce qui rend ce mode d'expression unique, ce qui le fait traverser les frontières, au-delà des cultures soi-disant nationales. J'aime aussi sa façon de faire des parallèles avec d'autres formes d'art et en particulier avec la musique. Au final, Kundera défend la singularité du roman qui est selon lui seul à pouvoir aussi bien rendre intelligible le monde qui nous entoure, les sociétés, les époques, les évènements historiques, etc., beaucoup plus en interrogeant le monde, la psychologie des personnages, qu'en donnant des réponses toutes faites faisant référence à des systèmes de pensée préexistants.</comments>
+        <image>Le Rideau.jpg</image>
+    </book>
+    <book>
+        <date>2018.03.10</date>
         <title>The Social Skills Guidebook</title>
         <subtitle>Manage Shyness, Improve Your Conversations, and Make Friends, Without Giving Up Who You Are</subtitle>
         <author>Chris MacLeod</author>
         <publishingyear>2016</publishingyear>
-        <rating></rating>
+        <rating>4.0</rating>
         <url>https://books.google.com?id=SKNajwEACAAJ</url>
         <!-- <notes description="Kindle highlights"></notes> -->
-        <comments></comments>
+        <comments>Probably the kind of book I should have read twenty years ago. I'm shy. I've always seen it as a handicap. This book contains good "tips", but I guess they can only go so far in improving one's natural tendencies (personality, genes, etc.).</comments>
         <image>The Social Skills Guidebook.jpg</image>
     </book>
     <book>

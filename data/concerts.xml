@@ -11,6 +11,23 @@
   -->
   <introduction>A list of concerts I went to.</introduction>
   <concert>
+    <date>2018.03.25</date>
+    <location>Opéra de Lausanne, Lausanne, Switzerland</location>
+    <event><i>La clemenza di Tito</i> opera</event>
+    <musician inst="vocals">Paolo Fanale</musician>
+    <musician inst="vocals">Salome Jicia</musician>
+    <musician inst="vocals">Sylvia Schwartz</musician>
+    <musician inst="vocals">Yuriy Mynenko</musician>
+    <musician inst="vocals">Lamia Beuque</musician>
+    <musician inst="vocals">Daniel Golossov</musician>
+    <musician inst="orchestra">Orchestre de Chambre de Lausanne</musician>
+    <musician inst="conductor">Diego Fasolis</musician>
+    <musician inst="choir">Chœur de l’Opéra de Lausanne</musician>
+    <musician inst="choir director">Pascal Mayer</musician>
+    <rating>5.0</rating>
+    <comments><i>La clemenza di Tito</i> opera (Wolfgang Amadeus Mozart), directed by Fabio Ceresa. Another very good production from the Opéra de Lausanne. The set was impressive, as often (monumental statues, scale model of Rome, etc.). Several "monologues" got well-deserved applause from the audience.</comments>
+  </concert>
+  <concert>
     <date>2017.10.15</date>
     <location>Preservation Hall, New Orleans, LA, USA</location>
     <group>The Preservation All-Stars</group>

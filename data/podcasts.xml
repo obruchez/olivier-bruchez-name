@@ -3,15 +3,117 @@
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
     <date></date>
+    <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
+    <episode url="https://samharris.org/podcasts/121-white-power/" number="121">White Power - A Conversation with Christian Picciolini</episode>
+    <comments></comments>
+  </podcast>
+  <podcast>
+    <date>2018.03.29</date>
+    <name url="http://verybadwizards.com/">Very Bad Wizards</name>
+    <episode url="https://verybadwizards.fireside.fm/135" number="135">Utilitarianism and Moral Identity</episode>
+    <comments><a href="https://en.wikipedia.org/wiki/Bernard_Williams">Bernard Williams</a>'s idea that, if we really try and maximize a utility function (well-being of a population, etc.), we sometimes have to go against some of our core values, is interesting. His two moral dilemmas (<a href="http://philosophy.gmgauthier.com/bernard-williams-moral-dilemmas-and-utilitarianism/">Jim and George</a>) were illuminating. Now, after hearing this episode, I'm still not convinced that utilitarianism or consequentialism are problematic as theories. It just means that they're hard to implement in real life situations. <a href="https://www.reddit.com/r/VeryBadWizards/comments/84a5qp/ep_135_utilitarianism_moral_identity/">Some of the comments on Reddit were longer than usual</a>.</comments>
+  </podcast>
+  <podcast>
+    <date>2018.03.27</date>
+    <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
+    <episode url="https://samharris.org/podcasts/108702/" number="120">What Is and What Matters - A Conversation with Rebecca Goldstein and Max Tegmark</episode>
+    <comments>Some of the audience questions tend to be repetitive after a while (always the same questions, more or less, about free will, etc.) and there are often cringeworthy moments (long questions, questions that are not really questions, etc.). I'm not sure the fact that this talk had two guests worked this time. Strangely, I felt it was not enough about philosophy, not enough about science, and not enough about their relationship.</comments>
+  </podcast>
+  <podcast>
+    <date>2018.03.21</date>
+    <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
+    <episode url="https://samharris.org/podcasts/119-hidden-motives/" number="119">Hidden Motives - A Conversation with Robin Hanson</episode>
+    <comments>From one comment: "It's fun to laugh at how self-deceptive we are, or how university credentials are less about education and more about posturing and showing off." From another comment: "The idea that we shouldn't try to have opinions on everything is so important." A rough plan/summary of the discussion is available <a href="https://www.reddit.com/r/samharris/comments/83xd9o/119_hidden_motives/dvlxr7a/">here</a>.</comments>
+  </podcast>
+  <podcast>
+    <date>2018.03.19</date>
+    <name url="http://verybadwizards.com/">Very Bad Wizards</name>
+    <episode url="https://verybadwizards.fireside.fm/134" number="134">Digital Outrage</episode>
+    <comments>The deontology vs utilitarianism dichotomy is a bit simplistic, I agree. It's easy for us, homo sapiens, to get outraged, especially on social media, as they're designed (via machine learning and/or evolutionary algorithms) to push our buttons. We have to be aware of those psychological and technological biases, and make the conscious effort to engage in civil discussions with people we disagree with. Realizing that people on social media are not necessarily a representative sample of the general population can help, too.</comments>
+  </podcast>
+  <podcast>
+    <date>2018.03.13</date>
+    <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
+    <episode>Ask Me Anything #11</episode>
+    <comments>Sam gave a very nuanced answer about the Lawrence Krauss situation. That was not easy, but he nailed it, in my opinion. The answer about the link between intelligence and well-being was interesting. I think some studies indicate that intelligence helps up to a point (i.e. an IQ of about 130). Then it gets more complicated (e.g. people are more likely to get depressed, etc.). I'm glad to hear Sam say good things about stoicism. It <em>is</em> a good philosophy and it has many similarities with Buddhism. It kinds of bother me, but I think I have to more or less agree with Sam about the ethics of inherited wealth. It was not a very detailed and practical answer, but he's right to say that we have to keep some incentives for people to produce value for society and that includes the possibility to earn (possibly a lot of) money that can be inherited by our children.</comments>
+  </podcast>
+  <podcast>
+    <date>2018.03.12</date>
+    <name url="http://verybadwizards.com/">Very Bad Wizards</name>
+    <episode url="https://verybadwizards.fireside.fm/117" number="117">Extended Minds, Extended Foreskins</episode>
+    <comments>About circumcision: it has almost nothing to do with female genital mutilation, which is way worse, but I'm still against it, except in case of medical indication. Can a notepad, a smartphone or even the entire internet be considered as an "extended mind"? This is an interesting question. Quickly retrieving some information from the internet using our smartphones is not totally unlike retrieving some information from our (biological) memory by thinking hard about it. It's different, but not totally. Except that if you lose your notepad or smartphone, you still have your brain, but it's hard to "lose your brain" (maybe if you're drunk or tired?). Also, some people know how to find information on the internet more easily than others. Especially <em>true</em> information. So having access to the internet is not enough. You have to know how to apply your critical thinking skills.</comments>
+  </podcast>
+  <podcast>
+    <date>2018.03.08</date>
+    <name url="http://verybadwizards.com/">Very Bad Wizards</name>
+    <episode url="https://verybadwizards.fireside.fm/116" number="116">Pain, Pleasure, and Peer-Reviewed Penises</episode>
+    <comments>About the conceptual penis hoax: Tamler and Dave think "the hoax does not succeed in demonstrating what the authors purport it does", because the paper was published in a pay-to-publish journal. I agree with them and I don't understand what the big deal is with that hoax. It's pretty lame. Actually, I'm disappointed in one of its authors, James Lindsay. I read two of his books and his last one was <a href="http://olivier.bruchez.name/books#2017-02-08">really average</a>. I wrote him an email and never got an answer. I guess he's not the kind of person interested in discussion... The second part of the episode was also interesting. How do you measure pain, pleasure, well-being, happiness, etc.? How do you compare them between people? If you use self-reported values (let's say on a scale from 0 to 100), this is problematic, because depending on one's personal experiences, a given value might have different meanings. If you've never given birth to a baby without pain medication or if you've never been shot, maybe you've never really experienced pain. Same thing for pleasure, happiness, etc. We know that people have such differences in taste buds in their tongue that they will taste the exact same food very differently. If it is true for very basic sensations, it's probably also true for very complex emotions, which will be even harder to measure objectively.</comments>
+  </podcast>
+  <podcast>
+    <date>2018.03.07</date>
+    <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
+    <episode url="https://samharris.org/podcasts/117-networks-power-chaos/" number="117">Networks, Power, and Chaos - A Conversation with Niall Ferguson</episode>
+    <comments>A history lesson. 21<sup>th</sup> century (computers/internet) is a bit like 16<sup>th</sup> century (printing press). Both had new ways of spreading new ideas, very fast. This is a good thing, but it also has negative consequences (e.g. fake news, cyberterrorism, etc.). I like this idea what we should judge historical events compared to what could have happened instead (i.e. counterfactuals). Applied to Trump, it means that the Trump presidency is a way for many Americans to vent their frustrations (i.e. a catharsis). People will eventually realize that electing a populist is not a good solution. According to Ferguson, communism has really been tried over and over, and failed every time. About capitalism: although inequality has increased within countries, it has decreased between countries.</comments>
+  </podcast>
+  <podcast>
+    <date>2018.03.04</date>
+    <name url="https://www.rts.ch/play/radio/emission/versus-ecouter?id=7949984">Versus-écouter</name>
+    <episode url="https://www.rts.ch/play/radio/versus-ecouter/audio/hommage-a-didier-lockwood?id=9326630">Hommage à Didier Lockwood</episode>
+    <comments>Je ne suis pas fan de Didier Lockwood, mais je l'avais tout de même vu deux fois, dont en 2016, lors d'un concert que j'avais beaucoup aimé. Cet hommage est un tour d'horizon très rapide, basé surtout sur des archives de la RTS. On y entend par exemple Didier Lockwood jouer... de la trompette.</comments>
+  </podcast>
+  <podcast>
+    <date>2018.02.28</date>
+    <name url="http://verybadwizards.com/">Very Bad Wizards</name>
+    <episode url="https://verybadwizards.fireside.fm/115" number="115">Which Field is More Fu@%ed: Philosophy or Psychology?</episode>
+    <comments>Philosophy: it's an old field (more than 2000 years old), but has it "solved" any problem? How could we measure it? Then there's the problem that philosophy is not really tackling the "big questions" anymore (i.e. the meaning of life, etc.). In that sense, is it really "useful"? Doesn't philosophy spend too much time on defining and redefining words and questions? Psychology: there's the huge problem of replication (see <a href="https://en.wikipedia.org/wiki/Replication_crisis#In_psychology">replication crisis</a>). Then there's the problem that it sometimes make claims that are too broad/general. Some of the problems in psychology are widespread in science in general (e.g. modifying the hypothesis after analyzing the data, fraud, <a href="https://en.wikipedia.org/wiki/Data_dredging">p-hacking</a>, etc.).</comments>
+  </podcast>
+  <podcast>
+    <date>2018.02.23</date>
+    <name url="http://verybadwizards.com/">Very Bad Wizards</name>
+    <episode url="https://verybadwizards.fireside.fm/113" number="113">Pascal, Probability, and Pitchforks</episode>
+    <comments>It's difficult to take <a href="https://en.wikipedia.org/wiki/Pascal%27s_Wager">Pascal's Wager</a> completely seriously nowadays, but it's still a very interesting argument. The two main criticisms are that: 1) you can't decide to believe something if you don't already believe it (just like you can't decide to fall in love with somebody) 2) there are many religions, so why should we believe in the Christian God and not in the many other gods from other religions? I didn't know about the <a href="https://en.wikipedia.org/wiki/Pascal%27s_mugging">Pascal's mugging</a> thought experiment. Highly unlikely events with high rewards or severe punishments are hard to reason about. Similarly, transformative experiences/decisions (having a child, etc.) are also hard to take rationally (how do you weigh complex choices?).</comments>
+  </podcast>
+  <podcast>
+    <date>2018.02.21</date>
+    <name url="http://verybadwizards.com/">Very Bad Wizards</name>
+    <episode url="https://verybadwizards.fireside.fm/112" number="112">Gettier Goggles</episode>
+    <comments>An episode about the <a href="https://en.wikipedia.org/wiki/Gettier_problem">Gettier problem</a> ("Gettier-type counterexamples [...] challenged the long-held justified true belief (or JTB) account of knowledge"). I think I understand why Tamler thinks people have devoted too much time to this problem (which I knew nothing about before listening to this episode). At the same time, I don't have a problem with researchers/thinkers devoting a lot of time to "useless" problems, because you never really know beforehand what impact a research project/paper is actually going to have. A lot of people probably think we should devote less time to string theory, for example. Should we, though? I don't think so. That being said, after hearing Tamler/David's discussion, I fail to see what's particularly interesting in the justified true belief (JTB) position and, hence, in the Gettier problem. "Knowledge as justified true belief" looks like a simplistic way of defining knowledge. There's always some uncertainty about what we think we know. It's implicit. We could live in a simulation, for example. For me, there's always room for an alternate explanation, but, at some point, you have to decide what you believe is true, based on the information you have, and go with it.</comments>
+  </podcast>
+  <podcast>
+    <date>2018.02.18</date>
+    <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
+    <episode>Ask Me Anything #10</episode>
+    <comments>A few interesting topics. Should we give money to beggars (probably not)? Are prostitution and pornography ethical (it depends), and should they be legal (yes)? Adoption versus having one's own biological children. And I'm starting to understand the concept of metaphorical truth a bit better. The example of manipulating a gun (something I never do) as if it were always loaded is a good one. Sometimes, it's factually incorrect and it's possible to <em>know</em> it's incorrect, but it's still encouraging a good behaviour.</comments>
+  </podcast>
+  <podcast>
+    <date>2018.02.18</date>
+    <name url="http://peachandblack.podbean.com/">Peach &amp; Black Podcast</name>
+    <episode url="http://peachandblack.podbean.com/e/non-album-tracks-vol1/">Non-Album Tracks Vol. 1</episode>
+    <comments>Just three songs were covered: an excellent one, <a href="http://princevault.com/index.php?title=F.U.N.K.">"F.U.N.K."</a>, an average one (in my opinion), <a href="http://princevault.com/index.php?title=Purple_House">"Purple House"</a> (a straight blues, basically), and one of Prince's worst released songs, <a href="http://www.princevault.com/index.php?title=Purple_And_Gold">"Purple And Gold"</a>. An odd selection, but a fun episode, as usual. </comments>
+  </podcast>
+  <podcast>
+    <date>2018.02.16</date>
+    <name url="https://www.rts.ch/play/radio/emission/nectar?id=7949570">Nectars</name>
+    <episode url="https://www.rts.ch/play/radio/nectar/audio/archives-on-regarde-dans-le-retro?id=9274889">Archives: On regarde dans le rétro?</episode>
+    <comments>Le bout d'archive à propos du passage de Marconi à Salvan en 1895, raconté par Maurice Gay-Balmaz en 1968, est fascinant : c'est un double saut dans le temps. Les archives, c'est important. Encore un argument contre l'initiative irresponsable No Billag, car la SSR est aussi chargée de conserver toutes ces archives, dont la valeur est inestimable. Globalement, je n'ai pas appris grand-chose. Numériser des documents, audiovisuels ou autres, ne suffit pas : ça n'est qu'un début et la conservation des fichiers résultants est un travail de longue haleine. Le rôle de la technologie est important : il est possible d'extraire plus d'information de supports physiques en les numérisant à l'aide de technologies plus récentes, plus sophistiquées. Il est donc important de conserver les supports physiques, même une fois numérisés. Ce ne sont que quelques-unes des considérations à prendre en compte. Le sujet est complexe.</comments>
+  </podcast>
+  <podcast>
+    <date>2018.02.14</date>
+    <name url="http://verybadwizards.com/">Very Bad Wizards</name>
+    <episode url="https://verybadwizards.fireside.fm/111" number="111">Our Language Doesn't Have a Word For This Title (with Yoel Inbar)</episode>
+    <comments>Would you still decide to have a daughter if you knew she would die at a young age? Bonus question: if you could know exactly when you're going to die, would you prefer to know or to remain ignorant of the date of your death? <i>Arrival</i> was a good movie. I liked it. It's not the greatest science fiction movie ever made, but it's really good and beautiful. Like all movies with time paradoxes or time travel, it's full of inconsistencies (some of them I hadn't noticed), but it remains enjoyable nevertheless. One of the interesting aspects of the movie was how it dealt with the theme of language. It follows the <a href="https://en.wikipedia.org/wiki/Linguistic_relativity">Sapir–Whorf hypothesis</a> (i.e. "the structure of a language affects its speakers' world view or cognition."), which is a controversial, but intriguing hypothesis. It's pretty clear that having more words to describe the world is useful and makes us more attentive to some concepts/details. Some metaphors can also influence our behaviour (if you see a debate as a "war to win", for example). In the end, I don't know if I would have a child knowing that she/he would die at 16 and I'm not even sure I would like to know the date of my death, but the message in <i>Arrival</i> is clear: we should cherish the time we have (with our family, our friends, etc.), even if we don't always have the control on what happens in our lives.</comments>
+  </podcast>
+  <podcast>
+    <date>2018.02.13</date>
+    <name url="http://verybadwizards.com/">Very Bad Wizards</name>
+    <episode url="https://verybadwizards.fireside.fm/110" number="110">Stepsisters and Neck Braces (with Yoel Inbar)</episode>
+    <comments>I don't have much to say about the Charles Murray protest at Middlebury. People should have the right to protest and to express themselves, but physically preventing people to talk or physically assaulting them is always bad. Do these incidentes happen more lately, though? It's not clear. What's clear is that it's good for people (and especially young people) to feel bad about the ideas of other people. When someone disagrees with me, I often have to breathe and calm down before answering, so I understand why it's so upsetting to hear different views, but we all have to make conscious efforts to have better discussions, even with people with very different opinions. It's hard, but it's worth it.</comments>
+  </podcast>
+  <podcast>
+    <date>2018.02.12</date>
     <name url="http://verybadwizards.com/">Very Bad Wizards</name>
     <episode url="https://verybadwizards.fireside.fm/133" number="133">Death and Dreams</episode>
-    <comments></comments>
-    <!--
-    dream = poor ending for TV show / movie
-    death is like before birth, doesn’t comfort Dave at all
-    it’s not the absence of consciousness that’s scary  
-    "death" before life vs after asymmetry: it sucks more to lose what you have than what you've never had
-    -->
+    <comments>I agree that dreams are often a lazy way to explain something in a TV show or movie, but not always (e.g. David Lynch). I agree with Dave that saying death is like "before our birth" is not comforting. It's not the absence of consciousness that's scary. There's an asymmetry between the "death" before our birth and the death after our life: it sucks more to lose what you have than what you've never had. In that sense, death is always dramatic (when we're young, when we're middle-aged, and when we're old). Yes, it's more normal to die when you're old. If you're old and tired, it can even make death more appealing, but if you're old and healthy, then no amount of time is enough to make death seem less dramatic. About Buddhist monks being afraid of death: it's an intriguing paradox, but it can also be logical. By meditating, learning that the self is an illusion, being more grateful, learning to live in the moment, etc., you actually become better at "enjoying" life. It doesn't really change anything about death: to really accept death, you have to accept that it's somewhat a good thing. But how can you think death is a good thing if you enjoy life and are healthy?</comments>
   </podcast>
   <podcast>
     <date>2018.02.09</date>

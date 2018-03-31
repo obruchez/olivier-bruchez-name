@@ -55,6 +55,20 @@ See also [1000 places to see before you die](http://1000places.com/).
 * [Newfoundland](https://en.wikipedia.org/wiki/Newfoundland_(island))
 * [Svalbard](https://en.wikipedia.org/wiki/Svalbard)
 
+## Museums
+
+* [Amsterdam](https://en.wikipedia.org/wiki/Amsterdam) ([Rijksmuseum](https://en.wikipedia.org/wiki/Rijksmuseum)) (visited once?)
+* [London](https://en.wikipedia.org/wiki/London) ([National Gallery](https://en.wikipedia.org/wiki/National_Gallery)) (visited once?)
+* [Los Angeles](https://en.wikipedia.org/wiki/Los_Angeles) ([Getty Center](https://en.wikipedia.org/wiki/Getty_Centers))
+* [Madrid](https://en.wikipedia.org/wiki/Madrid) ([Museo del Prado](https://en.wikipedia.org/wiki/Museo_del_Prado)) (visited once)
+* [New York City](https://en.wikipedia.org/wiki/New_York_City) ([American Museum of Natural History](https://en.wikipedia.org/wiki/American_Museum_of_Natural_History))
+* [Paris](https://en.wikipedia.org/wiki/Paris) ([Louvre](https://en.wikipedia.org/wiki/Louvre)) (visited once or twice)
+* [Paris](https://en.wikipedia.org/wiki/Paris) ([Musée d'Orsay](https://en.wikipedia.org/wiki/Mus%C3%A9e_d%27Orsay)) (visited once)
+* [Saint Petersburg](https://en.wikipedia.org/wiki/Saint_Petersburg) ([Hermitage Museum](https://en.wikipedia.org/wiki/Hermitage_Museum))
+* [Seattle](https://en.wikipedia.org/wiki/Seattle) ([Chihuly Garden and Glass](https://en.wikipedia.org/wiki/Chihuly_Garden_and_Glass))
+* [Washington, D.C.](https://en.wikipedia.org/wiki/Washington,_D.C.) ([National Air and Space Museum](https://en.wikipedia.org/wiki/National_Air_and_Space_Museum))
+* [Washington, D.C.](https://en.wikipedia.org/wiki/Washington,_D.C.) ([National Gallery of Art](https://en.wikipedia.org/wiki/National_Gallery_of_Art))
+
 ## Regions
 
 * [Alaska](https://en.wikipedia.org/wiki/Alaska) (really interesting?)

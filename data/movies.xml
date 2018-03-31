@@ -3,6 +3,150 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Checklist: add rating to IMDb -->
   <movie>
+    <date>2018.03.30</date>
+    <theater>Galeries, Lausanne</theater>
+    <director>Greta Gerwig</director>
+    <title>Lady Bird</title>
+    <url>https://www.imdb.com/title/tt4925292/</url>
+    <rating>4.75</rating>
+    <comments>A good coming-of-age movie. It's somewhat realistic and funny at the same time (so a bit cliché, every now and then). It touches on friendship, family, unemployment, homosexuality, religion, identity, adulthood, and many other aspects of life, without too much judgement.</comments>
+    <image>Lady Bird.jpg</image>
+  </movie>
+  <movie>
+    <date>2018.03.23</date>
+    <theater home="true"/>
+    <director>Lee Unkrich</director>
+    <title>Toy Story 3</title>
+    <url>http://www.imdb.com/title/tt0435761/</url>
+    <rating>4.5</rating>
+    <comments>The third <i>Toy Story</i> manages to be as original and inventive as the first two movies, in my opinion. It's a bit sadder, but in a good way, I guess.</comments>
+    <image>Toy Story 3.jpg</image>
+  </movie>
+  <movie>
+    <date>2018.03.18</date>
+    <theater>Galeries, Lausanne</theater>
+    <director>Luca Guadagnino</director>
+    <title>Call Me by Your Name</title>
+    <url>https://www.imdb.com/title/tt5726616/</url>
+    <rating>4.75</rating>
+    <comments>Watching this movie was like watching two movies: one is a contemplative movie about Italy, summer vacations, music, books, swimming in rivers, drinking wine, living in a big old house with someone cooking for you, etc.; the other one is about a 17-year old Jewish boy discovering his sexuality and finding out that he's also attracted to men. It's raw. It's sad. It's tragic. It was also refreshing to go back to the 80s, a world without smartphones, constant interruptions, computers everywhere.</comments>
+    <image>Call Me by Your Name.jpg</image>
+  </movie>
+  <movie>
+    <date>2018.03.18</date>
+    <theater>Galeries, Lausanne</theater>
+    <director>Pablo Martín Torrado</director>
+    <title>El amor ciego</title>
+    <url>https://www.imdb.com/title/tt7525998/</url>
+    <rating>4.0</rating>
+    <comments>A short film about a couple not really living their lives, but living them via virtual reality. It's well done, kind of funny, but I'm not sure it goes anywhere.</comments>
+    <image>El amor ciego.jpg</image>
+  </movie>
+  <movie>
+    <date>2018.03.17</date>
+    <theater home="true"/>
+    <director>Yoshifumi Kondô</director>
+    <title>Whisper of the Heart</title>
+    <title language="ja">Mimi wo sumaseba</title>
+    <version>en</version>
+    <url>https://www.imdb.com/title/tt0113824/</url>
+    <rating>4.75</rating>
+    <comments>Ironically, I thought it was still a bit corny, even though cheesiness is criticized/ridiculed in the movie. At the end, it's still a romance movie about teenagers looking for what they want to do in their life. Overall a decent, feel-good animation movie. I mistakenly downloaded the English-dubbed version instead of the original version, but the dubbed version is pretty good.</comments>
+    <image>Whisper of the Heart.jpg</image>
+  </movie>
+  <movie>
+    <date>2018.03.03</date>
+    <theater home="true"/>
+    <director>Isao Takahata</director>
+    <title>The Tale of the Princess Kaguya</title>
+    <title language="ja">Kaguyahime no monogatari</title>
+    <url>https://www.imdb.com/title/tt2576852/</url>
+    <rating>5.0</rating>
+    <comments>Based on the 10th-century Japanese <a href="https://en.wikipedia.org/wiki/The_Tale_of_the_Bamboo_Cutter">Tale of the Bamboo Cutter</a>, this hand-drawn animation movie is really something else. Very elegant, mysterious, touching, almost Zen-like. Yes, maybe a bit too slow at times. It's a tale about the innocence and simplicity of childhood, what society and sometimes our families expect from us, and nostalgia for things we might have already forgotten. The ending is surprisingly almost science-fiction-esque, but more in a <i>2001: A Space Odyssey</i> way than a <i>Star Wars</i> way.</comments>
+    <image>The Tale of the Princess Kaguya.jpg</image>
+  </movie>
+  <movie>
+    <date>2018.03.02</date>
+    <theater home="true"/>
+    <director>Charles Chaplin</director>
+    <title>Modern Times</title>
+    <url>https://www.imdb.com/title/tt0027977/</url>
+    <rating>5.25</rating>
+    <comments>Another classic. Times have changed and, at the same time, many people are still doing meaningless and repetitive jobs. Many suffer from burnout. Many struggle to even get a job. Micromanagement is still a thing (the factory's boss appearing on those big screens is frightening). Also, work automation is something that has never been as discussed as nowadays. In that sense, the scenes in the factory, in particular, are timeless as much as they're hilarious.</comments>
+    <image>Modern Times.jpg</image>
+  </movie>
+  <movie>
+    <date>2018.02.26</date>
+    <theater home="true"/>
+    <director>Charles Chaplin</director>
+    <title>City Lights</title>
+    <url>http://www.imdb.com/title/tt0021749/</url>
+    <rating>5.25</rating>
+    <comments>It's hard to judge a 87-year old silent movie. What's also hard is to realize that what you see in that movie happened 87 years ago, because most things look pretty familiar. Yes, people don't have smartphones, but they have passionate discussions, drive cars, walk on the street, sell flowers, go to restaurants, drink alcool, dance, etc. The characters are attaching. The comic elements still work. Each scene looks like a mini-movie in itself. It really deserves its classic status.</comments>
+    <image>City Lights.jpg</image>
+  </movie>
+  <movie>
+    <date>2018.02.25</date>
+    <theater home="true"/>
+    <director>John Lasseter, Ash Brannon &amp; Lee Unkrich</director>
+    <title>Toy Story 2</title>
+    <url>https://www.imdb.com/title/tt0120363/</url>
+    <rating>4.5</rating>
+    <comments>According to IMDb and Metacritic, <i>Toy Story 2</i> is supposed to be good, but not as good as <i>Toy Story</i>. I actually found that <i>Toy Story 2</i> is just as good, if not better than <i>Toy Story</i>. Yes, at this point, the Toy Story universe is not new anymore, but the themes (the toy collector, Buzz Lightyear actually meeting other "copies" of himself, Woody discovering his backstory, the moral dilemma,  etc.) were quite original and interesting.</comments>
+    <image>Toy Story 2.jpg</image>
+  </movie>
+  <movie>
+    <date>2018.02.25</date>
+    <theater>Galeries, Lausanne</theater>
+    <director>Martin McDonagh</director>
+    <title>Three Billboards Outside Ebbing, Missouri</title>
+    <url>https://www.imdb.com/title/tt5027774/</url>
+    <rating>5.25</rating>
+    <comments>One of the best movies I've seen recently! It's sad, funny, revolting, and somewhat disturbing. I can totally relate to Mildred, her fight against injustice/status quo, and her desire for revenge. I would classify this movie in the "manipulative movie" category, like <a href="http://www.imdb.com/title/tt0168629/"><i>Dancer in the Dark</i></a> or <a href="https://www.imdb.com/title/tt0095327/"><i>Grave of the Fireflies</i></a>. Yes, it's designed to make you cry and to make you angry, but it was done in a clever way (i.e. I don't feel cheated).</comments>
+    <image>Three Billboards Outside Ebbing, Missouri.jpg</image>
+  </movie>
+  <movie>
+    <date>2018.02.24</date>
+    <theater home="true"/>
+    <director>John Lasseter</director>
+    <title>Toy Story</title>
+    <url>http://www.imdb.com/title/tt0114709/</url>
+    <rating>4.5</rating>
+    <comments>A story about jealousy and friendship. From a technical point of view, this movie has aged well. Some characters (e.g. the dog) are a bit rough from a 2018 standpoint, but it's actually pretty impressive for a computer-animated film done in 1995. Maybe I'm reading too much into it, but is it also a movie about the roles we play in our lives without realizing it? In other words, are we toys who don't realize we're toys? Is the scene with Buzz Lightyear realizing that he's a mass-produced toy and not an actual astronaut a metaphor for the human condition (i.e. we feel unique/original when we're actually just one individual among billions of very similar persons)? I apparently saw this movie in 2006, but I didn't remember much from it.</comments>
+    <image>Toy Story.jpg</image>
+  </movie>
+  <movie>
+    <date>2018.02.20</date>
+    <theater home="true"/>
+    <director>Wim Wenders</director>
+    <title>Paris, Texas</title>
+    <url>https://www.imdb.com/title/tt0087884/</url>
+    <rating>5.0</rating>
+    <comments>A slow, beautiful, and intriguing movie. The only thing that kind of bothered me was Aurore Clément's French accent. After four years, she can't even pronounce Hunter's name correctly? Not very believable... Other than that, it was a very good and unique movie.</comments>
+    <image>Paris, Texas.jpg</image>
+  </movie>
+  <movie>
+    <date>2018.02.11</date>
+    <theater home="true"/>
+    <director>Makoto Shinkai</director>
+    <title>Your Name</title>
+    <title language="ja">Kimi no na wa</title>
+    <url>http://www.imdb.com/title/tt5311514/</url>
+    <rating>4.5</rating>
+    <comments>Not bad. It kind of reminds me of a Miyazaki movie. It has the same kind of nostalgic and poetic touch, but with more realistic aesthetics. I'm not a fan of the time travel, spiritual, and mystical aspects, precisely because all the rest was so realistic.</comments>
+    <image>Your Name.jpg</image>
+  </movie>
+  <movie>
+    <date>2018.02.10</date>
+    <theater home="true"/>
+    <director>Richard Linklater</director>
+    <title>Before Sunrise</title>
+    <url>http://www.imdb.com/title/tt0112471/</url>
+    <rating>5.0</rating>
+    <comments>I discovered Richard Linklater a few years ago with <i>Boyhood</i>, which blew my mind. I've always wanted to see more of his movies. Having finally seen <i>Before Sunrise</i>, I definitely want to see <i>Before Sunset</i> and <i>Before Midnight</i> as well. There are several subjective reasons why I enjoyed this movie. I didn't know anything about the plot, the caracters, etc. It's almost a perfect coincidence, but we watched <i>Before Sunrise</i> on February 10, 2018 and the only time I've ever been to Vienna was on February 11-15, 2008. And, yes, the movie takes place in Vienna. Another thing was that the movie, although it was filmed in 1994, was released in 1995 and this was the year I discovered another European capital as a teenager, with my classmates: Paris. The result is that I can relate to several aspects of the movie: the period (mid-90s), the young caracters discovering a European city, wondering about what it means to live, to love, etc. Can things be meaningful if they don't last? Are they meaningful <em>because</em> they don't last? At the end, yes, it's still a romance movie, but it's definitely not overromantic and the form of the movie (two caracters talking for more than 90 minutes, walking in a city) makes it quite original. It's simple. It captures a moment in time in an authentic way. It's captivating.</comments>
+    <image>Before Sunrise.jpg</image>
+  </movie>
+  <movie>
     <date>2018.01.20</date>
     <theater home="true"/>
     <director>Roger Allers &amp; Rob Minkoff</director>
@@ -35,7 +179,7 @@
   <movie>
     <date>2017.12.29</date>
     <theater>Casino, Martigny</theater>
-    <director></director>
+    <director>Lee Unkrich &amp; Adrian Molina</director>
     <title>Coco</title>
     <version>fr</version>
     <url>http://www.imdb.com/title/tt2380307/</url>
