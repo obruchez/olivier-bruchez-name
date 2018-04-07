@@ -189,6 +189,7 @@ Pretty much everything from [Les cent livres du siècle](https://fr.wikipedia.or
 * Leo Babauta, ["Zen To Done"](http://www.amazon.com/Zen-Done-Ultimate-Simple-Productivity-ebook/dp/B001970HQU/)
 * Travis Bradberry & Jean Greaves, ["Emotional Intelligence 2.0"](https://en.wikipedia.org/wiki/Emotional_Intelligence_2.0)
 * Dale Carnegie, ["How To Win Friends and Influence People"](https://www.amazon.com/How-Win-Friends-Influence-People-ebook/dp/B003WEAI4E/) (listed on [Hacker News](https://news.ycombinator.com/item?id=14477851))
+* Ray Dalio, ["Principles: Life and Work"](https://www.amazon.com/gp/product/1501124021/) (recommended on [@Coursera](https://twitter.com/coursera))
 * Arvind Devalia, ["Get the Life You Love and Live It"](http://www.amazon.com/Get-Life-You-Love-Live/dp/1905613008/)
 * Jonathan Fields, ["Career Renegade: How to Make a Great Living Doing What You Love"](http://www.amazon.com/Career-Renegade-Great-Living-Doing/dp/0767927419/)
 * P.M. Forni, ["The Thinking Life: How to Thrive in the Age of Distraction"](http://www.amazon.com/The-Thinking-Life-Thrive-Distraction/dp/B008SMFIC2/)
@@ -213,7 +214,6 @@ Pretty much everything from [Les cent livres du siècle](https://fr.wikipedia.or
 * Denis Diderot, ["Jacques le fataliste et son maître"](https://fr.wikipedia.org/wiki/Jacques_le_fataliste_et_son_ma%C3%AEtre) (recommended by [@verybadwizards](https://twitter.com/verybadwizards))
 * Will Durant, ["The Story of Philosophy: The Lives and Opinions of the World's Greatest Philosophers"](http://www.amazon.com/The-Story-Philosophy-Opinions-Philosophers/dp/0671739166)
 * Michael S. A. Graziano, ["Consciousness and the Social Brain"](http://www.amazon.com/Consciousness-Social-Brain-Michael-Graziano/dp/0199928649) (summarized by [@SelfAwarePatter](https://twitter.com/SelfAwarePatter) on [his blog](http://selfawarepatterns.com/2013/12/30/consciousness-and-the-social-brain-a-review/))
-* Jonathan Haidt, ["The Happiness Hypothesis: Finding Modern Truth in Ancient Wisdom"](https://www.amazon.com/Happiness-Hypothesis-Finding-Modern-Ancient-ebook/dp/B06XCF7WFR/) (listed on [Hacker News](https://news.ycombinator.com/item?id=14477851))
 * Douglas Richard Hofstadter, ["I Am a Strange Loop"](https://en.wikipedia.org/wiki/I_Am_a_Strange_Loop)
 * Bruce Hood, ["The Self Illusion: How the Social Brain Creates Identity"](http://www.amazon.com/The-Self-Illusion-Creates-Identity/dp/0199988781) (interviewed by [@SamHarrisOrg](https://twitter.com/SamHarrisOrg))
 * Julian Jaynes, ["The Origin of Consciousness in the Breakdown of the Bicameral Mind"](https://www.amazon.com/Origin-Consciousness-Breakdown-Bicameral-Mind/dp/0618057072)
@@ -260,6 +260,7 @@ Pretty much everything from [Les cent livres du siècle](https://fr.wikipedia.or
 
 * Eric B. Baum, ["What Is Thought?"](http://www.amazon.com/exec/obidos/tg/detail/-/0262025485/) (recommended by [@r3mix](https://twitter.com/r3mix))
 * Susan Cain, ["Quiet: The Power of Introverts in a World That Can't Stop Talking"](http://www.amazon.com/Quiet-Power-Introverts-World-Talking-ebook/dp/B0074YVW1G/)
+* Ed Diener, ["Happiness: Unlocking the Mysteries of Psychological Wealth"](https://www.amazon.com/Happiness-Unlocking-Mysteries-Psychological-Wealth/dp/1405146613) (recommended on [@Coursera](https://twitter.com/coursera))
 * Robert H. Frank, ["Passions Within Reason: The Strategic Role of the Emotions"](https://www.amazon.com/gp/product/0393960226/) (recommended by [@verybadwizards](https://twitter.com/verybadwizards), not available as e-book as of Jan. 2017)
 * Winifred Gallagher, ["Rapt: Attention and the Focused Life"](http://www.amazon.com/Rapt-Attention-Focused-Winifred-Gallagher/dp/0143116908)
 * Daniel Goleman, ["Emotional Intelligence: 10th Anniversary Edition; Why It Can Matter More Than IQ"](http://www.amazon.com/Emotional-Intelligence-Matter-More-Than/dp/055338371X)
