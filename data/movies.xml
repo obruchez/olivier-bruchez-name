@@ -3,6 +3,17 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Checklist: add rating to IMDb -->
   <movie>
+    <date>2018.04.07</date>
+    <theater home="true"/>
+    <director>Isao Takahata</director>
+    <title>Only Yesterday</title>
+    <title language="ja">Omohide poro poro</title>
+    <url>https://www.imdb.com/title/tt0102587/</url>
+    <rating>4.5</rating>
+    <comments>We watched this mainly because Isao Takahata died two days before. I didn't enjoy it as much as <i>Grave of the Fireflies</i> and <i>The Tale of the Princess Kaguya</i>. It was definitely not bad, but a bit uneven. Probably a bit too romantic (<i>fleur bleue</i>), as well.</comments>
+    <image>Only Yesterday.jpg</image>
+  </movie>
+  <movie>
     <date>2018.03.30</date>
     <theater>Galeries, Lausanne</theater>
     <director>Greta Gerwig</director>
