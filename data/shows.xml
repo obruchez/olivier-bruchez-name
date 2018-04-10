@@ -10,7 +10,7 @@
   <show>
     <date></date>
     <name url="https://en.wikipedia.org/wiki/Fargo_(TV_series)">Fargo</name>
-    <series url="https://en.wikipedia.org/wiki/Fargo_(season_1)" type="season">1</series>
+    <series url="https://en.wikipedia.org/wiki/Fargo_(season_2)" type="season">2</series>
     <comments></comments>
   </show>
   <show>
@@ -37,6 +37,12 @@
     <series url="https://en.wikipedia.org/wiki/Veep_(TV_series)#Season_4" type="season">4</series>
     <comments></comments>
   </show> -->
+  <show>
+    <date>2018.04.09</date>
+    <name url="https://en.wikipedia.org/wiki/Fargo_(TV_series)">Fargo</name>
+    <series url="https://en.wikipedia.org/wiki/Fargo_(season_1)" type="season">1</series>
+    <comments>An excellent show! I'm watching it without knowing anything about it, so I was very surprised by the end of the season.</comments>
+  </show>
   <show>
     <date>2018.04.06</date>
     <name url="https://en.wikipedia.org/wiki/Modern_Family">Modern Family</name>
