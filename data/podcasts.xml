@@ -2,6 +2,18 @@
 <podcasts>
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date>2018.04.10</date>
+    <name url="https://www.npr.org/series/423302056/hidden-brain">Hidden Brain</name>
+    <episode url="https://www.npr.org/2015/09/22/434597124/trying-to-change-or-changing-the-subject-how-feedback-gets-derailed" number="1">Switchtracking</episode>
+    <comments>This is the first episode of this podcast that I listened to. It's not bad. I guess I'll have to listen to more episodes to really make up my mind. A summary of the episode is available <a href="https://www.npr.org/2015/09/22/434597124/trying-to-change-or-changing-the-subject-how-feedback-gets-derailed">here</a>. "Assume positive intent" is an important message.</comments>
+  </podcast>
+  <podcast>
+    <date>2018.04.10</date>
+    <name url="http://verybadwizards.com/">Very Bad Wizards</name>
+    <episode url="https://verybadwizards.fireside.fm/119" number="119">A Brief History of Values</episode>
+    <comments>I don't know how to sum up this discussion, but the question is interesting: "What happens when we discover why we believe the things we believe? What if we discover that our values are the product of our cultural tradition, or personal experience, or natural selection? Should we be more skeptical of our values once we learn their history?" Sometimes, it doesn't change anything (e.g. knowing why we prefer some things over other things doesn't really change the fact that we like what we like) and, sometimes, it can change everything (e.g. knowing why we're biased or why we developed some moral instincts).</comments>
+  </podcast>
+  <podcast>
     <date>2018.04.05</date>
     <name url="http://verybadwizards.com/">Very Bad Wizards</name>
     <episode url="https://verybadwizards.fireside.fm/118" number="118">We Don't Love Them Hoax</episode>
