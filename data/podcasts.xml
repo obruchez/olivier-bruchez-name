@@ -2,6 +2,12 @@
 <podcasts>
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date>2018.04.12</date>
+    <name url="http://verybadwizards.com/">Very Bad Wizards</name>
+    <episode url="https://verybadwizards.fireside.fm/137" number="137">Are Buddhists Afraid to Die? (with Shaun Nichols)</episode>
+    <comments>I was already very intrigued by this idea the last time I heard about it (in episode 133). "You might think that Buddhist conceptions of the self as illusory would reduce their fear of death (after all, if there's no real self, why worry about it ceasing to exist?). But the evidence collected by Shaun and colleagues suggests exactly the opposite. Why would that be?" Are Buddhists more aware of their feeling of fear? Are they more honest about it? Or is this result simply caused by the fact that you actually have to be a long-time meditator to really integrate the fact (?) that the self is an illusion? Or is it caused by the fact that Buddhists are usually happier, live their life more fully, and, hence, are more afraid of death?</comments>
+  </podcast>
+  <podcast>
     <date>2018.04.10</date>
     <name url="https://www.npr.org/series/423302056/hidden-brain">Hidden Brain</name>
     <episode url="https://www.npr.org/2015/09/22/434597124/trying-to-change-or-changing-the-subject-how-feedback-gets-derailed" number="1">Switchtracking</episode>
