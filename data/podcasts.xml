@@ -2,6 +2,12 @@
 <podcasts>
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date>2018.04.13</date>
+    <name url="https://www.arteradio.com/">Arte Radio</name>
+    <episode url="https://www.arteradio.com/son/616213/prehistoire_numerique">Préhistoire numérique - Les pionniers français de l'informatique</episode>
+    <comments>Cela fait du bien de prendre du recul, de temps en temps, pour apprécier le progrès réalisé. "A l'époque", on programmait les ordinateurs (qui n'étaient pas encore appelés ainsi) à l'aide de câbles. On devait perforer des cartes pour entrer les données dans les machines. Ce travail était effectué par des femmes (exclusivement), qui travaillaient 45 heures par semaine et enchaînaient ce travail ingrat avec uniquement deux pauses de quinze minutes par jour. Une équipe vérifiait le travail de l'autre (en refaisant exactement le même travail). Du travail "qui ne développait pas beaucoup le QI", selon une ancienne employée. Lorsque les claviers sont apparus, les hommes ont eu de la peine à les adopter, pensant que l'utilisation d'un tel objet était réservé aux femmes...</comments>
+  </podcast>
+  <podcast>
     <date>2018.04.12</date>
     <name url="http://verybadwizards.com/">Very Bad Wizards</name>
     <episode url="https://verybadwizards.fireside.fm/137" number="137">Are Buddhists Afraid to Die? (with Shaun Nichols)</episode>
