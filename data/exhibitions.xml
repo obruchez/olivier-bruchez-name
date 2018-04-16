@@ -3,6 +3,15 @@
 <exhibitions>
     <introduction>A list of exhibitions I visited.</introduction>
     <exhibition>
+        <date>2017.10.20</date>
+        <name>Permanent exhibition / Items: Is Fashion Modern? / Max Ernst: Beyond Painting</name>
+        <museum>The Museum of Modern Art, New York, USA</museum>
+        <rating>4.75</rating>
+        <comments>I forgot to comment on this museum, so I'm reviewing it six months later. I enjoyed it less than expected. It's definitely not a bad museum, far from it, but after visiting the Metropolitan Museum of Art a few days before, I guess it was a bit of a letdown.</comments>
+        <image>Max Ernst - Beyond Painting.jpg</image>
+        <pictures url="https://www.flickr.com/photos/bruchez/sets/72157667875160388/"/>
+    </exhibition>
+    <exhibition>
         <date>2017.10.19</date>
         <name>Permanent exhibition</name>
         <museum>Frick Collection, New York, USA</museum>
@@ -17,6 +26,7 @@
         <rating>5.5</rating>
         <comments>We started with the highlights tour. The guide was really nice and her explanations were really easy to understand (i.e. not too technical). One hour and seven pieces of art later, we started a proper tour of a rather small subset of the museum. We went to the Roof Garden (<i>The Theater of Disappearance</i> special exhibit), the Greek and Roman Art section (statues, etc.), the Modern and Contemporary Art section, the 19<sup>th</sup>- and Early 20<sup>th</sup>-Century European Paintings and Sculpture section, and, finally, the European Paintings, 1250-1800 section (a lot more quickly, just before the museum closed). More than six hours in this fantastic museum was still not enough to see everything. Definitely one of the best museums I've ever visited.</comments>
         <image>Rodin at The Met.jpg</image>
+        <pictures url="https://www.flickr.com/photos/bruchez/sets/72157664617197957/"/>
     </exhibition>
     <exhibition>
         <date>2017.10.14</date>
@@ -33,6 +43,7 @@
         <rating>4.0</rating>
         <comments>My rating is a bit harsh, but I was expecting more. This is basically a house that belonged to a rich banker, acquired by Driehaus, that now hosts the <a href="https://en.wikipedia.org/wiki/Driehaus_Museum#Collection">Driehaus Collection</a>. A lot of furniture and posters. The first floor was the most impressive. It's expensive for what it is.</comments>
         <image>Richard H. Driehaus Museum.jpg</image>
+        <pictures url="https://www.flickr.com/photos/bruchez/sets/72157692528410295/"/>
     </exhibition>
     <exhibition>
         <date>2017.10.10</date>
@@ -41,6 +52,7 @@
         <rating>5.5</rating>
         <comments>One of the highlights of our trip to Chicago. This is my type of museum. Huge. Beautiful paintings everywhere. I especially liked the 19<sup>th</sup>- and 20<sup>th</sup>-century sections. Of course, we haven't had the time to visit the whole museum. The restaurant (Terzo Piano) was also excellent and a welcome pause during our 6-hour visit.</comments>
         <image>Tarsila do Amaral - Inventing Modern Art in Brazil.jpg</image>
+        <pictures url="https://www.flickr.com/photos/bruchez/sets/72157664950970718/"/>
     </exhibition>
     <exhibition>
         <date>2017.10.05</date>
