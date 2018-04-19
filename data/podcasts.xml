@@ -2,8 +2,20 @@
 <podcasts>
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date>2018.04.19</date>
+    <name url="http://www.philosophybites.com/">Philosophy Bites</name>
+    <episode url="http://philosophybites.com/2007/06/simon_blackburn.html">Simon Blackburn on Plato’s Cave</episode>
+    <comments>A quick refresher on the <a href="https://en.wikipedia.org/wiki/Allegory_of_the_Cave">Allegory of the Cave</a>. I must admit that, after all these years, I wouldn't have been able to explain what it was about.</comments>
+  </podcast>
+  <podcast>
+    <date>2018.04.19</date>
+    <name url="https://tim.blog/podcast/">The Tim Ferriss Show</name>
+    <episode url="https://tim.blog/2015/11/10/alain-de-botton/" number="118">How Philosophy Can Change Your Life, Alain de Botton</episode>
+    <comments>I still don't know what to think of Alain de Botton. He really sounds like a nice guy. I watch his <a href="https://www.theschooloflife.com/">School of Life</a> videos on YouTube from time to time. He reads Kundera. He has a lot of good advice on how to live one's life. I should like him. Really. Maybe it's the fact that he's in the self-help field, which has a bad reputation. I don't know.</comments>
+  </podcast>
+  <podcast>
     <date>2018.04.17</date>
-    <name url="http://fourhourworkweek.com/podcast/">The Tim Ferriss Show</name>
+    <name url="https://tim.blog/podcast/">The Tim Ferriss Show</name>
     <episode url="https://tim.blog/2015/10/17/5-tools-i-use-for-faster-and-better-sleep/" number="113">5 Tools I Use For Faster And Better Sleep</episode>
     <comments>The <a href="https://www.amazon.com/ChiliPAD-Cube-Cooling-Heating-Mattress/dp/B00JMLFMT2/">Chili Pad</a> sounded like a good idea, but it seems to be: noisy, expensive, not that comfortable. The other tips don't seem that interesting/useful (I already sleep with earplugs).</comments>
   </podcast>
@@ -1091,8 +1103,8 @@
   </podcast>
   <podcast>
     <date>2016.10.19</date>
-    <name url="http://fourhourworkweek.com/podcast/">The Tim Ferriss Show</name>
-    <episode url="http://fourhourworkweek.com/2014/12/18/peter-attia/" number="50">Dr. Peter Attia on Ultra-Endurance, Drinking Jet Fuel, Human Foie Gras, and More</episode>
+    <name url="https://tim.blog/podcast/">The Tim Ferriss Show</name>
+    <episode url="https://tim.blog/2014/12/18/peter-attia/" number="50">Dr. Peter Attia on Ultra-Endurance, Drinking Jet Fuel, Human Foie Gras, and More</episode>
   </podcast>
   <podcast>
     <date>2016.10.14</date>
@@ -1131,28 +1143,28 @@
   </podcast>
   <podcast>
     <date>2016.09.30</date>
-    <name url="http://fourhourworkweek.com/podcast/">The Tim Ferriss Show</name>
-    <episode url="http://fourhourworkweek.com/2015/04/03/lazy-a-manifesto/" number="68">Lazy: A Manifesto</episode>
+    <name url="https://tim.blog/podcast/">The Tim Ferriss Show</name>
+    <episode url="https://tim.blog/2015/04/03/lazy-a-manifesto/" number="68">Lazy: A Manifesto</episode>
   </podcast>
   <podcast>
     <date>2016.09.29</date>
-    <name url="http://fourhourworkweek.com/podcast/">The Tim Ferriss Show</name>
-    <episode url="http://fourhourworkweek.com/2014/12/18/peter-attia/" number="65">Supplements, Blood Tests, and Near-Death Experiences (Dr. Peter Attia)</episode>
+    <name url="https://tim.blog/podcast/">The Tim Ferriss Show</name>
+    <episode url="https://tim.blog/2014/12/18/peter-attia/" number="65">Supplements, Blood Tests, and Near-Death Experiences (Dr. Peter Attia)</episode>
   </podcast>
   <podcast>
     <date>2016.09.28</date>
-    <name url="http://fourhourworkweek.com/podcast/">The Tim Ferriss Show</name>
-    <episode url="http://fourhourworkweek.com/2015/01/20/elon-musk-and-jeff-bezos/" number="56">How to Think Like Elon Musk and Jeff Bezos</episode>
+    <name url="https://tim.blog/podcast/">The Tim Ferriss Show</name>
+    <episode url="https://tim.blog/2015/01/20/elon-musk-and-jeff-bezos/" number="56">How to Think Like Elon Musk and Jeff Bezos</episode>
   </podcast>
   <podcast>
     <date>2016.09.26</date>
-    <name url="http://fourhourworkweek.com/podcast/">The Tim Ferriss Show</name>
-    <episode url="http://fourhourworkweek.com/2014/12/23/4-hour-work-week-2015/" number="44">How to Avoid Decision Fatigue</episode>
+    <name url="https://tim.blog/podcast/">The Tim Ferriss Show</name>
+    <episode url="https://tim.blog/2014/12/23/4-hour-work-week-2015/" number="44">How to Avoid Decision Fatigue</episode>
   </podcast>
   <podcast>
     <date>2016.09.26</date>
-    <name url="http://fourhourworkweek.com/podcast/">The Tim Ferriss Show</name>
-    <episode url="http://fourhourworkweek.com/2014/08/19/homeopathic-medicine/" number="23">The Truth About "Homeopathic" Medicine</episode>
+    <name url="https://tim.blog/podcast/">The Tim Ferriss Show</name>
+    <episode url="https://tim.blog/2014/08/19/homeopathic-medicine/" number="23">The Truth About "Homeopathic" Medicine</episode>
   </podcast>
   <podcast>
     <date>2016.09.23</date>
@@ -1161,13 +1173,13 @@
   </podcast>
   <podcast>
     <date>2016.09.22</date>
-    <name url="http://fourhourworkweek.com/podcast/">The Tim Ferriss Show</name>
-    <episode url="http://fourhourworkweek.com/2014/06/18/sam-harris/" number="14">Sam Harris, PhD on Spirituality, Neuroscience, Meditation, and More</episode>
+    <name url="https://tim.blog/podcast/">The Tim Ferriss Show</name>
+    <episode url="https://tim.blog/2014/06/18/sam-harris/" number="14">Sam Harris, PhD on Spirituality, Neuroscience, Meditation, and More</episode>
   </podcast>
   <podcast>
     <date>2016.09.21</date>
-    <name url="http://fourhourworkweek.com/podcast/">The Tim Ferriss Show</name>
-    <episode url="http://fourhourworkweek.com/2007/08/16/the-not-to-do-list-9-habits-to-stop-now/" number="9">The Not-To-Do List: 9 Habits to Stop Now</episode>
+    <name url="https://tim.blog/podcast/">The Tim Ferriss Show</name>
+    <episode url="https://tim.blog/2007/08/16/the-not-to-do-list-9-habits-to-stop-now/" number="9">The Not-To-Do List: 9 Habits to Stop Now</episode>
   </podcast>
   <podcast>
     <date>2016.09.21</date>
@@ -1201,8 +1213,8 @@
   </podcast>
   <podcast>
     <date>2016.09.05</date>
-    <name url="http://fourhourworkweek.com/podcast/">The Tim Ferriss Show</name>
-    <episode url="http://fourhourworkweek.com/2015/11/22/will-macaskill/" number="120">Will MacAskill on Effective Altruism, Y Combinator, and Artificial Intelligence</episode>
+    <name url="https://tim.blog/podcast/">The Tim Ferriss Show</name>
+    <episode url="https://tim.blog/2015/11/22/will-macaskill/" number="120">Will MacAskill on Effective Altruism, Y Combinator, and Artificial Intelligence</episode>
   </podcast>
   <podcast>
     <date>2016.09.02</date>
@@ -1381,8 +1393,8 @@
   </podcast>
   <podcast>
     <date>2016.04.25</date>
-    <name url="http://fourhourworkweek.com/podcast/">The Tim Ferriss Show</name>
-    <episode url="http://fourhourworkweek.com/2015/09/22/scott-adams-the-man-behind-dilbert/" number="106">Scott Adams: The Man Behind Dilbert</episode>
+    <name url="https://tim.blog/podcast/">The Tim Ferriss Show</name>
+    <episode url="https://tim.blog/2015/09/22/scott-adams-the-man-behind-dilbert/" number="106">Scott Adams: The Man Behind Dilbert</episode>
   </podcast>
   <podcast>
     <date>2016.04.22</date>
@@ -1816,8 +1828,8 @@
   </podcast>
   <podcast>
     <date>2015.09.17</date>
-    <name url="http://fourhourworkweek.com/podcast/">The Tim Ferriss Show</name>
-    <episode url="http://fourhourworkweek.com/2015/07/08/sam-harris-on-daily-routines-the-trolley-scenario-and-5-books-everyone-should-read/" number="87">Sam Harris on Daily Routines, The Trolley Scenario, and 5 Books Everyone Should Read</episode>
+    <name url="https://tim.blog/podcast/">The Tim Ferriss Show</name>
+    <episode url="https://tim.blog/2015/07/08/sam-harris-on-daily-routines-the-trolley-scenario-and-5-books-everyone-should-read/" number="87">Sam Harris on Daily Routines, The Trolley Scenario, and 5 Books Everyone Should Read</episode>
   </podcast>
   <podcast>
     <date>2015.09.17</date>
