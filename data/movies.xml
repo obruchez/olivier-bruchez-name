@@ -3,6 +3,16 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Checklist: add rating to IMDb -->
   <movie>
+    <date>2018.04.20</date>
+    <theater home="true"/>
+    <director>Darren Aronofsky</director>
+    <title>Requiem for a Dream</title>
+    <url>https://www.imdb.com/title/tt0180093/</url>
+    <rating>5.0</rating>
+    <comments>This is definitely not a feel-good movie. I was not particularly touched or moved by the themes (addiction, drugs, mental illness, etc.), but the cinematography is absolutely stunning. Is there a David Lynch influence there? The music was also an important part of the movie for me (Kronos Quartet).</comments>
+    <image>Requiem for a Dream.jpg</image>
+  </movie>
+  <movie>
     <date>2018.04.07</date>
     <theater home="true"/>
     <director>Isao Takahata</director>
