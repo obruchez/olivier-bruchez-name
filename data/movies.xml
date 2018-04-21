@@ -3,6 +3,15 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Checklist: add rating to IMDb -->
   <movie>
+    <date>2018.04.21</date>
+    <theater>Galeries, Lausanne</theater>
+    <director>Wes Anderson</director>
+    <title>Isle of Dogs</title>
+    <url>https://www.imdb.com/title/tt5104604/</url>
+    <rating>4.75</rating>
+    <comments>The story is original (and/or far-fetched), but, as you can expect from Wes Anderson, it doesn't look like anything else. Is it a movie with more style than substance, as some reviews suggest? Maybe, but it doesn't matter: it kind of already was the case with most of Anderson's previous movies.</comments>
+    <image>Isle of Dogs.jpg</image>
+  <movie>
     <date>2018.04.20</date>
     <theater home="true"/>
     <director>Darren Aronofsky</director>
