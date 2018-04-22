@@ -2,6 +2,12 @@
 <podcasts>
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date>2018.04.22</date>
+    <name url="https://tim.blog/podcast/">The Tim Ferriss Show</name>
+    <episode url="https://tim.blog/2015/04/10/how-to-earn-your-freedom/" number="70">How to Earn Your Freedom</episode>
+    <comments>Two chapters of <i>Vagabonding: An Uncommon Guide to the Art of Long-Term World Travel</i> by Rolf Potts. "Disclaimer: These might make you quit your job… even if you’re the boss. I’m not kidding, as I’ve seen it happen. If it comes to pass, you’ll thank me later." Tim Ferris is selling dreams, as usual. Except he really made me quit my first job, back in 2008...</comments>
+  </podcast>
+  <podcast>
     <date>2018.04.19</date>
     <name url="http://www.philosophybites.com/">Philosophy Bites</name>
     <episode url="http://philosophybites.com/2007/06/simon_blackburn.html">Simon Blackburn on Plato’s Cave</episode>
