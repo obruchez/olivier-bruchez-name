@@ -11,6 +11,25 @@
   -->
   <introduction>A list of concerts I went to.</introduction>
   <concert>
+    <date>2018.04.22</date>
+    <location>Opéra de Lausanne, Lausanne, Switzerland</location>
+    <event><i>La donna del lago</i> opera</event>
+    <musician inst="vocals">Lena Belkina</musician>
+    <musician inst="vocals">Max Emanuel Cencic</musician>
+    <musician inst="vocals">Daniel Behle</musician>
+    <musician inst="vocals">Juan Francisco Gatell</musician>
+    <musician inst="vocals">Daniel Golossov</musician>
+    <musician inst="vocals">Delphine Gillot</musician>
+    <musician inst="vocals">Tristan Blanchet</musician>
+    <musician inst="vocals">Aurélien Reymond-Moret</musician>
+    <musician inst="orchestra">Orchestre de Chambre de Lausanne</musician>
+    <musician inst="conductor">George Petrou</musician>
+    <musician inst="choir">Chœur de l’Opéra de Lausanne</musician>
+    <musician inst="choir director">Antonio Greco</musician>
+    <rating>4.75</rating>
+    <comments><i>La donna del lago</i> opera (Gioachino Rossini), directed by Max Emanuel Cencic. This was the last opera we will be able to attend for a while. It was an incredible experience as usual, but I was maybe a little bit underwhelmed by the production and the adaptation. Also, I'm not against nudity and eroticism, but it was probably a bit overused here.</comments>
+  </concert>
+  <concert>
     <date>2018.03.25</date>
     <location>Opéra de Lausanne, Lausanne, Switzerland</location>
     <event><i>La clemenza di Tito</i> opera</event>
