@@ -2,6 +2,12 @@
 <podcasts>
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date>2018.04.24</date>
+    <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
+    <episode url="https://samharris.org/podcasts/124-search-reality/" number="124">In Search of Reality - A Conversation with Sean Carroll</episode>
+    <comments>Sam and Sean disagree on free will and morality. To sum it up, I think I understand why Sean defends his positions (compatibilism, Hume's is-ought, etc.), but I'm definitely not convinced they're very useful positions. I felt the discussion was neither about semantics nor about what really matters (ethical/judicial conclusions). I mean: yes, as agent, we make choices, even in a deterministic universe, but are those choices free and what do we mean by free? That's the question. Stop talking about free will. It's confusing. So, yes, I'm with Sam and not with Sean on that one. And I didn't really learn anything new on why compatibilists and determinists disagree.</comments>
+  </podcast>
+  <podcast>
     <date>2018.04.22</date>
     <name url="https://tim.blog/podcast/">The Tim Ferriss Show</name>
     <episode url="https://tim.blog/2015/04/10/how-to-earn-your-freedom/" number="70">How to Earn Your Freedom</episode>
