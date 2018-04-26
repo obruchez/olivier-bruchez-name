@@ -2,6 +2,16 @@
 <comics>
   <introduction>A list of comics I read.</introduction>
   <comic>
+    <date>2018.04.26</date>
+    <writer>F'murr</writer>
+    <artist>F'murr</artist>
+    <colorist>F'murr</colorist>
+    <series url="https://fr.wikipedia.org/wiki/Le_G%C3%A9nie_des_alpages">Le Génie des alpages</series>
+    <volume url="https://fr.wikipedia.org/wiki/Le_G%C3%A9nie_des_alpages_(album)" number="1">Le Génie des alpages</volume>
+    <comments>J'ai été attristé d'apprendre le décès de F'murr (Richard Peyzaret) il y a quelques semaines. Cela fait longtemps que je n'avais pas relu son oeuvre. C'est encore un peu plus absurde que dans mes souvenirs...</comments>
+    <image>Le Gé́nie des alpages.jpg</image>
+  </comic>
+  <comic>
     <date>2018.04.12</date>
     <writer>Joann Sfar &amp; Lewis Trondheim</writer>
     <artist>Christophe Gaultier</artist>
