@@ -2,6 +2,12 @@
 <podcasts>
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date>2018.04.26</date>
+    <name url="https://tim.blog/podcast/">The Tim Ferriss Show</name>
+    <episode url="https://tim.blog/2015/04/10/how-to-earn-your-freedom/" number="77">What Do Google X, Medicine, and Great Relationships Have In Common?</episode>
+    <comments>I didn't expect this episode to be so much about love, marriage, relationships, etc. It's not an uninteresting topic per se, but the discussion was not that illuminating.</comments>
+  </podcast>
+  <podcast>
     <date>2018.04.24</date>
     <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
     <episode url="https://samharris.org/podcasts/124-search-reality/" number="124">In Search of Reality - A Conversation with Sean Carroll</episode>
