@@ -2,6 +2,18 @@
 <podcasts>
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date>2018.04.27</date>
+    <name url="https://tim.blog/podcast/">The Tim Ferriss Show</name>
+    <episode url="https://tim.blog/2015/09/18/5-morning-rituals/" number="105">5 Morning Rituals That Help Me Win the Day</episode>
+    <comments>1) Make your bed 2) Meditate 3) Hang 4) Drink tea 5) <a href="https://www.samuelthomasdavies.com/the-five-minute-journal-review/">Five Minute Journal</a> (incl. gratitude). I already meditate. I make my bed, sometimes, but not always. I don't drink enough tea. I've been writing a diary since 1993 and regularly do gratitude journaling. I guess I could buy a pull-up bar.</comments>
+  </podcast>
+  <podcast>
+    <date>2018.04.27</date>
+    <name url="https://tim.blog/podcast/">The Tim Ferriss Show</name>
+    <episode url="https://tim.blog/2018/03/21/how-to-prioritize-your-life-and-make-time-for-what-matters/" number="">How to Prioritize Your Life and Make Time for What Matters</episode>
+    <comments>"Busy is a decision". It's a useful way to look at things. Mental health is important. A psychotherapy can be very useful.</comments>
+  </podcast>
+  <podcast>
     <date>2018.04.26</date>
     <name url="https://tim.blog/podcast/">The Tim Ferriss Show</name>
     <episode url="https://tim.blog/2015/04/10/how-to-earn-your-freedom/" number="77">What Do Google X, Medicine, and Great Relationships Have In Common?</episode>
