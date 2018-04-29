@@ -3,6 +3,16 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Checklist: add rating to IMDb -->
   <movie>
+    <date>2018.04.29</date>
+    <theater home="true"/>
+    <director>Jonathan Demme</director>
+    <title>The Silence of the Lambs</title>
+    <url>https://www.imdb.com/title/tt0102926/</url>
+    <rating>5.0</rating>
+    <comments>Anthony Hopkins is absolutely fantastic as Dr. Hannibal Lecter. Jodie Foster is excellent as well. It's a shame she didn't played in more good movies... I probably watched <i>The Silence of the Lambs</i> once on television, a long time ago, but I didn't remember much from the movie (apart from the well, actually).</comments>
+    <image>The Silence of the Lambs.jpg</image>
+  </movie>
+  <movie>
     <date>2018.04.21</date>
     <theater>Galeries, Lausanne</theater>
     <director>Wes Anderson</director>
