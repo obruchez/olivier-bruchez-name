@@ -2,6 +2,18 @@
 <podcasts>
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date>2018.05.01</date>
+    <name url="https://tim.blog/podcast/">The Tim Ferriss Show</name>
+    <episode url="https://tim.blog/2016/03/27/how-to-live-in-the-moment/" number="149">How to Live in The Moment</episode>
+    <comments>A passage from <i>On The Shortness of Life</i> by Seneca the Younger. "Why do you torment yourself and lose weight over some problem..." Tim: "This is a fantastic reminder to separate the critical few from the trivial many."</comments>
+  </podcast>
+  <podcast>
+    <date>2018.05.01</date>
+    <name url="https://tim.blog/podcast/">The Tim Ferriss Show</name>
+    <episode url="https://tim.blog/2015/07/17/peter-diamandis-on-the-education-system/" number="90">Peter Diamandis on Disrupting the Education System, The Evolution of Healthcare, and Building a Billion-Dollar Business</episode>
+    <comments>Some mildly interesting answers. I was surprised to hear the standard "yes, AI will make some jobs disappear, but people will be able to do other jobs" answer. This is not serious. But this might be an uncharitable interpretation from me, since Diamandis is also for universal basic income.</comments>
+  </podcast>
+  <podcast>
     <date>2018.04.30</date>
     <name url="https://tim.blog/podcast/">The Tim Ferriss Show</name>
     <episode url="https://tim.blog/2015/12/14/derek-sivers-on-developing-confidence-finding-happiness-and-saying-no-to-millions/" number="125">Derek Sivers on Developing Confidence, Finding Happiness, and Saying "No" to Millions</episode>
