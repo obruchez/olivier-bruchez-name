@@ -2,6 +2,18 @@
 <podcasts>
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date>s</date>
+    <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
+    <episode url="https://samharris.org/podcasts/what-is-christianity/" number="125">What is Christianity? - A Conversation with Bart Ehrman</episode>
+    <comments></comments>
+  </podcast>
+  <podcast>
+    <date>2018.05.03</date>
+    <name url="https://tim.blog/podcast/">The Tim Ferriss Show</name>
+    <episode url="https://tim.blog/2016/07/24/how-to-cage-the-monkey-mind/" number="175">How to Cage the Monkey Mind</episode>
+    <comments></comments>
+  </podcast>
+  <podcast>
     <date>2018.05.01</date>
     <name url="https://tim.blog/podcast/">The Tim Ferriss Show</name>
     <episode url="https://tim.blog/2016/03/27/how-to-live-in-the-moment/" number="149">How to Live in The Moment</episode>
