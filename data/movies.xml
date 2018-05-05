@@ -3,6 +3,16 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Checklist: add rating to IMDb -->
   <movie>
+    <date>2018.05.04</date>
+    <theater home="true"/>
+    <director>Michel Gondry</director>
+    <title>Eternal Sunshine of the Spotless Mind</title>
+    <url>https://www.imdb.com/title/tt0338013/</url>
+    <rating>5.25</rating>
+    <comments>I was convinced that I had seen this movie multiple times before, but, apparently, I only saw it in 2004. Anyway, I really loved it at the time and I still think it's an excellent movie. I've been wanting to see it again for years and it's finally <a href="https://verybadwizards.fireside.fm/138">one of the latest episodes of the Very Bad Wizard podcast</a> which convinced me that I had to do it (like, now). It's Michel Gondry's best feature film and it's probably the best movie starring either Jim Carrey, Kate Winslet, or Kirsten Dunst. It asks an important question (what is memory?), but it's the cinematography that I really love about it.</comments>
+    <image>Eternal Sunshine of the Spotless Mind.jpg</image>
+  </movie>
+  <movie>
     <date>2018.04.29</date>
     <theater home="true"/>
     <director>Jonathan Demme</director>
@@ -4630,7 +4640,10 @@
   </movie>
   <movie>
     <date>2004.10.27</date>
-    <title>Eternal Sunshine Of The Spotless Mind</title>
+    <director>Michel Gondry</director>
+    <title>Eternal Sunshine of the Spotless Mind</title>
+    <url>https://www.imdb.com/title/tt0338013/</url>
+    <image>Eternal Sunshine of the Spotless Mind.jpg</image>
   </movie>
   <movie>
     <date>2004.10.06</date>
