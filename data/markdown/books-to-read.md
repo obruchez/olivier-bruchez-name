@@ -191,6 +191,8 @@ Pretty much everything from [Les cent livres du siècle](https://fr.wikipedia.or
 * Dale Carnegie, ["How To Win Friends and Influence People"](https://www.amazon.com/How-Win-Friends-Influence-People-ebook/dp/B003WEAI4E/) (listed on [Hacker News](https://news.ycombinator.com/item?id=14477851))
 * Ray Dalio, ["Principles: Life and Work"](https://www.amazon.com/gp/product/1501124021/) (recommended on [@Coursera](https://twitter.com/coursera))
 * Arvind Devalia, ["Get the Life You Love and Live It"](http://www.amazon.com/Get-Life-You-Love-Live/dp/1905613008/)
+* Tim Ferriss, ["Tools of Titans: The Tactics, Routines, and Habits of Billionaires, Icons, and World-Class Performers"](https://www.amazon.com/Tools-Titans-Billionaires-World-Class-Performers-ebook/dp/B01HSMRWNU/) (really interesting or not?)
+* Tim Ferriss, ["Tribe of Mentors: Short Life Advice from the Best in the World"](https://www.amazon.com/Tribe-Mentors-Short-Advice-World-ebook/dp/B071KJ7PTB/) (really interesting or not?)
 * Jonathan Fields, ["Career Renegade: How to Make a Great Living Doing What You Love"](http://www.amazon.com/Career-Renegade-Great-Living-Doing/dp/0767927419/)
 * P.M. Forni, ["The Thinking Life: How to Thrive in the Age of Distraction"](http://www.amazon.com/The-Thinking-Life-Thrive-Distraction/dp/B008SMFIC2/)
 * FruitfulTime, ["Stop Procrastination Now"](https://dollswithoutheads.files.wordpress.com/2008/10/stop-procrastination-now.pdf) (and I should probably start by not reading this book...)
