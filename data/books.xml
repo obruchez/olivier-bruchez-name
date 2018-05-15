@@ -15,17 +15,6 @@
     </book> -->
     <book>
         <date></date>
-        <title>Les Fleurs du mal</title>
-        <author>Charles Baudelaire</author>
-        <publishingyear>1857</publishingyear>
-        <rating></rating>
-        <url>https://fr.wikipedia.org/wiki/Les_Fleurs_du_mal</url>
-        <!-- <notes description="Kindle highlights"></notes> -->
-        <comments></comments>
-        <image>Les Fleurs du mal.jpg</image>
-    </book>
-    <book>
-        <date></date>
         <title>Learn You a Haskell for Great Good!</title>
         <subtitle>A Beginner's Guide</subtitle>
         <author>Miran Lipovača</author>
@@ -37,16 +26,27 @@
         <image>Learn You a Haskell for Great Good!.jpg</image>
     </book>
     <book>
-        <date></date>
+        <date>2018.05.11</date>
         <title>Life 3.0</title>
         <subtitle>Being Human in the Age of Artificial Intelligence</subtitle>
         <author>Max Tegmark</author>
         <publishingyear>2017</publishingyear>
-        <rating></rating>
+        <rating>4.75</rating>
         <url>https://en.wikipedia.org/wiki/Life_3.0</url>
         <!-- <notes description="Kindle highlights"></notes> -->
-        <comments></comments>
+        <comments>Having read five books by Ray Kurzweil, I'm quite familiar with artificial intelligence and its consequences. This book focuses on the dangers of AI. Kurzweil was (still is?) an optimist, so it's important to think about what needs to be done, concretely, to make sure we create friendly AIs. To many, it will sound like an exercise in futility (like worrying about overpopulation on Mars, according to Andrew Ng), but I'm now convinced that this is something we really need to get right. And I'm happy that very intelligent people have been thinking about this problem for years.</comments>
         <image>Life 3.0.jpg</image>
+    </book>
+    <book>
+        <date>2018.05.10</date>
+        <title>Les Fleurs du mal</title>
+        <author>Charles Baudelaire</author>
+        <publishingyear>1857</publishingyear>
+        <rating>4.25</rating>
+        <url>https://fr.wikipedia.org/wiki/Les_Fleurs_du_mal</url>
+        <!-- <notes description="Kindle highlights"></notes> -->
+        <comments>Un classique de la poésie. Objectivement, je vois pourquoi il s'agit d'un classique, surtout si on le replace dans le contexte de son époque, mais je ne peux pas dire que beaucoup des poèmes de ce recueil m'aient vraiment touché. Dans un autre style, <i>Paroles</i> de Prévert m'avait paru nettement plus accessible. Cela dit, je n'y connais rien en poésie et il ne s'agit que du deuxième receuil que je lis depuis mes études.</comments>
+        <image>Les Fleurs du mal.jpg</image>
     </book>
     <book>
         <date>2018.03.29</date>
