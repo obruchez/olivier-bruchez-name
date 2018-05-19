@@ -10,7 +10,7 @@
   <show>
     <date></date>
     <name url="https://en.wikipedia.org/wiki/Modern_Family">Modern Family</name>
-    <series url="https://en.wikipedia.org/wiki/Modern_Family_(season_7)" type="season">7</series>
+    <series url="https://en.wikipedia.org/wiki/Modern_Family_(season_8)" type="season">8</series>
     <comments></comments>
   </show>
   <show>
@@ -19,18 +19,24 @@
     <series url="https://en.wikipedia.org/wiki/Silicon_Valley_(TV_series)#Season_5" type="season">5</series>
     <comments></comments>
   </show>
-  <show>
-    <date></date>
-    <name url="https://en.wikipedia.org/wiki/The_Big_Bang_Theory">The Big Bang Theory</name>
-    <series url="https://en.wikipedia.org/wiki/The_Big_Bang_Theory_(season_11)" type="season">11</series>
-    <comments></comments>
-  </show>
   <!-- <show>
     <date></date>
     <name url="https://en.wikipedia.org/wiki/Veep_(TV_series)">Veep</name>
     <series url="https://en.wikipedia.org/wiki/Veep_(TV_series)#Season_4" type="season">4</series>
     <comments></comments>
   </show> -->
+  <show>
+    <date>2018.05.17</date>
+    <name url="https://en.wikipedia.org/wiki/Modern_Family">Modern Family</name>
+    <series url="https://en.wikipedia.org/wiki/Modern_Family_(season_7)" type="season">7</series>
+    <comments>I'm not a fan of the Haley/Andy "subplot". Other than that, an okay/entertaining season.</comments>
+  </show>
+  <show>
+    <date>2018.05.17</date>
+    <name url="https://en.wikipedia.org/wiki/The_Big_Bang_Theory">The Big Bang Theory</name>
+    <series url="https://en.wikipedia.org/wiki/The_Big_Bang_Theory_(season_11)" type="season">11</series>
+    <comments>I don't have much to say about this season, except that I really hope season 12 is the last one.</comments>
+  </show>
   <show>
     <date>2018.05.15</date>
     <name url="https://en.wikipedia.org/wiki/Fargo_(TV_series)">Fargo</name>
