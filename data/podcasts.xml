@@ -2,6 +2,13 @@
 <podcasts>
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date>2018.05.30</date>
+    <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
+    <episode url="https://samharris.org/podcasts/126-defense-honor/" number="126">In Defense of Honor - A Conversation with Tamler Sommers</episode>
+    <comments>I'm not convinced restorative justice, at its best, cannot be fully understood from a consequentialist point of view, but I find the idea of letting the victims confront their offenders intriguing.</comments>
+  </podcast>
+  </podcast>
+  <podcast>
     <date>2018.05.12</date>
     <name url="http://peachandblack.podbean.com/">Peach &amp; Black Podcast</name>
     <episode url="http://peachandblack.podbean.com/e/may-2018-prince-news-episode/">May 2018 Prince News Episode</episode>
