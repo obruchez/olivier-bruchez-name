@@ -9,9 +9,20 @@
   </show>
   <show>
     <date></date>
+    <name url="https://en.wikipedia.org/wiki/Fargo_(TV_series)">Fargo</name>
+    <series url="https://en.wikipedia.org/wiki/Fargo_(season_3)" type="season">3</series>
+    <comments></comments>
+  </show>
+  <show>
+    <date></date>
     <name url="https://en.wikipedia.org/wiki/Modern_Family">Modern Family</name>
     <series url="https://en.wikipedia.org/wiki/Modern_Family_(season_8)" type="season">8</series>
     <comments></comments>
+  </show>
+  <show>
+    <date></date>
+    <name url="https://en.wikipedia.org/wiki/Westworld_(TV_series)">Westworld</name>
+    <series url="https://en.wikipedia.org/wiki/Westworld_(season_2)" type="season">2</series>
   </show>
   <!-- <show>
     <date></date>
@@ -256,6 +267,11 @@
     <date>2016.12.08</date>
     <name url="https://en.wikipedia.org/wiki/Community_(TV_series)">Community</name>
     <series url="https://en.wikipedia.org/wiki/Community_(season_6)" type="season">6</series>
+  </show>
+  <show>
+    <date>2016.12.05</date>
+    <name url="https://en.wikipedia.org/wiki/Westworld_(TV_series)">Westworld</name>
+    <series url="https://en.wikipedia.org/wiki/Westworld_(season_1)" type="season">1</series>
   </show>
   <show>
     <date>2016.11.24</date>
