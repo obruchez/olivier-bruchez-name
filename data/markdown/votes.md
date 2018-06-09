@@ -2,15 +2,25 @@
 
 My votes (in French). En Suisse, on ne plaisante pas avec la démocratie directe. :) J'essaie ici de documenter et de justifier la façon dont je me positionne par rapport aux votations fédérales, qui ont lieu jusqu'à quatre fois par année.
 
+## [Votation fédérale du 10 juin 2018](https://www.admin.ch/gov/fr/accueil/documentation/votations/20180610.html)
+
+### Acceptez-vous l’initiative populaire « Pour une monnaie à l’abri des crises : émission monétaire uniquement par la Banque nationale ! (Initiative Monnaie pleine) » ? 
+
+Oui. Résultat : ? (??.?%).
+
+### Acceptez-vous la loi fédérale du 29 septembre 2017 sur les jeux d’argent (LJAr) ?
+
+Non. Résultat : ? (??.?%).
+
 ## [Votation fédérale du 4 mars 2018](https://www.admin.ch/gov/fr/accueil/documentation/votations/20180304.html)
 
 ### Acceptez-vous l’arrêté fédéral du 16 juin 2017 concernant le nouveau régime financier 2021 ?
 
-Oui. Résultat : ? (??.?%).
+Oui. Résultat : oui (84.1%).
 
 ### Acceptez-vous l’initiative populaire « Oui à la suppression des redevances radio et télévision (suppression des redevances Billag) » ?
 
-Non. Résultat : ? (??.?%).
+Non. Résultat : non (71.6%).
 
 - Je comprends l'argument selon lequel nous ne devrions payer que ce que nous consommons directement.
 - Je pense également qu'il faut laisser les forces du marché opérer, autant que faire se peut.
