@@ -3,9 +3,15 @@
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
     <date></date>
+    <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
+    <episode url="https://samharris.org/podcasts/128-evolving-minds/" number="128">Transformations of Mind - A Conversation with Geoffrey Miller</episode>
+    <comments></comments>
+  </podcast>
+  <podcast>
+    <date>2018.06.12</date>
     <name url="http://verybadwizards.com/">Very Bad Wizards</name>
     <episode url="https://verybadwizards.fireside.fm/140" number="140">Milgram's Mice</episode>
-    <comments></comments>
+    <comments>I'm beginning to understand why Tamler and David are so critical of moral dilemmas (trolley, etc.) and related studies. I agree with <a href="https://www.reddit.com/r/VeryBadWizards/comments/8lcwpd/episode_140_milgrims_mice/dzes4ne/">a comment on Reddit</a>: "the study doesn't really say much of anything interesting about what it sets out to, but on the other hand measuring or testing these things is damn hard in real life". Also, using mice as a proxy for human beings is probably not a good idea. It often doesn't work in biology/medicine and, here, it's obvious that's it's a poor choice for a psychology study.</comments>
   </podcast>
   <podcast>
     <date>2018.06.07</date>
