@@ -2,6 +2,16 @@
 <comics>
   <introduction>A list of comics I read.</introduction>
   <comic>
+    <date>2018.06.21</date>
+    <writer>F'murr</writer>
+    <artist>F'murr</artist>
+    <colorist>F'murr</colorist>
+    <series url="https://fr.wikipedia.org/wiki/Le_G%C3%A9nie_des_alpages">Le Génie des alpages</series>
+    <volume url="https://fr.wikipedia.org/wiki/Comme_des_b%C3%AAtes" number="2">Comme des bêtes</volume>
+    <comments>Complètement dans la continuité du premier tome. Il faut être dans le bon état d'esprit pour apprécier ce type d'humour, mais, la plupart du temps, ça marche bien.</comments>
+    <image>Le Génie des alpages - Comme des bêtes.jpg</image>
+  </comic>
+  <comic>
     <date>2018.04.26</date>
     <writer>F'murr</writer>
     <artist>F'murr</artist>
