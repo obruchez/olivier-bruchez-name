@@ -2,6 +2,14 @@
 <courses>
     <introduction>A list of MOOC courses I took.</introduction>
     <course>
+        <date>2018-06-24</date>
+        <provider>Coursera</provider>
+        <name>The Science of Well-Being</name>
+        <instructor>Laurie Santoss</instructor>
+        <url>https://www.coursera.org/learn/the-science-of-well-being</url>
+        <image>The Science of Well-Being.png</image>
+    </course>
+    <course>
         <date>2017-04-01</date>
         <provider>Coursera</provider>
         <name>Big Data Analysis with Scala and Spark</name>
