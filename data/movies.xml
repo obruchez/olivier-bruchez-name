@@ -3,6 +3,16 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Checklist: add rating to IMDb -->
   <movie>
+    <date>2018.06.30</date>
+    <theater home="true"/>
+    <director>David Fincher</director>
+    <title>Se7en</title>
+    <url>https://www.imdb.com/title/tt0114369/</url>
+    <rating>4.5</rating>
+    <comments>Not bad. I saw this movie about 20 years ago and only remembered the ending (i.e. the box).</comments>
+    <image>Se7en.jpg</image>
+  </movie>
+  <movie>
     <date>2018.06.26</date>
     <theater home="true"/>
     <director>Alfred Hitchcock</director>
