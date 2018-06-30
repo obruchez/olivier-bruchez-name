@@ -3,6 +3,16 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Checklist: add rating to IMDb -->
   <movie>
+    <date>2018.06.26</date>
+    <theater home="true"/>
+    <director>Alfred Hitchcock</director>
+    <title>Vertigo</title>
+    <url>https://www.imdb.com/title/tt0052357/</url>
+    <rating>5.0</rating>
+    <comments>One of Hitchcock's best movies. Beautiful views of San Francisco. Some unexpected twists. The only thing I didn't like was the end. It almost looked like a bad joke. It's so weird that many people have written about it.</comments>
+    <image>Vertigo.jpg</image>
+  </movie>
+  <movie>
     <date>2018.05.04</date>
     <theater home="true"/>
     <director>Michel Gondry</director>
