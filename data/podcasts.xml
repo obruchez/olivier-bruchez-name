@@ -3,9 +3,27 @@
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
     <date></date>
+    <name url="https://tim.blog/podcast/">The Tim Ferriss Show</name>
+    <episode url="https://tim.blog/2015/09/14/are-psychedelic-drugs-the-next-medical-breakthrough/" number="104">Are Psychedelic Drugs the Next Medical Breakthrough?</episode>
+    <comments></comments>
+  </podcast>
+  <podcast>
+    <date>2018.07.04</date>
+    <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
+    <episode url="https://samharris.org/podcasts/131-dictators-immigration-metoo-imponderables/" number="131">Dictators, Immigration, #MeToo, and Other Imponderables - A Conversation with Masha Gessen</episode>
+    <comments><a href="https://www.reddit.com/r/samharris/comments/8vnv01/131_dictators_immigration_metoo_and_other/">Some people seemed to have enjoyed this discussion very much</a>. For some reasons, I didn't. I'm a bit tired of hearing about Trump and Islam. I should have skipped this one.</comments>
+  </podcast>
+  <podcast>
+    <date>2018.07.03</date>
+    <name url="http://peachandblack.podbean.com/">Peach &amp; Black Podcast</name>
+    <episode url="https://peachandblack.podbean.com/e/non-album-tracks-vol2/">Non-Album Tracks Vol. 2</episode>
+    <comments>Four tracks were reviewed: <a href="http://www.princevault.com/index.php?title=Rich_Friends">"Rich Friends"</a> (a very average song), <a href="http://www.princevault.com/index.php?title=In_A_Large_Room_With_No_Light">"In A Large Room With No Light"</a> (the 2009 remake of the 1986 outtake - not bad, but the 1986 version is legendary), <a href="http://www.princevault.com/index.php?title=Rebirth_Of_The_Flesh">"Rebirth Of The Flesh"</a> (an officially-released, early-1988 rehearsal version, but I <em>love</em> the unreleased studio version), and <a href="http://www.princevault.com/index.php?title=Free_Urself">"Free Urself"</a> (a good song - I was surprised to hear that it was Toejam's favorite Prince's song along with "1999" and "Strange But True"). Another fun episode.</comments>
+  </podcast>
+  <podcast>
+    <date>2018.07.02</date>
     <name url="http://verybadwizards.com/">Very Bad Wizards</name>
     <episode url="https://verybadwizards.fireside.fm/142" number="142">Suicide (with Matthew Nock)</episode>
-    <comments></comments>
+    <comments>The introduction was about the <a href="https://en.wikipedia.org/wiki/Stanford_prison_experiment#Criticism">Stanford prison experiment</a>: a lot of criticisms have appeared recently; in light of those, it sounds like the experiment is finally not that illuminating. The rest of the episode was not about the ethics of suicide, but about suicide prevention. It's difficult to do studies about suicide, for obvious reasons. </comments>
   </podcast>
   <podcast>
     <date>2018.06.26</date>
@@ -299,7 +317,7 @@
     <date>2018.02.18</date>
     <name url="http://peachandblack.podbean.com/">Peach &amp; Black Podcast</name>
     <episode url="http://peachandblack.podbean.com/e/non-album-tracks-vol1/">Non-Album Tracks Vol. 1</episode>
-    <comments>Just three songs were covered: an excellent one, <a href="http://princevault.com/index.php?title=F.U.N.K.">"F.U.N.K."</a>, an average one (in my opinion), <a href="http://princevault.com/index.php?title=Purple_House">"Purple House"</a> (a straight blues, basically), and one of Prince's worst released songs, <a href="http://www.princevault.com/index.php?title=Purple_And_Gold">"Purple And Gold"</a>. An odd selection, but a fun episode, as usual.</comments>
+    <comments>Just three songs were covered: an excellent one, <a href="http://princevault.com/index.php?title=F.U.N.K.">"F.U.N.K."</a> (an average one - in my opinion), <a href="http://princevault.com/index.php?title=Purple_House">"Purple House"</a> (a straight blues, basically), and one of Prince's worst released songs, <a href="http://www.princevault.com/index.php?title=Purple_And_Gold">"Purple And Gold"</a>. An odd selection, but a fun episode, as usual.</comments>
   </podcast>
   <podcast>
     <date>2018.02.16</date>
