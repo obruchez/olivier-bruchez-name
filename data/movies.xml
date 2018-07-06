@@ -3,6 +3,16 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Checklist: add rating to IMDb -->
   <movie>
+    <date>2018.07.06</date>
+    <theater home="true"/>
+    <director>Orson Welless</director>
+    <title>Citizen Kane</title>
+    <url>https://www.imdb.com/title/tt0033467/</url>
+    <rating>5.0</rating>
+    <comments>I had never seen any movie like that before. There's a sophistication and a kind of weirdness to the story, the characters and the way each scene is filmed. This is one of the most well-known movies of all time, so I won't waste my time trying to write something original about it. Let's just say that I would probably enjoy watching it a second time.</comments>
+    <image>Citizen Kane.jpg</image>
+  </movie>
+  <movie>
     <date>2018.06.30</date>
     <theater home="true"/>
     <director>David Fincher</director>
