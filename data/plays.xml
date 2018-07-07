@@ -1879,6 +1879,7 @@ Joël L’Hopitalier
     <person function="costumes">Kornelia Piskorek</person>
     <person function="acteurs"></person> -->
     <rating>4.75</rating>
+    <image>Le Comte De Monte-Cristo.jpg</image>
   </play>
   <play>
     <date>2008.04.29</date>
@@ -1896,7 +1897,7 @@ Joël L’Hopitalier
   <play>
     <date>2008.04.18</date>
     <location>Chapiteau, Théâtre de Vidy, Lausanne, Switzerland</location>
-    <name>Les Caprices De Mariane</name>
+    <name>Les Caprices De Marianne</name>
     <author>Alfred de Musset</author>
     <director>Jean Liermier</director>
     <actor>Anna Pieri</actor>
@@ -1911,6 +1912,7 @@ Joël L’Hopitalier
     <person function="univers sonore">Jean Faravel</person>
     <person function="maquillage">Katrin Zingg</person> -->
     <rating>5.0</rating>
+    <image>Les Caprices De Marianne.jpg</image>
   </play>
   <play>
     <date>2008.04.16</date>
