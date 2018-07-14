@@ -11,6 +11,33 @@
   -->
   <introduction>A list of concerts I went to.</introduction>
   <concert>
+    <date>2018.07.10</date>
+    <location>Auditorium Stravinski, Montreux, Switzerland</location>
+    <event>Montreux Jazz Festival</event>
+    <musician inst="guitar, drums, vocals" main="true">Jack White</musician>
+    <musician inst="drums">Carla Azar</musician>
+    <musician inst="bass">Dominic Davis</musician>
+    <musician inst="keyboards">Quincy McCrary</musician>
+    <musician inst="keyboards">Neal Evans</musician>
+    <rating>4.75</rating>
+    <comments>I'm only familiar with a couple of White Stripes albums, which I like very much. The concert was good, but I'm wondering whether Jack White's sound doesn't work best in studio. Obviously, I don't know what I'm talking about and will listen to the rest of his discography soon...</comments>
+  </concert>
+   <concert>
+    <date>2018.07.10</date>
+    <location>Auditorium Stravinski, Montreux, Switzerland</location>
+    <event>Montreux Jazz Festival</event>
+    <group>Trombone Shorty &amp; Orleans Avenue</group>
+    <musician inst="trombone, trumpet, vocals" main="true">Troy Andrews</musician>
+    <musician inst="guitar">Peter Murano</musician>
+    <musician inst="guitar, vocals">Joshua Connelly</musician>
+    <musician inst="drums">Robert Peebles</musician>
+    <musician inst="bass">Mike Bass-Bailey</musician>
+    <musician inst="saxophone">Bernard Kym Jackson</musician>
+    <musician inst="baritone saxophone">Daniel Oestreicher</musician>
+    <rating>4.0</rating>
+    <comments>A lot of energy, but a little too much "in your face" for my taste.</comments>
+  </concert>
+  <concert>
     <date>2018.07.06</date>
     <location>Montreux Jazz Club, Montreux, Switzerland</location>
     <event>Montreux Jazz Festival</event>
