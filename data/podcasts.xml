@@ -2,6 +2,18 @@
 <podcasts>
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date>2018.07.13</date>
+    <name url="http://verybadwizards.com/">Very Bad Wizards</name>
+    <episode url="https://verybadwizards.fireside.fm/143" number="143">The Psychology of Personality</episode>
+    <comments>I must admit I was not familiar with the <a href="https://en.wikipedia.org/wiki/Big_Five_personality_traits">Big Five personality traits</a>, so this was an instructive episode. The clustering / dimensionality reduction part (i.e. why five traits exactly?) was also interesting, but a bit less clear.</comments>
+  </podcast>
+  <podcast>
+    <date>2018.07.11</date>
+    <name url="https://tim.blog/podcast/">The Tim Ferriss Show</name>
+    <episode url="https://tim.blog/2018/03/25/daniel-pink/" number="305">Daniel Pink — How to Make Better Decisions and Be More Creative</episode>
+    <comments>A few tips about when to plan meetings and how to write books/speeches. Nothing really actionable for me. Disappointing.</comments>
+  </podcast>
+  <podcast>
     <date>2018.07.07</date>
     <name url="https://tim.blog/podcast/">The Tim Ferriss Show</name>
     <episode url="https://tim.blog/2015/09/14/are-psychedelic-drugs-the-next-medical-breakthrough/" number="104">Are Psychedelic Drugs the Next Medical Breakthrough?</episode>
@@ -23,7 +35,7 @@
     <date>2018.07.02</date>
     <name url="http://verybadwizards.com/">Very Bad Wizards</name>
     <episode url="https://verybadwizards.fireside.fm/142" number="142">Suicide (with Matthew Nock)</episode>
-    <comments>The introduction was about the <a href="https://en.wikipedia.org/wiki/Stanford_prison_experiment#Criticism">Stanford prison experiment</a>: a lot of criticisms have appeared recently; in light of those, it sounds like the experiment is finally not that illuminating. The rest of the episode was not about the ethics of suicide, but about suicide prevention. It's difficult to do studies about suicide, for obvious reasons. </comments>
+    <comments>The introduction was about the <a href="https://en.wikipedia.org/wiki/Stanford_prison_experiment#Criticism">Stanford prison experiment</a>: a lot of criticisms have appeared recently; in light of those, it sounds like the experiment is finally not that illuminating. The rest of the episode was not about the ethics of suicide, but about suicide prevention. It's difficult to do studies about suicide, for obvious reasons.</comments>
   </podcast>
   <podcast>
     <date>2018.06.26</date>
