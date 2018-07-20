@@ -26,6 +26,29 @@
         <image>Learn You a Haskell for Great Good!.jpg</image>
     </book>
     <book>
+        <date></date>
+        <title>Risibles Amours</title>
+        <author>Milan Kundera</author>
+        <publishingyear>1986</publishingyear>
+        <rating></rating>
+        <url>https://fr.wikipedia.org/wiki/Risibles_Amours</url>
+        <!-- <notes description="Kindle highlights"></notes> -->
+        <comments>Publié originellement en 1970. Cette traduction a été revue par Kundera.</comments>
+        <image>Risibles Amour.jpg</image>
+    </book>
+    <book>
+        <date>2018.07.17</date>
+        <title>Summary: The 4-Hour Body</title>
+        <subtitle>An Uncommon Guide to Rapid Fat Loss, Incredible Sex and Becoming Superhuman</subtitle>
+        <author>Millionaire Mindset Publishing</author>
+        <publishingyear>2017</publishingyear>
+        <rating>5.0</rating>
+        <url>https://books.google.com?id=C9qctAEACAAJ</url>
+        <!-- <notes description="Kindle highlights"></notes> -->
+        <comments>I'm rating the summary, here, not the original book by Timothy Ferriss. This is the first time I read a non-free summary of a book since my studies. Conclusion: I'm glad I didn't read the way longer book by Timothy Ferriss (<a href="https://en.wikipedia.org/wiki/The_4-Hour_Body"><i>The 4-Hour Body</i></a>). There are a few interesting pieces of information, maybe even some that will lead me to change something in my life, but this summary confirms what I have been thinking for quite some time: Tim and I are not trying to optimize the same things in our life; Tim is interested in maximizing performance and book sales); I'm interested in maximizing health/happiness. Does having more muscle or being able to run a marathon lead to happiness? For some people, certainly. For me? I'm not so sure.</comments>
+        <image>Summary - The 4-Hour Body.jpg</image>
+    </book>
+    <book>
         <date>2018.07.15</date>
         <title>Quiet</title>
         <subtitle>The Power of Introverts in a World That Can't Stop Talking</subtitle>
@@ -1280,6 +1303,18 @@
         <url>https://fr.wikipedia.org/wiki/2001_:_l%27Odyss%C3%A9e_de_l%27espace_(roman)</url>
         <image>2001 - L'Odyssée de l'espace.jpg</image>
     </book>
+    <!-- <book>
+        <date></date>
+        <title></title>
+        <subtitle></subtitle>
+        <author></author>
+        <publishingyear></publishingyear>
+        <rating></rating>
+        <url></url>
+        <notes description="Kindle highlights"></notes>
+        <comments></comments>
+        <image></image>
+    </book> -->
 	<!--
 	Kundera, Kafka, Sartre, etc. + livre lu dans les années '90 parlant de l'ABS, etc.
 	-->
