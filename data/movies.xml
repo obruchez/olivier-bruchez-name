@@ -3,6 +3,16 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Checklist: add rating to IMDb -->
   <movie>
+    <date>2018.07.19</date>
+    <theater home="true"/>
+    <director>Giuseppe Tornatore</director>
+    <title>Nuovo Cinema Paradiso</title>
+    <url>https://www.imdb.com/title/tt0095765/</url>
+    <rating>4.5</rating>
+    <comments>Not a bad movie, but a bit too syrupy. The child playing Totò was cute, but he was not flawless as an actor -  I know it's hard for young children, but it bothered me, as he was central to the movie.</comments>
+    <image>Nuovo Cinema Paradiso.jpg</image>
+  </movie>
+  <movie>
     <date>2018.07.06</date>
     <theater home="true"/>
     <director>Orson Welles</director>
