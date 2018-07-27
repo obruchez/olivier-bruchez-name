@@ -3,6 +3,16 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Checklist: add rating to IMDb -->
   <movie>
+    <date>2018.07.26</date>
+    <theater home="true"/>
+    <director>Stanley Kubrick</director>
+    <title>Paths of Glory</title>
+    <url>https://www.imdb.com/title/tt0050825/</url>
+    <rating>5.25</rating>
+    <comments>I didn't expect to like this movie so much, as I'm not into war movies (usually). I'm not against all armies and all wars, but I'm somewhat of an anti-militarist. This movie denounces the absurdity and futility of war, as well as the power hunger and arrogance of some military officers. It's short and to the point. I wouldn't have guessed that Kubrick directed this movie, but, as it is brilliant, I'm not surprised.</comments>
+    <image>Paths of Glory.jpg</image>
+  </movie>
+  <movie>
     <date>2018.07.19</date>
     <theater home="true"/>
     <director>Giuseppe Tornatore</director>
