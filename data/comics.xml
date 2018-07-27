@@ -2,6 +2,16 @@
 <comics>
   <introduction>A list of comics I read.</introduction>
   <comic>
+    <date>2018.07.27</date>
+    <writer>F'murr</writer>
+    <artist>F'murr</artist>
+    <colorist>F'murr</colorist>
+    <series url="https://fr.wikipedia.org/wiki/Le_G%C3%A9nie_des_alpages">Le Génie des alpages</series>
+    <volume url="https://fr.wikipedia.org/wiki/Barre-toi_de_mon_herbe" number="3">Barre-toi de mon herbe</volume>
+    <comments>Le grand concours de "scépulture" est pour moi mémorable. Un troisième tome plus "mature" que les deux premiers.</comments>
+    <image>Le Génie des alpages - Barre-toi de mon herbe.jpg</image>
+  </comic>
+  <comic>
     <date>2018.06.21</date>
     <writer>F'murr</writer>
     <artist>F'murr</artist>
