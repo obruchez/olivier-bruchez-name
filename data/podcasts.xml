@@ -2,6 +2,12 @@
 <podcasts>
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date></date>
+    <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
+    <episode>Ask Me Anything #13</episode>
+    <comments></comments>
+  </podcast>
+  <podcast>
     <date>2018.07.25</date>
     <name url="http://robesse.libsyn.com/">Obsessed by Music</name>
     <episode url="http://robesse.libsyn.com/loving-the-montreux-jazz-festival">Loving The Montreux Jazz Festival</episode>
