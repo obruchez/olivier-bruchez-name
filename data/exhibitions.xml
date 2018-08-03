@@ -3,6 +3,15 @@
 <exhibitions>
     <introduction>A list of exhibitions I visited.</introduction>
     <exhibition>
+        <date>2018.07.20</date>
+        <name>Soulages</name>
+        <museum>Fondation Pierre Gianadda, Martigny, Switzerland</museum>
+        <rating>4.0</rating>
+        <comments>Mainly black paintings. I understand the concept and why it's an interesting one, but it fails to trigger any discernible emotion in me, one way or the other.</comments>
+        <image>Soulages.jpg</image>
+        <pictures url="https://www.flickr.com/photos/bruchez/albums/72157696468961462"/>
+    </exhibition>
+    <exhibition>
         <date>2018.04.28</date>
         <name>Toulouse-Lautrec - A la Belle Epoque - French Cancans</name>
         <museum>Fondation Pierre Gianadda, Martigny, Switzerland</museum>
