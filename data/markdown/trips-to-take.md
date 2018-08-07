@@ -90,7 +90,10 @@ See also [1000 places to see before you die](http://1000places.com/).
 ## Switzerland
 
 * [Bern](https://en.wikipedia.org/wiki/Bern) (already visited, to visit again)
+* [Creux du Van](https://en.wikipedia.org/wiki/Creux_du_Van)
 * [Ebenalp](https://en.wikipedia.org/wiki/Ebenalp) (hiking, cable car, etc.)
+* [Glacier Express](https://en.wikipedia.org/wiki/Glacier_Express) (about 8 hours from Zermatt to St. Moritz)
+* [GoldenPass Line](https://en.wikipedia.org/wiki/GoldenPass_Line) (Montreux-Zweisimmen-Lenk and Montreux-Les Rochers-de-Naye)
 * [Grand Tour of Switzerland](http://www.myswitzerland.com/en-ch/grand-tour-of-switzerland.html)
 * [Grisons](https://en.wikipedia.org/wiki/Grisons) ([Caumasee](https://en.wikipedia.org/wiki/Caumasee), etc.)
 * [Jungfraujoch](https://en.wikipedia.org/wiki/Jungfraujoch)
