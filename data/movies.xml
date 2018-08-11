@@ -3,6 +3,16 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Checklist: add rating to IMDb -->
   <movie>
+    <date>2018.08.08</date>
+    <theater home="true"/>
+    <director>Alfred Hitchcock</director>
+    <title>North by Northwest</title>
+    <url>https://www.imdb.com/title/tt0053125/</url>
+    <rating>5.0</rating>
+    <comments>Cary Grant is absolutely brilliant in this movie. Funny and charming. The whole movie is entertaining. Everything is not believable, but it's a thriller and a comedy at the same time, so it didn't bother me too much. One of the scenes is filmed at the Ambassador Chicago Hotel, where we stayed in October 2017. The inside of the hotel is now very different, but I think I recognized the entrance (the doors, the stairs and the welcome desk).</comments>
+    <image>North by Northwest.jpg</image>
+  </movie>
+  <movie>
     <date>2018.07.26</date>
     <theater home="true"/>
     <director>Stanley Kubrick</director>
@@ -193,7 +203,7 @@
     <title>Toy Story 2</title>
     <url>https://www.imdb.com/title/tt0120363/</url>
     <rating>4.5</rating>
-    <comments>According to IMDb and Metacritic, <i>Toy Story 2</i> is supposed to be good, but not as good as <i>Toy Story</i>. I actually found that <i>Toy Story 2</i> is just as good, if not better than <i>Toy Story</i>. Yes, at this point, the Toy Story universe is not new anymore, but the themes (the toy collector, Buzz Lightyear actually meeting other "copies" of himself, Woody discovering his backstory, the moral dilemma,  etc.) were quite original and interesting.</comments>
+    <comments>According to IMDb and Metacritic, <i>Toy Story 2</i> is supposed to be good, but not as good as <i>Toy Story</i>. I actually found that <i>Toy Story 2</i> is just as good, if not better than <i>Toy Story</i>. At this point, the Toy Story universe is not new anymore, but the themes (the toy collector, Buzz Lightyear actually meeting other "copies" of himself, Woody discovering his backstory, the moral dilemma,  etc.) were quite original and interesting.</comments>
     <image>Toy Story 2.jpg</image>
   </movie>
   <movie>
@@ -203,7 +213,7 @@
     <title>Three Billboards Outside Ebbing, Missouri</title>
     <url>https://www.imdb.com/title/tt5027774/</url>
     <rating>5.25</rating>
-    <comments>One of the best movies I've seen recently! It's sad, funny, revolting, and somewhat disturbing. I can totally relate to Mildred, her fight against injustice/status quo, and her desire for revenge. I would classify this movie in the "manipulative movie" category, like <a href="http://www.imdb.com/title/tt0168629/"><i>Dancer in the Dark</i></a> or <a href="https://www.imdb.com/title/tt0095327/"><i>Grave of the Fireflies</i></a>. Yes, it's designed to make you cry and to make you angry, but it was done in a clever way (i.e. I don't feel cheated).</comments>
+    <comments>One of the best movies I've seen recently! It's sad, funny, revolting, and somewhat disturbing. I can totally relate to Mildred, her fight against injustice/status quo, and her desire for revenge. I would classify this movie in the "manipulative movie" category, like <a href="http://www.imdb.com/title/tt0168629/"><i>Dancer in the Dark</i></a> or <a href="https://www.imdb.com/title/tt0095327/"><i>Grave of the Fireflies</i></a>. It's designed to make you cry and to make you angry, but it was done in a clever way (i.e. I don't feel cheated).</comments>
     <image>Three Billboards Outside Ebbing, Missouri.jpg</image>
   </movie>
   <movie>
@@ -244,7 +254,7 @@
     <title>Before Sunrise</title>
     <url>http://www.imdb.com/title/tt0112471/</url>
     <rating>5.0</rating>
-    <comments>I discovered Richard Linklater a few years ago with <i>Boyhood</i>, which blew my mind. I've always wanted to see more of his movies. Having finally seen <i>Before Sunrise</i>, I definitely want to see <i>Before Sunset</i> and <i>Before Midnight</i> as well. There are several subjective reasons why I enjoyed this movie. I didn't know anything about the plot, the caracters, etc. It's almost a perfect coincidence, but we watched <i>Before Sunrise</i> on February 10, 2018 and the only time I've ever been to Vienna was on February 11-15, 2008. And, yes, the movie takes place in Vienna. Another thing was that the movie, although it was filmed in 1994, was released in 1995 and this was the year I discovered another European capital as a teenager, with my classmates: Paris. The result is that I can relate to several aspects of the movie: the period (mid-90s), the young caracters discovering a European city, wondering about what it means to live, to love, etc. Can things be meaningful if they don't last? Are they meaningful <em>because</em> they don't last? At the end, yes, it's still a romance movie, but it's definitely not overromantic and the form of the movie (two caracters talking for more than 90 minutes, walking in a city) makes it quite original. It's simple. It captures a moment in time in an authentic way. It's captivating.</comments>
+    <comments>I discovered Richard Linklater a few years ago with <i>Boyhood</i>, which blew my mind. I've always wanted to see more of his movies. Having finally seen <i>Before Sunrise</i>, I definitely want to see <i>Before Sunset</i> and <i>Before Midnight</i> as well. There are several subjective reasons why I enjoyed this movie. I didn't know anything about the plot, the caracters, etc. It's almost a perfect coincidence, but we watched <i>Before Sunrise</i> on February 10, 2018 and the only time I've ever been to Vienna was on February 11-15, 2008. And, yes, the movie takes place in Vienna. Another thing was that the movie, although it was filmed in 1994, was released in 1995 and this was the year I discovered another European capital as a teenager, with my classmates: Paris. The result is that I can relate to several aspects of the movie: the period (mid-90s), the young caracters discovering a European city, wondering about what it means to live, to love, etc. Can things be meaningful if they don't last? Are they meaningful <em>because</em> they don't last? At the end, it's still a romance movie, but it's definitely not overromantic and the form of the movie (two caracters talking for more than 90 minutes, walking in a city) makes it quite original. It's simple. It captures a moment in time in an authentic way. It's captivating.</comments>
     <image>Before Sunrise.jpg</image>
   </movie>
   <movie>
@@ -335,7 +345,7 @@
     <title>American History X</title>
     <url>http://www.imdb.com/title/tt0120586/</url>
     <rating>5.0</rating>
-    <comments>A serious topic. Some violence. Some sad scenes. I cried at the end. It sometimes feels like a dissertation, but it has the merit of trying to explain how white supremacists think. Yes, it's probably a bit naive to think that people can change their mind so "easily" (i.e. after a few years of prison and after reading a couple of books). The message might be a bit over-simplistic, but it is still strong.</comments>
+    <comments>A serious topic. Some violence. Some sad scenes. I cried at the end. It sometimes feels like a dissertation, but it has the merit of trying to explain how white supremacists think. It's probably a bit naive to think that people can change their mind so "easily" (i.e. after a few years of prison and after reading a couple of books). The message might be a bit over-simplistic, but it is still strong.</comments>
     <image>American History X.jpg</image>
   </movie>
   <movie>
@@ -569,7 +579,7 @@
     <title>La La Land</title>
     <url>http://www.imdb.com/title/tt3783958/</url>
     <rating>5.0</rating>
-    <comments>"I hate jazz" (Mia). I can imagine many people saying exactly that. Or at least: "I don't understand jazz". Actually, that's what I regularly hear. Like Sebastian, I love jazz, so I could totally understand his reaction to Mia's ignorant comment. But "La La Land" is not only about jazz. It's also about Los Angeles and Hollywood in particular. It's about what we want in our lives, about our dreams. So, yes, it's a bit cliché and the movie is probably not as good as many people say it is. <a href="http://www.imdb.com/title/tt2582802/">"Whiplash"</a> was better. But it's a good movie nevertheless. Very well done. Oh, and any movie that indirectly bashes Kenny G cannot be bad.</comments>
+    <comments>"I hate jazz" (Mia). I can imagine many people saying exactly that. Or at least: "I don't understand jazz". Actually, that's what I regularly hear. Like Sebastian, I love jazz, so I could totally understand his reaction to Mia's ignorant comment. But "La La Land" is not only about jazz. It's also about Los Angeles and Hollywood in particular. It's about what we want in our lives, about our dreams. So it's a bit cliché and the movie is probably not as good as many people say it is. <a href="http://www.imdb.com/title/tt2582802/">"Whiplash"</a> was better. But it's a good movie nevertheless. Very well done. Oh, and any movie that indirectly bashes Kenny G cannot be bad.</comments>
     <image>La La Land.jpg</image>
   </movie>
   <movie>
