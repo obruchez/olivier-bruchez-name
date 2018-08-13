@@ -2,6 +2,12 @@
 <podcasts>
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date>2018.08.12</date>
+    <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
+    <episode url="https://samharris.org/podcasts/134-beyond-politics-race/" number="132">Beyond the Politics of Race - A Conversation with Coleman Hughes</episode>
+    <comments>Hughes is very well spoken. He speaks like he's reading a text, except he's not - like Sam, this is always impressive. Anyway, I can't comment too much on the content of the discussion. Obviously, this (race) is a very sensitive topic. I don't know enough about it. A lot of points sounded good. We need to move beyond identity politics. I'm still not sure what to think about affirmative actions and positive discrimination. In an ideal society, we shouldn't need them, of course, but can they have some (even small) positive effects?</comments>
+  </podcast>
+  <podcast>
     <date>2018.07.31</date>
     <name url="http://verybadwizards.com/">Very Bad Wizards</name>
     <episode url="https://verybadwizards.fireside.fm/144" number="144">Borges' Babylon</episode>
