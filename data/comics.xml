@@ -2,6 +2,16 @@
 <comics>
   <introduction>A list of comics I read.</introduction>
   <comic>
+    <date>2018.08.14</date>
+    <writer>F'murr</writer>
+    <artist>F'murr</artist>
+    <colorist>F'murr</colorist>
+    <series url="https://fr.wikipedia.org/wiki/Le_G%C3%A9nie_des_alpages">Le Génie des alpages</series>
+    <volume url="https://fr.wikipedia.org/wiki/Un_grand_silence_fris%C3%A9" number="4">Un grand silence frisé</volume>
+    <comments>"Intercalaire ne prend qu'un L".</comments>
+    <image>Le Génie des alpages - Un grand silence frisé.jpg</image>
+  </comic>
+  <comic>
     <date>2018.07.27</date>
     <writer>F'murr</writer>
     <artist>F'murr</artist>
