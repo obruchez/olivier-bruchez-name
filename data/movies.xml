@@ -3,6 +3,16 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Checklist: add rating to IMDb -->
   <movie>
+    <date>2018.08.14</date>
+    <theater home="true"/>
+    <director>Ridley Scott</director>
+    <title>Blade Runner</title>
+    <url>https://www.imdb.com/title/tt0083658/</url>
+    <rating>4.0</rating>
+    <comments>I'm underwhelmed. This movie reminded me of <i>The Terminator</i>, with better special effects. There's the really bad guy, who is hard to kill. There's the (incoherent) dystopian future. There's the very dark city/environment. And since this is an old science fiction movie, you have flying cars, that you have to drive <em>yourself</em>. And CRT monitors everywhere.</comments>
+    <image>Blade Runner.jpg</image>
+  </movie>
+  <movie>
     <date>2018.08.08</date>
     <theater home="true"/>
     <director>Alfred Hitchcock</director>
