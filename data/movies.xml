@@ -3,6 +3,16 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Checklist: add rating to IMDb -->
   <movie>
+    <date>2018.08.17</date>
+    <theater home="true"/>
+    <director>Martin Scorsese</director>
+    <title>Taxi Driver</title>
+    <url>https://www.imdb.com/title/tt0075314/</url>
+    <rating>4.75</rating>
+    <comments>I'm usually not a fan of Martin Scorsese, but this movie is pretty good. I guess this would sound like an understatement to many. Anyway, Robert De Niro is brilliant. The movie is dark. It has a kind of weird happy ending. There's some violence, but not too much. And a 12 year-old Jodie Foster plays a prostitute.</comments>
+    <image>Taxi Driver.jpg</image>
+  </movie>
+  <movie>
     <date>2018.08.14</date>
     <theater home="true"/>
     <director>Ridley Scott</director>
