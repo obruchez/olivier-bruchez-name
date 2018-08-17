@@ -2,6 +2,18 @@
 <podcasts>
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date></date>
+    <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
+    <episode>Ask Me Anything #14</episode>
+    <comments>Q&amp;A with Joseph Goldstein on meditation.</comments>
+  </podcast>
+  <podcast>
+    <date>2018.08.16</date>
+    <name url="http://verybadwizards.com/">Very Bad Wizards</name>
+    <episode url="https://verybadwizards.fireside.fm/145" number="145">Lost in Borges' Garden</episode>
+    <comments>Another episode I found more interesting than the work being discussed (<a href="https://en.wikipedia.org/wiki/The_Garden_of_Forking_Paths">"The Garden of Forking Paths"</a>). Tamler compared Borges with David Lynch (and mentioned <a href="https://en.wikipedia.org/wiki/Twin_Peaks_(2017_TV_series)"><i>Twin Peaks: The Return</i></a> in particular), but I still fail to see the genius in Borges' work. I know there must be something I'm missing. This is frustrating.</comments>
+  </podcast>
+  <podcast>
     <date>2018.08.12</date>
     <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
     <episode url="https://samharris.org/podcasts/134-beyond-politics-race/" number="132">Beyond the Politics of Race - A Conversation with Coleman Hughes</episode>
