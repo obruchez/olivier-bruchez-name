@@ -3,9 +3,15 @@
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
     <date></date>
+    <name url="http://peachandblack.podbean.com/">Peach &amp; Black Podcast</name>
+    <episode url="https://peachandblack.podbean.com/e/prince-npg-records-1800-new-funk/">Prince &amp; NPG Records' 1800-New-Funk</episode>
+    <comments></comments>
+  </podcast>
+  <podcast>
+    <date>2018.08.20</date>
     <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
     <episode>Ask Me Anything #14</episode>
-    <comments>Q&amp;A with Joseph Goldstein on meditation.</comments>
+    <comments>Q&amp;A with Joseph Goldstein on meditation. Like all other episodes with Goldstein, this one was pretty esoteric, but at the same time a bit more accessible. This was timely, as I'm leaving for a 10-day Vipassana course in two days!</comments>
   </podcast>
   <podcast>
     <date>2018.08.16</date>
