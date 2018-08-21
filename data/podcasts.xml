@@ -3,9 +3,15 @@
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
     <date></date>
+    <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
+    <episode url="https://samharris.org/podcasts/135-navigating-sex-gender/" episode="135">Navigating Sex and Gender - A Conversation with Martie Haselton</episode>
+    <comments></comments>
+  </podcast>
+  <podcast>
+    <date>2018.08.21</date>
     <name url="http://peachandblack.podbean.com/">Peach &amp; Black Podcast</name>
     <episode url="https://peachandblack.podbean.com/e/prince-npg-records-1800-new-funk/">Prince &amp; NPG Records' 1800-New-Funk</episode>
-    <comments></comments>
+    <comments>Another fun episode. I have very good memories of the time when I bought the <i>1-800 New Funk</i> compilation. I was on vacation in Tuscany. Its release was a complete surprise to me. I agree that "Standing At The Altar" is a fantastic song. Overall, a weird release in Prince's discography. Not bad. Not great. But a couple of the songs on it are classics.</comments>
   </podcast>
   <podcast>
     <date>2018.08.20</date>
