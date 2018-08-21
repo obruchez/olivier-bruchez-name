@@ -4,7 +4,7 @@
   <podcast>
     <date></date>
     <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
-    <episode url="https://samharris.org/podcasts/135-navigating-sex-gender/" episode="135">Navigating Sex and Gender - A Conversation with Martie Haselton</episode>
+    <episode url="https://samharris.org/podcasts/135-navigating-sex-gender/" number="135">Navigating Sex and Gender - A Conversation with Martie Haselton</episode>
     <comments></comments>
   </podcast>
   <podcast>
