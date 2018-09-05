@@ -2,6 +2,18 @@
 <podcasts>
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date></date>
+    <name url="https://pages.rts.ch/la-1ere/programmes/on-en-parle/">On en parle</name>
+    <episode url="https://pages.rts.ch/la-1ere/programmes/on-en-parle/16-08-2018">Émission du 16 août 2018</episode>
+    <comments>Je suis content d'apprendre que je ne suis pas le seul à être dérangé par les motards. Il y a peu de solutions, mais il y en a. Prendre en photo un motard bruyant et le dénoncer à la police. Inciter les communes à prendre des mesures douces/préventives. Ça n'est pas grand-chose, donc il faudra un changement de mentalité. Des affichages "smileys" mesurant le niveau sonore plutôt que la vitesse vont bientôt être testés en Suisse alémanique. La séquence concernant le CBD (le "cannabis légal") était intéressante. En gros, il y a du potentiel (anxiété, dépression, etc.), mais il faudra attendre le résultat des centaines d'études en cours pour y voir plus clair.</comments>
+  </podcast>
+  <podcast>
+    <date>2018.09.03</date>
+    <name>Alex &amp; Erik's Podcast</name>
+    <episode number="42">Computer setups</episode>
+    <comments>What's the ideal computer setup? I tend to go the "minimalist" way at home, i.e. just a laptop, no desktop computer, no external monitor, keyboard, mouse, or trackpad. I use a laptop at work as well, with an external monitor, keyboard, and trackpad, this time. Scala compilation is a problem, but I can live with it. I've never been tempted by a tablet / iPad so far. In practice, my personal MacBook Pro is not significantly bulkier than an iPad Pro, as if you want to do anything serious on an iPad, you'll need a physical keyboard anyway. Another thing is that you always get used to more powerful computers, so it's an never-ending game. For vacations/trips, my iPhone (Plus) is usually good enough. I sometimes use a Bluetooth keyboard to type longer texts.</comments>
+  </podcast>
+  <podcast>
     <date>2018.08.22</date>
     <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
     <episode url="https://samharris.org/podcasts/135-navigating-sex-gender/" number="135">Navigating Sex and Gender - A Conversation with Martie Haselton</episode>
