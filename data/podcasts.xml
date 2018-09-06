@@ -2,10 +2,16 @@
 <podcasts>
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
-    <date></date>
+    <date>2018.09.06</date>
+    <name>Alex &amp; Erik's Podcast</name>
+    <episode number="43">Borges’s Library of Babel</episode>
+    <comments>See my previous comments about the Very Bad Wizards episodes. #lazy</comments>
+  </podcast>
+  <podcast>
+    <date>2018.09.06</date>
     <name url="https://pages.rts.ch/la-1ere/programmes/on-en-parle/">On en parle</name>
     <episode url="https://pages.rts.ch/la-1ere/programmes/on-en-parle/16-08-2018">Émission du 16 août 2018</episode>
-    <comments>Je suis content d'apprendre que je ne suis pas le seul à être dérangé par les motards. Il y a peu de solutions, mais il y en a. Prendre en photo un motard bruyant et le dénoncer à la police. Inciter les communes à prendre des mesures douces/préventives. Ça n'est pas grand-chose, donc il faudra un changement de mentalité. Des affichages "smileys" mesurant le niveau sonore plutôt que la vitesse vont bientôt être testés en Suisse alémanique. La séquence concernant le CBD (le "cannabis légal") était intéressante. En gros, il y a du potentiel (anxiété, dépression, etc.), mais il faudra attendre le résultat des centaines d'études en cours pour y voir plus clair.</comments>
+    <comments>Je suis content d'apprendre que je ne suis pas le seul à être dérangé par les motards. Il y a peu de solutions, mais il y en a. Prendre en photo un motard bruyant et le dénoncer à la police. Inciter les communes à prendre des mesures douces/préventives. Ça n'est pas grand-chose, donc il faudra un changement de mentalité. Des affichages "smileys" mesurant le niveau sonore plutôt que la vitesse vont bientôt être testés en Suisse alémanique. La séquence concernant le CBD (le "cannabis légal") était intéressante. En gros, il y a du potentiel (anxiété, dépression, etc.), mais il faudra attendre le résultat des centaines d'études en cours pour y voir plus clair. L'interview concernant le café m'a aussi appris pas mal de choses (que j'aurais probablement dû déjà savoir).</comments>
   </podcast>
   <podcast>
     <date>2018.09.03</date>
