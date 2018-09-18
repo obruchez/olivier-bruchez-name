@@ -2,6 +2,18 @@
 <podcasts>
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date></date>
+    <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
+    <episode url="https://samharris.org/podcasts/136-digital-humanism/" number="136">Digital Humanism - A Conversation with Jaron Lanier</episode>
+    <comments>15-20 years ago, I was way more into pirating music and consuming "free" stuff than now. I'm now more and more into paying for FLAC files, supporting creators via Patreon, etc.</comments>
+  </podcast>
+  <podcast>
+    <date>2018.09.18</date>
+    <name>Alex &amp; Erik's Podcast</name>
+    <episode number="44">The fun out of life</episode>
+    <comments>Effective altruism (Peter Singer, William MacAskill, etc.) is a very useful tool one can use to look at this kind of problems (e.g. is it worth paying more for a car or not?). Another tool that was not mentioned in the episode is psychology and, in particular, what it has to say about happiness. According to Daniel Gilbert (see <a href="https://en.wikipedia.org/wiki/Stumbling_on_Happiness"><i>Stumbling on Happiness</i></a>), we are very bad at predicting what makes us happy or not. In general, accumulating more stuff (or more expensive stuff) doesn't lead to more happiness. It at least works for me: I know that the more physical stuff I have around me, the more anxious I get. One simple rule I try to apply as much as possible is the 30-day rule: whenever I want something, I wait for 30 days or more; then if I still want that thing, I can seriously consider buying it. A lot of people love buying stuff, though. It can be easily understood from an evolutionary perspective: for a very long time, we evolved in a scarce environment, so it made perfect sense to accumulate as much stuff (and food in particular) as possible. It doesn't really make sense anymore in our modern environment.</comments>
+  </podcast>
+  <podcast>
     <date>2018.09.06</date>
     <name>Alex &amp; Erik's Podcast</name>
     <episode number="43">Borges's Library of Babel</episode>
