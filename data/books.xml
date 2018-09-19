@@ -15,6 +15,30 @@
     </book> -->
     <book>
         <date></date>
+        <title>Ethics in the Real World</title>
+        <subtitle>82 Brief Essays on Things That Matter</subtitle>
+        <author>Peter Singer</author>
+        <publishingyear>2016</publishingyear>
+        <rating></rating>
+        <url>https://books.google.com?id=P4f8CwAAQBAJ</url>
+        <!-- <notes description="Kindle highlights"></notes> -->
+        <comments></comments>
+        <image>Ethics in the Real World.png</image>
+    </book>
+    <book>
+        <date></date>
+        <title>How to Change Your Mind</title>
+        <subtitle>What the New Science of Psychedelics Teaches Us About Consciousness, Dying, Addiction, Depression, and Transcendence</subtitle>
+        <author>Michael Pollan</author>
+        <publishingyear>2018</publishingyear>
+        <rating></rating>
+        <url>https://books.google.com?id=3vk5DwAAQBAJ</url>
+        <!-- <notes description="Kindle highlights"></notes> -->
+        <comments></comments>
+        <image>How to Change Your Mind.jpg</image>
+    </book>
+    <book>
+        <date></date>
         <title>Learn You a Haskell for Great Good!</title>
         <subtitle>A Beginner's Guide</subtitle>
         <author>Miran Lipovača</author>
@@ -26,15 +50,61 @@
         <image>Learn You a Haskell for Great Good!.jpg</image>
     </book>
     <book>
-        <date></date>
+        <date>2018.09.16</date>
+        <title>The Last Lecture</title>
+        <author>Randy Pausch &amp; Jeffrey Zaslow</author>
+        <publishingyear>2008</publishingyear>
+        <rating>4.75</rating>
+        <url>https://en.wikipedia.org/wiki/The_Last_Lecture</url>
+        <!-- <notes description="Kindle highlights"></notes> -->
+        <comments></comments>
+        <image>The Last Lecture.jpg</image>
+    </book>
+    <book>
+        <date>2018.09.13</date>
+        <title>De la brièveté de la vie</title>
+        <author>Sénèque</author>
+        <publishingyear>2013</publishingyear>
+        <rating>5.0</rating>
+        <url>https://fr.wikipedia.org/wiki/De_la_bri%C3%A8vet%C3%A9_de_la_vie</url>
+        <!-- <notes description="Kindle highlights"></notes> -->
+        <comments>Version Presses Électroniques de France. Traducteur inconnu.</comments>
+        <image>De la brièveté de la vie.jpg</image>
+    </book>
+    <book>
+        <date>2018.09.12</date>
         <title>Risibles Amours</title>
         <author>Milan Kundera</author>
         <publishingyear>1986</publishingyear>
-        <rating></rating>
+        <rating>4.5</rating>
         <url>https://fr.wikipedia.org/wiki/Risibles_Amours</url>
         <!-- <notes description="Kindle highlights"></notes> -->
         <comments>Publié originellement en 1970. Cette traduction a été revue par Kundera.</comments>
         <image>Risibles Amour.jpg</image>
+    </book>
+    <book>
+        <date>2018.09.11</date>
+        <title>Lost Connections</title>
+        <subtitle>Uncovering the Real Causes of Depression – and the Unexpected Solutions</subtitle>
+        <author>Johann Hari</author>
+        <publishingyear>2018</publishingyear>
+        <rating>4.75</rating>
+        <url>https://books.google.com?id=WIg2DwAAQBAJ</url>
+        <!-- <notes description="Kindle highlights"></notes> -->
+        <comments></comments>
+        <image>Lost Connections.jpg</image>
+    </book>
+    <book>
+        <date>2018.09.10</date>
+        <title>The Psychedelic Explorer's Guide</title>
+        <subtitle>Safe, Therapeutic, and Sacred Journeys</subtitle>
+        <author>James Fadiman</author>
+        <publishingyear>2011</publishingyear>
+        <rating>4.0</rating>
+        <url>https://books.google.com?id=CftkAwAAQBAJ</url>
+        <!-- <notes description="Kindle highlights"></notes> -->
+        <comments></comments>
+        <image>The Psychedelic Explorer's Guide.jpg</image>
     </book>
     <book>
         <date>2018.08.02</date>
