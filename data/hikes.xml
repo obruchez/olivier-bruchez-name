@@ -3,6 +3,11 @@
   <introduction>A list of hikes I took.</introduction>
   <!-- TODO: add comments for new hikes? -->
   <hike>
+    <date>2018.09.13</date>
+    <place>Talaia de son Jaumell, Capdepera, Balearic Islands, Spain</place>
+    <!-- <pictures url=""/> -->
+  </hike>
+  <hike>
     <date>2017.10.28</date>
     <place>Six Blanc / Col de Mille, Switzerland</place>
     <pictures url="https://www.flickr.com/photos/bruchez/albums/72157687754736371"/>
