@@ -106,6 +106,10 @@
         <item url="https://en.wikipedia.org/wiki/Kenny_Garrett">Kenny Garrett</item>
         <item url="https://en.wikipedia.org/wiki/Herbie_Hancock">Herbie Hancock</item>
         <item url="https://en.wikipedia.org/wiki/Jack_DeJohnette">Jack DeJohnette</item>
+        <item>
+            <subitem url="https://en.wikipedia.org/wiki/Jack_White">Jack White</subitem>
+            <subitem url="https://en.wikipedia.org/wiki/The_White_Stripes">The White Stripes</item>
+        </item>
         <item url="https://en.wikipedia.org/wiki/James_Brown">James Brown</item>
         <item url="https://en.wikipedia.org/wiki/Janelle_Mon%C3%A1e">Janelle Monáe</item>
         <item url="https://en.wikipedia.org/wiki/Jimi_Hendrix">Jimi Hendrix</item>
@@ -122,7 +126,6 @@
             <subitem url="https://en.wikipedia.org/wiki/The_Police">The Police</subitem>
         </item>
         <item url="https://en.wikipedia.org/wiki/Wayne_Shorter">Wayne Shorter</item>
-        <item url="https://en.wikipedia.org/wiki/The_White_Stripes">The White Stripes</item>
         <item url="https://en.wikipedia.org/wiki/Yaron_Herman">Yaron Herman</item>
     </list>
     <list title="Painters">
@@ -147,7 +150,7 @@
         <item url="http://www.danielmiessler.com/">Daniel Miessler</item>
         <item url="https://en.wikipedia.org/wiki/David_Allen_(author)">David Allen</item>
         <item url="https://en.wikipedia.org/wiki/Elon_Musk">Elon Musk</item>
-        <item url="https://en.wikipedia.org/wiki/Jerry_Coyne">Jerry Coyne</item>
+        <!-- <item url="https://en.wikipedia.org/wiki/Jerry_Coyne">Jerry Coyne</item> -->
         <!-- <item url="https://en.wikipedia.org/wiki/Neil_deGrasse_Tyson">Neil deGrasse Tyson</item> -->
         <item url="https://en.wikipedia.org/wiki/Peter_Singer">Peter Singer</item>
         <item url="https://en.wikipedia.org/wiki/Ray_Kurzweil">Ray Kurzweil</item>
