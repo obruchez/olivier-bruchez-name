@@ -2,15 +2,38 @@
 
 My votes (in French). En Suisse, on ne plaisante pas avec la démocratie directe. :) J'essaie ici de documenter et de justifier la façon dont je me positionne par rapport aux votations fédérales, qui ont lieu jusqu'à quatre fois par année.
 
+## [Votation fédérale du 13 septembre 2018](https://www.admin.ch/gov/fr/accueil/documentation/votations/20180923.html)
+
+### Acceptez-vous l’arrêté fédéral du 13 mars 2018 concernant les voies cyclables et les chemins et sentiers pédestres ?
+
+Oui. Résultat : ? (??.?%).
+
+- Je ne vois aucune raison de voter contre ce contre-projet un peu "mou". Il s'agit d'un minimum.
+
+### Acceptez-vous l’initiative populaire «Pour des denrées alimentaires saines et produites dans des conditions équitables et écologiques (initiative pour des aliments équitables)» ?
+
+Oui. Résultat : ? (??.?%).
+
+- L'idée qu'il soit interdit d'importer des denrées qui ne pourraient pas être légalement produites en Suisse est vraiment logique. La situation actuelle me paraît aberrante depuis des années.
+- Mettre l'accent sur l'éthique est indispensable.
+- Le conseil fédéral répond qu'il serait difficile de vérifer la qualité des denrées alimentaires en provenance de l'étranger. Le coût serait impacté. A mon avis, ça ne serait pas un mal. L'alternative, ce sont des produits bon marché en provenance de l'étranger, qui ont une incidence négative sur l'environnement, les travailleurs, les animaux, etc.
+
+### Acceptez-vous l’initiative populaire «Pour la souveraineté alimentaire. L’agriculture nous concerne toutes et tous» ?
+
+Non. Résultat : ? (??.?%).
+
+- Une initiative avec de bons et de mauvais points. Appliquer les lois suisses aux produits importés est, à nouveau, une bonne chose (voir initiative précédente), mais interdire les OGM va trop loin. Les mouvements anti-OGM et anti-vaccins ont des similitudes que je ne développerai pas ici.
+- La baisse du nombre d'emplois dans l'agriculture est un argument étrange. Ce nombre ne cesse de diminuer dans tous les pays, depuis des siècles, grâce à l'automatisation. Ça n'est pas le nombre d'emplois qu'il faut augmenter, mais la qualité des produits (qualité environementale, éthique, gustative, etc.).
+
 ## [Votation fédérale du 10 juin 2018](https://www.admin.ch/gov/fr/accueil/documentation/votations/20180610.html)
 
 ### Acceptez-vous l’initiative populaire « Pour une monnaie à l’abri des crises : émission monétaire uniquement par la Banque nationale ! (Initiative Monnaie pleine) » ? 
 
-Oui. Résultat : ? (??.?%).
+Oui. Résultat : non (75.7%).
 
 ### Acceptez-vous la loi fédérale du 29 septembre 2017 sur les jeux d’argent (LJAr) ?
 
-Non. Résultat : ? (??.?%).
+Non. Résultat : oui (72.9%).
 
 ## [Votation fédérale du 4 mars 2018](https://www.admin.ch/gov/fr/accueil/documentation/votations/20180304.html)
 
