@@ -3,6 +3,16 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Checklist: add rating to IMDb -->
   <movie>
+    <date>2018.09.23</date>
+    <theater home="true"/>
+    <director>Wolfgang Petersen</director>
+    <title>Das Boot</title>
+    <url>https://www.imdb.com/title/tt0082096/</url>
+    <rating>5.0</rating>
+    <comments>I could start my review of this movie like I started my review of <i>Paths of Glory</i>: I didn't expect to like this movie; I'm not into war movies. All wars are absurd, but men fighting those wars can still be brave and humane. This movie is about those men. A very moving and sad film. You really get attached to the characters, which are probably. more developed than in similar movies (?). The fact that most of the movie happens in a submarine makes it emotionally involving and very psychological. I really liked it.</comments>
+    <image>Das Boot.jpg</image>
+  </movie>
+  <movie>
     <date>2018.08.17</date>
     <theater home="true"/>
     <director>Martin Scorsese</director>
