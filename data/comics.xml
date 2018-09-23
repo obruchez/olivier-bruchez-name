@@ -2,6 +2,16 @@
 <comics>
   <introduction>A list of comics I read.</introduction>
   <comic>
+    <date>2018.09.22</date>
+    <writer>F'murr</writer>
+    <artist>F'murr</artist>
+    <colorist>F'murr</colorist>
+    <series url="https://fr.wikipedia.org/wiki/Le_G%C3%A9nie_des_alpages">Le Génie des alpages</series>
+    <volume url="https://fr.wikipedia.org/wiki/Les_Intondables" number="5">Les Intondables</volume>
+    <comments>Toujours beaucoup d'absurde, mais aussi un peu de surnaturel et d'horreur (le chiendent et le Grand Givré, par exemple). Le mélange est intéressant.</comments>
+    <image>Le Génie des alpages - Les Intondables.jpg</image>
+  </comic>
+  <comic>
     <date>2018.08.14</date>
     <writer>F'murr</writer>
     <artist>F'murr</artist>
