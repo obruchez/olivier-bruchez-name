@@ -2,6 +2,12 @@
 <podcasts>
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date>2018.09.24</date>
+    <name>Alex &amp; Erik's Podcast</name>
+    <episode number="45">Fifty percent fun</episode>
+    <comments>I agree that most things you do individually don't have a lot of impact (e.g. not driving a car, not eating meat, etc.), but I can't help but think that counting on technology to really solve the problem globally (e.g. electric cars, artificial meat, etc.) is also quite lazy. I think it was in <a href="https://fr.wikipedia.org/wiki/Plaidoyer_pour_les_animaux"><i>Plaidoyer pour les animaux</i></a> (<i>A Plea for the Animals</i>, in English) that Matthieu Ricard was contemplating what we can do to trigger "ethical revolutions" (I don't remember what wording he was using). What I retain from this is that individual actions count, at least by setting examples, triggering discussions, etc. But looking at the most effective ways to change things is always a good idea. About the fun-vs-hard-work ratio: I like the "loss of cabin pressure" metaphor (I don't remember where I heard it first); attend to your own mask before you try to help anybody else with theirs (including children). So, yes, you have to be as helpful as possible to other persons, but you have to think of yourself first or you won't be very helpful to others (in case of loss of pressure, you could faint or die, obviously).</comments>
+  </podcast>
+  <podcast>
     <date>2018.09.23</date>
     <name url="http://verybadwizards.com/">Very Bad Wizards</name>
     <episode url="https://verybadwizards.fireside.fm/147" number="147">Effective Altruism and Moral Uncertainty (with The One True Scotsman, Will MacAskill)</episode>
