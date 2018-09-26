@@ -2,6 +2,30 @@
 <podcasts>
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date></date>
+    <name url="https://www.danielandjorge.com/podcasts">Daniel and Jorge Explain the Universe</name>
+    <episode url="https://www.danielandjorge.com/podcasts/are-we-living-in-a-simulation.htm" number="">Are we Living in a Simulation?</episode>
+    <comments></comments>
+  </podcast>
+  <podcast>
+    <date>2018.09.26</date>
+    <name url="http://verybadwizards.com/">Very Bad Wizards</name>
+    <episode>Bonus VBW "Hang the DJ" (From Black Mirror S4)</episode>
+    <comments>This was an excellent episode of <i>Black Mirror</i>, from <a href="http://olivier.bruchez.name/shows#2018-01-31">an excellent season</a>. I liked the discussion, even if it was not particularly insightful. For example, Tamler and Dave didn't talk about the actual simulations, whether the persons are actually conscious or not, etc.</comments>
+  </podcast>
+  <podcast>
+    <date>2018.09.26</date>
+    <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
+    <episode url="https://samharris.org/podcasts/introducing-waking-course/">Introducing the Waking Up Course</episode>
+    <comments>I will be probably interested in the lessons (i.e. audio recordings about various topics such as free will, death, etc.), but I don't know if I will use the app for actual meditation. I already use Headspace and haven't used any app for my latest meditation sessions, where I've simply practiced Vipassana meditation without any guidance.</comments>
+  </podcast>
+  <podcast>
+    <date>2018.09.26</date>
+    <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
+    <episode url="https://samharris.org/podcasts/137-safe-space/" number="137">Safe Space - A Conversation with Jonathan Haidt</episode>
+    <comments>The question of how we should raise our children is interesting. We naturally tend to overprotect them, but this leads to some problems, as seen on some American campuses these last few years (oversensitivity, self-victimization, etc.). The idea is, for example, to let them play with other children in a completely unsupervised environment from time to time.</comments>
+  </podcast>
+  <podcast>
     <date>2018.09.24</date>
     <name>Alex &amp; Erik's Podcast</name>
     <episode number="45">Fifty percent fun</episode>
