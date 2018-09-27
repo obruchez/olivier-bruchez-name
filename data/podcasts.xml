@@ -2,10 +2,10 @@
 <podcasts>
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
-    <date></date>
+    <date>2018.09.27</date>
     <name url="https://www.danielandjorge.com/podcasts">Daniel and Jorge Explain the Universe</name>
     <episode url="https://www.danielandjorge.com/podcasts/are-we-living-in-a-simulation.htm" number="">Are we Living in a Simulation?</episode>
-    <comments></comments>
+    <comments>My personal answer is no, but it's a very important question. I don't find it odd or silly. It's generally not a testable question, but if we make the hypothesis that the simulation is imperfect, then it can become testable. Basically, we can use what we know about current physics simulations and/or video games to make some very concrete assumptions about the simulation we're living in (hypothetically). Even if we're not living in a simulation, it's interesting to see our universe as a kind of computer. It computes what we measure in a particle accelerator, for example. And it computes it way faster than our current computers (which would need billions of years or way more to give the same results). This is why we do experiments. Because we can't do effective simulations yet (either because our computers suck, or because our algorithms suck, or because we don't have correct models yet). The problem of philosophical zombies was briefly mentioned as well. Can we simulate consciousness? Does that question make sense? Can we produce artificial consciousness? This is probably a better question. Can we do it with silicon-based computers? If I remember correctly, Giulio Tononi doesn't seem to think so.</comments>
   </podcast>
   <podcast>
     <date>2018.09.26</date>
