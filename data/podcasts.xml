@@ -2,6 +2,16 @@
 <podcasts>
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date></date>
+    <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
+    <episode url="https://samharris.org/podcasts/138-edge-humanity/" number="138">The Edge of Humanity - A Conversation with Yuval Noah Harari</episode>
+    <comments></comments>
+    <!--
+      UBI: Yuval doesn't necessarily like the idea, if "universal" = national and not international and if "basic" = low threshold
+      distance between tribe and nation is large => distance remaining between nation and world = relatively small => encouraging (i.e. we can probably go against our evolutionary instincts all the way)
+    -->
+  </podcast>
+  <podcast>
     <date>2018.09.27</date>
     <name url="https://www.danielandjorge.com/podcasts">Daniel and Jorge Explain the Universe</name>
     <episode url="https://www.danielandjorge.com/podcasts/are-we-living-in-a-simulation.htm" number="">Are we Living in a Simulation?</episode>
