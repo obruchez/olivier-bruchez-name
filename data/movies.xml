@@ -3,6 +3,16 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Checklist: add rating to IMDb -->
   <movie>
+    <date>2018.10.01</date>
+    <theater home="true"/>
+    <director>Billy Wilder</director>
+    <title>Witness for the Prosecution</title>
+    <url>https://www.imdb.com/title/tt0051201/</url>
+    <rating>4.75</rating>
+    <comments>A very entertaining movie, that goes from surprise to surprise (it's based on Agatha Christie's <a href="https://en.wikipedia.org/wiki/The_Witness_for_the_Prosecution">short story</a>, after all). It's an easy-to-spoil movie, so much so that the viewer is explicity asked at the end of the movie not to reveal the ending to other persons. I don't know if it was common at the time. Some comedic aspects of the movie were a bit "cheap" at times, but it was a very good movie overall.</comments>
+    <image>Witness for the Prosecution.jpg</image>
+  </movie>
+  <movie>
     <date>2018.09.23</date>
     <theater home="true"/>
     <director>Wolfgang Petersen</director>
