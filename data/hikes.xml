@@ -3,6 +3,12 @@
   <introduction>A list of hikes I took.</introduction>
   <!-- TODO: add comments for new hikes? -->
   <hike>
+    <date>2018.09.29</date>
+    <place>Tour des Lacs, Bagnes, Switzerland</place>
+    <!-- <pictures url=""/> -->
+    <comments>Incomplete tour. I missed the Lac des Ougets and Lac des Adzerous (among others?).</comments>
+  </hike>
+  <hike>
     <date>2018.09.13</date>
     <place>Talaia de son Jaumell, Capdepera, Balearic Islands, Spain</place>
     <!-- <pictures url=""/> -->
