@@ -2,10 +2,29 @@
 <podcasts>
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date></date>
+    <name url="http://peachandblack.podbean.com/">Peach &amp; Black Podcast</name>
+    <episode url="https://peachandblack.podbean.com/e/prince-piano-a-microphone-1983-album-review/">Prince - Piano &amp; A Microphone 1983 - Album Review</episode>
+    <comments>A review of Prince's latest (posthumous) album, released in September 2018.</comments>
+  </podcast>
+  <podcast>
+    <date>2018.10.02</date>
+    <name>Alex &amp; Erik's Podcast</name>
+    <episode number="46">Makers</episode>
+    <comments>"Make something with my hands" (sculpture? painting? etc.) has been on my "brainstorming list" for a long time. I wouldn't say that making physical things is in the same category as writing or coding. In both cases, it can be an expression of creativity, but I would bet that evolution "wants" us to be creative with our hands, not only with our brains.</comments>
+    <!--
+Grand-père
+Construit une table et un banc en rouge
+Fait une écharpe mon chat
+Problème de l’insignifiance difficile d’avoir vraiment des auditeurs ou quelqu’un qui apprécie ce que tu fais rien sur l’article du mec c’est un jeu vidéo
+Problème du côté physique prend de la place dans la maison on va à l’encontre du minimalisme
+    -->
+  </podcast>
+  <podcast>
     <date>2018.10.01</date>
     <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
     <episode url="https://samharris.org/podcasts/138-edge-humanity/" number="138">The Edge of Humanity - A Conversation with Yuval Noah Harari</episode>
-    <comments>Harari doesn't necessarily like the idea of universal basic income (UBI). It depends on what you mean by "universal" (national is not enough, you have to have an international system) and "basic" (people have to be able to do what they like, not only what's needed to survive). An interesting idea: nationalism is a good sign; we have naturally evolved to live in tribes of about 100 persons which we personally know; if we can go from tribes to whole countries, it's encouraging, because it means that we'll be able to go from countries to the whole humankind (i.e. we can probably go against our evolutionary instincts all the way). I really like Harari.</comments>
+    <comments>Harari doesn't necessarily like the idea of universal basic income (UBI). It depends on what you mean by "universal" (national is not enough, you have to have an international system) and "basic" (people have to be able to do what they like, not only what's needed to survive). An interesting idea: nationalism is a good sign; we have naturally evolved to live in tribes of about 100 persons which we personally know; if we can go from tribes to whole countries, it's encouraging, because it means that we'll be able to go from countries to the whole humankind (i.e. we can probably go against our evolutionary instincts all the way). A piece of advice from Harari: if you want to have an impact, join an organization, don't act alone. This episode confirmed that I really like Harari.</comments>
   </podcast>
   <podcast>
     <date>2018.09.27</date>
