@@ -3,6 +3,16 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Checklist: add rating to IMDb -->
   <movie>
+    <date>2018.10.23</date>
+    <theater home="true"/>
+    <director>Billy Wilder</director>
+    <title>Sunset Boulevard</title>
+    <url>https://www.imdb.com/title/tt0043014/</url>
+    <rating>5.25</rating>
+    <comments>"The stars are ageless, aren't they?" A fantastic movie. Watching it, I really felt what it must be like to be trapped in a gilded cage.</comments>
+    <image>Sunset Boulevard.jpg</image>
+  </movie>
+  <movie>
     <date>2018.10.01</date>
     <theater home="true"/>
     <director>Billy Wilder</director>
