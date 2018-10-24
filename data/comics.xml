@@ -2,6 +2,16 @@
 <comics>
   <introduction>A list of comics I read.</introduction>
   <comic>
+    <date>2018.10.24</date>
+    <writer>F'murr</writer>
+    <artist>F'murr</artist>
+    <colorist>F'murr</colorist>
+    <series url="https://fr.wikipedia.org/wiki/Le_G%C3%A9nie_des_alpages">Le Génie des alpages</series>
+    <volume url="https://fr.wikipedia.org/wiki/Hi-Yo,_c%27est_l%27%C3%A9cho" number="6">Hi-Yo, c'est l'écho</volume>
+    <comments>Avec un simple parapluie, on passe de la politique ("La société est un grand parapluie défectueux. Soudain il se referme.") à la cosmologie daliesque, avec le Grand Parapluie Cosmique et la Grande Baleine Cosmique. Dans ce tome, on philosophe, mais on rêve aussi : "Chien, cette nuit je fis un splendide cauchemar. C'était une rue... Et chacun de ses deux trottoirs avait un potentiel énergétique différent !"</comments>
+    <image>Le Génie des alpages - Hi-Yo, c'est l'écho.jpg</image>
+  </comic>
+  <comic>
     <date>2018.09.22</date>
     <writer>F'murr</writer>
     <artist>F'murr</artist>
