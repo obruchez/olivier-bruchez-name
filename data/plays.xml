@@ -2433,6 +2433,7 @@ Joël L’Hopitalier
     <person function="scénographie">Danièla Villaret</person>
     <person function="lumière">Danielle Milovic</person> -->
     <rating>5.5</rating>
+    <image>Dernière Lettre À Théo.jpg</image>
   </play>
   <play>
     <date>2006.04.04</date>
@@ -2458,8 +2459,8 @@ assistante de prodution : Solange Bonù
 responsable de production : Michel Sauser
     -->
     <rating/>
+    <image>Cinq filles couleur pêche.jpg</image>
   </play>
-  <!-- 2006.04.29 Théâtre Même les Cow-Girls ont le Blues -->
   <play>
     <date>1986.??.??</date>
     <location>Fionnay, Switzerland</location>
@@ -2468,9 +2469,11 @@ responsable de production : Michel Sauser
     <director>Gérard Demière</director>
     <rating/>
     <comments>Possible dates: July 25-26, August 1, 2, 8, 9, or 15, 1986. Music by Anan Diepen.</comments>
+    <image>L'Ortie Sauvage.png</image>
   </play>
 
   <!--
     Add Akua (2005-2006?)
+    Add 2006.04.29 Même les Cow-Girls ont le Blues
   -->
 </plays>
