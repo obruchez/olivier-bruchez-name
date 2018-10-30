@@ -3,6 +3,26 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Checklist: add rating to IMDb -->
   <movie>
+    <date></date>
+    <theater home="true"/>
+    <director>Billy Wilder</director>
+    <title>Double Indemnity</title>
+    <url>https://www.imdb.com/title/tt0036775/</url>
+    <rating></rating>
+    <comments></comments>
+    <image>Double Indemnity.jpg</image>
+  </movie>
+  <movie>
+    <date>2018.10.30</date>
+    <theater home="true"/>
+    <director>Terry Gilliam &amp; Terry Jones</director>
+    <title>Monty Python and the Holy Grail</title>
+    <url>https://www.imdb.com/title/tt0071853/</url>
+    <rating>5.0</rating>
+    <comments>It's almost a compilation of Monty Python sketches, with a common theme. It's absurd. Almost pointless. But it's funny. I love the Monty Python</comments>
+    <image>Monty Python and the Holy Grail.jpg</image>
+  </movie>
+  <movie>
     <date>2018.10.23</date>
     <theater home="true"/>
     <director>Billy Wilder</director>
