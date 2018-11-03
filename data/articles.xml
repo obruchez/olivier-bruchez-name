@@ -3,6 +3,11 @@
   <introduction>A list of articles I read.</introduction>
   <!-- Checklist: post to Twitter and/or Facebook -->
   <article>
+    <date>2018.11.03</date>
+    <title url="https://www.nytimes.com/2018/10/21/business/what-comes-after-the-roomba.html">What Comes After the Roomba?</title>
+    <comments>I would be glad if we could have good autonomous robotic vacuum cleaners. My Neato Botvac is not bad (thanks to its lidar, I guess), but it could still be <em>a lot</em> better. "Many researchers have come to believe that the recent breakthroughs in machine learning will not be enough to build robots adept at moving and performing tasks in a home. That is likely to require several more technological breakthroughs. [...] In addition to Toyota, Alphabet's Google X research laboratory and Amazon have active robotics research efforts that are reportedly aimed at home applications."</comments>
+  </article> 
+  <article>
     <date>2018.10.28</date>
     <title url="https://www.nytimes.com/2018/10/23/science/lavender-scent-anxiety.html">Lavender's Soothing Scent Could Be More Than Just Folk Medicine</title>
     <subtitle>In mice, researchers found that some components of lavender odor had effects on anxiety similar to taking Valium.</subtitle>
