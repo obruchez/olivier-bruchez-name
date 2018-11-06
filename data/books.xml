@@ -27,18 +27,6 @@
     </book>
     <book>
         <date></date>
-        <title>How to Change Your Mind</title>
-        <subtitle>What the New Science of Psychedelics Teaches Us About Consciousness, Dying, Addiction, Depression, and Transcendence</subtitle>
-        <author>Michael Pollan</author>
-        <publishingyear>2018</publishingyear>
-        <rating></rating>
-        <url>https://books.google.com?id=3vk5DwAAQBAJ</url>
-        <!-- <notes description="Kindle highlights"></notes> -->
-        <comments></comments>
-        <image>How to Change Your Mind.jpg</image>
-    </book>
-    <book>
-        <date></date>
         <title>Learn You a Haskell for Great Good!</title>
         <subtitle>A Beginner's Guide</subtitle>
         <author>Miran Lipovača</author>
@@ -48,6 +36,18 @@
         <!-- <notes description="Kindle highlights"></notes> -->
         <comments></comments>
         <image>Learn You a Haskell for Great Good!.jpg</image>
+    </book>
+    <book>
+        <date>2018.11.05</date>
+        <title>How to Change Your Mind</title>
+        <subtitle>What the New Science of Psychedelics Teaches Us About Consciousness, Dying, Addiction, Depression, and Transcendence</subtitle>
+        <author>Michael Pollan</author>
+        <publishingyear>2018</publishingyear>
+        <rating>5.0</rating>
+        <url>https://books.google.com?id=3vk5DwAAQBAJ</url>
+        <!-- <notes description="Kindle highlights"></notes> -->
+        <comments><i>The Psychedelic Explorer's Guide</i> was disappointing. This book is way better. It's good journalism. Apart from a tiny bit of quantum mysticism (?) at the end, I found it very critical, informative, and easy to read. The structure of the book is really clear (probably as much as the structure of <i>The Psychedelic Explorer's Guide</i> was confusing). It mentions recent studies, but always from a critical angle. Psychedelics are probably not a panacea, but there really is something to them. We need more research, as soon as possible. We have lost enough time since the late 60s. I'm personally especially curious about microdosing: does it work or is it just a placebo?</comments>
+        <image>How to Change Your Mind.jpg</image>
     </book>
     <book>
         <date>2018.09.16</date>
