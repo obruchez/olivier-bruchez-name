@@ -15,18 +15,6 @@
     </book> -->
     <book>
         <date></date>
-        <title>Ethics in the Real World</title>
-        <subtitle>82 Brief Essays on Things That Matter</subtitle>
-        <author>Peter Singer</author>
-        <publishingyear>2016</publishingyear>
-        <rating></rating>
-        <url>https://books.google.com?id=P4f8CwAAQBAJ</url>
-        <!-- <notes description="Kindle highlights"></notes> -->
-        <comments></comments>
-        <image>Ethics in the Real World.png</image>
-    </book>
-    <book>
-        <date></date>
         <title>Learn You a Haskell for Great Good!</title>
         <subtitle>A Beginner's Guide</subtitle>
         <author>Miran Lipovača</author>
@@ -36,6 +24,30 @@
         <!-- <notes description="Kindle highlights"></notes> -->
         <comments></comments>
         <image>Learn You a Haskell for Great Good!.jpg</image>
+    </book>
+    <book>
+        <date></date>
+        <title>Sapiens</title>
+        <subtitle>A Brief History of Humankind</subtitle>
+        <author>Yuval Noah Harari</author>
+        <publishingyear>2014</publishingyear>
+        <rating></rating>
+        <url>https://en.wikipedia.org/wiki/Sapiens:_A_Brief_History_of_Humankind</url>
+        <notes description="Kindle highlights"></notes>
+        <comments>I really enjoyed <i>Homo Deus</i> and since it looks like half of the world has already read <i>Sapiens</i>, I <i>had</i> to read it as well!</comments>
+        <image>Sapiens.jpg</image>
+    </book> 
+    <book>
+        <date>2018.11.08</date>
+        <title>Ethics in the Real World</title>
+        <subtitle>82 Brief Essays on Things That Matter</subtitle>
+        <author>Peter Singer</author>
+        <publishingyear>2016</publishingyear>
+        <rating>5.0</rating>
+        <url>https://books.google.com?id=P4f8CwAAQBAJ</url>
+        <!-- <notes description="Kindle highlights"></notes> -->
+        <comments>This is my first Peter Singer book. It's probably not its best or most well-known book, but I wanted something recent, that was not completely about effective altruism or animal rights (I'm already convinced in both cases), and that would show me how Peter Singer thinks. As an introduction to his work, I think it's a great book. It's also very easy to read, as it's composed of 82 independent essays (grouped by theme).</comments>
+        <image>Ethics in the Real World.png</image>
     </book>
     <book>
         <date>2018.11.05</date>
