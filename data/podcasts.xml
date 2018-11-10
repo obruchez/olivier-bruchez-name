@@ -3,9 +3,15 @@
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
     <date></date>
+    <name url="https://www.danielandjorge.com/podcasts">Daniel and Jorge Explain the Universe</name>
+    <episode url="https://www.danielandjorge.com/podcasts/is-the-higgs-boson-useful.htm">Is the Higgs Boson useful?</episode>
+    <comments></comments>
+  </podcast>
+  <podcast>
+    <date>2018.11.09</date>
     <name url="http://peachandblack.podbean.com/">Peach &amp; Black Podcast</name>
     <episode url="https://peachandblack.podbean.com/e/the-time-ice-cream-castle-review/">The Time - Ice Cream Castle Review</episode>
-    <comments></comments>
+    <comments>Most of the Peach &amp; Black panel (with the exception of Captain) thinks that this is the weakest of the first three Time albums. I agree. I wouldn't call <a href="http://princevault.com/index.php?title=If_The_Kid_Can%27t_Make_You_Come">"If The Kid Can't Make You Come"</a> a filler, though. Yes, the lyrics are silly, it's a bit longish (especially the unreleased, unedited version, at 9:12), and wine apparently played a significant part during the studio session, but from a musical point of view, it's an intriguing piece of music.</comments>
   </podcast>
   <podcast>
     <date>2018.11.07</date>
@@ -46,7 +52,7 @@
   <podcast>
     <date>2018.09.27</date>
     <name url="https://www.danielandjorge.com/podcasts">Daniel and Jorge Explain the Universe</name>
-    <episode url="https://www.danielandjorge.com/podcasts/are-we-living-in-a-simulation.htm" number="">Are we Living in a Simulation?</episode>
+    <episode url="https://www.danielandjorge.com/podcasts/are-we-living-in-a-simulation.htm">Are we Living in a Simulation?</episode>
     <comments>My personal answer is no, but it's a very important question. I don't find it odd or silly. It's generally not a testable question, but if we make the hypothesis that the simulation is imperfect, then it can become testable. Basically, we can use what we know about current physics simulations and/or video games to make some very concrete assumptions about the simulation we're living in (hypothetically). Even if we're not living in a simulation, it's interesting to see our universe as a kind of computer. It computes what we measure in a particle accelerator, for example. And it computes it way faster than our current computers (which would need billions of years or way more to give the same results). This is why we do experiments. Because we can't do effective simulations yet (either because our computers suck, or because our algorithms suck, or because we don't have correct models yet). The problem of philosophical zombies was briefly mentioned as well. Can we simulate consciousness? Does that question make sense? Can we produce artificial consciousness? This is probably a better question. Can we do it with silicon-based computers? If I remember correctly, Giulio Tononi doesn't seem to think so.</comments>
   </podcast>
   <podcast>
