@@ -3,6 +3,12 @@
   <introduction>A list of articles I read.</introduction>
   <!-- Checklist: post to Twitter and/or Facebook -->
   <article>
+    <date>2018.11.10</date>
+    <title url="https://blogs.scientificamerican.com/anthropology-in-practice/most-initial-conversations-go-better-than-people-think/">Most Initial Conversations Go Better Than People Think</title>
+    <subtitle>We're largely overestimating how much our feelings are on display to others</subtitle>
+    <comments>"[W]e can miss those social cues when they do happen because we're so focused on planning for what comes next [...] [T]he data revealed that majority of the participants liked their conversation partners, but the majority also felt that their partners did not like them in return. [...] This supports the idea that we are generally focused on ourselves and can miss important behavioral cues. [...] They believed that their partners saw more of the uncertainty and awkwardness that they were feeling than was actually on display. [...] People who are less shy are less inclined to report a liking gap, whereas people who are shy—even moderately so—do tend to assess a liking gap. [...] [S]peakers can take steps to verbally reassure the other participant that they are present, paying attention, and interested. [...] [S]imply ending an initial conversation with "I really enjoyed speaking with you" can help take the ambiguity out of the exchange. [...] Online we have the benefit of typing a response, reading it, retyping it a few times and then sharing it. [...] As we build online and offline networks, we naturally want to populate them with like-minded people. It's helpful to know that our initial anxieties about these forays into relationships are relatively balanced."</comments>
+  </article>
+  <article>
     <date>2018.11.03</date>
     <title url="https://www.nytimes.com/2018/10/21/business/what-comes-after-the-roomba.html">What Comes After the Roomba?</title>
     <comments>I would be glad if we could have good autonomous robotic vacuum cleaners. My Neato Botvac is not bad (thanks to its lidar, I guess), but it could still be <em>a lot</em> better. "Many researchers have come to believe that the recent breakthroughs in machine learning will not be enough to build robots adept at moving and performing tasks in a home. That is likely to require several more technological breakthroughs. [...] In addition to Toyota, Alphabet's Google X research laboratory and Amazon have active robotics research efforts that are reportedly aimed at home applications."</comments>
