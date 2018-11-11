@@ -1206,6 +1206,7 @@ Régie son :
 Olivier Valcarcel
 	-->
     <rating>4.75</rating>
+    <image>La fausse suivante (ou le fourbe puni).jpg</image>
   </play>  
   <play>
     <date>2012.01.11</date>
@@ -1323,6 +1324,7 @@ Maquillage et coiffure :
 Katrin Zingg     
 	-->
     <rating>4.75</rating>
+    <image>Les Juifs.jpg</image>
   </play>
   <play>
     <date>2011.12.10</date>
@@ -1490,6 +1492,7 @@ Chant :
 Anne-Florence Schneider
 -->
     <rating>5.25</rating>
+    <image>Lignes de faille.jpg</image>
   </play>
   <play>
     <date>2011.09.20</date>
@@ -1591,6 +1594,7 @@ Joël L’Hopitalier
     <actor>Stéphanie Bataille</actor>
     <actor>Emmanuelle Boidron</actor>
     <rating>4.25</rating>
+    <image>Les Monologues du Vagin.jpg</image>
   </play>
   <play>
     <date>2010.11.18</date>
@@ -1617,6 +1621,7 @@ Joël L’Hopitalier
     <person function="accessoires">Laurent Boulanger</person>
     <person function="stagiaire à la mise en scène">Pénélope Biessy</person> -->
     <rating>4.75</rating>
+    <image>Les chaises.jpg</image>
   </play>
   <play>
     <date>2010.10.01</date>
@@ -1670,6 +1675,7 @@ Joël L’Hopitalier
     <person function="confection et fabrication">Philippe Welsh</person>
     <person function="administration, production">Emmanuelle Taccard</person> -->
     <rating>4.5</rating>
+    <image>Raoul.jpg</image>
   </play>
   <play>
     <date>2010.03.27</date>
@@ -1706,6 +1712,7 @@ Joël L’Hopitalier
     <actor>Philippe Mentha</actor>
     <!-- <person function="scénographie">Jean-Claude Maret</person> -->
     <rating>4.75</rating>
+    <image>Phèdre.jpg</image>
   </play>    
     <play>
     <date>2009.12.11</date>
@@ -1716,6 +1723,7 @@ Joël L’Hopitalier
     <translation>Laure Bernardi</translation>
     <actor>Anouk Grinberg</actor>
     <rating>4.75</rating>
+    <image>Rosa, la vie.jpg</image>
   </play>
     <play>
     <date>2009.11.20</date>
@@ -1747,6 +1755,7 @@ Joël L’Hopitalier
     <person function="régie lumière">Bruno Goubert</person>
     <person function="administration">Solange Baty</person> -->
     <rating>4.5</rating>
+    <image>Pourquoi la cuisine.jpg</image>
   </play>
     <play>
     <date>2009.11.18</date>
@@ -1760,6 +1769,7 @@ Joël L’Hopitalier
     <person function="décor">Vincent Lemaire</person>
     <person function="décor">Philippe Sireuil</person> -->
     <rating>5.0</rating>
+    <image>La musica deuxième.jpg</image>
   </play>
   <play>
     <date>2009.11.10</date>
@@ -1893,6 +1903,7 @@ Joël L’Hopitalier
     <person function="son">Jean-Guillaume Legrand</person>
     <person function="costumes">Barbara Van Dyck</person> -->
     <rating>5.0</rating>
+    <image>Classe.jpg</image>
   </play>
   <play>
     <date>2008.04.18</date>
@@ -1939,6 +1950,7 @@ Joël L’Hopitalier
     <person function="coordination technique">Eric Proust</person>
     <person function="accessoires">Yann Dury</person> -->
     <rating>5.25</rating>
+    <image>La Seconde Surprise De L'Amour.jpg</image>
   </play>
   <play>
     <date>2008.04.08</date>
@@ -1973,6 +1985,7 @@ Joël L’Hopitalier
     <actor>Robert Bouvier</actor>
     <actor>Yves Jenny</actor>
     <rating>4.75</rating>
+    <image>Éloge De La Faiblesse.jpg</image>
   </play>
   <play>
     <date>2008.03.05</date>
@@ -2143,6 +2156,7 @@ Joël L’Hopitalier
     <actor>Nathalie Laroche</actor>
     <actor>Gérald Wauthia</actor>
     <rating>4.75</rating>
+    <image>Le Visiteur.jpg</image>
   </play>
   <play>
     <date>2007.11.07</date>
@@ -2178,6 +2192,7 @@ Joël L’Hopitalier
     <adaptation>Bernard Levy</adaptation>
     <actor>Serge Merlin</actor>
     <rating>5.25</rating>
+    <image>Le Neveu De Wittgenstein.jpg</image>
   </play>
   <play>
     <date>2007.11.01</date>
@@ -2331,6 +2346,7 @@ Joël L’Hopitalier
     <!-- <person function="collaboration artistique">Simonne Moesen</person>
     <person function="collaboration artistique">Etienne Van der Belen</person> -->
     <rating>4.5</rating>
+    <image>Au Bord De L'Eau.jpg</image>
   </play>
   <play>
     <date>2006.07.19</date>
@@ -2421,6 +2437,7 @@ Joël L’Hopitalier
     <person function="chorégraphie">Frédérique Chauveaux</person>
     <person function="cascades">Karim Hocini</person> -->
     <rating>3.5</rating>
+    <image>Lunes De Miel.jpg</image>
   </play>
   <play>
     <date>2006.05.11</date>
