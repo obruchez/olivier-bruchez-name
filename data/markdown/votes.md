@@ -2,17 +2,42 @@
 
 My votes (in French). En Suisse, on ne plaisante pas avec la démocratie directe. :) J'essaie ici de documenter et de justifier la façon dont je me positionne par rapport aux votations fédérales, qui ont lieu jusqu'à quatre fois par année.
 
+## [Votation fédérale du 25 novembre 2018](https://www.admin.ch/gov/fr/accueil/documentation/votations/20181125.html)
+
+### Acceptez-vous l’initiative populaire « Pour la dignité des animaux de rente agricoles (Initiative pour les vaches à cornes) » ?
+
+Non. Résultat : ? (??.?%).
+
+- Ma première tendance aurait été d'accepter cette initiative.
+- On m'a fait remarquer que celle-ci pourrait avoir des "effets de bord" négatifs pour les animaux.
+- Dans l'idéal, il faudrait purement et simplement arrêter d'exploiter les animaux, mais on en est encore très loin.
+- En attendant, je pars du principe que cette initiative est contre-productive, sans grande conviction.
+
+### Acceptez-vous l’initiative populaire « Le droit suisse au lieu de juges étrangers (initiative pour l’autodétermination) » ? 
+
+Non. Résultat : ? (??.?%).
+
+- Cette initiative semble sortie d'un autre siècle. Je comprends le sentiment, mais il est en décalage complet avec notre époque.
+
+### Acceptez-vous la modification du 16 mars 2018 de la loi fédérale sur la partie générale du droit des assurances sociales (LPGA) (Base légale pour la surveillance des assurés) ?
+
+Oui. Résultat : ? (??.?%).
+
+- Personne n'aime l'idée d'être surveillé.
+- On parle toutefois ici de l'encadrement légal de quelques centaines de cas par année.
+- Les limites prévues par la loi me semble raisonnables.
+
 ## [Votation fédérale du 13 septembre 2018](https://www.admin.ch/gov/fr/accueil/documentation/votations/20180923.html)
 
 ### Acceptez-vous l’arrêté fédéral du 13 mars 2018 concernant les voies cyclables et les chemins et sentiers pédestres ?
 
-Oui. Résultat : ? (??.?%).
+Oui. Résultat : oui (73.6%).
 
 - Je ne vois aucune raison de voter contre ce contre-projet un peu "mou". Il s'agit d'un minimum.
 
 ### Acceptez-vous l’initiative populaire «Pour des denrées alimentaires saines et produites dans des conditions équitables et écologiques (initiative pour des aliments équitables)» ?
 
-Oui. Résultat : ? (??.?%).
+Oui. Résultat : non (61.3%).
 
 - L'idée qu'il soit interdit d'importer des denrées qui ne pourraient pas être légalement produites en Suisse est vraiment logique. La situation actuelle me paraît aberrante depuis des années.
 - Mettre l'accent sur l'éthique est indispensable.
@@ -20,7 +45,7 @@ Oui. Résultat : ? (??.?%).
 
 ### Acceptez-vous l’initiative populaire «Pour la souveraineté alimentaire. L’agriculture nous concerne toutes et tous» ?
 
-Non. Résultat : ? (??.?%).
+Non. Résultat : non (68.4%).
 
 - Une initiative avec de bons et de mauvais points. Appliquer les lois suisses aux produits importés est, à nouveau, une bonne chose (voir initiative précédente), mais interdire les OGM va trop loin. Les mouvements anti-OGM et anti-vaccins ont des similitudes que je ne développerai pas ici.
 - La baisse du nombre d'emplois dans l'agriculture est un argument étrange. Ce nombre ne cesse de diminuer dans tous les pays, depuis des siècles, grâce à l'automatisation. Ça n'est pas le nombre d'emplois qu'il faut augmenter, mais la qualité des produits (qualité environementale, éthique, gustative, etc.).
