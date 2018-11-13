@@ -3,9 +3,15 @@
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
     <date></date>
+    <name url="http://verybadwizards.com/">Very Bad Wizards</name>
+    <episode>Bonus Episode: The Entire History of You</episode>
+    <comments></comments>
+  </podcast>
+  <podcast>
+    <date>2018.11.13</date>
     <name url="https://www.danielandjorge.com/podcasts">Daniel and Jorge Explain the Universe</name>
     <episode url="https://www.danielandjorge.com/podcasts/is-the-higgs-boson-useful.htm">Is the Higgs Boson useful?</episode>
-    <comments></comments>
+    <comments>"The Higgs boson is a thing." This is probably what I'll remember about the Higgs boson in a couple of years. :) Basically, the Higgs boson is the particle which gives other particles their mass. One interesting thing about it was that it was discovered thanks to CERN's Large Hadron Collider, which means that its discovery cost billions of EUR/USD. What does it mean for the future of experimental physics? Will we ever be able to validate string theory, for example?</comments>
   </podcast>
   <podcast>
     <date>2018.11.09</date>
