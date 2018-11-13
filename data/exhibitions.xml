@@ -3,6 +3,15 @@
 <exhibitions>
     <introduction>A list of exhibitions I visited.</introduction>
     <exhibition>
+        <date>2018.11.11</date>
+        <name>David Lynch - Dreams - A Tribute to Fellini</name>
+        <museum>Maison du Diable, Sion, Switzerland</museum>
+        <rating>3.5</rating>
+        <comments>It's hard to rate such a small exhibition. It's basically ten lithographs (edition 12 our of 30), one original lithography stone, a small video by David Lynch about the lithography process in Paris, a couple of pictures of David Lynch working on lithography stones (or metal plates?), and the <i>David Lynch: The Art Life</i> documentary, which I had already seen in 2017. I was probably the only visitor that day.</comments>
+        <image>David Lynch - Dreams - A Tribute to Fellini.jpg</image>
+        <!-- <pictures url=""/> -->
+    </exhibition>
+    <exhibition>
         <date>2018.08.02</date>
         <name>Julian Charrière - An Invitation to Disappear</name>
         <museum>Musée de Bagnes, Le Châble, Switzerland</museum>
