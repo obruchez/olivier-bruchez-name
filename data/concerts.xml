@@ -11,6 +11,31 @@
   -->
   <introduction>A list of concerts I went to.</introduction>
   <concert>
+    <date>2018.11.14</date>
+    <location>Alhambra, Geneva, Switzerland</location>
+    <event>Les Créatives</event>
+    <musician inst="vocals" main="true">Neneh Cherry</musician>
+    <musician inst="laptops">?</musician>
+    <musician inst="laptops">?</musician>
+    <musician inst="harp, keyboards, bass">?</musician>
+    <musician inst="percussions, keyboards">?</musician>
+    <musician inst="drums, percussions">?</musician>
+    <musician inst="bass">?</musician>
+    <rating>4.75</rating>
+    <comments>The last time I saw Neneh Cherry was with The Thing in 2012. Having excellent musicians with you is important. Her 2018 band is average-to-good, I would say. It's not really tight. Their sound worked better with the new songs (from <i>Broken Politics</i>, which is very good). As for older songs, "Manchild" and "Under My Skin" were pretty good; "7 Seconds" didn't work; "Buffalo Stance" (?) was also average. I still had a good time, though (front row, Neneh often standing at less than one meter from me).</comments>
+  </concert>
+  <concert>
+    <date>2018.11.14</date>
+    <location>Alhambra, Geneva, Switzerland</location>
+    <event>Les Créatives</event>
+    <group>The Fault</group>
+    <musician inst="vocals" main="true">Julie Hugo</musician>
+    <musician inst="keyboards">Tania Bochud</musician>
+    <musician inst="drums">Fabien Vodoz</musician>
+    <rating>3.5</rating>
+    <comments>Not bad. It's hard to open for another artist...</comments>
+  </concert>
+  <concert>
     <date>2018.07.10</date>
     <location>Auditorium Stravinski, Montreux, Switzerland</location>
     <event>Montreux Jazz Festival</event>
