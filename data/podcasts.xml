@@ -2,10 +2,22 @@
 <podcasts>
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
-    <date></date>
+    <date>2018.11.16</date>
+    <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
+    <episode url="https://samharris.org/podcasts/142-addiction-depression-meaningful-life/" number="142">Addiction, Depression, and a Meaningful Life - A Conversation with Johann Hari</episode>
+    <comments>I started listening to this episode without realizing that Johann Hari is the author of <i>Lost Connections</i>, which <a href="http://olivier.bruchez.name/books#2018-09-11">I finished reading in September 2018</a>. Sam didn't talk much. A lot of what Hari said is detailed in his book. They also talked a lot about addiction being the symptom of lack of meaning, etc. I liked how Hari is looking for indirect causes. "It's a bit more complicated than that", as Ben Goldacre would say. He also talked a lot about how we should talk with each other when we disagree (about Trump, for example). Again, being pro-Trump is the symptom of real problems, that we should take seriouly and shouldn't ridicule or belittle. Overall, Hari is a really interesting guy. Certainly not a mental health expert, but he has talked to enough of them to know what he's talking about.</comments>
+  </podcast>
+  <podcast>
+    <date>2018.11.14</date>
+    <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
+    <episode url="https://samharris.org/podcasts/139-sacred-profane/" number="139">Sacred &amp; Profane - A Conversation with Bill Maher and Larry Charles</episode>
+    <comments>Apart from the parts about American politics, this was a nice discussion, but, surprisingly, I didn't retain much from it. Sam not having the patience to watch <i>North by Northwest</i> was very surprising/disappointing (he's supposed to be a serious meditator). I loved that movie!</comments>
+  </podcast>
+  <podcast>
+    <date>2018.11.14</date>
     <name url="http://verybadwizards.com/">Very Bad Wizards</name>
     <episode>Bonus Episode: The Entire History of You</episode>
-    <comments></comments>
+    <comments><a href="https://en.wikipedia.org/wiki/The_Entire_History_of_You">"The Entire History of You"</a> is an excellent episode from the also excellent series <a href="https://en.wikipedia.org/wiki/Black_Mirror">Black Mirror</a>. As someone who has been keeping a personal diary for more than twenty years, I like this idea of "recording everything" (i.e. lifelogging). When everybody starts doing it with permanent audio/video recordings, things start to become creepy, of course.</comments>
   </podcast>
   <podcast>
     <date>2018.11.13</date>
