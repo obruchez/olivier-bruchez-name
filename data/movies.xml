@@ -3,6 +3,16 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Checklist: add rating to IMDb -->
   <movie>
+    <date>2018.11.21</date>
+    <theater home="true"/>
+    <director>Robert Mulligan</director>
+    <title>To Kill a Mockingbird</title>
+    <url>https://www.imdb.com/title/tt0056592/</url>
+    <rating>5.0</rating>
+    <comments>I'm usually not a fan of movies with children as the main characters, but the child acting was pretty good. This is a simple, moving, and timeless classic. I really liked Gregory Peck's elegant and restrained acting style.</comments>
+    <image>To Kill a Mockingbird.jpg</image>
+  </movie>
+  <movie>
     <date>2018.11.12</date>
     <theater home="true"/>
     <director>Billy Wilder</director>
