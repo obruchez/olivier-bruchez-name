@@ -3,6 +3,16 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Checklist: add rating to IMDb -->
   <movie>
+    <date></date>
+    <theater home="true"/>
+    <director>Stanley Kubrick</director>
+    <title>A Clockwork Orange</title>
+    <url>https://www.imdb.com/title/tt0066921/</url>
+    <rating></rating>
+    <comments></comments>
+    <image>A Clockwork Orange.jpg</image>
+  </movie>
+  <movie>
     <date>2018.11.21</date>
     <theater home="true"/>
     <director>Robert Mulligan</director>
@@ -4883,6 +4893,16 @@
     <date>2004.06.20</date>
     <title>Le Jour D'Après</title>
     <version>fr</version>
+  </movie>
+  <movie>
+    <date>2004.06.17</date>
+    <theater home="true"/>
+    <director>Stanley Kubrick</director>
+    <title>A Clockwork Orange</title>
+    <url>https://www.imdb.com/title/tt0066921/</url>
+    <rating></rating>
+    <comments></comments>
+    <image>A Clockwork Orange.jpg</image>
   </movie>
   <movie>
     <date>2004.06.09</date>
