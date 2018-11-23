@@ -2,6 +2,16 @@
 <comics>
   <introduction>A list of comics I read.</introduction>
   <comic>
+    <date>2018.11.21</date>
+    <writer>F'murr</writer>
+    <artist>F'murr</artist>
+    <colorist>F'murr</colorist>
+    <series url="https://fr.wikipedia.org/wiki/Le_G%C3%A9nie_des_alpages">Le Génie des alpages</series>
+    <volume url="https://fr.wikipedia.org/wiki/Tonnerre,_et_Mille_sabots_!" number="7">Tonnerre, et Mille sabots !</volume>
+    <comments>Un tome un peu plus faible que les précédents.</comments>
+    <image>Le Génie des alpages - Tonnerre, et Mille sabots !.jpg</image>
+  </comic>
+  <comic>
     <date>2018.10.24</date>
     <writer>F'murr</writer>
     <artist>F'murr</artist>
