@@ -2,7 +2,13 @@
 <podcasts>
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
-    <date></date>
+    <date>2018.11.27</date>
+    <name>Alex &amp; Erik's Podcast</name>
+    <episode number="49">Fear of death</episode>
+    <comments></comments>
+  </podcast>
+  <podcast>
+    <date>2018.11.27</date>
     <name>Alex &amp; Erik's Podcast</name>
     <episode number="48">Getting the most of a social event</episode>
     <comments></comments>
