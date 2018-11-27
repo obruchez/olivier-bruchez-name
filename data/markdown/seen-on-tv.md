@@ -16,6 +16,7 @@
 * [L'Agence Tous Risques](http://www.imdb.com/title/tt0084967/)
 * [L'Autobus Volant du Professeur Poopsnagle](http://www.imdb.com/title/tt0167695/)
 * [La Vallée Secrète](http://www.imdb.com/title/tt0220267/)
+* [Le Coffret Magique](https://www.imdb.com/title/tt0086675/)
 * [Le Petit Vampire](http://www.imdb.com/title/tt0179585/)
 * [Le Prince de Bel-Air](http://www.imdb.com/title/tt0098800/)
 * [Les Années Collège](http://www.imdb.com/title/tt0090417/)
