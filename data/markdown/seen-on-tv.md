@@ -16,7 +16,7 @@
 * [L'Agence Tous Risques](http://www.imdb.com/title/tt0084967/)
 * [L'Autobus Volant du Professeur Poopsnagle](http://www.imdb.com/title/tt0167695/)
 * [La Vallée Secrète](http://www.imdb.com/title/tt0220267/)
-* [Le Coffret Magique](https://www.imdb.com/title/tt0086675/)
+* [Le Coffret Magique](https://www.imdb.com/title/tt0086675/) (The Box of Delights, en anglais)
 * [Le Petit Vampire](http://www.imdb.com/title/tt0179585/)
 * [Le Prince de Bel-Air](http://www.imdb.com/title/tt0098800/)
 * [Les Années Collège](http://www.imdb.com/title/tt0090417/)
@@ -42,13 +42,11 @@
 
 ## Séries inconnues
 
-* billes extra-terrestres (cf  [Google Groups](http://groups.google.ch/group/fr.rec.tv.series.sf/browse_thread/thread/2d316fb939ba12f5/), ainsi qu'un [message de quelqu'un d'autre](http://groups.google.ch/group/fr.rec.cinema.discussion/browse_thread/thread/321f1fe1b249abd5/))
 * fille qui veut un vélo, se fait kidnapper, kidnappeur se casse la ou les jambes, la fille le soigne; à la fin, la fille obtient son vélo
 * jeune cherchant à acheter un piano; reçu chèque (problème ?); finalement réussi à acheter le piano, mais piano tombe par terre; + garagiste ?
 * Maoris, sismologue, Nouvelle-Zélande (mentionnée par Erik ?) ([Children of Fire Mountain](http://www.imdb.com/title/tt1232875/), mais pas vu ?)
 * pape qui se sublime (quatrième dimension ?) (vu chez Bertrand G. ?)
 * potion dans le village africain, puis retour à Paris (vu chez Bertrand G. ?)
-* passée à Noël, boîte pour devenir petit ou voler (ou voyager ?), avec des enfants ("prototype" de la série "magique" de Noël)
 * série avec bande de jeunes en France (club des 5 ???) (5 enfants en vacances qui résolvaient des énigmes)
 * série avec expression "mystère et boule de gomme" et "catastrophe numéro un"
 * série que je confonds avec Tales from the Crypt (contes, qqn près du feu, avec un chien, images en ombres et avec des acteurs humains)
@@ -83,6 +81,7 @@
 * "Saturn 3" (?)
 * "New York 1997" (ou "Escape from New York")
 * [Derborence](http://www.imdb.com/title/tt0089014/)
+* [La balle volante](https://www.imdb.com/title/tt0192075/) (The Glitterball, en anglais) (pensais qu'était une série, mais il s'agit d'un film/téléfilm pour enfants)
 * [L'histoire sans fin](http://www.imdb.com/title/tt0088323/) (pas forcément vu, mais me dit vaguement quelque chose)
 * [Opération Ypsilon](http://www.imdb.com/title/tt1369834/) (avec Bruno Cremer et des armes bio-chimiques diffusées par hélicoptère ? en quatre parties d'une heure chacune)
 * film avec la pièce interdite (chambre ?), la collection sous le lit (coquillages ?), le frère qui se fait enliser (dune ou plage ?), etc.
