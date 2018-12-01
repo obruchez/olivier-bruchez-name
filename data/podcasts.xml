@@ -2,16 +2,22 @@
 <podcasts>
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date>2018.11.29</date>
+    <name url="https://www.danielandjorge.com/podcasts">Daniel and Jorge Explain the Universe</name>
+    <episode url="https://www.danielandjorge.com/podcasts/what-came-before-the-big-bang.htm">What came before the Big Bang?</episode>
+    <comments>I had always thought that the consensus was that there was nothing before the Big Bang, because spacetime started with the Big Bang, so the question doesn't really make sense (like "What is north of North Pole?"). Apparently, there is no such consensus. It's one of the possibilities, but we actually don't know. There might have been something before the Big Bang, just like there might be something outside of our universe. There's a strong likelihood what we will be stuck with speculations about those questions forever. The little we know about the Big Bang comes from "hints" that are still observable, such as the cosmic microwave background (CMB).</comments>
+  </podcast>
+  <podcast>
     <date>2018.11.27</date>
     <name>Alex &amp; Erik's Podcast</name>
     <episode number="49">Fear of death</episode>
-    <comments></comments>
+    <comments>Not a happy topic, but an important one. This was a reaction to <a href="http://olivier.bruchez.name/podcasts#2018-04-12">episode 137 of Very Bad Wizards</a>. Let's just say that I don't totally agree with Alex &amp; Erik: the traditional "death is like what is it before you were born" answer is not the whole story. For many people, it won't be enough to make death less frightening (me included).</comments>
   </podcast>
   <podcast>
     <date>2018.11.27</date>
     <name>Alex &amp; Erik's Podcast</name>
     <episode number="48">Getting the most of a social event</episode>
-    <comments></comments>
+    <comments>I share Erik's frustration: sometimes, you have a good time at a social gathering, but you know that the discussions could have been more interesting. I don't have a solution. Sometimes, before meeting someone in a one-to-one context, I make a list of topics to discuss. I used to do this more often in the past. It can be helpful. I've never tried this "trick" at an event with many people. Maybe a list of generic questions could be helpful as well, but the dynamics of such events are often less predictable (will one person monopolize the conversation, for example?).</comments>
   </podcast>
   <podcast>
     <date>2018.11.23</date>
