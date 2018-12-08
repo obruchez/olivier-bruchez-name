@@ -2,6 +2,18 @@
 <podcasts>
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date>2018.12.07</date>
+    <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
+    <episode url="https://samharris.org/podcasts/the-ted-interview/">The TED Interview</episode>
+    <comments>One comment on Reddit: "This was like a Sam Harris' greatest hits album." This was an enjoyable discussion nevertheless. There's a good quote at the end: "We can't be radically tolerant of differences."</comments>
+  </podcast>
+  <podcast>
+    <date>2018.12.06</date>
+    <name url="https://www.danielandjorge.com/podcasts">Daniel and Jorge Explain the Universe</name>
+    <episode url="https://www.danielandjorge.com/podcasts/what-is-everything-made-of.htm">What is everything made of?</episode>
+    <comments>According to one definition of matter (i.e. atoms/molecules), everything is made of electrons, down quarks, and up quarks. Three particles. Which is kind of insane, when you think about it. Protons and neutrons are made of up/down quarks.</comments>
+  </podcast>
+  <podcast>
     <date>2018.11.29</date>
     <name url="https://www.danielandjorge.com/podcasts">Daniel and Jorge Explain the Universe</name>
     <episode url="https://www.danielandjorge.com/podcasts/what-came-before-the-big-bang.htm">What came before the Big Bang?</episode>
