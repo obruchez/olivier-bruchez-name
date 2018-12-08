@@ -3,14 +3,24 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Checklist: add rating to IMDb -->
   <movie>
-    <date></date>
+    <date>2018.12.05</date>
     <theater home="true"/>
     <director>Stanley Kubrick</director>
     <title>A Clockwork Orange</title>
     <url>https://www.imdb.com/title/tt0066921/</url>
-    <rating></rating>
-    <comments></comments>
+    <rating>5.5</rating>
+    <comments>I last saw this movie 14 years ago. It's a masterpiece. The choreographed violence is beautiful and disturbing at the same time. I tend to agree with Dave or Tamler from the <a href="http://olivier.bruchez.name/podcasts#2018-11-23">Very Bad Wizards podcast</a>: this movie is actually a comedy. A black, violent, and weird comedy, but a comedy nevertheless.</comments>
     <image>A Clockwork Orange.jpg</image>
+  </movie>
+  <movie>
+    <date>2018.12.02</date>
+    <theater home="true"/>
+    <director>Harley Cokeliss</director>
+    <title>The Glitterball</title>
+    <url>https://www.imdb.com/title/tt0192075/</url>
+    <rating>3.0</rating>
+    <comments>I originally saw this in French (<i>La balle volante</i>) on <a href="https://en.wikipedia.org/wiki/France_3">FR3</a>, in 1984, 1986, or 1987 (it was broadcast at least three times). I don't know why, but I remembered it as a TV show and not a short movie (the version on YouTube is 46-minute long and IMDb lists it as a 56-minute movie). I remembered two things from the movie: the scene with the ball rolling in paint and writing "help" on the floor (although I would have sworn it was "HELP" and not "help"...) and the final scene (the spaceship leaving before the adults could see it). Not bad, for something obscure I saw at least 31 years ago! Of course, it's not as good as I remembered, but it's not completely bad either.</comments>
+    <image>The Glitterball.jpg</image>
   </movie>
   <movie>
     <date>2018.11.21</date>
