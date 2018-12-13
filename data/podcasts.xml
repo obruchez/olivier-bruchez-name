@@ -4,13 +4,13 @@
   <podcast>
     <date></date>
     <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
-    <episode url="https://samharris.org/podcasts/143-keys-mind/">The Keys to the Mind - A Conversation with Derren Brown</episode>
+    <episode url="https://samharris.org/podcasts/143-keys-mind/" number="143">The Keys to the Mind - A Conversation with Derren Brown</episode>
     <comments>I didn't know Derren Brown. It's still not clear to me whether television specials such as <i>Pushed to the Edge</i> are somewhat serious pyschological experiments or just pure entertainment. The discussion went to interesting places (skepticism, stoicism, etc.).</comments>
   </podcast>
   <podcast>
     <date>2018.12.13</date>
     <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
-    <episode url="https://samharris.org/podcasts/141-metoo-going-far/">Is #MeToo Going Too Far? - A Conversation with Rebecca Traister</episode>
+    <episode url="https://samharris.org/podcasts/141-metoo-going-far/" number="141">Is #MeToo Going Too Far? - A Conversation with Rebecca Traister</episode>
     <comments>I'm not sure I understood on what points exactly Sam and Traister disagreed (especially near the end of the episode). Is Traister saying that we shouldn't worry too much about "collateral damage" (i.e. the "people get fired from jobs every day" argument)? If so, I think I disagree. Anyway, the structure of the discussion was a bit hard to follow.</comments>
   </podcast>
   <podcast>
