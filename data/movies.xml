@@ -3,6 +3,16 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Checklist: add rating to IMDb -->
   <movie>
+    <date>2018.12.14</date>
+    <theater home="true"/>
+    <director>David Lynch</director>
+    <title>Blue Velvet</title>
+    <url>https://www.imdb.com/title/tt0090756/</url>
+    <rating>5.0</rating>
+    <comments>When evil meets innocence (Heineken!). I first saw this movie more than 14 years ago. This is actually a strange experience to watch a David Lynch movie that's not completely weird and incomprehensible. I don't know if I'm a fan of the story itself (it's quite simple), but I like the way the movie is structured and filmed.</comments>
+    <image>Blue Velvet.jpg</image>
+  </movie>
+  <movie>
     <date>2018.12.05</date>
     <theater home="true"/>
     <director>Stanley Kubrick</director>
@@ -4957,7 +4967,8 @@
     <theater home="true"/>
     <director>David Lynch</director>
     <title>Blue Velvet</title>
-    <url>http://www.imdb.com/title/tt0090756/</url>
+    <url>https://www.imdb.com/title/tt0090756/</url>
+    <image>Blue Velvet.jpg</image>
   </movie>
   <movie>
     <date>2004.04.24</date>
