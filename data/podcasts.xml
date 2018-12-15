@@ -4,8 +4,20 @@
   <podcast>
     <date></date>
     <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
+    <episode>Ask Me Anything #15</episode>
+    <comments></comments>
+  </podcast>
+  <podcast>
+    <date>2018.12.14</date>
+    <name>Alex &amp; Erik's Podcast</name>
+    <episode number="50">Journaling</episode>
+    <comments>I don't think I could convince Alex that writing a journal is useful in the same sense that getting a blood test is useful. For me, it's a way to fight against oblivion (do you remember what you did 3 days ago? 2 months ago? 7 years ago?), it's a form of self-psychotherapy, it gives me a different perspective on my life, and it's a way to develop my creativity (I see my journal as a kind of laboratory), among other things.</comments>
+  </podcast>
+  <podcast>
+    <date>2018.12.14</date>
+    <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
     <episode url="https://samharris.org/podcasts/143-keys-mind/" number="143">The Keys to the Mind - A Conversation with Derren Brown</episode>
-    <comments>I didn't know Derren Brown. It's still not clear to me whether television specials such as <i>Pushed to the Edge</i> are somewhat serious pyschological experiments or just pure entertainment. The discussion went to interesting places (skepticism, stoicism, etc.).</comments>
+    <comments>I didn't know Derren Brown. It's still not clear to me whether television specials such as <i>Pushed to the Edge</i> are somewhat serious pyschological experiments or just pure entertainment. The discussion went to interesting places (skepticism, stoicism, etc.). Another thing that's still not clear to me: to what extend hyponosis is a serious thing. Isn't it a bit like placebo, i.e. some people react to it way more than others, and, in all cases, it won't do anything particularly spectacular (like curing cancer)?</comments>
   </podcast>
   <podcast>
     <date>2018.12.13</date>
