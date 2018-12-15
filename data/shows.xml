@@ -10,7 +10,13 @@
   <show>
     <date></date>
     <name url="https://en.wikipedia.org/wiki/Modern_Family">Modern Family</name>
-    <series url="https://en.wikipedia.org/wiki/Modern_Family_(season_8)" type="season">8</series>
+    <series url="https://en.wikipedia.org/wiki/Modern_Family_(season_9)" type="season">9</series>
+    <comments></comments>
+  </show>
+  <show>
+    <date></date>
+    <name url="https://en.wikipedia.org/wiki/The_Big_Bang_Theory">The Big Bang Theory</name>
+    <series url="https://en.wikipedia.org/wiki/The_Big_Bang_Theory_(season_12)" type="season">12</series>
     <comments></comments>
   </show>
   <show>
@@ -25,6 +31,12 @@
     <series url="https://en.wikipedia.org/wiki/Veep_(TV_series)#Season_4" type="season">4</series>
     <comments></comments>
   </show> -->
+  <show>
+    <date>2018.12.14</date>
+    <name url="https://en.wikipedia.org/wiki/Modern_Family">Modern Family</name>
+    <series url="https://en.wikipedia.org/wiki/Modern_Family_(season_8)" type="season">8</series>
+    <comments>See comments for season 7 (i.e. an okay/entertaining season).</comments>
+  </show>
   <show>
     <date>2018.12.05</date>
     <name url="https://en.wikipedia.org/wiki/The_Box_of_Delights_(TV_series)">Le Coffret Magique</name>
