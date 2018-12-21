@@ -4,8 +4,14 @@
   <podcast>
     <date></date>
     <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
+    <episode url="https://samharris.org/podcasts/144-conquering-hate/" number="144">Conquering Hate - A Conversation with Deeyah Khan</episode>
+    <comments>It always impresses me when people find the energy and patience to talk with people with extremely different (and extreme) views. We need more people like Khan.</comments>
+  </podcast>
+  <podcast>
+    <date>2018.12.19</date>
+    <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
     <episode>Ask Me Anything #15</episode>
-    <comments></comments>
+    <comments>This is probably the question that I found the most interesting: "What is your relationship to money? How important is it to your happiness?" I always had that sense that, yes, money is important up to a certain point, and then it doesn't change anything. Apparently, the main study people are citing differentiates between two measures of well-being: moment-to-moment well-being and life satisfaction. According to Sam (I haven't checked), money and life satisfaction are correlated even for larger amounts of money. I don't know what to make of this. Sam's explanation (money buys time) doesn't completely make sense to me.</comments>
   </podcast>
   <podcast>
     <date>2018.12.14</date>
