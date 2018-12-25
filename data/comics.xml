@@ -2,6 +2,16 @@
 <comics>
   <introduction>A list of comics I read.</introduction>
   <comic>
+    <date>2018.12.22</date>
+    <writer>F'murr</writer>
+    <artist>F'murr</artist>
+    <colorist>F'murr</colorist>
+    <series url="https://fr.wikipedia.org/wiki/Le_G%C3%A9nie_des_alpages">Le Génie des alpages</series>
+    <volume url="https://fr.wikipedia.org/wiki/Dans_les_nuages" number="8">Dans les nuages</volume>
+    <comments>Un retour à la forme, je dirais. Le clin d'oeil aux Monty Python vers la fin me semble maintenant évident, mais je n'avais jamais consciemment fait le lien entre ces deux mondes absurdes auparavant.</comments>
+    <image>Le Génie des alpages - Dans les nuages.jpg</image>
+  </comic>
+  <comic>
     <date>2018.11.21</date>
     <writer>F'murr</writer>
     <artist>F'murr</artist>
