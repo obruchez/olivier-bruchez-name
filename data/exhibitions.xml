@@ -3,12 +3,21 @@
 <exhibitions>
     <introduction>A list of exhibitions I visited.</introduction>
     <exhibition>
+        <date>2018.12.22</date>
+        <name>David Lynch - Fire in City</name>
+        <museum>Musée Alexis Forel, Morges, Switzerland</museum>
+        <rating>4.5</rating>
+        <comments>A way better exhibition than the one in Sion. The museum itself is bigger. We're still talking about lithographs, but there were more of them and they were more interesting. One original lithography stone was also exposed and the same video about the Idem presses in Paris was shown.</comments>
+        <image>David Lynch - Fire in City - Dreams - A Tribute to Fellini.jpg</image>
+        <!-- <pictures url=""/> -->
+    </exhibition>
+    <exhibition>
         <date>2018.11.11</date>
         <name>David Lynch - Dreams - A Tribute to Fellini</name>
         <museum>Maison du Diable, Sion, Switzerland</museum>
         <rating>3.5</rating>
         <comments>It's hard to rate such a small exhibition. It's basically ten lithographs (edition 12 our of 30), one original lithography stone, a small video by David Lynch about the lithography process in Paris, a couple of pictures of David Lynch working on lithography stones (or metal plates?), and the <i>David Lynch: The Art Life</i> documentary, which I had already seen in 2017. I was probably the only visitor that day.</comments>
-        <image>David Lynch - Dreams - A Tribute to Fellini.jpg</image>
+        <image>David Lynch - Fire in City - Dreams - A Tribute to Fellini.jpg</image>
         <pictures url="https://www.flickr.com/photos/bruchez/sets/72157704153729894"/>
     </exhibition>
     <exhibition>
