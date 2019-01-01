@@ -26,17 +26,17 @@
         <image>Learn You a Haskell for Great Good!.jpg</image>
     </book>
     <book>
-        <date></date>
+        <date>2018.12.31</date>
         <title>Sapiens</title>
         <subtitle>A Brief History of Humankind</subtitle>
         <author>Yuval Noah Harari</author>
         <publishingyear>2014</publishingyear>
-        <rating></rating>
+        <rating>5.0</rating>
         <url>https://en.wikipedia.org/wiki/Sapiens:_A_Brief_History_of_Humankind</url>
         <notes description="Kindle highlights"></notes>
-        <comments>I really enjoyed <i>Homo Deus</i> and since it looks like half of the world has already read <i>Sapiens</i>, I <i>had</i> to read it as well!</comments>
+        <comments>I really enjoyed <i>Homo Deus</i> and since it looks like half of the world has already read <i>Sapiens</i>, I had to read it as well! This is not your usual history book. Harari is strongly opinionated. I'm still bothered by his use of some words (e.g. "religion" for "ideology"), but liked the book nevertheless. It's a bit oversimplistic at times (it especially struck me at the end of the book, where Harari is talking about genetic algorithms and computer viruses), but overall I liked Harari's high-level approach to the subject. For reference: <a href="https://danielmiessler.com/projects/reading/summary-sapiens/">Daniel Miessler's summary of the book</a>.</comments>
         <image>Sapiens.jpg</image>
-    </book> 
+    </book>
     <book>
         <date>2018.11.08</date>
         <title>Ethics in the Real World</title>
