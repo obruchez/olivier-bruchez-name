@@ -3,6 +3,26 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Checklist: add rating to IMDb -->
   <movie>
+    <date>2019.01.03</date>
+    <theater home="true"/>
+    <director>David Lynch</director>
+    <title>The Cowboy and the Frenchman</title>
+    <url>https://www.imdb.com/title/tt0190327/</url>
+    <rating>3.5</rating>
+    <comments>A short film by David Lynch. I guess I'm not a fan of cliché-based humor, even when it comes with a Lynchian touch.</comments>
+    <image>The Cowboy and the Frenchman.jpg</image>
+  </movie>
+  <movie>
+    <date>2019.01.03</date>
+    <theater home="true"/>
+    <director>David Lynch</director>
+    <title>The Straight Story</title>
+    <url>https://www.imdb.com/title/tt0166896/</url>
+    <rating>5.0</rating>
+    <comments>This is David Lynch's least Lynchian movie, along with <i>Dune</i> and <i>The Elephant Man</i>. But it's an excellent movie nevertheless. Very moving. I haven't been able to hold back my tears.</comments>
+    <image>The Straight Story.jpg</image>
+  </movie>
+  <movie>
     <date>2018.12.21</date>
     <theater home="true"/>
     <director>David Lynch</director>
@@ -4989,6 +5009,7 @@
     <director>David Lynch</director>
     <title>The Straight Story</title>
     <url>http://www.imdb.com/title/tt0166896/</url>
+    <image>The Straight Story.jpg</image>
   </movie>
   <movie>
     <date>2004.04.22</date>
