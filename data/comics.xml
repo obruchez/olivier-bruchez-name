@@ -2,6 +2,16 @@
 <comics>
   <introduction>A list of comics I read.</introduction>
   <comic>
+    <date>2019.01.06</date>
+    <writer>F'murr</writer>
+    <artist>F'murr</artist>
+    <colorist>F'murr</colorist>
+    <series url="https://fr.wikipedia.org/wiki/Le_G%C3%A9nie_des_alpages">Le Génie des alpages</series>
+    <volume url="https://fr.wikipedia.org/wiki/Apr%C3%A8s_nous..._le_d%C3%A9luge_%3F" number="9">Après nous... le déluge ?</volume>
+    <comments>Le retour à la forme se confirme. Je retiens surtout le match de tennis avec la vache, suivi d'une partie de rugby cosmiquement absurde.</comments>
+    <image>Le Génie des alpages - Après nous... le déluge.jpg</image>
+  </comic>
+  <comic>
     <date>2018.12.22</date>
     <writer>F'murr</writer>
     <artist>F'murr</artist>
