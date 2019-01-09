@@ -2,10 +2,16 @@
 <podcasts>
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
-    <date></date>
+    <date>2019.01.09</date>
+    <name url="https://www.danielandjorge.com/podcasts">Daniel and Jorge Explain the Universe</name>
+    <episode url="https://www.danielandjorge.com/podcasts/what-is-everything-made-of.htm">What is everything made of?</episode>
+    <comments>Dark (= doesn't interact with electromagnetic force) matter (= interacts with visible matter through gravity) is everywhere. It's 5-6 times more abundant than regular matter. It's a crazy hypothesis, but we've discarded all other hypotheses. We need dark matter to explain how galaxies move/rotate. Gravitational lensing also proves dark matter exists and we've observed two galaxies colliding which each other as a more direct proof of its existence.</comments>
+  </podcast>
+  <podcast>
+    <date>2019.01.09</date>
     <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
     <episode url="https://samharris.org/podcasts/drive-interview-peter-attia/">The Drive Interview with Peter Attia</episode>
-    <comments></comments>
+    <comments>A clear and very enjoyable discussion. A lot of it was about meditation, but it was way more accessible (i.e. less esoteric) than the discussions with Joseph Goldstein. It's good to remember that anger doesn't last unless we "feed" it and that it's always a good idea to try and see the world from other people's perspectives. We also learn that Sam is currently writing two books. I was under the impression that he was writing a book about artificial intelligence, but it's apparently not the case. <a href="https://podcastnotes.org/2018/12/20/harris/">A summary is available on Podcast Notes</a>.</comments>
   </podcast>
   <podcast>
     <date>2018.12.23</date>
