@@ -2,6 +2,18 @@
 <podcasts>
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date>2019.01.11</date>
+    <name url="https://www.danielandjorge.com/podcasts">Daniel and Jorge Explain the Universe</name>
+    <episode url="https://www.danielandjorge.com/podcasts/whats-inside-a-black-hole.htm">What's Inside a Black Hole?</episode>
+    <comments>Again, we don't know exactly. Einstein's theory predicts a singularity, but quantum physics doesn't allow one (mass can't occupy an infinity small space, i.e. infinite density is not possible). Black holes can be very small (e.g. the size of a proton) or very large (like the supermassive black holes at the centers of galaxies).</comments>
+  </podcast>
+  <podcast>
+    <date>2019.01.10</date>
+    <name url="https://www.danielandjorge.com/podcasts">Daniel and Jorge Explain the Universe</name>
+    <episode url="https://www.danielandjorge.com/podcasts/how-big-is-the-universe.htm">How Big is the Universe?</episode>
+    <comments>Two possible answers: 1) pretty big 2) we don't know exactly. We're not sure if the universe is larger than the observable universe (pretty likely). We don't even know what space is and if space goes on forever or not. More specifically, we don't know for sure if the universe is flat or has an intrinsic curvature. It's pretty likely it's flat, though (based on measurements of the cosmic background radiation).</comments>
+  </podcast>
+  <podcast>
     <date>2019.01.09</date>
     <name url="https://www.danielandjorge.com/podcasts">Daniel and Jorge Explain the Universe</name>
     <episode url="https://www.danielandjorge.com/podcasts/what-is-everything-made-of.htm">What is everything made of?</episode>
