@@ -3,6 +3,16 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Checklist: add rating to IMDb -->
   <movie>
+    <date>2019.01.12</date>
+    <theater home="true"/>
+    <director>David Lynch</director>
+    <title>Eraserhead</title>
+    <url>https://www.imdb.com/title/tt0074486/</url>
+    <rating>5.0</rating>
+    <comments>This is the archetypal David Lynch movie. I first saw it almost 15 years ago at the Cinémathèque suisse. As the father of an 8-month-old baby, this might not be the perfect timing to watch it (especially the final scene), but the movie is so surreal, it doesn't really matter.</comments>
+    <image>Eraserhead.jpg</image>
+  </movie>
+  <movie>
     <date>2019.01.03</date>
     <theater home="true"/>
     <director>David Lynch</director>
@@ -5057,6 +5067,7 @@
     <director>David Lynch</director>
     <title>Eraserhead</title>
     <url>http://www.imdb.com/title/tt0074486/</url>
+    <image>Eraserhead.jpg</image>
   </movie>
   <movie>
     <date>2004.03.31</date>
