@@ -2,6 +2,16 @@
 <comics>
   <introduction>A list of comics I read.</introduction>
   <comic>
+    <date>2019.01.13</date>
+    <writer>F'murr</writer>
+    <artist>F'murr</artist>
+    <colorist>F'murr</colorist>
+    <series url="https://fr.wikipedia.org/wiki/Le_G%C3%A9nie_des_alpages">Le Génie des alpages</series>
+    <volume url="https://fr.wikipedia.org/wiki/Monter,_descendre,_%C3%A7a_glisse_pareil" number="10">Monter, descendre, ça glisse pareil</volume>
+    <comments>Après deux tomes un peu meilleurs, un tome à nouveau un peu plus moyen. J'aime beaucoup les expressions du chien, qui, pour une fois, ne parle pas, dans la version freudienne de "Gone with the Wind".</comments>
+    <image>Le Génie des alpages - Monter, descendre, ça glisse pareil.jpg</image>
+  </comic>
+  <comic>
     <date>2019.01.06</date>
     <writer>F'murr</writer>
     <artist>F'murr</artist>
