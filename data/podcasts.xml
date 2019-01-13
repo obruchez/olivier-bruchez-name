@@ -2,6 +2,12 @@
 <podcasts>
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date>2019.01.13</date>
+    <name url="https://www.danielandjorge.com/podcasts">Daniel and Jorge Explain the Universe</name>
+    <episode url="https://www.danielandjorge.com/podcasts/will-and-asteroid-kill-you.htm">Will an Asteroid Kill You?</episode>
+    <comments>Statistically, yes, someday, an asteroid will probably hit the Earth (again). 5 meters is the threshold for an asteroid to reach the ground. Anything less than that should completely burn in the atmosphere. For reference, <a href="https://en.wikipedia.org/wiki/Chicxulub_impactor">the asteroid which killed the dinosaurs 66 millions years ago</a> had a diameter of 11-81 kilometers. We've been tracking potentially dangerous celestial bodies for decades now. We should be safe for the century to come. We don't have the necessary technology to change the trajectory of an asteroid yet (e.g. powerful enough rocket, powerful bomb, massive enough body to attract the asteroid, etc.).</comments>
+  </podcast>
+  <podcast>
     <date>2019.01.11</date>
     <name url="https://www.danielandjorge.com/podcasts">Daniel and Jorge Explain the Universe</name>
     <episode url="https://www.danielandjorge.com/podcasts/whats-inside-a-black-hole.htm">What's Inside a Black Hole?</episode>
