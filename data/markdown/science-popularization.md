@@ -8,6 +8,7 @@
 
 * [Animations for DFT](https://web.archive.org/web/20130629212941/http://fixplz.blourp.com/blog/=dfts) (2D animations illustrating the first article)
 * [An Interactive Guide To The Fourier Transform](https://betterexplained.com/articles/an-interactive-guide-to-the-fourier-transform/) (longer article, 2D animations, different approach)
+* [An Interactive Introduction to Fourier Transforms](http://www.jezzamon.com/fourier/) (less technical)
 * [Fourier series](http://codepen.io/anon/pen/jPGJMK) (2D animation with editable code)
 * [Fourier series visualisation with d3.js](http://bl.ocks.org/jinroh/7524988) (2D animation)
 * [The Fourier Transform, explained in one sentence](http://blog.revolutionanalytics.com/2014/01/the-fourier-transform-explained-in-one-sentence.html) (colored text/formula)
