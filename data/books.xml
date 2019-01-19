@@ -26,6 +26,17 @@
         <image>Learn You a Haskell for Great Good!.jpg</image>
     </book>
     <book>
+        <date></date>
+        <title>Voyage au bout de la nuit</title>
+        <author>Louis-Ferdinand Céline</author>
+        <publishingyear>1932</publishingyear>
+        <rating></rating>
+        <url>https://fr.wikipedia.org/wiki/Voyage_au_bout_de_la_nuit</url>
+        <!-- <notes description="Kindle highlights"></notes> -->
+        <comments></comments>
+        <image>Voyage au bout de la nuit.jpg</image>
+    </book>
+    <book>
         <date>2018.12.31</date>
         <title>Sapiens</title>
         <subtitle>A Brief History of Humankind</subtitle>
