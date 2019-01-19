@@ -2,6 +2,24 @@
 <podcasts>
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date></date>
+    <name url="http://verybadwizards.com/">Very Bad Wizards</name>
+    <episode url="https://verybadwizards.fireside.fm/155" number="155">Alfred Hitchcock's Money Shot</comments>
+    <comments>I watched <i>Vertigo</i> for the first time in my life in 2018.</comments>
+  </podcast>
+  <podcast>
+    <date>2019.01.18</date>
+    <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
+    <episode url="https://samharris.org/podcasts/146-digital-capitalism/" number="146">Digital Capitalism - A Conversation with Douglas Rushkoff</episode>
+    <comments>Rushkoff sounds like a nice and clever guy and, at the same time, he sounds somewhat way too much anti-technology for my taste (e.g. underestimating the power of AI, praising physical books without acknowledging the convenience of e-readers, etc.). Many of the questions that were discussed are actually really interesting, but at this point, I don't think I'll buy one of Rushkoff's books (unfortunately, I'd say, because I really wanted to like him more).</comments>
+  </podcast>
+  <podcast>
+    <date>2019.01.17</date>
+    <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
+    <episode url="https://samharris.org/podcasts/145-information-war/" number="145">The Information War - A Conversation with Renée DiResta</episode>
+    <comments>I started listening to this episode for the housekeeping part, but finally listened to the whole episode. I was not really interested in the <a href="https://en.wikipedia.org/wiki/Russian_interference_in_the_2016_United_States_elections">Russian interference in the 2016 US elections</a> to begin with (I've heard enough about Trump from Sam), but DiResta was, I think, really interesting and knowledgeable. I had never really read or heard about specific, concrete examples of manipulations via social networks, so this was really intriguing. And frightening.</comments>
+  </podcast>
+  <podcast>
     <date>2019.01.15</date>
     <name url="https://www.danielandjorge.com/podcasts">Daniel and Jorge Explain the Universe</name>
     <episode url="https://www.danielandjorge.com/podcasts/what-is-making-the-universe-explode.htm">What is making the Universe explode?</episode>
