@@ -2,6 +2,16 @@
 <comics>
   <introduction>A list of comics I read.</introduction>
   <comic>
+    <date>2019.01.20</date>
+    <writer>F'murr</writer>
+    <artist>F'murr</artist>
+    <colorist>F'murr</colorist>
+    <series url="https://fr.wikipedia.org/wiki/Le_G%C3%A9nie_des_alpages">Le Génie des alpages</series>
+    <volume url="https://fr.wikipedia.org/wiki/Sabotage_et_p%C3%A2turage" number="11">Sabotage et pâturage</volume>
+    <comments>"Il est idiot, mais avec panache..."</comments>
+    <image>Le Génie des alpages - Sabotage et pâturage.jpg</image>
+  </comic>
+  <comic>
     <date>2019.01.13</date>
     <writer>F'murr</writer>
     <artist>F'murr</artist>
