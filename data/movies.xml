@@ -3,6 +3,16 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Checklist: add rating to IMDb -->
   <movie>
+    <date>2019.01.26</date>
+    <theater home="true"/>
+    <director>Frank Darabont</director>
+    <title>The Green Mile</title>
+    <url>https://www.imdb.com/title/tt0120689/</url>
+    <rating>4.75</rating>
+    <comments>I first saw this movie almost 15 years ago, in French, but I almost completely forgot about it. The only part I remembered was the dry sponge scene. It's not a bad movie, but I'm not a fan. I didn't expect it to rely so much on supernatural elements.</comments>
+    <image>The Green Mile.jpg</image>
+  </movie>
+  <movie>
     <date>2019.01.17</date>
     <theater home="true"/>
     <director>Vittorio De Sica</director>
@@ -5084,6 +5094,16 @@
     <date>2004.03.31</date>
     <title>Immortel</title>
     <version>fr</version>
+  </movie>
+  <movie>
+    <date>2004.03.12</date>
+    <theater home="true"/>
+    <director>Frank Darabont</director>
+    <title>The Green Mile</title>
+    <title language="fr">La ligne verte</title>
+    <version>fr</version>
+    <url>https://www.imdb.com/title/tt0120689/</url>
+    <image>The Green Mile.jpg</image>
   </movie>
   <movie>
     <date>2004.03.10</date>
