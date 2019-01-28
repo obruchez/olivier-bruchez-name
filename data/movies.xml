@@ -3,6 +3,16 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Checklist: add rating to IMDb -->
   <movie>
+    <date>2019.01.28</date>
+    <theater home="true"/>
+    <director>Stanley Donen &amp; Gene Kelly</director>
+    <title>Singin' in the Rain</title>
+    <url>https://www.imdb.com/title/tt0045152/</url>
+    <rating>4.5</rating>
+    <comments>It was kind of cute and kind of funny, but not totally. Some scenes were quite impressive as well (for the time?). I'm probably missing something.</comments>
+    <image>Singin' in the Rain.jpg</image>
+  </movie>
+  <movie>
     <date>2019.01.26</date>
     <theater home="true"/>
     <director>Frank Darabont</director>
