@@ -2,6 +2,14 @@
 <courses>
     <introduction>A list of MOOC courses I took.</introduction>
     <course>
+        <date>2019-01-28</date>
+        <provider>Coursera</provider>
+        <name>Learning How to Learn: Powerful mental tools to help you master tough subjects</name>
+        <instructor>Barbara Oakley &amp; Terrence Sejnowski</instructor>
+        <url>https://www.coursera.org/learn/learning-how-to-learn</url>
+        <image>Learning How to Learn.jpg</image>
+    </course>
+    <course>
         <date>2018-06-24</date>
         <provider>Coursera</provider>
         <name>The Science of Well-Being</name>
