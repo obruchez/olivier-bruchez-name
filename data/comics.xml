@@ -2,6 +2,16 @@
 <comics>
   <introduction>A list of comics I read.</introduction>
   <comic>
+    <date>2019.02.03</date>
+    <writer>F'murr</writer>
+    <artist>F'murr</artist>
+    <colorist>F'murr</colorist>
+    <series url="https://fr.wikipedia.org/wiki/Le_G%C3%A9nie_des_alpages">Le Génie des alpages</series>
+    <volume url="https://fr.wikipedia.org/wiki/Cheptel_maudit" number="13">Cheptel maudit</volume>
+    <comments>J'ai un petit faible pour la "Semaine de chien", à la fois absurde, poétique et avec très peu de texte.</comments>
+    <image>Le Génie des alpages - Cheptel maudit.jpg</image>
+  </comic>
+  <comic>
     <date>2019.01.26</date>
     <writer>F'murr</writer>
     <artist>F'murr</artist>
