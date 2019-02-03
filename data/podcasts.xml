@@ -3,9 +3,15 @@
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
     <date></date>
+    <name url="http://peachandblack.podbean.com/">Peach &amp; Black Podcast</name>
+    <episode url="https://peachandblack.podbean.com/e/princes-non-album-tracks-vol3/">Non-Album Tracks Vol. 3</episode>
+    <comments></comments>
+  </podcast>
+  <podcast>
+    <date>2019.02.01</date>
     <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
     <episode url="https://samharris.org/podcasts/147-stephen-fry/" number="147">Stephen Fry</episode>
-    <comments></comments>
+    <comments>Sam and Fry talked a lot about meditation and mindfulness. Way more than expected. This was a pleasant discussion to listen to. Not much new ground was covered, but it's always illuminating to hear Sam explain what meditation/mindfulness is (or is supposed to be) to a "beginner" (as opposed to Joseph Goldstein). Stephen Fry sounds like a really nice guy (I don't know him much). I'm just realizing now that he played in <i>Black Adder</i>!</comments>
   </podcast>
   <podcast>
     <date>2019.01.29</date>
