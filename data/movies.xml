@@ -3,6 +3,16 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Checklist: add rating to IMDb -->
   <movie>
+    <date>2019.02.02</date>
+    <theater home="true"/>
+    <director>Steven Spielberg</director>
+    <title>Saving Private Ryan</title>
+    <url>https://www.imdb.com/title/tt0120815/</url>
+    <rating>4.75</rating>
+    <comments>"Hey, those guys played in <i>Friends</i>. And this one played in <i>Lost</i>. And that one in <i>Curb Your Enthusiasm</i>." This was the first time I saw this movie again since I saw it at the cinema in 1998. I clearly remembered the Normandy landings scenes, but not so much the rest of the movie. It's objectively a good movie, but I'm not sure I want to watch it a third time in my life. As I wrote several times already now, I'm not into war movies.</comments>
+    <image>Saving Private Ryan.jpg</image>
+  </movie>
+  <movie>
     <date>2019.01.28</date>
     <theater home="true"/>
     <director>Stanley Donen &amp; Gene Kelly</director>
@@ -5950,8 +5960,13 @@
   </movie>
   <movie>
     <date>1998.10.03</date>
-    <title>Il Faut Sauver Le Soldat Ryan</title>
+    <theater home="true"/>
+    <director>Steven Spielberg</director>
+    <title>Saving Private Ryan</title>
+    <title language="fr">Il faut sauver le soldat Ryan</title>
     <version>fr</version>
+    <url>https://www.imdb.com/title/tt0120815/</url>
+    <image>Saving Private Ryan.jpg</image>
   </movie>
   <movie>
     <date>1998.08.26</date>
