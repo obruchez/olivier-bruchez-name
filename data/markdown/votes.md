@@ -2,11 +2,17 @@
 
 My votes (in French). En Suisse, on ne plaisante pas avec la démocratie directe. :) J'essaie ici de documenter et de justifier la façon dont je me positionne par rapport aux votations fédérales, qui ont lieu jusqu'à quatre fois par année.
 
+## [Votation fédérale du 10 février 2019](https://www.admin.ch/gov/fr/accueil/documentation/votations/20190210.html)
+
+### Acceptez-vous l’initiative populaire « Stopper le mitage – pour un développement durable du milieu bâti (initiative contre le mitage) » ?
+
+Non. Résultat : ? (??.?%).
+
 ## [Votation fédérale du 25 novembre 2018](https://www.admin.ch/gov/fr/accueil/documentation/votations/20181125.html)
 
 ### Acceptez-vous l’initiative populaire « Pour la dignité des animaux de rente agricoles (Initiative pour les vaches à cornes) » ?
 
-Non. Résultat : ? (??.?%).
+Non. Résultat : non (54.7%).
 
 - Ma première tendance aurait été d'accepter cette initiative.
 - On m'a fait remarquer que celle-ci pourrait avoir des "effets de bord" négatifs pour les animaux.
@@ -15,13 +21,13 @@ Non. Résultat : ? (??.?%).
 
 ### Acceptez-vous l’initiative populaire « Le droit suisse au lieu de juges étrangers (initiative pour l’autodétermination) » ? 
 
-Non. Résultat : ? (??.?%).
+Non. Résultat : non (66.2%).
 
 - Cette initiative semble sortie d'un autre siècle. Je comprends le sentiment, mais il est en décalage complet avec notre époque.
 
 ### Acceptez-vous la modification du 16 mars 2018 de la loi fédérale sur la partie générale du droit des assurances sociales (LPGA) (Base légale pour la surveillance des assurés) ?
 
-Oui. Résultat : ? (??.?%).
+Oui. Résultat : oui (64.7%).
 
 - Personne n'aime l'idée d'être surveillé.
 - On parle toutefois ici de l'encadrement légal de quelques centaines de cas par année.
