@@ -3,6 +3,15 @@
 <exhibitions>
     <introduction>A list of exhibitions I visited.</introduction>
     <exhibition>
+        <date>2019.02.09</date>
+        <name>Trésors impressionnistes - La Collection Ordrupgaard</name>
+        <museum>Fondation Pierre Gianadda, Martigny, Switzerland</museum>
+        <rating>4.5</rating>
+        <comments>"Degas, Cézanne, Monet, Renoir, Gauguin, Matisse..."</comments>
+        <image>Trésors impressionnistes - La Collection Ordrupgaard.jpg</image>
+        <!-- <pictures url=""/> -->
+    </exhibition>
+    <exhibition>
         <date>2018.12.22</date>
         <name>David Lynch - Fire in City</name>
         <museum>Musée Alexis Forel, Morges, Switzerland</museum>
