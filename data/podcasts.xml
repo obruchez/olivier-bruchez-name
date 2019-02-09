@@ -3,9 +3,15 @@
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
     <date></date>
+    <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
+    <episode url="https://samharris.org/podcasts/148-jack-dorsey/" number="148">Jack Dorsey</episode>
+    <comments></comments>
+  </podcast>
+  <podcast>
+    <date>2019.02.08</date>
     <name url="http://peachandblack.podbean.com/">Peach &amp; Black Podcast</name>
     <episode url="https://peachandblack.podbean.com/e/when-prince-invited-peach-black-podcast-to-nyc-with-nasser-metcalfe/">When Prince invited Peach &amp; Black Podcast to NYC - with Nasser Metcalfe</episode>
-    <comments></comments>
+    <comments>Prince's employees/band members have been prohibited by NDAs from discussing their time with him until his death in 2016. I had never heard of Metcalfe, who worked as Prince's bodyguard for 6 months in 2010. I hope more and more former employees will be able to tell their stories to podcasts and journalists. Prince was a fascinating man/artist. It's crazy that Peach &amp; Black is already 10 years old. For a podcast, this is a <em>very</em> long time.</comments>
   </podcast>
   <podcast>
     <date>2019.02.05</date>
