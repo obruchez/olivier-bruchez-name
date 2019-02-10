@@ -1,0 +1,5 @@
+# La Fête de l'insignifiance (Milan Kundera)
+* Sachant bien qu'il ne pourrait pas gagner sa vie en faisant ce qu'il aurait aimé faire (mais savait-il ce qu'il aimerait faire ?), il avait choisi, après ses études, un emploi où il lui avait fallu faire valoir non pas son originalité, ses idées, ses talents, mais seulement son intelligence, c'est-à- dire cette capacité arithmétiquement mesurable qui ne se distingue chez différents individus que quantitativement, l'un en ayant plus, l'autre moins, Alain plutôt plus, de sorte qu'il était bien payé et pouvait s'acheter de temps en temps une bouteille d'armagnac.
+* C'est seulement depuis les hauteurs de l'infinie bonne humeur que tu peux observer au-dessous de toi l'éternelle bêtise des hommes et en rire.
+* Regarde autour de toi : de tous ceux que tu vois, personne n'est ici par sa volonté. Bien sûr, ce que je viens de dire est la vérité la plus banale de toutes les vérités. À tel point banale, et à tel point essentielle, qu'on a cessé de la voir et de l'entendre.
+* L'insignifiance, mon ami, c'est l'essence de l'existence. Elle est avec nous partout et toujours.

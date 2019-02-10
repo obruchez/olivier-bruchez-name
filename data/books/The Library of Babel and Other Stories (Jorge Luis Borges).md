@@ -1,0 +1,7 @@
+# The Library of Babel and Other Stories (Jorge Luis Borges)
+* The Library is a sphere whose consummate centre is any hexagon, and whose circumference is inaccessible. (loc. 85-86)
+* There are not, in the whole vast Library, two identical books. (loc. 120-120)
+* Everything is there: the minute history of the future, the autobiographies of the archangels, the faithful catalogue of the Library, thousands and thousands of false catalogues, a demonstration of the fallacy of these catalogues, a demonstration of the fallacy of the true catalogue, the Gnostic gospel of Basilides, the commentary on this gospel, the commentary on the commentary of this gospel, the veridical account of your death, a version of each book in all languages, the interpolations of every book in all books. (loc. 122-127)
+* But the certainty that everything has been already written nullifies or makes phantoms of us all. (loc. 188-189)
+* In the dream of the man that dreamed, the dreamed one awoke. (loc. 389-390)
+* With relief, with humiliation, with terror, he understood that he also was an illusion, that someone else was dreaming him. (loc. 419-421)

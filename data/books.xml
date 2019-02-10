@@ -56,7 +56,7 @@
         <publishingyear>2016</publishingyear>
         <rating>5.0</rating>
         <url>https://books.google.com?id=P4f8CwAAQBAJ</url>
-        <!-- <notes description="Kindle highlights"></notes> -->
+        <notes description="Kindle highlights">Ethics in the Real World (Peter Singer).md</notes>
         <comments>This is the first book by Peter Singer that I've read. It's probably not his best or most well-known book, but I wanted something recent, that was not completely about effective altruism or animal rights (I'm already convinced in both cases), and that would show me how he thinks. As an introduction to his work, I think it's a great book. It's also very easy to read, as it's composed of 82 independent essays (grouped by theme).</comments>
         <image>Ethics in the Real World.png</image>
     </book>
@@ -90,7 +90,7 @@
         <publishingyear>2013</publishingyear>
         <rating>5.0</rating>
         <url>https://fr.wikipedia.org/wiki/De_la_bri%C3%A8vet%C3%A9_de_la_vie</url>
-        <!-- <notes description="Kindle highlights"></notes> -->
+        <notes description="Kindle highlights">De la brièveté de la vie (Sénèque).md</notes>
         <comments>Version Presses Électroniques de France. Traducteur inconnu. Un court essai écrit en 49 (il y a 1969 ans !), mais qui est toujours d'actualité (esclavagisme et orgies romaines mis à part). J'imagine que la traduction fait beaucoup, mais le texte semble vraiment beaucoup plus récent.</comments>
         <image>De la brièveté de la vie.jpg</image>
     </book>
@@ -101,7 +101,7 @@
         <publishingyear>1986</publishingyear>
         <rating>4.5</rating>
         <url>https://fr.wikipedia.org/wiki/Risibles_Amours</url>
-        <!-- <notes description="Kindle highlights"></notes> -->
+        <notes description="Kindle highlights">Risibles Amours (Milan Kundera).md</notes>
         <comments>Publié originellement en 1970. Cette traduction a été revue par Kundera. Il s'agit d'un recueil de textes datant d'avant son premier roman. Je ne sais pas si je l'aurais deviné, mais, le sachant, cela a teinté un peu ma lecture et je dois admettre que j'ai moins aimé ces textes que les romans avec lesquels je suis déjà familier. Je n'ai pas retrouvé le Kundera que j'aime bien et qui mêle avec habileté la fiction, ses connaissance de l'histoire, de l'art et de la musique. On a parfois de la peine à voir la limite entre roman et essai, et c'est ce qui me plaît en général chez lui. C'est beaucoup moins le cas dans ce recueil.</comments>
         <image>Risibles Amour.jpg</image>
     </book>
@@ -136,7 +136,7 @@
         <publishingyear>2017</publishingyear>
         <rating>4.0</rating>
         <url>https://books.google.com?id=5ZJBDwAAQBAJ</url>
-        <!-- <notes description="Kindle highlights"></notes> -->
+        <notes description="Kindle highlights">The Library of Babel and Other Stories (Jorge Luis Borges).md</notes>
         <comments>I got this collection mainly to read <a href="https://en.wikipedia.org/wiki/The_Library_of_Babel">"The Library of Babel"</a>, so that I could listen to the <i>Borges' Babylon</i> episode of Very Bad Wizards. I'll just link to <a href="http://olivier.bruchez.name/podcasts#2018-07-31">my review of the episode</a>. To sum it up: I'm not a fan of Borges (yet). After that, I also read <a href="https://en.wikipedia.org/wiki/The_Garden_of_Forking_Paths">"The Garden of Forking Paths"</a>, from <i>Collected Fictions</i>. I'm still not convinced...</comments>
         <image>The Library of Babel and Other Stories.jpg</image>
     </book>
@@ -228,7 +228,7 @@
         <publishingyear>2014</publishingyear>
         <rating>4.5</rating>
         <url>https://fr.wikipedia.org/wiki/La_F%C3%AAte_de_l%27insignifiance</url>
-        <!-- <notes description="Kindle highlights"></notes> -->
+        <notes description="Kindle highlights">La Fête de l'insignifiance (Milan Kundera).md</notes>
         <comments>L'un des livres les plus courts que j'aie lu ces dernières années. Le langage est plus familier que dans les premiers livres de Kundera. Ses thèmes fétiches sont présents : les relations hommes-femmes (du point de vue de l'homme), l'histoire, le communisme, l'humour, etc. Je vais faire une comparaison incongrue, mais ce roman m'a rappelé <i>Lapinot</i> de Trondheim, où l'histoire est secondaire et où ce sont bien les discussions entre les personnages qui sont importantes.</comments>
         <image>La Fête de l'insignifiance.jpg</image>
     </book>
