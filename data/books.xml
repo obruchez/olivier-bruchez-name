@@ -125,7 +125,7 @@
         <publishingyear>2011</publishingyear>
         <rating>4.0</rating>
         <url>https://books.google.com?id=CftkAwAAQBAJ</url>
-        <!-- <notes description="Kindle highlights"></notes> -->
+        <notes description="Kindle highlights">The Psychedelic Explorer's Guide (James Fadiman).md</notes>
         <comments>An uneven book. It's a collection of texts written by Fadiman, as well as other persons. It doesn't have a clear structure (at least to me). Fadiman believes in God. Not in a personal god, probably, but it's still a bit unsettling. A large part of the book is about the spiritual/mystical aspect of psychedelics. The part about microdosing was far more intriguing. Many studies about psychedelics were done in the 50s/60s and their quality probably leaves a lot to be desired. We need better books about this topic.</comments>
         <image>The Psychedelic Explorer's Guide.jpg</image>
     </book>
@@ -171,7 +171,7 @@
         <publishingyear>2009</publishingyear>
         <rating>3.0</rating>
         <url>https://books.google.com?id=_JMSAQAAMAAJ</url>
-        <notes description="Kindle highlights"></notes>
+        <notes description="Kindle highlights">Middle Age (Christopher Hamilton).md</notes>
         <comments>This is a book about Hamilton's personal experience, with a lot of quotes, which touches a bit on middle age. It's not uninteresting, but it was not what I expected.</comments>
         <image>Middle Age.jpg</image>
     </book>
@@ -183,7 +183,7 @@
         <publishingyear>2017</publishingyear>
         <rating>4.75</rating>
         <url>https://en.wikipedia.org/wiki/Life_3.0</url>
-        <!-- <notes description="Kindle highlights"></notes> -->
+        <notes description="Kindle highlights">Life 3.0 (Max Tegmark).md</notes>
         <comments>Having read five books by Ray Kurzweil, I'm quite familiar with artificial intelligence and its consequences. This book focuses on the dangers of AI. Kurzweil was (still is?) an optimist, so it's important to think about what needs to be done, concretely, to make sure we create friendly AIs. To many, it will sound like an exercise in futility (like worrying about overpopulation on Mars, according to Andrew Ng), but I'm now convinced that this is something we really need to get right. And I'm happy that very intelligent people have already been thinking about this problem for years.</comments>
         <image>Life 3.0.jpg</image>
     </book>
