@@ -2,6 +2,16 @@
 <comics>
   <introduction>A list of comics I read.</introduction>
   <comic>
+    <date>2019.02.11</date>
+    <writer>F'murr</writer>
+    <artist>F'murr</artist>
+    <colorist>F'murr</colorist>
+    <series url="https://fr.wikipedia.org/wiki/Le_G%C3%A9nie_des_alpages">Le Génie des alpages</series>
+    <volume url="https://fr.wikipedia.org/wiki/...Courent_dans_la_montagne" number="14">...Courent dans la montagne</volume>
+    <comments>Le seul tome du Génie des alpages que je n'avais encore jamais lu (je crois).</comments>
+    <image>Le Génie des alpages - ...Courent dans la montagne.jpg</image>
+  </comic>
+  <comic>
     <date>2019.02.03</date>
     <writer>F'murr</writer>
     <artist>F'murr</artist>
