@@ -44,7 +44,7 @@
         <publishingyear>2014</publishingyear>
         <rating>5.0</rating>
         <url>https://en.wikipedia.org/wiki/Sapiens:_A_Brief_History_of_Humankind</url>
-        <notes description="Kindle highlights"></notes>
+        <notes description="Kindle highlights">Sapiens (Yuval Noah Harari).md</notes>
         <comments>I really enjoyed <i>Homo Deus</i> and since it looks like half of the world has already read <i>Sapiens</i>, I had to read it as well! This is not your usual history book. Harari is strongly opinionated. I'm still bothered by his use of some words (e.g. "religion" for "ideology"), but liked the book nevertheless. It's a bit oversimplistic at times (it especially struck me at the end of the book, where Harari is talking about genetic algorithms and computer viruses), but overall I liked Harari's high-level approach to the subject. For reference: <a href="https://danielmiessler.com/projects/reading/summary-sapiens/">Daniel Miessler's summary of the book</a>.</comments>
         <image>Sapiens.jpg</image>
     </book>
@@ -68,7 +68,7 @@
         <publishingyear>2018</publishingyear>
         <rating>5.0</rating>
         <url>https://books.google.com?id=3vk5DwAAQBAJ</url>
-        <!-- <notes description="Kindle highlights"></notes> -->
+        <notes description="Kindle highlights">How to Change Your Mind (Michael Pollan).md</notes>
         <comments><i>The Psychedelic Explorer's Guide</i> was disappointing. This book is way better. It's good journalism. Apart from a tiny bit of quantum mysticism (?) at the end, I found it very critical, informative, and easy to read. The structure of the book is really clear (probably as much as the structure of <i>The Psychedelic Explorer's Guide</i> was confusing). It mentions recent studies, but always from a critical angle. Psychedelics are probably not a panacea, but there really is something to them. We need more research, as soon as possible. We have lost enough time since the late 60s. I'm personally especially curious about microdosing: does it work or is it just a placebo?</comments>
         <image>How to Change Your Mind.jpg</image>
     </book>
@@ -113,7 +113,7 @@
         <publishingyear>2018</publishingyear>
         <rating>4.75</rating>
         <url>https://books.google.com?id=WIg2DwAAQBAJ</url>
-        <!-- <notes description="Kindle highlights"></notes> -->
+        <notes description="Kindle highlights">Lost Connections (Johann Hari).md</notes>
         <comments>I don't know if many books have been written before about the "non-biochemical" causes of depression and anxiety, but this book gives a far more plausible explanation of depression than the chemical imbalance theory. Antidepressants don't work well (or at all, in many cases), so we need a new way to look at things. We can't always fix our problems by taking pills. Hari gives us at least seven solutions or, rather, potential avenues to explore. They're not quick hacks. They're difficult to implement. Some of them will probably come from larger societal changes and not from individual efforts. I will have to process my notes and see if I can actually do something actionable from them.</comments>
         <image>Lost Connections.jpg</image>
     </book>
@@ -160,7 +160,7 @@
         <publishingyear>2012</publishingyear>
         <rating>4.5</rating>
         <url>https://en.wikipedia.org/wiki/Quiet:_The_Power_of_Introverts_in_a_World_That_Can%27t_Stop_Talking</url>
-        <!-- <notes description="Kindle highlights"></notes> -->
+        <notes description="Kindle highlights">Quiet (Susan Cain).md</notes>
         <comments>This book will probably help me accept the fact that I am introverted and that it's okay, that I don't have to completely change the way I behave. The book itself is rather good, not great. It would have benefited from less "case studies" (i.e. anecdotes) and a more theoretical approach.</comments>
         <image>Quiet.jpg</image>
     </book>
@@ -194,7 +194,6 @@
         <publishingyear>1857</publishingyear>
         <rating>4.25</rating>
         <url>https://fr.wikipedia.org/wiki/Les_Fleurs_du_mal</url>
-        <!-- <notes description="Kindle highlights"></notes> -->
         <comments>Un classique de la poésie. Objectivement, je vois pourquoi il s'agit d'un classique, surtout si on le replace dans le contexte de son époque, mais je ne peux pas dire que beaucoup des poèmes de ce recueil m'aient vraiment touché. Dans un autre style, <i>Paroles</i> de Prévert m'avait paru nettement plus accessible. Cela dit, je n'y connais rien en poésie et il ne s'agit que du deuxième recueil que je lis depuis mes études.</comments>
         <image>Les Fleurs du mal.jpg</image>
     </book>
@@ -217,7 +216,7 @@
         <publishingyear>2016</publishingyear>
         <rating>4.0</rating>
         <url>https://books.google.com?id=SKNajwEACAAJ</url>
-        <!-- <notes description="Kindle highlights"></notes> -->
+        <notes description="Kindle highlights">The Social Skills Guidebook (Chris MacLeod).md</notes>
         <comments>Probably the kind of book I should have read twenty years ago. I'm shy. I've always seen it as a handicap. This book contains good "tips", but I guess they can only go so far in improving one's natural tendencies (personality, genes, etc.).</comments>
         <image>The Social Skills Guidebook.jpg</image>
     </book>
