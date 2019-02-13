@@ -3,9 +3,15 @@
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
     <date></date>
+    <name url="http://verybadwizards.com/">Very Bad Wizards</name>
+    <episode>Bonus Episode: Twin Peaks</episode>
+    <comments></comments>
+  </podcast>
+  <podcast>
+    <date>2019.02.13</date>
     <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
     <episode url="https://samharris.org/podcasts/148-jack-dorsey/" number="148">Jack Dorsey</episode>
-    <comments></comments>
+    <comments>I'm not using Twitter much lately (those last few years). It could be way better than it is. Jack Dorsey seems to know it. I hope Twitter will become useful again.</comments>
   </podcast>
   <podcast>
     <date>2019.02.08</date>
