@@ -55,6 +55,7 @@
 ## Dessins animés
 
 * [Cat's Eye](http://www.imdb.com/title/tt0131160/)
+* [Chlorophylle venue du ciel](https://www.imdb.com/title/tt0429330/)
 * [Clémentine](http://www.imdb.com/title/tt0297529/) (avec le géant de feu, Malmoth, qui me faisait peur ?)
 * [Cocoshaker](http://www.imdb.com/title/tt0484946/)
 * [Cow and Chicken](http://www.imdb.com/title/tt0118289/) (période Cartoon Network, lorsque la chaîne était encore en anglais uniquement)
@@ -105,5 +106,4 @@
 * utiliser sites de génériques pour compléter les listes (e.g. [Coucoucircus](http://www.coucoucircus.org/index3.php))
 * dessins animés à ajouter
   * autres DA de Cartoon Network (fin des années 90)
-  * DA avec des plantes extraterrestres vivant dans une serre, de nuit?
   * DA avec animaux qui voyagent (hibou, héron, etc.)
