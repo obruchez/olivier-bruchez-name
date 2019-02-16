@@ -2,6 +2,16 @@
 <comics>
   <introduction>A list of comics I read.</introduction>
   <comic>
+    <date>2019.02.16</date>
+    <writer>Lewis Trondheim &amp; Joann Sfar</writer>
+    <artist>Lewis Trondheim</artist>
+    <colorist>Lewis Trondheim</colorist>
+    <series url="https://fr.wikipedia.org/wiki/Donjon_Z%C3%A9nith">Donjon Zénith</series>
+    <volume url="https://fr.wikipedia.org/wiki/C%C5%93ur_de_canard" number="1">Cœur de canard</volume>
+    <comments>Les héros sont végétariens. Cela leur sauve la vie. Tout est dit. :)</comments>
+    <image>Donjon Zénith - Cœur de canard.jpg</image>
+  </comic>
+  <comic>
     <date>2019.02.11</date>
     <writer>F'murr</writer>
     <artist>F'murr</artist>
