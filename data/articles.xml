@@ -2,6 +2,11 @@
 <articles>
   <introduction>A list of articles I read.</introduction>
   <article>
+    <date>2019.02.16</date>
+    <title url="https://www.theparisreview.org/blog/2019/02/08/reading-in-the-age-of-constant-distraction/">Reading in the Age of Constant Distraction</title>
+    <comments>"Through the process of reading we slip out of our customary time orientation, marked by distractedness and surficiality, into the realm of duration. [...] More independent bookstores are opening than closing, and sales of print books are up—but authors' earnings are down. [...] The heightened state brought on by a book—in which one is "actively present at every moment, scripting and constructing"—is what readers seek. [...] Loneliness is what the internet and social media claim to alleviate, though they often have the opposite effect. Communion can be hard to find, not because we aren't occupying the same physical space but because we aren't occupying the same mental plane: we don't read the same news; we don't even revel in the same memes. [...] No, the power of art—and many books are, still, art, not entertainment—lies in the way it turns us inward and outward, all at once. The communion we seek, scanning titles or turning pages, is not with others—not even the others, living or long dead, who wrote the words we read—but with ourselves. [...] In some ways I am reading the novel as I walk, or nap, or drive to the store for milk. [...] Here, on the internet, is a nowhere space, a shallow time. It is a flat and impenetrable surface. But with a book, we dive in; we are sucked in; we are immersed, body and soul."</comments>
+  </article>
+  <article>
     <date>2019.01.27</date>
     <title url="https://spectrum.ieee.org/computing/hardware/can-we-quantify-machine-consciousness">Can We Quantify Machine Consciousness?</title>
     <subtitle>Artificial intelligence might endow some computers with self-awareness. Here's how we'd know</subtitle>
