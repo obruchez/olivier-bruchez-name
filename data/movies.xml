@@ -3,6 +3,16 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Checklist: add rating to IMDb -->
   <movie>
+    <date>2019.02.18</date>
+    <theater home="true"/>
+    <director>David Lean</director>
+    <title>Lawrence of Arabia</title>
+    <url>https://www.imdb.com/title/tt0056172/</url>
+    <rating>5.0</rating>
+    <comments>This is a great movie. The desert, the music, Peter O'Toole, Omar Sharif, the fact that it's a movie that "takes its time", the many memorable moments. If I had to guess, I'd say it's a highly romanticized version of T. E. Lawrence's life, but it doesn't really matter.</comments>
+    <image>Lawrence of Arabia.jpg</image>
+  </movie>
+  <movie>
     <date>2019.02.02</date>
     <theater home="true"/>
     <director>Steven Spielberg</director>
