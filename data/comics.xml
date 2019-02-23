@@ -2,6 +2,16 @@
 <comics>
   <introduction>A list of comics I read.</introduction>
   <comic>
+    <date>2019.02.23</date>
+    <writer>Lewis Trondheim &amp; Joann Sfar</writer>
+    <artist>Lewis Trondheim</artist>
+    <colorist>Walter</colorist>
+    <series url="https://fr.wikipedia.org/wiki/Donjon_Z%C3%A9nith">Donjon Zénith</series>
+    <volume url="https://fr.wikipedia.org/wiki/Le_Roi_de_la_bagarre" number="2">Le Roi de la bagarre</volume>
+    <comments>"Je suis le mal absolu et j'espère que vous ne me dérangez pas pour rien."</comments>
+    <image>Donjon Zénith - Le Roi de la bagarre.jpg</image>
+  </comic>
+  <comic>
     <date>2019.02.16</date>
     <writer>Lewis Trondheim &amp; Joann Sfar</writer>
     <artist>Lewis Trondheim</artist>
