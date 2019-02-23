@@ -2,6 +2,12 @@
 <podcasts>
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date>2019.02.22</date>
+    <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
+    <episode>Ask Me Anything #16</episode>
+    <comments>Some interesting answers, especially the one to <a href="https://www.youtube.com/watch?v=-tBNiVo221c">"Do I need kids to have my existence matter?"</a> (his answer: no). Focusing on our legacy is a losing game. We will all be forgotten in 10, 100, or 1000 years. It's just a question of time. So we should focus on the present (being useful to people around us, mindfulness, etc.).</comments>
+  </podcast>
+  <podcast>
     <date>2019.02.20</date>
     <name url="http://verybadwizards.com/">Very Bad Wizards</name>
     <episode>Bonus Episode: Twin Peaks</episode>
