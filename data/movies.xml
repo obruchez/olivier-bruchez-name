@@ -3,12 +3,22 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Checklist: add rating to IMDb -->
   <movie>
+    <date>2019.02.22</date>
+    <theater>Galeries, Lausanne</theater>
+    <director>Yorgos Lanthimos</director>
+    <title>The Favourite</title>
+    <url>https://www.imdb.com/title/tt5083738/</url>
+    <rating>4.75</rating>
+    <comments>I don't know if this movie is brilliant or if it's just a case of form over substance. I liked the music. I liked the way the rooms in Hatfield House were filmed. I liked the overall quirkiness of the characters. The story was a bit too simple, maybe.</comments>
+    <image>The Favourite.jpg</image>
+  </movie>
+  <movie>
     <date>2019.02.18</date>
     <theater home="true"/>
     <director>David Lean</director>
     <title>Lawrence of Arabia</title>
     <url>https://www.imdb.com/title/tt0056172/</url>
-    <rating>5.0</rating>
+    <rating>5.25</rating>
     <comments>This is a great movie. The desert, the music, Peter O'Toole, Omar Sharif, the fact that it's a movie that "takes its time", the many memorable moments. If I had to guess, I'd say it's a highly romanticized version of T. E. Lawrence's life, but it doesn't really matter.</comments>
     <image>Lawrence of Arabia.jpg</image>
   </movie>
@@ -89,7 +99,7 @@
     <director>David Lynch</director>
     <title>Lost Highway</title>
     <url>https://www.imdb.com/title/tt0116922/</url>
-    <rating>5.0</rating>
+    <rating>5.25</rating>
     <comments>I don't like to use that word, but this movie is underrated. I guess it sums up everything that people love and hate about David Lynch. <i>Mulholland Drive</i> was far more successful, but, like one anonymous David Lynch fan once said, "<i>Mulholland Drive</i> is basically <i>Lost Highway</i> for dummies." It's maybe a bit harsh, but it's probably true that <i>Mulholland Drive</i> is easier to sum up in once sentence or two than <i>Lost Highway</i>. Anyway, I like it. It's a movie that stays with you after you've watched it. You will think about it. You will read about it. And then, one day, you will watch it again.</comments>
     <image>Lost Highway.jpg</image>
   </movie>
