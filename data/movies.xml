@@ -3,6 +3,16 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Checklist: add rating to IMDb -->
   <movie>
+    <date>2019.02.25</date>
+    <theater home="true"/>
+    <director>George Roy Hill</director>
+    <title>The Sting</title>
+    <url>https://www.imdb.com/title/tt0070735/</url>
+    <rating></rating>
+    <comments></comments>
+    <image>The Sting.jpg</image>
+  </movie>
+  <movie>
     <date>2019.02.22</date>
     <theater>Galeries, Lausanne</theater>
     <director>Yorgos Lanthimos</director>
