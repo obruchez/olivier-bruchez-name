@@ -3,6 +3,16 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Checklist: add rating to IMDb -->
   <movie>
+    <date>2019.02.28</date>
+    <theater home="true"/>
+    <director>Chan-wook Park</director>
+    <title>Oldboy</title>
+    <url>https://www.imdb.com/title/tt0364569/</url>
+    <rating>4.5</rating>
+    <comments>Not a bad movie, but a bit too violent for my taste. I could have done without the octopus scene (especially knowking how it was actually done...).</comments>
+    <image>Oldboy.jpg</image>
+  </movie>
+  <movie>
     <date>2019.02.25</date>
     <theater home="true"/>
     <director>George Roy Hill</director>
