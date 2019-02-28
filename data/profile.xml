@@ -5,6 +5,7 @@
         <item url="https://en.wikipedia.org/wiki/Blogging">Blogging</item>
         <item url="https://en.wikipedia.org/wiki/Opera">Going to the opera</item>
         <item url="https://en.wikipedia.org/wiki/Theatre">Going to the theatre</item>
+        <item url="https://en.wikipedia.org/wiki/Diary">Journaling</item>
         <item url="https://en.wikipedia.org/wiki/Meditating">Meditating</item>
         <item url="https://en.wikipedia.org/wiki/Reading_(process)">Reading</item>
         <item url="https://en.wikipedia.org/wiki/Traveling">Traveling</item>
@@ -29,12 +30,17 @@
         <item url="https://en.wikipedia.org/wiki/Beer">Beer</item>
         <item url="https://en.wikipedia.org/wiki/Chocolate">Chocolate</item>
         <item url="https://en.wikipedia.org/wiki/Coffee">Coffee</item>
-        <item url="https://en.wikipedia.org/wiki/Tea">Tea</item>
+        <item url=""></item>
+        <item>
+            <subitem url="https://en.wikipedia.org/wiki/Tea">Tea</subitem>
+            <subitem url="https://en.wikipedia.org/wiki/Green_tea">Green tea</subitem>
+        </item>
         <item url="https://en.wikipedia.org/wiki/Veganism#Vegan_diet">Vegan cuisine</item>
         <item url="https://en.wikipedia.org/wiki/Vegetarian_cuisine">Vegetarian cuisine</item>
         <item url="https://en.wikipedia.org/wiki/Wine">Wine</item>
     </list>
     <list title="Interests">
+        <item url="https://en.wikipedia.org/wiki/Archive">Archiving</item>
         <item>
             <subitem url="https://en.wikipedia.org/wiki/Artificial_intelligence">Artificial intelligence</subitem>
             <subitem url="https://en.wikipedia.org/wiki/Machine_learning">Machine learning</subitem>
@@ -58,6 +64,7 @@
             <subitem url="https://en.wikipedia.org/wiki/E-book">E-books</subitem>
         </item>
         <item url="https://en.wikipedia.org/wiki/Jazz">Jazz</item>
+        <item url="https://en.wikipedia.org/wiki/Simple_living">Minimalism / simple living</item>
         <item>
             <subitem url="https://en.wikipedia.org/wiki/Mooc">MOOCs</subitem>
             <subitem url="https://en.wikipedia.org/wiki/Coursera">Coursera</subitem>
@@ -65,6 +72,7 @@
         <item>
             <subitem url="https://en.wikipedia.org/wiki/Philosophy">Philosophy</subitem>
             <subitem url="https://en.wikipedia.org/wiki/Consciousness">Consciousness</subitem>
+            <subitem url="https://en.wikipedia.org/wiki/Ethics">Ethics</subitem>
             <subitem url="https://en.wikipedia.org/wiki/Free_will">Free will</subitem>   
             <subitem url="https://en.wikipedia.org/wiki/Personal_identity">Personal identity</subitem> 
         </item>
@@ -85,7 +93,6 @@
             <subitem url="https://en.wikipedia.org/wiki/Fractal">Fractals</subitem>
             <subitem url="https://en.wikipedia.org/wiki/Mandelbrot_set">Mandelbrot set</subitem>
         </item>
-        <item url="https://en.wikipedia.org/wiki/Simple_living">Simple living</item>
         <item>
             <subitem url="https://en.wikipedia.org/wiki/Technology">Technology</subitem>
             <subitem url="https://en.wikipedia.org/wiki/Computer">Computers</subitem>
@@ -150,8 +157,6 @@
         <item url="http://www.danielmiessler.com/">Daniel Miessler</item>
         <item url="https://en.wikipedia.org/wiki/David_Allen_(author)">David Allen</item>
         <item url="https://en.wikipedia.org/wiki/Elon_Musk">Elon Musk</item>
-        <!-- <item url="https://en.wikipedia.org/wiki/Jerry_Coyne">Jerry Coyne</item> -->
-        <!-- <item url="https://en.wikipedia.org/wiki/Neil_deGrasse_Tyson">Neil deGrasse Tyson</item> -->
         <item url="https://en.wikipedia.org/wiki/Peter_Singer">Peter Singer</item>
         <item url="https://en.wikipedia.org/wiki/Ray_Kurzweil">Ray Kurzweil</item>
         <item url="https://en.wikipedia.org/wiki/Richard_Dawkins">Richard Dawkins</item>
@@ -185,9 +190,10 @@
         <item url="https://en.wikipedia.org/wiki/Valais">Valais</item>
     </list>
     <list title="Podcasts">
+        <item url="https://www.danielandjorge.com/podcasts">Daniel and Jorge Explain the Universe</item>
         <item url="https://peachandblack.podbean.com/">Peach &amp; Black</item>
+        <item url="https://www.samharris.org/podcast">Sam Harris (Making Sense)</item>
         <item url="https://verybadwizards.fireside.fm/">Very Bad Wizards</item>
-        <item url="https://www.samharris.org/podcast">Waking Up (Sam Harris)</item>
     </list>
     <!-- <list title="Political views">
         <item url="https://en.wikipedia.org/wiki/Centre-left">Centre-left</item>
@@ -245,8 +251,6 @@
         <item url="http://catandgirl.com/">Cat and Girl</item>
         <item url="http://www.commitstrip.com/">CommitStrip</item>
         <item url="http://dilbert.com/">Dilbert</item>
-        <!-- <item url="http://existentialcomics.com/">Existential Comics</item> -->
-        <!-- <item url="http://geek-and-poke.com/">Geek &amp; Poke</item> -->
         <item url="http://www.lunarbaboon.com/">Lunarbaboon</item>
         <item url="http://maximumble.thebookofbiff.com/">Maximumble</item>
         <item url="http://nedroid.com/">Nedroid</item>
