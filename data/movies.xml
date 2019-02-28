@@ -4689,6 +4689,14 @@
     <rating>4.5</rating>
   </movie>
   <movie>
+    <date>2005.06.21</date>
+    <theater home="true"/>
+    <director>Stanley Kubrick</director>
+    <title>Full Metal Jacket</title>
+    <url>https://www.imdb.com/title/tt0093058/</url>
+    <image>Full Metal Jacket.jpg</image>
+  </movie>
+  <movie>
     <date>2005.06.11</date>
     <theater>Casino, Martigny</theater>
     <title>Sun City</title>
