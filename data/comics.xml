@@ -2,6 +2,16 @@
 <comics>
   <introduction>A list of comics I read.</introduction>
   <comic>
+    <date>2019.03.02</date>
+    <writer>Lewis Trondheim &amp; Joann Sfar</writer>
+    <artist>Lewis Trondheim</artist>
+    <colorist>Walter</colorist>
+    <series url="https://fr.wikipedia.org/wiki/Donjon_Z%C3%A9nith">Donjon Zénith</series>
+    <volume url="https://fr.wikipedia.org/wiki/La_Princesse_des_barbares" number="3">La Princesse des barbares</volume>
+    <comments>Un troisième tome bon, mais sans plus. Père d'un bébé de 9 mois, j'ai trouvé les scènes avec les trolls moyennement drôles ("-Qu'est-ce que c'est que ça ? -C'est du manger."). :)</comments>
+    <image>Donjon Zénith - La Princesse des barbares.jpg</image>
+  </comic>
+  <comic>
     <date>2019.02.23</date>
     <writer>Lewis Trondheim &amp; Joann Sfar</writer>
     <artist>Lewis Trondheim</artist>
