@@ -3,6 +3,16 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Checklist: add rating to IMDb -->
   <movie>
+    <date>2019.03.03</date>
+    <theater home="true"/>
+    <director>Rajkumar Hirani</director>
+    <title>3 Idiots</title>
+    <url>https://www.imdb.com/title/tt1187043/</url>
+    <rating>4.25</rating>
+    <comments>This is a feel-good movie, a comedy with some good moments and some not-so-great moments (some of them scatological). It contains great footage of North India (I want to go there one day). I enjoyed it. Probably more than I should have...</comments>
+    <image>3 Idiots.jpg</image>
+  </movie>
+  <movie>
     <date>2019.02.28</date>
     <theater home="true"/>
     <director>Chan-wook Park</director>
