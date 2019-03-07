@@ -219,6 +219,10 @@ A multi-disc compilation would be an album with several discs and different arti
 
 * exiftool '-DateTimeOriginal>FileModifyDate' <directory>
 
+or
+
+* exiftool '-CreateDate>FileModifyDate' <directory> (works for iPhone MOV/MP4 files as well)
+
 ## Shift EXIF date/time in pictures
 
 * exiftool "-AllDates+=01:02:03" -P <directory>
