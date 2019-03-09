@@ -2,6 +2,24 @@
 <podcasts>
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date></date>
+    <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
+    <episode url="https://samharris.org/podcasts/149-problem-addiction/" number="149">The Problem of Addiction - A Conversation with Sally Satel</episode>
+    <comments></comments>
+  </podcast>
+  <podcast>
+    <date>2019.03.08</date>
+    <name url="http://verybadwizards.com/">Very Bad Wizards</name>
+    <episode url="https://verybadwizards.fireside.fm/150" number="150">Paul Bloom Insisted That We Talk About Sex Robots</episode>
+    <comments>About the Conceptual Penis as a Social Construct hoax: let's just say that I'll never take James Lindsay seriously again. The sex robot discussion was really interesting. Paul Bloom and Sam Harris's position (which sounded very reasonable, IIRC) was detailed in <a href="https://www.nytimes.com/2018/04/23/opinion/westworld-conscious-robots-morality.html">"It's Westworld. What's Wrong With Cruelty to Robots?"</a> That was a fun episode.</comments>
+  </podcast>
+  <podcast>
+    <date>2019.03.06</date>
+    <name url="http://verybadwizards.com/">Very Bad Wizards</name>
+    <episode url="https://verybadwizards.fireside.fm/148" number="148">Am I Wrong?</episode>
+    <comments>The part about Louis CK's surprise set was interesting. First, I didn't know about it. Secondly, this poses the important question of the right form/amount of "punishment" when someone has done something morally wrong. I'm also wondering what Louis CK should do now. Should he continue stand-up comedy? Should he continue acting? Should he write for others? This will be interesting to witness (hopefully). I think I completely missed what George Sher's paper was about, which is not too suprising, as I disagree with the premise: "What happens once we realize that our moral convictions are often not better justified than the convictions of people who disagree with us?" When it comes to the is–ought problem, I'm way more sympathetic to Sam Harris' view than Tamler/Dave's view (which is the dominant position of philosophers in general).</comments>
+  </podcast>
+  <podcast>
     <date>2019.02.27</date>
     <name url="http://verybadwizards.com/">Very Bad Wizards</name>
     <episode url="https://verybadwizards.fireside.fm/149" number="149">Death, Immortality, and Porn (Intuition) Pumps</episode>
