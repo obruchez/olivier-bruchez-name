@@ -3,6 +3,16 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Checklist: add rating to IMDb -->
   <movie>
+    <date>2019.03.07</date>
+    <theater home="true"/>
+    <director>Christopher Nolan</director>
+    <title>The Dark Knight Rises</title>
+    <url>https://www.imdb.com/title/tt1345836/</url>
+    <rating>4.75</rating>
+    <comments>After all those years, I've finally finished watching Nolan's trilogy! I enjoyed <i>The Dark Knight Rises</i> way more than expected. The ending was not as enjoyable as it could have been, though. Something was missing. I'm not sure what exactly. The bad guys died in a completely banal way, for example. The scene in Italy was a nice touch, however.</comments>
+    <image>The Dark Knight Rises.jpg</image>
+  </movie>
+  <movie>
     <date>2019.03.03</date>
     <theater home="true"/>
     <director>Rajkumar Hirani</director>
