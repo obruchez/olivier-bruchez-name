@@ -2,6 +2,16 @@
 <comics>
   <introduction>A list of comics I read.</introduction>
   <comic>
+    <date>2019.03.11</date>
+    <writer>Lewis Trondheim &amp; Joann Sfar</writer>
+    <artist>Lewis Trondheim</artist>
+    <colorist>Brigitte Findakly &amp; Lewis Trondheim</colorist>
+    <series url="https://fr.wikipedia.org/wiki/Donjon_Z%C3%A9nith">Donjon Zénith</series>
+    <volume url="https://fr.wikipedia.org/wiki/Sortil%C3%A8ge_et_Avatar" number="4">Sortilège et Avatar</volume>
+    <comments>De la magie et de la bagarre.</comments>
+    <image>Donjon Zénith - Sortilège et Avatar.jpg</image>
+  </comic>
+  <comic>
     <date>2019.03.02</date>
     <writer>Lewis Trondheim &amp; Joann Sfar</writer>
     <artist>Lewis Trondheim</artist>
