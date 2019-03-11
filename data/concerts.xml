@@ -11,6 +11,17 @@
   -->
   <introduction>A list of concerts I went to.</introduction>
   <concert>
+    <date>2019.03.09</date>
+    <location>Théâtre Maurice Novarina, Maison des Arts du Léman, Thonon-les-Bains, France</location>
+    <musician inst="alto saxophone, soprano saxophone, vocals" main="yes">Kenny Garrett</musician>
+    <musician inst="piano">Vernell Brown</musician>
+    <musician inst="bass">Corcoran Holt</musician>
+    <musician inst="drums">Samuel Laviso</musician>
+    <musician inst="percussions">Rudy Bird</musician>
+    <rating>5.0</rating>
+    <comments>A fantastic concert (and quite long as well - 130 minutes). I think I knew all the tunes. Samuel Laviso played like his life depended on it from start to finish. The encores included "Happy People", as usual, which always works. I heard a few very recognizable quotes ("Summertime", "Frère Jacques" (?), a tune by Coltrane, but also "Wrinkle" and another tune from Kenny's time with Miles).</comments>
+  </concert>
+  <concert>
     <date>2018.11.14</date>
     <location>Alhambra, Geneva, Switzerland</location>
     <event>Les Créatives</event>
@@ -533,6 +544,7 @@
     <musician inst="alto saxophone, soprano saxophone, vocals" main="yes">Kenny Garrett</musician>
     <musician inst="piano">Vernell Brown</musician>
     <musician inst="bass">Corcoran Holt</musician>
+    <musician inst="drums">Marcus Baylor</musician>
     <musician inst="percussions">Rudy Bird</musician>
     <rating>5.0</rating>
     <comments/>
@@ -1308,7 +1320,7 @@
   </concert>
   <concert>
     <date>2012.03.09</date>
-    <location>Espace Maurice Novarina, Maison des Arts Thonon-Evian, Thonon-les-Bains, France</location>
+    <location>Théâtre Maurice Novarina, Maison des Arts du Léman, Thonon-les-Bains, France</location>
     <musician inst="saxophone" main="true">Kenny Garrett</musician>
     <musician inst="piano">Vernell Brown</musician>
     <musician inst="bass">Corcoran Holt</musician>
