@@ -2,10 +2,16 @@
 <podcasts>
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
-    <date>2019.03.09</date>
+    <date></date>
+    <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
+    <episode url="https://samharris.org/podcasts/150-map-misunderstanding/" number="150">The Map of Misunderstanding - A Conversation with Daniel Kahneman</episode>
+    <comments></comments>
+  </podcast>
+  <podcast>
+    <date>2019.03.13</date>
     <name url="http://verybadwizards.com/">Very Bad Wizards</name>
     <episode url="https://verybadwizards.fireside.fm/146" number="146">Sore Losers (Does Sports Make Us Unhappy?)</episode>
-    <comments></comments>
+    <comments>I'm not a sports fan myself, but even I can see that the discussed paper is way too specific in what it measures (instant well-being after a match, etc.) to draw overall conclusions. It seems obvious to me that sports has a tribal/community aspect that's very important. Are all happiness papers too simplistic? I'm starting to think they might be.</comments>
   </podcast>
   <podcast>
     <date>2019.03.09</date>
