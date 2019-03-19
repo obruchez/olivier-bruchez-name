@@ -3,6 +3,16 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Checklist: add rating to IMDb -->
   <movie>
+    <date>2019.03.19</date>
+    <theater home="true"/>
+    <director>Anthony Russo &amp; Joe Russo</director>
+    <title>Avengers: Infinity War</title>
+    <url>https://www.imdb.com/title/tt4154756/</url>
+    <rating>3.75</rating>
+    <comments>CGI and teenage humor. It didn't work for me.</comments>
+    <image>Avengers - Infinity War.jpg</image>
+  </movie>
+  <movie>
     <date>2019.03.13</date>
     <theater home="true"/>
     <director>James Cameron</director>
