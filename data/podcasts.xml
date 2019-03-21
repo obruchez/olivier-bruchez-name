@@ -2,10 +2,16 @@
 <podcasts>
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
-    <date></date>
+    <date>2019.03.21</date>
+    <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
+    <episode url="https://samharris.org/podcasts/151-will-destroy-future/" number="151">Will We Destroy the Future? - A Conversation with Nick Bostrom</episode>
+    <comments>"They discuss public goods, moral illusions, the asymmetry between happiness and suffering, utilitarianism, "the vulnerable world hypothesis," the history of nuclear deterrence, the possible need for "turnkey totalitarianism," whether we’re living in a computer simulation, the Doomsday Argument, the implications of extraterrestrial life, and other topics." I'm still not convinced by the simulation argument. It's clever, but I'm not convinced. I had already heard of the <a href="https://en.wikipedia.org/wiki/Great_Filter">Great Filter</a> (in the context of the Fermi paradox), but I think there are many other possible explanations. It basically comes down to predicting what an advanced civilization would do. And, just like for the technological singularity, there's simply no way to know, by definition. Of course, we can try, but our imagination will be quite limited, I think.</comments>
+  </podcast>
+  <podcast>
+    <date>2019.03.19</date>
     <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
     <episode url="https://samharris.org/podcasts/150-map-misunderstanding/" number="150">The Map of Misunderstanding - A Conversation with Daniel Kahneman</episode>
-    <comments></comments>
+    <comments><i>Thinking, Fast and Slow</i> has been on my to-read list for a while now. Listening to this episode made me finally buy it. The <a href="https://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow#Two_systems">two systems view of thinking</a> is a useful one. Here's a <a href="https://www.reddit.com/r/samharris/comments/b0dtbj/making_sense_podcast_150_the_map_of_understanding/eile7jp/">link to some of the points discussed</a>. The most fascinating part to me was the one about the experiencing self vs the remembering self and well-being. Money does increase your life satisfaction / "remembered happiness", but not your moment-to-moment happiness. Kahneman used to think moment-to-moment happiness was more important, but he changed his position. I'd like to hear more about this. It feels like something is missing. Are people with more money really happier (or more satisfied with their life) or do they <i>think</i> they're happier?</comments>
   </podcast>
   <podcast>
     <date>2019.03.13</date>
