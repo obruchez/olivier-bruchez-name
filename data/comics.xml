@@ -2,6 +2,16 @@
 <comics>
   <introduction>A list of comics I read.</introduction>
   <comic>
+    <date>2019.03.24</date>
+    <writer>Lewis Trondheim &amp; Joann Sfar</writer>
+    <artist>Boulet</artist>
+    <colorist>Boulet &amp; Lucie Albon</colorist>
+    <series url="https://fr.wikipedia.org/wiki/Donjon_Z%C3%A9nith">Donjon Zénith</series>
+    <volume url="https://fr.wikipedia.org/wiki/Retour_en_fanfare" number="6">Retour en fanfare</volume>
+    <comments>Un très bon tome.</comments>
+    <image>Donjon Zénith - Retour en fanfare.jpg</image>
+  </comic>
+  <comic>
     <date>2019.03.16</date>
     <writer>Lewis Trondheim &amp; Joann Sfar</writer>
     <artist>Boulet</artist>
