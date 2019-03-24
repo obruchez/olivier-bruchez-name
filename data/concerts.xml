@@ -2673,6 +2673,28 @@
     <comments>Soundcheck</comments>
   </concert>
   <concert>
+    <date>2003.07.13</date>
+    <time>22:15</time>
+    <location>Grand-Places, Fribourg, Switzerland</location>
+    <event>Jazz Parade</event>
+    <group>Brad Mehldau Trio</group>
+    <musician inst="piano" main="true">Brad Mehldau</musician>
+    <musician inst="bass">Larry Grenadier</musician>
+    <musician inst="drums">Jorge Rossy (?)</musician>
+    <comments></comments>
+  </concert>
+  <concert>
+    <date>2003.07.08</date>
+    <time>21:30</time>
+    <location>Place Georges-Python, Fribourg, Switzerland</location>
+    <event>Jazz Parade</event>
+    <group>Esbjörn Svensson Trio</group>
+    <musician inst="piano" main="true">Esbjörn Svensson</musician>
+    <musician inst="bass">Dan Berglund</musician>
+    <musician inst="drums">Magnus Öström</musician>
+    <comments></comments>
+  </concert>
+  <concert>
     <date>2003.05.03</date>
     <location>Royal Festival Hall, London, UK</location>
     <event/>
