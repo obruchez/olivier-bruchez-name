@@ -3,6 +3,16 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Checklist: add rating to IMDb -->
   <movie>
+    <date>2019.03.27</date>
+    <theater home="true"/>
+    <director>Stanley Kubrick</director>
+    <title>2001: A Space Odyssey</title>
+    <url>https://www.imdb.com/title/tt0062622/</url>
+    <rating>5.5</rating>
+    <comments>I saw <i>2001: A Space Odyssey</i> at the cinema in 2001. Before that, I think I saw it at least once, maybe twice, on TV. I know I recorded the movie on a VHS tape. Probably in the late 80s or early 90s. The child I was then would probably rate this movie even higher. I also read the book, probably in the 90s. For me this is still the best science fiction movie ever made. The special effects are somewhat impressive for a movie made in 1968, in the sense that they don't look ridiculous in 2019. The rest is perfect: the contemplative nature of the movie, the music, the background photos of Spitzkoppe, Namibia at the beginning, etc.</comments>
+    <image>2001 - A Space Odyssey.jpg</image>
+  </movie>
+  <movie>
     <date>2019.03.19</date>
     <theater home="true"/>
     <director>Anthony Russo &amp; Joe Russo</director>
@@ -4453,7 +4463,7 @@
   <movie>
     <date>2005.12.14</date>
     <theater>Galeries, Lausanne</theater>
-    <title>The Three Burials Of Melquiades Estrada</title>
+    <title>Three Burials</title>
     <title language="fr">Trois Enterrements</title>
     <rating>5.5</rating>
   </movie>
