@@ -13,7 +13,7 @@
         <comments></comments>
         <image>The Theoretical Minimum.jpg</image>
     </book> -->
-    <book>
+    <!-- <book>
         <date></date>
         <title>Learn You a Haskell for Great Good!</title>
         <subtitle>A Beginner's Guide</subtitle>
@@ -21,9 +21,21 @@
         <publishingyear>2011</publishingyear>
         <rating></rating>
         <url>http://learnyouahaskell.com/</url>
-        <!-- <notes description="Kindle highlights"></notes> -->
+        <notes description="Kindle highlights"></notes>
         <comments></comments>
         <image>Learn You a Haskell for Great Good!.jpg</image>
+    </book> -->
+    <book>
+        <date>2019.03.29</date>
+        <title>Why We Sleep</title>
+        <subtitle>The New Science of Sleep and Dreams</subtitle>
+        <author>Matthew Walker</author>
+        <publishingyear>2017</publishingyear>
+        <rating>4.75</rating>
+        <url>https://en.wikipedia.org/wiki/Why_We_Sleep</url>
+        <notes description="Kindle highlights"></notes>
+        <comments>Summary: we should all sleep more. Lack of sleep is bad for... pretty much everything. See also <a href="https://medlineplus.gov/magazine/issues/summer12/articles/summer12pg20.html">Tips for Getting a Good Night's Sleep</a>.</comments>
+        <image>Why We Sleep.jpg</image>
     </book>
     <book>
         <date>2019.02.19</date>
