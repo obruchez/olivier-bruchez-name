@@ -3,6 +3,16 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Checklist: add rating to IMDb -->
   <movie>
+    <date>2019.03.31</date>
+    <theater home="true"/>
+    <director>Fritz Lang</director>
+    <title>M</title>
+    <url>https://www.imdb.com/title/tt0022100/</url>
+    <rating>5.0</rating>
+    <comments>I think I had already seen this movie in 1992-97, but I didn't remember much from it (apart from the whistling). I expected a "classic but boring" movie, but I was pleasantly surprised. The movie contains some very distinctive elements: the (unorthodox) camera angles and movements, the use of sounds and silence, even the aspect ratio (I guess). And Peter Lorre is brilliant in the final scene.</comments>
+    <image>M.jpg</image>
+  </movie>
+  <movie>
     <date>2019.03.27</date>
     <theater home="true"/>
     <director>Stanley Kubrick</director>
