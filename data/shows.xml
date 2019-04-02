@@ -10,7 +10,7 @@
   <show>
     <date></date>
     <name url="https://en.wikipedia.org/wiki/Modern_Family">Modern Family</name>
-    <series url="https://en.wikipedia.org/wiki/Modern_Family_(season_9)" type="season">9</series>
+    <series url="https://en.wikipedia.org/wiki/Modern_Family_(season_10)" type="season">10</series>
     <comments></comments>
   </show>
   <show>
@@ -31,6 +31,12 @@
     <series url="https://en.wikipedia.org/wiki/Veep_(TV_series)#Season_4" type="season">4</series>
     <comments></comments>
   </show> -->
+  <show>
+    <date>2019.04.01</date>
+    <name url="https://en.wikipedia.org/wiki/Modern_Family">Modern Family</name>
+    <series url="https://en.wikipedia.org/wiki/Modern_Family_(season_9)" type="season">9</series>
+    <comments>It's probably time for this show to end and I just learnt that season 11 will be the final season. Good. Season 9 was okay. The Haley/Fennerman "subplot", again, is a bit lame.</comments>
+  </show>
   <show>
     <date>2018.12.14</date>
     <name url="https://en.wikipedia.org/wiki/Modern_Family">Modern Family</name>
