@@ -2,6 +2,18 @@
 <podcasts>
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date></date>
+    <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
+    <episode url="https://samharris.org/podcasts/152-trouble-facebook/" number="152">The Trouble with Facebook - A Conversation with Roger McNamee</episode>
+    <comments></comments>
+  </podcast>
+  <podcast>
+    <date>2019.04.02</date>
+    <name url="http://peachandblack.podbean.com/">Peach &amp; Black Podcast</name>
+    <episode url="https://peachandblack.podbean.com/e/lotusflower-anniversary-reflection-with-richard-furch/">Prince's LotusFlower Anniversary Reflection with Richard Furch</episode>
+    <comments><i>Lotusflow3r</i> is one of my favorite albums from the "later years" and Richard Furch, which I didn't know before, was a very good guest. He worked for Prince for about one year, apparently.</comments>
+  </podcast>
+  <podcast>
     <date>2019.03.27</date>
     <name url="http://verybadwizards.com/">Very Bad Wizards</name>
     <episode url="https://verybadwizards.fireside.fm/152" number="152">Ruthlessness, Public and Private</episode>
