@@ -3,9 +3,15 @@
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
     <date></date>
+    <name url="http://peachandblack.podbean.com/">Peach &amp; Black Podcast</name>
+    <episode url="https://peachandblack.podbean.com/e/shelby-j-interview/">Shelby J. Interview</episode>
+    <comments></comments>
+  </podcast>
+  <podcast>
+    <date>2019.04.04</date>
     <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
     <episode url="https://samharris.org/podcasts/152-trouble-facebook/" number="152">The Trouble with Facebook - A Conversation with Roger McNamee</episode>
-    <comments></comments>
+    <comments>I'd gladly pay to have services such has Gmail, Google Drive, Google Maps, etc. if I could be certain that my data is not used in unexpected ways. At this point, though, there are no realistic alternatives to Google Maps, for example, or even Google Drive. So it's not easy to know what to do.</comments>
   </podcast>
   <podcast>
     <date>2019.04.02</date>
