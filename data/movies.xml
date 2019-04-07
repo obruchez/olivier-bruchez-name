@@ -3,6 +3,16 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Checklist: add rating to IMDb -->
   <movie>
+    <date>2019.04.06</date>
+    <theater home="true"/>
+    <director>Bob Persichetti, Peter Ramsey &amp; Rodney Rothman</director>
+    <title>Spider-Man: Into the Spider-Verse</title>
+    <url>https://www.imdb.com/title/tt4633694/</url>
+    <rating>5.0</rating>
+    <comments>I didn't expect to like this movie as much as I did. It's visually very original. The story itself is okay, I guess, but I don't think it's the most important element of the movie.</comments>
+    <image>Spider-Man - Into the Spider-Verse.jpg</image>
+  </movie>
+  <movie>
     <date>2019.03.31</date>
     <theater home="true"/>
     <director>Fritz Lang</director>
