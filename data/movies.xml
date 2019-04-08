@@ -3,6 +3,16 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Checklist: add rating to IMDb -->
   <movie>
+    <date>2019.04.08</date>
+    <theater home="true"/>
+    <director>Sam Mendes</director>
+    <title>American Beauty</title>
+    <url>https://www.imdb.com/title/tt0169547/</url>
+    <rating>5.0</rating>
+    <comments>Without realizing it (really!), I've seen this movie four times now (in March 2000, March 2003, March 2008, and now April 2019). I'm not sure I need to add anything. :)</comments>
+    <image>American Beauty.jpg</image>
+  </movie>
+  <movie>
     <date>2019.04.06</date>
     <theater home="true"/>
     <director>Bob Persichetti, Peter Ramsey &amp; Rodney Rothman</director>
@@ -3634,6 +3644,14 @@
     <rating>4.5</rating>
   </movie>
   <movie>
+    <date>2008.03.23</date>
+    <theater home="true"/>
+    <director>Sam Mendes</director>
+    <title>American Beauty</title>
+    <url>https://www.imdb.com/title/tt0169547/</url>
+    <image>American Beauty.jpg</image>
+  </movie>
+  <movie>
     <date>2008.03.20</date>
     <theater>Galeries, Lausanne</theater>
     <director>Cédric Klapisch</director>
@@ -5418,6 +5436,14 @@
     <title>Chicago</title>
   </movie>
   <movie>
+    <date>2003.03.04</date>
+    <theater home="true"/>
+    <director>Sam Mendes</director>
+    <title>American Beauty</title>
+    <url>https://www.imdb.com/title/tt0169547/</url>
+    <image>American Beauty.jpg</image>
+  </movie>
+  <movie>
     <date>2003.02.24</date>
     <title>Smoke Signals</title>
   </movie>
@@ -5855,7 +5881,11 @@
   </movie>
   <movie>
     <date>2000.03.15</date>
+    <theater>Galeries, Lausanne</theater>
+    <director>Sam Mendes</director>
     <title>American Beauty</title>
+    <url>https://www.imdb.com/title/tt0169547/</url>
+    <image>American Beauty.jpg</image>
   </movie>
   <movie>
     <date>2000.02.09</date>
