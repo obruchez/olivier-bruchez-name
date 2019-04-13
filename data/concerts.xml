@@ -14,28 +14,35 @@
     <date>2019.04.12</date>
     <location>Chapiteau, Cully, Switzerland</location>
     <event>Cully Jazz Festival</event>
-    <musician inst="" main=""></musician>
-    <musician inst=""></musician>
-    <rating></rating>
-    <comments></comments>
+    <group>Emile Parisien Quartet</group>
+    <musician inst="saxophone" main="yes">Emile Parisien</musician>
+    <musician inst="piano">Julien Touery</musician>
+    <musician inst="bass">Ivan Gelugne</musician>
+    <musician inst="drums">Julien Loutelier</musician>
+    <rating>4.5</rating>
+    <comments>At this point during the night, I was maybe a bit too tired, but it seemed to me that the band was less nuanced than the two previous bands. They had <em>a lot</em> of energy and the audience loved the concert, so maybe I missed something.</comments>
   </concert>
   <concert>
     <date>2019.04.12</date>
     <location>Chapiteau, Cully, Switzerland</location>
     <event>Cully Jazz Festival</event>
-    <musician inst="" main=""></musician>
-    <musician inst=""></musician>
-    <rating></rating>
-    <comments></comments>
+    <musician inst="piano" main="yes">Yaron Herman</musician>
+    <musician inst="drums">Ziv Ravitz</musician>
+    <musician inst="bass">Sam Minaie</musician>
+    <rating>4.75</rating>
+    <comments>My 11<sup>th</sup> Yaron Herman concert. I've now seen him more than Herbie Hancock! They played a long medley/suite of Yaron's recent compositions, without any pause, which I really liked.</comments>
   </concert>
   <concert>
     <date>2019.04.12</date>
     <location>Chapiteau, Cully, Switzerland</location>
     <event>Cully Jazz Festival</event>
-    <musician inst="" main=""></musician>
-    <musician inst=""></musician>
-    <rating></rating>
-    <comments></comments>
+    <group>Andreas Schaerer &amp; A Novel Of Anomaly</group>
+    <musician inst="vocals, vocal percussion" main="yes">Andreas Schaerer</musician>
+    <musician inst="accordion">Luciano Biondini</musician>
+    <musician inst="guitar">Kalle Kalima</musician>
+    <musician inst="drums">Lucas Niggli</musician>
+    <rating>5.0</rating>
+    <comments>I didn't know who was playing before Yaron Herman and it happened to be Andreas Schaerer, which I has already seen twice in Cully. The band was great! A lot of energy. All the musicians were excellent, but the accordionist and guitarist were particularly good.</comments>
   </concert>
   <concert>
     <date>2019.03.09</date>
@@ -45,7 +52,7 @@
     <musician inst="bass">Corcoran Holt</musician>
     <musician inst="drums">Samuel Laviso</musician>
     <musician inst="percussions">Rudy Bird</musician>
-    <rating>5.0</rating>
+    <rating>5.25</rating>
     <comments>A fantastic concert (and quite long as well - 130 minutes). I think I knew all the tunes. Samuel Laviso played like his life depended on it from start to finish. The encores included "Happy People", as usual, which always works. I heard a few very recognizable quotes ("Summertime", "Frère Jacques" (?), a tune by Coltrane, but also "Wrinkle" and another tune from Kenny's time with Miles).</comments>
   </concert>
   <concert>
