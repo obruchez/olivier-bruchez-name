@@ -3,9 +3,33 @@
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
     <date></date>
+    <name url="http://verybadwizards.com/">Very Bad Wizards</name>
+    <episode url="https://verybadwizards.fireside.fm/160" number="160">Everything is Meaningless: The Book of Ecclesiastes</episode>
+    <comments></comments>
+  </podcast>
+  <podcast>
+    <date>2019.04.12</date>
+    <name url="https://www.danielandjorge.com/podcasts">Daniel and Jorge Explain the Universe</name>
+    <episode url="https://www.danielandjorge.com/podcasts/is-anti-matter-a-real-thing.htm">Is Anti-Matter a Real thing?</episode>
+    <comments>Yes. We can produce small amounts of it at CERN, for example. We know what it is and some of its characteristics, but we don't know how much anti-matter (if any) there is in our universe. We can't know if a galaxy (for example) we see (photons) is made of matter or anti-matter. We guess there's not much anti-matter in our universe, but it's just a guess.</comments>
+  </podcast>
+  <podcast>
+    <date>2019.04.11</date>
+    <name url="https://www.danielandjorge.com/podcasts">Daniel and Jorge Explain the Universe</name>
+    <episode url="https://www.danielandjorge.com/podcasts/how-will-the-universe-die.htm">How will the Universe die?</episode>
+    <comments>The models I had in mind (big crunch, infinite expansion) are all plausible, apparently. We don't know what will happen, because the universe is "only" 15-billion year old, so it's hard to extrapolate. A question I still have is: how plausible is a stable universe (i.e. a universe that doesn't lead to a big crunch or to heat death)? Philosophically, I find this idea (that the universe and everything it contains will cease to exist) very important, because it really changes how you see the future/goal of humanity as a whole.</comments>
+  </podcast>
+  <podcast>
+    <date>2019.04.11</date>
+    <name url="http://verybadwizards.com/">Very Bad Wizards</name>
+    <episode url="https://verybadwizards.fireside.fm/161" number="161">Reach-Around Knowledge and Bottom Performers (The Dunning-Kruger Effect)</episode>
+    <comments>When I think of the Dunning-Kruger effect, I can immediately picture someone I know who suffers from this bias, but, let's be honest, we all have it, from time to time. The discussion about the "post-Dunning-Kruger effect", i.e. the realization that we (almost) don't know anything about anything (Socrates), was interesting. Bringing too many nuances to a discussion can be problematic. It can lead to inaction and look like a lack of enthusiasm, for example. Ironically, it's hard to know what to make of our lack of knowledge. At some point, you have to decide you know enough and act.</comments>
+  </podcast>
+  <podcast>
+    <date>2019.04.09</date>
     <name url="http://peachandblack.podbean.com/">Peach &amp; Black Podcast</name>
     <episode url="https://peachandblack.podbean.com/e/shelby-j-interview/">Shelby J. Interview</episode>
-    <comments></comments>
+    <comments>Not my favorite band member, but Shelby's a really nice person. She worked with Prince during a 9-year period (2006-2014), which is quite impressive.</comments>
   </podcast>
   <podcast>
     <date>2019.04.04</date>

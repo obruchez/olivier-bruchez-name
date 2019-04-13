@@ -11,6 +11,33 @@
   -->
   <introduction>A list of concerts I went to.</introduction>
   <concert>
+    <date>2019.04.12</date>
+    <location>Chapiteau, Cully, Switzerland</location>
+    <event>Cully Jazz Festival</event>
+    <musician inst="" main=""></musician>
+    <musician inst=""></musician>
+    <rating></rating>
+    <comments></comments>
+  </concert>
+  <concert>
+    <date>2019.04.12</date>
+    <location>Chapiteau, Cully, Switzerland</location>
+    <event>Cully Jazz Festival</event>
+    <musician inst="" main=""></musician>
+    <musician inst=""></musician>
+    <rating></rating>
+    <comments></comments>
+  </concert>
+  <concert>
+    <date>2019.04.12</date>
+    <location>Chapiteau, Cully, Switzerland</location>
+    <event>Cully Jazz Festival</event>
+    <musician inst="" main=""></musician>
+    <musician inst=""></musician>
+    <rating></rating>
+    <comments></comments>
+  </concert>
+  <concert>
     <date>2019.03.09</date>
     <location>Théâtre Maurice Novarina, Maison des Arts du Léman, Thonon-les-Bains, France</location>
     <musician inst="alto saxophone, soprano saxophone, vocals" main="yes">Kenny Garrett</musician>
