@@ -19,18 +19,18 @@
     <series url="https://en.wikipedia.org/wiki/The_Big_Bang_Theory_(season_12)" type="season">12</series>
     <comments></comments>
   </show>
-  <show>
-    <date></date>
-    <name url="https://en.wikipedia.org/wiki/This_Is_Us_(TV_series)">This Is Us</name>
-    <series url="https://en.wikipedia.org/wiki/This_Is_Us_(season_3)" type="season">3</series>
-    <comments></comments>
-  </show>
   <!-- <show>
     <date></date>
     <name url="https://en.wikipedia.org/wiki/Veep_(TV_series)">Veep</name>
     <series url="https://en.wikipedia.org/wiki/Veep_(TV_series)#Season_4" type="season">4</series>
     <comments></comments>
   </show> -->
+  <show>
+    <date>2019.04.04</date>
+    <name url="https://en.wikipedia.org/wiki/This_Is_Us_(TV_series)">This Is Us</name>
+    <series url="https://en.wikipedia.org/wiki/This_Is_Us_(season_3)" type="season">3</series>
+    <comments>Pretty good season. I think I'm starting to really appreciate the cathartic elements of this show.</comments>
+  </show>
   <show>
     <date>2019.04.01</date>
     <name url="https://en.wikipedia.org/wiki/Modern_Family">Modern Family</name>
