@@ -3,6 +3,16 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Checklist: add rating to IMDb -->
   <movie>
+    <date>2019.04.13</date>
+    <theater home="true"/>
+    <director>Aamir Khan &amp; Amole Gupte </director>
+    <title>Like Stars on Earth</title>
+    <url>https://www.imdb.com/title/tt0986264/</url>
+    <rating>3.25</rating>
+    <comments>I watched this movie because it's currently #85 in IMDb's top 250, but that was really painful. The first half of the movie is long and really boring. We almost decided to stop watching it, but we wanted to wait at least until Aamir Khan made his first appearance. Everything's really formulaic and cheesy. It looks like a television film, in the negative sense of the word.</comments>
+    <image>Like Stars on Earth.jpg</image>
+  </movie>
+  <movie>
     <date>2019.04.08</date>
     <theater home="true"/>
     <director>Sam Mendes</director>
