@@ -9,6 +9,12 @@
   </show>
   <show>
     <date></date>
+    <name url="https://en.wikipedia.org/wiki/Game_of_Thrones">Game of Thrones</name>
+    <series url="https://en.wikipedia.org/wiki/Game_of_Thrones_(season_8)" type="season">8</series>
+    <comments></comments>
+  </show>
+  <show>
+    <date></date>
     <name url="https://en.wikipedia.org/wiki/Modern_Family">Modern Family</name>
     <series url="https://en.wikipedia.org/wiki/Modern_Family_(season_10)" type="season">10</series>
     <comments></comments>
