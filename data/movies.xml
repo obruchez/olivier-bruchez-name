@@ -3,9 +3,19 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Checklist: add rating to IMDb -->
   <movie>
+    <date>2019.04.15</date>
+    <theater home="true"/>
+    <director>Jean-Pierre Jeunet</director>
+    <title>Le fabuleux destin d'Amélie Poulain</title>
+    <url>https://www.imdb.com/title/tt0211915/</url>
+    <rating>4.75</rating>
+    <comments>It's so hard to judge this movie. I saw it only once, in 2001, but I feel like I have seen it many times. It was/is so popular. One could even say it has become a kind of cliché (the music, Audrey Tautou's look, etc.).</comments>
+    <image>Le fabuleux destin d'Amélie Poulain.jpg</image>
+  </movie>
+  <movie>
     <date>2019.04.13</date>
     <theater home="true"/>
-    <director>Aamir Khan &amp; Amole Gupte </director>
+    <director>Aamir Khan &amp; Amole Gupte</director>
     <title>Like Stars on Earth</title>
     <url>https://www.imdb.com/title/tt0986264/</url>
     <rating>3.25</rating>
@@ -5724,9 +5734,17 @@
     <title>Chansons Du Deuxième Étage</title>
   </movie>
   <movie>
-    <date>2001.05.08</date>
+    <date></date>
     <title>Le Fabuleux Destin D'Amélie Poulain</title>
     <version>fr</version>
+  </movie>
+  <movie>
+    <date>2001.05.08</date>
+    <theater>Athénée, Lausanne</theater>
+    <director>Jean-Pierre Jeunet</director>
+    <title>Le fabuleux destin d'Amélie Poulain</title>
+    <url>https://www.imdb.com/title/tt0211915/</url>
+    <image>Le fabuleux destin d'Amélie Poulain.jpg</image>
   </movie>
   <movie>
     <date>2001.04.24</date>
