@@ -2,6 +2,16 @@
 <comics>
   <introduction>A list of comics I read.</introduction>
   <comic>
+    <date>2019.04.21</date>
+    <writer>Lewis Trondheim &amp; Joann Sfar</writer>
+    <artist>Joann Sfar</artist>
+    <colorist>Walter</colorist>
+    <series url="https://fr.wikipedia.org/wiki/Donjon_Cr%C3%A9puscule">Donjon Crépuscule</series>
+    <volume url="https://fr.wikipedia.org/wiki/Armaggedon_(Donjon)" number="103">Armaggedon</volume>
+    <comments>Un tome où il se passe beaucoup de choses. Des flashbacks. Des trips. Pas mal de plans larges.</comments>
+    <image>Donjon Crépuscule - Armaggedon.jpg</image>
+  </comic>
+  <comic>
     <date>2019.04.07</date>
     <writer>Lewis Trondheim &amp; Joann Sfar</writer>
     <artist>Joann Sfar</artist>
