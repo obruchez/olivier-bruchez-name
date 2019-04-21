@@ -3,9 +3,15 @@
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
     <date></date>
+    <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
+    <episode url="https://samharris.org/podcasts/153-possible-minds/" number="153">Possible Minds - Conversations with George Dyson, Alison Gopnik, and Stuart Russell</episode>
+    <comments></comments>
+  </podcast>
+  <podcast>
+    <date>2019.04.19</date>
     <name url="http://verybadwizards.com/">Very Bad Wizards</name>
     <episode url="https://verybadwizards.fireside.fm/162" number="162">Parents Just Don't Understand (with Paul Bloom)</episode>
-    <comments></comments>
+    <comments><a href="https://en.wikipedia.org/wiki/Judith_Rich_Harris">Judith Rich Harris "was an American psychology researcher and the author of <i>The Nurture Assumption</i>, a book criticizing the belief that parents are the most important factor in child development, and presenting evidence which contradicts that belief."</a> I was not familiar with her. I guess this was a good introduction to the topic (i.e. the effect of parenting on the child development) and the debate around it. As often, it's largely a question of distinguishing correlations from cause and effect relationships. Studies about adopted children can make this distinction clearer. My conclusion is that parenting doesn't seem to be as important as we could think. The discussion about art and "problematic" artists was interesting, as usual.</comments>
   </podcast>
   <podcast>
     <date>2019.04.17</date>
