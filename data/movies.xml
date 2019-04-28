@@ -3,6 +3,26 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Checklist: add rating to IMDb -->
   <movie>
+    <date>2019.04.27</date>
+    <theater home="true"/>
+    <director>Quentin Tarantino &amp; Eli Roth</director>
+    <title>Inglourious Basterds</title>
+    <url>https://www.imdb.com/title/tt0361748/</url>
+    <rating>4.75</rating>
+    <comments>Not as violent as I expected (for a Tarantino movie). There are many stressful moments, including the beginning of the movie. Christoph Waltz is brilliant. The end is surprising (but also satisfying, in an ambiguous way).</comments>
+    <image>Inglourious Basterds.jpg</image>
+  </movie>
+  <movie>
+    <date>2019.04.26</date>
+    <theater home="true"/>
+    <director>Mel Gibson</director>
+    <title>Braveheart</title>
+    <url>https://www.imdb.com/title/tt0112573/</url>
+    <rating>4.25</rating>
+    <comments>I enjoyed this movie a bit more than expected. It's historically completely inaccurate. It's somewhat of an ego trip. But it's not bad, if you can separate the artist from the art.</comments>
+    <image>Braveheart.jpg</image>
+  </movie>
+  <movie>
     <date>2019.04.15</date>
     <theater home="true"/>
     <director>Jean-Pierre Jeunet</director>
