@@ -3,9 +3,15 @@
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
     <date></date>
+    <name url="http://peachandblack.podbean.com/">Peach &amp; Black Podcast</name>
+    <episode url="https://peachandblack.podbean.com/e/prince-rave-un2-in2-extended-review/">Prince - Rave Un2 In2 Extended Review</episode>
+    <comments>This is an "extended" version of the older episode, initially published in 2011, which I listened to in 2015. It includes 40 minutes of discussion that were not included in the original episode. The highlight of the episode is the moment when Toejam explains that "Strange But True" is his favorite song of all time (by Prince, but maybe also by any artist). This is an odd choice, but I can understand why. It's a fantastic song, even though it's a bit obscure.</comments>
+  </podcast>
+  <podcast>
+    <date>2019.04.24</date>
     <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
     <episode url="https://samharris.org/podcasts/153-possible-minds/" number="153">Possible Minds - Conversations with George Dyson, Alison Gopnik, and Stuart Russell</episode>
-    <comments></comments>
+    <comments>Three very different interviews. I particularly enjoyed the one with Alison Gopnik.</comments>
   </podcast>
   <podcast>
     <date>2019.04.19</date>
