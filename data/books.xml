@@ -27,13 +27,36 @@
     </book> -->
     <book>
         <date></date>
+        <title>Poèmes saturniens</title>
+        <author>Paul Verlaine</author>
+        <publishingyear>1866</publishingyear>
+        <rating></rating>
+        <url>https://fr.wikipedia.org/wiki/Po%C3%A8mes_saturniens</url>
+        <notes description="Kindle highlights"></notes>
+        <comments></comments>
+        <image>Poèmes saturniens.jpg</image>
+    </book> 
+    <book>
+        <date></date>
+        <title>L'Ecclésiaste</title>
+        <subtitle>Un temps pour tout</subtitle>
+        <author>Ernest Renan</author>
+        <publishingyear>1881</publishingyear>
+        <rating></rating>
+        <url>https://fr.wikipedia.org/wiki/Eccl%C3%A9siaste</url>
+        <notes description="Kindle highlights"></notes>
+        <comments>Texte original et étude/commentaire d'Ernest Renan.</comments>
+        <image>L'Ecclésiaste.jpg</image>
+    </book> 
+    <book>
+        <date>2019.04.23</date>
         <title>Le Livre du rire et de l'oubli</title>
         <author>Milan Kundera</author>
         <publishingyear>1979</publishingyear>
-        <rating></rating>
+        <rating>4.5</rating>
         <url>https://fr.wikipedia.org/wiki/Le_Livre_du_rire_et_de_l%27oubli</url>
         <notes description="Kindle highlights"></notes>
-        <comments></comments>
+        <comments>Un livre de Kundera plus inégal, pour moi. On y trouve toujours des passages géniaux et ce mélange entre la fiction, l'essai et l'autobiographie. Et puis, il y a des moments plus confus. Plus étranges. Comme le passage de l'île aux enfants. Je crois que je comprends les éléments allégoriques, mais ça reste malsain. Tout du moins en contraste avec le reste du livre.</comments>
         <image>Le Livre du rire et de l'oubli.jpg</image>
     </book>
     <book>
