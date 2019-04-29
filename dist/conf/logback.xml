@@ -35,4 +35,6 @@
     <root level="INFO">
         <appender-ref ref="FILE"/>
     </root>
+
+    <logger name="com.google.api.client.http" level="OFF"/>
 </configuration>
