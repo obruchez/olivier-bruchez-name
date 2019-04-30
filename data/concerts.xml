@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <concerts>
   <!--
-  - Fribourg : y suis allé deux fois, une fois avec Aline (assis, dehors), une fois seul (assis sur l'herbe, crois avoir vu PMC) - vu trio de Brad Mehldau (seul) et E.S.T. ou Brad (avec Aline)
   - check programme Bout du monde novembre-décembre 2006 ???
-  - concerts RSR (Thierry Lang / Didier Lockwood, etc.)
-  - 2004/xx/xx EST ??? (vus en tout cas une ou deux fois)
-  - 2002/02/11 : Brad Mehldau + Thierry Lang, Lausanne (? -> bad date)
   - 1998/07/08 THE KENNY WAYNE SHEPHERD BAND (http://www.montreuxsounds.com/detail2006.php?fiche=2013) (vu ou pas ?)
   - Avenches (Arènes): Carmen (Bizet)
   -->
@@ -2420,6 +2416,17 @@
     <comments></comments>
   </concert>
   <concert>
+    <date>2005.07.12</date>
+    <time>19:15</time>
+    <location>Place Georges-Python, Fribourg, Switzerland</location>
+    <event>Jazz Parade</event>
+    <group>Brad Mehldau Trio</group>
+    <musician inst="piano" main="true">Brad Mehldau</musician>
+    <musician inst="bass">Larry Grenadier</musician>
+    <musician inst="drums">Jeff Ballard</musician>
+    <comments>Heard part of the soundcheck (5-10 minutes?).</comments>
+  </concert>
+  <concert>
     <date>2005.07.04</date>
     <location>Casino Barrière, Montreux, Switzerland</location>
     <event>Montreux Jazz Festival</event>
@@ -2536,6 +2543,17 @@
     <musician inst="vocals">?</musician>
   </concert>
   <concert>
+    <date>2004.05.19</date>
+    <location>Studio 15, Radio Suisse Romande, Lausanne, Switzerland</location>
+    <event>JazzZ</event>
+    <group>Rova Saxophone Quartet</group>
+    <musician inst="saxophone">Jon Raskin</musician>
+    <musician inst="saxophone">Larry Ochs</musician>
+    <musician inst="saxophone">Bruce Ackley</musician>
+    <musician inst="saxophone">Steve Adams</musician>
+    <comments></comments>
+  </concert>
+  <concert>
     <date>2004.03.30</date>
     <location>Chapiteau, Cully, Switzerland</location>
     <event>Cully Jazz Festival</event>
@@ -2603,6 +2621,25 @@
     <musician inst="piano" main="true">Colin Vallon</musician>
     <musician inst="bass">Lorenz Beyeler</musician>
     <musician inst="drums">Raphaël Pedroli</musician>
+    <comments></comments>
+  </concert>
+  <concert>
+    <date>2004.03.19</date>
+    <location>Métropole, Lausanne, Switzerland</location>
+    <group>Esbjörn Svensson Trio</group>
+    <musician inst="piano" main="true">Esbjörn Svensson</musician>
+    <musician inst="bass">Dan Berglund</musician>
+    <musician inst="drums">Magnus Öström</musician>
+    <comments></comments>
+  </concert>
+  <concert>
+    <date>2004.02.03</date>
+    <location>Studio 15, Radio Suisse Romande, Lausanne, Switzerland</location>
+    <event>JazzZ</event>
+    <musician inst="violin" main="true">Didier Lockwood</musician>
+    <musician inst="piano">Benoît Sourisse</musician>
+    <musician inst="drums">André Charlier</musician>
+    <musician inst="saxophone">Stéphane Guillaume</musician>
     <comments></comments>
   </concert>
   <concert>
