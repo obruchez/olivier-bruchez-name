@@ -2,6 +2,16 @@
 <comics>
   <introduction>A list of comics I read.</introduction>
   <comic>
+    <date>2019.05.05</date>
+    <writer>Lewis Trondheim &amp; Joann Sfar</writer>
+    <artist>Kerascoët</artist>
+    <colorist>Walter</colorist>
+    <series url="https://fr.wikipedia.org/wiki/Donjon_Cr%C3%A9puscule">Donjon Crépuscule</series>
+    <volume url="https://fr.wikipedia.org/wiki/Les_Nouveaux_Centurions" number="105">Les Nouveaux Centurions</volume>
+    <comments>Un tome légèrement meilleur que le précédent. Un peu plus intéressant graphiquement aussi, peut-être.</comments>
+    <image>Donjon Crépuscule - Les Nouveaux Centurions.jpg</image>
+  </comic>
+  <comic>
     <date>2019.04.28</date>
     <writer>Lewis Trondheim &amp; Joann Sfar</writer>
     <artist>Kerascoët</artist>
