@@ -26,6 +26,7 @@
 
 ## PC
 
+* [Action SuperCross](https://archive.org/details/msdos_ACROSS_shareware) (not sure which version exactly, probably this one)
 * [Blood](https://en.wikipedia.org/wiki/Blood_%28video_game%29)
 * [Blood II: The Chosen](https://en.wikipedia.org/wiki/Blood_II:_The_Chosen) (not finished?)
 * [Blupimania](http://blupi.wikia.com/wiki/Blupimania) (first version, non-3D)
