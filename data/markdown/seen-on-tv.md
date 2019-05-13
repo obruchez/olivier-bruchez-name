@@ -35,7 +35,8 @@
 * [Quoi de neuf docteur ?](http://www.imdb.com/title/tt0088527/)
 * [Sauvé par le Gong](http://www.imdb.com/title/tt0096694/)
 * [Supercopter](http://www.imdb.com/title/tt0086662/)
-* [Téléchat](http://fr.wikipedia.org/wiki/T%C3%A9l%C3%A9chat)
+* [Téléchat](https://www.imdb.com/title/tt0294210/)
+* [Tonnerre mécanique](https://www.imdb.com/title/tt0088618/) (Street Hawk, en anglais)
 * [The Cosby Show](http://www.imdb.com/title/tt0086687/)
 * [Tribunal](http://www.imdb.com/title/tt0168400/) (pas sûr s'il s'agisse de la bonne série)
 * [Vice à Miami](http://www.imdb.com/title/tt0086759/)
@@ -50,7 +51,6 @@
 * série avec bande de jeunes en France (club des 5 ???) (5 enfants en vacances qui résolvaient des énigmes)
 * série avec expression "mystère et boule de gomme" et "catastrophe numéro un"
 * série que je confonds avec Tales from the Crypt (contes, qqn près du feu, avec un chien, images en ombres et avec des acteurs humains)
-* série vaguement similaire à Supercopter, mais avec une "super-moto"
 
 ## Dessins animés
 
