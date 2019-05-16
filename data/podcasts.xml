@@ -3,9 +3,15 @@
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
     <date></date>
+    <name url="http://peachandblack.podbean.com/">Peach &amp; Black Podcast</name>
+    <episode url="https://peachandblack.podbean.com/e/may-2019-prince-news-episode/">May 2019 Prince News Episode</episode>
+    <comments></comments>
+  </podcast>
+  <podcast>
+    <date>2019.05.16</date>
     <name url="http://verybadwizards.com/">Very Bad Wizards</name>
     <episode>Twin Peaks Part II</episode>
-    <comments></comments>
+    <comments>This was a more interesting (and focused?) discussion than the first one. I liked the parts about the relationship between Lynch and Frost, and between Twin Peaks and the rest of Lynch's body of work. I'm glad to learn that I'm not the only one having difficulties with <i>Inland Empire</i>. I know I want to watch it again, someday, but I never find the energy/motivation to do it. I know it will be a demanding experience.</comments>
   </podcast>
   <podcast>
     <date>2019.05.10</date>
