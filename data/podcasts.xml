@@ -2,10 +2,16 @@
 <podcasts>
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
-    <date></date>
+    <date>4</date>
+    <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
+    <episode url="https://samharris.org/podcasts/156-evolution-culture/" number="156">The Evolution of Culture - A Conversation with Nicholas Christakis</episode>
+    <comments></comments>
+  </podcast>
+  <podcast>
+    <date>2019.05.17</date>
     <name url="http://peachandblack.podbean.com/">Peach &amp; Black Podcast</name>
     <episode url="https://peachandblack.podbean.com/e/may-2019-prince-news-episode/">May 2019 Prince News Episode</episode>
-    <comments></comments>
+    <comments>The main news is the forthcoming album "Originals", which is quite exciting. The other recent releases, like the re-release of an obscure promo cassette ("The Versace Experience - Prelude 2 Gold") and another promo vinyl ("His Majesty's Pop Life / The Purple Mix Club") for Record Store Day left me unimpressed. I'm definitely not a collector anymore. I'm only interested in new music, with the best possible sound quality.</comments>
   </podcast>
   <podcast>
     <date>2019.05.16</date>
