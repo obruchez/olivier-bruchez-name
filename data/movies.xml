@@ -3,6 +3,16 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Checklist: add rating to IMDb -->
   <movie>
+    <date>2019.05.17</date>
+    <theater home="true"/>
+    <director>Ridley Scott</director>
+    <title>Gladiator</title>
+    <url>https://www.imdb.com/title/tt0172495/</url>
+    <rating>4.0</rating>
+    <comments>I don't think I was particularly impressed 19 years ago when I first saw it, but it was less bad than anticipated.</comments>
+    <image>Gladiator.jpg</image>
+  </movie>
+  <movie>
     <date>2019.04.27</date>
     <theater home="true"/>
     <director>Quentin Tarantino &amp; Eli Roth</director>
@@ -5888,7 +5898,11 @@
   </movie>
   <movie>
     <date>2000.06.21</date>
+    <theater>Galeries, Lausanne</theater>
+    <director>Ridley Scott</director>
     <title>Gladiator</title>
+    <url>https://www.imdb.com/title/tt0172495/</url>
+    <image>Gladiator.jpg</image>
   </movie>
   <movie>
     <date>2000.06.15</date>
