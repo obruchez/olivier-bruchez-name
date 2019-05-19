@@ -2,6 +2,16 @@
 <comics>
   <introduction>A list of comics I read.</introduction>
   <comic>
+    <date>2019.05.19</date>
+    <writer>Lewis Trondheim &amp; Joann Sfar</writer>
+    <artist>Obion</artist>
+    <colorist>Walter</colorist>
+    <series url="https://fr.wikipedia.org/wiki/Donjon_Cr%C3%A9puscule">Donjon Crépuscule</series>
+    <volume url="https://fr.wikipedia.org/wiki/R%C3%A9volutions_(Donjon)" number="106">Révolutions</volume>
+    <comments>Un tome très réussi. J'aime beaucoup ce concept de mini-planète, qui n'est pas sans rappeler <i>Le Petit Prince</i>.</comments>
+    <image>Donjon Crépuscule - Révolutions.jpg</image>
+  </comic>
+  <comic>
     <date>2019.05.05</date>
     <writer>Lewis Trondheim &amp; Joann Sfar</writer>
     <artist>Kerascoët</artist>
