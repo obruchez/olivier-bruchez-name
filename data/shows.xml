@@ -14,23 +14,17 @@
     <comments></comments>
   </show>
   <show>
-    <date></date>
-    <name url="https://en.wikipedia.org/wiki/Modern_Family">Modern Family</name>
-    <series url="https://en.wikipedia.org/wiki/Modern_Family_(season_10)" type="season">10</series>
-    <comments></comments>
-  </show>
-  <show>
-    <date></date>
+    <date>2019.05.17</date>
     <name url="https://en.wikipedia.org/wiki/The_Big_Bang_Theory">The Big Bang Theory</name>
     <series url="https://en.wikipedia.org/wiki/The_Big_Bang_Theory_(season_12)" type="season">12</series>
-    <comments></comments>
+    <comments>Finally, it's over. The final episode was underwhelming, but I don't really know how it could have been better. The show should have ended 5-6 seasons before.</comments>
   </show>
-  <!-- <show>
-    <date></date>
-    <name url="https://en.wikipedia.org/wiki/Veep_(TV_series)">Veep</name>
-    <series url="https://en.wikipedia.org/wiki/Veep_(TV_series)#Season_4" type="season">4</series>
-    <comments></comments>
-  </show> -->
+  <show>
+    <date>2019.05.17</date>
+    <name url="https://en.wikipedia.org/wiki/Modern_Family">Modern Family</name>
+    <series url="https://en.wikipedia.org/wiki/Modern_Family_(season_10)" type="season">10</series>
+    <comments>There are still a few funny moments here and there. My biggest problem with the show are the lame subplots (which usually involve Haley) and the bad and/or child actors (Gloria, Lily, and Joe). At this point, the show is still stronger than <i>The Big Bang Theory</i>'s last seasons.</comments>
+  </show>
   <show>
     <date>2019.04.04</date>
     <name url="https://en.wikipedia.org/wiki/This_Is_Us_(TV_series)">This Is Us</name>
