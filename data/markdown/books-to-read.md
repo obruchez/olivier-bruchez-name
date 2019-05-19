@@ -65,6 +65,7 @@ Pretty much everything from [Les cent livres du siècle](https://fr.wikipedia.or
 * Benjamin C. Pierce, ["Types and Programming Languages"](http://www.cis.upenn.edu/~bcpierce/tapl/) (recommended by [@icassina](https://twitter.com/icassina), quite "academic"/complex; see also [code in Scala](https://github.com/ilya-klyuchnikov/tapl-scala))
 * Eric S. Raymond, ["The Cathedral & the Bazaar: Musings on Linux and Open Source by an Accidental Revolutionary"](https://www.amazon.com/Cathedral-Bazaar-Musings-Accidental-Revolutionary/dp/0596001088) (recommended by [@akosma](https://twitter.com/akosma))
 * David Rice, ["Geekonomics: The Real Cost of Insecure Software"](https://www.amazon.com/Geekonomics-Real-Cost-Insecure-Software-ebook/dp/B004UAALT6) (recommended by [@akosma](https://twitter.com/akosma))
+* Fabien Sanglard, ["Game Engine Black Book: Doom"](http://fabiensanglard.net/gebbdoom/index.html) (free ebook)
 * Harold Simmons, ["An Introduction to Category Theory"](http://www.amazon.com/Introduction-Category-Theory-Harold-Simmons/dp/0521283043/) (also recommended by [@icassina](https://twitter.com/icassina)?)
 * Joel Spolsky, ["The Best Software Writing I"](http://www.amazon.com/The-Best-Software-Writing-Introduced/dp/1590595009) (belonging to [@ebruchez](https://twitter.com/ebruchez))
 * Steve Weber, ["The Success of Open Source"](https://www.amazon.com/Success-Open-Source-Steve-WEBER-ebook/dp/B002OSXS0U) (recommended by [@akosma](https://twitter.com/akosma))
