@@ -2,13 +2,23 @@
 <comics>
   <introduction>A list of comics I read.</introduction>
   <comic>
+    <date>2019.05.22</date>
+    <writer>Lewis Trondheim &amp; Joann Sfar</writer>
+    <artist>Mazan</artist>
+    <colorist>Walter</colorist>
+    <series url="https://fr.wikipedia.org/wiki/Donjon_Cr%C3%A9puscule">Donjon Crépuscule</series>
+    <volume url="https://fr.wikipedia.org/wiki/La_Fin_du_Donjon" number="111">La Fin du Donjon</volume>
+    <comments>Un tome plein d'aventure et, évidemment, touchant (même si c'est un peu convenu). Le fait d'avoir deux tomes parallèles présentant différents points de vue, se recoupant parfois, n'est pas nouveau, mais j'aime bien.</comments>
+    <image>Donjon Crépuscule - La Fin du Donjon.jpg</image>
+  </comic>
+  <comic>
     <date>2019.05.20</date>
     <writer>Lewis Trondheim &amp; Joann Sfar</writer>
     <artist>Alfred</artist>
     <colorist>Walter</colorist>
     <series url="https://fr.wikipedia.org/wiki/Donjon_Cr%C3%A9puscule">Donjon Crépuscule</series>
     <volume url="https://fr.wikipedia.org/wiki/Haut_Septentrion" number="110">Haut Septentrion</volume>
-    <comments>Une histoire un peu difficile à suivre par moments. Un nouveau dessinateur. Des combats. De la science-fiction (?). </comments>
+    <comments>Une histoire un peu difficile à suivre par moments. Un nouveau dessinateur. Des combats. De la science-fiction (?).</comments>
     <image>Donjon Crépuscule - Haut Septentrion.jpg</image>
   </comic>
   <comic>
