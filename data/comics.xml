@@ -2,6 +2,16 @@
 <comics>
   <introduction>A list of comics I read.</introduction>
   <comic>
+    <date>2019.05.24</date>
+    <writer>Lewis Trondheim &amp; Joann Sfar</writer>
+    <artist>Mazan</artist>
+    <colorist>Walter</colorist>
+    <series url="https://fr.wikipedia.org/wiki/Donjon_(bande_dessin%C3%A9e)#Donjon_Monsters">Donjon Monsters</series>
+    <volume url="https://fr.wikipedia.org/wiki/Jean-Jean_la_terreur" number="1">Jean-Jean la terreur</volume>
+    <comments>Un tome plaisant, sans plus. Je ne suis pour l'instant pas convaincu par le concept de Donjon Monsters.</comments>
+    <image>Donjon Monsters - Jean-Jean la terreur.jpg</image>
+  </comic>
+  <comic>
     <date>2019.05.22</date>
     <writer>Lewis Trondheim &amp; Joann Sfar</writer>
     <artist>Mazan</artist>
