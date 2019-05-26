@@ -2,6 +2,16 @@
 <movies>
   <introduction>A list of movies I saw.</introduction>
   <!-- Checklist: add rating to IMDb -->
+   <movie>
+    <date>2019.05.25</date>
+    <theater home="true"/>
+    <director>Harold Ramis</director>
+    <title>Groundhog Day</title>
+    <url>https://www.imdb.com/title/tt0107048/</url>
+    <rating>4.5</rating>
+    <comments>Not bad. It's a bit cheesy, but it covers quite a few interesting topics: free will, immortality, ethics/consequentialism, honesty, how to live a good life, etc. The suicide scenes are particularly funny.</comments>
+    <image>Groundhog Day.jpg</image>
+  </movie>
   <movie>
     <date>2019.05.18</date>
     <theater home="true"/>
