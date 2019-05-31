@@ -2,6 +2,16 @@
 <comics>
   <introduction>A list of comics I read.</introduction>
   <comic>
+    <date>2019.05.31</date>
+    <writer>Lewis Trondheim &amp; Joann Sfar</writer>
+    <artist>Jean-Christophe Menu</artist>
+    <colorist>Walter</colorist>
+    <series url="https://fr.wikipedia.org/wiki/Donjon_(bande_dessin%C3%A9e)#Donjon_Monsters">Donjon Monsters</series>
+    <volume number="2">Le Géant qui pleure</volume>
+    <comments>Ni le dessin ni l'histoire ne m'ont convaincu. Je dirais même que c'est mauvais.</comments>
+    <image>Donjon Monsters - Le Géant qui pleure.jpg</image>
+  </comic>
+  <comic>
     <date>2019.05.24</date>
     <writer>Lewis Trondheim &amp; Joann Sfar</writer>
     <artist>Mazan</artist>
