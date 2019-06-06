@@ -1,6 +1,6 @@
 # Movies to watch
 
-Pretty much everything from [IMDb's Top 250](http://www.imdb.com/chart/top). See also [List of films considered the best](https://en.wikipedia.org/wiki/List_of_films_considered_the_best), [Metacritic's top movies](http://www.metacritic.com/browse/movies/score/metascore/all/filtered), [Rotten Tomatoes' Top 100 movies of all time](http://www.rottentomatoes.com/top/bestofrt/), and [The 50 Greatest Films of All Time](https://www.bfi.org.uk/news/50-greatest-films-all-time).
+Pretty much everything from [IMDb's Top 250](http://www.imdb.com/chart/top) and [Phi Phenomenon](http://www.phi-phenomenon.org/). See also [List of films considered the best](https://en.wikipedia.org/wiki/List_of_films_considered_the_best), [Metacritic's top movies](http://www.metacritic.com/browse/movies/score/metascore/all/filtered), [Rotten Tomatoes' Top 100 movies of all time](http://www.rottentomatoes.com/top/bestofrt/), and [The 50 Greatest Films of All Time](https://www.bfi.org.uk/news/50-greatest-films-all-time).
 
 ## [Agnès Varda](http://www.imdb.com/name/nm0889513)
 
@@ -39,7 +39,6 @@ Pretty much everything from [IMDb's Top 250](http://www.imdb.com/chart/top). See
 
 ## [Christopher Nolan](http://www.imdb.com/name/nm0634240)
 
-* [The Dark Knight Rises](http://www.imdb.com/title/tt1345836) (8.4)
 * [Dunkirk](http://www.imdb.com/title/tt5013056/) (8.0)
 
 ## [Danny Boyle](http://www.imdb.com/name/nm0000965)
@@ -54,10 +53,6 @@ Pretty much everything from [IMDb's Top 250](http://www.imdb.com/chart/top). See
 ## [David Lynch](http://www.imdb.com/name/nm0000186)
 
 * [The Elephant Man](http://www.imdb.com/title/tt0080678) (8.2) (already seen)
-* [The Straight Story](http://www.imdb.com/title/tt0166896) (8.0) (already seen)
-* [Blue Velvet](http://www.imdb.com/title/tt0090756) (7.8) (already seen)
-* [Lost Highway](http://www.imdb.com/title/tt0116922) (7.6) (already seen)
-* [Eraserhead](http://www.imdb.com/title/tt0074486) (7.4) (already seen)
 
 ...
 
@@ -123,17 +118,13 @@ Pretty much everything from [IMDb's Top 250](http://www.imdb.com/chart/top). See
 
 ## [Stanley Kubrick](http://www.imdb.com/name/nm0000040)
 
-* [Paths of Glory](http://www.imdb.com/title/tt0050825) (8.4)
 * [Full Metal Jacket](http://www.imdb.com/title/tt0093058) (8.3) (already seen on DVD)
-* [2001: A Space Odyssey](http://www.imdb.com/title/tt0062622) (8.3) (already seen on TV and at the cinema)
-* [A Clockwork Orange](http://www.imdb.com/title/tt0066921) (8.3) (already seen on DVD)
 * [Barry Lyndon](http://www.imdb.com/title/tt0072684) (8.1)
 * [Spartacus](http://www.imdb.com/title/tt0054331) (7.9)
 * [Lolita](http://www.imdb.com/title/tt0056193) (7.6)
 
 ## [Terry Gilliam](http://www.imdb.com/name/nm0000416)
 
-* [Monty Python and the Holy Grail](http://www.imdb.com/title/tt0071853) (8.3)
 * [Brazil](http://www.imdb.com/title/tt0088846) (8.0)
 
 \+ [Lost in La Mancha](http://www.imdb.com/title/tt0308514) (7.4) (a documentary about "Terry Gilliam's doomed attempt to get his film, The Man Who Killed Don Quixote, off the ground")
@@ -160,7 +151,6 @@ Pretty much everything from [IMDb's Top 250](http://www.imdb.com/chart/top). See
 * Yann Arthus-Bertrand, [Home](http://www.imdb.com/title/tt1014762) (8.6)
 * Jaume Balagueró & Paco Plaza, [[Rec]](http://www.imdb.com/title/tt1038988) (7.5)
 * Marie-Dominique Dhelsing, [Pierre Rabhi : Au nom de la terre](http://www.imdb.com/title/tt2805242) (7.4) (recommended by [@caryl_jones](https://twitter.com/caryl_jones))
-* Cyril Dion & Mélanie Laurent, [Demain](http://www.imdb.com/title/tt4449576/) (8.1) (recommended by [@al_lowi](https://twitter.com/al_lowi))
 * Federico Fellini, [8½](http://www.imdb.com/title/tt0056801) (8.1) (recommended by [@ebruchez](https://twitter.com/ebruchez))
 * Richard Fleischer, [Soylent Green](http://www.imdb.com/title/tt0070723) (7.1)
 * Paul Haggis, [In the Valley of Elah](http://www.imdb.com/title/tt0478134) (7.2)
@@ -168,7 +158,6 @@ Pretty much everything from [IMDb's Top 250](http://www.imdb.com/chart/top). See
 * Byron Haskin, [The Power](http://www.imdb.com/title/tt0063452) ("La Guerre des Cerveaux") (6.1) (not particularly good, saw this as a child)
 * Dennis Hopper, [The Hot Spot](http://www.imdb.com/title/tt0099797) (6.4) (for the Miles Davis soundtrack)
 * John Huston, [Moby Dick](http://www.imdb.com/title/tt0049513) (7.4)
-* Duncan Jones, [Moon](http://www.imdb.com/title/tt1182345) (8.0)
 * Barbara Kopple & Cecilia Peck, [Shut Up & Sing](http://www.imdb.com/title/tt0811136) (7.7)
 * Ray Kurzweil & Anthony Waller, [The Singularity is Near](http://www.imdb.com/title/tt1049412) (6.7)
 * Ken Loach, [It's a Free World](http://www.imdb.com/title/tt0807054) (7.0)
