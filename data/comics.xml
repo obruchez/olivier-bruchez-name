@@ -2,6 +2,16 @@
 <comics>
   <introduction>A list of comics I read.</introduction>
   <comic>
+    <date>2019.06.08</date>
+    <writer>Lewis Trondheim &amp; Joann Sfar</writer>
+    <artist>Andreas</artist>
+    <colorist>Walter</colorist>
+    <series url="https://fr.wikipedia.org/wiki/Donjon_(bande_dessin%C3%A9e)#Donjon_Monsters">Donjon Monsters</series>
+    <volume number="3">La Carte majeure</volume>
+    <comments>C'est un peu meilleur que le tome précédent.</comments>
+    <image>Donjon Monsters - La Carte majeure.jpg</image>
+  </comic>
+  <comic>
     <date>2019.05.31</date>
     <writer>Lewis Trondheim &amp; Joann Sfar</writer>
     <artist>Jean-Christophe Menu</artist>
