@@ -2,7 +2,17 @@
 <movies>
   <introduction>A list of movies I saw.</introduction>
   <!-- Checklist: add rating to IMDb -->
-   <movie>
+  <movie>
+    <date>2019.06.08</date>
+    <theater home="true"/>
+    <director>Sergio Leone</director>
+    <title>Once Upon a Time in America</title>
+    <url>https://www.imdb.com/title/tt0087843/</url>
+    <rating>5.0</rating>
+    <comments>I first saw this movie in 1995. I remember being a bit put off by the sex and violence. 24 years later, it doesn't strike me as much. It's an ambitious movie, with a surprising ending.</comments>
+    <image>Once Upon a Time in America.jpg</image>
+  </movie>
+  <movie>
     <date>2019.05.25</date>
     <theater home="true"/>
     <director>Harold Ramis</director>
