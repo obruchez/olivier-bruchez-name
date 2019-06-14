@@ -4,8 +4,20 @@
   <podcast>
     <date></date>
     <name url="http://verybadwizards.com/">Very Bad Wizards</name>
-    <episode url="https://verybadwizards.fireside.fm/165" number="165">Life With No Head (With Sam Harris)</episode>
+    <episode url="https://verybadwizards.fireside.fm/164" number="164">Choosing to Believe</episode>
     <comments></comments>
+  </podcast>
+  <podcast>
+    <date>2019.06.13</date>
+    <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
+    <episode url="https://samharris.org/podcasts/159-conscious/" number="159">Conscious - A Conversation with Annaka Harris</episode>
+    <comments>A fun (and cute) discussion between Sam and his wife Annaka. I've been interested in consciousness for about 20 years now. I still don't know how I feel about panpsychism. I've bought her book, so we'll see if it helps me make up my mind or not.</comments>
+  </podcast>
+  <podcast>
+    <date>2019.06.11</date>
+    <name url="http://verybadwizards.com/">Very Bad Wizards</name>
+    <episode url="https://verybadwizards.fireside.fm/165" number="165">Life With No Head (With Sam Harris)</episode>
+    <comments>I was worried yet another discussion about meditation would bore me, but it didn't.</comments>
   </podcast>
   <podcast>
     <date>2019.06.05</date>
