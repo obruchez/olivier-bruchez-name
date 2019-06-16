@@ -2,6 +2,16 @@
 <comics>
   <introduction>A list of comics I read.</introduction>
   <comic>
+    <date>2019.06.16</date>
+    <writer>Lewis Trondheim &amp; Joann Sfar</writer>
+    <artist>Stéphane Blanquet </artist>
+    <colorist>?</colorist>
+    <series url="https://fr.wikipedia.org/wiki/Donjon_(bande_dessin%C3%A9e)#Donjon_Monsters">Donjon Monsters</series>
+    <volume number="4">Le Noir Seigneur</volume>
+    <comments>Un rythme un peu rapide, sinon pas trop mal.</comments>
+    <image>Donjon Monsters - Le Noir Seigneur.jpg</image>
+  </comic>
+  <comic>
     <date>2019.06.08</date>
     <writer>Lewis Trondheim &amp; Joann Sfar</writer>
     <artist>Andreas</artist>
