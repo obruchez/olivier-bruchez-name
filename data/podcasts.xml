@@ -4,8 +4,20 @@
   <podcast>
     <date></date>
     <name url="http://verybadwizards.com/">Very Bad Wizards</name>
-    <episode url="https://verybadwizards.fireside.fm/164" number="164">Choosing to Believe</episode>
+    <episode url="https://verybadwizards.fireside.fm/85" number="85">A Zoo with Only One Animal (with Paul Bloom)</episode>
     <comments></comments>
+  </podcast>
+  <podcast>
+    <date>2019.06.21</date>
+    <name url="http://verybadwizards.com/">Very Bad Wizards</name>
+    <episode url="https://verybadwizards.fireside.fm/166" number="166">Total Recall</episode>
+    <comments>An episode about <a href="https://en.wikipedia.org/wiki/The_Truth_of_Fact,_the_Truth_of_Feeling">"The Truth of Fact, the Truth of Feeling"</a>, a short story which is apparently very similar to the <a href="https://en.wikipedia.org/wiki/The_Entire_History_of_You">"Entire History of You"</a> episode of <i>Black Mirror</i>. Imperfect recall can help us integrating bad events in our lives. Imperfect recall also means that we forget the good moments in our lives. I've been journaling for more than a quarter century and I'm regularly reading my past entries (10 and 20 years ago). I encounter both cases: good moments that I had forgotten about and bad moments that I don't really enjoy reading about. Is this masochism? I don't think so. I don't think forgetting about an unpleasant past event is the best way to deal with it. Obviously, thinking everyday about something that happened ten years ago is not a good approach either, but if you're not able to think about a bad moment of your life while thinking that everything's okay, then it probably means that you've not completely processed that moment yet.</comments>
+  </podcast>
+  <podcast>
+    <date>2019.06.19</date>
+    <name url="http://verybadwizards.com/">Very Bad Wizards</name>
+    <episode url="https://verybadwizards.fireside.fm/164" number="164">Choosing to Believe</episode>
+    <comments>Once you've realized that you don't either believe (completely) or don't believe (at all), but that all beliefs are nuanced/continuous/non-binary, one of the tricky parts is to decide the "threshold" where you decide that you have enough evidence to act on a belief. Beliefs don't exist in a vacuum, so it's hard. You have to guess the consequences of your actions. A Bayesian approach seems to be reasonable.</comments>
   </podcast>
   <podcast>
     <date>2019.06.13</date>
