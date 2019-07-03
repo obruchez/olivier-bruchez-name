@@ -3,9 +3,21 @@
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
     <date></date>
+    <name url="http://peachandblack.podbean.com/">Peach &amp; Black Podcast</name>
+    <episode url="https://peachandblack.podbean.com/e/prince-originals-review-part-1/">Prince - Originals Review Part 1</episode>
+    <comments></comments>
+  </podcast>
+  <podcast>
+    <date>2019.06.28</date>
+    <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
+    <episode url="https://samharris.org/podcasts/158-understanding-humans-wild/" number="158">Understanding Humans in the Wild - A Conversation with Adam Grant</episode>
+    <comments>I liked the part where Adam explained his skepticism about meditation, because he kind of has a good point. People give meditation too much credits. It's a tool. It's useful. It can also be beneficial if you use it right. But not necessarily. I still would like to know if Adam Grant really doesn't have a "monkey mind" or if he doesn't realize he has one. Are there people that really don't need meditation? It's an open question. I also liked the part about framing, i.e. how you can see a situation or even a feeling from different points of view. For example, anxiety and excitement share almost the same physiological characteristics. The difference is how we interpret those signs. We can't really control our physiological responses, but we can control our interpretations.</comments>
+  </podcast>
+  <podcast>
+    <date>2019.06.26</date>
     <name url="http://verybadwizards.com/">Very Bad Wizards</name>
     <episode url="https://verybadwizards.fireside.fm/85" number="85">A Zoo with Only One Animal (with Paul Bloom)</episode>
-    <comments></comments>
+    <comments>I listened to that particular episode because I recently saw <i>Groundhog Day</i> for the first time in my life. There are several movies discussed in the episode that I haven't seen yet, but that I really need to see: <i>Brazil</i>, <i>Barton Fink</i>, <i>Being There</i>, <i>Sullivan's Travels</i>, and probably <i>The Purple Rose of Cairo</i>.</comments>
   </podcast>
   <podcast>
     <date>2019.06.21</date>
