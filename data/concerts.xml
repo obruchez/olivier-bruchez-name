@@ -7,6 +7,21 @@
   -->
   <introduction>A list of concerts I went to.</introduction>
   <concert>
+    <date>2019.06.28</date>
+    <location>Auditorium Stravinski, Montreux, Switzerland</location>
+    <event>Montreux Jazz Festival</event>
+    <musician inst="vocals, bass" main="true">Sting</musician>
+    <musician inst="drums">Josh Freese</musician>
+    <musician inst="guitar">Ben Butler</musician>
+    <musician inst="guitar">Rufus Miller</musician>
+    <musician inst="backing vocals">Melissa Tatro</musician>
+    <musician inst="backing vocals">James Roston</musician>
+    <musician inst="harmonica">Shane Sager</musician>
+    <musician inst="keyboards">Kevon Webster</musician>
+    <rating>4.0</rating>
+    <comments>I only stayed during the first 20-30 minutes of the concert. I then had to leave, because I didn't feel well, but, to be honest, I was also bored. I like Sting, but how many times do we need to hear the same songs, over and over?</comments>
+  </concert>
+  <concert>
     <date>2019.04.12</date>
     <location>Chapiteau, Cully, Switzerland</location>
     <event>Cully Jazz Festival</event>
