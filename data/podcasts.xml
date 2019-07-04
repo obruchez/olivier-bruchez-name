@@ -3,9 +3,15 @@
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
     <date></date>
+    <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
+    <episode url="https://samharris.org/podcasts/161-rise-fall/" number="161">Rise &amp; Fall - A Conversation with Jared Diamond</episode>
+    <comments></comments>
+  </podcast>
+  <podcast>
+    <date>2019.07.04</date>
     <name url="http://peachandblack.podbean.com/">Peach &amp; Black Podcast</name>
     <episode url="https://peachandblack.podbean.com/e/prince-originals-review-part-1/">Prince - Originals Review Part 1</episode>
-    <comments></comments>
+    <comments>A review of the first eight tracks of the album. Very fun, as usual.</comments>
   </podcast>
   <podcast>
     <date>2019.06.28</date>
