@@ -2,9 +2,19 @@
 <comics>
   <introduction>A list of comics I read.</introduction>
   <comic>
+    <date>2019.07.05</date>
+    <writer>Lewis Trondheim &amp; Joann Sfar</writer>
+    <artist>Jean-Emmanuel Vermot-Desroches</artist>
+    <colorist>Walter</colorist>
+    <series url="https://fr.wikipedia.org/wiki/Donjon_(bande_dessin%C3%A9e)#Donjon_Monsters">Donjon Monsters</series>
+    <volume number="5">La Nuit du tombeur</volume>
+    <comments>Un tome à nouveau un peu meilleur. La tendance semble se confirmer.</comments>
+    <image>Donjon Monsters - La Nuit du tombeur.jpg</image>
+  </comic>
+  <comic>
     <date>2019.06.16</date>
     <writer>Lewis Trondheim &amp; Joann Sfar</writer>
-    <artist>Stéphane Blanquet </artist>
+    <artist>Stéphane Blanquet</artist>
     <colorist>?</colorist>
     <series url="https://fr.wikipedia.org/wiki/Donjon_(bande_dessin%C3%A9e)#Donjon_Monsters">Donjon Monsters</series>
     <volume number="4">Le Noir Seigneur</volume>
