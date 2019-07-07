@@ -8,6 +8,12 @@
     <comments></comments>
   </show>
   <show>
+    <date></date>
+    <name url="https://en.wikipedia.org/wiki/The_Twilight_Zone_(1959_TV_series)">The Twilight Zone</name>
+    <series url="https://en.wikipedia.org/wiki/The_Twilight_Zone_(1959_TV_series,_season_1)" type="season">1</series>
+    <comments></comments>
+  </show>
+  <show>
     <date>2019.06.07</date>
     <name url="https://en.wikipedia.org/wiki/Chernobyl_(miniseries)">Chernobyl</name>
     <comments>Like many people I guess, we watched this miniseries right after the end of <i>Game of Thrones</i>. It's excellent. Although probably overrated (currently <a href="https://www.imdb.com/chart/toptv">Top Rated TV #1</a> on IMDb).</comments>
