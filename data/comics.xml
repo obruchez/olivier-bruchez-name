@@ -2,6 +2,16 @@
 <comics>
   <introduction>A list of comics I read.</introduction>
   <comic>
+    <date>2019.07.11</date>
+    <writer>Lewis Trondheim &amp; Joann Sfar</writer>
+    <artist>Yoann</artist>
+    <colorist>Yoann</colorist>
+    <series url="https://fr.wikipedia.org/wiki/Donjon_(bande_dessin%C3%A9e)#Donjon_Monsters">Donjon Monsters</series>
+    <volume number="6">Du ramdam chez les brasseurs</volume>
+    <comments>"Donner, c'est donner, reprendre, c'est voler."</comments>
+    <image>Donjon Monsters - Du ramdam chez les brasseurs.jpg</image>
+  </comic>
+  <comic>
     <date>2019.07.05</date>
     <writer>Lewis Trondheim &amp; Joann Sfar</writer>
     <artist>Jean-Emmanuel Vermot-Desroches</artist>
