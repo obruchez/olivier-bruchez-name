@@ -118,6 +118,7 @@ Pretty much everything from [Les cent livres du siècle](https://fr.wikipedia.or
 * Franz Kafka, ["Le procès"](https://fr.wikipedia.org/wiki/Le_Proc%C3%A8s) (read in 2004)
 * Cormac McCarthy, ["The Road"](https://en.wikipedia.org/wiki/The_Road) (saw the movie in 2010 and liked it)
 * [Milan Kundera](https://en.wikipedia.org/wiki/Milan_Kundera) (re-read everything I've already read from him and read the rest)
+* Ursula K. Le Guin, ["The Found and the Lost: The Collected Novellas of Ursula K. Le Guin"](https://www.amazon.com/Found-Lost-Collected-Novellas-Ursula-ebook/dp/B01E4A32X8/) (I'm not sure where to start, are there better collections?)
 * Bill Moody, ["Sur les traces de Chet Baker"](http://www.amazon.fr/Sur-traces-Chet-Baker-enqu%C3%AAte/dp/2743612061)
 * Amélie Nothomb, ["Acide sulfurique"](https://fr.wikipedia.org/wiki/Acide_sulfurique_(roman)) (recommended by Miriam)
 * H. P. Lovecraft, ["The Complete Works of H.P. Lovecraft"](https://www.goodreads.com/book/show/11851522-the-complete-works-of-h-p-lovecraft)
