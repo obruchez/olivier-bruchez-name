@@ -2,6 +2,16 @@
 <comics>
   <introduction>A list of comics I read.</introduction>
   <comic>
+    <date>2019.07.15</date>
+    <writer>André Franquin</writer>
+    <artist>André Franquin &amp; Jidéhem</artist>
+    <colorist>Jidéhem &amp; Vittorio Leonardo</colorist>
+    <series url="https://fr.wikipedia.org/wiki/Gaston_(bande_dessin%C3%A9e)">Gaston</series>
+    <volume url="https://fr.wikipedia.org/wiki/Le_Bureau_des_gaffes_en_gros" number="5">Le Bureau des gaffes en gros</volume>
+    <comments>M'enfin ?! Mes neveux sont dans leur phase "Gaston". J'ai relu un tome au hasard. Cela devait faire 15-20 ans ou plus que je n'avais pas lu de Gaston.</comments>
+    <image>Gaston - Le Bureau des gaffes en gros.jpg</image>
+  </comic>
+  <comic>
     <date>2019.07.11</date>
     <writer>Lewis Trondheim &amp; Joann Sfar</writer>
     <artist>Yoann</artist>
