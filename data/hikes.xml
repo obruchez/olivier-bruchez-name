@@ -3,6 +3,11 @@
   <introduction>A list of hikes I took.</introduction>
   <!-- TODO: add comments for new hikes? -->
   <hike>
+    <date>2019.08.04</date>
+    <place>Louvie / Le Dâ / Le Crêt / Le Vasevay / Mauvoisin, Switzerland</place>
+    <!-- <pictures url=""/> -->
+  </hike>
+  <hike>
     <date>2018.09.29</date>
     <place>Tour des Lacs, Bagnes, Switzerland</place>
     <pictures url="https://www.flickr.com/photos/bruchez/sets/72157700422753421"/>
@@ -381,8 +386,16 @@
   </hike>
   <hike>
     <date>2002.10.13</date>
-    <place>Combe de l'Â, Switzerland</place>
+    <place>Combe de l'A, Switzerland</place>
     <pictures url="https://www.flickr.com/photos/bruchez/sets/72057594076457902/"/>
+  </hike>
+  <hike>
+    <date>1999.08.03</date>
+    <place>Sovereu, Switzerland</place>
+  </hike>
+  <hike>
+    <date>1999.07.18</date>
+    <place>Combe de l'A, Switzerland</place>
   </hike>
   <hike>
     <date>1998.08.08</date>
