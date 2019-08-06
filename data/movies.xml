@@ -3,6 +3,16 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Checklist: add rating to IMDb -->
   <movie>
+    <date>2019.08.06</date>
+    <theater home="true"/>
+    <director>Gil Karni</director>
+    <title>Trip of Compassion</title>
+    <url>https://www.imdb.com/title/tt7155154/</url>
+    <rating>4.75</rating>
+    <comments>A very moving documentary about three subjects suffering from PTSD and participating in MDMA-assisted therapies in Israel.</comments>
+    <image>Trip of Compassion.jpg</image>
+  </movie>
+  <movie>
     <date>2019.06.08</date>
     <theater home="true"/>
     <director>Sergio Leone</director>
