@@ -7,6 +7,33 @@
   -->
   <introduction>A list of concerts I went to.</introduction>
   <concert>
+    <date>2019.07.12</date>
+    <location>Montreux Jazz Club, Montreux, Switzerland</location>
+    <event>Montreux Jazz Festival</event>
+    <musician inst="piano, keyboards" main="true">Chick Corea</musician>
+    <musician inst="saxophone">Jorge Pardo</musician>
+    <musician inst="guitar">Niño Josele</musician>
+    <musician inst="drums">Marcus Gilmore</musician>
+    <musician inst="bass">Carlitos del Puerto</musician>
+    <musician inst="trombone">Steve Davis</musician>
+    <musician inst="trumpet">Mike Rodriguez</musician>
+    <musician inst="percussions">Luisito Quintero</musician>
+    <musician inst="flamenco dancer, percussions">Niño de los Reyes</musician>
+    <rating>5.25</rating>
+    <comments></comments>
+  </concert>
+  <concert>
+    <date>2019.07.12</date>
+    <location>Montreux Jazz Club, Montreux, Switzerland</location>
+    <event>Montreux Jazz Festival</event>
+    <musician inst="bass, vocals" main="true">Linda May Han Oh</musician>
+    <musician inst="saxophone">Greg Ward</musician>
+    <musician inst="guitar">Matthew Stevens</musician>
+    <musician inst="drums">Allen Mednard</musician>
+    <rating>4.25</rating>
+    <comments></comments>
+  </concert>
+  <concert>
     <date>2019.06.28</date>
     <location>Auditorium Stravinski, Montreux, Switzerland</location>
     <event>Montreux Jazz Festival</event>
