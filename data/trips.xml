@@ -2,6 +2,13 @@
 <trips>
   <introduction>A list of trips I took.</introduction>
   <trip>
+    <from>2019.07.18</from>
+    <to>2019.08.02</to>
+    <place>Oslo / Northern Norway</place>
+    <!-- <pictures url=""></pictures> -->
+    <comments></comments>
+  </trip>
+  <trip>
     <from>2018.09.07</from>
     <to>2018.09.16</to>
     <place>Cala Mesquida, Mallorca, Balearic Islands, Spain</place>
