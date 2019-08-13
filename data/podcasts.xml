@@ -2,6 +2,18 @@
 <podcasts>
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date></date>
+    <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
+    <episode url="https://samharris.org/podcasts/164-cause-effect/" number="164">Cause &amp; Effect - A Conversation with Judea Pearl</episode>
+    <comments></comments>
+  </podcast>
+  <podcast>
+    <date>2019.08.13</date>
+    <name url="http://verybadwizards.com/">Very Bad Wizards</name>
+    <episode>Rick and Morty (with Yoel Inbar)</episode>
+    <comments>I love <i>Rick and Morty</i>. As discussed in the episode, the show is full of ideas. Even subplots could be full-length episodes.</comments>
+  </podcast>
+  <podcast>
     <date>2019.08.12</date>
     <name url="http://peachandblack.podbean.com/">Peach &amp; Black Podcast</name>
     <episode url="https://peachandblack.podbean.com/e/niko-bolas-interview/">Niko Bolas - Prince Originals Interview</episode>
