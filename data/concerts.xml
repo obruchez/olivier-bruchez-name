@@ -3161,6 +3161,13 @@
     <comments/>
   </concert>
   <concert>
+    <date>1994.07.24</date>
+    <location>Arènes, Avenches, Switzerland</location>
+    <event><i>Nabucco</i> opera</event>
+    <musician inst="choir director">Pascal Mayer</musician>
+    <comments>Unknown singers, choir, etc.</comments>
+  </concert>
+  <concert>
     <date>1999.07.12</date>
     <location>Auditorium Stravinski, Montreux, Switzerland</location>
     <event>Montreux Jazz Festival</event>
