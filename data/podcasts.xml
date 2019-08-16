@@ -3,9 +3,15 @@
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
     <date></date>
+    <name url="http://verybadwizards.com/">Very Bad Wizards</name>
+    <episode url="https://verybadwizards.fireside.fm/170" number="170">Social Psychology Gets an Asch-Kicking</episode>
+    <comments></comments>
+  </podcast>
+  <podcast>
+    <date>2019.08.16</date>
     <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
     <episode url="https://samharris.org/podcasts/164-cause-effect/" number="164">Cause &amp; Effect - A Conversation with Judea Pearl</episode>
-    <comments></comments>
+    <comments>An interesting topic, but I felt Sam and Pearl regularly talked past each other. Especially about consciousness. I wish more episodes were as "nerdy" as this one.</comments>
   </podcast>
   <podcast>
     <date>2019.08.13</date>
