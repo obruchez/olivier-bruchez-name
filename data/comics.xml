@@ -2,6 +2,16 @@
 <comics>
   <introduction>A list of comics I read.</introduction>
   <comic>
+    <date>2019.08.18</date>
+    <writer>Lewis Trondheim &amp; Joann Sfar</writer>
+    <artist>Blutch</artist>
+    <colorist>Walter</colorist>
+    <series url="https://fr.wikipedia.org/wiki/Donjon_(bande_dessin%C3%A9e)#Donjon_Monsters">Donjon Monsters</series>
+    <volume number="7">Mon fils le tueur</volume>
+    <comments>Un tome de bonne qualité. J'ai mis un moment pour m'habituer au style de Blutch, qui a un je-ne-sais-quoi "artistique" qui tranche avec tous les tomes précédents de la série Monsters.</comments>
+    <image>Donjon Monsters - Mon fils le tueur.jpg</image>
+  </comic>
+  <comic>
     <date>2019.07.15</date>
     <writer>André Franquin</writer>
     <artist>André Franquin &amp; Jidéhem</artist>
