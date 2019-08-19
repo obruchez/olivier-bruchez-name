@@ -3,6 +3,16 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Checklist: add rating to IMDb -->
   <movie>
+    <date>2019.08.19</date>
+    <theater home="true"/>
+    <director>Nitesh Tiwari</director>
+    <title>Dangal</title>
+    <url>https://www.imdb.com/title/tt5074352/</url>
+    <rating>3.75</rating>
+    <comments>An Indian feminist movie. Kind of, as you could say the two sisters spend the whole movie trying to make their father proud. This is the third movie featuring Aamir Khan that I see (the other two being <i>3 Idiots</i> and <i>Like Stars on Earth</i>).</comments>
+    <image>Dangal.jpg</image>
+  </movie>
+  <movie>
     <date>2019.08.17</date>
     <theater home="true"/>
     <director>Stanley Kubrick</director>
