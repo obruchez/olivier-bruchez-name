@@ -2,6 +2,16 @@
 <comics>
   <introduction>A list of comics I read.</introduction>
   <comic>
+    <date>2019.08.24</date>
+    <writer>Lewis Trondheim &amp; Joann Sfar</writer>
+    <artist>Carlos Nine</artist>
+    <colorist>Carlos Nine</colorist>
+    <series url="https://fr.wikipedia.org/wiki/Donjon_(bande_dessin%C3%A9e)#Donjon_Monsters">Donjon Monsters</series>
+    <volume number="8">Crève-cœur</volume>
+    <comments>Un tome dont le dessin a probablement divisé. Personnellement, j'aime beaucoup. On continue dans l'approche "artistique" de Butch, mais dans un autre style.</comments>
+    <image>Donjon Monsters - Crève-cœur.jpg</image>
+  </comic>
+  <comic>
     <date>2019.08.18</date>
     <writer>Lewis Trondheim &amp; Joann Sfar</writer>
     <artist>Blutch</artist>
