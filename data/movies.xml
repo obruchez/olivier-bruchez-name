@@ -6091,6 +6091,16 @@
     <version>fr</version>
   </movie>
   <movie>
+    <date>1999.08.25</date>
+    <theater>San Francisco-Zürich Flight, Swissair</theater>
+    <director>Jeff Bleckner</director>
+    <title>Rear Window</title>
+    <url>https://www.imdb.com/title/tt0166322/</url>
+    <rating>3.0</rating>
+    <comments>According to my diary: "pas très bon".</comments>
+    <image>Rear Window (Jeff Bleckner).jpg</image>
+  </movie>
+  <movie>
     <date>1999.07.07</date>
     <title>Matrix</title>
   </movie>
