@@ -2,6 +2,12 @@
 <podcasts>
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date>2019.08.26</date>
+    <name url="https://tim.blog/podcast/">The Tim Ferriss Show</name>
+    <episode url="https://tim.blog/2018/05/06/michael-pollan-how-to-change-your-mind/" number="313">Michael Pollan — Exploring The New Science of Psychedelics</episode>
+    <comments>I first heard Michael Pollan on Sam Harris' podcast and read his book a few months later. Nothing really new here, but this is a fascinating topic, so it's always interesting to hear about it.</comments>
+  </podcast>
+  <podcast>
     <date>2019.08.21</date>
     <name url="http://peachandblack.podbean.com/">Peach &amp; Black Podcast</name>
     <episode url="https://peachandblack.podbean.com/e/scottie-baldwin-interview/">Scottie Baldwin Interview</episode>
