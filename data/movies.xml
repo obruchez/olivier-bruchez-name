@@ -3,6 +3,16 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Checklist: add rating to IMDb -->
   <movie>
+    <date>2019.08.28</date>
+    <theater home="true"/>
+    <director>Anthony Russo &amp; Joe Russo</director>
+    <title>Avengers: Endgame</title>
+    <url>https://www.imdb.com/title/tt4154796/</url>
+    <rating>3.5</rating>
+    <comments>Time travel. Quantum mysticism. Still not my cup of tea.</comments>
+    <image>Avengers - Endgame.jpg</image>
+  </movie>
+  <movie>
     <date>2019.08.19</date>
     <theater home="true"/>
     <director>Nitesh Tiwari</director>
