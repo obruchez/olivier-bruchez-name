@@ -6100,6 +6100,15 @@
     <title>Star Wars : Episode I - La Menace Fantôme</title>
     <version>fr</version>
   </movie>
+  <date>1999.08.28</date>
+    <theater home="true"/>
+    <director>Joel Schumacher</director>
+    <title>Flatliners</title>
+    <title language="fr">L'expérience interdite</title>
+    <version>fr</version>
+    <url>https://www.imdb.com/title/tt0099582/</url>
+    <image>Flatliners.jpg</image>
+  </movie>
   <movie>
     <date>1999.08.25</date>
     <theater>San Francisco-Zürich Flight, Swissair</theater>
