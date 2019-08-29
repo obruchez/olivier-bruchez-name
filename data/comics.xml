@@ -2,6 +2,16 @@
 <comics>
   <introduction>A list of comics I read.</introduction>
   <comic>
+    <date>2019.08.29</date>
+    <writer>Lewis Trondheim &amp; Joann Sfar</writer>
+    <artist>Patrice Killoffer</artist>
+    <colorist>Walter &amp; Patrice Killoffer</colorist>
+    <series url="https://fr.wikipedia.org/wiki/Donjon_(bande_dessin%C3%A9e)#Donjon_Monsters">Donjon Monsters</series>
+    <volume url="https://fr.wikipedia.org/wiki/Les_Profondeurs" number="9">Les Profondeurs</volume>
+    <comments>Un tome étonnant. Après deux tomes plus "artistiques", le dessin est ici à nouveau plus classique, mais le contexte (les profondeurs marines, le sang se répandant dans l'eau, etc.) et une esthétique un peu "gore" rendent la lecture des cases parfois un peu difficile.</comments>
+    <image>Donjon Monsters - Les Profondeurs.jpg</image>
+  </comic>
+  <comic>
     <date>2019.08.24</date>
     <writer>Lewis Trondheim &amp; Joann Sfar</writer>
     <artist>Carlos Nine</artist>
