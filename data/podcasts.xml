@@ -2,6 +2,18 @@
 <podcasts>
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date></date>
+    <name url="https://tim.blog/podcast/">The Tim Ferriss Show</name>
+    <episode url="https://tim.blog/2019/03/21/michael-pollan-sxsw/" number="365">Michael Pollan — Exploring the Frontiers of Psychedelics</episode>
+    <comments></comments>
+  </podcast>
+  <podcast>
+    <date>2019.08.29</date>
+    <name url="https://tim.blog/podcast/">The Tim Ferriss Show</name>
+    <episode url="https://tim.blog/2018/09/20/hamilton-morris/" number="337">Hamilton Morris on Better Living Through Chemistry: Psychedelics, Smart Drugs, and More</episode>
+    <comments>This episode led me to watching <i>Hamilton's Pharmacopeia</i> (just watched the first episode). Tim's show notes are excellent, so I don't have much to say. Hamilton uses the following "nootropics": nicotine, caffeine, and methylphenidate (Ritalin). He's apparently trying to use nicotine less, though, as all stimulant are addictive.</comments>
+  </podcast>
+  <podcast>
     <date>2019.08.26</date>
     <name url="https://tim.blog/podcast/">The Tim Ferriss Show</name>
     <episode url="https://tim.blog/2018/05/06/michael-pollan-how-to-change-your-mind/" number="313">Michael Pollan — Exploring The New Science of Psychedelics</episode>
