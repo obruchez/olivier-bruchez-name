@@ -3,6 +3,16 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Checklist: add rating to IMDb -->
   <movie>
+    <date>2019.09.05</date>
+    <theater home="true"/>
+    <director>Guy Ritchie</director>
+    <title>Snatch</title>
+    <url>https://www.imdb.com/title/tt0208092/</url>
+    <rating>4.0</rating>
+    <comments>Not bad, but it looks like a movie trying too hard to be... something. I don't know what. The next <i>Pulp Fiction</i>? It already left me pretty much unimpressed back in 2000 when I first saw it.</comments>
+    <image>Snatch.jpg</image>
+  </movie>
+  <movie>
     <date>2019.08.28</date>
     <theater home="true"/>
     <director>Anthony Russo &amp; Joe Russo</director>
@@ -6100,7 +6110,8 @@
     <title>Star Wars : Episode I - La Menace Fantôme</title>
     <version>fr</version>
   </movie>
-  <date>1999.08.28</date>
+  <movie>
+    <date>1999.08.28</date>
     <theater home="true"/>
     <director>Joel Schumacher</director>
     <title>Flatliners</title>
