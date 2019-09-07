@@ -9,6 +9,12 @@
   </show>
   <show>
     <date></date>
+    <name url="https://en.wikipedia.org/wiki/Hamilton%27s_Pharmacopeia">Hamilton's Pharmacopeia</name>
+    <series url="https://en.wikipedia.org/wiki/Hamilton%27s_Pharmacopeia#Season_2" type="season">2</series>
+    <comments></comments>
+  </show>
+  <show>
+    <date></date>
     <name url="https://en.wikipedia.org/wiki/The_Twilight_Zone_(1959_TV_series)">The Twilight Zone</name>
     <series url="https://en.wikipedia.org/wiki/The_Twilight_Zone_(1959_TV_series,_season_2)" type="season">2</series>
     <comments></comments>
