@@ -2,6 +2,16 @@
 <comics>
   <introduction>A list of comics I read.</introduction>
   <comic>
+    <date>2019.09.07</date>
+    <writer>Lewis Trondheim &amp; Joann Sfar</writer>
+    <artist>Bézian</artist>
+    <colorist>Walter</colorist>
+    <series url="https://fr.wikipedia.org/wiki/Donjon_(bande_dessin%C3%A9e)#Donjon_Monsters">Donjon Monsters</series>
+    <volume number="10">Des soldats d'honneur</volume>
+    <comments>On retrouve un style plus "artistique", comme dans les tomes 7 et 8. Ce tome est particulièrement réussi. Très sombre.</comments>
+    <image>Donjon Monsters - Des soldats d'honneur.jpg</image>
+  </comic>
+  <comic>
     <date>2019.08.29</date>
     <writer>Lewis Trondheim &amp; Joann Sfar</writer>
     <artist>Patrice Killoffer</artist>
