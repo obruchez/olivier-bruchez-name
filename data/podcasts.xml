@@ -4,8 +4,14 @@
   <podcast>
     <date></date>
     <name url="https://tim.blog/podcast/">The Tim Ferriss Show</name>
-    <episode url="https://tim.blog/2018/11/20/stan-grof/" number="347">Stan Grof, Lessons from ~4,500 LSD Sessions and Beyond</episode>
+    <episode url="https://tim.blog/2018/10/29/sam-harris-waking-up/" number="342">Sam Harris, Ph.D. — How to Master Your Mind</episode>
     <comments></comments>
+  </podcast>
+  <podcast>
+    <date>2019.09.10</date>
+    <name url="https://tim.blog/podcast/">The Tim Ferriss Show</name>
+    <episode url="https://tim.blog/2018/11/20/stan-grof/" number="347">Stan Grof, Lessons from ~4,500 LSD Sessions and Beyond</episode>
+    <comments>What struck me the most is how sharp Stan Grof is at 87. An interesting discussion (at times feeling like a monologue - Grof likes to talk!). I'm not a fan of Grof's often mystical take on psychedelics.</comments>
   </podcast>
   <podcast>
     <date>2019.09.05</date>
