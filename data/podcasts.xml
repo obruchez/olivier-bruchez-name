@@ -4,8 +4,14 @@
   <podcast>
     <date></date>
     <name url="https://tim.blog/podcast/">The Tim Ferriss Show</name>
-    <episode url="https://tim.blog/2018/10/29/sam-harris-waking-up/" number="342">Sam Harris, Ph.D. — How to Master Your Mind</episode>
+    <episode url="https://tim.blog/guest/peter-attia/" number="352">Dr. Peter Attia vs. Tim Ferriss</episode>
     <comments></comments>
+  </podcast>
+  <podcast>
+    <date>2019.09.11</date>
+    <name url="https://tim.blog/podcast/">The Tim Ferriss Show</name>
+    <episode url="https://tim.blog/2018/10/29/sam-harris-waking-up/" number="342">Sam Harris, Ph.D. — How to Master Your Mind</episode>
+    <comments>An "advertisement" episode for Sam Harris' Waking Up app. I skipped the guided meditation parts. The rest of the episode was pretty good, although I was already very familiar with the topic. It was interesting to hear how Sam is "selling" his concept to Tim Ferriss' audience.</comments>
   </podcast>
   <podcast>
     <date>2019.09.10</date>
