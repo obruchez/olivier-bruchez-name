@@ -2,6 +2,16 @@
 <comics>
   <introduction>A list of comics I read.</introduction>
   <comic>
+    <date>2019.09.12</date>
+    <writer>Lewis Trondheim &amp; Joann Sfar</writer>
+    <artist>Stanislas Barthélémy</artist>
+    <colorist>Dominique Thomas</colorist>
+    <series url="https://fr.wikipedia.org/wiki/Donjon_(bande_dessin%C3%A9e)#Donjon_Monsters">Donjon Monsters</series>
+    <volume number="11">Le Grand Animateur</volume>
+    <comments>Après plusieurs tomes "artistiques", on revient ici à quelque chose de plus standard. Un dessin qui a quelque chose d'enfantin, je trouve.</comments>
+    <image>Donjon Monsters - Le Grand Animateur.jpg</image>
+  </comic>
+  <comic>
     <date>2019.09.07</date>
     <writer>Lewis Trondheim &amp; Joann Sfar</writer>
     <artist>Bézian</artist>
