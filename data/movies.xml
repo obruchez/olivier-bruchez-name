@@ -6106,6 +6106,15 @@
     <version>fr</version>
   </movie>
   <movie>
+    <date>1999.09.14</date>
+    <theater home="true"/>
+    <director>Philippe Harel</director>
+    <title>Hikers</title>
+    <title language="fr">Les randonneurs</title>
+    <version>fr</version>
+    <url>https://www.imdb.com/title/tt0119981/</url>
+  </movie>
+  <movie>
     <date>1999.08.31</date>
     <title>Star Wars : Episode I - La Menace Fantôme</title>
     <version>fr</version>
