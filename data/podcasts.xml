@@ -3,9 +3,15 @@
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
     <date></date>
+    <name url="http://peachandblack.podbean.com/">Peach &amp; Black Podcast</name>
+    <episode url="https://peachandblack.podbean.com/e/prince-the-versace-experience-prelude-2-gold-review/">Prince - The Versace Experience (Prelude 2 Gold) Review</episode>
+    <comments><i>The Versace Experience</i> is just a weird release (made from a cassette tape, but released on CD, vinyl, and cassette...). Sony probably released this because they can't release <i>The Gold Experience</i> yet. I won't support this kind of releases with my money, though. Anyway, the episode itself is fun, as always, even though the reviews of each track are short (there's not much to say, almost everything being already released in non-edited form on other albums/singles).</comments>
+  </podcast>
+  <podcast>
+    <date>2019.09.17</date>
     <name url="https://tim.blog/podcast/">The Tim Ferriss Show</name>
     <episode url="https://tim.blog/2018/12/13/peter-attia-vs-tim-ferriss/" number="352">Dr. Peter Attia vs. Tim Ferriss</episode>
-    <comments></comments>
+    <comments>A good discussion between Attia and Ferriss, which convinced me to download a lot of episodes from Attia's own podcast.</comments>
   </podcast>
   <podcast>
     <date>2019.09.11</date>
