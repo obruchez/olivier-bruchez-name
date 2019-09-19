@@ -2,6 +2,13 @@
 <trips>
   <introduction>A list of trips I took.</introduction>
   <trip>
+    <from>2019.09.14</from>
+    <to>2019.09.16</to>
+    <place>Leukerbad, Switzerland</place>
+    <!-- <pictures url=""/> -->
+    <comments>Our fourth stay in Leukerbad (after 2006, 2014, and 2019). Our first weekend without our 16-month-old baby.</comments>
+  </trip>
+  <trip>
     <from>2019.07.18</from>
     <to>2019.08.02</to>
     <place>Oslo / Northern Norway</place>
