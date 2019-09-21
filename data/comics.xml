@@ -2,6 +2,16 @@
 <comics>
   <introduction>A list of comics I read.</introduction>
   <comic>
+    <date>2019.09.21</date>
+    <writer>Lewis Trondheim &amp; Joann Sfar</writer>
+    <artist>Nicolas Keramidas</artist>
+    <colorist>Walter</colorist>
+    <series url="https://fr.wikipedia.org/wiki/Donjon_(bande_dessin%C3%A9e)#Donjon_Monsters">Donjon Monsters</series>
+    <volume number="12">Le Grimoire de l'inventeur</volume>
+    <comments>Un tome un peu plus confus, malgré des dessins clairs. Les automates tueurs rappellent <a href ="https://en.wikipedia.org/wiki/AI_control_problem">un problème classique de l'intelligence artificielle</a>.</comments>
+    <image>Donjon Monsters - Le Grimoire de l'inventeur.jpg</image>
+  </comic>
+  <comic>
     <date>2019.09.12</date>
     <writer>Lewis Trondheim &amp; Joann Sfar</writer>
     <artist>Stanislas Barthélémy</artist>
