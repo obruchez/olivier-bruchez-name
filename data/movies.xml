@@ -3,6 +3,16 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Checklist: add rating to IMDb -->
   <movie>
+    <date>2019.09.23</date>
+    <theater home="true"/>
+    <director>Brian De Palma</director>
+    <title>Scarface</title>
+    <url>https://www.imdb.com/title/tt0086250/</url>
+    <rating>4.5</rating>
+    <comments>A gangster movie. And not a bad one. Greed, power, money, cocaine, violence. Apparently, this is a bad recipe for happiness!</comments>
+    <image>Scarface.jpg</image>
+  </movie>
+  <movie>
     <date>2019.09.05</date>
     <theater home="true"/>
     <director>Guy Ritchie</director>
