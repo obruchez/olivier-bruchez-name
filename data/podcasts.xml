@@ -2,6 +2,18 @@
 <podcasts>
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date></date>
+    <name url="https://peterattiamd.com/podcast/">The Peter Attia Drive Podcast</name>
+    <episode url="https://peterattiamd.com/rickdoblin/" number="65">Rick Doblin, Ph.D.: MDMA — the creation, scheduling, toxicity, therapeutic use, and changing public opinion of what is possibly the single most important synthetic molecule ever created by our species</episode>
+    <comments></comments>
+  </podcast>
+  <podcast>
+    <date>2019.09.23</date>
+    <name url="https://www.happinesslab.fm/">The Happiness Lab</name>
+    <episode url="https://www.happinesslab.fm/episodes/you-can-change-w6YOz" number="1">You Can Change</episode>
+    <comments>I took Laurie Santos' course on Coursera, "The Science of Well-Being", last year. It was full of actionable advice, (supposedly) backed up by science. I enjoyed it, although it's mainly aimed at students. This podcast sounds like it's well done as well.</comments>
+  </podcast>
+  <podcast>
     <date>2019.09.20</date>
     <name url="http://robesse.libsyn.com/">Obsessed by Music</name>
     <episode url="http://robesse.libsyn.com/new-father-old-music">New Father, Old Music!</episode>
