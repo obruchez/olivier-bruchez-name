@@ -2,6 +2,16 @@
 <comics>
   <introduction>A list of comics I read.</introduction>
   <comic>
+    <date>2019.09.26</date>
+    <writer>Lewis Trondheim &amp; Joann Sfar</writer>
+    <artist>Manu Larcenet</artist>
+    <colorist>Walter</colorist>
+    <series url="https://fr.wikipedia.org/wiki/Donjon_Parade">Donjon Parade</series>
+    <volume url="https://fr.wikipedia.org/wiki/Un_donjon_de_trop" number="1">Un donjon de trop</volume>
+    <comments>Une histoire légère, qui se lit facilement.</comments>
+    <image>Donjon Parade - Un donjon de trop.jpg</image>
+  </comic>
+  <comic>
     <date>2019.09.21</date>
     <writer>Lewis Trondheim &amp; Joann Sfar</writer>
     <artist>Nicolas Keramidas</artist>
