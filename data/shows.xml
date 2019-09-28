@@ -9,8 +9,8 @@
   </show>
   <show>
     <date></date>
-    <name url="https://en.wikipedia.org/wiki/Hamilton%27s_Pharmacopeia">Hamilton's Pharmacopeia</name>
-    <series url="https://en.wikipedia.org/wiki/Hamilton%27s_Pharmacopeia#Season_2" type="season">2</series>
+    <name url="https://en.wikipedia.org/wiki/Modern_Family">Modern Family</name>
+    <series url="https://en.wikipedia.org/wiki/Modern_Family_(season_11)" type="season">11</series>
     <comments></comments>
   </show>
   <show>
@@ -18,6 +18,18 @@
     <name url="https://en.wikipedia.org/wiki/The_Twilight_Zone_(1959_TV_series)">The Twilight Zone</name>
     <series url="https://en.wikipedia.org/wiki/The_Twilight_Zone_(1959_TV_series,_season_2)" type="season">2</series>
     <comments></comments>
+  </show>
+  <show>
+    <date></date>
+    <name url="https://en.wikipedia.org/wiki/This_Is_Us_(TV_series)">This Is Us</name>
+    <series url="https://en.wikipedia.org/wiki/This_Is_Us_(season_4)" type="season">4</series>
+    <comments></comments>
+  </show>
+  <show>
+    <date>2019.09.28</date>
+    <name url="https://en.wikipedia.org/wiki/Hamilton%27s_Pharmacopeia">Hamilton's Pharmacopeia</name>
+    <series url="https://en.wikipedia.org/wiki/Hamilton%27s_Pharmacopeia#Season_2" type="season">2</series>
+    <comments>A very good season. Some sad moments (e.g. "A Clandestine Chemist's Tale" or the death of Timothy Wyllie). The last episode ("The Cactus Apprentice") was weird.</comments>
   </show>
   <show>
     <date>2019.09.04</date>
