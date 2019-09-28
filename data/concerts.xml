@@ -7,6 +7,17 @@
   -->
   <introduction>A list of concerts I went to.</introduction>
   <concert>
+    <date>2019.09.27</date>
+    <location>La Cave du Bleu Lézard, Lausanne, Switzerland</location>
+    <group>The Black Shoe's Button</group>
+    <musician inst="vocals">Sarah Artacho</musician>
+    <musician inst="guitar">Hélène Millasson</musician>
+    <musician inst="bass">Christine Chanson</musician>
+    <musician inst="drums">Nathalie Winiger</musician>
+    <rating>Sarah is a former colleague of mine. The band has a lot of energy. We had a good time.</rating>
+    <comments></comments>
+  </concert>
+  <concert>
     <date>2019.07.12</date>
     <location>Montreux Jazz Club, Montreux, Switzerland</location>
     <event>Montreux Jazz Festival</event>
@@ -794,7 +805,7 @@
     <musician inst="guitar">Patrick Macheret</musician>
     <musician inst="drums">Nathalie Winiger</musician>
     <musician inst="vocals">Sarah Artacho</musician>
-    <rating>3.5</rating>
+    <rating></rating>
     <comments/>
   </concert>
   <concert>
