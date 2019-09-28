@@ -4,8 +4,14 @@
   <podcast>
     <date></date>
     <name url="https://peterattiamd.com/podcast/">The Peter Attia Drive Podcast</name>
-    <episode url="https://peterattiamd.com/rickdoblin/" number="65">Rick Doblin, Ph.D.: MDMA — the creation, scheduling, toxicity, therapeutic use, and changing public opinion of what is possibly the single most important synthetic molecule ever created by our species</episode>
+    <episode url="https://peterattiamd.com/ama01/" number="4">AMA #1: alcohol, best lab tests, wearables, finding the right doc, racing, and more</episode>
     <comments></comments>
+  </podcast>
+  <podcast>
+    <date>2019.09.27</date>
+    <name url="https://peterattiamd.com/podcast/">The Peter Attia Drive Podcast</name>
+    <episode url="https://peterattiamd.com/rickdoblin/" number="65">Rick Doblin, Ph.D.: MDMA — the creation, scheduling, toxicity, therapeutic use, and changing public opinion of what is possibly the single most important synthetic molecule ever created by our species</episode>
+    <comments>Rick Doblin is an impressive person, willing to play the long game to make MDMA and psychedelics legal, by funding/encouraging serious scientific research. It's always striking to learn that there are so many bad scientific studies (e.g. early studies showing the benefits of psychedelics, such as the Concord Prison Experiment, but also studies showing the neurotoxicity of MDMA). It's important to realize that both the benefits and the risks of MDMA/psychedelics have been largely exaggerated.</comments>
   </podcast>
   <podcast>
     <date>2019.09.23</date>
