@@ -14,8 +14,7 @@
     <musician inst="guitar">Hélène Millasson</musician>
     <musician inst="bass">Christine Chanson</musician>
     <musician inst="drums">Nathalie Winiger</musician>
-    <rating>Sarah is a former colleague of mine. The band has a lot of energy. We had a good time.</rating>
-    <comments></comments>
+    <comments>Sarah is a former colleague of mine. The band has a lot of energy. We had a good time.</comments>
   </concert>
   <concert>
     <date>2019.07.12</date>
@@ -805,7 +804,6 @@
     <musician inst="guitar">Patrick Macheret</musician>
     <musician inst="drums">Nathalie Winiger</musician>
     <musician inst="vocals">Sarah Artacho</musician>
-    <rating></rating>
     <comments/>
   </concert>
   <concert>
