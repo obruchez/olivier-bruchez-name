@@ -2,10 +2,10 @@
 <podcasts>
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
-    <date></date>
+    <date>2019.09.30</date>
     <name url="https://peterattiamd.com/podcast/">The Peter Attia Drive Podcast</name>
     <episode url="https://peterattiamd.com/ama01/" number="4">AMA #1: alcohol, best lab tests, wearables, finding the right doc, racing, and more</episode>
-    <comments>Some notes about the <a href="https://podcastnotes.org/2019/08/14/blood-tests/">tests to ask for longetivity</a>. I already know my ApoE genotype. Lp(a) is something I might want to test someday.</comments>
+    <comments>Some notes about the <a href="https://podcastnotes.org/2019/08/14/blood-tests/">tests to ask for longetivity</a>. I already know my ApoE genotype. Lp(a) is something I might want to test someday. The question "How does one select the right physician as a patient?" was not really answered. As a patient, I still don't know how to choose my doctor (and I don't want to test a dozen doctors before selecting one).</comments>
   </podcast>
   <podcast>
     <date>2019.09.27</date>
