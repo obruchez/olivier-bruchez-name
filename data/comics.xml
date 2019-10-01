@@ -2,6 +2,16 @@
 <comics>
   <introduction>A list of comics I read.</introduction>
   <comic>
+    <date>2019.10.01</date>
+    <writer>Lewis Trondheim &amp; Joann Sfar</writer>
+    <artist>Manu Larcenet</artist>
+    <colorist>Walter</colorist>
+    <series url="https://fr.wikipedia.org/wiki/Donjon_Parade">Donjon Parade</series>
+    <volume url="https://fr.wikipedia.org/wiki/Le_Sage_du_ghetto" number="2">Le Sage du ghetto</volume>
+    <comments>On continue dans le léger, avec des concours de pets, entre autres.</comments>
+    <image>Donjon Parade - Le Sage du ghetto.jpg</image>
+  </comic>
+  <comic>
     <date>2019.09.26</date>
     <writer>Lewis Trondheim &amp; Joann Sfar</writer>
     <artist>Manu Larcenet</artist>
