@@ -37,6 +37,17 @@
         <image>Poèmes saturniens.jpg</image>
     </book>
     <book>
+        <date>2019.10.02</date>
+        <title>La Métamorphose</title>
+        <author>Franz Kafka</author>
+        <publishingyear>1915</publishingyear>
+        <rating>5.25</rating>
+        <url>https://fr.wikipedia.org/wiki/La_M%C3%A9tamorphose</url>
+        <!-- <notes description="Kindle highlights"></notes> -->
+        <comments>J'avais lu des extraits de ce livre en allemand il y a 25 ans, mais je crois ne l'avoir jamais lu en entier jusqu'à présent. Il s'agit ici de la première traduction, celle d'Alexandre Vialatte (apparemment problématique, mais tant pis). <i>La Métamorphose</i> est un texte très prenant, à la fois triste et révoltant, qui nous invite à un peu plus d'humanité.</comments>
+        <image>La Métamorphose.jpg</image>
+    </book>
+    <book>
         <date>2019.09.17</date>
         <title>Happy</title>
         <subtitle>Why More or Less Everything is Absolutely Fine</subtitle>
