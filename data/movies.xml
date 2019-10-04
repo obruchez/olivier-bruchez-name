@@ -6127,6 +6127,15 @@
     <version>fr</version>
   </movie>
   <movie>
+    <date>1999.10.04</date>
+    <theater home="true"/>
+    <director>Tim Burton</director>
+    <title>Mars Attacks!</title>
+    <version>fr</version>
+    <url>https://www.imdb.com/title/tt0116996/</url>
+    <image></image>
+  </movie>
+  <movie>
     <date>1999.09.14</date>
     <theater home="true"/>
     <director>Philippe Harel</director>
