@@ -2,6 +2,12 @@
 <podcasts>
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date>2019.10.07</date>
+    <name url="https://www.franceinter.fr/emissions/grand-bien-vous-fasse">Grand bien vous fasse !</name>
+    <episode url="https://www.franceinter.fr/emissions/grand-bien-vous-fasse/grand-bien-vous-fasse-01-octobre-2019">Pourquoi il ne faut plus avoir peur de vieillir avec Carl Honoré</episode>
+    <comments>Un message positif à propos du vieillissement dans un monde définitivement âgiste. Ça fait du bien, mais le chemin reste encore long pour changer les mentalités, en particulier dans le monde du travail. Emission recommandée par une ancienne collègue.</comments>
+  </podcast>
+  <podcast>
     <date>2019.10.06</date>
     <name url="http://verybadwizards.com/">Very Bad Wizards</name>
     <episode url="https://verybadwizards.fireside.fm/173" number="173">Talking to Your (Alternate) Self [Ted Chiang's "Anxiety is the Dizziness of Freedom"]</episode>
