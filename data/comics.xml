@@ -2,6 +2,16 @@
 <comics>
   <introduction>A list of comics I read.</introduction>
   <comic>
+    <date>2019.10.09</date>
+    <writer>Lewis Trondheim &amp; Joann Sfar</writer>
+    <artist>Manu Larcenet</artist>
+    <colorist>Walter</colorist>
+    <series url="https://fr.wikipedia.org/wiki/Donjon_Parade">Donjon Parade</series>
+    <volume url="https://fr.wikipedia.org/wiki/Le_Jour_des_crapauds" number="3">Le Jour des crapauds</volume>
+    <comments>C'est court. C'est léger. Ça se lit facilement.</comments>
+    <image>Donjon Parade - Le Jour des crapauds.jpg</image>
+  </comic>
+  <comic>
     <date>2019.10.01</date>
     <writer>Lewis Trondheim &amp; Joann Sfar</writer>
     <artist>Manu Larcenet</artist>
