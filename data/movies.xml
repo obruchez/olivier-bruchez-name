@@ -3,6 +3,17 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Checklist: add rating to IMDb -->
   <movie>
+    <date>2019.10.09</date>
+    <theater home="true"/>
+    <director>Joon-ho Bong</director>
+    <title>Parasite</title>
+    <title language="ko">Gisaengchung</title>
+    <url>https://www.imdb.com/title/tt6751668/</url>
+    <rating>4.75</rating>
+    <comments>A light comedy, suddenly becoming a dark tragicomedy. Kind of weird. It's also a critique of something, but I'm not sure what. The relationship between the rich and the poor, I guess.</comments>
+    <image>Parasite.jpg</image>
+  </movie>
+  <movie>
     <date>2019.10.02</date>
     <theater home="true"/>
     <director>Masaki Kobayashi</director>
