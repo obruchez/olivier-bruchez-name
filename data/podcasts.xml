@@ -2,6 +2,12 @@
 <podcasts>
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date>2019.10.10</date>
+    <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
+    <episode url="https://samharris.org/podcasts/168-mind-space-motion/" number="168">Mind, space, &amp; motion - A Conversation with Barbara Tversky</episode>
+    <comments>A conversation about the relationship between space and cognition/language. The importance of imitation and gesture is especially striking when you have a young child. It's fascinating to think how a complex organ such as the brain can model our world. It's an impossible task and that's why there are so many <a href="https://medium.com/better-humans/cognitive-bias-cheat-sheet-55a472476b18">cognitive biases</a>. We usually see them as a negative thing, but they're just heuristics to simplify that task (i.e. understanding the world and navigating it).</comments>
+  </podcast>
+  <podcast>
     <date>2019.10.08</date>
     <name url="https://www.happinesslab.fm/">The Happiness Lab</name>
     <episode url="https://www.happinesslab.fm/episodes/the-unhappy-millionaire" number="2">The Unhappy Millionaire</episode>
