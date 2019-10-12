@@ -2,6 +2,17 @@
 <movies>
   <introduction>A list of movies I saw.</introduction>
   <!-- Checklist: add rating to IMDb -->
+   <movie>
+    <date>1999.10.12</date>
+    <theater home="true"/>
+    <director>Roberto Benigni</director>
+    <title>Life Is Beautiful</title>
+    <title language="it">La vita è bella </title>
+    <url>https://www.imdb.com/title/tt0118799/</url>
+    <rating>4.5</rating>
+    <comments>This is a really weird movie. It has comedic elements, obviously. And it is about the holocaust. Does it work? I'm not sure. As usual, I'm not a fan of children actors, so it didn't help either.</comments>
+    <image>Life Is Beautiful.jpg</image>
+  </movie>
   <movie>
     <date>2019.10.09</date>
     <theater home="true"/>
@@ -6264,7 +6275,11 @@
   </movie>
   <movie>
     <date>1999.01.14</date>
-    <title>La Vie Est Belle</title>
+    <director>Roberto Benigni</director>
+    <title>Life Is Beautiful</title>
+    <title language="fr">La vie est belle</title>
+    <url>https://www.imdb.com/title/tt0118799/</url>
+    <image>Life Is Beautiful.jpg</image>
   </movie>
   <movie>
     <date>1999.01.11</date>
