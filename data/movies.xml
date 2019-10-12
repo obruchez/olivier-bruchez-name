@@ -3,7 +3,7 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Checklist: add rating to IMDb -->
    <movie>
-    <date>1999.10.12</date>
+    <date>2019.10.12</date>
     <theater home="true"/>
     <director>Roberto Benigni</director>
     <title>Life Is Beautiful</title>
