@@ -2,6 +2,16 @@
 <movies>
   <introduction>A list of movies I saw.</introduction>
   <!-- Checklist: add rating to IMDb -->
+  <movie>
+    <date>2019.10.13</date>
+    <theater>Pathé Flon, Lausanne</theater>
+    <director>Todd Phillips</director>
+    <title>Joker</title>
+    <url>https://www.imdb.com/title/tt7286456/</url>
+    <rating>4.75</rating>
+    <comments>Not you usual DC movie. Excellent performance by Joaquin Phoenix. I can't shake this feeling that some of the scenes were a bit over the top. Murray Franklin showing parts of Arthur Fleck's stand-up act during his show, for example, doesn't seem very plausible. Presenting Arthur Fleck as a victim worked most of the time, though.</comments>
+    <image>Joker.jpg</image>
+  </movie>
    <movie>
     <date>2019.10.12</date>
     <theater home="true"/>
