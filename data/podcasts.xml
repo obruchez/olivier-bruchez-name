@@ -2,6 +2,24 @@
 <podcasts>
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date></date>
+    <name url="https://www.happinesslab.fm/">The Happiness Lab</name>
+    <episode url="https://www.happinesslab.fm/episodes/mistakenly-seeking-solitude" number="4">Mistakenly Seeking Solitude</episode>
+    <comments></comments>
+  </podcast>
+  <podcast>
+    <date>2019.10.16</date>
+    <name url="https://www.happinesslab.fm/">The Happiness Lab</name>
+    <episode url="https://www.happinesslab.fm/episodes/a-silver-lining" number="3">A Silver Lining</episode>
+    <comments>On average, silver medalists are less happy than bronze medalists. This is because silver medalists tend to focus on the fact that they could have gotten a gold medal (i.e. they're unlucky), wheras bronze medalists tend to focus on the fact that they could have not gotten any medal (i.e. they're lucky). More generally, we tend to compare ourselves to the wrong persons/situations. We should practice negative visualisation more often (i.e. stoicism).</comments>
+  </podcast>
+  <podcast>
+    <date>2019.10.14</date>
+    <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
+    <episode url="https://samharris.org/podcasts/170-great-uncoupling/" number="170">The Great Uncoupling - A Conversation with Andrew McAfee</episode>
+    <comments>We absolutely need carbon taxes. There are absolutely no reason not to have them, at least for products/services that have a clear impact on the environment. Ideally, we would also have taxes on products/services that have a negative impact on people/animals, but this would be way harder to implement. I also find interesting this idea that nuclear energy is not necessarily bad, at least with more advanced technologies. I think I agree. But the current climate is so anti-nuclear that it's a difficult idea to defend.</comments>
+  </podcast>
+  <podcast>
     <date>2019.10.10</date>
     <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
     <episode url="https://samharris.org/podcasts/168-mind-space-motion/" number="168">Mind, space, &amp; motion - A Conversation with Barbara Tversky</episode>
