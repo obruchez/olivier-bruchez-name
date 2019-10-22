@@ -2,6 +2,24 @@
 <podcasts>
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date></date>
+    <name url="https://peterattiamd.com/podcast/">The Peter Attia Drive Podcast</name>
+    <episode url="https://peterattiamd.com/lpa/" number="7">Deep Dive: Lp(a) — what every doctor, and the 10-20% of the population at risk, needs to know</episode>
+    <comments></comments>
+  </podcast>
+  <podcast>
+    <date>2019.10.21</date>
+    <name url="http://verybadwizards.com/">Very Bad Wizards</name>
+    <episode url="https://verybadwizards.fireside.fm/174" number="174">More Chiang for Your Buck ("Anxiety is the Dizziness of Freedom" Pt. 2)</episode>
+    <comments></comments>
+  </podcast>
+  <podcast>
+    <date>2019.10.20</date>
+    <name url="http://peachandblack.podbean.com/">Peach &amp; Black Podcast</name>
+    <episode url="https://peachandblack.podbean.com/e/james-fluff-harley-talks-princes-20ten-album/">James 'Fluff' Harley Talks Prince's 20Ten Album</episode>
+    <comments></comments>
+  </podcast>
+  <podcast>
     <date>2019.10.18</date>
     <name url="https://www.happinesslab.fm/">The Happiness Lab</name>
     <episode url="https://www.happinesslab.fm/episodes/caring-what-youre-sharing" number="5">Caring What You're Sharing</episode>
