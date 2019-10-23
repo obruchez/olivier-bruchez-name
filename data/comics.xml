@@ -2,13 +2,23 @@
 <comics>
   <introduction>A list of comics I read.</introduction>
   <comic>
+    <date>2019.10.23</date>
+    <writer>Lewis Trondheim &amp; Joann Sfar</writer>
+    <artist>Manu Larcenet</artist>
+    <colorist>Walter</colorist>
+    <series url="https://fr.wikipedia.org/wiki/Donjon_Parade">Donjon Parade</series>
+    <volume url="https://fr.wikipedia.org/wiki/Technique_Grogro" number="5">Technique Grogro</volume>
+    <comments>On reste dans le léger pour ce dernier tome (en date) de Donjon Parade.</comments>
+    <image>Donjon Parade - Technique Grogro.jpg</image>
+  </comic>
+  <comic>
     <date>2019.10.17</date>
     <writer>Lewis Trondheim &amp; Joann Sfar</writer>
     <artist>Manu Larcenet</artist>
     <colorist>Walter</colorist>
     <series url="https://fr.wikipedia.org/wiki/Donjon_Parade">Donjon Parade</series>
     <volume url="https://fr.wikipedia.org/wiki/Des_fleurs_et_des_marmots" number="4">Des fleurs et des marmots</volume>
-    <comments>Un tome à la fois scatologique et aliénesque..</comments>
+    <comments>Un tome à la fois scatologique et aliénesque.</comments>
     <image>Donjon Parade - Des fleurs et des marmots.jpg</image>
   </comic>
   <comic>
