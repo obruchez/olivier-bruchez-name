@@ -3,9 +3,15 @@
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
     <date></date>
+    <name url="https://peterattiamd.com/podcast/">The Peter Attia Drive Podcast</name>
+    <episode url="https://peterattiamd.com/tombilyeu/" number="8">Tom Bilyeu: nutrition, fasting, meditation, mindset, immortality, and the secret formula of fulfillment</episode>
+    <comments></comments>
+  </podcast>
+  <podcast>
+    <date>2019.10.25</date>
     <name url="https://www.happinesslab.fm/">The Happiness Lab</name>
     <episode url="https://www.happinesslab.fm/episodes/dont-think-of-a-white-bear" number="6">Don't Think of a White Bear</episode>
-    <comments></comments>
+    <comments>"Trying to suppress feelings of hurt, pain and anger does more harm than good." This is a good reminder that we should confront all those negative thoughts, emotions, and events from the past, and learn to live with them.</comments>
   </podcast>
   <podcast>
     <date>2019.10.24</date>
