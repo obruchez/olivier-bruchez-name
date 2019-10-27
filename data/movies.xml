@@ -3,6 +3,16 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Checklist: add rating to IMDb -->
   <movie>
+    <date>2019.10.26</date>
+    <theater home="true"/>
+    <director>Charles Chaplin</director>
+    <title>The Great Dictator</title>
+    <url>https://www.imdb.com/title/tt0032553/</url>
+    <rating>5.25</rating>
+    <comments>I had only seen a few scenes from this movie (the globe scene, the final speech, and a few others), but I was not sure whether I had seen it in its entirety or not. Apparently not. It's excellent and funnier than I had anticipated.</comments>
+    <image>The Great Dictator.jpg</image>
+  </movie>
+  <movie>
     <date>2019.10.15</date>
     <theater home="true"/>
     <director>Ari Aster</director>
