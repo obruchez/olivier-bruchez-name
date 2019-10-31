@@ -3,9 +3,15 @@
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
     <date></date>
+    <name url="http://verybadwizards.com/">Very Bad Wizards</name>
+    <episode url="https://verybadwizards.fireside.fm/175" number="175">At Least We Didn't Talk About Zombies (Nagel's "What is it Like to be a Bat?")</episode>
+    <comments></comments>
+  </podcast>
+  <podcast>
+    <date>2019.10.31</date>
     <name url="https://www.happinesslab.fm/">The Happiness Lab</name>
     <episode url="https://www.happinesslab.fm/episodes/dont-accentuate-the-positive" number="7">Don't Accentuate the Positive</episode>
-    <comments></comments>
+    <comments>An episode about the <a href="http://woopmylife.org/">WOOP technique</a> (Wish, Outcome, Obstacles, Plan) and the usefulness of negative visualisation (I don't think stoicism was mentioned, but it's the same idea).</comments>
   </podcast>
   <podcast>
     <date>2019.10.29</date>
@@ -407,7 +413,7 @@
     <date>2019.03.21</date>
     <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
     <episode url="https://samharris.org/podcasts/151-will-destroy-future/" number="151">Will We Destroy the Future? - A Conversation with Nick Bostrom</episode>
-    <comments>"They discuss public goods, moral illusions, the asymmetry between happiness and suffering, utilitarianism, "the vulnerable world hypothesis," the history of nuclear deterrence, the possible need for "turnkey totalitarianism," whether we’re living in a computer simulation, the Doomsday Argument, the implications of extraterrestrial life, and other topics." I'm still not convinced by the simulation argument. It's clever, but I'm not convinced. I had already heard of the <a href="https://en.wikipedia.org/wiki/Great_Filter">Great Filter</a> (in the context of the Fermi paradox), but I think there are many other possible explanations. It basically comes down to predicting what an advanced civilization would do. And, just like for the technological singularity, there's simply no way to know, by definition. Of course, we can try, but our imagination will be quite limited, I think.</comments>
+    <comments>"They discuss public goods, moral illusions, the asymmetry between happiness and suffering, utilitarianism, "the vulnerable world hypothesis," the history of nuclear deterrence, the possible need for "turnkey totalitarianism," whether we're living in a computer simulation, the Doomsday Argument, the implications of extraterrestrial life, and other topics." I'm still not convinced by the simulation argument. It's clever, but I'm not convinced. I had already heard of the <a href="https://en.wikipedia.org/wiki/Great_Filter">Great Filter</a> (in the context of the Fermi paradox), but I think there are many other possible explanations. It basically comes down to predicting what an advanced civilization would do. And, just like for the technological singularity, there's simply no way to know, by definition. Of course, we can try, but our imagination will be quite limited, I think.</comments>
   </podcast>
   <podcast>
     <date>2019.03.19</date>
@@ -959,12 +965,12 @@
     <date>2018.04.22</date>
     <name url="https://tim.blog/podcast/">The Tim Ferriss Show</name>
     <episode url="https://tim.blog/2015/04/10/how-to-earn-your-freedom/" number="70">How to Earn Your Freedom</episode>
-    <comments>Two chapters of <i>Vagabonding: An Uncommon Guide to the Art of Long-Term World Travel</i> by Rolf Potts. "Disclaimer: These might make you quit your job… even if you’re the boss. I’m not kidding, as I’ve seen it happen. If it comes to pass, you’ll thank me later." Tim Ferris is selling dreams, as usual. Except he really made me quit my first job, back in 2008...</comments>
+    <comments>Two chapters of <i>Vagabonding: An Uncommon Guide to the Art of Long-Term World Travel</i> by Rolf Potts. "Disclaimer: These might make you quit your job… even if you're the boss. I'm not kidding, as I've seen it happen. If it comes to pass, you'll thank me later." Tim Ferris is selling dreams, as usual. Except he really made me quit my first job, back in 2008...</comments>
   </podcast>
   <podcast>
     <date>2018.04.19</date>
     <name url="http://www.philosophybites.com/">Philosophy Bites</name>
-    <episode url="http://philosophybites.com/2007/06/simon_blackburn.html">Simon Blackburn on Plato’s Cave</episode>
+    <episode url="http://philosophybites.com/2007/06/simon_blackburn.html">Simon Blackburn on Plato's Cave</episode>
     <comments>A quick refresher on the <a href="https://en.wikipedia.org/wiki/Allegory_of_the_Cave">Allegory of the Cave</a>. I must admit that, after all these years, I wouldn't have been able to explain what it was about.</comments>
   </podcast>
   <podcast>
@@ -1745,7 +1751,7 @@
     <date>2017.04.23</date>
     <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
     <episode url="https://www.samharris.org/podcast/item/privacy-and-security" number="72">Privacy and Security - A Conversation with Gen. Michael V. Hayden</episode>
-    <comments>A very short episode (unusual for Harris). I guess I learnt the difference between the different intelligence agencies (NSA and CIA, mainly). I also realized that I don't really know what to think about Snowden. By default, I'm going to align my opinion on <a href="https://danielmiessler.com/blog/changing-opinion-edward-snowden/">Daniel Miessler's</a> ("In short, it’s complicated, and be cautious of thinking you have all the information.").</comments>
+    <comments>A very short episode (unusual for Harris). I guess I learnt the difference between the different intelligence agencies (NSA and CIA, mainly). I also realized that I don't really know what to think about Snowden. By default, I'm going to align my opinion on <a href="https://danielmiessler.com/blog/changing-opinion-edward-snowden/">Daniel Miessler's</a> ("In short, it's complicated, and be cautious of thinking you have all the information.").</comments>
   </podcast>
   <podcast>
     <date>2017.04.05</date>
@@ -2994,7 +3000,7 @@
   <podcast>
     <date>2015.04.29</date>
     <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
-    <episode url="https://www.samharris.org/podcast/item/the-chapel-hill-murders-and-militant-atheism" number="6">The Chapel Hill Murders and ‘Militant’ Atheism</episode>
+    <episode url="https://www.samharris.org/podcast/item/the-chapel-hill-murders-and-militant-atheism" number="6">The Chapel Hill Murders and 'Militant' Atheism</episode>
   </podcast>
   <podcast>
     <date>2015.04.28</date>
@@ -3009,7 +3015,7 @@
   <podcast>
     <date>2015.04.24</date>
     <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
-    <episode url="https://www.samharris.org/podcast/item/why-dont-i-criticize-israel" number="2">Why Don’t I Criticize Israel?</episode>
+    <episode url="https://www.samharris.org/podcast/item/why-dont-i-criticize-israel" number="2">Why Don't I Criticize Israel?</episode>
   </podcast>
   <podcast>
     <date>2015.04.24</date>
