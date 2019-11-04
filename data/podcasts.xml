@@ -3,9 +3,21 @@
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
     <date></date>
+    <name url="https://peterattiamd.com/podcast/">The Peter Attia Drive Podcast</name>
+    <episode url="https://peterattiamd.com/ama02/" number="11">AMA #2: the Nothingburger — results from Peter’s week-long fast between two weeks of nutritional ketosis — and answering questions on all things fasting</episode>
+    <comments></comments>
+  </podcast>
+  <podcast>
+    <date>2019.11.04</date>
+    <name url="http://peachandblack.podbean.com/">Peach &amp; Black Podcast</name>
+    <episode url="https://peachandblack.podbean.com/e/the-npg-review-interview-at-caloundra-music-festival/">The NPG Review And Interview at Caloundra Music Festival/episode>
+    <comments>I saw the NPG in 2017 in Montreux. It was a fun concert. I guess I'd like to see them again someday. As Toejam says, it's the closest thing to a Prince concert.</comments>
+  </podcast>
+  <podcast>
+    <date>2019.11.01</date>
     <name url="http://verybadwizards.com/">Very Bad Wizards</name>
     <episode url="https://verybadwizards.fireside.fm/175" number="175">At Least We Didn't Talk About Zombies (Nagel's "What is it Like to be a Bat?")</episode>
-    <comments></comments>
+    <comments>One of my favorite topics (consciousness). I agree with Dave and Tamler that the more you talk about it, the less it becomes clear. It's weird. I actually think p-zombies, as I understand them, can be an illuminating thought experiment (how does consciousness "interact" with the world? does it cause anything? is it necessary?).</comments>
   </podcast>
   <podcast>
     <date>2019.10.31</date>
@@ -17,7 +29,7 @@
     <date>2019.10.29</date>
     <name url="https://peterattiamd.com/podcast/">The Peter Attia Drive Podcast</name>
     <episode url="https://peterattiamd.com/tombilyeu/" number="8">Tom Bilyeu: nutrition, fasting, meditation, mindset, immortality, and the secret formula of fulfillment</episode>
-    <comments>Tom Bilyeu is impressively full of energy ("hyper", according to Peter Attia). I'd like to be more like him. An interesting discussion, but the more I think about it, the more I realize that successful people owe their success in large part to luck (e.g. meeting the right persons at the right moment, etc.) and good genes (i.e. how can you not achieve a lot when you're so full of energy?). So I predict this won't be my favorite episode from the podcast...</comments>
+    <comments>Tom Bilyeu is impressively full of energy ("hyper", according to Peter Attia). I'd like to be more like him. An interesting discussion, but the more I think about it, the more I realize that successful people owe their success in large part to luck (e.g. meeting the right persons at the right moment, etc.) and good genes (i.e. how can you not achieve a lot when you're so full of energy?).</comments>
   </podcast>
   <podcast>
     <date>2019.10.25</date>
