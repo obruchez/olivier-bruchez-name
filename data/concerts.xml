@@ -7,6 +7,41 @@
   -->
   <introduction>A list of concerts I went to.</introduction>
   <concert>
+    <date>2019.11.03</date>
+    <location>Salle Paderewski, Casino de Montbenon, Lausanne, Switzerland</location>
+    <event>JazzOnze+ Festival Lausanne</event>
+    <musician inst="tenor saxophone">Chris Potter</musician>
+    <musician inst="bass">Dave Holland</musician>
+    <musician inst="tabla">Zakir Hussain</musician>
+    <rating>4.75</rating>
+    <comments>I really like Chris Potter and Dave Holland. Zakir Hussain, which I also saw with Charles Lloyd, is a great musician, but I'm less impressed with his style. Overall, the playing was excellent, but I was probably not in the right mood to fully appreciate the music (which, without bass and drums, was a bit more laid-back, less energetic).</comments>
+  </concert>
+  <concert>
+    <date>2019.11.01</date>
+    <location>Salle Paderewski, Casino de Montbenon, Lausanne, Switzerland</location>
+    <event>JazzOnze+ Festival Lausanne</event>
+    <group>Charles Lloyd &amp; Kindred Spirits</group>
+    <musician inst="tenor saxophone" leader="true">Charles Lloyd</musician>
+    <musician inst="guitar">Marvin Sewell</musician>
+    <musician inst="piano">Gerald Clayton</musician>
+    <musician inst="bass">Harish Raghavan</musician>
+    <musician inst="drums">Eric Harland</musician>
+    <rating>5.0</rating>
+    <comments>That was my sixth Charles Lloyd concert. That was also the sixth time I saw Eric Harland, which I previously saw with Charles Lloyd, as well as with Dave Holland. This was the first time I saw the other musicians. I really liked Marvin Sewell (the guitarist). Overall, a great concert.</comments>
+  </concert>
+  <concert>
+    <date>2019.11.01</date>
+    <location>Salle Paderewski, Casino de Montbenon, Lausanne, Switzerland</location>
+    <event>JazzOnze+ Festival Lausanne</event>
+    <group>District Five</group>
+    <musician inst="alto saxophone">Tapiwa Svosve</musician>
+    <musician inst="guitar">Vojko Huter</musician>
+    <musician inst="bass">Xaver Rüegg</musician>
+    <musician inst="drums">Paul Amereller</musician>
+    <rating>3.5</rating>
+    <comments>Nice musicians, but the music was a bit too repetitive/"ambient" for my tastes.</comments>
+  </concert>
+  <concert>
     <date>2019.09.27</date>
     <location>La Cave du Bleu Lézard, Lausanne, Switzerland</location>
     <group>The Black Shoe's Button</group>
