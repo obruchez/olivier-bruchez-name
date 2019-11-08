@@ -2,6 +2,16 @@
 <comics>
   <introduction>A list of comics I read.</introduction>
   <comic>
+    <date>2019.11.07</date>
+    <writer>Roger Leloup</writer>
+    <artist>Roger Leloup</artist>
+    <colorist>Studio Leonardo</colorist>
+    <series url="https://fr.wikipedia.org/wiki/Yoko_Tsuno">Yoko Tsuno</series>
+    <volume url="https://fr.wikipedia.org/wiki/Le_Trio_de_l%27%C3%A9trange" number="1">Le Trio de l'étrange</volume>
+    <comments>Je n'avais pas entrepris la relecture de toute la série Yoko Tsuno depuis 2002. Je vais y remédier.</comments>
+    <image>Yoko Tsuno - Le Trio de l'étrange.jpg</image>
+  </comic>
+  <comic>
     <date>2019.10.23</date>
     <writer>Lewis Trondheim &amp; Joann Sfar</writer>
     <artist>Manu Larcenet</artist>
