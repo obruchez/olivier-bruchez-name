@@ -3,6 +3,16 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Checklist: add rating to IMDb -->
   <movie>
+    <date>2019.11.08</date>
+    <theater home="true"/>
+    <director>Bobbie Peers</director>
+    <title>To Plant a Flag</title>
+    <url>https://www.imdb.com/title/tt8908824/</url>
+    <rating>4.0</rating>
+    <comments>A fun short movie recommended by a colleague of mine.</comments>
+    <image>To Plant a Flag.jpg</image>
+  </movie>
+  <movie>
     <date>2019.10.26</date>
     <theater home="true"/>
     <director>Charles Chaplin</director>
