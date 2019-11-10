@@ -3,13 +3,22 @@
 <exhibitions>
     <introduction>A list of exhibitions I visited.</introduction>
     <exhibition>
+        <date>2019.11.09</date>
+        <name>Rodin – Giacometti</name>
+        <museum>Fondation Pierre Gianadda, Martigny, Switzerland</museum>
+        <rating>5.0</rating>
+        <comments>"Exposition organisée par le Musée Rodin et la Fondation Giacometti". I really liked this exhibition, as I'm already a "fan" of Giacometti. The parallels/comparisons with Rodin made it clear that no artist exists in a vacuum.</comments>
+        <image>Rodin – Giacometti.jpg</image>
+        <!-- <pictures url=""/> -->
+    </exhibition>
+    <exhibition>
         <date>2019.07.31</date>
         <name>Permanent exhibition</name>
         <museum>Narvik War Museum, Narvik, Norway</museum>
         <rating>4.75</rating>
         <comments>I'm not a fan of history museums, but this one is pretty good. Especially the (more artistic/experimental) end of the exhibition.</comments>
         <image>Narvik War Museum.jpg</image>
-        <!-- <pictures url=""/> -->
+        <pictures url="https://www.flickr.com/photos/bruchez/sets/72157711717289696"/>
     </exhibition>
     <exhibition>
         <date>2019.07.25</date>
@@ -18,7 +27,7 @@
         <rating>5.25</rating>
         <comments>We spent a lot of time outside. The <a href="https://en.wikipedia.org/wiki/Rock_carvings_at_Alta">rock carvings</a> (there are thousands of them) are really impressive. It's crazy to think that some of those carvings are more than 6000 years old.</comments>
         <image>Alta Museum.jpg</image>
-        <!-- <pictures url=""/> -->
+        <pictures url="https://www.flickr.com/photos/bruchez/sets/72157711717191926"/>
     </exhibition>
     <exhibition>
         <date>2019.07.22</date>
@@ -27,7 +36,7 @@
         <rating>4.25</rating>
         <comments>Hunting is definitely not my cup of tea, but it's part of Norway's culture/history, so I guess that museum, objectively, is good. I cannot say I was fascinated by what I saw/read, though.</comments>
         <image>Polarmuseet.jpg</image>
-        <!-- <pictures url=""/> -->
+        <pictures url="https://www.flickr.com/photos/bruchez/sets/72157711717629417"/>
     </exhibition>
     <exhibition>
         <date>2019.07.20</date>
@@ -36,7 +45,7 @@
         <rating>5.0</rating>
         <comments>This is a park including the Vigeland installation, which consists of hundreds (?) of sculptures, in a kind of outdoor museum. The sculptures are sometimes funny, sometimes shocking, and almost always weird. I really liked it.</comments>
         <image>Frognerparken.jpg</image>
-        <!-- <pictures url=""/> -->
+        <pictures url="https://www.flickr.com/photos/bruchez/sets/72157711717152726"/>
     </exhibition>
     <exhibition>
         <date>2019.07.19</date>
@@ -45,7 +54,7 @@
         <rating>5.0</rating>
         <comments>I think I already visited that museum in 2002, but I'm not sure. Two huge ships and a lot of text/information. A really impressive museum.</comments>
         <image>Frammuseet.jpg</image>
-        <!-- <pictures url=""/> -->
+        <pictures url="https://www.flickr.com/photos/bruchez/sets/72157711718924633"/>
     </exhibition>
     <exhibition>
         <date>2019.07.19</date>
@@ -54,7 +63,7 @@
         <rating>5.0</rating>
         <comments>Three burial ships (well showcased) and many artefacts.</comments>
         <image>Viking Ship Museum.jpg</image>
-        <!-- <pictures url=""/> -->
+        <pictures url="https://www.flickr.com/photos/bruchez/sets/72157711717410677"/>
     </exhibition>
     <exhibition>
         <date>2019.02.09</date>
