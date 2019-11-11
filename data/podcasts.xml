@@ -3,9 +3,15 @@
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
     <date></date>
+    <name url="https://peterattiamd.com/podcast/">The Peter Attia Drive Podcast</name>
+    <episode url="https://peterattiamd.com/coreymccarthy/" number="12">Corey McCarthy: Overcoming trauma, dealing with shame, finding meaning, changing the self-narrative, redemption, and the importance of gratitude</episode>
+    <comments></comments>
+  </podcast>
+  <podcast>
+    <date>2019.11.10</date>
     <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
     <episode url="https://samharris.org/podcasts/174-life-mind/" number="174">Life &amp; Mind - A Conversation with Richard Dawkins</episode>
-    <comments></comments>
+    <comments>Hearing Sam doing a guided meditation with Dawkins was funny and awkward at the same time. I liked the parts where Dawkins talked about biology.</comments>
   </podcast>
   <podcast>
     <date>2019.11.08</date>
