@@ -2,6 +2,12 @@
 <articles>
   <introduction>A list of articles I read.</introduction>
   <article>
+    <date>2019.11.12</date>
+    <title url="https://www.nytimes.com/2019/11/07/style/dopamine-fasting.html">How to Feel Nothing Now, in Order to Feel More Later</title>
+    <subtitle>A day of dopamine fasting in San Francisco.</subtitle>
+    <comments>"The name — dopamine fasting — is a bit of a misnomer. It's more of a stimulation fast. [...] The ultimate dopamine fast is complete sensory deprivation, like maybe floating in a dark water tank or locking oneself in a closet. [...] Silicon Valley is not the first group to discover that moderating emotions or spending periods trying to feel less can lead to happiness. In their quest, they are moving toward two very old groups: those in silent meditation and the Amish. [...] After the fast, Mr. Sinka finds that everyday tasks are more exciting and fun. Work is pleasurable again. Food is more delicious."</comments>
+  </article> 
+  <article>
     <date>2019.11.10</date>
     <title url="https://www.nytimes.com/2019/02/12/magazine/climeworks-business-climate-change.html">The Tiny Swiss Company That Thinks It Can Help Stop Climate Change</title>
     <subtitle>Two European entrepreneurs want to remove carbon from the air at prices cheap enough to matter.</subtitle>
