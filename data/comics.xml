@@ -2,6 +2,16 @@
 <comics>
   <introduction>A list of comics I read.</introduction>
   <comic>
+    <date>2019.11.13</date>
+    <writer>Roger Leloup</writer>
+    <artist>Roger Leloup</artist>
+    <colorist>Studio Leonardo</colorist>
+    <series url="https://fr.wikipedia.org/wiki/Yoko_Tsuno">Yoko Tsuno</series>
+    <volume url="https://fr.wikipedia.org/wiki/L%27Orgue_du_diable" number="2">L'Orgue du diable</volume>
+    <comments>Un tome sans les Vinéens. Le dessin et le style se précisent.</comments>
+    <image>Yoko Tsuno - L'Orgue du diable.jpg</image>
+  </comic>
+  <comic>
     <date>2019.11.07</date>
     <writer>Roger Leloup</writer>
     <artist>Roger Leloup</artist>
