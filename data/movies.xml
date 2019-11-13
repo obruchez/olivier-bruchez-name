@@ -3,6 +3,16 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Checklist: add rating to IMDb -->
   <movie>
+    <date>2019.11.13</date>
+    <theater home="true"/>
+    <director>Sergio Leone</director>
+    <title>For a Few Dollars More</title>
+    <url>https://www.imdb.com/title/tt0059578/</url>
+    <rating>4.75</rating>
+    <comments>Not as good as <i>The Good, the Bad and the Ugly </i>, but still very enjoyable. Clint Eastwood and Lee Van Cleef are such charismatic actors, just looking at them, not saying a word, is an experience in itself.</comments>
+    <image>For a Few Dollars More.jpg</image>
+  </movie>
+  <movie>
     <date>2019.11.08</date>
     <theater home="true"/>
     <director>Bobbie Peers</director>
