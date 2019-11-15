@@ -21,6 +21,12 @@
   </show>
   <show>
     <date></date>
+    <name url="https://en.wikipedia.org/wiki/Rick_and_Morty">Rick and Morty</name>
+    <series url="https://en.wikipedia.org/wiki/Rick_and_Morty_(season_4)" type="season">4</series>
+    <comments></comments>
+  </show>
+  <show>
+    <date></date>
     <name url="https://en.wikipedia.org/wiki/Silicon_Valley_(TV_series)">Silicon Valley</name>
     <series url="https://en.wikipedia.org/wiki/Silicon_Valley_(TV_series)#Season_6" type="season">6</series>
     <comments></comments>
