@@ -3,9 +3,15 @@
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
     <date></date>
+    <name url="http://peachandblack.podbean.com/">Peach &amp; Black Podcast</name>
+    <episode url="https://peachandblack.podbean.com/e/november-2019-prince-news-episode/">November 2019 Prince News Episode</episode>
+    <comments></comments>
+  </podcast>
+  <podcast>
+    <date>2019.11.19</date>
     <name url="http://verybadwizards.com/">Very Bad Wizards</name>
     <episode url="https://verybadwizards.fireside.fm/176" number="176">Split-Brains and the (Dis)Unity of Consciousness</episode>
-    <comments></comments>
+    <comments>An episode about universe simulations (do we live in one?) and split-brains. Two fascinating topics. Do we all have two consciousnesses inside us? One silent and one that can talk? About simulations: I think the most important and interesting question is still "Can we actually simulate consciousness? Does it even make sense?" The <i>Black Mirror</i> episodes about this topic were really good, if I recall correctly.</comments>
   </podcast>
   <podcast>
     <date>2019.11.14</date>
