@@ -1,39 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <books>
     <introduction>A list of books I read.</introduction>
-    <!-- <book>
-        <date></date>
-        <title>The Theoretical Minimum</title>
-        <subtitle>What You Need to Know to Start Doing Physics</subtitle>
-        <author>Leonard Susskind &amp; George Hrabovsky</author>
-        <publishingyear>2013</publishingyear>
-        <rating></rating>
-        <url>https://en.wikipedia.org/wiki/The_Theoretical_Minimum</url>
-        <notes description="Kindle highlights"></notes>
-        <comments></comments>
-        <image>The Theoretical Minimum.jpg</image>
-    </book> -->
-    <!-- <book>
-        <date></date>
-        <title>Learn You a Haskell for Great Good!</title>
-        <subtitle>A Beginner's Guide</subtitle>
-        <author>Miran Lipovača</author>
-        <publishingyear>2011</publishingyear>
-        <rating></rating>
-        <url>http://learnyouahaskell.com/</url>
-        <notes description="Kindle highlights"></notes>
-        <comments></comments>
-        <image>Learn You a Haskell for Great Good!.jpg</image>
-    </book> -->
     <book>
-        <date></date>
+        <date>2019.11.16</date>
         <title>Poèmes saturniens</title>
         <author>Paul Verlaine</author>
         <publishingyear>1866</publishingyear>
-        <rating></rating>
+        <rating>4.0</rating>
         <url>https://fr.wikipedia.org/wiki/Po%C3%A8mes_saturniens</url>
         <notes description="Kindle highlights"></notes>
-        <comments></comments>
+        <comments>Je n'ai pas accroché. Je crois qu'il va falloir que je m'éloigne un peu des classiques pour que je trouve de la poésie qui me touche vraiment.</comments>
         <image>Poèmes saturniens.jpg</image>
     </book>
     <book>
