@@ -3,6 +3,16 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Checklist: add rating to IMDb -->
   <movie>
+    <date>2019.11.16</date>
+    <theater home="true"/>
+    <director>Steven Spielberg</director>
+    <title>Indiana Jones and the Temple of Doom</title>
+    <url>https://www.imdb.com/title/tt0087469/</url>
+    <rating>4.25</rating>
+    <comments>Quite fun, but something's missing. I can't quite put my finger on it at the moment.</comments>
+    <image>Indiana Jones and the Temple of Doom.jpg</image>
+  </movie>
+  <movie>
     <date>2019.11.13</date>
     <theater home="true"/>
     <director>Sergio Leone</director>
