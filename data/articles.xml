@@ -2,6 +2,12 @@
 <articles>
   <introduction>A list of articles I read.</introduction>
   <article>
+    <date>2019.11.21</date>
+    <title url="https://danielmiessler.com/blog/free-wills-absurdist-paradox/">Free Will's Absurdist Paradox</title>
+    <subtitle>How Camus' Absurdism unifies Compatibilism and Incompatibilism</subtitle>
+    <comments>"[T]he problem with Incompatibilism is not that it's wrong, but that it's incomplete. It insists on prioritizing the abstracted world of quarks, atoms, and molecules, instead of the human world we actually live in. [...] As it turns out though, this "reality" usually doesn't matter in a world where humans build houses and need trees to feed families. [...] Just as Camus talked about with the lack of intrinsic meaning in the universe, and how we must live on despite that lack of meaning, we must also accept that we are not ultimately in control of anything in our lives."</comments>
+  </article> 
+  <article>
     <date>2019.11.19</date>
     <title url="https://www.scientificamerican.com/article/aviation-is-on-a-low-carbon-flight-path/">Aviation Is on a Low-Carbon Flight Path</title>
     <subtitle>Buy offsets if you want, but for real hope, look to electric planes</subtitle>
