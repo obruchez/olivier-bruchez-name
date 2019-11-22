@@ -2,6 +2,16 @@
 <comics>
   <introduction>A list of comics I read.</introduction>
   <comic>
+    <date>2019.11.22</date>
+    <writer>Roger Leloup</writer>
+    <artist>Roger Leloup</artist>
+    <colorist>Studio Leonardo</colorist>
+    <series url="https://fr.wikipedia.org/wiki/Yoko_Tsuno">Yoko Tsuno</series>
+    <volume url="https://fr.wikipedia.org/wiki/La_Forge_de_Vulcain_(Yoko_Tsuno)" number="3">La Forge de Vulcain</volume>
+    <comments>Un tome où l'on découvre la puissance (et les limites) de la technologie vinéenne.</comments>
+    <image>Yoko Tsuno - La Forge de Vulcain.jpg</image>
+  </comic>
+  <comic>
     <date>2019.11.13</date>
     <writer>Roger Leloup</writer>
     <artist>Roger Leloup</artist>
