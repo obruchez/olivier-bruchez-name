@@ -2,6 +2,40 @@
 <books>
     <introduction>A list of books I read.</introduction>
     <book>
+        <date></date>
+        <title>L'Art du roman</title>
+        <author>Milan Kundera</author>
+        <publishingyear>1986</publishingyear>
+        <rating></rating>
+        <url>https://fr.wikipedia.org/wiki/L%27Art_du_roman</url>
+        <notes description="Kindle highlights"></notes>
+        <comments></comments>
+        <image>L'Art du roman.jpg</image>
+    </book>
+    <book>
+        <date></date>
+        <title>The Beautiful Ones</title>
+        <author>Prince Rogers Nelson &amp; Dan Piepenbring</author>
+        <publishingyear>2019</publishingyear>
+        <rating></rating>
+        <url>https://books.google.com/books?id=AWKSDwAAQBAJ</url>
+        <notes description="Kindle highlights"></notes>
+        <comments></comments>
+        <image>The Beautiful Ones.jpg</image>
+    </book>
+    <book>
+        <date>2019.11.21</date>
+        <title>Self-Therapy</title>
+        <subtitle>A Step-By-Step Guide to Creating Inner Wholeness Using IFS, a New, Cutting-Edge Therapy</subtitle>
+        <author>Jay Earley</author>
+        <publishingyear>2009</publishingyear>
+        <rating>4.5</rating>
+        <url>https://books.google.com/books?id=Ny96Z7N_ihsC</url>
+        <notes description="Kindle highlights"></notes>
+        <comments>First, IFS kind of sounded like woo to me, but after a while, it started to make sense. I think I liked this approach. It's almost like an algorithm. It's also somewhat related to meditation in general and to loving kindness meditation in particular. I'm going to try it.</comments>
+        <image>Self-Therapy.jpg</image>
+    </book>
+    <book>
         <date>2019.11.16</date>
         <title>Poèmes saturniens</title>
         <author>Paul Verlaine</author>
