@@ -5,8 +5,9 @@
 @header = {
   <tr class="list-header">
     <th class="col-md-1">Date</th>
-    <th class="col-md-6">Name</th>
-    <th class="col-md-4">Museum</th>
+    <th class="col-md-4">Name</th>
+    <th class="col-md-3">Museum</th>
+    <th class="col-md-3">Pictures</th>
     <th class="col-md-1">Rating</th>
   </tr>
 }
@@ -17,10 +18,11 @@
       <td>@sluganddate(exhibition)</td>
       <td>@exhibition.name</td>
       <td>@exhibition.museum</td>
+      <td>@pictures(exhibition.pictures, exhibition.name)</td>
       <td>@views.html.rating(exhibition.rating)</td>
     </tr>
     @exhibition.comments.map { comments =>
-      <tr><td colspan="4">@comments.html</td></tr>
+      <tr><td colspan="5">@comments.html</td></tr>
     }
   }
 }

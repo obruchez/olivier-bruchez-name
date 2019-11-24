@@ -12,6 +12,7 @@ case class Exhibition(override val date: Partial,
                       name: String,
                       museum: String,
                       rating: Option[Double],
+                      pictures: Seq[Pictures],
                       comments: Option[HtmlContent],
                       override val itemSlug: Option[String] = None,
                       override val itemUrl: Option[String] = None,
@@ -31,6 +32,7 @@ object Exhibition {
       name = (rootNode \\ "name").text.trim,
       museum = (rootNode \\ "museum").text.trim,
       rating = Parsing.ratingFromString((rootNode \\ "rating").text),
+      pictures = Parsing.picturesFromNode(rootNode),
       comments = Parsing.commentsFromNodeChildren((rootNode \\ "comments").headOption)
     )
   }
