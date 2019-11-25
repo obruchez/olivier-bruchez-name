@@ -2,6 +2,18 @@
 <podcasts>
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date></date>
+    <name url="https://peterattiamd.com/podcast/">The Peter Attia Drive Podcast</name>
+    <episode url="https://peterattiamd.com/brettkotlus/" number="13">Brett Kotlus, M.D.: How to look younger while we live longer</episode>
+    <comments></comments>
+  </podcast>
+  <podcast>
+    <date>2019.11.25</date>
+    <name url="https://wakingup.com/">Waking Up Course</name>
+    <episode url="https://samharris.org/subscriber-extras/waking-course-meditation-trauma/">Meditation and Trauma - A Conversation with David Treleaven</episode>
+    <comments>This is a reminder that meditation is just a tool and that it's not always the best tool at any moment.</comments>
+  </podcast>
+  <podcast>
     <date>2019.11.22</date>
     <name>Prince: The Story of 1999</name>
     <episode url="https://www.thecurrent.org/feature/2019/11/15/prince-story-1999-episode-one" number="1">My Mind Says Prepare to Fight</episode>
