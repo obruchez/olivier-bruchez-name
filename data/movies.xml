@@ -3,6 +3,16 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Checklist: add rating to IMDb -->
   <movie>
+    <date>2019.11.27</date>
+    <theater home="true"/>
+    <director>Akira Kurosawa</director>
+    <title>Ikiru</title>
+    <url>https://www.imdb.com/title/tt0044741/</url>
+    <rating>4.75</rating>
+    <comments>A moving story, with a simple message: it's never too late to start living your life, to have a positive impact on other people.</comments>
+    <image>Ikiru.jpg</image>
+  </movie>
+  <movie>
     <date>2019.11.16</date>
     <theater home="true"/>
     <director>Steven Spielberg</director>
