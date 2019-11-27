@@ -17,6 +17,7 @@
         <item url="https://en.wikipedia.org/wiki/Lewis_Trondheim">Lewis Trondheim (aka Laurent Chabosy)</item>
     </list>
     <list title="Directors">
+        <item url="https://en.wikipedia.org/wiki/Alfred_Hitchcock">Alfred Hitchcock</item>
         <item url="https://en.wikipedia.org/wiki/David_Lynch">David Lynch</item>
         <item url="https://en.wikipedia.org/wiki/Coen_brothers">Joel &amp; Ethan Coen</item>
         <item url="https://fr.wikipedia.org/wiki/Hayao_Miyazaki">Hayao Miyazaki</item>
@@ -69,7 +70,11 @@
             <subitem url="https://en.wikipedia.org/wiki/Mooc">MOOCs</subitem>
             <subitem url="https://en.wikipedia.org/wiki/Coursera">Coursera</subitem>
         </item>
-        <item url="https://en.wikipedia.org/wiki/Nootropic">Nootropics</item>
+        <item>
+            <subitem url="https://en.wikipedia.org/wiki/Dietary_supplement">Dietary supplement</subitem>
+            <subitem url="https://en.wikipedia.org/wiki/Herbal_medicine">Herbal medicine</subitem>
+            <subitem url="https://en.wikipedia.org/wiki/Nootropic">Nootropics</subitem>
+        </item>
         <item>
             <subitem url="https://en.wikipedia.org/wiki/Philosophy">Philosophy</subitem>
             <subitem url="https://en.wikipedia.org/wiki/Consciousness">Consciousness</subitem>
@@ -192,6 +197,8 @@
         <item url="https://www.danielandjorge.com/podcasts">Daniel and Jorge Explain the Universe</item>
         <item url="https://peachandblack.podbean.com/">Peach &amp; Black</item>
         <item url="https://www.samharris.org/podcast">Sam Harris (Making Sense)</item>
+        <item url="https://www.happinesslab.fm/">The Happiness Lab</item>
+        <item url="https://peterattiamd.com/podcast/">The Peter Attia Drive Podcast</item>
         <item url="https://verybadwizards.fireside.fm/">Very Bad Wizards</item>
     </list>
     <!-- <list title="Political views">
@@ -237,6 +244,7 @@
         <item url="https://en.wikipedia.org/wiki/The_Simpsons">The Simpsons</item>
         <item url="https://en.wikipedia.org/wiki/The_Spoils_of_Babylon">The Spoils of Babylon</item>
         <item url="https://en.wikipedia.org/wiki/The_Tripods_(TV_series)">The Tripods</item>
+        <item url="https://en.wikipedia.org/wiki/The_Twilight_Zone_(1959_TV_series)">The Twilight Zone</item>
         <item url="https://en.wikipedia.org/wiki/Twin_Peaks">Twin Peaks</item>
         <item url="https://en.wikipedia.org/wiki/Westworld_(TV_series)">Westworld</item>
     </list>
