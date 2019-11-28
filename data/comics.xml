@@ -2,6 +2,16 @@
 <comics>
   <introduction>A list of comics I read.</introduction>
   <comic>
+    <date>2019.11.28</date>
+    <writer>Roger Leloup</writer>
+    <artist>Roger Leloup</artist>
+    <colorist>Studio Leonardo</colorist>
+    <series url="https://fr.wikipedia.org/wiki/Yoko_Tsuno">Yoko Tsuno</series>
+    <volume url="https://fr.wikipedia.org/wiki/Aventures_%C3%A9lectroniques" number="4">Aventures électroniques</volume>
+    <comments>Un recueil de six histoires courtes. Ça n'est pas mauvais, mais les histoires longues/complètes sont nettement plus intéressantes.</comments>
+    <image>Yoko Tsuno - Aventures électroniques.jpg</image>
+  </comic>
+  <comic>
     <date>2019.11.22</date>
     <writer>Roger Leloup</writer>
     <artist>Roger Leloup</artist>
