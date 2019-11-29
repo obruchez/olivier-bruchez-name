@@ -3,9 +3,15 @@
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
     <date></date>
+    <name>Prince: The Story of 1999</name>
+    <episode url="https://www.thecurrent.org/feature/2019/11/26/prince-the-story-of-1999-episode-2-rearrange-andrea-swensson" number="2">Rearrange</episode>
+    <comments></comments>
+  </podcast>
+  <podcast>
+    <date>2019.11.29</date>
     <name url="https://peterattiamd.com/podcast/">The Peter Attia Drive Podcast</name>
     <episode url="https://peterattiamd.com/brettkotlus/" number="13">Brett Kotlus, M.D.: How to look younger while we live longer</episode>
-    <comments></comments><!-- Sunscreen. Over-the-counter retinol cream. -->
+    <comments>Three things I should absolutely do: 1) use sunscreen (I already do it) 2) use vitamin C cream/serum in the morning 3) use retinol cream in the evening.</comments>
   </podcast>
   <podcast>
     <date>2019.11.25</date>
