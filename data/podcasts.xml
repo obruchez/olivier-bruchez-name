@@ -3,9 +3,15 @@
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
     <date></date>
+    <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
+    <episode url="https://samharris.org/podcasts/176-knowledge-redemption/" number="176">Knowledge &amp; Redemption - A Conversation with Lynn Novick and Jule Hall</episode>
+    <comments></comments>
+  </podcast>
+  <podcast>
+    <date>2019.11.29</date>
     <name>Prince: The Story of 1999</name>
     <episode url="https://www.thecurrent.org/feature/2019/11/26/prince-the-story-of-1999-episode-2-rearrange-andrea-swensson" number="2">Rearrange</episode>
-    <comments></comments>
+    <comments>An interesting perspective on Prince's relationship with the Kiowa Trail home ("a boring place" which Prince needed to be creative), engineer Peggy McCreary, etc.</comments>
   </podcast>
   <podcast>
     <date>2019.11.29</date>
