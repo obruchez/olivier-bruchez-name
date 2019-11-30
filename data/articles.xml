@@ -2,6 +2,11 @@
 <articles>
   <introduction>A list of articles I read.</introduction>
   <article>
+    <date>2019.11.30</date>
+    <title url="https://blog.samaltman.com/productivity">Productivity</title>
+    <comments>Some good advice. Nothing really new to me. "Picking the right thing to work on is the most important element of productivity and usually almost ignored. [...] The best ways for me to do this are reading books, hanging out with interesting people, and spending time in nature. [...] I try to prioritize in a way that generates momentum. The more I get done, the better I feel, and then the more I get done. I like to start and end each day with something I can really make progress on. [...] Many people spend too much time thinking about how to perfectly optimize their system, and not nearly enough asking if they're working on the right problems. [...] The right goal is to allocate your year optimally, not your day. [...] [P]roductivity in the wrong direction isn't worth anything at all."</comments>
+  </article> 
+  <article>
     <date>2019.11.21</date>
     <title url="https://danielmiessler.com/blog/free-wills-absurdist-paradox/">Free Will's Absurdist Paradox</title>
     <subtitle>How Camus' Absurdism unifies Compatibilism and Incompatibilism</subtitle>
