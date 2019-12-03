@@ -3,9 +3,21 @@
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
     <date></date>
+    <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
+    <episode url="https://samharris.org/podcasts/177-psychedelic-science/" number="177">Psychedelic Science - A Conversation with Roland Griffiths</episode>
+    <comments></comments>
+  </podcast>
+  <podcast>
+    <date>2019.12.03</date>
+    <name>Prince: The Story of 1999</name>
+    <episode url="https://www.thecurrent.org/feature/2019/12/03/prince-the-story-of-1999-episode-3-the-idolmaker-swensson" number="3">The Idolmaker</episode>
+    <comments>A bit less interesting (The Time, Vanity 6), but still very well done.</comments>
+  </podcast>
+  <podcast>
+    <date>2019.12.03</date>
     <name url="https://samharris.org/content/waking-up-conversations/">Waking Up Course</name>
     <episode url="https://samharris.org/subscriber-extras/waking-course-live-wiltern/">Live at the Wiltern - A Conversation with Mingyur Rinpoche</episode>
-    <comments></comments>
+    <comments>An entertaining discussion about meditation.</comments>
   </podcast>
   <podcast>
     <date>2019.11.30</date>
