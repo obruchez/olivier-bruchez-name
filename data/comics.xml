@@ -2,6 +2,16 @@
 <comics>
   <introduction>A list of comics I read.</introduction>
   <comic>
+    <date>2019.12.06</date>
+    <writer>Roger Leloup</writer>
+    <artist>Roger Leloup</artist>
+    <colorist>Studio Leonardo</colorist>
+    <series url="https://fr.wikipedia.org/wiki/Yoko_Tsuno">Yoko Tsuno</series>
+    <volume url="https://fr.wikipedia.org/wiki/Message_pour_l%27%C3%A9ternit%C3%A9" number="5">Message pour l'éternité</volume>
+    <comments>Une histoire de qualité. Probablement la meilleure de la série jusque là.</comments>
+    <image>Yoko Tsuno - Message pour l'éternité.jpg</image>
+  </comic>
+  <comic>
     <date>2019.11.28</date>
     <writer>Roger Leloup</writer>
     <artist>Roger Leloup</artist>
@@ -18,7 +28,7 @@
     <colorist>Studio Leonardo</colorist>
     <series url="https://fr.wikipedia.org/wiki/Yoko_Tsuno">Yoko Tsuno</series>
     <volume url="https://fr.wikipedia.org/wiki/La_Forge_de_Vulcain_(Yoko_Tsuno)" number="3">La Forge de Vulcain</volume>
-    <comments>Un tome où l'on découvre la puissance (et les limites) de la technologie vinéenne.</comments>
+    <comments>Une histoire où l'on découvre la puissance (et les limites) de la technologie vinéenne.</comments>
     <image>Yoko Tsuno - La Forge de Vulcain.jpg</image>
   </comic>
   <comic>
@@ -28,7 +38,7 @@
     <colorist>Studio Leonardo</colorist>
     <series url="https://fr.wikipedia.org/wiki/Yoko_Tsuno">Yoko Tsuno</series>
     <volume url="https://fr.wikipedia.org/wiki/L%27Orgue_du_diable" number="2">L'Orgue du diable</volume>
-    <comments>Un tome sans les Vinéens. Le dessin et le style se précisent.</comments>
+    <comments>Une histoire sans les Vinéens. Le dessin et le style se précisent.</comments>
     <image>Yoko Tsuno - L'Orgue du diable.jpg</image>
   </comic>
   <comic>
