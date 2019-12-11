@@ -3,6 +3,17 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Checklist: add rating to IMDb -->
   <movie>
+    <date>2019.12.11</date>
+    <theater home="true"/>
+    <director>Asghar Farhadi</director>
+    <title>A Separation</title>
+    <title language="fa">Jodaeiye Nader az Simin</title>
+    <url>https://www.imdb.com/title/tt1832382/</url>
+    <rating>5.0</rating>
+    <comments>Probably my first Iranian movie. It's about family, truth, justice, and, yes, ultimately, separation. An intense and excellent movie.</comments>
+    <image>A Separation.jpg</image>
+  </movie>
+  <movie>
     <date>2019.11.27</date>
     <theater home="true"/>
     <director>Akira Kurosawa</director>
@@ -27,6 +38,7 @@
     <theater home="true"/>
     <director>Sergio Leone</director>
     <title>For a Few Dollars More</title>
+    <title language="it">Per qualche dollaro in più</title>
     <url>https://www.imdb.com/title/tt0059578/</url>
     <rating>4.75</rating>
     <comments>Not as good as <i>The Good, the Bad and the Ugly </i>, but still very enjoyable. Clint Eastwood and Lee Van Cleef are such charismatic actors, just looking at them, not saying a word, is an experience in itself.</comments>
@@ -77,7 +89,7 @@
     <theater home="true"/>
     <director>Roberto Benigni</director>
     <title>Life Is Beautiful</title>
-    <title language="it">La vita è bella </title>
+    <title language="it">La vita è bella</title>
     <url>https://www.imdb.com/title/tt0118799/</url>
     <rating>4.5</rating>
     <comments>This is a really weird movie. It has comedic elements, obviously. And it is about the holocaust. Does it work? I'm not sure. As usual, I'm not a fan of children actors, so it didn't help either.</comments>
