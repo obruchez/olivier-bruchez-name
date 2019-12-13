@@ -2,6 +2,12 @@
 <podcasts>
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date>2019.12.13</date>
+    <name url="https://peterattiamd.com/podcast/">The Peter Attia Drive Podcast</name>
+    <episode url="https://peterattiamd.com/paulconti/" number="15">Paul Conti, M.D.: trauma, suicide, community, and self-compassion</episode>
+    <comments>A rich discussion. Unprocessed trauma is a huge problem. Self-awareness and self-compassion are crucial. It's important to realize when we have negative thoughts about ourselves, especially if we repeat them over and over, and to work on the underlying issues. Social isolation is also a huge problem.</comments>
+  </podcast>
+  <podcast>
     <date>2019.12.06</date>
     <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
     <episode url="https://samharris.org/podcasts/177-psychedelic-science/" number="177">Psychedelic Science - A Conversation with Roland Griffiths</episode>
