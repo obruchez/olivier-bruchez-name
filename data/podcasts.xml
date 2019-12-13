@@ -2,6 +2,18 @@
 <podcasts>
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date></date>
+    <name url="http://peachandblack.podbean.com/">Peach &amp; Black Podcast</name>
+    <episode url="https://peachandblack.podbean.com/e/prince-1999-super-deluxe-review-part-1/">Prince 1999 Super Deluxe Review - Part 1</episode>
+    <comments></comments>
+  </podcast>
+  <podcast>
+    <date></date>
+    <name>Prince: The Story of 1999</name>
+    <episode url="https://www.thecurrent.org/feature/2019/12/10/prince-the-story-of-1999-episode-4-lets-work-swensson" number="4">Let's Work</episode>
+    <comments></comments>
+  </podcast>
+  <podcast>
     <date>2019.12.13</date>
     <name url="https://peterattiamd.com/podcast/">The Peter Attia Drive Podcast</name>
     <episode url="https://peterattiamd.com/paulconti/" number="15">Paul Conti, M.D.: trauma, suicide, community, and self-compassion</episode>
