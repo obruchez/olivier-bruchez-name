@@ -3,17 +3,6 @@
     <introduction>A list of books I read.</introduction>
     <book>
         <date></date>
-        <title>L'Art du roman</title>
-        <author>Milan Kundera</author>
-        <publishingyear>1986</publishingyear>
-        <rating></rating>
-        <url>https://fr.wikipedia.org/wiki/L%27Art_du_roman</url>
-        <notes description="Kindle highlights"></notes>
-        <comments></comments>
-        <image>L'Art du roman.jpg</image>
-    </book>
-    <book>
-        <date></date>
         <title>The Beautiful Ones</title>
         <author>Prince Rogers Nelson &amp; Dan Piepenbring</author>
         <publishingyear>2019</publishingyear>
@@ -22,6 +11,17 @@
         <notes description="Kindle highlights"></notes>
         <comments></comments>
         <image>The Beautiful Ones.jpg</image>
+    </book>
+    <book>
+        <date>2019.12.11</date>
+        <title>L'Art du roman</title>
+        <author>Milan Kundera</author>
+        <publishingyear>1986</publishingyear>
+        <rating>5.0</rating>
+        <url>https://fr.wikipedia.org/wiki/L%27Art_du_roman</url>
+        <notes description="Kindle highlights"></notes>
+        <comments>Un regard critique et sophistiqué de l'auteur sur son oeuvre, sur la structure de ses romans, sur le rôle du roman en général, sur le lien entre l'écriture et la musique, sur l'exercice compliqué de la traduction, etc.</comments>
+        <image>L'Art du roman.jpg</image>
     </book>
     <book>
         <date>2019.11.21</date>
