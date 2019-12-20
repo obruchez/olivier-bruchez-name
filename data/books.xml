@@ -2,14 +2,14 @@
 <books>
     <introduction>A list of books I read.</introduction>
     <book>
-        <date></date>
+        <date>2019.12.19</date>
         <title>The Beautiful Ones</title>
         <author>Prince Rogers Nelson &amp; Dan Piepenbring</author>
         <publishingyear>2019</publishingyear>
-        <rating></rating>
+        <rating>4.5</rating>
         <url>https://books.google.com/books?id=AWKSDwAAQBAJ</url>
         <notes description="Kindle highlights"></notes>
-        <comments></comments>
+        <comments>Prince died a few months after starting to work on this project. It is what it is and I must say that Dan Piepenbring did a great job with what he had.</comments>
         <image>The Beautiful Ones.jpg</image>
     </book>
     <book>
