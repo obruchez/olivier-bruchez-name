@@ -2,6 +2,26 @@
 <comics>
   <introduction>A list of comics I read.</introduction>
   <comic>
+    <date></date>
+    <writer>Roger Leloup</writer>
+    <artist>Roger Leloup</artist>
+    <colorist>Studio Leonardo</colorist>
+    <series url="https://fr.wikipedia.org/wiki/Yoko_Tsuno">Yoko Tsuno</series>
+    <volume url="https://fr.wikipedia.org/wiki/La_Fronti%C3%A8re_de_la_vie" number="7">La Frontière de la vie</volume>
+    <comments></comments>
+    <image>Yoko Tsuno - La Frontière de la vie.jpg</image>
+  </comic>
+  <comic>
+    <date>2019.12.16</date>
+    <writer>Roger Leloup</writer>
+    <artist>Roger Leloup</artist>
+    <colorist>Studio Leonardo</colorist>
+    <series url="https://fr.wikipedia.org/wiki/Yoko_Tsuno">Yoko Tsuno</series>
+    <volume url="https://fr.wikipedia.org/wiki/Les_Trois_Soleils_de_Vin%C3%A9a" number="6">Les Trois Soleils de Vinéa</volume>
+    <comments>Une très bonne histoire, la première sur Vinéa.</comments>
+    <image>Yoko Tsuno - Les Trois Soleils de Vinéa.jpg</image>
+  </comic>
+  <comic>
     <date>2019.12.06</date>
     <writer>Roger Leloup</writer>
     <artist>Roger Leloup</artist>
