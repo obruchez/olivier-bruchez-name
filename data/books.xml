@@ -2,6 +2,28 @@
 <books>
     <introduction>A list of books I read.</introduction>
     <book>
+        <date></date>
+        <title>La Lenteur</title>
+        <author>Milan Kundera</author>
+        <publishingyear></publishingyear>
+        <rating></rating>
+        <url>https://fr.wikipedia.org/wiki/La_Lenteur</url>
+        <notes description="Kindle highlights"></notes>
+        <comments></comments>
+        <image>La Lenteur.jpg</image>
+    </book>
+    <book>
+        <date>2019.12.21</date>
+        <title>How to Worry Less about Money</title>
+        <author>John Armstrong</author>
+        <publishingyear>2012</publishingyear>
+        <rating>4.5</rating>
+        <url>https://books.google.com/books?id=g7OxpwAACAAJ</url>
+        <notes description="Kindle highlights"></notes>
+        <comments>Not a self-help book. Like <i>The Consolations of Philosophy</i>, it's a book that uses philosophy to give us a new perspective on a topic.</comments>
+        <image>How to Worry Less about Money.jpg</image>
+    </book>
+    <book>
         <date>2019.12.19</date>
         <title>The Beautiful Ones</title>
         <author>Prince Rogers Nelson &amp; Dan Piepenbring</author>
