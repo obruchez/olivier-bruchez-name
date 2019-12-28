@@ -2,14 +2,14 @@
 <books>
     <introduction>A list of books I read.</introduction>
     <book>
-        <date></date>
+        <date>2019.12.27</date>
         <title>La Lenteur</title>
         <author>Milan Kundera</author>
         <publishingyear>1994</publishingyear>
-        <rating></rating>
+        <rating>4.5</rating>
         <url>https://fr.wikipedia.org/wiki/La_Lenteur</url>
         <notes description="Kindle highlights"></notes>
-        <comments></comments>
+        <comments>J'avais déjà lu ce livre, mais je ne me souvenais absolument pas de l'histoire, à part la scène de la piscine. Kundera mène une réflexion sur le monde moderne et, en particulier, sur le rôle des <i>mass media</i> (c'était avant l'apparition d'internet) et celui de la vitesse / de la lenteur dans l'oubli / la mémoire et l'Histoire. Il fait un parallèle avec <a href="https://fr.wikipedia.org/wiki/Point_de_lendemain"><i>Point de lendemain</i></a> de Vivant Denon, démystifie un peu l'épicurisme (qui parle de plaisirs simples, pas de débauche, comme on pourrait le croire) et condamne ces "danseurs" qui font ce qu'on a appelé bien plus tard du <a href="https://en.wikipedia.org/wiki/Virtue_signalling"><i>virtue signalling</i></a>.</comments>
         <image>La Lenteur.jpg</image>
     </book>
     <book>
@@ -1136,7 +1136,6 @@
     <book>
 		<date>2010.09.27</date>
 		<title>Stumbling on Happiness</title>
-		<subtitle/>
 		<author>Daniel Gilbert</author>
 		<publishingyear>2006</publishingyear>
 		<rating>4.75</rating>
@@ -1186,7 +1185,6 @@
     <book>
 		<date>2010.02.16</date>
 		<title>La Petite Marchande de prose</title>
-		<subtitle/>
 		<author>Daniel Pennac</author>
 		<publishingyear>1990</publishingyear>
 		<rating>5.0</rating>
@@ -1196,7 +1194,6 @@
     <book>
 		<date>2009.08.16</date>
 		<title>La fée carabine</title>
-		<subtitle/>
 		<author>Daniel Pennac</author>
 		<publishingyear>1987</publishingyear>
 		<rating>5.0</rating>
@@ -1235,7 +1232,6 @@
     <book>
 		<date>2009.05.27</date>
 		<title>Le garçon qui croyait au paradis</title>
-		<subtitle/>
 		<author>Maurice Chappaz</author>
 		<publishingyear>1995</publishingyear>
 		<rating>4.5</rating>
@@ -1264,7 +1260,6 @@
     <book>
 		<date>2009.04.10</date>
 		<title>Asiles de fous</title>
-		<subtitle/>
 		<author>Régis Jauffret</author>
 		<publishingyear>2005</publishingyear>
 		<rating>4.5</rating>
@@ -1274,7 +1269,6 @@
 	<book>
 		<date>2009.03.27</date>
 		<title>Ulysse from Bagdad</title>
-		<subtitle/>
 		<author>Eric-Emmanuel Schmitt</author>
 		<publishingyear>2008</publishingyear>
 		<rating>5.0</rating>
@@ -1284,7 +1278,6 @@
 	<book>
 		<date>2009.03.08</date>
 		<title>L'Automne à Pékin</title>
-		<subtitle/>
 		<author>Boris Vian</author>
 		<publishingyear>1947</publishingyear>
 		<rating>5.25</rating>
@@ -1294,7 +1287,6 @@
     <book>
 		<date>2008.12.29</date>
 		<title>Professional Web 2.0 Programming</title>
-		<subtitle/>
 		<author>Eric van der Vlist, Danny Ayers, Erik Bruchez, Joe Fawcett &amp; Alessandro Vernet</author>
 		<publishingyear>2006</publishingyear>
 		<rating>3.5</rating>
@@ -1304,7 +1296,6 @@
     <book>
 		<date>2008.12.17</date>
 		<title>365 jours pour réfléchir à notre Terre</title>
-		<subtitle/>
 		<author>Yann Arthus-Bertrand</author>
 		<publishingyear>2006</publishingyear>
 		<rating>4.5</rating>
@@ -1314,7 +1305,6 @@
 	<book>
 		<date>2008.08.17</date>
 		<title>Thinking In Java</title>
-		<subtitle/>
 		<author>Bruce Eckel</author>
 		<publishingyear>2006</publishingyear>
 		<rating>4.75</rating>
@@ -1324,7 +1314,6 @@
 	<book>
 		<date>2008.03.24</date>
 		<title>JPod</title>
-		<subtitle/>
 		<author>Douglas Coupland</author>
 		<publishingyear>2006</publishingyear>
 		<rating>4.75</rating>
@@ -1354,7 +1343,6 @@
 	<book>
 		<date>2007.07.08</date>
 		<title>L'Élégance du hérisson</title>
-		<subtitle/>
 		<author>Muriel Barbery</author>
 		<publishingyear>2006</publishingyear>
 		<rating>5.25</rating>
@@ -1364,7 +1352,6 @@
 	<book>
 		<date>2007.05.08</date>
 		<title>Petit traité de manipulation à l'usage des honnêtes gens</title>
-		<subtitle/>
 		<author>Robert-Vincent Joule &amp; Jean-Léon Beauvois</author>
 		<publishingyear>2002</publishingyear>
 		<rating>4.25</rating>
@@ -1375,7 +1362,6 @@
 	<book>
 		<date>2007.02.25</date>
 		<title>The God Delusion</title>
-		<subtitle/>
 		<author>Richard Dawkins</author>
 		<publishingyear>2006</publishingyear>
 		<rating>5.0</rating>
@@ -1385,7 +1371,6 @@
 	<book>
 		<date>2006.10.10</date>
 		<title>L'Écume des jours</title>
-		<subtitle/>
 		<author>Boris Vian</author>
 		<publishingyear>1947</publishingyear>
 		<rating>5.5</rating>
@@ -1405,7 +1390,6 @@
 	<book>
 		<date>2006.05.14</date>
 		<title>The Da Vinci Code</title>
-		<subtitle/>
 		<author>Dan Brown</author>
 		<publishingyear>2003</publishingyear>
 		<rating>4.5</rating>
@@ -1415,7 +1399,6 @@
 	<book>
 		<date>2005.08.16</date>
 		<title>Le Soleil des Scorta</title>
-		<subtitle/>
 		<author>Laurent Gaudé</author>
 		<publishingyear>2004</publishingyear>
 		<rating>4.5</rating>
@@ -1425,7 +1408,6 @@
 	<book>
 		<date>2005.06.10</date>
 		<title>L'Ignorance</title>
-		<subtitle/>
 		<author>Milan Kundera</author>
 		<publishingyear>2003</publishingyear>
 		<rating>5.0</rating>
@@ -1445,7 +1427,6 @@
     <book>
         <date>2004.09.19</date>
         <title>The Age of Spiritual Machines</title>
-        <subtitle/>
         <author>Ray Kurzweil</author>
         <publishingyear>1999</publishingyear>
         <rating/>
@@ -1455,7 +1436,6 @@
     <book>
         <date>2004.01.24</date>
         <title>Le Procès</title>
-        <subtitle/>
         <author>Franz Kafka</author>
         <publishingyear>1933</publishingyear>
         <rating/>
@@ -1484,7 +1464,6 @@
     <book>
         <date>2001.09.26</date>
         <title>Le Château</title>
-        <subtitle/>
         <author>Franz Kafka</author>
         <publishingyear>1938</publishingyear>
         <rating/>
@@ -1514,7 +1493,6 @@
     <book>
         <date>1996.09.21</date>
         <title>La Modification</title>
-        <subtitle/>
         <author>Michel Butor</author>
         <publishingyear>1957</publishingyear>
         <rating/>
@@ -1524,7 +1502,6 @@
     <book>
         <date>1996.07.08</date>
         <title>Plume</title>
-        <subtitle/>
         <author>Henri Michaux</author>
         <publishingyear>1938</publishingyear>
         <rating/>
@@ -1534,7 +1511,6 @@
     <book>
         <date>1996.07.04</date>
         <title>Comme un roman</title>
-        <subtitle/>
         <author>Daniel Pennac</author>
         <publishingyear>1992</publishingyear>
         <rating/>
@@ -1544,7 +1520,6 @@
     <book>
         <date>1996.07.01</date>
         <title>L'insoutenable légèreté de l'être</title>
-        <subtitle/>
         <author>Milan Kundera</author>
         <publishingyear>1984</publishingyear>
         <rating/>
@@ -1554,7 +1529,6 @@
     <book>
         <date>199?.??.??</date>
         <title>2010 : Odyssée deux</title>
-        <subtitle/>
         <author>Arthur C. Clarke</author>
         <publishingyear>1982</publishingyear>
         <rating/>
@@ -1564,12 +1538,20 @@
     <book>
         <date>199?.??.??</date>
         <title>2001 : L'Odyssée de l'espace</title>
-        <subtitle/>
         <author>Arthur C. Clarke</author>
         <publishingyear>1968</publishingyear>
         <rating/>
         <url>https://fr.wikipedia.org/wiki/2001_:_l%27Odyss%C3%A9e_de_l%27espace_(roman)</url>
         <image>2001 - L'Odyssée de l'espace.jpg</image>
+    </book>
+    <book>
+        <date>199?.??.??</date>
+        <title>La Lenteur</title>
+        <author>Milan Kundera</author>
+        <publishingyear>1994</publishingyear>
+        <rating/>
+        <url>https://fr.wikipedia.org/wiki/La_Lenteur</url>
+        <image>La Lenteur.jpg</image>
     </book>
     <!-- <book>
         <date></date>
