@@ -6,30 +6,35 @@
     <name url="https://en.wikipedia.org/wiki/Bob's_Burgers">Bob's Burgers</name>
     <series url="https://en.wikipedia.org/wiki/Bob%27s_Burgers_(season_6)" type="season">6</series>
     <comments></comments>
+    <image></image>
   </show>
   <show>
     <date></date>
     <name url="https://en.wikipedia.org/wiki/Modern_Family">Modern Family</name>
     <series url="https://en.wikipedia.org/wiki/Modern_Family_(season_11)" type="season">11</series>
     <comments></comments>
+    <image></image>
   </show>
   <show>
     <date></date>
     <name url="https://en.wikipedia.org/wiki/Rick_and_Morty">Rick and Morty</name>
     <series url="https://en.wikipedia.org/wiki/Rick_and_Morty_(season_4)" type="season">4</series>
     <comments></comments>
+    <image></image>
   </show>
   <show>
     <date></date>
     <name url="https://en.wikipedia.org/wiki/The_Twilight_Zone_(1959_TV_series)">The Twilight Zone</name>
     <series url="https://en.wikipedia.org/wiki/The_Twilight_Zone_(1959_TV_series,_season_3)" type="season">3</series>
     <comments></comments>
+    <image></image>
   </show>
   <show>
     <date></date>
     <name url="https://en.wikipedia.org/wiki/This_Is_Us_(TV_series)">This Is Us</name>
     <series url="https://en.wikipedia.org/wiki/This_Is_Us_(season_4)" type="season">4</series>
     <comments></comments>
+    <image></image>
   </show>
   <show>
     <date>2019.12.23</date>
@@ -887,6 +892,7 @@
     <name url=""></name>
     <series url="" type=""></series>
     <comments></comments>
+    <image></image>
   </show>
   -->
 </shows>
