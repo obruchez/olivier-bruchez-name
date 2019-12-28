@@ -3,6 +3,16 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Checklist: add rating to IMDb -->
   <movie>
+    <date>2019.12.28</date>
+    <theater home="true"/>
+    <director>Nadine Labaki</director>
+    <title>Capernaum</title>
+    <url>https://www.imdb.com/title/tt8267604/</url>
+    <rating>4.75</rating>
+    <comments>I cried while watching this heartbreaking movie. I think I'll need to watch something a little more upbeat next...</comments>
+    <image>Capernaum.jpg</image>
+  </movie>
+  <movie>
     <date>2019.12.11</date>
     <theater home="true"/>
     <director>Asghar Farhadi</director>
