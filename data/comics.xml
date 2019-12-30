@@ -12,6 +12,16 @@
     <image>Yoko Tsuno - La Fille du vent.jpg</image>
   </comic>
   <comic>
+    <date>2019.12.30</date>
+    <writer>Emma</writer>
+    <artist>Emma</artist>
+    <colorist>Emma</colorist>
+    <series>Un autre regard</series>
+    <volume url="https://books.google.com/books?id=ycMjDwAAQBAJ" number="1">Un autre regard</volume>
+    <comments>Pas trop mal. Le point de vue français manque peut-être un peu d'universalité.</comments>
+    <image>Un autre regard.jpg</image>
+  </comic>
+  <comic>
     <date>2019.12.25</date>
     <writer>Roger Leloup</writer>
     <artist>Roger Leloup</artist>
