@@ -1283,6 +1283,7 @@
     <title>The Godfather: Part II</title>
     <url>http://www.imdb.com/title/tt0071562/</url>
     <rating>4.75</rating>
+    <image>The Godfather: Part II.jpg</image>
   </movie>
   <movie>
     <date>2016.10.09</date>
@@ -1291,7 +1292,9 @@
     <title>Miss Peregrine's Home for Peculiar Children</title>
     <url>http://www.imdb.com/title/tt1935859/</url>
     <rating>4.75</rating>
+    <image>Miss Peregrine's Home for Peculiar Children.jpg</image>
   </movie>
+  <!-- image missing -->
   <movie>
     <date>2016.10.09</date>
     <theater>Galeries, Lausanne</theater>
