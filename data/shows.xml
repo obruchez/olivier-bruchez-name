@@ -6,8 +6,9 @@
     <name url="https://en.wikipedia.org/wiki/Bob's_Burgers">Bob's Burgers</name>
     <series url="https://en.wikipedia.org/wiki/Bob%27s_Burgers_(season_6)" type="season">6</series>
     <comments></comments>
-    <image></image>
+    <image>Bob's Burgers.jpg</image>
   </show>
+  <!-- image missing -->
   <show>
     <date></date>
     <name url="https://en.wikipedia.org/wiki/Modern_Family">Modern Family</name>
@@ -71,6 +72,7 @@
     <name url="https://en.wikipedia.org/wiki/Bob's_Burgers">Bob's Burgers</name>
     <series url="https://en.wikipedia.org/wiki/Bob%27s_Burgers_(season_5)" type="season">5</series>
     <comments>See season 4. We haven't watched <i>Bob's Burgers</i> as often since 2017, but this is partly because there are so many shows to watch!</comments>
+    <image>Bob's Burgers.jpg</image>
   </show>
   <show>
     <date>2019.08.08</date>
@@ -273,6 +275,7 @@
     <name url="https://en.wikipedia.org/wiki/Bob's_Burgers">Bob's Burgers</name>
     <series url="https://en.wikipedia.org/wiki/Bob%27s_Burgers_(season_4)" type="season">4</series>
     <comments>I haven't commented on the first three seasons, so I'll make my general comments here. <i>Bob's Burgers</i> is a kind of mix between a more edgy version of <i>The Simpsons</i> and a more family-friendly version of <i>South Park</i>. The voice acting is excellent and is a huge part of the show. At the moment, it's one of my favorite comedy animation shows.</comments>
+    <image>Bob's Burgers.jpg</image>
   </show>
   <show>
     <date>2017.09.10</date>
@@ -462,6 +465,7 @@
     <date>2016.06.06</date>
     <name url="https://en.wikipedia.org/wiki/Bob's_Burgers">Bob's Burgers</name>
     <series url="https://en.wikipedia.org/wiki/Bob%27s_Burgers_(season_3)" type="season">3</series>
+    <image>Bob's Burgers.jpg</image>
   </show>
   <show>
     <date>2016.05.16</date>
@@ -622,6 +626,7 @@
     <date>2014.08.18</date>
     <name url="https://en.wikipedia.org/wiki/Bob's_Burgers">Bob's Burgers</name>
     <series url="https://en.wikipedia.org/wiki/Bob%27s_Burgers_(season_2)" type="season">2</series>
+    <image>Bob's Burgers.jpg</image>
   </show>
   <show>
     <date>2014.08.15</date>
@@ -642,6 +647,7 @@
     <date>2014.06.01</date>
     <name url="https://en.wikipedia.org/wiki/Bob's_Burgers">Bob's Burgers</name>
     <series url="https://en.wikipedia.org/wiki/Bob%27s_Burgers_(season_1)" type="season">1</series>
+    <image>Bob's Burgers.jpg</image>
   </show>
   <show>
     <date>2014.05.19</date>
