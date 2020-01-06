@@ -1294,7 +1294,6 @@
     <rating>4.75</rating>
     <image>Miss Peregrine's Home for Peculiar Children.jpg</image>
   </movie>
-  <!-- image missing -->
   <movie>
     <date>2016.10.09</date>
     <theater>Galeries, Lausanne</theater>
@@ -1302,6 +1301,7 @@
     <title>Habitat</title>
     <url>https://marcelbarelli.blogspot.ch/p/habitat.html</url>
     <rating>4.5</rating>
+    <image>Habitat.jpg</image>
   </movie>
   <movie>
     <date>2016.10.08</date>
@@ -1310,7 +1310,9 @@
     <title>Schindler's List</title>
     <url>http://www.imdb.com/title/tt0108052/</url>
     <rating>5.5</rating>
+    <image>Schindler's List.jpg</image>
   </movie>
+  <!-- image missing -->
   <movie>
     <date>2016.10.07</date>
     <theater>Cinémathèque, Lausanne</theater>
@@ -6598,6 +6600,7 @@
     <version>fr</version>
     <url>http://www.imdb.com/title/tt0108052/</url>
     <comments>Probably seen in 1994, maybe in 1993 or 1995 (?).</comments>
+    <image>Schindler's List.jpg</image>
   </movie>
   <movie>
     <date>1991.??.??</date>
