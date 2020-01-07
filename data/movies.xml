@@ -1312,7 +1312,6 @@
     <rating>5.5</rating>
     <image>Schindler's List.jpg</image>
   </movie>
-  <!-- image missing -->
   <movie>
     <date>2016.10.07</date>
     <theater>Cinémathèque, Lausanne</theater>
@@ -1320,6 +1319,7 @@
     <title>Graffiti Bridge</title>
     <url>http://www.imdb.com/title/tt0099691/</url>
     <rating>3.0</rating>
+    <image>Graffiti Bridge.jpg</image>
   </movie>
   <movie>
     <date>2016.09.11</date>
@@ -1328,7 +1328,9 @@
     <title>Under The Cherry Moon</title>
     <url>http://www.imdb.com/title/tt0092133/</url>
     <rating>3.5</rating>
+    <image>Under The Cherry Moon.jpg</image>
   </movie>
+  <!-- image missing -->
   <movie>
     <date>2016.09.09</date>
     <theater>Le Capitole, Lausanne</theater>
