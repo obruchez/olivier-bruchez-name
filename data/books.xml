@@ -2,6 +2,17 @@
 <books>
     <introduction>A list of books I read.</introduction>
     <book>
+        <date>2020.01.07</date>
+        <title>Candide</title>
+        <author>Voltaire</author>
+        <publishingyear>1759</publishingyear>
+        <rating>5.25</rating>
+        <url>https://fr.wikipedia.org/wiki/Candide</url>
+        <notes description="Kindle highlights"></notes>
+        <comments>Un texte qui se lit très facilement. Je ne me souviens pas l'avoir étudié durant mes études, mais j'ai eu beaucoup de plaisir à le lire. Je le classerais dans la catégorie "classique pas du tout ennuyeux".</comments>
+        <image>Candide.jpg</image>
+    </book>
+    <book>
         <date>2019.12.27</date>
         <title>La Lenteur</title>
         <author>Milan Kundera</author>
@@ -186,7 +197,7 @@
         <title>Voyage au bout de la nuit</title>
         <author>Louis-Ferdinand Céline</author>
         <publishingyear>1932</publishingyear>
-        <rating>5.0</rating>
+        <rating>5.25</rating>
         <url>https://fr.wikipedia.org/wiki/Voyage_au_bout_de_la_nuit</url>
         <notes description="Kindle highlights">Voyage au bout de la nuit (Céline).md</notes>
         <comments>Un classique, sur lequel tout a été écrit, par moments un peu difficile à lire à cause du langage parlé (peu de ponctuation, phrases longues, etc.). Il est difficile de ne pas se laisser emmener dans ce voyage un peu fou, souvent sombre, du narrateur, Bardamu, ce anti-héros auquel on finit par s'attacher - un peu, parfois.</comments>
