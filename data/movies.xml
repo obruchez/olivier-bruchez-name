@@ -1349,7 +1349,6 @@
     <comments>Live music by the Orchestre des Jardins Musicaux.</comments>
     <image>A Dog's Life.jpg</image>
   </movie>
-  <!-- image missing -->
   <movie>
     <date>2016.08.24</date>
     <theater>Le Capitole, Lausanne</theater>
@@ -1358,6 +1357,7 @@
     <url>http://www.imdb.com/title/tt0014358/</url>
     <rating>5.0</rating>
     <comments>Live music by the Orchestre des Jardins Musicaux.</comments>
+    <image>The Pilgrim.jpg</image>
   </movie>
   <movie>
     <date>2016.08.20</date>
@@ -1366,7 +1366,9 @@
     <title>Moka</title>
     <url>http://www.imdb.com/title/tt5072406/</url>
     <rating>4.0</rating>
+    <image>Moka.jpg</image>
   </movie>
+  <!-- image missing -->
   <movie>
     <date>2016.07.30</date>
     <theater>Flight QR 0100, Qatar Airways</theater>
