@@ -2,10 +2,16 @@
 <podcasts>
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
-    <date></date>
+    <date>2020.01.10</date>
+    <name url="http://verybadwizards.com/">Very Bad Wizards</name>
+    <episode>Bonus Episode: Hi-Phi Nation's Barry Lam Joins David to Talk "Star Trek"</episode>
+    <comments>Can consciousness be simulated? And if it can, is simulated consciousness any less real than non-simulated consciousness? I still don't know.</comments>
+  </podcast>
+  <podcast>
+    <date>2020.01.09</date>
     <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
     <episode url="https://samharris.org/subscriber-extras/178-reality-illusion/" number="178">The Reality Illusion - A Conversation with Donald Hoffman and Annaka Harris</episode>
-    <comments></comments>
+    <comments>Is this philosophy porn? I don't know. Consciousness is one of my favorite topics, but after almost 3 hours of discussion, I'm not sure I've gained anything from it.</comments>
   </podcast>
   <podcast>
     <date>2019.12.19</date>
