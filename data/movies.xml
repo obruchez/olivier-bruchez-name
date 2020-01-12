@@ -5,6 +5,16 @@
   <movie>
     <date>2020.01.11</date>
     <theater home="true"/>
+    <director>Steven Spielberg</director>
+    <title>Indiana Jones and the Last Crusade</title>
+    <url>https://www.imdb.com/title/tt0097576/</url>
+    <rating>4.5</rating>
+    <comments>For some strange reasons, I had never watched that movie in full. I had only seen bits and pieces of it. It's entertaining, but you're often left wondering "How did they do that?".</comments>
+    <image>Indiana Jones and the Last Crusade.jpg</image>
+  </movie>
+  <movie>
+    <date>2020.01.11</date>
+    <theater home="true"/>
     <director>Victor Fleming, George Cukor &amp; Sam Wood</director>
     <title>Gone with the Wind</title>
     <url>https://www.imdb.com/title/tt0031381/</url>
