@@ -2,6 +2,18 @@
 <podcasts>
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date></date>
+    <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
+    <episode url="https://samharris.org/subscriber-extras/179-unquiet-mind/" number="179">The Unquiet Mind - A Conversation with Judson Brewer</episode>
+    <comments></comments>
+  </podcast>
+  <podcast>
+    <date>2020.01.14</date>
+    <name url="http://peachandblack.podbean.com/">Peach &amp; Black Podcast</name>
+    <episode url="https://peachandblack.podbean.com/e/prince-1999-super-deluxe-review-part-2/">Prince 1999 Super Deluxe Review - Part 2</episode>
+    <comments>A discussion of the first CD of previously unreleased outtakes. A fun and informative episode, as usual.</comments>
+  </podcast>
+  <podcast>
     <date>2020.01.10</date>
     <name url="http://verybadwizards.com/">Very Bad Wizards</name>
     <episode>Bonus Episode: Hi-Phi Nation's Barry Lam Joins David to Talk "Star Trek"</episode>
