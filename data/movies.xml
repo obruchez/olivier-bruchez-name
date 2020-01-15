@@ -1442,7 +1442,6 @@
     <rating>5.0</rating>
     <image>Moon.jpg</image>
   </movie>
-  <!-- image missing -->
   <movie>
     <date>2016.05.14</date>
     <theater home="true"/>
@@ -1450,6 +1449,7 @@
     <title>The Hunger Games: Mockingjay - Part 2</title>
     <url>http://www.imdb.com/title/tt1951266/</url>
     <rating>4.0</rating>
+    <image>The Hunger Games - Mockingjay - Part 2.jpg</image>
   </movie>
   <movie>
     <date>2016.04.09</date>
@@ -1458,7 +1458,9 @@
     <title>Room</title>
     <url>http://www.imdb.com/title/tt3170832/</url>
     <rating>5.0</rating>
+    <image>Room.jpg</image>
   </movie>
+  <!-- image missing -->
   <movie>
     <date>2016.03.28</date>
     <theater>Galeries, Lausanne</theater>
