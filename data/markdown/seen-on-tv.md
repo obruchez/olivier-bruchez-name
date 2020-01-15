@@ -48,8 +48,8 @@
 * Maoris, sismologue, Nouvelle-Zélande (mentionnée par Erik ?) ([Children of Fire Mountain](http://www.imdb.com/title/tt1232875/), mais pas vu ?)
 * pape qui se sublime (quatrième dimension ?) (vu chez Bertrand G. ?)
 * potion dans le village africain, puis retour à Paris (vu chez Bertrand G. ?)
-* série avec bande de jeunes en France (club des 5 ???) (5 enfants en vacances qui résolvaient des énigmes)
-* série avec expression "mystère et boule de gomme" et "catastrophe numéro un"
+* série avec bande de jeunes en France (Club des 5 ???) (5 enfants en vacances qui résolvaient des énigmes)
+* série avec expression "mystère et boule de gomme" et "catastrophe numéro un" (rapport avec [Mystères et bulles de gomme](https://fr.wikipedia.org/wiki/Myst%C3%A8res_et_bulles_de_gomme) ou pas du tout ?)
 * série que je confonds avec Tales from the Crypt (contes, qqn près du feu, avec un chien, images en ombres et avec des acteurs humains)
 
 ## Dessins animés
