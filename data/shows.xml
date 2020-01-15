@@ -8,14 +8,14 @@
     <comments></comments>
     <image>Bob's Burgers.jpg</image>
   </show>
-  <!-- image missing -->
   <show>
     <date></date>
     <name url="https://en.wikipedia.org/wiki/Modern_Family">Modern Family</name>
     <series url="https://en.wikipedia.org/wiki/Modern_Family_(season_11)" type="season">11</series>
     <comments></comments>
-    <image></image>
+    <image>Modern Family.jpg</image>
   </show>
+  <!-- image missing -->
   <show>
     <date></date>
     <name url="https://en.wikipedia.org/wiki/Rick_and_Morty">Rick and Morty</name>
@@ -114,6 +114,7 @@
     <name url="https://en.wikipedia.org/wiki/Modern_Family">Modern Family</name>
     <series url="https://en.wikipedia.org/wiki/Modern_Family_(season_10)" type="season">10</series>
     <comments>There are still a few funny moments here and there. My biggest problem with the show are the lame subplots (which usually involve Haley) and the bad and/or child actors (Gloria, Lily, and Joe). At this point, the show is still stronger than <i>The Big Bang Theory</i>'s last seasons.</comments>
+    <image>Modern Family.jpg</image>
   </show>
   <show>
     <date>2019.04.04</date>
@@ -126,12 +127,14 @@
     <name url="https://en.wikipedia.org/wiki/Modern_Family">Modern Family</name>
     <series url="https://en.wikipedia.org/wiki/Modern_Family_(season_9)" type="season">9</series>
     <comments>It's probably time for this show to end and I just learnt that season 11 will be the final season. Good. Season 9 was okay. The Haley/Fennerman "subplot", again, is a bit lame.</comments>
+    <image>Modern Family.jpg</image>
   </show>
   <show>
     <date>2018.12.14</date>
     <name url="https://en.wikipedia.org/wiki/Modern_Family">Modern Family</name>
     <series url="https://en.wikipedia.org/wiki/Modern_Family_(season_8)" type="season">8</series>
     <comments>See comments for season 7 (i.e. an okay/entertaining season).</comments>
+    <image>Modern Family.jpg</image>
   </show>
   <show>
     <date>2018.12.05</date>
@@ -161,6 +164,7 @@
     <name url="https://en.wikipedia.org/wiki/Modern_Family">Modern Family</name>
     <series url="https://en.wikipedia.org/wiki/Modern_Family_(season_7)" type="season">7</series>
     <comments>I'm not a fan of the Haley/Andy "subplot". Other than that, an okay/entertaining season.</comments>
+    <image>Modern Family.jpg</image>
   </show>
   <show>
     <date>2018.05.17</date>
@@ -185,6 +189,7 @@
     <name url="https://en.wikipedia.org/wiki/Modern_Family">Modern Family</name>
     <series url="https://en.wikipedia.org/wiki/Modern_Family_(season_6)" type="season">6</series>
     <comments>See comments for season 5.</comments>
+    <image>Modern Family.jpg</image>
   </show>
   <show>
     <date>2018.03.18</date>
@@ -209,6 +214,7 @@
     <name url="https://en.wikipedia.org/wiki/Modern_Family">Modern Family</name>
     <series url="https://en.wikipedia.org/wiki/Modern_Family_(season_5)" type="season">5</series>
     <comments>See comments for season 4. Slightly better than the previous season?</comments>
+    <image>Modern Family.jpg</image>
   </show>
   <show>
     <date>2018.02.17</date>
@@ -221,6 +227,7 @@
     <name url="https://en.wikipedia.org/wiki/Modern_Family">Modern Family</name>
     <series url="https://en.wikipedia.org/wiki/Modern_Family_(season_4)" type="season">4</series>
     <comments>I don't have much to add compared to season 3. This was an average/good season. Like <i>This Is Us</i>, it's not a particularly edgy show, but it's just what I need from time to time (something funny and light).</comments>
+    <image>Modern Family.jpg</image>
   </show>
   <show>
     <date>2018.01.31</date>
@@ -239,12 +246,14 @@
     <name url="https://en.wikipedia.org/wiki/Modern_Family">Modern Family</name>
     <series url="https://en.wikipedia.org/wiki/Modern_Family_(season_3)" type="season">3</series>
     <comments>I'm liking this show more and more. I just realized that they're currently showing season 9. That's a lot of seasons. I hope they're not "milking the cow".</comments>
+    <image>Modern Family.jpg</image>
   </show>
   <show>
     <date>2017.12.17</date>
     <name url="https://en.wikipedia.org/wiki/Modern_Family">Modern Family</name>
     <series url="https://en.wikipedia.org/wiki/Modern_Family_(season_2)" type="season">2</series>
     <comments>As said in January 2017 when we finished the first season, we're watching "the other seasons". I probably enjoyed the second season more than the first one, so this is a good sign. Again (like <i>This Is Us</i>), it's not one of my favorite shows (yet), but it's not too far behind.</comments>
+    <image>Modern Family.jpg</image>
   </show>
   <show>
     <date>2017.12.17</date>
@@ -378,6 +387,7 @@
     <name url="https://en.wikipedia.org/wiki/Modern_Family">Modern Family</name>
     <series url="https://en.wikipedia.org/wiki/Modern_Family_(season_1)" type="season">1</series>
     <comments>An "old" (2009) show. Quite funny. We will probably watch the other seasons.</comments>
+    <image>Modern Family.jpg</image>
   </show>
   <show>
     <date>2016.12.12</date>
