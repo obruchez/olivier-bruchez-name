@@ -1,0 +1,8 @@
+# Candide (Voltaire)
+* Les choses ne pouvaient être autrement; car, dit-il, tout ceci est ce qu'il y a de mieux; car, s'il y a un volcan à Lisbonne, il ne pouvait être ailleurs; car il est impossible que les choses ne soient pas où elles sont; car tout est bien. (loc. 522-524)
+* —Nous allons certainement être rôtis ou bouillis. Ah! que dirait maître Pangloss, s'il voyait comme la pure nature est faite? Tout est bien: soit, mais j'avoue qu'il est bien cruel d'avoir perdu Mlle Cunégonde et d'être mis à la broche par des Oreillons. (loc. 1025-1027)
+* —Qu'est-ce que optimisme? disait Cacambo. —Hélas! dit Candide, c'est la rage de soutenir que tout est bien quand on est mal. (loc. 1243-1244)
+* —Je suis toujours de mon premier sentiment, répondit Pangloss, car enfin je suis philosophe; et il ne me convient pas de me dédire, Leibniz ne pouvant pas avoir tort, et l'harmonie préétablie étant d'ailleurs la plus belle chose du monde, aussi bien que le plein et la matière subtile. (loc. 1943-1945)
+* Pangloss avouait qu'il avait toujours horriblement souffert: mais ayant soutenu une fois que tout allait à merveille, il le soutenait toujours et n'en croyait rien. (loc. 1998-1999)
+* Je n'ai que vingt arpents, répondit le Turc; je les cultive avec mes enfants; le travail éloigne de nous trois grands maux: l'ennui, le vice et le besoin. (loc. 2033-2034)
+* Je sais aussi, dit Candide, qu'il faut cultiver notre jardin. —Vous avez raison, dit Pangloss, car quand l'homme fut mis dans le jardin d'Éden, il y fut mis ut operaretur eum, pour qu'il travaillât, ce qui prouve que l'homme n'est pas né pour le repos. —Travaillons sans raisonner, dit Martin: c'est le seul moyen de rendre la vie supportable. (loc. 2043-2046)

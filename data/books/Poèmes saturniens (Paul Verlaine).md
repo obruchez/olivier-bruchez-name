@@ -1,0 +1,2 @@
+# Poèmes saturniens (Paul Verlaine)
+* Oui, le but de la Poésie, c'est le Beau, le Beau seul, le Beau pur, sans alliage d'Utile, de Vrai ou de Juste. Tant mieux pour tout le monde si l'œuvre du poète se trouve, par hasard, mais par hasard seulement, dégager une atmosphère de justice ou de vérité. (p. 203)
