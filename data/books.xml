@@ -2,6 +2,17 @@
 <books>
     <introduction>A list of books I read.</introduction>
     <book>
+        <date></date>
+        <title>And Then There Were None</title>
+        <author>Agatha Christie</author>
+        <publishingyear>1939</publishingyear>
+        <rating></rating>
+        <url>https://en.wikipedia.org/wiki/And_Then_There_Were_None</url>
+        <notes description="Kindle highlights"></notes>
+        <comments></comments>
+        <image>And Then There Were None.jpg</image>
+    </book>
+    <book>
         <date>2020.01.07</date>
         <title>Candide</title>
         <author>Voltaire</author>
