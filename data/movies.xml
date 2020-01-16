@@ -3,6 +3,16 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Checklist: add rating to IMDb -->
   <movie>
+    <date></date>
+    <theater home="true"/>
+    <director>Carol Reed</director>
+    <title>The Third Man</title>
+    <url>https://www.imdb.com/title/tt0041959/</url>
+    <rating></rating>
+    <comments></comments>
+    <image>The Third Man.jpg</image>
+  </movie>
+  <movie>
     <date>2020.01.11</date>
     <theater home="true"/>
     <director>Steven Spielberg</director>
