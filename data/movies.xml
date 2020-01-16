@@ -1460,7 +1460,6 @@
     <rating>5.0</rating>
     <image>Room.jpg</image>
   </movie>
-  <!-- image missing -->
   <movie>
     <date>2016.03.28</date>
     <theater>Galeries, Lausanne</theater>
@@ -1468,6 +1467,7 @@
     <title>Demain</title>
     <url>http://www.imdb.com/title/tt4449576/</url>
     <rating>4.75</rating>
+    <image>Demain.jpg</image>
   </movie>
   <movie>
     <date>2016.03.22</date>
@@ -1476,7 +1476,9 @@
     <title>The Revenant</title>
     <url>http://www.imdb.com/title/tt1663202/</url>
     <rating>5.0</rating>
+    <image>The Revenant.jpg</image>
   </movie> 
+  <!-- image missing -->
   <movie>
     <date>2016.03.13</date>
     <theater>Galeries, Lausanne</theater>
