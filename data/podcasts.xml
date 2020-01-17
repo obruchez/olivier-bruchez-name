@@ -3,9 +3,15 @@
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
     <date></date>
+    <name url="http://verybadwizards.com/">Very Bad Wizards</name>
+    <episode url="https://verybadwizards.fireside.fm/177" number="177">Pure Linguistic Chauvinism</episode>
+    <comments></comments>
+  </podcast>
+  <podcast>
+    <date>2020.01.17</date>
     <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
     <episode url="https://samharris.org/subscriber-extras/179-unquiet-mind/" number="179">The Unquiet Mind - A Conversation with Judson Brewer</episode>
-    <comments></comments>
+    <comments>I had never really thought about the link between addiction (in the widest sense of the word - Brewer defines it as "repeated use despite adverse consequences") and meditation, but I think I'm starting to see it. We are wired for rewards. We should be more aware of it. I'm not sure there was much actionable information in the episode, apart from "meditate more", but, still, this is very encouraging. Brewer sounds very nice and knowledgeable. I probably won't buy his book, though, as it doesn't appear to contain really actionable advice either. Future specialized meditation apps might be interesting. Until then, it remains a bit too theoretical.</comments>
   </podcast>
   <podcast>
     <date>2020.01.14</date>
