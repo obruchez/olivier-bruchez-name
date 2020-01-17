@@ -1488,7 +1488,6 @@
     <rating>5.0</rating>
     <image>The Revenant.jpg</image>
   </movie> 
-  <!-- image missing -->
   <movie>
     <date>2016.03.13</date>
     <theater>Galeries, Lausanne</theater>
@@ -1496,6 +1495,7 @@
     <title>Hail, Caesar!</title>
     <url>http://www.imdb.com/title/tt0475290/</url>
     <rating>4.75</rating>
+    <image>Hail, Caesar!.jpg</image>
   </movie>
   <movie>
     <date>2016.03.05</date>
@@ -1504,7 +1504,9 @@
     <title>The Hudsucker Proxy</title>
     <url>http://www.imdb.com/title/tt0110074/</url>
     <rating>5.0</rating>
+    <image>The Hudsucker Proxy.jpg</image>
   </movie>
+  <!-- image missing -->
   <movie>
     <date>2016.02.27</date>
     <theater home="true"/>
