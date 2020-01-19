@@ -2,14 +2,14 @@
 <books>
     <introduction>A list of books I read.</introduction>
     <book>
-        <date></date>
+        <date>2020.01.19</date>
         <title>And Then There Were None</title>
         <author>Agatha Christie</author>
         <publishingyear>1939</publishingyear>
-        <rating></rating>
+        <rating>5.0</rating>
         <url>https://en.wikipedia.org/wiki/And_Then_There_Were_None</url>
         <notes description="Kindle highlights"></notes>
-        <comments></comments>
+        <comments>Crime novels are not my cup of tea and I'm not sure I will ever read another Agatha Christie books in my life, but I had a lot of fun reading <i>And Then There Were None</i>.</comments>
         <image>And Then There Were None.jpg</image>
     </book>
     <book>
