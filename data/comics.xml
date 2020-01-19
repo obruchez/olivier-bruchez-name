@@ -7,11 +7,20 @@
     <artist>Roger Leloup</artist>
     <colorist>Studio Leonardo</colorist>
     <series url="https://fr.wikipedia.org/wiki/Yoko_Tsuno">Yoko Tsuno</series>
-    <volume url="https://fr.wikipedia.org/wiki/La_Proie_et_l%27Ombre" number="12">La Proie et l'Ombre</volume>
+    <volume url="https://fr.wikipedia.org/wiki/Les_Archanges_de_Vin%C3%A9a" number="13">Les Archanges de Vinéa</volume>
     <comments></comments>
+    <image>Yoko Tsuno - Les Archanges de Vinéa.jpg</image>
+  </comic>
+  <comic>
+    <date>2020.01.19</date>
+    <writer>Roger Leloup</writer>
+    <artist>Roger Leloup</artist>
+    <colorist>Studio Leonardo</colorist>
+    <series url="https://fr.wikipedia.org/wiki/Yoko_Tsuno">Yoko Tsuno</series>
+    <volume url="https://fr.wikipedia.org/wiki/La_Proie_et_l%27Ombre" number="12">La Proie et l'Ombre</volume>
+    <comments>Une histoire un tout petit peu tirée par les cheveux, mais pas mauvaise non plus.</comments>
     <image>Yoko Tsuno - La Proie et l'Ombre.jpg</image>
   </comic>
-
   <comic>
     <date>2020.01.14</date>
     <writer>Roger Leloup</writer>
