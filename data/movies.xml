@@ -1506,7 +1506,6 @@
     <rating>5.0</rating>
     <image>The Hudsucker Proxy.jpg</image>
   </movie>
-  <!-- image missing -->
   <movie>
     <date>2016.02.27</date>
     <theater home="true"/>
@@ -1514,6 +1513,7 @@
     <title>Blood Simple</title>
     <url>http://www.imdb.com/title/tt0086979/</url>
     <rating>4.75</rating>
+    <image>Blood Simple.jpg</image>
   </movie>
   <movie>
     <date>2016.01.30</date>
@@ -1522,7 +1522,9 @@
     <title>Pulp Fiction</title>
     <url>http://www.imdb.com/title/tt0110912/</url>
     <rating>5.0</rating>
+    <image>Pulp Fiction.jpg</image>
   </movie>
+  <!-- image missing -->
   <movie>
     <date>2016.01.10</date>
     <theater>Pathé Flon, Lausanne</theater>
