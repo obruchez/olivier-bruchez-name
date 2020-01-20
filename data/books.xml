@@ -2,6 +2,17 @@
 <books>
     <introduction>A list of books I read.</introduction>
     <book>
+        <date></date>
+        <title>Madame Bovary</title>
+        <author>Gustave Flaubert</author>
+        <publishingyear>1857</publishingyear>
+        <rating></rating>
+        <url>https://fr.wikipedia.org/wiki/Madame_Bovary</url>
+        <notes description="Kindle highlights"></notes>
+        <comments></comments>
+        <image>Madame Bovary.jpg</image>
+    </book>
+    <book>
         <date>2020.01.19</date>
         <title>And Then There Were None</title>
         <author>Agatha Christie</author>
