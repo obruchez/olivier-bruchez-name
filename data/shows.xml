@@ -15,14 +15,15 @@
     <comments></comments>
     <image>Modern Family.jpg</image>
   </show>
-  <!-- image missing -->
+  
   <show>
     <date></date>
     <name url="https://en.wikipedia.org/wiki/Rick_and_Morty">Rick and Morty</name>
     <series url="https://en.wikipedia.org/wiki/Rick_and_Morty_(season_4)" type="season">4</series>
     <comments></comments>
-    <image></image>
+    <image>Rick and Morty.jpg</image>
   </show>
+  <!-- image missing -->
   <show>
     <date></date>
     <name url="https://en.wikipedia.org/wiki/The_Twilight_Zone_(1959_TV_series)">The Twilight Zone</name>
@@ -240,6 +241,7 @@
     <name url="https://en.wikipedia.org/wiki/Rick_and_Morty">Rick and Morty</name>
     <series url="https://en.wikipedia.org/wiki/Rick_and_Morty_(season_3)" type="season">3</series>
     <comments>One of my favorite animated shows. It tackles at lot of philosophical themes, some of them rather negative (absurdism, nihilism, etc.), some of them intriguing (personal identity, etc.). The framework of (infinite) parallel universes is an ideal way to explore those themes, I think, since it puts "our world" into perspective. <a href="https://www.google.ch/search?q=philosophy+of+rick+and+morty">Many articles</a> have been written about it. What's also interesting to me is that all those serious themes are treated with (dark) humor, which is refreshing.</comments>
+    <image>Rick and Morty.jpg</image>
   </show>
   <show>
     <date>2018.01.07</date>
@@ -440,6 +442,7 @@
     <date>2016.09.10</date>
     <name url="https://en.wikipedia.org/wiki/Rick_and_Morty">Rick and Morty</name>
     <series url="https://en.wikipedia.org/wiki/Rick_and_Morty_(season_2)" type="season">2</series>
+    <image>Rick and Morty.jpg</image>
   </show>
   <show>
     <date>2016.08.30</date>
@@ -450,6 +453,7 @@
     <date>2016.08.23</date>
     <name url="https://en.wikipedia.org/wiki/Rick_and_Morty">Rick and Morty</name>
     <series url="https://en.wikipedia.org/wiki/Rick_and_Morty_(season_1)" type="season">1</series>
+    <image>Rick and Morty.jpg</image>
   </show>
   <show>
     <date>2016.07.03</date>
