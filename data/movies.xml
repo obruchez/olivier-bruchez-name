@@ -1524,7 +1524,6 @@
     <rating>5.0</rating>
     <image>Pulp Fiction.jpg</image>
   </movie>
-  <!-- image missing -->
   <movie>
     <date>2016.01.10</date>
     <theater>Pathé Flon, Lausanne</theater>
@@ -1533,6 +1532,7 @@
     <url>http://www.imdb.com/title/tt2488496/</url>
     <rating>5.0</rating>
     <comments>3D version.</comments>
+    <image>Star Wars - The Force Awakens.jpg</image>
   </movie> 
   <movie>
     <date>2016.01.09</date>
@@ -1541,7 +1541,9 @@
     <title>The Shawshank Redemption</title>
     <url>http://www.imdb.com/title/tt0111161/</url>
     <rating>5.25</rating>
+    <image>The Shawshank Redemption.jpg</image>
   </movie>
+  <!-- image missing -->
   <movie>
     <date>2015.11.22</date>
     <theater home="true"/>
