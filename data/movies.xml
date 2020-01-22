@@ -1543,7 +1543,6 @@
     <rating>5.25</rating>
     <image>The Shawshank Redemption.jpg</image>
   </movie>
-  <!-- image missing -->
   <movie>
     <date>2015.11.22</date>
     <theater home="true"/>
@@ -1552,6 +1551,7 @@
     <url>http://www.imdb.com/title/tt0086190/</url>
     <rating>4.5</rating>
     <comments>1997 version.</comments>
+    <image>Star Wars - Episode VI - Return of the Jedi.jpg</image>
   </movie>
   <movie>
     <date>2015.11.14</date>
@@ -1560,7 +1560,9 @@
     <title>Avril et le monde truqué</title>
     <url>http://www.imdb.com/title/tt3422078/</url>
     <rating>5.0</rating>
+    <image>Avril et le monde truqué.jpg</image>
   </movie>
+  <!-- image missing -->
   <movie>
     <date>2015.11.14</date>
     <theater>Galeries, Lausanne</theater>
@@ -6622,6 +6624,7 @@
     <date>1997.05.16</date>
     <title>Star Wars : Episode VI - Le Retour Du Jedi</title>
     <version>fr</version>
+    <image>Star Wars - Episode VI - Return of the Jedi.jpg</image>
   </movie>
   <movie>
     <date>1997.05.02</date>
