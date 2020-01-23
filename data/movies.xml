@@ -1562,14 +1562,14 @@
     <rating>5.0</rating>
     <image>Avril et le monde truqué.jpg</image>
   </movie>
-  <!-- image missing -->
   <movie>
     <date>2015.11.14</date>
     <theater>Galeries, Lausanne</theater>
     <director>Charlotte Cambon</director>
     <title>Dans un petit bateau</title>
-    <url>http://charlottecambon.fr/movies/dans-un-petit-bateau/</url>
+    <url>http://charlottecambon.fr/?page_id=67</url>
     <rating>3.0</rating>
+    <image>Dans un petit bateau.jpg</image>
   </movie>
   <movie>
     <date>2015.10.24</date>
@@ -1579,7 +1579,9 @@
     <url>http://www.imdb.com/title/tt3659388/</url>
     <rating>5.25</rating>
     <comments>3D version.</comments>
-  </movie> 
+    <image>The Martian.jpg</image>
+  </movie>
+  <!-- image missing -->
   <movie>
     <date>2015.10.18</date>
     <theater home="true"/>
