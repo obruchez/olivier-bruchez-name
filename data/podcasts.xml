@@ -4,8 +4,14 @@
   <podcast>
     <date></date>
     <name url="https://www.happinesslab.fm/">The Happiness Lab</name>
+    <episode url="https://www.happinesslab.fm/2020-mini-season-episodes/reasons-to-be-grateful">Grateful Expectations</episode>
+    <comments></comments>
+  </podcast>
+  <podcast>
+    <date>2020.01.23</date>
+    <name url="https://www.happinesslab.fm/">The Happiness Lab</name>
     <episode url="https://www.happinesslab.fm/2020-mini-season-episodes/new-year-new-you">A New Hope</episode>
-    <comments>Psychologically, we tend to see time as discontinuous (like chapters in a book), although it is continuous, so there are times in our lives that feel more suitable for changes (beginning of a year, week, or season, birthdays, etc.).</comments>
+    <comments>Psychologically, we tend to see time as discontinuous (like chapters in a book), although it is continuous, so there are times in our lives that feel more suitable for changes (beginning of a year, week, or season, birthdays, etc.). Happiness hack: bundle things that you have a hard time doing (e.g. exercising) with things you like / that tempt you (e.g. watching a TV show).</comments>
   </podcast>
   <podcast>
     <date>2020.01.22</date>
