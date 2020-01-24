@@ -1581,14 +1581,14 @@
     <comments>3D version.</comments>
     <image>The Martian.jpg</image>
   </movie>
-  <!-- image missing -->
   <movie>
     <date>2015.10.18</date>
     <theater home="true"/>
     <director>Joel Coen &amp; Ethan Coen</director>
     <title>Barton Fink</title>
-    <url>http://www.imdb.com/title/tt0101410</url>
+    <url>http://www.imdb.com/title/tt0101410/</url>
     <rating>5.0</rating>
+    <image>Barton Fink.jpg</image>
   </movie>
   <movie>
     <date>2015.10.13</date>
@@ -1598,7 +1598,9 @@
     <url>http://www.imdb.com/title/tt0015648/</url>
     <rating>5.0</rating>
     <comments>Live music by the Orchestre d’harmonie de l'Etat de Genève.</comments>
+    <image>Battleship Potemkin.jpg</image>
   </movie>
+  <!-- image missing -->
   <movie>
     <date>2015.09.12</date>
     <theater home="true"/>
