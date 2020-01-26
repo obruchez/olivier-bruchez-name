@@ -3,6 +3,16 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Checklist: add rating to IMDb -->
   <movie>
+    <date>2020.01.26</date>
+    <theater home="true"/>
+    <director>Billy Wilder</director>
+    <title>Some Like It Hot</title>
+    <url>https://www.imdb.com/title/tt0053291/</url>
+    <rating>4.5</rating>
+    <comments>Without knowing anything about this movie or its context (e.g. Marilyn Monroe died 4 years later and already had a lot of problems), I immediately felt that something was a bit off with Monroe's performance, but, all in all, we had a good time. I'm not a fan of the "men dressed up as women" theme, but Curtis and Lemmon's performance is excellent and there's also a feminist message hidden under all the jokes (I guess?).</comments>
+    <image>Some Like It Hot.jpg</image>
+  </movie>
+  <movie>
     <date>2020.01.18</date>
     <theater home="true"/>
     <director>Carol Reed</director>
