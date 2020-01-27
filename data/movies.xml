@@ -1610,7 +1610,6 @@
     <comments>Live music by the Orchestre d’harmonie de l'Etat de Genève.</comments>
     <image>Battleship Potemkin.jpg</image>
   </movie>
-  <!-- image missing -->
   <movie>
     <date>2015.09.12</date>
     <theater home="true"/>
@@ -1619,6 +1618,7 @@
     <url>http://www.imdb.com/title/tt0080801/</url>
     <rating>3.5</rating>
     <comments>Already seen on TV a long time ago (in the 80s).</comments>
+    <image>The Gods Must Be Crazy.jpg</image>
   </movie>
   <movie>
     <date>2015.08.26</date>
@@ -1628,7 +1628,9 @@
     <url>http://www.imdb.com/title/tt0015864/</url>
     <rating>5.0</rating>
     <comments>Live music by the Orchestre des Jardins Musicaux.</comments>
+    <image>The Gold Rush.jpg</image>
   </movie>
+  <!-- image missing -->
   <movie>
     <date>2015.08.17</date>
     <theater>Flight LH 477, Lufthansa</theater>
