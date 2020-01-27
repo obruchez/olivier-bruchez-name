@@ -5,6 +5,16 @@
   <movie>
     <date>2020.01.26</date>
     <theater home="true"/>
+    <director>John Ford</director>
+    <title>The Searchers</title>
+    <url>https://www.imdb.com/title/tt0049730/</url>
+    <rating>4.5</rating>
+    <comments>"That'll be the day." I'm probably missing something here. This is not a bad movie, but when I said I was not into westerns in the past, this is the kind of movies I had in mind. Cow-boys and indians. I guess I like Sergio Leone's approach better.</comments>
+    <image>The Searchers.jpg</image>
+  </movie>
+  <movie>
+    <date>2020.01.25</date>
+    <theater home="true"/>
     <director>Billy Wilder</director>
     <title>Some Like It Hot</title>
     <url>https://www.imdb.com/title/tt0053291/</url>
