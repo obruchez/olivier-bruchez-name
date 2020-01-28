@@ -1640,7 +1640,6 @@
     <comments>Live music by the Orchestre des Jardins Musicaux.</comments>
     <image>The Gold Rush.jpg</image>
   </movie>
-  <!-- image missing -->
   <movie>
     <date>2015.08.17</date>
     <theater>Flight LH 477, Lufthansa</theater>
@@ -1648,6 +1647,7 @@
     <title>A.I. Artificial Intelligence</title>
     <url>http://www.imdb.com/title/tt0212720/</url>
     <rating>3.5</rating>
+    <image>A.I. Artificial Intelligence.jpg</image>
   </movie>
   <movie>
     <date>2015.08.16</date>
@@ -1656,7 +1656,9 @@
     <title>Into The Wild</title>
     <url>http://www.imdb.com/title/tt0758758/</url>
     <rating>5.0</rating>
+    <image>Into The Wild.jpg</image>
   </movie>
+  <!-- image missing -->
   <movie>
     <date>2015.07.26</date>
     <theater home="true"/>
