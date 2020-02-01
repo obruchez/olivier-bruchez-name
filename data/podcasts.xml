@@ -3,9 +3,21 @@
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
     <date></date>
+    <name url="http://peachandblack.podbean.com/">Peach &amp; Black Podcast</name>
+    <episode url="https://peachandblack.podbean.com/e/prince-1999-super-deluxe-review-part-3/">Prince 1999 Super Deluxe Review - Part 3</episode>
+    <comments></comments>
+  </podcast>
+  <podcast>
+    <date>2020.01.31</date>
+    <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
+    <episode url="https://samharris.org/subscriber-extras/183-january-28-2020/" number="182">January 28, 2020 - In Conversation with Paul Bloom</episode>
+    <comments>A good episode with an excellent guest. The topics were not particularly original (free will, redemption, morality of groups, online harassment, etc.), but I'd like to hear more episodes like this. After years and years (litteraly more than twenty years, actually) thinking about free will, I still don't know where I stand. I agree with Sam that Dennett's political position about free will is weird (i.e. people have to be able to believe in free will, in one form or another, or they will become immoral). It's an absurd position. Sam's position doesn't seem "complete", though. People like Daniel Miessler have been more successful, in my opinion, but the more I read from him on the topic, the more I find his position a bit inconsistent.</comments>
+  </podcast>
+  <podcast>
+    <date>2020.01.30</date>
     <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
     <episode url="https://samharris.org/subscriber-extras/181-illusory-self/" number="181">The Illusory Self - A Conversation with Richard Lang</episode>
-    <comments></comments>
+    <comments>If this is Sam's attempt at convincing people who are not yet interested in meditation that they should get more interested in meditation, then I don't think it will work. This is esoteric as it gets. I've been working on my "headlessness" with Sam's Waking Up app for more than a year now, and I'm still not sure I completely "get" it. I'm more or less convinced that there is something to get, though.</comments>
   </podcast>
   <podcast>
     <date>2020.01.27</date>
