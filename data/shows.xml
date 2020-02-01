@@ -23,14 +23,14 @@
     <comments></comments>
     <image>Rick and Morty.jpg</image>
   </show>
-  <!-- image missing -->
   <show>
     <date></date>
     <name url="https://en.wikipedia.org/wiki/The_Twilight_Zone_(1959_TV_series)">The Twilight Zone</name>
     <series url="https://en.wikipedia.org/wiki/The_Twilight_Zone_(1959_TV_series,_season_3)" type="season">3</series>
     <comments></comments>
-    <image></image>
+    <image>The Twilight Zone.jpg</image>
   </show>
+  <!-- image missing -->
   <show>
     <date></date>
     <name url="https://en.wikipedia.org/wiki/This_Is_Us_(TV_series)">This Is Us</name>
@@ -55,6 +55,7 @@
     <name url="https://en.wikipedia.org/wiki/The_Twilight_Zone_(1959_TV_series)">The Twilight Zone</name>
     <series url="https://en.wikipedia.org/wiki/The_Twilight_Zone_(1959_TV_series,_season_2)" type="season">2</series>
     <comments>Some episodes seem to reuse ideas from previous episodes, but, overall, it's still very good.</comments>
+    <image>The Twilight Zone.jpg</image>
   </show>
   <show>
     <date>2019.09.28</date>
@@ -80,6 +81,7 @@
     <name url="https://en.wikipedia.org/wiki/The_Twilight_Zone_(1959_TV_series)">The Twilight Zone</name>
     <series url="https://en.wikipedia.org/wiki/The_Twilight_Zone_(1959_TV_series,_season_1)" type="season">1</series>
     <comments>It's weird to watch a TV show from 1959. After each episode, I have a look at the actors' entries on IMDb. 95% of the time, they're dead. The story of <a href="https://www.imdb.com/name/nm0122519/">Terry Burnham</a>, in particular, aged 11 when she played in "Nightmare as a Child", is tragic. Anyway, <i>The Twilight Zone</i> is the kind of shows you have to watch with a different mindset. If you don't, it will look naive and simplistic.</comments>
+    <image>The Twilight Zone.jpg</image>
   </show>
   <show>
     <date>2019.08.11</date>
