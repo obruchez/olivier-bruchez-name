@@ -1676,7 +1676,6 @@
     <rating>3.75</rating>
     <image>Four Weddings and a Funeral.jpg</image>
   </movie>
-  <!-- image missing -->
   <movie>
     <date>2015.07.19</date>
     <theater>Flight LX 38, Swiss</theater>
@@ -1684,6 +1683,7 @@
     <title>Alien</title>
     <url>http://www.imdb.com/title/tt0078748/</url>
     <rating>4.75</rating>
+    <image>Alien.jpg</image>
   </movie>
   <movie>
     <date>2015.07.19</date>
@@ -1692,7 +1692,9 @@
     <title>While We Were Young</title>
     <url>http://www.imdb.com/title/tt1791682/</url>
     <rating>4.5</rating>
+    <image>While We're Young.jpg</image>
   </movie>
+  <!-- image missing -->
   <movie>
     <date>2015.07.09</date>
     <theater>Galeries, Lausanne</theater>
