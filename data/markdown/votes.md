@@ -2,17 +2,27 @@
 
 My votes (in French). En Suisse, on ne plaisante pas avec la démocratie directe. :) J'essaie ici de documenter et de justifier la façon dont je me positionne par rapport aux votations fédérales, qui ont lieu jusqu'à quatre fois par année.
 
+## [Votation fédérale du 9 février 2020](https://www.admin.ch/gov/fr/accueil/documentation/votations/20200209.html)
+
+### Acceptez-vous l'initiative populaire « Davantage de logements abordables » ?
+
+?. Résultat : ? (??.?%)
+
+### Acceptez-vous la modification du 14 décembre 2018 du code pénal et du code pénal militaire (Discrimination et incitation à la haine en raison de l'orientation sexuelle) ?
+
+?. Résultat : ? (??.?%)
+
 ## [Votation fédérale du 19 mai 2019](https://www.admin.ch/gov/fr/accueil/documentation/votations/20190519.html)
 
 ### Acceptez-vous la loi fédérale du 28 septembre 2018 relative à la réforme fiscale et au financement de l’AVS (RFFA) ? 
 
-Non. Résultat : ? (??.?%)
+Non. Résultat : oui (66.4%)
 
 - Je suis ici l'opinion de Sergio Rossi (entre autres).
 
 ### Acceptez-vous l’arrêté fédéral du 28 septembre 2018 portant approbation et mise en oeuvre de l’échange de notes entre la Suisse et l’UE concernant la reprise de la directive (UE) 2017/853 modifiant la directive de l’UE sur les armes (Développement de l’acquis de Schengen) ?
 
-Oui. Résultat : ? (??.?%).
+Oui. Résultat : oui (63.7%).
 
 ## [Votation fédérale du 10 février 2019](https://www.admin.ch/gov/fr/accueil/documentation/votations/20190210.html)
 
