@@ -30,14 +30,14 @@
     <comments></comments>
     <image>The Twilight Zone.jpg</image>
   </show>
-  <!-- image missing -->
   <show>
     <date></date>
     <name url="https://en.wikipedia.org/wiki/This_Is_Us_(TV_series)">This Is Us</name>
     <series url="https://en.wikipedia.org/wiki/This_Is_Us_(season_4)" type="season">4</series>
     <comments></comments>
-    <image></image>
+    <image>This Is Us.jpg</image>
   </show>
+  <!-- image missing -->
   <show>
     <date>2019.12.23</date>
     <name url="https://en.wikipedia.org/wiki/Mr._Robot_(TV_series)">Mr. Robot</name>
@@ -124,6 +124,7 @@
     <name url="https://en.wikipedia.org/wiki/This_Is_Us_(TV_series)">This Is Us</name>
     <series url="https://en.wikipedia.org/wiki/This_Is_Us_(season_3)" type="season">3</series>
     <comments>Pretty good season. I think I'm starting to really appreciate the cathartic elements of this show.</comments>
+    <image>This Is Us.jpg</image>
   </show>
   <show>
     <date>2019.04.01</date>
@@ -205,6 +206,7 @@
     <name url="https://en.wikipedia.org/wiki/This_Is_Us_(TV_series)">This Is Us</name>
     <series url="https://en.wikipedia.org/wiki/This_Is_Us_(season_2)" type="season">2</series>
     <comments>Still not a huge fan after two seasons, but it's a good show, often moving.</comments>
+    <image>This Is Us.jpg</image>
   </show>
   <show>
     <date>2018.03.15</date>
@@ -264,6 +266,7 @@
     <name url="https://en.wikipedia.org/wiki/This_Is_Us_(TV_series)">This Is Us</name>
     <series url="https://en.wikipedia.org/wiki/This_Is_Us_(season_1)" type="season">1</series>
     <comments>I'm not a huge fan of this show, but it has its charms. I cried a few times. It's sometimes funny. I wouldn't say it's edgy, but it's not corny either (except maybe a couple of times). Let's see where it goes with season 2.</comments>
+    <image>This Is Us.jpg</image>
   </show>
   <show>
     <date>2017.12.15</date>
