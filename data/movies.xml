@@ -1694,7 +1694,6 @@
     <rating>4.5</rating>
     <image>While We're Young.jpg</image>
   </movie>
-  <!-- image missing -->
   <movie>
     <date>2015.07.09</date>
     <theater>Galeries, Lausanne</theater>
@@ -1702,6 +1701,7 @@
     <title>Amy</title>
     <url>http://www.imdb.com/title/tt2870648/</url>
     <rating>4.5</rating>
+    <image>Amy.jpg</image>
   </movie>
   <movie>
     <date>2015.06.27</date>
@@ -1711,7 +1711,9 @@
     <url>http://www.imdb.com/title/tt2096673/</url>
     <rating>5.25</rating>
     <comments>3D version.</comments>
+    <image>Inside Out.jpg</image>
   </movie>
+  <!-- image missing -->
   <movie>
     <date>2015.06.27</date>
     <theater>Galeries, Lausanne</theater>
