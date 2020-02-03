@@ -6,11 +6,11 @@ My votes (in French). En Suisse, on ne plaisante pas avec la démocratie directe
 
 ### Acceptez-vous l'initiative populaire « Davantage de logements abordables » ?
 
-?. Résultat : ? (??.?%)
+Oui. Résultat : ? (??.?%)
 
 ### Acceptez-vous la modification du 14 décembre 2018 du code pénal et du code pénal militaire (Discrimination et incitation à la haine en raison de l'orientation sexuelle) ?
 
-?. Résultat : ? (??.?%)
+Oui. Résultat : ? (??.?%)
 
 ## [Votation fédérale du 19 mai 2019](https://www.admin.ch/gov/fr/accueil/documentation/votations/20190519.html)
 
