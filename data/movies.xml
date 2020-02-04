@@ -1713,7 +1713,6 @@
     <comments>3D version.</comments>
     <image>Inside Out.jpg</image>
   </movie>
-  <!-- image missing -->
   <movie>
     <date>2015.06.27</date>
     <theater>Galeries, Lausanne</theater>
@@ -1722,6 +1721,7 @@
     <url>http://www.imdb.com/title/tt3824386/</url>
     <rating>4.25</rating>
     <comments>3D version.</comments>
+    <image>Lava.jpg</image>
   </movie>
   <movie>
     <date>2015.06.06</date>
@@ -1730,7 +1730,9 @@
     <title>Ex Machina</title>
     <url>http://www.imdb.com/title/tt0470752/</url>
     <rating>5.0</rating>
-  </movie> 
+    <image>Ex Machina.jpg</image>
+  </movie>
+  <!-- image missing -->
   <movie>
     <date>2015.05.31</date>
     <theater>Galeries, Lausanne</theater>
