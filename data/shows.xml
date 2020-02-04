@@ -10,12 +10,18 @@
   </show>
   <show>
     <date></date>
+    <name url="https://en.wikipedia.org/wiki/Curb_Your_Enthusiasm">Curb Your Enthusiasm</name>
+    <series url="https://en.wikipedia.org/wiki/List_of_Curb_Your_Enthusiasm_episodes#Season_10_(2020)" type="season">10</series>
+    <comments></comments>
+    <image>Curb Your Enthusiasm.jpg</image>
+  </show>
+  <show>
+    <date></date>
     <name url="https://en.wikipedia.org/wiki/Modern_Family">Modern Family</name>
     <series url="https://en.wikipedia.org/wiki/Modern_Family_(season_11)" type="season">11</series>
     <comments></comments>
     <image>Modern Family.jpg</image>
   </show>
-  
   <show>
     <date></date>
     <name url="https://en.wikipedia.org/wiki/Rick_and_Morty">Rick and Morty</name>
@@ -224,8 +230,9 @@
   <show>
     <date>2018.02.17</date>
     <name url="https://en.wikipedia.org/wiki/Curb_Your_Enthusiasm">Curb Your Enthusiasm</name>
-    <series url="https://en.wikipedia.org/wiki/Curb_Your_Enthusiasm#Season_9_(2017)" type="season">9</series>
+    <series url="https://en.wikipedia.org/wiki/List_of_Curb_Your_Enthusiasm_episodes#Season_9_(2017)" type="season">9</series>
     <comments>I watched the first 8 seasons of <i>Curb Your Enthusiasm</i> over the course of 11 months in 2015 and 2016. It's still a good show, with regular cringe-inducing moments, as expected (and I mean that in a good way).</comments>
+    <image>Curb Your Enthusiasm.jpg</image>
   </show>
   <show>
     <date>2018.02.04</date>
@@ -436,12 +443,14 @@
   <show>
     <date>2016.10.10</date>
     <name url="https://en.wikipedia.org/wiki/Curb_Your_Enthusiasm">Curb Your Enthusiasm</name>
-    <series url="https://en.wikipedia.org/wiki/Curb_Your_Enthusiasm#Season_8_(2011)" type="season">8</series>
+    <series url="https://en.wikipedia.org/wiki/List_of_Curb_Your_Enthusiasm_episodes#Season_8_(2011)" type="season">8</series>
+    <image>Curb Your Enthusiasm.jpg</image>
   </show>
   <show>
     <date>2016.09.20</date>
     <name url="https://en.wikipedia.org/wiki/Curb_Your_Enthusiasm">Curb Your Enthusiasm</name>
-    <series url="https://en.wikipedia.org/wiki/Curb_Your_Enthusiasm#Season_7_(2009)" type="season">7</series>
+    <series url="https://en.wikipedia.org/wiki/List_of_Curb_Your_Enthusiasm_episodes#Season_7_(2009)" type="season">7</series>
+    <image>Curb Your Enthusiasm.jpg</image>
   </show>
   <show>
     <date>2016.09.10</date>
@@ -452,7 +461,8 @@
   <show>
     <date>2016.08.30</date>
     <name url="https://en.wikipedia.org/wiki/Curb_Your_Enthusiasm">Curb Your Enthusiasm</name>
-    <series url="https://en.wikipedia.org/wiki/Curb_Your_Enthusiasm#Season_6_(2007)" type="season">6</series>
+    <series url="https://en.wikipedia.org/wiki/List_of_Curb_Your_Enthusiasm_episodes#Season_6_(2007)" type="season">6</series>
+    <image>Curb Your Enthusiasm.jpg</image>
   </show>
   <show>
     <date>2016.08.23</date>
@@ -478,7 +488,8 @@
   <show>
     <date>2016.06.07</date>
     <name url="https://en.wikipedia.org/wiki/Curb_Your_Enthusiasm">Curb Your Enthusiasm</name>
-    <series url="https://en.wikipedia.org/wiki/Curb_Your_Enthusiasm#Season_5_(2005)" type="season">5</series>
+    <series url="https://en.wikipedia.org/wiki/List_of_Curb_Your_Enthusiasm_episodes#Season_5_(2005)" type="season">5</series>
+    <image>Curb Your Enthusiasm.jpg</image>
   </show>
   <show>
     <date>2016.06.06</date>
@@ -509,7 +520,8 @@
   <show>
     <date>2016.04.19</date>
     <name url="https://en.wikipedia.org/wiki/Curb_Your_Enthusiasm">Curb Your Enthusiasm</name>
-    <series url="https://en.wikipedia.org/wiki/Curb_Your_Enthusiasm#Season_4_(2004)" type="season">4</series>
+    <series url="https://en.wikipedia.org/wiki/List_of_Curb_Your_Enthusiasm_episodes#Season_4_(2004)" type="season">4</series>
+    <image>Curb Your Enthusiasm.jpg</image>
   </show>
   <show>
     <date>2016.03.10</date>
@@ -519,7 +531,8 @@
   <show>
     <date>2016.03.07</date>
     <name url="https://en.wikipedia.org/wiki/Curb_Your_Enthusiasm">Curb Your Enthusiasm</name>
-    <series url="https://en.wikipedia.org/wiki/Curb_Your_Enthusiasm#Season_3_(2002)" type="season">3</series>
+    <series url="https://en.wikipedia.org/wiki/List_of_Curb_Your_Enthusiasm_episodes#Season_3_(2002)" type="season">3</series>
+    <image>Curb Your Enthusiasm.jpg</image>
   </show>
   <show>
     <date>2016.02.26</date>
@@ -534,7 +547,8 @@
   <show>
     <date>2016.02.02</date>
     <name url="https://en.wikipedia.org/wiki/Curb_Your_Enthusiasm">Curb Your Enthusiasm</name>
-    <series url="https://en.wikipedia.org/wiki/Curb_Your_Enthusiasm#Season_2_(2001)" type="season">2</series>
+    <series url="https://en.wikipedia.org/wiki/List_of_Curb_Your_Enthusiasm_episodes#Season_2_(2001)" type="season">2</series>
+    <image>Curb Your Enthusiasm.jpg</image>
   </show>
   <show>
     <date>2016.01.19</date>
@@ -549,7 +563,8 @@
   <show>
     <date>2015.12.07</date>
     <name url="https://en.wikipedia.org/wiki/Curb_Your_Enthusiasm">Curb Your Enthusiasm</name>
-    <series url="https://en.wikipedia.org/wiki/Curb_Your_Enthusiasm#Season_1_(2000)" type="season">1</series>
+    <series url="https://en.wikipedia.org/wiki/List_of_Curb_Your_Enthusiasm_episodes#Season_1_(2000)" type="season">1</series>
+    <image>Curb Your Enthusiasm.jpg</image>
   </show>
   <show>
     <date>2015.11.15</date>
