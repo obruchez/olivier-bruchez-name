@@ -1,14 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <comics>
   <introduction>A list of comics I read.</introduction>
-   <comic>
+  <comic>
     <date></date>
     <writer>Roger Leloup</writer>
     <artist>Roger Leloup</artist>
     <colorist>Studio Leonardo</colorist>
     <series url="https://fr.wikipedia.org/wiki/Yoko_Tsuno">Yoko Tsuno</series>
-    <volume url="https://fr.wikipedia.org/wiki/Le_Feu_de_Wotan" number="14">Le Feu de Wotan</volume>
+    <volume url="https://fr.wikipedia.org/wiki/Le_Canon_de_Kra" number="15">Le Canon de Kra</volume>
     <comments></comments>
+    <image>Yoko Tsuno - Le Canon de Kra.jpg</image>
+  </comic>
+  <comic>
+    <date>2020.02.05</date>
+    <writer>Roger Leloup</writer>
+    <artist>Roger Leloup</artist>
+    <colorist>Studio Leonardo</colorist>
+    <series url="https://fr.wikipedia.org/wiki/Yoko_Tsuno">Yoko Tsuno</series>
+    <volume url="https://fr.wikipedia.org/wiki/Le_Feu_de_Wotan" number="14">Le Feu de Wotan</volume>
+    <comments>Une histoire assez simple. Les références aux ordinateurs et aux réseaux informatiques internationaux devaient être assez impressionnantes il y a 36 ans. Aujourd'hui, cela permet de prendre un peu de recul et de réaliser les progrès réalisés.</comments>
     <image>Yoko Tsuno - Le Feu de Wotan.jpg</image>
   </comic>
   <comic>
