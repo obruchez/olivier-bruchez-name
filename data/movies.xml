@@ -1732,7 +1732,6 @@
     <rating>5.0</rating>
     <image>Ex Machina.jpg</image>
   </movie>
-  <!-- image missing -->
   <movie>
     <date>2015.05.31</date>
     <theater>Galeries, Lausanne</theater>
@@ -1740,6 +1739,7 @@
     <title>The Farewell Party</title>
     <url>http://www.imdb.com/title/tt3163304/</url>
     <rating>5.0</rating>
+    <image>The Farewell Party.jpg</image>
   </movie>
   <movie>
     <date>2015.05.30</date>
@@ -1749,7 +1749,9 @@
     <url>http://www.imdb.com/title/tt0080684/</url>
     <rating>5.0</rating>
     <comments>1997 version.</comments>
+    <image>Star Wars - Episode V - The Empire Strikes Back.jpg</image>
   </movie>
+  <!-- image missing -->
   <movie>
     <date>2015.05.17</date>
     <theater home="true"/>
