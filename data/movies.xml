@@ -1751,7 +1751,6 @@
     <comments>1997 version.</comments>
     <image>Star Wars - Episode V - The Empire Strikes Back.jpg</image>
   </movie>
-  <!-- image missing -->
   <movie>
     <date>2015.05.17</date>
     <theater home="true"/>
@@ -1759,6 +1758,7 @@
     <title>La famille Bélier</title>
     <url>http://www.imdb.com/title/tt3547740/</url>
     <rating>4.25</rating>
+    <image>La Famille Bélier.jpg</image>
   </movie>
   <movie>
     <date>2015.05.16</date>
@@ -1767,7 +1767,9 @@
     <title>Le talent de mes amis</title>
     <url>http://www.imdb.com/title/tt4032450/</url>
     <rating>4.25</rating>
+    <image>Le talent de mes amis.jpg</image>
   </movie>
+  <!-- image missing -->
   <movie>
     <date>2015.05.15</date>
     <theater home="true"/>
