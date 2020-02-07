@@ -3,6 +3,16 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Checklist: add rating to IMDb -->
   <movie>
+    <date>2020.02.07</date>
+    <theater home="true"/>
+    <director>Joseph L. Mankiewicz</director>
+    <title>All About Eve</title>
+    <url>https://www.imdb.com/title/tt0042192/</url>
+    <rating>4.5</rating>
+    <comments>I know this is a classic. The actors are excellent. But I somehow feel like I'm missing something. Eve's opportunism is kind of obvious right from the beginning, for example, and none of the characters are particularly likable. Or maybe my slight lack of enthusiasm for this movie has something to do with the fact that I watched most of it on my smartphone (sorry, David Lynch...).</comments>
+    <image>All About Eve.jpg</image>
+  </movie>
+  <movie>
     <date>2020.01.26</date>
     <theater home="true"/>
     <director>John Ford</director>
@@ -244,7 +254,7 @@
     <director>Gil Karni</director>
     <title>Trip of Compassion</title>
     <url>https://www.imdb.com/title/tt7155154/</url>
-    <rating>4.75</rating>
+    <rating>4.5</rating>
     <comments>A very moving documentary about three subjects suffering from PTSD and participating in MDMA-assisted therapies in Israel.</comments>
     <image>Trip of Compassion.jpg</image>
   </movie>
