@@ -1769,7 +1769,6 @@
     <rating>4.25</rating>
     <image>Le talent de mes amis.jpg</image>
   </movie>
-  <!-- image missing -->
   <movie>
     <date>2015.05.15</date>
     <theater home="true"/>
@@ -1777,6 +1776,7 @@
     <title>Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb</title>
     <url>http://www.imdb.com/title/tt0057012/</url>
     <rating>5.0</rating>
+    <image>Dr. Strangelove or - How I Learned to Stop Worrying and Love the Bomb.jpg</image>
   </movie>
   <movie>
     <date>2015.05.15</date>
@@ -1786,7 +1786,9 @@
     <url>http://www.imdb.com/title/tt0076759/</url>
     <rating>5.0</rating>
     <comments>1997 version.</comments>
+    <image>Star Wars - Episode IV - A New Hope.jpg</image>
   </movie>
+  <!-- image missing -->
   <movie>
     <date>2015.05.14</date>
     <theater home="true"/>
