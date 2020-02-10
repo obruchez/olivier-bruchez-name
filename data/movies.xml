@@ -3,6 +3,26 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Checklist: add rating to IMDb -->
   <movie>
+    <date></date>
+    <theater home="true"/>
+    <director>Akira Kurosawa</director>
+    <title>Rashomon</title>
+    <url>https://www.imdb.com/title/tt0042876/</url>
+    <rating></rating>
+    <comments></comments>
+    <image>Rashomon.jpg</image>
+  </movie>
+  <movie>
+    <date>2020.02.08</date>
+    <theater home="true"/>
+    <director>Sam Mendes</director>
+    <title>1917</title>
+    <url>https://www.imdb.com/title/tt8579674/</url>
+    <rating>5.0</rating>
+    <comments>From a technical point of view, this film is absolutely breathtaking (the "fake" single continuous shot, the camera movements, etc.).</comments>
+    <image>1917.jpg</image>
+  </movie>
+  <movie>
     <date>2020.02.07</date>
     <theater home="true"/>
     <director>Joseph L. Mankiewicz</director>
