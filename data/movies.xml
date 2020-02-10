@@ -1818,7 +1818,6 @@
     <comments>1997 version.</comments>
     <image>Star Wars - Episode IV - A New Hope.jpg</image>
   </movie>
-  <!-- image missing -->
   <movie>
     <date>2015.05.14</date>
     <theater home="true"/>
@@ -1827,6 +1826,7 @@
     <title language="fr">La Chute</title>
     <url>http://www.imdb.com/title/tt0363163/</url>
     <rating>4.75</rating>
+    <image>Der Untergang.jpg</image>
   </movie>
   <movie>
     <date>2015.04.26</date>
@@ -1835,7 +1835,9 @@
     <title>Still Alice</title>
     <url>http://www.imdb.com/title/tt3316960/</url>
     <rating>5.0</rating>
+    <image>Still Alice.jpg</image>
   </movie>
+  <!-- image missing -->
   <movie>
     <date>2015.04.04</date>
     <theater>Cinétoile Malley Lumières, Lausanne-Prilly</theater>
