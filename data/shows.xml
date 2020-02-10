@@ -43,13 +43,14 @@
     <comments></comments>
     <image>This Is Us.jpg</image>
   </show>
-  <!-- image missing -->
   <show>
     <date>2019.12.23</date>
     <name url="https://en.wikipedia.org/wiki/Mr._Robot_(TV_series)">Mr. Robot</name>
     <series url="https://en.wikipedia.org/wiki/List_of_Mr._Robot_episodes#Season_4_(2019)" type="season">4</series>
     <comments>Definitely one of my favorite shows ever. The show's finale was better than expected (I actually didn't know what to expect, but I feared a bad/lazy ending <i>à la</i> <i>Lost</i>).</comments>
+    <image>Mr. Robot.jpg</image>
   </show>
+  <!-- image missing -->
   <show>
     <date>2019.12.12</date>
     <name url="https://en.wikipedia.org/wiki/Silicon_Valley_(TV_series)">Silicon Valley</name>
@@ -280,6 +281,7 @@
     <name url="https://en.wikipedia.org/wiki/Mr._Robot_(TV_series)">Mr. Robot</name>
     <series url="https://en.wikipedia.org/wiki/List_of_Mr._Robot_episodes#Season_3_(2017)" type="season">3</series>
     <comments>Again, a fantastic show (I'm repeating myself, here). Season 3 was more fast-paced than season 2. It was very dark/depressing, as usual. My only complaint would be that there were maybe a little too many twists and turns. I'm relieved that the show is not going the "<i>Lost</i> way" (yet), though, i.e. using paranormal and time travel to explain things.</comments>
+    <image>Mr. Robot.jpg</image>
   </show>
   <show>
     <date>2017.10.31</date>
@@ -323,12 +325,14 @@
     <name url="https://en.wikipedia.org/wiki/Mr._Robot_(TV_series)">Mr. Robot</name>
     <series url="https://en.wikipedia.org/wiki/List_of_Mr._Robot_episodes#Season_2_(2016)" type="season">2</series>
     <comments>What a fantastic, weird, sometimes dark show! The first season was quite normal in comparison with the second one. There were a few "David Lynch" moments (the scenes with the little girl, the fish, etc.). I hope the show won't end up being disapppointing, like <i>Lost</i> after a few seasons. I can't wait for season 3, obviously!</comments>
+    <image>Mr. Robot.jpg</image>
   </show>
   <show>
     <date>2017.06.30</date>
     <name url="https://en.wikipedia.org/wiki/Mr._Robot_(TV_series)">Mr. Robot</name>
     <series url="https://en.wikipedia.org/wiki/List_of_Mr._Robot_episodes#Season_1_(2015)" type="season">1</series>
     <comments>Hackers, mental illness, conspiracies, revolution. A lot of interesting themes in this show. I first heard colleagues mention this show. After hearing Tamler and David from the Very Bad Wizards podcast talk about it, I knew I <em>had</em> to watch it! And it didn't disappoint.</comments>
+    <image>Mr. Robot.jpg</image>
   </show>
   <show>
     <date>2017.06.29</date>
