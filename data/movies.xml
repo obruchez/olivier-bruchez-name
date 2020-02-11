@@ -1837,7 +1837,6 @@
     <rating>5.0</rating>
     <image>Still Alice.jpg</image>
   </movie>
-  <!-- image missing -->
   <movie>
     <date>2015.04.04</date>
     <theater>Cinétoile Malley Lumières, Lausanne-Prilly</theater>
@@ -1847,6 +1846,7 @@
     <version>fr</version>
     <url>http://www.imdb.com/title/tt2872750/</url>
     <rating>4.5</rating>
+    <image>Shaun the Sheep Movie.jpg</image>
   </movie>
   <movie>
     <date>2015.04.03</date>
@@ -1855,7 +1855,9 @@
     <title>Ghost World</title>
     <url>http://www.imdb.com/title/tt0162346/</url>
     <rating>5.0</rating>
+    <image>Ghost World.jpg</image>
   </movie>
+  <!-- image missing -->
   <movie>
     <date>2015.03.29</date>
     <theater>Galeries, Lausanne</theater>
