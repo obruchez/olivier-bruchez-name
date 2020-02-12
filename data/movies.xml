@@ -1857,7 +1857,6 @@
     <rating>5.0</rating>
     <image>Ghost World.jpg</image>
   </movie>
-  <!-- image missing -->
   <movie>
     <date>2015.03.29</date>
     <theater>Galeries, Lausanne</theater>
@@ -1865,6 +1864,7 @@
     <title>Big Eyes</title>
     <url>http://www.imdb.com/title/tt1126590/</url>
     <rating>4.75</rating>
+    <image>Big Eyes.jpg</image>
   </movie>
   <movie>
     <date>2015.03.28</date>
@@ -1874,7 +1874,9 @@
     <title language="en">The City of Lost Children</title>
     <url>http://www.imdb.com/title/tt0112682/</url>
     <rating>4.75</rating>
+    <image>The City of Lost Children.jpg</image>
   </movie>
+  <!-- image missing -->
   <movie>
     <date>2015.03.01</date>
     <theater>Galeries, Lausanne</theater>
