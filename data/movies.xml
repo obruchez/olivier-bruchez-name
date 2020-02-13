@@ -1876,7 +1876,6 @@
     <rating>4.75</rating>
     <image>The City of Lost Children.jpg</image>
   </movie>
-  <!-- image missing -->
   <movie>
     <date>2015.03.01</date>
     <theater>Galeries, Lausanne</theater>
@@ -1884,6 +1883,7 @@
     <title>Birdman: Or (The Unexpected Virtue of Ignorance)</title>
     <url>http://www.imdb.com/title/tt2562232/</url>
     <rating>5.25</rating>
+    <image>Birdman or (The Unexpected Virtue of Ignorance).jpg</image>
   </movie>
   <movie>
     <date>2015.02.28</date>
@@ -1893,7 +1893,9 @@
     <title language="en">Pan's Labyrinth</title>
     <url>http://www.imdb.com/title/tt0457430/</url>
     <rating>5.0</rating>
+    <image>Pan's Labyrinth.jpg</image>
   </movie>
+  <!-- image missing -->
   <movie>
     <date>2015.02.15</date>
     <theater>Galeries, Lausanne</theater>
