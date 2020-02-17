@@ -2,10 +2,16 @@
 <podcasts>
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date></date>
+    <name url="https://peterattiamd.com/podcast/">The Peter Attia Drive Podcast</name>
+    <episode url="https://peterattiamd.com/ama03/" number="26">AMA #3: supplements, women’s health, patient care, and more</episode>
+    <comments></comments>
+  </podcast>
+  <podcast>
     <date>2020.02.17</date>
     <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
     <episode url="https://samharris.org/podcasts/185-february-7-2020/" number="185">February 7, 2020 - A Conversation with Paul Bloom</episode>
-    <comments>As Sam recognizes, criticizing Trump is boring.</comments>
+    <comments>A slightly less interesting epiode than the last one with Paul Bloom, but still very enjoyable. As Sam recognizes, criticizing Trump is boring. But it's somewhat entertaining to hear him do it anyway. The part about wealth inequality was pretty good.</comments>
   </podcast>
   <podcast>
     <date>2020.02.16</date>
