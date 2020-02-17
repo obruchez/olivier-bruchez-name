@@ -3,13 +3,25 @@
     <introduction>A list of books I read.</introduction>
     <book>
         <date></date>
-        <title>Madame Bovary</title>
-        <author>Gustave Flaubert</author>
-        <publishingyear>1857</publishingyear>
+        <title>The Great Gatsby</title>
+        <author>F. Scott Fitzgerald</author>
+        <publishingyear>1925</publishingyear>
         <rating></rating>
-        <url>https://fr.wikipedia.org/wiki/Madame_Bovary</url>
+        <url>https://en.wikipedia.org/wiki/The_Great_Gatsby</url>
         <notes description="Kindle highlights"></notes>
         <comments></comments>
+        <image>The Great Gatsby.jpg</image>
+    </book>
+    <book>
+        <date>2020.02.17</date>
+        <title>Madame Bovary</title>
+        <subtitle>Mœurs de province</subtitle>
+        <author>Gustave Flaubert</author>
+        <publishingyear>1857</publishingyear>
+        <rating>5.0</rating>
+        <url>https://fr.wikipedia.org/wiki/Madame_Bovary</url>
+        <notes description="Kindle highlights"></notes>
+        <comments>Un vrai classique, au sens où je me l'imagine. Comme <i>Candide</i>, je ne me souviens pas avoir étudié ce livre durant mes études. Je suis content de l'avoir lu avec le recul probablement nécessaire pour l'apprécier. Les longues descriptions typiques de Flaubert ne m'ont pas dérangé. Au contraire, j'ai trouvé son style plutôt impressionnant. Je ne m'étonne pas que l'écriture de cette œuvre ait nécessité plus de quatre ans de la vie de Flaubert.</comments>
         <image>Madame Bovary.jpg</image>
     </book>
     <book>
