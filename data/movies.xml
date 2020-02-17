@@ -3,13 +3,13 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Checklist: add rating to IMDb -->
   <movie>
-    <date></date>
+    <date>2020.02.17</date>
     <theater home="true"/>
     <director>Akira Kurosawa</director>
     <title>Rashomon</title>
     <url>https://www.imdb.com/title/tt0042876/</url>
-    <rating></rating>
-    <comments></comments>
+    <rating>4.75</rating>
+    <comments>A film about truth, honor, the nature of human psychology, morality, and probably a lot of other things I've missed.</comments>
     <image>Rashomon.jpg</image>
   </movie>
   <movie>
