@@ -1895,7 +1895,6 @@
     <rating>5.0</rating>
     <image>Pan's Labyrinth.jpg</image>
   </movie>
-  <!-- image missing -->
   <movie>
     <date>2015.02.15</date>
     <theater>Galeries, Lausanne</theater>
@@ -1904,6 +1903,7 @@
     <title language="en">Force Majeure</title>
     <url>http://www.imdb.com/title/tt3630276/</url>
     <rating>5.0</rating>
+    <image>Turist.jpg</image>
   </movie>
   <movie>
     <date>2015.02.08</date>
@@ -1912,7 +1912,9 @@
     <title>The Imitation Game</title>
     <url>http://www.imdb.com/title/tt2084970/</url>
     <rating>5.0</rating>
+    <image>The Imitation Game.jpg</image>
   </movie>
+  <!-- image missing -->
   <movie>
     <date>2015.01.25</date>
     <theater>Galeries, Lausanne</theater>
