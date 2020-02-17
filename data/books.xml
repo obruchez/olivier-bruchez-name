@@ -1409,6 +1409,7 @@
         <url>https://fr.wikipedia.org/wiki/L%27%C3%89cume_des_jours</url>
         <image>L'Écume des jours.jpg</image>
 	</book>
+    <!-- GR -->
 	<book>
 		<date>2006.08.20</date>
 		<title>The Singularity Is Near</title>
@@ -1446,7 +1447,6 @@
         <url>https://fr.wikipedia.org/wiki/L%27Ignorance</url>
         <image>L'Ignorance.jpg</image>
 	</book>
-    <!-- GR -->
 	<book>
 		<date>2005.05.22</date>
 		<title>The Last Miles</title>
