@@ -56,14 +56,15 @@
     <series url="https://en.wikipedia.org/wiki/List_of_Mr._Robot_episodes#Season_4_(2019)" type="season">4</series>
     <comments>Definitely one of my favorite shows ever. The show's finale was better than expected (I actually didn't know what to expect, but I feared a bad/lazy ending <i>à la</i> <i>Lost</i>).</comments>
     <image>Mr. Robot.jpg</image>
-  </show>
-  <!-- image missing -->
+  </show> 
   <show>
     <date>2019.12.12</date>
     <name url="https://en.wikipedia.org/wiki/Silicon_Valley_(TV_series)">Silicon Valley</name>
     <series url="https://en.wikipedia.org/wiki/Silicon_Valley_(TV_series)#Season_6" type="season">6</series>
     <comments>I didn't realize this was the final season before watching the final episode, which... I didn't know was the final episode! That was a weird experience. I suddenly became a bit melancholic, although the show should have been one or two seasons shorter.</comments>
+    <image>Silicon Valley.jpg</image>
   </show>
+  <!-- image missing -->
   <show>
     <date>2019.10.20</date>
     <name url="https://en.wikipedia.org/wiki/The_Twilight_Zone_(1959_TV_series)">The Twilight Zone</name>
@@ -176,6 +177,7 @@
     <name url="https://en.wikipedia.org/wiki/Silicon_Valley_(TV_series)">Silicon Valley</name>
     <series url="https://en.wikipedia.org/wiki/Silicon_Valley_(TV_series)#Season_5" type="season">5</series>
     <comments>Still one of my favorite shows. T.J. Miller's abrupt departure from the show was a surprise to me. Some of the jokes (with Dinesh, in particular) were a bit lame. So, let's hope than the sixth season is a bit better (and maybe even the last season of the show?).</comments>
+    <image>Silicon Valley.jpg</image>
   </show>
   <show>
     <date>2018.05.17</date>
@@ -347,6 +349,7 @@
     <name url="https://en.wikipedia.org/wiki/Silicon_Valley_(TV_series)">Silicon Valley</name>
     <series url="https://en.wikipedia.org/wiki/Silicon_Valley_(TV_series)#Season_4" type="season">4</series>
     <comments>A great show and a good season. Yes, it's not always very realistic (unlike <i>Mr. Robot</i>, where you can regularly see snippets of code being written on the screen), but this is a comedy, after all, so exaggerations are expected. Virtual reality, deep learning, decentralized protocols, etc. are common themes, though, so it's still a sophisticated show (unlike <i>The Big Bang Theory</i>...).</comments>
+    <image>Silicon Valley.jpg</image>
   </show>
   <show>
     <date>2017.06.02</date>
@@ -492,6 +495,7 @@
     <date>2016.07.02</date>
     <name url="https://en.wikipedia.org/wiki/Silicon_Valley_(TV_series)">Silicon Valley</name>
     <series url="https://en.wikipedia.org/wiki/Silicon_Valley_(TV_series)#Season_3" type="season">3</series>
+    <image>Silicon Valley.jpg</image>
   </show>
   <show>
     <date>2016.06.27</date>
@@ -604,6 +608,7 @@
     <date>2015.06.26</date>
     <name url="https://en.wikipedia.org/wiki/Silicon_Valley_(TV_series)">Silicon Valley</name>
     <series url="https://en.wikipedia.org/wiki/Silicon_Valley_(TV_series)#Season_2" type="season">2</series>
+    <image>Silicon Valley.jpg</image>
   </show>
   <show>
     <date>2015.06.21</date>
@@ -665,6 +670,7 @@
     <date>2014.08.28</date>
     <name url="https://en.wikipedia.org/wiki/Silicon_Valley_(TV_series)">Silicon Valley</name>
     <series url="https://en.wikipedia.org/wiki/Silicon_Valley_(TV_series)#Season_1" type="season">1</series>
+    <image>Silicon Valley.jpg</image>
   </show>
   <show>
     <date>2014.08.18</date>
