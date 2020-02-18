@@ -1914,7 +1914,6 @@
     <rating>5.0</rating>
     <image>The Imitation Game.jpg</image>
   </movie>
-  <!-- image missing -->
   <movie>
     <date>2015.01.25</date>
     <theater>Galeries, Lausanne</theater>
@@ -1922,6 +1921,7 @@
     <title>Wild</title>
     <url>http://www.imdb.com/title/tt2305051/</url>
     <rating>4.75</rating>
+    <image>Wild.jpg</image>
   </movie>
   <movie>
     <date>2015.01.24</date>
@@ -1930,7 +1930,9 @@
     <title>The Theory of Everything</title>
     <url>http://www.imdb.com/title/tt2980516/</url>
     <rating>4.75</rating>
+    <image>The Theory of Everything.jpg</image>
   </movie>
+  <!-- image missing -->
   <movie>
     <date>2015.01.17</date>
     <theater>Casino, Martigny</theater>
