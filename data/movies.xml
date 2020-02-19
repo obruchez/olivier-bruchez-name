@@ -1932,7 +1932,6 @@
     <rating>4.75</rating>
     <image>The Theory of Everything.jpg</image>
   </movie>
-  <!-- image missing -->
   <movie>
     <date>2015.01.17</date>
     <theater>Casino, Martigny</theater>
@@ -1940,6 +1939,7 @@
     <title>Whiplash</title>
     <url>http://www.imdb.com/title/tt2582802/</url>
     <rating>5.25</rating>
+    <image>Whiplash.jpg</image>
   </movie>
   <movie>
     <date>2014.12.28</date>
@@ -1948,7 +1948,9 @@
     <title>Back to the Future Part III</title>
     <url>http://www.imdb.com/title/tt0099088/</url>
     <rating>4.5</rating>
+    <image>Back to the Future Part III.jpg</image>
   </movie>
+  <!-- image missing -->
   <movie>
     <date>2014.12.27</date>
     <theater home="true"/>
