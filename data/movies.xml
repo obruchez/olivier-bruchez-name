@@ -1950,7 +1950,6 @@
     <rating>4.5</rating>
     <image>Back to the Future Part III.jpg</image>
   </movie>
-  <!-- image missing -->
   <movie>
     <date>2014.12.27</date>
     <theater home="true"/>
@@ -1958,6 +1957,7 @@
     <title>Back to the Future Part II</title>
     <url>http://www.imdb.com/title/tt0096874/</url>
     <rating>4.25</rating>
+    <image>Back to the Future Part II.jpg</image>
   </movie>
   <movie>
     <date>2014.12.26</date>
@@ -1966,7 +1966,9 @@
     <title>Back to the Future</title>
     <url>http://www.imdb.com/title/tt0088763/</url>
     <rating>4.75</rating>
+    <image>Back to the Future.jpg</image>
   </movie>
+  <!-- image missing -->
   <movie>
     <date>2014.12.25</date>
     <theater home="true"/>
