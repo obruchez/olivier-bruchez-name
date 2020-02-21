@@ -3,6 +3,15 @@
 <exhibitions>
     <introduction>A list of exhibitions I visited.</introduction>
     <exhibition>
+        <date>2020.02.20</date>
+        <name>Mondes (im)parfaits</name>
+        <museum>Maison d'Ailleurs, Yverdon-les-Bains, Switzerland</museum>
+        <rating>5.0</rating>
+        <comments>Very nice exhibition around Les Cités obscures by François Schuiten and Benoît Peeter. It was the first time I visited the Maison d'Ailleurs, an impressive little museum (the library is gorgeous). Now I really need to (re)read all the Cités obscures series!</comments>
+        <image>Mondes (im)parfaits.jpg</image>
+        <!-- <pictures url=""/> -->
+    </exhibition>
+    <exhibition>
         <date>2019.11.09</date>
         <name>Rodin – Giacometti</name>
         <museum>Fondation Pierre Gianadda, Martigny, Switzerland</museum>
