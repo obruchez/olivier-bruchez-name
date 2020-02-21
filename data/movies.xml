@@ -1968,7 +1968,6 @@
     <rating>4.75</rating>
     <image>Back to the Future.jpg</image>
   </movie>
-  <!-- image missing -->
   <movie>
     <date>2014.12.25</date>
     <theater home="true"/>
@@ -1976,6 +1975,7 @@
     <title>Frozen</title>
     <url>http://www.imdb.com/title/tt2294629/</url>
     <rating>4.25</rating>
+    <image>Frozen.jpg</image>
   </movie>
   <movie>
     <date>2014.12.13</date>
@@ -1986,7 +1986,9 @@
     <version>fr</version>
     <url>http://www.imdb.com/title/tt1951265/</url>
     <rating>4.5</rating>
+    <image>The Hunger Games - Mockingjay - Part 1.jpg</image>
   </movie>
+   <!-- image missing -->
   <movie>
     <date>2014.11.29</date>
     <theater>Corso, Martigny</theater>
