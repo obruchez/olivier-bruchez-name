@@ -6,6 +6,7 @@
     <name url="https://peterattiamd.com/podcast/">The Peter Attia Drive Podcast</name>
     <episode url="https://peterattiamd.com/ama03/" number="26">AMA #3: supplements, women’s health, patient care, and more</episode>
     <comments></comments>
+    <!-- CGM, sounds cool but expensive, lithium 600 mg->10mg, not obviously beneficial -->
   </podcast>
   <podcast>
     <date>2020.02.17</date>
