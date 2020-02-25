@@ -64,7 +64,6 @@
     <comments>I didn't realize this was the final season before watching the final episode, which... I didn't know was the final episode! That was a weird experience. I suddenly became a bit melancholic, although the show should have been one or two seasons shorter.</comments>
     <image>Silicon Valley.jpg</image>
   </show>
-  <!-- image missing -->
   <show>
     <date>2019.10.20</date>
     <name url="https://en.wikipedia.org/wiki/The_Twilight_Zone_(1959_TV_series)">The Twilight Zone</name>
@@ -77,13 +76,16 @@
     <name url="https://en.wikipedia.org/wiki/Hamilton%27s_Pharmacopeia">Hamilton's Pharmacopeia</name>
     <series url="https://en.wikipedia.org/wiki/Hamilton%27s_Pharmacopeia#Season_2" type="season">2</series>
     <comments>A very good season. Some sad moments (e.g. "A Clandestine Chemist's Tale" or the death of Timothy Wyllie). The last episode ("The Cactus Apprentice") was weird.</comments>
+    <image>Hamilton's Pharmacopeia.jpg</image>
   </show>
   <show>
     <date>2019.09.04</date>
     <name url="https://en.wikipedia.org/wiki/Hamilton%27s_Pharmacopeia">Hamilton's Pharmacopeia</name>
     <series url="https://en.wikipedia.org/wiki/Hamilton%27s_Pharmacopeia#Season_1" type="season">1</series>
     <comments>I discovered this show via Tim Ferriss' podcast. It's fun and informative.</comments>
+    <image>Hamilton's Pharmacopeia.jpg</image>
   </show>
+  <!-- image missing -->
   <show>
     <date>2019.08.16</date>
     <name url="https://en.wikipedia.org/wiki/Bob's_Burgers">Bob's Burgers</name>
