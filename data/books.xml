@@ -1384,6 +1384,7 @@
         <url>https://en.wikipedia.org/wiki/Getting_Things_Done</url>
         <image>Getting Things Done.jpg</image>
 	</book>
+    <!-- GR -->
 	<book>
 		<date>2007.07.08</date>
 		<title>L'Élégance du hérisson</title>
@@ -1421,7 +1422,6 @@
         <url>https://fr.wikipedia.org/wiki/L%27%C3%89cume_des_jours</url>
         <image>L'Écume des jours.jpg</image>
 	</book>
-    <!-- GR -->
 	<book>
 		<date>2006.08.20</date>
 		<title>The Singularity Is Near</title>
