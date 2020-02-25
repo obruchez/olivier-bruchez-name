@@ -3,6 +3,26 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Checklist: add rating to IMDb -->
   <movie>
+    <date>2020.02.25</date>
+    <theater home="true"/>
+    <director>Clyde Bruckman &amp; Buster Keaton</director>
+    <title>The General</title>
+    <url>https://www.imdb.com/title/tt0017925/</url>
+    <rating>4.75</rating>
+    <comments>Most of the scenes on the train are spectacular and/or strangely hypnotic.</comments>
+    <image>The General.jpg</image>
+  </movie>
+  <movie>
+    <date>2020.02.22</date>
+    <theater home="true"/>
+    <director>Marielle Heller</director>
+    <title>A Beautiful Day in the Neighborhood</title>
+    <url>https://www.imdb.com/title/tt3224458/</url>
+    <rating>4.5</rating>
+    <comments>A feel good movie. I didn't know who Fred Rogers was before seeing it.</comments>
+    <image>A Beautiful Day in the Neighborhood.jpg</image>
+  </movie>
+  <movie>
     <date>2020.02.17</date>
     <theater home="true"/>
     <director>Akira Kurosawa</director>
