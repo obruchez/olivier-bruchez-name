@@ -2044,7 +2044,6 @@
     <rating>4.25</rating>
     <image>Coherence.jpg</image>
   </movie>
-  <!-- image missing -->
   <movie>
     <date>2014.09.20</date>
     <theater>Galeries, Lausanne</theater>
@@ -2052,6 +2051,7 @@
     <title>Pride</title>
     <url>http://www.imdb.com/title/tt3169706/</url>
     <rating>5.0</rating>
+    <image>Pride.jpg</image>
   </movie>
   <movie>
     <date>2014.09.20</date>
@@ -2060,7 +2060,9 @@
     <title>Wind</title>
     <url>http://www.robertloebel.com/WIND</url>
     <rating>4.5</rating>
+    <image>Wind.jpg</image>
   </movie>
+  <!-- image missing -->
   <movie>
     <date>2014.09.02</date>
     <theater>Galeries, Lausanne</theater>
