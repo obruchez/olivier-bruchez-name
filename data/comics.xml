@@ -2,6 +2,26 @@
 <comics>
   <introduction>A list of comics I read.</introduction>
   <comic>
+    <date></date>
+    <writer>Roger Leloup</writer>
+    <artist>Roger Leloup</artist>
+    <colorist>Studio Leonardo</colorist>
+    <series url="https://fr.wikipedia.org/wiki/Yoko_Tsuno">Yoko Tsuno</series>
+    <volume url="https://fr.wikipedia.org/wiki/Les_Exil%C3%A9s_de_Kifa" number="18">Les Exilés de Kifa</volume>
+    <comments></comments>
+    <image>Yoko Tsuno - Les Exilés de Kifa.jpg</image>
+  </comic>
+  <comic>
+    <date>2020.02.26</date>
+    <writer>Roger Leloup</writer>
+    <artist>Roger Leloup</artist>
+    <colorist>Studio Leonardo</colorist>
+    <series url="https://fr.wikipedia.org/wiki/Yoko_Tsuno">Yoko Tsuno</series>
+    <volume url="https://fr.wikipedia.org/wiki/Le_Matin_du_monde" number="17">Le Matin du monde</volume>
+    <comments>Voyage dans le temps, dinosaures et Yoko tuant un animal (en s'excusant auprès de Bouddha).</comments>
+    <image>Yoko Tsuno - Le Matin du monde.jpg</image>
+  </comic>
+  <comic>
     <date>2020.02.19</date>
     <writer>Luiz Eduardo de Oliveira</writer>
     <artist>Luiz Eduardo de Oliveira</artist>
