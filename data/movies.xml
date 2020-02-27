@@ -2062,7 +2062,6 @@
     <rating>4.5</rating>
     <image>Wind.jpg</image>
   </movie>
-  <!-- image missing -->
   <movie>
     <date>2014.09.02</date>
     <theater>Galeries, Lausanne</theater>
@@ -2070,6 +2069,7 @@
     <title>Boyhood</title>
     <url>http://www.imdb.com/title/tt1065073/</url>
     <rating>5.5</rating>
+    <image>Boyhood.jpg</image>
   </movie>
   <movie>
     <date>2014.08.27</date>
@@ -2079,7 +2079,9 @@
     <url>http://www.imdb.com/title/tt0012349/</url>
     <rating>5.0</rating>
     <comments>Live music by the Orchestre des Jardins Musicaux.</comments>
+    <image>The Kid.jpg</image>
   </movie>
+  <!-- image missing -->
   <movie>
     <date>2014.08.27</date>
     <theater>Le Capitole, Lausanne</theater>
