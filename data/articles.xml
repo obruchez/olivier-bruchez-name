@@ -3,6 +3,11 @@
   <introduction>A list of articles I read.</introduction>
   <article>
     <date>2020.02.28</date>
+    <title url="https://medium.com/@tombarys/dreaming-about-better-sleep-dreem-oura-and-the-rest-fb29c99f0aad">Dreaming about Better Sleep: Dreem, Oura and the Rest</title>
+    <comments>The tl;dr is that Dreem 2 is the best sleep tracker available (thanks to EEG sensors). Oura is pretty bad at detecting sleep phases (or even whether you're sleeping or not), but it's a very nice piece of technology. Peter Attia is (was?) raving about it, so it's a bit disappointing.</comments>
+  </article>
+  <article>
+    <date>2020.02.28</date>
     <title url="https://mattstoller.substack.com/p/will-spotify-ruin-podcasting">Will Spotify Ruin Podcasting?</title>
     <comments>"It was very much like the open web of the mid-2000s. [...] Both Facebook and Google acquired power a series of anti-competitive mergers, like Google’s purchase of YouTube and DoubleClick, Facebook’s purchase of Instagram and WhatsApp. [...] The result of these public policy decisions was Google and Facebook, the death of the open web, and increasingly, independent publishing on the internet. [...] Spotify is directly mimicking Google and Facebook, and attempting to roll up power over digital audio markets the way Google and Facebook did over the internet. [...] Spotify is doing what Google and Facebook did. First, it is privatizing the distribution standard for podcasts by converting more people to streaming their podcasts through Spotify services instead of the open RSS standard. That means it is becoming a gatekeeper to consumers. Second, it is vertically integrating into advertising, and developing the technology to grab data that podcasts generate through their trusted relationship with listeners. It then uses that for targeting."</comments>
   </article>
