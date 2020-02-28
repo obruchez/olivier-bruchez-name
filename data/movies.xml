@@ -2081,7 +2081,6 @@
     <comments>Live music by the Orchestre des Jardins Musicaux.</comments>
     <image>The Kid.jpg</image>
   </movie>
-  <!-- image missing -->
   <movie>
     <date>2014.08.27</date>
     <theater>Le Capitole, Lausanne</theater>
@@ -2089,15 +2088,18 @@
     <title>Kid Auto Races at Venice</title>
     <url>http://www.imdb.com/title/tt0004189/</url>
     <rating>3.0</rating>
+    <image>Kid Auto Races at Venice.jpg</image>
   </movie>
   <movie>
     <date>2014.08.22</date>
     <theater home="true"/>
     <director>Terry Gilliam</director>
     <title>The Fisher King</title>
-    <url>http://www.imdb.com/title/tt0101889</url>
+    <url>http://www.imdb.com/title/tt0101889/</url>
     <rating>5.0</rating>
+    <image>The Fisher King.jpg</image>
   </movie>
+  <!-- image missing -->
   <movie>
     <date>2014.08.15</date>
     <theater>Galeries, Lausanne</theater>
