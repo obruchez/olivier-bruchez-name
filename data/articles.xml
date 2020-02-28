@@ -2,6 +2,11 @@
 <articles>
   <introduction>A list of articles I read.</introduction>
   <article>
+    <date>2020.02.28</date>
+    <title url="https://mattstoller.substack.com/p/will-spotify-ruin-podcasting">Will Spotify Ruin Podcasting?</title>
+    <comments>"It was very much like the open web of the mid-2000s. [...] Both Facebook and Google acquired power a series of anti-competitive mergers, like Google’s purchase of YouTube and DoubleClick, Facebook’s purchase of Instagram and WhatsApp. [...] The result of these public policy decisions was Google and Facebook, the death of the open web, and increasingly, independent publishing on the internet. [...] Spotify is directly mimicking Google and Facebook, and attempting to roll up power over digital audio markets the way Google and Facebook did over the internet. [...] Spotify is doing what Google and Facebook did. First, it is privatizing the distribution standard for podcasts by converting more people to streaming their podcasts through Spotify services instead of the open RSS standard. That means it is becoming a gatekeeper to consumers. Second, it is vertically integrating into advertising, and developing the technology to grab data that podcasts generate through their trusted relationship with listeners. It then uses that for targeting."</comments>
+  </article>
+  <article>
     <date>2020.02.21</date>
     <title url="https://www.bbc.com/worklife/article/20200130-the-life-hack-to-reduce-admin-and-carve-out-downtime">How to reduce 'attention residue' in your life</title>
     <subtitle>Mundane chores take up our time and headspace. Bundling life admin into specific time slots - known as GYLIO - might be the ultimate act of self-care.</subtitle>
