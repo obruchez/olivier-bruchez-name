@@ -2,14 +2,14 @@
 <books>
     <introduction>A list of books I read.</introduction>
     <book>
-        <date></date>
+        <date>2020.02.29</date>
         <title>The Great Gatsby</title>
         <author>F. Scott Fitzgerald</author>
         <publishingyear>1925</publishingyear>
-        <rating></rating>
+        <rating>4.0</rating>
         <url>https://en.wikipedia.org/wiki/The_Great_Gatsby</url>
         <notes description="Kindle highlights"></notes>
-        <comments></comments>
+        <comments>I saw the 2013 movie and really liked it. The book is a classic, but it didn't manage to impress me as much.</comments>
         <image>The Great Gatsby.jpg</image>
     </book>
     <book>
