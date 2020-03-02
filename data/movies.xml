@@ -6355,6 +6355,14 @@
     <image>American Beauty.jpg</image>
   </movie>
   <movie>
+    <date>2000.03.02</date>
+    <theater home="true"/>
+    <director>David Cronenberg</director>
+    <title>The Dead Zone</title>
+    <url>https://www.imdb.com/title/tt0085407/</url>
+    <image>The Dead Zone.jpg</image>
+  </movie>
+  <movie>
     <date>2000.02.09</date>
     <director>Tim Burton</director>
     <title>Sleepy Hollow</title>
