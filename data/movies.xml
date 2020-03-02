@@ -2099,7 +2099,6 @@
     <rating>5.0</rating>
     <image>The Fisher King.jpg</image>
   </movie>
-  <!-- image missing -->
   <movie>
     <date>2014.08.15</date>
     <theater>Galeries, Lausanne</theater>
@@ -2108,6 +2107,7 @@
     <title language="en">Winter Sleep</title>
     <url>http://www.imdb.com/title/tt2758880/</url>
     <rating>5.0</rating>
+    <image>Winter Sleep.jpg</image>
   </movie>
   <movie>
     <date>2014.08.12</date>
@@ -2116,7 +2116,9 @@
     <title>Good Will Hunting</title>
     <url>http://www.imdb.com/title/tt0119217</url>
     <rating>5.0</rating>
+    <image>Good Will Hunting.jpg</image>
   </movie>
+  <!-- image missing -->
   <movie>
     <date>2014.06.21</date>
     <theater home="true"/>
