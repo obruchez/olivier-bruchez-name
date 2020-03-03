@@ -2118,14 +2118,14 @@
     <rating>5.0</rating>
     <image>Good Will Hunting.jpg</image>
   </movie>
-  <!-- image missing -->
   <movie>
     <date>2014.06.21</date>
     <theater home="true"/>
     <director>Christopher Nolan</director>
     <title>Memento</title>
-    <url>http://www.imdb.com/title/tt0209144</url>
+    <url>http://www.imdb.com/title/tt0209144/</url>
     <rating>5.25</rating>
+    <image>Memento.jpg</image>
   </movie>
   <movie>
     <date>2014.06.08</date>
@@ -2135,7 +2135,9 @@
     <title language="en">The Amazing Catfish</title>
     <url>http://www.imdb.com/title/tt2414046/</url>
     <rating>5.0</rating>
+    <image>The Amazing Catfish.jpg</image>
   </movie>
+  <!-- image missing -->
   <movie>
     <date>2014.06.01</date>
     <theater>Galeries, Lausanne</theater>
