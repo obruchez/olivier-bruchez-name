@@ -34,7 +34,7 @@
   </movie>
   <movie>
     <date>2020.02.08</date>
-    <theater home="true"/>
+    <theater>Pathé Flon, Lausanne</theater>
     <director>Sam Mendes</director>
     <title>1917</title>
     <url>https://www.imdb.com/title/tt8579674/</url>
