@@ -2137,7 +2137,6 @@
     <rating>5.0</rating>
     <image>The Amazing Catfish.jpg</image>
   </movie>
-  <!-- image missing -->
   <movie>
     <date>2014.06.01</date>
     <theater>Galeries, Lausanne</theater>
@@ -2146,6 +2145,7 @@
     <title language="en">The 100-Year-Old Man Who Climbed Out the Window and Disappeared</title>
     <url>http://www.imdb.com/title/tt2113681/</url>
     <rating>5.0</rating>
+    <image>The Hundred Year-Old Man Who Climbed Out of the Window and Disappeared.jpg</image>
   </movie>
   <movie>
     <date>2014.05.25</date>
@@ -2154,7 +2154,9 @@
     <title>Life of Brian</title>
     <url>http://www.imdb.com/title/tt0079470/</url>
     <rating>5.25</rating>
+    <image>Monty Python's Life of Brian.jpg</image>
   </movie>
+  <!-- image missing -->
   <movie>
     <date>2014.05.24</date>
     <theater>Galeries, Lausanne</theater>
