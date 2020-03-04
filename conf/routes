@@ -1,55 +1,13 @@
 # Routes
 # This file defines all application routes (Higher priority routes first)
+# https://www.playframework.com/documentation/latest/ScalaRouting
 # ~~~~
 
-GET        /                                 controllers.Application.home
+# An example controller showing a sample home page
+GET     /                                   controllers.HomeController.index
+GET     /explore                            controllers.HomeController.explore
+GET     /tutorial                           controllers.HomeController.tutorial
 
-GET        /about                            controllers.Application.about
-
-GET        /profile                          controllers.Application.profile
-GET        /lifeprinciples                   controllers.Application.lifePrinciples
-GET        /worldview                        controllers.Application.worldview
-
-GET        /lifelogging                      controllers.Application.lifelogging
-
-GET        /articles                         controllers.Application.articles
-GET        /books                            controllers.Application.books
-GET        /comics                           controllers.Application.comics
-GET        /books/:slug/notes                controllers.BookNotesController.bookNotes(slug: String)
-GET        /concerts                         controllers.Application.concerts
-GET        /courses                          controllers.Application.courses
-GET        /courses/:slug/certificate        controllers.CourseCertificatesController.courseCertificate(slug: String)
-GET        /crashes                          controllers.Application.crashes
-GET        /exhibitions                      controllers.Application.exhibitions
-GET        /hikes                            controllers.Application.hikes
-GET        /movies                           controllers.Application.movies
-GET        /plays                            controllers.Application.plays
-GET        /podcasts                         controllers.Application.podcasts
-GET        /shows                            controllers.Application.shows
-GET        /trips                            controllers.Application.trips
-GET        /votes                            controllers.Application.votes
-
-GET        /bookstoread                      controllers.Application.booksToRead
-GET        /moviestowatch                    controllers.Application.moviesToWatch
-GET        /tripstotake                      controllers.Application.tripsToTake
-
-GET        /statistics                       controllers.Application.statistics
-
-GET        /seenontv                         controllers.Application.seenOnTv
-
-GET        /cv                               controllers.Application.cv
-
-GET        /cv/pdf                           controllers.Application.pdfCv
-GET        /cv/word                          controllers.Application.wordCv
-
-GET        /blog                             controllers.Application.blogPosts
-GET        /blog/*relativePermalink          controllers.BlogPostsController.blogPost(relativePermalink)
-
-GET        /contacts                         controllers.Application.contacts
-
-GET        /reload                           controllers.Application.reload
-
-GET        /blogpostcomparison               controllers.Application.blogPostComparison
 
 # Map static resources from the /public folder to the /assets URL path
-GET        /assets/*file                     controllers.Assets.at(path="/public", file)
+GET     /assets/*file               controllers.Assets.versioned(path="/public", file: Asset)

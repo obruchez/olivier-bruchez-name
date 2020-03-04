@@ -1,5 +1,0 @@
-@(pictures: Seq[Pictures], place: String)
-
-@pictures.map { pictures =>
-  <a href="@pictures.url.toString">@pictures.title.getOrElse(place)</a><br/>
-}
