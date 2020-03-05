@@ -2156,7 +2156,6 @@
     <rating>5.25</rating>
     <image>Monty Python's Life of Brian.jpg</image>
   </movie>
-  <!-- image missing -->
   <movie>
     <date>2014.05.24</date>
     <theater>Galeries, Lausanne</theater>
@@ -2164,6 +2163,7 @@
     <title>Deux jours, une nuit</title>
     <url>http://www.imdb.com/title/tt2737050/</url>
     <rating>4.5</rating>
+    <image>Deux jours, une nuit.jpg</image>
   </movie>
   <movie>
     <date>2014.05.18</date>
@@ -2172,7 +2172,9 @@
     <title>The Princess Bride</title>
     <url>http://www.imdb.com/title/tt0093779/</url>
     <rating>3.5</rating>
+    <image>The Princess Bride.jpg</image>
   </movie>
+  <!-- image missing -->
   <movie>
     <date>2014.04.14</date>
     <theater home="true"/>
