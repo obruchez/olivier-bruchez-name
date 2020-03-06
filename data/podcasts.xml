@@ -3,9 +3,21 @@
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
     <date></date>
+    <name url="http://verybadwizards.com/">Very Bad Wizards</name>
+    <episode url="https://verybadwizards.fireside.fm/180" number="180">Chekhov's Schrödinger's Dagger (Kurosawa's "Rashomon")</episode>
+    <comments></comments>
+  </podcast>
+  <podcast>
+    <date>2020.03.06</date>
+    <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
+    <episode url="https://samharris.org/podcasts/188-february-28-2020/" number="188">February 28, 2020 - A Conversation with Paul Bloom</episode>
+    <comments>"Sam Harris and Paul Bloom speak about the virtues of President Trump, the campaign prospects of Bloomberg and Sanders, the asymmetrical norms of the Democratic and Republican parties, the marginal role that parents play in the development of their children, wealth inequality and the breakdown of the nuclear family, whether Paul should take LSD, the deplatforming of Peter Singer, and other topics." About parenting: I like this idea that, as long as we love our children and don't do anything particularly stupid/abusive, they will turn out fine; and that if they don't, it probably won't be "our fault".</comments>
+  </podcast>
+  <podcast>
+    <date>2020.03.05</date>
     <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
     <episode url="https://samharris.org/subscriber-extras/187-february-20-2020/" number="187">February 20, 2020 - A Conversation with Paul Bloom</episode>
-    <comments></comments>
+    <comments>"Sam Harris and Paul Bloom speak about the epidemic of child sexual abuse, the ethics of loyalty, eugenics, existential risk, the Bloomberg and Sanders campaigns, and other topics."</comments>
   </podcast>
   <podcast>
     <date>2020.03.02</date>
