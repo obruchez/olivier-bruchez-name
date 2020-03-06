@@ -1346,6 +1346,7 @@
         <url>https://books.google.com/books/about/365_jours_pour_r%C3%A9fl%C3%A9chir_%C3%A0_notre_Terr.html?id=5P7GAwAACAAJ</url>
         <image>365 jours pour réfléchir à notre Terre.jpg</image>
 	</book>
+    <!-- GR -->
 	<book>
 		<date>2008.08.17</date>
 		<title>Thinking In Java</title>
@@ -1384,7 +1385,6 @@
         <url>https://en.wikipedia.org/wiki/Getting_Things_Done</url>
         <image>Getting Things Done.jpg</image>
 	</book>
-    <!-- GR -->
 	<book>
 		<date>2007.07.08</date>
 		<title>L'Élégance du hérisson</title>
