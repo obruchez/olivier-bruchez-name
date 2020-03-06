@@ -2174,7 +2174,6 @@
     <rating>3.5</rating>
     <image>The Princess Bride.jpg</image>
   </movie>
-  <!-- image missing -->
   <movie>
     <date>2014.04.14</date>
     <theater home="true"/>
@@ -2182,6 +2181,7 @@
     <title>Raising Arizona</title>
     <url>http://www.imdb.com/title/tt0093822/</url>
     <rating>4.5</rating>
+    <image>Raising Arizona.jpg</image>
   </movie>
   <movie>
     <date>2014.04.12</date>
@@ -2190,7 +2190,9 @@
     <title>The Royal Tenenbaums</title>
     <url>http://www.imdb.com/title/tt0265666/</url>
     <rating>4.75</rating>
+    <image>The Royal Tenenbaums.jpg</image>
   </movie>
+  <!-- image missing -->
   <movie>
     <date>2014.04.11</date>
     <theater home="true"/>
