@@ -3,6 +3,16 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Checklist: add rating to IMDb -->
   <movie>
+    <date>2020.03.07</date>
+    <theater home="true"/>
+    <director>Victor Fleming, George Cukor, Mervyn LeRoy, Norman Taurog. Richard Thorpe &amp; King Vidor</director>
+    <title>The Wizard of Oz</title>
+    <url>https://www.imdb.com/title/tt0032138/</url>
+    <rating>4.0</rating>
+    <comments>This movie was an inspiration for Keith Jarrett ("Over the Rainbow") and Prince ("It's Gonna Be A Beautiful Night"), two of my musical idols. It's certainly a classic, but it's kind of hard to watch as an adult...</comments>
+    <image>The Wizard of Oz.jpg</image>
+  </movie>
+  <movie>
     <date>2020.02.25</date>
     <theater home="true"/>
     <director>Clyde Bruckman &amp; Buster Keaton</director>
@@ -1667,7 +1677,7 @@
     <title>Battleship Potemkin</title>
     <url>http://www.imdb.com/title/tt0015648/</url>
     <rating>5.0</rating>
-    <comments>Live music by the Orchestre d’harmonie de l'Etat de Genève.</comments>
+    <comments>Live music by the Orchestre d'harmonie de l'Etat de Genève.</comments>
     <image>Battleship Potemkin.jpg</image>
   </movie>
   <movie>
@@ -6773,6 +6783,16 @@
     <date>1997.03.21</date>
     <title>La Guerre Des Etoiles</title>
     <version>fr</version>
+  </movie>
+  <movie>
+    <date>1997.02.01</date>
+    <theater home="true"/>
+    <director>Victor Fleming, George Cukor, Mervyn LeRoy, Norman Taurog. Richard Thorpe &amp; King Vidor</director>
+    <title>The Wizard of Oz</title>
+    <title language="fr">Le magicien d'Oz</title>
+    <url>https://www.imdb.com/title/tt0032138/</url>
+    <comments>"[U]n film qui n'a rien d'un chef-d'œuvre, mais dont j'avais déjà souvent entendu parlé. C'est en effet de ce film que Prince a tiré le fameux chant que l'on retrouve, principalement, dans le morceau "It's Gonna Be A Beautiful Night". Je dois avouer que c'est la seule motivation qui m'a poussé à suivre ce film en entier."</comments>
+    <image>The Wizard of Oz.jpg</image>
   </movie>
   <movie>
     <date>1994.??.??</date>
