@@ -1,6 +1,4 @@
-<!-- https://www.playframework.com/documentation/latest/SettingsLogger -->
 <configuration>
-
   <conversionRule conversionWord="coloredLevel" converterClass="play.api.libs.logback.ColoredLevel" />
 
   <appender name="FILE" class="ch.qos.logback.core.FileAppender">
@@ -37,5 +35,4 @@
     <!--<appender-ref ref="ASYNCFILE" />-->
     <appender-ref ref="ASYNCSTDOUT" />
   </root>
-
 </configuration>
