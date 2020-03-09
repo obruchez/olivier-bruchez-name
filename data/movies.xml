@@ -2202,7 +2202,6 @@
     <rating>4.75</rating>
     <image>The Royal Tenenbaums.jpg</image>
   </movie>
-  <!-- image missing -->
   <movie>
     <date>2014.04.11</date>
     <theater home="true"/>
@@ -2210,6 +2209,7 @@
     <title>The Life Aquatic with Steve Zissou</title>
     <url>http://www.imdb.com/title/tt0362270/</url>
     <rating>4.75</rating>
+    <image>The Life Aquatic with Steve Zissou.jpg</image>
   </movie>
   <movie>
     <date>2014.04.08</date>
@@ -2218,7 +2218,9 @@
     <title>Stand by Me</title>
     <url>http://www.imdb.com/title/tt0092005/</url>
     <rating>4.5</rating>
+    <image>Stand by Me.jpg</image>
   </movie>
+  <!-- image missing -->
   <movie>
     <date>2014.04.06</date>
     <theater home="true"/>
