@@ -1332,6 +1332,7 @@
         <url>https://fr.wikipedia.org/wiki/Asiles_de_fous</url>
         <image></image>
 	</book>
+    <!-- GR -->
 	<book>
 		<date>2009.03.27</date>
 		<title>Ulysse from Bagdad</title>
@@ -1368,7 +1369,6 @@
         <url>https://books.google.com/books/about/365_jours_pour_r%C3%A9fl%C3%A9chir_%C3%A0_notre_Terr.html?id=5P7GAwAACAAJ</url>
         <image>365 jours pour réfléchir à notre Terre.jpg</image>
 	</book>
-    <!-- GR -->
 	<book>
 		<date>2008.08.17</date>
 		<title>Thinking In Java</title>
