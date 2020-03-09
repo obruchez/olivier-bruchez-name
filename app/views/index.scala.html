@@ -1,5 +1,135 @@
 @()
 
 @main("Index") {
-  <div>Hello, world!</div>
+  <nav aria-label="breadcrumb">
+    <ol class="breadcrumb">
+      <li class="breadcrumb-item"><a href="#">Home</a></li>
+      <li class="breadcrumb-item"><a href="#">Library</a></li>
+      <li class="breadcrumb-item active" aria-current="page">Data</li>
+    </ol>
+  </nav>
+
+  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi ultrices finibus felis ut maximus. Maecenas lacinia consectetur neque, vel mattis felis dignissim a. Nunc erat odio, semper a tortor at, dictum ullamcorper ex. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce feugiat scelerisque facilisis. Suspendisse leo arcu, efficitur vel augue et, lacinia semper lacus. In sollicitudin laoreet nibh, a iaculis diam imperdiet a. Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+
+  <p>Quisque feugiat arcu vel viverra ultricies. Suspendisse potenti. Nulla ac augue magna. Nam rhoncus, sapien at euismod elementum, arcu ipsum pharetra odio, nec fringilla lorem purus a arcu. Ut id molestie nisl. Donec nec sem justo. Cras nibh est, fermentum eget magna ut, interdum vulputate eros. Nullam sed dolor tincidunt, tristique lectus eu, pellentesque orci. Suspendisse ac nisi id enim fermentum lobortis. Donec blandit libero ac enim egestas, quis finibus justo tristique. Morbi sed suscipit ante, non suscipit quam. Nam ac dui et nisl scelerisque pulvinar quis ac nunc. Nulla vel lacinia velit. Morbi ultricies magna at quam rutrum, eu tincidunt massa aliquet.</p>
+
+  <p>Integer tempus lorem eu viverra finibus. Donec commodo arcu in leo finibus varius. Mauris id odio sed neque tincidunt blandit et eget lectus. Nulla ac ex suscipit, ultrices ante dictum, suscipit velit. Nullam id enim quis arcu vestibulum luctus. Curabitur malesuada risus vitae nulla hendrerit varius. Vestibulum tincidunt nisl est, et placerat neque cursus ut. In posuere sem suscipit, ultricies mi sed, tincidunt lectus. Nunc eget enim risus. Integer ac libero sit amet arcu finibus malesuada vitae vel est. Duis et pulvinar odio. Ut dapibus vulputate justo in semper. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Morbi convallis est arcu, ut maximus dolor sollicitudin sed.</p>
+
+  <p>Nullam eleifend, felis nec fermentum varius, sem diam tempor urna, in efficitur orci justo nec est. Maecenas tristique lacus nunc, ut posuere urna rutrum congue. Etiam leo augue, posuere lacinia consectetur id, porttitor a ex. Suspendisse rhoncus at tellus auctor aliquet. Nullam tempus turpis quis scelerisque varius. Morbi molestie eros sed magna convallis facilisis. Maecenas sed auctor nunc. Nam viverra nisl vel orci hendrerit, vel sodales nisi elementum. Aenean at orci gravida, accumsan arcu a, dapibus odio. Aliquam vitae nunc augue. Nulla malesuada vel massa quis auctor. Fusce sed eleifend enim. Curabitur nulla felis, rutrum nec diam finibus, auctor laoreet nisl.</p>
+
+  <p>Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. In pulvinar, felis eu pellentesque elementum, enim orci pharetra tellus, ac lobortis orci lacus at ipsum. Ut nec ultrices enim, vel tristique enim. Maecenas id rutrum dui, et fringilla neque. Nullam dapibus pulvinar justo quis convallis. Maecenas justo risus, tristique vitae semper sit amet, tincidunt eget leo. Duis facilisis, libero nec varius laoreet, ante eros sollicitudin quam, ac imperdiet odio elit sed lacus. Mauris accumsan ipsum sit amet dolor luctus, sodales porta diam tristique.</p>
+
+  <div class="alert alert-primary" role="alert">
+    A simple primary alert—check it out!
+  </div>
+  <div class="alert alert-secondary" role="alert">
+    A simple secondary alert—check it out!
+  </div>
+  <div class="alert alert-success" role="alert">
+    A simple success alert—check it out!
+  </div>
+  <div class="alert alert-danger" role="alert">
+    A simple danger alert—check it out!
+  </div>
+  <div class="alert alert-warning" role="alert">
+    A simple warning alert—check it out!
+  </div>
+  <div class="alert alert-info" role="alert">
+    A simple info alert—check it out!
+  </div>
+  <div class="alert alert-light" role="alert">
+    A simple light alert—check it out!
+  </div>
+  <div class="alert alert-dark" role="alert">
+    A simple dark alert—check it out!
+  </div>
+
+  <div class="alert alert-success" role="alert">
+    <h4 class="alert-heading">Well done!</h4>
+    <p>Aww yeah, you successfully read this important alert message. This example text is going to run a bit longer so that you can see how spacing within an alert works with this kind of content.</p>
+    <hr>
+    <p class="mb-0">Whenever you need to, be sure to use margin utilities to keep things nice and tidy.</p>
+  </div>
+
+  <h1>Example heading <span class="badge badge-secondary">New</span></h1>
+  <h2>Example heading <span class="badge badge-secondary">New</span></h2>
+  <h3>Example heading <span class="badge badge-secondary">New</span></h3>
+  <h4>Example heading <span class="badge badge-secondary">New</span></h4>
+  <h5>Example heading <span class="badge badge-secondary">New</span></h5>
+  <h6>Example heading <span class="badge badge-secondary">New</span></h6>
+
+  <button type="button" class="btn btn-primary">
+    Notifications <span class="badge badge-light">4</span>
+  </button>
+
+  <div>
+    <span class="badge badge-primary">Primary</span>
+    <span class="badge badge-secondary">Secondary</span>
+    <span class="badge badge-success">Success</span>
+    <span class="badge badge-danger">Danger</span>
+    <span class="badge badge-warning">Warning</span>
+    <span class="badge badge-info">Info</span>
+    <span class="badge badge-light">Light</span>
+    <span class="badge badge-dark">Dark</span>
+  </div>
+
+  <div>
+    <span class="badge badge-pill badge-primary">Primary</span>
+    <span class="badge badge-pill badge-secondary">Secondary</span>
+    <span class="badge badge-pill badge-success">Success</span>
+    <span class="badge badge-pill badge-danger">Danger</span>
+    <span class="badge badge-pill badge-warning">Warning</span>
+    <span class="badge badge-pill badge-info">Info</span>
+    <span class="badge badge-pill badge-light">Light</span>
+    <span class="badge badge-pill badge-dark">Dark</span>
+  </div>
+
+  <div>
+    <a href="#" class="badge badge-primary">Primary</a>
+    <a href="#" class="badge badge-secondary">Secondary</a>
+    <a href="#" class="badge badge-success">Success</a>
+    <a href="#" class="badge badge-danger">Danger</a>
+    <a href="#" class="badge badge-warning">Warning</a>
+    <a href="#" class="badge badge-info">Info</a>
+    <a href="#" class="badge badge-light">Light</a>
+    <a href="#" class="badge badge-dark">Dark</a>
+  </div>
+
+  <form>
+    <div class="form-group">
+      <label for="exampleInputEmail1">Email address</label>
+      <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
+      <small id="emailHelp" class="form-text text-muted">We'll never share your email with anyone else.</small>
+    </div>
+    <div class="form-group">
+      <label for="exampleInputPassword1">Password</label>
+      <input type="password" class="form-control" id="exampleInputPassword1">
+    </div>
+    <div class="form-group form-check">
+      <input type="checkbox" class="form-check-input" id="exampleCheck1">
+      <label class="form-check-label" for="exampleCheck1">Check me out</label>
+    </div>
+    <button type="submit" class="btn btn-primary">Submit</button>
+  </form>
+
+  <div class="card text-center">
+    <div class="card-header">
+      <ul class="nav nav-tabs card-header-tabs">
+        <li class="nav-item">
+          <a class="nav-link active" href="#">Active</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="#">Link</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link disabled" href="#" tabindex="-1" aria-disabled="true">Disabled</a>
+        </li>
+      </ul>
+    </div>
+    <div class="card-body">
+      <h5 class="card-title">Special title treatment</h5>
+      <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
+      <a href="#" class="btn btn-primary">Go somewhere</a>
+    </div>
+  </div>
 }
