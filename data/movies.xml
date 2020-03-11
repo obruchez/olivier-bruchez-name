@@ -2220,7 +2220,6 @@
     <rating>4.5</rating>
     <image>Stand by Me.jpg</image>
   </movie>
-  <!-- image missing -->
   <movie>
     <date>2014.04.06</date>
     <theater home="true"/>
@@ -2228,6 +2227,7 @@
     <title>Blackfish</title>
     <url>http://www.imdb.com/title/tt2545118/</url>
     <rating>4.75</rating>
+    <image>Blackfish.jpg</image>
   </movie>
   <movie>
     <date>2014.04.02</date>
@@ -2236,7 +2236,9 @@
     <title>Fantastic Mr. Fox</title>
     <url>http://www.imdb.com/title/tt0432283/</url>
     <rating>5.25</rating>
+    <image>Fantastic Mr. Fox.jpg</image>
   </movie>
+  <!-- image missing -->
   <movie>
     <date>2014.03.29</date>
     <theater home="true"/>
