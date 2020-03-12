@@ -2238,7 +2238,6 @@
     <rating>5.25</rating>
     <image>Fantastic Mr. Fox.jpg</image>
   </movie>
-  <!-- image missing -->
   <movie>
     <date>2014.03.29</date>
     <theater home="true"/>
@@ -2246,6 +2245,7 @@
     <title>The Hunger Games: Catching Fire</title>
     <url>http://www.imdb.com/title/tt1951264/</url>
     <rating>4.5</rating>
+    <image>The Hunger Games - Catching Fire.jpg</image>
   </movie>
   <movie>
     <date>2014.03.29</date>
@@ -2255,7 +2255,9 @@
     <title language="en">Grave of the Fireflies</title>
     <url>http://www.imdb.com/title/tt0095327/</url>
     <rating>5.25</rating>
+    <image>Grave of the Fireflies.jpg</image>
   </movie>
+  <!-- image missing -->
   <movie>
     <date>2014.03.28</date>
     <theater>Galeries, Lausanne</theater>
