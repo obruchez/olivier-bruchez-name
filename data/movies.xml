@@ -2257,7 +2257,6 @@
     <rating>5.25</rating>
     <image>Grave of the Fireflies.jpg</image>
   </movie>
-  <!-- image missing -->
   <movie>
     <date>2014.03.28</date>
     <theater>Galeries, Lausanne</theater>
@@ -2265,6 +2264,7 @@
     <title>Her</title>
     <url>http://www.imdb.com/title/tt1798709/</url>
     <rating>5.5</rating>
+    <image>Her.jpg</image>
   </movie>
   <movie>
     <date>2014.03.26</date>
@@ -2273,7 +2273,9 @@
     <title>Miller's Crossing</title>
     <url>http://www.imdb.com/title/tt0100150/</url>
     <rating>4.5</rating>
+    <image>Miller's Crossing.jpg</image>
   </movie>
+  <!-- image missing -->
   <movie>
     <date>2014.03.23</date>
     <theater home="true"/>
