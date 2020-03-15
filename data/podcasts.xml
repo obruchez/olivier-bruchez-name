@@ -4,8 +4,26 @@
   <podcast>
     <date></date>
     <name url="http://verybadwizards.com/">Very Bad Wizards</name>
-    <episode url="https://verybadwizards.fireside.fm/180" number="180">Chekhov's Schrödinger's Dagger (Kurosawa's "Rashomon")</episode>
+    <episode url="https://verybadwizards.fireside.fm/183" number="183">Accept the Mystery (with Paul Bloom)</episode>
     <comments></comments>
+  </podcast>
+  <podcast>
+    <date>2020.03.15</date>
+    <name url="https://www.rts.ch/play/radio/emission/tribu?id=6067786">Tribu</name>
+    <episode url="https://www.rts.ch/play/radio/tribu/audio/limpact-du-coronavirus-sur-le-lien-social?id=11118936">Lʹimpact du coronavirus sur le lien social</episode>
+    <comments>La pandémie met en évidence les liens sociaux et économiques entre les gens/pays. L'occasion, peut-être, de les remettre en question ? Par exemple, notre dépendance à la Chine pour les médicaments. Un autre point discuté : la dualité rejet/solidarité dans nos réactions à l'autre, perçu comme une menace ou comme une personne dans la nécessité.</comments>
+  </podcast>
+  <podcast>
+    <date>2020.03.12</date>
+    <name url="http://verybadwizards.com/">Very Bad Wizards</name>
+    <episode url="https://verybadwizards.fireside.fm/182" number="182">The Paper That Launched a Thousand Twitter Wars (With Yoel Inbar)</episode>
+    <comments>The discussion about what a (falsifiable) theory is supposed to be is interesting. David has a looser definition of what it can be (e.g. just a folk theory). I tend to agree with him. I also agree with Tamler that the field of psychology should probably be a bit more ambitious than that (i.e. fasifying loose claims than nobody seriously holds).</comments>
+  </podcast>
+  <podcast>
+    <date>2020.03.10</date>
+    <name url="http://verybadwizards.com/">Very Bad Wizards</name>
+    <episode url="https://verybadwizards.fireside.fm/180" number="180">Chekhov's Schrödinger's Dagger (Kurosawa's "Rashomon")</episode>
+    <comments>I watched <i>Rashomon</i> a few weeks before listening to this episode, not because the episode was released (in January), but simply because I'm currently watching movies from the <a href="http://www.phi-phenomenon.org/">Phi-Phenomenon</a> list. After watching <i>Rashomon</i>, I was pretty sure I had missed a few things and listening to Dave and Tamler made me realize that even more. "Who killed the samurai and with what? What role did his wife play in his death? Kurosawa gives us four perspectives, told in flashbacks within flashbacks. Who's telling the truth? Is anyone? Can we ever know what really happened? A simple story on the surface becomes a meditation on epistemological despair."</comments>
   </podcast>
   <podcast>
     <date>2020.03.06</date>
@@ -52,7 +70,7 @@
   <podcast>
     <date>2020.02.24</date>
     <name url="https://peterattiamd.com/podcast/">The Peter Attia Drive Podcast</name>
-    <episode url="https://peterattiamd.com/ama03/" number="26">AMA #3: supplements, women’s health, patient care, and more</episode>
+    <episode url="https://peterattiamd.com/ama03/" number="26">AMA #3: supplements, women's health, patient care, and more</episode>
     <comments>I like the idea of having a Continuous Glucose Monitor (CGM) on me. It's currently too expensive, unfortunately. Peter took 600 mg of lithium a day for months at some point (warning: very dangerous). It was somewhat beneficial. He's currently at 10 mg a day. There are no obvious benefits. Sleep is the most important thing after physical activity (although nutrition and stress management are important, too). Intermittent fasting is important as well. Peter is (was?) not convinced NR/NMN (NAD+ precursors) are useful at all. Jarrow Formulas and Pure Encapsulations are good supplement brands. A lot of listeners are frustrated by their doctor. They'd like to find a "Peter Attia clone". I'm in that situation as well.</comments>
   </podcast>
   <podcast>
@@ -70,7 +88,7 @@
   <podcast>
     <date>2020.02.14</date>
     <name url="https://peterattiamd.com/podcast/">The Peter Attia Drive Podcast</name>
-    <episode url="https://peterattiamd.com/richardisaacson/" number="18">Richard Isaacson, M.D.: Alzheimer’s prevention</episode>
+    <episode url="https://peterattiamd.com/richardisaacson/" number="18">Richard Isaacson, M.D.: Alzheimer's prevention</episode>
     <comments>Richard's general advice (he doesn't like general advice): 1) Inform yourself (e.g. <a href="https://www.alzu.org/">alzu.org</a>) / know yourself (i.e. your values, etc.) 2) Exercise (did I hear 150 minutes per week?) 3) Eat well (blueberries, omega 3 / DHA, curcumin are important) 4) Sleep well 5) Manage your stress (e.g. meditation). Theracurmin was mentioned as a good form of curcumin (highly bioavailable). MTHFR mutations: Richard and Peter seem to think it's useful to take "methylated versions" of the B vitamins to prevent high levels of homocysteine (I thought it was mainly a marketing thing...). <a href="https://podcastnotes.org/genius-life/richard-isaacson-alzheimers-disease-apoe4-genius-life-max-lugavere/">Notes for another podcast.</a></comments>
   </podcast>
   <podcast>
@@ -274,7 +292,7 @@
   <podcast>
     <date>2019.11.07</date>
     <name url="https://peterattiamd.com/podcast/">The Peter Attia Drive Podcast</name>
-    <episode url="https://peterattiamd.com/ama02/" number="11">AMA #2: the Nothingburger — results from Peter’s week-long fast between two weeks of nutritional ketosis — and answering questions on all things fasting</episode>
+    <episode url="https://peterattiamd.com/ama02/" number="11">AMA #2: the Nothingburger — results from Peter's week-long fast between two weeks of nutritional ketosis — and answering questions on all things fasting</episode>
     <comments>To sum it up: we don't know how often and how we should fast for optimal health. I, as a person with a low BMI, don't even know if it's a good idea to fast at all. Something that particularly intrigued me: the idea that deep sleep could be better/longer when fasting.</comments>
   </podcast>
   <podcast>
