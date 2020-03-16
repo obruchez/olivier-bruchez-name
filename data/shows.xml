@@ -112,13 +112,14 @@
     <comments>Like many people I guess, we watched this miniseries right after the end of <i>Game of Thrones</i>. It's excellent. Although probably overrated (currently <a href="https://www.imdb.com/chart/toptv">Top Rated TV #1</a> on IMDb).</comments>
     <image>Chernobyl.jpg</image>
   </show>
-  <!-- image missing -->
   <show>
     <date>2019.05.24</date>
     <name url="https://en.wikipedia.org/wiki/Game_of_Thrones">Game of Thrones</name>
     <series url="https://en.wikipedia.org/wiki/Game_of_Thrones_(season_8)" type="season">8</series>
     <comments>Like many people, I think this final season could have been something else. More epic, probably. Less lazy, certainly.</comments>
+    <image>Game of Thrones.jpg</image>
   </show>
+  <!-- image missing -->
   <show>
     <date>2019.05.22</date>
     <name url="https://en.wikipedia.org/wiki/Broad_City">Broad City</name>
@@ -329,6 +330,7 @@
     <name url="https://en.wikipedia.org/wiki/Game_of_Thrones">Game of Thrones</name>
     <series url="https://en.wikipedia.org/wiki/Game_of_Thrones_(season_7)" type="season">7</series>
     <comments>This was a short season (only seven episodes) and season 8 "is expected to premiere in late 2018/early 2019" only. The fact that season 2 of <i>Westworld</i> apparently won't start before spring 2018 is also a bit frustrating. Anyway, these are impressive shows and I understand that they take time to produce. Season 7 of <i>Game of Thrones</i> was quite intense. As always, important characters got killed. It goes without saying. Now I'm really curious about what will happen in season 8, because, at this point, it looks quite predictable.</comments>
+    <image>Game of Thrones.jpg</image>
   </show>
   <show>
     <date>2017.07.19</date>
@@ -509,6 +511,7 @@
     <date>2016.06.27</date>
     <name url="https://en.wikipedia.org/wiki/Game_of_Thrones">Game of Thrones</name>
     <series url="https://en.wikipedia.org/wiki/Game_of_Thrones_(season_6)" type="season">6</series>
+    <image>Game of Thrones.jpg</image>
   </show>
   <show>
     <date>2016.06.07</date>
@@ -541,6 +544,7 @@
     <date>2016.05.01</date>
     <name url="https://en.wikipedia.org/wiki/Game_of_Thrones">Game of Thrones</name>
     <series url="https://en.wikipedia.org/wiki/Game_of_Thrones_(season_5)" type="season">5</series>
+    <image>Game of Thrones.jpg</image>
   </show>
   <show>
     <date>2016.04.19</date>
@@ -563,11 +567,13 @@
     <date>2016.02.26</date>
     <name url="https://en.wikipedia.org/wiki/Game_of_Thrones">Game of Thrones</name>
     <series url="https://en.wikipedia.org/wiki/Game_of_Thrones_(season_4)" type="season">4</series>
+    <image>Game of Thrones.jpg</image>
   </show>
   <show>
     <date>2016.02.07</date>
     <name url="https://en.wikipedia.org/wiki/Game_of_Thrones">Game of Thrones</name>
     <series url="https://en.wikipedia.org/wiki/Game_of_Thrones_(season_3)" type="season">3</series>
+    <image>Game of Thrones.jpg</image>
   </show>
   <show>
     <date>2016.02.02</date>
@@ -584,6 +590,7 @@
     <date>2016.01.08</date>
     <name url="https://en.wikipedia.org/wiki/Game_of_Thrones">Game of Thrones</name>
     <series url="https://en.wikipedia.org/wiki/Game_of_Thrones_(season_2)" type="season">2</series>
+    <image>Game of Thrones.jpg</image>
   </show>
   <show>
     <date>2015.12.07</date>
@@ -606,6 +613,7 @@
     <date>2015.10.17</date>
     <name url="https://en.wikipedia.org/wiki/Game_of_Thrones">Game of Thrones</name>
     <series url="https://en.wikipedia.org/wiki/Game_of_Thrones_(season_1)" type="season">1</series>
+    <image>Game of Thrones.jpg</image>
   </show>
   <show>
     <date>2015.07.02</date>
