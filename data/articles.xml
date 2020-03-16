@@ -2,6 +2,11 @@
 <articles>
   <introduction>A list of articles I read.</introduction>
   <article>
+    <date>2020.03.15</date>
+    <title url="https://deepmind.com/blog/article/Dopamine-and-temporal-difference-learning-A-fruitful-relationship-between-neuroscience-and-AI">Dopamine and temporal difference learning: A fruitful relationship between neuroscience and AI</title>
+    <comments>"Reinforcement learning is one of the oldest and most powerful ideas linking neuroscience and AI. [...] Because distributional TD is so powerful in artificial neural networks, a natural question arises: Is distributional TD used in the brain? This was the driving question behind our paper recently published in Nature. [...] In summary, we found that dopamine neurons in the brain were each tuned to different levels of pessimism or optimism. [...] [T]his discovery validates distributional reinforcement learning – it gives us increased confidence that AI research is on the right track, since this algorithm is already being used in the most intelligent entity we're aware of: the brain."</comments>
+  </article>
+  <article>
     <date>2020.02.28</date>
     <title url="https://medium.com/@tombarys/dreaming-about-better-sleep-dreem-oura-and-the-rest-fb29c99f0aad">Dreaming about Better Sleep: Dreem, Oura and the Rest</title>
     <comments>The tl;dr is that Dreem 2 is the best sleep tracker available (thanks to EEG sensors). Oura is pretty bad at detecting sleep phases (or even whether you're sleeping or not), but it's a very nice piece of technology. Peter Attia is (was?) raving about it, so it's a bit disappointing.</comments>
