@@ -2275,7 +2275,6 @@
     <rating>4.5</rating>
     <image>Miller's Crossing.jpg</image>
   </movie>
-  <!-- image missing -->
   <movie>
     <date>2014.03.23</date>
     <theater home="true"/>
@@ -2283,6 +2282,7 @@
     <title>Bottle Rocket</title>
     <url>http://www.imdb.com/title/tt0115734/</url>
     <rating>4.5</rating>
+    <image>Bottle Rocket.jpg</image>
   </movie>
   <movie>
     <date>2014.03.21</date>
@@ -2291,7 +2291,9 @@
     <title>Inside Llewyn Davis</title>
     <url>http://www.imdb.com/title/tt2042568/</url>
     <rating>4.75</rating>
+    <image>Inside Llewyn Davis.jpg</image>
   </movie>
+  <!-- image missing -->
   <movie>
     <date>2014.03.17</date>
     <theater home="true"/>
