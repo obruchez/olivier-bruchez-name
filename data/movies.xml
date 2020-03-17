@@ -2293,7 +2293,6 @@
     <rating>4.75</rating>
     <image>Inside Llewyn Davis.jpg</image>
   </movie>
-  <!-- image missing -->
   <movie>
     <date>2014.03.17</date>
     <theater home="true"/>
@@ -2301,6 +2300,7 @@
     <title>Rushmore</title>
     <url>http://www.imdb.com/title/tt0128445/</url>
     <rating>5.0</rating>
+    <image>Rushmore.jpg</image>
   </movie>
   <movie>
     <date>2014.03.15</date>
@@ -2309,7 +2309,9 @@
     <title>The Man Who Wasn't There</title>
     <url>http://www.imdb.com/title/tt0243133/</url>
     <rating>5.0</rating>
+    <image>The Man Who Wasn't There.jpg</image>
   </movie>
+  <!-- image missing -->
   <movie>
     <date>2014.03.09</date>
     <theater>Galeries, Lausanne</theater>
