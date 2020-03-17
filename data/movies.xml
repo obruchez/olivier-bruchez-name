@@ -3,6 +3,16 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Checklist: add rating to IMDb -->
   <movie>
+    <date>2020.03.15</date>
+    <theater home="true"/>
+    <director>Ivan Reitman</director>
+    <title>Ghostbusters</title>
+    <url>https://www.imdb.com/title/tt0087332/</url>
+    <rating>4.0</rating>
+    <comments>It was (almost) funny. Or maybe I was too tired, I don't know.</comments>
+    <image>Ghostbusters.jpg</image>
+  </movie>
+  <movie>
     <date>2020.03.07</date>
     <theater home="true"/>
     <director>Victor Fleming, George Cukor, Mervyn LeRoy, Norman Taurog. Richard Thorpe &amp; King Vidor</director>
