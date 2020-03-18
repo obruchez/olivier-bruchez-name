@@ -2321,7 +2321,6 @@
     <rating>5.0</rating>
     <image>The Man Who Wasn't There.jpg</image>
   </movie>
-  <!-- image missing -->
   <movie>
     <date>2014.03.09</date>
     <theater>Galeries, Lausanne</theater>
@@ -2329,6 +2328,7 @@
     <title>The Grand Budapest Hotel</title>
     <url>http://www.imdb.com/title/tt2278388/</url>
     <rating>5.5</rating>
+    <image>The Grand Budapest Hotel.jpg</image>
   </movie>
   <movie>
     <date>2014.02.25</date>
@@ -2337,7 +2337,9 @@
     <title>Dallas Buyers Club</title>
     <url>http://www.imdb.com/title/tt0790636/</url>
     <rating>5.0</rating>
+    <image>Dallas Buyers Club.jpg</image>
   </movie>
+  <!-- image missing -->
   <movie>
     <date>2014.02.13</date>
     <theater home="true"/>
