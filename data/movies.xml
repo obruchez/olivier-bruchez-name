@@ -3,6 +3,17 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Checklist: add rating to IMDb -->
   <movie>
+    <date>2020.03.17</date>
+    <theater home="true"/>
+    <director>Yasujirô Ozu</director>
+    <title>Tokyo Story</title>
+    <title language="ja">Tôkyô monogatari</title>
+    <url>https://www.imdb.com/title/tt0046438/</url>
+    <rating>4.75</rating>
+    <comments>Appreciate your parents while they are still alive, etc. A simple and moving story.</comments>
+    <image>Tokyo Story.jpg</image>
+  </movie>
+  <movie>
     <date>2020.03.15</date>
     <theater home="true"/>
     <director>Ivan Reitman</director>
@@ -47,6 +58,7 @@
     <theater home="true"/>
     <director>Akira Kurosawa</director>
     <title>Rashomon</title>
+    <title language="ja">Rashômon</title>
     <url>https://www.imdb.com/title/tt0042876/</url>
     <rating>4.75</rating>
     <comments>A film about truth, honor, the nature of human psychology, morality, and probably a lot of other things I've missed.</comments>
@@ -171,7 +183,7 @@
     <title language="it">Per qualche dollaro in più</title>
     <url>https://www.imdb.com/title/tt0059578/</url>
     <rating>4.75</rating>
-    <comments>Not as good as <i>The Good, the Bad and the Ugly </i>, but still very enjoyable. Clint Eastwood and Lee Van Cleef are such charismatic actors, just looking at them, not saying a word, is an experience in itself.</comments>
+    <comments>Not as good as <i>The Good, the Bad and the Ugly</i>, but still very enjoyable. Clint Eastwood and Lee Van Cleef are such charismatic actors, just looking at them, not saying a word, is an experience in itself.</comments>
     <image>For a Few Dollars More.jpg</image>
   </movie>
   <movie>
@@ -5290,7 +5302,7 @@
     <version>fr</version>
   </movie>
   <movie>
-    <date>2005.06.01 , </date>
+    <date>2005.06.01</date>
     <theater>Atlantic, Lausanne</theater>
     <title>Star Wars: Episode III - Revenge of the Sith</title>
   </movie>
@@ -5305,7 +5317,7 @@
     <title>Darwin's Nightmare</title>
   </movie>
   <movie>
-    <date>2005.04.09 </date>
+    <date>2005.04.09</date>
     <theater>Corso, Martigny</theater>
     <title>L'antidote</title>
   </movie>
