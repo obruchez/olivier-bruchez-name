@@ -2351,7 +2351,6 @@
     <rating>5.0</rating>
     <image>Dallas Buyers Club.jpg</image>
   </movie>
-  <!-- image missing -->
   <movie>
     <date>2014.02.13</date>
     <theater home="true"/>
@@ -2360,6 +2359,7 @@
     <title language="en">The Castle of Cagliostro</title>
     <url>http://www.imdb.com/title/tt0079833/</url>
     <rating>4.5</rating>
+    <image>The Castle of Cagliostro.jpg</image>
   </movie>
   <movie>
     <date>2014.02.08</date>
@@ -2369,7 +2369,9 @@
     <title language="en">The Wind Rises</title>
     <url>http://www.imdb.com/title/tt2013293/</url>
     <rating>5.0</rating>
+    <image>The Wind Rises.jpg</image>
   </movie>
+  <!-- image missing -->
   <movie>
     <date>2014.02.07</date>
     <theater home="true"/>
