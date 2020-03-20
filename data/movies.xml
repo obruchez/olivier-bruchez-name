@@ -2371,7 +2371,6 @@
     <rating>5.0</rating>
     <image>The Wind Rises.jpg</image>
   </movie>
-  <!-- image missing -->
   <movie>
     <date>2014.02.07</date>
     <theater home="true"/>
@@ -2380,6 +2379,7 @@
     <title language="en">Porco Rosso</title>
     <url>http://www.imdb.com/title/tt0104652/</url>
     <rating>4.75</rating>
+    <image>Porco Rosso.jpg</image>
   </movie>
   <movie>
     <date>2014.01.25</date>
@@ -2388,7 +2388,9 @@
     <title>The Wolf of Wall Street</title>
     <url>http://www.imdb.com/title/tt0993846/</url>
     <rating>3.5</rating>
-  </movie> 
+    <image>The Wolf of Wall Street.jpg</image>
+  </movie>
+  <!-- image missing -->
   <movie>
     <date>2014.01.18</date>
     <theater>Casino, Martigny</theater>
