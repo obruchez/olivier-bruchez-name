@@ -2,6 +2,11 @@
 <articles>
   <introduction>A list of articles I read.</introduction>
   <article>
+    <date>2020.03.22</date>
+    <title url="https://www.forbes.com/sites/startswithabang/2019/01/22/why-is-uranus-the-only-planet-without-interesting-features-on-it/">Why Is Uranus The Only Planet Without Interesting Features On It?</title>
+    <comments>"To the human eye, Uranus is the only planet without interesting features on it. [...] The reason for Uranus' uniform color during the solstice is because of its temperatures when it's in continuous day, which produces a haze of methane. [...] [T]he methane haze masks the clouds below it, which is what causes Uranus to have the featureless appearance we came to know ubiquitously after the Voyager 2 visit. [...] Contrary to our initial observations, Uranus is a feature-rich world, but only if you look at it in the right ways. [...] [T]he lack of an internal heat source and the fact that it rotates on a tipped-over axis also gives us a unique opportunity to learn how a gas giant planet behaves when its energy balance is driven by the Sun. [...] So long as there's an energy difference, either between the polar hemispheres or between the day-and-night sides, there will surely be interesting phenomena to investigate."</comments>
+  </article>
+  <article>
     <date>2020.03.15</date>
     <title url="https://deepmind.com/blog/article/Dopamine-and-temporal-difference-learning-A-fruitful-relationship-between-neuroscience-and-AI">Dopamine and temporal difference learning: A fruitful relationship between neuroscience and AI</title>
     <comments>"Reinforcement learning is one of the oldest and most powerful ideas linking neuroscience and AI. [...] Because distributional TD is so powerful in artificial neural networks, a natural question arises: Is distributional TD used in the brain? This was the driving question behind our paper recently published in Nature. [...] In summary, we found that dopamine neurons in the brain were each tuned to different levels of pessimism or optimism. [...] [T]his discovery validates distributional reinforcement learning – it gives us increased confidence that AI research is on the right track, since this algorithm is already being used in the most intelligent entity we're aware of: the brain."</comments>
