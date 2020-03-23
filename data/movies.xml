@@ -2390,7 +2390,6 @@
     <rating>3.5</rating>
     <image>The Wolf of Wall Street.jpg</image>
   </movie>
-  <!-- image missing -->
   <movie>
     <date>2014.01.18</date>
     <theater>Casino, Martigny</theater>
@@ -2400,6 +2399,7 @@
     <version>fr</version>
     <url>http://www.imdb.com/title/tt0359950/</url>
     <rating>4.5</rating>
+    <image>The Secret Life of Walter Mitty.jpg</image>
   </movie>
   <movie>
     <date>2014.01.12</date>
@@ -2409,7 +2409,9 @@
     <title language="en">Ponyo</title>
     <url>http://www.imdb.com/title/tt0876563/</url>
     <rating>4.5</rating>
+    <image>Ponyo.jpg</image>
   </movie>
+  <!-- image missing -->
   <movie>
     <date>2014.01.11</date>
     <theater home="true"/>
