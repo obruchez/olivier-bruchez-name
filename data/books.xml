@@ -3,21 +3,32 @@
     <introduction>A list of books I read.</introduction>
     <book>
         <date></date>
+        <title>Une rencontre</title>
+        <author>Milan Kundera</author>
+        <publishingyear>2009</publishingyear>
+        <rating></rating>
+        <url>https://fr.wikipedia.org/wiki/Une_rencontre</url>
+        <notes description="Kindle highlights"></notes>
+        <comments></comments>
+        <image>Une rencontre.jpg</image>
+    </book>
+    <book>
+        <date>2020.03.24</date>
         <title>David Whyte: Essentials</title>
         <author>David Whyte</author>
         <publishingyear>2019</publishingyear>
-        <rating></rating>
+        <rating>4.75</rating>
         <url>https://books.google.com/books?id=2cq2ywEACAAJ</url>
         <notes description="Kindle highlights"></notes>
         <comments></comments>
         <image>David Whyte - Essentials.jpg</image>
     </book>
     <book>
-        <date></date>
+        <date>2020.03.24</date>
         <title>Jacques le Fataliste et son maître</title>
         <author>Denis Diderot</author>
         <publishingyear>1796</publishingyear>
-        <rating></rating>
+        <rating>5.25</rating>
         <url>https://fr.wikipedia.org/wiki/Jacques_le_Fataliste_et_son_ma%C3%AEtre</url>
         <notes description="Kindle highlights"></notes>
         <comments></comments>
