@@ -2411,7 +2411,6 @@
     <rating>4.5</rating>
     <image>Ponyo.jpg</image>
   </movie>
-  <!-- image missing -->
   <movie>
     <date>2014.01.11</date>
     <theater home="true"/>
@@ -2420,6 +2419,7 @@
     <title language="en">Castle in the Sky</title>
     <url>http://www.imdb.com/title/tt0092067/</url>
     <rating>4.75</rating>
+    <image>Laputa - Castle in the Sky.jpg</image>
   </movie>
   <movie>
     <date>2014.01.10</date>
@@ -2428,7 +2428,9 @@
     <title>Casse-tête chinois</title>
     <url>http://www.imdb.com/title/tt1937118/</url>
     <rating>4.5</rating>
+    <image>Casse-tête chinois.jpg</image>
   </movie>
+  <!-- image missing -->
   <movie>
     <date>2013.12.07</date>
     <theater>Galeries, Lausanne</theater>
