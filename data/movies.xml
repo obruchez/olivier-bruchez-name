@@ -2430,7 +2430,6 @@
     <rating>4.5</rating>
     <image>Casse-tête chinois.jpg</image>
   </movie>
-  <!-- image missing -->
   <movie>
     <date>2013.12.07</date>
     <theater>Galeries, Lausanne</theater>
@@ -2438,6 +2437,7 @@
     <title>La Vénus à la fourrure</title>
     <url>http://www.imdb.com/title/tt2406252/</url>
     <rating>4.5</rating>
+    <image>La Vénus à la fourrure.jpg</image>
   </movie>
   <movie>
     <date>2013.11.16</date>
@@ -2447,7 +2447,9 @@
     <url>http://www.imdb.com/title/tt1454468/</url>
     <rating>5.25</rating>
     <comments>3D version.</comments>
+    <image>Gravity.jpg</image>
   </movie> 
+  <!-- image missing -->
   <movie>
     <date>2013.11.09</date>
     <theater>Cinémathèque, Lausanne</theater>
