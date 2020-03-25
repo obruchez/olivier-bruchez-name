@@ -3,6 +3,12 @@
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
     <date>2020.03.25</date>
+    <name url="https://www.happinesslab.fm/">The Happiness Lab</name>
+    <episode url="https://www.happinesslab.fm/coronavirus-bonus-episodes/beat-your-isolation-loneliness">Beat Your Isolation Loneliness</episode>
+    <comments>"Being physically isolated from the world doesn't mean you have to suffer loneliness too." Why don't we have remote coffees/beers more often, even in normal times? Skype, Zoom, etc. are not for work only.</comments>
+  </podcast>
+  <podcast>
+    <date>2020.03.25</date>
     <name url="http://peachandblack.podbean.com/">Peach &amp; Black Podcast</name>
     <episode url="https://peachandblack.podbean.com/e/prince-1999-super-deluxe-review-part-5/">Prince 1999 Super Deluxe Review - Part 5</episode>
     <comments>This was a massive review. Almost 10 hours. For a fantastic release.</comments>
