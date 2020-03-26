@@ -2449,7 +2449,6 @@
     <comments>3D version.</comments>
     <image>Gravity.jpg</image>
   </movie> 
-  <!-- image missing -->
   <movie>
     <date>2013.11.09</date>
     <theater>Cinémathèque, Lausanne</theater>
@@ -2457,6 +2456,7 @@
     <title>One Flew Over the Cuckoo's Nest</title>
     <url>http://www.imdb.com/title/tt0073486/</url>
     <rating>5.25</rating>
+    <image>One Flew Over the Cuckoo's Nest.jpg</image>
   </movie>
   <movie>
     <date>2013.10.05</date>
@@ -2465,7 +2465,9 @@
     <title>Blue Jasmine</title>
     <url>http://www.imdb.com/title/tt2334873/</url>
     <rating>5.25</rating>
+    <image>Blue Jasmine.jpg</image>
   </movie>
+  <!-- image missing -->
   <movie>
     <date>2013.09.16</date>
     <theater>Pathé Flon, Lausanne</theater>
