@@ -2467,7 +2467,6 @@
     <rating>5.25</rating>
     <image>Blue Jasmine.jpg</image>
   </movie>
-  <!-- image missing -->
   <movie>
     <date>2013.09.16</date>
     <theater>Pathé Flon, Lausanne</theater>
@@ -2475,6 +2474,7 @@
     <title>We're the Millers</title>
     <url>http://www.imdb.com/title/tt1723121/</url>
     <rating>3.5</rating>
+    <image>We're the Millers.jpg</image>
   </movie> 
   <movie>
     <date>2013.09.04</date>
@@ -2483,7 +2483,9 @@
     <title>Now You See Me</title>
     <url>http://www.imdb.com/title/tt1670345/</url>
     <rating>3.5</rating>
+    <image>Now You See Me.jpg</image>
   </movie>
+  <!-- image missing -->
   <movie>
     <date>2013.08.27</date>
     <theater home="true"/>
