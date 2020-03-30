@@ -2,14 +2,14 @@
 <books>
     <introduction>A list of books I read.</introduction>
     <book>
-        <date></date>
+        <date>2020.03.30</date>
         <title>Une rencontre</title>
         <author>Milan Kundera</author>
         <publishingyear>2009</publishingyear>
-        <rating></rating>
+        <rating>4.5</rating>
         <url>https://fr.wikipedia.org/wiki/Une_rencontre</url>
         <notes description="Kindle highlights"></notes>
-        <comments></comments>
+        <comments><i>Une rencontre</i> ou <i>Si Milan Kundera avait un blog</i>... Kundera parle de compositeurs, peintres et écrivains/romanciers qui l'ont influencé. C'est toujours très bien écrit, mais ça m'a moins touché, ne connaissant pas la plupart des artistes qu'il mentionne.</comments>
         <image>Une rencontre.jpg</image>
     </book>
     <book>
