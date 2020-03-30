@@ -1219,6 +1219,7 @@
         <url>https://en.wikipedia.org/wiki/Stumbling_on_Happiness</url>
         <image>Stumbling on Happiness.jpg</image>
 	</book>
+    <!-- GR -->
 	<book>
 		<date>2010.08.30</date>
 		<title>Trick or Treatment?</title>
@@ -1259,7 +1260,6 @@
         <url>https://en.wikipedia.org/wiki/Tribal_Leadership</url>
         <image>Tribal Leadership.jpg</image>
 	</book>
-    <!-- GR -->
     <book>
 		<date>2010.02.16</date>
 		<title>La Petite Marchande de prose</title>
