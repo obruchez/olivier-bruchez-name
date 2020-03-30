@@ -2485,7 +2485,6 @@
     <rating>3.5</rating>
     <image>Now You See Me.jpg</image>
   </movie>
-  <!-- image missing -->
   <movie>
     <date>2013.08.27</date>
     <theater home="true"/>
@@ -2493,6 +2492,7 @@
     <title>The Help</title>
     <url>http://www.imdb.com/title/tt1454029/</url>
     <rating>4.75</rating>
+    <image>The Help.jpg</image>
   </movie>
   <movie>
     <date>2013.08.21</date>
@@ -2501,7 +2501,9 @@
     <title>Elysium</title>
     <url>http://www.imdb.com/title/tt1535108/</url>
     <rating>3.25</rating>
+    <image>Elysium.jpg</image>
   </movie>
+  <!-- image missing -->
   <movie>
     <date>2013.08.15</date>
     <theater>Open Air Vevey, Vevey</theater>
