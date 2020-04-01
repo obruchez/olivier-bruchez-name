@@ -2521,7 +2521,6 @@
     <rating>4.75</rating>
     <image>Les quatre cents coups.jpg</image>
   </movie>
-  <!-- image missing -->
   <movie>
     <date>2013.06.01</date>
     <theater home="true"/>
@@ -2529,6 +2528,7 @@
     <title>Rain Man</title>
     <url>http://www.imdb.com/title/tt0095953/</url>
     <rating>5.0</rating>
+    <image>Rain Man.jpg</image>
   </movie>
   <movie>
     <date>2013.05.11</date>
@@ -2537,7 +2537,9 @@
     <title>Skyfall</title>
     <url>http://www.imdb.com/title/tt1074638/</url>
     <rating>4.75</rating>
+    <image>Skyfall.jpg</image>
   </movie>
+  <!-- image missing -->
   <movie>
     <date>2013.05.11</date>
     <theater home="true"/>
