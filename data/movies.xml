@@ -2503,7 +2503,6 @@
     <rating>3.25</rating>
     <image>Elysium.jpg</image>
   </movie>
-  <!-- image missing -->
   <movie>
     <date>2013.08.15</date>
     <theater>Open Air Vevey, Vevey</theater>
@@ -2511,6 +2510,7 @@
     <title>The Great Gatsby</title>
     <url>http://www.imdb.com/title/tt1343092/</url>
     <rating>5.0</rating>
+    <image>The Great Gatsby.jpg</image>
   </movie>
   <movie>
     <date>2013.06.20</date>
@@ -2519,7 +2519,9 @@
     <title>Les quatre cents coups</title>
     <url>http://www.imdb.com/title/tt0053198/</url>
     <rating>4.75</rating>
+    <image>Les quatre cents coups.jpg</image>
   </movie>
+  <!-- image missing -->
   <movie>
     <date>2013.06.01</date>
     <theater home="true"/>
