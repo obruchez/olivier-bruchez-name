@@ -3,6 +3,17 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Checklist: add rating to IMDb -->
   <movie>
+    <date>2020.03.31</date>
+    <theater home="true"/>
+    <director>Ingmar Bergman</director>
+    <title>The Seventh Seal</title>
+    <title language="sv">Det sjunde inseglet</title>
+    <url>https://www.imdb.com/title/tt0050976/</url>
+    <rating>5.0</rating>
+    <comments>My first Ingmar Bergman movie. A true classic. I sadly learned that Max von Sydow died a few weeks ago at the age of 90. He was a fantastic actor, obviously.</comments>
+    <image>The Seventh Seal.jpg</image>
+  </movie>
+  <movie>
     <date>2020.03.17</date>
     <theater home="true"/>
     <director>Yasujirô Ozu</director>
