@@ -2453,6 +2453,17 @@ Joël L’Hopitalier
     <image>Dernière Lettre À Théo.jpg</image>
   </play>
   <play>
+    <date>2006.04.29</date>
+    <location>Concordia, Le Châble, Switzerland</location>
+    <name>Même les cow-girls ont le blues</name>
+    <author>Tom Robbins</author>
+    <director>José-Antoine Marin</director>
+    <actor>Delphine Mouchel</actor>
+    <actor>Blanche Heugel</actor>
+    <actor>Aline Vaudan</actor>
+    <rating/>
+  </play>
+  <play>
     <date>2006.04.04</date>
     <location>Pulloff Théâtres, Lausanne, Switzerland</location>
     <name>Cinq filles couleur pêche</name>
@@ -2490,7 +2501,20 @@ responsable de production : Michel Sauser
   </play>
 
   <!--
-    Add Akua (2005-2006?)
-    Add 2006.04.29 Même les Cow-Girls ont le Blues
+  <play>
+    <date></date>
+    <location></location>
+    <name></name>
+    <author></author>
+    <director></director>
+    <actor></actor>
+    <rating></rating>
+    <comments></comments>
+    <image></image>
+  </play>
+  -->
+
+  <!--
+  Add Akua (2005-2006?)
   -->
 </plays>
