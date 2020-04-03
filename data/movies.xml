@@ -2550,7 +2550,6 @@
     <rating>4.75</rating>
     <image>Skyfall.jpg</image>
   </movie>
-  <!-- image missing -->
   <movie>
     <date>2013.05.11</date>
     <theater home="true"/>
@@ -2558,6 +2557,7 @@
     <title>Cast Away</title>
     <url>http://www.imdb.com/title/tt0162222/</url>
     <rating>4.75</rating>
+    <image>Cast Away.jpg</image>
   </movie>
   <movie>
     <date>2013.05.10</date>
@@ -2566,6 +2566,7 @@
     <title>Forrest Gump</title>
     <url>http://www.imdb.com/title/tt0109830/</url>
     <rating>5.25</rating>
+    <image>Forrest Gump.jpg</image>
   </movie>
   <movie>
     <date>2013.04.25</date>
@@ -2574,6 +2575,7 @@
     <title>L'écume des jours</title>
     <url>http://www.imdb.com/title/tt2027140/</url>
     <rating>5.0</rating>
+    <image>L'écume des jours.jpg</image>
   </movie> 
   <movie>
     <date>2013.04.12</date>
@@ -2582,7 +2584,9 @@
     <title>Life of Pi</title>
     <url>http://www.imdb.com/title/tt0454876/</url>
     <rating>4.5</rating>
+    <image>Life of Pi.jpg</image>
   </movie>
+  <!-- image missing -->
   <movie>
     <date>2013.03.23</date>
     <theater>Corso, Martigny</theater>
