@@ -2586,7 +2586,6 @@
     <rating>4.5</rating>
     <image>Life of Pi.jpg</image>
   </movie>
-  <!-- image missing -->
   <movie>
     <date>2013.03.23</date>
     <theater>Corso, Martigny</theater>
@@ -2594,6 +2593,7 @@
     <title>20 ans d'écart</title>
     <url>http://www.imdb.com/title/tt2186812/</url>
     <rating>4.0</rating>
+    <image>20 ans d'écart.jpg</image>
   </movie>
   <movie>
     <date>2013.03.17</date>
@@ -2602,7 +2602,9 @@
     <title>Manhattan</title>
     <url>http://www.imdb.com/title/tt0079522/</url>
     <rating>5.0</rating>
+    <image>Manhattan.jpg</image>
   </movie>
+  <!-- image missing -->
   <movie>
     <date>2013.02.09</date>
     <theater home="true"/>
