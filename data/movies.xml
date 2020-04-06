@@ -3,6 +3,26 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Checklist: add rating to IMDb -->
   <movie>
+    <date>2020.04.05</date>
+    <theater home="true"/>
+    <director>Billy Wilder</director>
+    <title>The Apartment</title>
+    <url>https://www.imdb.com/title/tt0053604/</url>
+    <rating>4.5</rating>
+    <comments></comments>
+    <image>The Apartment.jpg</image>
+  </movie>
+  <movie>
+    <date>2020.04.05</date>
+    <theater home="true"/>
+    <director>Stanley Nelson</director>
+    <title>Miles Davis: Birth of the Cool</title>
+    <url>https://www.imdb.com/title/tt9358200/</url>
+    <rating>4.75</rating>
+    <comments></comments>
+    <image>Miles Davis - Birth of the Cool.jpg</image>
+  </movie>
+  <movie>
     <date>2020.03.31</date>
     <theater home="true"/>
     <director>Ingmar Bergman</director>
