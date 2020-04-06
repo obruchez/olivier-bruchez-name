@@ -10,13 +10,6 @@
   </show>
   <show>
     <date></date>
-    <name url="https://en.wikipedia.org/wiki/Curb_Your_Enthusiasm">Curb Your Enthusiasm</name>
-    <series url="https://en.wikipedia.org/wiki/List_of_Curb_Your_Enthusiasm_episodes#Season_10_(2020)" type="season">10</series>
-    <comments></comments>
-    <image>Curb Your Enthusiasm.jpg</image>
-  </show>
-  <show>
-    <date></date>
     <name url="https://en.wikipedia.org/wiki/Inside_No._9">Inside No. 9</name>
     <series url="https://en.wikipedia.org/wiki/Inside_No._9#Series_5_(2020)" type="series">5</series>
     <comments></comments>
@@ -42,6 +35,13 @@
     <series url="https://en.wikipedia.org/wiki/The_Twilight_Zone_(1959_TV_series,_season_3)" type="season">3</series>
     <comments></comments>
     <image>The Twilight Zone.jpg</image>
+  </show>
+  <show>
+    <date>2020.04.05</date>
+    <name url="https://en.wikipedia.org/wiki/Curb_Your_Enthusiasm">Curb Your Enthusiasm</name>
+    <series url="https://en.wikipedia.org/wiki/List_of_Curb_Your_Enthusiasm_episodes#Season_10_(2020)" type="season">10</series>
+    <comments>See comments for season 9. I'd say this would be the right time to stop/cancel the show, but with one new season every 3-5 years, I guess I wouldn't mind another season either.</comments>
+    <image>Curb Your Enthusiasm.jpg</image>
   </show>
   <show>
     <date>2020.03.25</date>
