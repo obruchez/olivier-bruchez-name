@@ -2604,7 +2604,6 @@
     <rating>5.0</rating>
     <image>Manhattan.jpg</image>
   </movie>
-  <!-- image missing -->
   <movie>
     <date>2013.02.09</date>
     <theater home="true"/>
@@ -2612,6 +2611,7 @@
     <title>True Grit</title>
     <url>http://www.imdb.com/title/tt1403865/</url>
     <rating>4.75</rating>
+    <image>True Grit.jpg</image>
   </movie>
   <movie>
     <date>2013.02.02</date>
@@ -2620,7 +2620,9 @@
     <title>Ruby Sparks</title>
     <url>http://www.imdb.com/title/tt1839492/</url>
     <rating>4.75</rating>
+    <image>Ruby Sparks.jpg</image>
   </movie>
+  <!-- image missing -->
   <movie>
     <date>2013.01.20</date>
     <theater home="true"/>
