@@ -2,6 +2,24 @@
 <podcasts created="2016-05-10">
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date></date>
+    <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
+    <episode url="https://samharris.org/podcasts/192-march-17-2020/" number="192">March 17, 2020 - A Conversation with Paul Bloom</episode>
+    <comments></comments>
+  </podcast>
+  <podcast>
+    <date>2020.04.06</date>
+    <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
+    <episode url="https://samharris.org/podcasts/193-meditation-emergency/" number="193">Meditation in an Emergency</episode>
+    <comments></comments>
+  </podcast>
+  <podcast>
+    <date>2020.04.05</date>
+    <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
+    <episode url="https://samharris.org/podcasts/189-wealth-happiness/" number="189">Wealth &amp; Happiness - A Conversation with Scott Galloway</episode>
+    <comments></comments>
+  </podcast>
+  <podcast>
     <date>2020.03.28</date>
     <name url="https://www.happinesslab.fm/">The Happiness Lab</name>
     <episode url="https://www.happinesslab.fm/coronavirus-bonus-episodes/episode-2-coach-yourself-through-a-crisis">Coach Yourself Through a Crisis</episode>
