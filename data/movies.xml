@@ -2642,7 +2642,6 @@
     <rating>4.75</rating>
     <image>Ruby Sparks.jpg</image>
   </movie>
-  <!-- image missing -->
   <movie>
     <date>2013.01.20</date>
     <theater home="true"/>
@@ -2650,6 +2649,7 @@
     <title>Ice Age: Continental Drift</title>
     <url>http://www.imdb.com/title/tt1667889/</url>
     <rating>4.0</rating>
+    <image>Ice Age - Continental Drift.jpg</image>
   </movie>
   <movie>
     <date>2013.01.12</date>
@@ -2658,7 +2658,9 @@
     <title>The Cabin in the Woods</title>
     <url>http://www.imdb.com/title/tt1259521/</url>
     <rating>4.25</rating>
+    <image>The Cabin in the Woods.jpg</image>
   </movie>
+  <!-- image missing -->
   <movie>
     <date>2012.11.24</date>
     <theater>Les Cèdres, Sion</theater>
