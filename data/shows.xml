@@ -10,13 +10,6 @@
   </show>
   <show>
     <date></date>
-    <name url="https://en.wikipedia.org/wiki/Inside_No._9">Inside No. 9</name>
-    <series url="https://en.wikipedia.org/wiki/Inside_No._9#Series_5_(2020)" type="series">5</series>
-    <comments></comments>
-    <image>Inside No. 9.jpg</image>
-  </show>
-  <show>
-    <date></date>
     <name url="https://en.wikipedia.org/wiki/Modern_Family">Modern Family</name>
     <series url="https://en.wikipedia.org/wiki/Modern_Family_(season_11)" type="season">11</series>
     <comments></comments>
@@ -35,6 +28,13 @@
     <series url="https://en.wikipedia.org/wiki/The_Twilight_Zone_(1959_TV_series,_season_3)" type="season">3</series>
     <comments></comments>
     <image>The Twilight Zone.jpg</image>
+  </show>
+  <show>
+    <date>2020.04.08</date>
+    <name url="https://en.wikipedia.org/wiki/Inside_No._9">Inside No. 9</name>
+    <series url="https://en.wikipedia.org/wiki/Inside_No._9#Series_5_(2020)" type="series">5</series>
+    <comments>An uneven series, again. "Misdirection" was pretty good. "Thinking Out Loud" was like a very cheap version of <i>Mr. Robot</i>.</comments>
+    <image>Inside No. 9.jpg</image>
   </show>
   <show>
     <date>2020.04.05</date>
