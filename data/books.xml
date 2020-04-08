@@ -1182,6 +1182,7 @@
         <notes description="Kindle highlights">God's Debris (Scott Adams).md</notes>
         <image>God's Debris.jpg</image>
 	</book>
+    <!-- GR -->
 	<book>
 		<date>2011.07.08</date>
 		<title>Institutions politiques suisses</title>
@@ -1219,7 +1220,6 @@
         <url>https://en.wikipedia.org/wiki/Stumbling_on_Happiness</url>
         <image>Stumbling on Happiness.jpg</image>
 	</book>
-    <!-- GR -->
 	<book>
 		<date>2010.08.30</date>
 		<title>Trick or Treatment?</title>
