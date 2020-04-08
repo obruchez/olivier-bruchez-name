@@ -4,20 +4,27 @@
   <podcast>
     <date></date>
     <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
-    <episode url="https://samharris.org/podcasts/192-march-17-2020/" number="192">March 17, 2020 - A Conversation with Paul Bloom</episode>
+    <episode url="https://samharris.org/podcasts/194-new-future-work/" number="194">The New Future of Work - A Conversation with Matt Mullenweg</episode>
     <comments></comments>
+    <!-- 5 levels of "distributedness" for a company. Most companies are at level 1 (98%). -->
+  </podcast>
+  <podcast>
+    <date>2020.04.08</date>
+    <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
+    <episode url="https://samharris.org/podcasts/192-march-17-2020/" number="192">March 17, 2020 - A Conversation with Paul Bloom</episode>
+    <comments>"In this episode of the podcast, Sam Harris and Paul Bloom speak about the psychology of adapting to the coronavirus pandemic, the disastrous analogy between coronavirus and flu, the political siloing of information, true and false concerns over “panic,” pressuring China to close down their live animal markets, the economic implications and possible silver linings of the pandemic, what our response suggests about our ability to deal with climate change, Biden vs Sanders, the ethics of praising one’s enemies, and other topics." As a vegetarian, I'm particularly saddened by the idea of a live animal market. This is dangerous, as discussed, but also just plain cruel. I hope they all go away.</comments>
   </podcast>
   <podcast>
     <date>2020.04.06</date>
     <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
     <episode url="https://samharris.org/podcasts/193-meditation-emergency/" number="193">Meditation in an Emergency</episode>
-    <comments>This is a good reminder that we should medidate especially when we don't want to, especially when we feel we don't have the time to do it.</comments>
+    <comments>This is a good reminder that we should meditate especially when we don't want to, especially when we feel we don't have the time to do it.</comments>
   </podcast>
   <podcast>
     <date>2020.04.05</date>
     <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
     <episode url="https://samharris.org/podcasts/189-wealth-happiness/" number="189">Wealth &amp; Happiness - A Conversation with Scott Galloway</episode>
-    <comments></comments>
+    <comments>The following parts were especially interesting: the part about the best way to redistribute wealth and taxes (e.g. the fact that a wealth tax is usually a bad idea); the part about the "religion of privacy" (I tend to agree with Sam and Scott, here). I was a bit surprised (and disappointed) by this bit (from Scott): "If it’s a choice between moral clarity and my Range Rover, I’m picking my Range Rover." Sam mentioned for the n-th time the study about happiness which is often mentioned, which says that moment-to-moment happiness gets to a plateau with more money, but life satisfaction goes up apparently indefinitely. I'd like to hear more about this concept of life satisfaction, how you can measure it, how much it is important compared to moment-to-moment well-being, etc.</comments>
   </podcast>
   <podcast>
     <date>2020.03.28</date>
