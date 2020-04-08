@@ -2660,7 +2660,6 @@
     <rating>4.25</rating>
     <image>The Cabin in the Woods.jpg</image>
   </movie>
-  <!-- image missing -->
   <movie>
     <date>2012.11.24</date>
     <theater>Les Cèdres, Sion</theater>
@@ -2668,6 +2667,7 @@
     <title>Thérèse Desqueyroux</title>
     <url>http://www.imdb.com/title/tt1654829/</url>
     <rating>4.5</rating>
+    <image>Thérèse Desqueyroux.jpg</image>
   </movie>
   <movie>
     <date>2012.10.11</date>
@@ -2676,7 +2676,9 @@
     <title>Dans la maison</title>
     <url>http://www.imdb.com/title/tt1964624/</url>
     <rating>4.75</rating>
-  </movie> 
+    <image></image>
+  </movie>
+  <!-- image missing -->
   <movie>
     <date>2012.09.26</date>
     <theater>Cinémathèque, Lausanne</theater>
