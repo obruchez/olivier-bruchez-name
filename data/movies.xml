@@ -2678,7 +2678,6 @@
     <rating>4.75</rating>
     <image>Dans la maison.jpg</image>
   </movie>
-  <!-- image missing -->
   <movie>
     <date>2012.09.26</date>
     <theater>Cinémathèque, Lausanne</theater>
@@ -2694,7 +2693,8 @@
     <title>Reservoir dogs</title>
     <url>http://www.imdb.com/title/tt0105236/</url>
     <rating>4.75</rating>
-  </movie> 
+    <image>Reservoir Dogs.jpg</image>
+  </movie>
   <movie>
     <date>2012.09.16</date>
     <theater home="true"/>
@@ -2702,7 +2702,9 @@
     <title>The Nightmare Before Christmas</title>
     <url>http://www.imdb.com/title/tt0107688/</url>
     <rating>4.75</rating>
-  </movie> 
+    <image>The Nightmare Before Christmas.jpg</image>
+  </movie>
+  <!-- image missing --> 
   <movie>
     <date>2012.09.15</date>
     <theater home="true"/>
