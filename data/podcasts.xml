@@ -2,11 +2,16 @@
 <podcasts created="2016-05-10">
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
-    <date></date>
+    <date>2020.04.10</date>
+    <name url="http://verybadwizards.com/">Very Bad Wizards</name>
+    <episode url="https://verybadwizards.fireside.fm/184" number="184">Tainted Glove</episode>
+    <comments>I've only listened to the first part (about Richard Dawkins eugenics tweet). So, yes, we should be able to discuss sensitive topics, but, as always, Twitter is not the place to have a nuanced and constructive discussion.</comments>
+  </podcast>
+  <podcast>
+    <date>2020.04.10</date>
     <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
     <episode url="https://samharris.org/podcasts/194-new-future-work/" number="194">The New Future of Work - A Conversation with Matt Mullenweg</episode>
-    <comments></comments>
-    <!-- 5 levels of "distributedness" for a company. Most companies are at level 1 (98%). -->
+    <comments>I liked Matt Mullenweg's enthusiasm about the idea of remote work and I found his <a href="https://medium.com/swlh/the-five-levels-of-remote-work-and-why-youre-probably-at-level-2-ccaf05a25b9c">5 levels of remote work</a> useful. I've been very pessimistic lately about the positive effect of COVID-19 on remote work. I really think we will mostly go back to where we were before. We still have a very long way to go before we can cooperate in an efficient way online. Most people are really resistant to change. I hope I'm wrong, though.</comments>
   </podcast>
   <podcast>
     <date>2020.04.08</date>
