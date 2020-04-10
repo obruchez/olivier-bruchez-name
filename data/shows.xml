@@ -10,13 +10,6 @@
   </show>
   <show>
     <date></date>
-    <name url="https://en.wikipedia.org/wiki/Modern_Family">Modern Family</name>
-    <series url="https://en.wikipedia.org/wiki/Modern_Family_(season_11)" type="season">11</series>
-    <comments></comments>
-    <image>Modern Family.jpg</image>
-  </show>
-  <show>
-    <date></date>
     <name url="https://en.wikipedia.org/wiki/Rick_and_Morty">Rick and Morty</name>
     <series url="https://en.wikipedia.org/wiki/Rick_and_Morty_(season_4)" type="season">4</series>
     <comments></comments>
@@ -28,6 +21,13 @@
     <series url="https://en.wikipedia.org/wiki/The_Twilight_Zone_(1959_TV_series,_season_3)" type="season">3</series>
     <comments></comments>
     <image>The Twilight Zone.jpg</image>
+  </show>
+  <show>
+    <date>2020.04.09</date>
+    <name url="https://en.wikipedia.org/wiki/Modern_Family">Modern Family</name>
+    <series url="https://en.wikipedia.org/wiki/Modern_Family_(season_11)" type="season">11</series>
+    <comments>Let's just say this is a good thing that this show is finally over. During the last seasons, it was less lame than <i>The Big Bang Theory</i>, but only slightly. This only confirms my observation that a show should only last for more than five seasons if it is absolutely brilliant (which not many shows are).</comments>
+    <image>Modern Family.jpg</image>
   </show>
   <show>
     <date>2020.04.08</date>
