@@ -2,6 +2,17 @@
 <books created="2006-08-20">
     <introduction>A list of books I read.</introduction>
     <book>
+        <date>2020.04.10</date>
+        <title>Capitale de la douleur</title>
+        <author>Paul Éluard</author>
+        <publishingyear>1926</publishingyear>
+        <rating>3.5</rating>
+        <url>https://fr.wikipedia.org/wiki/Capitale_de_la_douleur</url>
+        <notes description="Kindle highlights"></notes>
+        <comments>C'est certainement très bon, mais ça ne m'a absolument pas touché. Je dois manquer des clés nécessaires pour comprendre ce genre de poésie.</comments>
+        <image>Capitale de la douleur.jpg</image>
+    </book>
+    <book>
         <date>2020.03.30</date>
         <title>Une rencontre</title>
         <author>Milan Kundera</author>
