@@ -2,31 +2,31 @@
 <phones created="2016-04-18">
   <introduction>A list of phones I bought.</introduction>
   <phone>
-    <date>2015.10.19</date>
+    <date>2015-10-19</date>
     <brand>Apple</brand>
     <model>iPhone 6s Plus 64 GB</model>
     <comments></comments>
   </phone>
   <phone>
-    <date>2012.11.21</date>
+    <date>2012-11-21</date>
     <brand>Apple</brand>
     <model>iPhone 5 64 GB</model>
     <comments></comments>
   </phone>
   <phone>
-    <date>2009.06.29</date>
+    <date>2009-06-29</date>
     <brand>Apple</brand>
     <model>iPhone 3GS 32 GB</model>
     <comments></comments>
   </phone>
   <phone>
-    <date>2004.02.03</date>
+    <date>2004-02-03</date>
     <brand>Sony Ericsson</brand>
     <model>T630</model>
     <comments></comments>
   </phone>
   <phone>
-    <date>2002.04.20</date>
+    <date>2002-04-20</date>
     <brand>Nokia</brand>
     <model>5210</model>
     <comments></comments>
