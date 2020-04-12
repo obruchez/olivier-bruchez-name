@@ -2,6 +2,12 @@
 <podcasts created="2016-05-10">
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date>2020-04-12</date>
+    <name url="http://verybadwizards.com/">Very Bad Wizards</name>
+    <episode url="https://verybadwizards.fireside.fm/185" number="185">The Devil's Playground</episode>
+    <comments>This time, I only listened to the second part, about <a href="https://en.wikipedia.org/wiki/In_Praise_of_Idleness_and_Other_Essays"><i>In Praise of Idleness</i></a> by Bertrand Russell: "In the eponymous essay, Russell argues that if labour was equitably shared out amongst everyone, resulting in shorter work days, unemployment would decrease and human happiness would increase due to the increase in leisure time, further resulting in increased involvement in the arts and sciences." Dave and Tamler mainly talked about workaholism, which has been a thing in finance, law, and medicine for a long time, and also in academia for quite some time now. I strongly agree with <a href="https://www.reddit.com/r/VeryBadWizards/comments/foccrr/185_the_devils_playground/flhqgtm/">this Reddit comment</a>: "When listening to the workaholism segment, I felt like I was listening to people from another planet. Perhaps it's indicative of my middle-class upbringing or a hallmark of modest life expectations but I had no idea that people wanted to work so hard or cared so much about how much work they were doing was perceived by their peers. I work a comfortable middle-class job, care deeply about doing a good job but don't think twice about taking time off or demanding work-life balance. [...] Could this be just an American perspective?"</comments>
+  </podcast>
+  <podcast>
     <date>2020-04-10</date>
     <name url="http://verybadwizards.com/">Very Bad Wizards</name>
     <episode url="https://verybadwizards.fireside.fm/184" number="184">Tainted Glove</episode>
