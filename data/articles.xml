@@ -2,6 +2,11 @@
 <articles created="2017-01-11">
   <introduction>A list of articles I read.</introduction>
   <article>
+    <date>2020-04-12</date>
+    <title url="http://www.lihaoyi.com/post/TheDeathofHypeWhatsNextforScala.html">The Death of Hype: What's Next for Scala</title>
+    <comments>"While amount of hype around the Scala language has definitely died down over the years, the usage seems to be growing at a steady clip, and the experience of using the language has been improving rapidly. This is exactly what you would expect as a language progresses through the hype cycle, and moves from a fad-driven community to a value-driven community. Scala developers are using the language, not as an end unto itself, but instead as a solid tool they can use to accomplish their non-Scala-related technical or business objectives."</comments>
+  </article>
+  <article>
     <date>2020-04-11</date>
     <title url="https://www.theguardian.com/news/2020/jan/24/wilderness-solo-splendid-isolation-stopped-time-sitting-in-a-forest-24-hours">Splendid isolation: how I stopped time by sitting in a forest for 24 hours</title>
     <subtitle>My life seemed to be getting busier, faster: I felt constantly short of time – so I stepped outside it for a day and a night and did nothing.</subtitle>
