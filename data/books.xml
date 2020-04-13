@@ -1153,6 +1153,7 @@
         <notes description="Kindle highlights">Free Will (Sam Harris).md</notes>
         <image>Free Will.jpg</image>
 	</book>
+    <!-- GR -->
 	<book>
 		<date>2012-04-06</date>
 		<title>Bad Science</title>
@@ -1193,7 +1194,6 @@
         <notes description="Kindle highlights">God's Debris (Scott Adams).md</notes>
         <image>God's Debris.jpg</image>
 	</book>
-    <!-- GR -->
 	<book>
 		<date>2011-07-08</date>
 		<title>Institutions politiques suisses</title>
