@@ -167,13 +167,14 @@
     <comments>C'est une série britannique que j'ai dû voir sur la Télévision Suisse Romande (TSR) fin 1985 ou fin 1986 (la chaîne l'a diffusée deux fois). Je m'en souvenais vaguement (un coffret permettant de changer de taille et de voler), mais n'ai retrouvé son nom que très récemment. A l'époque, c'était une série que je trouvais vraiment "magique". Je me suis prêté à une expérience pour voir ce qui restait de cette magie 32 ou 33 ans plus tard, en regardant une version doublée en français (pour être au plus proche de ce que j'avais vu à l'époque) et de piètre qualité (vieille VHS) sur YouTube. Résultat des courses : c'est globalement assez niais. Certainement que le doublage <i>cheap</i> n'aide pas, mais une série comme <i>The Tripods</i>, dans un autre style mais également produite par la BBC à la même époque, a définitivement mieux vieilli, malgré ses défauts.</comments>
     <image>The Box of Delights.jpg</image>
   </show>
-  <!-- image missing -->
   <show>
     <date>2018-07-12</date>
     <name url="https://en.wikipedia.org/wiki/Westworld_(TV_series)">Westworld</name>
     <series url="https://en.wikipedia.org/wiki/Westworld_(season_2)" type="season">2</series>
     <comments>The first season was excellent. The second season was a bit more difficult to follow (different timelines, etc.), but still good,  with intriguing philosophical questions. I'm not sure where it can go from there, though.</comments>
+    <image>Westworld.jpg</image>
   </show>
+  <!-- image missing -->
   <show>
     <date>2018-06-15</date>
     <name url="https://en.wikipedia.org/wiki/Fargo_(TV_series)">Fargo</name>
@@ -451,6 +452,7 @@
     <date>2016-12-05</date>
     <name url="https://en.wikipedia.org/wiki/Westworld_(TV_series)">Westworld</name>
     <series url="https://en.wikipedia.org/wiki/Westworld_(season_1)" type="season">1</series>
+    <image>Westworld.jpg</image>
   </show>
   <show>
     <date>2016-11-24</date>
