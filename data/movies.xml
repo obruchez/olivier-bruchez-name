@@ -2733,7 +2733,6 @@
     <rating>5.0</rating>
     <image>Todo sobre mi madre.jpg</image>
   </movie>
-  <!-- image missing --> 
   <movie>
     <date>2012-06-11</date>
     <theater>Flight TN08, Air Tahiti Nui</theater>Los Angeles-Paris
@@ -2741,6 +2740,7 @@
     <title>The Vow</title>
     <url>http://www.imdb.com/title/tt1606389/</url>
     <rating>4.5</rating>
+    <image>The Vow.jpg</image>
   </movie> 
   <movie>
     <date>2012-06-10</date>
@@ -2749,7 +2749,9 @@
     <title>La délicatesse</title>
     <url>http://www.imdb.com/title/tt1828995/</url>
     <rating>4.5</rating>
-  </movie> 
+    <image>La délicatesse.jpg</image>
+  </movie>
+  <!-- image missing --> 
   <movie>
     <date>2012-06-10</date>
     <theater>Flight TN08, Air Tahiti Nui</theater>Papeete-Los Angeles
