@@ -2751,7 +2751,6 @@
     <rating>4.5</rating>
     <image>La délicatesse.jpg</image>
   </movie>
-  <!-- image missing --> 
   <movie>
     <date>2012-06-10</date>
     <theater>Flight TN08, Air Tahiti Nui</theater>Papeete-Los Angeles
@@ -2759,6 +2758,7 @@
     <title>Mon pire cauchemar</title>
     <url>http://www.imdb.com/title/tt1718835/</url>
     <rating>4.0</rating>
+    <image>Mon pire cauchemar.jpg</image>
   </movie> 
   <movie>
     <date>2012-06-09</date>
@@ -2769,7 +2769,9 @@
     <version>fr</version>
     <url>http://www.imdb.com/title/tt1277953/</url>
     <rating>4.75</rating>
-  </movie> 
+    <image>Madagascar 3 - Europe's Most Wanted.jpg</image>
+  </movie>
+  <!-- image missing --> 
   <movie>
     <date>2012-05-19</date>
     <theater>Galeries, Lausanne</theater>
