@@ -2771,7 +2771,6 @@
     <rating>4.75</rating>
     <image>Madagascar 3 - Europe's Most Wanted.jpg</image>
   </movie>
-  <!-- image missing --> 
   <movie>
     <date>2012-05-19</date>
     <theater>Galeries, Lausanne</theater>
@@ -2779,6 +2778,7 @@
     <title>Le prénom</title>
     <url>http://www.imdb.com/title/tt2179121/</url>
     <rating>5.0</rating>
+    <image>Le prénom.jpg</image>
   </movie> 
   <movie>
     <date>2012-05-17</date>
@@ -2787,7 +2787,9 @@
     <title>Moonrise Kingdom</title>
     <url>http://www.imdb.com/title/tt1748122/</url>
     <rating>5.25</rating>
+    <image>Moonrise Kingdom.jpg</image>
   </movie>
+  <!-- image missing --> 
   <movie>
     <date>2012-05-14</date>
     <theater>Pathé Flon, Lausanne</theater>
