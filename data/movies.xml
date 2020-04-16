@@ -2789,7 +2789,6 @@
     <rating>5.25</rating>
     <image>Moonrise Kingdom.jpg</image>
   </movie>
-  <!-- image missing --> 
   <movie>
     <date>2012-05-14</date>
     <theater>Pathé Flon, Lausanne</theater>
@@ -2797,6 +2796,7 @@
     <title>Dark Shadows</title>
     <url>http://www.imdb.com/title/tt1077368/</url>
     <rating>4.75</rating>
+    <image>Dark Shadows.jpg</image>
   </movie> 
   <movie>
     <date>2012-04-27</date>
@@ -2805,7 +2805,9 @@
     <title>We Bought a Zoo</title>
     <url>http://www.imdb.com/title/tt1389137/</url>
     <rating>4.5</rating>
-  </movie> 
+    <image>We Bought a Zoo.jpg</image>
+  </movie>
+  <!-- image missing --> 
   <movie>
     <date>2012-04-23</date>
     <theater>Galeries, Lausanne</theater>
