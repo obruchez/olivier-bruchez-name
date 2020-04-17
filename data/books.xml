@@ -2,6 +2,17 @@
 <books created="2006-08-20">
     <introduction>A list of books I read.</introduction>
     <book>
+        <date>2020-04-15</date>
+        <title>Life, the Universe and Everything</title>
+        <author>Douglas Adams</author>
+        <publishingyear>1982</publishingyear>
+        <rating>4.75</rating>
+        <url>https://en.wikipedia.org/wiki/Life,_the_Universe_and_Everything</url>
+        <notes description="Kindle highlights"></notes>
+        <comments>I particularly liked the part where Arthur discovered he could fly.</comments>
+        <image>Life, the Universe and Everything.jpg</image>
+    </book>
+    <book>
         <date>2020-04-10</date>
         <title>Capitale de la douleur</title>
         <author>Paul Éluard</author>
