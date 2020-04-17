@@ -6474,6 +6474,16 @@
     <version>fr</version>
   </movie>
   <movie>
+    <date>2000-04-17</date>
+    <theater home="true"/>
+    <director>Luc Besson</director>
+    <title>The Fifth Element</title>
+    <title language="fr">Le cinquième élément</title>
+    <version>fr</version>
+    <url>https://www.imdb.com/title/tt0119116/</url>
+    <image>The Fifth Element.jpg</image>
+  </movie>
+  <movie>
     <date>2000-04-12</date>
     <title>Taxi 2</title>
     <version>fr</version>
