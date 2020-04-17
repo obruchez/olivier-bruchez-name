@@ -2807,7 +2807,6 @@
     <rating>4.5</rating>
     <image>We Bought a Zoo.jpg</image>
   </movie>
-  <!-- image missing --> 
   <movie>
     <date>2012-04-23</date>
     <theater>Galeries, Lausanne</theater>
@@ -2815,6 +2814,7 @@
     <title>L'enfant d'en haut</title>
     <url>http://www.imdb.com/title/tt2062969/</url>
     <rating>3.75</rating>
+    <image>L'enfant d'en haut.jpg</image>
   </movie> 
   <movie>
     <date>2012-03-31</date>
@@ -2824,7 +2824,9 @@
     <title language="en">Fear City: A Family-Style Comedy</title>
     <url>http://www.imdb.com/title/tt0109440/</url>
     <rating>4.25</rating>
+    <image>La cité de la peur.jpg</image>
   </movie>
+  <!-- image missing --> 
   <movie>
     <date>2012-03-21</date>
     <theater>Galeries, Lausanne</theater>
