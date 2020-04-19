@@ -10,6 +10,13 @@
   </show>
   <show>
     <date></date>
+    <name url="https://en.wikipedia.org/wiki/Breaking_Bad">Breaking Bad</name>
+    <series url="https://en.wikipedia.org/wiki/Breaking_Bad_(season_1)" type="season">1</series>
+    <comments></comments>
+    <image>Breaking Bad.jpg</image>
+  </show>
+  <show>
+    <date></date>
     <name url="https://en.wikipedia.org/wiki/Rick_and_Morty">Rick and Morty</name>
     <series url="https://en.wikipedia.org/wiki/Rick_and_Morty_(season_4)" type="season">4</series>
     <comments></comments>
