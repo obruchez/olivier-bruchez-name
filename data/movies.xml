@@ -2826,7 +2826,6 @@
     <rating>4.25</rating>
     <image>La cité de la peur.jpg</image>
   </movie>
-  <!-- image missing --> 
   <movie>
     <date>2012-03-21</date>
     <theater>Galeries, Lausanne</theater>
@@ -2834,6 +2833,7 @@
     <title>Monsieur Lazhar</title>
     <url>http://www.imdb.com/title/tt2011971/</url>
     <rating>5.0</rating>
+    <image>Monsieur Lazhar.jpg</image>
   </movie>  
   <movie>
     <date>2012-02-25</date>
@@ -2843,7 +2843,9 @@
     <title language="en">The Science of Sleep</title>
     <url>http://www.imdb.com/title/tt0354899/</url>
     <rating>4.75</rating>
+    <image>La science des rêves.jpg</image>
   </movie>
+  <!-- image missing --> 
   <movie>
     <date>2012-02-08</date>
     <theater>Le Bourg, Lausanne</theater>
