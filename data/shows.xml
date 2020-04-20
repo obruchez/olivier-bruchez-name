@@ -181,12 +181,12 @@
     <comments>The first season was excellent. The second season was a bit more difficult to follow (different timelines, etc.), but still good,  with intriguing philosophical questions. I'm not sure where it can go from there, though.</comments>
     <image>Westworld.jpg</image>
   </show>
-  <!-- image missing -->
   <show>
     <date>2018-06-15</date>
     <name url="https://en.wikipedia.org/wiki/Fargo_(TV_series)">Fargo</name>
     <series url="https://en.wikipedia.org/wiki/Fargo_(season_3)" type="season">3</series>
     <comments>It's officially one of my favorite shows. I can't wait for the fourth season (which will not be aired before 2020, apparently).</comments>
+    <image>Fargo.jpg</image>
   </show>
   <show>
     <date>2018-05-29</date>
@@ -214,12 +214,14 @@
     <name url="https://en.wikipedia.org/wiki/Fargo_(TV_series)">Fargo</name>
     <series url="https://en.wikipedia.org/wiki/Fargo_(season_2)" type="season">2</series>
     <comments>I found it quite hard to leave behind all the characters from season 1, but then I became quickly attached to the new characters. All in all an excellent season for an excellent show. With a touch of mystery / science fiction (UFO).</comments>
+    <image>Fargo.jpg</image>
   </show>
   <show>
     <date>2018-04-09</date>
     <name url="https://en.wikipedia.org/wiki/Fargo_(TV_series)">Fargo</name>
     <series url="https://en.wikipedia.org/wiki/Fargo_(season_1)" type="season">1</series>
     <comments>An excellent show! I'm watching it without knowing anything about it, so I was very surprised by the end of the season.</comments>
+    <image>Fargo.jpg</image>
   </show>
   <show>
     <date>2018-04-06</date>
@@ -312,6 +314,7 @@
     <comments>Again, a fantastic show (I'm repeating myself, here). Season 3 was more fast-paced than season 2. It was very dark/depressing, as usual. My only complaint would be that there were maybe a little too many twists and turns. I'm relieved that the show is not going the "<i>Lost</i> way" (yet), though, i.e. using paranormal and time travel to explain things.</comments>
     <image>Mr. Robot.jpg</image>
   </show>
+  <!-- image missing -->
   <show>
     <date>2017-10-31</date>
     <name url="https://en.wikipedia.org/wiki/Episodes_%28TV_series%29">Episodes</name>
