@@ -2845,7 +2845,6 @@
     <rating>4.75</rating>
     <image>La science des rêves.jpg</image>
   </movie>
-  <!-- image missing --> 
   <movie>
     <date>2012-02-08</date>
     <theater>Le Bourg, Lausanne</theater>
@@ -2854,6 +2853,7 @@
     <url>http://www.imdb.com/title/tt0017136/</url>
     <rating>5.25</rating>
     <comments>Music by Bit-Tuner.</comments>
+    <image>Metropolis.jpg</image>
   </movie>    
   <movie>
     <date>2012-01-05</date>
@@ -2862,7 +2862,9 @@
     <title>Intouchables</title>
     <url>http://www.imdb.com/title/tt1675434/</url>
     <rating>5.0</rating>
-  </movie>  
+    <image>Intouchables.jpg</image>
+  </movie>
+  <!-- image missing --> 
   <movie>
     <date>2011-12-26</date>
     <theater home="true"/>
