@@ -2864,7 +2864,6 @@
     <rating>5.0</rating>
     <image>Intouchables.jpg</image>
   </movie>
-  <!-- image missing --> 
   <movie>
     <date>2011-12-26</date>
     <theater home="true"/>
@@ -2872,6 +2871,7 @@
     <title>Super 8</title>
     <url>http://www.imdb.com/title/tt1650062/</url>
     <rating>4.5</rating>
+    <image>Super 8.jpg</image>
   </movie>
   <movie>
     <date>2011-11-25</date>
@@ -2880,7 +2880,9 @@
     <title>La classe américaine</title>
     <url>http://www.imdb.com/title/tt0321715/</url>
     <rating>3.0</rating>
-  </movie>    
+    <image>La Classe américaine.jpg</image>
+  </movie>
+  <!-- image missing -->  
   <movie>
     <date>2011-10-15</date>
     <theater>Galeries, Lausanne</theater>
