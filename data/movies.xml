@@ -2882,7 +2882,6 @@
     <rating>3.0</rating>
     <image>La Classe américaine.jpg</image>
   </movie>
-  <!-- image missing -->  
   <movie>
     <date>2011-10-15</date>
     <theater>Galeries, Lausanne</theater>
@@ -2890,6 +2889,7 @@
     <title>Crazy, Stupid, Love</title>
     <url>http://www.imdb.com/title/tt1570728/</url>
     <rating>4.75</rating>
+    <image>Crazy, Stupid, Love.jpg</image>
   </movie>  
   <movie>
     <date>2011-10-14</date>
@@ -2898,7 +2898,9 @@
     <title>Scream 4</title>
     <url>http://www.imdb.com/title/tt1262416/</url>
     <rating>3.5</rating>
+    <image>Scream 4.jpg</image>
   </movie>
+  <!-- image missing -->  
   <movie>
     <date>2011-09-17</date>
     <theater home="true"/>
