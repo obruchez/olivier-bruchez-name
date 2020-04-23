@@ -2,6 +2,8 @@
 <movies created="2000-03-05">
   <introduction>A list of movies I saw.</introduction>
   <!-- Checklist: add rating to IMDb -->
+  
+  <!-- "C'est vieux comme le monde, ça, la nouveauté." -->
   <movie>
     <date>2020-04-09</date>
     <theater home="true"/>
