@@ -2902,7 +2902,6 @@
     <rating>3.5</rating>
     <image>Scream 4.jpg</image>
   </movie>
-  <!-- image missing -->  
   <movie>
     <date>2011-09-17</date>
     <theater home="true"/>
@@ -2910,6 +2909,7 @@
     <title>Dogville</title>
     <url>http://www.imdb.com/title/tt0276919/</url>
     <rating>5.0</rating>
+    <image>Dogville.jpg</image>
   </movie>
   <movie>
     <date>2011-09-16</date>
@@ -2918,7 +2918,9 @@
     <title>Dancer in the Dark</title>
     <url>http://www.imdb.com/title/tt0168629/</url>
     <rating>5.25</rating>
+    <image>Dancer in the Dark.jpg</image>
   </movie>
+  <!-- image missing -->
   <movie>
     <date>2011-09-11</date>
     <theater home="true"/>
