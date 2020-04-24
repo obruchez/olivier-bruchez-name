@@ -2,6 +2,30 @@
 <podcasts created="2016-05-10">
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date>2020-04-23</date>
+    <name url="http://verybadwizards.com/">Very Bad Wizards</name>
+    <episode url="https://verybadwizards.fireside.fm/187" number="187">More Zither</episode>
+    <comments></comments> <!-- Third Man -->
+  </podcast>
+  <podcast>
+    <date>2020-04-23</date>
+    <name url="http://verybadwizards.com/">Very Bad Wizards</name>
+    <episode>Bonus Episode: Blue Velvet (With Jesse Graham and Natalia Washington)</episode>
+    <comments></comments>
+  </podcast>
+  <podcast>
+    <date>2020-04-23</date>
+    <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
+    <episode url="https://samharris.org/podcasts/198-april-16-2020/" number="198">April 16, 2020 - A Conversation with Paul Bloom</episode>
+    <comments></comments>
+  </podcast>
+  <podcast>
+    <date>2020-04-22</date>
+    <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
+    <episode url="https://samharris.org/podcasts/197-april-12-2020/" number="197">April 12, 2020 - A Conversation with Caitlin Flanagan</episode>
+    <comments></comments>
+  </podcast>
+  <podcast>
     <date>2020-04-21</date>
     <name url="http://peachandblack.podbean.com/">Peach &amp; Black Podcast</name>
     <episode url="https://peachandblack.podbean.com/e/prince-1999-super-deluxe-review-part-6/">Plus Episode: Prince 1999 Super Deluxe Review - Part 6</episode>
@@ -580,7 +604,7 @@
   <podcast>
     <date>2019-08-13</date>
     <name url="http://verybadwizards.com/">Very Bad Wizards</name>
-    <episode>Rick and Morty (with Yoel Inbar)</episode>
+    <episode>Bonus Episode: Rick and Morty (with Yoel Inbar)</episode>
     <comments>I love <i>Rick and Morty</i>. As discussed in the episode, the show is full of ideas. Even subplots could be full-length episodes.</comments>
   </podcast>
   <podcast>
@@ -700,7 +724,7 @@
   <podcast>
     <date>2019-05-16</date>
     <name url="http://verybadwizards.com/">Very Bad Wizards</name>
-    <episode>Twin Peaks Part II</episode>
+    <episode>Bonus Episode: Twin Peaks Part II</episode>
     <comments>This was a more interesting (and focused?) discussion than the first one. I liked the parts about the relationship between Lynch and Frost, and between Twin Peaks and the rest of Lynch's body of work. I'm glad to learn that I'm not the only one having difficulties with <i>Inland Empire</i>. I know I want to watch it again, someday, but I never find the energy/motivation to do it. I know it will be a demanding experience.</comments>
   </podcast>
   <podcast>
