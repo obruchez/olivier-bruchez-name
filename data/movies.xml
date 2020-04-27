@@ -2920,7 +2920,6 @@
     <rating>5.25</rating>
     <image>Dancer in the Dark.jpg</image>
   </movie>
-  <!-- image missing -->
   <movie>
     <date>2011-09-11</date>
     <theater home="true"/>
@@ -2928,6 +2927,7 @@
     <title>Hansel and Gretel</title>
     <url>http://www.imdb.com/title/tt0093144/</url>
     <rating>4.0</rating>
+    <image>Hansel and Gretel.jpg</image>
   </movie>
   <movie>
     <date>2011-09-10</date>
@@ -2936,7 +2936,9 @@
     <title>Melancholia</title>
     <url>http://www.imdb.com/title/tt1527186/</url>
     <rating>5.25</rating>
+    <image>Melancholia.jpg</image>
   </movie>
+  <!-- image missing -->
   <movie>
     <date>2011-09-01</date>
     <theater>Galeries, Lausanne</theater>
