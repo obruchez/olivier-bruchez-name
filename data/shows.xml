@@ -321,13 +321,14 @@
     <comments>Again, a fantastic show (I'm repeating myself, here). Season 3 was more fast-paced than season 2. It was very dark/depressing, as usual. My only complaint would be that there were maybe a little too many twists and turns. I'm relieved that the show is not going the "<i>Lost</i> way" (yet), though, i.e. using paranormal and time travel to explain things.</comments>
     <image>Mr. Robot.jpg</image>
   </show>
-  <!-- image missing -->
   <show>
     <date>2017-10-31</date>
     <name url="https://en.wikipedia.org/wiki/Episodes_%28TV_series%29">Episodes</name>
     <series url="https://en.wikipedia.org/wiki/List_of_Episodes_episodes#Season_5_(2017)" type="series">5</series>
     <comments>A fun show. Matt LeBlanc playing Matt LeBlanc was an excellent idea, at least in 2011. Then it kind of lost its charm over the years, so it's a good thing this is the final series/season, even if I enjoyed it, overall.</comments>
+    <image>Episodes.jpg</image>
   </show>
+  <!-- image missing -->
   <show>
     <date>2017-09-30</date>
     <name url="https://en.wikipedia.org/wiki/Twin_Peak">Twin Peaks</name>
@@ -675,6 +676,7 @@
     <date>2015-05-04</date>
     <name url="https://en.wikipedia.org/wiki/Episodes_%28TV_series%29">Episodes</name>
     <series url="https://en.wikipedia.org/wiki/List_of_Episodes_episodes#Season_4_(2015)" type="series">4</series>
+    <image>Episodes.jpg</image>
   </show>
   <show>
     <date>2015-04-24</date>
@@ -690,6 +692,7 @@
     <date>2015-03-15</date>
     <name url="https://en.wikipedia.org/wiki/Episodes_%28TV_series%29">Episodes</name>
     <series url="https://en.wikipedia.org/wiki/List_of_Episodes_episodes#Season_3_(2014)" type="series">3</series>
+    <image>Episodes.jpg</image>
   </show>
   <show>
     <date>2014-09-28</date>
@@ -705,6 +708,7 @@
     <date>2014-09-15</date>
     <name url="https://en.wikipedia.org/wiki/Episodes_%28TV_series%29">Episodes</name>
     <series url="https://en.wikipedia.org/wiki/List_of_Episodes_episodes#Season_2_(2012)" type="series">2</series>
+    <image>Episodes.jpg</image>
   </show>
   <show>
     <date>2014-09-05</date>
@@ -733,6 +737,7 @@
     <date>2014-08-15</date>
     <name url="https://en.wikipedia.org/wiki/Episodes_%28TV_series%29">Episodes</name>
     <series url="https://en.wikipedia.org/wiki/List_of_Episodes_episodes#Season_1_(2011)" type="series">1</series>
+    <image>Episodes.jpg</image>
   </show> 
   <show>
     <date>2014-08-15</date>
