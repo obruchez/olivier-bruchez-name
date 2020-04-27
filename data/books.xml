@@ -1083,6 +1083,7 @@
         <notes description="Kindle highlights">Le Mythe de Sisyphe (Albert Camus).md</notes>
         <image>Le Mythe de Sisyphe.jpg</image>
     </book>
+    <!-- GR -->
     <book>
         <date>2013-03-07</date>
         <title>Le Voyage d'hiver</title>
@@ -1122,7 +1123,6 @@
         <url>https://books.google.com/books/about/JavaScript_The_Good_Parts.html?id=PXa2bby0oQ0C</url>
         <image>JavaScript - The Good Parts.jpg</image>
     </book>
-    <!-- GR -->
     <book>
         <date>2012-11-28</date>
         <title>L'Étranger</title>
