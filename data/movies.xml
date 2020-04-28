@@ -2938,7 +2938,6 @@
     <rating>5.25</rating>
     <image>Melancholia.jpg</image>
   </movie>
-  <!-- image missing -->
   <movie>
     <date>2011-09-01</date>
     <theater>Galeries, Lausanne</theater>
@@ -2946,6 +2945,7 @@
     <title>Medianeras</title>
     <url>http://www.imdb.com/title/tt1235841/</url>
     <rating>5.0</rating>
+    <image>Medianeras.jpg</image>
   </movie>
   <movie>
     <date>2011-09-01</date>
@@ -2953,7 +2953,9 @@
     <director>Patrick Jean</director>
     <title>Pixels</title>
     <rating>3.5</rating>
+    <image>Pixels.jpg</image>
   </movie>
+  <!-- image missing -->
   <movie>
     <date>2011-08-21</date>
     <theater>Galeries, Lausanne</theater>
