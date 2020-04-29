@@ -2955,7 +2955,6 @@
     <rating>3.5</rating>
     <image>Pixels.jpg</image>
   </movie>
-  <!-- image missing -->
   <movie>
     <date>2011-08-21</date>
     <theater>Galeries, Lausanne</theater>
@@ -2964,6 +2963,7 @@
     <title language="en">The Skin I Live In</title>
     <url>http://www.imdb.com/title/tt1189073/</url>
     <rating>5.0</rating>
+    <image>La piel que habito.jpg</image>
   </movie>
   <movie>
     <date>2011-07-26</date>
@@ -2972,7 +2972,9 @@
     <title>Harry Potter and the Deathly Hallows: Part 2</title>
     <url>http://www.imdb.com/title/tt1201607/</url>
     <rating>4.75</rating>
+    <image>Harry Potter and the Deathly Hallows - Part 2.jpg</image>
   </movie>
+  <!-- image missing -->
   <movie>
     <date>2011-07-22</date>
     <theater home="true"/>
