@@ -2,8 +2,16 @@
 <movies created="2000-03-05">
   <introduction>A list of movies I saw.</introduction>
   <!-- Checklist: add rating to IMDb -->
-  
-  <!-- "C'est vieux comme le monde, ça, la nouveauté." -->
+  <movie>
+    <date>2020-04-29</date>
+    <theater home="true"/>
+    <director>Marcel Carné</director>
+    <title>Les Enfants du Paradis</title>
+    <url>https://www.imdb.com/title/tt0037674/</url>
+    <rating>5.0</rating>
+    <comments>"C'est vieux comme le monde, ça, la nouveauté." Un film qui pourrait me réconcilier avec le cinéma français. En tout cas celui d'une certaine époque. Un scénario de Jacques Prévert et des acteurs "d'un autre temps", mais vraiment remarquables : ce film est vraiment très différent de tout ce que j'ai pu voir récemment.</comments>
+    <image>Les Enfants du Paradis.jpg</image>
+  </movie>
   <movie>
     <date>2020-04-09</date>
     <theater home="true"/>
