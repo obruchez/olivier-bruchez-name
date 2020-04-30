@@ -2982,7 +2982,6 @@
     <rating>4.75</rating>
     <image>Harry Potter and the Deathly Hallows - Part 2.jpg</image>
   </movie>
-  <!-- image missing -->
   <movie>
     <date>2011-07-22</date>
     <theater home="true"/>
@@ -2990,6 +2989,7 @@
     <title>Return to Twin Peaks</title>
     <url>http://www.imdb.com/title/tt1441869/</url>
     <rating>4.0</rating>
+    <image>Return to Twin Peaks.jpg</image>
   </movie>
   <movie>
     <date>2011-07-21</date>
@@ -2998,7 +2998,9 @@
     <title>Secrets from Another Place: Creating Twin Peaks</title>
     <url>http://www.imdb.com/title/tt1139622/</url>
     <rating>4.5</rating>
+    <image>Secrets from Another Place - Creating Twin Peaks.jpg</image>
   </movie>
+  <!-- image missing -->
   <movie>
     <date>2011-07-16</date>
     <theater home="true"/>
