@@ -6497,6 +6497,14 @@
     <version>fr</version>
   </movie>
   <movie>
+    <date>2000-04-30</date>
+    <theater home="true"/>
+    <director>David Fincher</director>
+    <title>Se7en</title>
+    <url>https://www.imdb.com/title/tt0114369/</url>
+    <image>Se7en.jpg</image>
+  </movie>
+  <movie>
     <date>2000-04-27</date>
     <title>Scream 3</title>
     <version>fr</version>
