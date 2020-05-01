@@ -3000,7 +3000,6 @@
     <rating>4.5</rating>
     <image>Secrets from Another Place - Creating Twin Peaks.jpg</image>
   </movie>
-  <!-- image missing -->
   <movie>
     <date>2011-07-16</date>
     <theater home="true"/>
@@ -3008,6 +3007,7 @@
     <title>A Slice of Lynch</title>
     <url>http://www.imdb.com/title/tt1139630/</url>
     <rating>3.0</rating>
+    <image>A Slice of Lynch.jpg</image>
   </movie>
   <movie>
     <date>2011-07-13</date>
@@ -3017,7 +3017,9 @@
     <version>fr</version>
     <url>http://www.imdb.com/title/tt1192628/</url>
     <rating>5.0</rating>
+    <image>Rango.jpg</image>
   </movie>
+  <!-- image missing -->
   <movie>
     <date>2011-07-02</date>
     <theater>Flight LX 38, Swiss</theater>
