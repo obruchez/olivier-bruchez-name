@@ -2,6 +2,12 @@
 <podcasts created="2016-05-10">
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date>2020-05-02</date>
+    <name url="https://peterattiamd.com/podcast/">The Peter Attia Drive Podcast</name>
+    <episode url="https://peterattiamd.com/davidsinclair/" number="27">David Sinclair, Ph.D.: Slowing aging – sirtuins, NAD, and the epigenetics of aging</episode>
+    <comments>I haven't heard the latest episode with David Sinclair yet, but at that point in time it wasn't clear at all that NAD, its precursors, and resveratrol were really that useful.</comments>
+  </podcast>
+  <podcast>
     <date>2020-04-27</date>
     <name url="http://peachandblack.podbean.com/">Peach &amp; Black Podcast</name>
     <episode url="https://peachandblack.podbean.com/e/princes-non-album-tracks-vol4/">Prince's Non-Album Tracks Vol. 4</episode>
