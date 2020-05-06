@@ -2,6 +2,12 @@
 <podcasts created="2016-05-10">
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date>2020-05-06</date>
+    <name url="https://peterattiamd.com/podcast/">The Peter Attia Drive Podcast</name>
+    <episode url="https://peterattiamd.com/franciscogonzalezlima/" number="38">Francisco Gonzalez-Lima, Ph.D.: Advancing Alzheimer’s disease treatment and prevention – is AD actually a vascular and metabolic disease?</episode>
+    <comments>"In this episode, Francisco Gonzalez-Lima, a Professor of Neuroscience and Pharmacology &amp; Toxicology, explains the vascular hypothesis of Alzheimer's disease which says the central problem is a progressive neuronal energy crisis of impaired blood flow to the brain and impaired mitochondrial respiration. He walks us through the ways we can intervene in this process and also shares details of the exciting future of Alzheimer’s treatment and prevention." I should probably look more into the ketogenic diet. A vegan ketogenic diet <a href="https://www.ruled.me/comprehensive-guide-vegan-ketogenic-diet/">looks really hard, though</a>. Intermittent fasting is important (for prevention).</comments>
+  </podcast>
+  <podcast>
     <date>2020-05-02</date>
     <name url="https://peterattiamd.com/podcast/">The Peter Attia Drive Podcast</name>
     <episode url="https://peterattiamd.com/davidsinclair/" number="27">David Sinclair, Ph.D.: Slowing aging – sirtuins, NAD, and the epigenetics of aging</episode>
