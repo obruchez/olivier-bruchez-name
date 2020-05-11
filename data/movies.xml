@@ -3019,7 +3019,6 @@
     <rating>5.0</rating>
     <image>Rango.jpg</image>
   </movie>
-  <!-- image missing -->
   <movie>
     <date>2011-07-02</date>
     <theater>Flight LX 38, Swiss</theater>
@@ -3027,6 +3026,7 @@
     <title>Rango</title>
     <url>http://www.imdb.com/title/tt1192628/</url>
     <rating>5.0</rating>
+    <image>Rango.jpg</image>
   </movie>
   <movie>
     <date>2011-06-17</date>
@@ -3035,6 +3035,7 @@
     <title>The Tree of Life</title>
     <url>http://www.imdb.com/title/tt0478304/</url>
     <rating>5.0</rating>
+    <image>The Tree of Life.jpg</image>
   </movie>
   <movie>
     <date>2011-06-10</date>
@@ -3043,7 +3044,9 @@
     <title>Midnight in Paris</title>
     <url>http://www.imdb.com/title/tt1605783/</url>
     <rating>5.25</rating>
+    <image>Midnight in Paris.jpg</image>
   </movie>
+  <!-- image missing -->
   <movie>
     <date>2011-06-05</date>
     <theater home="true"/>
