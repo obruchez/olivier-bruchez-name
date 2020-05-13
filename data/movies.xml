@@ -3046,7 +3046,6 @@
     <rating>5.25</rating>
     <image>Midnight in Paris.jpg</image>
   </movie>
-  <!-- image missing -->
   <movie>
     <date>2011-06-05</date>
     <theater home="true"/>
@@ -3054,6 +3053,7 @@
     <title>The Hangover</title>
     <url>http://www.imdb.com/title/tt1119646/</url>
     <rating>4.25</rating>
+    <image>The Hangover.jpg</image>
   </movie>
   <movie>
     <date>2011-06-04</date>
@@ -3063,6 +3063,7 @@
     <url>http://www.imdb.com/title/tt1298650/</url>
     <rating>4.5</rating>
     <comments>3D version.</comments>
+    <image>Pirates of the Caribbean - On Stranger Tides.jpg</image>
   </movie>
   <movie>
     <date>2011-04-16</date>
@@ -3071,6 +3072,7 @@
     <title>Mulholland Dr.</title>
     <url>http://www.imdb.com/title/tt0166924/</url>
     <rating>5.25</rating>
+    <image>Mulholland Drive.jpg</image>
   </movie>
   <movie>
     <date>2011-04-16</date>
@@ -3080,7 +3082,9 @@
     <url>http://www.imdb.com/title/tt1436562/</url>
     <rating>4.75</rating>
     <comments>3D version.</comments>
+    <image>Rio.jpg</image>
   </movie>
+  <!-- image missing -->
   <movie>
     <date>2011-03-18</date>
     <theater>Galeries, Lausanne</theater>
