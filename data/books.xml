@@ -2,6 +2,28 @@
 <books created="2006-08-20">
     <introduction>A list of books I read.</introduction>
     <book>
+        <date></date>
+        <title>L'Identité</title>
+        <author>Milan Kundera</author>
+        <publishingyear>1995</publishingyear>
+        <rating></rating>
+        <url>https://fr.wikipedia.org/wiki/L%27Identit%C3%A9</url>
+        <notes description="Kindle highlights"></notes>
+        <comments></comments>
+        <image>L'Identité.jpg</image>
+    </book>
+    <book>
+        <date>2020.05.11</date>
+        <title>The Carpet People</title>
+        <author>Terry Pratchett</author>
+        <publishingyear>1992</publishingyear>
+        <rating>4.5</rating>
+        <url>https://en.wikipedia.org/wiki/The_Carpet_People</url>
+        <notes description="Kindle highlights"></notes>
+        <comments>My first book by Terry Pratchett. I've heard a lot from him, but I'm not sure I'm a fan of his style (granted, this is probably not his most representative book).</comments>
+        <image>The Carpet People.jpg</image>
+    </book>
+    <book>
         <date>2020-04-15</date>
         <title>Life, the Universe and Everything</title>
         <author>Douglas Adams</author>
@@ -1042,6 +1064,7 @@
         <notes description="Kindle highlights">Metaphysique des Tubes (Amelie Nothomb).md</notes>
         <image>Métaphysique des tubes.jpg</image>
     </book>
+    <!-- GR -->
     <book>
         <date>2013-10-17</date>
         <title>The Selfish Gene</title>
@@ -1083,7 +1106,6 @@
         <notes description="Kindle highlights">Le Mythe de Sisyphe (Albert Camus).md</notes>
         <image>Le Mythe de Sisyphe.jpg</image>
     </book>
-    <!-- GR -->
     <book>
         <date>2013-03-07</date>
         <title>Le Voyage d'hiver</title>
