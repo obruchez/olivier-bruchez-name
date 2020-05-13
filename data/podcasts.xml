@@ -2,6 +2,24 @@
 <podcasts created="2016-05-10">
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date></date>
+    <name url="https://peterattiamd.com/podcast/">The Peter Attia Drive Podcast</name>
+    <episode url="https://peterattiamd.com/ama04/" number="45">AMA #4: sleep, jet lag protocol, autophagy, metformin, and more</episode>
+    <comments></comments>
+  </podcast>
+  <podcast>
+    <date>2020-05-12</date>
+    <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
+    <episode url="https://samharris.org/subscriber-extras/201-may-1-2020/" number="201">May 1, 2020 - A Conversation with Yuval Noah Harari</episode>
+    <comments>I had already heard a lot of what Yuval Noah Harari had to say during this episode in a conference in 2019. One idea worth thinking about: with mass surveillance and machine learning, "your whole life becomes a job interview".</comments>
+  </podcast>
+  <podcast>
+    <date>2020-05-10</date>
+    <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
+    <episode url="https://samharris.org/subscriber-extras/200-creatures-habit/" number="200">Creatures of Habit - A Conversation with James Clear</episode>
+    <comments>A lot of self-help stuff here, not always in the bad sense of the word. A summary of his ideas: <a href="https://www.samuelthomasdavies.com/book-summaries/self-help/atomic-habits/">Atomic Habits by James Clear</a>. Another one here: <a href="https://www.nateliason.com/notes/atomic-habits-james-clear">Atomic Habits by James Clear</a>.</comments>
+  </podcast>
+  <podcast>
     <date>2020-05-06</date>
     <name url="https://peterattiamd.com/podcast/">The Peter Attia Drive Podcast</name>
     <episode url="https://peterattiamd.com/franciscogonzalezlima/" number="38">Francisco Gonzalez-Lima, Ph.D.: Advancing Alzheimer’s disease treatment and prevention – is AD actually a vascular and metabolic disease?</episode>
