@@ -3084,7 +3084,6 @@
     <comments>3D version.</comments>
     <image>Rio.jpg</image>
   </movie>
-  <!-- image missing -->
   <movie>
     <date>2011-03-18</date>
     <theater>Galeries, Lausanne</theater>
@@ -3092,6 +3091,7 @@
     <title>Black Swan</title>
     <url>http://www.imdb.com/title/tt0947798/</url>
     <rating>5.25</rating>
+    <image>Black Swan.jpg</image>
   </movie>
   <movie>
     <date>2011-03-06</date>
@@ -3100,7 +3100,9 @@
     <title>127 Hours</title>
     <url>http://www.imdb.com/title/tt1542344/</url>
     <rating>5.0</rating>
+    <image>127 Hours.jpg</image>
   </movie>
+  <!-- image missing -->
   <movie>
     <date>2011-02-17</date>
     <theater>Pathé Flon, Lausanne</theater>
