@@ -3102,7 +3102,6 @@
     <rating>5.0</rating>
     <image>127 Hours.jpg</image>
   </movie>
-  <!-- image missing -->
   <movie>
     <date>2011-02-17</date>
     <theater>Pathé Flon, Lausanne</theater>
@@ -3110,6 +3109,7 @@
     <title>Black Swan</title>
     <url>http://www.imdb.com/title/tt0947798/</url>
     <rating>5.25</rating>
+    <image>Black Swan.jpg</image>
   </movie>
   <movie>
     <date>2011-02-15</date>
@@ -3118,6 +3118,7 @@
     <title>Monsters, Inc.</title>
     <url>http://www.imdb.com/title/tt0198781/</url>
     <rating>5.0</rating>
+    <image>Monsters, Inc..jpg</image>
   </movie>
   <movie>
     <date>2011-02-13</date>
@@ -3126,7 +3127,9 @@
     <title>Fargo</title>
     <url>http://www.imdb.com/title/tt0116282/</url>
     <rating>4.75</rating>
+    <image>Fargo.jpg</image>
   </movie>
+  <!-- image missing -->
   <movie>
     <date>2011-02-03</date>
     <theater>Galeries, Lausanne</theater>
