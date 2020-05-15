@@ -1,0 +1,2 @@
+# And Then There Were None (Agatha Christie)
+* ‘Of course! I can stay here! Stay here locked in! Food doesn’t really matter! I can stay here—safely—till help comes! Even if it’s a day—or two days…’ Stay here. Yes, but could she stay here? Hour after hour—with no one to speak to, with nothing to do but think… (p. 189)
