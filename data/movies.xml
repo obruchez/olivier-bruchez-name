@@ -3129,7 +3129,6 @@
     <rating>4.75</rating>
     <image>Fargo.jpg</image>
   </movie>
-  <!-- image missing -->
   <movie>
     <date>2011-02-03</date>
     <theater>Galeries, Lausanne</theater>
@@ -3137,6 +3136,7 @@
     <title>Les émotifs anonymes</title>
     <url>http://www.imdb.com/title/tt1565958/</url>
     <rating>4.75</rating>
+    <image>Les émotifs anonymes.jpg</image>
   </movie>
   <movie>
     <date>2011-01-16</date>
@@ -3145,7 +3145,9 @@
     <title>Catch Me If You Can</title>
     <url>http://www.imdb.com/title/tt0264464/</url>
     <rating>4.75</rating>
+    <image>Catch Me If You Can.jpg</image>
   </movie>
+  <!-- image missing -->
   <movie>
     <date>2011-01-14</date>
     <theater home="true"/>
