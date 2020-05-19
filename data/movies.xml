@@ -3147,7 +3147,6 @@
     <rating>4.75</rating>
     <image>Catch Me If You Can.jpg</image>
   </movie>
-  <!-- image missing -->
   <movie>
     <date>2011-01-14</date>
     <theater home="true"/>
@@ -3155,6 +3154,7 @@
     <title>Batman</title>
     <url>http://www.imdb.com/title/tt0096895/</url>
     <rating>5.0</rating>
+    <image>Batman.jpg</image>
   </movie>
   <movie>
     <date>2011-01-13</date>
@@ -3163,7 +3163,9 @@
     <title>Le nom des gens</title>
     <url>http://www.imdb.com/title/tt1646974/</url>
     <rating>4.75</rating>
+    <image>Le nom des gens.jpg</image>
   </movie>
+  <!-- image missing -->
   <movie>
     <date>2010-12-27</date>
     <theater>Les Cèdres, Sion</theater>
