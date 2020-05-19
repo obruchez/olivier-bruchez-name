@@ -1025,6 +1025,7 @@
         <notes description="Kindle highlights">Consciousness (Christof Koch).md</notes>
         <image>Confessions of a Romantic Reductionist.jpg</image>
     </book>
+    <!-- GR -->
     <book>
         <date>2013-12-16</date>
         <title>Scala in Depth</title>
@@ -1036,7 +1037,7 @@
     </book>
     <book>
         <date>2013-12-06</date>
-        <title>Pierres à cupules et autres pierres gravées: Verbier, Bagnes et Entremont</title>
+        <title>Pierres à cupules et autres pierres gravées : Verbier, Bagnes et Entremont</title>
         <author>Gilbert Bruchez, Philippe Curdy &amp; François Baillifard</author>
         <publishingyear>2009</publishingyear>
         <rating>4.5</rating>
@@ -1064,7 +1065,6 @@
         <notes description="Kindle highlights">Metaphysique des Tubes (Amelie Nothomb).md</notes>
         <image>Métaphysique des tubes.jpg</image>
     </book>
-    <!-- GR -->
     <book>
         <date>2013-10-17</date>
         <title>The Selfish Gene</title>
