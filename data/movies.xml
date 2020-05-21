@@ -3165,7 +3165,6 @@
     <rating>4.75</rating>
     <image>Le nom des gens.jpg</image>
   </movie>
-  <!-- image missing -->
   <movie>
     <date>2010-12-27</date>
     <theater>Les Cèdres, Sion</theater>
@@ -3175,6 +3174,7 @@
     <version>fr</version>
     <url>http://www.imdb.com/title/tt0926084/</url>
     <rating>4.75</rating>
+    <image>Harry Potter and the Deathly Hallows - Part 1.jpg</image>
   </movie>
   <movie>
     <date>2010-12-10</date>
@@ -3183,6 +3183,7 @@
     <title>Welcome to the Rileys</title>
     <url>http://www.imdb.com/title/tt1183923/</url>
     <rating>5.0</rating>
+    <image>Welcome to the Rileys.jpg</image>
   </movie>
   <movie>
     <date>2010-11-15</date>
@@ -3192,6 +3193,7 @@
     <version>fr</version>
     <url>http://www.imdb.com/title/tt1462758/</url>
     <rating>4.75</rating>
+    <image>Buried.jpg</image>
   </movie>
   <movie>
     <date>2010-11-12</date>
@@ -3200,6 +3202,7 @@
     <title>Les petits mouchoirs</title>
     <url>http://www.imdb.com/title/tt1440232/</url>
     <rating>4.25</rating>
+    <image>Les petits mouchoirs.jpg</image>
   </movie>
   <movie>
     <date>2010-10-16</date>
@@ -3208,6 +3211,7 @@
     <title>Futurama: The Beast with a Billion Backs</title>
     <url>http://www.imdb.com/title/tt1054485/</url>
     <rating>4.75</rating>
+    <image>Futurama - The Beast with a Billion Backs.jpg</image>
   </movie>
   <movie>
     <date>2010-10-15</date>
@@ -3216,7 +3220,9 @@
     <title>Futurama: Bender's Big Score</title>
     <url>http://www.imdb.com/title/tt0471711/</url>
     <rating>4.5</rating>
+    <image>Futurama - Bender's Big Score.jpg</image>
   </movie>
+  <!-- image missing -->
   <movie>
     <date>2010-10-08</date>
     <theater>Cinémathèque, Lausanne</theater>
