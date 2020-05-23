@@ -8,6 +8,12 @@
     <comments></comments>
   </podcast>
   <podcast>
+    <date>2020-05-20</date>
+    <name url="https://www.lamaisondesmaternelles.fr/dossier/les-podcasts-de-benjamin-muller">La Maison des Maternelles</name>
+    <episode url="https://www.lamaisondesmaternelles.fr/article/podcast-parents-epuises-comment-s-en-sortir" number="9">Parents épuisés, comment s’en sortir ?</episode>
+    <comments>Les cas présentés semblent extrêmes. Cela permet déjà de relativiser un peu...</comments>
+  </podcast>
+  <podcast>
     <date>2020-05-12</date>
     <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
     <episode url="https://samharris.org/subscriber-extras/201-may-1-2020/" number="201">May 1, 2020 - A Conversation with Yuval Noah Harari</episode>
