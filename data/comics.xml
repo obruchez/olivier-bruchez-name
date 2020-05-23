@@ -2,13 +2,23 @@
 <comics created="2017-01-28">
   <introduction>A list of comics I read.</introduction>
   <comic>
+    <date>2020-05-18</date>
+    <writer>Roger Leloup</writer>
+    <artist>Roger Leloup</artist>
+    <colorist>Studio Leonardo</colorist>
+    <series url="https://fr.wikipedia.org/wiki/Yoko_Tsuno">Yoko Tsuno</series>
+    <volume url="https://fr.wikipedia.org/wiki/Le_Septi%C3%A8me_Code" number="24">Le Septième Code</volume>
+    <comments>Pour la deuxième fois de suite, le prétexte de l'histoire est tiré par les cheveux ("Yoko, Vic, Pol et Rosée vont en Amazonie pour que Pol y dispute une partie d'échecs."). On y découvre <a href="https://fr.wikipedia.org/wiki/%C3%89milia_Mac_Kinley">Émilia</a>, un personnage qui deviendra récurrent. C'est une histoire que je n'avais, je crois, encore jamais lue, contrairement à toutes les précédentes.</comments>
+    <image>Yoko Tsuno - Le Septième Code.jpg</image>
+  </comic>
+  <comic>
     <date>2020-04-30</date>
     <writer>Roger Leloup</writer>
     <artist>Roger Leloup</artist>
     <colorist>Studio Leonardo</colorist>
     <series url="https://fr.wikipedia.org/wiki/Yoko_Tsuno">Yoko Tsuno</series>
-    <volume url="https://fr.wikipedia.org/wiki/La_Pagode_des_brumes" number="24">La Pagode des brumes</volume>
-    <comments>Une histoire mêlant voyage dans le temps, science-fiction et mystère. C'est un peu tiré par les cheveux par moments (le prétexte pour faite le voyage dans le temps, en particulier), mais les paysages et les bâtiments sont très beaux, comme souvent.</comments>
+    <volume url="https://fr.wikipedia.org/wiki/La_Pagode_des_brumes" number="23">La Pagode des brumes</volume>
+    <comments>Une histoire mêlant voyage dans le temps, science-fiction et mystère. C'est un peu tiré par les cheveux par moments (le prétexte pour faire le voyage dans le temps, en particulier), mais les paysages et les bâtiments sont très beaux, comme souvent.</comments>
     <image>Yoko Tsuno - La Pagode des brumes.jpg</image>
   </comic>
   <comic>
