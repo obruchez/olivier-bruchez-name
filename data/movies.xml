@@ -6509,6 +6509,15 @@
     <title>Matrix</title>
   </movie>
   <movie>
+    <date>2000-05-22</date>
+    <theater home="true"/>
+    <director>Barry Sonnenfeld</director>
+    <title>Men In Black</title>
+    <version>fr</version>
+    <url>https://www.imdb.com/title/tt0119654/</url>
+    <image>Men In Black.jpg</image>
+  </movie>
+  <movie>
     <date>2000-05-16</date>
     <title>Hypnose</title>
     <version>fr</version>
@@ -6948,8 +6957,11 @@
   </movie>
   <movie>
     <date>1997-09-13</date>
+    <director>Barry Sonnenfeld</director>
     <title>Men In Black</title>
     <version>fr</version>
+    <url>https://www.imdb.com/title/tt0119654/</url>
+    <image>Men In Black.jpg</image>
   </movie>
   <movie>
     <date>1997-08-19</date>
