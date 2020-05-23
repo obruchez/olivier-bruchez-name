@@ -3,6 +3,17 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Checklist: add rating to IMDb -->
   <movie>
+    <date>2020-05-19</date>
+    <theater home="true"/>
+    <director>Ingmar Bergman</director>
+    <title>Wild Strawberries</title>
+    <title language="sv">Smultronstället</title>
+    <url>https://www.imdb.com/title/tt0050986/</url>
+    <rating>5.0</rating>
+    <comments>I really like movies with dream sequences. This is probably a more relatable movie than <i>The Seventh Seal</i>, but so far I think I can say I'm a fan of Bergman.</comments>
+    <image>Wild Strawberries.jpg</image>
+  </movie>
+  <movie>
     <date>2020-04-29</date>
     <theater home="true"/>
     <director>Marcel Carné</director>
