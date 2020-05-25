@@ -3233,7 +3233,6 @@
     <rating>4.5</rating>
     <image>Futurama - Bender's Big Score.jpg</image>
   </movie>
-  <!-- image missing -->
   <movie>
     <date>2010-10-08</date>
     <theater>Cinémathèque, Lausanne</theater>
@@ -3241,6 +3240,7 @@
     <title>Ghost World</title>
     <url>http://www.imdb.com/title/tt0162346/</url>
     <rating>5.0</rating>
+    <image>Ghost World.jpg</image>
   </movie>
   <movie>
     <date>2010-08-28</date>
@@ -3249,7 +3249,9 @@
     <title>Inception</title>
     <url>http://www.imdb.com/title/tt1375666/</url>
     <rating>5.25</rating>
+    <image>Inception.jpg</image>
   </movie>
+  <!-- image missing -->
   <movie>
     <date>2010-08-22</date>
     <theater>Flight 830, Air Canada</theater>
