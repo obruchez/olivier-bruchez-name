@@ -412,12 +412,12 @@
     <comments>Ok, let's be honest: I only watch <em>The Big Bang Theory</em> out of habit. At this point, it's less enjoyable than the last seasons of either <em>Friends</em> or <em>How I Met Your Mother</em>.</comments>
     <image>The Big Bang Theory.jpg</image>
   </show>
-  <!-- image missing -->
   <show>
     <date>2017-05-10</date>
     <name url="https://en.wikipedia.org/wiki/Veep_(TV_series)">Veep</name>
     <series url="https://en.wikipedia.org/wiki/Veep_(TV_series)#Season_3" type="season">3</series>
     <comments>I don't have much more to say about this show. I would say season 3 is slightly better than season 2 (more "action" and more twists). I'm not sure I know where it can go from there, though.</comments>
+    <image>Veep.jpg</image>
   </show>
   <show>
     <date>2017-03-31</date>
@@ -431,13 +431,16 @@
     <name url="https://en.wikipedia.org/wiki/Veep_(TV_series)">Veep</name>
     <series url="https://en.wikipedia.org/wiki/Veep_(TV_series)#Season_2" type="season">2</series>
     <comments>I'm slowly getting more and more into this show. It's still a bit hard to follow at times, though.</comments>
+    <image>Veep.jpg</image>
   </show>
   <show>
     <date>2017-03-02</date>
     <name url="https://en.wikipedia.org/wiki/Veep_(TV_series)">Veep</name>
     <series url="https://en.wikipedia.org/wiki/Veep_(TV_series)#Season_1" type="season">1</series>
     <comments>A lot of known actors in this show, obviously (from <em>Seinfeld</em>, <em>Arrested Development</em>, etc.). For a non-native English speaker such as me, the show is a little bit difficult to follow (more than most shows), but I like it. The theme of the show is also quite original (politics in Washington, D.C.).</comments>
+    <image>Veep.jpg</image>
   </show>
+  <!-- image missing -->
   <show>
     <date>2017-02-13</date>
     <name url="https://en.wikipedia.org/wiki/Horace_and_Pete">Horace and Pete</name>
