@@ -3251,7 +3251,6 @@
     <rating>5.25</rating>
     <image>Inception.jpg</image>
   </movie>
-  <!-- image missing -->
   <movie>
     <date>2010-08-22</date>
     <theater>Flight 830, Air Canada</theater>
@@ -3259,6 +3258,7 @@
     <title>Shrek Forever After</title>
     <url>http://www.imdb.com/title/tt0892791/</url>
     <rating>4.5</rating>
+    <image>Shrek Forever After.jpg</image>
   </movie>
   <movie>
     <date>2010-08-01</date>
@@ -3267,7 +3267,9 @@
     <title>Diary of a Wimpy Kid</title>
     <url>http://www.imdb.com/title/tt1196141/</url>
     <rating>3.5</rating>
+    <image>Diary of a Wimpy Kid.jpg</image>
   </movie>
+  <!-- image missing -->
   <movie>
     <date>2010-07-26</date>
     <theater home="true"/>
