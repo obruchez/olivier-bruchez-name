@@ -983,6 +983,7 @@
         <notes description="Kindle highlights">La Peste (Albert Camus).md</notes>
         <image>La Peste.jpg</image>
     </book>
+    <!-- GR -->
     <book>
         <date>2014-04-26</date>
         <title>The Brain and the Meaning of Life</title>
@@ -1025,7 +1026,6 @@
         <notes description="Kindle highlights">Consciousness (Christof Koch).md</notes>
         <image>Confessions of a Romantic Reductionist.jpg</image>
     </book>
-    <!-- GR -->
     <book>
         <date>2013-12-16</date>
         <title>Scala in Depth</title>
