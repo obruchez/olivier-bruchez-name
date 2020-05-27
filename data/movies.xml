@@ -3269,7 +3269,6 @@
     <rating>3.5</rating>
     <image>Diary of a Wimpy Kid.jpg</image>
   </movie>
-  <!-- image missing -->
   <movie>
     <date>2010-07-26</date>
     <theater home="true"/>
@@ -3277,6 +3276,7 @@
     <title>The Invention of Lying</title>
     <url>http://www.imdb.com/title/tt1058017/</url>
     <rating>3.0</rating>
+    <image>The Invention of Lying.jpg</image>
   </movie>
   <movie>
     <date>2010-07-19</date>
@@ -3285,7 +3285,9 @@
     <title>Shutter Island</title>
     <url>http://www.imdb.com/title/tt1130884/</url>
     <rating>5.25</rating>
+    <image>Shutter Island.jpg</image>
   </movie>
+  <!-- image missing -->
   <movie>
     <date>2010-07-05</date>
     <theater>Cinémathèque, Lausanne</theater>
