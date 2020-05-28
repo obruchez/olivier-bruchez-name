@@ -3287,7 +3287,6 @@
     <rating>5.25</rating>
     <image>Shutter Island.jpg</image>
   </movie>
-  <!-- image missing -->
   <movie>
     <date>2010-07-05</date>
     <theater>Cinémathèque, Lausanne</theater>
@@ -3295,6 +3294,7 @@
     <title>The Killing</title>
     <url>http://www.imdb.com/title/tt0049406/</url>
     <rating>4.75</rating>
+    <image>The Killing.jpg</image>
   </movie>
   <movie>
     <date>2010-07-01</date>
@@ -3304,7 +3304,9 @@
     <title language="fr">Black Panthers</title>
     <url>http://www.imdb.com/title/tt0209942/</url>
     <rating>4.5</rating>
+    <image>Black Panthers.jpg</image>
   </movie>
+  <!-- image missing -->
   <movie>
     <date>2010-07-01</date>
     <theater>Cinémathèque, Lausanne</theater>
