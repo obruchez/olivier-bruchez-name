@@ -3306,7 +3306,6 @@
     <rating>4.5</rating>
     <image>Black Panthers.jpg</image>
   </movie>
-  <!-- image missing -->
   <movie>
     <date>2010-07-01</date>
     <theater>Cinémathèque, Lausanne</theater>
@@ -3314,6 +3313,7 @@
     <title>Ulysse</title>
     <url>http://www.imdb.com/title/tt0161034/</url>
     <rating>5.0</rating>
+    <image>Ulysse.jpg</image>
   </movie>
   <movie>
     <date>2010-07-01</date>
@@ -3322,7 +3322,9 @@
     <title>Salut les Cubains</title>
     <url>http://www.imdb.com/title/tt0057466/</url>
     <rating>4.75</rating>
+    <image>Salut les Cubains.jpg</image>
   </movie>
+  <!-- image missing -->
   <movie>
     <date>2010-05-15</date>
     <theater>Galeries, Lausanne</theater>
