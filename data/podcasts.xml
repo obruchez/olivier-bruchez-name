@@ -2,10 +2,40 @@
 <podcasts created="2016-05-10">
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
-    <date></date>
+    <date>2020-05-31</date>
+    <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
+    <episode url="https://samharris.org/subscriber-extras/206-may-26-2020/" number="206">May 26, 2020 - A Conversation with David Frum</episode>
+    <comments><a href="https://www.reddit.com/r/samharris/comments/gr7kpr/making_sense_podcast_206_may_26_2020_a/">Reddit discussion</a>. I hope Frum is right and that it's likely now that Trump will not be re-elected.</comments>
+  </podcast>
+  <podcast>
+    <date>2020-05-30</date>
+    <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
+    <episode url="https://samharris.org/subscriber-extras/205-failure-meritocracy/" number="205">The Failure of Meritocracy - A Conversation with Daniel Markovits</episode>
+    <comments><a href="https://www.reddit.com/r/samharris/comments/gos2rd/making_sense_podcast_205_may_22_2020_the_failure/">Reddit discussion</a>. I seem to agree quite a lot with Markovits. I'm not sure about his one-time wealth tax, though. His idea that some (most?) of the elite is completely useless to society as a whole resonates with me (finance, in particular). His example of heart surgery/transplant (highly technical, hard to do, low impact) vs heart health (exercising, eating well, everybody can do it, high impact) is thought-provoking.</comments>
+  </podcast>
+  <podcast>
+    <date>2020-05-29</date>
+    <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
+    <episode url="https://samharris.org/subscriber-extras/204-may-18-2020/" number="204">May 18, 2020 - A Conversation with Jonathan Haidt</episode>
+    <comments><a href="https://www.reddit.com/r/samharris/comments/gm4ltw/making_sense_podcast_204_may_18_2020_a/">Reddit discussion</a>. Registering people before they can use social media: I'm not sure this is a viable idea. We need to experience awe more often, I agree. Haidt mentions psychedelics and MDMA at the end, and share some of his experiences with those substances.</comments>
+  </podcast>
+  <podcast>
+    <date>2020-05-28</date>
+    <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
+    <episode url="https://samharris.org/subscriber-extras/202-may-11-2020/" number="202">May 11, 2020 - A Conversation with Andrew Yang</episode>
+    <comments><a href="https://www.reddit.com/r/samharris/comments/ghvl2q/making_sense_podcast_202_may_11_2020_a/">Reddit discussion</a>. I was not familiar with with Andrew Yang. He sounds like a nice guy. Maybe too much to be a successful politician...</comments>
+  </podcast>
+  <podcast>
+    <date>2020-05-27</date>
+    <name url="https://www.rts.ch/play/radio/emission/le-point-j?id=11217536">Le point J</name>
+    <episode url="https://www.rts.ch/play/radio/le-point-j/audio/covid19-va-t-on-enfin-dire-adieu-a-lopen-space?id=11317537">COVID19: va-t-on enfin dire adieu à l'open space?</episode>
+    <comments>Réponse : probablement pas ; les bureau individuels coûtent trop cher.</comments>
+  </podcast>
+  <podcast>
+    <date>2020-05-27</date>
     <name url="https://peterattiamd.com/podcast/">The Peter Attia Drive Podcast</name>
     <episode url="https://peterattiamd.com/chrismasterjohn/" number="46">Chris Masterjohn, Ph.D.: Navigating the many pathways to health and disease – NAD and sirtuins, methylation, MTHFR and COMT, choline deficiency and NAFLD, TMAO, creatine and more</episode>
-    <comments></comments>
+    <comments>Another discussion that indicates that "MTHFR bad mutations" are not complete pseudoscience. They're certainly less important than implied by some supplement manufacturers, though. Masterjohn seems to like choline a lot. As I'm vegetarian / almost vegan, I'm already experimenting with Alpha-GPC. Other supplements to follow closely: B2/riboflavin (for energy production), creatine (already taking), and glycine (for sleep, sugar levels, etc.). I had already investigated collagen, but there's currently no vegetarian/vegan source (altough it would be theoretically possible). <a href="https://podcastnotes.org/genius-life/masterjohn-2/">Some notes for another podcast</a>.</comments>
   </podcast>
   <podcast>
     <date>2020-05-20</date>
