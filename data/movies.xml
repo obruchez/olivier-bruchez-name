@@ -3,6 +3,17 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Checklist: add rating to IMDb -->
   <movie>
+    <date>2020-05-30</date>
+    <theater home="true"/>
+    <director>Naoko Yamada</director>
+    <title>A Silent Voice</title>
+    <title language="ja">Koe no katachi</title>
+    <url>https://www.imdb.com/title/tt5323662/</url>
+    <rating>4.75</rating>
+    <comments>I expected a teenage romance movie. We got a movie about bullying, depression, and suicide, among other themes. Pretty good.</comments>
+    <image>A Silent Voice.jpg</image>
+  </movie>
+  <movie>
     <date>2020-05-19</date>
     <theater home="true"/>
     <director>Ingmar Bergman</director>
