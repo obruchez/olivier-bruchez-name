@@ -2,6 +2,16 @@
 <comics created="2017-01-28">
   <introduction>A list of comics I read.</introduction>
   <comic>
+    <date>2020-05-28</date>
+    <writer>Roger Leloup</writer>
+    <artist>Roger Leloup</artist>
+    <colorist>Studio Leonardo</colorist>
+    <series url="https://fr.wikipedia.org/wiki/Yoko_Tsuno">Yoko Tsuno</series>
+    <volume url="https://fr.wikipedia.org/wiki/La_Servante_de_Lucifer" number="25">La Servante de Lucifer</volume>
+    <comments>Je ne suis pas fan de Cécilia, pour l'instant. Roger Leloup aime dessiner les avions et les vieux bâtiments, quitte à les dessiner dans des lieux improbables (sous terre).</comments>
+    <image>Yoko Tsuno - La Servante de Lucifer.jpg</image>
+  </comic>
+  <comic>
     <date>2020-05-18</date>
     <writer>Roger Leloup</writer>
     <artist>Roger Leloup</artist>
