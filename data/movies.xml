@@ -3335,7 +3335,6 @@
     <rating>4.75</rating>
     <image>Salut les Cubains.jpg</image>
   </movie>
-  <!-- image missing -->
   <movie>
     <date>2010-05-15</date>
     <theater>Galeries, Lausanne</theater>
@@ -3343,6 +3342,7 @@
     <title>Celda 211</title>
     <url>http://www.imdb.com/title/tt1242422/</url>
     <rating>4.5</rating>
+    <image>Cell 211.jpg</image>
   </movie>
   <movie>
     <date>2010-05-13</date>
@@ -3351,7 +3351,9 @@
     <title>The Ghost Writer</title>
     <url>http://www.imdb.com/title/tt1139328/</url>
     <rating>5.0</rating>
+    <image>The Ghost Writer.jpg</image>
   </movie>
+  <!-- image missing -->
   <movie>
     <date>2010-04-15</date>
     <theater home="true"/>
