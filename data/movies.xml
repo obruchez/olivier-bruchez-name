@@ -3353,7 +3353,6 @@
     <rating>5.0</rating>
     <image>The Ghost Writer.jpg</image>
   </movie>
-  <!-- image missing -->
   <movie>
     <date>2010-04-15</date>
     <theater home="true"/>
@@ -3364,6 +3363,7 @@
     <version>fr</version>
     <url>http://www.imdb.com/title/tt0087544/</url>
     <rating>4.5</rating>
+    <image>Nausicaä of the Valley of the Wind.jpg</image>
   </movie>
   <movie>
     <date>2010-04-08</date>
@@ -3375,7 +3375,9 @@
     <version>fr</version>
     <url>http://www.imdb.com/title/tt0096283/</url>
     <rating>4.75</rating>
+    <image>My Neighbour Totoro.jpg</image>
   </movie>
+  <!-- image missing -->
   <movie>
     <date>2010-04-07</date>
     <theater>Cinémathèque, Lausanne</theater>
