@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <books created="2006-08-20">
     <introduction>A list of books I read.</introduction>
-    <book> books.xml (27/05 = L’Identité)
+    <book>
         <date>2020-05-27</date>
         <title>L'Identité</title>
         <author>Milan Kundera</author>
@@ -943,6 +943,7 @@
         <url>https://en.wikipedia.org/wiki/Cosmos_(book)</url>
         <image>Cosmos.jpg</image>
     </book>
+    <!-- GR -->
     <book>
         <date>2014-10-18</date>
         <title>The Collected Short Stories of Roald Dahl</title>
@@ -983,7 +984,6 @@
         <notes description="Kindle highlights">La Peste (Albert Camus).md</notes>
         <image>La Peste.jpg</image>
     </book>
-    <!-- GR -->
     <book>
         <date>2014-04-26</date>
         <title>The Brain and the Meaning of Life</title>
