@@ -3377,7 +3377,6 @@
     <rating>4.75</rating>
     <image>My Neighbour Totoro.jpg</image>
   </movie>
-  <!-- image missing -->
   <movie>
     <date>2010-04-07</date>
     <theater>Cinémathèque, Lausanne</theater>
@@ -3385,6 +3384,7 @@
     <title>Beetle Juice</title>
     <url>http://www.imdb.com/title/tt0094721/</url>
     <rating>4.75</rating>
+    <image>Beetlejuice.jpg</image>
   </movie>
   <movie>
     <date>2010-04-01</date>
@@ -3393,7 +3393,9 @@
     <title>Alice in Wonderland</title>
     <url>http://www.imdb.com/title/tt1014759/</url>
     <rating>4.75</rating>
+    <image>Alice in Wonderland.jpg</image>
   </movie>
+  <!-- image missing -->
   <movie>
     <date>2010-03-26</date>
     <theater>Cinémathèque, Lausanne</theater>
