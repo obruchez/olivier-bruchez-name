@@ -3395,7 +3395,6 @@
     <rating>4.75</rating>
     <image>Alice in Wonderland.jpg</image>
   </movie>
-  <!-- image missing -->
   <movie>
     <date>2010-03-26</date>
     <theater>Cinémathèque, Lausanne</theater>
@@ -3403,15 +3402,18 @@
     <title>Death and the Maiden</title>
     <url>http://www.imdb.com/title/tt0109579/</url>
     <rating>4.75</rating>
+    <image>Death and the Maiden.jpg</image>
   </movie>
   <movie>
     <date>2010-03-16</date>
     <theater>Cinémathèque, Lausanne</theater>
     <director>Roman Polanski</director>
     <title>Chinatown</title>
-    <url>http://www.imdb.de/title/tt0071315/</url>
+    <url>https://www.imdb.com/title/tt0071315/</url>
     <rating>5.25</rating>
+    <image>Chinatown.jpg</image>
   </movie>
+  <!-- image missing -->
   <movie>
     <date>2010-02-27</date>
     <theater>Galeries, Lausanne</theater>
