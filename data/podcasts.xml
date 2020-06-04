@@ -2,6 +2,30 @@
 <podcasts created="2016-05-10">
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date></date>
+    <name url="https://peterattiamd.com/podcast/">The Peter Attia Drive Podcast</name>
+    <episode url="https://peterattiamd.com/davidsinclair2/" number="70">David Sinclair, Ph.D.: How cellular reprogramming could slow our aging clock (and the latest research on NAD)</episode>
+    <comments>I should really give intermittent fasting another go.</comments>
+  </podcast>
+  <podcast>
+    <date>2020-06-04</date>
+    <name url="https://peterattiamd.com/podcast/">The Peter Attia Drive Podcast</name>
+    <episode url="https://peterattiamd.com/qualy-6-what-are-the-best-lab-tests-to-request-specifically-for-longevity/">Qualy #6 – What are the best lab tests to request specifically for longevity?</episode>
+    <comments>Lp(a) is important.</comments>
+  </podcast>
+  <podcast>
+    <date>2020-06-04</date>
+    <name url="https://peterattiamd.com/podcast/">The Peter Attia Drive Podcast</name>
+    <episode url="https://peterattiamd.com/matthewwalkerama/" number="58">AMA with sleep expert, Matthew Walker, Ph.D.: Strategies for sleeping more, sleeping better, and avoiding things that are disrupting sleep</episode>
+    <comments></comments>
+  </podcast>
+  <podcast>
+    <date>2020-06-04</date>
+    <name url="http://peachandblack.podbean.com/">Peach &amp; Black Podcast</name>
+    <episode url="https://peachandblack.podbean.com/e/the-top-20-prince-songs-of-the-2000s/">The Top 20 Prince Songs Of The 2000’s</episode>
+    <comments></comments>
+  </podcast>
+  <podcast>
     <date>2020-05-31</date>
     <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
     <episode url="https://samharris.org/subscriber-extras/206-may-26-2020/" number="206">May 26, 2020 - A Conversation with David Frum</episode>
