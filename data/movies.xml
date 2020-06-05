@@ -3413,7 +3413,6 @@
     <rating>5.25</rating>
     <image>Chinatown.jpg</image>
   </movie>
-  <!-- image missing -->
   <movie>
     <date>2010-02-27</date>
     <theater>Galeries, Lausanne</theater>
@@ -3421,6 +3420,7 @@
     <title>Up in the Air</title>
     <url>https://www.imdb.com/title/tt1193138/</url>
     <rating>4.75</rating>
+    <image>Up in the Air.jpg</image>
   </movie>
   <movie>
     <date>2010-02-20</date>
@@ -3431,7 +3431,9 @@
     <version>fr</version>
     <url>https://www.imdb.com/title/tt0780521/</url>
     <rating>4.5</rating>
+    <image>The Princess and the Frog.jpg</image>
   </movie>
+  <!-- image missing -->
   <movie>
     <date>2010-02-16</date>
     <theater>Cinémathèque, Lausanne</theater>
