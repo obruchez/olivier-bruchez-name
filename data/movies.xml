@@ -3433,7 +3433,6 @@
     <rating>4.5</rating>
     <image>The Princess and the Frog.jpg</image>
   </movie>
-  <!-- image missing -->
   <movie>
     <date>2010-02-16</date>
     <theater>Cinémathèque, Lausanne</theater>
@@ -3441,6 +3440,7 @@
     <title>Goodfellas</title>
     <url>https://www.imdb.com/title/tt0099685/</url>
     <rating>4.75</rating>
+    <image>Goodfellas.jpg</image>
   </movie>
   <movie>
     <date>2010-02-11</date>
@@ -3449,7 +3449,9 @@
     <title>A Serious Man</title>
     <url>https://www.imdb.com/title/tt1019452/</url>
     <rating>5.25</rating>
+    <image>A Serious Man.jpg</image>
   </movie>
+  <!-- image missing -->
   <movie>
     <date>2010-02-05</date>
     <theater home="true"/>
