@@ -454,7 +454,6 @@
     <comments>What a original show! <a href="https://en.wikipedia.org/wiki/Louie_(American_TV_series)"><i>Louie</i></a> was already one of my favorite shows (it's funny, poetic, absurd, and, yes, sometimes vulgar, all at the same time). <i>Horace and Pete</i> definitely comes from the same man. It's a show, yes, a web series, to be more accurate, but it's also like a filmed stage play and, at times, like a movie (the scene with Laurie Metcalf is absolutely brilliant). I don't know what a second season would look like, but this is already a show I would recommend.</comments>
     <image>Horace and Pete.jpg</image>
   </show>
-  <!-- image missing -->
   <show>
     <date>2017-01-16</date>
     <name url="https://en.wikipedia.org/wiki/Broad_City">Broad City</name>
@@ -474,6 +473,7 @@
     <name url="https://en.wikipedia.org/wiki/The_Crazy_Ones">The Crazy Ones</name>
     <series url="https://en.wikipedia.org/wiki/The_Crazy_Ones#Episodes" type="season">1</series>
     <comments>Not a bad show, but I don't completely like it. It's not "edgy" or original enough.</comments>
+    <image>The Crazy Ones.jpg</image>
   </show>
   <show>
     <date>2017-01-04</date>
@@ -488,6 +488,7 @@
     <series url="https://en.wikipedia.org/wiki/List_of_Broad_City_episodes#Season_2_(2015)" type="season">2</series>
     <image>Broad City.jpg</image>
   </show>
+  <!-- image missing -->
   <show>
     <date>2016-12-08</date>
     <name url="https://en.wikipedia.org/wiki/Community_(TV_series)">Community</name>
