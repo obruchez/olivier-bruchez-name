@@ -3451,7 +3451,6 @@
     <rating>5.25</rating>
     <image>A Serious Man.jpg</image>
   </movie>
-  <!-- image missing -->
   <movie>
     <date>2010-02-05</date>
     <theater home="true"/>
@@ -3459,6 +3458,7 @@
     <title>The Road</title>
     <url>https://www.imdb.com/title/tt0898367/</url>
     <rating>5.0</rating>
+    <image>The Road.jpg</image>
   </movie>
   <movie>
     <date>2010-01-27</date>
@@ -3467,7 +3467,9 @@
     <title>Twelve Monkeys</title>
     <url>https://www.imdb.com/title/tt0114746/</url>
     <rating>5.0</rating>
+    <image>Twelve Monkeys.jpg</image>
   </movie>
+  <!-- image missing -->
   <movie>
     <date>2010-01-19</date>
     <theater>Cinémathèque, Lausanne</theater>
