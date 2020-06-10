@@ -902,6 +902,7 @@
         <notes description="Kindle highlights">Stupeur et Tremblements (Amelie Nothomb).md</notes>
         <image>Stupeur et Tremblements.jpg</image>
     </book>
+    <!-- GR -->
     <book>
         <date>2015-03-21</date>
         <title>Gargantua</title>
@@ -943,7 +944,6 @@
         <url>https://en.wikipedia.org/wiki/Cosmos_(book)</url>
         <image>Cosmos.jpg</image>
     </book>
-    <!-- GR -->
     <book>
         <date>2014-10-18</date>
         <title>The Collected Short Stories of Roald Dahl</title>
