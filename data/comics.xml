@@ -2,6 +2,16 @@
 <comics created="2017-01-28">
   <introduction>A list of comics I read.</introduction>
   <comic>
+    <date>2020-06-09</date>
+    <writer>Roger Leloup</writer>
+    <artist>Roger Leloup</artist>
+    <colorist>Studio Leonardo</colorist>
+    <series url="https://fr.wikipedia.org/wiki/Yoko_Tsuno">Yoko Tsuno</series>
+    <volume url="https://fr.wikipedia.org/wiki/Le_Mal%C3%A9fice_de_l%27am%C3%A9thyste" number="26">Le Maléfice de l'améthyste</volume>
+    <comments>Des avions et des voyages dans le temps.</comments>
+    <image>Yoko Tsuno - Le Maléfice de l'améthyste.jpg</image>
+  </comic>
+  <comic>
     <date>2020-05-28</date>
     <writer>Roger Leloup</writer>
     <artist>Roger Leloup</artist>
