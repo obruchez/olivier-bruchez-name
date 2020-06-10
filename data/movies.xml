@@ -3469,7 +3469,6 @@
     <rating>5.0</rating>
     <image>Twelve Monkeys.jpg</image>
   </movie>
-  <!-- image missing -->
   <movie>
     <date>2010-01-19</date>
     <theater>Cinémathèque, Lausanne</theater>
@@ -3477,6 +3476,7 @@
     <title>Rear Window</title>
     <url>https://www.imdb.com/title/tt0047396/</url>
     <rating>5.0</rating>
+    <image>Rear Window.jpg</image>
   </movie>
   <movie>
     <date>2010-01-12</date>
@@ -3485,7 +3485,9 @@
     <title>Das weisse Band - Eine deutsche Kindergeschichte</title>
     <url>https://www.imdb.com/title/tt1149362/</url>
     <rating>5.0</rating>
+     <image>The White Ribbon.jpg</image>
   </movie>
+  <!-- image missing -->
   <movie>
     <date>2009-12-28</date>
     <theater>Galeries, Lausanne</theater>
