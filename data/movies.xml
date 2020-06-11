@@ -3487,7 +3487,6 @@
     <rating>5.0</rating>
      <image>The White Ribbon.jpg</image>
   </movie>
-  <!-- image missing -->
   <movie>
     <date>2009-12-28</date>
     <theater>Galeries, Lausanne</theater>
@@ -3495,6 +3494,7 @@
     <title>Avatar</title>
     <url>https://www.imdb.com/title/tt0499549/</url>
     <rating>4.5</rating>
+    <image>Avatar.jpg</image>
   </movie>
   <movie>
     <date>2009-12-27</date>
@@ -3505,7 +3505,9 @@
     <version>fr</version>
     <url>https://www.imdb.com/title/tt1230414/</url>
     <rating>3.5</rating>
+    <image>It's Complicated.jpg</image>
   </movie>
+  <!-- image missing -->
   <movie>
     <date>2009-12-18</date>
     <theater>Pathé Flon, Lausanne</theater>
