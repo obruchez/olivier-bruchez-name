@@ -2,6 +2,24 @@
 <podcasts created="2016-05-10">
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date></date>
+    <name url="https://peterattiamd.com/podcast/">The Peter Attia Drive Podcast</name>
+    <episode url="https://peterattiamd.com/billharris/" number="83">Bill Harris, Ph.D.: Omega-3 fatty acids</episode>
+    <comments>"I don't think [omega-6] is the evil that people think it is. The problem is that we need to get more EPA and DHA in our diet, not necessarily get all hung up on omega-6." We still need a lot of research in that field, it seems. EPA and DHA are both important, including for heart health, apparently (I thought it was not the case anymore, according to recent studies). The ratio of omega-6 to omega-3 is not that important, according to Harris.</comments>
+  </podcast>
+  <podcast>
+    <date>2020-06-09</date>
+    <name url="https://peterattiamd.com/podcast/">The Peter Attia Drive Podcast</name>
+    <episode url="https://peterattiamd.com/qualy-24-what-are-the-abcs-of-alzheimers-prevention/">Qualy #24 – What are the “ABCs” of Alzheimer’s prevention?</episode>
+    <comments>See comments for full episode (#18 - Richard Isaacson, M.D.: Alzheimer's prevention).</comments>
+  </podcast>
+  <podcast>
+    <date>2020-06-09</date>
+    <name url="https://peterattiamd.com/podcast/">The Peter Attia Drive Podcast</name>
+    <episode url="https://peterattiamd.com/kylekingsbury/" number="76">Kyle Kingsbury: Finding meaning, depression, and psychedelics</episode>
+    <comments>"[Ayahuasca] shifted more things in me and how I perceived the world than anything else." One of the things I'm always wondering when I hear about people getting spectacular results from psychedelics is whether they believe in God / in an afterlife or not. It seems that those substances give people intense spritual experiences. Can you have them as an atheist? Can you get the same benefits?</comments>
+  </podcast>
+  <podcast>
     <date>2020-06-05</date>
     <name url="https://peterattiamd.com/podcast/">The Peter Attia Drive Podcast</name>
     <episode url="https://peterattiamd.com/davidsinclair2/" number="70">David Sinclair, Ph.D.: How cellular reprogramming could slow our aging clock (and the latest research on NAD)</episode>
