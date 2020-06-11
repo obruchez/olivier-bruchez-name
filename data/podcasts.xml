@@ -2,7 +2,25 @@
 <podcasts created="2016-05-10">
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
-    <date></date>
+    <date>2020-06-11</date>
+    <name url="https://peterattiamd.com/podcast/">The Peter Attia Drive Podcast</name>
+    <episode url="https://peterattiamd.com/qualy-57-a-primer-on-nad-nadh-its-effect-on-lifespan-healthspan-and-a-review-of-the-supplements/">Qualy #57 - A primer on NAD+/NADH, its effect on lifespan/healthspan, and a review of the supplements</episode>
+    <comments>Hypothesis: we have less NAD+ as we age, because we need/consume it more (inflammation, immune system more active, etc.). Again, something I should try (NMN).</comments>
+  </podcast>
+  <podcast>
+    <date>2020-06-11</date>
+    <name url="https://peterattiamd.com/podcast/">The Peter Attia Drive Podcast</name>
+    <episode url="https://peterattiamd.com/qualy-38-finding-meaning-in-struggle-and-why-we-are-less-happy-than-ever-david-foster-wallace/">Qualy #38 - Finding meaning in struggle and why we are less happy than ever (David Foster Wallace)</episode>
+    <comments>A reminder to listen to David Foster Wallace a bit more often, I guess.</comments>
+  </podcast>
+  <podcast>
+    <date>2020-06-11</date>
+    <name url="https://peterattiamd.com/podcast/">The Peter Attia Drive Podcast</name>
+    <episode url="https://peterattiamd.com/qualy-29-fasting-as-a-powerful-drug-in-the-toolbox-of-medicine-sneak-peek-of-paul-grewals-upcoming-episode/">Qualy #29 - Fasting as a powerful drug in the toolbox of medicine (sneak peek of Paul Grewal’s upcoming episode)</episode>
+    <comments>I really should try intermittent fasting again (or, rather, time-restricted feeding).</comments>
+  </podcast>
+  <podcast>
+    <date>2020-06-11</date>
     <name url="https://peterattiamd.com/podcast/">The Peter Attia Drive Podcast</name>
     <episode url="https://peterattiamd.com/billharris/" number="83">Bill Harris, Ph.D.: Omega-3 fatty acids</episode>
     <comments>"I don't think [omega-6] is the evil that people think it is. The problem is that we need to get more EPA and DHA in our diet, not necessarily get all hung up on omega-6." We still need a lot of research in that field, it seems. EPA and DHA are both important, including for heart health, apparently (I thought it was not the case anymore, according to recent studies). The ratio of omega-6 to omega-3 is not that important, according to Harris.</comments>
