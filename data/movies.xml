@@ -3507,7 +3507,6 @@
     <rating>3.5</rating>
     <image>It's Complicated.jpg</image>
   </movie>
-  <!-- image missing -->
   <movie>
     <date>2009-12-18</date>
     <theater>Pathé Flon, Lausanne</theater>
@@ -3515,6 +3514,7 @@
     <title>The Imaginarium of Doctor Parnassus</title>
     <url>https://www.imdb.com/title/tt1054606/</url>
     <rating>5.0</rating>
+    <image>The Imaginarium of Doctor Parnassus.jpg</image>
   </movie>
   <movie>
     <date>2009-12-01</date>
@@ -3523,7 +3523,9 @@
     <title>Sin Nombre</title>
     <url>https://www.imdb.com/title/tt1127715/</url>
     <rating>5.0</rating>
+     <image>Sin Nombre.jpg</image>
   </movie>
+  <!-- image missing -->
   <movie>
     <date>2009-11-28</date>
     <theater home="true"/>
