@@ -2,6 +2,24 @@
 <podcasts created="2016-05-10">
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date></date>
+    <name>Up All Nite with Prince</name>
+    <episode url="https://www.thecurrent.org/feature/2020/06/03/up-all-nite-prince-episode-two" number="2">Up All Nite with Prince, Episode Two: It Ain't Over!</episode>
+    <comments></comments>
+  </podcast>
+  <podcast>
+    <date>2020-06-12</date>
+    <name url="http://verybadwizards.com/">Very Bad Wizards</name>
+    <episode url="https://verybadwizards.fireside.fm/188" number="188">Conceptual Mummies (Nietzsche's "Twilight of the Idols")</episode>
+    <comments>Let's just say this won't convince me to read Nietzsche.</comments>
+  </podcast>
+  <podcast>
+    <date>2020-06-11</date>
+    <name>Up All Nite with Prince</name>
+    <episode url="https://www.thecurrent.org/feature/2020/05/27/up-all-nite-prince-episode-one" number="1">Up All Nite with Prince, Episode One: The Atrium</episode>
+    <comments>A somewhat confusing period for Prince, but with some excellent music (now re-released on CD/vinyl by Sony).</comments>
+  </podcast>
+  <podcast>
     <date>2020-06-11</date>
     <name url="https://peterattiamd.com/podcast/">The Peter Attia Drive Podcast</name>
     <episode url="https://peterattiamd.com/qualy-57-a-primer-on-nad-nadh-its-effect-on-lifespan-healthspan-and-a-review-of-the-supplements/">Qualy #57 - A primer on NAD+/NADH, its effect on lifespan/healthspan, and a review of the supplements</episode>
