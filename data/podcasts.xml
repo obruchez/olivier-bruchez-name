@@ -2,10 +2,22 @@
 <podcasts created="2016-05-10">
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
-    <date></date>
+    <date>2020-06-13</date>
+    <name url="https://www.rts.ch/play/radio/emission/tribu?id=6067786">Tribu</name>
+    <episode url="https://www.rts.ch/play/radio/tribu/audio/la-notion-de-race?id=11027427">La notion de race</episode>
+    <comments>Une notion qui n'a plus de sens scientifiquement (plus beaucoup, du moins, et qui a été remplacée par d'autres concepts, moins connotés), mais qui en a encore forcément lorsque l'on parle d'histoire et de société. Un rappel que les mots ont forcément un poids et qu'il faut les utiliser de manière intelligente, selon le contexte, selon le public auquel on s'adresse.</comments>
+  </podcast>
+  <podcast>
+    <date>2020-06-13</date>
+    <name url="https://peterattiamd.com/podcast/">The Peter Attia Drive Podcast</name>
+    <episode url="https://peterattiamd.com/qualy-69-advice-to-parents-and-kids-for-creating-a-sustainable-environment-thats-going-to-prevent-them-from-running-into-metabolic-problems/">Qualy #69 - Advice to parents and kids for creating a sustainable environment that’s going to prevent them from running into metabolic problems</episode>
+    <comments>Avoid processed food.</comments>
+  </podcast>
+  <podcast>
+    <date>2020-06-12</date>
     <name>Up All Nite with Prince</name>
     <episode url="https://www.thecurrent.org/feature/2020/06/03/up-all-nite-prince-episode-two" number="2">Up All Nite with Prince, Episode Two: It Ain't Over!</episode>
-    <comments></comments>
+    <comments>2002 was a great year for Prince aftershows. I hope we will see more of them being officially released someday. Well, that's true for all aftershows, actually!</comments>
   </podcast>
   <podcast>
     <date>2020-06-12</date>
