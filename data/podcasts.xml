@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <podcasts created="2016-05-10">
   <introduction>A list of podcasts I listened to.</introduction>
+  <!-- Podcast notes for David Sinclair interview with Rhonda Patrick: https://podcastnotes.org/found-my-fitness/david-sinclair-rhonda-patrick-nad-nr-nmn/ -->
   <podcast>
     <date>2020-06-13</date>
     <name url="https://www.rts.ch/play/radio/emission/tribu?id=6067786">Tribu</name>
