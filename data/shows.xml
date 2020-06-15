@@ -488,12 +488,13 @@
     <series url="https://en.wikipedia.org/wiki/List_of_Broad_City_episodes#Season_2_(2015)" type="season">2</series>
     <image>Broad City.jpg</image>
   </show>
-  <!-- image missing -->
   <show>
     <date>2016-12-08</date>
     <name url="https://en.wikipedia.org/wiki/Community_(TV_series)">Community</name>
     <series url="https://en.wikipedia.org/wiki/Community_(season_6)" type="season">6</series>
+    <image>Community.jpg</image>
   </show>
+  <!-- image missing -->
   <show>
     <date>2016-12-05</date>
     <name url="https://en.wikipedia.org/wiki/Westworld_(TV_series)">Westworld</name>
@@ -793,6 +794,7 @@
     <date>2014-04-23</date>
     <name url="https://en.wikipedia.org/wiki/Community_(TV_series)">Community</name>
     <series url="https://en.wikipedia.org/wiki/Community_(season_5)" type="season">5</series>
+    <image>Community.jpg</image>
   </show>
   <show>
     <date>2014-04-01</date>
@@ -835,6 +837,7 @@
     <date>2013-05-22</date>
     <name url="https://en.wikipedia.org/wiki/Community_(TV_series)">Community</name>
     <series url="https://en.wikipedia.org/wiki/Community_(season_4)" type="season">4</series>
+    <image>Community.jpg</image>
   </show>
   <show>
     <date>2013-05-11</date>
@@ -872,6 +875,7 @@
     <date>2012-06-24</date>
     <name url="https://en.wikipedia.org/wiki/Community_(TV_series)">Community</name>
     <series url="https://en.wikipedia.org/wiki/Community_(season_3)" type="season">3</series>
+    <image>Community.jpg</image>
   </show>
   <show>
     <date>2012-06-24</date>
@@ -903,11 +907,13 @@
     <date>2011-09-06</date>
     <name url="https://en.wikipedia.org/wiki/Community_(TV_series)">Community</name>
     <series url="https://en.wikipedia.org/wiki/Community_(season_2)" type="season">2</series>
+    <image>Community.jpg</image>
   </show>
   <show>
     <date>2011-07-19</date>
     <name url="https://en.wikipedia.org/wiki/Community_(TV_series)">Community</name>
     <series url="https://en.wikipedia.org/wiki/Community_(season_1)" type="season">1</series>
+    <image>Community.jpg</image>
   </show>
   <show>
     <date>2011-07-09</date>
