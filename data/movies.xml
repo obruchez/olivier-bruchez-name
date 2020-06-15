@@ -3534,8 +3534,7 @@
     <url>https://www.imdb.com/title/tt1127715/</url>
     <rating>5.0</rating>
      <image>Sin Nombre.jpg</image>
-  </movie>
-  <!-- image missing -->
+  </movie> 
   <movie>
     <date>2009-11-28</date>
     <theater home="true"/>
@@ -3543,6 +3542,7 @@
     <title>Roman Polanski: Wanted and Desired</title>
     <url>https://www.imdb.com/title/tt1157705/</url>
     <rating>4.0</rating>
+    <image>Roman Polanski - Wanted and Desired.jpg</image>
   </movie>
   <movie>
     <date>2009-10-20</date>
@@ -3551,7 +3551,9 @@
     <title>Capitalism: A Love Story</title>
     <url>https://www.imdb.com/title/tt1232207/</url>
     <rating>4.5</rating>
+    <image>Capitalism - A Love Story.jpg</image>
   </movie>
+  <!-- image missing -->
   <movie>
     <date>2009-09-15</date>
     <theater>Galeries, Lausanne</theater>
