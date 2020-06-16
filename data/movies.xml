@@ -3553,7 +3553,6 @@
     <rating>4.5</rating>
     <image>Capitalism - A Love Story.jpg</image>
   </movie>
-  <!-- image missing -->
   <movie>
     <date>2009-09-15</date>
     <theater>Galeries, Lausanne</theater>
@@ -3561,6 +3560,7 @@
     <title>Sunshine Cleaning</title>
     <url>https://www.imdb.com/title/tt0862846/</url>
     <rating>4.75</rating>
+    <image>Sunshine Cleaning.jpg</image>
   </movie>
   <movie>
     <date>2009-09-15</date>
@@ -3569,7 +3569,9 @@
     <title>What's Virgin Mean?</title>
     <url>https://www.imdb.com/title/tt1273817/</url>
     <rating>5.0</rating>
+    <image>What's Virgin Mean.jpg</image>
   </movie>
+  <!-- image missing -->
   <movie>
     <date>2009-09-03</date>
     <theater>Pathé Flon, Lausanne</theater>
