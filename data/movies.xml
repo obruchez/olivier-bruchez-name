@@ -3571,7 +3571,6 @@
     <rating>5.0</rating>
     <image>What's Virgin Mean.jpg</image>
   </movie>
-  <!-- image missing -->
   <movie>
     <date>2009-09-03</date>
     <theater>Pathé Flon, Lausanne</theater>
@@ -3581,6 +3580,7 @@
     <version>fr</version>
     <url>https://www.imdb.com/title/tt1142988/</url>
     <rating>3.0</rating>
+    <image>The Ugly Truth.jpg</image>
   </movie>
   <movie>
     <date>2009-09-02</date>
@@ -3589,7 +3589,9 @@
     <title>La cuisine au beurre</title>
     <url>https://www.imdb.com/title/tt0056969/</url>
     <rating>4.5</rating>
+    <image>La cuisine au beurre.jpg</image>
   </movie>
+  <!-- image missing -->
   <movie>
     <date>2009-08-27</date>
     <theater>Cinétoile Malley Lumières, Lausanne-Prilly</theater>
