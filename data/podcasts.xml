@@ -3,6 +3,12 @@
   <introduction>A list of podcasts I listened to.</introduction>
   <!-- Podcast notes for David Sinclair interview with Rhonda Patrick: https://podcastnotes.org/found-my-fitness/david-sinclair-rhonda-patrick-nad-nr-nmn/ -->
   <podcast>
+    <date>2020-06-17</date>
+    <name url="https://peterattiamd.com/podcast/">The Peter Attia Drive Podcast</name>
+    <episode url="https://peterattiamd.com/matthewwalkerama2/">AMA #2 with sleep expert, Matthew Walker, Ph.D.: short sleep mutants, optimal sleep environment, sleep apnea, &amp; rapid fire questions</episode>
+    <comments>Only the first question was answered in this non-subscriber version of the AMA: there's a mutation that allow some people (not a lot of them, it's very rare) to only sleep 6 hours a night. Not 4, not 5, but 6 hours. The remaining questions might be interesting enough to convince me to become a subscriber.</comments>
+  </podcast>
+  <podcast>
     <date>2020-06-13</date>
     <name url="https://www.rts.ch/play/radio/emission/tribu?id=6067786">Tribu</name>
     <episode url="https://www.rts.ch/play/radio/tribu/audio/la-notion-de-race?id=11027427">La notion de race</episode>
