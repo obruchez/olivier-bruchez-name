@@ -3,13 +3,13 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Checklist: add rating to IMDb -->
   <movie>
-    <date></date>
+    <date>2020.06.17</date>
     <theater home="true"/>
     <director>Richard Linklater</director>
     <title>Waking Life</title>
     <url>https://www.imdb.com/title/tt0243017/</url>
-    <rating></rating>
-    <comments>Some quotes from the movie: <a href="https://en.wikiquote.org/wiki/Waking_Life">Wikiquote</a>.</comments>
+    <rating>5.0</rating>
+    <comments>Very original. Something I might want to watch again quite soon. Some quotes from the movie: <a href="https://en.wikiquote.org/wiki/Waking_Life">Wikiquote</a>.</comments>
     <image>Waking Life.jpg</image>
   </movie>
   <movie>
