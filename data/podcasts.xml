@@ -3,6 +3,36 @@
   <introduction>A list of podcasts I listened to.</introduction>
   <!-- Podcast notes for David Sinclair interview with Rhonda Patrick: https://podcastnotes.org/found-my-fitness/david-sinclair-rhonda-patrick-nad-nr-nmn/ -->
   <podcast>
+    <date>2020-06-18</date>
+    <name url="https://peterattiamd.com/podcast/">The Peter Attia Drive Podcast</name>
+    <episode url="https://peterattiamd.com/qualy-129-evolutionary-reasons-to-sleep/">Qualy #129 - Evolutionary reasons to sleep</episode>
+    <comments>There's a good reason why "evolution decided" to make us sleep a third of our lives. Don't mess with sleep.</comments>
+  </podcast>
+  <podcast>
+    <date>2020-06-18</date>
+    <name url="https://peterattiamd.com/podcast/">The Peter Attia Drive Podcast</name>
+    <episode url="https://peterattiamd.com/qualy-116-dealing-with-anger-in-spots-where-you-know-its-coming/">Qualy #116 - Dealing with anger in spots where you know it’s coming</episode>
+    <comments>Sam Harris talking: the goal is not to stop being angry. It's to detect when we become angry quicker, which naturally leads to less time spent being angry.</comments>
+  </podcast>
+  <podcast>
+    <date>2020-06-18</date>
+    <name url="https://peterattiamd.com/podcast/">The Peter Attia Drive Podcast</name>
+    <episode url="https://peterattiamd.com/qualy-106-does-ldl-cause-heart-disease/">Qualy #106 - Does LDL cause heart disease?</episode>
+    <comments>I'm not sure I got this correctly. There's not always a cause-and-effect relationship, but high LDL and more risk of heart disease are highly correlated. So lowering LDL is still a good idea.</comments>
+  </podcast>
+  <podcast>
+    <date>2020-06-18</date>
+    <name url="https://peterattiamd.com/podcast/">The Peter Attia Drive Podcast</name>
+    <episode url="https://peterattiamd.com/qualy-94-comparing-the-two-broad-types-of-meditation-and-peters-favorite-meditation-apps/">Qualy #94 - Comparing the two broad types of meditation, and Peter’s favorite meditation apps</episode>
+    <comments>Sam Harris talking, so nothing new here (for me).</comments>
+  </podcast>
+  <podcast>
+    <date>2020-06-18</date>
+    <name url="https://peterattiamd.com/podcast/">The Peter Attia Drive Podcast</name>
+    <episode url="https://peterattiamd.com/qualy-89-cortisol-and-healthy-aging/">Qualy #89 - Cortisol and healthy aging</episode>
+    <comments>Stress management is very important. It's also somewhat harder to do, less tangible than exercising more, eating better, taking supplements, etc.</comments>
+  </podcast>
+  <podcast>
     <date>2020-06-17</date>
     <name url="https://peterattiamd.com/podcast/">The Peter Attia Drive Podcast</name>
     <episode url="https://peterattiamd.com/matthewwalkerama2/">AMA #2 with sleep expert, Matthew Walker, Ph.D.: short sleep mutants, optimal sleep environment, sleep apnea, &amp; rapid fire questions</episode>
