@@ -33,6 +33,12 @@
     <comments>Stress management is very important. It's also somewhat harder to do, less tangible than exercising more, eating better, taking supplements, etc.</comments>
   </podcast>
   <podcast>
+    <date>2020-06-18</date>
+    <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
+    <episode url="https://samharris.org/podcasts/207-can-pull-back-brink/" number="207">Can We Pull Back From The Brink?</episode>
+    <comments>This was an episode full of nuances. I generally agree with him here.</comments>
+  </podcast>
+  <podcast>
     <date>2020-06-17</date>
     <name url="https://peterattiamd.com/podcast/">The Peter Attia Drive Podcast</name>
     <episode url="https://peterattiamd.com/matthewwalkerama2/">AMA #2 with sleep expert, Matthew Walker, Ph.D.: short sleep mutants, optimal sleep environment, sleep apnea, &amp; rapid fire questions</episode>
