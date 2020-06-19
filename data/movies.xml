@@ -3611,7 +3611,6 @@
     <rating>5.0</rating>
     <image>Whatever Works.jpg</image>
   </movie>
-  <!-- image missing -->
   <movie>
     <date>2009-08-22</date>
     <theater>Casino, Martigny</theater>
@@ -3621,6 +3620,7 @@
     <version>fr</version>
     <url>https://www.imdb.com/title/tt1049413/</url>
     <rating>5.25</rating>
+    <image>Up.jpg</image>
   </movie>
   <movie>
     <date>2009-08-22</date>
@@ -3631,7 +3631,9 @@
     <version>fr</version>
     <url>https://www.imdb.com/title/tt1425244/</url>
     <rating>4.5</rating>
+    <image>Partly Cloudy.jpg</image>
   </movie>
+  <!-- image missing -->
   <movie>
     <date>2009-07-26</date>
     <theater home="true"/>
