@@ -3,6 +3,18 @@
   <introduction>A list of podcasts I listened to.</introduction>
   <!-- Podcast notes for David Sinclair interview with Rhonda Patrick: https://podcastnotes.org/found-my-fitness/david-sinclair-rhonda-patrick-nad-nr-nmn/ -->
   <podcast>
+    <date></date>
+    <name url="https://peterattiamd.com/podcast/">The Peter Attia Drive Podcast</name>
+    <episode url="https://peterattiamd.com/jasonfriedama/" number="93">AMA with Jason Fried: Work-life balance, avoiding burnout, defining success, company culture, and more</episode>
+    <comments></comments>
+  </podcast>
+  <podcast>
+    <date>2020-06-19</date>
+    <name url="https://peterattiamd.com/podcast/">The Peter Attia Drive Podcast</name>
+    <episode url="https://peterattiamd.com/ryanholiday/" number="90">Ryan Holiday: Stillness, stoicism, and suffering less</episode>
+    <comments>Learning how to detect when you have enough of something is very important. Having an ego has a cost. I like the idea of death as a gradual thing that starts at birth (i.e. you're constantly dying, until you're completely dead, which can happens in a few minutes or in a few decades). Children can be a good way to practice mindfulness. Taking walks without a phone could be a good idea.</comments>
+  </podcast>
+  <podcast>
     <date>2020-06-18</date>
     <name url="https://peterattiamd.com/podcast/">The Peter Attia Drive Podcast</name>
     <episode url="https://peterattiamd.com/qualy-129-evolutionary-reasons-to-sleep/">Qualy #129 - Evolutionary reasons to sleep</episode>
