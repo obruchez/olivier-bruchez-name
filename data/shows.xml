@@ -494,7 +494,6 @@
     <series url="https://en.wikipedia.org/wiki/Community_(season_6)" type="season">6</series>
     <image>Community.jpg</image>
   </show>
-  <!-- image missing -->
   <show>
     <date>2016-12-05</date>
     <name url="https://en.wikipedia.org/wiki/Westworld_(TV_series)">Westworld</name>
@@ -517,11 +516,13 @@
     <date>2016-10-25</date>
     <name url="https://en.wikipedia.org/wiki/Louie_(American_TV_series)">Louie</name>
     <series url="https://en.wikipedia.org/wiki/Louie_(season_5)" type="season">5</series>
+    <image>Louie.jpg</image>
   </show>
   <show>
     <date>2016-10-16</date>
     <name url="https://en.wikipedia.org/wiki/Louie_(American_TV_series)">Louie</name>
     <series url="https://en.wikipedia.org/wiki/Louie_(season_4)" type="season">4</series>
+    <image>Louie.jpg</image>
   </show>
   <show>
     <date>2016-10-10</date>
@@ -557,6 +558,7 @@
     <date>2016-07-03</date>
     <name url="https://en.wikipedia.org/wiki/Louie_(American_TV_series)">Louie</name>
     <series url="https://en.wikipedia.org/wiki/Louie_(season_3)" type="season">3</series>
+    <image>Louie.jpg</image>
   </show>
   <show>
     <date>2016-07-02</date>
@@ -598,6 +600,7 @@
     <date>2016-05-10</date>
     <name url="https://en.wikipedia.org/wiki/Louie_(American_TV_series)">Louie</name>
     <series url="https://en.wikipedia.org/wiki/Louie_(season_2)" type="season">2</series>
+    <image>Louie.jpg</image>
   </show>
   <show>
     <date>2016-05-01</date>
@@ -615,6 +618,7 @@
     <date>2016-03-10</date>
     <name url="https://en.wikipedia.org/wiki/Louie_(American_TV_series)">Louie</name>
     <series url="https://en.wikipedia.org/wiki/Louie_(season_1)" type="season">1</series>
+    <image>Louie.jpg</image>
   </show>
   <show>
     <date>2016-03-07</date>
@@ -640,6 +644,7 @@
     <series url="https://en.wikipedia.org/wiki/List_of_Curb_Your_Enthusiasm_episodes#Season_2_(2001)" type="season">2</series>
     <image>Curb Your Enthusiasm.jpg</image>
   </show>
+  <!-- image missing -->
   <show>
     <date>2016-01-19</date>
     <name url="https://en.wikipedia.org/wiki/Moone_Boy">Moone Boy</name>
