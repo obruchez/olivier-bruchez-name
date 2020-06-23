@@ -3,6 +3,17 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Checklist: add rating to IMDb -->
   <movie>
+    <date>2020-06-20</date>
+    <theater>Galeries, Lausanne</theater>
+    <director>Nora Fingscheidt</director>
+    <title>Systemsprenger</title>
+    <title language="fr">Benni</title>
+    <url>https://www.imdb.com/title/tt8535968/</url>
+    <rating>4.75</rating>
+    <comments>A very moving, heartbreaking, and, yes, tough movie. I guess this is reality for many people and I feel grateful for all the efforts social workers, teachers, etc. are doing to make the life of children like Benni a little bit better.</comments>
+    <image>Systemsprenger.jpg</image>
+  </movie>
+  <movie>
     <date>2020.06.17</date>
     <theater home="true"/>
     <director>Richard Linklater</director>
