@@ -3652,7 +3652,6 @@
     <rating>4.75</rating>$
     <image>Being John Malkovich.jpg</image>
   </movie>
-  <!-- image missing -->
   <movie>
     <date>2009-07-12</date>
     <theater>Limelight, Lucerne</theater>
@@ -3661,6 +3660,7 @@
     <title language="fr">Jeux de pouvoir</title>
     <url>https://www.imdb.com/title/tt0473705/</url>
     <rating>4.5</rating>
+    <image>State of Play.jpg</image>
   </movie>
   <movie>
     <date>2009-06-28</date>
@@ -3670,7 +3670,9 @@
     <title language="fr">Les Oiseaux</title>
     <url>https://www.imdb.com/title/tt0056869/</url>
     <rating>4.75</rating>
+    <image>The Birds.jpg</image>
   </movie>
+  <!-- image missing -->
   <movie>
     <date>2009-06-27</date>
     <theater home="true"/>
