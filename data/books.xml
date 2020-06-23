@@ -824,6 +824,7 @@
         <notes description="Kindle highlights">Functional Programming in Scala (Paul Chiusano &amp; Runar Bjarnason).md</notes>
         <image>Functional Programming in Scala.jpg</image>
     </book>
+    <!-- GR -->
     <book>
         <date>2015-10-03</date>
         <title>Hygiène de l'assassin</title>
@@ -863,7 +864,6 @@
         <url>https://en.wikipedia.org/?title=The_Tripods#The_Pool_of_Fire_.281968.29</url>
         <image>The Pool of Fire.jpg</image>
     </book>
-    <!-- GR -->
     <book>
         <date>2015-06-20</date>
         <title>The City of Gold and Lead</title>
