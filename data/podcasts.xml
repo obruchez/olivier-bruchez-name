@@ -3,10 +3,10 @@
   <introduction>A list of podcasts I listened to.</introduction>
   <!-- Podcast notes for David Sinclair interview with Rhonda Patrick: https://podcastnotes.org/found-my-fitness/david-sinclair-rhonda-patrick-nad-nr-nmn/ -->
   <podcast>
-    <date></date>
+    <date>2020-06-22</date>
     <name url="https://peterattiamd.com/podcast/">The Peter Attia Drive Podcast</name>
     <episode url="https://peterattiamd.com/jasonfriedama/" number="93">AMA with Jason Fried: Work-life balance, avoiding burnout, defining success, company culture, and more</episode>
-    <comments></comments>
+    <comments>I realized that Jason Fried is one of the authors who wrote <i>It Doesn't Have to Be Crazy at Work</i>, which I read last year. Again: a lot of things Jason says/writes make sense to me.</comments>
   </podcast>
   <podcast>
     <date>2020-06-19</date>
