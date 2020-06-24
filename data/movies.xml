@@ -3683,7 +3683,6 @@
     <rating>4.75</rating>
     <image>The Birds.jpg</image>
   </movie>
-  <!-- image missing -->
   <movie>
     <date>2009-06-27</date>
     <theater home="true"/>
@@ -3692,6 +3691,7 @@
     <title language="fr">Le Bal des Vampires</title>
     <url>https://www.imdb.com/title/tt0061655/</url>
     <rating>4.75</rating>
+    <image>The Fearless Vampire Killers.jpg</image>
   </movie>
   <movie>
     <date>2009-06-22</date>
@@ -3700,7 +3700,9 @@
     <title>Cul-de-sac</title>
     <url>https://www.imdb.com/title/tt0060268/</url>
     <rating>4.75</rating>
+    <image>Cul-de-sac.jpg</image>
   </movie>
+  <!-- image missing -->
   <movie>
     <date>2009-06-21</date>
     <theater home="true"/>
