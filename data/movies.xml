@@ -3702,7 +3702,6 @@
     <rating>4.75</rating>
     <image>Cul-de-sac.jpg</image>
   </movie>
-  <!-- image missing -->
   <movie>
     <date>2009-06-21</date>
     <theater home="true"/>
@@ -3711,6 +3710,7 @@
     <title language="fr">Répulsion</title>
     <url>https://www.imdb.com/title/tt0059646/</url>
     <rating>5.0</rating>
+    <image>Repulsion.jpg</image>
   </movie>
   <movie>
     <date>2009-06-21</date>
@@ -3720,7 +3720,9 @@
     <title language="en">Little Man</title>
     <url>https://www.imdb.com/title/tt0479293/</url>
     <rating>4.25</rating>
+    <image>Little Man.jpg</image>
   </movie>
+  <!-- image missing -->
   <movie>
     <date>2009-06-20</date>
     <theater home="true"/>
