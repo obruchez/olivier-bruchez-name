@@ -3722,7 +3722,6 @@
     <rating>4.25</rating>
     <image>Little Man.jpg</image>
   </movie>
-  <!-- image missing -->
   <movie>
     <date>2009-06-20</date>
     <theater home="true"/>
@@ -3731,6 +3730,7 @@
     <title language="fr">Le couteau dans l'eau</title>
     <url>https://www.imdb.com/title/tt0056291/</url>
     <rating>4.5</rating>
+    <image>Knife in the Water.jpg</image>
   </movie>
   <movie>
     <date>2009-05-25</date>
@@ -3740,7 +3740,9 @@
     <title language="fr">Étreintes Brisées</title>
     <url>https://www.imdb.com/title/tt0913425/</url>
     <rating>4.5</rating>
+    <image>Los abrazos rotos.jpg</image>
   </movie>
+  <!-- image missing -->
   <movie>
     <date>2009-05-23</date>
     <theater home="true"/>
