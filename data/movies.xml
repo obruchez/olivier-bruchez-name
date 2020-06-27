@@ -3,6 +3,16 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Checklist: add rating to IMDb -->
   <movie>
+    <date>2020-06-27</date>
+    <theater home="true"/>
+    <director>Buster Keaton</director>
+    <title>Sherlock Jr.</title>
+    <url>https://www.imdb.com/title/tt0015324/</url>
+    <rating>4.75</rating>
+    <comments>This 96-year-old movie is impressive and funny. I need to watch more Buster Keaton movies.</comments>
+    <image>Sherlock Jr..jpg</image>
+  </movie>
+  <movie>
     <date>2020-06-20</date>
     <theater>Galeries, Lausanne</theater>
     <director>Nora Fingscheidt</director>
@@ -14,7 +24,7 @@
     <image>Systemsprenger.jpg</image>
   </movie>
   <movie>
-    <date>2020.06.17</date>
+    <date>2020-06-17</date>
     <theater home="true"/>
     <director>Richard Linklater</director>
     <title>Waking Life</title>
@@ -133,7 +143,7 @@
     <director>Clyde Bruckman &amp; Buster Keaton</director>
     <title>The General</title>
     <url>https://www.imdb.com/title/tt0017925/</url>
-    <rating>4.75</rating>
+    <rating>5.0</rating>
     <comments>A very original movie (still to this day). Most of the scenes on the train are spectacular and/or strangely hypnotic.</comments>
     <image>The General.jpg</image>
   </movie>
