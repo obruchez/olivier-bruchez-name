@@ -3,6 +3,16 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Checklist: add rating to IMDb -->
   <movie>
+    <date></date>
+    <theater home="true"/>
+    <director>Vince Gilligan</director>
+    <title>El Camino: A Breaking Bad Movie</title>
+    <url>https://www.imdb.com/title/tt9243946/</url>
+    <rating></rating>
+    <comments></comments>
+    <image>El Camino - A Breaking Bad Movie.jpg</image>
+  </movie>
+  <movie>
     <date>2020-06-27</date>
     <theater home="true"/>
     <director>Buster Keaton</director>
