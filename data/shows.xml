@@ -10,20 +10,20 @@
   </show>
   <show>
     <date></date>
-    <name url="https://en.wikipedia.org/wiki/Breaking_Bad">Breaking Bad</name>
-    <series url="https://en.wikipedia.org/wiki/Breaking_Bad_(season_5)" type="season">5</series>
-    <comments></comments>
-    <image>Breaking Bad.jpg</image>
-  </show>
-  <show>
-    <date></date>
     <name url="https://en.wikipedia.org/wiki/The_Twilight_Zone_(1959_TV_series)">The Twilight Zone</name>
     <series url="https://en.wikipedia.org/wiki/The_Twilight_Zone_(1959_TV_series,_season_3)" type="season">3</series>
     <comments></comments>
     <image>The Twilight Zone.jpg</image>
   </show>
   <show>
-    <date>2020.06.03</date>
+    <date>2020-06-27</date>
+    <name url="https://en.wikipedia.org/wiki/Breaking_Bad">Breaking Bad</name>
+    <series url="https://en.wikipedia.org/wiki/Breaking_Bad_(season_5)" type="season">5</series>
+    <comments>We watched the five seasons in a bit more than two months. It's an excellent show. I don't know yet if it's one of my favorite. Which means it's probably not.</comments>
+    <image>Breaking Bad.jpg</image>
+  </show>
+  <show>
+    <date>2020-06-03</date>
     <name url="https://en.wikipedia.org/wiki/Rick_and_Morty">Rick and Morty</name>
     <series url="https://en.wikipedia.org/wiki/Rick_and_Morty_(season_4)" type="season">4</series>
     <comments>A weaker season, but still pretty good.</comments>
