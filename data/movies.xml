@@ -3762,7 +3762,6 @@
     <rating>4.5</rating>
     <image>Los abrazos rotos.jpg</image>
   </movie>
-  <!-- image missing -->
   <movie>
     <date>2009-05-23</date>
     <theater home="true"/>
@@ -3771,6 +3770,7 @@
     <title language="fr">Religolo</title>
     <url>https://www.imdb.com/title/tt0815241/</url>
     <rating>4.75</rating>
+    <image>Religulous.jpg</image>
   </movie>
   <movie>
     <date>2009-05-18</date>
@@ -3780,7 +3780,9 @@
     <title language="en">The Beaches Of Agnès</title>
     <url>https://www.imdb.com/title/tt1129435/</url>
     <rating>5.25</rating>
+    <image>Les plages d'Agnès.jpg</image>
   </movie>
+  <!-- image missing -->
   <movie>
     <date>2009-05-06</date>
     <theater>Galeries, Lausanne</theater>
