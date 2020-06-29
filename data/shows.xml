@@ -644,11 +644,11 @@
     <series url="https://en.wikipedia.org/wiki/List_of_Curb_Your_Enthusiasm_episodes#Season_2_(2001)" type="season">2</series>
     <image>Curb Your Enthusiasm.jpg</image>
   </show>
-  <!-- image missing -->
   <show>
     <date>2016-01-19</date>
     <name url="https://en.wikipedia.org/wiki/Moone_Boy">Moone Boy</name>
     <series url="https://en.wikipedia.org/wiki/Moone_Boy#Series_3_(2015)" type="series">3</series>
+    <image>Moone Boy.jpg</image>
   </show>
   <show>
     <date>2016-01-08</date>
@@ -668,6 +668,7 @@
     <series url="https://en.wikipedia.org/wiki/Inside_No._9#Series_2_(2015)" type="series">2</series>
     <image>Inside No. 9.jpg</image>
   </show>
+  <!-- image missing -->
   <show>
     <date>2015-11-01</date>
     <name url="https://en.wikipedia.org/wiki/Go_On_(TV_series)">Go On</name>
@@ -716,6 +717,7 @@
     <date>2015-04-24</date>
     <name url="https://en.wikipedia.org/wiki/Moone_Boy">Moone Boy</name>
     <series url="https://en.wikipedia.org/wiki/Moone_Boy#Series_2_(2014)" type="series">2</series>
+    <image>Moone Boy.jpg</image>
   </show>
   <show>
     <date>2015-04-10</date>
@@ -760,6 +762,7 @@
     <date>2014-08-18</date>
     <name url="https://en.wikipedia.org/wiki/Moone_Boy">Moone Boy</name>
     <series url="https://en.wikipedia.org/wiki/Moone_Boy#Series_1_(2012)" type="series">1</series>
+    <image>Moone Boy.jpg</image>
   </show>
   <show>
     <date>2014-08-18</date>
