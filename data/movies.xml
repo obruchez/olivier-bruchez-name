@@ -3,13 +3,13 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Checklist: add rating to IMDb -->
   <movie>
-    <date></date>
+    <date>2020-06-29</date>
     <theater home="true"/>
     <director>Vince Gilligan</director>
     <title>El Camino: A Breaking Bad Movie</title>
     <url>https://www.imdb.com/title/tt9243946/</url>
-    <rating></rating>
-    <comments></comments>
+    <rating>4.0</rating>
+    <comments>It wasn't a bad movie, but I don't see the point of it either. It was like seing two weaker episodes of the show.</comments>
     <image>El Camino - A Breaking Bad Movie.jpg</image>
   </movie>
   <movie>
