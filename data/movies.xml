@@ -3800,7 +3800,6 @@
     <rating>3.5</rating>
     <image>Curse of the Blair Witch.jpg</image>
   </movie>
-  <!-- image missing -->
   <movie>
     <date>2009-04-25</date>
     <theater home="true"/>
@@ -3809,6 +3808,7 @@
     <title language="fr">Le Projet Blair Witch</title>
     <url>https://www.imdb.com/title/tt0185937/</url>
     <rating>4.5</rating>
+    <image>The Blair Witch Project.jpg</image>
   </movie>
   <movie>
     <date>2009-04-21</date>
@@ -3817,7 +3817,9 @@
     <title>OSS 117: Rio Ne Répond Plus</title>
     <url>https://www.imdb.com/title/tt1167660/</url>
     <rating>4.5</rating>
+    <image>OSS 117 - Rio ne répond plus.jpg</image>
   </movie>
+  <!-- image missing -->
   <movie>
     <date>2009-04-19</date>
     <theater home="true"/>
