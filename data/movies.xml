@@ -3819,7 +3819,6 @@
     <rating>4.5</rating>
     <image>OSS 117 - Rio ne répond plus.jpg</image>
   </movie>
-  <!-- image missing -->
   <movie>
     <date>2009-04-19</date>
     <theater home="true"/>
@@ -3828,6 +3827,7 @@
     <title language="fr">L'Expérience</title>
     <url>https://www.imdb.com/title/tt0250258/</url>
     <rating>4.5</rating>
+    <image>Das Experiment.jpg</image>
   </movie>
   <movie>
     <date>2009-04-19</date>
@@ -3836,7 +3836,9 @@
     <title>Un Chien Andalou</title>
     <url>https://www.imdb.com/title/tt0020530/</url>
     <rating>4.5</rating>
+    <image>Un Chien Andalou.jpg</image>
   </movie>
+  <!-- image missing -->
   <movie>
     <date>2009-04-17</date>
     <theater>CineStar Original, Sony Center, Berlin</theater>
