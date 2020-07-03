@@ -3838,7 +3838,6 @@
     <rating>4.5</rating>
     <image>Un Chien Andalou.jpg</image>
   </movie>
-  <!-- image missing -->
   <movie>
     <date>2009-04-17</date>
     <theater>CineStar Original, Sony Center, Berlin</theater>
@@ -3847,6 +3846,7 @@
     <title language="fr">Good Morning England</title>
     <url>https://www.imdb.com/title/tt1131729/</url>
     <rating>4.75</rating>
+    <image>The Boat That Rocked.jpg</image>
   </movie>
   <movie>
     <date>2009-04-09</date>
@@ -3855,7 +3855,9 @@
     <title>Validation</title>
     <url>https://www.imdb.com/title/tt0986272/</url>
     <rating>4.5</rating>
+    <image>Validation.jpg</image>
   </movie>
+  <!-- image missing -->
   <movie>
     <date>2009-04-07</date>
     <theater>Galeries, Lausanne</theater>
