@@ -3857,7 +3857,6 @@
     <rating>4.5</rating>
     <image>Validation.jpg</image>
   </movie>
-  <!-- image missing -->
   <movie>
     <date>2009-04-07</date>
     <theater>Galeries, Lausanne</theater>
@@ -3866,15 +3865,18 @@
     <title language="fr">Le Déjeuner Du 15 Août</title>
     <url>https://www.imdb.com/title/tt1277728/</url>
     <rating>4.5</rating>
+    <image>Pranzo di ferragosto.jpg</image>
   </movie>
   <movie>
     <date>2009-04-07</date>
     <theater>Galeries, Lausanne</theater>
     <director>Claude Luyet, Georges Schwizgebel, Dominique Delachaux-Lambert, Claude Barras, Roméo Andréani &amp; Alexandre Lachavanne</director>
     <title>Animatou</title>
-    <url>http://www.swissfilms.ch/detail_f.asp?PNr=2146533368</url>
+    <url>https://animatou.com/film/animatou/</url>
     <rating>4.25</rating>
+    <image>Animatou.jpg</image>
   </movie>
+  <!-- image missing -->
   <movie>
     <date>2009-04-01</date>
     <theater>Galeries, Lausanne</theater>
