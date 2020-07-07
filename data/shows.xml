@@ -668,11 +668,11 @@
     <series url="https://en.wikipedia.org/wiki/Inside_No._9#Series_2_(2015)" type="series">2</series>
     <image>Inside No. 9.jpg</image>
   </show>
-  <!-- image missing -->
   <show>
     <date>2015-11-01</date>
     <name url="https://en.wikipedia.org/wiki/Go_On_(TV_series)">Go On</name>
     <series type="season">1</series>
+    <image>Go On.jpg</image>
   </show>
   <show>
     <date>2015-10-17</date>
@@ -680,6 +680,7 @@
     <series url="https://en.wikipedia.org/wiki/Game_of_Thrones_(season_1)" type="season">1</series>
     <image>Game of Thrones.jpg</image>
   </show>
+  <!-- image missing -->
   <show>
     <date>2015-07-02</date>
     <name url="https://en.wikipedia.org/wiki/Seinfeld">Seinfeld</name>
