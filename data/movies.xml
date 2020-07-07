@@ -3876,7 +3876,6 @@
     <rating>4.25</rating>
     <image>Animatou.jpg</image>
   </movie>
-  <!-- image missing -->
   <movie>
     <date>2009-04-01</date>
     <theater>Galeries, Lausanne</theater>
@@ -3884,6 +3883,7 @@
     <title>Gran Torino</title>
     <url>https://www.imdb.com/title/tt1205489/</url>
     <rating>5.25</rating>
+    <image>Gran Torino.jpg</image>
   </movie>
   <movie>
     <date>2009-03-24</date>
@@ -3893,7 +3893,9 @@
     <title language="fr">Cours, Lola, Cours</title>
     <url>https://www.imdb.com/title/tt0130827/</url>
     <rating>5.0</rating>
+    <image>Lola rennt.jpg</image>
   </movie>
+  <!-- image missing -->
   <movie>
     <date>2009-03-22</date>
     <theater>Metropolis, Cologne</theater>
