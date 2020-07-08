@@ -6624,6 +6624,15 @@
     <version>fr</version>
   </movie>
   <movie>
+    <date>2000-07-08</date>
+    <theater home="true"/>
+    <director>Lewis Gilbert</director>
+    <title>Moonraker</title>
+    <version>fr</version>
+    <url>https://www.imdb.com/title/tt0079574/</url>
+    <image>Moonraker.jpg</image>
+  </movie>
+  <movie>
     <date>2000-06-21</date>
     <theater>Galeries, Lausanne</theater>
     <director>Ridley Scott</director>
