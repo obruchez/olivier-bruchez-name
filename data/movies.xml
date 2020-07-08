@@ -3895,7 +3895,6 @@
     <rating>5.0</rating>
     <image>Lola rennt.jpg</image>
   </movie>
-  <!-- image missing -->
   <movie>
     <date>2009-03-22</date>
     <theater>Metropolis, Cologne</theater>
@@ -3904,6 +3903,7 @@
     <title language="fr">Le Liseur</title>
     <url>https://www.imdb.com/title/tt0976051/</url>
     <rating>5.0</rating>
+    <image>The Reader.jpg</image>
   </movie>
   <movie>
     <date>2009-03-21</date>
@@ -3913,7 +3913,9 @@
     <title language="fr">Harvey Milk</title>
     <url>https://www.imdb.com/title/tt1013753/</url>
     <rating>5.0</rating>
+    <image>Milk.jpg</image>
   </movie>
+  <!-- image missing -->
   <movie>
     <date>2009-03-12</date>
     <theater>Cinéma de Verbier, Verbier</theater>
