@@ -3915,7 +3915,6 @@
     <rating>5.0</rating>
     <image>Milk.jpg</image>
   </movie>
-  <!-- image missing -->
   <movie>
     <date>2009-03-12</date>
     <theater>Cinéma de Verbier, Verbier</theater>
@@ -3924,6 +3923,7 @@
     <title language="fr">Marley &amp; Moi</title>
     <url>https://www.imdb.com/title/tt0822832/</url>
     <rating>4.25</rating>
+    <image>Marley &amp; Me.jpg</image>
   </movie>
   <movie>
     <date>2009-02-21</date>
@@ -3933,7 +3933,9 @@
     <title language="fr">L'Étrange Histoire de Benjamin Button</title>
     <url>https://www.imdb.com/title/tt0421715/</url>
     <rating>5.0</rating>
+    <image>The Curious Case of Benjamin Button.jpg</image>
   </movie>
+  <!-- image missing -->
   <movie>
     <date>2009-02-17</date>
     <theater>Galeries, Lausanne</theater>
