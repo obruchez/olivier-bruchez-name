@@ -3935,7 +3935,6 @@
     <rating>5.0</rating>
     <image>The Curious Case of Benjamin Button.jpg</image>
   </movie>
-  <!-- image missing -->
   <movie>
     <date>2009-02-17</date>
     <theater>Galeries, Lausanne</theater>
@@ -3944,6 +3943,7 @@
     <title language="fr">Doute</title>
     <url>https://www.imdb.com/title/tt0918927/</url>
     <rating>5.0</rating>
+    <image>Doubt.jpg</image>
   </movie>
   <movie>
     <date>2009-02-08</date>
@@ -3952,7 +3952,9 @@
     <title>Rage</title>
     <url>https://www.imdb.com/title/tt1234550/</url>
     <rating>4.75</rating>
+    <image>Rage.jpg</image>
   </movie>
+  <!-- image missing -->
   <movie>
     <date>2009-02-07</date>
     <theater home="true"/>
