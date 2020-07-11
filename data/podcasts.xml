@@ -4,6 +4,24 @@
   <!-- Podcast notes for David Sinclair interview with Rhonda Patrick: https://podcastnotes.org/found-my-fitness/david-sinclair-rhonda-patrick-nad-nr-nmn/ -->
   <podcast>
     <date></date>
+    <name url="http://peachandblack.podbean.com/">Peach &amp; Black Podcast</name>
+    <episode url="https://peachandblack.podbean.com/e/the-time-pandemonium-review-part-1/">The Time - Pandemonium Review Part 1</episode>
+    <comments></comments>
+  </podcast>
+  <podcast>
+    <date>2020-07-11</date>
+    <name url="http://peachandblack.podbean.com/">Peach &amp; Black Podcast</name>
+    <episode url="https://peachandblack.podbean.com/e/the-time-pandemonium-review-part-1/">The Time - Pandemonium Review Part 1</episode>
+    <comments></comments>
+  </podcast>
+  <podcast>
+    <date>2020-07-10</date>
+    <name url="http://www.fourbeers.com/">Two Psychologists Four Beers</name>
+    <episode url="http://www.fourbeers.com/27" number="27">Against Mindfulness</episode>
+    <comments></comments>
+  </podcast>
+  <podcast>
+    <date>2020-07-09</date>
     <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
     <episode url="https://samharris.org/podcasts/209-a-good-life/" number="209">A Good Life - A Conversation with Scott Barry Kaufman</episode>
     <comments></comments>
