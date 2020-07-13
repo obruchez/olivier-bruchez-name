@@ -680,11 +680,11 @@
     <series url="https://en.wikipedia.org/wiki/Game_of_Thrones_(season_1)" type="season">1</series>
     <image>Game of Thrones.jpg</image>
   </show>
-  <!-- image missing -->
   <show>
     <date>2015-07-02</date>
     <name url="https://en.wikipedia.org/wiki/Seinfeld">Seinfeld</name>
     <series url="https://en.wikipedia.org/wiki/Seinfeld_(season_9)" type="season">9</series>
+    <image>Seinfeld.jpg</image>
   </show>
   <show>
     <date>2015-06-26</date>
@@ -692,6 +692,7 @@
     <series url="https://en.wikipedia.org/wiki/Silicon_Valley_(TV_series)#Season_2" type="season">2</series>
     <image>Silicon Valley.jpg</image>
   </show>
+  <!-- image missing -->
   <show>
     <date>2015-06-21</date>
     <name url="https://en.wikipedia.org/wiki/The_Tripods_(TV_series)">The Tripods</name>
@@ -724,6 +725,7 @@
     <date>2015-04-10</date>
     <name url="https://en.wikipedia.org/wiki/Seinfeld">Seinfeld</name>
     <series url="https://en.wikipedia.org/wiki/Seinfeld_(season_8)" type="season">8</series>
+    <image>Seinfeld.jpg</image>
   </show>
   <show>
     <date>2015-03-15</date>
@@ -740,6 +742,7 @@
     <date>2014-09-18</date>
     <name url="https://en.wikipedia.org/wiki/Seinfeld">Seinfeld</name>
     <series url="https://en.wikipedia.org/wiki/Seinfeld_(season_7)" type="season">7</series>
+    <image>Seinfeld.jpg</image>
   </show>
   <show>
     <date>2014-09-15</date>
@@ -786,6 +789,7 @@
     <date>2014-06-25</date>
     <name url="https://en.wikipedia.org/wiki/Seinfeld">Seinfeld</name>
     <series url="https://en.wikipedia.org/wiki/Seinfeld_(season_6)" type="season">6</series>
+    <image>Seinfeld.jpg</image>
   </show>
   <show>
     <date>2014-06-01</date>
@@ -814,6 +818,7 @@
     <date>2014-03-07</date>
     <name url="https://en.wikipedia.org/wiki/Seinfeld">Seinfeld</name>
     <series url="https://en.wikipedia.org/wiki/Seinfeld_(season_5)" type="season">5</series>
+    <image>Seinfeld.jpg</image>
   </show>
   <show>
     <date>2014-01-26</date>
@@ -825,11 +830,13 @@
     <name url="https://en.wikipedia.org/wiki/Seinfeld">Seinfeld</name>
     <series url="https://en.wikipedia.org/wiki/Seinfeld_(season_4)" type="season">4</series>
     <comments>Date uncertain.</comments>
+    <image>Seinfeld.jpg</image>
   </show>
   <show>
     <date>2013-11-15</date>
     <name url="https://en.wikipedia.org/wiki/Seinfeld">Seinfeld</name>
     <series url="https://en.wikipedia.org/wiki/Seinfeld_(season_3)" type="season">3</series>
+    <image>Seinfeld.jpg</image>
   </show>
   <show>
     <date>2013-06-01</date>
@@ -852,6 +859,7 @@
     <date>2013-05-11</date>
     <name url="https://en.wikipedia.org/wiki/Seinfeld">Seinfeld</name>
     <series url="https://en.wikipedia.org/wiki/Seinfeld_(season_2)" type="season">2</series>
+    <image>Seinfeld.jpg</image>
   </show>
   <show>
     <date>2013-04-??</date>
@@ -933,6 +941,7 @@
     <date>2011-07-02</date>
     <name url="https://en.wikipedia.org/wiki/Seinfeld">Seinfeld</name>
     <series url="https://en.wikipedia.org/wiki/Seinfeld_(season_1)" type="season">1</series>
+    <image>Seinfeld.jpg</image>
   </show>
   <show>
     <date>2011-06-04</date>
