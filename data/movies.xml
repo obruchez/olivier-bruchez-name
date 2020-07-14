@@ -3982,7 +3982,6 @@
     <rating>5.0</rating>
     <image>Revolutionary Road.jpg</image>
   </movie>
-  <!-- image missing -->
   <movie>
     <date>2009-01-21</date>
     <theater>Galeries, Lausanne</theater>
@@ -3990,6 +3989,7 @@
     <title>Slumdog Millionaire</title>
     <url>https://www.imdb.com/title/tt1010048/</url>
     <rating>5.0</rating>
+    <image>Slumdog Millionaire.jpg</image>
   </movie>
   <movie>
     <date>2009-01-07</date>
@@ -3998,7 +3998,9 @@
     <title>Burn After Reading</title>
     <url>https://www.imdb.com/title/tt0887883/</url>
     <rating>5.0</rating>
+    <image>Burn After Reading.jpg</image>
   </movie>
+  <!-- image missing -->
   <movie>
     <date>2008-12-27</date>
     <theater home="true"/>
