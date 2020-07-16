@@ -4018,7 +4018,6 @@
     <rating>4.75</rating>
     <image>Gomorra.jpg</image>
   </movie>
-  <!-- image missing -->
   <movie>
     <date>2008-11-16</date>
     <theater>Central-Kino, Berlin</theater>
@@ -4026,6 +4025,7 @@
     <title>Delicatessen</title>
     <url>https://www.imdb.com/title/tt0101700/</url>
     <rating>5.25</rating>
+    <image>Delicatessen.jpg</image>
   </movie>
   <movie>
     <date>2008-11-12</date>
@@ -4034,7 +4034,9 @@
     <title>Témoin Indésirable</title>
     <url>https://www.imdb.com/title/tt1286852/</url>
     <rating>4.5</rating>
+    <image>Témoin indésirable.jpg</image>
   </movie>
+  <!-- image missing -->
   <movie>
     <date>2008-10-28</date>
     <theater home="true"/>
