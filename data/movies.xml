@@ -3,6 +3,17 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Checklist: add rating to IMDb -->
   <movie>
+    <date>2020-07-14</date>
+    <theater home="true"/>
+    <director>Dziga Vertov</director>
+    <title>Chelovek s kino-apparatom</title>
+    <title language="en">Man with a Movie Camera</title>
+    <url>https://www.imdb.com/title/tt0019760/</url>
+    <rating>5.0</rating>
+    <comments>A Russian experimental movie from 1929. No scenario. No intertitles. To be honest, it didn't sound very exciting to me. It took me a while to get used to the frenetic rhythm of the movie. And then it clicked. This is really a fantastic and important movie. Or experiment, I don't know, but it doesn't matter.</comments>
+    <image>Man with a Movie Camera.jpg</image>
+  </movie>
+  <movie>
     <date>2020-06-29</date>
     <theater home="true"/>
     <director>Vince Gilligan</director>
