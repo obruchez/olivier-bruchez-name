@@ -4036,14 +4036,14 @@
     <rating>4.5</rating>
     <image>Témoin indésirable.jpg</image>
   </movie>
-  <!-- image missing -->
   <movie>
     <date>2008-10-28</date>
     <theater home="true"/>
     <director>Julio R. Galan, Juan Pablo Sans &amp; Matthew C. Doble</director>
     <title>Picture This</title>
-    <url>http://www.picturethisshort.com/</url>
+    <url>https://web.archive.org/web/20110207133035/http://www.picturethisshort.com/</url>
     <rating>4.5</rating>
+    <image>Picture This.jpg</image>
   </movie>
   <movie>
     <date>2008-10-23</date>
@@ -4052,7 +4052,9 @@
     <title>The Miracle of Flight</title>
     <url>https://www.imdb.com/title/tt0344070/</url>
     <rating>4.75</rating>
+    <image>Miracle of Flight.jpg</image>
   </movie>
+  <!-- image missing -->
   <movie>
     <date>2008-10-23</date>
     <theater home="true"/>
