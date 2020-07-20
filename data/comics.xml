@@ -2,10 +2,18 @@
 <comics created="2017-01-28">
   <introduction>A list of comics I read.</introduction>
   <comic>
+    <date>2020-07-20</date>
+    <writer>Don Rosa</writer>
+    <artist>Don Rosa</artist>
+    <volume url="https://picsou.fandom.com/fr/wiki/Caisse_%C3%A0_la_casse">Caisse à la casse</volume>
+    <comments>Constat : Donald est quand même bien violent !</comments>
+    <image>Don Rosa - Caisse à la casse.jpg</image>
+  </comic>
+  <comic>
     <date>2020-07-15</date>
     <writer>Don Rosa</writer>
     <artist>Don Rosa</artist>
-    <volume url="https://picsou.fandom.com/fr/wiki/La_valse_des_investisseurs">Chat sœur deux trop fée !</volume>
+    <volume url="https://picsou.fandom.com/fr/wiki/Chat_s%C5%93ur_deux_trop_f%C3%A9e_!">Chat sœur deux trop fée !</volume>
     <comments>Le titre français est mauvais. L'histoire est relativement drôle.</comments>
     <image>Don Rosa - Chat sœur deux trop fée.jpg</image>
   </comic>
