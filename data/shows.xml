@@ -692,16 +692,17 @@
     <series url="https://en.wikipedia.org/wiki/Silicon_Valley_(TV_series)#Season_2" type="season">2</series>
     <image>Silicon Valley.jpg</image>
   </show>
-  <!-- image missing -->
   <show>
     <date>2015-06-21</date>
     <name url="https://en.wikipedia.org/wiki/The_Tripods_(TV_series)">The Tripods</name>
     <series type="series">2</series>
+    <image>The Tripods.jpg</image>
   </show>
   <show>
     <date>2015-06-16</date>
     <name url="https://en.wikipedia.org/wiki/The_Tripods_(TV_series)">The Tripods</name>
     <series type="series">1</series>
+    <image>The Tripods.jpg</image>
   </show>
   <show>
     <date>2015-05-10</date>
@@ -733,6 +734,7 @@
     <series url="https://en.wikipedia.org/wiki/List_of_Episodes_episodes#Season_3_(2014)" type="series">3</series>
     <image>Episodes.jpg</image>
   </show>
+  <!-- image missing -->
   <show>
     <date>2014-09-28</date>
     <name url="https://en.wikipedia.org/wiki/Web_Therapy_(TV_series)">Web Therapy</name>
