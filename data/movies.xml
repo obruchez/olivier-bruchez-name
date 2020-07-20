@@ -4065,7 +4065,6 @@
     <rating>4.75</rating>
     <image>Miracle of Flight.jpg</image>
   </movie>
-  <!-- image missing -->
   <movie>
     <date>2008-10-23</date>
     <theater home="true"/>
@@ -4080,6 +4079,7 @@
     <title>Home</title>
     <url>https://www.imdb.com/title/tt1319569/</url>
     <rating>5.25</rating>
+    <image>Home.jpg</image>
   </movie>
   <movie>
     <date>2008-09-28</date>
@@ -4088,7 +4088,9 @@
     <title>Annie Hall</title>
     <url>https://www.imdb.com/title/tt0075686/</url>
     <rating>4.75</rating>
+    <image>Annie Hall.jpg</image>
   </movie>
+  <!-- image missing -->
   <movie>
     <date>2008-09-26</date>
     <theater home="true"/>
