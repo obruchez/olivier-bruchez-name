@@ -2,6 +2,18 @@
 <books created="2006-08-20">
     <introduction>A list of books I read.</introduction>
     <book>
+        <date>2020-07-14</date>
+        <title>A Brief History of Time</title>
+        <subtitle>From the Big Bang to Black Holes</subtitle>
+        <author>Stephen Hawking</author>
+        <publishingyear>1988</publishingyear>
+        <rating>4.5</rating>
+        <url>https://en.wikipedia.org/wiki/A_Brief_History_of_Time</url>
+        <!-- <notes description="Kindle highlights"></notes> -->
+        <comments>I don't know why, but I expected something overly-simplified (not to say dumbed-down). Something I could understand. :) I was somewhat surprised to discover that this book tries to explain very hard concepts in a relatively simple way, which still leads to... a complex book with very complex concepts. I don't think you could say it's highly accessible. Which makes me wonder whether anybody could do better than Hawking. I'm not saying he failed. Popularizing science is really hard. I'm just saying I was a bit disappointed.</comments>
+        <image>A Brief History of Time.jpg</image>
+    </book>
+    <book>
         <date>2020-05-27</date>
         <title>L'Identité</title>
         <author>Milan Kundera</author>
