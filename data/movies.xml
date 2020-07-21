@@ -4090,7 +4090,6 @@
     <rating>4.75</rating>
     <image>Annie Hall.jpg</image>
   </movie>
-  <!-- image missing -->
   <movie>
     <date>2008-09-26</date>
     <theater home="true"/>
@@ -4098,6 +4097,7 @@
     <title>La Pointe-courte</title>
     <url>https://www.imdb.com/title/tt0048499/</url>
     <rating>4.75</rating>
+    <image>La Pointe-Courte.jpg</image>
   </movie>
   <movie>
     <date>2008-09-07</date>
@@ -4107,7 +4107,9 @@
     <title language="fr">Phénomènes</title>
     <url>https://www.imdb.com/title/tt0949731/</url>
     <rating>3.5</rating>
+    <image>The Happening.jpg</image>
   </movie>
+  <!-- image missing -->
   <movie>
     <date>2008-09-07</date>
     <theater>Flight 283, British Airways</theater>
