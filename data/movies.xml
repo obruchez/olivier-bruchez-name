@@ -4109,7 +4109,6 @@
     <rating>3.5</rating>
     <image>The Happening.jpg</image>
   </movie>
-  <!-- image missing -->
   <movie>
     <date>2008-09-07</date>
     <theater>Flight 283, British Airways</theater>
@@ -4118,6 +4117,7 @@
     <title language="fr">Indiana Jones et le Royaume du Crâne de Cristal</title>
     <url>https://www.imdb.com/title/tt0367882/</url>
     <rating>4.5</rating>
+    <image>Indiana Jones and the Kingdom of the Crystal Skull.jpg</image>
   </movie>
   <movie>
     <date>2008-09-05</date>
@@ -4246,7 +4246,9 @@
     <title>Budet Laskovyy Dozhd</title>
     <url>https://www.imdb.com/title/tt0982856/</url>
     <rating>3.75</rating>
+    <image>Budet laskovyy dozhd.jpg</image>
   </movie>
+  <!-- image missing -->
   <movie>
     <date>2008-08-25</date>
     <theater>Galeries, Lausanne</theater>
