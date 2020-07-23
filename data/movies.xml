@@ -4248,7 +4248,6 @@
     <rating>3.75</rating>
     <image>Budet laskovyy dozhd.jpg</image>
   </movie>
-  <!-- image missing -->
   <movie>
     <date>2008-08-25</date>
     <theater>Galeries, Lausanne</theater>
@@ -4257,6 +4256,7 @@
     <title language="fr">The Dark Knight, Le Chevalier Noir</title>
     <url>https://www.imdb.com/title/tt0468569/</url>
     <rating>5.0</rating>
+    <image>The Dark Knight.jpg</image>
   </movie>
   <movie>
     <date>2008-08-17</date>
@@ -4265,7 +4265,9 @@
     <title>WALL·E</title>
     <url>https://www.imdb.com/title/tt0910970/</url>
     <rating>4.75</rating>
+    <image>WALL·E.jpg</image>
   </movie>
+  <!-- image missing -->
   <movie>
     <date>2008-08-04</date>
     <theater home="true"/>
