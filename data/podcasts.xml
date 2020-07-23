@@ -3,6 +3,12 @@
   <introduction>A list of podcasts I listened to.</introduction>
   <!-- Podcast notes for David Sinclair interview with Rhonda Patrick: https://podcastnotes.org/found-my-fitness/david-sinclair-rhonda-patrick-nad-nr-nmn/ -->
   <podcast>
+    <date>2020-07-23</date>
+    <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
+    <episode url="https://samharris.org/podcasts/211-the-nature-of-human-nature/" number="211">The Nature of Human Nature - A Conversation with Robert Plomin</episode>
+    <comments>Apart from rare genetic diseases, which can be deterministically determined by single gene mutations, most things we are interested in (intelligence, mental illnesses, etc.) depend on many genes. Mental illnesses, for example, are hence continuous. You are not either ill or healthy. It's exactly like height. My take: we'll need machine learning to really be able to interpret our genome. The naive view "this gene does this, that gene does that" won't allow us to understand how it all works.</comments>
+  </podcast>
+  <podcast>
     <date>2020-07-19</date>
     <name url="https://www.happinesslab.fm/">The Happiness Lab</name>
     <episode url="https://www.happinesslab.fm/season-2-episodes/episode-10-how-to-be-a-better-ally">How to Be a Better Ally</episode>
