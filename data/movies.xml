@@ -4267,7 +4267,6 @@
     <rating>4.75</rating>
     <image>WALL·E.jpg</image>
   </movie>
-  <!-- image missing -->
   <movie>
     <date>2008-08-04</date>
     <theater home="true"/>
@@ -4275,6 +4274,7 @@
     <title>Tess</title>
     <url>https://www.imdb.com/title/tt0080009/</url>
     <rating>4.75</rating>
+    <image>Tess.jpg</image>
   </movie>
   <movie>
     <date>2008-08-03</date>
@@ -4283,7 +4283,9 @@
     <title>Kung Fu Panda</title>
     <url>https://www.imdb.com/title/tt0441773/</url>
     <rating>4.75</rating>
+    <image>Kung Fu Panda.jpg</image>
   </movie>
+  <!-- image missing -->
   <movie>
     <date>2008-08-01</date>
     <theater home="true"/>
