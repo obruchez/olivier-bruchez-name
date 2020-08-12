@@ -2,6 +2,13 @@
 <trips created="2008-02-26">
   <introduction>A list of trips I took.</introduction>
   <trip>
+    <from>2020-07-25</from>
+    <to>2020-08-11</to>
+    <place>Bretagne / Brittany, France</place>
+    <!-- <pictures url=""/> -->
+    <comments>This was my first trip to Bretagne / Brittany in about 30 years. I didn't swim in the English Channel (La Manche), this time (one story I heard a lot those last 30 years: I apparently was almost taken by strong currents when swimming in La Manche in St-Malo - I didn't realize at the time I could have been in danger). We ate a lot of <i>crêpes</i> (sometimes because it was the easiest way to eat something vegetarian), a lot of pastries (<a href="https://en.wikipedia.org/wiki/Kouign-amann">kouign-amann</a> and others), and drank a lot of cider. If it wasn't for the non-vegetarian-friendly food (seafood and French cuisine in general), I guess I could live in Brittany. This is a really nice region.</comments>
+  </trip>
+  <trip>
     <from>2019-09-14</from>
     <to>2019-09-16</to>
     <place>Leukerbad, Switzerland</place>
