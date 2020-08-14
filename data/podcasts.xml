@@ -3,6 +3,12 @@
   <introduction>A list of podcasts I listened to.</introduction>
   <!-- Podcast notes for David Sinclair interview with Rhonda Patrick: https://podcastnotes.org/found-my-fitness/david-sinclair-rhonda-patrick-nad-nr-nmn/ -->
   <podcast>
+    <date>2020-08-14</date>
+    <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
+    <episode url="https://samharris.org/podcasts/212-july-29-2020/" number="212">July 29, 2020 - A Conversation with Kathryn Paige Harden</episode>
+    <comments>I guess this is how all disagreements should be settled. We didn't witness Sam or Kathryn really changing their point of view, but it was a civil conversation. One of the hard questions discussed was: what should the default hypothesis be (in the context of race/ethnicity and IQ)? And: should we even discuss this?</comments>
+  </podcast>
+  <podcast>
     <date>2020-07-23</date>
     <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
     <episode url="https://samharris.org/podcasts/211-the-nature-of-human-nature/" number="211">The Nature of Human Nature - A Conversation with Robert Plomin</episode>
