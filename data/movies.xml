@@ -4285,7 +4285,6 @@
     <rating>4.75</rating>
     <image>Kung Fu Panda.jpg</image>
   </movie>
-  <!-- image missing -->
   <movie>
     <date>2008-08-01</date>
     <theater home="true"/>
@@ -4294,6 +4293,7 @@
     <title language="fr">Le Seigneur Des Anneaux : Le Retour Du Roi</title>
     <url>https://www.imdb.com/title/tt0167260/</url>
     <rating>5.25</rating>
+    <image>The Lord of the Rings - The Return of the King.jpg</image>
   </movie>
   <movie>
     <date>2008-07-31</date>
@@ -4303,7 +4303,9 @@
     <title language="fr">Le Seigneur Des Anneaux : Les Deux Tours</title>
     <url>https://www.imdb.com/title/tt0167261/</url>
     <rating>5.0</rating>
+    <image>The Lord of the Rings - The Two Towers.jpg</image>
   </movie>
+  <!-- image missing -->
   <movie>
     <date>2008-07-17</date>
     <theater>IMAX Luzern, Lucerne</theater>
