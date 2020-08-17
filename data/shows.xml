@@ -741,11 +741,11 @@
     <series url="https://en.wikipedia.org/wiki/List_of_Episodes_episodes#Season_3_(2014)" type="series">3</series>
     <image>Episodes.jpg</image>
   </show>
-  <!-- image missing -->
   <show>
     <date>2014-09-28</date>
     <name url="https://en.wikipedia.org/wiki/Web_Therapy_(TV_series)">Web Therapy</name>
     <series url="https://en.wikipedia.org/wiki/List_of_Web_Therapy_episodes#Season_1_(2011)" type="season">1</series>
+    <image>Web Therapy.jpg</image>
   </show>
   <show>
     <date>2014-09-18</date>
@@ -789,6 +789,7 @@
     <series url="https://en.wikipedia.org/wiki/List_of_Episodes_episodes#Season_1_(2011)" type="series">1</series>
     <image>Episodes.jpg</image>
   </show> 
+  <!-- image missing -->
   <show>
     <date>2014-08-15</date>
     <name url="https://en.wikipedia.org/wiki/Mixology_(TV_series)">Mixology</name>
