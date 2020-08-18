@@ -3,10 +3,28 @@
   <introduction>A list of podcasts I listened to.</introduction>
   <!-- Podcast notes for David Sinclair interview with Rhonda Patrick: https://podcastnotes.org/found-my-fitness/david-sinclair-rhonda-patrick-nad-nr-nmn/ -->
   <podcast>
+    <date>2020-08-18</date>
+    <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
+    <episode url="https://samharris.org/podcasts/214-august-13-2020/" number="214">August 13, 2020 - A Conversation with Siddhartha Mukherjee</episode>
+    <comments>A summary of the Covid-19 pandemic mainly from a US perspective. What tends to worry me at the moment: the long-term consequences of the disease in people who only had mild symptoms (i.e. it could be that the disease is way more serious for those people than previously thought).</comments>
+  </podcast>
+  <podcast>
+    <date>2020-08-17</date>
+    <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
+    <episode url="https://samharris.org/podcasts/213-worst-epidemic/" number="213">The Worst Epidemic - A Conversation with Gabriel J.X. Dance</episode>
+    <comments>Having a 2-year-old son, I forced myself to listen to this episode. We can't do much, except educating our children on what can or cannot be done online. And maybe trying to have a clearing view on the privacy problem. It's becoming clearer to me that "privacy absolutists" are probably wrong, but we still need to have a discussion about this topic. It's very complex.</comments>
+  </podcast>
+  <podcast>
     <date>2020-08-14</date>
     <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
     <episode url="https://samharris.org/podcasts/212-july-29-2020/" number="212">July 29, 2020 - A Conversation with Kathryn Paige Harden</episode>
     <comments>I guess this is how all disagreements should be settled. We didn't witness Sam or Kathryn really changing their point of view, but it was a civil conversation. One of the hard questions discussed was: what should the default hypothesis be (in the context of race/ethnicity and IQ)? And: should we even discuss this?</comments>
+  </podcast>
+  <podcast>
+    <date>2020-08-09</date>
+    <name url="https://peterattiamd.com/podcast/">The Peter Attia Drive Podcast</name>
+    <episode url="https://peterattiamd.com/terryreal/" number="119">Terry Real: Breaking the cycle of shame, anger, and depression</episode>
+    <comments>"Depression typically manifests in hurting others around you ("hurt people hurt people" as the saying goes)."</comments>
   </podcast>
   <podcast>
     <date>2020-07-23</date>
