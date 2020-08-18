@@ -4305,7 +4305,6 @@
     <rating>5.0</rating>
     <image>The Lord of the Rings - The Two Towers.jpg</image>
   </movie>
-  <!-- image missing -->
   <movie>
     <date>2008-07-17</date>
     <theater>IMAX Luzern, Lucerne</theater>
@@ -4314,6 +4313,7 @@
     <version>de</version>
     <url>https://www.imdb.com/title/tt0858497/</url>
     <rating>4.75</rating>
+    <image>Grand Canyon Adventure - River at Risk.jpg</image>
   </movie>
   <movie>
     <date>2008-06-28</date>
@@ -4322,7 +4322,9 @@
     <title>JCVD</title>
     <url>https://www.imdb.com/title/tt1130988/</url>
     <rating>4.75</rating>
+    <image>JCVD.jpg</image>
   </movie>
+  <!-- image missing -->
   <movie>
     <date>2008-06-25</date>
     <theater home="true"/>
