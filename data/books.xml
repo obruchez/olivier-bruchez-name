@@ -590,6 +590,7 @@
         <comments>This is a book I really liked. I heard Yuval Noah Harari on <a href="http://olivier.bruchez.name/podcasts#2017-03-27">Sam Harris' podcast in March 2017</a>. And then I kept hearing about people reading <i>Sapiens</i> or <i>Homo Deus</i>, so I <em>knew</em> I had to read one of his books... I had completely forgotten about it, but Harari is a vegan, an atheist, and meditates a lot, so I can easily relate to a lot of what he has to say. He also starts his book by mentioning Ray Kurzweil, Aubrey de Grey, and Steven Pinker, people I'm very familiar with, so I was hooked from the very beginning. Now I don't agree with everything he says. This is something I had already noticed during his discussion with Sam Harris, but he uses some words very loosely. For example, he seems to use the word "religion" for "philosophy" and "ideology". I understand why he's doing it, but it doesn't make his point clearer, in my opinion. Just for reference, the word "science" (and related) appears 317 times in the book, "religion" appears 211 times, and "philosophy" appears only 27 times. He also seems to support the <a href="https://en.wikipedia.org/wiki/Non-overlapping_magisteria">non-overlapping magisteria (NOMA)</a> view. I clearly don't agree with him on these points. Contrary to Kurzweil, he knows a lot about history and psychology, so he has quite a different point of view about our future. Whereas Kurzweil is very enthusiastic about uploading our minds to machines and living in virtual worlds, Harari is encouraging us to think about the relationship between intelligence and consciousness, the source of our values (in a world without gods and afterlife), and about how society and politics will work in such a future. Also for reference: <a href="https://danielmiessler.com/projects/reading/summary-homo-deus/">Daniel Miessler's summary of the book</a>.</comments>
         <image>Homo Deus.jpg</image>
     </book>
+    <!-- GR -->
     <book>
         <date>2017-07-31</date>
         <title>A Guide to the Good Life</title>
@@ -635,7 +636,6 @@
         <comments>Another classic. But of course very different from <i>Nineteen Eighty-Four</i>, which I read two months ago. This is the first book by Douglas Adams that I read. His style is surprising, in a good way. This is definitely not "serious" science fiction, which I feared would lessen my interest, but it didn't.</comments>
         <image>The Hitchhiker's Guide to the Galaxy.jpg</image>
     </book>
-    <!-- GR -->
     <book>
         <date>2017-04-30</date>
         <title>Meaning in Life and Why It Matters</title>
