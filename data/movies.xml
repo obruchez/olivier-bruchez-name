@@ -4324,7 +4324,6 @@
     <rating>4.75</rating>
     <image>JCVD.jpg</image>
   </movie>
-  <!-- image missing -->
   <movie>
     <date>2008-06-25</date>
     <theater home="true"/>
@@ -4332,6 +4331,7 @@
     <title>Lost In Translation</title>
     <url>https://www.imdb.com/title/tt0335266/</url>
     <rating>5.25</rating>
+    <image>Lost in Translation.jpg</image>
   </movie>
   <movie>
     <date>2008-06-09</date>
@@ -4340,7 +4340,9 @@
     <title>Making "The Shining"</title>
     <url>https://www.imdb.com/title/tt0203667/</url>
     <rating>4.25</rating>
+    <image>Making 'The Shining'.jpg</image>
   </movie>
+  <!-- image missing -->
   <movie>
     <date>2008-06-07</date>
     <theater home="true"/>
@@ -6107,7 +6109,10 @@
   </movie>
   <movie>
     <date>2004-01-14</date>
+    <director>Sofia Coppola</director>
     <title>Lost In Translation</title>
+    <url>https://www.imdb.com/title/tt0335266/</url>
+    <image>Lost in Translation.jpg</image>
   </movie>
   <movie>
     <date>2004-01-08</date>
