@@ -4342,7 +4342,6 @@
     <rating>4.25</rating>
     <image>Making 'The Shining'.jpg</image>
   </movie>
-  <!-- image missing -->
   <movie>
     <date>2008-06-07</date>
     <theater home="true"/>
@@ -4351,6 +4350,7 @@
     <title language="fr">Shining</title>
     <url>https://www.imdb.com/title/tt0081505/</url>
     <rating>5.5</rating>
+    <image>The Shining.jpg</image>
   </movie>
   <movie>
     <date>2008-05-31</date>
@@ -4359,7 +4359,9 @@
     <title>J'Ai Toujours Rêvé D'Être Un Gangster</title>
     <url>https://www.imdb.com/title/tt0827713/</url>
     <rating>4.75</rating>
+    <image>J'ai toujours rêvé d'être un gangster.jpg</image>
   </movie>
+  <!-- image missing -->
   <movie>
     <date>2008-05-28</date>
     <theater home="true"/>
