@@ -3,6 +3,12 @@
   <introduction>A list of podcasts I listened to.</introduction>
   <!-- Podcast notes for David Sinclair interview with Rhonda Patrick: https://podcastnotes.org/found-my-fitness/david-sinclair-rhonda-patrick-nad-nr-nmn/ -->
   <podcast>
+    <date>2020-08-21</date>
+    <name url="http://peachandblack.podbean.com/">Peach &amp; Black Podcast</name>
+    <episode url="https://peachandblack.podbean.com/e/the-family-35th-anniversary-st-paul-peterson-interview/">The Family 35th Anniversary - St. Paul Peterson Interview</episode>
+    <comments>I know St. Paul Peterson mainly because he was part of <a href="https://en.wikipedia.org/wiki/The_Family_(band)">The Family</a> (singing on the first-ever released version of "Nothing Compares 2 U", way before Sinéad O'Connor, for example). I'm a bit more familiar with his brother Ricky Peterson, who played on many Prince albums and productions, as well as with David Sanborn. Anyway, he sounds a like a nice person.</comments>
+  </podcast>
+  <podcast>
     <date>2020-08-18</date>
     <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
     <episode url="https://samharris.org/podcasts/214-august-13-2020/" number="214">August 13, 2020 - A Conversation with Siddhartha Mukherjee</episode>
