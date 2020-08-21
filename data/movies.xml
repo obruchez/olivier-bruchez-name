@@ -4361,7 +4361,6 @@
     <rating>4.75</rating>
     <image>J'ai toujours rêvé d'être un gangster.jpg</image>
   </movie>
-  <!-- image missing -->
   <movie>
     <date>2008-05-28</date>
     <theater home="true"/>
@@ -4369,6 +4368,7 @@
     <title>Ed Wood</title>
     <url>https://www.imdb.com/title/tt0109707/</url>
     <rating>5.0</rating>
+    <image>Ed Wood.jpg</image>
   </movie>
   <movie>
     <date>2008-05-27</date>
@@ -4388,6 +4388,7 @@
     <title language="fr">La Chute</title>
     <url>https://www.imdb.com/title/tt0363163/</url>
     <rating>4.75</rating>
+    <image>Der Untergang.jpg</image>
   </movie>
   <movie>
     <date>2008-05-22</date>
@@ -4397,7 +4398,9 @@
     <title language="fr">O' Brother</title>
     <url>https://www.imdb.com/title/tt0190590/</url>
     <rating>5.25</rating>
+    <image>O Brother, Where Art Thou.jpg</image>
   </movie>
+  <!-- image missing -->
   <movie>
     <date>2008-05-20</date>
     <theater home="true"/>
@@ -6648,6 +6651,7 @@
     <title language="fr">O' Brother</title>
     <version>fr</version>
     <url>https://www.imdb.com/title/tt0190590/</url>
+    <image>O Brother, Where Art Thou.jpg</image>
   </movie>
   <movie>
     <date>2000-11-09</date>
