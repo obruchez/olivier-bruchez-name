@@ -3,6 +3,16 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Checklist: add rating to IMDb -->
   <movie>
+    <date>2020-07-22</date>
+    <theater home="true"/>
+    <director>Ingmar Bergman</director>
+    <title>Persona</title>
+    <url>https://www.imdb.com/title/tt0060827/</url>
+    <rating>5.0</rating>
+    <comments>What did I just see?</comments>
+    <image>Persona.jpg</image>
+  </movie>
+  <movie>
     <date>2020-07-14</date>
     <theater home="true"/>
     <director>Dziga Vertov</director>
