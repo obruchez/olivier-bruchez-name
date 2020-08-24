@@ -1644,6 +1644,15 @@ Joël L’Hopitalier
     <image>Silo 8.jpg</image>
   </play>
   <play>
+    <date>2010-07-30</date>
+    <location>Le Bouveret, Switzerland</location>
+    <name>Les Brigades du Tigre</name>
+    <author>Alexis Giroud</author>
+    <director>Olivier Duperrex</director>
+    <actor>Théâtre du Croûtion</actor>
+    <image>Les Brigades du Tigre.jpg</image>
+  </play>
+  <play>
     <date>2010-05-04</date>
     <location>Salle Charles Apothéloz, Théâtre de Vidy, Lausanne, Switzerland</location>
     <name>Raoul</name>
@@ -1881,7 +1890,7 @@ Joël L’Hopitalier
     <location>Le Bouveret, Switzerland</location>
     <name>Le Comte De Monte-Cristo</name> 
     <author>Alexandre Dumas</author>
-    <director>Olivier Duperrrex</director>
+    <director>Olivier Duperrex</director>
     <adaptation>Gil Pidoux</adaptation>
     <actor>Théâtre du Croûtion</actor>
     <!-- <person function="musique">Pascal Rinaldi</person>
