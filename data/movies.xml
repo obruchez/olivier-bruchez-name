@@ -4410,7 +4410,6 @@
     <rating>5.25</rating>
     <image>O Brother, Where Art Thou.jpg</image>
   </movie>
-  <!-- image missing -->
   <movie>
     <date>2008-05-20</date>
     <theater home="true"/>
@@ -4419,6 +4418,7 @@
     <title language="fr">Sweeney Todd : Le Diabolique Barbier De Fleet Street</title>
     <url>https://www.imdb.com/title/tt0408236/</url>
     <rating>4.75</rating>
+    <image>Sweeney Todd - The Demon Barber of Fleet Street.jpg</image>
   </movie>
   <movie>
     <date>2008-05-18</date>
@@ -4428,7 +4428,9 @@
     <title language="fr">Le Cercle Des Poètes Disparus</title>
     <url>https://www.imdb.com/title/tt0097165/</url>
     <rating>5.0</rating>
+    <image>Dead Poets Society.jpg</image>
   </movie>
+  <!-- image missing -->
   <movie>
     <date>2008-05-17</date>
     <theater home="true"/>
