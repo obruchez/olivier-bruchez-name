@@ -789,11 +789,11 @@
     <series url="https://en.wikipedia.org/wiki/List_of_Episodes_episodes#Season_1_(2011)" type="series">1</series>
     <image>Episodes.jpg</image>
   </show> 
-  <!-- image missing -->
   <show>
     <date>2014-08-15</date>
     <name url="https://en.wikipedia.org/wiki/Mixology_(TV_series)">Mixology</name>
     <series type="season">1</series>
+    <image>Mixology.jpg</image>
   </show>
   <show>
     <date>2014-06-25</date>
@@ -819,6 +819,7 @@
     <series url="https://en.wikipedia.org/wiki/Community_(season_5)" type="season">5</series>
     <image>Community.jpg</image>
   </show>
+  <!-- image missing -->
   <show>
     <date>2014-04-01</date>
     <name url="https://en.wikipedia.org/wiki/How_I_Met_Your_Mother">How I Met Your Mother</name>
