@@ -4430,7 +4430,6 @@
     <rating>5.0</rating>
     <image>Dead Poets Society.jpg</image>
   </movie>
-  <!-- image missing -->
   <movie>
     <date>2008-05-17</date>
     <theater home="true"/>
@@ -4438,6 +4437,7 @@
     <title>The Big Lebowski</title>
     <url>https://www.imdb.com/title/tt0118715/</url>
     <rating>5.25</rating>
+    <image>The Big Lebowski.jpg</image>
   </movie>
   <movie>
     <date>2008-05-16</date>
@@ -4446,7 +4446,9 @@
     <title>The Truman Show</title>
     <url>https://www.imdb.com/title/tt0120382/</url>
     <rating>5.0</rating>
+    <image>The Truman Show.jpg</image>
   </movie>
+  <!-- image missing -->
   <movie>
     <date>2008-05-04</date>
     <theater>Galeries, Lausanne</theater>
@@ -7090,6 +7092,7 @@
     <director>Joel Coen &amp; Ethan Coen</director>
     <title>The Big Lebowski</title>
     <url>https://www.imdb.com/title/tt0118715/</url>
+    <image>The Big Lebowski.jpg</image>
   </movie>
   <movie>
     <date>1998-05-14</date>
