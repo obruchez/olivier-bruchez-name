@@ -4448,7 +4448,6 @@
     <rating>5.0</rating>
     <image>The Truman Show.jpg</image>
   </movie>
-  <!-- image missing -->
   <movie>
     <date>2008-05-04</date>
     <theater>Galeries, Lausanne</theater>
@@ -4457,6 +4456,7 @@
     <title language="fr">À Bord Du Darjeeling Limited</title>
     <url>https://www.imdb.com/title/tt0838221/</url>
     <rating>4.75</rating>
+    <image>The Darjeeling Limited.jpg</image>
   </movie>
   <movie>
     <date>2008-05-04</date>
@@ -4466,7 +4466,9 @@
     <title language="fr">Hôtel Chevalier</title>
     <url>https://www.imdb.com/title/tt1094249/</url>
     <rating>4.25</rating>
+    <image>Hotel Chevalier.jpg</image>
   </movie>
+  <!-- image missing -->
   <movie>
     <date>2008-05-02</date>
     <theater>Galeries, Lausanne</theater>
