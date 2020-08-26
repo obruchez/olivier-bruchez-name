@@ -2889,6 +2889,11 @@
     <comments></comments>
   </concert>
   <concert>
+    <date>2002-11-16</date>
+    <location>Fondation Louis Moret, Martigny, Switzerland</location>
+    <musician inst="drums, effects">Christophe Fellay</musician>
+  </concert>
+  <concert>
     <date>2002-10-30</date>
     <location>Hallenstadion, Zürich, Switzerland</location>
     <musician inst="vocals, guitar, bass, keyboards, drums" main="true">Prince</musician>
