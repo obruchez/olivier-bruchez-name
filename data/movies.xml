@@ -4468,23 +4468,25 @@
     <rating>4.25</rating>
     <image>Hotel Chevalier.jpg</image>
   </movie>
-  <!-- image missing -->
   <movie>
     <date>2008-05-02</date>
     <theater>Galeries, Lausanne</theater>
     <director>Philippe Claudel</director>
-    <title>Il Y A Longtemps Que Je T'Aime</title>
+    <title>Il y a longtemps que je t'aime</title>
     <url>https://www.imdb.com/title/tt1068649/</url>
     <rating>4.5</rating>
+    <image>Il y a longtemps que je t'aime.jpg</image>
   </movie>
   <movie>
     <date>2008-04-05</date>
     <theater>Galeries, Lausanne</theater>
     <director>Rodrigo Plá</director>
-    <title>La Zona</title>
+    <title>La zona</title>
     <url>https://www.imdb.com/title/tt1039652/</url>
     <rating>4.5</rating>
+    <image>La zona.jpg</image>
   </movie>
+  <!-- image missing -->
   <movie>
     <date>2008-03-23</date>
     <theater home="true"/>
