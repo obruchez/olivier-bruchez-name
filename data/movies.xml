@@ -4486,7 +4486,6 @@
     <rating>4.5</rating>
     <image>La zona.jpg</image>
   </movie>
-  <!-- image missing -->
   <movie>
     <date>2008-03-23</date>
     <theater home="true"/>
@@ -4501,14 +4500,19 @@
     <director>Cédric Klapisch</director>
     <title>Paris</title>
     <rating>4.75</rating>
+    <url>https://www.imdb.com/title/tt0869994/</url>
+    <image>Paris.jpg</image>
   </movie>
   <movie>
     <date>2008-03-17</date>
     <theater>Le Capitole, Lausanne</theater>
     <director>Dany Boon</director>
-    <title>Bienvenue Chez Les Ch'tis</title>
+    <title>Bienvenue chez les Ch'tis</title>
     <rating>4.5</rating>
+    <url>https://www.imdb.com/title/tt1064932/</url>
+    <image>Bienvenue chez les Ch'tis.jpg</image>
   </movie>
+    <!-- image missing -->
   <movie>
     <date>2008-02-18</date>
     <theater>Galeries, Lausanne</theater>
