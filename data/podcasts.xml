@@ -3,6 +3,12 @@
   <introduction>A list of podcasts I listened to.</introduction>
   <!-- Podcast notes for David Sinclair interview with Rhonda Patrick: https://podcastnotes.org/found-my-fitness/david-sinclair-rhonda-patrick-nad-nr-nmn/ -->
   <podcast>
+    <date>2020-08-27</date>
+    <name url="https://peterattiamd.com/podcast/">The Peter Attia Drive Podcast</name>
+    <episode url="https://peterattiamd.com/joanmannick-nirbarzilai/" number="123">Joan Mannick, M.D. &amp; Nir Barzilai, M.D.: Rapamycin and metformin—longevity, immune enhancement, and COVID-19</episode>
+    <comments>This was a complex discussion. I'm curious to see what current/future studies will show about rapamycin and metformin. I'm also getting more and more interested about immunity in general.</comments>
+  </podcast>
+  <podcast>
     <date>2020-08-21</date>
     <name url="http://peachandblack.podbean.com/">Peach &amp; Black Podcast</name>
     <episode url="https://peachandblack.podbean.com/e/the-family-35th-anniversary-st-paul-peterson-interview/">The Family 35th Anniversary - St. Paul Peterson Interview</episode>
