@@ -3,6 +3,15 @@
 <exhibitions created="2011-05-17">
     <introduction>A list of exhibitions I visited.</introduction>
     <exhibition>
+        <date>2020-08-03</date>
+        <name>Permanent exhibition / Hent</name>
+        <museum>Port musée, Douarnenez, France</museum>
+        <rating>4.5</rating>
+        <comments>Not necessarily my cup of tea, but quite well done. Includes a paintings section.</comments>
+        <image>Port musée.jpg</image>
+        <!-- <pictures url=""/> -->
+    </exhibition>
+    <exhibition>
         <date>2020-02-20</date>
         <name>Mondes (im)parfaits</name>
         <museum>Maison d'Ailleurs, Yverdon-les-Bains, Switzerland</museum>
