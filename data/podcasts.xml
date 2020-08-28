@@ -3,6 +3,12 @@
   <introduction>A list of podcasts I listened to.</introduction>
   <!-- Podcast notes for David Sinclair interview with Rhonda Patrick: https://podcastnotes.org/found-my-fitness/david-sinclair-rhonda-patrick-nad-nr-nmn/ -->
   <podcast>
+    <date>2020-08-28</date>
+    <name>Prince | Official Podcast</name>
+    <episode url="https://www.thecurrent.org/feature/2020/08/27/prince-the-story-of-sign-o-the-times-episode-1" number="7">The Story of Sign O’ The Times - Episode 1: It’s Gonna Be a Beautiful Night</episode>
+    <comments>Now I'm <em>really</em> excited with the release of the super deluxe edition of <i>Sign 'O' The Times</i>! This episode contains excerpts from previously unreleased recordings, including Prince's instructions before "Power Fantastic".</comments>
+  </podcast>
+  <podcast>
     <date>2020-08-27</date>
     <name url="https://peterattiamd.com/podcast/">The Peter Attia Drive Podcast</name>
     <episode url="https://peterattiamd.com/joanmannick-nirbarzilai/" number="123">Joan Mannick, M.D. &amp; Nir Barzilai, M.D.: Rapamycin and metformin—longevity, immune enhancement, and COVID-19</episode>
