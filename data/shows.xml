@@ -819,11 +819,11 @@
     <series url="https://en.wikipedia.org/wiki/Community_(season_5)" type="season">5</series>
     <image>Community.jpg</image>
   </show>
-  <!-- image missing -->
   <show>
     <date>2014-04-01</date>
     <name url="https://en.wikipedia.org/wiki/How_I_Met_Your_Mother">How I Met Your Mother</name>
     <series url="https://en.wikipedia.org/wiki/How_I_Met_Your_Mother#Season_9" type="season">9</series>
+    <image>How I Met Your Mother.jpg</image>
   </show>
   <show>
     <date>2014-03-07</date>
@@ -831,6 +831,7 @@
     <series url="https://en.wikipedia.org/wiki/Seinfeld_(season_5)" type="season">5</series>
     <image>Seinfeld.jpg</image>
   </show>
+  <!-- image missing -->
   <show>
     <date>2014-01-26</date>
     <name url="https://en.wikipedia.org/wiki/Arrested_Development_(TV_series)">Arrested Development</name>
@@ -859,6 +860,7 @@
     <date>2013-05-26</date>
     <name url="https://en.wikipedia.org/wiki/How_I_Met_Your_Mother">How I Met Your Mother</name>
     <series url="https://en.wikipedia.org/wiki/How_I_Met_Your_Mother#Season_8" type="season">8</series>
+    <image>How I Met Your Mother.jpg</image>
   </show>
   <show>
     <date>2013-05-22</date>
@@ -914,6 +916,7 @@
     <date>2012-05-18</date>
     <name url="https://en.wikipedia.org/wiki/How_I_Met_Your_Mother">How I Met Your Mother</name>
     <series url="https://en.wikipedia.org/wiki/How_I_Met_Your_Mother#Season_7" type="season">7</series>
+    <image>How I Met Your Mother.jpg</image>
   </show>
   <show>
     <date>2012-05-17</date>
@@ -969,6 +972,7 @@
     <date>2011-05-09</date>
     <name url="https://en.wikipedia.org/wiki/How_I_Met_Your_Mother">How I Met Your Mother</name>
     <series url="https://en.wikipedia.org/wiki/How_I_Met_Your_Mother#Season_6" type="season">6</series>
+    <image>How I Met Your Mother.jpg</image>
   </show>
   <show>
     <date>2010-07-28</date>
@@ -979,6 +983,7 @@
     <date>2010-06-12</date>
     <name url="https://en.wikipedia.org/wiki/How_I_Met_Your_Mother">How I Met Your Mother</name>
     <series url="https://en.wikipedia.org/wiki/How_I_Met_Your_Mother#Season_5" type="season">5</series>
+    <image>How I Met Your Mother.jpg</image>
   </show>
   <show>
     <date>2010-06-11</date>
@@ -990,6 +995,7 @@
     <date>2010-02-26</date>
     <name url="https://en.wikipedia.org/wiki/How_I_Met_Your_Mother">How I Met Your Mother</name>
     <series url="https://en.wikipedia.org/wiki/How_I_Met_Your_Mother#Season_4" type="season">4</series>
+    <image>How I Met Your Mother.jpg</image>
   </show>
   <show>
     <date>2010-01-26</date>
@@ -1000,16 +1006,19 @@
     <date>2009-12-30</date>
     <name url="https://en.wikipedia.org/wiki/How_I_Met_Your_Mother">How I Met Your Mother</name>
     <series url="https://en.wikipedia.org/wiki/How_I_Met_Your_Mother#Season_3" type="season">3</series>
+    <image>How I Met Your Mother.jpg</image>
   </show>
   <show>
     <date>2009-11-14</date>
     <name url="https://en.wikipedia.org/wiki/How_I_Met_Your_Mother">How I Met Your Mother</name>
     <series url="https://en.wikipedia.org/wiki/How_I_Met_Your_Mother#Season_2" type="season">2</series>
+    <image>How I Met Your Mother.jpg</image>
   </show>
   <show>
     <date>2009-08-02</date>
     <name url="https://en.wikipedia.org/wiki/How_I_Met_Your_Mother">How I Met Your Mother</name>
     <series url="https://en.wikipedia.org/wiki/How_I_Met_Your_Mother#Season_1" type="season">1</series>
+    <image>How I Met Your Mother.jpg</image>
   </show>
   <show>
     <date>2009-05-19</date>
