@@ -4512,13 +4512,14 @@
     <url>https://www.imdb.com/title/tt1064932/</url>
     <image>Bienvenue chez les Ch'tis.jpg</image>
   </movie>
-    <!-- image missing -->
   <movie>
     <date>2008-02-18</date>
     <theater>Galeries, Lausanne</theater>
     <director>Jason Reitman</director>
     <title>Juno</title>
     <rating>5.0</rating>
+    <url>https://www.imdb.com/title/tt0467406/</url>
+    <image>Juno.jpg</image>
   </movie>
   <movie>
     <date>2008-02-07</date>
@@ -4527,7 +4528,10 @@
     <title>The Kite Runner</title>
     <title language="fr">Les Cerfs-Volants De Kaboul</title>
     <rating>5.0</rating>
+    <url>https://www.imdb.com/title/tt0419887/</url>
+    <image>The Kite Runner.jpg</image>
   </movie>
+  <!-- image missing -->
   <movie>
     <date>2008-01-28</date>
     <theater>Galeries, Lausanne</theater>
