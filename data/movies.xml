@@ -3,7 +3,7 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Checklist: add rating to IMDb -->
   <movie>
-    <date>2020-07-22</date>
+    <date>2020-08-22</date>
     <theater home="true"/>
     <director>Ingmar Bergman</director>
     <title>Persona</title>
