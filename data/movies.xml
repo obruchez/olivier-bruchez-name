@@ -1873,7 +1873,7 @@
     <title>Into The Wild</title>
     <url>https://www.imdb.com/title/tt0758758/</url>
     <rating>5.0</rating>
-    <image>Into The Wild.jpg</image>
+    <image>Into the Wild.jpg</image>
   </movie>
   <movie>
     <date>2015-07-26</date>
@@ -4531,7 +4531,6 @@
     <url>https://www.imdb.com/title/tt0419887/</url>
     <image>The Kite Runner.jpg</image>
   </movie>
-  <!-- image missing -->
   <movie>
     <date>2008-01-28</date>
     <theater>Galeries, Lausanne</theater>
@@ -4539,6 +4538,8 @@
     <title>No Country For Old Men</title>
     <title language="fr">Non, Ce Pays N'Est Pas Pour Le Vieil Homme</title>
     <rating>5.0</rating>
+    <url>https://www.imdb.com/title/tt0477348/</url>
+    <image>No Country for Old Men.jpg</image>
   </movie>
   <movie>
     <date>2008-01-18</date>
@@ -4546,7 +4547,10 @@
     <director>Sean Penn</director>
     <title>Into The Wild</title>
     <rating>5.0</rating>
+    <url>https://www.imdb.com/title/tt0758758/</url>
+    <image>Into the Wild.jpg</image>
   </movie>
+  <!-- image missing -->
   <movie>
     <date>2007-12-15</date>
     <theater>Flonplex, Lausanne</theater>
