@@ -525,6 +525,12 @@
         <museum>Kunstmuseum, Basel, Switzerland</museum>
         <rating>4.5</rating>
     </exhibition>
+    <exhibition>
+        <date>2010-08-05</date>
+        <name>Birth of Impressionism</name>
+        <museum>de Young Museum, San Francisco, US</museum>
+        <rating>4.5</rating>
+    </exhibition>
     <!--
     <exhibition>
         <date></date>
