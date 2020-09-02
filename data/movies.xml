@@ -4550,7 +4550,6 @@
     <url>https://www.imdb.com/title/tt0758758/</url>
     <image>Into the Wild.jpg</image>
   </movie>
-  <!-- image missing -->
   <movie>
     <date>2007-12-15</date>
     <theater>Flonplex, Lausanne</theater>
@@ -4559,6 +4558,8 @@
     <title language="fr">Il Était Une Fois</title>
     <version>fr</version>
     <rating>4.5</rating>
+    <url>https://www.imdb.com/title/tt0461770/</url>
+    <image>Enchanted.jpg</image>
   </movie>
   <movie>
     <date>2007-12-01</date>
@@ -4569,7 +4570,9 @@
     <url>https://www.imdb.com/title/tt0120737/</url>
     <version>fr</version>
     <rating>5.25</rating>
+    <image>The Lord of the Rings - The Fellowship of the Ring.jpg</image>
   </movie>
+  <!-- image missing -->
   <movie>
     <date>2007-11-23</date>
     <theater home="true"/>
@@ -6335,6 +6338,7 @@
     <title language="fr">Le Seigneur Des Anneaux : La Communauté De L'Anneau</title>
     <url>https://www.imdb.com/title/tt0120737/</url>
     <version>fr</version>
+    <image>The Lord of the Rings - The Fellowship of the Ring.jpg</image>
   </movie>
   <movie>
     <date>2002-12-13</date>
@@ -6476,6 +6480,7 @@
     <title language="fr">Le Seigneur Des Anneaux : La Communauté De L'Anneau</title>
     <url>https://www.imdb.com/title/tt0120737/</url>
     <version>fr</version>
+    <image>The Lord of the Rings - The Fellowship of the Ring.jpg</image>
   </movie>
   <movie>
     <date>2002-02-13</date>
@@ -6506,6 +6511,7 @@
     <title language="fr">Le Seigneur Des Anneaux : La Communauté De L'Anneau</title>
     <url>https://www.imdb.com/title/tt0120737/</url>
     <version>fr</version>
+    <image>The Lord of the Rings - The Fellowship of the Ring.jpg</image>
   </movie>
   <movie>
     <date>2001-12-13</date>
