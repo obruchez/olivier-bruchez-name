@@ -6716,6 +6716,14 @@
     <image>Extreme Measures.jpg</image>
   </movie>
   <movie>
+    <date>2000-08-06</date>
+    <theater home="true"/>
+    <director>Jonathan Lynn</director>
+    <title>Trial and Error</title>
+    <url>https://www.imdb.com/title/tt0120373/</url>
+    <image>Trial and Error.jpg</image>
+  </movie>
+  <movie>
     <date>2000-07-08</date>
     <theater home="true"/>
     <director>Lewis Gilbert</director>
