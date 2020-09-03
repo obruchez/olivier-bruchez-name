@@ -4572,13 +4572,14 @@
     <rating>5.25</rating>
     <image>The Lord of the Rings - The Fellowship of the Ring.jpg</image>
   </movie>
-  <!-- image missing -->
   <movie>
     <date>2007-11-23</date>
     <theater home="true"/>
     <director>Mike Judge</director>
     <title>Idiocracy</title>
     <rating>3.5</rating>
+    <url>https://www.imdb.com/title/tt0387808/</url>
+    <image>Idiocracy.jpg</image>
   </movie>
   <movie>
     <date>2007-11-16</date>
@@ -4587,7 +4588,10 @@
     <title>Hoy No Estoy</title>
     <rating>5.25</rating>
     <comments>Dixième Nuit du Court.</comments>
+    <url>https://www.imdb.com/title/tt1091781/</url>
+    <image>Hoy No Estoy.jpg</image>
   </movie>
+  <!-- image missing -->
   <movie>
     <date>2007-11-16</date>
     <theater>Galeries, Lausanne</theater>
