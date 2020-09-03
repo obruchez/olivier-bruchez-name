@@ -3,6 +3,18 @@
   <introduction>A list of podcasts I listened to.</introduction>
   <!-- Podcast notes for David Sinclair interview with Rhonda Patrick: https://podcastnotes.org/found-my-fitness/david-sinclair-rhonda-patrick-nad-nr-nmn/ -->
   <podcast>
+    <date></date>
+    <name>Prince | Official Podcast</name>
+    <episode url="https://www.thecurrent.org/feature/2020/09/03/prince-the-story-of-sign-o-the-times-episode-2-the-dream-factory" number="8">The Story of Sign O' The Times - Episode 2: The Dream Factory</episode>
+    <comments></comments>
+  </podcast>
+  <podcast>
+    <date>2020-09-03</date>
+    <name url="https://peterattiamd.com/podcast/">The Peter Attia Drive Podcast</name>
+    <episode url="https://peterattiamd.com/lloydklickstein/" number="118">Lloyd Klickstein, M.D., Ph.D.: Rapamycin, mTOR inhibition, and the biology of aging</episode>
+    <comments>Another very complex/technical discussion (at least for me). I'll just copy-paste the quote from the episode page: "Our approach is to address serious aging-associated diseases, and if we're successful, the side effect will be longevity." - Lloyd Klickstein.</comments>
+  </podcast>
+  <podcast>
     <date>2020-08-28</date>
     <name>Prince | Official Podcast</name>
     <episode url="https://www.thecurrent.org/feature/2020/08/27/prince-the-story-of-sign-o-the-times-episode-1" number="7">The Story of Sign O' The Times - Episode 1: It's Gonna Be a Beautiful Night</episode>
