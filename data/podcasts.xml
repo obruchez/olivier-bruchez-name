@@ -4,9 +4,15 @@
   <!-- Podcast notes for David Sinclair interview with Rhonda Patrick: https://podcastnotes.org/found-my-fitness/david-sinclair-rhonda-patrick-nad-nr-nmn/ -->
   <podcast>
     <date></date>
+    <name url="https://peterattiamd.com/podcast/">The Peter Attia Drive Podcast</name>
+    <episode url="https://peterattiamd.com/azraraza/" number="121">Azra Raza, M.D.: Why we’re losing the war on cancer</episode>
+    <comments>I didn't know the situation was that bad.</comments>
+  </podcast>
+  <podcast>
+    <date>2020-09-03</date>
     <name>Prince | Official Podcast</name>
     <episode url="https://www.thecurrent.org/feature/2020/09/03/prince-the-story-of-sign-o-the-times-episode-2-the-dream-factory" number="8">The Story of Sign O' The Times - Episode 2: The Dream Factory</episode>
-    <comments></comments>
+    <comments>Excerpts from previously unreleased studio recordings were played (first version of "Big Tall Wall", horn version of "The Ballad of Dorothy Parker", "Blanche", etc.). Susan Rogers is fascinating, as usual.</comments>
   </podcast>
   <podcast>
     <date>2020-09-03</date>
