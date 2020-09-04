@@ -4591,7 +4591,6 @@
     <url>https://www.imdb.com/title/tt1091781/</url>
     <image>Hoy No Estoy.jpg</image>
   </movie>
-  <!-- image missing -->
   <movie>
     <date>2007-11-16</date>
     <theater>Galeries, Lausanne</theater>
@@ -4599,6 +4598,7 @@
     <title>Killcow</title>
     <rating>4.5</rating>
     <comments>Dixième Nuit du Court.</comments>
+    <image>Killcow.jpg</image>
   </movie>
   <movie>
     <date>2007-11-16</date>
@@ -4615,7 +4615,10 @@
     <title>Il Supplente</title>
     <rating>5.0</rating>
     <comments>Dixième Nuit du Court.</comments>
+    <url>https://www.imdb.com/title/tt0922627/</url>
+    <image>Il supplente.jpg</image>
   </movie>
+  <!-- image missing -->
   <movie>
     <date>2007-11-16</date>
     <theater>Galeries, Lausanne</theater>
