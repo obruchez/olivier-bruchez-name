@@ -4618,7 +4618,6 @@
     <url>https://www.imdb.com/title/tt0922627/</url>
     <image>Il supplente.jpg</image>
   </movie>
-  <!-- image missing -->
   <movie>
     <date>2007-11-16</date>
     <theater>Galeries, Lausanne</theater>
@@ -4626,6 +4625,7 @@
     <title>Adults Only</title>
     <rating>4.5</rating>
     <comments>Dixième Nuit du Court.</comments>
+    <url>https://www.imdb.com/title/tt0851576/</url>
   </movie>
   <movie>
     <date>2007-11-16</date>
@@ -4634,6 +4634,8 @@
     <title>Guide Dog</title>
     <rating>4.75</rating>
     <comments>Dixième Nuit du Court.</comments>
+    <url>https://www.imdb.com/title/tt0823470/</url>
+    <image>Guide Dog.jpg</image>
   </movie>
   <movie>
     <date>2007-11-16</date>
@@ -4642,7 +4644,10 @@
     <title>Tanghi Argentini</title>
     <rating>4.75</rating>
     <comments>Dixième Nuit du Court.</comments>
+    <url>https://www.imdb.com/title/tt0812387/</url>
+    <image>Tanghi Argentini.jpg</image>
   </movie>
+  <!-- image missing -->
   <movie>
     <date>2007-11-16</date>
     <theater>Galeries, Lausanne</theater>
