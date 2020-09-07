@@ -2,6 +2,18 @@
 <books created="2006-08-20">
     <introduction>A list of books I read.</introduction>
     <book>
+        <date>2020-09-06</date>
+        <title>The Art of Living</title>
+        <subtitle>Self-management - How to Survive and Thrive in the 21st Century</subtitle>
+        <author>Youssef El Baba</author>
+        <publishingyear>2020</publishingyear>
+        <rating>3.5</rating>
+        <url>https://www.goodreads.com/book/show/52431581-the-art-of-living</url>
+        <!-- <notes description="Kindle highlights"></notes> -->
+        <comments>This book convinced me that it's time to migrate from my current system (based on G Suite) to a more specific tool (maybe Omnifocus - I was not convinced by 2Do).</comments>
+        <image>The Art of Living.jpg</image>
+    </book>
+    <book>
         <date>2020-07-14</date>
         <title>A Brief History of Time</title>
         <subtitle>From the Big Bang to Black Holes</subtitle>
