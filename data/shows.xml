@@ -831,11 +831,11 @@
     <series url="https://en.wikipedia.org/wiki/Seinfeld_(season_5)" type="season">5</series>
     <image>Seinfeld.jpg</image>
   </show>
-  <!-- image missing -->
   <show>
     <date>2014-01-26</date>
     <name url="https://en.wikipedia.org/wiki/Arrested_Development_(TV_series)">Arrested Development</name>
     <series url="https://en.wikipedia.org/wiki/Arrested_Development_(season_4)" type="season">4</series>
+    <image>Arrested Development.jpg</image>
   </show>
   <show>
     <date>2013-12-??</date>
@@ -879,18 +879,22 @@
     <name url="https://en.wikipedia.org/wiki/Arrested_Development_(TV_series)">Arrested Development</name>
     <series url="https://en.wikipedia.org/wiki/Arrested_Development_(season_3)" type="season">3</series>
     <comments>Date uncertain.</comments>
+    <image>Arrested Development.jpg</image>
   </show>
   <show>
     <date>2013-01-22</date>
     <name url="https://en.wikipedia.org/wiki/Arrested_Development_(TV_series)">Arrested Development</name>
     <series url="https://en.wikipedia.org/wiki/Arrested_Development_(season_2)" type="season">2</series>
     <comments>Date uncertain.</comments>
+    <image>Arrested Development.jpg</image>
   </show>
   <show>
     <date>2012-10-28</date>
     <name url="https://en.wikipedia.org/wiki/Arrested_Development_(TV_series)">Arrested Development</name>
     <series url="https://en.wikipedia.org/wiki/Arrested_Development_(season_1)" type="season">1</series>
+    <image>Arrested Development.jpg</image>
   </show>
+  <!-- image missing -->
   <show>
     <date>2012-09-19</date>
     <name url="https://en.wikipedia.org/wiki/The_Office_(U.S._TV_series)">The Office (US)</name>
