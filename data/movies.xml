@@ -4647,7 +4647,6 @@
     <url>https://www.imdb.com/title/tt0812387/</url>
     <image>Tanghi Argentini.jpg</image>
   </movie>
-  <!-- image missing -->
   <movie>
     <date>2007-11-16</date>
     <theater>Galeries, Lausanne</theater>
@@ -4655,6 +4654,8 @@
     <title>The Little Samurai</title>
     <rating>5.0</rating>
     <comments>Dixième Nuit du Court.</comments>
+    <url>https://www.imdb.com/title/tt2846848/</url>
+    <image>The Little Samurai.jpg</image>
   </movie>
   <movie>
     <date>2007-11-16</date>
@@ -4663,7 +4664,10 @@
     <title>Evelyn: The Cutest Evil Dead Girl</title>
     <rating>4.5</rating>
     <comments>Dixième Nuit du Court.</comments>
+    <url>https://www.imdb.com/title/tt0343644/</url>
+    <image>Evelyn - The Cutest Evil Dead Girl.jpg</image>
   </movie>
+  <!-- image missing -->
   <movie>
     <date>2007-11-16</date>
     <theater>Galeries, Lausanne</theater>
