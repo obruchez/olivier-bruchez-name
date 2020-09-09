@@ -4667,7 +4667,6 @@
     <url>https://www.imdb.com/title/tt0343644/</url>
     <image>Evelyn - The Cutest Evil Dead Girl.jpg</image>
   </movie>
-  <!-- image missing -->
   <movie>
     <date>2007-11-16</date>
     <theater>Galeries, Lausanne</theater>
@@ -4675,6 +4674,8 @@
     <title>Wing, The Fish That Talked Back</title>
     <rating>4.5</rating>
     <comments>Dixième Nuit du Court.</comments>
+    <url>https://www.imdb.com/title/tt1283974/</url>
+    <image>Wing - The Fish That Talked Back.jpg</image>
   </movie>
   <movie>
     <date>2007-11-16</date>
@@ -4683,7 +4684,10 @@
     <title>Kokos</title>
     <rating>4.5</rating>
     <comments>Dixième Nuit du Court.</comments>
+    <url>https://www.imdb.com/title/tt2420750/</url>
+    <image>Kokos.jpg</image>
   </movie>
+  <!-- image missing -->
   <movie>
     <date>2007-11-16</date>
     <theater>Galeries, Lausanne</theater>
