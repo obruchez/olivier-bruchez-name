@@ -3,6 +3,24 @@
   <introduction>A list of podcasts I listened to.</introduction>
   <!-- Podcast notes for David Sinclair interview with Rhonda Patrick: https://podcastnotes.org/found-my-fitness/david-sinclair-rhonda-patrick-nad-nr-nmn/ -->
   <podcast>
+    <date></date>
+    <name url="https://peterattiamd.com/podcast/">The Peter Attia Drive Podcast</name>
+    <episode url="https://peterattiamd.com/matthewwalker4/" number="126">Matthew Walker, Ph.D.: Sleep and immune function, chronotypes, hygiene tips, and addressing questions about his book</episode>
+    <comments>"It's not time that heals all wounds. It's actually time during REM sleep and dreaming that provides this emotional convalescence." — Matthew Walker, Ph.D.</comments>
+  </podcast>
+  <podcast>
+    <date>2020-09-10</date>
+    <name>Prince | Official Podcast</name>
+    <episode url="https://www.thecurrent.org/feature/2020/09/10/prince-the-story-of-sign-o-the-times-episode-3-the-quake" number="9">The Story of Sign O' The Times, Episode 3: The Quake</episode>
+    <comments>Prince's influences for "Sign O' The Times", the song (the news, the earthquake in Los Angeles, etc.) and more.</comments>
+  </podcast>
+  <podcast>
+    <date>2020-09-10</date>
+    <name url="https://peterattiamd.com/podcast/">The Peter Attia Drive Podcast</name>
+    <episode url="https://peterattiamd.com/lorigottlieb/" number="122">Lori Gottlieb: Understanding pain, therapeutic breakthroughs, and keys to enduring emotional health</episode>
+    <comments>"Change happens gradually, then suddenly." — Lori Gottlieb</comments>
+  </podcast>
+  <podcast>
     <date>2020-09-09</date>
     <name url="https://www.rts.ch/play/radio/emission/mille-et-une-archives?id=10155812">Mille et une archives</name>
     <episode url="https://www.rts.ch/play/radio/mille-et-une-archives/audio/laffaire-des-vignes-maudites?id=11556233">L’affaire des vignes maudites</episode>
