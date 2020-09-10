@@ -4687,7 +4687,6 @@
     <url>https://www.imdb.com/title/tt2420750/</url>
     <image>Kokos.jpg</image>
   </movie>
-  <!-- image missing -->
   <movie>
     <date>2007-11-16</date>
     <theater>Galeries, Lausanne</theater>
@@ -4695,6 +4694,8 @@
     <title>Out Of Milk</title>
     <rating>4.5</rating>
     <comments>Dixième Nuit du Court.</comments>
+    <url>https://www.imdb.com/title/tt0893544/</url>
+    <image>Out of Milk.jpg</image>
   </movie>
   <movie>
     <date>2007-11-16</date>
@@ -4703,7 +4704,10 @@
     <title>Bitch</title>
     <rating>4.5</rating>
     <comments>Dixième Nuit du Court.</comments>
+    <url>https://www.imdb.com/title/tt0807940/</url>
+    <image>Bitch.jpg</image>
   </movie>
+  <!-- image missing -->
   <movie>
     <date>2007-11-16</date>
     <theater>Galeries, Lausanne</theater>
