@@ -4707,7 +4707,6 @@
     <url>https://www.imdb.com/title/tt0807940/</url>
     <image>Bitch.jpg</image>
   </movie>
-  <!-- image missing -->
   <movie>
     <date>2007-11-16</date>
     <theater>Galeries, Lausanne</theater>
@@ -4715,14 +4714,17 @@
     <title>Food Fight</title>
     <rating>4.5</rating>
     <comments>Dixième Nuit du Court.</comments>
+    <url>https://www.imdb.com/title/tt1544536/</url>
+    <image>Food Fight.jpg</image>
   </movie>
   <movie>
     <date>2007-11-16</date>
     <theater>Galeries, Lausanne</theater>
     <director>Jonas Grosch</director>
-    <title>La Vie Est Dure Sans Confiture</title>
+    <title>La vie est dure sans confiture</title>
     <rating>4.5</rating>
     <comments>Dixième Nuit du Court.</comments>
+    <url>https://www.imdb.com/title/tt1110637/</url>
   </movie>
   <movie>
     <date>2007-11-16</date>
@@ -4731,7 +4733,10 @@
     <title>All's Well That Ends Swell!</title>
     <rating>4.5</rating>
     <comments>Dixième Nuit du Court.</comments>
+    <url>https://www.imdb.com/title/tt0899206/</url>
+    <image>All's Swell That Ends Swell!.jpg</image>
   </movie>
+  <!-- image missing -->
   <movie>
     <date>2007-11-16</date>
     <theater>Galeries, Lausanne</theater>
