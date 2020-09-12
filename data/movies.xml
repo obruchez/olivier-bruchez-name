@@ -3,6 +3,16 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Checklist: add rating to IMDb -->
   <movie>
+    <date>2020-09-12</date>
+    <theater home="true"/>
+    <director>Danny Boyle</director>
+    <title>Trainspotting</title>
+    <url>https://www.imdb.com/title/tt0117951/</url>
+    <rating>4.75</rating>
+    <comments>I'm not a fan of the scatological elements of the movie. Other than that, it's a good movie about what it means to "live life" or, rather, not living it and succumbing to drugs, violence, etc.</comments>
+    <image>Trainspotting.jpg</image>
+  </movie>
+  <movie>
     <date>2020-08-22</date>
     <theater home="true"/>
     <director>Ingmar Bergman</director>
