@@ -4,9 +4,15 @@
   <!-- Podcast notes for David Sinclair interview with Rhonda Patrick: https://podcastnotes.org/found-my-fitness/david-sinclair-rhonda-patrick-nad-nr-nmn/ -->
   <podcast>
     <date></date>
+    <name url="https://www.foundmyfitness.com/episodes">FoundMyFitness</name>
+    <episode>Rhonda Answers the Most Popular Questions About Vitamin D</episode>
+    <comments>Sweet spot: 40-60 ng/mL (I'm at 51.08 ng/mL - yay!).</comments>
+  </podcast>
+  <podcast>
+    <date>2020-09-13</date>
     <name url="https://peterattiamd.com/podcast/">The Peter Attia Drive Podcast</name>
     <episode url="https://peterattiamd.com/matthewwalker4/" number="126">Matthew Walker, Ph.D.: Sleep and immune function, chronotypes, hygiene tips, and addressing questions about his book</episode>
-    <comments>"It's not time that heals all wounds. It's actually time during REM sleep and dreaming that provides this emotional convalescence." — Matthew Walker, Ph.D.</comments>
+    <comments>"It's not time that heals all wounds. It's actually time during REM sleep and dreaming that provides this emotional convalescence." — Matthew Walker, Ph.D. Sleep might also be very important for vaccines, i.e. if you get a vaccine while sleep-deprived, it will not be as effective. Napping: you should only take a nap if you sleep well at night. Sleep chronotypes: it's important to know your chronotype; according to 23andMe, I'm ~90% a "night person" (as opposed to a "morning person"). As a father of a 2-year-old child, I'm not sure I can do anything about it right now (I have to wake up early anyway), but, later, it might be useful to wake up a bit later than I do.</comments>
   </podcast>
   <podcast>
     <date>2020-09-10</date>
