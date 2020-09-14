@@ -894,16 +894,17 @@
     <series url="https://en.wikipedia.org/wiki/Arrested_Development_(season_1)" type="season">1</series>
     <image>Arrested Development.jpg</image>
   </show>
-  <!-- image missing -->
   <show>
     <date>2012-09-19</date>
     <name url="https://en.wikipedia.org/wiki/The_Office_(U.S._TV_series)">The Office (US)</name>
     <series url="https://en.wikipedia.org/wiki/The_Office_(U.S._season_8)" type="season">8</series>
+    <image>The Office (US).jpg</image>
   </show>
   <show>
     <date>2012-08-24</date>
     <name url="https://en.wikipedia.org/wiki/The_Office_(U.S._TV_series)">The Office (US)</name>
     <series url="https://en.wikipedia.org/wiki/The_Office_(U.S._season_7)" type="season">7</series>
+    <image>The Office (US).jpg</image>
   </show>
   <show>
     <date>2012-06-24</date>
@@ -915,6 +916,7 @@
     <date>2012-06-24</date>
     <name url="https://en.wikipedia.org/wiki/The_Office_(U.S._TV_series)">The Office (US)</name>
     <series url="https://en.wikipedia.org/wiki/The_Office_(U.S._season_6)" type="season">6</series>
+    <image>The Office (US).jpg</image>
   </show>
   <show>
     <date>2012-05-18</date>
@@ -932,11 +934,13 @@
     <date>2012-04-11</date>
     <name url="https://en.wikipedia.org/wiki/The_Office_(U.S._TV_series)">The Office (US)</name>
     <series url="https://en.wikipedia.org/wiki/The_Office_(U.S._season_4)" type="season">4</series>
+    <image>The Office (US).jpg</image>
   </show>
   <show>
     <date>2012-04-08</date>
     <name url="https://en.wikipedia.org/wiki/The_Office_(U.S._TV_series)">The Office (US)</name>
     <series url="https://en.wikipedia.org/wiki/The_Office_(U.S._season_3)" type="season">3</series>
+    <image>The Office (US).jpg</image>
   </show>
   <show>
     <date>2011-09-06</date>
@@ -950,6 +954,7 @@
     <series url="https://en.wikipedia.org/wiki/Community_(season_1)" type="season">1</series>
     <image>Community.jpg</image>
   </show>
+  <!-- image missing -->
   <show>
     <date>2011-07-09</date>
     <name url="https://en.wikipedia.org/wiki/Twin_Peaks">Twin Peaks</name>
