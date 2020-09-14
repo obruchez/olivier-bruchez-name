@@ -4746,7 +4746,6 @@
     <url>https://www.imdb.com/title/tt0899206/</url>
     <image>All's Swell That Ends Swell!.jpg</image>
   </movie>
-  <!-- image missing -->
   <movie>
     <date>2007-11-16</date>
     <theater>Galeries, Lausanne</theater>
@@ -4754,6 +4753,8 @@
     <title>Broil</title>
     <rating>4.25</rating>
     <comments>Dixième Nuit du Court.</comments>
+    <url>https://www.imdb.com/title/tt0907111/</url>
+    <image>Broil.jpg</image>
   </movie>
   <movie>
     <date>2007-11-16</date>
@@ -4762,6 +4763,7 @@
     <title>Le Dîner</title>
     <rating>4.75</rating>
     <comments>Dixième Nuit du Court.</comments>
+    <url>https://www.imdb.com/title/tt0810848/</url>
   </movie>
   <movie>
     <date>2007-11-16</date>
@@ -4770,7 +4772,10 @@
     <title>Toast</title>
     <rating>4.5</rating>
     <comments>Dixième Nuit du Court.</comments>
+    <url>https://www.imdb.com/title/tt0805699/</url>
+    <image>Toast.jpg</image>
   </movie>
+  <!-- image missing -->
   <movie>
     <date>2007-11-05</date>
     <theater>Galeries, Lausanne</theater>
