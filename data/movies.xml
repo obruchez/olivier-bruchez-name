@@ -4775,7 +4775,6 @@
     <url>https://www.imdb.com/title/tt0805699/</url>
     <image>Toast.jpg</image>
   </movie>
-  <!-- image missing -->
   <movie>
     <date>2007-11-05</date>
     <theater>Galeries, Lausanne</theater>
@@ -4783,6 +4782,8 @@
     <title>Cassandra's Dream</title>
     <title language="fr">Le Rêve De Cassandre</title>
     <rating>4.5</rating>
+    <url>https://www.imdb.com/title/tt0795493/</url>
+    <image>Cassandra's Dream.jpg</image>
   </movie>
   <movie>
     <date>2007-10-05</date>
@@ -4791,7 +4792,10 @@
     <title>Death At A Funeral</title>
     <title language="fr">Joyeuses Funérailles</title>
     <rating>4.5</rating>
+    <url>https://www.imdb.com/title/tt0795368/</url>
+    <image>Death at a Funeral.jpg</image>
   </movie>
+  <!-- image missing -->
   <movie>
     <date>2007-09-17</date>
     <theater>Flonplex, Lausanne</theater>
