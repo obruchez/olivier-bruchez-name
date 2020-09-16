@@ -2,15 +2,37 @@
 
 My votes (in French). En Suisse, on ne plaisante pas avec la démocratie directe. :) J'essaie ici de documenter et de justifier la façon dont je me positionne par rapport aux votations fédérales, qui ont lieu jusqu'à quatre fois par année.
 
+## [Votation fédérale du 27 septembre 2020](https://www.admin.ch/gov/fr/accueil/documentation/votations/20200927.html)
+
+### Acceptez-vous l’initiative populaire « Pour une immigration modérée (initiative de limitation) » ?
+
+Non. Résultat : ? (??.?%)
+
+### Acceptez-vous la modification du 27 septembre 2019 de la loi fédérale sur la chasse et la protection des mammifères et oiseaux sauvages (loi sur la chasse, LChP) ?
+
+Non. Résultat : ? (??.?%)
+
+### Acceptez-vous la modification du 27 septembre 2019 de la loi fédérale sur l’impôt fédéral direct (LIFD) (déduction fiscale des frais de garde des enfants par des tiers) ?
+
+Non. Résultat : ? (??.?%)
+
+### Acceptez-vous la modification du 27 septembre 2019 de la loi fédérale sur les allocations pour perte de gain en cas de service et de maternité (loi sur les allocations pour perte de gain, LAPG) ?
+
+Oui. Résultat : ? (??.?%)
+
+### Acceptez-vous l’arrêté fédéral du 20 décembre 2019 relatif à l’acquisition de nouveaux avions de combat ?
+
+Non. Résultat : ? (??.?%)
+
 ## [Votation fédérale du 9 février 2020](https://www.admin.ch/gov/fr/accueil/documentation/votations/20200209.html)
 
 ### Acceptez-vous l'initiative populaire « Davantage de logements abordables » ?
 
-Oui. Résultat : ? (??.?%)
+Oui. Résultat : non (57.1%)
 
 ### Acceptez-vous la modification du 14 décembre 2018 du code pénal et du code pénal militaire (Discrimination et incitation à la haine en raison de l'orientation sexuelle) ?
 
-Oui. Résultat : ? (??.?%)
+Oui. Résultat : oui (63.1%)
 
 ## [Votation fédérale du 19 mai 2019](https://www.admin.ch/gov/fr/accueil/documentation/votations/20190519.html)
 
