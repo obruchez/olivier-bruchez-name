@@ -3,10 +3,22 @@
   <introduction>A list of podcasts I listened to.</introduction>
   <!-- Podcast notes for David Sinclair interview with Rhonda Patrick: https://podcastnotes.org/found-my-fitness/david-sinclair-rhonda-patrick-nad-nr-nmn/ -->
   <podcast>
-    <date></date>
+    <date>2020-09-16</date>
+    <name url="https://www.foundmyfitness.com/episodes">FoundMyFitness</name>
+    <episode>Aliquot #2: Q&amp;A Mashup - Sauna</episode>
+    <comments>Sauna (or long, hot baths!) might help with common cold. Among other, more interesting health benefits. Something to try?</comments>
+  </podcast>
+  <podcast>
+    <date>2020-09-16</date>
+    <name url="https://www.foundmyfitness.com/episodes">FoundMyFitness</name>
+    <episode>Aliquot #3: Q&amp;A Mashup - Fasting</episode>
+    <comments>I've already practiced time-restricted feeding. I really want to try again, but my fear is that I might lose too much weight (and I need to gain some). I'm more and more convinced that it might be healthy (autophagy, etc.). Spermidine (via nattō) might be an interesting option. I stopped taking resveratrol a few years ago. I might start taking it again soon.</comments>
+  </podcast>
+  <podcast>
+    <date>2020-09-16</date>
     <name url="https://www.foundmyfitness.com/episodes">FoundMyFitness</name>
     <episode>Rhonda Answers the Most Popular Questions About Vitamin D</episode>
-    <comments>Sweet spot: 40-60 ng/mL (I'm at 51.08 ng/mL - yay!).</comments>
+    <comments>Sweet spot: 40-60 ng/mL (I'm at 51.08 ng/mL - yay!). No significant difference between vitamin D coming from supplements or from an exposure to the sun (except too much sun can damage your DNA, of course).</comments>
   </podcast>
   <podcast>
     <date>2020-09-13</date>
