@@ -4795,13 +4795,14 @@
     <url>https://www.imdb.com/title/tt0795368/</url>
     <image>Death at a Funeral.jpg</image>
   </movie>
-  <!-- image missing -->
   <movie>
     <date>2007-09-17</date>
     <theater>Flonplex, Lausanne</theater>
     <director>Michael Moore</director>
     <title>Sicko</title>
     <rating>5.0</rating>
+    <url>https://www.imdb.com/title/tt0386032/</url>
+    <image>Sicko.jpg</image>
   </movie>
   <movie>
     <date>2007-08-31</date>
@@ -4809,7 +4810,10 @@
     <director>Brad Bird</director>
     <title>Ratatouille</title>
     <rating>5.25</rating>
+    <url>https://www.imdb.com/title/tt0382932/</url>
+    <image>Ratatouille.jpg</image>
   </movie>
+  <!-- image missing -->
   <movie>
     <date>2007-08-24</date>
     <theater>Galeries, Lausanne</theater>
