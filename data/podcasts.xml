@@ -4,6 +4,12 @@
   <!-- Podcast notes for David Sinclair interview with Rhonda Patrick: https://podcastnotes.org/found-my-fitness/david-sinclair-rhonda-patrick-nad-nr-nmn/ -->
   <podcast>
     <date>2020-09-17</date>
+    <name url="https://www.foundmyfitness.com/episodes">FoundMyFitness</name>
+    <episode>Is Resveratrol a Longevity Compound?</episode>
+    <comments>Yes, probably, but we need more research to determine the optimal dosage and whether resveratrol is problematic for exercise.</comments>
+  </podcast>
+  <podcast>
+    <date>2020-09-17</date>
     <name>Prince | Official Podcast</name>
     <episode url="https://www.thecurrent.org/feature/2020/09/17/prince-the-story-of-sign-o-the-times-episode-4-strict-and-wild-and-pretty" number="10">The Story of Sign O' The Times, Episode 4: Strict and Wild and Pretty</episode>
     <comments>Another great episode with previously unreleased studio outtakes.</comments>
