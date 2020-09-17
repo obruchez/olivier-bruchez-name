@@ -4813,13 +4813,14 @@
     <url>https://www.imdb.com/title/tt0382932/</url>
     <image>Ratatouille.jpg</image>
   </movie>
-  <!-- image missing -->
   <movie>
     <date>2007-08-24</date>
     <theater>Galeries, Lausanne</theater>
     <director>Julie Delpy</director>
     <title>2 Days In Paris</title>
     <rating>5.25</rating>
+    <url>https://www.imdb.com/title/tt0841044/</url>
+    <image>2 Days in Paris.jpg</image>
   </movie>
   <movie>
     <date>2007-08-08</date>
@@ -4828,7 +4829,10 @@
     <title>The Simpsons Movie</title>
     <title language="fr">Les Simpson : Le Film</title>
     <rating>5.0</rating>
+    <url>https://www.imdb.com/title/tt0462538/</url>
+    <image>The Simpsons Movie.jpg</image>
   </movie>
+  <!-- image missing -->
   <movie>
     <date>2007-07-24</date>
     <theater>Bellevaux, Lausanne</theater>
