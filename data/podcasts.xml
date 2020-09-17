@@ -3,6 +3,12 @@
   <introduction>A list of podcasts I listened to.</introduction>
   <!-- Podcast notes for David Sinclair interview with Rhonda Patrick: https://podcastnotes.org/found-my-fitness/david-sinclair-rhonda-patrick-nad-nr-nmn/ -->
   <podcast>
+    <date>2020-09-17</date>
+    <name url="https://www.foundmyfitness.com/episodes">FoundMyFitness</name>
+    <episode>Aliquot #1: Q&amp;A Mashup - Pregnancy and child development</episode>
+    <comments>Some very important nutrients mentioned: omega 3 (DHA/EPA) - this is the most important one -, iron, vitamin D3, vitamin E, magnesium, choline.</comments>
+  </podcast>
+  <podcast>
     <date>2020-09-16</date>
     <name url="https://www.foundmyfitness.com/episodes">FoundMyFitness</name>
     <episode>Aliquot #2: Q&amp;A Mashup - Sauna</episode>
