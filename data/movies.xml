@@ -4832,13 +4832,14 @@
     <url>https://www.imdb.com/title/tt0462538/</url>
     <image>The Simpsons Movie.jpg</image>
   </movie>
-  <!-- image missing -->
   <movie>
     <date>2007-07-24</date>
     <theater>Bellevaux, Lausanne</theater>
     <director>Julian Schnabel</director>
     <title>Le Scaphandre Et Le Papillon</title>
     <rating>5.25</rating>
+    <url>https://www.imdb.com/title/tt0401383/</url>
+    <image>Le scaphandre et le papillon.jpg</image>
   </movie>
   <movie>
     <date>2007-07-17</date>
@@ -4847,7 +4848,10 @@
     <title>Harry Potter And The Order Of The Phoenix</title>
     <title language="fr">Harry Potter Et L'Ordre Du Phénix</title>
     <rating>4.75</rating>
+    <url>https://www.imdb.com/title/tt0373889/</url>
+    <image>Harry Potter and the Order of the Phoenix.jpg</image>
   </movie>
+  <!-- image missing -->
   <movie>
     <date>2007-06-17</date>
     <theater>Casino, Martigny</theater>
