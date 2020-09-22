@@ -954,11 +954,11 @@
     <series url="https://en.wikipedia.org/wiki/Community_(season_1)" type="season">1</series>
     <image>Community.jpg</image>
   </show>
-  <!-- image missing -->
   <show>
     <date>2011-07-09</date>
     <name url="https://en.wikipedia.org/wiki/Twin_Peaks">Twin Peaks</name>
     <series url="https://en.wikipedia.org/wiki/Twin_Peaks#Season_two" type="season">2</series>
+    <image>Twin Peaks.jpg</image>
   </show>
   <show>
     <date>2011-07-02</date>
@@ -970,6 +970,7 @@
     <date>2011-06-04</date>
     <name url="https://en.wikipedia.org/wiki/Twin_Peaks">Twin Peaks</name>
     <series url="https://en.wikipedia.org/wiki/Twin_Peaks#Season_one" type="season">1</series>
+    <image>Twin Peaks.jpg</image>
   </show>
   <show>
     <date>2011-05-29</date>
@@ -983,6 +984,7 @@
     <series url="https://en.wikipedia.org/wiki/How_I_Met_Your_Mother#Season_6" type="season">6</series>
     <image>How I Met Your Mother.jpg</image>
   </show>
+  <!-- image missing -->
   <show>
     <date>2010-07-28</date>
     <name url="https://en.wikipedia.org/wiki/Friends">Friends</name>
