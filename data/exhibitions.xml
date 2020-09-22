@@ -3,6 +3,15 @@
 <exhibitions created="2011-05-17">
     <introduction>A list of exhibitions I visited.</introduction>
     <exhibition>
+        <date>2020-09-20</date>
+        <name>Permanent exhibition</name>
+        <museum>Spielzeug Welten Museum, Basel, Switzerland</museum>
+        <rating>5.0</rating>
+        <comments>I honeslty didn't expect to enjoy this museum as much as I did. We mainly went there because (thanks?) to our 2-year old son. This was a brief magical return to childhood.</comments>
+        <image>Spielzeug Welten Museum.jpg</image>
+        <!-- <pictures url=""/> -->
+    </exhibition>
+    <exhibition>
         <date>2020-08-03</date>
         <name>Permanent exhibition / Hent</name>
         <museum>Port musée, Douarnenez, France</museum>
