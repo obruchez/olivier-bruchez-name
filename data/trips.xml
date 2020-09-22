@@ -2,6 +2,13 @@
 <trips created="2008-02-26">
   <introduction>A list of trips I took.</introduction>
   <trip>
+    <from>2020-09-19</from>
+    <to>2020-09-21</to>
+    <place>Basel, Switzerland</place>
+    <!-- <pictures url=""/> -->
+    <comments>Our third weekend in Basel (and our first with our 2-year old son). We went to the Spielzeug Welten Museum, among other things (walking in the Old Town, crossing the Rhine on small boats, having delicious food at Markthalle, etc.). This certainly won't be our last stay in that nice city.</comments>
+  </trip>
+  <trip>
     <from>2020-07-25</from>
     <to>2020-08-11</to>
     <place>Bretagne / Brittany, France</place>
