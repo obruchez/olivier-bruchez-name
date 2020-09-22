@@ -4851,7 +4851,6 @@
     <url>https://www.imdb.com/title/tt0373889/</url>
     <image>Harry Potter and the Order of the Phoenix.jpg</image>
   </movie>
-  <!-- image missing -->
   <movie>
     <date>2007-06-17</date>
     <theater>Casino, Martigny</theater>
@@ -4860,6 +4859,8 @@
     <title language="fr">Shrek Le Troisième</title>
     <version>fr</version>
     <rating>4.5</rating>
+    <url>https://www.imdb.com/title/tt0413267/</url>
+    <image>Shrek the Third.jpg</image>
   </movie>
   <movie>
     <date>2007-05-31</date>
@@ -4867,7 +4868,10 @@
     <director>Todd Field</director>
     <title>Little Children</title>
     <rating>5.0</rating>
+    <url>https://www.imdb.com/title/tt0404203/</url>
+    <image>Little Children.jpg</image>
   </movie>
+  <!-- image missing -->
   <movie>
     <date>2007-05-26</date>
     <theater>Cinétoile Malley Lumières, Lausanne-Prilly</theater>
