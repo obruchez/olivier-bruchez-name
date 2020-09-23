@@ -4871,14 +4871,15 @@
     <url>https://www.imdb.com/title/tt0404203/</url>
     <image>Little Children.jpg</image>
   </movie>
-  <!-- image missing -->
   <movie>
     <date>2007-05-26</date>
     <theater>Cinétoile Malley Lumières, Lausanne-Prilly</theater>
     <director>Gore Verbinski</director>
-    <title>Pirates Of The Caribbean: At World's End</title>
+    <title>Pirates of the Caribbean: At World's End</title>
     <title language="fr">Pirates Des Caraïbes: Jusqu'Au Bout Du Monde</title>
     <rating>4.5</rating>
+    <url>https://www.imdb.com/title/tt0449088/</url>
+    <image>Pirates of the Caribbean - At World's End.jpg</image>
   </movie>
   <movie>
     <date>2007-05-22</date>
@@ -4886,7 +4887,10 @@
     <director>Cédric Klapisch</director>
     <title>L'Auberge Espagnole</title>
     <rating>5.0</rating>
+    <url>https://www.imdb.com/title/tt0283900/</url>
+    <image>L'auberge espagnole.jpg</image>
   </movie>
+  <!-- image missing -->
   <movie>
     <date>2007-05-18</date>
     <theater>City-Club, Pully</theater>
