@@ -4890,14 +4890,15 @@
     <url>https://www.imdb.com/title/tt0283900/</url>
     <image>L'auberge espagnole.jpg</image>
   </movie>
-  <!-- image missing -->
   <movie>
     <date>2007-05-18</date>
     <theater>City-Club, Pully</theater>
     <director>Florian Henckel von Donnersmarck</director>
-    <title>Das Leben Der Anderen</title>
+    <title>Das Leben der Anderen</title>
     <title language="fr">La Vie Des Autres</title>
     <rating>5.0</rating>
+    <url>https://www.imdb.com/title/tt0405094/</url>
+    <image>Das Leben der Anderen.jpg</image>
   </movie>
   <movie>
     <date>2007-05-18</date>
@@ -4905,9 +4906,11 @@
     <director>Remy Belvaux, André Bonzel &amp; Benoît Poelvoorde</director>
     <title>C'est arrivé près de chez vous</title>
     <title language="en">Man Bites Dog: It Happened in Your Neighborhood</title>
-    <url>https://www.imdb.com/title/tt0103905/</url>
     <rating>4.5</rating>
+    <url>https://www.imdb.com/title/tt0103905/</url>
+    <image>C'est arrivé près de chez vous.jpg</image>
   </movie>
+  <!-- image missing -->
   <movie>
     <date>2007-05-04</date>
     <theater>Galeries, Lausanne</theater>
