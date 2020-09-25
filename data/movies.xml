@@ -4910,13 +4910,14 @@
     <url>https://www.imdb.com/title/tt0103905/</url>
     <image>C'est arrivé près de chez vous.jpg</image>
   </movie>
-  <!-- image missing -->
   <movie>
     <date>2007-05-04</date>
     <theater>Galeries, Lausanne</theater>
     <director>Matías Bize</director>
-    <title>En La Cama</title>
+    <title>En la Cama</title>
     <rating>4.5</rating>
+    <url>https://www.imdb.com/title/tt0474642/</url>
+    <image>En la Cama.jpg</image>
   </movie>
   <movie>
     <date>2007-04-27</date>
@@ -4924,7 +4925,10 @@
     <director>Fredi M. Murer</director>
     <title>Vitus</title>
     <rating>4.5</rating>
+    <url>https://www.imdb.com/title/tt0478829/</url>
+    <image>Vitus.jpg</image>
   </movie>
+  <!-- image missing -->
   <movie>
     <date>2007-04-19</date>
     <theater>Flonplex, Lausanne</theater>
