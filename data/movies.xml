@@ -6788,6 +6788,16 @@
     <version>fr</version>
   </movie>
   <movie>
+    <date>2000-09-25</date>
+    <theater home="true"/>
+    <director>Taylor Hackford</director>
+    <title>The Devil's Advocate</title>
+    <title language="fr">L'associé du diable</title>
+    <version>fr</version>
+    <url>https://www.imdb.com/title/tt0118971/</url>
+    <image>The Devil's Advocate.jpg</image>
+  </movie>
+  <movie>
     <date>2000-08-29</date>
     <theater home="true"/>
     <director>Michael Apted</director>
@@ -7240,8 +7250,12 @@
   </movie>
   <movie>
     <date>1998-01-29</date>
-    <title>L'Associé Du Diable</title>
+    <director>Taylor Hackford</director>
+    <title>The Devil's Advocate</title>
+    <title language="fr">L'associé du diable</title>
     <version>fr</version>
+    <url>https://www.imdb.com/title/tt0118971/</url>
+    <image>The Devil's Advocate.jpg</image>
   </movie>
   <movie>
     <date>1998-01-13</date>
