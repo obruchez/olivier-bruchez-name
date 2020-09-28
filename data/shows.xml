@@ -984,11 +984,11 @@
     <series url="https://en.wikipedia.org/wiki/How_I_Met_Your_Mother#Season_6" type="season">6</series>
     <image>How I Met Your Mother.jpg</image>
   </show>
-  <!-- image missing -->
   <show>
     <date>2010-07-28</date>
     <name url="https://en.wikipedia.org/wiki/Friends">Friends</name>
     <series url="https://en.wikipedia.org/wiki/Friends_(season_10)" type="season">10</series>
+    <image>Friends.jpg</image>
   </show>
   <show>
     <date>2010-06-12</date>
@@ -1012,6 +1012,7 @@
     <date>2010-01-26</date>
     <name url="https://en.wikipedia.org/wiki/Friends">Friends</name>
     <series url="https://en.wikipedia.org/wiki/Friends_(season_8)" type="season">8</series>
+    <image>Friends.jpg</image>
   </show>
   <show>
     <date>2009-12-30</date>
@@ -1041,11 +1042,13 @@
     <date>2009-05-16</date>
     <name url="https://en.wikipedia.org/wiki/Lost_(TV_series)">Lost</name>
     <series url="https://en.wikipedia.org/wiki/Lost_(season_5)" type="season">5</series>
+    <image>Lost.jpg</image>
   </show>
   <show>
     <date>2009-05-05</date>
     <name url="https://en.wikipedia.org/wiki/Friends">Friends</name>
     <series url="https://en.wikipedia.org/wiki/Friends_(season_4)" type="season">4</series>
+    <image>Friends.jpg</image>
   </show>
   <show>
     <date>2009-03-19</date>
@@ -1057,36 +1060,43 @@
     <date>2009-01-14</date>
     <name url="https://en.wikipedia.org/wiki/Chocky_(TV_series)">Chocky</name>
     <series url="https://en.wikipedia.org/wiki/Chocky_(TV_series)#Chocky.27s_Challenge" type="custom">Chocky's Challenge</series>
+    <image>Chocky's Challenge.jpg</image>
   </show>
   <show>
     <date>2009-01-10</date>
     <name url="https://en.wikipedia.org/wiki/Futurama">Futurama</name>
     <series url="https://en.wikipedia.org/wiki/Futurama_(season_4)" type="season">4</series>
+    <image>Futurama.jpg</image>
   </show>
   <show>
     <date>2008-11-14</date>
     <name url="https://en.wikipedia.org/wiki/Futurama">Futurama</name>
     <series url="https://en.wikipedia.org/wiki/Futurama_(season_2)" type="season">2</series>
+    <image>Futurama.jpg</image>
   </show>
   <show>
     <date>2008-10-29</date>
-    <name url="https://en.wikipedia.org/wiki/The_Simpsons">The Simpsons </name>
+    <name url="https://en.wikipedia.org/wiki/The_Simpsons">The Simpsons</name>
     <series url="https://en.wikipedia.org/wiki/The_Simpsons_(season_10)" type="season">10</series>
+    <image>The Simpsons.jpg</image>
   </show>
   <show>
     <date>2008-06-23</date>
     <name url="https://en.wikipedia.org/wiki/Lost_(TV_series)">Lost</name>
     <series url="https://en.wikipedia.org/wiki/Lost_(season_4)" type="season">4</series>
+    <image>Lost.jpg</image>
   </show>
   <show>
     <date>2008-03-22</date>
     <name url="https://en.wikipedia.org/wiki/Prison_Break">Prison Break</name>
     <series url="https://en.wikipedia.org/wiki/Prison_Break_(season_3)" type="season">3</series>
+    <image>Prison Break.jpg</image>
   </show>
   <show>
     <date>2001-07-10</date>
     <name url="https://en.wikipedia.org/wiki/The_Tripods_(TV_series)">The Tripods</name>
     <series type="series">1</series>
+    <image>The Tripods.jpg</image>
   </show>
   <!--
   <show>
