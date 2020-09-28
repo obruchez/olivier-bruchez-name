@@ -4928,13 +4928,14 @@
     <url>https://www.imdb.com/title/tt0478829/</url>
     <image>Vitus.jpg</image>
   </movie>
-  <!-- image missing -->
   <movie>
     <date>2007-04-19</date>
     <theater>Flonplex, Lausanne</theater>
     <director>Danny Boyle</director>
     <title>Sunshine</title>
     <rating>4.5</rating>
+    <url>https://www.imdb.com/title/tt0448134/</url>
+    <image>Sunshine.jpg</image>
   </movie>
   <movie>
     <date>2007-03-24</date>
@@ -4942,6 +4943,8 @@
     <director>Alejandro González Inárritu</director>
     <title>Babel</title>
     <rating>5.0</rating>
+    <url>https://www.imdb.com/title/tt0449467/</url>
+    <image>Babel.jpg</image>
   </movie>
   <movie>
     <date>2007-03-16</date>
@@ -4950,7 +4953,10 @@
     <title>Music And Lyrics</title>
     <title language="fr">Le Come-Back</title>
     <rating>4.25</rating>
+    <url>https://www.imdb.com/title/tt0758766/</url>
+    <image>Music And Lyrics.jpg</image>
   </movie>
+  <!-- image missing -->
   <movie>
     <date>2007-03-13</date>
     <theater>Galeries, Lausanne</theater>
