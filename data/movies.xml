@@ -4956,14 +4956,14 @@
     <url>https://www.imdb.com/title/tt0758766/</url>
     <image>Music And Lyrics.jpg</image>
   </movie>
-  <!-- image missing -->
   <movie>
     <date>2007-03-13</date>
     <theater>Galeries, Lausanne</theater>
     <director>David Lynch</director>
     <title>Inland Empire</title>
-    <url>https://www.imdb.com/title/tt0460829/</url>
     <rating>4.75</rating>
+    <url>https://www.imdb.com/title/tt0460829/</url>
+    <image>Inland Empire.jpg</image>
   </movie>
   <movie>
     <date>2007-02-15</date>
@@ -4971,6 +4971,8 @@
     <director>Sylvester Stallone</director>
     <title>Rocky Balboa</title>
     <rating>4.5</rating>
+    <url>https://www.imdb.com/title/tt0479143/</url>
+    <image>Rocky Balboa.jpg</image>
   </movie>
   <movie>
     <date>2007-01-25</date>
@@ -4978,7 +4980,10 @@
     <director>Emilio Estevez</director>
     <title>Bobby</title>
     <rating>4.5</rating>
+    <url>https://www.imdb.com/title/tt0308055/</url>
+    <image>Bobby.jpg</image>
   </movie>
+  <!-- image missing -->
   <movie>
     <date>2007-01-16</date>
     <theater>Flonplex, Lausanne</theater>
