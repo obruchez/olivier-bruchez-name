@@ -4983,7 +4983,6 @@
     <url>https://www.imdb.com/title/tt0308055/</url>
     <image>Bobby.jpg</image>
   </movie>
-  <!-- image missing -->
   <movie>
     <date>2007-01-16</date>
     <theater>Flonplex, Lausanne</theater>
@@ -4991,6 +4990,8 @@
     <title>Stranger Than Fiction</title>
     <title language="fr">L'Incroyable Destin De Harold Crick</title>
     <rating>4.5</rating>
+    <url>https://www.imdb.com/title/tt0420223/</url>
+    <image>Stranger Than Fiction.jpg</image>
   </movie>
   <movie>
     <date>2007-01-12</date>
@@ -4998,6 +4999,8 @@
     <director>John Cameron Mitchell</director>
     <title>Shortbus</title>
     <rating>4.0</rating>
+    <url>https://www.imdb.com/title/tt0367027/</url>
+    <image>Shortbus.jpg</image>
   </movie>
   <movie>
     <date>2007-01-10</date>
@@ -5005,7 +5008,10 @@
     <director>Darren Aronofsky</director>
     <title>The Fountain</title>
     <rating>4.25</rating>
+    <url>https://www.imdb.com/title/tt0414993/</url>
+    <image>The Fountain.jpg</image>
   </movie>
+  <!-- image missing -->
   <movie>
     <date>2007-01-03</date>
     <theater>Cinéma de Verbier, Verbier</theater>
