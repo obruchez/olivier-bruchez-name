@@ -2,6 +2,16 @@
 <movies created="2000-03-05">
   <introduction>A list of movies I saw.</introduction>
   <!-- Checklist: add rating to IMDb -->
+   <movie>
+    <date>2020-09-30</date>
+    <theater home="true"/>
+    <director>Steven Spielberg</director>
+    <title>Jurassic Park</title>
+    <url>https://www.imdb.com/title/tt0107290/</url>
+    <rating>4.5</rating>
+    <comments>An entertaining movie. I must have seen it at least once in its entirety, probably a long time ago on television.</comments>
+    <image>Jurassic Park.jpg</image>
+  </movie>
   <movie>
     <date>2020-09-12</date>
     <theater home="true"/>
