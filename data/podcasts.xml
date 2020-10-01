@@ -3,10 +3,10 @@
   <introduction>A list of podcasts I listened to.</introduction>
   <!-- Podcast notes for David Sinclair interview with Rhonda Patrick: https://podcastnotes.org/found-my-fitness/david-sinclair-rhonda-patrick-nad-nr-nmn/ -->
   <podcast>
-    <date></date>
+    <date>2020-10-01</date>
     <name url="https://www.foundmyfitness.com/episodes">FoundMyFitness</name>
     <episode url="https://www.foundmyfitness.com/episodes/darya-and-kevin-rose">Dr. Darya and Kevin Rose Talk Meditation Retreats, Diet, Seasonal Eating, and More</episode>
-    <comments>"Meditation is good, part 2". What's also good: eating slowly, eating seasonally, turmeric.</comments>
+    <comments>"Meditation is good, part 2". What's also good: eating slowly, eating seasonally, turmeric. I have the same reaction to smartwatches: they're bringing notifications even closer to us and that's a bad thing.</comments>
   </podcast>
   <podcast>
     <date>2020-09-30</date>
