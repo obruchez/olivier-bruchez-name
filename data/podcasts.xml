@@ -3,21 +3,27 @@
   <introduction>A list of podcasts I listened to.</introduction>
   <!-- Podcast notes for David Sinclair interview with Rhonda Patrick: https://podcastnotes.org/found-my-fitness/david-sinclair-rhonda-patrick-nad-nr-nmn/ -->
   <podcast>
+    <date></date>
+    <name url="https://www.foundmyfitness.com/episodes">FoundMyFitness</name>
+    <episode url="https://www.foundmyfitness.com/episodes/darya-and-kevin-rose">Dr. Darya and Kevin Rose Talk Meditation Retreats, Diet, Seasonal Eating, and More</episode>
+    <comments>"Meditation is good, part 2". What's also good: eating slowly, eating seasonally, turmeric.</comments>
+  </podcast>
+  <podcast>
     <date>2020-09-30</date>
     <name url="https://www.foundmyfitness.com/episodes">FoundMyFitness</name>
-    <episode>Buffering the Negative Effects of Chronic Stress with Meditation</episode>
+    <episode url="https://www.foundmyfitness.com/episodes/meditation-solocast">Buffering the Negative Effects of Chronic Stress with Meditation</episode>
     <comments>Meditation (or other activities such as yoga) is apparently beneficial for longevity, memory, etc. according to some studies. As Sam Harris says, even if those studies are wrong, it's probably still an important activity, as it can make you react differently to some situations (in particular anger-inducing situations).</comments>
   </podcast>
   <podcast>
     <date>2020-09-30</date>
     <name url="https://www.foundmyfitness.com/episodes">FoundMyFitness</name>
-    <episode>The Sonnenburgs On How The Gut Microbiota Interacts With Our Bodies</episode>
+    <episode url="https://www.foundmyfitness.com/episodes/the-sonnenburgs">The Sonnenburgs On How The Gut Microbiota Interacts With Our Bodies</episode>
     <comments>Fibers are important. Eating seasonal fruits and vegetables is a good rule of thumb to eat varied fruits/vegetables. I still don't know at this point if probiotics (in particular), prebiotics, and enzymes are useful as supplements.</comments>
   </podcast>
   <podcast>
     <date>2020-09-28</date>
     <name url="https://www.foundmyfitness.com/episodes">FoundMyFitness</name>
-    <episode>Dr. Aubrey de Grey and Dr. Rhonda Patrick Talk Aging</episode>
+    <episode url="https://www.foundmyfitness.com/episodes/aubrey-de-grey">Dr. Aubrey de Grey and Dr. Rhonda Patrick Talk Aging</episode>
     <comments>I was already a bit familiar with Aubrey de Grey, but I got the impression from this discussion that he is way more pessimistic than I remember him being. Or maybe I wasn't paying enough attention (the sound quality was not very good, the discussion was quite technical, etc.).</comments>
   </podcast>
   <podcast>
@@ -29,7 +35,7 @@
   <podcast>
     <date>2020-09-18</date>
     <name url="https://www.foundmyfitness.com/episodes">FoundMyFitness</name>
-    <episode>Bruce Ames on Triage Theory, Longevity Vitamins &amp; Micronutrients</episode>
+    <episode url="https://www.foundmyfitness.com/episodes/bruce-ames">Bruce Ames on Triage Theory, Longevity Vitamins &amp; Micronutrients</episode>
     <comments>I realized after hearing this 2015 episode that Bruce N. Ames is the person responsible for <a href="https://www.pnas.org/content/115/43/10836">the paper on "longevity vitamins" from 2018</a>. A summary is available <a href="https://www.pnas.org/content/pnas/suppl/2018/10/09/1809045115.DCSupplemental/pnas.1809045115.sapp.pdf">here</a>. As a side note, I wish I can be as sharp and active at 86 as Bruce.</comments>
   </podcast>
   <podcast>
