@@ -2,6 +2,12 @@
 <podcasts created="2016-05-10">
   <introduction>A list of podcasts I listened to.</introduction>
   <!-- Podcast notes for David Sinclair interview with Rhonda Patrick: https://podcastnotes.org/found-my-fitness/david-sinclair-rhonda-patrick-nad-nr-nmn/ -->
+   <podcast>
+    <date>2020-10-03</date>
+    <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
+    <episode url="https://samharris.org/podcasts/218-welcome-cult-factory/" number="218">Welcome to the Cult Factory - A Conversation with Tristan Harris</episode>
+    <comments>Since the last episode with Tristan Harris (2017), I've basically stopped using Twitter and almost stopped using Facebook. Some trends are worrying. The solutions are not clear.</comments>
+  </podcast>
   <podcast>
     <date>2020-10-01</date>
     <name url="https://www.foundmyfitness.com/episodes">FoundMyFitness</name>
