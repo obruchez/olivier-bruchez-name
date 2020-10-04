@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <comics created="2017-01-28">
   <introduction>A list of comics I read.</introduction>
+  <!-- <comic>
+    <date>2020-10-04</date>
+    <writer>Don Rosa</writer>
+    <artist>Don Rosa</artist>
+    <volume url="">La jeunesse de Picsou - Episode 8 quarter - Dernier raid pour Dawson</volume>
+    <comments></comments>
+    <image>Don Rosa - X.jpg</image>
+  </comic> -->
   <comic>
     <date>2020-09-06</date>
     <writer>Don Rosa</writer>
