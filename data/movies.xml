@@ -5075,7 +5075,6 @@
     <rating>4.5</rating>
     <comments>Neuvième Nuit du Court.</comments>
   </movie>
-  <!-- image missing -->
   <movie>
     <date>2006-11-17</date>
     <theater>Galeries, Lausanne</theater>
@@ -5083,6 +5082,8 @@
     <title>Shadowscan</title>
     <rating>4.0</rating>
     <comments>Neuvième Nuit du Court.</comments>
+    <url>https://www.imdb.com/title/tt0275669/</url>
+    <image>Shadowscan.jpg</image>
   </movie>
   <movie>
     <date>2006-11-17</date>
@@ -5091,6 +5092,8 @@
     <title>Goodnight Irene</title>
     <rating>4.5</rating>
     <comments>Neuvième Nuit du Court.</comments>
+    <url>https://www.imdb.com/title/tt0439188/</url>
+    <image>Goodnight Irene.jpg</image>
   </movie>
   <movie>
     <date>2006-11-17</date>
@@ -5099,7 +5102,9 @@
     <title>Hjärtslag</title>
     <rating>4.0</rating>
     <comments>Neuvième Nuit du Court.</comments>
+    <url>https://www.imdb.com/title/tt0435012/</url>
   </movie>
+  <!-- image missing -->
   <movie>
     <date>2006-11-17</date>
     <theater>Galeries, Lausanne</theater>
