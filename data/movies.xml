@@ -5104,7 +5104,6 @@
     <comments>Neuvième Nuit du Court.</comments>
     <url>https://www.imdb.com/title/tt0435012/</url>
   </movie>
-  <!-- image missing -->
   <movie>
     <date>2006-11-17</date>
     <theater>Galeries, Lausanne</theater>
@@ -5112,23 +5111,30 @@
     <title>Plassmangel</title>
     <rating>4.5</rating>
     <comments>Neuvième Nuit du Court.</comments>
+    <url>https://www.imdb.com/title/tt0389278/</url>
+    <image>Plassmangel.jpg</image>
   </movie>
   <movie>
     <date>2006-11-17</date>
     <theater>Galeries, Lausanne</theater>
     <director>Olivier Ayache-Vidal</director>
-    <title>Mon Dernier Rôle</title>
+    <title>Mon dernier rôle</title>
     <rating>5.0</rating>
     <comments>Neuvième Nuit du Court.</comments>
+    <url>https://www.imdb.com/title/tt0499239/</url>
+    <image>Mon dernier rôle.jpg</image>
   </movie>
   <movie>
     <date>2006-11-17</date>
     <theater>Galeries, Lausanne</theater>
     <director>Blandine Lenoir</director>
-    <title>Ma Culotte</title>
+    <title>Ma culotte</title>
     <rating>4.5</rating>
     <comments>Neuvième Nuit du Court.</comments>
+    <url>https://www.imdb.com/title/tt0499233/</url>
+    <image>Ma culotte.jpg</image>
   </movie>
+  <!-- image missing -->
   <movie>
     <date>2006-11-17</date>
     <theater>Galeries, Lausanne</theater>
