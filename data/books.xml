@@ -279,7 +279,8 @@
         <notes description="Kindle highlights">The Consolations of Philosophy (Alain de Botton).md</notes>
         <comments>I was familiar with Alain de Botton's YouTube videos (<a href="https://www.youtube.com/user/schooloflifechannel">The School of Life</a>). I've never been completely convinced by his approach. Is this self-help? Pop philosophy? Something else? I don't know. I'm still not convinced.</comments>
         <image>The Consolations of Philosophy.jpg</image>
-    </book> 
+    </book>
+    <!-- GR -->
     <book>
         <date>2019-05-21</date>
         <title>It Doesn't Have to Be Crazy at Work</title>
@@ -326,7 +327,6 @@
         <comments>Summary: we should all sleep more. Lack of sleep is bad for... pretty much everything. See also <a href="https://medlineplus.gov/magazine/issues/summer12/articles/summer12pg20.html">Tips for Getting a Good Night's Sleep</a>.</comments>
         <image>Why We Sleep.jpg</image>
     </book>
-    <!-- GR -->
     <book>
         <date>2019-02-19</date>
         <title>Voyage au bout de la nuit</title>
