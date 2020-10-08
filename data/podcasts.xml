@@ -2,6 +2,24 @@
 <podcasts created="2016-05-10">
   <introduction>A list of podcasts I listened to.</introduction>
   <!-- Podcast notes for David Sinclair interview with Rhonda Patrick: https://podcastnotes.org/found-my-fitness/david-sinclair-rhonda-patrick-nad-nr-nmn/ -->
+  <podcast>
+    <date></date>
+    <name url="https://www.foundmyfitness.com/episodes">FoundMyFitness</name>
+    <episode url="https://www.foundmyfitness.com/episodes/satchin-panda">Satchin Panda, Ph.D. on Time-Restricted Feeding and Its Effects on Obesity, Muscle Mass &amp; Heart Health</episode>
+    <comments>I've been thinking about buying a light therapy lamp for years now. This episode convinced me to actually do it (I bought a cheap one).</comments>
+  </podcast>
+  <podcast>
+    <date>2020-10-07</date>
+    <name url="https://www.foundmyfitness.com/episodes">FoundMyFitness</name>
+    <episode url="https://www.foundmyfitness.com/episodes/cold-stress-hormesis">How Cryotherapy Affects the Brain, the Immune System, Metabolism, and Athletic Performance</episode>
+    <comments>This is fascinating. Cold exposure activates some genes/processes that promote immunity, longevity, etc.</comments>
+  </podcast>
+  <podcast>
+    <date>2020-10-06</date>
+    <name>Prince | Official Podcast</name>
+    <episode url="https://www.thecurrent.org/feature/2020/10/01/prince-the-story-of-sign-o-the-times-episode-6-pop-goes-the-music" number="12">The Story of Sign O' The Times, Episode 6: Pop Goes the Music</episode>
+    <comments>Eric Leeds about Paisley Park: "There was absolutely no economic reason in the world why he should've ever built that place." It made no economic sense, but it became a mythical place for fans.</comments>
+  </podcast>
    <podcast>
     <date>2020-10-03</date>
     <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
