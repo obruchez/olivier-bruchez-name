@@ -5163,22 +5163,25 @@
     <comments>Neuvième Nuit du Court.</comments>
     <url>https://www.imdb.com/title/tt0759625/</url>
   </movie>
-  <!-- image missing -->
   <movie>
     <date>2006-11-17</date>
     <theater>Galeries, Lausanne</theater>
     <director>Agnès Varda</director>
-    <title>T'as De Beaux Escaliers, Tu Sais</title>
+    <title>T'as de beaux escaliers, tu sais...</title>
     <rating>4.0</rating>
     <comments>Neuvième Nuit du Court.</comments>
+    <url>https://www.imdb.com/title/tt0301915/</url>
+    <image>T'as de beaux escaliers, tu sais....jpg</image>
   </movie>
   <movie>
     <date>2006-11-17</date>
     <theater>Galeries, Lausanne</theater>
     <director>Agnès Varda</director>
-    <title>La Cocotte D'Azur</title>
+    <title>La cocotte d'azur</title>
     <rating>4.0</rating>
     <comments>Neuvième Nuit du Court.</comments>
+    <url>https://www.imdb.com/title/tt1066300/</url>
+    <image>La cocotte d'azur.jpg</image>
   </movie>
   <movie>
     <date>2006-11-17</date>
@@ -5187,7 +5190,10 @@
     <title>Van Gogh</title>
     <rating>4.0</rating>
     <comments>Neuvième Nuit du Court.</comments>
+    <url>https://www.imdb.com/title/tt0040930/</url>
+    <image>Van Gogh.jpg</image>
   </movie>
+  <!-- image missing -->
   <movie>
     <date>2006-11-17</date>
     <theater>Galeries, Lausanne</theater>
