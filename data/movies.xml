@@ -5193,33 +5193,39 @@
     <url>https://www.imdb.com/title/tt0040930/</url>
     <image>Van Gogh.jpg</image>
   </movie>
-  <!-- image missing -->
   <movie>
     <date>2006-11-17</date>
     <theater>Galeries, Lausanne</theater>
     <director>Louis Malle</director>
-    <title>Vive Le Tour !</title>
+    <title>Vive le tour</title>
     <rating>5.0</rating>
     <comments>Neuvième Nuit du Court.</comments>
+    <url>https://www.imdb.com/title/tt0056662/</url>
+    <image>Vive le tour.jpg</image>
   </movie>
   <movie>
     <date>2006-11-17</date>
     <theater>Galeries, Lausanne</theater>
     <director>Roberto Rossellini</director>
-    <title>Fantasia Sottomarina</title>
+    <title>Fantasia sottomarina</title>
     <title language="fr">Fantaisie Sous-Marine</title>
     <version>fr</version>
     <rating>4.5</rating>
     <comments>Neuvième Nuit du Court.</comments>
+    <url>https://www.imdb.com/title/tt0027606/</url>
+    <image>Fantasia sottomarina.jpg</image>
   </movie>
   <movie>
     <date>2006-11-17</date>
     <theater>Galeries, Lausanne</theater>
     <director>Christophe Philippe</director>
-    <title>M. - Chapitre III</title>
+    <title>M, chapitre III</title>
     <rating>4.5</rating>
     <comments>Neuvième Nuit du Court.</comments>
+    <url>https://www.imdb.com/title/tt0910918/</url>
+    <image>M, chapitre III.jpg</image>
   </movie>
+  <!-- image missing -->
   <movie>
     <date>2006-10-25</date>
     <theater>Galeries, Lausanne</theater>
