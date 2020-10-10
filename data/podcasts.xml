@@ -3,10 +3,16 @@
   <introduction>A list of podcasts I listened to.</introduction>
   <!-- Podcast notes for David Sinclair interview with Rhonda Patrick: https://podcastnotes.org/found-my-fitness/david-sinclair-rhonda-patrick-nad-nr-nmn/ -->
   <podcast>
-    <date></date>
+    <date>2020-10-09</date>
+    <name url="https://www.foundmyfitness.com/episodes">FoundMyFitness</name>
+    <episode url="https://www.foundmyfitness.com/episodes/valter-longo">Valter Longo, Ph.D. on the Fasting-Mimicking Diet &amp; Fasting for Longevity, Cancer &amp; Multiple Sclerosis</episode>
+    <comments>I'm not sure I understood correctly, but it might be possible that vegans don't benefit as much than non-vegans from time-restricted eating (to be confirmed). Prolonged fasting (several days at least) resets the immune system. An idea that I can confirm: it's way more easier to lose fat than to gain muscle.</comments>
+  </podcast>
+  <podcast>
+    <date>2020-10-09</date>
     <name url="https://www.foundmyfitness.com/episodes">FoundMyFitness</name>
     <episode url="https://www.foundmyfitness.com/episodes/satchin-panda">Satchin Panda, Ph.D. on Time-Restricted Feeding and Its Effects on Obesity, Muscle Mass &amp; Heart Health</episode>
-    <comments>I've been thinking about buying a light therapy lamp for years now. This episode convinced me to actually do it (I bought a cheap one).</comments>
+    <comments>I've been thinking about buying a light therapy lamp for years now. This episode convinced me to actually do it (I bought a cheap one). Time-restricted feeding could help with: heart health, healthier gut microbiome diversity, preventing absorption of simple sugars in the lower intestine, serum cholesterol, and probably many other things.</comments>
   </podcast>
   <podcast>
     <date>2020-10-07</date>
