@@ -2,6 +2,16 @@
 <movies created="2000-03-05">
   <introduction>A list of movies I saw.</introduction>
   <!-- Checklist: add rating to IMDb -->
+  <movie>
+    <date>2020-10-10</date>
+    <theater home="true"/>
+    <director>Sidney Lumet</director>
+    <title>Network</title>
+    <url>https://www.imdb.com/title/tt0074958/</url>
+    <rating>4.75</rating>
+    <comments>Way before social media were trying to keep our attention to sell us ads, without any ethical concerns, television was doing the same. This movie was meant as satire, though. Reality is sometimes (often?) surprising.</comments>
+    <image>Network.jpg</image>
+  </movie>
    <movie>
     <date>2020-09-30</date>
     <theater home="true"/>
