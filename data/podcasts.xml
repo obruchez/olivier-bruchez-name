@@ -4029,6 +4029,11 @@
     <name url="http://comparedtowhatpodcast.com/">Compared To What Podcast</name>
     <episode url="http://comparedtowhatpodcast.com/episode-42-the-marcus-miller-conversation/" number="42">The Marcus Miller Conversation</episode>
   </podcast>
+  <podcast>
+    <date>2010-10-11</date>
+    <name url="https://podcasts.apple.com/gb/podcast/the-miles-davis-podcast/id365571367">The Miles Davis Podcast</name>
+    <episode url="Marcus Miller: Collaborating with Miles" number="4">Marcus Miller: Collaborating with Miles</episode>
+  </podcast>
 
   <!--
   <podcast>
