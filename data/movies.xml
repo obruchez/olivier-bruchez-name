@@ -5235,7 +5235,6 @@
     <url>https://www.imdb.com/title/tt0910918/</url>
     <image>M, chapitre III.jpg</image>
   </movie>
-  <!-- image missing -->
   <movie>
     <date>2006-10-25</date>
     <theater>Galeries, Lausanne</theater>
@@ -5243,13 +5242,17 @@
     <title>An Inconvenient Truth</title>
     <title language="fr">Une Vérité Qui Dérange</title>
     <rating>5.0</rating>
+    <url>https://www.imdb.com/title/tt0497116/</url>
+    <image>An Inconvenient Truth.jpg</image>
   </movie>
   <movie>
     <date>2006-10-18</date>
     <theater>Flonplex, Lausanne</theater>
     <director>Zabou Breitman</director>
-    <title>L'Homme De Sa Vie</title>
+    <title>L'homme de sa vie</title>
     <rating>5.0</rating>
+    <url>https://www.imdb.com/title/tt0462683/</url>
+    <image>L'homme de sa vie.jpg</image>
   </movie>
   <movie>
     <date>2006-10-06</date>
@@ -5257,7 +5260,10 @@
     <director>Jonathan Dayton &amp; Valerie Faris</director>
     <title>Little Miss Sunshine</title>
     <rating>5.0</rating>
+    <url>https://www.imdb.com/title/tt0449059/</url>
+    <image>Little Miss Sunshine.jpg</image>
   </movie>
+  <!-- image missing -->
   <movie>
     <date>2006-09-22</date>
     <theater>Galeries, Lausanne</theater>
