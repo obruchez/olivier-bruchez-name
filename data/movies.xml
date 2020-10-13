@@ -5263,7 +5263,6 @@
     <url>https://www.imdb.com/title/tt0449059/</url>
     <image>Little Miss Sunshine.jpg</image>
   </movie>
-  <!-- image missing -->
   <movie>
     <date>2006-09-22</date>
     <theater>Galeries, Lausanne</theater>
@@ -5272,13 +5271,17 @@
     <title language="en">The Science of Sleep</title>
     <url>https://www.imdb.com/title/tt0354899/</url>
     <rating>5.0</rating>
+    <url>https://www.imdb.com/title/tt0354899/</url>
+    <image>La science des rêves.jpg</image>
   </movie>
   <movie>
     <date>2006-09-15</date>
     <theater>Galeries, Lausanne</theater>
     <director>Olivier Assayas, Frédéric Auburtin, Sylvain Chomet, etc.</director>
-    <title>Paris, Je T'Aime</title>
+    <title>Paris, je t'aime</title>
     <rating>4.5</rating>
+    <url>https://www.imdb.com/title/tt0401711/</url>
+    <image>Paris, je t'aime.jpg</image>
   </movie>
   <movie>
     <date>2006-08-25</date>
@@ -5288,7 +5291,10 @@
     <title language="fr">Entre Deux Rives</title>
     <version>fr</version>
     <rating>4.5</rating>
+    <url>https://www.imdb.com/title/tt0410297/</url>
+    <image>The Lake House.jpg</image>
   </movie>
+  <!-- image missing -->
   <movie>
     <date>2006-08-17</date>
     <theater>Flonplex, Lausanne</theater>
