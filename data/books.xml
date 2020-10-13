@@ -2,6 +2,18 @@
 <books created="2006-08-20">
     <introduction>A list of books I read.</introduction>
     <book>
+        <date>2020-10-12</date>
+        <title>Lifespan</title>
+        <subtitle>Why We Age – and Why We Don't Have To</subtitle>
+        <author>David Andrew Sinclair</author>
+        <publishingyear>2019</publishingyear>
+        <rating>4.5</rating>
+        <url>https://en.wikipedia.org/wiki/Lifespan:_Why_We_Age_%E2%80%93_and_Why_We_Don%27t_Have_To</url>
+        <notes description="Kindle highlights"></notes>
+        <comments>I was already familiar with David's ideas and discoveries. You basically just need to watch a few YouTube videos to learn about them. I was especially curious about his views on how humanity will have to adapt to longer lifespans/healthspans and that part of the book somewhat disappointed me. Not all my concerns were addressed. In particular, automation/machine learning and the facts that a lot of jobs will really disappear at some point, without new jobs to replace them, the need for some form of universal basic income, and the fact that, mathematically, even if we still die, the world population will really become problematic at some point if we keep having children (maybe not in 100 or 200 years, but still). I recently heard David in a podcast briefly mention the fact that human beings will have to find a way to go to other planets in the future (or something to that effect). I guess that's what I expected to read in his book. But he wanted to stay optimistic, so he focused on the near-term future, I guess.</comments>
+        <image>Lifespan.jpg</image>
+    </book>
+    <book>
         <date>2020-09-06</date>
         <title>The Art of Living</title>
         <subtitle>Self-management - How to Survive and Thrive in the 21st Century</subtitle>
