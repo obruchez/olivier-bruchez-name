@@ -3,6 +3,16 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Checklist: add rating to IMDb -->
   <movie>
+    <date>2020-10-12</date>
+    <theater home="true"/>
+    <director>Don Hertzfeldt</director>
+    <title>It's Such a Beautiful Day</title>
+    <url>https://www.imdb.com/title/tt2396224/</url>
+    <rating>5.0</rating>
+    <comments>That was quite intense. I didn't expect something as difficult to watch as this.</comments>
+    <image>It's Such a Beautiful Day.jpg</image>
+  </movie>
+  <movie>
     <date>2020-10-10</date>
     <theater home="true"/>
     <director>Sidney Lumet</director>
