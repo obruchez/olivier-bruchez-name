@@ -5304,7 +5304,6 @@
     <url>https://www.imdb.com/title/tt0410297/</url>
     <image>The Lake House.jpg</image>
   </movie>
-  <!-- image missing -->
   <movie>
     <date>2006-08-17</date>
     <theater>Flonplex, Lausanne</theater>
@@ -5312,15 +5311,19 @@
     <title>Adams Æbler</title>
     <title language="fr">Adam's Apple</title>
     <rating>5.0</rating>
+    <url>https://www.imdb.com/title/tt0418455/</url>
+    <image>Adams æbler.jpg</image>
   </movie>
   <movie>
     <date>2006-08-12</date>
     <theater>Casino, Martigny</theater>
     <director>Gore Verbinski</director>
-    <title>Pirates Of The Caribbean: Dead Man's Chest</title>
+    <title>Pirates of the Caribbean: Dead Man's Chest</title>
     <title language="fr">Pirates Des Caraïbes : Le Secret Du Coffre Maudit</title>
     <version>fr</version>
     <rating>4.5</rating>
+    <url>https://www.imdb.com/title/tt0383574/</url>
+    <image>Pirates of the Caribbean - Dead Man's Chest.jpg</image>
   </movie>
   <movie>
     <date>2006-07-27</date>
@@ -5329,7 +5332,14 @@
     <title>United 93</title>
     <title language="fr">Vol 93</title>
     <rating>4.5</rating>
+    <url>https://www.imdb.com/title/tt0475276/</url>
+    <image>United 93.jpg</image>
   </movie>
+  <!-- image missing -->
+  <!--
+    <url></url>
+    <image></image>
+  -->
   <movie>
     <date>2006-07-09</date>
     <theater home="true"/>
