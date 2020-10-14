@@ -3,6 +3,16 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Checklist: add rating to IMDb -->
   <movie>
+    <date>2020-10-14</date>
+    <theater home="true"/>
+    <director>Don Hertzfeldt</director>
+    <title>World of Tomorrow</title>
+    <url>https://www.imdb.com/title/tt4171032/</url>
+    <rating>5.0</rating>
+    <comments>I think I kind of watched this two years ago. I gave it my full attention, this time. It's excellent, but a bit depressing. Remind me not to watch too many Don Hertzfeldt movies in a row.</comments>
+    <image>World of Tomorrow.jpg</image>
+  </movie>
+  <movie>
     <date>2020-10-12</date>
     <theater home="true"/>
     <director>Don Hertzfeldt</director>
