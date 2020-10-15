@@ -5345,17 +5345,14 @@
     <url>https://www.imdb.com/title/tt0475276/</url>
     <image>United 93.jpg</image>
   </movie>
-  <!-- image missing -->
-  <!--
-    <url></url>
-    <image></image>
-  -->
   <movie>
     <date>2006-07-09</date>
     <theater home="true"/>
     <director>John Lasseter</director>
     <title>Toy Story</title>
     <version>fr</version>
+    <url>https://www.imdb.com/title/tt0114709/</url>
+    <image>Toy Story.jpg</image>
   </movie>
   <movie>
     <date>2006-07-08</date>
@@ -5365,15 +5362,22 @@
     <title language="fr">Nos Voisins, Les Hommes</title>
     <version>fr</version>
     <rating>4.5</rating>
+    <url>https://www.imdb.com/title/tt0327084/</url>
+    <image>Over the Hedge.jpg</image>
   </movie>
   <movie>
     <date>2006-07-03</date>
     <theater>Amphithéâtre, Martigny</theater>
     <director>Pedro Almodóvar</director>
     <title>Volver</title>
-    <rating></rating>
     <url>https://www.imdb.com/title/tt0441909/</url>
+    <image>Volver.jpg</image>
   </movie>
+  <!-- image missing -->
+  <!--
+    <url></url>
+    <image></image>
+  -->
   <movie>
     <date>2006-06-29</date>
     <theater>Galeries, Lausanne</theater>
