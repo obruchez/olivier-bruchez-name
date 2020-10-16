@@ -3,6 +3,16 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Checklist: add rating to IMDb -->
   <movie>
+    <date>2020-10-15</date>
+    <theater>Galeries, Lausanne</theater>
+    <director>Nathan Grossman</director>
+    <title>I Am Greta</title>
+    <url>https://www.imdb.com/title/tt10394738/</url>
+    <rating>4.5</rating>
+    <comments>This movie is currently rated 3.1/10 with 684 reviews on IMDb. It's definitely not that bad, but I'm still not sure what to really think of it, mainly because I didn't know much about Greta Thunberg before that movie. What happened to her was really weird. It shows that there's no "recipe for virality". She was at the right place, at the right moment, with the right personality traits. And, no, after watching this documentary, I don't think she was manipulated by her parents. Politicians tried to use her, that's for sure. It didn't really work. They all look like buffoons here.</comments>
+    <image>I Am Greta.jpg</image>
+  </movie>
+  <movie>
     <date>2020-10-14</date>
     <theater home="true"/>
     <director>Don Hertzfeldt</director>
