@@ -3,6 +3,18 @@
   <introduction>A list of podcasts I listened to.</introduction>
   <!-- Podcast notes for David Sinclair interview with Rhonda Patrick: https://podcastnotes.org/found-my-fitness/david-sinclair-rhonda-patrick-nad-nr-nmn/ -->
   <podcast>
+    <date>2020-10-16</date>
+    <name url="http://www.fourbeers.com/">Two Psychologists Four Beers</name>
+    <episode url="https://www.fourbeers.com/26" number="26">Terrible Advice (with Paul Bloom)</episode>
+    <comments>So it seems that there still aren't any definitive studies on happiness and parenthood. My intuition is that the question is made difficult by the fact that: 1) it is still really taboo to say that your children don't make you happy (so people try to convince themselves their children make them happy or, at least, give their life meaning, etc.) 2) even nowadays there is probably still an imbalance between men and women 3) it depends on quite a lot of variables (mainly age and income? but probably many others) 4) it also depends on the number of children and their age (so you would have to make really long studies to get interesting results).</comments>
+  </podcast>
+  <podcast>
+    <date>2020-10-16</date>
+    <name url="http://www.fourbeers.com/">Two Psychologists Four Beers</name>
+    <episode url="https://www.fourbeers.com/41" number="41">With and Without Children (with Elizabeth Page-Gould)</episode>
+    <comments>Interesting questions. Uninteresting answers (unless I missed something).</comments>
+  </podcast>
+  <podcast>
     <date>2020-10-15</date>
     <name>Prince | Official Podcast</name>
     <episode url="https://www.thecurrent.org/feature/2020/10/15/prince-the-story-of-sign-o-the-times-episode-8-can-i-play-with-u" number="14">Prince: The Story of Sign O' The Times, Episode 8: Can I Play With U?</episode>
