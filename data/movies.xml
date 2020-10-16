@@ -6907,6 +6907,15 @@
     <version>fr</version>
   </movie>
   <movie>
+    <date>2000-10-16</date>
+    <theater home="true"/>
+    <director>Quentin Tarantino</director>
+    <title>Pulp Fiction</title>
+    <version>fr</version>
+    <url>https://www.imdb.com/title/tt0110912/</url>
+    <image>Pulp Fiction.jpg</image>
+  </movie>
+  <movie>
     <date>2000-09-25</date>
     <theater home="true"/>
     <director>Taylor Hackford</director>
