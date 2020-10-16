@@ -14,9 +14,10 @@
     <episode url="https://www.thecurrent.org/feature/2020/10/08/prince-the-story-of-sign-o-the-times-episode-7-peach-and-black" number="13">Prince: The Story of Sign O' The Times, Episode 7: Peach and Black</episode>
     <comments>LeRoy Bennett did a whole interview on another podcast. The interviews with the fans were not that interesting.</comments>
   </podcast>
-  <date>2020-10-15</date>
+  <podcast>
+    <date>2020-10-15</date>
     <name url="http://peachandblack.podbean.com/">Peach &amp; Black Podcast</name>
-     <episode url="https://peachandblack.podbean.com/e/princes-non-album-tracks-vol5/">Prince's Non-Album Tracks Vol. 5</episode>
+    <episode url="https://peachandblack.podbean.com/e/princes-non-album-tracks-vol5/">Prince's Non-Album Tracks Vol. 5</episode>
     <comments>Four random non-album tracks: "Little Red Corvette (Dance Remix)", "Don’t Talk 2 Strangers", "Glasscutter", and "Ain't Gonna Miss U When U're Gone". I certainly don't listen to them a lot. They're not bad.</comments>
   </podcast>
   <podcast>
