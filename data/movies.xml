@@ -5373,19 +5373,16 @@
     <url>https://www.imdb.com/title/tt0441909/</url>
     <image>Volver.jpg</image>
   </movie>
-  <!-- image missing -->
-  <!--
-    <url></url>
-    <image></image>
-  -->
   <movie>
     <date>2006-06-29</date>
     <theater>Galeries, Lausanne</theater>
     <director>Hayao Miyazaki</director>
-    <title>Majo No Takkyubin</title>
+    <title>Majo no takkyûbin</title>
     <title language="fr">Kiki, La Petite Sorcière</title>
     <version>fr</version>
     <rating>5.0</rating>
+    <url>https://www.imdb.com/title/tt0097814/</url>
+    <image>Majo no takkyûbin.jpg</image>
   </movie>
   <movie>
     <date>2006-06-03</date>
@@ -5393,16 +5390,25 @@
     <director>Jean-Marc Vallée</director>
     <title>C.R.A.Z.Y.</title>
     <rating>5.0</rating>
+    <url>https://www.imdb.com/title/tt0401085/</url>
+    <image>C.R.A.Z.Y..jpg</image>
   </movie>
   <movie>
     <date>2006-05-25</date>
     <theater>Galeries, Lausanne</theater>
     <director>James McTeigue</director>
-    <title>V For Vendetta</title>
-    <title language="fr">V Pour Vendetta</title>
+    <title>V for Vendetta</title>
+    <title language="fr">V pour Vendetta</title>
     <version>fr</version>
     <rating>5.0</rating>
+    <url>https://www.imdb.com/title/tt0434409/</url>
+    <image>V for Vendetta.jpg</image>
   </movie>
+  <!-- image missing -->
+  <!--
+    <url></url>
+    <image></image>
+  -->
   <movie>
     <date>2006-05-22</date>
     <theater>Atlantic, Lausanne</theater>
