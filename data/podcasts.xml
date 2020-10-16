@@ -3,6 +3,23 @@
   <introduction>A list of podcasts I listened to.</introduction>
   <!-- Podcast notes for David Sinclair interview with Rhonda Patrick: https://podcastnotes.org/found-my-fitness/david-sinclair-rhonda-patrick-nad-nr-nmn/ -->
   <podcast>
+    <date>2020-10-15</date>
+    <name>Prince | Official Podcast</name>
+    <episode url="https://www.thecurrent.org/feature/2020/10/15/prince-the-story-of-sign-o-the-times-episode-8-can-i-play-with-u" number="14">Prince: The Story of Sign O' The Times, Episode 8: Can I Play With U?</episode>
+    <comments>It was fun hearing about the Prince and Miles story, once again, even if we have heard it many times before. So, Eric Leeds says that there's a 98-99% chance that Miles and Prince never recorded together in the studio. So that means there's still a 1-2% chance that they did, right? :)</comments>
+  </podcast>
+  <podcast>
+    <date>2020-10-15</date>
+    <name>Prince | Official Podcast</name>
+    <episode url="https://www.thecurrent.org/feature/2020/10/08/prince-the-story-of-sign-o-the-times-episode-7-peach-and-black" number="13">Prince: The Story of Sign O' The Times, Episode 7: Peach and Black</episode>
+    <comments>LeRoy Bennett did a whole interview on another podcast. The interviews with the fans were not that interesting.</comments>
+  </podcast>
+  <date>2020-10-15</date>
+    <name url="http://peachandblack.podbean.com/">Peach &amp; Black Podcast</name>
+     <episode url="https://peachandblack.podbean.com/e/princes-non-album-tracks-vol5/">Prince's Non-Album Tracks Vol. 5</episode>
+    <comments>Four random non-album tracks: "Little Red Corvette (Dance Remix)", "Don’t Talk 2 Strangers", "Glasscutter", and "Ain't Gonna Miss U When U're Gone". I certainly don't listen to them a lot. They're not bad.</comments>
+  </podcast>
+  <podcast>
     <date>2020-10-13</date>
     <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
     <episode url="https://samharris.org/podcasts/219-power-compassion/" number="219">The Power of Compassion - A Conversation with James R. Doty</episode>
