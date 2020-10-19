@@ -6923,6 +6923,16 @@
     <version>fr</version>
   </movie>
   <movie>
+    <date>2000-10-19</date>
+    <theater home="true"/>
+    <director>Larry Shaw</director>
+    <title>Victim of the Haunt</title>
+    <url>https://www.imdb.com/title/tt0141937/</url>
+    <rating>2.5</rating>
+    <comments>A very bad remake of <i>Poltergeist</i>.</comments>
+    <image>Victim of the Haunt.jpg</image>
+  </movie>
+  <movie>
     <date>2000-10-16</date>
     <theater home="true"/>
     <director>Quentin Tarantino</director>
