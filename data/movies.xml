@@ -5414,17 +5414,14 @@
     <url>https://www.imdb.com/title/tt0434409/</url>
     <image>V for Vendetta.jpg</image>
   </movie>
-  <!-- image missing -->
-  <!--
-    <url></url>
-    <image></image>
-  -->
   <movie>
     <date>2006-05-22</date>
     <theater>Atlantic, Lausanne</theater>
     <title>The Da Vinci Code</title>
     <title language="fr">Da Vinci Code</title>
     <rating>3.5</rating>
+    <url>https://www.imdb.com/title/tt0382625/</url>
+    <image>The Da Vinci Code.jpg</image>
   </movie>
   <movie>
     <date>2006-05-05</date>
@@ -5439,6 +5436,8 @@
     <title>Inside Man</title>
     <title language="fr">L'Homme De L'Interieur</title>
     <rating>5.0</rating>
+    <url>https://www.imdb.com/title/tt0454848/</url>
+    <image>Inside Man.jpg</image>
   </movie>
   <movie>
     <date>2006-04-18</date>
@@ -5447,7 +5446,14 @@
     <title language="fr">L'Age De Glace 2</title>
     <version>fr</version>
     <rating>5.0</rating>
+    <url>https://www.imdb.com/title/tt0438097/</url>
+    <image>Ice Age 2 - The Meltdown.jpg</image>
   </movie>
+  <!-- image missing -->
+  <!--
+    <url></url>
+    <image></image>
+  -->
   <movie>
     <date>2006-04-07</date>
     <theater>Atlantic, Lausanne</theater>
