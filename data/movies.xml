@@ -5442,32 +5442,31 @@
   <movie>
     <date>2006-04-18</date>
     <theater>Casino, Martigny</theater>
-    <title>Ice Age 2 : The Meltdown</title>
+    <title>Ice Age 2: The Meltdown</title>
     <title language="fr">L'Age De Glace 2</title>
     <version>fr</version>
     <rating>5.0</rating>
     <url>https://www.imdb.com/title/tt0438097/</url>
     <image>Ice Age 2 - The Meltdown.jpg</image>
   </movie>
-  <!-- image missing -->
-  <!--
-    <url></url>
-    <image></image>
-  -->
   <movie>
     <date>2006-04-07</date>
     <theater>Atlantic, Lausanne</theater>
-    <title>Ice Age 2 : The Meltdown</title>
+    <title>Ice Age 2: The Meltdown</title>
     <title language="fr">L'Age De Glace 2</title>
     <rating>5.0</rating>
+    <url>https://www.imdb.com/title/tt0438097/</url>
+    <image>Ice Age 2 - The Meltdown.jpg</image>
   </movie>
   <movie>
     <date>2006-03-31</date>
     <theater>Atlantic, Lausanne</theater>
-    <title>Memoirs Of A Geisha</title>
+    <title>Memoirs of a Geisha</title>
     <title language="fr">Mémoires D'Une Geisha</title>
     <version>fr</version>
     <rating>5.0</rating>
+    <url>https://www.imdb.com/title/tt0397535/</url>
+    <image>Memoirs of a Geisha.jpg</image>
   </movie>
   <movie>
     <date>2006-03-25</date>
@@ -5475,7 +5474,14 @@
     <title>Prime</title>
     <title language="fr">Petites Confidences (À Ma Psy)</title>
     <rating>4.0</rating>
+    <url>https://www.imdb.com/title/tt0387514/</url>
+    <image>Prime.jpg</image>
   </movie>
+  <!-- image missing -->
+  <!--
+    <url></url>
+    <image></image>
+  -->
   <movie>
     <date>2006-03-23</date>
     <theater>Galeries, Lausanne</theater>
