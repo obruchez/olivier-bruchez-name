@@ -3,6 +3,18 @@
   <introduction>A list of podcasts I listened to.</introduction>
   <!-- Podcast notes for David Sinclair interview with Rhonda Patrick: https://podcastnotes.org/found-my-fitness/david-sinclair-rhonda-patrick-nad-nr-nmn/ -->
   <podcast>
+    <date>2020-10-19</date>
+    <name url="https://www.foundmyfitness.com/episodes">FoundMyFitness</name>
+    <episode url="https://www.foundmyfitness.com/episodes/sulforaphane">Sulforaphane and Its Effects on Cancer, Mortality, Aging, Brain and Behavior, Heart Disease, &amp; More</episode>
+    <comments>Conclusion: sulforaphane seems to be fantastic. That means broccoli, cauliflower, kale, Brussels sprouts, cabbage, etc. (i.e. cruciferous vegetables). Sulforaphane alone as a supplement seems useless, apparently, because it's missing an essential enzyme called myrosinase. Supplements with myrosinase do exist, but they're pretty expensive. 40-60 mg of sulforaphane could be a daily target for optimal results.</comments>
+  </podcast>
+  <podcast>
+    <date>2020-10-19</date>
+    <name url="https://www.foundmyfitness.com/episodes">FoundMyFitness</name>
+    <episode url="https://www.foundmyfitness.com/episodes/ruth-patterson">Ruth Patterson, PhD, on Time-Restricted Eating in Humans &amp; Breast Cancer Prevention</episode>
+    <comments>I'm not sure what's the takeaway for me, here, as the definition used for time-restricted eating is not that restrictive: "Time-restricted eating is a form of fasting that limits the daytime hours during which a person can eat to an 8- to 12-hour window". Taking the more generous 12-hour window into account, it seems that I've often been eating in a time-restricted manner without realizing it... Now, what I do from that to time is to "fast" for 16 hours, which is pretty easy. I'm just skipping breakfast, which is what many people do (e.g. David Sinclair). Here, Ruth Patterson is talking about not skipping breakfast instead, which is a bit weird and/or more complicated. If I have my breakfast at around 8 AM, that would mean I'd have to stop eating at 4 PM, which is very late for lunch or very early for dinner...</comments>
+  </podcast>
+  <podcast>
     <date>2020-10-16</date>
     <name url="http://www.fourbeers.com/">Two Psychologists Four Beers</name>
     <episode url="https://www.fourbeers.com/26" number="26">Terrible Advice (with Paul Bloom)</episode>
