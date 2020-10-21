@@ -5477,16 +5477,13 @@
     <url>https://www.imdb.com/title/tt0387514/</url>
     <image>Prime.jpg</image>
   </movie>
-  <!-- image missing -->
-  <!--
-    <url></url>
-    <image></image>
-  -->
   <movie>
     <date>2006-03-23</date>
     <theater>Galeries, Lausanne</theater>
-    <title>Good Night And Good Luck</title>
+    <title>Good Night, and Good Luck.</title>
     <rating>5.0</rating>
+    <url>https://www.imdb.com/title/tt0433383/</url>
+    <image>Good Night, and Good Luck..jpg</image>
   </movie>
   <movie>
     <date>2006-03-17</date>
@@ -5494,15 +5491,24 @@
     <title>Capote</title>
     <title language="fr">Truman Capote</title>
     <rating>5.0</rating>
+    <url>https://www.imdb.com/title/tt0379725/</url>
+    <image>Capote.jpg</image>
   </movie>
   <movie>
     <date>2006-03-04</date>
     <theater>Corso, Martigny</theater>
-    <title>Fun With Dick And Jane</title>
+    <title>Fun with Dick and Jane</title>
     <title language="fr">Braqueurs Amateurs</title>
     <version>fr</version>
     <rating>4.0</rating>
+    <url>https://www.imdb.com/title/tt0369441/</url>
+    <image>Fun with Dick and Jane.jpg</image>
   </movie>
+  <!-- image missing -->
+  <!--
+    <url></url>
+    <image></image>
+  -->
   <movie>
     <date>2006-02-23</date>
     <theater>Galeries, Lausanne</theater>
