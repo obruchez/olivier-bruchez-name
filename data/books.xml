@@ -247,6 +247,7 @@
         <comments>A pretty good book about stoicism (mainly) and death. Reading <i>A Guide to the Good Life</i> by William B. Irvine was what led me to stoicism as a philosophy of life. <i>Happy</i> takes all those ideas from stoicism and confronts them with real life. It could have been shorter, but it's full of good advice. I guess it's a self-help book, but in the good sense of the word. Realizing that you can't control everything, that you have to prepare for death (both others' and your own), etc. is hard. So, yes, being happy is hard work. You can't just "think positively". That won't work. Bad things will happen. All the time. You have to learn how to react accordingly. The only thing I didn't agree with was Brown's argument that immortality would necessarily be boring. It kind of contradicts the fact that you can learn to not find anything boring (e.g. meditation). But this is a minor point.</comments>
         <image>Happy.jpg</image>
     </book>
+    <!-- GR -->
     <book>
         <date>2019-08-06</date>
         <title>The Restaurant at the End of the Universe</title>
@@ -269,17 +270,6 @@
         <notes description="Kindle highlights">Conscious (Annaka Harris).md</notes>
         <comments>A good summary of the problem of consciousness. And, yes, panpsychism is probably worth investigating.</comments>
         <image>Conscious.jpg</image>
-    </book> 
-    <book>
-        <date>2019-06-20</date>
-        <title>The Ones Who Walk Away from Omelas</title>
-        <author>Ursula K. Le Guin</author>
-        <publishingyear>1973</publishingyear>
-        <rating>5.0</rating>
-        <url>https://en.wikipedia.org/wiki/The_Ones_Who_Walk_Away_from_Omelas</url>
-        <notes description="Kindle highlights">The Ones Who Walk Away from Omelas (Ursula K. Le Guin).md</notes>
-        <comments>A very short text. I read it after listening to the Very Bad Wizards episode about it. The vagueness of the story reminds me a bit of Jorge Luis Borges.</comments>
-        <image>The Ones Who Walk Away from Omelas.jpg</image>
     </book>
     <book>
         <date>2019-06-23</date>
@@ -292,7 +282,17 @@
         <comments>I was familiar with Alain de Botton's YouTube videos (<a href="https://www.youtube.com/user/schooloflifechannel">The School of Life</a>). I've never been completely convinced by his approach. Is this self-help? Pop philosophy? Something else? I don't know. I'm still not convinced.</comments>
         <image>The Consolations of Philosophy.jpg</image>
     </book>
-    <!-- GR -->
+    <book>
+        <date>2019-06-20</date>
+        <title>The Ones Who Walk Away from Omelas</title>
+        <author>Ursula K. Le Guin</author>
+        <publishingyear>1973</publishingyear>
+        <rating>5.0</rating>
+        <url>https://en.wikipedia.org/wiki/The_Ones_Who_Walk_Away_from_Omelas</url>
+        <notes description="Kindle highlights">The Ones Who Walk Away from Omelas (Ursula K. Le Guin).md</notes>
+        <comments>A very short text. I read it after listening to the Very Bad Wizards episode about it. The vagueness of the story reminds me a bit of Jorge Luis Borges.</comments>
+        <image>The Ones Who Walk Away from Omelas.jpg</image>
+    </book>
     <book>
         <date>2019-05-21</date>
         <title>It Doesn't Have to Be Crazy at Work</title>
