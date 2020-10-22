@@ -5504,24 +5504,23 @@
     <url>https://www.imdb.com/title/tt0369441/</url>
     <image>Fun with Dick and Jane.jpg</image>
   </movie>
-  <!-- image missing -->
-  <!--
-    <url></url>
-    <image></image>
-  -->
   <movie>
     <date>2006-02-23</date>
     <theater>Galeries, Lausanne</theater>
     <title>Syriana</title>
     <rating>5.0</rating>
+    <url>https://www.imdb.com/title/tt0365737/</url>
+    <image>Syriana.jpg</image>
   </movie>
   <movie>
     <date>2006-02-17</date>
     <theater>Galeries, Lausanne</theater>
-    <title>Lord Of War</title>
+    <title>Lord of War</title>
     <title language="fr">Le Seigneur De La Guerre</title>
     <version>fr</version>
     <rating>5.0</rating>
+    <url>https://www.imdb.com/title/tt0399295/</url>
+    <image>Lord of War.jpg</image>
   </movie>
   <movie>
     <date>2006-02-15</date>
@@ -5529,7 +5528,14 @@
     <title>The New World</title>
     <title language="fr">Le Nouveau Monde</title>
     <rating>5.0</rating>
+    <url>https://www.imdb.com/title/tt0402399/</url>
+    <image>The New World.jpg</image>
   </movie>
+  <!-- image missing -->
+  <!--
+    <url></url>
+    <image></image>
+  -->
   <movie>
     <date>2006-02-08</date>
     <theater>Galeries, Lausanne</theater>
