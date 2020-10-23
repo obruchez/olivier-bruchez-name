@@ -5531,30 +5531,35 @@
     <url>https://www.imdb.com/title/tt0402399/</url>
     <image>The New World.jpg</image>
   </movie>
-  <!-- image missing -->
-  <!--
-    <url></url>
-    <image></image>
-  -->
   <movie>
     <date>2006-02-08</date>
     <theater>Galeries, Lausanne</theater>
     <title>Brokeback Mountain</title>
     <title language="fr">Le Secret De Brokeback Mountain</title>
     <rating>5.0</rating>
+    <url>https://www.imdb.com/title/tt0388795/</url>
+    <image>Brokeback Mountain.jpg</image>
   </movie>
   <movie>
     <date>2006-02-03</date>
     <theater>Galeries, Lausanne</theater>
     <title>The Constant Gardener</title>
     <rating>5.0</rating>
+    <url>https://www.imdb.com/title/tt0387131/</url>
+    <image>The Constant Gardener.jpg</image>
   </movie>
   <movie>
     <date>2006-02-01</date>
     <theater>Galeries, Lausanne</theater>
-    <title>La Petite Dame Du Capitole</title>
+    <title>La petite dame Du Capitole</title>
     <rating>5.0</rating>
+    <image>La petite dame Du Capitole.jpg</image>
   </movie>
+  <!-- image missing -->
+  <!--
+    <url></url>
+    <image></image>
+  -->
   <movie>
     <date>2006-02-01</date>
     <theater>Galeries, Lausanne</theater>
