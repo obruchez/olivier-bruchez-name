@@ -5555,11 +5555,6 @@
     <rating>5.0</rating>
     <image>La petite dame Du Capitole.jpg</image>
   </movie>
-  <!-- image missing -->
-  <!--
-    <url></url>
-    <image></image>
-  -->
   <movie>
     <date>2006-02-01</date>
     <theater>Galeries, Lausanne</theater>
@@ -5567,20 +5562,31 @@
     <title>Cinéma</title>
     <rating>4.5</rating>
     <comments>Court documentaire de 1972 passé avant "La Petite Dame Du Capitole".</comments>
+    <url>https://www.imdb.com/title/tt9797916/</url>
+    <image>Cinema.jpg</image>
   </movie>
   <movie>
     <date>2006-01-27</date>
     <theater>Cine Qua Non, Lausanne</theater>
-    <title>Jeune Homme</title>
+    <title>Jeune homme</title>
     <rating>4.5</rating>
+    <url>https://www.imdb.com/title/tt0466227/</url>
+    <image>Jeune homme.jpg</image>
   </movie>
   <movie>
     <date>2006-01-18</date>
     <theater>Flonplex, Lausanne</theater>
-    <title>Pride And Prejudice</title>
-    <title language="fr">Orgueil Et Préjugés</title>
+    <title>Pride &amp; Prejudice</title>
+    <title language="fr">Orgueil et Préjugés</title>
+    <url>https://www.imdb.com/title/tt0414387/</url>
+    <image>Pride & Prejudice.jpg</image>
     <rating>5.0</rating>
   </movie>
+  <!-- image missing -->
+  <!--
+    <url></url>
+    <image></image>
+  -->
   <movie>
     <date>2006-01-13</date>
     <theater>Zinéma, Lausanne</theater>
