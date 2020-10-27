@@ -5578,29 +5578,28 @@
     <theater>Flonplex, Lausanne</theater>
     <title>Pride &amp; Prejudice</title>
     <title language="fr">Orgueil et Préjugés</title>
+    <rating>5.0</rating>
     <url>https://www.imdb.com/title/tt0414387/</url>
     <image>Pride &amp; Prejudice.jpg</image>
-    <rating>5.0</rating>
   </movie>
-  <!-- image missing -->
-  <!--
-    <url></url>
-    <image></image>
-  -->
   <movie>
     <date>2006-01-13</date>
     <theater>Zinéma, Lausanne</theater>
-    <title>The Wayward Cloud</title>
-    <title language="fr">La Saveur De La Pastèque</title>
+    <title>Tian bian yi duo yun</title>
+    <title language="fr">La Saveur de la pastèque</title>
     <rating>4.5</rating>
+    <url>https://www.imdb.com/title/tt0445760/</url>
+    <image>Tian bian yi duo yun.jpg</image>
   </movie>
   <movie>
     <date>2006-01-02</date>
     <theater>Galeries, Lausanne</theater>
-    <title>La Tigre E La Neve</title>
-    <title language="fr">Le Tigre Et La Neige</title>
+    <title>La tigre e la neve</title>
+    <title language="fr">Le Tigre et la Neige</title>
     <version>fr</version>
     <rating>5.0</rating>
+    <url>https://www.imdb.com/title/tt0419198/</url>
+    <image>La tigre e la neve.jpg</image>
   </movie>
   <movie>
     <date>2005-12-14</date>
@@ -5608,7 +5607,14 @@
     <title>Three Burials</title>
     <title language="fr">Trois Enterrements</title>
     <rating>5.5</rating>
+    <url>https://www.imdb.com/title/tt0419294/</url>
+    <image>Three Burials</image>
   </movie>
+  <!-- image missing -->
+  <!--
+    <url></url>
+    <image></image>
+  -->
   <movie>
     <date>2005-12-02</date>
     <theater>Flonplex, Lausanne</theater>
