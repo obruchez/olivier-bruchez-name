@@ -5610,31 +5610,37 @@
     <url>https://www.imdb.com/title/tt0419294/</url>
     <image>Three Burials</image>
   </movie>
-  <!-- image missing -->
-  <!--
-    <url></url>
-    <image></image>
-  -->
   <movie>
     <date>2005-12-02</date>
     <theater>Flonplex, Lausanne</theater>
     <title>Palais Royal !</title>
     <rating>4.0</rating>
+    <url>https://www.imdb.com/title/tt0424338/</url>
+    <image>Palais royal !.jpg</image>
   </movie>
   <movie>
     <date>2005-11-29</date>
     <theater>Flonplex, Lausanne</theater>
-    <title>Harry Potter And The Goblet Of Fire</title>
-    <title language="fr">Harry Potter Et La Coupe De Feu</title>
+    <title>Harry Potter and the Goblet of Fire</title>
+    <title language="fr">Harry Potter et la Coupe de feu</title>
     <version>fr</version>
     <rating>5.0</rating>
+    <url>https://www.imdb.com/title/tt0330373/</url>
+    <image>Harry Potter and the Goblet of Fire.jpg</image>
   </movie>
   <movie>
     <date>2005-11-25</date>
     <theater>Bellevaux, Lausanne</theater>
     <title>Caché</title>
     <rating>4.5</rating>
+    <url>https://www.imdb.com/title/tt0387898/</url>
+    <image>Caché.jpg</image>
   </movie>
+  <!-- image missing -->
+  <!--
+    <url></url>
+    <image></image>
+  -->
   <movie>
     <date>2005-11-24</date>
     <theater>Galeries, Lausanne</theater>
