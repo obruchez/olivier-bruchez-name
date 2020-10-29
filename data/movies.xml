@@ -5636,29 +5636,35 @@
     <url>https://www.imdb.com/title/tt0387898/</url>
     <image>Caché.jpg</image>
   </movie>
-  <!-- image missing -->
-  <!--
-    <url></url>
-    <image></image>
-  -->
   <movie>
     <date>2005-11-24</date>
     <theater>Galeries, Lausanne</theater>
-    <title>A History Of Violence</title>
+    <title>A History of Violence</title>
     <rating>4.5</rating>
+    <url>https://www.imdb.com/title/tt0399146/</url>
+    <image>A History of Violence.jpg</image>
   </movie>
   <movie>
     <date>2005-11-19</date>
     <theater>Corso, Lausanne</theater>
     <title>In Her Shoes</title>
     <rating>4.5</rating>
+    <url>https://www.imdb.com/title/tt0388125/</url>
+    <image>In Her Shoes.jpg</image>
   </movie>
   <movie>
     <date>2005-11-19</date>
     <theater>Galeries, Lausanne</theater>
     <title>Handicap</title>
     <rating>5.0</rating>
+    <url>https://www.imdb.com/title/tt0419793/</url>
+    <image>Handicap.jpg</image>
   </movie>
+  <!-- image missing -->
+  <!--
+    <url></url>
+    <image></image>
+  -->
   <movie>
     <date>2005-11-19</date>
     <theater>Galeries, Lausanne</theater>
