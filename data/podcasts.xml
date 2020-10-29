@@ -3,6 +3,18 @@
   <introduction>A list of podcasts I listened to.</introduction>
   <!-- Podcast notes for David Sinclair interview with Rhonda Patrick: https://podcastnotes.org/found-my-fitness/david-sinclair-rhonda-patrick-nad-nr-nmn/ -->
   <podcast>
+    <date>2020-10-29</date>
+    <name url="https://peterattiamd.com/podcast/">The Peter Attia Drive Podcast</name>
+    <episode url="https://peterattiamd.com/kevinsayer/" number="54">Kevin Sayer, CEO of Dexcom: Continuous glucose monitors – impact of food, sleep, and stress on glucose, the unmatched power of CGM to drive behavioral change, and the exciting future of CGM</episode>
+    <comments>I was interested in this topic, as I'm currently wearing a CGM (FreeStyle Libre) for a research study. There's probably a bias, here, but Dexcom products seem to be a bit more accurate than the competition. I'm excited about the idea that we could maybe one day have sensors for other values and have a AI system giving us real-time feedback.</comments>
+  </podcast>
+  <podcast>
+    <date>2020-10-28</date>
+    <name url="http://verybadwizards.com/">Very Bad Wizards</name>
+    <episode url="https://verybadwizards.fireside.fm/199" number="199">When Philosophy Goes Sideways</episode>
+    <comments>An episode about bad philosophy. I guess. Neither particularly interesting nor funny.</comments>
+  </podcast>
+  <podcast>
     <date>2020-10-22</date>
     <name url="http://verybadwizards.com/">Very Bad Wizards</name>
     <episode url="https://verybadwizards.fireside.fm/198" number="198">Is Mental Illness a Myth? (Thomas Szasz's "The Myth of Mental Illness")</episode>
