@@ -5660,29 +5660,34 @@
     <url>https://www.imdb.com/title/tt0419793/</url>
     <image>Handicap.jpg</image>
   </movie>
-  <!-- image missing -->
-  <!--
-    <url></url>
-    <image></image>
-  -->
   <movie>
     <date>2005-11-19</date>
     <theater>Galeries, Lausanne</theater>
     <title>Bryllupsdagen</title>
     <rating>4.0</rating>
+    <comments>I can't find any information about this short movie in 2020.</comments>
   </movie>
   <movie>
     <date>2005-11-19</date>
     <theater>Galeries, Lausanne</theater>
     <title>Naufraghi</title>
     <rating>4.5</rating>
+    <url>https://www.imdb.com/title/tt0438925/</url>
+    <image>Naufraghi.jpg</image>
   </movie>
   <movie>
     <date>2005-11-19</date>
     <theater>Galeries, Lausanne</theater>
     <title>The Banker</title>
     <rating>4.5</rating>
+    <url>https://www.imdb.com/title/tt0442932/</url>
+    <image>The Banker.jpg</image>
   </movie>
+  <!-- image missing -->
+  <!--
+    <url></url>
+    <image></image>
+  -->
   <movie>
     <date>2005-11-19</date>
     <theater>Galeries, Lausanne</theater>
