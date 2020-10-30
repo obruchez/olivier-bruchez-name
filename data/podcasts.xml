@@ -3,6 +3,12 @@
   <introduction>A list of podcasts I listened to.</introduction>
   <!-- Podcast notes for David Sinclair interview with Rhonda Patrick: https://podcastnotes.org/found-my-fitness/david-sinclair-rhonda-patrick-nad-nr-nmn/ -->
   <podcast>
+    <date>2020-10-30</date>
+    <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
+    <episode url="https://samharris.org/podcasts/220-information-apocalypse/" number="220">The Information Apocalypse - A Conversation with Nina Schick</episode>
+    <comments>"In this episode of the podcast, Sam Harris speaks with Nina Schick about the growing epidemic of misinformation and disinformation. They discuss the coming problem of "deep fakes,"" the history of Russian "active measures" against the West, the weaponization of the EU migration crisis, Russian targeting of the African-American community, the future of Europe, Trump and rise of political cynicism, QAnon, the prospect of violence surrounding the 2020 Presidential election, and other topics." This was a bit depressing. Now I'd really like to hear a discussion about potential solutions.</comments>
+  </podcast>
+  <podcast>
     <date>2020-10-29</date>
     <name url="https://peterattiamd.com/podcast/">The Peter Attia Drive Podcast</name>
     <episode url="https://peterattiamd.com/kevinsayer/" number="54">Kevin Sayer, CEO of Dexcom: Continuous glucose monitors – impact of food, sleep, and stress on glucose, the unmatched power of CGM to drive behavioral change, and the exciting future of CGM</episode>
