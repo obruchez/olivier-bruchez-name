@@ -3,6 +3,16 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Checklist: add rating to IMDb -->
   <movie>
+    <date>2020-10-30</date>
+    <theater home="true"/>
+    <director>Francis Ford Coppola</director>
+    <title>The Conversation</title>
+    <url>https://www.imdb.com/title/tt0071360/</url>
+    <rating>5.0</rating>
+    <comments>Definitely not an action-packed movie. It's full of mystery, very well done, and about an original theme/topic.</comments>
+    <image>The Conversation.jpg</image>
+  </movie>
+  <movie>
     <date>2020-10-15</date>
     <theater>Galeries, Lausanne</theater>
     <director>Nathan Grossman</director>
