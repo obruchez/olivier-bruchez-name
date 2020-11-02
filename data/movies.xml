@@ -5693,30 +5693,35 @@
     <url>https://www.imdb.com/title/tt0442932/</url>
     <image>The Banker.jpg</image>
   </movie>
-  <!-- image missing -->
-  <!--
-    <url></url>
-    <image></image>
-  -->
   <movie>
     <date>2005-11-19</date>
     <theater>Galeries, Lausanne</theater>
-    <title>Pornographic Apatheric</title>
+    <title>Pornographic Apathetic</title>
     <rating>5.0</rating>
+    <url>https://www.imdb.com/title/tt0422978/</url>
+    <image>Pornographic Apathetic.jpg</image>
   </movie>
   <movie>
     <date>2005-11-18</date>
     <theater>Galeries, Lausanne</theater>
     <title>Aligato</title>
     <rating>4.5</rating>
+    <url>https://www.imdb.com/title/tt0412311/</url>
+    <image>Aligato.jpg</image>
   </movie>
   <movie>
     <date>2005-11-18</date>
     <theater>Galeries, Lausanne</theater>
-    <title>Hotel Y Domicilio</title>
-    <title language="fr">Hôtel Et Résidence</title>
+    <title>Hotel y domicilio</title>
+    <title language="fr">Hôtel et résidence</title>
     <rating>4.5</rating>
+    <url>https://www.imdb.com/title/tt0469435/</url>
   </movie>
+  <!-- image missing -->
+  <!--
+    <url></url>
+    <image></image>
+  -->
   <movie>
     <date>2005-11-18</date>
     <theater>Galeries, Lausanne</theater>
