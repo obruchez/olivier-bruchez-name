@@ -3,6 +3,12 @@
   <introduction>A list of podcasts I listened to.</introduction>
   <!-- Podcast notes for David Sinclair interview with Rhonda Patrick: https://podcastnotes.org/found-my-fitness/david-sinclair-rhonda-patrick-nad-nr-nmn/ -->
   <podcast>
+    <date>2020-11-01</date>
+    <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
+    <episode url="https://samharris.org/podcasts/221-success-failure-common-good/" number="221">Success, Failure, &amp; the Common Good - A Conversation with Michael Sandel</episode>
+    <comments>Nothing earth-shattering here if you're familiar with Sam's view on free will. We need to change our environments via policies, etc., so that everybody has "equal opportunities" in as many fields as possible. But, then, what? Should we change our genes as well? We should at least recognize that not everybody has the same abilities (the opposite view is very dangerous) and make sure we have policies in place to make sure everybody can live with dignity (financially, etc.).</comments>
+  </podcast>
+  <podcast>
     <date>2020-10-30</date>
     <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
     <episode url="https://samharris.org/podcasts/220-information-apocalypse/" number="220">The Information Apocalypse - A Conversation with Nina Schick</episode>
