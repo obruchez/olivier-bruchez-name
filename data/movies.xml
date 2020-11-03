@@ -5717,29 +5717,34 @@
     <rating>4.5</rating>
     <url>https://www.imdb.com/title/tt0469435/</url>
   </movie>
-  <!-- image missing -->
-  <!--
-    <url></url>
-    <image></image>
-  -->
   <movie>
     <date>2005-11-18</date>
     <theater>Galeries, Lausanne</theater>
-    <title>A Year Along The Abandoned Road</title>
+    <title>A Year Along the Abandoned Road</title>
     <rating>5.0</rating>
+    <url>https://www.imdb.com/title/tt0103301/</url>
+    <image>A Year Along the Abandoned Road.jpg</image>
   </movie>
   <movie>
     <date>2005-11-18</date>
     <theater>Galeries, Lausanne</theater>
-    <title>Oh Dear!</title>
+    <title>Oh Dear...</title>
     <rating>4.0</rating>
+    <url>https://www.imdb.com/title/tt0436650/</url>
+    <image>Oh Dear....jpg</image>
   </movie>
   <movie>
     <date>2005-11-18</date>
     <theater>Galeries, Lausanne</theater>
     <title>12 1/2 Minuten</title>
     <rating>4.5</rating>
+    <comments>I can't find any information about this short movie in 2020.</comments>
   </movie>
+  <!-- image missing -->
+  <!--
+    <url></url>
+    <image></image>
+  -->
   <movie>
     <date>2005-11-18</date>
     <theater>Galeries, Lausanne</theater>
