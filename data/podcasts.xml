@@ -3,6 +3,12 @@
   <introduction>A list of podcasts I listened to.</introduction>
   <!-- Podcast notes for David Sinclair interview with Rhonda Patrick: https://podcastnotes.org/found-my-fitness/david-sinclair-rhonda-patrick-nad-nr-nmn/ -->
   <podcast>
+    <date>2020-11-04</date>
+    <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
+    <episode url="https://samharris.org/podcasts/224-key-trumps-appeal/" number="224">The Key to Trump's Appeal</episode>
+    <comments>People like Trump, because the Left makes them feel guily. Something like that.</comments>
+  </podcast>
+  <podcast>
     <date>2020-11-01</date>
     <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
     <episode url="https://samharris.org/podcasts/221-success-failure-common-good/" number="221">Success, Failure, &amp; the Common Good - A Conversation with Michael Sandel</episode>
