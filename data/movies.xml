@@ -5740,29 +5740,36 @@
     <rating>4.5</rating>
     <comments>I can't find any information about this short movie in 2020.</comments>
   </movie>
-  <!-- image missing -->
-  <!--
-    <url></url>
-    <image></image>
-  -->
   <movie>
     <date>2005-11-18</date>
     <theater>Galeries, Lausanne</theater>
     <title>Flatlife</title>
     <rating>5.0</rating>
+    <url>https://www.imdb.com/title/tt0408786/</url>
+    <image>Flatlife.jpg</image>
   </movie>
   <movie>
     <date>2005-11-18</date>
     <theater>Galeries, Lausanne</theater>
     <title>Smoke-Flavored Life</title>
     <rating>4.5</rating>
+    <url>https://www.imdb.com/title/tt1002991/</url>
+    <image>Smoke-Flavored Life.jpg</image>
   </movie>
   <movie>
     <date>2005-11-18</date>
     <theater>Galeries, Lausanne</theater>
-    <title>À Quoi Ça Sert L'Amour ?</title>
+    <director>Louis Clichy</director>
+    <title>À quoi ça sert l'amour ?</title>
     <rating>4.5</rating>
+    <url>https://www.imdb.com/title/tt10873446/</url>
+    <image>À quoi ça sert l'amour.jpg</image>
   </movie>
+  <!-- image missing -->
+  <!--
+    <url></url>
+    <image></image>
+  -->
   <movie>
     <date>2005-11-18</date>
     <theater>Galeries, Lausanne</theater>
