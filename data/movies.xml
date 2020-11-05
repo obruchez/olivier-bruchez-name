@@ -5765,29 +5765,35 @@
     <url>https://www.imdb.com/title/tt10873446/</url>
     <image>À quoi ça sert l'amour.jpg</image>
   </movie>
-  <!-- image missing -->
-  <!--
-    <url></url>
-    <image></image>
-  -->
   <movie>
     <date>2005-11-18</date>
     <theater>Galeries, Lausanne</theater>
     <title>Futter</title>
     <rating>5.0</rating>
+    <url>https://www.imdb.com/title/tt0116380/</url>
+    <image>Futter.jpg</image>
   </movie>
   <movie>
     <date>2005-11-18</date>
     <theater>Galeries, Lausanne</theater>
-    <title>Ana Y Manuel</title>
+    <title>Ana y Manuel</title>
     <rating>4.5</rating>
+    <url>https://www.imdb.com/title/tt0409692/</url>
+    <image>Ana y Manuel.jpg</image>
   </movie>
   <movie>
     <date>2005-11-18</date>
     <theater>Galeries, Lausanne</theater>
     <title>Pigly</title>
     <rating>4.5</rating>
+    <url>https://www.imdb.com/title/tt0820134/</url>
+    <image>Pigly.jpg</image>
   </movie>
+  <!-- image missing -->
+  <!--
+    <url></url>
+    <image></image>
+  -->
   <movie>
     <date>2005-11-18</date>
     <theater>Galeries, Lausanne</theater>
