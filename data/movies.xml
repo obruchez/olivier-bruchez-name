@@ -5789,29 +5789,35 @@
     <url>https://www.imdb.com/title/tt0820134/</url>
     <image>Pigly.jpg</image>
   </movie>
-  <!-- image missing -->
-  <!--
-    <url></url>
-    <image></image>
-  -->
   <movie>
     <date>2005-11-18</date>
     <theater>Galeries, Lausanne</theater>
     <title>Chickendales</title>
     <rating>4.0</rating>
+    <url>https://www.imdb.com/title/tt0366301/</url>
+    <image>Chickendales.jpg</image>
   </movie>
   <movie>
     <date>2005-11-18</date>
     <theater>Galeries, Lausanne</theater>
-    <title>Hang Over</title>
+    <title>Hangover</title>
     <rating>4.5</rating>
+    <url>https://www.imdb.com/title/tt00832886/</url>
+    <image>Hangover.jpg</image>
   </movie>
   <movie>
     <date>2005-11-18</date>
     <theater>Galeries, Lausanne</theater>
-    <title>Le Secret Des Dieux</title>
+    <title>Le secret des dieux</title>
     <rating>5.0</rating>
+    <url>https://www.imdb.com/title/tt0486471/</url>
+    <image>Le secret des dieux.jpg</image>
   </movie>
+  <!-- image missing -->
+  <!--
+    <url></url>
+    <image></image>
+  -->
   <movie>
     <date>2005-11-18</date>
     <theater>Galeries, Lausanne</theater>
