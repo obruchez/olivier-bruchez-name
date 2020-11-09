@@ -5813,31 +5813,37 @@
     <url>https://www.imdb.com/title/tt0486471/</url>
     <image>Le secret des dieux.jpg</image>
   </movie>
-  <!-- image missing -->
-  <!--
-    <url></url>
-    <image></image>
-  -->
   <movie>
     <date>2005-11-18</date>
     <theater>Galeries, Lausanne</theater>
     <title>Gopher Broke</title>
     <rating>4.5</rating>
+    <url>https://www.imdb.com/title/tt0438064/</url>
+    <image>Gopher Broke.jpg</image>
   </movie>
   <movie>
     <date>2005-11-18</date>
     <theater>Galeries, Lausanne</theater>
     <title>Agricultural Report</title>
     <rating>4.5</rating>
+    <url>https://www.imdb.com/title/tt0441593/</url>
+    <image>Agricultural Report.jpg</image>
   </movie>
   <movie>
     <date>2005-11-12</date>
     <theater>Casino, Lausanne</theater>
-    <title>The 40 Year Old Virgin</title>
+    <title>The 40 Year-Old Virgin</title>
     <title language="fr">40 Ans, Toujours Puceau</title>
     <version>fr</version>
     <rating>3.5</rating>
+    <url>https://www.imdb.com/title/tt0405422/</url>
+    <image>The 40 Year-Old Virgin.jpg</image>
   </movie>
+  <!-- image missing -->
+  <!--
+    <url></url>
+    <image></image>
+  -->
   <movie>
     <date>2005-11-04</date>
     <theater>Galeries, Lausanne</theater>
