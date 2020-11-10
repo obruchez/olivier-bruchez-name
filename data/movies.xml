@@ -5839,11 +5839,6 @@
     <url>https://www.imdb.com/title/tt0405422/</url>
     <image>The 40 Year-Old Virgin.jpg</image>
   </movie>
-  <!-- image missing -->
-  <!--
-    <url></url>
-    <image></image>
-  -->
   <movie>
     <date>2005-11-04</date>
     <theater>Galeries, Lausanne</theater>
@@ -5851,19 +5846,30 @@
     <title>Corpse Bride</title>
     <title language="fr">Les noces funèbres</title>
     <rating>5.0</rating>
+    <url>https://www.imdb.com/title/tt0121164/</url>
+    <image>Corpse Bride.jpg</image>
   </movie>
   <movie>
     <date>2005-11-03</date>
     <theater>Galeries, Lausanne</theater>
     <title>Match Point</title>
     <rating>4.5</rating>
+    <url>https://www.imdb.com/title/tt0416320/</url>
+    <image>Match Point.jpg</image>
   </movie>
   <movie>
     <date>2005-10-27</date>
     <theater>Galeries, Lausanne</theater>
     <title>Broken Flowers</title>
     <rating>5.0</rating>
+    <url>https://www.imdb.com/title/tt0412019/</url>
+    <image>Broken Flowers.jpg</image>
   </movie>
+  <!-- image missing -->
+  <!--
+    <url></url>
+    <image></image>
+  -->
   <movie>
     <date>2005-10-12</date>
     <theater>Cine Qua Non, Lausanne</theater>
