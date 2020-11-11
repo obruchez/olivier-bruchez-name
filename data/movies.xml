@@ -5865,23 +5865,22 @@
     <url>https://www.imdb.com/title/tt0412019/</url>
     <image>Broken Flowers.jpg</image>
   </movie>
-  <!-- image missing -->
-  <!--
-    <url></url>
-    <image></image>
-  -->
   <movie>
     <date>2005-10-12</date>
     <theater>Cine Qua Non, Lausanne</theater>
-    <title>Wallace &amp; Gromit: The Curse Of The Wereabbit</title>
+    <title>Wallace &amp; Gromit: The Curse of the Wereabbit</title>
     <title language="fr">Wallace Et Gromit Le Mystère Du Lapin-Garou</title>
     <rating>4.5</rating>
+    <url>https://www.imdb.com/title/tt0312004/</url>
+    <image>Wallace &amp; Gromit - The Curse of the Wereabbit.jpg</image>
   </movie>
   <movie>
     <date>2005-10-05</date>
     <theater>Europlex Flon, Lausanne</theater>
-    <title>Shane Black's Kiss Kiss, Bang Bang</title>
+    <title>Kiss Kiss Bang Bang</title>
     <rating>4.5</rating>
+    <url>https://www.imdb.com/title/tt0373469/</url>
+    <image>Kiss Kiss Bang Bang.jpg</image>
   </movie>
   <movie>
     <date>2005-08-23</date>
@@ -5889,7 +5888,14 @@
     <title>The Hitchhiker's Guide To The Galaxy</title>
     <title language="fr">Le Guide Du Voyageur Galactique</title>
     <rating>4.5</rating>
+    <url>https://www.imdb.com/title/tt0371724/</url>
+    <image>The Hitchhiker's Guide to the Galaxy.jpg</image>
   </movie>
+  <!-- image missing -->
+  <!--
+    <url></url>
+    <image></image>
+  -->
   <movie>
     <date>2005-08-17</date>
     <theater>Orange Cinema, Lausanne</theater>
