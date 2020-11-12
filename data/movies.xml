@@ -5891,32 +5891,38 @@
     <url>https://www.imdb.com/title/tt0371724/</url>
     <image>The Hitchhiker's Guide to the Galaxy.jpg</image>
   </movie>
-  <!-- image missing -->
-  <!--
-    <url></url>
-    <image></image>
-  -->
   <movie>
     <date>2005-08-17</date>
     <theater>Orange Cinema, Lausanne</theater>
-    <title>L'Enfant</title>
+    <title>L'enfant</title>
     <rating>4.5</rating>
+    <url>https://www.imdb.com/title/tt0456396/</url>
+    <image>L'enfant.jpg</image>
   </movie>
   <movie>
     <date>2005-08-04</date>
     <theater>Galeries, Lausanne</theater>
-    <title>Les Poupées Russes</title>
+    <title>Les poupées russes</title>
     <rating>5.0</rating>
+    <url>https://www.imdb.com/title/tt0409184/</url>
+    <image>Les poupées russes.jpg</image>
   </movie>
   <movie>
     <date>2005-07-17</date>
     <theater>Capitole, Sion</theater>
     <director>Tim Burton</director>
-    <title>Charly And The Chocolate Factory</title>
-    <title language="fr">Charlie Et La Chocolaterie</title>
+    <title>Charlie and the Chocolate Factory</title>
+    <title language="fr">Charlie et la Chocolaterie</title>
     <version>fr</version>
     <rating>5.0</rating>
+    <url>https://www.imdb.com/title/tt0367594/</url>
+    <image>Charlie and the Chocolate Factory.jpg</image>
   </movie>
+  <!-- image missing -->
+  <!--
+    <url></url>
+    <image></image>
+  -->
   <movie>
     <date>2005-07-08</date>
     <theater>Galeries, Lausanne</theater>
