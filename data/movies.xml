@@ -5918,29 +5918,35 @@
     <url>https://www.imdb.com/title/tt0367594/</url>
     <image>Charlie and the Chocolate Factory.jpg</image>
   </movie>
-  <!-- image missing -->
-  <!--
-    <url></url>
-    <image></image>
-  -->
   <movie>
     <date>2005-07-08</date>
     <theater>Galeries, Lausanne</theater>
     <title>La Moustache</title>
     <rating>4.5</rating>
+    <url>https://www.imdb.com/title/tt0428856/</url>
+    <image>La moustache.jpg</image>
   </movie>
   <movie>
     <date>2005-07-07</date>
     <theater>Galeries, Lausanne</theater>
     <title>Mysterious Skin</title>
     <rating>4.5</rating>
+    <url>https://www.imdb.com/title/tt0370986/</url>
+    <image>Mysterious Skin.jpg</image>
   </movie>
   <movie>
     <date>2005-07-07</date>
     <theater>Galeries, Lausanne</theater>
     <title>Douches Froides</title>
     <rating>4.5</rating>
+    <url>https://www.imdb.com/title/tt0422133/</url>
+    <image>Douches froides.jpg</image>
   </movie>
+  <!-- image missing -->
+  <!--
+    <url></url>
+    <image></image>
+  -->
   <movie>
     <date>2005-07-06</date>
     <theater>Galeries, Lausanne</theater>
