@@ -3,10 +3,10 @@
   <introduction>A list of podcasts I listened to.</introduction>
   <!-- Podcast notes for David Sinclair interview with Rhonda Patrick: https://podcastnotes.org/found-my-fitness/david-sinclair-rhonda-patrick-nad-nr-nmn/ -->
   <podcast>
-    <date></date>
+    <date>2020-11-13</date>
     <name url="https://peterattiamd.com/podcast/">The Peter Attia Drive Podcast</name>
     <episode url="https://peterattiamd.com/tomdayspring6/" number="129">Tom Dayspring, M.D.: The latest insights into cardiovascular disease and lipidology</episode>
-    <comments>HDL levels are really useless. That's a relief, for me, because my total cholesterol is really low and my HDL is also really low as well. For years, I've tried to make it higher, without any success. I guess I will stop trying, now, and focus on more useful metrics. Lipoprotein(a) / Lp(a) is definitely something I should measure soon. If Lp(a) is high, oxidized phospholipids should be measured (did I get that right?). Peter's favorite measurements are homocysteine and uric acid.</comments>
+    <comments>HDL levels are really useless. That's a relief, for me, because my total cholesterol is really low and my HDL is really low as well. For years, I've tried to make it higher, without any success. I guess I will stop trying, now, and focus on more useful metrics. Lipoprotein(a) / Lp(a) is definitely something I should measure soon. If Lp(a) is high, oxidized phospholipids should be measured (did I get that right?). Peter's favorite measurements are homocysteine and uric acid (to assess cardiovascular risks).</comments>
   </podcast>
   <podcast>
     <date>2020-11-11</date>
