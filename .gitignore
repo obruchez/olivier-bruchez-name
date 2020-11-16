@@ -1,5 +1,6 @@
 .history
 /*.iml
+/.bsp
 /.classpath
 /.idea
 /.idea_modules
