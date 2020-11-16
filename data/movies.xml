@@ -5942,30 +5942,36 @@
     <url>https://www.imdb.com/title/tt0422133/</url>
     <image>Douches froides.jpg</image>
   </movie>
+  <movie>
+    <date>2005-07-06</date>
+    <theater>Galeries, Lausanne</theater>
+    <title>War of the Worlds</title>
+    <title language="fr">La Guerre Des Mondes</title>
+    <rating>5.0</rating>
+    <url>https://www.imdb.com/title/tt0407304/</url>
+    <image>War of the Worlds.jpg</image>
+  </movie>
+  <movie>
+    <date>2005-07-06</date>
+    <theater>Galeries, Lausanne</theater>
+    <title>My Summer of Love</title>
+    <rating>5.0</rating>
+    <url>https://www.imdb.com/title/tt0382189/</url>
+    <image>My Summer of Love.jpg</image>
+  </movie>
+  <movie>
+    <date>2005-06-30</date>
+    <theater>Pathé Flon, Lausanne</theater>
+    <title>Les poupées russes</title>
+    <rating>5.0</rating>
+    <url>https://www.imdb.com/title/tt0409184/</url>
+    <image>Les poupées russes.jpg</image>
+  </movie>
   <!-- image missing -->
   <!--
     <url></url>
     <image></image>
   -->
-  <movie>
-    <date>2005-07-06</date>
-    <theater>Galeries, Lausanne</theater>
-    <title>War Of The Worlds</title>
-    <title language="fr">La Guerre Des Mondes</title>
-    <rating>5.0</rating>
-  </movie>
-  <movie>
-    <date>2005-07-06</date>
-    <theater>Galeries, Lausanne</theater>
-    <title>My Summer Of Love</title>
-    <rating>5.0</rating>
-  </movie>
-  <movie>
-    <date>2005-06-30</date>
-    <theater>Pathé Flon, Lausanne</theater>
-    <title>Les Poupées Russes</title>
-    <rating>5.0</rating>
-  </movie>
   <movie>
     <date>2005-06-25</date>
     <theater>Casino, Martigny</theater>
