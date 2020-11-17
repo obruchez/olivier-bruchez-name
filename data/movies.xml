@@ -5967,16 +5967,13 @@
     <url>https://www.imdb.com/title/tt0409184/</url>
     <image>Les poupées russes.jpg</image>
   </movie>
-  <!-- image missing -->
-  <!--
-    <url></url>
-    <image></image>
-  -->
   <movie>
     <date>2005-06-25</date>
     <theater>Casino, Martigny</theater>
     <title>Batman Begins</title>
     <rating>4.5</rating>
+    <url>https://www.imdb.com/title/tt0372784/</url>
+    <image>Batman Begins.jpg</image>
   </movie>
   <movie>
     <date>2005-06-21</date>
@@ -5991,7 +5988,14 @@
     <theater>Casino, Martigny</theater>
     <title>Sun City</title>
     <version>fr</version>
+    <url>https://www.imdb.com/title/tt0401792/</url>
+    <image>Sun City.jpg</image>
   </movie>
+  <!-- image missing -->
+  <!--
+    <url></url>
+    <image></image>
+  -->
   <movie>
     <date>2005-06-01</date>
     <theater>Atlantic, Lausanne</theater>
