@@ -3,6 +3,16 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Checklist: add rating to IMDb -->
   <movie>
+    <date>2020-11-16</date>
+    <theater home="true"/>
+    <director>Denis Villeneuve</director>
+    <title>Incendies</title>
+    <url>https://www.imdb.com/title/tt1255953/</url>
+    <rating>4.75</rating>
+    <comments>For some reasons, I wasn't particularly moved by this movie. The ending was unexpected. Incidentally, it's one of those movies that you cannot really watch twice because of the plot twist.</comments>
+    <image>Incendies.jpg</image>
+  </movie>
+  <movie>
     <date>2020-10-30</date>
     <theater home="true"/>
     <director>Francis Ford Coppola</director>
