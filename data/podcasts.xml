@@ -3,6 +3,12 @@
   <introduction>A list of podcasts I listened to.</introduction>
   <!-- Podcast notes for David Sinclair interview with Rhonda Patrick: https://podcastnotes.org/found-my-fitness/david-sinclair-rhonda-patrick-nad-nr-nmn/ -->
   <podcast>
+    <date>2020-11-18</date>
+    <name url="https://peterattiamd.com/podcast/">The Peter Attia Drive Podcast</name>
+    <episode url="https://peterattiamd.com/bethlewis/" number="131">Beth Lewis: The Art of Stability: Learning about pain, mitigating injury, and moving better through life</episode>
+    <comments>I listened to this because I recently injured my knee. I guess my personal takeaway (I'm not someone who spends hours at the gym every week) is that I should keep moving, do movements that "I'm not supposed to do", exercise barefoot (I use an elliptical trainer regularly), and be able to touch my toes.</comments>
+  </podcast>
+  <podcast>
     <date>2020-11-13</date>
     <name url="https://peterattiamd.com/podcast/">The Peter Attia Drive Podcast</name>
     <episode url="https://peterattiamd.com/tomdayspring6/" number="129">Tom Dayspring, M.D.: The latest insights into cardiovascular disease and lipidology</episode>
