@@ -5991,26 +5991,32 @@
     <url>https://www.imdb.com/title/tt0401792/</url>
     <image>Sun City.jpg</image>
   </movie>
-  <!-- image missing -->
-  <!--
-    <url></url>
-    <image></image>
-  -->
   <movie>
     <date>2005-06-01</date>
     <theater>Atlantic, Lausanne</theater>
     <title>Star Wars: Episode III - Revenge of the Sith</title>
+    <url>https://www.imdb.com/title/tt0121766/</url>
+    <image>Star Wars - Episode III - Revenge of the Sith.jpg</image>
   </movie>
   <movie>
     <date>2005-05-07</date>
     <theater>Casino, Martigny</theater>
     <title>Brice de Nice</title>
+    <url>https://www.imdb.com/title/tt0412535/</url>
+    <image>Brice de Nice.jpg</image>
   </movie>
   <movie>
     <date>2005-04-21</date>
     <theater>City Club, Pully</theater>
     <title>Darwin's Nightmare</title>
+    <url>https://www.imdb.com/title/tt0424024/</url>
+    <image>Darwin's Nightmare.jpg</image>
   </movie>
+  <!-- image missing -->
+  <!--
+    <url></url>
+    <image></image>
+  -->
   <movie>
     <date>2005-04-09</date>
     <theater>Corso, Martigny</theater>
