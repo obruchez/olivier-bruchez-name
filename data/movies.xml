@@ -6022,21 +6022,20 @@
     <url>https://www.imdb.com/title/tt0424024/</url>
     <image>Darwin's Nightmare.jpg</image>
   </movie>
-  <!-- image missing -->
-  <!--
-    <url></url>
-    <image></image>
-  -->
   <movie>
     <date>2005-04-09</date>
     <theater>Corso, Martigny</theater>
     <title>L'antidote</title>
+    <url>https://www.imdb.com/title/tt0412422/</url>
+    <image>L'antidote.jpg</image>
   </movie>
   <movie>
     <date>2005-03-31</date>
     <theater>Lausanne</theater>
     <title>Million Dollar Baby</title>
     <rating>4.5</rating>
+    <url>https://www.imdb.com/title/tt0405159/</url>
+    <image>Million Dollar Baby.jpg</image>
   </movie>
   <movie>
     <date>2005-03-25</date>
@@ -6044,7 +6043,14 @@
     <title>Hitch</title>
     <version>fr</version>
     <rating>4.0</rating>
+    <url>https://www.imdb.com/title/tt0386588/</url>
+    <image>Hitch.jpg</image>
   </movie>
+  <!-- image missing -->
+  <!--
+    <url></url>
+    <image></image>
+  -->
   <movie>
     <date>2005-03-19</date>
     <theater>Casino, Martigny</theater>
