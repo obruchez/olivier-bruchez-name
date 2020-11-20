@@ -3,6 +3,12 @@
   <introduction>A list of podcasts I listened to.</introduction>
   <!-- Podcast notes for David Sinclair interview with Rhonda Patrick: https://podcastnotes.org/found-my-fitness/david-sinclair-rhonda-patrick-nad-nr-nmn/ -->
   <podcast>
+    <date></date>
+    <name url="https://peterattiamd.com/podcast/">The Peter Attia Drive Podcast</name>
+    <episode url="https://peterattiamd.com/caroltavris-elliotaronson/" number="130">Carol Tavris, Ph.D. &amp; Elliot Aronson, Ph.D.: Recognizing and overcoming cognitive dissonance</episode>
+    <comments>"The human brain is wired for self-justification". Learning how to live with cognitive dissonance is crucial. Is there a link with musical dissonance? I mean (and I'm only half-joking here): do people who listen to free jazz (for example) accept cognitive dissonance more easily? I liked the attempt at explaining how we tend to avoid cognitive dissonance from an evolutionary perspective: not avoiding cognitive dissonance leads to worrying, not sleeping well, being tired and, hence, not surviving well (that's my simplistic way of summing it up).</comments>
+  </podcast>
+  <podcast>
     <date>2020-11-19</date>
     <name url="https://peterattiamd.com/podcast/">The Peter Attia Drive Podcast</name>
     <episode url="https://peterattiamd.com/pauloffit/" number="137">Paul Offit, M.D.: An expert perspective on COVID-19 vaccines</episode>
