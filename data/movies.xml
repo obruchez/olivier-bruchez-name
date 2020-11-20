@@ -6046,30 +6046,36 @@
     <url>https://www.imdb.com/title/tt0386588/</url>
     <image>Hitch.jpg</image>
   </movie>
-  <!-- image missing -->
-  <!--
-    <url></url>
-    <image></image>
-  -->
   <movie>
     <date>2005-03-19</date>
     <theater>Casino, Martigny</theater>
     <title>Robots</title>
     <version>fr</version>
     <rating>4.5</rating>
+    <url>https://www.imdb.com/title/tt0358082/</url>
+    <image>Robots.jpg</image>
   </movie>
   <movie>
     <date>2005-03-03</date>
     <theater>Atlantic, Lausanne</theater>
     <title>Ray</title>
     <rating>4.5</rating>
+    <url>https://www.imdb.com/title/tt0350258/</url>
+    <image>Ray.jpg</image>
   </movie>
   <movie>
     <date>2005-02-24</date>
     <theater>Galeries, Lausanne</theater>
     <title>Finding Neverland</title>
     <rating>4.0</rating>
+    <url>https://www.imdb.com/title/tt0308644/</url>
+    <image>Finding Neverland.jpg</image>
   </movie>
+  <!-- image missing -->
+  <!--
+    <url></url>
+    <image></image>
+  -->
   <movie>
     <date>2005-02-19</date>
     <theater>Martigny</theater>
