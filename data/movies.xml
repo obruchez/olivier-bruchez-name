@@ -3,6 +3,26 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Checklist: add rating to IMDb -->
   <movie>
+    <date>2020-11-21</date>
+    <theater home="true"/>
+    <director>Noah Baumbach</director>
+    <title>Marriage Story</title>
+    <url>https://www.imdb.com/title/tt7653254/</url>
+    <rating>4.5</rating>
+    <comments>"Noah Baumbach's incisive and compassionate look at a marriage breaking up and a family staying together." (IMDb) It's a bit cliché at times, but it's also funny and moving.</comments>
+    <image>Marriage Story.jpg</image>
+  </movie>
+  <movie>
+    <date>2020-11-20</date>
+    <theater home="true"/>
+    <director>Steven Spielberg</director>
+    <title>Jaws</title>
+    <url>https://www.imdb.com/title/tt0073195/</url>
+    <rating>4.75</rating>
+    <comments>A classic. Very entertaining. Definitely not a bad movie. But it's a bit naive in some ways. Let's face it, it's mainly based on two ideas: 1) sharks are frightening 2) some (bad) people value money more than people's lives.</comments>
+    <image>Jaws.jpg</image>
+  </movie>
+  <movie>
     <date>2020-11-16</date>
     <theater home="true"/>
     <director>Denis Villeneuve</director>
