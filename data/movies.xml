@@ -6091,30 +6091,37 @@
     <url>https://www.imdb.com/title/tt0308644/</url>
     <image>Finding Neverland.jpg</image>
   </movie>
-  <!-- image missing -->
-  <!--
-    <url></url>
-    <image></image>
-  -->
   <movie>
     <date>2005-02-19</date>
     <theater>Martigny</theater>
-    <title>Mon Beau-Père, Mes Parents Et Moi</title>
+    <title>Meet the Fockers</title>
+    <title language="fr">Mon beau-père, mes parents et moi</title>
     <version>fr</version>
     <rating>4.0</rating>
+    <url>https://www.imdb.com/title/tt0290002/</url>
+    <image>Meet the Fockers.jpg</image>
   </movie>
   <movie>
     <date>2005-02-16</date>
     <theater>Galeries, Lausanne</theater>
-    <title>Mar Adentro</title>
+    <title>Mar adentro</title>
     <rating>5.0</rating>
+    <url>https://www.imdb.com/title/tt0369702/</url>
+    <image>Mar adentro.jpg</image>
   </movie>
   <movie>
     <date>2005-02-12</date>
     <theater>Cinéma de Verbier, Verbier</theater>
     <title>Kukushka</title>
     <rating>5.0</rating>
+    <url>https://www.imdb.com/title/tt0308476/</url>
+    <image>Kukushka.jpg</image>
   </movie>
+  <!-- image missing -->
+  <!--
+    <url></url>
+    <image></image>
+  -->
   <movie>
     <date>2005-02-02</date>
     <theater>Cine Qua Non, Lausanne</theater>
