@@ -6117,22 +6117,21 @@
     <url>https://www.imdb.com/title/tt0308476/</url>
     <image>Kukushka.jpg</image>
   </movie>
-  <!-- image missing -->
-  <!--
-    <url></url>
-    <image></image>
-  -->
   <movie>
     <date>2005-02-02</date>
     <theater>Cine Qua Non, Lausanne</theater>
     <title>Closer</title>
     <rating>4.5</rating>
+    <url>https://www.imdb.com/title/tt0376541/</url>
+    <image>Closer.jpg</image>
   </movie>
   <movie>
     <date>2005-01-19</date>
     <theater>Richemont, Lausanne</theater>
-    <title>Maria Full Of Grace</title>
+    <title>Maria Full of Grace</title>
     <rating>5.0</rating>
+    <url>https://www.imdb.com/title/tt0390221/</url>
+    <image>Maria Full of Grace.jpg</image>
   </movie>
   <movie>
     <date>2005-01-15</date>
@@ -6142,8 +6141,14 @@
     <title language="fr">Le Château Ambulant</title>
     <version>fr</version>
     <url>https://www.imdb.com/title/tt0347149/</url>
+    <image>Howl's Moving Castle.jpg</image>
     <rating>5.5</rating>
   </movie>
+  <!-- image missing -->
+  <!--
+    <url></url>
+    <image></image>
+  -->
   <movie>
     <date>2005-01-13</date>
     <theater home="true"/>
