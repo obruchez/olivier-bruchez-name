@@ -2,27 +2,39 @@
 
 My votes (in French). En Suisse, on ne plaisante pas avec la démocratie directe. :) J'essaie ici de documenter et de justifier la façon dont je me positionne par rapport aux votations fédérales, qui ont lieu jusqu'à quatre fois par année.
 
+## [Votation fédérale du 29 novembre 2020](https://www.admin.ch/gov/fr/accueil/documentation/votations/20201129.html)
+
+### Acceptez-vous l’initiative populaire « Entreprises responsables – pour protéger l’être humain et l’environnement » ?
+
+Oui. Résultat : ? (?.?%)
+
+### Acceptez-vous l’initiative populaire « Pour une interdiction du financement des producteurs de matériel de guerre » ?
+
+Oui. Résultat : ? (?.?%)
+
+###
+
 ## [Votation fédérale du 27 septembre 2020](https://www.admin.ch/gov/fr/accueil/documentation/votations/20200927.html)
 
 ### Acceptez-vous l’initiative populaire « Pour une immigration modérée (initiative de limitation) » ?
 
-Non. Résultat : ? (??.?%)
+Non. Résultat : non (61.7%)
 
 ### Acceptez-vous la modification du 27 septembre 2019 de la loi fédérale sur la chasse et la protection des mammifères et oiseaux sauvages (loi sur la chasse, LChP) ?
 
-Non. Résultat : ? (??.?%)
+Non. Résultat : non (51.9%)
 
 ### Acceptez-vous la modification du 27 septembre 2019 de la loi fédérale sur l’impôt fédéral direct (LIFD) (déduction fiscale des frais de garde des enfants par des tiers) ?
 
-Non. Résultat : ? (??.?%)
+Non. Résultat : non (63.2%)
 
 ### Acceptez-vous la modification du 27 septembre 2019 de la loi fédérale sur les allocations pour perte de gain en cas de service et de maternité (loi sur les allocations pour perte de gain, LAPG) ?
 
-Oui. Résultat : ? (??.?%)
+Oui. Résultat : oui (60.3%)
 
 ### Acceptez-vous l’arrêté fédéral du 20 décembre 2019 relatif à l’acquisition de nouveaux avions de combat ?
 
-Non. Résultat : ? (??.?%)
+Non. Résultat : oui (50.1%)
 
 ## [Votation fédérale du 9 février 2020](https://www.admin.ch/gov/fr/accueil/documentation/votations/20200209.html)
 
