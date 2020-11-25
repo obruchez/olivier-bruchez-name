@@ -3,10 +3,22 @@
   <introduction>A list of podcasts I listened to.</introduction>
   <!-- Podcast notes for David Sinclair interview with Rhonda Patrick: https://podcastnotes.org/found-my-fitness/david-sinclair-rhonda-patrick-nad-nr-nmn/ -->
   <podcast>
-    <date></date>
+    <date>2020-11-25</date>
     <name url="https://peterattiamd.com/podcast/">The Peter Attia Drive Podcast</name>
     <episode url="https://peterattiamd.com/vinayprasad/" number="133">Vinay Prasad, M.D., M.P.H: Hallmarks of successful cancer policy</episode>
-    <comments></comments>
+    <comments>A slightly less pessimistic view (I guess) of the situation than Azra Raza. Still, the situation is pretty bad. We need to allocate our financial ressources more rationally (among many other things).</comments>
+  </podcast>
+  <podcast>
+    <date>2020-11-25</date>
+    <name url="http://robesse.libsyn.com/">Obsessed by Music</name>
+    <episode url="https://robesse.libsyn.com/music-listening-as-the-main-activity">Listening To Music Like Nothing Else Matters</episode>
+    <comments>I don't remember the last time I listened to an album (or a recording) from start to finish, without doing anything else (e.g. driving, working, etc.). I should find a way to do it again. Maybe even regularly.</comments>
+  </podcast>
+  <podcast>
+    <date>2020-11-25</date>
+    <name url="https://www.rts.ch/play/radio/emission/le-point-j?id=11217536">Le point J</name>
+    <episode url="https://www.rts.ch/play/radio/le-point-j/audio/pourquoi-autant-de-botes-resistent-au-teletravail-?id=11753906">Pourquoi autant de boîtes résistent au télétravail ?</episode>
+    <comments>Il y a une inertie systémique, mais les choses finiront par changer. Les nouvelles générations ne veulent pas travailler comme les générations précédentes. Elles préfèrent une hiérarchie plus "plate". Elles ne considèrent pas le travail comme aussi important dans la vie que les générations précédentes.</comments>
   </podcast>
   <podcast>
     <date>2020-11-24</date>
@@ -18,7 +30,7 @@
     <date>2020-11-24</date>
     <name>Superchuckamania</name>
     <episode number="1">Episode 1</episode>
-    <comments>Just checking if they talk about they end of Peach &amp; Black.</comments>
+    <comments>Just checking if they talk about the end of Peach &amp; Black (answer: not really, at least not directly).</comments>
   </podcast>
   <podcast>
     <date>2020-11-21</date>
