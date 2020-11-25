@@ -6144,34 +6144,36 @@
     <image>Howl's Moving Castle.jpg</image>
     <rating>5.5</rating>
   </movie>
-  <!-- image missing -->
-  <!--
-    <url></url>
-    <image></image>
-  -->
   <movie>
     <date>2005-01-13</date>
     <theater home="true"/>
-    <title>L'Auberge Espagnole</title>
-    <version>fr</version>
+    <title>L'auberge espagnole</title>
     <rating>4.5</rating>
+    <url>https://www.imdb.com/title/tt0283900/</url>
+    <image>L'auberge espagnole.jpg</image>
   </movie>
   <movie>
     <date>2005-01-06</date>
     <title>National Treasure</title>
     <version>fr</version>
-    <url>https://www.imdb.com/title/tt0368891/</url>
     <rating>4.0</rating>
     <comments>Les méchants sont très méchants, limite horripilants. Les gentils résolvent les énigmes avec une facilité déconcertante. Le tout sur un fond d'histoire américaine, un peu trop lourd à mon goût. C'est plein de rebondissements et, somme toute, assez divertissant, mais ça manque cruellement d'auto-dérision.</comments>
+    <url>https://www.imdb.com/title/tt0368891/</url>
+    <image>National Treasure.jpg</image>
   </movie>
   <movie>
     <date>2005-01-05</date>
-    <title>Les Soeurs Fâchées</title>
-    <version>fr</version>
-    <url>https://www.imdb.com/title/tt0410639/</url>
+    <title>Les soeurs fâchées</title>
     <rating>3.5</rating>
     <comments>Ce film manque de relief. J'ai eu l'impression de revoir la même scène tout au long du film, comme si les personnages joués par Isabelle Huppert et Catherine Frot n'évoluaient pas et se disaient toujours la même chose. Pour une comédie, ça n'est pas très drôle et ça manque de dynamisme.</comments>
+    <url>https://www.imdb.com/title/tt0410639/</url>
+    <image>Les soeurs fâchées.jpg</image>
   </movie>
+  <!-- image missing -->
+  <!--
+    <url></url>
+    <image></image>
+  -->
   <movie>
     <date>2004-12-30</date>
     <director>Roman Polanski</director>
