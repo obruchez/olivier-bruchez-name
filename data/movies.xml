@@ -6169,30 +6169,34 @@
     <url>https://www.imdb.com/title/tt0410639/</url>
     <image>Les soeurs fâchées.jpg</image>
   </movie>
-  <!-- image missing -->
-  <!--
-    <url></url>
-    <image></image>
-  -->
   <movie>
     <date>2004-12-30</date>
     <director>Roman Polanski</director>
     <title>The Pianist</title>
-    <url>https://www.imdb.com/title/tt0253474/</url>
     <rating>5.5</rating>
+    <url>https://www.imdb.com/title/tt0253474/</url>
+    <image>The Pianist.jpg</image>
   </movie>
   <movie>
     <date>2004-12-29</date>
-    <title>Diarios De Motocicleta</title>
+    <title>Diarios de motocicleta</title>
     <rating>5.0</rating>
+    <url>https://www.imdb.com/title/tt0318462/</url>
+    <image>Diarios de motocicleta.jpg</image>
   </movie>
   <movie>
     <date>2004-12-27</date>
     <director>Roman Polanski</director>
     <title>The Ninth Gate</title>
-    <url>https://www.imdb.com/title/tt0142688/</url>
     <rating>4.0</rating>
+    <url>https://www.imdb.com/title/tt0142688/</url>
+    <image>The Ninth Gate.jpg</image>
   </movie>
+  <!-- image missing -->
+  <!--
+    <url></url>
+    <image></image>
+  -->
   <movie>
     <date>2004-12-26</date>
     <title>Le Pôle Express</title>
