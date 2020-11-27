@@ -6192,31 +6192,36 @@
     <url>https://www.imdb.com/title/tt0142688/</url>
     <image>The Ninth Gate.jpg</image>
   </movie>
-  <!-- image missing -->
-  <!--
-    <url></url>
-    <image></image>
-  -->
   <movie>
     <date>2004-12-26</date>
-    <title>Le Pôle Express</title>
+    <title>The Polar Express</title>
+    <title language="fr">Le Pôle express</title>
     <version>fr</version>
     <rating>4.5</rating>
+    <url>https://www.imdb.com/title/tt0338348/</url>
+    <image>The Polar Express.jpg</image>
   </movie>
   <movie>
     <date>2004-12-22</date>
     <director>Roman Polanski</director>
     <title>Death and the Maiden</title>
-    <url>https://www.imdb.com/title/tt0109579/</url>
     <rating>5.0</rating>
+    <url>https://www.imdb.com/title/tt0109579/</url>
+    <image>Death and the Maiden.jpg</image>
   </movie>
   <movie>
     <date>2004-12-20</date>
     <director>Roman Polanski</director>
     <title>Bitter Moon</title>
-    <url>https://www.imdb.com/title/tt0104779/</url>
     <rating>4.5</rating>
+    <url>https://www.imdb.com/title/tt0104779/</url>
+    <image>Bitter Moon.jpg</image>
   </movie>
+  <!-- image missing -->
+  <!--
+    <url></url>
+    <image></image>
+  -->
   <movie>
     <date>2004-12-16</date>
     <director>Roman Polanski</director>
