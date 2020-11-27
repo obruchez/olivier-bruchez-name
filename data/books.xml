@@ -2,6 +2,17 @@
 <books created="2006-08-20">
     <introduction>A list of books I read.</introduction>
     <book>
+        <date>2020-11-27</date>
+        <title>La Valse aux adieux</title>
+        <author>Milan Kundera</author>
+        <publishingyear>1972</publishingyear>
+        <rating>4.75</rating>
+        <url>https://fr.wikipedia.org/wiki/La_Valse_aux_adieux</url>
+        <notes description="Kindle highlights"></notes>
+        <comments>J'ai eu un peu de peine à entrer dans ce roman. Puis on se laisse emmener par ces destins croisés, par ces personnages dont la destinée leur échappe.</comments>
+        <image>La Valse aux adieux.jpg</image>
+    </book> 
+    <book>
         <date>2020-10-12</date>
         <title>Lifespan</title>
         <subtitle>Why We Age – and Why We Don't Have To</subtitle>
