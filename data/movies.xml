@@ -6217,32 +6217,35 @@
     <url>https://www.imdb.com/title/tt0104779/</url>
     <image>Bitter Moon.jpg</image>
   </movie>
-  <!-- image missing -->
-  <!--
-    <url></url>
-    <image></image>
-  -->
   <movie>
     <date>2004-12-16</date>
     <director>Roman Polanski</director>
     <title>Chinatown</title>
-    <url>http://www.imdb.de/title/tt0071315/</url>
     <rating>5.5</rating>
+    <url>https://www.imdb.com/title/tt0071315/</url>
+    <image>Chinatown.jpg</image>
   </movie>
   <movie>
     <date>2004-12-15</date>
     <director>Roman Polanski</director>
     <title>Pirates</title>
-    <url>https://www.imdb.com/title/tt0091757/</url>
     <rating>4.0</rating>
+    <url>https://www.imdb.com/title/tt0091757/</url>
+    <image>Pirates.jpg</image>
   </movie>
   <movie>
     <date>2004-12-14</date>
     <director>Roman Polanski</director>
     <title>Tess</title>
-    <url>https://www.imdb.com/title/tt0080009/</url>
     <rating>5.0</rating>
+    <url>https://www.imdb.com/title/tt0080009/</url>
+    <image>Tess.jpg</image>
   </movie>
+  <!-- image missing -->
+  <!--
+    <url></url>
+    <image></image>
+  -->
   <movie>
     <date>2004-12-13</date>
     <director>Roman Polanski</director>
