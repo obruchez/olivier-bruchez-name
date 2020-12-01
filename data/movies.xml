@@ -6241,31 +6241,35 @@
     <url>https://www.imdb.com/title/tt0080009/</url>
     <image>Tess.jpg</image>
   </movie>
-  <!-- image missing -->
-  <!--
-    <url></url>
-    <image></image>
-  -->
   <movie>
     <date>2004-12-13</date>
     <director>Roman Polanski</director>
     <title>The Tenant</title>
     <title language="fr">Le Locataire</title>
-    <url>https://www.imdb.com/title/tt0074811/</url>
     <rating>5.0</rating>
+    <url>https://www.imdb.com/title/tt0074811/</url>
+    <image></image>
   </movie>
   <movie>
     <date>2004-12-11</date>
     <director>Roman Polanski</director>
     <title>Rosemary's Baby</title>
-    <url>https://www.imdb.com/title/tt0063522/</url>
     <rating>5.5</rating>
+    <url>https://www.imdb.com/title/tt0063522/</url>
+    <image>Rosemary's Baby.jpg</image>
   </movie>
   <movie>
     <date>2004-12-09</date>
     <title>Whisky</title>
     <rating>5.0</rating>
+    <url>https://www.imdb.com/title/tt0331370/</url>
+    <image>Whisky.jpg</image>
   </movie>
+  <!-- image missing -->
+  <!--
+    <url></url>
+    <image></image>
+  -->
   <movie>
     <date>2004-12-07</date>
     <director>Roman Polanski</director>
