@@ -3,6 +3,12 @@
   <introduction>A list of podcasts I listened to.</introduction>
   <!-- Podcast notes for David Sinclair interview with Rhonda Patrick: https://podcastnotes.org/found-my-fitness/david-sinclair-rhonda-patrick-nad-nr-nmn/ -->
   <podcast>
+    <date></date>
+    <name url="https://peterattiamd.com/podcast/">The Peter Attia Drive Podcast</name>
+    <episode url="https://peterattiamd.com/jamesokeefe/" number="134">James O’Keefe, M.D.: Preventing cardiovascular disease and the risk of too much exercise</episode>
+    <comments>For longevity, running 5 miles a week (i.e. 8 km) is enough. I should know my resting heart rate. It should be low rather than high. I should also focus more on day-to-day exercise, like walking (between 10'0000 and 20'000 steps a day would be good). I definitely don't walk enough. Also, playing and socializing are important.</comments>
+  </podcast>
+  <podcast>
     <date>2020-11-29</date>
     <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
     <episode url="https://samharris.org/podcasts/226-price-distraction/" number="226">The Price of Distraction - A Conversation with Adam Gazzaley</episode>
