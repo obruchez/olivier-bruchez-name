@@ -6265,28 +6265,34 @@
     <url>https://www.imdb.com/title/tt0331370/</url>
     <image>Whisky.jpg</image>
   </movie>
-  <!-- image missing -->
-  <!--
-    <url></url>
-    <image></image>
-  -->
   <movie>
     <date>2004-12-07</date>
     <director>Roman Polanski</director>
     <title>Cul-de-sac</title>
-    <url>https://www.imdb.com/title/tt0060268/</url>
     <rating>5.0</rating>
+    <url>https://www.imdb.com/title/tt0060268/</url>
+    <image>Cul-de-sac.jpg</image>
   </movie>
   <movie>
     <date>2004-12-04</date>
-    <title>Bridget Jones : L'Âge De Raison</title>
+    <title>Bridget Jones: The Edge of Reason</title>
+    <title language="fr">Bridget Jones : L'Âge de raison</title>
     <version>fr</version>
+    <url>https://www.imdb.com/title/tt0317198/</url>
+    <image>Bridget Jones - The Edge of Reason.jpg</image>
   </movie>
   <movie>
     <date>2004-12-02</date>
     <title>Narco</title>
     <version>fr</version>
+    <url>https://www.imdb.com/title/tt0381442/</url>
+    <image>Narco.jpg</image>
   </movie>
+  <!-- image missing -->
+  <!--
+    <url></url>
+    <image></image>
+  -->
   <movie>
     <date>2004-11-25</date>
     <title>Le Secret Du Ninja</title>
