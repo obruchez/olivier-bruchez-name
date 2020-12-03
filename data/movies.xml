@@ -6288,23 +6288,30 @@
     <url>https://www.imdb.com/title/tt0381442/</url>
     <image>Narco.jpg</image>
   </movie>
+  <movie>
+    <date>2004-11-25</date>
+    <title>Shinobi no mono</title>
+    <title language="fr">Le secret du ninja</title>
+    <url>https://www.imdb.com/title/tt0164882/</url>
+    <image>Shinobi no mono.jpg</image>
+  </movie>
+  <movie>
+    <date>2004-11-24</date>
+    <title>Waterboys</title>
+    <url>https://www.imdb.com/title/tt0299213/</url>
+    <image>Waterboys.jpg</image>
+  </movie>
+  <movie>
+    <date>2004-11-23</date>
+    <title>2046</title>
+    <url>https://www.imdb.com/title/tt0212712/</url>
+    <image>2046.jpg</image>
+  </movie>
   <!-- image missing -->
   <!--
     <url></url>
     <image></image>
   -->
-  <movie>
-    <date>2004-11-25</date>
-    <title>Le Secret Du Ninja</title>
-  </movie>
-  <movie>
-    <date>2004-11-24</date>
-    <title>Waterboys</title>
-  </movie>
-  <movie>
-    <date>2004-11-23</date>
-    <title>2046</title>
-  </movie>
   <movie>
     <date>2004-11-18</date>
     <title>Comme Une Image</title>
