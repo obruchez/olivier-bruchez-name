@@ -6307,20 +6307,17 @@
     <url>https://www.imdb.com/title/tt0212712/</url>
     <image>2046.jpg</image>
   </movie>
-  <!-- image missing -->
-  <!--
-    <url></url>
-    <image></image>
-  -->
   <movie>
     <date>2004-11-18</date>
-    <title>Comme Une Image</title>
-    <version>fr</version>
+    <title>Comme une image</title>
+    <url>https://www.imdb.com/title/tt0374583/</url>
+    <image>Comme une image.jpg</image>
   </movie>
   <movie>
     <date>2004-11-03</date>
-    <title>Un Long Dimanche De Fiançailles</title>
-    <version>fr</version>
+    <title>Un long dimanche de fiançailles</title>
+    <url>https://www.imdb.com/title/tt0344510/</url>
+    <image>Un long dimanche de fiançailles.jpg</image>
   </movie>
   <movie>
     <date>2004-10-27</date>
@@ -6331,9 +6328,15 @@
   </movie>
   <movie>
     <date>2004-10-06</date>
-    <title>Vipère Au Poing</title>
-    <version>fr</version>
+    <title>Vipère au poing</title>
+    <url>https://www.imdb.com/title/tt0380798/</url>
+    <image>Vipère au poing.jpg</image>
   </movie>
+  <!-- image missing -->
+  <!--
+    <url></url>
+    <image></image>
+  -->
   <movie>
     <date>2004-09-30</date>
     <title>Collateral</title>
