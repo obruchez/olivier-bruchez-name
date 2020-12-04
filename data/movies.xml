@@ -3,6 +3,27 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Checklist: add rating to IMDb -->
   <movie>
+    <date>2020-12-03</date>
+    <theater home="true"/>
+    <director>David Lynch</director>
+    <title>What Did Jack Do?</title>
+    <url>https://www.imdb.com/title/tt11644096/</url>
+    <rating>4.5</rating>
+    <comments>Not the greatest thing David Lynch has ever done, but that was somewhat fun.</comments>
+    <image>What Did Jack Do.jpg</image>
+  </movie>
+  <movie>
+    <date>2020-12-03</date>
+    <theater home="true"/>
+    <director>Akira Kurosawa</director>
+    <title>Tengoku to jigoku</title>
+    <title language="en">High and Low</title>
+    <url>https://www.imdb.com/title/tt0057565/</url>
+    <rating>5.0</rating>
+    <comments>I'm usually not a fan of the police/detective genre, but this was particularly good. <a href="https://www.criterion.com/current/posts/6622-without-motive-the-last-scene-in-high-and-low">The last scene</a> is unsettling.</comments>
+    <image>Tengoku to jigoku.jpg</image>
+  </movie>
+  <movie>
     <date>2020-11-21</date>
     <theater home="true"/>
     <director>Noah Baumbach</director>
