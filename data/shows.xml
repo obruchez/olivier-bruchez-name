@@ -16,6 +16,13 @@
     <image>The Twilight Zone.jpg</image>
   </show>
   <show>
+    <date></date>
+    <name url="https://en.wikipedia.org/wiki/This_Is_Us_(TV_series)">This Is Us</name>
+    <series url="https://en.wikipedia.org/wiki/This_Is_Us_(season_5)" type="season">5</series>
+    <comments></comments>
+    <image>This Is Us.jpg</image>
+  </show>
+  <show>
     <date>2020-10-19</date>
     <name url="https://en.wikipedia.org/wiki/The_Twilight_Zone_(1959_TV_series)">The Twilight Zone</name>
     <series url="https://en.wikipedia.org/wiki/The_Twilight_Zone_(1959_TV_series,_season_4)" type="season">4</series>
