@@ -6353,11 +6353,6 @@
     <url>https://www.imdb.com/title/tt0380798/</url>
     <image>Vipère au poing.jpg</image>
   </movie>
-  <!-- image missing -->
-  <!--
-    <url></url>
-    <image></image>
-  -->
   <movie>
     <date>2004-09-30</date>
     <title>Collateral</title>
@@ -6458,7 +6453,6 @@
     <director>Stanley Kubrick</director>
     <title>A Clockwork Orange</title>
     <url>https://www.imdb.com/title/tt0066921/</url>
-    <rating></rating>
     <comments></comments>
     <image>A Clockwork Orange.jpg</image>
   </movie>
