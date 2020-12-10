@@ -3,6 +3,36 @@
   <introduction>A list of podcasts I listened to.</introduction>
   <!-- Podcast notes for David Sinclair interview with Rhonda Patrick: https://podcastnotes.org/found-my-fitness/david-sinclair-rhonda-patrick-nad-nr-nmn/ -->
   <podcast>
+    <date>2020-12-08</date>
+    <name url="http://robesse.libsyn.com/">Obsessed by Music</name>
+    <episode url="https://robesse.libsyn.com/remember-instrumental-music">Remember Instrumental Music?</episode>
+    <comments>In other words: is it easier or harder to remember a piece of music without lyrics? Probably a bit harder, but not by much. If a song includes someone singing, it doesn't mean I don't need a strong melody, a good arrangement, etc. I don't think there's a huge difference between instrumental and vocal music in that sense.</comments>
+  </podcast>
+  <podcast>
+    <date>2020-12-08</date>
+    <name url="http://robesse.libsyn.com/">Obsessed by Music</name>
+    <episode url="https://robesse.libsyn.com/feeling-the-music">Feeling The Music!</episode>
+    <comments>This is true for music, as well as everything else: spend as little time as possible on things you don't like. In that case: on music that doesn't move you in any way.</comments>
+  </podcast>
+  <podcast>
+    <date>2020-12-08</date>
+    <name url="http://robesse.libsyn.com/">Obsessed by Music</name>
+    <episode url="https://robesse.libsyn.com/missing-a-concert-regretting-it">Missing A Concert And Regretting It</episode>
+    <comments>A good reminder that we should see the artists we like live while we still can (they're not immortal; and we're not, either).</comments>
+  </podcast>
+  <podcast>
+    <date>2020-12-08</date>
+    <name url="https://peterattiamd.com/podcast/">The Peter Attia Drive Podcast</name>
+    <episode url="https://peterattiamd.com/laurenmillerrogen-richardisaacson/" number="138">Lauren Miller Rogen and Richard Isaacson, M.D.: Alzheimer’s disease prevention—patient and doctor perspectives</episode>
+    <comments>I will test my homocysteine levels in a few weeks. It should be low. High homocysteine seems to be bad for a lot of things. B vitamins and TMG can help if needed. For persons with a high risk of developing Alzheimer’s disease, 2 g a days of omega 3 is recommended. I'm at 850 mg a day (without counting food). An omega 3 index of 12-14 is desirable. Last time I checked, I was at 14.4. Good. Curcumin is a good idea (Richard mentions an optimised supplement with nanoparticles - it doesn't seem widely available). This is something I've been taking for years as well. Richard and Peter seem to somewhat disagree about ApoB vs LDL-P. I will check my ApoB level in a few weeks as well. Richard also mentions a blood test for transfats. Peter likes magnesium l-threonate. I've used it for some time, but it's quite expensive. I'm currently taking magnesium malate and glycinate.</comments>
+  </podcast>
+  <podcast>
+    <date>2020-12-08</date>
+    <name>Superchuckamania</name>
+    <episode number="4">Episode 4</episode>
+    <comments>See episodes 1-3. They seem to be a little less bitter about Peach &amp; Black, this time.</comments>
+  </podcast>
+  <podcast>
     <date>2020-12-06</date>
     <name url="https://peterattiamd.com/podcast/">The Peter Attia Drive Podcast</name>
     <episode url="https://peterattiamd.com/jamesokeefe/" number="134">James O’Keefe, M.D.: Preventing cardiovascular disease and the risk of too much exercise</episode>
@@ -18,7 +48,7 @@
     <date>2020-11-28</date>
     <name>Superchuckamania</name>
     <episode number="3">Episode 3</episode>
-    <comments>See episodes 2 and 3.</comments>
+    <comments>See episodes 1 and 2.</comments>
   </podcast>
   <podcast>
     <date>2020-11-28</date>
