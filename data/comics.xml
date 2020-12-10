@@ -2,6 +2,15 @@
 <comics created="2017-01-28">
   <introduction>A list of comics I read.</introduction>
   <comic>
+    <date>2020-12-08</date>
+    <writer>Greg</writer>
+    <artist>Greg</artist>
+    <series url="https://fr.wikipedia.org/wiki/Achille_Talon">Achille Talon</series>
+    <volume url="https://fr.wikipedia.org/wiki/Les_Id%C3%A9es_d%27Achille_Talon,_cerveau-choc_!" number="1">Les Idées d'Achille Talon, cerveau-choc !</volume>
+    <comments>Le dessin est encore imparfait. Les gags sont parfois un peu naïfs. La personnalité d'Achille Talon est encore mal définie. Mais l'essentiel est déjà là.</comments>
+    <image>Achille Talon - Les Idées d'Achille Talon, cerveau-choc !.jpg</image>
+  </comic>
+  <comic>
     <date>2020-11-22</date>
     <writer>Don Rosa</writer>
     <artist>Don Rosa</artist>
