@@ -28,6 +28,7 @@
 * [Loin de ce monde](http://www.imdb.com/title/tt0092423/)
 * [MacGyver](http://www.imdb.com/title/tt0088559/)
 * [Maguy](http://www.imdb.com/title/tt0167643/)
+* [Monstres et Merveilles](https://www.imdb.com/title/tt0092383/) (The Storyteller, en anglais)
 * [Monty Python's Flying Circus](http://www.imdb.com/title/tt0063929/)
 * [Parker Lewis ne perd jamais](http://www.imdb.com/title/tt0098888/)
 * [Petite Merveille](http://www.imdb.com/title/tt0088610/) (passait sur la TSR ?)
@@ -50,7 +51,6 @@
 * potion dans le village africain, puis retour à Paris (vu chez Bertrand G. ?)
 * série avec bande de jeunes en France (Club des 5 ???) (5 enfants en vacances qui résolvaient des énigmes)
 * série avec expression "mystère et boule de gomme" et "catastrophe numéro un" (rapport avec [Mystères et bulles de gomme](https://fr.wikipedia.org/wiki/Myst%C3%A8res_et_bulles_de_gomme) ou pas du tout ?)
-* série que je confonds avec Tales from the Crypt (contes, qqn près du feu, avec un chien, images en ombres et avec des acteurs humains)
 
 ## Dessins animés
 
