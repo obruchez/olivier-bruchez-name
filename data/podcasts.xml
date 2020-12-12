@@ -3,6 +3,12 @@
   <introduction>A list of podcasts I listened to.</introduction>
   <!-- Podcast notes for David Sinclair interview with Rhonda Patrick: https://podcastnotes.org/found-my-fitness/david-sinclair-rhonda-patrick-nad-nr-nmn/ -->
   <podcast>
+    <date>2020-12-12</date>
+    <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
+    <episode url="https://samharris.org/podcasts/227-knowing-mind/" number="227">Knowing the Mind - A Conversation with Steven Laureys</episode>
+    <comments>A lot of things I've already heard Sam talk about. It's maybe the first time I hear him mention his (first?) MDMA experience, though.</comments>
+  </podcast>
+  <podcast>
     <date>2020-12-08</date>
     <name url="http://robesse.libsyn.com/">Obsessed by Music</name>
     <episode url="https://robesse.libsyn.com/remember-instrumental-music">Remember Instrumental Music?</episode>
