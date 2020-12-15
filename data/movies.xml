@@ -3,6 +3,16 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Checklist: add rating to IMDb -->
   <movie>
+    <date>2020-12-15</date>
+    <theater home="true"/>
+    <director>Chuck Jones</director>
+    <title>Duck Amuck</title>
+    <url>https://www.imdb.com/title/tt0045708/</url>
+    <rating>4.75</rating>
+    <comments>Is a cartoon character aware that she/he is in a cartoon? Sometimes, yes.</comments>
+    <image>Duck Amuck.jpg</image>
+  </movie>
+  <movie>
     <date>2020-12-14</date>
     <theater home="true"/>
     <director>Guy Ritchie</director>
