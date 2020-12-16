@@ -3,6 +3,24 @@
   <introduction>A list of podcasts I listened to.</introduction>
   <!-- Podcast notes for David Sinclair interview with Rhonda Patrick: https://podcastnotes.org/found-my-fitness/david-sinclair-rhonda-patrick-nad-nr-nmn/ -->
   <podcast>
+    <date>2020-12-16</date>
+    <name url="http://robesse.libsyn.com/">Obsessed by Music</name>
+    <episode url="https://robesse.libsyn.com/the-greatest-musical-artist-of-each-era">The Greatest Musical Artist of Each Era</episode>
+    <comments></comments>
+  </podcast>
+  <podcast>
+    <date>2020-12-16</date>
+    <name url="http://robesse.libsyn.com/">Obsessed by Music</name>
+    <episode url="https://robesse.libsyn.com/the-music-of-1996-holy-moly">The Music of 1996 Still Sticks</episode>
+    <comments>I guess I'm not musically well-educated enough to have a good idea of what "the music of 1996" is. :) And I would tend to say that it doesn't really matter.</comments>
+  </podcast>
+  <podcast>
+    <date>2020-12-16</date>
+    <name>Superchuckamania</name>
+    <episode number="5">Episode 5</episode>
+    <comments>See episodes 4.</comments>
+  </podcast>
+  <podcast>
     <date>2020-12-12</date>
     <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
     <episode url="https://samharris.org/podcasts/227-knowing-mind/" number="227">Knowing the Mind - A Conversation with Steven Laureys</episode>
