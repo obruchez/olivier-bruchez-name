@@ -2,6 +2,15 @@
 <comics created="2017-01-28">
   <introduction>A list of comics I read.</introduction>
   <comic>
+    <date>2020-12-15</date>
+    <writer>Greg</writer>
+    <artist>Greg</artist>
+    <series url="https://fr.wikipedia.org/wiki/Achille_Talon">Achille Talon</series>
+    <volume url="https://fr.wikipedia.org/wiki/Achille_Talon_aggrave_son_cas_!" number="2">Achille Talon aggrave son cas !</volume>
+    <comments>Papa Talon et Goscinny font leur apparition. On est déjà loin des imperfections du premier tome.</comments>
+    <image>Achille Talon - Achille Talon aggrave son cas !.jpg</image>
+  </comic>
+  <comic>
     <date>2020-12-08</date>
     <writer>Greg</writer>
     <artist>Greg</artist>
