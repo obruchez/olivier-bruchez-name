@@ -3,6 +3,12 @@
   <introduction>A list of podcasts I listened to.</introduction>
   <!-- Podcast notes for David Sinclair interview with Rhonda Patrick: https://podcastnotes.org/found-my-fitness/david-sinclair-rhonda-patrick-nad-nr-nmn/ -->
   <podcast>
+    <date>2020-12-17</date>
+    <name url="https://peterattiamd.com/podcast/">The Peter Attia Drive Podcast</name>
+    <episode url="https://peterattiamd.com/bjmiller/" number="135">BJ Miller, M.D.: How understanding death leads to a better life</episode>
+    <comments>I often think about death in a philosophical context, but I tend to forget that it is a very practical matter. "People die much more miserable than they need to because they haven't dared to look at this thing called death before it's too late." —BJ Miller</comments>
+  </podcast>
+  <podcast>
     <date>2020-12-16</date>
     <name url="http://robesse.libsyn.com/">Obsessed by Music</name>
     <episode url="https://robesse.libsyn.com/the-greatest-musical-artist-of-each-era">The Greatest Musical Artist of Each Era</episode>
