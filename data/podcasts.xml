@@ -3,6 +3,12 @@
   <introduction>A list of podcasts I listened to.</introduction>
   <!-- Podcast notes for David Sinclair interview with Rhonda Patrick: https://podcastnotes.org/found-my-fitness/david-sinclair-rhonda-patrick-nad-nr-nmn/ -->
   <podcast>
+    <date>2020-12-19</date>
+    <name>Superchuckamania</name>
+    <episode number="6">Episode 6</episode>
+    <comments>An episode about Stephen King.</comments>
+  </podcast>
+  <podcast>
     <date>2020-12-17</date>
     <name url="https://peterattiamd.com/podcast/">The Peter Attia Drive Podcast</name>
     <episode url="https://peterattiamd.com/bjmiller/" number="135">BJ Miller, M.D.: How understanding death leads to a better life</episode>
