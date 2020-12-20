@@ -2,6 +2,15 @@
 <comics created="2017-01-28">
   <introduction>A list of comics I read.</introduction>
   <comic>
+    <date>2020-12-20</date>
+    <writer>Greg</writer>
+    <artist>Greg</artist>
+    <series url="https://fr.wikipedia.org/wiki/Achille_Talon">Achille Talon</series>
+    <volume url="https://fr.wikipedia.org/wiki/Achille_Talon_persiste_et_signe" number="3">Achille Talon persiste et signe</volume>
+    <comments>Maman Talon fait son apparition. De plus en plus de gags autour du journal Polite/Pilote.</comments>
+    <image>Achille Talon - Achille Talon persiste et signe.jpg</image>
+  </comic>
+  <comic>
     <date>2020-12-15</date>
     <writer>Greg</writer>
     <artist>Greg</artist>
