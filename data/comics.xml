@@ -2,6 +2,15 @@
 <comics created="2017-01-28">
   <introduction>A list of comics I read.</introduction>
   <comic>
+    <date>2020-12-24</date>
+    <writer>Greg</writer>
+    <artist>Greg</artist>
+    <series url="https://fr.wikipedia.org/wiki/Achille_Talon">Achille Talon</series>
+    <volume url="https://fr.wikipedia.org/wiki/Mon_fils_%C3%A0_moi_!" number="4">Mon fils à moi !</volume>
+    <comments>Le père et la mère d'Achille sont particulièrement présents dans ce tome.</comments>
+    <image>Achille Talon - Mon fils à moi !.jpg</image>
+  </comic>
+  <comic>
     <date>2020-12-20</date>
     <writer>Greg</writer>
     <artist>Greg</artist>
