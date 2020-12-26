@@ -2,6 +2,15 @@
 <comics created="2017-01-28">
   <introduction>A list of comics I read.</introduction>
   <comic>
+    <date>2020-12-26</date>
+    <writer>Greg</writer>
+    <artist>Greg</artist>
+    <series url="https://fr.wikipedia.org/wiki/Achille_Talon">Achille Talon</series>
+    <volume url="https://fr.wikipedia.org/wiki/L%27Indispensable_Achille_Talon" number="5">L'Indispensable Achille Talon</volume>
+    <comments>Le style se précise. Clairement le meilleur tome jusque là.</comments>
+    <image>Achille Talon - L'Indispensable Achille Talon.jpg</image>
+  </comic>
+  <comic>
     <date>2020-12-24</date>
     <writer>Greg</writer>
     <artist>Greg</artist>
