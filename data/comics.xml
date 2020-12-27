@@ -2,6 +2,15 @@
 <comics created="2017-01-28">
   <introduction>A list of comics I read.</introduction>
   <comic>
+    <date>2020-12-27</date>
+    <writer>Greg</writer>
+    <artist>Greg</artist>
+    <series url="https://fr.wikipedia.org/wiki/Achille_Talon">Achille Talon</series>
+    <volume url="https://fr.wikipedia.org/wiki/Les_Insolences_d%27Achille_Talon" number="7">Les Insolences d'Achille Talon</volume>
+    <comments>De plus en plus de mises en abyme. Une assez longue série de gags sur un "burn out" d'Achille.</comments>
+    <image>Achille Talon - Les Insolences d'Achille Talon.jpg</image>
+  </comic>
+  <comic>
     <date>2020-12-26</date>
     <writer>Greg</writer>
     <artist>Greg</artist>
