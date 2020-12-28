@@ -3,6 +3,16 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Checklist: add rating to IMDb -->
   <movie>
+    <date>2020-12-28</date>
+    <theater home="true"/>
+    <director>Michael Powell &amp; Emeric Pressburger</director>
+    <title>The Red Shoes</title>
+    <url>https://www.imdb.com/title/tt0040725/</url>
+    <rating>5.25</rating>
+    <comments>The surreal/dreamlike middle section (<i>The Ballet of the Red Shoes</i>) is a masterpiece in itself.</comments>
+    <image>The Red Shoes.jpg</image>
+  </movie>
+  <movie>
     <date>2020-12-15</date>
     <theater home="true"/>
     <director>Chuck Jones</director>
