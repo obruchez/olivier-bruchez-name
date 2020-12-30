@@ -2,6 +2,15 @@
 <comics created="2017-01-28">
   <introduction>A list of comics I read.</introduction>
   <comic>
+    <date>2020-12-30</date>
+    <writer>Greg</writer>
+    <artist>Greg</artist>
+    <series url="https://fr.wikipedia.org/wiki/Achille_Talon">Achille Talon</series>
+    <volume url="https://fr.wikipedia.org/wiki/Achille_Talon_m%C3%A9prise_l%27obstacle" number="8">Achille Talon méprise l'obstacle</volume>
+    <comments>Un bon tome, avec moins de gags en mode "remplissage".</comments>
+    <image>Achille Talon - Achille Talon méprise l'obstacle.jpg</image>
+  </comic>
+  <comic>
     <date>2020-12-29</date>
     <writer>Roger Leloup</writer>
     <artist>Roger Leloup</artist>
