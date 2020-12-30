@@ -3,9 +3,21 @@
   <introduction>A list of podcasts I listened to.</introduction>
   <!-- Podcast notes for David Sinclair interview with Rhonda Patrick: https://podcastnotes.org/found-my-fitness/david-sinclair-rhonda-patrick-nad-nr-nmn/ -->
   <podcast>
+    <date>2020-12-30</date>
+    <name>Superchuckamania</name>
+    <episode number="7">Xmas Camping Special</episode>
+    <comments>An episode about camping and "having nothing to do".</comments>
+  </podcast>
+  <podcast>
+    <date>2020-12-30</date>
+    <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
+    <episode url="https://samharris.org/subscriber-extras/228-doing-good/" number="228">Doing Good - A Conversation with William MacAskill</episode>
+    <comments>I've been giving 2% of my net salary to GiveWell charities for a few years now. That's better than nothing, but still far from 10%. In 2021, I will give 3%. It's a modest step, but a step up nevertheless. Being a vegetarian in itself is ethical (William MacAskill has been vegetarian for 15 years), but it's not that impactful. Just like not taking planes for vacations is maybe a good thing, but not that impactful either. What's impactful is to give money to charities that are doing good work in those fields (animal welfare and climate). In 2021, I will start giving money to animal welfare and climate charities as well.</comments>
+  </podcast>
+  <podcast>
     <date>2020-12-19</date>
     <name>Superchuckamania</name>
-    <episode number="6">Episode 6</episode>
+    <episode number="6">Stephen King special</episode>
     <comments>An episode about Stephen King.</comments>
   </podcast>
   <podcast>
