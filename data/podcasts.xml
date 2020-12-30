@@ -3,6 +3,30 @@
   <introduction>A list of podcasts I listened to.</introduction>
   <!-- Podcast notes for David Sinclair interview with Rhonda Patrick: https://podcastnotes.org/found-my-fitness/david-sinclair-rhonda-patrick-nad-nr-nmn/ -->
   <podcast>
+    <date></date>
+    <name url="http://robesse.libsyn.com/">Obsessed by Music</name>
+    <episode url="https://robesse.libsyn.com/thoughts-on-audio-equipment-for-music-listening-part-3">Thoughts On Audio Equipment For Music Listening (Part 3)</episode>
+    <comments>.</comments>
+  </podcast>
+  <podcast>
+    <date>2020-12-30</date>
+    <name url="http://robesse.libsyn.com/">Obsessed by Music</name>
+    <episode url="https://robesse.libsyn.com/thoughts-on-audio-equipment-for-music-listening-part-2">Thoughts On Audio Equipment For Music Listening (Part 2)</episode>
+    <comments>See part 3.</comments>
+  </podcast>
+  <podcast>
+    <date>2020-12-30</date>
+    <name url="http://robesse.libsyn.com/">Obsessed by Music</name>
+    <episode url="https://robesse.libsyn.com/thoughts-on-audio-equipment-for-music-listening">Thoughts On Audio Equipment For Music Listening (Part 1)</episode>
+    <comments>See part 3.</comments>
+  </podcast>
+  <podcast>
+    <date>2020-12-30</date>
+    <name url="https://peterattiamd.com/podcast/">The Peter Attia Drive Podcast</name>
+    <episode url="https://peterattiamd.com/kristinneff/" number="139">Kristin Neff, Ph.D.: The power of self-compassion</episode>
+    <comments>Talk to yourself like you would talk to a friend. Stop criticizing yourself. It can help a lot. Neff mentioned IFS (Internal Family Systems). That's something I studied a few years ago.</comments>
+  </podcast>
+  <podcast>
     <date>2020-12-30</date>
     <name>Superchuckamania</name>
     <episode number="7">Xmas Camping Special</episode>
