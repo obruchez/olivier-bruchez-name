@@ -2,6 +2,11 @@
 <articles created="2017-01-11">
   <introduction>A list of articles I read.</introduction>
   <article>
+    <date>2020-12-31</date>
+    <title url="https://qvault.io/2020/09/17/very-basic-intro-to-elliptic-curve-cryptography/">(Very) Basic Intro To Elliptic Curve Cryptography</title>
+    <comments>"There are many types of public-key cryptography, and Elliptic Curve Cryptography is just one flavor. Other algorithms include RSA, Diffie-Helman, etc. [...] The trapdoor function is similar to a mathematical game of pool. First, we start with a certain point on the curve. Next, we use a function (called the dot function) to find a new point. Finally, we keep repeating the dot function to hop around the curve until we finally end up at our last point. [...] This is a great trapdoor function because if you know where the starting point (A) is and how many hops are required to get to the ending point (E), it is very easy to find the ending point. On the other hand, if all you know is where the starting point and ending point are, it is nearly impossible to find how many hops it took to get there."</comments>
+  </article>
+  <article>
     <date>2020-12-27</date>
     <title url="https://www.economist.com/briefing/2020/01/18/back-pain-is-a-massive-problem-which-is-badly-treated">Back pain is a massive problem which is badly treated</title>
     <subtitle>Why are better approaches to helping sufferers so slow to spread?</subtitle>
