@@ -4,7 +4,7 @@
   <show>
     <date></date>
     <name url="https://en.wikipedia.org/wiki/Bob's_Burgers">Bob's Burgers</name>
-    <series url="https://en.wikipedia.org/wiki/Bob%27s_Burgers_(season_6)" type="season">6</series>
+    <series url="https://en.wikipedia.org/wiki/Bob%27s_Burgers_(season_7)" type="season">7</series>
     <comments></comments>
     <image>Bob's Burgers.jpg</image>
   </show>
@@ -111,6 +111,13 @@
     <series url="https://en.wikipedia.org/wiki/This_Is_Us_(season_4)" type="season">4</series>
     <comments>An enjoyable season, with the first signs of over-the-top elements (i.e. just included for their dramatic impact).</comments>
     <image>This Is Us.jpg</image>
+  </show>
+  <show>
+    <date>2020-03-06</date>
+    <name url="https://en.wikipedia.org/wiki/Bob's_Burgers">Bob's Burgers</name>
+    <series url="https://en.wikipedia.org/wiki/Bob%27s_Burgers_(season_6)" type="season">6</series>
+    <comments>We finished this season without even realizing it (I'm writing this on January 1, 2021). This means that we haven't watched a single episode of <i>Bob's Burgers</i> for the remainder of the year.</comments>
+    <image>Bob's Burgers.jpg</image>
   </show>
   <show>
     <date>2019-12-23</date>
