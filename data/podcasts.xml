@@ -3,6 +3,12 @@
   <introduction>A list of podcasts I listened to.</introduction>
   <!-- Podcast notes for David Sinclair interview with Rhonda Patrick: https://podcastnotes.org/found-my-fitness/david-sinclair-rhonda-patrick-nad-nr-nmn/ -->
   <podcast>
+    <date></date>
+    <name url="http://verybadwizards.com/">Very Bad Wizards</name>
+    <episode url="https://www.verybadwizards.com/194" number="194">God Has No Mother (with Chris Matheson)</episode>
+    <comments></comments>
+  </podcast>
+  <podcast>
     <date>2021-01-01</date>
     <name url="http://robesse.libsyn.com/">Obsessed by Music</name>
     <episode url="https://robesse.libsyn.com/george-michael-the-artist-you-may-not-fully-know">George Michael - The Artist You May Not Fully Know</episode>
@@ -131,7 +137,7 @@
   <podcast>
     <date>2020-11-28</date>
     <name url="http://verybadwizards.com/">Very Bad Wizards</name>
-    <episode url="https://verybadwizards.fireside.fm/193" number="193">Free Wanting (Frankfurt's "Freedom of the Will and the Concept of a Person")</episode>
+    <episode url="https://www.verybadwizards.com/193" number="193">Free Wanting (Frankfurt's "Freedom of the Will and the Concept of a Person")</episode>
     <comments>Frankfurt's hierarchical ordering of desires is a useful concept. Whether your main desire and higher-order desires are aligned or not leads to very different psychological situations. The part about free will was confusing. Or maybe I'm just tired of hearing about that topic. This is probably a confirmation bias, but for me it just proves that the concept of free will is useless and should be avoided. It seems to me that it never adds any clarity to any discussion.</comments>
   </podcast>
   <podcast>
@@ -227,13 +233,13 @@
   <podcast>
     <date>2020-10-28</date>
     <name url="http://verybadwizards.com/">Very Bad Wizards</name>
-    <episode url="https://verybadwizards.fireside.fm/199" number="199">When Philosophy Goes Sideways</episode>
+    <episode url="https://www.verybadwizards.com/199" number="199">When Philosophy Goes Sideways</episode>
     <comments>An episode about bad philosophy. I guess. Neither particularly interesting nor funny.</comments>
   </podcast>
   <podcast>
     <date>2020-10-22</date>
     <name url="http://verybadwizards.com/">Very Bad Wizards</name>
-    <episode url="https://verybadwizards.fireside.fm/198" number="198">Is Mental Illness a Myth? (Thomas Szasz's "The Myth of Mental Illness")</episode>
+    <episode url="https://www.verybadwizards.com/198" number="198">Is Mental Illness a Myth? (Thomas Szasz's "The Myth of Mental Illness")</episode>
     <comments>I'm left with more questions than answers. Is it useful to call "illness" something that is not a "purely physical" illness? Or at least something that cannot be assessed objectively (with biomarkers, etc.)? What if interventions (drugs or others) that make the symptoms better for the patient/person exist?</comments>
   </podcast>
   <podcast>
@@ -545,13 +551,13 @@
   <podcast>
     <date>2020-07-05</date>
     <name url="http://verybadwizards.com/">Very Bad Wizards</name>
-    <episode url="https://verybadwizards.fireside.fm/191" number="191">All the Rage</episode>
+    <episode url="https://www.verybadwizards.com/191" number="191">All the Rage</episode>
     <comments>As someone who don't show his emotions easily, this was thought-provoking. I've never been the kind of persons to shout, jump, and dance at pop/rock concerts, but it doesn't mean I don't enjoy being there. I guess I should be able to show my emotions a bit more and, at the same time, I think most people should be able to be a bit less overcome by / identified with their emotions. Anger, in particular. It's a useful signal, but if it lasts too long, it's not a good thing.</comments>
   </podcast>
   <podcast>
     <date>2020-07-04</date>
     <name url="http://verybadwizards.com/">Very Bad Wizards</name>
-    <episode url="https://verybadwizards.fireside.fm/189" number="189">The Anality of Evil (Freud's "Civilization and its Discontents")</episode>
+    <episode url="https://www.verybadwizards.com/189" number="189">The Anality of Evil (Freud's "Civilization and its Discontents")</episode>
     <comments>See my comments for the Nietzsche episode.</comments>
   </podcast>
   <podcast>
@@ -641,7 +647,7 @@
   <podcast>
     <date>2020-06-12</date>
     <name url="http://verybadwizards.com/">Very Bad Wizards</name>
-    <episode url="https://verybadwizards.fireside.fm/188" number="188">Conceptual Mummies (Nietzsche's "Twilight of the Idols")</episode>
+    <episode url="https://www.verybadwizards.com/188" number="188">Conceptual Mummies (Nietzsche's "Twilight of the Idols")</episode>
     <comments>Let's just say this won't convince me to read Nietzsche.</comments>
   </podcast>
   <podcast>
@@ -791,7 +797,7 @@
   <podcast>
     <date>2020-04-23</date>
     <name url="http://verybadwizards.com/">Very Bad Wizards</name>
-    <episode url="https://verybadwizards.fireside.fm/187" number="187">More Zither</episode>
+    <episode url="https://www.verybadwizards.com/187" number="187">More Zither</episode>
     <comments>I watched <i>The Third Man</i> for the first time in my life three months ago. It's a stunning movie. I can recommend it without any reservation.</comments>
   </podcast>
   <podcast>
@@ -827,19 +833,19 @@
   <podcast>
     <date>2020-04-15</date>
     <name url="http://verybadwizards.com/">Very Bad Wizards</name>
-    <episode url="https://verybadwizards.fireside.fm/186" number="186">The One with Peter Singer</episode>
+    <episode url="https://www.verybadwizards.com/186" number="186">The One with Peter Singer</episode>
     <comments>About the first part: I didn't know some people used two spaces after periods; it sounds very weird to me. The more I read/listen to Peter Singer, the more he sounds reasonable to me. His answer about the "happy cow" thought experiment (which Sam Harris seems to like a lot) was quite nuanced (which Sam could be a little more, sometimes...).</comments>
   </podcast>
   <podcast>
     <date>2020-04-12</date>
     <name url="http://verybadwizards.com/">Very Bad Wizards</name>
-    <episode url="https://verybadwizards.fireside.fm/185" number="185">The Devil's Playground</episode>
+    <episode url="https://www.verybadwizards.com/185" number="185">The Devil's Playground</episode>
     <comments>This time, I only listened to the second part, about <a href="https://en.wikipedia.org/wiki/In_Praise_of_Idleness_and_Other_Essays"><i>In Praise of Idleness</i></a> by Bertrand Russell: "In the eponymous essay, Russell argues that if labour was equitably shared out amongst everyone, resulting in shorter work days, unemployment would decrease and human happiness would increase due to the increase in leisure time, further resulting in increased involvement in the arts and sciences." Dave and Tamler mainly talked about workaholism, which has been a thing in finance, law, and medicine for a long time, and also in academia for quite some time now. I strongly agree with <a href="https://www.reddit.com/r/VeryBadWizards/comments/foccrr/185_the_devils_playground/flhqgtm/">this Reddit comment</a>: "When listening to the workaholism segment, I felt like I was listening to people from another planet. Perhaps it's indicative of my middle-class upbringing or a hallmark of modest life expectations but I had no idea that people wanted to work so hard or cared so much about how much work they were doing was perceived by their peers. I work a comfortable middle-class job, care deeply about doing a good job but don't think twice about taking time off or demanding work-life balance. [...] Could this be just an American perspective?"</comments>
   </podcast>
   <podcast>
     <date>2020-04-10</date>
     <name url="http://verybadwizards.com/">Very Bad Wizards</name>
-    <episode url="https://verybadwizards.fireside.fm/184" number="184">Tainted Glove</episode>
+    <episode url="https://www.verybadwizards.com/184" number="184">Tainted Glove</episode>
     <comments>I've only listened to the first part (about Richard Dawkins eugenics tweet). So, yes, we should be able to discuss sensitive topics, but, as always, Twitter is not the place to have a nuanced and constructive discussion.</comments>
   </podcast>
   <podcast>
@@ -893,7 +899,7 @@
   <podcast>
     <date>2020-03-15</date>
     <name url="http://verybadwizards.com/">Very Bad Wizards</name>
-    <episode url="https://verybadwizards.fireside.fm/183" number="183">Accept the Mystery (with Paul Bloom)</episode>
+    <episode url="https://www.verybadwizards.com/183" number="183">Accept the Mystery (with Paul Bloom)</episode>
     <comments>I saw <i>A Serious Man</i> when it came out in 2010, but didn't remember a single thing about the movie...</comments>
   </podcast>
   <podcast>
@@ -905,13 +911,13 @@
   <podcast>
     <date>2020-03-12</date>
     <name url="http://verybadwizards.com/">Very Bad Wizards</name>
-    <episode url="https://verybadwizards.fireside.fm/182" number="182">The Paper That Launched a Thousand Twitter Wars (With Yoel Inbar)</episode>
+    <episode url="https://www.verybadwizards.com/182" number="182">The Paper That Launched a Thousand Twitter Wars (With Yoel Inbar)</episode>
     <comments>The discussion about what a (falsifiable) theory is supposed to be is interesting. David has a looser definition of what it can be (e.g. just a folk theory). I tend to agree with him. I also agree with Tamler that the field of psychology should probably be a bit more ambitious than that (i.e. falsifying loose claims than nobody seriously holds).</comments>
   </podcast>
   <podcast>
     <date>2020-03-10</date>
     <name url="http://verybadwizards.com/">Very Bad Wizards</name>
-    <episode url="https://verybadwizards.fireside.fm/180" number="180">Chekhov's Schrödinger's Dagger (Kurosawa's "Rashomon")</episode>
+    <episode url="https://www.verybadwizards.com/180" number="180">Chekhov's Schrödinger's Dagger (Kurosawa's "Rashomon")</episode>
     <comments>I watched <i>Rashomon</i> a few weeks before listening to this episode, not because the episode was released (in January), but simply because I'm currently watching movies from the <a href="http://www.phi-phenomenon.org/">Phi-Phenomenon</a> list. After watching <i>Rashomon</i>, I was pretty sure I had missed a few things and listening to Dave and Tamler made me realize that even more. "Who killed the samurai and with what? What role did his wife play in his death? Kurosawa gives us four perspectives, told in flashbacks within flashbacks. Who's telling the truth? Is anyone? Can we ever know what really happened? A simple story on the surface becomes a meditation on epistemological despair."</comments>
   </podcast>
   <podcast>
@@ -929,7 +935,7 @@
   <podcast>
     <date>2020-03-02</date>
     <name url="http://verybadwizards.com/">Very Bad Wizards</name>
-    <episode url="https://verybadwizards.fireside.fm/179" number="179">Talking Shit</episode>
+    <episode url="https://www.verybadwizards.com/179" number="179">Talking Shit</episode>
     <comments>The Mr. Robot discussion was fun. The question of whether specific results can be applied in the real world in a more general way was interesting. Psychology is a field where it's harder to reveal underlying principles (compared to hard sciences such as physics, for example). Studies are often oversimplifying social situations, for practical reasons.</comments>
   </podcast>
   <podcast>
@@ -983,13 +989,13 @@
   <podcast>
     <date>2020-02-13</date>
     <name url="http://verybadwizards.com/">Very Bad Wizards</name>
-    <episode url="https://verybadwizards.fireside.fm/181" number="181">The Fraudulence Paradox (David Foster Wallace's "Good Old Neon")</episode>
+    <episode url="https://www.verybadwizards.com/181" number="181">The Fraudulence Paradox (David Foster Wallace's "Good Old Neon")</episode>
     <comments>This episode didn't really make we want to read David Foster Wallace's books (I'm only familiar with his <i>This Is Water</i> speech). I know he's a well-respected author, but it looks like he put a lot of himself even in his works of fiction. Since it's a person who wasn't able to overcome his depression, I'm not sure I need/want to know his point of view...</comments>
   </podcast>
   <podcast>
     <date>2020-02-09</date>
     <name url="http://verybadwizards.com/">Very Bad Wizards</name>
-    <episode url="https://verybadwizards.fireside.fm/178" number="178">Borges' Obsession-Obsession ("The Zahir")</episode>
+    <episode url="https://www.verybadwizards.com/178" number="178">Borges' Obsession-Obsession ("The Zahir")</episode>
     <comments>I haven't read "The Zahir", but I'll probably read it someday, as it is included in <i>Collected Fictions</i>, which I will read at some point.</comments>
   </podcast>
   <podcast>
@@ -1037,7 +1043,7 @@
   <podcast>
     <date>2020-01-22</date>
     <name url="http://verybadwizards.com/">Very Bad Wizards</name>
-    <episode url="https://verybadwizards.fireside.fm/177" number="177">Pure Linguistic Chauvinism</episode>
+    <episode url="https://www.verybadwizards.com/177" number="177">Pure Linguistic Chauvinism</episode>
     <comments>The discussion about the paper (<a href="https://europepmc.org/article/med/31682141">"The lexical fallacy in emotion research: Mistaking vernacular words for psychological entities."</a>) was interesting. What's the relationship between language and reality, especially in the case of higher level concepts such as emotions? Sometimes, words regroup different concepts into one. Some languages are more precise than others. We have complex concepts (that we could describe in mathematics with high dimensional vectors), but, in everyday life, we need simple labels. So we unconsciously do dimensionality reduction, cluster concepts together, and reference them with a single word. But we must always keep in mind that there's not a one-to-one relationship between words and reality. I agree with Tamler: the big reveal in <i>407 Proxy Authentication Required</i> (Mr. Robot) was not bad/shocking. It felt perfectly natural (and surprising at the same time).</comments>
   </podcast>
   <podcast>
@@ -1151,7 +1157,7 @@
   <podcast>
     <date>2019-11-19</date>
     <name url="http://verybadwizards.com/">Very Bad Wizards</name>
-    <episode url="https://verybadwizards.fireside.fm/176" number="176">Split-Brains and the (Dis)Unity of Consciousness</episode>
+    <episode url="https://www.verybadwizards.com/176" number="176">Split-Brains and the (Dis)Unity of Consciousness</episode>
     <comments>An episode about universe simulations (do we live in one?) and split-brains. Two fascinating topics. Do we all have two consciousnesses inside us? One silent and one that can talk? About simulations: I think the most important and interesting question is still "Can we actually simulate consciousness? Does it even make sense?" The <i>Black Mirror</i> episodes about this topic were really good, if I recall correctly.</comments>
   </podcast>
   <podcast>
@@ -1193,7 +1199,7 @@
   <podcast>
     <date>2019-11-01</date>
     <name url="http://verybadwizards.com/">Very Bad Wizards</name>
-    <episode url="https://verybadwizards.fireside.fm/175" number="175">At Least We Didn't Talk About Zombies (Nagel's "What is it Like to be a Bat?")</episode>
+    <episode url="https://www.verybadwizards.com/175" number="175">At Least We Didn't Talk About Zombies (Nagel's "What is it Like to be a Bat?")</episode>
     <comments>One of my favorite topics (consciousness). I agree with Dave and Tamler that the more you talk about it, the less it becomes clear. It's weird. I actually think p-zombies, as I understand them, can be an illuminating thought experiment (how does consciousness "interact" with the world? does it cause anything? is it necessary?).</comments>
   </podcast>
   <podcast>
@@ -1223,7 +1229,7 @@
   <podcast>
     <date>2019-10-21</date>
     <name url="http://verybadwizards.com/">Very Bad Wizards</name>
-    <episode url="https://verybadwizards.fireside.fm/174" number="174">More Chiang for Your Buck ("Anxiety is the Dizziness of Freedom" Pt. 2)</episode>
+    <episode url="https://www.verybadwizards.com/174" number="174">More Chiang for Your Buck ("Anxiety is the Dizziness of Freedom" Pt. 2)</episode>
     <comments>I agree that "What's expected of us" by Ted Chiang doesn't tell much about free will. It's not even a good thought experiment. It involves time travel, so it's doomed right from the beginning... In that sense, "Anxiety is the Dizziness of Freedom" is far better, even if it's not coherent with what we understand of quantum mechanics. After the last three episodes, I still don't know how Tamler defines free will and why he thinks it exists.</comments>
   </podcast>
   <podcast>
@@ -1277,13 +1283,13 @@
   <podcast>
     <date>2019-10-06</date>
     <name url="http://verybadwizards.com/">Very Bad Wizards</name>
-    <episode url="https://verybadwizards.fireside.fm/173" number="173">Talking to Your (Alternate) Self [Ted Chiang's "Anxiety is the Dizziness of Freedom"]</episode>
+    <episode url="https://www.verybadwizards.com/173" number="173">Talking to Your (Alternate) Self [Ted Chiang's "Anxiety is the Dizziness of Freedom"]</episode>
     <comments>I haven't read the novel before listening to the episode, but I will read it ASAP (I had already bought a collection including that novel). It sounds like a very interesting novel to discuss the existence/absence of free will. I'm not sure the discussion between Tamler and Dave did the topic any justice. For example, Tamler seems to be confused about the relationship between quantum mechanics and determinism: <a href="https://en.wikipedia.org/wiki/Interpretations_of_quantum_mechanics#Comparison">some interpretations of quantum mechanics say that determinism is true; others say it is false or are agnostic about it.</a> Interestingly, the many-worlds interpretation of quantum mechanics say determinism is true. I don't understand much about quantum mechanics, but I'm pretty sure it doesn't give us any freedom that could relate to the "free" in "free will". On the contrary, this episode made me even more convinced that the concept of free will doesn't make much sense. To go back to the story: if you can't find any parallel world where you acted differently for a given choice, it means that your choice really reflects who you are; but where's the freedom in that? If, for a given choice, you're on the edge, it's possible that your choice will eventually depends on completely contingent factors; where's the freedom in that?</comments>
   </podcast>
   <podcast>
     <date>2019-10-03</date>
     <name url="http://verybadwizards.com/">Very Bad Wizards</name>
-    <episode url="https://verybadwizards.fireside.fm/172" number="172">Are You Free (to like the Chappelle special)?</episode>
+    <episode url="https://www.verybadwizards.com/172" number="172">Are You Free (to like the Chappelle special)?</episode>
     <comments>"[T]hey address the latest development in the literature around Benjamin Libet's famous study that, according to some people, proved that free will doesn't exist." To sum it up, we can show that for simple choices (pushing button A or B), when we don't have any conscious reasons to choose an option or another, it's possible that we take "neural noise" into account for our choices. It's a different interpretation of what Libet measured and it makes sense. I agree that it doesn't have much to say about free will. It doesn't add much to the debate. I still think Sam Harris has a point. I still think Daniel Dennett is missing something.</comments>
   </podcast>
   <podcast>
@@ -1343,7 +1349,7 @@
   <podcast>
     <date>2019-09-05</date>
     <name url="http://verybadwizards.com/">Very Bad Wizards</name>
-    <episode url="https://verybadwizards.fireside.fm/171" number="171">How Do You Solve a Problem Like Theodicy? (The Book of Job)</episode>
+    <episode url="https://www.verybadwizards.com/171" number="171">How Do You Solve a Problem Like Theodicy? (The Book of Job)</episode>
     <comments>I'm not sure what to think about the article discussed in the first part of the episode. It looks superficially a bit ridiculous, but I think I understand what the author means. I just bought <i>The Book of Job</i> for Kindle.</comments>
   </podcast>
   <podcast>
@@ -1379,7 +1385,7 @@
   <podcast>
     <date>2019-08-19</date>
     <name url="http://verybadwizards.com/">Very Bad Wizards</name>
-    <episode url="https://verybadwizards.fireside.fm/170" number="170">Social Psychology Gets an Asch-Kicking</episode>
+    <episode url="https://www.verybadwizards.com/170" number="170">Social Psychology Gets an Asch-Kicking</episode>
     <comments>I liked the soccer/tennis analogy. Using an EEG to understand how soccer works is the wrong tool. In that case: just ask people (i.e. descriptive approach). The pessimistic conclusion is that the current academic context doesn't allow for those more descriptive or unorthodox approaches (used, for example, by people like Darwin, who were affluent enough to conduct their research as they saw fit).</comments>
   </podcast>
   <podcast>
@@ -1409,7 +1415,7 @@
   <podcast>
     <date>2019-08-05</date>
     <name url="http://verybadwizards.com/">Very Bad Wizards</name>
-    <episode url="https://verybadwizards.fireside.fm/169" number="169">A Bug's Life (Kafka's "The Metamorphosis")</episode>
+    <episode url="https://www.verybadwizards.com/169" number="169">A Bug's Life (Kafka's "The Metamorphosis")</episode>
     <comments>I read <i>The Metamorphosis</i> (or at least parts of it) in German many years ago. I should read it again.</comments>
   </podcast>
   <podcast>
@@ -1421,13 +1427,13 @@
   <podcast>
     <date>2019-07-18</date>
     <name url="http://verybadwizards.com/">Very Bad Wizards</name>
-    <episode url="https://verybadwizards.fireside.fm/168" number="168">The Big Lebowski vs Pulp Fiction (Pt. 2)</episode>
+    <episode url="https://www.verybadwizards.com/168" number="168">The Big Lebowski vs Pulp Fiction (Pt. 2)</episode>
     <comments>See part 1.</comments>
   </podcast>
   <podcast>
     <date>2019-07-17</date>
     <name url="http://verybadwizards.com/">Very Bad Wizards</name>
-    <episode url="https://verybadwizards.fireside.fm/167" number="167">The Big Lebowski vs Pulp Fiction (Pt. 1)</episode>
+    <episode url="https://www.verybadwizards.com/167" number="167">The Big Lebowski vs Pulp Fiction (Pt. 1)</episode>
     <comments>For once, I'm on Tamler's side: I like <i>The Big Lebowski</i> more than <i>Pulp Fiction </i>. Just listening to this episode, I felt the need to watch <i>The Big Lebowski</i> again.</comments>
   </podcast>
   <podcast>
@@ -1457,19 +1463,19 @@
   <podcast>
     <date>2019-06-26</date>
     <name url="http://verybadwizards.com/">Very Bad Wizards</name>
-    <episode url="https://verybadwizards.fireside.fm/85" number="85">A Zoo with Only One Animal (with Paul Bloom)</episode>
+    <episode url="https://www.verybadwizards.com/85" number="85">A Zoo with Only One Animal (with Paul Bloom)</episode>
     <comments>I listened to that particular episode because I recently saw <i>Groundhog Day</i> for the first time in my life. There are several movies discussed in the episode that I haven't seen yet, but that I really need to see: <i>Brazil</i>, <i>Barton Fink</i>, <i>Being There</i>, <i>Sullivan's Travels</i>, and probably <i>The Purple Rose of Cairo</i>.</comments>
   </podcast>
   <podcast>
     <date>2019-06-21</date>
     <name url="http://verybadwizards.com/">Very Bad Wizards</name>
-    <episode url="https://verybadwizards.fireside.fm/166" number="166">Total Recall</episode>
+    <episode url="https://www.verybadwizards.com/166" number="166">Total Recall</episode>
     <comments>An episode about <a href="https://en.wikipedia.org/wiki/The_Truth_of_Fact,_the_Truth_of_Feeling">"The Truth of Fact, the Truth of Feeling"</a>, a short story which is apparently very similar to the <a href="https://en.wikipedia.org/wiki/The_Entire_History_of_You">"Entire History of You"</a> episode of <i>Black Mirror</i>. Imperfect recall can help us integrating bad events in our lives. Imperfect recall also means that we forget the good moments in our lives. I've been journaling for more than a quarter century and I'm regularly reading my past entries (10 and 20 years ago). I encounter both cases: good moments that I had forgotten about and bad moments that I don't really enjoy reading about. Is this masochism? I don't think so. I don't think forgetting about an unpleasant past event is the best way to deal with it. Obviously, thinking everyday about something that happened ten years ago is not a good approach either, but if you're not able to think about a bad moment of your life while thinking that everything's okay, then it probably means that you've not completely processed that moment yet.</comments>
   </podcast>
   <podcast>
     <date>2019-06-19</date>
     <name url="http://verybadwizards.com/">Very Bad Wizards</name>
-    <episode url="https://verybadwizards.fireside.fm/164" number="164">Choosing to Believe</episode>
+    <episode url="https://www.verybadwizards.com/164" number="164">Choosing to Believe</episode>
     <comments>Once you've realized that you don't either believe (completely) or don't believe (at all), but that all beliefs are nuanced/continuous/non-binary, one of the tricky parts is to set the "threshold" where you decide that you have enough evidence to act on a belief. Beliefs don't exist in a vacuum, so it's hard. You have to guess the consequences of your actions. A Bayesian approach seems to be reasonable.</comments>
   </podcast>
   <podcast>
@@ -1481,7 +1487,7 @@
   <podcast>
     <date>2019-06-11</date>
     <name url="http://verybadwizards.com/">Very Bad Wizards</name>
-    <episode url="https://verybadwizards.fireside.fm/165" number="165">Life With No Head (With Sam Harris)</episode>
+    <episode url="https://www.verybadwizards.com/165" number="165">Life With No Head (With Sam Harris)</episode>
     <comments>I was worried yet another discussion about meditation would bore me, but it didn't.</comments>
   </podcast>
   <podcast>
@@ -1493,7 +1499,7 @@
   <podcast>
     <date>2019-06-04</date>
     <name url="http://verybadwizards.com/">Very Bad Wizards</name>
-    <episode url="https://verybadwizards.fireside.fm/163" number="163">Should I Stay or Should I Go? (Ursula K. Le Guin's "The Ones Who Walk Away from Omelas")</episode>
+    <episode url="https://www.verybadwizards.com/163" number="163">Should I Stay or Should I Go? (Ursula K. Le Guin's "The Ones Who Walk Away from Omelas")</episode>
     <comments>The story can be seen as an allegory of capitalism or simply as a way to test our ethical intuitions. I should read it.</comments>
   </podcast>
   <podcast>
@@ -1517,19 +1523,19 @@
   <podcast>
     <date>2019-05-10</date>
     <name url="http://verybadwizards.com/">Very Bad Wizards</name>
-    <episode url="https://verybadwizards.fireside.fm/154" number="154">Metaphysical Vertigo (Borges's "Tlön, Uqbar, Orbis Tertius")</episode>
+    <episode url="https://www.verybadwizards.com/154" number="154">Metaphysical Vertigo (Borges's "Tlön, Uqbar, Orbis Tertius")</episode>
     <comments>The third episode about Borges I've listened to. I'll give him a second chance. Someday. Maybe.</comments>
   </podcast>
   <podcast>
     <date>2019-05-07</date>
     <name url="http://verybadwizards.com/">Very Bad Wizards</name>
-    <episode url="https://verybadwizards.fireside.fm/153" number="153">Progress in Psychology: A Reply to BootyBootyFartFart</episode>
+    <episode url="https://www.verybadwizards.com/153" number="153">Progress in Psychology: A Reply to BootyBootyFartFart</episode>
     <comments>I guess the pressure to publish is a factor in the bad quality of many papers. Replication crises should be seen as a good thing, which will eventually lead to higer quality research in problematic but very important fields (psychology, health/medicine, etc.). I understand Tamler's reaction to the bad joke in the elevator, but I don't think he's right. Links: <a href="https://en.wikipedia.org/wiki/Standpoint_theory">standpoint theory</a>; <a href="https://plato.stanford.edu/entries/feminism-epistemology/">feminist epistemology</a>.</comments>
   </podcast>
   <podcast>
     <date>2019-05-02</date>
     <name url="http://verybadwizards.com/">Very Bad Wizards</name>
-    <episode url="https://verybadwizards.fireside.fm/158" number="158">False Dichotomies and Oral Reciprocity</episode>
+    <episode url="https://www.verybadwizards.com/158" number="158">False Dichotomies and Oral Reciprocity</episode>
     <comments>This is my view on the topic: separating things into two categories is something very basic/fundamental we do, because it's simple, but it probably also has a deeper, biological root. Neurons are excellent at discriminating patterns/inputs; they basically split the hyperspace of possible inputs into two parts. Dichotomies are just a particular/specific case of dimensionality reduction, like principal component analysis (PCA). Dichotomies are also motivated by action: at some point, you need to act, so you need to simplify your data. In real life, actions often come down to "I do something" vs "I don't do something". You can easily bring nuance to an X-vs-Y situation (e.g. introvert vs extrovert) by specifying "81% X and 19% Y", for example. Dichotomies don't have to be overly simplistic. Once the basics are understood, you can progressively complexify the discussion by adding back some of the dimensions that were removed. Ultimately, it seems obvious to me (and apparently also to Dave?) that only machines (using machine learning algorithms) will be able to accurately model complex sets of data (including human psychology).</comments>
   </podcast>
   <podcast>
@@ -1547,13 +1553,13 @@
   <podcast>
     <date>2019-04-19</date>
     <name url="http://verybadwizards.com/">Very Bad Wizards</name>
-    <episode url="https://verybadwizards.fireside.fm/162" number="162">Parents Just Don't Understand (with Paul Bloom)</episode>
+    <episode url="https://www.verybadwizards.com/162" number="162">Parents Just Don't Understand (with Paul Bloom)</episode>
     <comments><a href="https://en.wikipedia.org/wiki/Judith_Rich_Harris">Judith Rich Harris "was an American psychology researcher and the author of <i>The Nurture Assumption</i>, a book criticizing the belief that parents are the most important factor in child development, and presenting evidence which contradicts that belief."</a> I was not familiar with her. I guess this was a good introduction to the topic (i.e. the effect of parenting on child development) and the debate around it. As often, it's largely a question of distinguishing correlations from cause and effect relationships. Most studies about the topic are simplistic/lazy (but this is not an isolated problem). Studies about adopted children can make this distinction clearer. My conclusion is that parenting doesn't seem to be as important as we could think. The discussion about art and "problematic" artists was interesting, as usual.</comments>
   </podcast>
   <podcast>
     <date>2019-04-17</date>
     <name url="http://verybadwizards.com/">Very Bad Wizards</name>
-    <episode url="https://verybadwizards.fireside.fm/160" number="160">Everything is Meaningless: The Book of Ecclesiastes</episode>
+    <episode url="https://www.verybadwizards.com/160" number="160">Everything is Meaningless: The Book of Ecclesiastes</episode>
     <comments>I haven't (seriously) read the Bible in more than 25 years. <i>Ecclesiastes</i> is now on my to-read list (it might even be the next book I will read, we'll see...).</comments>
   </podcast>
   <podcast>
@@ -1571,7 +1577,7 @@
   <podcast>
     <date>2019-04-11</date>
     <name url="http://verybadwizards.com/">Very Bad Wizards</name>
-    <episode url="https://verybadwizards.fireside.fm/161" number="161">Reach-Around Knowledge and Bottom Performers (The Dunning-Kruger Effect)</episode>
+    <episode url="https://www.verybadwizards.com/161" number="161">Reach-Around Knowledge and Bottom Performers (The Dunning-Kruger Effect)</episode>
     <comments>When I think of the Dunning-Kruger effect, I can immediately picture someone I know who suffers from this bias, but, let's be honest, we all have it, from time to time. The discussion about the "post-Dunning-Kruger effect", i.e. the realization that we (almost) don't know anything about anything (Socrates), was interesting. Bringing too many nuances to a discussion can be problematic. It can lead to inaction and look like a lack of enthusiasm, for example. Ironically, it's hard to know what to make of our lack of knowledge. At some point, you have to decide you know enough and act.</comments>
   </podcast>
   <podcast>
@@ -1595,7 +1601,7 @@
   <podcast>
     <date>2019-03-27</date>
     <name url="http://verybadwizards.com/">Very Bad Wizards</name>
-    <episode url="https://verybadwizards.fireside.fm/152" number="152">Ruthlessness, Public and Private</episode>
+    <episode url="https://www.verybadwizards.com/152" number="152">Ruthlessness, Public and Private</episode>
     <comments>"Are the rules we use to judge the moral atrocities of public officials different from the ones we use to judge private atrocities?" Apparently, yes. For complex reasons. Sometimes, politicians can get away with immoral behaviour (e.g. wars, etc.), because they're part of a complex system, they inherit problems from their predecessors, etc.</comments>
   </podcast>
   <podcast>
@@ -1613,13 +1619,13 @@
   <podcast>
     <date>2019-03-13</date>
     <name url="http://verybadwizards.com/">Very Bad Wizards</name>
-    <episode url="https://verybadwizards.fireside.fm/146" number="146">Sore Losers (Does Sports Make Us Unhappy?)</episode>
+    <episode url="https://www.verybadwizards.com/146" number="146">Sore Losers (Does Sports Make Us Unhappy?)</episode>
     <comments>I'm not a sports fan myself, but even I can see that the discussed paper is way too specific in what it measures (instant well-being after a match, etc.) to draw overall conclusions. It seems obvious to me that sports has a tribal/community aspect that's very important. Are all happiness papers too simplistic? I'm starting to think they might be.</comments>
   </podcast>
   <podcast>
     <date>2019-03-09</date>
     <name url="http://verybadwizards.com/">Very Bad Wizards</name>
-    <episode url="https://verybadwizards.fireside.fm/159" number="159">You Have the Right to Go to Prison</episode>
+    <episode url="https://www.verybadwizards.com/159" number="159">You Have the Right to Go to Prison</episode>
     <comments>Like Dave and unlike Tamler, I'm quite sympathetic to the idea of antinatalism, without finding it completely satisfying. At least, people should think more before having children. Since <a href="https://en.wikipedia.org/wiki/Gideon_v._Wainwright">Gideon v. Wainwright</a>, people in the US have the right to be defended by an attorney provided by the state. This sounds like a good idea, but it hasn't worked as well as expected. There are many reasons why (cheap/bad attorneys, the fact that people are judged more harshly because they're defended, etc.). It's difficult to say that it wouldn't have been worse without the introduction of that right, though.</comments>
   </podcast>
   <podcast>
@@ -1631,19 +1637,19 @@
   <podcast>
     <date>2019-03-08</date>
     <name url="http://verybadwizards.com/">Very Bad Wizards</name>
-    <episode url="https://verybadwizards.fireside.fm/150" number="150">Paul Bloom Insisted That We Talk About Sex Robots</episode>
+    <episode url="https://www.verybadwizards.com/150" number="150">Paul Bloom Insisted That We Talk About Sex Robots</episode>
     <comments>About the Conceptual Penis as a Social Construct hoax: let's just say that I'll never take James Lindsay seriously again. The sex robot discussion was really interesting. Paul Bloom and Sam Harris' position (which sounded very reasonable, IIRC) was detailed in <a href="https://www.nytimes.com/2018/04/23/opinion/westworld-conscious-robots-morality.html">"It's Westworld. What's Wrong With Cruelty to Robots?"</a> That was a fun episode.</comments>
   </podcast>
   <podcast>
     <date>2019-03-06</date>
     <name url="http://verybadwizards.com/">Very Bad Wizards</name>
-    <episode url="https://verybadwizards.fireside.fm/148" number="148">Am I Wrong?</episode>
+    <episode url="https://www.verybadwizards.com/148" number="148">Am I Wrong?</episode>
     <comments>The part about Louis CK's surprise set was interesting. First, I didn't know about it. Secondly, this poses the important question of the right form/amount of "punishment" when someone has done something morally wrong. I'm also wondering what Louis CK should do now. Should he continue stand-up comedy? Should he continue acting? Should he write for others? This will be interesting to witness (hopefully). I think I completely missed what George Sher's paper was about, which is not too suprising, as I disagree with the premise: "What happens once we realize that our moral convictions are often not better justified than the convictions of people who disagree with us?" When it comes to the is–ought problem, I'm way more sympathetic to Sam Harris' view than Tamler/Dave's view (which is the dominant position of philosophers in general).</comments>
   </podcast>
   <podcast>
     <date>2019-02-27</date>
     <name url="http://verybadwizards.com/">Very Bad Wizards</name>
-    <episode url="https://verybadwizards.fireside.fm/149" number="149">Death, Immortality, and Porn (Intuition) Pumps</episode>
+    <episode url="https://www.verybadwizards.com/149" number="149">Death, Immortality, and Porn (Intuition) Pumps</episode>
     <comments>I liked the final discussion between Tamler and his daughter about season 3 of Twin Peaks. It was way more accessible than the previous episode about Twin Peaks. Also, Eliza's take sounds pretty cool. I like this idea of (almost Buddhist) cycles and unresolved issues. I also liked the part about death and immortality. Would I want to be immortal? Well, yes, why not? The popular consensus seems to be that it would be boring and that you would run out of things to do. It makes sense. But ask yourself: if you're happy (and that's a big "if"), at which point would you decide that you don't want to live anymore? Exactly: never. And I think that you can be happy doing the same things over and over again. Isn't that what we're all doing anyway? More or less? Now, if you're the only immortal person among mortal persons, that means that you will see everyone around you die, which could be a traumatic experience. But, as discussed in the episode, we already experience that with our pets. In the end, it all depends on the kind of immortality we're talking about. I'm not sure our human psychology has to be seen as something that couldn't be changed (artificially), for example.</comments>
   </podcast>
   <podcast>
@@ -1685,13 +1691,13 @@
   <podcast>
     <date>2019-01-29</date>
     <name url="http://verybadwizards.com/">Very Bad Wizards</name>
-    <episode url="https://verybadwizards.fireside.fm/156" number="156">Notes From Underground (Pt. 1)</episode>
+    <episode url="https://www.verybadwizards.com/156" number="156">Notes From Underground (Pt. 1)</episode>
     <comments>I must admit I haven't read any book by Dostoyevsky (yet). If (or, rather, when) I read one, it will be <i>Crime and Punishment</i>, <i>The Idiot</i>, <i>Demons</i>, or <i>The Brothers Karamazov</i>, not <i>Notes from Underground</i>. I guess. Anyway, this episode was not completely uninteresting, but having not read the book, it failed to really grab my attention. But now I want to read Dostoyevsky. And soon.</comments>
   </podcast>
   <podcast>
     <date>2019-01-23</date>
     <name url="http://verybadwizards.com/">Very Bad Wizards</name>
-    <episode url="https://verybadwizards.fireside.fm/155" number="155">Alfred Hitchcock's Money Shot</episode>
+    <episode url="https://www.verybadwizards.com/155" number="155">Alfred Hitchcock's Money Shot</episode>
     <comments>I watched <i>Vertigo</i> for the first time in my life in 2018. I apparently missed many things in the movie, which I'll have to watch again in the future.</comments>
   </podcast>
   <podcast>
@@ -1805,7 +1811,7 @@
   <podcast>
     <date>2018-11-23</date>
     <name url="http://verybadwizards.com/">Very Bad Wizards</name>
-    <episode url="https://verybadwizards.fireside.fm/151" number="151">Viddy Well, My Listeners (Stanley Kubrick's "A Clockwork Orange")</episode>
+    <episode url="https://www.verybadwizards.com/151" number="151">Viddy Well, My Listeners (Stanley Kubrick's "A Clockwork Orange")</episode>
     <comments>I won't comment on the movie itself (I'm currently re-watching it). This episode probably gives me a few keys that will allow me to watch the movie from a different angle: retributive vs restorative justice, the question of free will, the link between morality and behavior, Kubrick's reasons for filming choreographed violence, etc. I was probably not aware, when I first watched <i>A Clockwork Orange</i> more than 14 years ago, of all those underlying questions/themes.</comments>
   </podcast>
   <podcast>
@@ -1907,7 +1913,7 @@
   <podcast>
     <date>2018-09-23</date>
     <name url="http://verybadwizards.com/">Very Bad Wizards</name>
-    <episode url="https://verybadwizards.fireside.fm/147" number="147">Effective Altruism and Moral Uncertainty (with The One True Scotsman, Will MacAskill)</episode>
+    <episode url="https://www.verybadwizards.com/147" number="147">Effective Altruism and Moral Uncertainty (with The One True Scotsman, Will MacAskill)</episode>
     <comments>I've heard MacAskill on Sam Harris' and Tim Ferriss' podcasts in 2016. I've been very intrigued by the idea of effective altruism since then. This episode is more technical. How do you "compute" what you should do (i.e. take decisions) under uncertainty? I can't say I've understood everything I've heard, but I guess one of the interesting points is that you can hold several views / use several frameworks (even incompatible ones) at the same time (e.g. extreme / radical utilitarianism that say that you should care the same about your son as you should about a complete stranger, at the same time as more intuitive views that say that you should care more about your son than about a complete stranger) and still come to a conclusion. That's what MacAskill's current research is about. An important point: effective altruism is not the same as utilitarianism. Finally, doing "moral calculations" is not an intuitive thing for most people, so a certain percentage of the time, it's perfectly okay to be a bit more spontaneous and, for example, to give a small amount of money to a random person asking for donations. Doing so is less off-putting to most people than being strict and trying to give money only to the most effective causes you can find. Often, the (symbolic) signals you're sending are important as well.</comments>
   </podcast>
   <podcast>
@@ -1961,7 +1967,7 @@
   <podcast>
     <date>2018-08-16</date>
     <name url="http://verybadwizards.com/">Very Bad Wizards</name>
-    <episode url="https://verybadwizards.fireside.fm/145" number="145">Lost in Borges' Garden</episode>
+    <episode url="https://www.verybadwizards.com/145" number="145">Lost in Borges' Garden</episode>
     <comments>Another episode I found more interesting than the work being discussed (<a href="https://en.wikipedia.org/wiki/The_Garden_of_Forking_Paths">"The Garden of Forking Paths"</a>). Tamler compared Borges with David Lynch (and mentioned <a href="https://en.wikipedia.org/wiki/Twin_Peaks_(2017_TV_series)"><i>Twin Peaks: The Return</i></a> in particular), but I still fail to see the genius in Borges' work. I know there must be something I'm missing. This is frustrating.</comments>
   </podcast>
   <podcast>
@@ -1973,7 +1979,7 @@
   <podcast>
     <date>2018-07-31</date>
     <name url="http://verybadwizards.com/">Very Bad Wizards</name>
-    <episode url="https://verybadwizards.fireside.fm/144" number="144">Borges' Babylon</episode>
+    <episode url="https://www.verybadwizards.com/144" number="144">Borges' Babylon</episode>
     <comments>I read <a href="https://en.wikipedia.org/wiki/The_Library_of_Babel"><i>The Library of Babel</i></a> for the first time in my life a few days ago. As a computer scientist, I immediately thought that I could easily write a very short and simple program to enumerate all possible books of 410 pages and 3200 characters per page. Of course, this program would have to run for longer than the universe will exist. Most "books" wouldn't make any sense. Interesting information would be lost in quasi-infinite noise, so such a program (and, hence, the Library of Babel) would be completely useless. All in all, I fail to see the brilliance of that story. Yes, it's intriguing, but I'd say it's the discussions that it triggers that are interesting, not really the story itself. It kind of reminded me of <a href="https://en.wikipedia.org/wiki/La_Tour_(comics)"><i>La Tour</i></a>, from the <a href="https://en.wikipedia.org/wiki/Les_Cit%C3%A9s_obscures"><i>Cités obscures</i></a> series.</comments>
   </podcast>
   <podcast>
@@ -1997,7 +2003,7 @@
   <podcast>
     <date>2018-07-13</date>
     <name url="http://verybadwizards.com/">Very Bad Wizards</name>
-    <episode url="https://verybadwizards.fireside.fm/143" number="143">The Psychology of Personality</episode>
+    <episode url="https://www.verybadwizards.com/143" number="143">The Psychology of Personality</episode>
     <comments>I must admit I was not familiar with the <a href="https://en.wikipedia.org/wiki/Big_Five_personality_traits">Big Five personality traits</a>, so this was an instructive episode. The clustering / dimensionality reduction part (i.e. why five traits exactly?) was also interesting, but a bit less clear.</comments>
   </podcast>
   <podcast>
@@ -2027,7 +2033,7 @@
   <podcast>
     <date>2018-07-02</date>
     <name url="http://verybadwizards.com/">Very Bad Wizards</name>
-    <episode url="https://verybadwizards.fireside.fm/142" number="142">Suicide (with Matthew Nock)</episode>
+    <episode url="https://www.verybadwizards.com/142" number="142">Suicide (with Matthew Nock)</episode>
     <comments>The introduction was about the <a href="https://en.wikipedia.org/wiki/Stanford_prison_experiment#Criticism">Stanford prison experiment</a>: a lot of criticisms have appeared recently; in light of those, it sounds like the experiment is finally not that illuminating. The rest of the episode was not about the ethics of suicide, but about suicide prevention. It's difficult to do studies about suicide, for obvious reasons.</comments>
   </podcast>
   <podcast>
@@ -2045,7 +2051,7 @@
   <podcast>
     <date>2018-06-19</date>
     <name url="http://verybadwizards.com/">Very Bad Wizards</name>
-    <episode url="https://verybadwizards.fireside.fm/141" number="141">Implicit Bias</episode>
+    <episode url="https://www.verybadwizards.com/141" number="141">Implicit Bias</episode>
     <comments>From <a href="https://en.wikipedia.org/wiki/Implicit-association_test">Wikipedia</a>: "The implicit-association test (IAT) is a measure within social psychology designed to detect the strength of a person's automatic association between mental representations of objects (concepts) in memory." I had previously read that a lot of people who explicitly don't consider themselves racist can be shown by an IAT test to be implictly "racist". This episode gave me some perspective on the limitations of that kind of tests. What does it mean exactly to be racist? Should we only care about what people do (behaviour) and not about what people think?</comments>
   </podcast>
   <podcast>
@@ -2057,7 +2063,7 @@
   <podcast>
     <date>2018-06-12</date>
     <name url="http://verybadwizards.com/">Very Bad Wizards</name>
-    <episode url="https://verybadwizards.fireside.fm/140" number="140">Milgram's Mice</episode>
+    <episode url="https://www.verybadwizards.com/140" number="140">Milgram's Mice</episode>
     <comments>I'm beginning to understand why Tamler and David are so critical of moral dilemmas (trolley, etc.) and related studies. I agree with <a href="https://www.reddit.com/r/VeryBadWizards/comments/8lcwpd/episode_140_milgrims_mice/dzes4ne/">a comment on Reddit</a>: "the study doesn't really say much of anything interesting about what it sets out to, but on the other hand measuring or testing these things is damn hard in real life". Also, using mice as a proxy for human beings is probably not a good idea. It often doesn't work in biology/medicine and, here, it's obvious that's it's a poor choice for a psychology study.</comments>
   </podcast>
   <podcast>
@@ -2069,7 +2075,7 @@
   <podcast>
     <date>2018-06-05</date>
     <name url="http://verybadwizards.com/">Very Bad Wizards</name>
-    <episode url="https://verybadwizards.fireside.fm/139" number="139">Honor, Identity, and Headbutts</episode>
+    <episode url="https://www.verybadwizards.com/139" number="139">Honor, Identity, and Headbutts</episode>
     <comments>I don't have much to add compared to the Sam Harris episode. Let's say that I'm convinced we shouldn't throw the baby out with the bathwater. We have psychological needs, shaped by thousands of years of evolution. We should take those needs into account.</comments>
   </podcast>
   <podcast>
@@ -2093,7 +2099,7 @@
   <podcast>
     <date>2018-05-11</date>
     <name url="http://verybadwizards.com/">Very Bad Wizards</name>
-    <episode url="https://verybadwizards.fireside.fm/138" number="138">Memory, Pain, and Relationships (Eternal Sunshine of the Spotless Mind)</episode>
+    <episode url="https://www.verybadwizards.com/138" number="138">Memory, Pain, and Relationships (Eternal Sunshine of the Spotless Mind)</episode>
     <comments>Can we really erase memories? Do we have to consciously remember things to learn? These are just a couple of questions raised by the excellent <i>Eternal Sunshine of the Spotless Mind</i>, which I watched again for the first time since its release, just before listening to this episode. I guess I don't have much to say about this episode. I enjoyed it. It made me watch the movie again. And then it gave me a new perspective on it. I'm with Tamler on the ending: I have an optimistic interpretation of it.</comments>
   </podcast>
   <podcast>
@@ -2201,7 +2207,7 @@
   <podcast>
     <date>2018-04-12</date>
     <name url="http://verybadwizards.com/">Very Bad Wizards</name>
-    <episode url="https://verybadwizards.fireside.fm/137" number="137">Are Buddhists Afraid to Die? (with Shaun Nichols)</episode>
+    <episode url="https://www.verybadwizards.com/137" number="137">Are Buddhists Afraid to Die? (with Shaun Nichols)</episode>
     <comments>I was already very intrigued by this idea the last time I heard about it (in episode 133). "You might think that Buddhist conceptions of the self as illusory would reduce their fear of death (after all, if there's no real self, why worry about it ceasing to exist?). But the evidence collected by Shaun and colleagues suggests exactly the opposite. Why would that be?" Are Buddhists more aware of their feeling of fear? Are they more honest about it? Or is this result simply caused by the fact that you actually have to be a long-time meditator to really integrate the fact (?) that the self is an illusion? Or is it caused by the fact that Buddhists are usually happier, live their life more fully, and, hence, are more afraid of death?</comments>
   </podcast>
   <podcast>
@@ -2213,13 +2219,13 @@
   <podcast>
     <date>2018-04-10</date>
     <name url="http://verybadwizards.com/">Very Bad Wizards</name>
-    <episode url="https://verybadwizards.fireside.fm/119" number="119">A Brief History of Values</episode>
+    <episode url="https://www.verybadwizards.com/119" number="119">A Brief History of Values</episode>
     <comments>I don't know how to sum up this discussion, but the question is interesting: "What happens when we discover why we believe the things we believe? What if we discover that our values are the product of our cultural tradition, or personal experience, or natural selection? Should we be more skeptical of our values once we learn their history?" Sometimes, it doesn't change anything (e.g. knowing why we prefer some things over other things doesn't really change the fact that we like what we like) and, sometimes, it can change everything (e.g. knowing why we're biased or why we developed some moral instincts).</comments>
   </podcast>
   <podcast>
     <date>2018-04-05</date>
     <name url="http://verybadwizards.com/">Very Bad Wizards</name>
-    <episode url="https://verybadwizards.fireside.fm/118" number="118">We Don't Love Them Hoax</episode>
+    <episode url="https://www.verybadwizards.com/118" number="118">We Don't Love Them Hoax</episode>
     <comments>I'm with Tamler and David. Let's just say that I'm still not convinced by James Lindsay. He sounds like a smart guy, but a confused one. Maybe he has a point, but I don't get it.</comments>
   </podcast>
   <podcast>
@@ -2231,7 +2237,7 @@
   <podcast>
     <date>2018-04-05</date>
     <name url="http://verybadwizards.com/">Very Bad Wizards</name>
-    <episode url="https://verybadwizards.fireside.fm/136" number="136">The Good Life (with Laurie Santos)</episode>
+    <episode url="https://www.verybadwizards.com/136" number="136">The Good Life (with Laurie Santos)</episode>
     <comments>Most personal development / self-help books are useless, but I remain convinced that some advice <em>has</em> to be useful, especially if it comes from good, science-based psychology research. So I like this idea of applying psychology ideas to our own lives. Some "tips" mentioned in the episode: <a href="https://en.wikipedia.org/wiki/Gratitude_journal">gratitude journal</a>, forcing oneself to converse with other people (on the street, on the train, etc.), <a href="https://kripalu.org/resources/time-affluence-why-doing-less-makes-us-happier">time affluence</a>, putting one's phone away as much as possible, etc. There's still the problem of measuring happiness (whatever it is). Self-reporting seems like the obvious (i.e. easiest) method, but I guess it has many downsides (e.g. do we really know when we're happy?).</comments>
   </podcast>
   <podcast>
@@ -2243,7 +2249,7 @@
   <podcast>
     <date>2018-03-29</date>
     <name url="http://verybadwizards.com/">Very Bad Wizards</name>
-    <episode url="https://verybadwizards.fireside.fm/135" number="135">Utilitarianism and Moral Identity</episode>
+    <episode url="https://www.verybadwizards.com/135" number="135">Utilitarianism and Moral Identity</episode>
     <comments><a href="https://en.wikipedia.org/wiki/Bernard_Williams">Bernard Williams</a>'s idea that, if we really try and maximize a utility function (well-being of a population, etc.), we sometimes have to go against some of our core values, is interesting. His two moral dilemmas (<a href="http://philosophy.gmgauthier.com/bernard-williams-moral-dilemmas-and-utilitarianism/">Jim and George</a>) were illuminating. Now, after hearing this episode, I'm still not convinced that utilitarianism or consequentialism are problematic as theories. It just means that they're hard to implement in real life situations. <a href="https://www.reddit.com/r/VeryBadWizards/comments/84a5qp/ep_135_utilitarianism_moral_identity/">Some of the comments on Reddit were longer than usual</a>.</comments>
   </podcast>
   <podcast>
@@ -2261,7 +2267,7 @@
   <podcast>
     <date>2018-03-19</date>
     <name url="http://verybadwizards.com/">Very Bad Wizards</name>
-    <episode url="https://verybadwizards.fireside.fm/134" number="134">Digital Outrage</episode>
+    <episode url="https://www.verybadwizards.com/134" number="134">Digital Outrage</episode>
     <comments>The deontology vs utilitarianism dichotomy is a bit simplistic, I agree. It's easy for us, homo sapiens, to get outraged, especially on social media, as they're designed (via machine learning and/or evolutionary algorithms) to push our buttons. We have to be aware of those psychological and technological biases, and make the conscious effort to engage in civil discussions with people we disagree with. Realizing that people on social media are not necessarily a representative sample of the general population can help, too.</comments>
   </podcast>
   <podcast>
@@ -2273,13 +2279,13 @@
   <podcast>
     <date>2018-03-12</date>
     <name url="http://verybadwizards.com/">Very Bad Wizards</name>
-    <episode url="https://verybadwizards.fireside.fm/117" number="117">Extended Minds, Extended Foreskins</episode>
+    <episode url="https://www.verybadwizards.com/117" number="117">Extended Minds, Extended Foreskins</episode>
     <comments>About circumcision: it has almost nothing to do with female genital mutilation, which is way worse, but I'm still against it, except in case of medical indication. Can a notepad, a smartphone or even the entire internet be considered as an "extended mind"? This is an interesting question. Quickly retrieving some information from the internet using our smartphones is not totally unlike retrieving some information from our (biological) memory by thinking hard about it. It's different, but not totally. Except that if you lose your notepad or smartphone, you still have your brain, but it's hard to "lose your brain" (maybe if you're drunk or tired?). Also, some people know how to find information on the internet more easily than others. Especially <em>true</em> information. So having access to the internet is not enough. You have to know how to apply your critical thinking skills.</comments>
   </podcast>
   <podcast>
     <date>2018-03-08</date>
     <name url="http://verybadwizards.com/">Very Bad Wizards</name>
-    <episode url="https://verybadwizards.fireside.fm/116" number="116">Pain, Pleasure, and Peer-Reviewed Penises</episode>
+    <episode url="https://www.verybadwizards.com/116" number="116">Pain, Pleasure, and Peer-Reviewed Penises</episode>
     <comments>About the conceptual penis hoax: Tamler and Dave think "the hoax does not succeed in demonstrating what the authors purport it does", because the paper was published in a pay-to-publish journal. I agree with them and I don't understand what the big deal is with that hoax. It's pretty lame. Actually, I'm disappointed in one of its authors, James Lindsay. I read two of his books and his last one was <a href="http://olivier.bruchez.name/books#2017-02-08">really average</a>. I wrote him an email and never got an answer. I guess he's not the kind of person interested in discussion... The second part of the episode was also interesting. How do you measure pain, pleasure, well-being, happiness, etc.? How do you compare them between people? If you use self-reported values (let's say on a scale from 0 to 100), this is problematic, because depending on one's personal experiences, a given value might have different meanings. If you've never given birth to a baby without pain medication or if you've never been shot, maybe you've never really experienced pain. Same thing for pleasure, happiness, etc. We know that people have such differences in taste buds in their tongue that they will taste the exact same food very differently. If it is true for very basic sensations, it's probably also true for very complex emotions, which will be even harder to measure objectively.</comments>
   </podcast>
   <podcast>
@@ -2297,19 +2303,19 @@
   <podcast>
     <date>2018-02-28</date>
     <name url="http://verybadwizards.com/">Very Bad Wizards</name>
-    <episode url="https://verybadwizards.fireside.fm/115" number="115">Which Field is More Fu@%ed: Philosophy or Psychology?</episode>
+    <episode url="https://www.verybadwizards.com/115" number="115">Which Field is More Fu@%ed: Philosophy or Psychology?</episode>
     <comments>Philosophy: it's an old field (more than 2000 years old), but has it "solved" any problem? How could we measure it? Then there's the problem that philosophy is not really tackling the "big questions" anymore (i.e. the meaning of life, etc.). In that sense, is it really "useful"? Doesn't philosophy spend too much time on defining and redefining words and questions? Psychology: there's the huge problem of replication (see <a href="https://en.wikipedia.org/wiki/Replication_crisis#In_psychology">replication crisis</a>). Then there's the problem that it sometimes make claims that are too broad/general. Some of the problems in psychology are widespread in science in general (e.g. modifying the hypothesis after analyzing the data, fraud, <a href="https://en.wikipedia.org/wiki/Data_dredging">p-hacking</a>, etc.).</comments>
   </podcast>
   <podcast>
     <date>2018-02-23</date>
     <name url="http://verybadwizards.com/">Very Bad Wizards</name>
-    <episode url="https://verybadwizards.fireside.fm/113" number="113">Pascal, Probability, and Pitchforks</episode>
+    <episode url="https://www.verybadwizards.com/113" number="113">Pascal, Probability, and Pitchforks</episode>
     <comments>It's difficult to take <a href="https://en.wikipedia.org/wiki/Pascal%27s_Wager">Pascal's Wager</a> completely seriously nowadays, but it's still a very interesting argument. The two main criticisms are that: 1) you can't decide to believe something if you don't already believe it (just like you can't decide to fall in love with somebody) 2) there are many religions, so why should we believe in the Christian God and not in the many other gods from other religions? I didn't know about the <a href="https://en.wikipedia.org/wiki/Pascal%27s_mugging">Pascal's mugging</a> thought experiment. Highly unlikely events with high rewards or severe punishments are hard to reason about. Similarly, transformative experiences/decisions (having a child, etc.) are also hard to take rationally (how do you weigh complex choices?).</comments>
   </podcast>
   <podcast>
     <date>2018-02-21</date>
     <name url="http://verybadwizards.com/">Very Bad Wizards</name>
-    <episode url="https://verybadwizards.fireside.fm/112" number="112">Gettier Goggles</episode>
+    <episode url="https://www.verybadwizards.com/112" number="112">Gettier Goggles</episode>
     <comments>An episode about the <a href="https://en.wikipedia.org/wiki/Gettier_problem">Gettier problem</a> ("Gettier-type counterexamples [...] challenged the long-held justified true belief (or JTB) account of knowledge"). I think I understand why Tamler thinks people have devoted too much time to this problem (which I knew nothing about before listening to this episode). At the same time, I don't have a problem with researchers/thinkers devoting a lot of time to "useless" problems, because you never really know beforehand what impact a research project/paper is actually going to have. A lot of people probably think we should devote less time to string theory, for example. Should we, though? I don't think so. That being said, after hearing Tamler/David's discussion, I fail to see what's particularly interesting in the justified true belief (JTB) position and, hence, in the Gettier problem. "Knowledge as justified true belief" looks like a simplistic way of defining knowledge. There's always some uncertainty about what we think we know. It's implicit. We could live in a simulation, for example. For me, there's always room for an alternate explanation, but, at some point, you have to decide what you believe is true, based on the information you have, and go with it.</comments>
   </podcast>
   <podcast>
@@ -2333,19 +2339,19 @@
   <podcast>
     <date>2018-02-14</date>
     <name url="http://verybadwizards.com/">Very Bad Wizards</name>
-    <episode url="https://verybadwizards.fireside.fm/111" number="111">Our Language Doesn't Have a Word For This Title (with Yoel Inbar)</episode>
+    <episode url="https://www.verybadwizards.com/111" number="111">Our Language Doesn't Have a Word For This Title (with Yoel Inbar)</episode>
     <comments>Would you still decide to have a daughter if you knew she would die at a young age? Bonus question: if you could know exactly when you're going to die, would you prefer to know or to remain ignorant of the date of your death? <i>Arrival</i> was a good movie. I liked it. It's not the greatest science fiction movie ever made, but it's really good and beautiful. Like all movies with time paradoxes or time travel, it's full of inconsistencies (some of them I hadn't noticed), but it remains enjoyable nevertheless. One of the interesting aspects of the movie was how it dealt with the theme of language. It follows the <a href="https://en.wikipedia.org/wiki/Linguistic_relativity">Sapir–Whorf hypothesis</a> (i.e. "the structure of a language affects its speakers' world view or cognition."), which is a controversial, but intriguing hypothesis. It's pretty clear that having more words to describe the world is useful and makes us more attentive to some concepts/details. Some metaphors can also influence our behaviour (if you see a debate as a "war to win", for example). In the end, I don't know if I would have a child knowing that she/he would die at 16 and I'm not even sure I would like to know the date of my death, but the message in <i>Arrival</i> is clear: we should cherish the time we have (with our family, our friends, etc.), even if we don't always have the control on what happens in our lives.</comments>
   </podcast>
   <podcast>
     <date>2018-02-13</date>
     <name url="http://verybadwizards.com/">Very Bad Wizards</name>
-    <episode url="https://verybadwizards.fireside.fm/110" number="110">Stepsisters and Neck Braces (with Yoel Inbar)</episode>
+    <episode url="https://www.verybadwizards.com/110" number="110">Stepsisters and Neck Braces (with Yoel Inbar)</episode>
     <comments>I don't have much to say about the Charles Murray protest at Middlebury. People should have the right to protest and to express themselves, but physically preventing people to talk or physically assaulting them is always bad. Do these incidentes happen more lately, though? It's not clear. What's clear is that it's good for people (and especially young people) to feel bad about the ideas of other people. When someone disagrees with me, I often have to breathe and calm down before answering, so I understand why it's so upsetting to hear different views, but we all have to make conscious efforts to have better discussions, even with people with very different opinions. It's hard, but it's worth it.</comments>
   </podcast>
   <podcast>
     <date>2018-02-12</date>
     <name url="http://verybadwizards.com/">Very Bad Wizards</name>
-    <episode url="https://verybadwizards.fireside.fm/133" number="133">Death and Dreams</episode>
+    <episode url="https://www.verybadwizards.com/133" number="133">Death and Dreams</episode>
     <comments>I agree that dreams are often a lazy way to explain something in a TV show or movie, but not always (e.g. David Lynch). I agree with Dave that saying death is like "before our birth" is not comforting. It's not the absence of consciousness that's scary. There's an asymmetry between the "death" before our birth and the death after our life: it sucks more to lose what you have than what you've never had. In that sense, death is always dramatic (when we're young, when we're middle-aged, and when we're old). Yes, it's more normal to die when you're old. If you're old and tired, it can even make death more appealing, but if you're old and healthy, then no amount of time is enough to make death seem less dramatic. About Buddhist monks being afraid of death: it's an intriguing paradox, but it can also be logical. By meditating, learning that the self is an illusion, being more grateful, learning to live in the moment, etc., you actually become better at "enjoying" life. It doesn't really change anything about death: to really accept death, you have to accept that it's somewhat a good thing. But how can you think death is a good thing if you enjoy life and are healthy?</comments>
   </podcast>
   <podcast>
@@ -2363,19 +2369,19 @@
   <podcast>
     <date>2018-02-01</date>
     <name url="http://verybadwizards.com/">Very Bad Wizards</name>
-    <episode url="https://verybadwizards.fireside.fm/109" number="109">Moral Pluralism: Behind the Lube</episode>
+    <episode url="https://www.verybadwizards.com/109" number="109">Moral Pluralism: Behind the Lube</episode>
     <comments>Most people will probably say that child sex dolls should be illegal and are unethical. As a consequentialist, I would say that it depends whether the consequences are good (i.e. it will lead a paedophile to not have sex with actual children) or bad (i.e. it will exacerbate the problem). I guess we don't have empirical data about this and, in the absence of any such data, it's probably a safe "bet" to make them illegal. Unfortunately, the problem will only get worse with virtual reality, realistic computer-generated videos, etc. The discussion about moral pluralism was hard to follow. I think I still don't understand what <a href="http://ethicsunwrapped.utexas.edu/glossary/moral-pluralism">moral pluralism</a> is in practice. "Moral pluralism is the idea that there can be conflicting moral views that are each worthy of respect. [...] Moral pluralists believe that many moral issues are extremely complicated." It sounds like I might be a moral pluralist, then. Does it make sense to be a consequentialist in principle and a moral pluralist in practice? I'm not sure.</comments>
   </podcast>
   <podcast>
     <date>2018-01-30</date>
     <name url="http://verybadwizards.com/">Very Bad Wizards</name>
-    <episode url="https://verybadwizards.fireside.fm/108" number="108">The Gimp Exception</episode>
+    <episode url="https://www.verybadwizards.com/108" number="108">The Gimp Exception</episode>
     <comments>Research tip: you have to read a lot (papers, books) or else you risk being not very original (old/derivative ideas). Moral hypocrisy: see <a href="https://www.nytimes.com/2017/01/13/opinion/sunday/the-real-problem-with-hypocrisy.html">this article</a>. "We contend that the reason people dislike hypocrites is that their outspoken moralizing falsely signals their own virtue. People object, in other words, to the misleading implication — not to a failure of will or a weakness of character. [...] Logically speaking, there is nothing dishonest about condemning an action and also engaging in it. [...] Our contention is that your objection to your co-worker is perfectly logical, because the principal offense of a hypocrite is not that he violates his own principles, but rather that his use of moral proclamations falsely implies that he himself behaves morally."</comments>
   </podcast>
   <podcast>
     <date>2018-01-29</date>
     <name url="http://verybadwizards.com/">Very Bad Wizards</name>
-    <episode url="https://verybadwizards.fireside.fm/132" number="132">Emotional Willpower (with David DeSteno)</episode>
+    <episode url="https://www.verybadwizards.com/132" number="132">Emotional Willpower (with David DeSteno)</episode>
     <comments>Betting on our willpower to achieve our goals is a bad idea. This is not a new observation. Scott Adams says we should bet on systems, for example. For DeSteno, we should develop positive emotional habits, as <a href="https://greatergood.berkeley.edu/article/item/three_emotions_that_can_help_you_succeed_at_your_goals">he explains in this article</a>: "The problem is that when we are faced with choices between pleasure now and reward in the future, we will often choose the former. [...] I propose that you cultivate the positive emotions of gratitude, compassion, and pride. Why these emotions? Because they evolved to help us act in "prosocial" (kind and helpful) ways, effortlessly bringing out our better natures and encouraging a long-term view of our present-day actions. And these emotions have three advantages over reason, habits, and willpower: Their strength doesn't wane after repeated use, they can't be hijacked to favor immediate rewards, and they improve our decisions in different areas of life at the same time." There's a "a connection between daily gratitude and greater average patience and self-control." Writing a gratitude journal can help. And you don't need to feel gratitude towards someone: "Even luck [...] can lead to a feeling of gratitude." Compassion for our future self and self-compassion can help, and meditation can be used to encourage compassion. Finally, "authentic pride" can help, too, so it's important to realize that "we learn from our mistakes and that effort matters".</comments>
   </podcast>
   <podcast>
@@ -2387,7 +2393,7 @@
   <podcast>
     <date>2018-01-25</date>
     <name url="http://verybadwizards.com/">Very Bad Wizards</name>
-    <episode url="https://verybadwizards.fireside.fm/120" number="120">Clap Your Hand for Robert Wright</episode>
+    <episode url="https://www.verybadwizards.com/120" number="120">Clap Your Hand for Robert Wright</episode>
     <comments>The second interview with Robert Wright that I listen to (the first one being the interview on the Sam Harris podcast). I like how Wright describes meditation as a way to become more aware of our evolutionary biases (moral values, emotions, etc.). Evolution doesn't want us to be happy; it wants us to reproduce, to copy our genes. For that, it kind of needs us to be unhappy, to be always struggling, unsatisfied. For Buddhism, seing things as they really are can lead to happiness and make us better persons. Is it really true, though? This is an empirical question. Do we have any data about this?</comments>
   </podcast>
   <podcast>
@@ -2405,13 +2411,13 @@
   <podcast>
     <date>2018-01-12</date>
     <name url="http://verybadwizards.com/">Very Bad Wizards</name>
-    <episode url="https://verybadwizards.fireside.fm/131" number="131">I Have No Genitals and I Must Scream</episode>
+    <episode url="https://www.verybadwizards.com/131" number="131">I Have No Genitals and I Must Scream</episode>
     <comments><p>According to the paper mentioned in that episode, children that lie tend to be more intelligent than others. Should we encourage our children to lie more? Of course not. Lying is just one of many metrics you can use as a correlate for intelligence. There are many other things that you <i>should</i> encourage before lying.</p><p>About the <i>Black Mirror</i> episodes: I was expecting a discussion about the feasibility of artificial consciousness, philosophical zombies, etc., but I guess Dave and Tamler's discussion was a good start. They mentioned the fact that it's impossible to duplicate a person with all her/his memories using just her/his DNA (it's so obvious I don't know what the writers were thinking...). Sam Harris' idea that morality matters only when we're talking about conscious creatures/entities was, I think, briefly mentioned. The part of the discussion about punishment and what it means to punish a (conscious) digital copy of a person was interesting. I think that, at this point, they should have mentioned free will, though. If it doesn't make any sense to punish a copy of someone, does it make sense to punish the "original"? Of course, here, it's all about the psychological "benefits" of revenge, not about its effects on the "guilty" persons and on society as a whole. I already mentioned that <a href="http://olivier.bruchez.name/podcasts#2017-09-01">artificially conscious agents created with the goal of maximizing suffering is one of my worst nightmares</a>. Think about a conscious entity suffering at the maximum level at all time, continually, for billion of years, in a virtual environment where this entity cannot do anything but suffer (including choosing to die / committing suicide). Now think about a billion of those entities. What's the limit? "USS Callister" and "Black Museum" came pretty close to this idea of "artificial torture". It's important to have those very abstract / difficult concepts presented in a TV show. I think they might introduce them to more people and that the vital discussion about consciousness, morality, artificial intelligence/consciousness, etc. will grow.</p></comments>
   </podcast>
   <podcast>
     <date>2018-01-11</date>
     <name url="http://verybadwizards.com/">Very Bad Wizards</name>
-    <episode url="https://verybadwizards.fireside.fm/130" number="130">Dehumanization and Disintegration (with Paul Bloom)</episode>
+    <episode url="https://www.verybadwizards.com/130" number="130">Dehumanization and Disintegration (with Paul Bloom)</episode>
     <comments><p>About personal identity: I was glad/intrigued to hear Paul Bloom talk about some people that have different intuitions, in particular about what matters or what should matter (if I understood correctly). Should we fear death by a teleporter, knowing that we're usually okay with sleeping and that we lose consciousness every night? Knowing that we're not really the same persons as we were 20-30 years ago? Yes, there's a physical continuity in the case of sleep, but without being a dualist, if I understand correctly (again), particles/atoms don't have what we could call an identity, so there's nothing special about the fact that our brains are made of a certain set of particles/atoms. Is there anything intrinsically bad about death knowing that we're all going to die someday? Also, should we be that interested in mind uploading if we're making copies of ourselves and not "transfering" any dualist soul? In summary, I still can't wrap my head around the fact that: 1) the soul doesn't exist 2) we seem to be our brains 3) the actual matter in our brains change over time (really?). I think our intuitions are wrong here, including Dave and Tamler's. I really need to read Derek Parfit.</p><p>About <i>Mr. Robot</i>: I guess I'm starting to agree that there should be only four seasons. I really hope that Sam Esmail has a real ending in mind and that the show won't end in a disappointing way like <i>Lost</i>.</p><p>About dehumanization: one the one hand, being more humane doesn't magically leads to more good; violence often comes from lack of control. On the other hand, <a href="https://www.facebook.com/VeryBadWizards/posts/1547784538640508">as someone wrote on Facebook</a>: "We have glaring examples all around us that indicate that understanding the humanity of another individual is a laborious and skillful process; we shouldn't assume that everybody has completed this process for everybody on the planet. [...] We are born being able to see individuals as agentic beings and therefore consider strategies about how to interact with them to our advantage (whether through violent or pro-social behaviors), but seeing their humanity (and the "humanity" of animals) is a process which relies on a seed (of varying viability for different people) of empathy and cultivation of that seed (both by the individual and the society)."</p></comments>
   </podcast>
   <podcast>
@@ -2435,19 +2441,19 @@
   <podcast>
     <date>2017-12-21</date>
     <name url="http://verybadwizards.com/">Very Bad Wizards</name>
-    <episode url="https://verybadwizards.fireside.fm/107" number="107">Winking Under Oppression (with Manuel Vargas)</episode>
+    <episode url="https://www.verybadwizards.com/107" number="107">Winking Under Oppression (with Manuel Vargas)</episode>
     <comments>This was a hard one. First of all, because I didn't think the discussion/interview was particularly well structured; it was really hard to follow. Then, when it comes to free will, I'm a determinist more than a compatibilist, although I think I understand the compatibilist position pretty well. I also understand that the determinist position is not very useful in practice, when we're talking about justice. So one of the main questions in this episode was: does oppression reduce the number of degrees of freedom of an agent/person? Does it reduce his/her culpability? If so, in what way? Maybe I was too tired, but I didn't think the discussion was very illuminating.</comments>
   </podcast>
   <podcast>
     <date>2017-12-19</date>
     <name url="http://verybadwizards.com/">Very Bad Wizards</name>
-    <episode url="https://verybadwizards.fireside.fm/129" number="129">Dystopias</episode>
+    <episode url="https://www.verybadwizards.com/129" number="129">Dystopias</episode>
     <comments>Not much to say about this one. Most of the movies about dystopias mentioned during this episode and that I haven't seen are apparently "average" movies (according to my strict standards about IMDb ratings), the exceptions being <a href="http://www.imdb.com/title/tt0206634/"><i>Children of Men</i></a> and <a href="http://www.imdb.com/title/tt0057427/"><i>The Trial</i></a> (but, having read Kafka's book, I'm not sure I want to watch Welles' movie). I really need to watch <a href="http://www.imdb.com/title/tt0066921/"><i>A Clockwork Orange</i></a> again, though.</comments>
   </podcast>
   <podcast>
     <date>2017-12-15</date>
     <name url="http://verybadwizards.com/">Very Bad Wizards</name>
-    <episode url="https://verybadwizards.fireside.fm/106" number="106">American Grandstand</episode>
+    <episode url="https://www.verybadwizards.com/106" number="106">American Grandstand</episode>
     <comments>I learned a new word: grandstand ("to behave dramatically or showily to impress an audience or observers; to pander to a crowd."). In French, we could say "jouer pour la galerie" or "faire l'intéressant". "Moral grandstanding" would be translated to "grandiloquence morale". This is something I have to resist doing, especially when it comes to vegetarianism/veganism (am I doing this again, right here?). I'm always torn between just doing the right thing, giving money to associations ("fighting" for me), and shutting up, on the one hand, and preaching (and, thus, annoying people), on the other hand. There's a hard balance to find between the two. Moral signaling is probably something deeply ingrained in us. We want to belong to groups that think like us. I guess the lesson is that we have to try and to be as humble as possible.</comments>
   </podcast>
   <podcast>
@@ -2471,7 +2477,7 @@
   <podcast>
     <date>2017-12-08</date>
     <name url="http://verybadwizards.com/">Very Bad Wizards</name>
-    <episode url="https://verybadwizards.fireside.fm/128" number="128">Fragmented Values and Sex Panics (with Christina Hoff Sommers)</episode>
+    <episode url="https://www.verybadwizards.com/128" number="128">Fragmented Values and Sex Panics (with Christina Hoff Sommers)</episode>
     <comments>I kind of struggled with what Louis CK did (I wrote <a href="https://bruchez.blogspot.ch/2017/12/luvre-et-lartiste-metoo.html">an article about it</a>). This episode helped me clarify my position. I agree that we're not in a "sex panic" yet, but I see how we could get there, so we have to be careful. Not all men are bad. Not all women can be trusted. The part about Thomas Nagel' paper was interesting, but harder for me to follow. Again, I think the point of view of a computer scientist can help. I disagree with Tamler (and David?) about the fact that our intuitions and our wisdom cannot be modeled by algorithms. Not by simple, naive algorithms, no, but by more complex algorithms, such as neural networks. Modern machine learning / deep learning algorithms are still crude, but they can already learn and model complex and fuzzy data sets. The problem is that they then become "black boxes": we don't know how they learned what they learned. So, yes, it's easier for humans to come up with simple, discrete, "fragmented" values, but it doesn't mean, in my opinion, that a more complex, harder-to-understand unified system is not possible, in principle. If utilitarianism is about simple utility functions, then, yes, utilitarianism is wrong. If utilitarianism can use complex utility functions that don't necessarily make sense to humans, then I think it can still be true. That's my intuition, at least. Again, Nagel sounds like someone I should read. He doesn't seem put off by hard, (currently) unsolvable problems.</comments>
   </podcast>
   <podcast>
@@ -2495,19 +2501,19 @@
   <podcast>
     <date>2017-11-27</date>
     <name url="http://verybadwizards.com/">Very Bad Wizards</name>
-    <episode url="https://verybadwizards.fireside.fm/105" number="105">Wizards With (Reactive) Attitudes</episode>
+    <episode url="https://www.verybadwizards.com/105" number="105">Wizards With (Reactive) Attitudes</episode>
     <comments>Not a very good episode. Tamler is constantly reminding the listener that he used to be a free will incompatibilist/skeptic, but that he's now an "enlightened" compatibilist. Yes, I know, this is supposed to be funny (maybe), but it's also annoying, because of another problem: when talking about Sam Harris' position, they're actually attacking a straw man, unless I'm really missing something. They're doing exactly <a href="https://bruchez.blogspot.com/2016/07/daniel-dennett-les-philosophes-et-les.html">what Dennett has been doing in the past</a>, pretending that "[Harris, Coyne, etc.] want us to completely abandon punishment". Quoting Harris and proving that it's a straw man: <a href="https://www.quora.com/Free-Will-What-are-the-differences-between-Sam-Harriss-determinism-and-Dan-Dennetts-compatibalism-Which-do-you-agree-with-and-why">"I agree that punishment might be practically necessary in certain cases (as it might be the only way to get people to behave)"</a>. So Tamler, and maybe David as well, are annoyingly condescending, here. And factually incorrect. Also, I'm tired of the "Nahmias" position on people's intuitions about free will. It really doesn't make <em>any</em> sense. <a href="https://www.facebook.com/VeryBadWizards/posts/1199105543508411">Some people on Facebook are apparently also a bit frustrated</a>. Another problem with this episode (or with me?): I still don't know what Strawson's position about reactive attitudes is. Finally, the fight at the end was weird. Yeah, definitely not a good episode...</comments>
   </podcast>
   <podcast>
     <date>2017-11-26</date>
     <name url="http://verybadwizards.com/">Very Bad Wizards</name>
-    <episode url="https://verybadwizards.fireside.fm/102" number="102">Red, Black, and Blue</episode>
+    <episode url="https://www.verybadwizards.com/102" number="102">Red, Black, and Blue</episode>
     <comments>I enjoyed the part about the Black Mirror episode <a href="https://en.wikipedia.org/wiki/San_Junipero"><i>San Junipero</i></a>, which was an episode I really liked. It's partly dark, partly happy, but not in a clear way. You don't really know what to think of it. It's about healthcare, death, love, the meaning of life, virtual reality, mind uploading, and probably many other things as well. The way virtual reality is portrayed is plausible. Simulating whole universes where real people can meet and interact is already a thing. Doing it in a more realistic way, with more complex brain-machine interfaces that could lead to "simulated" pain, pleasure, etc. is, I bet, something that will happen. Now, mind uploading is another problem. David and Tamler are not convinced that it's possible. The argument is the same as the "teleporter as a suicide machine". I still don't know what to think. Another intriguing question, raised by the Black Mirror episode, is the following: can life be meaningful if it doesn't really end? Can an artificial life or artificial "heaven" where you cannot die be meaningful? My current answer would be: yes, but probably not with our current psychology. Still, I think you can have your cake (immortality) and eat it (meaning).</comments>
   </podcast>
   <podcast>
     <date>2017-11-24</date>
     <name url="http://verybadwizards.com/">Very Bad Wizards</name>
-    <episode url="https://verybadwizards.fireside.fm/101" number="101">Having Desert and Eating It Too</episode>
+    <episode url="https://www.verybadwizards.com/101" number="101">Having Desert and Eating It Too</episode>
     <comments>The parallel between free will and art/sports didn't really work for me, but it's interesting. I usually don't care whether artists or athletes deserve blame/praise or awards/medals. I don't have any interest in sport, but I listen to music, watch movies, visit museums, etc., because I enjoy good music, good movies, good paintings, etc. I associate artists with what they produce only in the sense that it helps me discover more good music, good movies, etc., but I don't feel the need to blame artists if they produce bad art. I just ignore them. Now, bad moral behavior is something entirely different: it can be dangerous to society. So we use blame as a signal: don't do that; we don't want you to do that. So, am I a compatibilist? I don't know. Maybe. I still think determinism is a very important concept when talking about ethics and not when talking about art, because if we blame somebody, we have to do it pragmatically, but we have to do it very carefuly, recognizing that if she did what she did, at a given point in time, she couldn't have done otherwise in the "absolute" sense, only in the "local" / "degrees of freedom" sense. A good quote from Facebook: "the key difference, which you somewhat hovered around is that in the aesthetic case we are using accolades and calling for recognition, not making statements regarding character attributions, on top of encouragement which is common to both."</comments>
   </podcast>
   <podcast>
@@ -2519,7 +2525,7 @@
   <podcast>
     <date>2017-11-20</date>
     <name url="http://verybadwizards.com/">Very Bad Wizards</name>
-    <episode url="https://verybadwizards.fireside.fm/127" number="127">Moral Luck</episode>
+    <episode url="https://www.verybadwizards.com/127" number="127">Moral Luck</episode>
     <comments>For once, I didn't disagree with David and Tamler about free will. Yes, we have to accept both the reality of determinism (microscopic/physical view) and the reality that our brains don't see people as things and don't see people's actions as just physical events (macroscopic/societal view). Our brains evolved to understand the world as a place with agents having intentions, not as a place composed of a large number of particles interacting in a very complex and chaotic way. Are we completely constrained by our brains? Maybe. Maybe not. Apparently, some people can use meditation to really see that there's no limit between the self and the rest of the world, and that thoughts just happen (i.e. that there's no thinking self having those thoughts). Anyway, Thomas Nagel really sounds like a very clever philosopher. I should read one of his books or papers someday. I like how he doesn't feel the need to resolve the tension he describes in his paper.</comments>
   </podcast>
   <podcast>
@@ -2531,25 +2537,25 @@
   <podcast>
     <date>2017-11-16</date>
     <name url="http://verybadwizards.com/">Very Bad Wizards</name>
-    <episode url="https://verybadwizards.fireside.fm/125" number="125">Can You Feel It?</episode>
+    <episode url="https://www.verybadwizards.com/125" number="125">Can You Feel It?</episode>
     <comments>The more I think about the "teleporter as a suicide machine" concept, the less I'm sure what I think about it. Isn't the fact that our intuition tells us that teleporting somebody is equivalent to killing her/him the same as having a dualistic view of the mind/body (substance dualism)? I should probably write a blog post about this (consciousness, identity, teleporting, mind uploading, death, etc.). The part of the episode about emotions was interesting to me, because I realized there's a parallel to be made between the emotion-language or color-language mapping problems and the algorithmic problem of clustering n-dimensional points/vectors (e.g. <a href="https://en.wikipedia.org/wiki/K-means_clustering">k-means clustering</a>, etc.). How do you choose the number of clusters? How do you define the distance between two points/vectors? And, then, how do you map those clusters to human concepts? Could you use a neural network to do that? Isn't that approximately how our brains map raw emotions or sensory perceptions to linguistic concepts?</comments>
   </podcast>
   <podcast>
     <date>2017-11-14</date>
     <name url="http://verybadwizards.com/">Very Bad Wizards</name>
-    <episode url="https://verybadwizards.fireside.fm/83" number="83">Ego Trip</episode>
+    <episode url="https://www.verybadwizards.com/83" number="83">Ego Trip</episode>
     <comments>Cognitive biases are a way for our brains to keep a set of more coherent beliefs, to have more "easily retrievable" beliefs. Complex sets of nuanced or even contradictory beliefs are harder to manage for our brains. This has the obvious drawback of making our beliefs harder to change. There's a parallel to be made with governments or tribes, who tend to be resistant to changes coming from the outside but also from the inside (intolerance for individuals that behave differently, against the rules, etc.), which makes them easier to govern. This is a question of trade-off, as cognitive biases also make us hold beliefs that are simply not true. I guess I should read <i>The Totalitarian Ego</i>. It sounds like an interesting paper.</comments>
   </podcast>
   <podcast>
     <date>2017-11-10</date>
     <name url="http://verybadwizards.com/">Very Bad Wizards</name>
-    <episode url="https://verybadwizards.fireside.fm/126" number="126">The Absurd</episode>
+    <episode url="https://www.verybadwizards.com/126" number="126">The Absurd</episode>
     <comments>The moral dilemmas at the beginning were fun. People have very different moral intuitions. As often, I tend to agree more with David. I would also pay $100 to make my next child more intelligent (by one standard deviation), but I'm ready to bet that a lot of people I know would be against it. Another proof that appeal to nature is hard to escape, I guess. The case of the anti-gay baker was definitely not a "no-brainer" for me. Absurdism is a topic I'm highly interested in. I read <i>Le Mythe de Sisyphe</i> by Camus in 2013. Like David (again), I tend to be regularly depressed when realizing the absurdity of life (i.e. the absence of "ultimate" meaning in life). Some people find it easy to not think too much about it. Or have commited a philosophical suicide (to use a terminology introduced by Camus) by embracing religions. Not me. I liked the interpretation that "nothing is important" can be depressing, but it can also help us overcome arguments and put our problem in perspective.</comments>
   </podcast>
   <podcast>
     <date>2017-11-08</date>
     <name url="http://verybadwizards.com/">Very Bad Wizards</name>
-    <episode url="https://verybadwizards.fireside.fm/121" number="121">The Beauty of Illusion - David Lynch's "Mulholland Drive"</episode>
+    <episode url="https://www.verybadwizards.com/121" number="121">The Beauty of Illusion - David Lynch's "Mulholland Drive"</episode>
     <comments>I've watched <i>Mulholland Drive</i> only twice, the first time in 2001 and the second time in 2011. I'm surprised how much I remember about the movie and its "correct" interpretation. The part about the diner scene was interesting, because I hadn't thought too much about it. I like Tamler and David's interpretation (i.e. Lynch, the director, talking almost directly to the audience, via different scenes, the most obvious one being the Club Silencio scene).</comments>
   </podcast>
   <podcast>
@@ -2591,13 +2597,13 @@
   <podcast>
     <date>2017-10-06</date>
     <name url="http://verybadwizards.com/">Very Bad Wizards</name>
-    <episode url="https://verybadwizards.fireside.fm/44" number="44">Killer Robots</episode>
+    <episode url="https://www.verybadwizards.com/44" number="44">Killer Robots</episode>
     <comments>I'm convinced that we will be able to create perfectly moral AI agents. Conscious or not, they will be able to replicate or simulate the effects of emotions, if needed. Now I'm not sure I'm convinced that any country would really want to "play nice" during an armed conflict. Yes, I'm aware of the Geneva Conventions, but I'm not sure the concept of <em>ethical war</em> really makes sense... The idea of simulating a war (instead of actually, physically going to war) is intriguing, but, ultimately, could only work in a context where countries have become mature enough to realize that war is useless. Isn't that what sports are about, anyway?</comments>
   </podcast>
   <podcast>
     <date>2017-10-05</date>
     <name url="http://verybadwizards.com/">Very Bad Wizards</name>
-    <episode url="https://verybadwizards.fireside.fm/42" number="42">Reason, Responsibility, and Roombas (With Paul Bloom)</episode>
+    <episode url="https://www.verybadwizards.com/42" number="42">Reason, Responsibility, and Roombas (With Paul Bloom)</episode>
     <comments>It's interesting to think about our intuitions about teleportation, identity, and death. The movie <a href="https://en.wikipedia.org/wiki/The_Prestige_(film)"><i>The Prestige</i></a> is illuminating in that respect. I agree that <a href="http://existentialcomics.com/comic/1">a teleporter is basically a suicide machine</a>. It doesn't matter if the reconstructed person at the other end of the teleporter says he's me. It could be an entirely different person; my intuitions shouldn't change. I agree with that. I've always wondered what this means for mind uploading. The logical conclusion seems to be that mind uploading is impossible (it would be another kind of suicide machine, after all). But, at the same time, this all sounds too dualist to me. I don't know how to completely reconcile the suicide machine intuition with the materialist view of the mind (i.e. we don't have a soul). I don't have much to say about the reason vs biases/impulses discussion. I agree with most of what was being said. Finally, is "biochemical Roombas" (Tamler) better than "biochemical puppets" (Sam Harris) as a metaphor for the fact that we don't have libertarian free will? I get it that in the case of the Roombas, it makes it clear that the decisions are made by an "internal algorithm" and not an "external agent", but internally or not, it doesn't really matter: the laws of physics are everywhere. And that's, in my opinion, the whole point of insisting that we're never completely free (absolute/libertarian freedom).</comments>
   </podcast>
   <podcast>
@@ -2609,13 +2615,13 @@
   <podcast>
     <date>2017-10-02</date>
     <name url="http://verybadwizards.com/">Very Bad Wizards</name>
-    <episode url="https://verybadwizards.fireside.fm/124" number="124">Dr. Strawson or: How I Learned to Stop Worrying and Love the Episodic Life</episode>
+    <episode url="https://www.verybadwizards.com/124" number="124">Dr. Strawson or: How I Learned to Stop Worrying and Love the Episodic Life</episode>
     <comments>Am I episodic or diachronic, i.e. do I see my life as a series of separable events or as a consistent, continuous story? I guess I don't have a strong opinion one way or the other. Can I answer "both"?</comments>
   </podcast>
   <podcast>
     <date>2017-09-30</date>
     <name url="http://verybadwizards.com/">Very Bad Wizards</name>
-    <episode url="https://verybadwizards.fireside.fm/123" number="123">What Chilling Effect? (Intelligence Pt. 2)</episode>
+    <episode url="https://www.verybadwizards.com/123" number="123">What Chilling Effect? (Intelligence Pt. 2)</episode>
     <comments>Race is a fuzzy term. It doesn't correlate exactly with biological features. Sometimes it correlates more with cultural features. Sometimes, it's not clear which "race" (or, more exactly, ethnicity) you should belong to (e.g. latin vs black). For studies about intelligence, the race that is used is the self-reported race. Which means that it will sometimes include ethnicity or other more cultural concepts. Also, the obvious biological features we use to determine the race of a person (color of the skin, shape of the mouth, nose or eyes, hair color and texture, etc.) are just a small subset of the biological features we could actually use. So, that's one problem. Then, the scientific evidence shows that there are significant differences in mean IQ between races. This is a very sensitive topic. The question is: do those differences come from genetic differences or from environmental differences? If I understand correctly, this is an open question. David thinks that this is highly unlikely those differences come from genetic differences, because it is completely unlikely that the genes that encode visible differences that are clustered into races would be the same genes that influence intelligence. I'm not sure I understand his argument correctly, but I'm not convinced. Quoting a <a href="https://www.facebook.com/VeryBadWizards/posts/1453227258096237?comment_id=1453986454686984">comment on Facebook</a>: "If you have a stable population for many generations, you should expect them to exhibit many internal similarities relative to other populations." So, in other words and if I understand correctly, is there a third (still genetic) variable to explain the correlation between race and IQ? Alessandro Vernet also wrote <a href="http://avernet.blogspot.ch/2017/09/very-bad-wizards-discussion-on-iq-and.html">a post on why he found David's argument unconvincing</a>. So the question remains, I think: is the race/IQ correlation explained by genetic or environmental differences (or both)?</comments>
   </podcast>
   <podcast>
@@ -2627,7 +2633,7 @@
   <podcast>
     <date>2017-09-22</date>
     <name url="http://verybadwizards.com/">Very Bad Wizards</name>
-    <episode url="https://verybadwizards.fireside.fm/122" number="122">Nothing but a "G" Thing (Intelligence Pt. 1)</episode>
+    <episode url="https://www.verybadwizards.com/122" number="122">Nothing but a "G" Thing (Intelligence Pt. 1)</episode>
     <comments>The first part about the paper on dogs' desires and fMRI was interesting, in that it shows that research using fMRI often leads to simplistic conclusions. What does it mean to desire something? Are we "allowed" to have conflicting desires? In such cases, what does "real desire" mean? What does it mean for a dog to desire something? Is fMRI more robust than simply observing the dog's behavior? Anyway, it's a good thing that we're starting to take our pets' preferences when deciding who gets to keep them in a divorce, for example. The rest of the episode is about intelligence, the definition(s) of intelligence (e.g. "the ability to solve problems and learn"), the heritability of intelligence (which depends very roughly 50% on genes and 50% on the environment - but we don't know how precisely), <a href="https://en.wikipedia.org/wiki/Intelligence_quotient">IQ</a>, how IQ is computed (normalized around 100), what IQ is correlated with (school/job performances, income, health, etc.), how IQ is determined (standardized, somewhat "well-guarded" tests), the <a href="https://en.wikipedia.org/wiki/Flynn_effect">Flynn effect</a>, the fact that IQ depends on more "static" things (e.g. vocabulary) and more "dynamic" things (e.g. reaction times), that it's difficult to change the environment to make IQ higher, etc. There are specific differences between sexes, but not overall (i.e. only when you consider particular types of intelligences, such as verbal vs spatial).</comments>
   </podcast>
   <podcast>
@@ -2639,7 +2645,7 @@
   <podcast>
     <date>2017-09-15</date>
     <name url="http://verybadwizards.com/">Very Bad Wizards</name>
-    <episode url="https://verybadwizards.fireside.fm/100" number="100">It's a Celebration</episode>
+    <episode url="https://www.verybadwizards.com/100" number="100">It's a Celebration</episode>
     <comments>The first part, about the driverless car moral dilemmas, was funny, but it also highlights the fact that "trolley-like" thought experiments are often too simplistic and that it's hard to conclude anything useful from them. The rest of the episode was an Ask Me Anything / Q&amp;A.</comments>
   </podcast>
   <podcast>
@@ -2657,13 +2663,13 @@
   <podcast>
     <date>2017-09-07</date>
     <name url="http://verybadwizards.com/">Very Bad Wizards</name>
-    <episode url="https://verybadwizards.fireside.fm/99" number="99">Mockingbirds, Destructo-Critics, and Mr. Robot</episode>
+    <episode url="https://www.verybadwizards.com/99" number="99">Mockingbirds, Destructo-Critics, and Mr. Robot</episode>
     <comments>Should <i>To Kill a Mockingbird</i> be censored in a middle school (because of the "N-word")? I agree that it shouldn't and that it's the opportunity to talk about a lot of complex and serious issues with the children and their parents (racism, language, art, etc.). Easier said than done, I guess. The part about "methodological terrorists" was also interesting. How should we handle methodological problems in a given field? Should people be more tactful? Should they express themselves on social media or use "official" channels only? At the end of the day, science is not about being nice, it's about discovering what's true or not in our world, so drama should be avoided as much as possible. The part about season 2 of Mr. Robot was especially interesting, because I'm not reading forums, blog posts, interviews, etc. about this show. Some of the theories discussed by Tamler and David were intriguing. It was the first time I really thought about this, actually. I watched season 2 in a short period of time this summer (over a bit more than two weeks) and put myself more in a kind of "contemplative mode", rather than an analytical mode. This is maybe a defense mechanism indirectly caused by <i>Lost</i>, among other things. Like many people, I was really disappointed by how that show ended (let's just say that it was not a particularly clever and/or coherent ending). I don't want <i>Mr. Robot</i> to be another <i>Lost</i>, so I unconsciously avoided thinking too much about it, about how it could make sense (i.e. what's real? what's not?).</comments>
   </podcast>
   <podcast>
     <date>2017-09-04</date>
     <name url="http://verybadwizards.com/">Very Bad Wizards</name>
-    <episode url="https://verybadwizards.fireside.fm/98" number="98">Mind the Gap</episode>
+    <episode url="https://www.verybadwizards.com/98" number="98">Mind the Gap</episode>
     <comments>An episode about the <a href="https://en.wikipedia.org/wiki/Is%E2%80%93ought_problem">is-ought problem</a>. So, yes, there is a gap between facts and values, and people disagree about the size of that gap. Is it a large gap? Or a very narrow gap? I'm not totally convinced by <a href="https://en.wikipedia.org/wiki/The_Moral_Landscape">Sam Harris' argument</a> and I guess it would be stronger if he accepted to engage in actual philosophy and <a href="https://en.wikipedia.org/wiki/Meta-ethics">meta-ethics</a> (instead of dismissing that branch), but I tend to agree with him. He's on the right track. The fact-value gap is not that big. At least in principle. And that's maybe part of the problem when we're talking about meta-ethics. It's often not clear if we're talking about the ability to determine values in principle or in practice. This is a distinction I've not heard from David and Tamler. But at the end of the day, I think Harris is right: the gap we're talking about is not that wide and it's very likely that it can be bridged with a few axiomatic ideas (see Harris' health/medicine analogy).</comments>
   </podcast>
   <podcast>
@@ -2723,7 +2729,7 @@
   <podcast>
     <date>2017-07-20</date>
     <name url="http://verybadwizards.com/">Very Bad Wizards</name>
-    <episode url="https://verybadwizards.fireside.fm/97" number="97">Dogmatic Slumber Party</episode>
+    <episode url="https://www.verybadwizards.com/97" number="97">Dogmatic Slumber Party</episode>
     <comments>I'm not sure what to think about the part on Neal deGrasse Tyson's <a href="https://www.facebook.com/notes/neil-degrasse-tyson/reflections-on-rationalia/10154399608556613/">Rationalia</a>. I had never heard/read anything about it before. So, the problem is that governments, politics, and, particularly, politicians suck. What can we do about it? Neal deGrasse Tyson's answer is to "inject" more science, more reason into governments. Yes, this is a bit naive: "The debate then ends quickly in the face of evidence, and we move on to other questions." My conclusion is that the idea, the intention is better than the (proposed) implementation. It's still better to have more reason, more evidence-based thinking, than not. But it won't be enough, as the second part shows: "David and Tamler discuss a recent paper by Dan Kahan and colleagues showing how prone people are to make errors in processing information to favor positions they are predisposed to believe. And even more shocking: the higher your numeracy skills, the more prone you are to fall prey to this bias." That's depressing. We're all biased. So, how do we know what's true and what's not? There's no silver bullet. Intelligent people are wrong. All the time. So we have to keep having civil discussions, with respect, humility, no sense of superiority, etc. And, yes, humor can be seen as a sign of humility (but not always, I would say).</comments>
   </podcast>
   <podcast>
@@ -2735,7 +2741,7 @@
   <podcast>
     <date>2017-07-14</date>
     <name url="http://verybadwizards.com/">Very Bad Wizards</name>
-    <episode url="https://verybadwizards.fireside.fm/96" number="96">Memory and Meaning in "Memento" (with Paul Bloom)</episode>
+    <episode url="https://www.verybadwizards.com/96" number="96">Memory and Meaning in "Memento" (with Paul Bloom)</episode>
     <comments>I saw <i>Memento</i> only once, in 2014. I thought it was excellent, but, ironically, I don't remember much about the movie itself... I should watch it again, obviously. What's the relationship between memory and personal identity? Even though we forget things, can we <em>intuitively</em> know/learn them? We constantly "rewrite" our past, consciously or not (e.g. self-deception), because we cannot remember everything. How can we know what's real or not? Can other people also manipulate us like we manipulate ourselves? Those are some of the many questions this movie raises.</comments>
   </podcast>
   <podcast>
@@ -2765,13 +2771,13 @@
   <podcast>
     <date>2017-07-07</date>
     <name url="http://verybadwizards.com/">Very Bad Wizards</name>
-    <episode url="https://verybadwizards.fireside.fm/95" number="95">The Repugnance of Repugnance</episode>
+    <episode url="https://www.verybadwizards.com/95" number="95">The Repugnance of Repugnance</episode>
     <comments>Disgust can be literal (the emotion) or metaphorical (e.g. used in a value judgement). In the second case, we don't really feel disgusted. It's easy to see how disgust has been selected by evolution to protect us against potentially dangerous foods or substances. What's interesting is that there's also a link between disgust, morality, and politics (e.g. liberals are less easily disgusted than conservatives on average). David did <a href="https://www.ted.com/talks/david_pizarro_the_strange_politics_of_disgust">a TED talk</a> about this. Interestingly, the presence or absence of a feeling of disgust can even change a person's opinion about morality or politics. Emotions change how we think, even if we don't realize it.</comments>
   </podcast>
   <podcast>
     <date>2017-07-05</date>
     <name url="http://verybadwizards.com/">Very Bad Wizards</name>
-    <episode url="https://verybadwizards.fireside.fm/94" number="94">Buttery Friendships</episode>
+    <episode url="https://www.verybadwizards.com/94" number="94">Buttery Friendships</episode>
     <comments>Another episode I didn't retain much from (I don't know why). I've just started reading <i>A Guide to the Good Life: The Ancient Art of Stoic Joy</i>, so I was under the impression that David and Tamler's description of Stoicism might be a bit incomplete (or even wrong?). Are there really people that can totally suppress their sadness when they lose somebody they love? I'm not sure that's what Stoics were aiming for... Anyway, unsurprisingly, Tamler and I seem to disagree about the importance of emotions (I would describe them as heuristics, in the computer science meaning of the term, leading to quick, but often wrong, "conclusions"), about Peter Singer, etc.</comments>
   </podcast>
   <podcast>
@@ -2783,13 +2789,13 @@
   <podcast>
     <date>2017-07-03</date>
     <name url="http://verybadwizards.com/">Very Bad Wizards</name>
-    <episode url="https://verybadwizards.fireside.fm/93" number="93">Avalanches, Blame, and Cowardice (With Yoel Inbar)</episode>
+    <episode url="https://www.verybadwizards.com/93" number="93">Avalanches, Blame, and Cowardice (With Yoel Inbar)</episode>
     <comments>I slowly realized that I had seen the movie they're talking about (<a href="http://www.imdb.com/title/tt2121382/"><i>Turist</i>, aka <i>Force Majeure</i></a>) more than two years ago. I gave it a rather high score (4 out of 5). So, yes, this is a very good movie. At the time, I probably didn't think of all the themes discussed in this episode (the moral dilemma in the most important scene of the movie, the question of cowardice, instinctive vs conscious character, what can be or cannot be forgiven, what it means to forgive, etc.). Good movies are movies than can be watched several times and trigger rich discussions. I definitely need to watch it again.</comments>
   </podcast>
   <podcast>
     <date>2017-06-28</date>
     <name url="http://verybadwizards.com/">Very Bad Wizards</name>
-    <episode url="https://verybadwizards.fireside.fm/92" number="92">Jonathan Edwards' Basement</episode>
+    <episode url="https://www.verybadwizards.com/92" number="92">Jonathan Edwards' Basement</episode>
     <comments>I must have been tired, because most of this episode went over my head. Some emotions (e.g. a white person having a negative reaction when seing a black person) are not necessarily representative of who we are, so, yes, emotions can be dumb (and often are). They tell us more about our (stupid) biases than about what we really believe to be true or good. I liked the first bit about what it means to be offended. How much of a given population needs to be offended for the offense to be "serious enough". One person? 10% 50% More? Do you really need to be offended to say that something is offensive?</comments>
   </podcast>
   <podcast>
@@ -2813,13 +2819,13 @@
   <podcast>
     <date>2017-06-19</date>
     <name url="http://verybadwizards.com/">Very Bad Wizards</name>
-    <episode url="https://verybadwizards.fireside.fm/91" number="91">Rage Against the Machines</episode>
+    <episode url="https://www.verybadwizards.com/91" number="91">Rage Against the Machines</episode>
     <comments>"Should we use algorithms to influence decisions about criminal sentencing or parole decisions?" Yes, we should, as long as the algorithms work. And I agree with David that algorithms <em>can</em> be as good or better than humans at almost any task (and will be better at <em>any</em> task in the near future). The problem is the data you use to feed your machine learning / deep learning algorithms. If your data is "biased", then your algorithm will be biased, so you have to be very careful, especially when the life of people depends on it.</comments>
   </podcast>
   <podcast>
     <date>2017-06-14</date>
     <name url="http://verybadwizards.com/">Very Bad Wizards</name>
-    <episode url="https://verybadwizards.fireside.fm/90" number="90">Of Mice and Morals</episode>
+    <episode url="https://www.verybadwizards.com/90" number="90">Of Mice and Morals</episode>
     <comments>As a vegetarian, I'm slightly "shocked" by the mouse/money experiment mentioned in this episode. At the same time, I'm not shocked at all that we associate different values/prices to different persons, animals, species, etc. This is expected when you introduce a market (i.e. capitalism). What's more interesting is that the value/price you associate with something (e.g. the life of a mouse) goes down when you deal with somebody and goes even lower when you deal with several persons (i.e. when you introduce more and more complex markets). This is not completely surprising. After all, not buying an iPhone won't change the fact that sweatshops exist, because, if you don't buy an iPhone, millions will buy one anyway. In other words, in a market, your moral responsability is somehow attenuated. About the swapping-baby thought experiment: I tend to agree with Tamler here; I'm not sure that it leads to particularly interesting conclusions / useful actions. At the same time, I'm convinced that we should tend as much as possible to a <a href="https://en.wikipedia.org/wiki/Peter_Singer">Singerian</a> morality. I'm more and more annoyed with this tendency to favor local people, local enterprises, etc. just because it's fashionable. It makes sense in a lot of cases, but not always.</comments>
   </podcast>
   <podcast>
@@ -2873,7 +2879,7 @@
   <podcast>
     <date>2017-05-25</date>
     <name url="http://verybadwizards.com/">Very Bad Wizards</name>
-    <episode url="https://verybadwizards.fireside.fm/89" number="89">Shame on You (with Jennifer Jacquet)</episode>
+    <episode url="https://www.verybadwizards.com/89" number="89">Shame on You (with Jennifer Jacquet)</episode>
     <comments>I agree with Tamler and David: some people are not clear enough when writing a paper, article, or book And it's not because some fields are <em>really</em> complex and difficult to understand (physics) that you should deliberately use obscure words or concepts to make your field or topic sound more "important" or "serious". I had never really thought about the difference between guilt (more private) and shame (more public), as well as their relationship. Also, it's interesting to think about how shame can be constructively used in public policies, etc. Being anonymous on the internet leads to less shame. That's a problem.</comments>
   </podcast>
   <podcast>
@@ -2903,7 +2909,7 @@
   <podcast>
     <date>2017-05-09</date>
     <name url="http://verybadwizards.com/">Very Bad Wizards</name>
-    <episode url="https://verybadwizards.fireside.fm/88" number="88">A Doobie for Elijah</episode>
+    <episode url="https://www.verybadwizards.com/88" number="88">A Doobie for Elijah</episode>
     <comments>The small excerpt from a Prince interview at the beginning was nice. Tamler and David explain later in the episode that they're Prince fans (although not hardcore fans, I suspect). What can or should be discussed in philosophy: I tend to disagree with Tamler, here. Everything should be up for discussion. Even (especially!) things that are obvious (to "normal human beings"). Now, that doesn't mean that the book and review they're talking about in that episode are good. Tamler recommends "A History of Western Philosophy" by Bertrand Russel. I bought this book a few years ago. It's on my "to-read" list. I guess I really should read it, but I don't really know how (it's pretty long!). Tamler is not bothered by his finitude. <a href="https://bruchez.blogspot.ch/2016/07/daniel-dennett-les-philosophes-et-les.html">It's not the first time he says that.</a> I guess it explains why we have different positions on some topics (free will, maybe vengeance, etc.). The question of how we should (or can) appreciate the work of Roman Polanski, Woody Allen, or Bill Cosby is discussed again. An important (psychological) difference is whether you see the person in his work or not (e.g. it's impossible to watch "The Cosby Show" without actually seeing Bill Cosby). Is justice in part a substitute for vengeance?</comments>
   </podcast>
   <podcast>
@@ -2933,7 +2939,7 @@
   <podcast>
     <date>2017-04-25</date>
     <name url="http://verybadwizards.com/">Very Bad Wizards</name>
-    <episode url="https://verybadwizards.fireside.fm/86" number="86">Guns, Shame, and the Meaning of Punishment</episode>
+    <episode url="https://www.verybadwizards.com/86" number="86">Guns, Shame, and the Meaning of Punishment</episode>
     <comments>I had never really thought about the fact that the way a criminal punishment is presented (to criminals, to society), the "story" behind it, its meaning, matters. Community service, for example, is problematic. Do we want to convey the idea, to criminals, to society, that serving our communities is a punishment (i.e. a bad thing)? Of course not, so we have to be careful in how we present this kind of alternative punishments (in that case, in insisting that this is a symbolic way to restitute something to society). About shame: I'm not convinced that it has to be part of punishments.</comments>
   </podcast>
   <podcast>
@@ -2945,7 +2951,7 @@
   <podcast>
     <date>2017-04-05</date>
     <name url="http://verybadwizards.com/">Very Bad Wizards</name>
-    <episode url="https://verybadwizards.fireside.fm/75" number="75">A Golden Shower of Guests</episode>
+    <episode url="https://www.verybadwizards.com/75" number="75">A Golden Shower of Guests</episode>
     <comments>A few discussions were related to how to do good science and good research. I had already mentioned a book I read 10 years ago, <a href="https://fr.wikipedia.org/wiki/Petit_trait%C3%A9_de_manipulation_%C3%A0_l'usage_des_honn%C3%AAtes_gens">"Petit traité de manipulation à l'usage des honnêtes gens"</a>, which is mostly about priming studies (if I recall correctly) and I already was under the impression that most of those studies probably only indicate a weak effect. So, yes, priming studies are probably a bit "overrated". And often conducted using too few research participants, as many psychological studies. Speaking of "overrated", this probably applies to a lot of neuroscience studies as well, as was discussed with Laurie Santos. The discussion with Sam Harris was good, as usual. The two discussed topics are "old news" to me (artificial intelligence and vegetarianism). I mostly agree with Sam. As did Tamler and David, apparently.</comments>
   </podcast>
   <podcast>
@@ -2957,7 +2963,7 @@
   <podcast>
     <date>2017-03-30</date>
     <name url="http://verybadwizards.com/">Very Bad Wizards</name>
-    <episode url="https://verybadwizards.fireside.fm/74" number="73">Lies, Damned Lies, and Ashley Madison</episode>
+    <episode url="https://www.verybadwizards.com/74" number="73">Lies, Damned Lies, and Ashley Madison</episode>
     <comments>Part of this episode is about the <a href="http://science.sciencemag.org/content/349/6251/aac4716">"Estimating the reproducibility of psychological science"</a> study from 2015, which attempted "to replicate 100 original studies that had been published in one of three top-tier psychology journals in 2008". "Depending on the criterion used, only 36 to 47% of the original studies were successfully replicated". Good science is hard. Good studies are hard. This is explained at length in Ben Goldacre's two excellent books <a href="https://en.wikipedia.org/wiki/Bad_Science_(book)">"Bad Science"</a> and <a href="https://en.wikipedia.org/wiki/Bad_Pharma">"Bad Pharma"</a>. I guess this is a good thing that psychology is trying to get better as a scientific field. Ever since I read <a href="https://fr.wikipedia.org/wiki/Petit_trait%C3%A9_de_manipulation_%C3%A0_l'usage_des_honn%C3%AAtes_gens">"Petit traité de manipulation à l'usage des honnêtes gens"</a>, I've been under the impression that psychological studies are usually conducted in universities with 20-30 students as research participants. This is a cliché, of course, but I'm not particularly surprised by the results of the 2015 study. We need more serious studies and we also need <a href="https://en.wikipedia.org/wiki/Meta-analysis">meta-analyses</a> to reach serious conclusions. Maybe we also need more educated researchers, as bad research is probably more often the result of incompetence than fraud (cf <a href="https://en.wikipedia.org/wiki/Hanlon's_razor">Hanlon's razor</a>). Other questions that have been discussed: is it moral to lie to children about Santa Claus? is it moral to lie to people in order to conduct a psychological study (which is done on a regular basis)? Personally, I think they have to be understood from a consequentialist standpoint.</comments>
   </podcast>
   <podcast>
@@ -2969,13 +2975,13 @@
   <podcast>
     <date>2017-03-24</date>
     <name url="http://verybadwizards.com/">Very Bad Wizards</name>
-    <episode url="https://verybadwizards.fireside.fm/73" number="73">Authentic Apes and Infinite Torture</episode>
+    <episode url="https://www.verybadwizards.com/73" number="73">Authentic Apes and Infinite Torture</episode>
     <comments>Can animals consent to anything at all? In particular, is there any way to justify zoophilia? My personal answer would be: no, probably not. I agree that corrida is torture. It's difficult to understand why it still exists in 2017. I also agree that we should be honest with children, as much as possible, even (especially!) when it comes to religious beliefs, and that children are probably more comfortable with ambiguity than we might imagine.</comments>
   </podcast>
   <podcast>
     <date>2017-03-22</date>
     <name url="http://verybadwizards.com/">Very Bad Wizards</name>
-    <episode url="https://verybadwizards.fireside.fm/72" number="72">Tweenie Turing Tests, AI, and Ex Machina (with Joshua Weisberg)</episode>
+    <episode url="https://www.verybadwizards.com/72" number="72">Tweenie Turing Tests, AI, and Ex Machina (with Joshua Weisberg)</episode>
     <comments>The more I think about the Chinese room thought experiment, the more I think it's useful in showing how <em>not</em> to think about artificial intelligence. Our neurons, individually, do not "understand" our thoughts. Does <a href="https://en.wikipedia.org/wiki/Watson_(computer)">IBM Watson</a> "understand" the hypotheses it formulates when providing health recommendations? Where's the threshold? What makes us understand things? <a href="http://www.imdb.com/title/tt0470752/">Ex Machina</a> is more interesting in that it shows what an artificial intelligence can do when it is not (completely) aligned with human moral values. Or aligned with "psychopathic" values. This is the <a href="https://en.wikipedia.org/wiki/AI_control_problem">AI control problem</a>. Ask an AI to maximize the number of paperclips in its collection and it could become a dangerous <a href="https://wiki.lesswrong.com/wiki/Paperclip_maximizer">paperclip maximizer</a>. Ask an AI to maximize its score in a video game and it might <a href="https://openai.com/blog/faulty-reward-functions/">exploit weird flaws in the video game</a>. Let an AI develop the desire to escape from a room and it might exploit the sexual attraction of a man towards her to manipulate him, kill people, and finally escape. Ok, that last one was a bit more complex, but it's also more intriguing. And entertaining.</comments>
   </podcast>
   <podcast>
@@ -2987,31 +2993,31 @@
   <podcast>
     <date>2017-03-15</date>
     <name url="http://verybadwizards.com/">Very Bad Wizards</name>
-    <episode url="https://verybadwizards.fireside.fm/61" number="61">Putting a Little Meaning in Your Life</episode>
+    <episode url="https://www.verybadwizards.com/61" number="61">Putting a Little Meaning in Your Life</episode>
     <comments>If we feel that our life is meaningful, is it a sufficient condition to say that our life is meaningful? Or are there more objective criteria to determine whether it is meaningful or not? I'm not sure there's any takeaway from this episode. My personal view is that life is "ultimately" meaningless. We will all die. Everybody we know will die. As I wrote in my comments for <a href="http://olivier.bruchez.name/books#2017-02-08">"Life in Light of Death"</a>: "Even if we manage to live longer and/or to upload our minds to machines, <a href="https://en.wikipedia.org/wiki/Future_of_Earth#Solar_evolution">Earth will be destroyed by the Sun at some point in the future</a>. And even if we manage to move to another planetary system and/or galaxy, <a href="https://en.wikipedia.org/wiki/Ultimate_fate_of_the_universe">the universe will most probably die as well</a>." Can life be "locally meaningful" (e.g. as a social construct)? Yes, I think so. If so, is there any objective criterion for "local meaningfulness"? Such as what others think of what we do (our friends, our family, society in general, etc.)? Is it compatible with the fact that <a href="http://olivier.bruchez.name/books#2014-12-23">most of us are actually insignificant and will be completely forgotten in a few generations</a>? As Tamler said, "For every van Gogh, there's a million people who just suck.". The conclusion is that I don't really know how to embrace the fact that I'm both "locally meaningful" and "ultimately insignificant".</comments>
   </podcast>
   <podcast>
     <date>2017-03-13</date>
     <name url="http://verybadwizards.com/">Very Bad Wizards</name>
-    <episode url="https://verybadwizards.fireside.fm/41" number="41">Moral Dilemmas at the Movies</episode>
+    <episode url="https://www.verybadwizards.com/41" number="41">Moral Dilemmas at the Movies</episode>
     <comments>The question of how we should approach the work of movie directors, for example, who did questionable things in their life (like Roman Polanski or Woody Allen) is important. I don't have a definitive answer. What I know for sure is that I like a lot of Polanski's movies (I've seen most of them). The fact that <a href="https://en.wikipedia.org/wiki/Memory_implantation">false memories</a> can be "easily" implanted in people's memories is intriguing (in the case of Allen, not Polanski). Conclusion: we will probably never know what happened. I don't have much to say about Tamler's and David's top 5, as I've only seen two movies from their list (<a href="http://www.imdb.com/title/tt0181689/">Minority Report</a> and <a href="http://www.imdb.com/title/tt0468569/">The Dark Knight</a>). I agree they're good choices.</comments>
   </podcast>
   <podcast>
     <date>2017-03-09</date>
     <name url="http://verybadwizards.com/">Very Bad Wizards</name>
-    <episode url="https://verybadwizards.fireside.fm/40" number="40">How Many Moralities Are There? Pt. 2 (with Jesse Graham)</episode>
+    <episode url="https://www.verybadwizards.com/40" number="40">How Many Moralities Are There? Pt. 2 (with Jesse Graham)</episode>
     <comments>I don't have much to say about the part about free will: <a href="https://bruchez.blogspot.com/2016/07/daniel-dennett-les-philosophes-et-les.html">as I've said many times before</a>, I agree with Sam Harris, Jerry Coyne, etc. more than I agree with Daniel Dennett. The discussion with Jesse Graham sheds some clarity on the "foundations of morality". Graham's work is supposed to be descriptive more than normative, but the frontier between the two is a bit fuzzy and it's hard to be purely descriptive. It's maybe useful to think about those "foundations" as moral intuitions. As far as I am concerned, moral questions should be solved using reason as often as possible, and intuition only when time is very limited.</comments>
   </podcast>
   <podcast>
     <date>2017-03-07</date>
     <name url="http://verybadwizards.com/">Very Bad Wizards</name>
-    <episode url="https://verybadwizards.fireside.fm/39" number="39">How Many Moralities Are There? (Pt. 1)</episode>
+    <episode url="https://www.verybadwizards.com/39" number="39">How Many Moralities Are There? (Pt. 1)</episode>
     <comments>I'm still not sure what I think about the "six foundations" of morality (care, fairness/proportionality, liberty, loyalty/ingroup, authority/respect, and sanctity/purity). Most of them still looks "nonaxiomatic" to me. I'm certainly more on the liberal side of the spectrum than the conservative side. Maybe even more than Sommers and Pizarro, as I probably don't agree with them about the loyalty/ingroup foundation. It makes sense for family/friends (for psychological reasons), but I fail to see why I should care more about a random citizen in my country than about a random person anywhere on the planet. And, yes, I understand the evolutionary explanation behind in-group loyalty and how it might have made sense from a survival standpoint a long time ago.</comments>
   </podcast>
   <podcast>
     <date>2017-03-03</date>
     <name url="http://verybadwizards.com/">Very Bad Wizards</name>
-    <episode url="https://verybadwizards.fireside.fm/37" number="37">Porn, Poop, and Personal Identity (with Nina Strohminger)</episode>
+    <episode url="https://www.verybadwizards.com/37" number="37">Porn, Poop, and Personal Identity (with Nina Strohminger)</episode>
     <comments>The discussion about the link between disgust and humor, and between disgust and sexuality was somewhat illuminating (mainly because I hadn't really thought about it before). The part about personal identity (e.g. what's more important for personal identity, memories or moral values?) was thought-provoking but too short.</comments>
   </podcast>
   <podcast>
@@ -3053,7 +3059,7 @@
   <podcast>
     <date>2017-02-13</date>
     <name url="http://verybadwizards.com/">Very Bad Wizards</name>
-    <episode url="https://verybadwizards.fireside.fm/35" number="35">Douchebags and Desert</episode>
+    <episode url="https://www.verybadwizards.com/35" number="35">Douchebags and Desert</episode>
     <comments>This episode somehow failed to held my interest. I don't know why exactly. I'd say that, yes, we do have biases when it comes to attribute blame and those biases should be systematically avoided as much as possible.</comments>
   </podcast>
   <podcast>
@@ -3101,7 +3107,7 @@
   <podcast>
     <date>2017-01-16</date>
     <name url="http://verybadwizards.com/">Very Bad Wizards</name>
-    <episode url="https://verybadwizards.fireside.fm/30" number="30">The Greatest Books Ever Written</episode>
+    <episode url="https://www.verybadwizards.com/30" number="30">The Greatest Books Ever Written</episode>
     <comments>Several of the books were already on my to-read list ("The Extended Phenotype", "Gödel, Escher, Bach", and "Guns, Germs, and Steel"). I guess I should really read "Passions Within Reason" (but it's not available on Kindle...) and "Jacques le fataliste et son maître". The only book I had already read is "Surely You're Joking, Mr. Feynman!".</comments>
   </podcast>
   <podcast>
@@ -3124,7 +3130,7 @@
   <podcast>
     <date>2016-12-23</date>
     <name url="http://verybadwizards.com/">Very Bad Wizards</name>
-    <episode url="https://verybadwizards.fireside.fm/26" number="26">Evolution and Sexual Perversion (with Jesse Bering)</episode>
+    <episode url="https://www.verybadwizards.com/26" number="26">Evolution and Sexual Perversion (with Jesse Bering)</episode>
   </podcast>
   <podcast>
     <date>2016-12-22</date>
@@ -3164,7 +3170,7 @@
   <podcast>
     <date>2016-12-01</date>
     <name url="http://verybadwizards.com/">Very Bad Wizards</name>
-    <episode url="https://verybadwizards.fireside.fm/24" number="24">The Perils of Empathy (with Paul Bloom)</episode>
+    <episode url="https://www.verybadwizards.com/24" number="24">The Perils of Empathy (with Paul Bloom)</episode>
   </podcast>
   <podcast>
     <date>2016-11-29</date>
@@ -3189,7 +3195,7 @@
   <podcast>
     <date>2016-11-17</date>
     <name url="http://verybadwizards.com/">Very Bad Wizards</name>
-    <episode url="https://verybadwizards.fireside.fm/22" number="22">An Enquiry Concerning Slurs and Offensiveness</episode>
+    <episode url="https://www.verybadwizards.com/22" number="22">An Enquiry Concerning Slurs and Offensiveness</episode>
   </podcast>
   <podcast>
     <date>2016-11-16</date>
@@ -3209,12 +3215,12 @@
   <podcast>
     <date>2016-11-12</date>
     <name url="http://verybadwizards.com/">Very Bad Wizards</name>
-    <episode url="https://verybadwizards.fireside.fm/19" number="19">The Burning Bridges Episode (Pt. 2)</episode>
+    <episode url="https://www.verybadwizards.com/19" number="19">The Burning Bridges Episode (Pt. 2)</episode>
   </podcast>
   <podcast>
     <date>2016-11-11</date>
     <name url="http://verybadwizards.com/">Very Bad Wizards</name>
-    <episode url="https://verybadwizards.fireside.fm/15" number="15">The Burning Bridges Episode (Pt. 1)</episode>
+    <episode url="https://www.verybadwizards.com/15" number="15">The Burning Bridges Episode (Pt. 1)</episode>
   </podcast>
   <podcast>
     <date>2016-11-09</date>
