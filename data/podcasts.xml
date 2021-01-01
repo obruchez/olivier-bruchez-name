@@ -3,10 +3,16 @@
   <introduction>A list of podcasts I listened to.</introduction>
   <!-- Podcast notes for David Sinclair interview with Rhonda Patrick: https://podcastnotes.org/found-my-fitness/david-sinclair-rhonda-patrick-nad-nr-nmn/ -->
   <podcast>
-    <date></date>
+    <date>2021-01-01</date>
+    <name url="http://robesse.libsyn.com/">Obsessed by Music</name>
+    <episode url="https://robesse.libsyn.com/george-michael-the-artist-you-may-not-fully-know">George Michael - The Artist You May Not Fully Know</episode>
+    <comments>I don't know anything about him. Currently downloading <i>Faith</i>.</comments>
+  </podcast>
+  <podcast>
+    <date>2020-12-31</date>
     <name url="http://robesse.libsyn.com/">Obsessed by Music</name>
     <episode url="https://robesse.libsyn.com/thoughts-on-audio-equipment-for-music-listening-part-3">Thoughts On Audio Equipment For Music Listening (Part 3)</episode>
-    <comments>.</comments>
+    <comments>I realize the following: 1) I'm not naturally interested in audio equipment anymore (I used to own rather expensive Sennheiser headphones, but I've since sold them) 2) I'm perfectly fine with using average headphones/equipment as long as the music I'm listening to is good (music quality > equipment quality) 3) the idea of a private listening room is intriguing (I plan to actually listen to some of my favorite albums without doing anything else in the future) 4) we should probably upgrade our 10-year-old low-cost speakers (in our "shared listening space").</comments>
   </podcast>
   <podcast>
     <date>2020-12-30</date>
