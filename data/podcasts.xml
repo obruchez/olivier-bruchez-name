@@ -3,10 +3,22 @@
   <introduction>A list of podcasts I listened to.</introduction>
   <!-- Podcast notes for David Sinclair interview with Rhonda Patrick: https://podcastnotes.org/found-my-fitness/david-sinclair-rhonda-patrick-nad-nr-nmn/ -->
   <podcast>
-    <date></date>
+    <date>2021-01-07</date>
+    <name url="http://verybadwizards.com/">Very Bad Wizards</name>
+    <episode url="https://www.verybadwizards.com/196" number="196">The Loneliest Paper in Philosophy</episode>
+    <comments><a href="https://www.dropbox.com/s/glm1agnxtz5tbww/informal-teaching-advice.pdf?dl=0">Paul Bloom's "Informal Teaching Advice"</a>.</comments>
+  </podcast>
+  <podcast>
+    <date>2021-01-06</date>
+    <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
+    <episode url="https://samharris.org/subscriber-extras/229-a-few-thoughts-for-a-new-year/" number="229">A Few Thoughts for a New Year</episode>
+    <comments>Sam's position on money/wealth: being ultra-rich is okay, we should pay a lot of taxes (?), we should fix the governments if they're dysfunctional (not eliminate taxes), and we should give as much as possible to charities (effective altruism).</comments>
+  </podcast>
+  <podcast>
+    <date>2021-01-06</date>
     <name url="http://verybadwizards.com/">Very Bad Wizards</name>
     <episode url="https://www.verybadwizards.com/194" number="194">God Has No Mother (with Chris Matheson)</episode>
-    <comments></comments>
+    <comments>Criticizing religion is easy. To do it with empathy/humor is what's hard.</comments>
   </podcast>
   <podcast>
     <date>2021-01-01</date>
