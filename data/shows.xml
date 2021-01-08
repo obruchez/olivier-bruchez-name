@@ -3,6 +3,13 @@
   <introduction>A list of TV shows I saw.</introduction>
   <show>
     <date></date>
+    <name url="https://en.wikipedia.org/wiki/Westworld_(TV_series)">Westworld</name>
+    <series url="https://en.wikipedia.org/wiki/Westworld_(season_3)" type="season">3</series>
+    <comments></comments>
+    <image>Westworld.jpg</image>
+  </show>
+  <show>
+    <date></date>
     <name url="https://en.wikipedia.org/wiki/Bob's_Burgers">Bob's Burgers</name>
     <series url="https://en.wikipedia.org/wiki/Bob%27s_Burgers_(season_7)" type="season">7</series>
     <comments></comments>
