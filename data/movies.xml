@@ -7157,6 +7157,17 @@
     <title>Mon Beau-Père Et Moi</title>
     <version>fr</version>
   </movie>
+    <movie>
+    <date>2001-01-08</date>
+    <theater home="true"/>
+    <director>Brad Silberling</director>
+    <title>City of Angels</title>
+    <version>fr</version>
+    <url>https://www.imdb.com/title/tt0120632/</url>
+    <rating>3.5</rating>
+    <comments>"C'était un film assez mielleux."</comments>
+    <image>City of Angels.jpg</image>
+  </movie>
   <movie>
     <date>2000-12-13</date>
     <title>Chicken Run</title>
