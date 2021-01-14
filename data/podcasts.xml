@@ -3,6 +3,18 @@
   <introduction>A list of podcasts I listened to.</introduction>
   <!-- Podcast notes for David Sinclair interview with Rhonda Patrick: https://podcastnotes.org/found-my-fitness/david-sinclair-rhonda-patrick-nad-nr-nmn/ -->
   <podcast>
+    <date>2021-01-11</date>
+    <name url="http://verybadwizards.com/">Very Bad Wizards</name>
+    <episode url="https://www.verybadwizards.com/197" number="197">The Long Slow Death That Is Life</episode>
+    <comments>I haven't watched the movie. And probably won't watch it, after all...</comments>
+  </podcast>
+  <podcast>
+    <date>2021-01-10</date>
+    <name url="https://www.rts.ch/play/radio/emission/tribu?id=6067786">Tribu</name>
+    <episode url="https://www.rts.ch/play/radio/tribu/audio/dissocier-luvre-de-lauteur?id=11763112">Dissocier l'œuvre de l'auteur?</episode>
+    <comments>Un débat classique. Au final, il est facile de "boycotter" les auteurs/artistes que l'on apprécie peu et difficile de boycotter ceux que l'on apprécie. J'aime les films de Roman Polanski. Quoi qu'il ait fait, je n'ai pas particulièrement envie de m'empêcher de regarder son oeuvre. Ça n'est pas comme si le fait de regarder ses films augmentait la souffrance de sa (ou ses ?) victimes.</comments>
+  </podcast>
+  <podcast>
     <date>2021-01-07</date>
     <name url="http://verybadwizards.com/">Very Bad Wizards</name>
     <episode url="https://www.verybadwizards.com/196" number="196">The Loneliest Paper in Philosophy</episode>
