@@ -2,6 +2,11 @@
 <articles created="2017-01-11">
   <introduction>A list of articles I read.</introduction>
   <article>
+    <date>2021-01-20</date>
+    <title url="https://www.lemonde.fr/sciences/article/2020/11/30/covid-19-la-saga-du-vaccin-a-arn-messager-dans-le-sprint-final_6061695_1650684.html">Covid-19 : la saga du vaccin à ARN messager désormais dans le sprint final</title>
+    <comments>Ce qui est frappant, c'est le côté un peu fou/sinueux de la recherche scientifique et le fait que ce sont beaucoup d'individus talentueux et d'entités relativement petites (des start-ups, etc.) qui font avancer les choses. Et aussi que ces vaccins ne tombent de loin pas du ciel, avec un historique qui remonte facilement à plusieurs dizaines d'années. Et toute la science avant cela, évidemment !</comments>
+  </article> 
+  <article>
     <date>2020-12-31</date>
     <title url="https://qvault.io/2020/09/17/very-basic-intro-to-elliptic-curve-cryptography/">(Very) Basic Intro To Elliptic Curve Cryptography</title>
     <comments>"There are many types of public-key cryptography, and Elliptic Curve Cryptography is just one flavor. Other algorithms include RSA, Diffie-Helman, etc. [...] The trapdoor function is similar to a mathematical game of pool. First, we start with a certain point on the curve. Next, we use a function (called the dot function) to find a new point. Finally, we keep repeating the dot function to hop around the curve until we finally end up at our last point. [...] This is a great trapdoor function because if you know where the starting point (A) is and how many hops are required to get to the ending point (E), it is very easy to find the ending point. On the other hand, if all you know is where the starting point and ending point are, it is nearly impossible to find how many hops it took to get there."</comments>
