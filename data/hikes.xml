@@ -3,6 +3,12 @@
   <introduction>A list of hikes I took.</introduction>
   <!-- TODO: add comments for new hikes? -->
   <hike>
+    <date>2021-01-16</date>
+    <place>Col des Planches / Mont Chemin, Switzerland</place>
+    <!-- <pictures url=""/> -->
+    <comments>Snowshoeing.</comments>
+  </hike>
+  <hike>
     <date>2020-10-19</date>
     <place>Col des Planches / Crevasse / Col du Tronc / Col du Lein, Switzerland</place>
     <pictures url="https://www.flickr.com/photos/bruchez/sets/72157716929270783"/>
