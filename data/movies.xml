@@ -3,6 +3,26 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Checklist: add rating to IMDb -->
   <movie>
+    <date></date>
+    <theater home="true"/>
+    <director>Steven Spielberg</director>
+    <title>Duel</title>
+    <url>https://www.imdb.com/title/tt0067023/</url>
+    <rating></rating>
+    <comments>I'm pretty sure I saw this on television a long time ago. Maybe with my dad?</comments>
+    <image>Duel.jpg</image>
+  </movie>
+  <movie>
+    <date>2021-01-18</date>
+    <theater home="true"/>
+    <director>Akira Kurosawa</director>
+    <title>Ran</title>
+    <url>https://www.imdb.com/title/tt0089881/</url>
+    <rating>5.0</rating>
+    <comments>I can't say I've understood everything, but this is such a beautiful movie. Even (especially?) the battle scenes.</comments>
+    <image>Ran.jpg</image>
+  </movie>
+  <movie>
     <date>2021-01-02</date>
     <theater home="true"/>
     <director>Pete Docter &amp; Kemp Powers</director>
