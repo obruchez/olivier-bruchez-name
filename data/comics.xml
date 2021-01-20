@@ -2,6 +2,15 @@
 <comics created="2017-01-28">
   <introduction>A list of comics I read.</introduction>
   <comic>
+    <date>2021-01-18</date>
+    <writer>Greg</writer>
+    <artist>Greg</artist>
+    <series url="https://fr.wikipedia.org/wiki/Achille_Talon">Achille Talon</series>
+    <volume url="https://fr.wikipedia.org/wiki/Les_Petits_Desseins_d%27Achille_Talon" number="9">Les Petits Desseins d'Achille Talon</volume>
+    <comments>Un tome sur la lancée du précédent, avec quelques caricatures d'autres styles de bandes dessinées (un peu à la Gotlib, finalement ?).</comments>
+    <image>Achille Talon - Les Petits Desseins d'Achille Talon.jpg</image>
+  </comic>
+  <comic>
     <date>2020-12-30</date>
     <writer>Greg</writer>
     <artist>Greg</artist>
