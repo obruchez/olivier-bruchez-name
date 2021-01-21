@@ -3,13 +3,13 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Checklist: add rating to IMDb -->
   <movie>
-    <date></date>
+    <date>2021-01-21</date>
     <theater home="true"/>
     <director>Steven Spielberg</director>
     <title>Duel</title>
     <url>https://www.imdb.com/title/tt0067023/</url>
-    <rating></rating>
-    <comments>I'm pretty sure I saw this on television a long time ago. Maybe with my dad?</comments>
+    <rating>4.75</rating>
+    <comments>I'm pretty sure I saw this on television a long time ago. Maybe with my dad. It's based on a very simple idea, but it's very well done. It's a really fun movie.</comments>
     <image>Duel.jpg</image>
   </movie>
   <movie>
