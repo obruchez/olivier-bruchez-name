@@ -3,6 +3,24 @@
   <introduction>A list of podcasts I listened to.</introduction>
   <!-- Podcast notes for David Sinclair interview with Rhonda Patrick: https://podcastnotes.org/found-my-fitness/david-sinclair-rhonda-patrick-nad-nr-nmn/ -->
   <podcast>
+    <date>2021-01-22</date>
+    <name url="http://verybadwizards.com/">Very Bad Wizards</name>
+    <episode url="https://www.verybadwizards.com/200" number="200">Our 200th Episode Spectactacular</episode>
+    <comments>I recently bought a pink snow bob for my son. Does it count?</comments>
+  </podcast>
+  <podcast>
+    <date>2021-01-21</date>
+    <name url="https://www.foundmyfitness.com/episodes">FoundMyFitness</name>
+    <episode url="">On Depression and Its Underlying Causes</episode>
+    <comments>Inflammation could be a cause of depression.</comments>
+  </podcast>
+  <podcast>
+    <date>2021-01-21</date>
+    <name url="https://www.foundmyfitness.com/episodes">FoundMyFitness</name>
+    <episode url="https://www.foundmyfitness.com/episodes/jed-w-fahey">Jed Fahey, ScD, on Isothiocyanates, the Nrf2 Pathway, Moringa, &amp; Sulforaphane Supplementation</episode>
+    <comments>Another episode about why sulforaphane is important. And moringa, possibly.</comments>
+  </podcast>
+  <podcast>
     <date>2021-01-17</date>
     <name url="https://peterattiamd.com/podcast/">The Peter Attia Drive Podcast</name>
     <episode url="https://peterattiamd.com/johnioannidis/" number="143">John Ioannidis, M.D., D.Sc.: Why most biomedical research is flawed, and how to improve it</episode>
