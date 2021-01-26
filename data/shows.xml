@@ -17,12 +17,6 @@
   </show>
   <show>
     <date></date>
-    <name url="https://en.wikipedia.org/wiki/The_Storyteller_(TV_series)">Monstres et Merveilles</name>
-    <comments></comments>
-    <image>The Storyteller.jpg</image>
-  </show>
-  <show>
-    <date></date>
     <name url="https://en.wikipedia.org/wiki/The_Twilight_Zone_(1959_TV_series)">The Twilight Zone</name>
     <series url="https://en.wikipedia.org/wiki/The_Twilight_Zone_(1959_TV_series,_season_5)" type="season">5</series>
     <comments></comments>
@@ -41,6 +35,12 @@
     <series url="https://en.wikipedia.org/wiki/Westworld_(season_3)" type="season">3</series>
     <comments></comments>
     <image>Westworld.jpg</image>
+  </show>
+  <show>
+    <date>2021-01-25</date>
+    <name url="https://en.wikipedia.org/wiki/The_Storyteller_(TV_series)">Monstres et Merveilles</name>
+    <comments>Cela faisait des années que je cherchais le nom de cette mini-série, que j'ai dû voir sur la Télévision Suisse Romande (TSR) en 1987-88. Je me souvenais clairement de certains éléments de style, comme l'utilisation d'ombres et de silouhettes, ainsi que du conteur et du chien au coin du feu, mais, au final, en regardant à nouveau les épisodes, même doublés en français, je m'aperçois qu'ils ne me rappellent rien de précis.</comments>
+    <image>The Storyteller.jpg</image>
   </show>
   <show>
     <date>2020-10-19</date>
