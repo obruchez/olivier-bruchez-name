@@ -3,11 +3,24 @@
   <introduction>A list of podcasts I listened to.</introduction>
   <!-- Podcast notes for David Sinclair interview with Rhonda Patrick: https://podcastnotes.org/found-my-fitness/david-sinclair-rhonda-patrick-nad-nr-nmn/ -->
   <podcast>
+    <date>2021-01-27</date>
+    <name url="http://verybadwizards.com/">Very Bad Wizards</name>
+    <episode url="https://www.verybadwizards.com/203" number="203">Gorgias, Tell Me Something I Don't Know (with Agnes Callard)</episode>
+    <comments>"Why did Plato write dialogues – are they the best way of presenting arguments?" Dialogues and podcasts have a lot in common.</commeplatonts>
+  </podcast>
+  <podcast>
+    <date>2021-01-26</date>
+    <name url="http://verybadwizards.com/">Very Bad Wizards</name>
+    <episode url="https://www.verybadwizards.com/202" number="202">Not as It Ought to Be (H.P. Lovecraft's "The Colour Out of Space")</episode>
+    <comments>I read quite a few H.P. Lovecraft short stories collections a long time ago (in the 90s). I wonder if I would still enjoy that kind of litterature a quarter century later.</comments>
+  </podcast>
+  <podcast>
     <date>2021-01-25</date>
     <name url="http://verybadwizards.com/">Very Bad Wizards</name>
     <episode url="https://www.verybadwizards.com/201" number="201">Very Bad Lizard People</episode>
     <comments>"David and Tamler dive deep into the psychology and epistemology of conspiracy theories." I think I first met a person who really was into conspiracy theories in 2006. At the time, he was into <a href="https://en.wikipedia.org/wiki/9/11_conspiracy_theories">9/11 conspiracy theories</a>. I don't know if he was really serious about it and that's a common problem with those persons: you never know if they're trolls (i.e. if they don't really believe what they claim to believe) or if they're serious. In both cases, it's very hard to have an actual discussion with them. They seem to base their epistemology on totally different foundations than rational people and, in the case of trolls, they don't have the same values when it comes to discussion (i.e. they're having fun at the expense of other people instead of exchanging ideas and being curious/open).</comments>
   </podcast>
+  <podcast>
     <date>2021-01-22</date>
     <name url="http://verybadwizards.com/">Very Bad Wizards</name>
     <episode url="https://www.verybadwizards.com/200" number="200">Our 200th Episode Spectactacular</episode>
