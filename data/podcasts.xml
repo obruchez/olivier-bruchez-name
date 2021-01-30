@@ -3,6 +3,12 @@
   <introduction>A list of podcasts I listened to.</introduction>
   <!-- Podcast notes for David Sinclair interview with Rhonda Patrick: https://podcastnotes.org/found-my-fitness/david-sinclair-rhonda-patrick-nad-nr-nmn/ -->
   <podcast>
+    <date>2021-01-30</date>
+    <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
+    <episode url="https://samharris.org/podcasts/232-inequality-revolution/" number="232">Inequality and Revolution - A Conversation with Jack Goldstone</episode>
+    <comments>The part of the episode about universal basic income (UBI) was a bit weird, as what Goldstone would propose isn't UBI at all (although it's definitely not a bad idea either - a one time payment by the state for a one year military or civil service).</comments>
+  </podcast>
+  <podcast>
     <date>2021-01-27</date>
     <name url="http://verybadwizards.com/">Very Bad Wizards</name>
     <episode url="https://www.verybadwizards.com/203" number="203">Gorgias, Tell Me Something I Don't Know (with Agnes Callard)</episode>
