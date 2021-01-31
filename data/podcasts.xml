@@ -4,6 +4,12 @@
   <!-- Podcast notes for David Sinclair interview with Rhonda Patrick: https://podcastnotes.org/found-my-fitness/david-sinclair-rhonda-patrick-nad-nr-nmn/ -->
   <podcast>
     <date>2021-01-30</date>
+    <name url="http://peachandblack.podbean.com/">Peach &amp; Black Podcast</name>
+    <episode url="https://turbine-shop.de/detail/index/sArticle/23161">"Sign O' The Times" audio commentary</episode>
+    <comments>I list this as a podcast episode, but this is actually the audio commentary track on the latest (and probably best) re-release of the "Sign O' The Times movie from 2019 (by Turbine in Germany). A fun commentary, as usual.</comments>
+  </podcast>
+  <podcast>
+    <date>2021-01-30</date>
     <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
     <episode url="https://samharris.org/podcasts/232-inequality-revolution/" number="232">Inequality and Revolution - A Conversation with Jack Goldstone</episode>
     <comments>The part of the episode about universal basic income (UBI) was a bit weird, as what Goldstone would propose isn't UBI at all (although it's definitely not a bad idea either - a one time payment by the state for a one year military or civil service).</comments>
