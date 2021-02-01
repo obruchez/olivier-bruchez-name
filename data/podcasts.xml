@@ -3,6 +3,12 @@
   <introduction>A list of podcasts I listened to.</introduction>
   <!-- Podcast notes for David Sinclair interview with Rhonda Patrick: https://podcastnotes.org/found-my-fitness/david-sinclair-rhonda-patrick-nad-nr-nmn/ -->
   <podcast>
+    <date>2021-02-01</date>
+    <name url="https://peterattiamd.com/podcast/">The Peter Attia Drive Podcast</name>
+    <episode url="https://peterattiamd.com/philmaffetone/" number="144">Phil Maffetone: Optimizing health and performance through maximal aerobic function</episode>
+    <comments>"VO2 max doesn't predict performance". It's not clear if it's totally useful for fitness/health either (at least to me). It's even less clear if the VO2 value estimation from an Apple Watch is meaningful or not. What's clear is that being fit/healthy is not the same as being performant.</comments>
+  </podcast>
+  <podcast>
     <date>2021-01-30</date>
     <name url="http://peachandblack.podbean.com/">Peach &amp; Black Podcast</name>
     <episode url="https://turbine-shop.de/detail/index/sArticle/23161">"Sign O' The Times" audio commentary</episode>
