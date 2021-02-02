@@ -3,6 +3,12 @@
   <introduction>A list of podcasts I listened to.</introduction>
   <!-- Podcast notes for David Sinclair interview with Rhonda Patrick: https://podcastnotes.org/found-my-fitness/david-sinclair-rhonda-patrick-nad-nr-nmn/ -->
   <podcast>
+    <date>2021-02-02</date>
+    <name url="https://samharris.org/podcast/waking-up-conversations/">Waking Up Conversations</name>
+    <episode url="https://samharris.org/subscriber-extras/waking-up-course-the-psychedelic-experience/">The Psychedelic Experience - A Conversation with Françoise Bourzat</episode>
+    <comments>A fascinating discussion with someone who has a lot of experience with different psychedelics/substances (LSD, psilocybin, MDMA, mescaline, etc.).</comments>
+  </podcast>
+  <podcast>
     <date>2021-02-01</date>
     <name url="https://peterattiamd.com/podcast/">The Peter Attia Drive Podcast</name>
     <episode url="https://peterattiamd.com/philmaffetone/" number="144">Phil Maffetone: Optimizing health and performance through maximal aerobic function</episode>
@@ -1198,7 +1204,7 @@
   </podcast>
   <podcast>
     <date>2019-12-03</date>
-    <name url="https://samharris.org/content/waking-up-conversations/">Waking Up Course</name>
+    <name url="https://samharris.org/podcast/waking-up-conversations/">Waking Up Conversations</name>
     <episode url="https://samharris.org/subscriber-extras/waking-course-live-wiltern/">Live at the Wiltern - A Conversation with Mingyur Rinpoche</episode>
     <comments>An entertaining discussion about meditation.</comments>
   </podcast>
@@ -1222,7 +1228,7 @@
   </podcast>
   <podcast>
     <date>2019-11-25</date>
-    <name url="https://samharris.org/content/waking-up-conversations/">Waking Up Course</name>
+    <name url="https://samharris.org/podcast/waking-up-conversations/">Waking Up Conversations</name>
     <episode url="https://samharris.org/subscriber-extras/waking-course-meditation-trauma/">Meditation and Trauma - A Conversation with David Treleaven</episode>
     <comments>This is a reminder that meditation is just a tool and that it's not always the best tool at any moment.</comments>
   </podcast>
