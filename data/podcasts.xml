@@ -3,6 +3,12 @@
   <introduction>A list of podcasts I listened to.</introduction>
   <!-- Podcast notes for David Sinclair interview with Rhonda Patrick: https://podcastnotes.org/found-my-fitness/david-sinclair-rhonda-patrick-nad-nr-nmn/ -->
   <podcast>
+    <date>2021-02-03</date>
+    <name url="https://peterattiamd.com/podcast/">The Peter Attia Drive Podcast</name>
+    <episode url="https://peterattiamd.com/guywinch/" number="146">Guy Winch, Ph.D.: Emotional first aid and how to treat psychological injuries</episode>
+    <comments>"We have a choice in the stories we tell ourselves. We don't have choice about the facts, we have choice about our organization, our perspective, and the narrative we create around them." Playing with small children (on the floor!) is a great way to be present in the moment. When you ruminate, you're not really thinking, you're just telling a story over and over. Treat ruminations as actual problems to solve.</comments>
+  </podcast>
+  <podcast>
     <date>2021-02-02</date>
     <name url="https://samharris.org/podcast/waking-up-conversations/">Waking Up Conversations</name>
     <episode url="https://samharris.org/subscriber-extras/waking-up-course-the-psychedelic-experience/">The Psychedelic Experience - A Conversation with Françoise Bourzat</episode>
