@@ -7160,6 +7160,14 @@
     <version>fr</version>
   </movie>
   <movie>
+    <date>2001-02-04</date>
+    <theater home="true"/>
+    <director>Mick Jackson</director>
+    <title>Volcano</title>
+    <url>https://www.imdb.com/title/tt0120461/</url>
+    <image>Volcano.jpg</image>
+  </movie>
+  <movie>
     <date>2001-01-30</date>
     <title>Seul Au Monde</title>
   </movie>
