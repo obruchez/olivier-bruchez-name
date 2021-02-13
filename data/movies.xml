@@ -3,6 +3,16 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Checklist: add rating to IMDb -->
   <movie>
+    <date>2021-02-11</date>
+    <theater home="true"/>
+    <director>Satyajit Ray</director>
+    <title>Pather Panchali</title>
+    <url>https://www.imdb.com/title/tt0048473/</url>
+    <rating>5.0</rating>
+    <comments>The first movie in the Apu trilogy. I was kind of expecting a happy ending, but it didn't happen. Still, this is a very touching movie. The story is simple. The pace is slow, but it didn't bother me (I'm a fan of <i>2001: A Space Odyssey</i>, after all). The music by Ravi Shankar was also really nice.</comments>
+    <image>Pather Panchali.jpg</image>
+  </movie>
+  <movie>
     <date>2021-02-05</date>
     <theater home="true"/>
     <director>Maja Gehrig</director>
