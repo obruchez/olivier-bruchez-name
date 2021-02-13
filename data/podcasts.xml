@@ -3,6 +3,36 @@
   <introduction>A list of podcasts I listened to.</introduction>
   <!-- Podcast notes for David Sinclair interview with Rhonda Patrick: https://podcastnotes.org/found-my-fitness/david-sinclair-rhonda-patrick-nad-nr-nmn/ -->
   <podcast>
+    <date>2021-02-12</date>
+    <name url="http://verybadwizards.com/">Very Bad Wizards</name>
+    <episode url="https://www.verybadwizards.com/205" number="205">Making Your Nervous System Your Ally (William James on "Habit"‪)‬</episode>
+    <comments>I like this idea that by getting good at developing one habit, maybe you're automatically getting better at developing other habits (i.e. there's a kind of "general muscle" for habits or something).</comments>
+  </podcast>
+  <podcast>
+    <date>2021-02-11</date>
+    <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
+    <episode url="https://samharris.org/subscriber-extras/235-call-ricky/" number="235">A Call from Ricky</episode>
+    <comments>This was a fun episode/conversation about dreams and humor/comedy, although Ricky is not a good listener, apparently.</comments>
+  </podcast>
+  <podcast>
+    <date>2021-02-10</date>
+    <name url="http://robesse.libsyn.com/">Obsessed by Music</name>
+    <episode url="https://robesse.libsyn.com/sharing-music-with-a-listening-buddy">Tips For Enjoying Music With A Listening Buddy</episode>
+    <comments>I sometimes listen to music with family members, but I've never really done it "seriously", i.e. by taking the time to really sit and listen to pieces of music chosen by someone else and myself. This is an intriguing idea.</comments>
+  </podcast>
+  <podcast>
+    <date>2021-02-10</date>
+    <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
+    <episode url="https://samharris.org/subscriber-extras/234-divided-mind/" number="234">The Divided Mind - A Conversation with Iain McGilchrist</episode>
+    <comments>A very nice conversation, that I should maybe listen to again in the future. Sam and McGilchrist discuss the "brain as a radio receiver" hypothesis near the end. I guess this is really something science cannot completely rule out at this point, since we still don't have a theory of consciousness.</comments>
+  </podcast>
+  <podcast>
+    <date>2021-02-08</date>
+    <name url="https://peterattiamd.com/podcast/">The Peter Attia Drive Podcast</name>
+    <episode url="https://peterattiamd.com/husseinyassine/" number="147">Hussein Yassine, M.D.: Deep dive into the "Alzheimer’s gene" (APOE), brain health, and omega-3s</episode>
+    <comments>A very technical episode. "We don’t have the evidence to support omega-3 supplementation but there is enough evidence to suggest one serving of fatty fish per week": since I'm vegetarian, I'll keep taking my supplements, as I have since 2007.</comments>
+  </podcast>
+  <podcast>
     <date>2021-02-03</date>
     <name url="https://peterattiamd.com/podcast/">The Peter Attia Drive Podcast</name>
     <episode url="https://peterattiamd.com/guywinch/" number="146">Guy Winch, Ph.D.: Emotional first aid and how to treat psychological injuries</episode>
