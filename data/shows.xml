@@ -10,13 +10,6 @@
   </show>
   <show>
     <date></date>
-    <name url="https://en.wikipedia.org/wiki/Hamilton%27s_Pharmacopeia">Hamilton's Pharmacopeia</name>
-    <series url="https://en.wikipedia.org/wiki/Hamilton%27s_Pharmacopeia#Season_3_(2021)" type="season">3</series>
-    <comments></comments>
-    <image>Hamilton's Pharmacopeia.jpg</image>
-  </show>
-  <show>
-    <date></date>
     <name url="https://en.wikipedia.org/wiki/The_Twilight_Zone_(1959_TV_series)">The Twilight Zone</name>
     <series url="https://en.wikipedia.org/wiki/The_Twilight_Zone_(1959_TV_series,_season_5)" type="season">5</series>
     <comments></comments>
@@ -35,6 +28,13 @@
     <series url="https://en.wikipedia.org/wiki/Westworld_(season_3)" type="season">3</series>
     <comments></comments>
     <image>Westworld.jpg</image>
+  </show>
+  <show>
+    <date>2021-02-14</date>
+    <name url="https://en.wikipedia.org/wiki/Hamilton%27s_Pharmacopeia">Hamilton's Pharmacopeia</name>
+    <series url="https://en.wikipedia.org/wiki/Hamilton%27s_Pharmacopeia#Season_3_(2021)" type="season">3</series>
+    <comments>As usual, some weird moments (e.g. "Xenon: the Perfect Anesthetic?") and some fun moments (e.g. "A Positive Methamphetamine Story"). This was unfortunately the last season of the show, according to a recent interview with Hamilton Morris.</comments>
+    <image>Hamilton's Pharmacopeia.jpg</image>
   </show>
   <show>
     <date>2021-01-25</date>
