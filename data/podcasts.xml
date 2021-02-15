@@ -3,6 +3,12 @@
   <introduction>A list of podcasts I listened to.</introduction>
   <!-- Podcast notes for David Sinclair interview with Rhonda Patrick: https://podcastnotes.org/found-my-fitness/david-sinclair-rhonda-patrick-nad-nr-nmn/ -->
   <podcast>
+    <date>2021-02-14</date>
+    <name url="https://peterattiamd.com/podcast/">The Peter Attia Drive Podcast</name>
+    <episode url="https://peterattiamd.com/richardmiller/" number="148">Richard Miller, M.D., Ph.D.: The gold standard for testing longevity drugs: the Interventions Testing Program</episode>
+    <comments>Peter and Richard joked about adding a drug to pizza (or junk food in general) to make it healthier. This is currently a joke, but I'm pretty sure we'll see a day when this is standard practice. I didn't know about the Interventions Testing Program (ITP). This looks like something very cool. Something encouraging: some longevity drugs can work well even if you start taking them at middle age (at least in mice). Something surprising: according to Richard's research (to be published), NR doesn't work. I'd like to read more about this in particular. If true, this is huge.</comments>
+  </podcast>
+  <podcast>
     <date>2021-02-12</date>
     <name url="http://verybadwizards.com/">Very Bad Wizards</name>
     <episode url="https://www.verybadwizards.com/205" number="205">Making Your Nervous System Your Ally (William James on "Habit"‪)‬</episode>
