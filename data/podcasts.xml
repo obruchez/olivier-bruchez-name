@@ -3,23 +3,16 @@
   <introduction>A list of podcasts I listened to.</introduction>
   <!-- Podcast notes for David Sinclair interview with Rhonda Patrick: https://podcastnotes.org/found-my-fitness/david-sinclair-rhonda-patrick-nad-nr-nmn/ -->
   <podcast>
-    <date></date>
+    <date>2021-02-21</date>
+    <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
+    <episode url="https://samharris.org/subscriber-extras/237-another-call-ricky/" number="235">Another Call from Ricky</episode>
+    <comments>Another fun episode about free speech, humor, etc.</comments>
+  </podcast>
+  <podcast>
+    <date>2021-02-21</date>
     <name url="https://www.foundmyfitness.com/episodes">FoundMyFitness</name>
     <episode url="https://www.foundmyfitness.com/episodes/dale-bredesen">Dr. Dale Bredesen on Preventing and Reversing Alzheimer's Disease</episode>
-    <comments></comments>
-    <!--
-    ldl p below 1000
-
-    amalgames
-    homocysteine
-    fasting insuline
-    semi keto but low bmi, sweet potatoes & co once a week
-    plant based
-    70 fat mct coconut ketones up
-
-    citicoline in fish?
-    sauna = sweating cadmium, mercury
-    -->
+    <comments><a href="https://www.apoe4.info/wiki/Bredesen_Protocol">A lot of tests can be done</a>. My homocysteine is considered normal, but it could be apparently lower according to Bredesen. My amalgames are probably okay, but I will ask my dentist about them. I should probably get my fasting insulin tested someday (among others). I currently have a low BMI, so I was intrigued by Bredesen's comment about how people with low BMI should get "quite a lot of carbs" once a week (e.g. sweet potatoes). Bredesen seems to recomment a mostly-plant-based diet and he also seems to like MCT oils (e.g. coconut oil) - whereas Michael Greger seems to think it is quite bad. There is EPA/DHA in fish, but also other interesting substances (did I hear "citicoline"?). Sauna is good (including to eliminate cadmium, mercury, etc.).</comments>
   </podcast>
   <podcast>
     <date>2021-02-19</date>
