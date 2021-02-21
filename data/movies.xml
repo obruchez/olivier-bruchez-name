@@ -3,6 +3,16 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Checklist: add rating to IMDb -->
   <movie>
+    <date>2021-02-17</date>
+    <theater home="true"/>
+    <director>John Carpenter</director>
+    <title>The Thing</title>
+    <url>https://www.imdb.com/title/tt0084787/</url>
+    <rating>4.25</rating>
+    <comments>It's difficult not to think of <i>Alien</i> when watching <i>The Thing</i>. I know a lot of people prefer the latter over the former, but I'm not one of them. I found <i>The Thing</i> to be a bit boring / cheap-looking. It could be a good 20-minute short film, I guess</comments>
+    <image>The Thing.jpg</image>
+  </movie>
+  <movie>
     <date>2021-02-11</date>
     <theater home="true"/>
     <director>Satyajit Ray</director>
