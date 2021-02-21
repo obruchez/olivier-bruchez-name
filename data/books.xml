@@ -2,6 +2,17 @@
 <books created="2006-08-20">
     <introduction>A list of books I read.</introduction>
     <book>
+        <date></date>
+        <title>La vie est ailleurs</title>
+        <author>Milan Kundera</author>
+        <publishingyear>1969</publishingyear>
+        <rating></rating>
+        <url>https://fr.wikipedia.org/wiki/La_vie_est_ailleurs</url>
+        <notes description="Kindle highlights"></notes>
+        <comments>J'ai lu ce livre il y a 21 ans. Je ne m'en souvenais quasiment plus du tout.</comments>
+        <image>La vie est ailleurs.jpg</image>
+    </book> 
+    <book>
         <date>2021-02-07</date>
         <title>MDMA solo</title>
         <author>Phoenix Kaspian</author>
