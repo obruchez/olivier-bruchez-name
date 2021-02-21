@@ -3,6 +3,18 @@
   <introduction>A list of podcasts I listened to.</introduction>
   <!-- Podcast notes for David Sinclair interview with Rhonda Patrick: https://podcastnotes.org/found-my-fitness/david-sinclair-rhonda-patrick-nad-nr-nmn/ -->
   <podcast>
+    <date>2021-02-19</date>
+    <name url="https://www.foundmyfitness.com/episodes">FoundMyFitness</name>
+    <episode url="https://www.foundmyfitness.com/episodes/judy-campisi">Judith Campisi, Ph.D. on Cellular Senescence, Mitochondrial Dysfunction, Cancer &amp; Aging</episode>
+    <comments>Periodic fasting (3-4 days?) can help the body get rid of senescent cells. Exercising is good.</comments>
+  </podcast>
+  <podcast>
+    <date>2021-02-17</date>
+    <name url="https://www.foundmyfitness.com/episodes">FoundMyFitness</name>
+    <episode url="https://www.foundmyfitness.com/episodes/refined-sugar">Refined Sugar and Its Effects on Mortality, the Brain, Cancer, Hormones, &amp; More</episode>
+    <comments>"Refined sugar also affects the brain. It impairs the brain's ability to heal after trauma, inhibits memory formation and retention, and induces structural changes in the brain similar to those caused by amphetamine, cocaine, and nicotine – powerful stimulant drugs. Perhaps one of the most disturbing – and long-term – effects of refined sugar on the body is observed at the DNA level. Sugar causes the shortening of the telomeres, accelerating the aging process."</comments>
+  </podcast>
+  <podcast>
     <date>2021-02-14</date>
     <name url="https://peterattiamd.com/podcast/">The Peter Attia Drive Podcast</name>
     <episode url="https://peterattiamd.com/richardmiller/" number="148">Richard Miller, M.D., Ph.D.: The gold standard for testing longevity drugs: the Interventions Testing Program</episode>
@@ -95,7 +107,7 @@
   <podcast>
     <date>2021-01-21</date>
     <name url="https://www.foundmyfitness.com/episodes">FoundMyFitness</name>
-    <episode url="">On Depression and Its Underlying Causes</episode>
+    <episode>On Depression and Its Underlying Causes</episode>
     <comments>Inflammation could be a cause of depression.</comments>
   </podcast>
   <podcast>
