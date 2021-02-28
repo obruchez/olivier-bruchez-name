@@ -3,6 +3,16 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Checklist: add rating to IMDb -->
   <movie>
+    <date>2021-02-25</date>
+    <theater home="true"/>
+    <director>Peter Farrelly</director>
+    <title>Green Book</title>
+    <url>https://www.imdb.com/title/tt6966692/</url>
+    <rating>4.5</rating>
+    <comments>Another movie I would put in the "Not bad but..." category. You don't have to be familiar with Don Shirley's life to know that this movie is overromanticized. Too many "feel good" / cliché moments.</comments>
+    <image>Green Book.jpg</image>
+  </movie>
+  <movie>
     <date>2021-02-17</date>
     <theater home="true"/>
     <director>John Carpenter</director>
