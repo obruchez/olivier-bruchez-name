@@ -3,6 +3,24 @@
   <introduction>A list of podcasts I listened to.</introduction>
   <!-- Podcast notes for David Sinclair interview with Rhonda Patrick: https://podcastnotes.org/found-my-fitness/david-sinclair-rhonda-patrick-nad-nr-nmn/ -->
   <podcast>
+    <date>2021-03-03</date>
+    <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
+    <episode url="https://samharris.org/subscriber-extras/238-how-to-build-a-universe/" number="238">How to Build a Universe - A Conversation with Frank Wilczek</episode>
+    <comments>A nice overview of physics from a "conservative" physicist (i.e. who is not particularly interested in simulated universes, multiverses, etc.).</comments>
+  </podcast>
+  <podcast>
+    <date>2021-02-28</date>
+    <name url="https://chriswillx.com/modernwisdom/">Modern Wisdom</name>
+    <episode url="https://modernwisdom.libsyn.com/002-life-hacks-11" number="2">Life Hacks 101</episode>
+    <comments>I might want to try Evernote someday.</comments>
+  </podcast>
+  <podcast>
+    <date>2021-02-25</date>
+    <name url="https://chriswillx.com/modernwisdom/">Modern Wisdom</name>
+    <episode url="https://modernwisdom.libsyn.com/284-hamilton-morris" number="284">Hamilton Morris - Creating The Future Of Psychedelic‪s‬</episode>
+    <comments>Hamilton is really a smart guy. I'm now supporting him via Patreon.</comments>
+  </podcast>
+  <podcast>
     <date>2021-02-21</date>
     <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
     <episode url="https://samharris.org/subscriber-extras/237-another-call-ricky/" number="235">Another Call from Ricky</episode>
