@@ -2,15 +2,39 @@
 
 My votes (in French). En Suisse, on ne plaisante pas avec la démocratie directe. :) J'essaie ici de documenter et de justifier la façon dont je me positionne par rapport aux votations fédérales, qui ont lieu jusqu'à quatre fois par année.
 
+## [Votation fédérale du 7 mars 2021](https://www.admin.ch/gov/fr/accueil/documentation/votations/20210307.html)
+
+### Acceptez-vous l’initiative populaire « Oui à l’interdiction de se dissimuler le visage » ?
+
+Non. Résultat : ? (?.?%)
+
+- La dissimulation du visage, en Suisse, est somme toute un problème anecdotique.
+- Une interdiction ne fera rien pour faire avancer le droits des femmes.
+- Le contre-projet, quoique un peu "mou", me semble un peu plus constructif que l'initiative.
+
+### Acceptez-vous la loi fédérale du 27 septembre 2019 sur les services d’identification électronique (LSIE) ? 
+
+Oui. Résultat : ? (?.?%)
+
+- Les opposants parlent régulièrement de "passeport numérique", mais il ne s'agit pas de remplacer le passeport existant.
+- Le fait que des entreprises privées se chargent de l'implémentation d'une partie du système me semble plutôt sain.
+- Les risques en termes de sécurité informatique me semblent raisonnables.
+
+### Acceptez-vous l’arrêté fédéral du 20 décembre 2019 portant approbation de l’Accord de partenariat économique de large portée entre les États de l’AELE et l’Indonésie ?
+
+Non. Résultat : ? (?.?%)
+
+- L'argument qui fait mouche, pour moi, est le fait que les autorités de certification locales (i.e. en Indonésie) sont largement dysfonctionnelles. Ce qui serait accepté comme "preuve" du caractère durable de l'huile de palme importée n'aurait alors en réalité rien d'une preuve.
+
 ## [Votation fédérale du 29 novembre 2020](https://www.admin.ch/gov/fr/accueil/documentation/votations/20201129.html)
 
 ### Acceptez-vous l’initiative populaire « Entreprises responsables – pour protéger l’être humain et l’environnement » ?
 
-Oui. Résultat : ? (?.?%)
+Oui. Résultat : oui (50.7%)
 
 ### Acceptez-vous l’initiative populaire « Pour une interdiction du financement des producteurs de matériel de guerre » ?
 
-Oui. Résultat : ? (?.?%)
+Oui. Résultat : non (57.4%)
 
 ###
 
