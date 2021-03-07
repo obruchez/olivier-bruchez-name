@@ -3,6 +3,18 @@
   <introduction>A list of podcasts I listened to.</introduction>
   <!-- Podcast notes for David Sinclair interview with Rhonda Patrick: https://podcastnotes.org/found-my-fitness/david-sinclair-rhonda-patrick-nad-nr-nmn/ -->
   <podcast>
+    <date>2021-03-05</date>
+    <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
+    <episode url="https://samharris.org/podcasts/239-yet-another-call-ricky-gervais/" number="239">Yet Another Call from Ricky Gervais</episode>
+    <comments>Another fun episode. I don't think Sam's perspective is incompatible with Tamler's (from the Very Bad Wizard podcast), but I think it's important to recognize the importance of taking into account the "need for retribution" psychological element in a judicial system.</comments>
+  </podcast>
+  <podcast>
+    <date>2021-03-05</date>
+    <name url="https://www.foundmyfitness.com/episodes">FoundMyFitness</name>
+    <episode url="https://www.foundmyfitness.com/episodes/satchin-round-2">Dr. Satchin Panda on Practical Implementation of Time-Restricted Eating &amp; Shift Work Strategies</episode>
+    <comments>"10-14 hours of fasting when we get up in the morning means that we have given our gut rest." I'm currently at 11-12 hours, so I guess this is better than nothing. I've currently stopped doing 16/8-18/6 time-restricted eating once a week as I'm trying to gain some weight.</comments>
+  </podcast>
+  <podcast>
     <date>2021-03-03</date>
     <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
     <episode url="https://samharris.org/subscriber-extras/238-how-to-build-a-universe/" number="238">How to Build a Universe - A Conversation with Frank Wilczek</episode>
