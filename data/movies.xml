@@ -3,6 +3,17 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Checklist: add rating to IMDb -->
   <movie>
+    <date>2021-03-11</date>
+    <theater home="true"/>
+    <director>Majid Majidi</director>
+    <title>Bacheha-Ye aseman</title>
+    <title language="en">Children of Heaven</title>
+    <url>https://www.imdb.com/title/tt0118849/</url>
+    <rating>4.5</rating>
+    <comments>Not a bad movie, but a children move nevertheless. I guess I should watch it again in a few years with my son.</comments>
+    <image>Bacheha-Ye aseman.jpg</image>
+  </movie>
+  <movie>
     <date>2021-02-25</date>
     <theater home="true"/>
     <director>Peter Farrelly</director>
@@ -7848,6 +7859,16 @@
     <url>https://www.imdb.com/title/tt0032138/</url>
     <comments>"[U]n film qui n'a rien d'un chef-d'œuvre, mais dont j'avais déjà souvent entendu parlé. C'est en effet de ce film que Prince a tiré le fameux chant que l'on retrouve, principalement, dans le morceau "It's Gonna Be A Beautiful Night". Je dois avouer que c'est la seule motivation qui m'a poussé à suivre ce film en entier."</comments>
     <image>The Wizard of Oz.jpg</image>
+  </movie>
+  <movie>
+    <date>1996-12-23</date>
+    <theater home="true"/>
+    <director>Stanley Kubrick</director>
+    <title>The Shining</title>
+    <title language="fr">Shining</title>
+    <url>https://www.imdb.com/title/tt0081505/</url>
+    <comments>"Il me semble que ça faisait longtemps que je n’avais pas vu un bon film à la télévision."</comments>
+    <image>The Shining.jpg</image>
   </movie>
   <movie>
     <date>1994-??-??</date>
