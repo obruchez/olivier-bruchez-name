@@ -3,13 +3,24 @@
     <introduction>A list of books I read.</introduction>
     <book>
         <date></date>
+        <title>Stories of Your Life and Others</title>
+        <author>Ted Chiang</author>
+        <publishingyear>2002</publishingyear>
+        <rating></rating>
+        <url>https://en.wikipedia.org/wiki/Stories_of_Your_Life_and_Others</url>
+        <notes description="Kindle highlights"></notes>
+        <comments></comments>
+        <image>Stories of Your Life and Others.jpg</image>
+    </book>
+    <book>
+        <date>2021-03-09</date>
         <title>La vie est ailleurs</title>
         <author>Milan Kundera</author>
         <publishingyear>1969</publishingyear>
-        <rating></rating>
+        <rating>5.0</rating>
         <url>https://fr.wikipedia.org/wiki/La_vie_est_ailleurs</url>
         <notes description="Kindle highlights"></notes>
-        <comments>J'ai lu ce livre il y a 21 ans. Je ne m'en souvenais quasiment plus du tout.</comments>
+        <comments>J'ai lu ce livre il y a 21 ans. Je ne m'en souvenais quasiment plus du tout. Un roman réussi à propos de la poésie, du communisme, de l'art, de la politique, de l'amour (y compris maternel), etc. J'ai bien aimé les passages oniriques, en particulier au début. Ce mélange rêve/réalité - qu'est-ce que la réalité ? - est aussi un thème/style que j'apprécie chez David Lynch.</comments>
         <image>La vie est ailleurs.jpg</image>
     </book> 
     <book>
