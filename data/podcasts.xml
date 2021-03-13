@@ -3,6 +3,24 @@
   <introduction>A list of podcasts I listened to.</introduction>
   <!-- Podcast notes for David Sinclair interview with Rhonda Patrick: https://podcastnotes.org/found-my-fitness/david-sinclair-rhonda-patrick-nad-nr-nmn/ -->
   <podcast>
+    <date>2021-03-11</date>
+    <name>Superchuckamania</name>
+    <episode number="17">Episode 17</episode>
+    <comments>I listened to this episode because the word "Prince" was mentioned in the episode summary. I've now unsubscribed. Bitterness is an ugly thing to contemplate.</comments>
+  </podcast>
+  <podcast>
+    <date>2021-03-11</date>
+    <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
+    <episode url="https://samharris.org/podcasts/240-boundaries-self/" number="240">The Boundaries of Self - A Conversation with David Whyte</episode>
+    <comments>I'm slowly becoming a David Whyte fan. I read his <i>Essentials</i> collection last year and listened to the Contemplative Action series on the Waking Up App. I'm now listening to the Consolations series.</comments>
+  </podcast>
+  <podcast>
+    <date>2021-03-10</date>
+    <name url="http://verybadwizards.com/">Very Bad Wizards</name>
+    <episode url="https://www.verybadwizards.com/207" number="207">Sometimes a Paper Tray is Just a Paper Tray</episode>
+    <comments>I like hearing people's theories about what a movie/show means. I happen to have watched all the videos by <a href="https://www.youtube.com/channel/UCrmzfpLoX_ogBgSShfaiQ4A/videos">Twin Perfect</a> about Twin Peaks (more than 6 hours!) and I think he's onto something (even if some people don't like it). This is a reminder that I should watch <i>The Shining</i> again (I've apparently watched it only twice, in 1996 and 2008...).</comments>
+  </podcast>
+  <podcast>
     <date>2021-03-05</date>
     <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
     <episode url="https://samharris.org/podcasts/239-yet-another-call-ricky-gervais/" number="239">Yet Another Call from Ricky Gervais</episode>
