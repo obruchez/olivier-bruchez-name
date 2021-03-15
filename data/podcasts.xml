@@ -3,6 +3,12 @@
   <introduction>A list of podcasts I listened to.</introduction>
   <!-- Podcast notes for David Sinclair interview with Rhonda Patrick: https://podcastnotes.org/found-my-fitness/david-sinclair-rhonda-patrick-nad-nr-nmn/ -->
   <podcast>
+    <date>2021-03-14</date>
+    <name url="https://www.foundmyfitness.com/episodes">FoundMyFitness</name>
+    <episode url="https://www.foundmyfitness.com/episodes/valter-longo-2">Dr. Valter Longo on Resetting Autoimmunity and Rejuvenating Systems with Prolonged Fasting &amp; the FMD</episode>
+    <comments>This idea of resetting some things in our bodies by regularly doing something a bit uncomfortable like fasting or eating a <a href="https://www.prolon.ch/">Fasting Mimicking Diet</a> is really intriguing. Some biomarkers for longevity: IGF-1 (Insulin-like Growth Factor-1), insulin, glucose, CRP, triglycerides.</comments>
+  </podcast>
+  <podcast>
     <date>2021-03-11</date>
     <name>Superchuckamania</name>
     <episode number="17">Episode 17</episode>
