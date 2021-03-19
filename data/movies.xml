@@ -7190,6 +7190,15 @@
   </movie>
   <movie>
     <date>2001-03-19</date>
+    <theater home="true"/>
+    <director>John Irvin</director>
+    <title>Next of Kin</title>
+    <version>fr</version>
+    <url>https://www.imdb.com/title/tt0097967/</url>
+    <image>Next of Kin.jpg</image>
+  </movie>
+  <movie>
+    <date>2001-03-19</date>
     <title>Ce Que Veulent Les Femmes</title>
   </movie>
   <movie>
