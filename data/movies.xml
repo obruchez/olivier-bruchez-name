@@ -7184,6 +7184,15 @@
     <version>fr</version>
   </movie>
   <movie>
+    <date>2001-03-22</date>
+    <theater home="true"/>
+    <director>Jonathan Demme</director>
+    <title>The Silence of the Lambs</title>
+    <version>fr</version>
+    <url>https://www.imdb.com/title/tt0102926/</url>
+    <image>The Silence of the Lambs.jpg</image>
+  </movie>
+  <movie>
     <date>2001-03-20</date>
     <title>Vertical Limit</title>
     <version>fr</version>
