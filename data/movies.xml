@@ -3,6 +3,16 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Checklist: add rating to IMDb -->
   <movie>
+    <date>2021-03-20</date>
+    <theater home="true"/>
+    <director>Sergio Pablos &amp; Carlos Martínez López</director>
+    <title>Klaus</title>
+    <url>https://www.imdb.com/title/tt4729430/</url>
+    <rating>4.5</rating>
+    <comments>Not bad, but definitely less sophisticated than animated films such as <i>Soul</i>, for example. This is, again, something we should watch with our son in a few years.</comments>
+    <image>Klaus.jpg</image>
+  </movie>
+  <movie>
     <date>2021-03-11</date>
     <theater home="true"/>
     <director>Majid Majidi</director>
