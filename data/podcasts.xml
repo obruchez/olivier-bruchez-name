@@ -4,9 +4,15 @@
   <!-- Podcast notes for David Sinclair interview with Rhonda Patrick: https://podcastnotes.org/found-my-fitness/david-sinclair-rhonda-patrick-nad-nr-nmn/ -->
   <podcast>
     <date></date>
+    <name url="https://www.foundmyfitness.com/episodes">FoundMyFitness</name>
+    <episode url="https://www.foundmyfitness.com/aliquot">Aliquot #22: Q&amp;A mashup - Rhonda's personal supplement routine</episode>
+    <comments></comments>
+  </podcast>
+  <podcast>
+    <date>2021-03-28</date>
     <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
     <episode url="https://samharris.org/podcasts/242-psychedelics-self/" number="242">Psychedelics and the Self - A Conversation with James Fadiman</episode>
-    <comments>I read James Fadiman's book in 2018. I was not particularly impressed.</comments>
+    <comments>I read James Fadiman's book in 2018. I was not particularly impressed, but this discussion with Sam was very enjoyable. A lot of James' research seems to be based on anedcdotes from microdosers, though (what he calls citizen science). It's not completely useless, but I don't think that's how we're going to understand what microdosing actually does.</comments>
   </podcast>
   <podcast>
     <date>2021-03-25</date>
