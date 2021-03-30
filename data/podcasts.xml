@@ -4,9 +4,15 @@
   <!-- Podcast notes for David Sinclair interview with Rhonda Patrick: https://podcastnotes.org/found-my-fitness/david-sinclair-rhonda-patrick-nad-nr-nmn/ -->
   <podcast>
     <date></date>
-    <name url="https://www.foundmyfitness.com/episodes">FoundMyFitness</name>
-    <episode url="https://www.foundmyfitness.com/aliquot">Aliquot #22: Q&amp;A mashup - Rhonda's personal supplement routine</episode>
+    <name url="https://samharris.org/podcast/waking-up-conversations/">Waking Up Conversations</name>
+    <episode url="https://samharris.org/subscriber-extras/waking-up-tara-brach/">The Bridge to Compassion - A Conversation with Tara Brach</episode>
     <comments></comments>
+  </podcast>
+  <podcast>
+    <date>2021-03-29</date>
+    <name url="https://www.foundmyfitness.com/episodes">FoundMyFitness</name>
+    <episode url="https://www.foundmyfitness.com/aliquot">Aliquot #22: Q&amp;A mashup - Rhonda's personal supplement routine (preview)</episode>
+    <comments>I should probably add some moringa to my smoothies. Rhonda is not convinced at all by NAD boosters (I'm currently taking NMN, but it's quite expensive).</comments>
   </podcast>
   <podcast>
     <date>2021-03-28</date>
