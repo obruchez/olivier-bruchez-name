@@ -3,10 +3,22 @@
   <introduction>A list of podcasts I listened to.</introduction>
   <!-- Podcast notes for David Sinclair interview with Rhonda Patrick: https://podcastnotes.org/found-my-fitness/david-sinclair-rhonda-patrick-nad-nr-nmn/ -->
   <podcast>
-    <date></date>
+    <date>2021-03-31</date>
+    <name url="http://robesse.libsyn.com/">Obsessed by Music</name>
+    <episode url="https://robesse.libsyn.com/an-eye-mask-for-music">An Eye Mask For Music?</episode>
+    <comments>Another intriguing idea: listening to music with a blindfold/night mask.</comments>
+  </podcast>
+  <podcast>
+    <date>2021-03-31</date>
+    <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
+    <episode url="https://samharris.org/subscriber-extras/243-points-confusion/" number="243">A Few Points of Confusion</episode>
+    <comments>Meditation and race/identity politics. Nothing new.</comments>
+  </podcast>
+  <podcast>
+    <date>2021-03-31</date>
     <name url="https://samharris.org/podcast/waking-up-conversations/">Waking Up Conversations</name>
     <episode url="https://samharris.org/subscriber-extras/waking-up-tara-brach/">The Bridge to Compassion - A Conversation with Tara Brach</episode>
-    <comments></comments>
+    <comments>I think I like this idea of self-compassion meditation (aka RAIN). Maybe I'll try reading Tara's book at some point.</comments>
   </podcast>
   <podcast>
     <date>2021-03-29</date>
