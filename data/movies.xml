@@ -3,6 +3,16 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Checklist: add rating to IMDb -->
   <movie>
+    <date>2021-04-02</date>
+    <theater home="true"/>
+    <director>Corina Schwingruber Ilić</director>
+    <title>All Inclusive</title>
+    <url>https://www.imdb.com/title/tt8958890/</url>
+    <rating>4.0</rating>
+    <comments>"Le court du mois d'avril est l'excellent documentaire All Inclusive de Corina Schwingruber Ilić, à voir peut-être comme un film d'anticipation. Sélectionné pour sa première mondiale à la Mostra de Venise 2018 puis dans plus de 100 festivals, All Inclusive a notamment gagné le Prix du cinéma suisse 2019 du meilleur court métrage."</comments>
+    <image>All Inclusive.jpg</image>
+  </movie>
+  <movie>
     <date>2021-03-24</date>
     <theater home="true"/>
     <director>Andrei Tarkovsky</director>
