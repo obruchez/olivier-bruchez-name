@@ -3,6 +3,12 @@
   <introduction>A list of podcasts I listened to.</introduction>
   <!-- Podcast notes for David Sinclair interview with Rhonda Patrick: https://podcastnotes.org/found-my-fitness/david-sinclair-rhonda-patrick-nad-nr-nmn/ -->
   <podcast>
+    <date>2021-04-04</date>
+    <name url="https://peterattiamd.com/podcast/">The Peter Attia Drive Podcast</name>
+    <episode url="https://peterattiamd.com/alexhutchinson/" number="151">Alex Hutchinson, Ph.D.: Translating the science of endurance and extreme human performance</episode>
+    <comments>"Any meaningful form of exercise that's going to do substantial amounts of good is going to involve dealing with discomfort in one form or another." VO2 max: it's pretty useless to predict anything; it might have some value when you compare values associated with a single person (i.e. does it get better or worse?). If you start running: start really slow. A good way to look at exercise: it's something you do so that you'll be healthy when you're old (i.e. able to get up, move, etc.).</comments>
+  </podcast>
+  <podcast>
     <date>2021-03-31</date>
     <name url="http://robesse.libsyn.com/">Obsessed by Music</name>
     <episode url="https://robesse.libsyn.com/an-eye-mask-for-music">An Eye Mask For Music?</episode>
