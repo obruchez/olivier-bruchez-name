@@ -5,6 +5,16 @@
   <movie>
     <date>2021-04-02</date>
     <theater home="true"/>
+    <director>John McTiernan</director>
+    <title>Die Hard</title>
+    <url>https://www.imdb.com/title/tt0095016/</url>
+    <rating>4.5</rating>
+    <comments>An entertaining, but quite violent movie. Definitely of its time, with car phones and cassettes.</comments>
+    <image>Die Hard.jpg</image>
+  </movie>
+  <movie>
+    <date>2021-04-02</date>
+    <theater home="true"/>
     <director>Corina Schwingruber Ilić</director>
     <title>All Inclusive</title>
     <url>https://www.imdb.com/title/tt8958890/</url>
@@ -281,7 +291,7 @@
     <title>Chelovek s kino-apparatom</title>
     <title language="en">Man with a Movie Camera</title>
     <url>https://www.imdb.com/title/tt0019760/</url>
-    <rating>5.0</rating>
+    <rating>5.25</rating>
     <comments>A Russian experimental movie from 1929. No scenario. No intertitles. To be honest, it didn't sound very exciting to me. It took me a while to get used to the frenetic rhythm of the movie. And then it clicked. This is really a fantastic and important movie. Or experiment, I don't know, but it doesn't matter.</comments>
     <image>Man with a Movie Camera.jpg</image>
   </movie>
