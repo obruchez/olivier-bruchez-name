@@ -3,6 +3,18 @@
   <introduction>A list of podcasts I listened to.</introduction>
   <!-- Podcast notes for David Sinclair interview with Rhonda Patrick: https://podcastnotes.org/found-my-fitness/david-sinclair-rhonda-patrick-nad-nr-nmn/ -->
   <podcast>
+    <date>2021-04-09</date>
+    <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
+    <episode url="https://samharris.org/subscriber-extras/244-food-climate-pandemic-risk/" number="244">Food, Climate, and Pandemic Risk - A Conversation with Bruce Friedrich and Liz Specht</episode>
+    <comments>I've started giving monthly donations to the Good Food Institute in February 2021. It was nice to be able to understand what they do a bit more in depth. It's hard to admit for the vegetarian/semi-vegan that I am, but not eating some foods is not enough. It's just a form of boycott, after all. We have to encourage new forms of plant-based meat alternatives and cultivated meat. Giving money to the GFI is a good way to do precisely that, I think (I hope).</comments>
+  </podcast>
+  <podcast>
+    <date>2021-04-09</date>
+    <name url="https://peterattiamd.com/podcast/">The Peter Attia Drive Podcast</name>
+    <episode url="https://peterattiamd.com/stevelevitt/" number="154">Steve Levitt, Ph.D.: A rogue economist’s view on climate change, mental health, the ethics of experiments, and more</episode>
+    <comments>Levitt sounds like a fun guy, but we don't seem to share a lot of values/interests, from what I could gather. There's a moment during the episode where he mentions Sam Harris' <i>Waking Up</i> book, but he seems to completely misunderstand what meditation is. That was weird.</comments>
+  </podcast>
+  <podcast>
     <date>2021-04-04</date>
     <name url="https://peterattiamd.com/podcast/">The Peter Attia Drive Podcast</name>
     <episode url="https://peterattiamd.com/alexhutchinson/" number="151">Alex Hutchinson, Ph.D.: Translating the science of endurance and extreme human performance</episode>
