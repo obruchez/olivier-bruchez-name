@@ -3,6 +3,26 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Checklist: add rating to IMDb -->
   <movie>
+    <date>2021-04-07</date>
+    <theater home="true"/>
+    <director>Steven Spielberg</director>
+    <title>E.T. the Extra-Terrestrial</title>
+    <url>https://www.imdb.com/title/tt0083866/</url>
+    <rating>4.5</rating>
+    <comments>Yet another film to see with my son someday. Not bad.</comments>
+    <image>E.T. the Extra-Terrestrial.jpg</image>
+  </movie>
+  <movie>
+    <date>2021-04-06</date>
+    <theater home="true"/>
+    <director>Kar-Wai Wong</director>
+    <title>In the Mood for Love</title>
+    <url>https://www.imdb.com/title/tt0118694/</url>
+    <rating>5.0</rating>
+    <comments>I was a bit tired when watching this film, but, still, I was really impressed by the cinematography. It's really a visually beautiful movie. A lot of scenes are like paintings. I should watch it again someday.</comments>
+    <image>In the Mood for Love.jpg</image>
+  </movie>
+  <movie>
     <date>2021-04-02</date>
     <theater home="true"/>
     <director>John McTiernan</director>
