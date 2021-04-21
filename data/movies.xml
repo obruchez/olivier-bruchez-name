@@ -3,6 +3,26 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Checklist: add rating to IMDb -->
   <movie>
+    <date>2021-04-18</date>
+    <theater home="true"/>
+    <director>Robert Eggers</director>
+    <title>The Lighthouse</title>
+    <url>https://www.imdb.com/title/tt7984734/</url>
+    <rating>4.5</rating>
+    <comments>Technically impressive, but I didn't care at all about he main characters, which made that movie a bit frustrating.</comments>
+    <image>The Lighthouse.jpg</image>
+  </movie>
+  <movie>
+    <date>2021-04-16</date>
+    <theater home="true"/>
+    <director>Frank Capra</director>
+    <title>It Happened One Night</title>
+    <url>https://www.imdb.com/title/tt0025316/</url>
+    <rating>4.75</rating>
+    <comments>A fun movie, with many moments/scenes that couldn't exist in a recent movie (see <a href="https://en.wikipedia.org/wiki/Pre-Code_Hollywood">Pre-Code Hollywood</a>).</comments>
+    <image>It Happened One Night.jpg</image>
+  </movie>
+  <movie>
     <date>2021-04-07</date>
     <theater home="true"/>
     <director>Steven Spielberg</director>
