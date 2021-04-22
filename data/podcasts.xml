@@ -3,6 +3,30 @@
   <introduction>A list of podcasts I listened to.</introduction>
   <!-- Podcast notes for David Sinclair interview with Rhonda Patrick: https://podcastnotes.org/found-my-fitness/david-sinclair-rhonda-patrick-nad-nr-nmn/ -->
   <podcast>
+    <date>2021-04-21</date>
+    <name url="https://www.foundmyfitness.com/episodes">FoundMyFitness</name>
+    <episode url="https://www.foundmyfitness.com/episodes/zero-fasting-qa">FoundMyFitness: Fasting Q&amp;A with Dr. Rhonda Patrick and Mike Maser</episode>
+    <comments>A lot of good questions and answers. It's still not clear what an almost-underweight person such as me (BMI of 18.0) should do.</comments>
+  </podcast>
+  <podcast>
+    <date>2021-04-21</date>
+    <name url="https://www.foundmyfitness.com/episodes">FoundMyFitness</name>
+    <episode url="https://www.foundmyfitness.com/episodes/charles-raison">Dr. Charles Raison on Depression, the Immune-Brain Interface &amp; Whole-Body Hyperthermia</episode>
+    <comments>An in-depth discussion about the topic, that went a bit over my head. Psychedelics and meditation are mentioned as well.</comments>
+  </podcast>
+  <podcast>
+    <date>2021-04-17</date>
+    <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
+    <episode url="https://samharris.org/subscriber-extras/245-can-talk-scary-ideas/" number="245">Can We Talk About Scary Ideas? - A Conversation with Peter Singer, Francesca Minerva, Jeff McMahan</episode>
+    <comments>Interesting guests. The discussion was a bit boring, though.</comments>
+  </podcast>
+  <podcast>
+    <date>2021-04-16</date>
+    <name url="http://verybadwizards.com/">Very Bad Wizards</name>
+    <episode url="https://www.verybadwizards.com/210" number="210">The Priming of the American Mind (with Jesse Singal)</episode>
+    <comments>Tamler goes in full "God of the gaps" mode. That was very weird. <a href="https://www.reddit.com/r/VeryBadWizards/comments/mlln5q/episode_210_the_priming_of_the_american_mind_with/">Reddit thread</a>.</comments>
+  </podcast>
+  <podcast>
     <date>2021-04-09</date>
     <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
     <episode url="https://samharris.org/subscriber-extras/244-food-climate-pandemic-risk/" number="244">Food, Climate, and Pandemic Risk - A Conversation with Bruce Friedrich and Liz Specht</episode>
