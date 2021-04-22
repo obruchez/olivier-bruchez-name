@@ -10,17 +10,17 @@
   </show>
   <show>
     <date></date>
-    <name url="https://en.wikipedia.org/wiki/The_Twilight_Zone_(1959_TV_series)">The Twilight Zone</name>
-    <series url="https://en.wikipedia.org/wiki/The_Twilight_Zone_(1959_TV_series,_season_5)" type="season">5</series>
-    <comments></comments>
-    <image>The Twilight Zone.jpg</image>
-  </show>
-  <show>
-    <date></date>
     <name url="https://en.wikipedia.org/wiki/This_Is_Us_(TV_series)">This Is Us</name>
     <series url="https://en.wikipedia.org/wiki/This_Is_Us_(season_5)" type="season">5</series>
     <comments></comments>
     <image>This Is Us.jpg</image>
+  </show>
+  <show>
+    <date>2021-04-22</date>
+    <name url="https://en.wikipedia.org/wiki/The_Twilight_Zone_(1959_TV_series)">The Twilight Zone</name>
+    <series url="https://en.wikipedia.org/wiki/The_Twilight_Zone_(1959_TV_series,_season_5)" type="season">5</series>
+    <comments>Probably the weakest season, but still some excellent episodes (e.g. <a href="https://www.imdb.com/title/tt0734600/">"Nightmare at 20,000 Feet"</a>, <a href="https://www.imdb.com/title/tt0734554/">"An Occurrence at Owl Creek Bridge"</a>, <a href="https://www.imdb.com/title/tt0734625/">"Stopover in a Quiet Town"</a>, etc.).</comments>
+    <image>The Twilight Zone.jpg</image>
   </show>
   <show>
     <date>2021-03-18</date>
