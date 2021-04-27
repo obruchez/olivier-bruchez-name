@@ -3,6 +3,12 @@
   <introduction>A list of podcasts I listened to.</introduction>
   <!-- Podcast notes for David Sinclair interview with Rhonda Patrick: https://podcastnotes.org/found-my-fitness/david-sinclair-rhonda-patrick-nad-nr-nmn/ -->
   <podcast>
+    <date>2021-04-24</date>
+    <name url="http://verybadwizards.com/">Very Bad Wizards</name>
+    <episode url="https://www.verybadwizards.com/211" number="211">To Live and Die in Kurosawa's "Ikiru"</episode>
+    <comments>A good episode about a good movie, which <a href="https://olivier.bruchez.name/movies#2019-11-27">I saw in 2019</a>.</comments>
+  </podcast>
+  <podcast>
     <date>2021-04-21</date>
     <name url="https://www.foundmyfitness.com/episodes">FoundMyFitness</name>
     <episode url="https://www.foundmyfitness.com/episodes/zero-fasting-qa">FoundMyFitness: Fasting Q&amp;A with Dr. Rhonda Patrick and Mike Maser</episode>
