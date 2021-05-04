@@ -3,6 +3,18 @@
   <introduction>A list of podcasts I listened to.</introduction>
   <!-- Podcast notes for David Sinclair interview with Rhonda Patrick: https://podcastnotes.org/found-my-fitness/david-sinclair-rhonda-patrick-nad-nr-nmn/ -->
   <podcast>
+    <date>2021-04-30</date>
+    <name url="https://www.foundmyfitness.com/episodes">FoundMyFitness</name>
+    <episode url="https://www.foundmyfitness.com/episodes/exercise-depression">Exercise as a Treatment for Depression</episode>
+    <comments>Yet another reason to exercise more.</comments>
+  </podcast>
+  <podcast>
+    <date>2021-04-29</date>
+    <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
+    <episode url="https://samharris.org/podcasts/special-episode-engineering-apocalypse/">Special Episode: Engineering the Apocalypse - By Rob Reid and Sam Harris</episode>
+    <comments>Frightening, but logical: artificial viruses might cause the destruction of humanity (at least as we know it). But there are good reasons to stay optimistic. Technology can also prevent that from happening.</comments>
+  </podcast>
+  <podcast>
     <date>2021-04-24</date>
     <name url="http://verybadwizards.com/">Very Bad Wizards</name>
     <episode url="https://www.verybadwizards.com/211" number="211">To Live and Die in Kurosawa's "Ikiru"</episode>
@@ -11,7 +23,7 @@
   <podcast>
     <date>2021-04-21</date>
     <name url="https://www.foundmyfitness.com/episodes">FoundMyFitness</name>
-    <episode url="https://www.foundmyfitness.com/episodes/zero-fasting-qa">FoundMyFitness: Fasting Q&amp;A with Dr. Rhonda Patrick and Mike Maser</episode>
+    <episode url="https://www.foundmyfitness.com/episodes/zero-fasting-qa">Fasting Q&amp;A with Dr. Rhonda Patrick and Mike Maser</episode>
     <comments>A lot of good questions and answers. It's still not clear what an almost-underweight person such as me (BMI of 18.0) should do.</comments>
   </podcast>
   <podcast>
