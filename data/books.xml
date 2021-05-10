@@ -3,17 +3,6 @@
     <introduction>A list of books I read.</introduction>
     <book>
         <date></date>
-        <title>Stories of Your Life and Others</title>
-        <author>Ted Chiang</author>
-        <publishingyear>2002</publishingyear>
-        <rating></rating>
-        <url>https://en.wikipedia.org/wiki/Stories_of_Your_Life_and_Others</url>
-        <notes description="Kindle highlights"></notes>
-        <comments></comments>
-        <image>Stories of Your Life and Others.jpg</image>
-    </book>
-    <book>
-        <date></date>
         <title>Consolations</title>
         <subtitle>The Solace, Nourishment and Underlying Meaning of Everyday Words</subtitle>
         <author>David Whyte</author>
@@ -35,6 +24,17 @@
         <notes description="Kindle highlights"></notes>
         <comments></comments>
         <image>Radical Compassion.jpg</image>
+    </book>
+    <book>
+        <date>2021-05-05</date>
+        <title>Stories of Your Life and Others</title>
+        <author>Ted Chiang</author>
+        <publishingyear>2002</publishingyear>
+        <rating>5.0</rating>
+        <url>https://en.wikipedia.org/wiki/Stories_of_Your_Life_and_Others</url>
+        <notes description="Kindle highlights"></notes>
+        <comments>Another excellent short stories collection. The movie <i>Arrival</i>, which I really like, was based on one of those stories. The only frustrating thing is that I've now apparently read pretty much everything Ted Chiang ever wrote...</comments>
+        <image>Stories of Your Life and Others.jpg</image>
     </book>
     <book>
         <date>2021-04-30</date>
