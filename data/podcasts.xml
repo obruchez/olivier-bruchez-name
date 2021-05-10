@@ -3,6 +3,24 @@
   <introduction>A list of podcasts I listened to.</introduction>
   <!-- Podcast notes for David Sinclair interview with Rhonda Patrick: https://podcastnotes.org/found-my-fitness/david-sinclair-rhonda-patrick-nad-nr-nmn/ -->
   <podcast>
+    <date>2021-05-10</date>
+    <name url="https://www.foundmyfitness.com/episodes">FoundMyFitness</name>
+    <episode url="https://www.foundmyfitness.com/episodes/sauna-heart-presentation">Sauna Use as an Exercise Mimetic for Heart and Healthspan</episode>
+    <comments>20-30 minutes of sauna, several times a week, have a lot of benefits for heart health and health in general. I unfortunately don't have regular access to a sauna...</comments>
+  </podcast>
+  <podcast>
+    <date>2021-05-10</date>
+    <name url="http://verybadwizards.com/">Very Bad Wizards</name>
+    <episode url="https://www.verybadwizards.com/206" number="206">Angel Chasing (Ted Chiang's "Hell is the Absence of God")</episode>
+    <comments>An episode about this excellent story by Ted Chiang. I agree: it's not clearly against religion (in the "New Atheism" way of being against religion, at least), but it's certainly not a good defense of religion either. I don't really agreee with Dave and Tamler about the fact that the characters live in a world where religious questions are answered. It's still very mysterious why all those angels are coming to earth. So it's almost comically obvious that God, angels, heaven, and hell exist, but everything still doesn't make a lot of sense compared to our actual world (where the existence of those things is not obvious at all).</comments>
+  </podcast>
+  <podcast>
+    <date>2021-05-06</date>
+    <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
+    <episode url="https://samharris.org/podcasts/247-constructing-minds/" number="247">Constructing Minds - A Conversation with Lisa Feldman Barrett</episode>
+    <comments>My simplistic summary: our models are often way too simplistic. They also talked about <a href="https://en.wikipedia.org/wiki/Cognitive_reframing">cognitive reframing</a>.</comments>
+  </podcast>
+  <podcast>
     <date>2021-04-30</date>
     <name url="https://www.foundmyfitness.com/episodes">FoundMyFitness</name>
     <episode url="https://www.foundmyfitness.com/episodes/exercise-depression">Exercise as a Treatment for Depression</episode>
