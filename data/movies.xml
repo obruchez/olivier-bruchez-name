@@ -3,6 +3,16 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Checklist: add rating to IMDb -->
   <movie>
+    <date>2021-05-12</date>
+    <theater home="true"/>
+    <director>Curtis Hanson</director>
+    <title>L.A. Confidential</title>
+    <url>https://www.imdb.com/title/tt0119488/</url>
+    <rating>4.75</rating>
+    <comments>How do you fix a corrupt system from the inside? Can you do it by not being corrupt yourself?</comments>
+    <image>L.A. Confidential.jpg</image>
+  </movie>
+  <movie>
     <date>2021-05-03</date>
     <theater home="true"/>
     <director>Michael Mann</director>
