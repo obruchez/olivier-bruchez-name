@@ -2,6 +2,7 @@ package blogger
 
 import com.google.api.client.googleapis.javanet.GoogleNetHttpTransport
 import com.google.api.client.json.jackson2.JacksonFactory
+import com.google.api.client.util.DateTime
 import com.google.api.services.blogger.{Blogger => BloggerService}
 import models.HtmlContent
 import org.joda.time.LocalDateTime
@@ -36,7 +37,7 @@ object Blogger {
         BloggerPost(
           title = post.getTitle,
           url = post.getUrl,
-          publicationDate = new LocalDateTime(post.getPublished.getValue),
+          publicationDate = new LocalDateTime(DateTime.parseRfc3339(post.getPublished).getValue),
           content = HtmlContent(post.getContent),
           labels = post.getLabels
         )
