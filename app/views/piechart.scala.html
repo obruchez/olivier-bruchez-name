@@ -15,7 +15,7 @@
   jQuery(document).ready(function() {
     var context = document.getElementById("@pieChart.id").getContext("2d");
 
-    Chart.defaults.global.legend.display = false;
+    Chart.defaults.plugins.legend.display = false;
 
     var chart = new Chart(context, {
       type: 'pie',
@@ -39,5 +39,5 @@
 </script>
 
 <!--<div id="canvas-holder-@pieChart.id" style="width: @@{width}px; height: @@{height}px;">-->
-  <canvas id="@pieChart.id" class="centered-canvas" width="200" height="200"/>
+  <canvas id="@pieChart.id" class="centered-canvas" width="500" height="500"/>
 <!--</div>-->
