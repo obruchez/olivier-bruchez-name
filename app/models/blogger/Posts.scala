@@ -7,8 +7,9 @@ import org.joda.time.ReadablePartial
 import org.jsoup.Jsoup
 import org.jsoup.nodes._
 import org.jsoup.safety._
-import scala.util.Try
 import util._
+
+import scala.util.Try
 
 case class Post(override val date: ReadablePartial,
                 title: String,
@@ -45,10 +46,10 @@ object Post {
     val cleaner = new Cleaner(whitelist)
     val cleanDoc = cleaner.clean(doc)
 
-    import scala.collection.JavaConversions._
+    import scala.jdk.CollectionConverters._
 
     for {
-      element <- cleanDoc.select("div")
+      element <- cleanDoc.select("div").asScala
     } {
       if (divWithSingleBr(element)) {
         element.remove()

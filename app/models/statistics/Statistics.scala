@@ -3,8 +3,9 @@ package models.statistics
 import models.ListItem
 import models.lifelogging._
 import org.joda.time.{DateTimeFieldType, Partial}
-import scala.util.Try
 import util.Date._
+
+import scala.util.Try
 
 case class MinAvgMax(min: Double, avg: Double, max: Double)
 
@@ -153,11 +154,14 @@ case class Statistics(books: Books,
 
   private val PersonsToIgnore = Set("", "?", "etc.")
 
-  private def ratingsDistribution(ratings: Seq[Double]): Seq[(String, Int)] =
+  private def ratingsDistribution(ratings: Seq[Double]): Seq[(String, Int)] = {
+    import scala.math.BigDecimal
+
     for {
-      rating <- 0.0 to (5.0, 0.25)
+      rating <- BigDecimal(0.0) to BigDecimal(5.0) by BigDecimal(0.25)
       count = ratings.count(_ == rating)
     } yield f"$rating%1.2f" -> count
+  }
 
   private def ratingsEvolution(datesAndRatings: Seq[(Partial, Double)]): Seq[(String, MinAvgMax)] =
     for {

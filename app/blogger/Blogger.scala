@@ -27,19 +27,19 @@ object Blogger {
   }
 
   def latestPosts(count: Int): Seq[BloggerPost] = {
-    import scala.collection.JavaConversions._
+    import scala.jdk.CollectionConverters._
 
     val posts =
       blogger.posts().list(blogId).setMaxResults(count.toLong).setKey(apiKey).execute().getItems
 
-    for (post <- posts.iterator().toSeq)
+    for (post <- posts.iterator().asScala.toSeq)
       yield
         BloggerPost(
           title = post.getTitle,
           url = post.getUrl,
           publicationDate = new LocalDateTime(DateTime.parseRfc3339(post.getPublished).getValue),
           content = HtmlContent(post.getContent),
-          labels = post.getLabels
+          labels = Option(post.getLabels).map(_.asScala.toSeq).getOrElse(Seq())
         )
   }
 

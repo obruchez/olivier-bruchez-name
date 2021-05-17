@@ -1,10 +1,11 @@
 package twitter
 
-import java.net.URL
-import scala.collection.JavaConversions._
+import _root_.util.Configuration
 import twitter4j._
 import twitter4j.conf.ConfigurationBuilder
-import _root_.util.Configuration
+
+import java.net.URL
+import scala.jdk.CollectionConverters._
 
 // Make sure the members are lazy in case an Internet connection is not available at initialization
 object Twitter {
@@ -36,7 +37,11 @@ object Twitter {
     val pageCount = (count.toDouble / MaxStatusCountPerPaging.toDouble).ceil.round.toInt
     (for {
       page <- 1 to pageCount
-      status <- twitter.getUserTimeline(new Paging(page, MaxStatusCountPerPaging)).iterator().toSeq
+      status <- twitter
+        .getUserTimeline(new Paging(page, MaxStatusCountPerPaging))
+        .iterator()
+        .asScala
+        .toSeq
     } yield ExtendedStatus(status, username = user.getScreenName)).take(count)
   }
 
