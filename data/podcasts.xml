@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <podcasts created="2016-05-10">
   <introduction>A list of podcasts I listened to.</introduction>
-  <!-- Podcast notes for David Sinclair interview with Rhonda Patrick: https://podcastnotes.org/found-my-fitness/david-sinclair-rhonda-patrick-nad-nr-nmn/ -->
+  <podcast>
+    <date>2021-05-17</date>
+    <name url="https://www.foundmyfitness.com/episodes">FoundMyFitness</name>
+    <episode url="https://www.foundmyfitness.com/episodes/david-sinclair">Dr. David Sinclair on Informational Theory of Aging, Nicotinamide Mononucleotide, Resveratrol &amp; More</episode>
+    <comments><a href="https://podcastnotes.org/found-my-fitness/david-sinclair-rhonda-patrick-nad-nr-nmn/">Podcast notes</a>.</comments>
+  </podcast>
   <podcast>
     <date>2021-05-10</date>
     <name url="https://www.foundmyfitness.com/episodes">FoundMyFitness</name>
