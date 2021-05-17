@@ -1,10 +1,10 @@
 name := "olivier-bruchez-name"
 
-version := "1.7-SNAPSHOT"
+version := "1.8-SNAPSHOT"
 
 lazy val root = (project in file(".")).enablePlugins(PlayScala)
 
-scalaVersion := "2.11.12"
+scalaVersion := "2.12.13"
 
 libraryDependencies ++= Seq(jdbc, cache, ws)
 
