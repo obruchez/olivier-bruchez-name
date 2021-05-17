@@ -5,9 +5,11 @@ import models._
 import models.lifelogging.{CourseCertificate, Courses}
 import play.api.libs.concurrent.Execution.Implicits._
 import play.api.mvc._
+
+import javax.inject.Inject
 import scala.concurrent.Future
 
-object CourseCertificatesController extends Controller {
+class CourseCertificatesController @Inject()() extends ControllerHelpers {
   def courseCertificate(slug: String) = Action.async {
     for {
       courses <- Cache.get(Courses)

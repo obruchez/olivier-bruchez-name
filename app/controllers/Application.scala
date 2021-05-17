@@ -1,19 +1,22 @@
 package controllers
 
 import actors.Cache
-import models._
-import models.about.{LifePrinciples, Worldview, Profile}
+import models.about.{LifePrinciples, Profile, Worldview}
 import models.blogger.Posts
 import models.lifelogging._
 import models.statistics.Statistics
-import models.todo.{TripsToTake, MoviesToWatch, BooksToRead}
+import models.todo.{BooksToRead, MoviesToWatch, TripsToTake}
 import models.twitter.Tweets
+import models.{PdfCv, WordCv, _}
 import play.api.libs.concurrent.Execution.Implicits._
 import play.api.mvc._
-import models.{PdfCv, WordCv}
+
+import javax.inject.Inject
 import scala.concurrent.Future
 
-object Application extends Controller {
+object Application
+
+class Application @Inject()() extends ControllerHelpers {
   def home = Action.async {
     val MaxItemCount = 5
 

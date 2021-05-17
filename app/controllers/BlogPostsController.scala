@@ -6,7 +6,9 @@ import models.blogger.{Post, Posts}
 import play.api.libs.concurrent.Execution.Implicits._
 import play.api.mvc._
 
-object BlogPostsController extends Controller {
+import javax.inject.Inject
+
+class BlogPostsController @Inject()() extends ControllerHelpers {
   def blogPost(relativePermalink: String) = Action.async {
     Cache.get(Posts) map { posts =>
       posts.listItems.find(_.relativePermalink == relativePermalink) match {

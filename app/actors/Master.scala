@@ -57,6 +57,9 @@ object Master {
   lazy val fetcherRouter =
     system.actorOf(RoundRobinPool(10).props(Props(new Fetcher(cache))), "fetcher-pool")
 
+  // @todo add hook for call to stop()
+  start()
+
   def start(): Unit = {
     master ! CheckCache(force = false, reschedule = true)
   }

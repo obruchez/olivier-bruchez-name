@@ -5,10 +5,12 @@ import models._
 import models.lifelogging.{BookNotes, Books}
 import play.api.libs.concurrent.Execution.Implicits._
 import play.api.mvc._
+
+import javax.inject.Inject
 import scala.concurrent.Future
 import scala.util._
 
-object BookNotesController extends Controller {
+class BookNotesController @Inject()() extends ControllerHelpers {
   def bookNotes(slug: String) = Action.async {
     for {
       books <- Cache.get(Books)

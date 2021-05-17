@@ -9,6 +9,7 @@ scalaVersion := "2.11.12"
 libraryDependencies ++= Seq(jdbc, cache, ws)
 
 libraryDependencies ++= Seq(
+  guice,
   "com.github.rjeschke" % "txtmark" % "0.13",
   "com.google.apis" % "google-api-services-blogger" % "v3-rev82-1.25.0",
   "com.google.api-client" % "google-api-client" % "1.31.5",
@@ -23,7 +24,7 @@ libraryDependencies ++= Seq(
   "org.twitter4j" % "twitter4j-core" % "4.0.7"
 )
 
-routesGenerator := StaticRoutesGenerator
+routesGenerator := InjectedRoutesGenerator
 
 scalafmtOnCompile in ThisBuild := true
 
