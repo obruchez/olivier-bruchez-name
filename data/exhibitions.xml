@@ -3,6 +3,22 @@
 <exhibitions created="2011-05-17">
     <introduction>A list of exhibitions I visited.</introduction>
     <exhibition>
+        <date>2021-05-23</date>
+        <name>Permanent exhibition</name>
+        <museum>Musée cantonal des Beaux-Arts, MCBA, Lausanne, Switzerland</museum>
+        <rating>4.5</rating>
+        <comments>No temporary exhibitions that day. We'll have to visit it again someday. The building itself is pretty nice.</comments>
+        <image>Musée cantonal des Beaux-Arts, MCBA.jpg</image>
+    </exhibition>
+    <exhibition>
+        <date>2021-05-21</date>
+        <name>Permanent exhibition</name>
+        <museum>Barryland - Musée et Chiens du Saint Bernard, Martigny, Switzerland</museum>
+        <rating>3.5</rating>
+        <comments>It could be better and they're working on it (24-million project, apparently).</comments>
+        <image>Barryland - Musée et Chiens du Saint Bernard.jpg</image>
+    </exhibition>
+    <exhibition>
         <date>2020-09-20</date>
         <name>Permanent exhibition</name>
         <museum>Spielzeug Welten Museum, Basel, Switzerland</museum>
@@ -403,7 +419,7 @@
     <exhibition>
         <date>2015-11-07</date>
         <name>Permanent exhibition</name>
-        <museum>Musée et Chiens du Saint-Bernard, Martigny, Switzerland</museum>
+        <museum>Barryland - Musée et Chiens du Saint Bernard, Martigny, Switzerland</museum>
         <rating>3.25</rating>
     </exhibition>
     <exhibition>
