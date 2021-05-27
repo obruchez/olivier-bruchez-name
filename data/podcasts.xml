@@ -2,6 +2,12 @@
 <podcasts created="2016-05-10">
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date>2021-05-27</date>
+    <name url="https://samharris.org/podcast/waking-up-conversations/">Waking Up Conversations</name>
+    <episode url="https://samharris.org/subscriber-extras/waking-course-cautionary-tale/">Andrew Cohen - A Cautionary Tale</episode>
+    <comments>That was courageous of <a href="https://en.wikipedia.org/wiki/Andrew_Cohen_(spiritual_teacher)">Cohen</a> to accept Sam's invitation to talk about that difficult topic (Cohen was accused of being a cult leader).</comments>
+  </podcast>
+  <podcast>
     <date>2021-05-22</date>
     <name url="https://samharris.org/podcast/waking-up-conversations/">Waking Up Conversations</name>
     <episode url="https://samharris.org/subscriber-extras/waking-course-reflections-path/">Jack Kornfield - Reflections on the Path</episode>
