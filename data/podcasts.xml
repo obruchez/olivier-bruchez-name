@@ -2,6 +2,12 @@
 <podcasts created="2016-05-10">
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date>2021-05-21/date>
+    <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
+    <episode url="https://samharris.org/podcasts/249-distance-arrival/" number="249">Distance &amp; Arrival - A Conversation with David Whyte</episode>
+    <comments>As said previously, I enjoy David Whyte very much. His essays are meant to be read / listen to multiple times and that's what I intend to do (I've finished his <i>Consolations</i> collection recently).</comments>
+  </podcast>
+  <podcast>
     <date>2021-05-17</date>
     <name url="https://www.foundmyfitness.com/episodes">FoundMyFitness</name>
     <episode url="https://www.foundmyfitness.com/episodes/david-sinclair">Dr. David Sinclair on Informational Theory of Aging, Nicotinamide Mononucleotide, Resveratrol &amp; More</episode>
