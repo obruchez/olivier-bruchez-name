@@ -2,6 +2,12 @@
 <podcasts created="2016-05-10">
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date></date>
+    <name url="https://peterattiamd.com/podcast/">The Peter Attia Drive Podcast</name>
+    <episode url="https://peterattiamd.com/pauloffit2/" number="160">Paul Offit, M.D.: The latest on COVID-19 vaccines and their safety, herd immunity, and viral variants</episode>
+    <comments>"If you ask me the question, 'What do I fear most about this whole pandemic?' it's actually not the variants. ... It's that there would be a significant percentage of the population that is going to choose not to vaccinate so much so that we can't get to that 80+% of population immunity we need to slow this virus." —Paul Offit</comments>
+  </podcast>
+  <podcast>
     <date>2021-05-29</date>
     <name url="https://samharris.org/podcast/waking-up-conversations/">Waking Up Conversations</name>
     <episode url="https://samharris.org/subscriber-extras/waking-course-skeptical-buddhism/">Stephen Batchelor - Skeptical Buddhism</episode>
