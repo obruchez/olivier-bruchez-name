@@ -3,6 +3,16 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Checklist: add rating to IMDb -->
   <movie>
+    <date>2021-05-31</date>
+    <theater home="true"/>
+    <director>Paul Thomas Anderson</director>
+    <title>There Will Be Blood</title>
+    <url>https://www.imdb.com/title/tt0469494/</url>
+    <rating>4.75</rating>
+    <comments>It's difficult to sympathize with the main characters. They're both unlikeable, in different ways. It's difficult to say why exactly, but this movie left me with a feeling of emptiness.</comments>
+    <image>There Will Be Blood.jpg</image>
+  </movie>
+  <movie>
     <date>2021-05-23</date>
     <theater home="true"/>
     <director>Florian Zeller</director>
