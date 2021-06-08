@@ -2,7 +2,25 @@
 <podcasts created="2016-05-10">
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
-    <date></date>
+    <date>2021-06-07</date>
+    <name url="https://samharris.org/podcast/waking-up-conversations/">Waking Up Conversations</name>
+    <episode url="https://samharris.org/subscriber-extras/waking-course-nature-awareness/">Rupert Spira - The Nature of Awareness</episode>
+    <comments>The discussion about matter vs consciousness, materialism as a religious belief, etc. was a bit weird. Rupert Spira doesn't sound like someone I share a lot of views with.</comments>
+  </podcast>
+  <podcast>
+    <date>2021-06-07</date>
+    <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
+    <episode url="https://samharris.org/podcasts/251-corporate-cowardice/" number="251">Corporate Cowardice - A Conversation with Antonio García-Martínez</episode>
+    <comments>Is what García-Martínez wrote edgy or in bad taste? I don't know. He didn't came off as a particularly nice guy in that interview.</comments>
+  </podcast>
+  <podcast>
+    <date>2021-06-04</date>
+    <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
+    <episode url="https://samharris.org/podcasts/250-broken-conversations/" number="250">Broken Conversations - A Conversation with Jesse Singal</episode>
+    <comments><a href="https://www.reddit.com/r/samharris/comments/nhy402/250_broken_conversations/">Reddit thread</a>.</comments>
+  </podcast>
+  <podcast>
+    <date>2021-06-01</date>
     <name url="https://peterattiamd.com/podcast/">The Peter Attia Drive Podcast</name>
     <episode url="https://peterattiamd.com/pauloffit2/" number="160">Paul Offit, M.D.: The latest on COVID-19 vaccines and their safety, herd immunity, and viral variants</episode>
     <comments>"If you ask me the question, 'What do I fear most about this whole pandemic?' it's actually not the variants. ... It's that there would be a significant percentage of the population that is going to choose not to vaccinate so much so that we can't get to that 80+% of population immunity we need to slow this virus." —Paul Offit</comments>
