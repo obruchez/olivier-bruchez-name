@@ -1380,6 +1380,15 @@
     <image>Aldébaran - La catastrophe.jpg</image>
   </comic>
   <comic>
+    <date>2001-06-07</date>
+    <writer>Jacques Martin</writer>
+    <artist>Gilles Chaillet</artist>
+    <series url="https://fr.wikipedia.org/wiki/Lefranc_(bande_dessin%C3%A9e)">Lefranc</series>
+    <volume url="https://fr.wikipedia.org/wiki/Les_Portes_de_l%27enfer_(Lefranc)" number="5">Les Portes de l'enfer</volume>
+    <comments>Un tome atypique, mais que j'ai toujours bien aimé.</comments>
+    <image>Lefranc - Les Portes de l'enfer.jpg</image>
+  </comic>
+  <comic>
     <date>2000-05-20</date>
     <writer>Benoît Peeters</writer>
     <artist>François Schuiten</artist>
