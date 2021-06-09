@@ -3,6 +3,26 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Checklist: add rating to IMDb -->
   <movie>
+    <date>2021-06-08</date>
+    <theater home="true"/>
+    <director>Richard Linklater</director>
+    <title>Before Midnight</title>
+    <url>https://www.imdb.com/title/tt2209418/</url>
+    <rating>4.75</rating>
+    <comments>Not a bad movie. Everything that happens is quite logical. Love cannot stay as intense as in the beginning. Children will always cause problems in the couple at one point or another. It's realistic, but, at the same time, it's also a bit less enjoyable than the two other movies in the trilogy. Also, I hope it won't sound too sexist, but Celine has become really unlikeable.</comments>
+    <image>Before Midnight.jpg</image>
+  </movie>
+  <movie>
+    <date>2021-06-04</date>
+    <theater home="true"/>
+    <director>Richard Linklater</director>
+    <title>Before Sunset</title>
+    <url>https://www.imdb.com/title/tt0381681/</url>
+    <rating>5.0</rating>
+    <comments>I would have to re-watch all three movies in the trilogy, but I feel <i>Before Sunset</i> is as strong as <i>Before Sunrise</i>. I really like this format: two persons talking about life, love, the meaning of things, etc. It also really captures something from my youth (my interest in philosophy, European cities, etc.).</comments>
+    <image>Before Sunset.jpg</image>
+  </movie>
+  <movie>
     <date>2021-05-31</date>
     <theater home="true"/>
     <director>Paul Thomas Anderson</director>
