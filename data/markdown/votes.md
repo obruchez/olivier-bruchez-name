@@ -2,11 +2,46 @@
 
 My votes (in French). En Suisse, on ne plaisante pas avec la démocratie directe. :) J'essaie ici de documenter et de justifier la façon dont je me positionne par rapport aux votations fédérales, qui ont lieu jusqu'à quatre fois par année.
 
+## [Votation fédérale du 13 juin 2021](https://www.admin.ch/gov/fr/accueil/documentation/votations/20210613.html)
+
+### Acceptez-vous l’initiative populaire « Pour une eau potable propre et une alimentation saine – Pas de subventions pour l’utilisation de pesticides et l’utilisation d’antibiotiques à titre prophylactique » ?
+
+Oui. Résultat : ? (?.?%)
+
+- Je ne suis pas insensible à l'argument qu'un oui aurait pour effet d'augmenter les importations, ce qui peut sembler hypocrite (règles plus sévères en Suisse, mais consommation de produits problématiques autorisées).
+- Comme souvent, je pense toutefois que la Suisse, un des pays les plus riches au monde, a les moyens de jouer le rôle d'exemple.
+- Par exemple, la production de foie gras est interdite en Suisse (pour des raisons éthiques qui me semblent évidentes), mais son importation est autorisée. Faut-il permettre la production de foie gras en Suisse ? Non. Il faudrait plutôt interdire son importation. La comparaison a évidemment ses limites, puisque le foie gras n'est pas un produit important/nécessaire.
+
+### Acceptez-vous l’initiative populaire « Pour une Suisse libre de pesticides de synthèse » ?
+
+Oui. Résultat : ? (?.?%)
+
+- La période de transition de 10 ans me paraît raisonnable.
+- A nouveau, la Suisse pourrait ici montrer l'exemple à l'échelle internationale.
+
+### Acceptez-vous la loi fédérale du 25 septembre 2020 sur les bases légales des ordonnances du Conseil fédéral visant à surmonter l’épidémie de COVID-19 (loi COVID-19) ?
+
+Oui. Résultat : ? (?.?%)
+
+
+### Acceptez-vous la loi fédérale du 25 septembre 2020 sur la réduction des émissions de gaz à effet de serre (loi sur le CO2) ?
+
+Oui. Résultat : ? (?.?%)
+
+- Cela fait des années que je suis pour une taxe CO2 généralisée. Cette loi est un pas dans la bonne direction.
+
+### Acceptez-vous la loi fédérale du 25 septembre 2020 sur les mesures policières de lutte contre le terrorisme (MPT) ?
+
+Non. Résultat : ? (?.?%)
+
+- Je ne suis pas contre une surveillance accrue de la population, si cela s'avère nécessaire.
+- L'argument qui me fait pencher (très légèrement et sans conviction) du côté du "non" est celui de la définition ambiguë du concept de terrorisme. Je ne suis pourtant en général pas fan des arguments de type "C'est la porte ouverte à...".
+
 ## [Votation fédérale du 7 mars 2021](https://www.admin.ch/gov/fr/accueil/documentation/votations/20210307.html)
 
 ### Acceptez-vous l’initiative populaire « Oui à l’interdiction de se dissimuler le visage » ?
 
-Non. Résultat : ? (?.?%)
+Non. Résultat : oui (51.2%)
 
 - La dissimulation du visage, en Suisse, est somme toute un problème anecdotique.
 - Une interdiction ne fera rien pour faire avancer le droits des femmes.
@@ -14,7 +49,7 @@ Non. Résultat : ? (?.?%)
 
 ### Acceptez-vous la loi fédérale du 27 septembre 2019 sur les services d’identification électronique (LSIE) ? 
 
-Oui. Résultat : ? (?.?%)
+Oui. Résultat : non (64.4%)
 
 - Les opposants parlent régulièrement de "passeport numérique", mais il ne s'agit pas de remplacer le passeport existant.
 - Le fait que des entreprises privées se chargent de l'implémentation d'une partie du système me semble plutôt sain.
@@ -22,7 +57,7 @@ Oui. Résultat : ? (?.?%)
 
 ### Acceptez-vous l’arrêté fédéral du 20 décembre 2019 portant approbation de l’Accord de partenariat économique de large portée entre les États de l’AELE et l’Indonésie ?
 
-Non. Résultat : ? (?.?%)
+Non. Résultat : oui (51.6%)
 
 - L'argument qui fait mouche, pour moi, est le fait que les autorités de certification locales (i.e. en Indonésie) sont largement dysfonctionnelles. Ce qui serait accepté comme "preuve" du caractère durable de l'huile de palme importée n'aurait alors en réalité rien d'une preuve.
 
