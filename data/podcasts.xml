@@ -2,6 +2,12 @@
 <podcasts created="2016-05-10">
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date>2021-06-10</date>
+    <name url="https://peterattiamd.com/podcast/">The Peter Attia Drive Podcast</name>
+    <episode url="https://peterattiamd.com/amandasmith/" number="164">Amanda Smith, M.D.: Diagnosing, preventing, and treating Alzheimer's disease, and what we can all learn from patients with dementia</episode>
+    <comments>"At the end of the day, it really has to do with how people see themselves, how people interact with the world, what kind of relationships they have, how able they are to let go of things that they've lost and how able they are to focus on the positive." —Amanda Smith. Focus on relationships and on the present moment.</comments>
+  </podcast>
+  <podcast>
     <date>2021-06-07</date>
     <name url="https://samharris.org/podcast/waking-up-conversations/">Waking Up Conversations</name>
     <episode url="https://samharris.org/subscriber-extras/waking-course-nature-awareness/">Rupert Spira - The Nature of Awareness</episode>
