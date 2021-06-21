@@ -52,8 +52,8 @@ object Master {
   val CheckPeriod = 60.seconds
 
   lazy val system = ActorSystem("System")
-  lazy val master = system.actorOf(Props[Master], name = "master")
-  lazy val cache = system.actorOf(Props[Cache], name = "cache")
+  lazy val master = system.actorOf(Props[Master](), name = "master")
+  lazy val cache = system.actorOf(Props[Cache](), name = "cache")
   lazy val fetcherRouter =
     system.actorOf(RoundRobinPool(10).props(Props(new Fetcher(cache))), "fetcher-pool")
 

@@ -32,9 +32,9 @@ class Cache extends Actor {
 
       cachedValues.get(fetchable) match {
         case Some(cachedValue) =>
-          sender ! CacheResult(fetchable, cachedValue.cacheable.asInstanceOf[fetchable.C])
+          sender() ! CacheResult(fetchable, cachedValue.cacheable.asInstanceOf[fetchable.C])
         case None =>
-          subscribers(fetchable) = subscribers(fetchable) :+ sender
+          subscribers(fetchable) = subscribers(fetchable) :+ sender()
       }
 
     case SetCache(fetchable, cacheable) =>
@@ -47,8 +47,8 @@ class Cache extends Actor {
     case GetCachingTime(fetchable) =>
       Logger.debug(s"GetCachingTime(${fetchable.name})")
 
-      sender ! CachingTimeResult(fetchable,
-                                 cachingTime = cachedValues.get(fetchable).map(_.cachingTime))
+      sender() ! CachingTimeResult(fetchable,
+                                   cachingTime = cachedValues.get(fetchable).map(_.cachingTime))
   }
 }
 

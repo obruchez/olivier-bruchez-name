@@ -8,15 +8,16 @@ import com.google.api.client.googleapis.auth.oauth2.{
   GoogleClientSecrets
 }
 import com.google.api.client.googleapis.javanet.GoogleNetHttpTransport
-import com.google.api.client.json.jackson2.JacksonFactory
+import com.google.api.client.json.gson.GsonFactory
 import com.google.api.client.util.store.FileDataStoreFactory
-import com.google.api.services.blogger.{Blogger => BloggerService, BloggerScopes}
-import java.util.Collections
+import com.google.api.services.blogger.{BloggerScopes, Blogger => BloggerService}
 import util.Configuration
+
+import java.util.Collections
 
 object Test {
   private val httpTransport = GoogleNetHttpTransport.newTrustedTransport()
-  private val jsonFactory = JacksonFactory.getDefaultInstance
+  private val jsonFactory = GsonFactory.getDefaultInstance
 
   private val dataStorePath = Configuration.string("blogger.credentialpath").get
   private val dataStoreDirectory = new java.io.File(System.getProperty("user.home"), dataStorePath)
