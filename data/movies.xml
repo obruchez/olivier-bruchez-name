@@ -3,6 +3,16 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Checklist: add rating to IMDb -->
   <movie>
+    <date>2021-06-17</date>
+    <theater home="true"/>
+    <director>Akira Kurosawa</director>
+    <title>Yojimbo</title>
+    <url>https://www.imdb.com/title/tt0055630/</url>
+    <rating>4.75</rating>
+    <comments>My sixth Kurosawa movie. Simple, fun, at times comical.</comments>
+    <image>Yojimbo.jpg</image>
+  </movie>
+  <movie>
     <date>2021-06-08</date>
     <theater home="true"/>
     <director>Richard Linklater</director>
