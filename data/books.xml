@@ -3,14 +3,25 @@
     <introduction>A list of books I read.</introduction>
     <book>
         <date></date>
+        <title>Prince and the Parade and Sign O' The Times Era Studio Sessions: 1985 and 1986</title>
+        <author>Duane Tudhal</author>
+        <publishingyear>2021</publishingyear>
+        <rating></rating>
+        <url>https://books.google.com/books?id=zJ4qEAAAQBAJ</url>
+        <notes description="Kindle highlights"></notes>
+        <comments></comments>
+        <image>Prince and the Parade and Sign O' The Times Era Studio Sessions - 1985 and 1986.jpg</image>
+    </book>
+    <book>
+        <date>2021-06-16</date>
         <title>Radical Compassion</title>
         <subtitle>Learning to Love Yourself and Your World with the Practice of RAIN</subtitle>
         <author>Tara Brach</author>
         <publishingyear>2020</publishingyear>
-        <rating></rating>
+        <rating>4.0</rating>
         <url>https://books.google.com/books?id=2yWHDwAAQBAJ</url>
         <notes description="Kindle highlights"></notes>
-        <comments></comments>
+        <comments>I'm quite convinced by the <a href="https://www.tarabrach.com/rain-practice-radical-compassion/">RAIN method</a> described in this book, which itself was quite average (i.e. too long for the actual amount of information it contains).</comments>
         <image>Radical Compassion.jpg</image>
     </book>
     <book>
