@@ -2,6 +2,30 @@
 <podcasts created="2016-05-10">
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date>2021-06-28</date>
+    <name url="http://verybadwizards.com/">Very Bad Wizards</name>
+    <episode url="https://www.verybadwizards.com/213" number="213">What Is It Like To Be A Robot Fish Man? (with Ted Chiang)</episode>
+    <comments>Personal identity is a hard concept/problem. A video game can help us get some intuitions about hard concepts. The only problem: I don't have any patience left for video games.</comments>
+  </podcast>
+  <podcast>
+    <date>2021-06-23</date>
+    <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
+    <episode url="https://samharris.org/subscriber-extras/252-alone-universe/" number="252">Are We Alone in the Universe? - A Conversation with Neil deGrasse Tyson</episode>
+    <comments>Nothing really new here. It's highly likely that we're not alone in the universe and highly unlikely that we're regularly visited by aliens.</comments>
+  </podcast>
+  <podcast>
+    <date>2021-06-18</date>
+    <name url="https://samharris.org/podcast/waking-up-conversations/">Waking Up Conversations</name>
+    <episode url="https://samharris.org/subscriber-extras/waking-course-art-living/">William B. Irvine - The Art of Living</episode>
+    <comments>I'm a fan of William B. Irvine. I've read his book about Stoicism and listened to all his "meditations"/courses on the Waking Up app.</comments>
+  </podcast>
+  <podcast>
+    <date>2021-06-14</date>
+    <name url="https://www.foundmyfitness.com/episodes">FoundMyFitness</name>
+    <episode url="https://www.foundmyfitness.com/episodes/michael-snyder">Dr. Michael Snyder on Continuous Glucose Monitoring and Deep Profiling for Personalized Medicine</episode>
+    <comments>I've been convinced for a long time that gathering as much data about our body/health as possible is a good idea (blood tests, genome, etc.), but there aren't many concrete applications right now and they probably won't come for a few years. Another problem: I can now know my heart rate variability (HRV) and resting heart rate (RHR) at any time and see how they evolve, for example, but what should I do with those values? How can I "optimize" them?</comments>
+  </podcast>
+  <podcast>
     <date>2021-06-10</date>
     <name url="https://peterattiamd.com/podcast/">The Peter Attia Drive Podcast</name>
     <episode url="https://peterattiamd.com/amandasmith/" number="164">Amanda Smith, M.D.: Diagnosing, preventing, and treating Alzheimer's disease, and what we can all learn from patients with dementia</episode>
