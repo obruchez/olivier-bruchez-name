@@ -411,9 +411,12 @@
     <pictures url="https://www.flickr.com/photos/bruchez/sets/72057594076457902/"/>
   </hike>
   <hike>
+    <date>2001-07-01</date>
+    <place>Col des Avouillons, Switzerland</place>
+  </hike>
+  <hike>
     <date>2000-11-05</date>
     <place>Col des Planches, etc., Switzerland</place>
-    <!-- <pictures url=""/> -->
   </hike>
   <hike>
     <date>2000-10-22</date>
