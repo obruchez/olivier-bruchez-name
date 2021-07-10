@@ -1380,6 +1380,24 @@
     <image>Aldébaran - La catastrophe.jpg</image>
   </comic>
   <comic>
+    <date>2011-07-10</date>
+    <writer>Manu Larcenet</writer>
+    <artist>Manu Larcenet</artist>
+    <colorist>Patrice Larcenet</colorist>
+    <series url="https://fr.wikipedia.org/wiki/Le_Combat_ordinaire_(s%C3%A9rie)">Le Combat ordinaire</series>
+    <volume url="https://fr.wikipedia.org/wiki/Le_Combat_ordinaire_(s%C3%A9rie)#Albums" number="4">Planter des clous</volume>
+    <image>Le Combat ordinaire - Planter des clous.jpg</image>
+  </comic>
+  <comic>
+    <date>2011-07-09</date>
+    <writer>Jean-Yves Ferri</writer>
+    <artist>Manu Larcenet</artist>
+    <colorist>Brigitte Findakly &amp; Dominique Thomas</colorist>
+    <series url="https://fr.wikipedia.org/wiki/Le_Retour_%C3%A0_la_terre">Le Retour à la Terre</series>
+    <volume url="https://fr.wikipedia.org/wiki/Le_Retour_%C3%A0_la_terre#Les_R%C3%A9volutions_(2008)" number="5">Les Révolutions</volume>
+    <image>Le Retour à la Terre - Les Révolutions.jpg</image>
+  </comic>
+  <comic>
     <date>2001-06-07</date>
     <writer>Jacques Martin</writer>
     <artist>Gilles Chaillet</artist>
