@@ -3,6 +3,14 @@
 <exhibitions created="2011-05-17">
     <introduction>A list of exhibitions I visited.</introduction>
     <exhibition>
+        <date>2021-07-07</date>
+        <name>Permanent exhibition</name>
+        <museum>Verkehrshaus, Lucerne, Switzerland</museum>
+        <rating>5.0</rating>
+        <comments>A fantastic museum for children. I remember being very excited about it the first time I visited it (in the late 1980s?).</comments>
+        <image>Verkehrshaus.jpg</image>
+    </exhibition>
+    <exhibition>
         <date>2021-07-06</date>
         <name>Paul Klee - I Want to Know Nothing. Giant=Creation - The World of Adolf Wölfli.</name>
         <museum>Zentrum Paul Klee, Bern, Switzerland</museum>
