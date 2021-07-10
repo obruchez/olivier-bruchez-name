@@ -3,6 +3,15 @@
 <exhibitions created="2011-05-17">
     <introduction>A list of exhibitions I visited.</introduction>
     <exhibition>
+        <date>2021-07-06</date>
+        <name>Paul Klee - I Want to Know Nothing. Giant=Creation - The World of Adolf Wölfli.</name>
+        <museum>Zentrum Paul Klee, Bern, Switzerland</museum>
+        <rating>4.75</rating>
+        <comments>I was particularly intrigued by the temporary exhibition about Adolf Wölfli. This was a fascinating trip into his obsessed mind.</comments>
+        <image>Zentrum Paul Klee.jpg</image>
+        <!-- <pictures url=""/> -->
+    </exhibition>
+    <exhibition>
         <date>2021-05-23</date>
         <name>Permanent exhibition</name>
         <museum>Musée cantonal des Beaux-Arts, MCBA, Lausanne, Switzerland</museum>
