@@ -2,6 +2,13 @@
 <trips created="2008-02-26">
   <introduction>A list of trips I took.</introduction>
   <trip>
+    <from>2021-07-05</from>
+    <to>2021-07-09</to>
+    <place>Vallorbe / Bern / Lucerne / Interlaken, Switzerland</place>
+    <!-- <pictures url=""/> -->
+    <comments>A family trip in Vallorbe (Vallorbe Caves), Bern, Lucerne (Swiss Museum of Transport), and Interlaken (rain, mostly).</comments>
+  </trip>
+  <trip>
     <from>2021-04-06</from>
     <to>2021-04-08</to>
     <place>Leukerbad, Switzerland</place>
