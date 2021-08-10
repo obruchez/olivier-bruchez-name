@@ -2,6 +2,66 @@
 <podcasts created="2016-05-10">
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date>2021-08-09</date>
+    <name url="https://www.rts.ch/play/radio/emission/egosysteme?id=6067782">Egosystème</name>
+    <episode url="https://www.rts.ch/play/radio/egosysteme/audio/la-chance-des-hypersensibles?id=12311906">La chance des hypersensibles</episode>
+    <comments>Un peu trop "développement personnel" à mon goût, mais le fait est que je suis hypersensible et que c'est un angle que je n'ai pas encore assez exploré.</comments>
+  </podcast>
+  <podcast>
+    <date>2021-08-09</date>
+    <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
+    <episode url="https://samharris.org/podcasts/ask-anything-17/">Ask Me Anything #17</episode>
+    <comments>A very clear position about Bret Weinstein and COVID-19 vaccines.</comments>
+  </podcast>
+  <podcast>
+    <date>2021-08-09</date>
+    <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
+    <episode url="https://samharris.org/podcasts/256-contagion-bad-ideas/" number="256">A Contagion of Bad Ideas - A Conversation with Eric Topol</episode>
+    <comments>An important episode about an important (and worrying) topic: how to convince people to get vaccinated.</comments>
+  </podcast>
+  <podcast>
+    <date>2021-08-06</date>
+    <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
+    <episode url="https://samharris.org/podcasts/253-corporate-courage/" number="253">Corporate Courage - A Conversation with Jason Fried</episode>
+    <comments>It's always interesting to have Jason Fried's view on things. His book <i>It Doesn't Have to Be Crazy at Work</i> was not too bad. I guess I agree that work shouldn't be a place to express your most personal views on politics and others. On the other hand, it really depends on the company, its size, and other factors.</comments>
+  </podcast>
+  <podcast>
+    <date>2020-08-06</date>
+    <name>Prince | Official Podcast</name>
+    <episode number="17">The Story of Welcome 2 America, Episode 3: The Internet is Completely Over</episode>
+    <comments>This was a charitable interpretation of Prince's views on technology and the Internet, I guess. This would have been cool to hear more from Jason Agel (the engineer), but Shelby J. was interrupting him way too often.</comments>
+  </podcast>
+  <podcast>
+    <date>2020-08-04</date>
+    <name>Prince | Official Podcast</name>
+    <episode number="16">The Story of Welcome 2 America, Episode 2: What It Means 2 B American</episode>
+    <comments>I was not too impressed by Dr. Cornel West, which I was not familiar with.</comments>
+  </podcast>
+  <podcast>
+    <date>2020-07-31</date>
+    <name>Prince | Official Podcast</name>
+    <episode number="15">The Story of Welcome 2 America, Episode 1: Thank U For Helping Me Get This Out</episode>
+    <comments>Tal Wilkenfeld and Chris Coleman's story about how it all began is fascinating. They played/jammed and kind of never heard about those sessions again for 11 years.</comments>
+  </podcast>
+  <podcast>
+    <date>2021-07-18</date>
+    <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
+    <episode url="https://samharris.org/podcasts/254-mating-strategies-earthlings/" number="254">The Mating Strategies of Earthlings - A Conversation with David Buss</episode>
+    <comments>"They discuss the controversy that surrounds evolutionary psychology, the denial of sex differences, cross-cultural findings in social science, the replication crisis in psychology, the biological definition of sex, why men and women have affairs, ovulatory shifts in mate preference, sex differences in jealousy and infidelity, the sources of unhappiness in marriage, mate-value discrepancies, what we can learn from dating apps, polyamory and polygamy, the plight of stepchildren, the "Dark Triad" personality type, the MeToo movement, and other topics."</comments>
+  </podcast>
+  <podcast>
+    <date>2021-07-12</date>
+    <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
+    <episode url="https://samharris.org/podcasts/255-future-intelligence/" number="255">The Future of Intelligence - A Conversation with Jeff Hawkins</episode>
+    <comments>Hawkins is very optimistic about the alignment problem (i.e. for him it's not really worth worrying about it).</comments>
+  </podcast>
+  <podcast>
+    <date>2021-07-11</date>
+    <name url="https://peterattiamd.com/podcast/">The Peter Attia Drive Podcast</name>
+    <episode url="https://peterattiamd.com/patriciacorby/" number="166">Patricia Corby, D.D.S.: Importance of oral health, best hygiene practices, and the relationship between poor oral health and systemic disease</episode>
+    <comments>"You can maintain optimal oral health just by brushing teeth, by flossing really well, and having good nutrition." -Pat Corby</comments>
+  </podcast>
+  <podcast>
     <date>2021-06-28</date>
     <name url="http://verybadwizards.com/">Very Bad Wizards</name>
     <episode url="https://www.verybadwizards.com/213" number="213">What Is It Like To Be A Robot Fish Man? (with Ted Chiang)</episode>
