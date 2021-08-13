@@ -3,6 +3,26 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Checklist: add rating to IMDb -->
   <movie>
+    <date>2021-08-07</date>
+    <theater home="true"/>
+    <director>Pierre-Paul Renders</director>
+    <title>Thomas est amoureux</title>
+    <url>https://www.imdb.com/title/tt0262826/</url>
+    <rating>3.5</rating>
+    <comments>I'm not sure why, but I remember being quite impressed when I first saw this movie in 2001. 20 years later, I find it a bit cringey and simplistic. I still like the general form and concept, though.</comments>
+    <image>Thomas est amoureux.jpg</image>
+  </movie>
+  <movie>
+    <date>2021-08-06</date>
+    <theater>Galeries, Lausanne</theater>
+    <director>Chloé Zhao</director>
+    <title>Nomadland</title>
+    <url>https://www.imdb.com/title/tt9770150/</url>
+    <rating>5.0</rating>
+    <comments>I read some user reviews on IMDb saying that this movie was boring, that not much was happening, etc. This is exactly why I liked it. Not much is happening, indeed, but it's still a beautiful movie. What does "home" mean? Does it have something to do with a house (i.e. the object)? Its location? The people you live with? Something else?</comments>
+    <image>Nomadland.jpg</image>
+  </movie>
+  <movie>
     <date>2021-07-10</date>
     <theater home="true"/>
     <director>Martin Scorsese</director>
