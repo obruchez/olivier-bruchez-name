@@ -3,13 +3,24 @@
     <introduction>A list of books I read.</introduction>
     <book>
         <date></date>
+        <title>Le Nom de la rose</title>
+        <author>Umberto Eco</author>
+        <publishingyear>1980</publishingyear>
+        <rating></rating>
+        <url>https://fr.wikipedia.org/wiki/Le_Nom_de_la_rose_(roman)</url>
+        <notes description="Kindle highlights"></notes>
+        <comments></comments>
+        <image>Le Nom de la rose.jpg</image>
+    </book> 
+    <book>
+        <date>2021-08-03</date>
         <title>Prince and the Parade and Sign O' The Times Era Studio Sessions: 1985 and 1986</title>
         <author>Duane Tudhal</author>
         <publishingyear>2021</publishingyear>
-        <rating></rating>
+        <rating>5.25</rating>
         <url>https://books.google.com/books?id=zJ4qEAAAQBAJ</url>
         <notes description="Kindle highlights"></notes>
-        <comments></comments>
+        <comments>A brilliant book, even better than the previous one. I could almost copy-paste my comments for the book about 1983-84. At the time, I concluded: "He was a really hard-working artist." Yes, Prince was a genius, but he was also very lonely. And weird. It's quite obvious that he worked so much because he didn't really know what to do when not playing music. I hope more books will be released, especially about the 1987-88 years.</comments>
         <image>Prince and the Parade and Sign O' The Times Era Studio Sessions - 1985 and 1986.jpg</image>
     </book>
     <book>
