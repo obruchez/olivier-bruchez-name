@@ -7320,6 +7320,24 @@
     <version>fr</version>
   </movie>
   <movie>
+    <date>2001-08-16</date>
+    <theater>Paris-Miami flight</theater>
+    <director>Andrew Adamson &amp; Vicky Jenson</director>
+    <title>Shrek</title>
+    <url>https://www.imdb.com/title/tt0126029/</url>
+    <image>Shrek.jpg</image>
+  </movie>
+  <movie>
+    <date>2001-08-16</date>
+    <theater>Paris-Miami flight</theater>
+    <director>Simon Wincer</director>
+    <title>Crocodile Dundee in Los Angeles</title>
+    <title language="fr">Crocodile Dundee à Los Angeles</title>
+    <version>fr</version>
+    <url>https://www.imdb.com/title/tt0231402/</url>
+    <image>Crocodile Dundee in Los Angeles.jpg</image>
+  </movie>
+  <movie>
     <date>2001-08-11</date>
     <title>Final Fantasy</title>
     <version>fr</version>
