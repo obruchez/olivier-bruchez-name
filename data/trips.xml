@@ -2,6 +2,13 @@
 <trips created="2008-02-26">
   <introduction>A list of trips I took.</introduction>
   <trip>
+    <from>2021-07-19</from>
+    <to>2021-08-02</to>
+    <place>Schaffhausen / Saint Gall / Grisons, Switzerland</place>
+    <!-- <pictures url=""/> -->
+    <comments>I might have already visited Schaffhausen, Saint Gall, and the Grisons when I was a child, but I'm not sure. It would have been a very long time ago. Anyway, Switzerland is expensive, but it's also beautiful. We should probably go back to the Grisons once our son is older, so we can hike and bike there.</comments>
+  </trip>
+  <trip>
     <from>2021-07-05</from>
     <to>2021-07-09</to>
     <place>Vallorbe / Bern / Lucerne / Interlaken, Switzerland</place>
