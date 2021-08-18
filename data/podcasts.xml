@@ -2,6 +2,29 @@
 <podcasts created="2016-05-10">
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date></date>
+    <name url="https://podcast.ausha.co/violet">Violet - Le Podcast sur Prince et le Minneapolis Sound</name>
+    <episode url="https://podcast.ausha.co/violet/welcome-2-america-le-monde-selon-prince">Welcome 2 America - Le Monde selon Prince</episode>
+  </podcast>
+  <podcast>
+    <date>2021-08-18</date>
+    <name>Prince | Official Podcast</name>
+    <episode number="18">The Story of Welcome 2 America, Episode 4: We Got 2 Let the Funk Unwind</episode>
+    <comments>An episode about the "bonus" Blu-ray on the deluxe edition of the album (which, unfortunately, is not available separately). Not information was given about why this particular show was chosen, for example.</comments>
+  </podcast>
+  <podcast>
+    <date>2021-08-18</date>
+    <name url="http://verybadwizards.com/">Very Bad Wizards</name>
+    <episode url="https://www.verybadwizards.com/216" number="216">Oral Judgments</episode>
+    <comments>People in general are pretty bad at giving apologies. This should be taught in school. Interestingly, apologies exist on a spectrum, as demonstrated by Dave's example at the end of the episode (one of his students was offended by his use of curse words). Apologies are a somewhat formal way to understand what others really think, to acknowledge their feelings/emotions, and to promise that we'll make some efforts to behave better in the future. It's a powerful tool.</comments>
+  </podcast>
+  <podcast>
+    <date>2021-08-11</date>
+    <name url="https://www.foundmyfitness.com/episodes">FoundMyFitness</name>
+    <episode url="https://www.foundmyfitness.com/episodes/satchin-panda-3">Dr. Satchin Panda on Circadian Insights into Exercise Timing, Melatonin Biology, and Peak Cognition</episode>
+    <comments>The benefits of melatonin as a supplement are still not clear to me. Low doses are probably better (I use 300 mg at the moment). Not eating for 1-2 hours after waking up might be a good idea. Not consuming any carbohydrates or glucose 2 hours before sleep as well. My cut-off time for caffeine is currently 3 PM, but it might be even better to stop around 1-2 PM.</comments>
+  </podcast>
+  <podcast>
     <date>2021-08-09</date>
     <name url="https://www.rts.ch/play/radio/emission/egosysteme?id=6067782">Egosystème</name>
     <episode url="https://www.rts.ch/play/radio/egosysteme/audio/la-chance-des-hypersensibles?id=12311906">La chance des hypersensibles</episode>
