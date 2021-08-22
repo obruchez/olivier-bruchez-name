@@ -3,6 +3,22 @@
 <exhibitions created="2011-05-17">
     <introduction>A list of exhibitions I visited.</introduction>
     <exhibition>
+        <date>2021-08-06</date>
+        <name>Permanent exhibition / Le chanoine Bourban et les premières églises d'Agaune</name>
+        <museum>Abbaye de Saint-Maurice d'Agaune, Saint-Maurice, Switzerland</museum>
+        <rating>4.5</rating>
+        <comments>I first visited the abbey in 2002. The archaeological site was "brand new" at the time.</comments>
+        <image>Le chanoine Bourban et les premières églises d'Agaune.jpg</image>
+    </exhibition>
+    <exhibition>
+        <date>2021-07-22</date>
+        <name>Permanent exhibition</name>
+        <museum>Abbey of Saint Gall, St. Gallen, Switzerland</museum>
+        <rating>4.75</rating>
+        <comments>Including the Abbey Library of Saint Gall (Stiftsbibliothek) and the Cathedral (Stiftskirche St. Gallus und Otmar).</comments>
+        <image>Abbey of Saint Gall.jpg</image>
+    </exhibition>
+    <exhibition>
         <date>2021-07-07</date>
         <name>Permanent exhibition</name>
         <museum>Verkehrshaus, Lucerne, Switzerland</museum>
@@ -12,7 +28,7 @@
     </exhibition>
     <exhibition>
         <date>2021-07-06</date>
-        <name>Paul Klee - I Want to Know Nothing. Giant=Creation - The World of Adolf Wölfli.</name>
+        <name>Paul Klee - I Want to Know Nothing / Giant=Creation - The World of Adolf Wölfli.</name>
         <museum>Zentrum Paul Klee, Bern, Switzerland</museum>
         <rating>4.75</rating>
         <comments>I was particularly intrigued by the temporary exhibition about Adolf Wölfli. This was a fascinating trip into his obsessed mind.</comments>
@@ -574,6 +590,13 @@
         <museum>de Young Museum, San Francisco, US</museum>
         <rating>4.5</rating>
         <image>Birth of Impressionism.jpg</image>
+    </exhibition>
+    <exhibition>
+        <date>2002-10-18</date>
+        <name>Permanent exhibition</name>
+        <museum>Abbaye de Saint-Maurice d'Agaune, Saint-Maurice, Switzerland</museum>
+        <image>Abbaye de Saint-Maurice d'Agaune.jpg</image>
+        <pictures url="https://www.flickr.com/photos/bruchez/albums/72157594285353220"/>
     </exhibition>
     <!--
     <exhibition>
