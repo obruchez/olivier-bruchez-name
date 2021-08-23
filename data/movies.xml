@@ -3,6 +3,16 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Checklist: add rating to IMDb -->
   <movie>
+    <date>2021-08-22</date>
+    <theater home="true"/>
+    <director>Krzysztof Kieslowski</director>
+    <title>Trois couleurs: Bleu</title>
+    <url>https://www.imdb.com/title/tt0108394/</url>
+    <rating>4.75</rating>
+    <comments>The first movie of the <i>Trois couleurs</i> trilogy. It failed to catch my full attention. I don't know why exactly. Maybe because I didn't care at all for the main character.</comments>
+    <image>Trois couleurs - Bleu.jpg</image>
+  </movie>
+  <movie>
     <date>2021-08-07</date>
     <theater home="true"/>
     <director>Pierre-Paul Renders</director>
