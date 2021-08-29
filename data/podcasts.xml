@@ -2,10 +2,22 @@
 <podcasts created="2016-05-10">
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
-    <date></date>
+    <date>2021-08-29</date>
+    <name url="https://podcast.ausha.co/violet">Violet - Le Podcast sur Prince et le Minneapolis Sound</name>
+    <episode url="https://podcast.ausha.co/violet/controversy-la-transition-electro-de-prince">Controversy : la transition électro de Prince</episode>
+    <comments>Comme l'un des intervenants, je suis moins fan de "Controversy", qui a moins d'unité que l'album précédent. L'explication sur les boîtes à rythme et leur utilisation par Prince était très intéressante.</comments>
+  </podcast>
+  <podcast>
+    <date>2021-08-27</date>
+    <name url="https://podcast.ausha.co/violet">Violet - Le Podcast sur Prince et le Minneapolis Sound</name>
+    <episode url="https://podcast.ausha.co/violet/dirty-mind-simple-provocation-ou-veritable-brulot-punk">Dirty Mind : simple provocation ou véritable brûlot Punk ?</episode>
+    <comments>Les explications musicologiques, ici à propos du morceau "Dirty Mind", sont très éclairantes.</comments>
+  </podcast>
+  <podcast>
+    <date>2021-08-25</date>
     <name url="https://podcast.ausha.co/violet">Violet - Le Podcast sur Prince et le Minneapolis Sound</name>
     <episode url="https://podcast.ausha.co/violet/la-naissance-d-un-genie-for-you-et-prince-les-2-premiers-albums">La naissance d'un génie : For You et Prince, les 2 premiers albums</episode>
-    <comments></comments>
+    <comments>Deux albums que je n'écoute pas souvent, mais importants pour comprendre la carrière de Prince.</comments>
   </podcast>
   <podcast>
     <date>2021-08-20</date>
