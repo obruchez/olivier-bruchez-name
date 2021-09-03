@@ -2,6 +2,12 @@
 <podcasts created="2016-05-10">
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date>2021-09-03</date>
+    <name url="http://verybadwizards.com/">Very Bad Wizards</name>
+    <episode url="https://www.verybadwizards.com/217" number="217">Dropping Paradigms (Kuhn's "The Structure of Scientific Revolutions")</episode>
+    <comments>I studied that book a long time ago. It probably went above my head then and it still does, to an extent. Isn't science working in a way more gradual manner now than a few centuries ago (and even a few decades ago)? The discussion about the role of science (pragmatism vs realism) was interesting.</comments>
+  </podcast>
+  <podcast>
     <date>2021-09-01</date>
     <name url="https://podcast.ausha.co/violet">Violet - Le Podcast sur Prince et le Minneapolis Sound</name>
     <episode url="https://podcast.ausha.co/violet/1999-le-debut-de-la-revolution">1999 : le début de la révolution</episode>
