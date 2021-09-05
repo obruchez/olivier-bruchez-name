@@ -1,9 +1,9 @@
 package models
 
 import actors.Cache
-import play.api.libs.concurrent.Execution.Implicits._
 import play.api.mvc.Call
-import scala.concurrent.Future
+
+import scala.concurrent.{ExecutionContext, Future}
 
 case class Page(title: String,
                 url: String,
@@ -25,7 +25,8 @@ object Page {
   def apply(title: String, call: Call, icon: String, groupChildren: Seq[PageGroup]): Page =
     Page(title, call.url, icon = Some(icon), groupChildren = groupChildren)
 
-  def introductionsFromPages(pages: Seq[Page]): Future[Seq[(Page, Option[Introduction])]] = {
+  def introductionsFromPages(pages: Seq[Page])(
+      implicit ec: ExecutionContext): Future[Seq[(Page, Option[Introduction])]] = {
     val sequenceOfFutures = for (page <- pages) yield {
       // Take only first fetchable into account
       val introductionFuture = page.fetchables.headOption match {

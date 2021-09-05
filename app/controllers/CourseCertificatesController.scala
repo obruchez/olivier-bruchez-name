@@ -3,13 +3,14 @@ package controllers
 import actors.Cache
 import models._
 import models.lifelogging.{CourseCertificate, Courses}
-import play.api.libs.concurrent.Execution.Implicits._
 import play.api.mvc._
 
 import javax.inject.Inject
-import scala.concurrent.Future
+import scala.concurrent.{ExecutionContext, Future}
 
-class CourseCertificatesController @Inject()() extends ControllerHelpers {
+class CourseCertificatesController @Inject()(implicit ec: ExecutionContext,
+                                             val controllerComponents: ControllerComponents)
+    extends BaseController {
   def courseCertificate(slug: String) = Action.async {
     for {
       courses <- Cache.get(Courses)

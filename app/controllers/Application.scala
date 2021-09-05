@@ -7,16 +7,17 @@ import models.lifelogging._
 import models.statistics.Statistics
 import models.todo.{BooksToRead, MoviesToWatch, TripsToTake}
 import models.twitter.Tweets
-import models.{PdfCv, WordCv, _}
-import play.api.libs.concurrent.Execution.Implicits._
+import models._
 import play.api.mvc._
 
 import javax.inject.Inject
-import scala.concurrent.Future
+import scala.concurrent.{ExecutionContext, Future}
 
 object Application
 
-class Application @Inject()() extends ControllerHelpers {
+class Application @Inject()(implicit ec: ExecutionContext,
+                            val controllerComponents: ControllerComponents)
+    extends BaseController {
   def home = Action.async {
     val MaxItemCount = 5
 

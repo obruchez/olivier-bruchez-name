@@ -3,12 +3,14 @@ package controllers
 import actors.Cache
 import models.Page
 import models.blogger.{Post, Posts}
-import play.api.libs.concurrent.Execution.Implicits._
 import play.api.mvc._
 
 import javax.inject.Inject
+import scala.concurrent.ExecutionContext
 
-class BlogPostsController @Inject()() extends ControllerHelpers {
+class BlogPostsController @Inject()(implicit ec: ExecutionContext,
+                                    val controllerComponents: ControllerComponents)
+    extends BaseController {
   def blogPost(relativePermalink: String) = Action.async {
     Cache.get(Posts) map { posts =>
       posts.listItems.find(_.relativePermalink == relativePermalink) match {
