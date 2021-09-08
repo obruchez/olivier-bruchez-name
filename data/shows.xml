@@ -16,6 +16,13 @@
     <image>Inside No. 9.jpg</image>
   </show>
   <show>
+    <date>2021-09-08</date>
+    <name url="https://en.wikipedia.org/wiki/Rick_and_Morty">Rick and Morty</name>
+    <series url="https://en.wikipedia.org/wiki/Rick_and_Morty_(season_5)" type="season">5</series>
+    <comments>A better season than the last one, maybe? There are going to be five more seasons, if I understand correctly. At this point, I'm not sure this is a good idea.</comments>
+    <image>Rick and Morty.jpg</image>
+  </show>
+  <show>
     <date>2021-08-31</date>
     <name url="https://en.wikipedia.org/wiki/Fargo_(TV_series)">Fargo</name>
     <series url="https://en.wikipedia.org/wiki/Fargo_(season_4)" type="season">4</series>
