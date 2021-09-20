@@ -2,11 +2,21 @@
 
 My votes (in French). En Suisse, on ne plaisante pas avec la démocratie directe. :) J'essaie ici de documenter et de justifier la façon dont je me positionne par rapport aux votations fédérales, qui ont lieu jusqu'à quatre fois par année.
 
+## [Votation fédérale du 26 septembre 2021](https://www.admin.ch/gov/fr/accueil/documentation/votations/20210926.html)
+
+### Acceptez-vous l’initiative populaire « Alléger les impôts sur les salaires, imposer équitablement le capital » ?
+
+Oui. Résultat : ? (?.?%)
+
+### Acceptez-vous la modification du 18 décembre 2020 du code civil suisse (mariage pour tous) ?
+
+Oui. Résultat : ? (?.?%)
+
 ## [Votation fédérale du 13 juin 2021](https://www.admin.ch/gov/fr/accueil/documentation/votations/20210613.html)
 
 ### Acceptez-vous l’initiative populaire « Pour une eau potable propre et une alimentation saine – Pas de subventions pour l’utilisation de pesticides et l’utilisation d’antibiotiques à titre prophylactique » ?
 
-Oui. Résultat : ? (?.?%)
+Oui. Résultat : non (60.7%)
 
 - Je ne suis pas insensible à l'argument qu'un oui aurait pour effet d'augmenter les importations, ce qui peut sembler hypocrite (règles plus sévères en Suisse, mais consommation de produits problématiques autorisées).
 - Comme souvent, je pense toutefois que la Suisse, un des pays les plus riches au monde, a les moyens de jouer le rôle d'exemple.
@@ -14,25 +24,24 @@ Oui. Résultat : ? (?.?%)
 
 ### Acceptez-vous l’initiative populaire « Pour une Suisse libre de pesticides de synthèse » ?
 
-Oui. Résultat : ? (?.?%)
+Oui. Résultat : non (60.6%)
 
 - La période de transition de 10 ans me paraît raisonnable.
 - A nouveau, la Suisse pourrait ici montrer l'exemple à l'échelle internationale.
 
 ### Acceptez-vous la loi fédérale du 25 septembre 2020 sur les bases légales des ordonnances du Conseil fédéral visant à surmonter l’épidémie de COVID-19 (loi COVID-19) ?
 
-Oui. Résultat : ? (?.?%)
-
+Oui. Résultat : oui (60.2%)
 
 ### Acceptez-vous la loi fédérale du 25 septembre 2020 sur la réduction des émissions de gaz à effet de serre (loi sur le CO2) ?
 
-Oui. Résultat : ? (?.?%)
+Oui. Résultat : non (51.6%)
 
 - Cela fait des années que je suis pour une taxe CO2 généralisée. Cette loi est un pas dans la bonne direction.
 
 ### Acceptez-vous la loi fédérale du 25 septembre 2020 sur les mesures policières de lutte contre le terrorisme (MPT) ?
 
-Non. Résultat : ? (?.?%)
+Non. Résultat : oui (56.6%)
 
 - Je ne suis pas contre une surveillance accrue de la population, si cela s'avère nécessaire.
 - L'argument qui me fait pencher (très légèrement et sans conviction) du côté du "non" est celui de la définition ambiguë du concept de terrorisme. Je ne suis pourtant en général pas fan des arguments de type "C'est la porte ouverte à...".
