@@ -7,6 +7,24 @@
   -->
   <introduction>A list of concerts I went to.</introduction>
   <concert>
+    <date>2021-09-09</date>
+    <location>Salle Paderewski, Casino de Montbenon, Lausanne, Switzerland</location>
+    <event>JazzOnze+ Festival Lausanne</event>
+    <group>Vincent Peirani &amp; Emile Parisien</group>
+    <musician inst="accordion">Vincent Peirani</musician>
+    <musician inst="soprano saxophone">Emile Parisien</musician>
+    <rating>5.0</rating>
+    <comments>Two virtuosos which I already saw together in Cully in 2015 (as part of a quartet). I saw Emile Parisien's own band in Cully in 2019 and I also saw him with Yaron Herman in 2012. The concert was very good. I bought their latest studio album, which is also excellent.</comments>
+  </concert>
+  <concert>
+    <date>2021-09-09</date>
+    <location>Salle Paderewski, Casino de Montbenon, Lausanne, Switzerland</location>
+    <event>JazzOnze+ Festival Lausanne</event>
+    <musician inst="vocals, piano, keyboards, guitar, percussion" leader="true">Andrina Bollinger</musician>
+    <rating>4.25</rating>
+    <comments>My first "real" concert in almost two years. Not really my cup of tea, but Andrina Bollinger has a lot of positive energy. It was an enjoyable concert. She's apparently a David Lynch fan and watched the whole Twin Peaks series last year (as she explained before a song inspired by Lynch). She gets a bonus point for that. :)</comments>
+  </concert>
+  <concert>
     <date>2019-11-03</date>
     <location>Salle Paderewski, Casino de Montbenon, Lausanne, Switzerland</location>
     <event>JazzOnze+ Festival Lausanne</event>
