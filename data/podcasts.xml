@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <podcasts created="2016-05-10">
   <introduction>A list of podcasts I listened to.</introduction>
-
   <podcast>
     <date></date>
     <name url="https://podcast.ausha.co/violet">Violet - Le Podcast sur Prince et le Minneapolis Sound</name>
@@ -36,7 +35,7 @@
     <date>2021-09-13</date>
     <name url="https://peterattiamd.com/podcast/">The Peter Attia Drive Podcast</name>
     <episode url="https://peterattiamd.com/laynenorton/" number="163">Layne Norton, Ph.D.: Building muscle, losing fat, and the importance of resistance training</episode>
-    <comments>Not much pratical advise for someone like me (who needs to build a lot of muscle and almost starts from zero). "I always tell people, I don't think I would've had the success I did in business or social media or academia if I hadn't done weightlifting because that taught me so much about other things in life." —Layne Norton</comments>
+    <comments>Not much pratical advice for someone like me (who needs to build a lot of muscle and almost starts from zero). "I always tell people, I don't think I would've had the success I did in business or social media or academia if I hadn't done weightlifting because that taught me so much about other things in life." —Layne Norton</comments>
   </podcast>
   <podcast>
     <date>2021-09-10</date>
