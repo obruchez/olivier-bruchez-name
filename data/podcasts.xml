@@ -1,6 +1,49 @@
 <?xml version="1.0" encoding="utf-8"?>
 <podcasts created="2016-05-10">
   <introduction>A list of podcasts I listened to.</introduction>
+
+  <podcast>
+    <date></date>
+    <name url="https://podcast.ausha.co/violet">Violet - Le Podcast sur Prince et le Minneapolis Sound</name>
+    <episode url="https://podcast.ausha.co/violet/dream-factory-camille-crystal-ball-la-genese-de-sign-o-the-times">Dream Factory / Camille / Crystal Ball : la genèse de Sign O' The Times</episode>
+    <comments>Le premier épisode qui sort un peu des sentiers battus, avec les outtakes, les projets abandonnés, etc., qui sont essentiels pour comprendre Prince.</comments>
+  </podcast>
+  <podcast>
+    <date>2021-09-22</date>
+    <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
+    <episode url="https://samharris.org/podcasts/ask-anything-18/">Ask Me Anything #18</episode>
+    <comments>An important answer about why Sam doesn't want to interact more with "conspirationists" and others. In summary, it's way more difficult to debunk bullshit than to create it.</comments>
+  </podcast>
+  <podcast>
+    <date>2021-09-21</date>
+    <name url="https://podcast.ausha.co/violet">Violet - Le Podcast sur Prince et le Minneapolis Sound</name>
+    <episode url="https://podcast.ausha.co/violet/parade-un-americain-a-paris">Parade : un Américain à Paris</episode>
+    <comments>Rien de bien neuf ici après la lecture du livre de Duane Tudhal, mais ça reste une période cruciale.</comments>
+  </podcast>
+  <podcast>
+    <date>2021-09-17</date>Ajouter à podcasts.xml : The Peter Attia Drive: # - 
+    <name url="https://peterattiamd.com/podcast/">The Peter Attia Drive Podcast</name>
+    <episode url="https://peterattiamd.com/steveaustad/" number="171">Steve Austad, Ph.D.: The landscape of longevity science: making sense of caloric restriction, biomarkers of aging, and possible geroprotective molecules</episode>
+    <comments>The part about mice/rats/rodents, the lack of genetic diversity in the context of experiments/studies, etc. was really important. This should be discussed more often. "I never thought [extending the human lifespan] was going to happen because we got better at treating cancer or we got better at preventing heart disease. I always thought it was going to happen because we would develop something ... that would fundamentally change the rate of aging. And we haven't developed that yet. We've got a lot of clues and I think we're getting closer and closer and closer." —Steve Austad</comments>
+  </podcast>
+  <podcast>
+    <date>2021-09-15</date>
+    <name url="https://podcast.ausha.co/violet">Violet - Le Podcast sur Prince et le Minneapolis Sound</name>
+    <episode url="https://podcast.ausha.co/violet/around-the-world-in-a-day-mystique-polychrome">Around The World In A Day : mystique polychrome</episode>
+    <comments>C'est un peu avec cet album que commence le Prince le plus intéressant pour moi, c'est-à-dire celui qui cherche à s'opposer (parfois) à son succès commercial.</comments>
+  </podcast>
+  <podcast>
+    <date>2021-09-13</date>
+    <name url="https://peterattiamd.com/podcast/">The Peter Attia Drive Podcast</name>
+    <episode url="https://peterattiamd.com/laynenorton/" number="163">Layne Norton, Ph.D.: Building muscle, losing fat, and the importance of resistance training</episode>
+    <comments>Not much pratical advise for someone like me (who needs to build a lot of muscle and almost starts from zero). "I always tell people, I don't think I would've had the success I did in business or social media or academia if I hadn't done weightlifting because that taught me so much about other things in life." —Layne Norton</comments>
+  </podcast>
+  <podcast>
+    <date>2021-09-10</date>
+    <name url="https://podcast.ausha.co/violet">Violet - Le Podcast sur Prince et le Minneapolis Sound</name>
+    <episode url="https://podcast.ausha.co/violet/purple-rain-la-consecration">Purple Rain : la consécration</episode>
+    <comments>Un album que j'écoute finalement peu (je l'ai tellement entendu !). L'analyse de Nicolas Gabet est comme souvent la plus révélatrice pour moi. Ici par exemple pour "Take Me With You", une chanson que je n'écoute pourtant quasiment plus, tellement elle me semble légère, commerciale et tant je l'ai écoutée à travers les années.</comments>
+  </podcast>
   <podcast>
     <date>2021-09-03</date>
     <name url="http://verybadwizards.com/">Very Bad Wizards</name>
