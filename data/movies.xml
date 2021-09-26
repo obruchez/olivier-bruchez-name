@@ -3,6 +3,16 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Checklist: add rating to IMDb -->
   <movie>
+    <date>2021-09-26</date>
+    <theater home="true"/>
+    <director>Elia Kazan</director>
+    <title>On the Waterfront</title>
+    <url>https://www.imdb.com/title/tt0047296/</url>
+    <rating>4.75</rating>
+    <comments>If only all priests were like Father Barry. :) Another movie about fixing corrupt systems.</comments>
+    <image>On the Waterfront.jpg</image>
+  </movie>
+  <movie>
     <date>2021-08-22</date>
     <theater home="true"/>
     <director>Krzysztof Kieslowski</director>
