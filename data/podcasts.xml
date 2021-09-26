@@ -3,6 +3,12 @@
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
     <date></date>
+    <name url="https://www.foundmyfitness.com/episodes">FoundMyFitness</name>
+    <episode>NAD+, Nicotinamide Riboside, and Nicotinamide Mononucleotide with Rhonda Patrick</episode>
+    <comments></comments>
+  </podcast>
+  <podcast>
+    <date>2021-09-25</date>
     <name url="https://podcast.ausha.co/violet">Violet - Le Podcast sur Prince et le Minneapolis Sound</name>
     <episode url="https://podcast.ausha.co/violet/dream-factory-camille-crystal-ball-la-genese-de-sign-o-the-times">Dream Factory / Camille / Crystal Ball : la genèse de Sign O' The Times</episode>
     <comments>Le premier épisode qui sort un peu des sentiers battus, avec les outtakes, les projets abandonnés, etc., qui sont essentiels pour comprendre Prince.</comments>
