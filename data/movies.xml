@@ -6384,6 +6384,15 @@
     <image>Sun City.jpg</image>
   </movie>
   <movie>
+    <date>2005-06-05</date>
+    <theater home="true"/>
+    <director>Mary Lambert</director>
+    <title>Siesta</title>
+    <url>https://www.imdb.com/title/tt0093969/</url>
+    <comments>"Ressemble vaguement à du David Lynch, mais en plus brouillon, plus maladroit, moins complexe et [avec] une explication définitivement surnaturelle révélée à la fin. Étrange d’entendre la musique de Marcus [Miller] et Miles [Davis] dans ce contexte."</comments>
+    <image>Siesta.jpg</image>
+  </movie>
+  <movie>
     <date>2005-06-01</date>
     <theater>Atlantic, Lausanne</theater>
     <title>Star Wars: Episode III - Revenge of the Sith</title>
