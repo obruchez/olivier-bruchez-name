@@ -3,9 +3,15 @@
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
     <date></date>
+    <name url="https://podcast.ausha.co/violet">Violet - Le Podcast sur Prince et le Minneapolis Sound</name>
+    <episode url="https://podcast.ausha.co/violet/sign-o-the-times-l-album-total">Sign O' The Times : l'album total</episode>
+    <comments></comments>
+  </podcast>
+  <podcast>
+    <date>2021-09-27</date>
     <name url="https://www.foundmyfitness.com/episodes">FoundMyFitness</name>
     <episode>NAD+, Nicotinamide Riboside, and Nicotinamide Mononucleotide with Rhonda Patrick</episode>
-    <comments></comments>
+    <comments>I'm really curious to know if those substances (NR/NMN) will held up to the hype. I guess we'll have to wait several years for good-quality studies to be done and published.</comments>
   </podcast>
   <podcast>
     <date>2021-09-25</date>
