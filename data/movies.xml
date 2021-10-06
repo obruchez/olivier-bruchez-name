@@ -7349,6 +7349,26 @@
     <version>fr</version>
   </movie>
   <movie>
+    <date>2001-10-03</date>
+    <theater home="true"/>
+    <director>Roman Polanski</director>
+    <title>Dwaj ludzie z szafa</title>
+    <title language="fr">Deux hommes et une armoire</title>
+    <version>fr</version>
+    <url>https://www.imdb.com/title/tt0051566/</url>
+    <image>Dwaj ludzie z szafa.jpg</image>
+  </movie>
+  <movie>
+    <date>2001-10-03</date>
+    <theater home="true"/>
+    <director>Roman Polanski</director>
+    <title>Dance of the Vampires</title>
+    <title language="fr">Le Bal des Vampires</title>
+    <version>fr</version>
+    <url>https://www.imdb.com/title/tt0061655/</url>
+    <image>The Fearless Vampire Killers.jpg</image>
+  </movie>
+  <movie>
     <date>2001-08-16</date>
     <theater>Paris-Miami flight</theater>
     <director>Andrew Adamson &amp; Vicky Jenson</director>
