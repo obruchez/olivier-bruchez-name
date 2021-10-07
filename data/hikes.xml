@@ -3,6 +3,12 @@
   <introduction>A list of hikes I took.</introduction>
   <!-- TODO: add comments for new hikes? -->
   <hike>
+    <date>2021-10-02</date>
+    <place>Tour des Lacs, Bagnes, Switzerland</place>
+    <!-- <pictures url=""/> -->
+    <comments>Longer tour than in 2018.</comments>
+  </hike>
+  <hike>
     <date>2021-01-16</date>
     <place>Col des Planches / Mont Chemin, Switzerland</place>
     <!-- <pictures url=""/> -->
