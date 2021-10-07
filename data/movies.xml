@@ -7349,6 +7349,26 @@
     <version>fr</version>
   </movie>
   <movie>
+    <date>2001-10-07</date>
+    <theater home="true"/>
+    <director>Roman Polanski</director>
+    <title>Lampa</title>
+    <title language="fr">La lampe</title>
+    <version>fr</version>
+    <url>https://www.imdb.com/title/tt0052987/</url>
+    <image>Lampa.jpg</image>
+  </movie>
+  <movie>
+    <date>2001-10-07</date>
+    <theater home="true"/>
+    <director>Roman Polanski</director>
+    <title>Rozbijemy zabawe...</title>
+    <title language="fr">Cassons le bal</title>
+    <version>fr</version>
+    <url>https://www.imdb.com/title/tt0050914/</url>
+    <image>Rozbijemy zabawe....jpg</image>
+  </movie>
+  <movie>
     <date>2001-10-03</date>
     <theater home="true"/>
     <director>Roman Polanski</director>
