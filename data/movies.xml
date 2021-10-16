@@ -7349,6 +7349,15 @@
     <version>fr</version>
   </movie>
   <movie>
+    <date>2001-10-09</date>
+    <theater home="true"/>
+    <director>Roman Polanski</director>
+    <title>Repulsion</title>
+    <title language="fr">Répulsion</title>
+    <url>https://www.imdb.com/title/tt0059646/</url>
+    <image>Repulsion.jpg</image>
+  </movie>
+  <movie>
     <date>2001-10-07</date>
     <theater home="true"/>
     <director>Roman Polanski</director>
