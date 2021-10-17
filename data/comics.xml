@@ -1389,6 +1389,13 @@
     <image>Le Combat ordinaire - Les Quantités négligeables.jpg</image>
   </comic>
   <comic>
+    <date>2011-10-15</date>
+    <writer>Randall Munroe</writer>
+    <artist>Randall Munroe</artist>
+    <series url="https://en.wikipedia.org/wiki/Xkcd#Books">xkcd: volume 0</series>
+    <image>xkcd - volume 0.jpg</image>
+  </comic>
+  <comic>
     <date>2011-07-26</date>
     <writer>Manu Larcenet</writer>
     <artist>Manu Larcenet</artist>
