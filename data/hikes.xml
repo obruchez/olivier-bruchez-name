@@ -3,6 +3,11 @@
   <introduction>A list of hikes I took.</introduction>
   <!-- TODO: add comments for new hikes? -->
   <hike>
+    <date>2021-10-17</date>
+    <place>Cabane FXB Panossière / Cabane Brunet, Switzerland</place>
+    <!-- <pictures url=""/> -->
+  </hike>
+  <hike>
     <date>2021-10-02</date>
     <place>Tour des Lacs, Bagnes, Switzerland</place>
     <!-- <pictures url=""/> -->
