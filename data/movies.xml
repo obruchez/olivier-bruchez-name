@@ -3,6 +3,16 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Checklist: add rating to IMDb -->
   <movie>
+    <date>2021-10-18</date>
+    <theater home="true"/>
+    <director>Ernst Lubitsch</director>
+    <title>To Be or Not to Be</title>
+    <url>https://www.imdb.com/title/tt0035446/</url>
+    <rating>4.75</rating>
+    <comments>"The plot concerns a troupe of actors in Nazi-occupied Warsaw who use their abilities at disguise and acting to fool the occupying troops". A (funny) comedy from 1942. I was shocked to read that the main actress (Carole Lombard) was killed in a plane crash before the movie was released.</comments>
+    <image>To Be or Not to Be.jpg</image>
+  </movie>
+  <movie>
     <date>2021-09-28</date>
     <theater home="true"/>
     <director>Tomm Moore</director>
