@@ -3,6 +3,16 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Checklist: add rating to IMDb -->
   <movie>
+    <date>2021-09-28</date>
+    <theater home="true"/>
+    <director>Tomm Moore</director>
+    <title>Song of the Sea</title>
+    <url>https://www.imdb.com/title/tt1865505/</url>
+    <rating>4.75</rating>
+    <comments>A beautiful animation movie. Something we should watch again with our son someday.</comments>
+    <image>Song of the Sea.jpg</image>
+  </movie>
+  <movie>
     <date>2021-09-26</date>
     <theater home="true"/>
     <director>Elia Kazan</director>
