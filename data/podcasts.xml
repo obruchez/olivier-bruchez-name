@@ -3,6 +3,18 @@
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
     <date></date>
+    <name url="https://www.foundmyfitness.com/episodes">FoundMyFitness</name>
+    <episode url="https://www.foundmyfitness.com/episodes/giselle-petzinger" number="60">Dr. Giselle Petzinger on Exercise for Parkinson's Disease</episode>
+    <comments></comments>
+  </podcast>
+  <podcast>
+    <date>2021-10-19</date>
+    <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
+    <episode url="https://samharris.org/podcasts/263-paradox-death/" number="263">The Paradox of Death</episode>
+    <comments><a href="https://www.reddit.com/r/samharris/comments/qaptcy/263_the_paradox_of_death/">Reddit thread</a>. Hitchens: "It will happen to all of us, that at some point we will get tapped on the shoulder and told not just that the party's over, but slightly worse, the party's going on but you have to leave, and it's going on without you. That's the reflection that I think upsets most people about their demise." I'm probably in the same boat as Sam: I usually think about death several times a day. I've been thinking about all those concepts (death, consciousness, personal identity, etc.) for a long time. As Sam explains, I'm more and more convinced that we experience something like death, at the level of consciousness, all the time. Not only when we sleep, but when we stop paying attention, when our brain convinces us that we don't move our eyes all the time, etc. We're attached to living, to being us, because we remember being more or less the same person as we were one minute, one day, one year ago, but this is not completely true. This is a model our brain builds and presents to our consciousness. On the other hand, I don't know what to do with that idea of "universal/eternal consciousness". It sounds a bit too mystical to me.</comments>
+  </podcast>
+  <podcast>
+    <date>2021-10-19</date>
     <name url="https://podcast.ausha.co/violet">Violet - Le Podcast sur Prince et le Minneapolis Sound</name>
     <episode url="https://podcast.ausha.co/violet/bonus-1-diamonds-and-pearls">Bonus #1 - Diamonds and pearls</episode>
     <comments>Je me disais depuis plusieurs épisodes que ce podcast (Violet) touche beaucoup de fans et que ceux-ci ressentent par conséquent le besoin de s'exprimer. Cet épisode est le premier qui leur donne la parole exclusivement (ou presque). Moins intéressant que les autres épisodes, donc, mais nécessaire pour la communauté francophone, en quelque sorte.</comments>
@@ -10,7 +22,7 @@
   <podcast>
     <date>2021-10-16</date>
     <name url="https://www.foundmyfitness.com/episodes">FoundMyFitness</name>
-    <episode url="https://www.foundmyfitness.com/episodes/vitamin-c">Vitamin C: Oral vs. Intravenous, Immune Effects, Cancer, Exercise Adaptation &amp; More</episode>
+    <episode url="https://www.foundmyfitness.com/episodes/vitamin-c" number="54">Vitamin C: Oral vs. Intravenous, Immune Effects, Cancer, Exercise Adaptation &amp; More</episode>
     <comments>Everything you need to know about vitamin C. The liposomal form is probably better.</comments>
   </podcast>
   <podcast>
@@ -22,7 +34,7 @@
   <podcast>
     <date>2021-10-13</date>
     <name url="https://www.foundmyfitness.com/episodes">FoundMyFitness</name>
-    <episode url="https://www.foundmyfitness.com/episodes/rhonda-krs-2">New Omega-3, sulforaphane research, and more! [Kevin Rose Show]</episode>
+    <episode url="https://www.foundmyfitness.com/episodes/rhonda-krs-2" number="52">New Omega-3, sulforaphane research, and more! [Kevin Rose Show]</episode>
     <comments>The phospholipid form of DHA is interesting (better absorption), but it's not vegetarian (made from krill), unfortunately. Metformin doesn't mix well with exercise, even if taken on "off days". If you don't exercise (not my case), it's still better than nothing, though. Sulphurophane might be useful even if taken every two days. And, as always, sauna and cold showers are good for you.</comments>
   </podcast>
   <podcast>
@@ -178,7 +190,7 @@
   <podcast>
     <date>2021-08-11</date>
     <name url="https://www.foundmyfitness.com/episodes">FoundMyFitness</name>
-    <episode url="https://www.foundmyfitness.com/episodes/satchin-panda-3">Dr. Satchin Panda on Circadian Insights into Exercise Timing, Melatonin Biology, and Peak Cognition</episode>
+    <episode url="https://www.foundmyfitness.com/episodes/satchin-panda-3" number="65">Dr. Satchin Panda on Circadian Insights into Exercise Timing, Melatonin Biology, and Peak Cognition</episode>
     <comments>The benefits of melatonin as a supplement are still not clear to me. Low doses are probably better (I use 300 mg at the moment). Not eating for 1-2 hours after waking up might be a good idea. Not consuming any carbohydrates or glucose 2 hours before sleep as well. My cut-off time for caffeine is currently 3 PM, but it might be even better to stop around 1-2 PM.</comments>
   </podcast>
   <podcast>
@@ -262,7 +274,7 @@
   <podcast>
     <date>2021-06-14</date>
     <name url="https://www.foundmyfitness.com/episodes">FoundMyFitness</name>
-    <episode url="https://www.foundmyfitness.com/episodes/michael-snyder">Dr. Michael Snyder on Continuous Glucose Monitoring and Deep Profiling for Personalized Medicine</episode>
+    <episode url="https://www.foundmyfitness.com/episodes/michael-snyder" number="64">Dr. Michael Snyder on Continuous Glucose Monitoring and Deep Profiling for Personalized Medicine</episode>
     <comments>I've been convinced for a long time that gathering as much data about our body/health as possible is a good idea (blood tests, genome, etc.), but there aren't many concrete applications right now and they probably won't come for a few years. Another problem: I can now know my heart rate variability (HRV) and resting heart rate (RHR) at any time and see how they evolve, for example, but what should I do with those values? How can I "optimize" them?</comments>
   </podcast>
   <podcast>
@@ -334,13 +346,13 @@
   <podcast>
     <date>2021-05-17</date>
     <name url="https://www.foundmyfitness.com/episodes">FoundMyFitness</name>
-    <episode url="https://www.foundmyfitness.com/episodes/david-sinclair">Dr. David Sinclair on Informational Theory of Aging, Nicotinamide Mononucleotide, Resveratrol &amp; More</episode>
+    <episode url="https://www.foundmyfitness.com/episodes/david-sinclair" number="49">Dr. David Sinclair on Informational Theory of Aging, Nicotinamide Mononucleotide, Resveratrol &amp; More</episode>
     <comments><a href="https://podcastnotes.org/found-my-fitness/david-sinclair-rhonda-patrick-nad-nr-nmn/">Podcast notes</a>.</comments>
   </podcast>
   <podcast>
     <date>2021-05-10</date>
     <name url="https://www.foundmyfitness.com/episodes">FoundMyFitness</name>
-    <episode url="https://www.foundmyfitness.com/episodes/sauna-heart-presentation">Sauna Use as an Exercise Mimetic for Heart and Healthspan</episode>
+    <episode url="https://www.foundmyfitness.com/episodes/sauna-heart-presentation" number="48">Sauna Use as an Exercise Mimetic for Heart and Healthspan</episode>
     <comments>20-30 minutes of sauna, several times a week, have a lot of benefits for heart health and health in general. I unfortunately don't have regular access to a sauna...</comments>
   </podcast>
   <podcast>
@@ -358,7 +370,7 @@
   <podcast>
     <date>2021-04-30</date>
     <name url="https://www.foundmyfitness.com/episodes">FoundMyFitness</name>
-    <episode url="https://www.foundmyfitness.com/episodes/exercise-depression">Exercise as a Treatment for Depression</episode>
+    <episode url="https://www.foundmyfitness.com/episodes/exercise-depression" number="47">Exercise as a Treatment for Depression</episode>
     <comments>Yet another reason to exercise more.</comments>
   </podcast>
   <podcast>
@@ -376,13 +388,13 @@
   <podcast>
     <date>2021-04-21</date>
     <name url="https://www.foundmyfitness.com/episodes">FoundMyFitness</name>
-    <episode url="https://www.foundmyfitness.com/episodes/zero-fasting-qa">Fasting Q&amp;A with Dr. Rhonda Patrick and Mike Maser</episode>
+    <episode url="https://www.foundmyfitness.com/episodes/zero-fasting-qa" number="44">Fasting Q&amp;A with Dr. Rhonda Patrick and Mike Maser</episode>
     <comments>A lot of good questions and answers. It's still not clear what an almost-underweight person such as me (BMI of 18.0) should do.</comments>
   </podcast>
   <podcast>
     <date>2021-04-21</date>
     <name url="https://www.foundmyfitness.com/episodes">FoundMyFitness</name>
-    <episode url="https://www.foundmyfitness.com/episodes/charles-raison">Dr. Charles Raison on Depression, the Immune-Brain Interface &amp; Whole-Body Hyperthermia</episode>
+    <episode url="https://www.foundmyfitness.com/episodes/charles-raison" number="41">Dr. Charles Raison on Depression, the Immune-Brain Interface &amp; Whole-Body Hyperthermia</episode>
     <comments>An in-depth discussion about the topic, that went a bit over my head. Psychedelics and meditation are mentioned as well.</comments>
   </podcast>
   <podcast>
@@ -448,7 +460,7 @@
   <podcast>
     <date>2021-03-25</date>
     <name url="https://www.foundmyfitness.com/episodes">FoundMyFitness</name>
-    <episode url="https://www.foundmyfitness.com/episodes/roger-seheult">Dr. Roger Seheult from MedCram on COVID-19 Vaccines, Vitamin D, and Heat Hydrotherapy</episode>
+    <episode url="https://www.foundmyfitness.com/episodes/roger-seheult" number="63">Dr. Roger Seheult from MedCram on COVID-19 Vaccines, Vitamin D, and Heat Hydrotherapy</episode>
     <comments>"Fever is the body's attempt to make itself inhospitable to invaders. [...] Raising core body temperature may be analogous to having a fever. [...] Sleep bolsters the immune response to vaccinations." Heat hydrotherapy is an intriguing idea. I like saunas, but I don't have one at home. I've been trying cold showers on and off for years. Roger's top advice to stay healthy: 1) sleep 2) contrast showers (e.g. 3 minutes hot, 1 minute cold, 3 minutes hot, 1 minute cold - how hot/cold as you can tolerate) 3) vitamin D 4) antioxydant fruits (mainly berries) 4) NAC 5) zinc (never more than 40 mg a day). Except for contrast showers, I'm covered.</comments>
   </podcast>
   <podcast>
@@ -466,7 +478,7 @@
   <podcast>
     <date>2021-03-14</date>
     <name url="https://www.foundmyfitness.com/episodes">FoundMyFitness</name>
-    <episode url="https://www.foundmyfitness.com/episodes/valter-longo-2">Dr. Valter Longo on Resetting Autoimmunity and Rejuvenating Systems with Prolonged Fasting &amp; the FMD</episode>
+    <episode url="https://www.foundmyfitness.com/episodes/valter-longo-2" number="42">Dr. Valter Longo on Resetting Autoimmunity and Rejuvenating Systems with Prolonged Fasting &amp; the FMD</episode>
     <comments>This idea of resetting some things in our bodies by regularly doing something a bit uncomfortable like fasting or eating a <a href="https://www.prolon.ch/">Fasting Mimicking Diet</a> is really intriguing. Some biomarkers for longevity: IGF-1 (Insulin-like Growth Factor-1), insulin, glucose, CRP, triglycerides.</comments>
   </podcast>
   <podcast>
@@ -496,7 +508,7 @@
   <podcast>
     <date>2021-03-05</date>
     <name url="https://www.foundmyfitness.com/episodes">FoundMyFitness</name>
-    <episode url="https://www.foundmyfitness.com/episodes/satchin-round-2">Dr. Satchin Panda on Practical Implementation of Time-Restricted Eating &amp; Shift Work Strategies</episode>
+    <episode url="https://www.foundmyfitness.com/episodes/satchin-round-2" number="39">Dr. Satchin Panda on Practical Implementation of Time-Restricted Eating &amp; Shift Work Strategies</episode>
     <comments>"10-14 hours of fasting when we get up in the morning means that we have given our gut rest." I'm currently at 11-12 hours, so I guess this is better than nothing. I've currently stopped doing 16/8-18/6 time-restricted eating once a week as I'm trying to gain some weight.</comments>
   </podcast>
   <podcast>
@@ -526,19 +538,19 @@
   <podcast>
     <date>2021-02-21</date>
     <name url="https://www.foundmyfitness.com/episodes">FoundMyFitness</name>
-    <episode url="https://www.foundmyfitness.com/episodes/dale-bredesen">Dr. Dale Bredesen on Preventing and Reversing Alzheimer's Disease</episode>
+    <episode url="https://www.foundmyfitness.com/episodes/dale-bredesen" number="43">Dr. Dale Bredesen on Preventing and Reversing Alzheimer's Disease</episode>
     <comments><a href="https://www.apoe4.info/wiki/Bredesen_Protocol">A lot of tests can be done</a>. My homocysteine is considered normal, but it could be apparently lower according to Bredesen. My amalgames are probably okay, but I will ask my dentist about them. I should probably get my fasting insulin tested someday (among others). I currently have a low BMI, so I was intrigued by Bredesen's comment about how people with low BMI should get "quite a lot of carbs" once a week (e.g. sweet potatoes). Bredesen seems to recomment a mostly-plant-based diet and he also seems to like MCT oils (e.g. coconut oil) - whereas Michael Greger seems to think it is quite bad. There is EPA/DHA in fish, but also other interesting substances (did I hear "citicoline"?). Sauna is good (including to eliminate cadmium, mercury, etc.).</comments>
   </podcast>
   <podcast>
     <date>2021-02-19</date>
     <name url="https://www.foundmyfitness.com/episodes">FoundMyFitness</name>
-    <episode url="https://www.foundmyfitness.com/episodes/judy-campisi">Judith Campisi, Ph.D. on Cellular Senescence, Mitochondrial Dysfunction, Cancer &amp; Aging</episode>
+    <episode url="https://www.foundmyfitness.com/episodes/judy-campisi" number="36">Judith Campisi, Ph.D. on Cellular Senescence, Mitochondrial Dysfunction, Cancer &amp; Aging</episode>
     <comments>Periodic fasting (3-4 days?) can help the body get rid of senescent cells. Exercising is good.</comments>
   </podcast>
   <podcast>
     <date>2021-02-17</date>
     <name url="https://www.foundmyfitness.com/episodes">FoundMyFitness</name>
-    <episode url="https://www.foundmyfitness.com/episodes/refined-sugar">Refined Sugar and Its Effects on Mortality, the Brain, Cancer, Hormones, &amp; More</episode>
+    <episode url="https://www.foundmyfitness.com/episodes/refined-sugar" number="34">Refined Sugar and Its Effects on Mortality, the Brain, Cancer, Hormones, &amp; More</episode>
     <comments>"Refined sugar also affects the brain. It impairs the brain's ability to heal after trauma, inhibits memory formation and retention, and induces structural changes in the brain similar to those caused by amphetamine, cocaine, and nicotine – powerful stimulant drugs. Perhaps one of the most disturbing – and long-term – effects of refined sugar on the body is observed at the DNA level. Sugar causes the shortening of the telomeres, accelerating the aging process."</comments>
   </podcast>
   <podcast>
@@ -640,7 +652,7 @@
   <podcast>
     <date>2021-01-21</date>
     <name url="https://www.foundmyfitness.com/episodes">FoundMyFitness</name>
-    <episode url="https://www.foundmyfitness.com/episodes/jed-w-fahey">Jed Fahey, ScD, on Isothiocyanates, the Nrf2 Pathway, Moringa, &amp; Sulforaphane Supplementation</episode>
+    <episode url="https://www.foundmyfitness.com/episodes/jed-w-fahey" number="29">Jed Fahey, ScD, on Isothiocyanates, the Nrf2 Pathway, Moringa, &amp; Sulforaphane Supplementation</episode>
     <comments>Another episode about why sulforaphane is important. And moringa, possibly.</comments>
   </podcast>
   <podcast>
@@ -922,13 +934,13 @@
   <podcast>
     <date>2020-10-19</date>
     <name url="https://www.foundmyfitness.com/episodes">FoundMyFitness</name>
-    <episode url="https://www.foundmyfitness.com/episodes/sulforaphane">Sulforaphane and Its Effects on Cancer, Mortality, Aging, Brain and Behavior, Heart Disease, &amp; More</episode>
+    <episode url="https://www.foundmyfitness.com/episodes/sulforaphane" number="28">Sulforaphane and Its Effects on Cancer, Mortality, Aging, Brain and Behavior, Heart Disease, &amp; More</episode>
     <comments>Conclusion: sulforaphane seems to be fantastic. That means broccoli, cauliflower, kale, Brussels sprouts, cabbage, etc. (i.e. cruciferous vegetables). Sulforaphane alone as a supplement seems useless, apparently, because it's missing an essential enzyme called myrosinase. Supplements with myrosinase do exist, but they're pretty expensive. 40-60 mg of sulforaphane could be a daily target for optimal results.</comments>
   </podcast>
   <podcast>
     <date>2020-10-19</date>
     <name url="https://www.foundmyfitness.com/episodes">FoundMyFitness</name>
-    <episode url="https://www.foundmyfitness.com/episodes/ruth-patterson">Ruth Patterson, PhD, on Time-Restricted Eating in Humans &amp; Breast Cancer Prevention</episode>
+    <episode url="https://www.foundmyfitness.com/episodes/ruth-patterson" number="26">Ruth Patterson, PhD, on Time-Restricted Eating in Humans &amp; Breast Cancer Prevention</episode>
     <comments>I'm not sure what's the takeaway for me, here, as the definition used for time-restricted eating is not that restrictive: "Time-restricted eating is a form of fasting that limits the daytime hours during which a person can eat to an 8- to 12-hour window". Taking the more generous 12-hour window into account, it seems that I've often been eating in a time-restricted manner without realizing it... Now, what I do from that to time is to "fast" for 16 hours, which is pretty easy. I'm just skipping breakfast, which is what many people do (e.g. David Sinclair). Here, Ruth Patterson is talking about not skipping breakfast instead, which is a bit weird and/or more complicated. If I have my breakfast at around 8 AM, that would mean I'd have to stop eating at 4 PM, which is very late for lunch or very early for dinner...</comments>
   </podcast>
   <podcast>
@@ -970,19 +982,19 @@
   <podcast>
     <date>2020-10-09</date>
     <name url="https://www.foundmyfitness.com/episodes">FoundMyFitness</name>
-    <episode url="https://www.foundmyfitness.com/episodes/valter-longo">Valter Longo, Ph.D. on the Fasting-Mimicking Diet &amp; Fasting for Longevity, Cancer &amp; Multiple Sclerosis</episode>
+    <episode url="https://www.foundmyfitness.com/episodes/valter-longo" number="27">Valter Longo, Ph.D. on the Fasting-Mimicking Diet &amp; Fasting for Longevity, Cancer &amp; Multiple Sclerosis</episode>
     <comments>I'm not sure I understood correctly, but it might be possible that vegans don't benefit as much than non-vegans from time-restricted eating (to be confirmed). Prolonged fasting (several days at least) resets the immune system. An idea that I can confirm: it's way more easier to lose fat than to gain muscle.</comments>
   </podcast>
   <podcast>
     <date>2020-10-09</date>
     <name url="https://www.foundmyfitness.com/episodes">FoundMyFitness</name>
-    <episode url="https://www.foundmyfitness.com/episodes/satchin-panda">Satchin Panda, Ph.D. on Time-Restricted Feeding and Its Effects on Obesity, Muscle Mass &amp; Heart Health</episode>
+    <episode url="https://www.foundmyfitness.com/episodes/satchin-panda" number="25">Satchin Panda, Ph.D. on Time-Restricted Feeding and Its Effects on Obesity, Muscle Mass &amp; Heart Health</episode>
     <comments>I've been thinking about buying a light therapy lamp for years now. This episode convinced me to actually do it (I bought a cheap one). Time-restricted feeding could help with: heart health, healthier gut microbiome diversity, preventing absorption of simple sugars in the lower intestine, serum cholesterol, and probably many other things.</comments>
   </podcast>
   <podcast>
     <date>2020-10-07</date>
     <name url="https://www.foundmyfitness.com/episodes">FoundMyFitness</name>
-    <episode url="https://www.foundmyfitness.com/episodes/cold-stress-hormesis">How Cryotherapy Affects the Brain, the Immune System, Metabolism, and Athletic Performance</episode>
+    <episode url="https://www.foundmyfitness.com/episodes/cold-stress-hormesis" number="21">How Cryotherapy Affects the Brain, the Immune System, Metabolism, and Athletic Performance</episode>
     <comments>This is fascinating. Cold exposure activates some genes/processes that promote immunity, longevity, etc.</comments>
   </podcast>
   <podcast>
@@ -1000,25 +1012,25 @@
   <podcast>
     <date>2020-10-01</date>
     <name url="https://www.foundmyfitness.com/episodes">FoundMyFitness</name>
-    <episode url="https://www.foundmyfitness.com/episodes/darya-and-kevin-rose">Dr. Darya and Kevin Rose Talk Meditation Retreats, Diet, Seasonal Eating, and More</episode>
+    <episode url="https://www.foundmyfitness.com/episodes/darya-and-kevin-rose" number="19">Dr. Darya and Kevin Rose Talk Meditation Retreats, Diet, Seasonal Eating, and More</episode>
     <comments>"Meditation is good, part 2". What's also good: eating slowly, eating seasonally, turmeric. I have the same reaction to smartwatches: they're bringing notifications even closer to us and that's a bad thing.</comments>
   </podcast>
   <podcast>
     <date>2020-09-30</date>
     <name url="https://www.foundmyfitness.com/episodes">FoundMyFitness</name>
-    <episode url="https://www.foundmyfitness.com/episodes/meditation-solocast">Buffering the Negative Effects of Chronic Stress with Meditation</episode>
+    <episode url="https://www.foundmyfitness.com/episodes/meditation-solocast" number="15">Buffering the Negative Effects of Chronic Stress with Meditation</episode>
     <comments>Meditation (or other activities such as yoga) is apparently beneficial for longevity, memory, etc. according to some studies. As Sam Harris says, even if those studies are wrong, it's probably still an important activity, as it can make you react differently to some situations (in particular anger-inducing situations).</comments>
   </podcast>
   <podcast>
     <date>2020-09-30</date>
     <name url="https://www.foundmyfitness.com/episodes">FoundMyFitness</name>
-    <episode url="https://www.foundmyfitness.com/episodes/the-sonnenburgs">The Sonnenburgs On How The Gut Microbiota Interacts With Our Bodies</episode>
+    <episode url="https://www.foundmyfitness.com/episodes/the-sonnenburgs" number="13">The Sonnenburgs On How The Gut Microbiota Interacts With Our Bodies</episode>
     <comments>Fibers are important. Eating seasonal fruits and vegetables is a good rule of thumb to eat varied fruits/vegetables. I still don't know at this point if probiotics (in particular), prebiotics, and enzymes are useful as supplements.</comments>
   </podcast>
   <podcast>
     <date>2020-09-28</date>
     <name url="https://www.foundmyfitness.com/episodes">FoundMyFitness</name>
-    <episode url="https://www.foundmyfitness.com/episodes/aubrey-de-grey">Dr. Aubrey de Grey and Dr. Rhonda Patrick Talk Aging</episode>
+    <episode url="https://www.foundmyfitness.com/episodes/aubrey-de-grey" number="10">Dr. Aubrey de Grey and Dr. Rhonda Patrick Talk Aging</episode>
     <comments>I was already a bit familiar with Aubrey de Grey, but I got the impression from this discussion that he is way more pessimistic than I remember him being. Or maybe I wasn't paying enough attention (the sound quality was not very good, the discussion was quite technical, etc.).</comments>
   </podcast>
   <podcast>
@@ -1030,13 +1042,13 @@
   <podcast>
     <date>2020-09-18</date>
     <name url="https://www.foundmyfitness.com/episodes">FoundMyFitness</name>
-    <episode url="https://www.foundmyfitness.com/episodes/bruce-ames">Bruce Ames on Triage Theory, Longevity Vitamins &amp; Micronutrients</episode>
+    <episode url="https://www.foundmyfitness.com/episodes/bruce-ames" number="4">Bruce Ames on Triage Theory, Longevity Vitamins &amp; Micronutrients</episode>
     <comments>I realized after hearing this 2015 episode that Bruce N. Ames is the person responsible for <a href="https://www.pnas.org/content/115/43/10836">the paper on "longevity vitamins" from 2018</a>. A summary is available <a href="https://www.pnas.org/content/pnas/suppl/2018/10/09/1809045115.DCSupplemental/pnas.1809045115.sapp.pdf">here</a>. As a side note, I wish I can be as sharp and active at 86 as Bruce.</comments>
   </podcast>
   <podcast>
     <date>2020-09-17</date>
     <name url="https://www.foundmyfitness.com/episodes">FoundMyFitness</name>
-    <episode>Is Resveratrol a Longevity Compound?</episode>
+    <episode url="https://www.foundmyfitness.com/episodes/resveratrol-longevity" number="51">Is Resveratrol a Longevity Compound?</episode>
     <comments>Yes, probably, but we need more research to determine the optimal dosage and whether resveratrol is problematic for exercise.</comments>
   </podcast>
   <podcast>
@@ -1066,7 +1078,7 @@
   <podcast>
     <date>2020-09-16</date>
     <name url="https://www.foundmyfitness.com/episodes">FoundMyFitness</name>
-    <episode>Rhonda Answers the Most Popular Questions About Vitamin D</episode>
+    <episode url="https://foundmyfitness.libsyn.com/rhonda-answers-the-most-popular-questions-about-vitamin-d" number="9">Rhonda Answers the Most Popular Questions About Vitamin D</episode>
     <comments>Sweet spot: 40-60 ng/mL (I'm at 51.08 ng/mL - yay!). No significant difference between vitamin D coming from supplements or from an exposure to the sun (except too much sun can damage your DNA, of course).</comments>
   </podcast>
   <podcast>
