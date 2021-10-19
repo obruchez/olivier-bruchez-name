@@ -39,7 +39,7 @@
   }
   @defining(cacheable.listItems.partition(_.next)) { case (nextItems, normalItems) =>
     @table(tableTitle = nextItemsTitle.getOrElse("Next"), tableSlug = "next", nextItems)
-    @normalItems.groupBy(_.date.year).toSeq.sortBy(_._1).reverseMap { case (yearOption, itemsForYear) =>
+    @normalItems.groupBy(_.date.year).toSeq.sortBy(_._1).reverse.map { case (yearOption, itemsForYear) =>
       @table(tableTitle = yearOption.fold("?")(_.toString), tableSlug = yearOption.fold("?")(_.toString), itemsForYear)
     }
   }
