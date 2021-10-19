@@ -3,6 +3,16 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Checklist: add rating to IMDb -->
   <movie>
+    <date>2021-10-19</date>
+    <theater home="true"/>
+    <director>John Hughes</director>
+    <title>Ferris Bueller's Day Off</title>
+    <url>https://www.imdb.com/title/tt0091042/</url>
+    <rating>4.5</rating>
+    <comments>I'm pretty sure I've already seen portions of that movie. At least the last 10-15 minutes. I've watched it because Dave from the Very Bad Wizards podcast listed it in his top 5 comfort movies. I can see why now.</comments>
+    <image>Ferris Bueller's Day Off.jpg</image>
+  </movie>
+  <movie>
     <date>2021-10-18</date>
     <theater home="true"/>
     <director>Ernst Lubitsch</director>
