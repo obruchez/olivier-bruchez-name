@@ -3,6 +3,16 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Checklist: add rating to IMDb -->
   <movie>
+    <date>2021-10-21</date>
+    <theater home="true"/>
+    <director>Agnès Varda &amp; JR</director>
+    <title>Visages, villages</title>
+    <url>https://www.imdb.com/title/tt5598102/</url>
+    <rating>4.5</rating>
+    <comments>"- Est-ce qu'il y a un but ou c'est, heu... - Le but, c'est le pouvoir de l'imagination." Un film plein de poésie, qui questionne le rôle de l'art, en particulier dans le "grand public".</comments>
+    <image>Visages, villages.jpg</image>
+  </movie>
+  <movie>
     <date>2021-10-19</date>
     <theater home="true"/>
     <director>John Hughes</director>
