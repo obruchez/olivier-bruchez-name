@@ -3,6 +3,16 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Checklist: add rating to IMDb -->
   <movie>
+    <date>2021-10-24</date>
+    <theater home="true"/>
+    <director>Denis Villeneuve</director>
+    <title>Dune</title>
+    <url>https://www.imdb.com/title/tt1160419/</url>
+    <rating>5.0</rating>
+    <comments>I don't remember much from Lynch's version of <i>Dune</i>, which I saw in 2004, but this version is quite impressive, especially the sound effects (quite similar to the ones in <i>Arrival</i>, if I remember correctly).</comments>
+    <image>Dune.jpg</image>
+  </movie>
+  <movie>
     <date>2021-10-23</date>
     <theater home="true"/>
     <director>Joachim Trier</director>
