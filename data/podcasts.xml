@@ -3,9 +3,15 @@
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
     <date></date>
+    <name url="https://podcast.ausha.co/violet">Violet - Le Podcast sur Prince et le Minneapolis Sound</name>
+    <episode url="https://podcast.ausha.co/violet/love-symbol-l-album-de-la-transmutation">Love Symbol : L'album de la transmutation</episode>
+    <comments>L'un de mes albums préférés. Un album concept, musicalement très riche.</comments>
+  </podcast>
+  <podcast>
+    <date>2021-10-23</date>
     <name url="https://www.foundmyfitness.com/episodes">FoundMyFitness</name>
     <episode url="https://www.foundmyfitness.com/episodes/giselle-petzinger" number="60">Dr. Giselle Petzinger on Exercise for Parkinson's Disease</episode>
-    <comments></comments>
+    <comments>Exercise, again, is good for you. As is DHA (omega 3). It's probably important to change the kind of exercise you do from time to time and skill-based exercise (yoga, etc.) might be especially important for Parkinson's.</comments>
   </podcast>
   <podcast>
     <date>2021-10-19</date>
