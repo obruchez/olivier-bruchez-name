@@ -3,6 +3,17 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Checklist: add rating to IMDb -->
   <movie>
+    <date>2021-10-23</date>
+    <theater home="true"/>
+    <director>Joachim Trier</director>
+    <title>Verdens verste menneske</title>
+    <title language="en">The Worst Person in the World</title>
+    <url>https://www.imdb.com/title/tt10370710/</url>
+    <rating>4.75</rating>
+    <comments>It touches on too many topics to be a classic, but it's a good movie about the search for meaning in life through love, sex, living with someone, work, children, etc.</comments>
+    <image>Verdens verste menneske.jpg</image>
+  </movie>
+  <movie>
     <date>2021-10-21</date>
     <theater home="true"/>
     <director>Agnès Varda &amp; JR</director>
