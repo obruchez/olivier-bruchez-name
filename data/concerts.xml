@@ -7,6 +7,16 @@
   -->
   <introduction>A list of concerts I went to.</introduction>
   <concert>
+    <date>2021-10-23</date>
+    <location>Chorus, Lausanne, Switzerland</location>
+    <musician inst="cornet, vocals" main="true">Médéric Collignon</musician>
+    <musician inst="piano">Yvan Robillard</musician>
+    <musician inst="bass">Stéphane Kerecki</musician>
+    <musician inst="drums">Fabrice Moreau</musician>
+    <rating>4.25</rating>
+    <comments>The music itself was pretty good (thanks to Miles' compositions, among others), but I'm definitely not a fan of Médéric Collignon's scat singing. His attempts at humor between the tunes were also off-putting.</comments>
+  </concert>
+  <concert>
     <date>2021-09-09</date>
     <location>Salle Paderewski, Casino de Montbenon, Lausanne, Switzerland</location>
     <event>JazzOnze+ Festival Lausanne</event>
