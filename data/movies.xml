@@ -3,6 +3,16 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Checklist: add rating to IMDb -->
   <movie>
+    <date>2021-10-25</date>
+    <theater home="true"/>
+    <director>Luis Buñuel</director>
+    <title>Le charme discret de la bourgeoisie</title>
+    <url>https://www.imdb.com/title/tt0068361/</url>
+    <rating>4.75</rating>
+    <comments>The only thing by Luis Buñuel that I had previously seen was <a href="https://www.imdb.com/title/tt0020530/"><i>Un chien andalou</i></a>, which I saw at the Dalí Museum in Berlin. <i>Le charme discret de la bourgeoisie</i> is very different. 33 years separate those two films, after all. It's a very weird movie. Everything seems so unreal. Absurd things happen and the main characters accept them without much resistance. They just keep on living, eating, dreaming... and walking on that empty road.</comments>
+    <image>Le charme discret de la bourgeoisie.jpg</image>
+  </movie>
+  <movie>
     <date>2021-10-24</date>
     <theater home="true"/>
     <director>Denis Villeneuve</director>
