@@ -3,9 +3,15 @@
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
     <date></date>
+    <name url="https://podcast.ausha.co/violet">Violet - Le Podcast sur Prince et le Minneapolis Sound</name>
+    <episode url="https://podcast.ausha.co/violet/bonus-2-lovesymbol">Bonus #2 - LoveSymbol</episode>
+    <comments></comments>
+  </podcast>
+  <podcast>
+    <date>2021-10-25</date>
     <name url="https://www.foundmyfitness.com/episodes">FoundMyFitness</name>
     <episode url="https://www.foundmyfitness.com/episodes/jed-fahey-q-a" number="61">Q&amp;A with Dr. Jed Fahey on Sulforaphane, Moringa and Chemoprotection</episode>
-    <comments></comments>
+    <comments>I'll probably integrate sulforaphane into my "base stack". The remaining questions I have: 1) what dosage 2) what frequency (e.g. Brad Stanfield takes sulforaphane only on non-workout days; is that a good idea?).</comments>
   </podcast>
   <podcast>
     <date>2021-10-24</date>
