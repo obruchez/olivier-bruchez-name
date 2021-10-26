@@ -3,9 +3,15 @@
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
     <date></date>
+    <name url="https://www.foundmyfitness.com/episodes">FoundMyFitness</name>
+    <episode url="https://www.foundmyfitness.com/episodes/steve-horvath" number="62">Dr. Steve Horvath on epigenetic aging to predict healthspan: the DNA PhenoAge and GrimAge clocks</episode>
+    <comments></comments>
+  </podcast>
+  <podcast>
+    <date>2021-10-26</date>
     <name url="https://podcast.ausha.co/violet">Violet - Le Podcast sur Prince et le Minneapolis Sound</name>
     <episode url="https://podcast.ausha.co/violet/bonus-2-lovesymbol">Bonus #2 - LoveSymbol</episode>
-    <comments></comments>
+    <comments>Des témoignages et des parenthèses, en particulier sur le lien entre Prince et Zappa, artiste que je ne suis pas encore parvenu à apprécier.</comments>
   </podcast>
   <podcast>
     <date>2021-10-25</date>
