@@ -3,6 +3,16 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Checklist: add rating to IMDb -->
   <movie>
+    <date>2021-10-27</date>
+    <theater home="true"/>
+    <director>Richard Linklater</director>
+    <title>Dazed and Confused</title>
+    <url>https://www.imdb.com/title/tt0106677/</url>
+    <rating>4.5</rating>
+    <comments>Yet another movie from Dave Pizarro's top 5 comfort movies. Richard Linklater seems to be an uneven director. I discovered him with <i>Boyhood</i>, which really impressed me. The <i>Before</i> trilogy is also excellent. I really liked <i>Waking Life</i> as well. <i>Dazed and Confused</i> is not bad, but it's definitely not in the same league as those other movies. And then, there's the rest of his filmography, but that's another story...</comments>
+    <image>Dazed and Confused.jpg</image>
+  </movie>
+  <movie>
     <date>2021-10-26</date>
     <theater home="true"/>
     <director>Mike Judge</director>
