@@ -3,6 +3,16 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Checklist: add rating to IMDb -->
   <movie>
+    <date>2021-10-28</date>
+    <theater home="true"/>
+    <director>Michael Haneke</director>
+    <title>Caché</title>
+    <url>https://www.imdb.com/title/tt0387898/</url>
+    <rating>4.75</rating>
+    <comments>I decided to watch this movie because a recent episode of the Very Bad Wizards podcast is dedicated to it. After watching maybe half of it, I realized I had already seen it (in 2005, I guess not long after it was released). It's a good movie. I especially like the open-ended ending.</comments>
+    <image>Caché.jpg</image>
+  </movie>
+  <movie>
     <date>2021-10-27</date>
     <theater home="true"/>
     <director>Richard Linklater</director>
@@ -6124,6 +6134,7 @@
   <movie>
     <date>2005-11-25</date>
     <theater>Bellevaux, Lausanne</theater>
+    <director>Michael Haneke</director>
     <title>Caché</title>
     <rating>4.5</rating>
     <url>https://www.imdb.com/title/tt0387898/</url>
