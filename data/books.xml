@@ -2,11 +2,11 @@
 <books created="2006-08-20">
     <introduction>A list of books I read.</introduction>
     <book>
-        <date></date>
+        <date>2021-10-29</date>
         <title>Le Nom de la rose</title>
         <author>Umberto Eco</author>
         <publishingyear>1980</publishingyear>
-        <rating></rating>
+        <rating>5.25</rating>
         <url>https://fr.wikipedia.org/wiki/Le_Nom_de_la_rose_(roman)</url>
         <notes description="Kindle highlights"></notes>
         <comments></comments>
