@@ -3,9 +3,15 @@
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
     <date></date>
+    <name url="https://podcast.ausha.co/violet">Violet - Le Podcast sur Prince et le Minneapolis Sound</name>
+    <episode url="https://podcast.ausha.co/violet/l-annee-1993-le-sacrifice-de-prince">L'année 1993 : Le sacrifice de Prince</episode>
+    <comments></comments>
+  </podcast>
+  <podcast>
+    <date>2021-10-29</date>
     <name url="https://www.foundmyfitness.com/episodes">FoundMyFitness</name>
     <episode url="https://www.foundmyfitness.com/episodes/steve-horvath" number="62">Dr. Steve Horvath on epigenetic aging to predict healthspan: the DNA PhenoAge and GrimAge clocks</episode>
-    <comments></comments>
+    <comments>"Not everyone ages at the same rate." And we're starting to have tools to measure that rate. Also, there are probably ways to slow or even reverse that rate.</comments>
   </podcast>
   <podcast>
     <date>2021-10-26</date>
