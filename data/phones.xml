@@ -2,6 +2,12 @@
 <phones created="2016-04-18">
   <introduction>A list of phones I bought.</introduction>
   <phone>
+    <date>2021-10-27</date>
+    <brand>Apple</brand>
+    <model>iPhone 13 Pro 256 GB</model>
+    <comments></comments>
+  </phone>
+  <phone>
     <date>2015-10-19</date>
     <brand>Apple</brand>
     <model>iPhone 6s Plus 64 GB</model>
