@@ -2,6 +2,12 @@
 <podcasts created="2016-05-10">
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date>2021-10-11</date>
+    <name url="https://peterattiamd.com/podcast/">The Peter Attia Drive Podcast</name>
+    <episode url="https://peterattiamd.com/davidnutt/" number="182">David Nutt: Psychedelics &amp; Recreational Drugs</episode>
+    <comments>"It turns out that the drugs that have been most vilified and which we've been taught are the most dangerous, turned out to be the least dangerous." —David Nutt. The part about microdosing was interesting: there's a plausible explanation as to why it could work, but no serious study has ever been done. An intriguing possibility is that microdosing could help as a complement to other approaches (e.g. macrodoses, etc.).</comments>
+  </podcast>
+  <podcast>
     <date>2021-11-03</date>
     <name url="http://verybadwizards.com/">Very Bad Wizards</name>
     <episode url="https://www.verybadwizards.com/218" number="218">...But You Can't Hide (Michael Haneke's "Caché")</episode>
