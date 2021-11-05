@@ -2,6 +2,18 @@
 <podcasts created="2016-05-10">
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date></date>
+    <name url="https://podcast.ausha.co/violet">Violet - Le Podcast sur Prince et le Minneapolis Sound</name>
+    <episode url="https://podcast.ausha.co/violet/bonus-3-l-annee-1993">Bonus #3 - L'année 1993</episode>
+    <comments></comments>
+  </podcast>
+  <podcast>
+    <date>2021-11-05</date>
+    <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
+    <episode url="https://samharris.org/podcasts/266-limits-pleasure/" number="266">The Limits of Pleasure - A Conversation with Paul Bloom</episode>
+    <comments>A fantastic discussion about a problem I'm regularly thinking about. I enjoyed this episode a lot. I've just bought Paul Bloom's book as a result. I liked how Paul reacted to Sam's usual reaction about the happiness/life satisfaction vs money study. Sam always insists on the fact that life satisfaction never stops to increase as money increases. Paul is right, in my opinion, to insist on the fact that this is all about status and the stories we tell ourselves. The fact that our moment-to-moment happiness doesn't increase much (or at all) as money increases is the most important part of the study, I think. We just can't help attributing a lot of importance to money when we're asked about it.</comments>
+  </podcast>
+  <podcast>
     <date>2021-10-11</date>
     <name url="https://peterattiamd.com/podcast/">The Peter Attia Drive Podcast</name>
     <episode url="https://peterattiamd.com/davidnutt/" number="182">David Nutt: Psychedelics &amp; Recreational Drugs</episode>
