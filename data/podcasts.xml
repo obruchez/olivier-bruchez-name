@@ -3,9 +3,15 @@
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
     <date></date>
+    <name url="http://verybadwizards.com/">Very Bad Wizards</name>
+    <episode url="https://www.verybadwizards.com/218" number="218">...But You Can't Hide (Michael Haneke's "Caché")</episode>
+    <comments></comments>
+  </podcast>
+  <podcast>
+    <date>2021-11-01</date>
     <name url="https://podcast.ausha.co/violet">Violet - Le Podcast sur Prince et le Minneapolis Sound</name>
     <episode url="https://podcast.ausha.co/violet/l-annee-1993-le-sacrifice-de-prince">L'année 1993 : Le sacrifice de Prince</episode>
-    <comments></comments>
+    <comments>1993 : une année difficile à comprendre, sans album officiel, mais quand même pleine de projets. Un décodage par conséquent bienvenu.</comments>
   </podcast>
   <podcast>
     <date>2021-10-29</date>
