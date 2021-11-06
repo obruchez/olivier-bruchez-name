@@ -42,8 +42,8 @@ object Post {
   protected def cleanHtml(html: String): String = {
     val doc = Jsoup.parse(html)
 
-    val whitelist = Whitelist.relaxed()
-    val cleaner = new Cleaner(whitelist)
+    val safelist = Safelist.relaxed()
+    val cleaner = new Cleaner(safelist)
     val cleanDoc = cleaner.clean(doc)
 
     import scala.jdk.CollectionConverters._
