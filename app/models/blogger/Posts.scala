@@ -100,9 +100,11 @@ object Posts extends Fetchable {
   override val icon = Some("fa-rss")
 
   override def fetch(): Try[Posts] = Try {
+    val MaxPostCount = 500
+
     Posts(
       // @todo how many posts do we really want to fetch? (500 is actually the maximum allowed)
-      listItems = Blogger.latestPosts(count = 500).map(Post(_)))
+      listItems = Blogger.latestPosts(count = MaxPostCount).map(Post(_)))
     //listItems = Blogger.latestPosts(count = 1).map(Post(_)))
   }
 }
