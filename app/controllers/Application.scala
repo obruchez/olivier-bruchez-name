@@ -9,6 +9,7 @@ import models.todo.{BooksToRead, MoviesToWatch, TripsToTake}
 import models.twitter.Tweets
 import models._
 import play.api.mvc._
+import util.ConfigurationSetter
 
 import javax.inject.Inject
 import scala.concurrent.{ExecutionContext, Future}
@@ -16,7 +17,8 @@ import scala.concurrent.{ExecutionContext, Future}
 object Application
 
 class Application @Inject()(implicit ec: ExecutionContext,
-                            val controllerComponents: ControllerComponents)
+                            val controllerComponents: ControllerComponents,
+                            val configurationSetter: ConfigurationSetter)
     extends BaseController {
   def home = Action.async {
     val MaxItemCount = 5

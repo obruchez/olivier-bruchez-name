@@ -1,11 +1,19 @@
 package util
 
 import java.net.URL
-import play.api.Play
+import javax.inject.Inject
+import javax.inject.Singleton
+
+@Singleton
+class ConfigurationSetter @Inject()(configuration: play.api.Configuration) {
+  Configuration.configuration = configuration
+}
 
 object Configuration {
+  var configuration: play.api.Configuration = _
+
   def string(path: String): Option[String] =
-    Play.current.configuration.getString(path)
+    configuration.getOptional[String](path)
 
   def url(path: String): Option[URL] =
     string(path).map(new URL(_))
