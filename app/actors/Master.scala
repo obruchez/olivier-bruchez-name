@@ -4,19 +4,20 @@ import akka.actor._
 import akka.routing.RoundRobinPool
 import controllers.Sitemap
 import org.joda.time.DateTime
-import play.api.Logger
+import play.api.Logging
+
 import scala.concurrent.Future
 import scala.concurrent.duration._
 
 sealed trait MasterMessage
 case class CheckCache(force: Boolean, reschedule: Boolean) extends MasterMessage
 
-class Master extends Actor {
+class Master extends Actor with Logging {
   import context._
 
   def receive = {
     case CheckCache(force, reschedule) =>
-      Logger.info(s"Checking cache...")
+      logger.info(s"Checking cache...")
 
       // Retrieve caching times of all fetchables from Sitemap
       val sequenceOfFutures =
@@ -38,12 +39,12 @@ class Master extends Actor {
       }
 
       if (reschedule) {
-        Logger.info(s"Reschedule CheckCache (force = $force)")
+        logger.info(s"Reschedule CheckCache (force = $force)")
         system.scheduler.scheduleOnce(Master.CheckPeriod,
                                       self,
                                       CheckCache(force = force, reschedule = true))
       } else {
-        Logger.info(s"Do not reschedule CheckCache (force = $force)")
+        logger.info(s"Do not reschedule CheckCache (force = $force)")
       }
   }
 }

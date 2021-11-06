@@ -5,7 +5,8 @@ import akka.pattern._
 import akka.util.Timeout
 import models._
 import org.joda.time.DateTime
-import play.api.Logger
+import play.api.Logging
+
 import scala.collection.mutable
 import scala.concurrent.Future
 import scala.concurrent.duration._
@@ -20,7 +21,7 @@ case class CacheResult[F <: Fetchable](fetchable: F, cacheable: F#C) extends Cac
 case class CachingTimeResult[F <: Fetchable](fetchable: F, cachingTime: Option[DateTime])
     extends CacheResultMessage
 
-class Cache extends Actor {
+class Cache extends Actor with Logging {
   case class CachedValue(cacheable: Cacheable, cachingTime: DateTime)
 
   private val cachedValues = mutable.Map[Fetchable, CachedValue]()
@@ -28,7 +29,7 @@ class Cache extends Actor {
 
   def receive = {
     case GetCache(fetchable) =>
-      Logger.info(s"GetCache(${fetchable.name})")
+      logger.info(s"GetCache(${fetchable.name})")
 
       cachedValues.get(fetchable) match {
         case Some(cachedValue) =>
@@ -38,14 +39,14 @@ class Cache extends Actor {
       }
 
     case SetCache(fetchable, cacheable) =>
-      Logger.info(s"SetCache(${fetchable.name})")
+      logger.info(s"SetCache(${fetchable.name})")
 
       cachedValues(fetchable) = CachedValue(cacheable, cachingTime = new DateTime())
       subscribers(fetchable).foreach(_ ! CacheResult(fetchable, cacheable))
       subscribers(fetchable) = Seq()
 
     case GetCachingTime(fetchable) =>
-      Logger.debug(s"GetCachingTime(${fetchable.name})")
+      logger.debug(s"GetCachingTime(${fetchable.name})")
 
       sender() ! CachingTimeResult(fetchable,
                                    cachingTime = cachedValues.get(fetchable).map(_.cachingTime))

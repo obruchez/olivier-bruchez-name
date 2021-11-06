@@ -2,16 +2,17 @@ package actors
 
 import akka.actor.{Actor, ActorRef}
 import models.Fetchable
-import play.api.Logger
+import play.api.Logging
+
 import scala.util._
 
 sealed trait FetcherMessage
 case class Fetch(fetchable: Fetchable) extends FetcherMessage
 
-class Fetcher(cache: ActorRef) extends Actor {
+class Fetcher(cache: ActorRef) extends Actor with Logging {
   def receive = {
     case Fetch(fetchable) =>
-      Logger.info(s"Fetch(${fetchable.name})...")
+      logger.info(s"Fetch(${fetchable.name})...")
 
       fetch(fetchable)
   }
@@ -22,7 +23,7 @@ class Fetcher(cache: ActorRef) extends Actor {
         cache ! SetCache(fetchable, cacheable)
         cacheable.subFetchables.foreach(Master.fetcherRouter ! Fetch(_))
       case Failure(throwable) =>
-        Logger.error(s"Could not fetch ${fetchable.name}", throwable)
+        logger.error(s"Could not fetch ${fetchable.name}", throwable)
     }
   }
 }
