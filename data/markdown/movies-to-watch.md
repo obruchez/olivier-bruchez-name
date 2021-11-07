@@ -4,7 +4,6 @@ Pretty much everything from [IMDb's Top 250](http://www.imdb.com/chart/top), [Le
 
 ## [Agnès Varda](http://www.imdb.com/name/nm0889513)
 
-* [Visages villages](http://www.imdb.com/title/tt5598102/) (8.0)
 * [Cléo de 5 à 7](http://www.imdb.com/title/tt0055852) (8.0)
 * [Sans toit ni loi](http://www.imdb.com/title/tt0089960) (7.8)
 
@@ -43,7 +42,7 @@ Pretty much everything from [IMDb's Top 250](http://www.imdb.com/chart/top), [Le
 
 * [The Wrestler](http://www.imdb.com/title/tt1125849) (7.9)
 
-## [David Lynch](http://www.imdb.com/name/nm0000186)
+## [David Lynch](http://www.imdb.com/name/nm0000186)
 
 * [The Elephant Man](http://www.imdb.com/title/tt0080678) (8.2) (already seen)
 
@@ -85,12 +84,6 @@ Pretty much everything from [IMDb's Top 250](http://www.imdb.com/chart/top), [Le
 * [Women on the Verge of a Nervous Breakdown](http://www.imdb.com/title/tt0095675) (7.6)
 * [Bad Education](http://www.imdb.com/title/tt0275491) (7.5)
 
-## [Richard Linklater](http://www.imdb.com/name/nm0000500)
-
-* [Before Sunset](http://www.imdb.com/title/tt0381681) (8.1)
-* [Before Midnight](http://www.imdb.com/title/tt2209418) (7.9)
-* [Dazed and Confused](http://www.imdb.com/title/tt0106677/) (7.7)
-
 ## [Robert Zemeckis](http://www.imdb.com/name/nm0000709)
 
 * [Contact](http://www.imdb.com/title/tt0118884) (7.4)
@@ -107,8 +100,6 @@ Pretty much everything from [IMDb's Top 250](http://www.imdb.com/chart/top), [Le
 
 ## [Stanley Kubrick](http://www.imdb.com/name/nm0000040)
 
-* [Full Metal Jacket](http://www.imdb.com/title/tt0093058) (8.3) (already seen on DVD)
-* [Barry Lyndon](http://www.imdb.com/title/tt0072684) (8.1)
 * [Spartacus](http://www.imdb.com/title/tt0054331) (7.9)
 * [Lolita](http://www.imdb.com/title/tt0056193) (7.6)
 
