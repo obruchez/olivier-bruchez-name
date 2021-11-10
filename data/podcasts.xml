@@ -3,9 +3,15 @@
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
     <date></date>
+    <name url="https://podcast.ausha.co/violet">Violet - Le Podcast sur Prince et le Minneapolis Sound</name>
+    <episode url="https://podcast.ausha.co/violet/come-le-testament-de-prince">Come : Le testament de Prince</episode>
+    <comments></comments>
+  </podcast>
+  <podcast>
+    <date>2021-11-09</date>
     <name url="http://verybadwizards.com/">Very Bad Wizards</name>
     <episode url="https://www.verybadwizards.com/224" number="224">Hurts So Good (With Paul Bloom)</episode>
-    <comments></comments>
+    <comments>Another episode about Paul Bloom's latest book, this time with Tamler/Dave from Very Bad Wizards. Quite a different discussion than the one with Sam Harris, which retained my attention more (maybe just because it was the first one I heard).</comments>
   </podcast>
   <podcast>
     <date>2021-11-08</date>
