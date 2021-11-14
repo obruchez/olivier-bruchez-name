@@ -3,9 +3,15 @@
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
     <date></date>
+    <name url="https://www.foundmyfitness.com/episodes">FoundMyFitness</name>
+    <episode url="https://www.foundmyfitness.com/episodes/mark-mattson" number="66">Dr. Mark Mattson on the Benefits of Stress, Metabolic Switching, Fasting, and Hormesis</episode>
+    <comments></comments>
+  </podcast>
+  <podcast>
+    <date>2021-11-12</date>
     <name url="https://podcast.ausha.co/violet">Violet - Le Podcast sur Prince et le Minneapolis Sound</name>
     <episode url="https://podcast.ausha.co/violet/come-le-testament-de-prince">Come : Le testament de Prince</episode>
-    <comments></comments>
+    <comments>Un éclairage utile sur une année, 1994, à nouveau compliquée, comme 1993.</comments>
   </podcast>
   <podcast>
     <date>2021-11-09</date>
