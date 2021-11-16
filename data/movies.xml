@@ -3,6 +3,27 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Checklist: add rating to IMDb -->
   <movie>
+    <date></date>
+    <theater home="true"/>
+    <director>Elem Klimov</director>
+    <title>Idi i smotri</title>
+    <title language="en">Come and See</title>
+    <url>https://www.imdb.com/title/tt0091251/</url>
+    <rating></rating>
+    <comments></comments>
+    <image>Idi i smotri.jpg</image>
+  </movie>
+  <movie>
+    <date>2021-11-13</date>
+    <theater>Casino, Martigny</theater>
+    <director>Wes Anderson</director>
+    <title>The French Dispatch</title>
+    <url>https://www.imdb.com/title/tt8847712/</url>
+    <rating>5.0</rating>
+    <comments>I find some of the reviews for this movie to be a bit harsh. Yes, the story is a bit hard to follow at times and some of the scenes are dense (in the sense that there are too many things to parse in a short amount of time), but I actually liked that sense of confusion. I generally like movies that make me a bit uncomfortable. It's also a fun and absurd movie, and it's precisely why I like Wes Anderson in the first place.</comments>
+    <image>The French Dispatch.jpg</image>
+  </movie>
+  <movie>
     <date>2021-10-28</date>
     <theater home="true"/>
     <director>Michael Haneke</director>
