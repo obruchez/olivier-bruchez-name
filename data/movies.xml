@@ -3547,7 +3547,16 @@
     <url>https://www.imdb.com/title/tt1570728/</url>
     <rating>4.75</rating>
     <image>Crazy, Stupid, Love.jpg</image>
-  </movie>  
+  </movie>
+  <movie>
+    <date>2011-11-13</date>
+    <theater home="true"/>
+    <director>Georges Méliès</director>
+    <title>Le voyage dans la lune</title>
+    <url>https://www.imdb.com/title/tt0000417/</url>
+    <rating>5.0</rating>
+    <image>Le voyage dans la lune.jpg</image>
+  </movie>
   <movie>
     <date>2011-10-14</date>
     <theater home="true"/>
