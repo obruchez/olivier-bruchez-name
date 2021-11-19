@@ -7467,6 +7467,15 @@
     <version>fr</version>
   </movie>
   <movie>
+    <date>2001-11-19</date>
+    <theater home="true"/>
+    <director>John Flynn</director>
+    <title>Brainscan</title>
+    <url>https://www.imdb.com/title/tt0109327/</url>
+    <comments>"Un film médiocre".</comments>
+    <image>Brainscan.jpg</image>
+  </movie>
+  <movie>
     <date>2001-11-18</date>
     <theater home="true"/>
     <director>Abel Ferrara</director>
