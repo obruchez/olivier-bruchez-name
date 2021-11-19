@@ -603,6 +603,12 @@
         <comments>Exhibition located in Mauvoisin.</comments>
     </exhibition>
     <exhibition>
+        <date>2011-11-19</date>
+        <name>Permanent exhibition</name>
+        <museum>Collection de l'Art Brut, Lausanne, Switzerland</museum>
+        <image>Collection de l'Art Brut.jpg</image>
+    </exhibition>
+    <exhibition>
         <date>2011-05-14</date>
         <name>De Renoir à Szafran - Parcours d'un collectionneur</name>
         <museum>Fondation Pierre Gianadda, Martigny, Switzerland</museum>
