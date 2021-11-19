@@ -7467,6 +7467,15 @@
     <version>fr</version>
   </movie>
   <movie>
+    <date>2001-11-18</date>
+    <theater home="true"/>
+    <director>Abel Ferrara</director>
+    <title>Body Snatchers</title>
+    <url>https://www.imdb.com/title/tt0106452/</url>
+    <comments>"Un navet".</comments>
+    <image>Body Snatchers.jpg</image>
+  </movie>
+  <movie>
     <date>2001-11-06</date>
     <title>Le Vélo De Ghislain Lambert</title>
     <version>fr</version>
