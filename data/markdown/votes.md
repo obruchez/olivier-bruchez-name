@@ -2,15 +2,32 @@
 
 My votes (in French). En Suisse, on ne plaisante pas avec la démocratie directe. :) J'essaie ici de documenter et de justifier la façon dont je me positionne par rapport aux votations fédérales, qui ont lieu jusqu'à quatre fois par année.
 
+## [Votation fédérale du 28 novembre 2021](https://www.admin.ch/gov/fr/accueil/documentation/votations/20211128.html)
+
+### Acceptez-vous l’initiative populaire « Pour des soins infirmiers forts (initiative sur les soins infirmiers) » ?
+
+Oui. Résultat : ? (?.?%)
+
+### Acceptez-vous l’initiative populaire « Désignation des juges fédéraux par tirage au sort (initiative sur la justice) » ?
+
+Oui. Résultat : ? (?.?%)
+
+- Un tirage au sort bien organisé (mathématiquement parlant) permettrait de conserver les avantages d'une élection, tout en séparant mieux les pouvoirs.
+- La contribution des juges fédéraux aux partis est un principe qui paraît vraiment désuet, voire choquant.
+
+### Acceptez-vous la modification du 19 mars 2021 de la loi fédérale sur les bases légales des ordonnances du Conseil fédéral visant à surmonter l’épidémie de COVID-19 (loi COVID-19) (cas de rigueur, assurance-chômage, accueil extra-familial pour enfants, acteurs culturels, manifestations) ?
+
+Oui. Résultat : ? (?.?%)
+
 ## [Votation fédérale du 26 septembre 2021](https://www.admin.ch/gov/fr/accueil/documentation/votations/20210926.html)
 
 ### Acceptez-vous l’initiative populaire « Alléger les impôts sur les salaires, imposer équitablement le capital » ?
 
-Oui. Résultat : ? (?.?%)
+Oui. Résultat : non (64.9%)
 
 ### Acceptez-vous la modification du 18 décembre 2020 du code civil suisse (mariage pour tous) ?
 
-Oui. Résultat : ? (?.?%)
+Oui. Résultat : oui (64.1%)
 
 ## [Votation fédérale du 13 juin 2021](https://www.admin.ch/gov/fr/accueil/documentation/votations/20210613.html)
 
