@@ -2,6 +2,12 @@
 <podcasts created="2016-05-10">
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date>2021-11-22</date>
+    <name url="http://verybadwizards.com/">Very Bad Wizards</name>
+    <episode url="https://www.verybadwizards.com/220" number="220">On Your Marx</episode>
+    <comments>Marx's views seem to be (still) very modern. There's an unsettling sense of inevitability about the excesses of capitalism.</comments>
+  </podcast>
+  <podcast>
     <date>2021-11-17</date>
     <name url="https://podcast.ausha.co/violet">Violet - Le Podcast sur Prince et le Minneapolis Sound</name>
     <episode url="https://podcast.ausha.co/violet/exodus-derriere-le-masque">Exodus : Derrière le masque</episode>
