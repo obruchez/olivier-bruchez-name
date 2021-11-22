@@ -75,7 +75,7 @@
   </movie>
   <movie>
     <date>2021-10-24</date>
-    <theater home="true"/>
+    <theater>Pathé Flon, Lausanne</theater>
     <director>Denis Villeneuve</director>
     <title>Dune</title>
     <url>https://www.imdb.com/title/tt1160419/</url>
@@ -85,7 +85,7 @@
   </movie>
   <movie>
     <date>2021-10-23</date>
-    <theater home="true"/>
+    <theater>Galeries, Lausanne</theater>
     <director>Joachim Trier</director>
     <title>Verdens verste menneske</title>
     <title language="en">The Worst Person in the World</title>
