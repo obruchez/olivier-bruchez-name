@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <articles created="2017-01-11">
   <introduction>A list of articles I read.</introduction>
+   <article>
+    <date>2021-11-26</date>
+    <title url="https://www.theatlantic.com/family/archive/2021/11/does-having-kids-make-you-happy/620576/">What Becoming a Parent Really Does to Your Happiness</title>
+    <subtitle>Research has found that having children is terrible for quality of life—but the truth about what parenthood means for happiness is a lot more complicated.</subtitle>
+    <comments>Does having children make you happy? It depends on what you mean by "happy" (well-being vs life satisfaction), on where you live (i.e. does your country help you a lot with parenting or not?), on your role in the couple, on your age, on the age of your children, etc. Basically, it's difficult to tell. My hypothesis is that children usually make you slighly less happy in the "well-being" sense of the word, but <i>might</i> make you happier later in life (i.e. when they are not living with you anymore, when you have grand-children, etc.), but only if you maintain a good relationship with them. Also, if you decide not to have children, then you will probably wonder, consciously or not, whether it was a good choice or not, all your life. A the end of the day, we all tell ourselves stories (this is especially true for the "life satisfaction" part of the story) and we'll probably never really know, because we're all so bad at introspection and at determining our own happiness, in particular.</comments>
+  </article>
   <article>
     <date>2021-07-26</date>
     <title url="https://www.wired.com/story/30-years-since-the-human-genome-project-began-whats-next/">30 Years Since the Human Genome Project Began, What's Next?</title>
