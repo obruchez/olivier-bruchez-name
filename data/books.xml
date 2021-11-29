@@ -2,6 +2,17 @@
 <books created="2006-08-20">
     <introduction>A list of books I read.</introduction>
     <book>
+        <date>2021-11-25</date>
+        <title>Fahrenheit 451</title>
+        <author>Ray Bradbury</author>
+        <publishingyear>1953</publishingyear>
+        <rating>4.75</rating>
+        <url>https://fr.wikipedia.org/wiki/Fahrenheit_451</url>
+        <notes description="Kindle highlights"></notes>
+        <comments>A classic I hadn't read yet. I don't know why, but it evoked eerie and dream-like images in my mind, instead of futuristic ones. I could see David Lynch working on an adaptation. Strangely, it was François Truffaut who directed <a href="https://www.imdb.com/title/tt0060390/">an adaptation of it in 1966</a>, which I'll probably see soon, out of curiosity.</comments>
+        <image>Fahrenheit 451.jpg</image>
+    </book>
+    <book>
         <date>2021-10-29</date>
         <title>Le Nom de la rose</title>
         <author>Umberto Eco</author>
