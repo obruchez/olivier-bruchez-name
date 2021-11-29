@@ -9,6 +9,20 @@
     <image>Bob's Burgers.jpg</image>
   </show>
   <show>
+    <date></date>
+    <name url="https://en.wikipedia.org/wiki/Sherlock_(TV_series)">Sherlock</name>
+    <series url="https://en.wikipedia.org/wiki/Sherlock_(TV_series)#Series_2_(2012)" type="series">2</series>
+    <comments></comments>
+    <image>Sherlock.jpg</image>
+  </show>
+  <show>
+    <date>2021-11-16</date>
+    <name url="https://en.wikipedia.org/wiki/Sherlock_(TV_series)">Sherlock</name>
+    <series url="https://en.wikipedia.org/wiki/Sherlock_(TV_series)#Series_1_(2010)" type="series">1</series>
+    <comments>One of the best shows ever according to IMDb. I can see why. This was a short "season" (three 90-minute episodes).</comments>
+    <image>Sherlock.jpg</image>
+  </show>
+  <show>
     <date>2021-10-24</date>
     <name url="https://en.wikipedia.org/wiki/Inside_No._9">Inside No. 9</name>
     <series url="https://en.wikipedia.org/wiki/Inside_No._9#Series_6_(2021)" type="series">6</series>
