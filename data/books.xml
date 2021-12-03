@@ -2,6 +2,17 @@
 <books created="2006-08-20">
     <introduction>A list of books I read.</introduction>
     <book>
+        <date></date>
+        <title>L'Immortalité</title>
+        <author>Milan Kundera</author>
+        <publishingyear>1988</publishingyear>
+        <rating></rating>
+        <url>https://fr.wikipedia.org/wiki/L%27Immortalit%C3%A9</url>
+        <notes description="Kindle highlights"></notes>
+        <comments></comments>
+        <image>L'Immortalité.jpg</image>
+    </book> 
+    <book>
         <date>2021-11-25</date>
         <title>Fahrenheit 451</title>
         <author>Ray Bradbury</author>
