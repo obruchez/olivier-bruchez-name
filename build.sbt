@@ -26,8 +26,8 @@ libraryDependencies ++= Seq(
 
 routesGenerator := InjectedRoutesGenerator
 
-scalafmtOnCompile in ThisBuild := true
+ThisBuild / scalafmtOnCompile := true
 
-requiredStartFacilities in Debian := Some("$remote_fs $syslog $network")
+Debian / requiredStartFacilities := Some("$remote_fs $syslog $network")
 
-requiredStopFacilities in Debian := Some("$remote_fs $syslog $network")
+Debian / requiredStopFacilities := Some("$remote_fs $syslog $network")

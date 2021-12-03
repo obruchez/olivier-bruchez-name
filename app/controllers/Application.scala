@@ -180,7 +180,7 @@ class Application @Inject()(implicit ec: ExecutionContext,
 
   def reload = Action {
     actors.Master.forceFetch()
-    Redirect(routes.Application.home())
+    Redirect(routes.Application.home)
   }
 
   def blogPostComparison = Action.async {
