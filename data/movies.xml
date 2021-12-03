@@ -5,12 +5,22 @@
   <movie>
     <date></date>
     <theater home="true"/>
+    <director>François Truffaut</director>
+    <title>Fahrenheit 451</title>
+    <url>https://www.imdb.com/title/tt0060390/</url>
+    <rating></rating>
+    <comments></comments>
+    <image>Fahrenheit 451.jpg</image>
+  </movie>
+  <movie>
+    <date>2021-12-01</date>
+    <theater home="true"/>
     <director>Elem Klimov</director>
     <title>Idi i smotri</title>
     <title language="en">Come and See</title>
     <url>https://www.imdb.com/title/tt0091251/</url>
-    <rating></rating>
-    <comments></comments>
+    <rating>4.5</rating>
+    <comments>Probably the most violent/disturbing movie I've seen about war. A lot of scenes are hard to watch. Of course, I'm not a fan of the scene where a cow is actually killed and filmed dying/suffering. This is not something that should happen in the name of art. Some young children were also apparently quite shocked during one other scene. I'm wondering how many hours of psychotherapy were needed by some of the actors who played in that movie... I understand why some people consider this movie a classic, but it's too upsetting/shocking to be one, in my opinion.</comments>
     <image>Idi i smotri.jpg</image>
   </movie>
   <movie>
