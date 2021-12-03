@@ -2,6 +2,30 @@
 <podcasts created="2016-05-10">
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date></date>
+    <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
+    <episode url="https://www.samharris.org/podcasts/making-sense-episodes/267-kingdom-sleep" number="267">The Kingdom of Sleep - A Conversation with Matthew Walker</episode>
+    <comments>I've heard Matthew Walker on Peter Attia's podcast and I've also read his book.</comments>
+  </podcast>
+  <podcast>
+    <date>2021-12-02</date>
+    <name url="https://podcast.ausha.co/violet">Violet - Le Podcast sur Prince et le Minneapolis Sound</name>
+    <episode url="https://podcast.ausha.co/violet/the-gold-experience-welcome-2-the-dawn">The Gold Experience : Welcome 2 The Dawn</episode>
+    <comments>Probablement mon album préféré des années 1990. Une période vraiment associée au côté lumineux des arrangements et des sonorités de cet album.</comments>
+  </podcast>
+  <podcast>
+    <date>2021-11-28</date>
+    <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
+    <episode url="https://www.samharris.org/podcasts/making-sense-episodes/268-the-limits-of-self-knowledge" number="268">The Limits of Self-Knowledge - A Conversation with Stephen Fleming</episode>
+    <comments>Being aware of what you know and don't know is crucial. Yes, in the extreme, it can lead to anxiety and/or a lack of self-confidence, but I wouldn't want to live my live without knowking my limits. That's what happens when you lose your mind (e.g. Alzheimer's, etc.), after all.</comments>
+  </podcast>
+  <podcast>
+    <date>2021-11-26</date>
+    <name url="https://podcast.ausha.co/violet">Violet - Le Podcast sur Prince et le Minneapolis Sound</name>
+    <episode url="https://podcast.ausha.co/violet/bonus-4-exodus">Bonus #4 - Exodus</episode>
+    <comments>Pas mal de gens ont été touchés par cet album, pourtant sorti sous un pseudonyme (le nom de son groupe). Une période vraiment fascinante, tant elle était difficile à suivre à l'époque.</comments>
+  </podcast>
+  <podcast>
     <date>2021-11-22</date>
     <name url="http://verybadwizards.com/">Very Bad Wizards</name>
     <episode url="https://www.verybadwizards.com/220" number="220">On Your Marx</episode>
