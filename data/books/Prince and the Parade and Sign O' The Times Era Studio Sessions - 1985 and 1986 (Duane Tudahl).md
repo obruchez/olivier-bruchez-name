@@ -1,0 +1,4 @@
+# Prince and the Parade and Sign O' The Times Era Studio Sessions: 1985 and 1986 (Duane Tudahl)
+* The song also contained elements from Miles Davis’s “Spanish Key” that can be heard at 1:40 in the “America” video. The original lick can be found from 11:47 onward in “Spanish Key,” from Bitches Brew (1971). (p. 298)
+* And then he’s telling us a story and telling some jokes and just talking randomly, not in rhythm, but he’s doing something with his hands, and then I kind of peek around and I see that he’s playing the keyboard while he’s telling this story, playing the keyboards behind his back. I was speechless. What is this super, meta-human, superhuman trick? (p. 495)
+* One C-90 and two TDK C-60 cassettes were made, and the 34 hour session ended at 1:30 in the morning. (p. 496)

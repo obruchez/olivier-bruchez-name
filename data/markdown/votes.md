@@ -2,15 +2,100 @@
 
 My votes (in French). En Suisse, on ne plaisante pas avec la démocratie directe. :) J'essaie ici de documenter et de justifier la façon dont je me positionne par rapport aux votations fédérales, qui ont lieu jusqu'à quatre fois par année.
 
+## [Votation fédérale du 28 novembre 2021](https://www.admin.ch/gov/fr/accueil/documentation/votations/20211128.html)
+
+### Acceptez-vous l’initiative populaire « Pour des soins infirmiers forts (initiative sur les soins infirmiers) » ?
+
+Oui. Résultat : ? (?.?%)
+
+### Acceptez-vous l’initiative populaire « Désignation des juges fédéraux par tirage au sort (initiative sur la justice) » ?
+
+Oui. Résultat : ? (?.?%)
+
+- Un tirage au sort bien organisé (mathématiquement parlant) permettrait de conserver les avantages d'une élection, tout en séparant mieux les pouvoirs.
+- La contribution des juges fédéraux aux partis est un principe qui paraît vraiment désuet, voire choquant.
+
+### Acceptez-vous la modification du 19 mars 2021 de la loi fédérale sur les bases légales des ordonnances du Conseil fédéral visant à surmonter l’épidémie de COVID-19 (loi COVID-19) (cas de rigueur, assurance-chômage, accueil extra-familial pour enfants, acteurs culturels, manifestations) ?
+
+Oui. Résultat : ? (?.?%)
+
+## [Votation fédérale du 26 septembre 2021](https://www.admin.ch/gov/fr/accueil/documentation/votations/20210926.html)
+
+### Acceptez-vous l’initiative populaire « Alléger les impôts sur les salaires, imposer équitablement le capital » ?
+
+Oui. Résultat : non (64.9%)
+
+### Acceptez-vous la modification du 18 décembre 2020 du code civil suisse (mariage pour tous) ?
+
+Oui. Résultat : oui (64.1%)
+
+## [Votation fédérale du 13 juin 2021](https://www.admin.ch/gov/fr/accueil/documentation/votations/20210613.html)
+
+### Acceptez-vous l’initiative populaire « Pour une eau potable propre et une alimentation saine – Pas de subventions pour l’utilisation de pesticides et l’utilisation d’antibiotiques à titre prophylactique » ?
+
+Oui. Résultat : non (60.7%)
+
+- Je ne suis pas insensible à l'argument qu'un oui aurait pour effet d'augmenter les importations, ce qui peut sembler hypocrite (règles plus sévères en Suisse, mais consommation de produits problématiques autorisées).
+- Comme souvent, je pense toutefois que la Suisse, un des pays les plus riches au monde, a les moyens de jouer le rôle d'exemple.
+- Par exemple, la production de foie gras est interdite en Suisse (pour des raisons éthiques qui me semblent évidentes), mais son importation est autorisée. Faut-il permettre la production de foie gras en Suisse ? Non. Il faudrait plutôt interdire son importation. La comparaison a évidemment ses limites, puisque le foie gras n'est pas un produit important/nécessaire.
+
+### Acceptez-vous l’initiative populaire « Pour une Suisse libre de pesticides de synthèse » ?
+
+Oui. Résultat : non (60.6%)
+
+- La période de transition de 10 ans me paraît raisonnable.
+- A nouveau, la Suisse pourrait ici montrer l'exemple à l'échelle internationale.
+
+### Acceptez-vous la loi fédérale du 25 septembre 2020 sur les bases légales des ordonnances du Conseil fédéral visant à surmonter l’épidémie de COVID-19 (loi COVID-19) ?
+
+Oui. Résultat : oui (60.2%)
+
+### Acceptez-vous la loi fédérale du 25 septembre 2020 sur la réduction des émissions de gaz à effet de serre (loi sur le CO2) ?
+
+Oui. Résultat : non (51.6%)
+
+- Cela fait des années que je suis pour une taxe CO2 généralisée. Cette loi est un pas dans la bonne direction.
+
+### Acceptez-vous la loi fédérale du 25 septembre 2020 sur les mesures policières de lutte contre le terrorisme (MPT) ?
+
+Non. Résultat : oui (56.6%)
+
+- Je ne suis pas contre une surveillance accrue de la population, si cela s'avère nécessaire.
+- L'argument qui me fait pencher (très légèrement et sans conviction) du côté du "non" est celui de la définition ambiguë du concept de terrorisme. Je ne suis pourtant en général pas fan des arguments de type "C'est la porte ouverte à...".
+
+## [Votation fédérale du 7 mars 2021](https://www.admin.ch/gov/fr/accueil/documentation/votations/20210307.html)
+
+### Acceptez-vous l’initiative populaire « Oui à l’interdiction de se dissimuler le visage » ?
+
+Non. Résultat : oui (51.2%)
+
+- La dissimulation du visage, en Suisse, est somme toute un problème anecdotique.
+- Une interdiction ne fera rien pour faire avancer le droits des femmes.
+- Le contre-projet, quoique un peu "mou", me semble un peu plus constructif que l'initiative.
+
+### Acceptez-vous la loi fédérale du 27 septembre 2019 sur les services d’identification électronique (LSIE) ? 
+
+Oui. Résultat : non (64.4%)
+
+- Les opposants parlent régulièrement de "passeport numérique", mais il ne s'agit pas de remplacer le passeport existant.
+- Le fait que des entreprises privées se chargent de l'implémentation d'une partie du système me semble plutôt sain.
+- Les risques en termes de sécurité informatique me semblent raisonnables.
+
+### Acceptez-vous l’arrêté fédéral du 20 décembre 2019 portant approbation de l’Accord de partenariat économique de large portée entre les États de l’AELE et l’Indonésie ?
+
+Non. Résultat : oui (51.6%)
+
+- L'argument qui fait mouche, pour moi, est le fait que les autorités de certification locales (i.e. en Indonésie) sont largement dysfonctionnelles. Ce qui serait accepté comme "preuve" du caractère durable de l'huile de palme importée n'aurait alors en réalité rien d'une preuve.
+
 ## [Votation fédérale du 29 novembre 2020](https://www.admin.ch/gov/fr/accueil/documentation/votations/20201129.html)
 
 ### Acceptez-vous l’initiative populaire « Entreprises responsables – pour protéger l’être humain et l’environnement » ?
 
-Oui. Résultat : ? (?.?%)
+Oui. Résultat : oui (50.7%)
 
 ### Acceptez-vous l’initiative populaire « Pour une interdiction du financement des producteurs de matériel de guerre » ?
 
-Oui. Résultat : ? (?.?%)
+Oui. Résultat : non (57.4%)
 
 ###
 

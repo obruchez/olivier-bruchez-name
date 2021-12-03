@@ -9,6 +9,31 @@
     <actor></actor>
   -->
   <play>
+    <date>2021-08-14</date>
+    <location>Carrière des Andonces, St-Triphon, Switzerland</location>
+    <name>Sektor1</name>
+    <author>Karl's Kühne Gassenschau</author>
+    <director>Paul Weilenmann &amp; Brigitt Maag</director>
+    <adaptation>Karim Slama</adaptation>
+    <translation>Caroline Haas</translation>
+    <actor>Jade Amstel</actor>
+    <actor>Augusta Balla</actor>
+    <actor>Christian Baumann</actor>
+    <actor>Stefan Camenzind</actor>
+    <actor>Theresa Davi</actor>
+    <actor>Simon Engeli</actor>
+    <actor>Khany Hamdaoui</actor>
+    <actor>Audrey Launaz</actor>
+    <actor>Chloé Mücke</actor>
+    <actor>Karim Slama</actor>
+    <actor>Nicole Steiner</actor>
+    <actor>Diego Todeschini</actor>
+    <actor>Gero Wachholz</actor>
+    <rating>4.5</rating>
+    <image>Sektor1.jpg</image>
+    <comments>Un spectacle dans la lignée des spectacles précédents de Karl's Kühne Gassenschau. A voir plus pour le côté spectaculaire, justement, que les textes, par exemple.</comments>
+  </play>
+  <play>
     <date>2018-01-12</date>
     <location>Pulloff Théâtres, Lausanne, Switzerland</location>
     <name>Lucrèce Borgia</name>
@@ -2537,6 +2562,43 @@ Assistanat à la scénographie    Jeanne-Lucie Schmutz
 Assistanat à la mise en scène   Céline Gaudier
 Régie générale  Annette Brugière
     -->
+  </play>
+  <play>
+    <date>2001-10-20</date>
+    <location>AtmoSphère Théâtre, Martigny, Switzerland</location>
+    <name>Les Précieux Ridicules</name>
+    <author>Molière</author>
+    <director>Bernard Sartoretti</director>
+    <adaptation>Bernard Sartoretti</adaptation>
+    <actor>Adeline Rouiller</actor>
+    <actor>Marie-Jeanne Lugon</actor>
+    <actor>Lucienne Meichtry</actor>
+    <actor>Elise Carron</actor>
+    <actor>Anouchka Bender</actor>
+    <actor>Eleonore Bender</actor>
+    <actor>René-Claude Emery</actor>
+    <actor>Pierre Filliez</actor>
+    <image>Les Précieux Ridicules.jpg</image>
+  </play>
+  <play>
+    <date>2001-07-21</date>
+    <location>Dorénaz, Switzerland</location>
+    <name>?</name>
+    <author>Marcel Pagnol</author>
+    <director>?</director>
+    <actor>?</actor>
+  </play>
+  <play>
+    <date>2001-03-21</date>
+    <location>Théâtre Boulimie, Lausanne, Switzerland</location>
+    <name>30 ans ferme</name>
+    <author>Lova Golovtchiner (?)</author>
+    <director>Lova Golovtchiner (?)</director>
+    <actor>Lova Golovtchiner</actor>
+    <actor>Martine Jeanneret</actor>
+    <actor>Samy Benjamin</actor>
+    <actor>Frédéric Gérard</actor>
+    <actor>Kaya Güner</actor>
   </play>
   <play>
     <date>2000-07-15</date>

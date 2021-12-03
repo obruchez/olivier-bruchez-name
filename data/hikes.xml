@@ -3,9 +3,25 @@
   <introduction>A list of hikes I took.</introduction>
   <!-- TODO: add comments for new hikes? -->
   <hike>
+    <date>2021-10-22</date>
+    <place>Louvie / Col du Bec d'Aigle / Sovereu, Switzerland</place>
+    <pictures url="https://www.flickr.com/photos/bruchez/sets/72157720123295458"/>
+  </hike>
+  <hike>
+    <date>2021-10-17</date>
+    <place>Cabane FXB Panossière / Cabane Brunet, Switzerland</place>
+    <pictures url="https://www.flickr.com/photos/bruchez/sets/72157720125618264"/>
+  </hike>
+  <hike>
+    <date>2021-10-02</date>
+    <place>Tour des Lacs, Bagnes, Switzerland</place>
+    <pictures url="https://www.flickr.com/photos/bruchez/sets/72157720125615879"/>
+    <comments>Longer tour than in 2018.</comments>
+  </hike>
+  <hike>
     <date>2021-01-16</date>
     <place>Col des Planches / Mont Chemin, Switzerland</place>
-    <!-- <pictures url=""/> -->
+    <pictures url="https://www.flickr.com/photos/bruchez/sets/72157718285705331"/>
     <comments>Snowshoeing.</comments>
   </hike>
   <hike>
@@ -163,6 +179,11 @@
     <date>2012-08-04</date>
     <place>Cabane Brunet / Col de Lâne, Switzerland</place>
     <pictures url="https://www.flickr.com/photos/bruchez/sets/72157630960302446/"/>
+  </hike>
+  <hike>
+    <date>2011-10-02</date>
+    <place>Sovereu / Col du Sarshlau / Ecuries du Crêt, Switzerland</place>
+    <pictures url="https://secure.flickr.com/photos/bruchez/sets/72157636242618063"/>
   </hike>
   <hike>
     <date>2010-10-03</date>
@@ -411,9 +432,45 @@
     <pictures url="https://www.flickr.com/photos/bruchez/sets/72057594076457902/"/>
   </hike>
   <hike>
+    <date>2001-11-04</date>
+    <place>La Chaux / Les Attelas, Switzerland</place>
+  </hike>
+  <hike>
+    <date>2001-10-13</date>
+    <place>La Chaux / Cabane Mont Fort, Switzerland</place>
+  </hike>
+  <hike>
+    <date>2001-10-03</date>
+    <place>Combe de l'A, Switzerland</place>
+    <comments>Brame du cerf.</comments>
+  </hike>
+  <hike>
+    <date>2001-08-11</date>
+    <place>Col de Balme, Switzerland</place>
+  </hike>
+  <hike>
+    <date>2001-08-02</date>
+    <place>Le Grammont, Switzerland</place>
+  </hike>
+  <hike>
+    <date>2001-07-31</date>
+    <place>Mauvoisin / Col des Otanes / Cabane FXB Panossière / Fionnay, Switzerland</place>
+  </hike>
+  <hike>
+    <date>2001-07-27</date>
+    <place>Six Blanc / Col de Mille, Switzerland</place>
+  </hike>
+  <hike>
+    <date>2001-07-12</date>
+    <place>Le Crêt / Le Dâ / Louvie, Switzerland</place>
+  </hike>
+  <hike>
+    <date>2001-07-01</date>
+    <place>Col des Avouillons, Switzerland</place>
+  </hike>
+  <hike>
     <date>2000-11-05</date>
     <place>Col des Planches, etc., Switzerland</place>
-    <!-- <pictures url=""/> -->
   </hike>
   <hike>
     <date>2000-10-22</date>

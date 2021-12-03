@@ -25,6 +25,7 @@
 * [Les Gamins de Baker Street](http://www.imdb.com/title/tt0275120/)
 * [Les Tripodes](http://www.imdb.com/title/tt0086818/)
 * [Les Twist](http://www.imdb.com/title/tt0103529/) (première saison, en tout cas, peut-être la seconde)
+* [Les Wombles](https://www.imdb.com/title/tt0159227/)
 * [Loin de ce monde](http://www.imdb.com/title/tt0092423/)
 * [MacGyver](http://www.imdb.com/title/tt0088559/)
 * [Maguy](http://www.imdb.com/title/tt0167643/)

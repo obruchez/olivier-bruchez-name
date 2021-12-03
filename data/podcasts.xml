@@ -1,13 +1,763 @@
 <?xml version="1.0" encoding="utf-8"?>
 <podcasts created="2016-05-10">
   <introduction>A list of podcasts I listened to.</introduction>
-  <!-- Podcast notes for David Sinclair interview with Rhonda Patrick: https://podcastnotes.org/found-my-fitness/david-sinclair-rhonda-patrick-nad-nr-nmn/ -->
+  <podcast>
+    <date></date>
+    <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
+    <episode url="https://www.samharris.org/podcasts/making-sense-episodes/267-kingdom-sleep" number="267">The Kingdom of Sleep - A Conversation with Matthew Walker</episode>
+    <comments>I've heard Matthew Walker on Peter Attia's podcast and I've also read his book.</comments>
+  </podcast>
+  <podcast>
+    <date>2021-12-02</date>
+    <name url="https://podcast.ausha.co/violet">Violet - Le Podcast sur Prince et le Minneapolis Sound</name>
+    <episode url="https://podcast.ausha.co/violet/the-gold-experience-welcome-2-the-dawn">The Gold Experience : Welcome 2 The Dawn</episode>
+    <comments>Probablement mon album préféré des années 1990. Une période vraiment associée au côté lumineux des arrangements et des sonorités de cet album.</comments>
+  </podcast>
+  <podcast>
+    <date>2021-11-28</date>
+    <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
+    <episode url="https://www.samharris.org/podcasts/making-sense-episodes/268-the-limits-of-self-knowledge" number="268">The Limits of Self-Knowledge - A Conversation with Stephen Fleming</episode>
+    <comments>Being aware of what you know and don't know is crucial. Yes, in the extreme, it can lead to anxiety and/or a lack of self-confidence, but I wouldn't want to live my live without knowking my limits. That's what happens when you lose your mind (e.g. Alzheimer's, etc.), after all.</comments>
+  </podcast>
+  <podcast>
+    <date>2021-11-26</date>
+    <name url="https://podcast.ausha.co/violet">Violet - Le Podcast sur Prince et le Minneapolis Sound</name>
+    <episode url="https://podcast.ausha.co/violet/bonus-4-exodus">Bonus #4 - Exodus</episode>
+    <comments>Pas mal de gens ont été touchés par cet album, pourtant sorti sous un pseudonyme (le nom de son groupe). Une période vraiment fascinante, tant elle était difficile à suivre à l'époque.</comments>
+  </podcast>
+  <podcast>
+    <date>2021-11-22</date>
+    <name url="http://verybadwizards.com/">Very Bad Wizards</name>
+    <episode url="https://www.verybadwizards.com/220" number="220">On Your Marx</episode>
+    <comments>Marx's views seem to be (still) very modern. There's an unsettling sense of inevitability about the excesses of capitalism.</comments>
+  </podcast>
+  <podcast>
+    <date>2021-11-17</date>
+    <name url="https://podcast.ausha.co/violet">Violet - Le Podcast sur Prince et le Minneapolis Sound</name>
+    <episode url="https://podcast.ausha.co/violet/exodus-derriere-le-masque">Exodus : Derrière le masque</episode>
+    <comments>On continue les années un peu difficiles à comprendre, avec 1995. <i>Exodus</i> est un album à part entière. Il est normal qu'un épisode lui soit dédié.</comments>
+  </podcast>
+  <podcast>
+    <date>2021-11-14</date>
+    <name url="https://www.foundmyfitness.com/episodes">FoundMyFitness</name>
+    <episode url="https://www.foundmyfitness.com/episodes/mark-mattson" number="66">Dr. Mark Mattson on the Benefits of Stress, Metabolic Switching, Fasting, and Hormesis</episode>
+    <comments>A lot of information. If I understood correctly, Mattson is the kind of person, like me, who tends to have a low BMI (around 18.5). His advice would be to do less cardio and more resistance training. Exercise, intermittent fasting, sulforaphane, etc. are all good, but exercise is probably the most important thing for health. Resting between exercise sessions is also important. Intermittent fasting might be good for heart rate variability (HRV), i.e. it might increase it.</comments>
+  </podcast>
+  <podcast>
+    <date>2021-11-12</date>
+    <name url="https://podcast.ausha.co/violet">Violet - Le Podcast sur Prince et le Minneapolis Sound</name>
+    <episode url="https://podcast.ausha.co/violet/come-le-testament-de-prince">Come : Le testament de Prince</episode>
+    <comments>Un éclairage utile sur une année, 1994, à nouveau compliquée, comme 1993.</comments>
+  </podcast>
+  <podcast>
+    <date>2021-11-09</date>
+    <name url="http://verybadwizards.com/">Very Bad Wizards</name>
+    <episode url="https://www.verybadwizards.com/224" number="224">Hurts So Good (With Paul Bloom)</episode>
+    <comments>Another episode about Paul Bloom's latest book, this time with Tamler/Dave from Very Bad Wizards. Quite a different discussion than the one with Sam Harris, which retained my attention more (maybe just because it was the first one I heard).</comments>
+  </podcast>
+  <podcast>
+    <date>2021-11-08</date>
+    <name url="http://verybadwizards.com/">Very Bad Wizards</name>
+    <episode url="https://www.verybadwizards.com/223" number="223">The Hopeless Dream of Being (Bergman's "Persona")</episode>
+    <comments>A movie I saw in August 2020. My comment was just: "What did I just see?" After this episode, I have a slightly better idea of what I saw, but I should probably watch the movie again.</comments>
+  </podcast>
+  <podcast>
+    <date>2021-11-07</date>
+    <name url="http://verybadwizards.com/">Very Bad Wizards</name>
+    <episode>Bonus Episode: GHOSTS</episode>
+    <comments>A more rational discussion than the last one. Tamler says that we should stay open to the possibility of supernatural events (he actualy used the word "open" many times during the episode). The question of why he tends to be more open to that possibility than Dave is still... an open question... Maybe it comes from the fact that he tends to be more contrarian than Dave. Anyway, I don't think I learnt much from this discussion.</comments>
+  </podcast>
+  <podcast>
+    <date>2021-11-06</date>
+    <name url="https://podcast.ausha.co/violet">Violet - Le Podcast sur Prince et le Minneapolis Sound</name>
+    <episode url="https://podcast.ausha.co/violet/bonus-3-l-annee-1993">Bonus #3 - L'année 1993</episode>
+    <comments>Pas mal de comptes-rendus de concerts. Je suis "rassuré" d'apprendre que je n'étais pas le seul à trouver certains moments angoissants (l'ouverture des portes, la course pour essayer d'être le plus proche possible de la scène, etc.).</comments>
+  </podcast>
+  <podcast>
+    <date>2021-11-05</date>
+    <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
+    <episode url="https://samharris.org/podcasts/266-limits-pleasure/" number="266">The Limits of Pleasure - A Conversation with Paul Bloom</episode>
+    <comments>A fantastic discussion about a problem I'm regularly thinking about. I enjoyed this episode a lot. I've just bought Paul Bloom's book as a result. I liked how Paul reacted to Sam's usual reaction about the happiness/life satisfaction vs money study. Sam always insists on the fact that life satisfaction never stops to increase as money increases. Paul is right, in my opinion, to insist on the fact that this is all about status and the stories we tell ourselves. The fact that our moment-to-moment happiness doesn't increase much (or at all) as money increases is the most important part of the study, I think. We just can't help attributing a lot of importance to money when we're asked about it.</comments>
+  </podcast>
+  <podcast>
+    <date>2021-10-11</date>
+    <name url="https://peterattiamd.com/podcast/">The Peter Attia Drive Podcast</name>
+    <episode url="https://peterattiamd.com/davidnutt/" number="182">David Nutt: Psychedelics &amp; Recreational Drugs</episode>
+    <comments>"It turns out that the drugs that have been most vilified and which we've been taught are the most dangerous, turned out to be the least dangerous." —David Nutt. The part about microdosing was interesting: there's a plausible explanation as to why it could work, but no serious study has ever been done. An intriguing possibility is that microdosing could help as a complement to other approaches (e.g. macrodoses, etc.).</comments>
+  </podcast>
+  <podcast>
+    <date>2021-11-03</date>
+    <name url="http://verybadwizards.com/">Very Bad Wizards</name>
+    <episode url="https://www.verybadwizards.com/218" number="218">...But You Can't Hide (Michael Haneke's "Caché")</episode>
+    <comments>A fantastic episode about a movie I rewatched on October 28, 2021. I somehow missed the most important element of the final scene. The whole discussion was very insightful and the reason why I still listen to this podcast.</comments>
+  </podcast>
+  <podcast>
+    <date>2021-11-01</date>
+    <name url="https://podcast.ausha.co/violet">Violet - Le Podcast sur Prince et le Minneapolis Sound</name>
+    <episode url="https://podcast.ausha.co/violet/l-annee-1993-le-sacrifice-de-prince">L'année 1993 : Le sacrifice de Prince</episode>
+    <comments>1993 : une année difficile à comprendre, sans album officiel, mais quand même pleine de projets. Un décodage par conséquent bienvenu.</comments>
+  </podcast>
+  <podcast>
+    <date>2021-10-29</date>
+    <name url="https://www.foundmyfitness.com/episodes">FoundMyFitness</name>
+    <episode url="https://www.foundmyfitness.com/episodes/steve-horvath" number="62">Dr. Steve Horvath on epigenetic aging to predict healthspan: the DNA PhenoAge and GrimAge clocks</episode>
+    <comments>"Not everyone ages at the same rate." And we're starting to have tools to measure that rate. Also, there are probably ways to slow or even reverse that rate.</comments>
+  </podcast>
+  <podcast>
+    <date>2021-10-26</date>
+    <name url="https://podcast.ausha.co/violet">Violet - Le Podcast sur Prince et le Minneapolis Sound</name>
+    <episode url="https://podcast.ausha.co/violet/bonus-2-lovesymbol">Bonus #2 - LoveSymbol</episode>
+    <comments>Des témoignages et des parenthèses, en particulier sur le lien entre Prince et Zappa, artiste que je ne suis pas encore parvenu à apprécier.</comments>
+  </podcast>
+  <podcast>
+    <date>2021-10-25</date>
+    <name url="https://www.foundmyfitness.com/episodes">FoundMyFitness</name>
+    <episode url="https://www.foundmyfitness.com/episodes/jed-fahey-q-a" number="61">Q&amp;A with Dr. Jed Fahey on Sulforaphane, Moringa and Chemoprotection</episode>
+    <comments>I'll probably integrate sulforaphane into my "base stack". The remaining questions I have: 1) what dosage 2) what frequency (e.g. Brad Stanfield takes sulforaphane only on non-workout days; is that a good idea?).</comments>
+  </podcast>
+  <podcast>
+    <date>2021-10-24</date>
+    <name url="https://podcast.ausha.co/violet">Violet - Le Podcast sur Prince et le Minneapolis Sound</name>
+    <episode url="https://podcast.ausha.co/violet/love-symbol-l-album-de-la-transmutation">Love Symbol : L'album de la transmutation</episode>
+    <comments>L'un de mes albums préférés. Un album concept, musicalement très riche.</comments>
+  </podcast>
+  <podcast>
+    <date>2021-10-23</date>
+    <name url="https://www.foundmyfitness.com/episodes">FoundMyFitness</name>
+    <episode url="https://www.foundmyfitness.com/episodes/giselle-petzinger" number="60">Dr. Giselle Petzinger on Exercise for Parkinson's Disease</episode>
+    <comments>Exercise, again, is good for you. As is DHA (omega 3). It's probably important to change the kind of exercise you do from time to time and skill-based exercise (yoga, etc.) might be especially important for Parkinson's.</comments>
+  </podcast>
+  <podcast>
+    <date>2021-10-19</date>
+    <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
+    <episode url="https://samharris.org/podcasts/263-paradox-death/" number="263">The Paradox of Death</episode>
+    <comments><a href="https://www.reddit.com/r/samharris/comments/qaptcy/263_the_paradox_of_death/">Reddit thread</a>. Hitchens: "It will happen to all of us, that at some point we will get tapped on the shoulder and told not just that the party's over, but slightly worse, the party's going on but you have to leave, and it's going on without you. That's the reflection that I think upsets most people about their demise." I'm probably in the same boat as Sam: I usually think about death several times a day. I've been thinking about all those concepts (death, consciousness, personal identity, etc.) for a long time. As Sam explains, I'm more and more convinced that we experience something like death, at the level of consciousness, all the time. Not only when we sleep, but when we stop paying attention, when our brain convinces us that we don't move our eyes all the time, etc. We're attached to living, to being us, because we remember being more or less the same person as we were one minute, one day, one year ago, but this is not completely true. This is a model our brain builds and presents to our consciousness. On the other hand, I don't know what to do with that idea of "universal/eternal consciousness". It sounds a bit too mystical to me.</comments>
+  </podcast>
+  <podcast>
+    <date>2021-10-19</date>
+    <name url="https://podcast.ausha.co/violet">Violet - Le Podcast sur Prince et le Minneapolis Sound</name>
+    <episode url="https://podcast.ausha.co/violet/bonus-1-diamonds-and-pearls">Bonus #1 - Diamonds and pearls</episode>
+    <comments>Je me disais depuis plusieurs épisodes que ce podcast (Violet) touche beaucoup de fans et que ceux-ci ressentent par conséquent le besoin de s'exprimer. Cet épisode est le premier qui leur donne la parole exclusivement (ou presque). Moins intéressant que les autres épisodes, donc, mais nécessaire pour la communauté francophone, en quelque sorte.</comments>
+  </podcast>
+  <podcast>
+    <date>2021-10-16</date>
+    <name url="https://www.foundmyfitness.com/episodes">FoundMyFitness</name>
+    <episode url="https://www.foundmyfitness.com/episodes/vitamin-c" number="54">Vitamin C: Oral vs. Intravenous, Immune Effects, Cancer, Exercise Adaptation &amp; More</episode>
+    <comments>Everything you need to know about vitamin C. The liposomal form is probably better.</comments>
+  </podcast>
+  <podcast>
+    <date>2021-10-15</date>
+    <name url="https://podcast.ausha.co/violet">Violet - Le Podcast sur Prince et le Minneapolis Sound</name>
+    <episode url="https://podcast.ausha.co/violet/diamonds-and-pearls-un-travail-d-orfevre">Diamonds And Pearls : Un travail d'orfèvre</episode>
+    <comments>Un album que j'ai beaucoup entendu et écouté à sa sortie. Définitivement pas un des meilleurs albums de Prince, mais pas mauvais et, à nouveau, cher à mon cœur.</comments>
+  </podcast>
+  <podcast>
+    <date>2021-10-13</date>
+    <name url="https://www.foundmyfitness.com/episodes">FoundMyFitness</name>
+    <episode url="https://www.foundmyfitness.com/episodes/rhonda-krs-2" number="52">New Omega-3, sulforaphane research, and more! [Kevin Rose Show]</episode>
+    <comments>The phospholipid form of DHA is interesting (better absorption), but it's not vegetarian (made from krill), unfortunately. Metformin doesn't mix well with exercise, even if taken on "off days". If you don't exercise (not my case), it's still better than nothing, though. Sulphurophane might be useful even if taken every two days. And, as always, sauna and cold showers are good for you.</comments>
+  </podcast>
+  <podcast>
+    <date>2021-10-13</date>
+    <name url="https://podcast.ausha.co/violet">Violet - Le Podcast sur Prince et le Minneapolis Sound</name>
+    <episode url="https://podcast.ausha.co/violet/graffiti-bridge-l-album-maudit">Graffiti Bridge : L'album maudit</episode>
+    <comments>Un album qui avait eu de mauvaises critiques, associé à un mauvais film, mais plein de pépites. Il y a donc beaucoup à en dire.</comments>
+  </podcast>
+  <podcast>
+    <date>2021-10-11</date>
+    <name url="https://peterattiamd.com/podcast/">The Peter Attia Drive Podcast</name>
+    <episode url="https://peterattiamd.com/mattkaeberlein2/" number="175">Matt Kaeberlein, Ph.D.: The biology of aging, rapamycin, and other interventions that target the aging process</episode>
+    <comments>"I don't think I will ever understand aging fully. And I don't think the field will. … But I also believe that we don't have to understand it fully to be able to have an impact on the biology of aging through interventions." —Matt Kaeberlein. Rapamycin/rapalogs are something I would be way more interested in if they weren't prescription drugs. I'll keep an eye on them, though.</comments>
+  </podcast>
+  <podcast>
+    <date>2021-10-09</date>
+    <name url="https://podcast.ausha.co/violet">Violet - Le Podcast sur Prince et le Minneapolis Sound</name>
+    <episode url="https://podcast.ausha.co/violet/batman-comics-trip">Batman : Comics Trip</episode>
+    <comments>Mon premier album, en quelque sorte, comme j'ai découvert Prince avec "Batdance", à la radio. <i>Batman</i> est un album étrange, unique, mais qui aura toujours une place spéciale pour moi.</comments>
+  </podcast>
+  <podcast>
+    <date>2021-10-08</date>
+    <name url="http://verybadwizards.com/">Very Bad Wizards</name>
+    <episode>Top 5 Comfort Movies</episode>
+    <comments><a href="https://www.reddit.com/r/VeryBadWizards/comments/pglua2/dave_and_tamlers_top_5_comfort_movies/">Reddit thread</a>. I've only seen <i>The Shawshank Redemption</i> (from Dave's list). I've downloaded several movies from their lists.</comments>
+  </podcast>
+  <podcast>
+    <date>2021-10-06</date>
+    <name url="https://podcast.ausha.co/violet">Violet - Le Podcast sur Prince et le Minneapolis Sound</name>
+    <episode url="https://podcast.ausha.co/violet/lovesexy-et-la-lumiere-fut">Lovesexy : Et la lumière fut !</episode>
+    <comments>Mon album préféré. Et celui de beaucoup de fans, apparemment.</comments>
+  </podcast>
+  <podcast>
+    <date>2021-10-05</date>
+    <name url="https://peterattiamd.com/podcast/">The Peter Attia Drive Podcast</name>
+    <episode url="https://peterattiamd.com/estherperel/" number="172">Esther Perel: The effects of trauma, the role of narratives in shaping our worldview, and why we need to accept uncomfortable emotions</episode>
+    <comments>"I don’t fundamentally believe that one can know oneself without knowing oneself in relationship to others." —Esther Perel</comments>
+  </podcast>
+  <podcast>
+    <date>2021-10-04</date>
+    <name url="https://podcast.ausha.co/violet">Violet - Le Podcast sur Prince et le Minneapolis Sound</name>
+    <episode url="https://podcast.ausha.co/violet/black-album-fondu-au-noir">Black Album : Fondu au noir</episode>
+    <comments>Un album mythique, symboliquement très fort.</comments>
+  </podcast>
+  <podcast>
+    <date>2021-10-01</date>
+    <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
+    <episode url="https://samharris.org/podcasts/261-belief-identity/" number="261">Belief &amp; Identity - A Conversation with Jonas Kaplan</episode>
+    <comments>The <a href="https://en.wikipedia.org/wiki/Backfire_effect">backfire effect</a> is probably a myth (mostly). Will I remember that?</comments>
+  </podcast>
+  <podcast>
+    <date>2021-10-01</date>
+    <name url="https://podcast.ausha.co/violet">Violet - Le Podcast sur Prince et le Minneapolis Sound</name>
+    <episode url="https://podcast.ausha.co/violet/sign-o-the-times-l-album-total">Sign O' The Times : l'album total</episode>
+    <comments>Probablement le meilleur album de Prince, objectivement, mais pas celui auquel je suis le plus attaché. Un chef-d'œuvre dans tous les cas.</comments>
+  </podcast>
+  <podcast>
+    <date>2021-09-27</date>
+    <name url="https://www.foundmyfitness.com/episodes">FoundMyFitness</name>
+    <episode>NAD+, Nicotinamide Riboside, and Nicotinamide Mononucleotide with Rhonda Patrick</episode>
+    <comments>I'm really curious to know if those substances (NR/NMN) will held up to the hype. I guess we'll have to wait several years for good-quality studies to be done and published.</comments>
+  </podcast>
+  <podcast>
+    <date>2021-09-25</date>
+    <name url="https://podcast.ausha.co/violet">Violet - Le Podcast sur Prince et le Minneapolis Sound</name>
+    <episode url="https://podcast.ausha.co/violet/dream-factory-camille-crystal-ball-la-genese-de-sign-o-the-times">Dream Factory / Camille / Crystal Ball : la genèse de Sign O' The Times</episode>
+    <comments>Le premier épisode qui sort un peu des sentiers battus, avec les outtakes, les projets abandonnés, etc., qui sont essentiels pour comprendre Prince.</comments>
+  </podcast>
+  <podcast>
+    <date>2021-09-22</date>
+    <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
+    <episode url="https://samharris.org/podcasts/ask-anything-18/">Ask Me Anything #18</episode>
+    <comments>An important answer about why Sam doesn't want to interact more with "conspirationists" and others. In summary, it's way more difficult to debunk bullshit than to create it.</comments>
+  </podcast>
+  <podcast>
+    <date>2021-09-21</date>
+    <name url="https://podcast.ausha.co/violet">Violet - Le Podcast sur Prince et le Minneapolis Sound</name>
+    <episode url="https://podcast.ausha.co/violet/parade-un-americain-a-paris">Parade : un Américain à Paris</episode>
+    <comments>Rien de bien neuf ici après la lecture du livre de Duane Tudhal, mais ça reste une période cruciale.</comments>
+  </podcast>
+  <podcast>
+    <date>2021-09-17</date>
+    <name url="https://peterattiamd.com/podcast/">The Peter Attia Drive Podcast</name>
+    <episode url="https://peterattiamd.com/steveaustad/" number="171">Steve Austad, Ph.D.: The landscape of longevity science: making sense of caloric restriction, biomarkers of aging, and possible geroprotective molecules</episode>
+    <comments>The part about mice/rats/rodents, the lack of genetic diversity in the context of experiments/studies, etc. was really important. This should be discussed more often. "I never thought [extending the human lifespan] was going to happen because we got better at treating cancer or we got better at preventing heart disease. I always thought it was going to happen because we would develop something ... that would fundamentally change the rate of aging. And we haven't developed that yet. We've got a lot of clues and I think we're getting closer and closer and closer." —Steve Austad</comments>
+  </podcast>
+  <podcast>
+    <date>2021-09-15</date>
+    <name url="https://podcast.ausha.co/violet">Violet - Le Podcast sur Prince et le Minneapolis Sound</name>
+    <episode url="https://podcast.ausha.co/violet/around-the-world-in-a-day-mystique-polychrome">Around The World In A Day : mystique polychrome</episode>
+    <comments>C'est un peu avec cet album que commence le Prince le plus intéressant pour moi, c'est-à-dire celui qui cherche à s'opposer (parfois) à son succès commercial.</comments>
+  </podcast>
+  <podcast>
+    <date>2021-09-13</date>
+    <name url="https://peterattiamd.com/podcast/">The Peter Attia Drive Podcast</name>
+    <episode url="https://peterattiamd.com/laynenorton/" number="163">Layne Norton, Ph.D.: Building muscle, losing fat, and the importance of resistance training</episode>
+    <comments>Not much pratical advice for someone like me (who needs to build a lot of muscle and almost starts from zero). "I always tell people, I don't think I would've had the success I did in business or social media or academia if I hadn't done weightlifting because that taught me so much about other things in life." —Layne Norton</comments>
+  </podcast>
+  <podcast>
+    <date>2021-09-10</date>
+    <name url="https://podcast.ausha.co/violet">Violet - Le Podcast sur Prince et le Minneapolis Sound</name>
+    <episode url="https://podcast.ausha.co/violet/purple-rain-la-consecration">Purple Rain : la consécration</episode>
+    <comments>Un album que j'écoute finalement peu (je l'ai tellement entendu !). L'analyse de Nicolas Gabet est comme souvent la plus révélatrice pour moi. Ici par exemple pour "Take Me With You", une chanson que je n'écoute pourtant quasiment plus, tellement elle me semble légère, commerciale et tant je l'ai écoutée à travers les années.</comments>
+  </podcast>
+  <podcast>
+    <date>2021-09-03</date>
+    <name url="http://verybadwizards.com/">Very Bad Wizards</name>
+    <episode url="https://www.verybadwizards.com/217" number="217">Dropping Paradigms (Kuhn's "The Structure of Scientific Revolutions")</episode>
+    <comments>I studied that book a long time ago. It probably went above my head then and it still does, to an extent. Isn't science working in a way more gradual manner now than a few centuries ago (and even a few decades ago)? The discussion about the role of science (pragmatism vs realism) was interesting.</comments>
+  </podcast>
+  <podcast>
+    <date>2021-09-01</date>
+    <name url="https://podcast.ausha.co/violet">Violet - Le Podcast sur Prince et le Minneapolis Sound</name>
+    <episode url="https://podcast.ausha.co/violet/1999-le-debut-de-la-revolution">1999 : le début de la révolution</episode>
+    <comments>Le plus long des épisodes jusqu'à présent (plus de 3 heures). J'apprécie vraiment le format, même si je regrette l'absence d'analyse morceau par morceau que j'aimais vraiment chez Peack &amp; Black.</comments>
+  </podcast>
+  <podcast>
+    <date>2021-08-29</date>
+    <name url="https://podcast.ausha.co/violet">Violet - Le Podcast sur Prince et le Minneapolis Sound</name>
+    <episode url="https://podcast.ausha.co/violet/controversy-la-transition-electro-de-prince">Controversy : la transition électro de Prince</episode>
+    <comments>Comme l'un des intervenants, je suis moins fan de "Controversy", qui a moins d'unité que l'album précédent. L'explication sur les boîtes à rythme et leur utilisation par Prince était très intéressante.</comments>
+  </podcast>
+  <podcast>
+    <date>2021-08-27</date>
+    <name url="https://podcast.ausha.co/violet">Violet - Le Podcast sur Prince et le Minneapolis Sound</name>
+    <episode url="https://podcast.ausha.co/violet/dirty-mind-simple-provocation-ou-veritable-brulot-punk">Dirty Mind : simple provocation ou véritable brûlot Punk ?</episode>
+    <comments>Les explications musicologiques, ici à propos du morceau "Dirty Mind", sont très éclairantes.</comments>
+  </podcast>
+  <podcast>
+    <date>2021-08-25</date>
+    <name url="https://podcast.ausha.co/violet">Violet - Le Podcast sur Prince et le Minneapolis Sound</name>
+    <episode url="https://podcast.ausha.co/violet/la-naissance-d-un-genie-for-you-et-prince-les-2-premiers-albums">La naissance d'un génie : For You et Prince, les 2 premiers albums</episode>
+    <comments>Deux albums que je n'écoute pas souvent, mais importants pour comprendre la carrière de Prince.</comments>
+  </podcast>
+  <podcast>
+    <date>2021-08-20</date>
+    <name url="https://podcast.ausha.co/violet">Violet - Le Podcast sur Prince et le Minneapolis Sound</name>
+    <episode url="https://podcast.ausha.co/violet/welcome-2-america-le-monde-selon-prince">Welcome 2 America - Le Monde selon Prince</episode>
+    <comments>Le premier épisode de ce podcast que j'écoute. Je "pleure" toujours la disparition de Peach &amp; Black, mais Violet semble un bon "substitut", en plus sérieux (i.e. moins divertissant). Je vais du coup écouter les anciens épisodes, dans l'ordre.</comments>
+  </podcast>
+  <podcast>
+    <date>2021-08-18</date>
+    <name>Prince | Official Podcast</name>
+    <episode number="18">The Story of Welcome 2 America, Episode 4: We Got 2 Let the Funk Unwind</episode>
+    <comments>An episode about the "bonus" Blu-ray on the deluxe edition of the album (which, unfortunately, is not available separately). No information was given about why this particular show was chosen, for example, which is odd.</comments>
+  </podcast>
+  <podcast>
+    <date>2021-08-18</date>
+    <name url="http://verybadwizards.com/">Very Bad Wizards</name>
+    <episode url="https://www.verybadwizards.com/216" number="216">Oral Judgments</episode>
+    <comments>People in general are pretty bad at giving apologies. This should be taught in school. Interestingly, apologies exist on a spectrum, as demonstrated by Dave's example at the end of the episode (one of his students was offended by his use of curse words). Apologies are a somewhat formal way to understand what others really think, to acknowledge their feelings/emotions, and to promise that we'll make some efforts to behave better in the future. It's a powerful tool.</comments>
+  </podcast>
+  <podcast>
+    <date>2021-08-11</date>
+    <name url="https://www.foundmyfitness.com/episodes">FoundMyFitness</name>
+    <episode url="https://www.foundmyfitness.com/episodes/satchin-panda-3" number="65">Dr. Satchin Panda on Circadian Insights into Exercise Timing, Melatonin Biology, and Peak Cognition</episode>
+    <comments>The benefits of melatonin as a supplement are still not clear to me. Low doses are probably better (I use 300 mg at the moment). Not eating for 1-2 hours after waking up might be a good idea. Not consuming any carbohydrates or glucose 2 hours before sleep as well. My cut-off time for caffeine is currently 3 PM, but it might be even better to stop around 1-2 PM.</comments>
+  </podcast>
+  <podcast>
+    <date>2021-08-09</date>
+    <name url="https://www.rts.ch/play/radio/emission/egosysteme?id=6067782">Egosystème</name>
+    <episode url="https://www.rts.ch/play/radio/egosysteme/audio/la-chance-des-hypersensibles?id=12311906">La chance des hypersensibles</episode>
+    <comments>Un peu trop "développement personnel" à mon goût, mais le fait est que je suis hypersensible et que c'est un angle que je n'ai pas encore assez exploré.</comments>
+  </podcast>
+  <podcast>
+    <date>2021-08-09</date>
+    <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
+    <episode url="https://samharris.org/podcasts/ask-anything-17/">Ask Me Anything #17</episode>
+    <comments>A very clear position about Bret Weinstein and COVID-19 vaccines.</comments>
+  </podcast>
+  <podcast>
+    <date>2021-08-09</date>
+    <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
+    <episode url="https://samharris.org/podcasts/256-contagion-bad-ideas/" number="256">A Contagion of Bad Ideas - A Conversation with Eric Topol</episode>
+    <comments>An important episode about an important (and worrying) topic: how to convince people to get vaccinated.</comments>
+  </podcast>
+  <podcast>
+    <date>2021-08-06</date>
+    <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
+    <episode url="https://samharris.org/podcasts/253-corporate-courage/" number="253">Corporate Courage - A Conversation with Jason Fried</episode>
+    <comments>It's always interesting to have Jason Fried's view on things. His book <i>It Doesn't Have to Be Crazy at Work</i> was not too bad. I guess I agree that work shouldn't be a place to express your most personal views on politics and others. On the other hand, it really depends on the company, its size, and other factors.</comments>
+  </podcast>
+  <podcast>
+    <date>2021-08-06</date>
+    <name>Prince | Official Podcast</name>
+    <episode number="17">The Story of Welcome 2 America, Episode 3: The Internet is Completely Over</episode>
+    <comments>This was a charitable interpretation of Prince's views on technology and the Internet, I guess. This would have been cool to hear more from Jason Agel (the engineer), but Shelby J. was interrupting him way too often.</comments>
+  </podcast>
+  <podcast>
+    <date>2021-08-04</date>
+    <name>Prince | Official Podcast</name>
+    <episode number="16">The Story of Welcome 2 America, Episode 2: What It Means 2 B American</episode>
+    <comments>I was not too impressed by Dr. Cornel West, which I was not familiar with.</comments>
+  </podcast>
+  <podcast>
+    <date>2021-07-31</date>
+    <name>Prince | Official Podcast</name>
+    <episode number="15">The Story of Welcome 2 America, Episode 1: Thank U For Helping Me Get This Out</episode>
+    <comments>Tal Wilkenfeld and Chris Coleman's story about how it all began is fascinating. They played/jammed and kind of never heard about those sessions again for 11 years.</comments>
+  </podcast>
+  <podcast>
+    <date>2021-07-18</date>
+    <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
+    <episode url="https://samharris.org/podcasts/254-mating-strategies-earthlings/" number="254">The Mating Strategies of Earthlings - A Conversation with David Buss</episode>
+    <comments>"They discuss the controversy that surrounds evolutionary psychology, the denial of sex differences, cross-cultural findings in social science, the replication crisis in psychology, the biological definition of sex, why men and women have affairs, ovulatory shifts in mate preference, sex differences in jealousy and infidelity, the sources of unhappiness in marriage, mate-value discrepancies, what we can learn from dating apps, polyamory and polygamy, the plight of stepchildren, the "Dark Triad" personality type, the MeToo movement, and other topics."</comments>
+  </podcast>
+  <podcast>
+    <date>2021-07-12</date>
+    <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
+    <episode url="https://samharris.org/podcasts/255-future-intelligence/" number="255">The Future of Intelligence - A Conversation with Jeff Hawkins</episode>
+    <comments>Hawkins is very optimistic about the alignment problem (i.e. for him it's not really worth worrying about it).</comments>
+  </podcast>
+  <podcast>
+    <date>2021-07-11</date>
+    <name url="https://peterattiamd.com/podcast/">The Peter Attia Drive Podcast</name>
+    <episode url="https://peterattiamd.com/patriciacorby/" number="166">Patricia Corby, D.D.S.: Importance of oral health, best hygiene practices, and the relationship between poor oral health and systemic disease</episode>
+    <comments>"You can maintain optimal oral health just by brushing teeth, by flossing really well, and having good nutrition." -Pat Corby</comments>
+  </podcast>
+  <podcast>
+    <date>2021-06-28</date>
+    <name url="http://verybadwizards.com/">Very Bad Wizards</name>
+    <episode url="https://www.verybadwizards.com/213" number="213">What Is It Like To Be A Robot Fish Man? (with Ted Chiang)</episode>
+    <comments>Personal identity is a hard concept/problem. A video game can help us get some intuitions about hard concepts. The only problem: I don't have any patience left for video games.</comments>
+  </podcast>
+  <podcast>
+    <date>2021-06-23</date>
+    <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
+    <episode url="https://samharris.org/subscriber-extras/252-alone-universe/" number="252">Are We Alone in the Universe? - A Conversation with Neil deGrasse Tyson</episode>
+    <comments>Nothing really new here. It's highly likely that we're not alone in the universe and highly unlikely that we're regularly visited by aliens.</comments>
+  </podcast>
+  <podcast>
+    <date>2021-06-18</date>
+    <name url="https://samharris.org/podcast/waking-up-conversations/">Waking Up Conversations</name>
+    <episode url="https://samharris.org/subscriber-extras/waking-course-art-living/">William B. Irvine - The Art of Living</episode>
+    <comments>I'm a fan of William B. Irvine. I've read his book about Stoicism and listened to all his "meditations"/courses on the Waking Up app.</comments>
+  </podcast>
+  <podcast>
+    <date>2021-06-14</date>
+    <name url="https://www.foundmyfitness.com/episodes">FoundMyFitness</name>
+    <episode url="https://www.foundmyfitness.com/episodes/michael-snyder" number="64">Dr. Michael Snyder on Continuous Glucose Monitoring and Deep Profiling for Personalized Medicine</episode>
+    <comments>I've been convinced for a long time that gathering as much data about our body/health as possible is a good idea (blood tests, genome, etc.), but there aren't many concrete applications right now and they probably won't come for a few years. Another problem: I can now know my heart rate variability (HRV) and resting heart rate (RHR) at any time and see how they evolve, for example, but what should I do with those values? How can I "optimize" them?</comments>
+  </podcast>
+  <podcast>
+    <date>2021-06-10</date>
+    <name url="https://peterattiamd.com/podcast/">The Peter Attia Drive Podcast</name>
+    <episode url="https://peterattiamd.com/amandasmith/" number="164">Amanda Smith, M.D.: Diagnosing, preventing, and treating Alzheimer's disease, and what we can all learn from patients with dementia</episode>
+    <comments>"At the end of the day, it really has to do with how people see themselves, how people interact with the world, what kind of relationships they have, how able they are to let go of things that they've lost and how able they are to focus on the positive." —Amanda Smith. Focus on relationships and on the present moment.</comments>
+  </podcast>
+  <podcast>
+    <date>2021-06-07</date>
+    <name url="https://samharris.org/podcast/waking-up-conversations/">Waking Up Conversations</name>
+    <episode url="https://samharris.org/subscriber-extras/waking-course-nature-awareness/">Rupert Spira - The Nature of Awareness</episode>
+    <comments>The discussion about matter vs consciousness, materialism as a religious belief, etc. was a bit weird. Rupert Spira doesn't sound like someone I share a lot of views with.</comments>
+  </podcast>
+  <podcast>
+    <date>2021-06-07</date>
+    <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
+    <episode url="https://samharris.org/podcasts/251-corporate-cowardice/" number="251">Corporate Cowardice - A Conversation with Antonio García-Martínez</episode>
+    <comments>Is what García-Martínez wrote edgy or in bad taste? I don't know. He didn't came off as a particularly nice guy in that interview.</comments>
+  </podcast>
+  <podcast>
+    <date>2021-06-04</date>
+    <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
+    <episode url="https://samharris.org/podcasts/250-broken-conversations/" number="250">Broken Conversations - A Conversation with Jesse Singal</episode>
+    <comments><a href="https://www.reddit.com/r/samharris/comments/nhy402/250_broken_conversations/">Reddit thread</a>.</comments>
+  </podcast>
+  <podcast>
+    <date>2021-06-01</date>
+    <name url="https://peterattiamd.com/podcast/">The Peter Attia Drive Podcast</name>
+    <episode url="https://peterattiamd.com/pauloffit2/" number="160">Paul Offit, M.D.: The latest on COVID-19 vaccines and their safety, herd immunity, and viral variants</episode>
+    <comments>"If you ask me the question, 'What do I fear most about this whole pandemic?' it's actually not the variants. ... It's that there would be a significant percentage of the population that is going to choose not to vaccinate so much so that we can't get to that 80+% of population immunity we need to slow this virus." —Paul Offit</comments>
+  </podcast>
+  <podcast>
+    <date>2021-05-29</date>
+    <name url="https://samharris.org/podcast/waking-up-conversations/">Waking Up Conversations</name>
+    <episode url="https://samharris.org/subscriber-extras/waking-course-skeptical-buddhism/">Stephen Batchelor - Skeptical Buddhism</episode>
+    <comments>"Stephen is best known for his secular or agnostic approach to Buddhism. He is the author of The Faith to Doubt, Buddhism Without Beliefs, Confession of a Buddhist Atheist, among other books." Buddhism, in practice, is full of dogmas, but you can actually practice Buddhism without any of those dogmas. That's what makes it more interesting compared to other religions. I realise I don't know much about Buddhism, in particular about the <a href="https://en.wikipedia.org/wiki/Four_Noble_Truths">Four Noble Truths</a> and the concept of <a href="https://en.wikipedia.org/wiki/Du%E1%B8%A5kha">dukkha </a>. There were many things that went over my head, but it struck me that some of those things can be understood through the point of view of modern psychology and science.</comments>
+  </podcast>
+  <podcast>
+    <date>2021-05-27</date>
+    <name url="https://samharris.org/podcast/waking-up-conversations/">Waking Up Conversations</name>
+    <episode url="https://samharris.org/subscriber-extras/waking-course-cautionary-tale/">Andrew Cohen - A Cautionary Tale</episode>
+    <comments>That was courageous of <a href="https://en.wikipedia.org/wiki/Andrew_Cohen_(spiritual_teacher)">Cohen</a> to accept Sam's invitation to talk about that difficult topic (Cohen was accused of being a cult leader).</comments>
+  </podcast>
+  <podcast>
+    <date>2021-05-22</date>
+    <name url="https://samharris.org/podcast/waking-up-conversations/">Waking Up Conversations</name>
+    <episode url="https://samharris.org/subscriber-extras/waking-course-reflections-path/">Jack Kornfield - Reflections on the Path</episode>
+    <comments>Kornfield is what I would call a meditation/mindfulness expert. I guess it's a bit reassuring to hear that he still sounds like a human being. That discussion was easier to follow than the discussions with Joseph Goldstein.</comments>
+  </podcast>
+  <podcast>
+    <date>2021-05-22</date>
+    <name url="https://peterattiamd.com/podcast/">The Peter Attia Drive Podcast</name>
+    <episode url="https://peterattiamd.com/peterhotez3/" number="159">Peter Hotez, M.D., Ph.D.: Evolution of the anti-vaccine movement, the causes of autism, and COVID-19 vaccine state of affairs</episode>
+    <comments>"What started out as an anti-vaccine movement is now a movement against any kind of public health intervention and demonizing scientists and basically calling us the boogeyman." —Peter Hotez. I must say I'm a bit depressed when I think about all those anti-vaccine and anti-science movements, because there's no obvious solution to that problem (except more education on those topics).</comments>
+  </podcast>
+  <podcast>
+    <date>2021-05-20</date>
+    <name url="https://peterattiamd.com/podcast/">The Peter Attia Drive Podcast</name>
+    <episode url="https://peterattiamd.com/briandeer/" number="158">Brian Deer: A tale of scientific fraud—exposing Andrew Wakefield and the origin of the belief that vaccines cause autism</episode>
+    <comments>"In science, courage isn't about proving yourself right, it's in your efforts to prove yourself wrong... to try and refute your own hypothesis." —Brian Deer. I knew who Andrew Wakefield is, but this is a fascinating topic and the story is way more complex than expected.</comments>
+  </podcast>
+  <podcast>
+    <date>2021-05-20</date>
+    <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
+    <episode url="https://samharris.org/podcasts/249-distance-arrival/" number="249">Distance &amp; Arrival - A Conversation with David Whyte</episode>
+    <comments>As said previously, I enjoy David Whyte very much. His essays are meant to be read / listen to multiple times and that's what I intend to do (I've finished his <i>Consolations</i> collection recently).</comments>
+  </podcast>
+  <podcast>
+    <date>2021-05-17</date>
+    <name url="https://www.foundmyfitness.com/episodes">FoundMyFitness</name>
+    <episode url="https://www.foundmyfitness.com/episodes/david-sinclair" number="49">Dr. David Sinclair on Informational Theory of Aging, Nicotinamide Mononucleotide, Resveratrol &amp; More</episode>
+    <comments><a href="https://podcastnotes.org/found-my-fitness/david-sinclair-rhonda-patrick-nad-nr-nmn/">Podcast notes</a>.</comments>
+  </podcast>
+  <podcast>
+    <date>2021-05-10</date>
+    <name url="https://www.foundmyfitness.com/episodes">FoundMyFitness</name>
+    <episode url="https://www.foundmyfitness.com/episodes/sauna-heart-presentation" number="48">Sauna Use as an Exercise Mimetic for Heart and Healthspan</episode>
+    <comments>20-30 minutes of sauna, several times a week, have a lot of benefits for heart health and health in general. I unfortunately don't have regular access to a sauna...</comments>
+  </podcast>
+  <podcast>
+    <date>2021-05-10</date>
+    <name url="http://verybadwizards.com/">Very Bad Wizards</name>
+    <episode url="https://www.verybadwizards.com/206" number="206">Angel Chasing (Ted Chiang's "Hell is the Absence of God")</episode>
+    <comments>An episode about this excellent story by Ted Chiang. I agree: it's not clearly against religion (in the "New Atheism" way of being against religion, at least), but it's certainly not a good defense of religion either. I don't really agreee with Dave and Tamler about the fact that the characters live in a world where religious questions are answered. It's still very mysterious why all those angels are coming to earth. So it's almost comically obvious that God, angels, heaven, and hell exist, but everything still doesn't make a lot of sense compared to our actual world (where the existence of those things is not obvious at all).</comments>
+  </podcast>
+  <podcast>
+    <date>2021-05-06</date>
+    <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
+    <episode url="https://samharris.org/podcasts/247-constructing-minds/" number="247">Constructing Minds - A Conversation with Lisa Feldman Barrett</episode>
+    <comments>My simplistic summary: our models are often way too simplistic. They also talked about <a href="https://en.wikipedia.org/wiki/Cognitive_reframing">cognitive reframing</a>.</comments>
+  </podcast>
+  <podcast>
+    <date>2021-04-30</date>
+    <name url="https://www.foundmyfitness.com/episodes">FoundMyFitness</name>
+    <episode url="https://www.foundmyfitness.com/episodes/exercise-depression" number="47">Exercise as a Treatment for Depression</episode>
+    <comments>Yet another reason to exercise more.</comments>
+  </podcast>
+  <podcast>
+    <date>2021-04-29</date>
+    <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
+    <episode url="https://samharris.org/podcasts/special-episode-engineering-apocalypse/">Special Episode: Engineering the Apocalypse - By Rob Reid and Sam Harris</episode>
+    <comments>Frightening, but logical: artificial viruses might cause the destruction of humanity (at least as we know it). But there are good reasons to stay optimistic. Technology can also prevent that from happening.</comments>
+  </podcast>
+  <podcast>
+    <date>2021-04-24</date>
+    <name url="http://verybadwizards.com/">Very Bad Wizards</name>
+    <episode url="https://www.verybadwizards.com/211" number="211">To Live and Die in Kurosawa's "Ikiru"</episode>
+    <comments>A good episode about a good movie, which <a href="https://olivier.bruchez.name/movies#2019-11-27">I saw in 2019</a>.</comments>
+  </podcast>
+  <podcast>
+    <date>2021-04-21</date>
+    <name url="https://www.foundmyfitness.com/episodes">FoundMyFitness</name>
+    <episode url="https://www.foundmyfitness.com/episodes/zero-fasting-qa" number="44">Fasting Q&amp;A with Dr. Rhonda Patrick and Mike Maser</episode>
+    <comments>A lot of good questions and answers. It's still not clear what an almost-underweight person such as me (BMI of 18.0) should do.</comments>
+  </podcast>
+  <podcast>
+    <date>2021-04-21</date>
+    <name url="https://www.foundmyfitness.com/episodes">FoundMyFitness</name>
+    <episode url="https://www.foundmyfitness.com/episodes/charles-raison" number="41">Dr. Charles Raison on Depression, the Immune-Brain Interface &amp; Whole-Body Hyperthermia</episode>
+    <comments>An in-depth discussion about the topic, that went a bit over my head. Psychedelics and meditation are mentioned as well.</comments>
+  </podcast>
+  <podcast>
+    <date>2021-04-17</date>
+    <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
+    <episode url="https://samharris.org/subscriber-extras/245-can-talk-scary-ideas/" number="245">Can We Talk About Scary Ideas? - A Conversation with Peter Singer, Francesca Minerva, Jeff McMahan</episode>
+    <comments>Interesting guests. The discussion was a bit boring, though.</comments>
+  </podcast>
+  <podcast>
+    <date>2021-04-16</date>
+    <name url="http://verybadwizards.com/">Very Bad Wizards</name>
+    <episode url="https://www.verybadwizards.com/210" number="210">The Priming of the American Mind (with Jesse Singal)</episode>
+    <comments>Tamler goes in full "God of the gaps" mode. That was very weird. <a href="https://www.reddit.com/r/VeryBadWizards/comments/mlln5q/episode_210_the_priming_of_the_american_mind_with/">Reddit thread</a>.</comments>
+  </podcast>
+  <podcast>
+    <date>2021-04-09</date>
+    <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
+    <episode url="https://samharris.org/subscriber-extras/244-food-climate-pandemic-risk/" number="244">Food, Climate, and Pandemic Risk - A Conversation with Bruce Friedrich and Liz Specht</episode>
+    <comments>I've started giving monthly donations to the Good Food Institute in February 2021. It was nice to be able to understand what they do a bit more in depth. It's hard to admit for the vegetarian/semi-vegan that I am, but not eating some foods is not enough. It's just a form of boycott, after all. We have to encourage new forms of plant-based meat alternatives and cultivated meat. Giving money to the GFI is a good way to do precisely that, I think (I hope).</comments>
+  </podcast>
+  <podcast>
+    <date>2021-04-09</date>
+    <name url="https://peterattiamd.com/podcast/">The Peter Attia Drive Podcast</name>
+    <episode url="https://peterattiamd.com/stevelevitt/" number="154">Steve Levitt, Ph.D.: A rogue economist’s view on climate change, mental health, the ethics of experiments, and more</episode>
+    <comments>Levitt sounds like a fun guy, but we don't seem to share a lot of values/interests, from what I could gather. There's a moment during the episode where he mentions Sam Harris' <i>Waking Up</i> book, but he seems to completely misunderstand what meditation is. That was weird.</comments>
+  </podcast>
+  <podcast>
+    <date>2021-04-04</date>
+    <name url="https://peterattiamd.com/podcast/">The Peter Attia Drive Podcast</name>
+    <episode url="https://peterattiamd.com/alexhutchinson/" number="151">Alex Hutchinson, Ph.D.: Translating the science of endurance and extreme human performance</episode>
+    <comments>"Any meaningful form of exercise that's going to do substantial amounts of good is going to involve dealing with discomfort in one form or another." VO2 max: it's pretty useless to predict anything; it might have some value when you compare values associated with a single person (i.e. does it get better or worse?). If you start running: start really slow. A good way to look at exercise: it's something you do so that you'll be healthy when you're old (i.e. able to get up, move, etc.).</comments>
+  </podcast>
+  <podcast>
+    <date>2021-03-31</date>
+    <name url="http://robesse.libsyn.com/">Obsessed by Music</name>
+    <episode url="https://robesse.libsyn.com/an-eye-mask-for-music">An Eye Mask For Music?</episode>
+    <comments>Another intriguing idea: listening to music with a blindfold/night mask.</comments>
+  </podcast>
+  <podcast>
+    <date>2021-03-31</date>
+    <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
+    <episode url="https://samharris.org/subscriber-extras/243-points-confusion/" number="243">A Few Points of Confusion</episode>
+    <comments>Meditation and race/identity politics. Nothing new.</comments>
+  </podcast>
+  <podcast>
+    <date>2021-03-31</date>
+    <name url="https://samharris.org/podcast/waking-up-conversations/">Waking Up Conversations</name>
+    <episode url="https://samharris.org/subscriber-extras/waking-up-tara-brach/">The Bridge to Compassion - A Conversation with Tara Brach</episode>
+    <comments>I think I like this idea of self-compassion meditation (aka RAIN). Maybe I'll try reading Tara's book at some point.</comments>
+  </podcast>
+  <podcast>
+    <date>2021-03-29</date>
+    <name url="https://www.foundmyfitness.com/episodes">FoundMyFitness</name>
+    <episode url="https://www.foundmyfitness.com/aliquot">Aliquot #22: Q&amp;A mashup - Rhonda's personal supplement routine (preview)</episode>
+    <comments>I should probably add some moringa to my smoothies. Rhonda is not convinced at all by NAD boosters (I'm currently taking NMN, but it's quite expensive).</comments>
+  </podcast>
+  <podcast>
+    <date>2021-03-28</date>
+    <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
+    <episode url="https://samharris.org/podcasts/242-psychedelics-self/" number="242">Psychedelics and the Self - A Conversation with James Fadiman</episode>
+    <comments>I read James Fadiman's book in 2018. I was not particularly impressed, but this discussion with Sam was very enjoyable. A lot of James' research seems to be based on anedcdotes from microdosers, though (what he calls citizen science). It's not completely useless, but I don't think that's how we're going to understand what microdosing actually does.</comments>
+  </podcast>
+  <podcast>
+    <date>2021-03-25</date>
+    <name url="https://www.foundmyfitness.com/episodes">FoundMyFitness</name>
+    <episode url="https://www.foundmyfitness.com/episodes/roger-seheult" number="63">Dr. Roger Seheult from MedCram on COVID-19 Vaccines, Vitamin D, and Heat Hydrotherapy</episode>
+    <comments>"Fever is the body's attempt to make itself inhospitable to invaders. [...] Raising core body temperature may be analogous to having a fever. [...] Sleep bolsters the immune response to vaccinations." Heat hydrotherapy is an intriguing idea. I like saunas, but I don't have one at home. I've been trying cold showers on and off for years. Roger's top advice to stay healthy: 1) sleep 2) contrast showers (e.g. 3 minutes hot, 1 minute cold, 3 minutes hot, 1 minute cold - how hot/cold as you can tolerate) 3) vitamin D 4) antioxydant fruits (mainly berries) 4) NAC 5) zinc (never more than 40 mg a day). Except for contrast showers, I'm covered.</comments>
+  </podcast>
+  <podcast>
+    <date>2021-03-23</date>
+    <name url="https://www.rts.ch/play/radio/emission/le-point-j?id=11217536">Le point J</name>
+    <episode url="https://www.rts.ch/info/sciences-tech/12065407-podcast-pourquoi-le-temps-passetil-bizarrement-depuis-un-an.html">Pourquoi le temps passe-t-il si bizarrement depuis un an ?</episode>
+    <comments>Parce que l'écoulement subjectif du temps dépend des changements perceptibles dans notre environnement.</comments>
+  </podcast>
+  <podcast>
+    <date>2021-03-22</date>
+    <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
+    <episode url="https://samharris.org/podcasts/241-final-thoughts-on-free-will/" number="241">Final Thoughts on Free Will</episode>
+    <comments>Nothing really new to me. I guess this is a good summary of Sam's point or view. I'm still not sure I completely agree with him, but his perspective is certainly one of the more useful among the ones we hear about.</comments>
+  </podcast>
+  <podcast>
+    <date>2021-03-14</date>
+    <name url="https://www.foundmyfitness.com/episodes">FoundMyFitness</name>
+    <episode url="https://www.foundmyfitness.com/episodes/valter-longo-2" number="42">Dr. Valter Longo on Resetting Autoimmunity and Rejuvenating Systems with Prolonged Fasting &amp; the FMD</episode>
+    <comments>This idea of resetting some things in our bodies by regularly doing something a bit uncomfortable like fasting or eating a <a href="https://www.prolon.ch/">Fasting Mimicking Diet</a> is really intriguing. Some biomarkers for longevity: IGF-1 (Insulin-like Growth Factor-1), insulin, glucose, CRP, triglycerides.</comments>
+  </podcast>
+  <podcast>
+    <date>2021-03-11</date>
+    <name>Superchuckamania</name>
+    <episode number="17">Episode 17</episode>
+    <comments>I listened to this episode because the word "Prince" was mentioned in the episode summary. I've now unsubscribed. Bitterness is an ugly thing to contemplate.</comments>
+  </podcast>
+  <podcast>
+    <date>2021-03-11</date>
+    <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
+    <episode url="https://samharris.org/podcasts/240-boundaries-self/" number="240">The Boundaries of Self - A Conversation with David Whyte</episode>
+    <comments>I'm slowly becoming a David Whyte fan. I read his <i>Essentials</i> collection last year and listened to the Contemplative Action series on the Waking Up App. I'm now listening to the Consolations series.</comments>
+  </podcast>
+  <podcast>
+    <date>2021-03-10</date>
+    <name url="http://verybadwizards.com/">Very Bad Wizards</name>
+    <episode url="https://www.verybadwizards.com/207" number="207">Sometimes a Paper Tray is Just a Paper Tray</episode>
+    <comments>I like hearing people's theories about what a movie/show means. I happen to have watched all the videos by <a href="https://www.youtube.com/channel/UCrmzfpLoX_ogBgSShfaiQ4A/videos">Twin Perfect</a> about Twin Peaks (more than 6 hours!) and I think he's onto something (even if some people don't like it). This is a reminder that I should watch <i>The Shining</i> again (I've apparently watched it only twice, in 1996 and 2008...).</comments>
+  </podcast>
+  <podcast>
+    <date>2021-03-05</date>
+    <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
+    <episode url="https://samharris.org/podcasts/239-yet-another-call-ricky-gervais/" number="239">Yet Another Call from Ricky Gervais</episode>
+    <comments>Another fun episode. I don't think Sam's perspective is incompatible with Tamler's (from the Very Bad Wizard podcast), but I think it's important to recognize the importance of taking into account the "need for retribution" psychological element in a judicial system.</comments>
+  </podcast>
+  <podcast>
+    <date>2021-03-05</date>
+    <name url="https://www.foundmyfitness.com/episodes">FoundMyFitness</name>
+    <episode url="https://www.foundmyfitness.com/episodes/satchin-round-2" number="39">Dr. Satchin Panda on Practical Implementation of Time-Restricted Eating &amp; Shift Work Strategies</episode>
+    <comments>"10-14 hours of fasting when we get up in the morning means that we have given our gut rest." I'm currently at 11-12 hours, so I guess this is better than nothing. I've currently stopped doing 16/8-18/6 time-restricted eating once a week as I'm trying to gain some weight.</comments>
+  </podcast>
+  <podcast>
+    <date>2021-03-03</date>
+    <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
+    <episode url="https://samharris.org/subscriber-extras/238-how-to-build-a-universe/" number="238">How to Build a Universe - A Conversation with Frank Wilczek</episode>
+    <comments>A nice overview of physics from a "conservative" physicist (i.e. who is not particularly interested in simulated universes, multiverses, etc.).</comments>
+  </podcast>
+  <podcast>
+    <date>2021-02-28</date>
+    <name url="https://chriswillx.com/modernwisdom/">Modern Wisdom</name>
+    <episode url="https://modernwisdom.libsyn.com/002-life-hacks-11" number="2">Life Hacks 101</episode>
+    <comments>I might want to try Evernote someday.</comments>
+  </podcast>
+  <podcast>
+    <date>2021-02-25</date>
+    <name url="https://chriswillx.com/modernwisdom/">Modern Wisdom</name>
+    <episode url="https://modernwisdom.libsyn.com/284-hamilton-morris" number="284">Hamilton Morris - Creating The Future Of Psychedelic‪s‬</episode>
+    <comments>Hamilton is really a smart guy. I'm now supporting him via Patreon.</comments>
+  </podcast>
+  <podcast>
+    <date>2021-02-21</date>
+    <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
+    <episode url="https://samharris.org/subscriber-extras/237-another-call-ricky/" number="235">Another Call from Ricky</episode>
+    <comments>Another fun episode about free speech, humor, etc.</comments>
+  </podcast>
+  <podcast>
+    <date>2021-02-21</date>
+    <name url="https://www.foundmyfitness.com/episodes">FoundMyFitness</name>
+    <episode url="https://www.foundmyfitness.com/episodes/dale-bredesen" number="43">Dr. Dale Bredesen on Preventing and Reversing Alzheimer's Disease</episode>
+    <comments><a href="https://www.apoe4.info/wiki/Bredesen_Protocol">A lot of tests can be done</a>. My homocysteine is considered normal, but it could be apparently lower according to Bredesen. My amalgames are probably okay, but I will ask my dentist about them. I should probably get my fasting insulin tested someday (among others). I currently have a low BMI, so I was intrigued by Bredesen's comment about how people with low BMI should get "quite a lot of carbs" once a week (e.g. sweet potatoes). Bredesen seems to recomment a mostly-plant-based diet and he also seems to like MCT oils (e.g. coconut oil) - whereas Michael Greger seems to think it is quite bad. There is EPA/DHA in fish, but also other interesting substances (did I hear "citicoline"?). Sauna is good (including to eliminate cadmium, mercury, etc.).</comments>
+  </podcast>
+  <podcast>
+    <date>2021-02-19</date>
+    <name url="https://www.foundmyfitness.com/episodes">FoundMyFitness</name>
+    <episode url="https://www.foundmyfitness.com/episodes/judy-campisi" number="36">Judith Campisi, Ph.D. on Cellular Senescence, Mitochondrial Dysfunction, Cancer &amp; Aging</episode>
+    <comments>Periodic fasting (3-4 days?) can help the body get rid of senescent cells. Exercising is good.</comments>
+  </podcast>
+  <podcast>
+    <date>2021-02-17</date>
+    <name url="https://www.foundmyfitness.com/episodes">FoundMyFitness</name>
+    <episode url="https://www.foundmyfitness.com/episodes/refined-sugar" number="34">Refined Sugar and Its Effects on Mortality, the Brain, Cancer, Hormones, &amp; More</episode>
+    <comments>"Refined sugar also affects the brain. It impairs the brain's ability to heal after trauma, inhibits memory formation and retention, and induces structural changes in the brain similar to those caused by amphetamine, cocaine, and nicotine – powerful stimulant drugs. Perhaps one of the most disturbing – and long-term – effects of refined sugar on the body is observed at the DNA level. Sugar causes the shortening of the telomeres, accelerating the aging process."</comments>
+  </podcast>
+  <podcast>
+    <date>2021-02-14</date>
+    <name url="https://peterattiamd.com/podcast/">The Peter Attia Drive Podcast</name>
+    <episode url="https://peterattiamd.com/richardmiller/" number="148">Richard Miller, M.D., Ph.D.: The gold standard for testing longevity drugs: the Interventions Testing Program</episode>
+    <comments>Peter and Richard joked about adding a drug to pizza (or junk food in general) to make it healthier. This is currently a joke, but I'm pretty sure we'll see a day when this is standard practice. I didn't know about the Interventions Testing Program (ITP). This looks like something very cool. Something encouraging: some longevity drugs can work well even if you start taking them at middle age (at least in mice). Something surprising: according to Richard's research (to be published), NR doesn't work. I'd like to read more about this in particular. If true, this is huge.</comments>
+  </podcast>
+  <podcast>
+    <date>2021-02-12</date>
+    <name url="http://verybadwizards.com/">Very Bad Wizards</name>
+    <episode url="https://www.verybadwizards.com/205" number="205">Making Your Nervous System Your Ally (William James on "Habit"‪)‬</episode>
+    <comments>I like this idea that by getting good at developing one habit, maybe you're automatically getting better at developing other habits (i.e. there's a kind of "general muscle" for habits or something).</comments>
+  </podcast>
+  <podcast>
+    <date>2021-02-11</date>
+    <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
+    <episode url="https://samharris.org/subscriber-extras/235-call-ricky/" number="235">A Call from Ricky</episode>
+    <comments>This was a fun episode/conversation about dreams and humor/comedy, although Ricky is not a good listener, apparently.</comments>
+  </podcast>
+  <podcast>
+    <date>2021-02-10</date>
+    <name url="http://robesse.libsyn.com/">Obsessed by Music</name>
+    <episode url="https://robesse.libsyn.com/sharing-music-with-a-listening-buddy">Tips For Enjoying Music With A Listening Buddy</episode>
+    <comments>I sometimes listen to music with family members, but I've never really done it "seriously", i.e. by taking the time to really sit and listen to pieces of music chosen by someone else and myself. This is an intriguing idea.</comments>
+  </podcast>
+  <podcast>
+    <date>2021-02-10</date>
+    <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
+    <episode url="https://samharris.org/subscriber-extras/234-divided-mind/" number="234">The Divided Mind - A Conversation with Iain McGilchrist</episode>
+    <comments>A very nice conversation, that I should maybe listen to again in the future. Sam and McGilchrist discuss the "brain as a radio receiver" hypothesis near the end. I guess this is really something science cannot completely rule out at this point, since we still don't have a theory of consciousness.</comments>
+  </podcast>
+  <podcast>
+    <date>2021-02-08</date>
+    <name url="https://peterattiamd.com/podcast/">The Peter Attia Drive Podcast</name>
+    <episode url="https://peterattiamd.com/husseinyassine/" number="147">Hussein Yassine, M.D.: Deep dive into the "Alzheimer’s gene" (APOE), brain health, and omega-3s</episode>
+    <comments>A very technical episode. "We don’t have the evidence to support omega-3 supplementation but there is enough evidence to suggest one serving of fatty fish per week": since I'm vegetarian, I'll keep taking my supplements, as I have since 2007.</comments>
+  </podcast>
+  <podcast>
+    <date>2021-02-03</date>
+    <name url="https://peterattiamd.com/podcast/">The Peter Attia Drive Podcast</name>
+    <episode url="https://peterattiamd.com/guywinch/" number="146">Guy Winch, Ph.D.: Emotional first aid and how to treat psychological injuries</episode>
+    <comments>"We have a choice in the stories we tell ourselves. We don't have choice about the facts, we have choice about our organization, our perspective, and the narrative we create around them." Playing with small children (on the floor!) is a great way to be present in the moment. When you ruminate, you're not really thinking, you're just telling a story over and over. Treat ruminations as actual problems to solve.</comments>
+  </podcast>
+  <podcast>
+    <date>2021-02-02</date>
+    <name url="https://samharris.org/podcast/waking-up-conversations/">Waking Up Conversations</name>
+    <episode url="https://samharris.org/subscriber-extras/waking-up-course-the-psychedelic-experience/">The Psychedelic Experience - A Conversation with Françoise Bourzat</episode>
+    <comments>A fascinating discussion with someone who has a lot of experience with different psychedelics/substances (LSD, psilocybin, MDMA, mescaline, etc.).</comments>
+  </podcast>
+  <podcast>
+    <date>2021-02-01</date>
+    <name url="https://peterattiamd.com/podcast/">The Peter Attia Drive Podcast</name>
+    <episode url="https://peterattiamd.com/philmaffetone/" number="144">Phil Maffetone: Optimizing health and performance through maximal aerobic function</episode>
+    <comments>"VO2 max doesn't predict performance". It's not clear if it's totally useful for fitness/health either (at least to me). It's even less clear if the VO2 value estimation from an Apple Watch is meaningful or not. What's clear is that being fit/healthy is not the same as being performant.</comments>
+  </podcast>
+  <podcast>
+    <date>2021-01-30</date>
+    <name url="http://peachandblack.podbean.com/">Peach &amp; Black Podcast</name>
+    <episode url="https://turbine-shop.de/detail/index/sArticle/23161">"Sign O' The Times" audio commentary</episode>
+    <comments>I list this as a podcast episode, but this is actually the audio commentary track on the latest (and probably best) re-release of the "Sign O' The Times" movie from 2019 (by Turbine in Germany). A fun commentary, as usual.</comments>
+  </podcast>
+  <podcast>
+    <date>2021-01-30</date>
+    <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
+    <episode url="https://samharris.org/podcasts/232-inequality-revolution/" number="232">Inequality and Revolution - A Conversation with Jack Goldstone</episode>
+    <comments>The part of the episode about universal basic income (UBI) was a bit weird, as what Goldstone would propose isn't UBI at all (although it's definitely not a bad idea either - a one time payment by the state for a one year military or civil service).</comments>
+  </podcast>
+  <podcast>
+    <date>2021-01-27</date>
+    <name url="http://verybadwizards.com/">Very Bad Wizards</name>
+    <episode url="https://www.verybadwizards.com/203" number="203">Gorgias, Tell Me Something I Don't Know (with Agnes Callard)</episode>
+    <comments>"Why did Plato write dialogues – are they the best way of presenting arguments?" Dialogues and podcasts have a lot in common.</comments>
+  </podcast>
+  <podcast>
+    <date>2021-01-26</date>
+    <name url="http://verybadwizards.com/">Very Bad Wizards</name>
+    <episode url="https://www.verybadwizards.com/202" number="202">Not as It Ought to Be (H.P. Lovecraft's "The Colour Out of Space")</episode>
+    <comments>I read quite a few H.P. Lovecraft short stories collections a long time ago (in the 90s). I wonder if I would still enjoy that kind of litterature a quarter century later.</comments>
+  </podcast>
   <podcast>
     <date>2021-01-25</date>
     <name url="http://verybadwizards.com/">Very Bad Wizards</name>
     <episode url="https://www.verybadwizards.com/201" number="201">Very Bad Lizard People</episode>
     <comments>"David and Tamler dive deep into the psychology and epistemology of conspiracy theories." I think I first met a person who really was into conspiracy theories in 2006. At the time, he was into <a href="https://en.wikipedia.org/wiki/9/11_conspiracy_theories">9/11 conspiracy theories</a>. I don't know if he was really serious about it and that's a common problem with those persons: you never know if they're trolls (i.e. if they don't really believe what they claim to believe) or if they're serious. In both cases, it's very hard to have an actual discussion with them. They seem to base their epistemology on totally different foundations than rational people and, in the case of trolls, they don't have the same values when it comes to discussion (i.e. they're having fun at the expense of other people instead of exchanging ideas and being curious/open).</comments>
   </podcast>
+  <podcast>
     <date>2021-01-22</date>
     <name url="http://verybadwizards.com/">Very Bad Wizards</name>
     <episode url="https://www.verybadwizards.com/200" number="200">Our 200th Episode Spectactacular</episode>
@@ -16,13 +766,13 @@
   <podcast>
     <date>2021-01-21</date>
     <name url="https://www.foundmyfitness.com/episodes">FoundMyFitness</name>
-    <episode url="">On Depression and Its Underlying Causes</episode>
+    <episode>On Depression and Its Underlying Causes</episode>
     <comments>Inflammation could be a cause of depression.</comments>
   </podcast>
   <podcast>
     <date>2021-01-21</date>
     <name url="https://www.foundmyfitness.com/episodes">FoundMyFitness</name>
-    <episode url="https://www.foundmyfitness.com/episodes/jed-w-fahey">Jed Fahey, ScD, on Isothiocyanates, the Nrf2 Pathway, Moringa, &amp; Sulforaphane Supplementation</episode>
+    <episode url="https://www.foundmyfitness.com/episodes/jed-w-fahey" number="29">Jed Fahey, ScD, on Isothiocyanates, the Nrf2 Pathway, Moringa, &amp; Sulforaphane Supplementation</episode>
     <comments>Another episode about why sulforaphane is important. And moringa, possibly.</comments>
   </podcast>
   <podcast>
@@ -304,13 +1054,13 @@
   <podcast>
     <date>2020-10-19</date>
     <name url="https://www.foundmyfitness.com/episodes">FoundMyFitness</name>
-    <episode url="https://www.foundmyfitness.com/episodes/sulforaphane">Sulforaphane and Its Effects on Cancer, Mortality, Aging, Brain and Behavior, Heart Disease, &amp; More</episode>
+    <episode url="https://www.foundmyfitness.com/episodes/sulforaphane" number="28">Sulforaphane and Its Effects on Cancer, Mortality, Aging, Brain and Behavior, Heart Disease, &amp; More</episode>
     <comments>Conclusion: sulforaphane seems to be fantastic. That means broccoli, cauliflower, kale, Brussels sprouts, cabbage, etc. (i.e. cruciferous vegetables). Sulforaphane alone as a supplement seems useless, apparently, because it's missing an essential enzyme called myrosinase. Supplements with myrosinase do exist, but they're pretty expensive. 40-60 mg of sulforaphane could be a daily target for optimal results.</comments>
   </podcast>
   <podcast>
     <date>2020-10-19</date>
     <name url="https://www.foundmyfitness.com/episodes">FoundMyFitness</name>
-    <episode url="https://www.foundmyfitness.com/episodes/ruth-patterson">Ruth Patterson, PhD, on Time-Restricted Eating in Humans &amp; Breast Cancer Prevention</episode>
+    <episode url="https://www.foundmyfitness.com/episodes/ruth-patterson" number="26">Ruth Patterson, PhD, on Time-Restricted Eating in Humans &amp; Breast Cancer Prevention</episode>
     <comments>I'm not sure what's the takeaway for me, here, as the definition used for time-restricted eating is not that restrictive: "Time-restricted eating is a form of fasting that limits the daytime hours during which a person can eat to an 8- to 12-hour window". Taking the more generous 12-hour window into account, it seems that I've often been eating in a time-restricted manner without realizing it... Now, what I do from that to time is to "fast" for 16 hours, which is pretty easy. I'm just skipping breakfast, which is what many people do (e.g. David Sinclair). Here, Ruth Patterson is talking about not skipping breakfast instead, which is a bit weird and/or more complicated. If I have my breakfast at around 8 AM, that would mean I'd have to stop eating at 4 PM, which is very late for lunch or very early for dinner...</comments>
   </podcast>
   <podcast>
@@ -352,19 +1102,19 @@
   <podcast>
     <date>2020-10-09</date>
     <name url="https://www.foundmyfitness.com/episodes">FoundMyFitness</name>
-    <episode url="https://www.foundmyfitness.com/episodes/valter-longo">Valter Longo, Ph.D. on the Fasting-Mimicking Diet &amp; Fasting for Longevity, Cancer &amp; Multiple Sclerosis</episode>
+    <episode url="https://www.foundmyfitness.com/episodes/valter-longo" number="27">Valter Longo, Ph.D. on the Fasting-Mimicking Diet &amp; Fasting for Longevity, Cancer &amp; Multiple Sclerosis</episode>
     <comments>I'm not sure I understood correctly, but it might be possible that vegans don't benefit as much than non-vegans from time-restricted eating (to be confirmed). Prolonged fasting (several days at least) resets the immune system. An idea that I can confirm: it's way more easier to lose fat than to gain muscle.</comments>
   </podcast>
   <podcast>
     <date>2020-10-09</date>
     <name url="https://www.foundmyfitness.com/episodes">FoundMyFitness</name>
-    <episode url="https://www.foundmyfitness.com/episodes/satchin-panda">Satchin Panda, Ph.D. on Time-Restricted Feeding and Its Effects on Obesity, Muscle Mass &amp; Heart Health</episode>
+    <episode url="https://www.foundmyfitness.com/episodes/satchin-panda" number="25">Satchin Panda, Ph.D. on Time-Restricted Feeding and Its Effects on Obesity, Muscle Mass &amp; Heart Health</episode>
     <comments>I've been thinking about buying a light therapy lamp for years now. This episode convinced me to actually do it (I bought a cheap one). Time-restricted feeding could help with: heart health, healthier gut microbiome diversity, preventing absorption of simple sugars in the lower intestine, serum cholesterol, and probably many other things.</comments>
   </podcast>
   <podcast>
     <date>2020-10-07</date>
     <name url="https://www.foundmyfitness.com/episodes">FoundMyFitness</name>
-    <episode url="https://www.foundmyfitness.com/episodes/cold-stress-hormesis">How Cryotherapy Affects the Brain, the Immune System, Metabolism, and Athletic Performance</episode>
+    <episode url="https://www.foundmyfitness.com/episodes/cold-stress-hormesis" number="21">How Cryotherapy Affects the Brain, the Immune System, Metabolism, and Athletic Performance</episode>
     <comments>This is fascinating. Cold exposure activates some genes/processes that promote immunity, longevity, etc.</comments>
   </podcast>
   <podcast>
@@ -382,25 +1132,25 @@
   <podcast>
     <date>2020-10-01</date>
     <name url="https://www.foundmyfitness.com/episodes">FoundMyFitness</name>
-    <episode url="https://www.foundmyfitness.com/episodes/darya-and-kevin-rose">Dr. Darya and Kevin Rose Talk Meditation Retreats, Diet, Seasonal Eating, and More</episode>
+    <episode url="https://www.foundmyfitness.com/episodes/darya-and-kevin-rose" number="19">Dr. Darya and Kevin Rose Talk Meditation Retreats, Diet, Seasonal Eating, and More</episode>
     <comments>"Meditation is good, part 2". What's also good: eating slowly, eating seasonally, turmeric. I have the same reaction to smartwatches: they're bringing notifications even closer to us and that's a bad thing.</comments>
   </podcast>
   <podcast>
     <date>2020-09-30</date>
     <name url="https://www.foundmyfitness.com/episodes">FoundMyFitness</name>
-    <episode url="https://www.foundmyfitness.com/episodes/meditation-solocast">Buffering the Negative Effects of Chronic Stress with Meditation</episode>
+    <episode url="https://www.foundmyfitness.com/episodes/meditation-solocast" number="15">Buffering the Negative Effects of Chronic Stress with Meditation</episode>
     <comments>Meditation (or other activities such as yoga) is apparently beneficial for longevity, memory, etc. according to some studies. As Sam Harris says, even if those studies are wrong, it's probably still an important activity, as it can make you react differently to some situations (in particular anger-inducing situations).</comments>
   </podcast>
   <podcast>
     <date>2020-09-30</date>
     <name url="https://www.foundmyfitness.com/episodes">FoundMyFitness</name>
-    <episode url="https://www.foundmyfitness.com/episodes/the-sonnenburgs">The Sonnenburgs On How The Gut Microbiota Interacts With Our Bodies</episode>
+    <episode url="https://www.foundmyfitness.com/episodes/the-sonnenburgs" number="13">The Sonnenburgs On How The Gut Microbiota Interacts With Our Bodies</episode>
     <comments>Fibers are important. Eating seasonal fruits and vegetables is a good rule of thumb to eat varied fruits/vegetables. I still don't know at this point if probiotics (in particular), prebiotics, and enzymes are useful as supplements.</comments>
   </podcast>
   <podcast>
     <date>2020-09-28</date>
     <name url="https://www.foundmyfitness.com/episodes">FoundMyFitness</name>
-    <episode url="https://www.foundmyfitness.com/episodes/aubrey-de-grey">Dr. Aubrey de Grey and Dr. Rhonda Patrick Talk Aging</episode>
+    <episode url="https://www.foundmyfitness.com/episodes/aubrey-de-grey" number="10">Dr. Aubrey de Grey and Dr. Rhonda Patrick Talk Aging</episode>
     <comments>I was already a bit familiar with Aubrey de Grey, but I got the impression from this discussion that he is way more pessimistic than I remember him being. Or maybe I wasn't paying enough attention (the sound quality was not very good, the discussion was quite technical, etc.).</comments>
   </podcast>
   <podcast>
@@ -412,13 +1162,13 @@
   <podcast>
     <date>2020-09-18</date>
     <name url="https://www.foundmyfitness.com/episodes">FoundMyFitness</name>
-    <episode url="https://www.foundmyfitness.com/episodes/bruce-ames">Bruce Ames on Triage Theory, Longevity Vitamins &amp; Micronutrients</episode>
+    <episode url="https://www.foundmyfitness.com/episodes/bruce-ames" number="4">Bruce Ames on Triage Theory, Longevity Vitamins &amp; Micronutrients</episode>
     <comments>I realized after hearing this 2015 episode that Bruce N. Ames is the person responsible for <a href="https://www.pnas.org/content/115/43/10836">the paper on "longevity vitamins" from 2018</a>. A summary is available <a href="https://www.pnas.org/content/pnas/suppl/2018/10/09/1809045115.DCSupplemental/pnas.1809045115.sapp.pdf">here</a>. As a side note, I wish I can be as sharp and active at 86 as Bruce.</comments>
   </podcast>
   <podcast>
     <date>2020-09-17</date>
     <name url="https://www.foundmyfitness.com/episodes">FoundMyFitness</name>
-    <episode>Is Resveratrol a Longevity Compound?</episode>
+    <episode url="https://www.foundmyfitness.com/episodes/resveratrol-longevity" number="51">Is Resveratrol a Longevity Compound?</episode>
     <comments>Yes, probably, but we need more research to determine the optimal dosage and whether resveratrol is problematic for exercise.</comments>
   </podcast>
   <podcast>
@@ -448,7 +1198,7 @@
   <podcast>
     <date>2020-09-16</date>
     <name url="https://www.foundmyfitness.com/episodes">FoundMyFitness</name>
-    <episode>Rhonda Answers the Most Popular Questions About Vitamin D</episode>
+    <episode url="https://foundmyfitness.libsyn.com/rhonda-answers-the-most-popular-questions-about-vitamin-d" number="9">Rhonda Answers the Most Popular Questions About Vitamin D</episode>
     <comments>Sweet spot: 40-60 ng/mL (I'm at 51.08 ng/mL - yay!). No significant difference between vitamin D coming from supplements or from an exposure to the sun (except too much sun can damage your DNA, of course).</comments>
   </podcast>
   <podcast>
@@ -1167,7 +1917,7 @@
   </podcast>
   <podcast>
     <date>2019-12-03</date>
-    <name url="https://samharris.org/content/waking-up-conversations/">Waking Up Course</name>
+    <name url="https://samharris.org/podcast/waking-up-conversations/">Waking Up Conversations</name>
     <episode url="https://samharris.org/subscriber-extras/waking-course-live-wiltern/">Live at the Wiltern - A Conversation with Mingyur Rinpoche</episode>
     <comments>An entertaining discussion about meditation.</comments>
   </podcast>
@@ -1191,7 +1941,7 @@
   </podcast>
   <podcast>
     <date>2019-11-25</date>
-    <name url="https://samharris.org/content/waking-up-conversations/">Waking Up Course</name>
+    <name url="https://samharris.org/podcast/waking-up-conversations/">Waking Up Conversations</name>
     <episode url="https://samharris.org/subscriber-extras/waking-course-meditation-trauma/">Meditation and Trauma - A Conversation with David Treleaven</episode>
     <comments>This is a reminder that meditation is just a tool and that it's not always the best tool at any moment.</comments>
   </podcast>

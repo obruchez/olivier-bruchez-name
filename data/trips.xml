@@ -2,17 +2,40 @@
 <trips created="2008-02-26">
   <introduction>A list of trips I took.</introduction>
   <trip>
+    <from>2021-07-19</from>
+    <to>2021-08-02</to>
+    <place>Schaffhausen / Saint Gall / Grisons, Switzerland</place>
+    <pictures url="https://www.flickr.com/photos/bruchez/albums/72157719892985572">Schaffhausen</pictures>
+    <pictures url="https://www.flickr.com/photos/bruchez/albums/72157719876112824">Saint Gall</pictures>
+    <pictures url="https://www.flickr.com/photos/bruchez/albums/72157719929031400">Grisons</pictures>
+    <comments>I might have already visited Schaffhausen, Saint Gall, and the Grisons when I was a child, but I'm not sure. It would have been a very long time ago. Anyway, Switzerland is expensive, but it's also beautiful. We should probably go back to the Grisons once our son is older, so we can hike and bike there.</comments>
+  </trip>
+  <trip>
+    <from>2021-07-05</from>
+    <to>2021-07-09</to>
+    <place>Vallorbe / Bern / Lucerne / Interlaken, Switzerland</place>
+    <pictures url="https://www.flickr.com/photos/bruchez/albums/72157719709409859"/>
+    <comments>A family trip in Vallorbe (Vallorbe Caves), Bern, Lucerne (Swiss Museum of Transport), and Interlaken (rain, mostly).</comments>
+  </trip>
+  <trip>
+    <from>2021-04-06</from>
+    <to>2021-04-08</to>
+    <place>Leukerbad, Switzerland</place>
+    <pictures url="https://www.flickr.com/photos/bruchez/sets/72157719275100714"/>
+    <comments>Our fifth stay in Leukerbad and our second at the Bristol Hotel, which has its own indoor and outdoor thermal bath. It was a welcome break, without our almost-3-year-old son. Being able to go to a bar and a restaurant for the first time in four months was also pretty cool.</comments>
+  </trip>
+  <trip>
     <from>2020-09-19</from>
     <to>2020-09-21</to>
     <place>Basel, Switzerland</place>
-    <!-- <pictures url=""/> -->
+    <pictures url="https://www.flickr.com/photos/bruchez/albums/72157716361426522"/>
     <comments>Our third weekend in Basel (and our first with our 2-year old son). We went to the Spielzeug Welten Museum, among other things (walking in the Old Town, crossing the Rhine on small boats, having delicious food at Markthalle, etc.). This certainly won't be our last stay in that nice city.</comments>
   </trip>
   <trip>
     <from>2020-07-25</from>
     <to>2020-08-11</to>
     <place>Bretagne / Brittany, France</place>
-    <!-- <pictures url=""/> -->
+    <pictures url="https://www.flickr.com/photos/bruchez/albums/72157715464151228"/>
     <comments>This was my first trip to Bretagne / Brittany in about 30 years. I didn't swim in the English Channel (La Manche), this time (one story I heard a lot those last 30 years: I apparently was almost taken by strong currents when swimming in La Manche in St-Malo - I didn't realize at the time I could have been in danger). We ate a lot of <i>crêpes</i> (sometimes because it was the easiest way to eat something vegetarian), a lot of pastries (<a href="https://en.wikipedia.org/wiki/Kouign-amann">kouign-amann</a> and others), and drank a lot of cider. If it wasn't for the non-vegetarian-friendly food (seafood and French cuisine in general), I guess I could live in Brittany. This is a really nice region.</comments>
   </trip>
   <trip>

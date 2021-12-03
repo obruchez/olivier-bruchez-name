@@ -87,27 +87,24 @@ See also [1000 places to see before you die](http://1000places.com/).
 * [U.S. Route 66](https://en.wikipedia.org/wiki/U.S._Route_66)
 * see also [21 Roads You Have to Drive in Your Lifetime](http://twistedsifter.com/2013/03/roads-to-drive-before-you-die/)
 
-## Switzerland
+## Switzerland
 
 * [Aarburg Castle](https://en.wikipedia.org/wiki/Aarburg_Castle)
-* [Bern](https://en.wikipedia.org/wiki/Bern) (already visited, to visit again)
 * [Creux du Van](https://en.wikipedia.org/wiki/Creux_du_Van)
 * [Ebenalp](https://en.wikipedia.org/wiki/Ebenalp) (hiking, cable car, etc.)
 * [Glacier Express](https://en.wikipedia.org/wiki/Glacier_Express) (about 8 hours from Zermatt to St. Moritz)
 * [GoldenPass Line](https://en.wikipedia.org/wiki/GoldenPass_Line) (Montreux-Zweisimmen-Lenk and Montreux-Les Rochers-de-Naye)
 * [Grand Tour of Switzerland](http://www.myswitzerland.com/en-ch/grand-tour-of-switzerland.html)
-* [Grisons](https://en.wikipedia.org/wiki/Grisons) ([Caumasee](https://en.wikipedia.org/wiki/Caumasee), etc.)
 * [Jungfraujoch](https://en.wikipedia.org/wiki/Jungfraujoch)
-* [Lake Constance](https://en.wikipedia.org/wiki/Lake_Constance)
 * [Lausanne](https://en.wikipedia.org/wiki/Lausanne) ([Top Things to Do in Lausanne](http://www.tripadvisor.com/Attractions-g188107-Activities-Lausanne_Canton_of_Vaud.html) according to TripAdvisor)
 * [Montreux–Oberland Bernois railway](https://en.wikipedia.org/wiki/Montreux%E2%80%93Oberland_Bernois_railway)
 * [Morat](https://en.wikipedia.org/wiki/Murten)
-* [St. Gallen](https://en.wikipedia.org/wiki/St._Gallen)
+* [Oberhofen Castle](https://en.wikipedia.org/wiki/Oberhofen_Castle) (near Thun)
 * [Ticino](https://en.wikipedia.org/wiki/Ticino)
 * [Valais](https://en.wikipedia.org/wiki/Valais) (lots of places I've still not visited - example: ["Valais : Les p’tits coins de paradis"](http://www.hebdo.ch/valais___les_coins_de_paradis_112509_.html))
 * [Zermatt](https://en.wikipedia.org/wiki/Zermatt) / [Matterhorn](https://en.wikipedia.org/wiki/Matterhorn) (already visited, to visit again in the winter?)
 
-## Themes
+## Themes
 
 * [auroras](https://en.wikipedia.org/wiki/Aurora) (where and when?)
 * [castles](https://en.wikipedia.org/wiki/Castle) ([England](https://en.wikipedia.org/wiki/England), [France](https://en.wikipedia.org/wiki/France), [Germany](https://en.wikipedia.org/wiki/Germany), [Switzerland](http://www.myswitzerland.com/en-ch/interests/excursion-summer/historical-switzerland/castles-palaces.html), etc.)

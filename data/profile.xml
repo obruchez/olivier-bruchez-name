@@ -15,6 +15,7 @@
         <item url="https://en.wikipedia.org/wiki/F%27Murr">F'Murr (aka Richard Peyzaret)</item>
         <item url="https://en.wikipedia.org/wiki/Greg_(comics)">Greg (aka Michel Régnier)</item>
         <item url="https://en.wikipedia.org/wiki/Lewis_Trondheim">Lewis Trondheim (aka Laurent Chabosy)</item>
+        <item url="https://en.wikipedia.org/wiki/Yoko_Tsuno">Yoko Tsuno</item>
     </list>
     <list title="Directors">
         <item url="https://en.wikipedia.org/wiki/Alfred_Hitchcock">Alfred Hitchcock</item>
@@ -27,15 +28,20 @@
         <item url="https://en.wikipedia.org/wiki/Woody_Allen">Woody Allen</item>
     </list>
     <list title="Food">
-        <item url="https://en.wikipedia.org/wiki/Beer">Beer</item>
-        <item url="https://en.wikipedia.org/wiki/Chocolate">Chocolate</item>
+        <item>
+            <subitem url="https://en.wikipedia.org/wiki/Beer">Beer</subitem>
+            <subitem url="https://en.wikipedia.org/wiki/Non-alcoholic_beer">Non-alcoholic beer</subitem>
+        </item>
+        <item>
+            <subitem url="https://en.wikipedia.org/wiki/Chocolate">Chocolate</subitem>
+            <subitem url="https://en.wikipedia.org/wiki/Dark_chocolate">Dark chocolate</subitem>
+        </item>
         <item url="https://en.wikipedia.org/wiki/Coffee">Coffee</item>
-        <item url=""></item>
         <item>
             <subitem url="https://en.wikipedia.org/wiki/Tea">Tea</subitem>
             <subitem url="https://en.wikipedia.org/wiki/Green_tea">Green tea</subitem>
         </item>
-        <item url="https://en.wikipedia.org/wiki/Veganism#Vegan_diet">Vegan cuisine</item>
+        <item url="https://en.wikipedia.org/wiki/Veganism#Vegan_diets,_substitutions,_and_meat_analogues">Vegan cuisine</item>
         <item url="https://en.wikipedia.org/wiki/Vegetarian_cuisine">Vegetarian cuisine</item>
         <item url="https://en.wikipedia.org/wiki/Wine">Wine</item>
     </list>
@@ -52,6 +58,11 @@
             <subitem url="https://en.wikipedia.org/wiki/Crowdfunding">Crowdfunding</subitem>
             <subitem url="https://en.wikipedia.org/wiki/Patreon">Patreon</subitem>
         </item>
+        <item>
+            <subitem url="https://en.wikipedia.org/wiki/Dietary_supplement">Dietary supplement</subitem>
+            <subitem url="https://en.wikipedia.org/wiki/Herbal_medicine">Herbal medicine</subitem>
+            <subitem url="https://en.wikipedia.org/wiki/Nootropic">Nootropics</subitem>
+        </item>
         <item url="https://en.wikipedia.org/wiki/Effective_altruism">Effective altruism</item>
         <item>
             <subitem url="https://en.wikipedia.org/wiki/Electric_car">Electric cars</subitem>
@@ -63,17 +74,16 @@
             <subitem url="https://en.wikipedia.org/wiki/Paperless_office">Going paperless</subitem>
             <subitem url="https://en.wikipedia.org/wiki/E-book">E-books</subitem>
         </item>
+        <item>
+            <subitem url="https://en.wikipedia.org/wiki/Health">Health</subitem>
+            <subitem url="https://en.wikipedia.org/wiki/Life_extension">Life extension</subitem>
+            <subitem url="https://en.wikipedia.org/wiki/Longevity">Longevity</subitem>
+        </item>
         <item url="https://en.wikipedia.org/wiki/Jazz">Jazz</item>
-        <item url="https://en.wikipedia.org/wiki/Life_extension">Life extension</item>
         <item url="https://en.wikipedia.org/wiki/Simple_living">Minimalism / simple living</item>
         <item>
             <subitem url="https://en.wikipedia.org/wiki/Mooc">MOOCs</subitem>
             <subitem url="https://en.wikipedia.org/wiki/Coursera">Coursera</subitem>
-        </item>
-        <item>
-            <subitem url="https://en.wikipedia.org/wiki/Dietary_supplement">Dietary supplement</subitem>
-            <subitem url="https://en.wikipedia.org/wiki/Herbal_medicine">Herbal medicine</subitem>
-            <subitem url="https://en.wikipedia.org/wiki/Nootropic">Nootropics</subitem>
         </item>
         <item>
             <subitem url="https://en.wikipedia.org/wiki/Philosophy">Philosophy</subitem>
@@ -196,17 +206,16 @@
         <item url="https://www.happinesslab.fm/">The Happiness Lab</item>
         <item url="https://peterattiamd.com/podcast/">The Peter Attia Drive Podcast</item>
         <item url="https://verybadwizards.fireside.fm/">Very Bad Wizards</item>
+        <item url="https://podcast.ausha.co/violet">Violet</item>
     </list>
-    <!-- <list title="Political views">
-        <item url="https://en.wikipedia.org/wiki/Centre-left">Centre-left</item>
-        <item url="https://en.wikipedia.org/wiki/Moderate">Moderism</item>
-    </list> -->
     <list title="Sports">
         <item url="https://en.wikipedia.org/wiki/Elliptical_trainer">Elliptical trainer / cross-trainer</item>
-        <item url="https://en.wikipedia.org/wiki/Mountain_biking">Mountain biking</item>
-        <item url="https://en.wikipedia.org/wiki/Hiking">Mountain hiking</item>
+        <item url="https://en.wikipedia.org/wiki/Fitness_club">Fitness</item>
+        <item url="https://en.wikipedia.org/wiki/Hiking">Hiking</item>
+        <!-- <item url="https://en.wikipedia.org/wiki/Mountain_biking">Mountain biking</item> -->
+        <item url="https://en.wikipedia.org/wiki/Running">Running</item>
         <item url="https://en.wikipedia.org/wiki/Skiing">Skiing</item>
-        <item url="https://en.wikipedia.org/wiki/Via_ferrata">Via ferrata</item>
+        <!-- <item url="https://en.wikipedia.org/wiki/Via_ferrata">Via ferrata</item> -->
     </list>
     <list title="TV shows">
         <item url="https://en.wikipedia.org/wiki/Arrested_Development_(TV_series)">Arrested Development</item>

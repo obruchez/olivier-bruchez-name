@@ -1,0 +1,5 @@
+# Fahrenheit 451 (Ray Bradbury)
+* There must be something in books, things we can’t imagine, to make a woman stay in a burning house; there must be something there. You don’t stay for nothing. (p. 68)
+* We stand against the small tide of those who want to make everyone unhappy with conflicting theory and thought. (p. 81)
+* Books were only one type of receptacle where we stored a lot of things we were afraid we might forget. There is nothing magical in them at all. The magic is only in what books say, how they stitched the patches of the universe together into one garment for us. (p. 107)
+* If you hide your ignorance, no one will hit you and you’ll never learn. (p. 135)

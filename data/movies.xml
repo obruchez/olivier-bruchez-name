@@ -3,6 +3,429 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Checklist: add rating to IMDb -->
   <movie>
+    <date></date>
+    <theater home="true"/>
+    <director>François Truffaut</director>
+    <title>Fahrenheit 451</title>
+    <url>https://www.imdb.com/title/tt0060390/</url>
+    <rating></rating>
+    <comments></comments>
+    <image>Fahrenheit 451.jpg</image>
+  </movie>
+  <movie>
+    <date>2021-12-01</date>
+    <theater home="true"/>
+    <director>Elem Klimov</director>
+    <title>Idi i smotri</title>
+    <title language="en">Come and See</title>
+    <url>https://www.imdb.com/title/tt0091251/</url>
+    <rating>4.5</rating>
+    <comments>Probably the most violent/disturbing movie I've seen about war. A lot of scenes are hard to watch. Of course, I'm not a fan of the scene where a cow is actually killed and filmed dying/suffering. This is not something that should happen in the name of art. Some young children were also apparently quite shocked during one other scene. I'm wondering how many hours of psychotherapy were needed by some of the actors who played in that movie... I understand why some people consider this movie a classic, but it's too upsetting/shocking to be one, in my opinion.</comments>
+    <image>Idi i smotri.jpg</image>
+  </movie>
+  <movie>
+    <date>2021-11-21</date>
+    <theater>Galeries, Lausanne</theater>
+    <director>Isabelle Favez</director>
+    <title>Zibilla</title>
+    <url>https://www.imdb.com/title/tt11341136/</url>
+    <rating>4.5</rating>
+    <comments>My son's first (short) movie at the movie theater. Preceded by 6 other short movies: <i>Whale</i> (Maryna Shchipak), <a href="https://www.imdb.com/title/tt3769630/"><i>Zebra</i></a> (Julia Ocker), <a href="https://www.imdb.com/title/tt10437072/"><i>Le tigre sans rayures</i></a> (Raúl Robin Alejandro Morales Reyes), <a href="https://www.imdb.com/title/tt7070358/"><i>Le Petit Bonhomme de poche</i></a> (Ana Chubinidze), <a href="https://www.imdb.com/title/tt10539388/"><i>Le dernier jour d’automne</i></a> (Marjolaine Perreten) and <a href="https://www.imdb.com/title/tt8193892/"><i>Kuap</i></a> (Nils Hedinger).</comments>
+    <image>Zibilla.jpg</image>
+  </movie>
+  <movie>
+    <date>2021-11-13</date>
+    <theater>Casino, Martigny</theater>
+    <director>Wes Anderson</director>
+    <title>The French Dispatch</title>
+    <url>https://www.imdb.com/title/tt8847712/</url>
+    <rating>5.0</rating>
+    <comments>I find some of the reviews for this movie to be a bit harsh. Yes, the story is a bit hard to follow at times and some of the scenes are dense (in the sense that there are too many things to parse in a short amount of time), but I actually liked that sense of confusion. I generally like movies that make me a bit uncomfortable. It's also a fun and absurd movie, and it's precisely why I like Wes Anderson in the first place.</comments>
+    <image>The French Dispatch.jpg</image>
+  </movie>
+  <movie>
+    <date>2021-10-28</date>
+    <theater home="true"/>
+    <director>Michael Haneke</director>
+    <title>Caché</title>
+    <url>https://www.imdb.com/title/tt0387898/</url>
+    <rating>4.75</rating>
+    <comments>I decided to watch this movie because a recent episode of the Very Bad Wizards podcast is dedicated to it. After watching maybe half of it, I realized I had already seen it (in 2005, I guess not long after it was released). It's a good movie. I especially like the open-ended ending.</comments>
+    <image>Caché.jpg</image>
+  </movie>
+  <movie>
+    <date>2021-10-27</date>
+    <theater home="true"/>
+    <director>Richard Linklater</director>
+    <title>Dazed and Confused</title>
+    <url>https://www.imdb.com/title/tt0106677/</url>
+    <rating>4.5</rating>
+    <comments>Yet another movie from Dave Pizarro's top 5 comfort movies. Richard Linklater seems to be an uneven director. I discovered him with <i>Boyhood</i>, which really impressed me. The <i>Before</i> trilogy is also excellent. I really liked <i>Waking Life</i> as well. <i>Dazed and Confused</i> is not bad, but it's definitely not in the same league as those other movies. And then, there's the rest of his filmography, but that's another story...</comments>
+    <image>Dazed and Confused.jpg</image>
+  </movie>
+  <movie>
+    <date>2021-10-26</date>
+    <theater home="true"/>
+    <director>Mike Judge</director>
+    <title>Office Space</title>
+    <url>https://www.imdb.com/title/tt0151804/</url>
+    <rating>4.5</rating>
+    <comments>Another movie from Dave Pizarro's top 5 comfort movies. A good choice as well.</comments>
+    <image>Office Space.jpg</image>
+  </movie>
+  <movie>
+    <date>2021-10-25</date>
+    <theater home="true"/>
+    <director>Luis Buñuel</director>
+    <title>Le charme discret de la bourgeoisie</title>
+    <url>https://www.imdb.com/title/tt0068361/</url>
+    <rating>4.75</rating>
+    <comments>The only thing by Luis Buñuel that I had previously seen was <a href="https://www.imdb.com/title/tt0020530/"><i>Un chien andalou</i></a>, which I saw at the Dalí Museum in Berlin. <i>Le charme discret de la bourgeoisie</i> is very different. 33 years separate those two films, after all. It's a very weird movie. Everything seems so unreal. Absurd things happen and the main characters accept them without much resistance. They just keep on living, eating, dreaming... and walking on that empty road.</comments>
+    <image>Le charme discret de la bourgeoisie.jpg</image>
+  </movie>
+  <movie>
+    <date>2021-10-24</date>
+    <theater>Pathé Flon, Lausanne</theater>
+    <director>Denis Villeneuve</director>
+    <title>Dune</title>
+    <url>https://www.imdb.com/title/tt1160419/</url>
+    <rating>5.0</rating>
+    <comments>I don't remember much from Lynch's version of <i>Dune</i>, which I saw in 2004, but this version is quite impressive, especially the sound effects (quite similar to the ones in <i>Arrival</i>, if I remember correctly).</comments>
+    <image>Dune.jpg</image>
+  </movie>
+  <movie>
+    <date>2021-10-23</date>
+    <theater>Galeries, Lausanne</theater>
+    <director>Joachim Trier</director>
+    <title>Verdens verste menneske</title>
+    <title language="en">The Worst Person in the World</title>
+    <url>https://www.imdb.com/title/tt10370710/</url>
+    <rating>4.75</rating>
+    <comments>It touches on too many topics to be a classic, but it's a good movie about the search for meaning in life through love, sex, living with someone, work, children, etc.</comments>
+    <image>Verdens verste menneske.jpg</image>
+  </movie>
+  <movie>
+    <date>2021-10-21</date>
+    <theater home="true"/>
+    <director>Agnès Varda &amp; JR</director>
+    <title>Visages, villages</title>
+    <url>https://www.imdb.com/title/tt5598102/</url>
+    <rating>4.5</rating>
+    <comments>"- Est-ce qu'il y a un but ou c'est, heu... - Le but, c'est le pouvoir de l'imagination." Un film plein de poésie, qui questionne le rôle de l'art, en particulier dans le "grand public".</comments>
+    <image>Visages, villages.jpg</image>
+  </movie>
+  <movie>
+    <date>2021-10-19</date>
+    <theater home="true"/>
+    <director>John Hughes</director>
+    <title>Ferris Bueller's Day Off</title>
+    <url>https://www.imdb.com/title/tt0091042/</url>
+    <rating>4.5</rating>
+    <comments>I'm pretty sure I've already seen portions of that movie. At least the last 10-15 minutes. I've watched it because Dave from the Very Bad Wizards podcast listed it in his top 5 comfort movies. I can see why now.</comments>
+    <image>Ferris Bueller's Day Off.jpg</image>
+  </movie>
+  <movie>
+    <date>2021-10-18</date>
+    <theater home="true"/>
+    <director>Ernst Lubitsch</director>
+    <title>To Be or Not to Be</title>
+    <url>https://www.imdb.com/title/tt0035446/</url>
+    <rating>4.75</rating>
+    <comments>"The plot concerns a troupe of actors in Nazi-occupied Warsaw who use their abilities at disguise and acting to fool the occupying troops". A (funny) comedy from 1942. I was shocked to read that the main actress (Carole Lombard) was killed in a plane crash before the movie was released.</comments>
+    <image>To Be or Not to Be.jpg</image>
+  </movie>
+  <movie>
+    <date>2021-09-28</date>
+    <theater home="true"/>
+    <director>Tomm Moore</director>
+    <title>Song of the Sea</title>
+    <url>https://www.imdb.com/title/tt1865505/</url>
+    <rating>4.75</rating>
+    <comments>A beautiful animation movie. Something we should watch again with our son someday.</comments>
+    <image>Song of the Sea.jpg</image>
+  </movie>
+  <movie>
+    <date>2021-09-26</date>
+    <theater home="true"/>
+    <director>Elia Kazan</director>
+    <title>On the Waterfront</title>
+    <url>https://www.imdb.com/title/tt0047296/</url>
+    <rating>4.75</rating>
+    <comments>If only all priests were like Father Barry. :) Another movie about fixing corrupt systems.</comments>
+    <image>On the Waterfront.jpg</image>
+  </movie>
+  <movie>
+    <date>2021-08-22</date>
+    <theater home="true"/>
+    <director>Krzysztof Kieslowski</director>
+    <title>Trois couleurs: Bleu</title>
+    <url>https://www.imdb.com/title/tt0108394/</url>
+    <rating>4.75</rating>
+    <comments>The first movie of the <i>Trois couleurs</i> trilogy. It failed to catch my full attention. I don't know why exactly. Maybe because I didn't care at all for the main character.</comments>
+    <image>Trois couleurs - Bleu.jpg</image>
+  </movie>
+  <movie>
+    <date>2021-08-07</date>
+    <theater home="true"/>
+    <director>Pierre-Paul Renders</director>
+    <title>Thomas est amoureux</title>
+    <url>https://www.imdb.com/title/tt0262826/</url>
+    <rating>3.5</rating>
+    <comments>I'm not sure why, but I remember being quite impressed when I first saw this movie in 2001. 20 years later, I find it a bit cringey and simplistic. I still like the general form and concept, though.</comments>
+    <image>Thomas est amoureux.jpg</image>
+  </movie>
+  <movie>
+    <date>2021-08-06</date>
+    <theater>Galeries, Lausanne</theater>
+    <director>Chloé Zhao</director>
+    <title>Nomadland</title>
+    <url>https://www.imdb.com/title/tt9770150/</url>
+    <rating>5.0</rating>
+    <comments>I read some user reviews on IMDb saying that this movie was boring, that not much was happening, etc. This is exactly why I liked it. Not much is happening, indeed, but it's still a beautiful movie. What does "home" mean? Does it have something to do with a house (i.e. the object)? Its location? The people you live with? Something else?</comments>
+    <image>Nomadland.jpg</image>
+  </movie>
+  <movie>
+    <date>2021-07-10</date>
+    <theater home="true"/>
+    <director>Martin Scorsese</director>
+    <title>Casino</title>
+    <url>https://www.imdb.com/title/tt0112641/</url>
+    <rating>4.5</rating>
+    <comments>This is objectively a good movie. Like many other Scorsese movies, it's just not for me.</comments>
+    <image>Casino.jpg</image>
+  </movie>
+  <movie>
+    <date>2021-06-17</date>
+    <theater home="true"/>
+    <director>Akira Kurosawa</director>
+    <title>Yojimbo</title>
+    <url>https://www.imdb.com/title/tt0055630/</url>
+    <rating>4.75</rating>
+    <comments>My sixth Kurosawa movie. Simple, fun, at times comical.</comments>
+    <image>Yojimbo.jpg</image>
+  </movie>
+  <movie>
+    <date>2021-06-08</date>
+    <theater home="true"/>
+    <director>Richard Linklater</director>
+    <title>Before Midnight</title>
+    <url>https://www.imdb.com/title/tt2209418/</url>
+    <rating>4.75</rating>
+    <comments>Not a bad movie. Everything that happens is quite logical. Love cannot stay as intense as in the beginning. Children will always cause problems in the couple at one point or another. It's realistic, but, at the same time, it's also a bit less enjoyable than the two other movies in the trilogy. Also, I hope it won't sound too sexist, but Celine has become really unlikeable.</comments>
+    <image>Before Midnight.jpg</image>
+  </movie>
+  <movie>
+    <date>2021-06-04</date>
+    <theater home="true"/>
+    <director>Richard Linklater</director>
+    <title>Before Sunset</title>
+    <url>https://www.imdb.com/title/tt0381681/</url>
+    <rating>5.0</rating>
+    <comments>I would have to re-watch all three movies in the trilogy, but I feel <i>Before Sunset</i> is as strong as <i>Before Sunrise</i>. I really like this format: two persons talking about life, love, the meaning of things, etc. It also really captures something from my youth (my interest in philosophy, European cities, etc.).</comments>
+    <image>Before Sunset.jpg</image>
+  </movie>
+  <movie>
+    <date>2021-05-31</date>
+    <theater home="true"/>
+    <director>Paul Thomas Anderson</director>
+    <title>There Will Be Blood</title>
+    <url>https://www.imdb.com/title/tt0469494/</url>
+    <rating>4.75</rating>
+    <comments>It's difficult to sympathize with the main characters. They're both unlikeable, in different ways. It's difficult to say why exactly, but this movie left me with a feeling of emptiness.</comments>
+    <image>There Will Be Blood.jpg</image>
+  </movie>
+  <movie>
+    <date>2021-05-23</date>
+    <theater home="true"/>
+    <director>Florian Zeller</director>
+    <title>The Father</title>
+    <url>https://www.imdb.com/title/tt10272386/</url>
+    <rating>5.0</rating>
+    <comments>Watching this movie was hard and disturbing, but Anthony Hopkins' performance is brilliant.</comments>
+    <image>The Father.jpg</image>
+  </movie>
+  <movie>
+    <date>2021-05-22</date>
+    <theater home="true"/>
+    <director>Stanley Kubrick</director>
+    <title>Barry Lyndon</title>
+    <url>https://www.imdb.com/title/tt0072684/</url>
+    <rating>5.25</rating>
+    <comments>I was ready to be bored (a 3-hour movie with costumes and all), but I was not. This movie is brilliant.</comments>
+    <image>Barry Lyndon.jpg</image>
+  </movie>
+  <movie>
+    <date>2021-05-20</date>
+    <theater home="true"/>
+    <director>Clint Eastwood</director>
+    <title>Unforgiven</title>
+    <url>https://www.imdb.com/title/tt0105695/</url>
+    <rating>4.75</rating>
+    <comments>What if westerns were real?</comments>
+    <image>Unforgiven.jpg</image>
+  </movie>
+  <movie>
+    <date>2021-05-12</date>
+    <theater home="true"/>
+    <director>Curtis Hanson</director>
+    <title>L.A. Confidential</title>
+    <url>https://www.imdb.com/title/tt0119488/</url>
+    <rating>4.75</rating>
+    <comments>How do you fix a corrupt system from the inside? Can you do it by not being corrupt yourself?</comments>
+    <image>L.A. Confidential.jpg</image>
+  </movie>
+  <movie>
+    <date>2021-05-03</date>
+    <theater home="true"/>
+    <director>Michael Mann</director>
+    <title>Heat</title>
+    <url>https://www.imdb.com/title/tt0113277/</url>
+    <rating>4.75</rating>
+    <comments>A movie with Al Pacino and Robert de Niro. Isn't that enough? I usually don't like gangster/crime movies, but that one was good.</comments>
+    <image>Heat.jpg</image>
+  </movie>
+  <movie>
+    <date>2021-04-24</date>
+    <theater home="true"/>
+    <director>John Huston</director>
+    <title>The Treasure of the Sierra Madre</title>
+    <url>https://www.imdb.com/title/tt0040897/</url>
+    <rating>4.75</rating>
+    <comments>Howard is the most stoical character I've seen in a movie in a long time. After having lost all their gold: "It's a great joke played on us by the Lord, or fate, or nature, whatever you prefer. But whoever or whatever played it certainly had a sense of humor!" (laughing uncontrollably).</comments>
+    <image>The Treasure of the Sierra Madre.jpg</image>
+  </movie>
+  <movie>
+    <date>2021-04-18</date>
+    <theater home="true"/>
+    <director>Robert Eggers</director>
+    <title>The Lighthouse</title>
+    <url>https://www.imdb.com/title/tt7984734/</url>
+    <rating>4.5</rating>
+    <comments>Technically impressive, but I didn't care at all about the main characters, which made that movie a bit frustrating.</comments>
+    <image>The Lighthouse.jpg</image>
+  </movie>
+  <movie>
+    <date>2021-04-16</date>
+    <theater home="true"/>
+    <director>Frank Capra</director>
+    <title>It Happened One Night</title>
+    <url>https://www.imdb.com/title/tt0025316/</url>
+    <rating>4.75</rating>
+    <comments>A fun movie, with many moments/scenes that couldn't exist in a recent movie (see <a href="https://en.wikipedia.org/wiki/Pre-Code_Hollywood">Pre-Code Hollywood</a>).</comments>
+    <image>It Happened One Night.jpg</image>
+  </movie>
+  <movie>
+    <date>2021-04-07</date>
+    <theater home="true"/>
+    <director>Steven Spielberg</director>
+    <title>E.T. the Extra-Terrestrial</title>
+    <url>https://www.imdb.com/title/tt0083866/</url>
+    <rating>4.5</rating>
+    <comments>Yet another film to see with my son someday. Not bad.</comments>
+    <image>E.T. the Extra-Terrestrial.jpg</image>
+  </movie>
+  <movie>
+    <date>2021-04-06</date>
+    <theater home="true"/>
+    <director>Kar-Wai Wong</director>
+    <title>In the Mood for Love</title>
+    <url>https://www.imdb.com/title/tt0118694/</url>
+    <rating>5.0</rating>
+    <comments>I was a bit tired when watching this film, but, still, I was really impressed by the cinematography. It's really a visually beautiful movie. A lot of scenes are like paintings. I should watch it again someday.</comments>
+    <image>In the Mood for Love.jpg</image>
+  </movie>
+  <movie>
+    <date>2021-04-02</date>
+    <theater home="true"/>
+    <director>John McTiernan</director>
+    <title>Die Hard</title>
+    <url>https://www.imdb.com/title/tt0095016/</url>
+    <rating>4.5</rating>
+    <comments>An entertaining, but quite violent movie. Definitely of its time, with car phones and cassettes.</comments>
+    <image>Die Hard.jpg</image>
+  </movie>
+  <movie>
+    <date>2021-04-02</date>
+    <theater home="true"/>
+    <director>Corina Schwingruber Ilić</director>
+    <title>All Inclusive</title>
+    <url>https://www.imdb.com/title/tt8958890/</url>
+    <rating>4.0</rating>
+    <comments>"Le court du mois d'avril est l'excellent documentaire All Inclusive de Corina Schwingruber Ilić, à voir peut-être comme un film d'anticipation. Sélectionné pour sa première mondiale à la Mostra de Venise 2018 puis dans plus de 100 festivals, All Inclusive a notamment gagné le Prix du cinéma suisse 2019 du meilleur court métrage."</comments>
+    <image>All Inclusive.jpg</image>
+  </movie>
+  <movie>
+    <date>2021-03-24</date>
+    <theater home="true"/>
+    <director>Andrei Tarkovsky</director>
+    <title>Stalker</title>
+    <url>https://www.imdb.com/title/tt0079944/</url>
+    <rating>5.0</rating>
+    <comments>I can see why people find this movie too long or boring. At this point in my life, I probably have enough patience to watch a tree grow for several hours, so the slow pace didn't bother me. Anyway, this was my first Tarkovsky movie and it really intrigued me, from start to finish. The colors, the weird imagery, the constant mystery, the actors looking directly at the camera, etc. It kind of reminded me of Ingmar Bergman and David Lynch at the same time, but I have the feeling that Tarkovsky's movies are a little more resistant to rational analysis (than e.g. Lynch's).</comments>
+    <image>Stalker.jpg</image>
+  </movie>
+  <movie>
+    <date>2021-03-20</date>
+    <theater home="true"/>
+    <director>Sergio Pablos &amp; Carlos Martínez López</director>
+    <title>Klaus</title>
+    <url>https://www.imdb.com/title/tt4729430/</url>
+    <rating>4.5</rating>
+    <comments>Not bad, but definitely less sophisticated than animated films such as <i>Soul</i>, for example. This is, again, something we should watch with our son in a few years.</comments>
+    <image>Klaus.jpg</image>
+  </movie>
+  <movie>
+    <date>2021-03-11</date>
+    <theater home="true"/>
+    <director>Majid Majidi</director>
+    <title>Bacheha-Ye aseman</title>
+    <title language="en">Children of Heaven</title>
+    <url>https://www.imdb.com/title/tt0118849/</url>
+    <rating>4.5</rating>
+    <comments>Not a bad movie, but a children move nevertheless. I guess I should watch it again in a few years with my son.</comments>
+    <image>Bacheha-Ye aseman.jpg</image>
+  </movie>
+  <movie>
+    <date>2021-02-25</date>
+    <theater home="true"/>
+    <director>Peter Farrelly</director>
+    <title>Green Book</title>
+    <url>https://www.imdb.com/title/tt6966692/</url>
+    <rating>4.5</rating>
+    <comments>Another movie I would put in the "Not bad but..." category. You don't have to be familiar with Don Shirley's life to know that this movie is overromanticized. Too many "feel good" / cliché moments.</comments>
+    <image>Green Book.jpg</image>
+  </movie>
+  <movie>
+    <date>2021-02-17</date>
+    <theater home="true"/>
+    <director>John Carpenter</director>
+    <title>The Thing</title>
+    <url>https://www.imdb.com/title/tt0084787/</url>
+    <rating>4.25</rating>
+    <comments>It's difficult not to think of <i>Alien</i> when watching <i>The Thing</i>. I know a lot of people prefer the latter over the former, but I'm not one of them. I found <i>The Thing</i> to be a bit boring / cheap-looking. It could be a good 20-minute short film, I guess</comments>
+    <image>The Thing.jpg</image>
+  </movie>
+  <movie>
+    <date>2021-02-11</date>
+    <theater home="true"/>
+    <director>Satyajit Ray</director>
+    <title>Pather Panchali</title>
+    <url>https://www.imdb.com/title/tt0048473/</url>
+    <rating>5.0</rating>
+    <comments>The first movie in the Apu trilogy. I was kind of expecting a happy ending, but it didn't happen. Still, this is a very touching movie. The story is simple. The pace is slow, but it didn't bother me (I'm a fan of <i>2001: A Space Odyssey</i>, after all). The music by Ravi Shankar was also really nice.</comments>
+    <image>Pather Panchali.jpg</image>
+  </movie>
+  <movie>
+    <date>2021-02-05</date>
+    <theater home="true"/>
+    <director>Maja Gehrig</director>
+    <title>Average Happiness</title>
+    <url>https://www.imdb.com/title/tt10481922/</url>
+    <rating>4.5</rating>
+    <comments>"Parmi de nombreux prix et sélections en Suisse et dans le monde, ce court métrage a été couronné Prix du cinéma suisse du meilleur film d'animation en 2020. Il a également fait partie de la dernière Tournée romande de la Nuit du Court métrage." Not bad. It's a bit trippy.</comments>
+    <image>Average Happiness.jpg</image>
+  </movie>
+  <movie>
     <date>2021-01-21</date>
     <theater home="true"/>
     <director>Steven Spielberg</director>
@@ -200,7 +623,7 @@
     <title>Chelovek s kino-apparatom</title>
     <title language="en">Man with a Movie Camera</title>
     <url>https://www.imdb.com/title/tt0019760/</url>
-    <rating>5.0</rating>
+    <rating>5.25</rating>
     <comments>A Russian experimental movie from 1929. No scenario. No intertitles. To be honest, it didn't sound very exciting to me. It took me a while to get used to the frenetic rhythm of the movie. And then it clicked. This is really a fantastic and important movie. Or experiment, I don't know, but it doesn't matter.</comments>
     <image>Man with a Movie Camera.jpg</image>
   </movie>
@@ -3165,7 +3588,16 @@
     <url>https://www.imdb.com/title/tt1570728/</url>
     <rating>4.75</rating>
     <image>Crazy, Stupid, Love.jpg</image>
-  </movie>  
+  </movie>
+  <movie>
+    <date>2011-11-13</date>
+    <theater home="true"/>
+    <director>Georges Méliès</director>
+    <title>Le voyage dans la lune</title>
+    <url>https://www.imdb.com/title/tt0000417/</url>
+    <rating>5.0</rating>
+    <image>Le voyage dans la lune.jpg</image>
+  </movie>
   <movie>
     <date>2011-10-14</date>
     <theater home="true"/>
@@ -5752,6 +6184,7 @@
   <movie>
     <date>2005-11-25</date>
     <theater>Bellevaux, Lausanne</theater>
+    <director>Michael Haneke</director>
     <title>Caché</title>
     <rating>4.5</rating>
     <url>https://www.imdb.com/title/tt0387898/</url>
@@ -6101,6 +6534,15 @@
     <version>fr</version>
     <url>https://www.imdb.com/title/tt0401792/</url>
     <image>Sun City.jpg</image>
+  </movie>
+  <movie>
+    <date>2005-06-05</date>
+    <theater home="true"/>
+    <director>Mary Lambert</director>
+    <title>Siesta</title>
+    <url>https://www.imdb.com/title/tt0093969/</url>
+    <comments>"Ressemble vaguement à du David Lynch, mais en plus brouillon, plus maladroit, moins complexe et [avec] une explication définitivement surnaturelle révélée à la fin. Étrange d’entendre la musique de Marcus [Miller] et Miles [Davis] dans ce contexte."</comments>
+    <image>Siesta.jpg</image>
   </movie>
   <movie>
     <date>2005-06-01</date>
@@ -7045,6 +7487,24 @@
     <version>fr</version>
   </movie>
   <movie>
+    <date>2001-11-19</date>
+    <theater home="true"/>
+    <director>John Flynn</director>
+    <title>Brainscan</title>
+    <url>https://www.imdb.com/title/tt0109327/</url>
+    <comments>"Un film médiocre".</comments>
+    <image>Brainscan.jpg</image>
+  </movie>
+  <movie>
+    <date>2001-11-18</date>
+    <theater home="true"/>
+    <director>Abel Ferrara</director>
+    <title>Body Snatchers</title>
+    <url>https://www.imdb.com/title/tt0106452/</url>
+    <comments>"Un navet".</comments>
+    <image>Body Snatchers.jpg</image>
+  </movie>
+  <movie>
     <date>2001-11-06</date>
     <title>Le Vélo De Ghislain Lambert</title>
     <version>fr</version>
@@ -7057,6 +7517,73 @@
     <date>2001-10-23</date>
     <title>Le Moulin Rouge</title>
     <version>fr</version>
+  </movie>
+  <movie>
+    <date>2001-10-09</date>
+    <theater home="true"/>
+    <director>Roman Polanski</director>
+    <title>Repulsion</title>
+    <title language="fr">Répulsion</title>
+    <url>https://www.imdb.com/title/tt0059646/</url>
+    <image>Repulsion.jpg</image>
+  </movie>
+  <movie>
+    <date>2001-10-07</date>
+    <theater home="true"/>
+    <director>Roman Polanski</director>
+    <title>Lampa</title>
+    <title language="fr">La lampe</title>
+    <version>fr</version>
+    <url>https://www.imdb.com/title/tt0052987/</url>
+    <image>Lampa.jpg</image>
+  </movie>
+  <movie>
+    <date>2001-10-07</date>
+    <theater home="true"/>
+    <director>Roman Polanski</director>
+    <title>Rozbijemy zabawe...</title>
+    <title language="fr">Cassons le bal</title>
+    <version>fr</version>
+    <url>https://www.imdb.com/title/tt0050914/</url>
+    <image>Rozbijemy zabawe....jpg</image>
+  </movie>
+  <movie>
+    <date>2001-10-03</date>
+    <theater home="true"/>
+    <director>Roman Polanski</director>
+    <title>Dwaj ludzie z szafa</title>
+    <title language="fr">Deux hommes et une armoire</title>
+    <version>fr</version>
+    <url>https://www.imdb.com/title/tt0051566/</url>
+    <image>Dwaj ludzie z szafa.jpg</image>
+  </movie>
+  <movie>
+    <date>2001-10-03</date>
+    <theater home="true"/>
+    <director>Roman Polanski</director>
+    <title>Dance of the Vampires</title>
+    <title language="fr">Le Bal des Vampires</title>
+    <version>fr</version>
+    <url>https://www.imdb.com/title/tt0061655/</url>
+    <image>The Fearless Vampire Killers.jpg</image>
+  </movie>
+  <movie>
+    <date>2001-08-16</date>
+    <theater>Paris-Miami flight</theater>
+    <director>Andrew Adamson &amp; Vicky Jenson</director>
+    <title>Shrek</title>
+    <url>https://www.imdb.com/title/tt0126029/</url>
+    <image>Shrek.jpg</image>
+  </movie>
+  <movie>
+    <date>2001-08-16</date>
+    <theater>Paris-Miami flight</theater>
+    <director>Simon Wincer</director>
+    <title>Crocodile Dundee in Los Angeles</title>
+    <title language="fr">Crocodile Dundee à Los Angeles</title>
+    <version>fr</version>
+    <url>https://www.imdb.com/title/tt0231402/</url>
+    <image>Crocodile Dundee in Los Angeles.jpg</image>
   </movie>
   <movie>
     <date>2001-08-11</date>
@@ -7095,7 +7622,7 @@
     <title>Chansons Du Deuxième Étage</title>
   </movie>
   <movie>
-    <date></date>
+    <date>2001-05-08></date>
     <title>Le Fabuleux Destin D'Amélie Poulain</title>
     <version>fr</version>
   </movie>
@@ -7133,9 +7660,27 @@
     <version>fr</version>
   </movie>
   <movie>
+    <date>2001-03-22</date>
+    <theater home="true"/>
+    <director>Jonathan Demme</director>
+    <title>The Silence of the Lambs</title>
+    <version>fr</version>
+    <url>https://www.imdb.com/title/tt0102926/</url>
+    <image>The Silence of the Lambs.jpg</image>
+  </movie>
+  <movie>
     <date>2001-03-20</date>
     <title>Vertical Limit</title>
     <version>fr</version>
+  </movie>
+  <movie>
+    <date>2001-03-19</date>
+    <theater home="true"/>
+    <director>John Irvin</director>
+    <title>Next of Kin</title>
+    <version>fr</version>
+    <url>https://www.imdb.com/title/tt0097967/</url>
+    <image>Next of Kin.jpg</image>
   </movie>
   <movie>
     <date>2001-03-19</date>
@@ -7158,6 +7703,14 @@
     <date>2001-02-06</date>
     <title>Le Pacte Des Loups</title>
     <version>fr</version>
+  </movie>
+  <movie>
+    <date>2001-02-04</date>
+    <theater home="true"/>
+    <director>Mick Jackson</director>
+    <title>Volcano</title>
+    <url>https://www.imdb.com/title/tt0120461/</url>
+    <image>Volcano.jpg</image>
   </movie>
   <movie>
     <date>2001-01-30</date>
@@ -7800,6 +8353,16 @@
     <url>https://www.imdb.com/title/tt0032138/</url>
     <comments>"[U]n film qui n'a rien d'un chef-d'œuvre, mais dont j'avais déjà souvent entendu parlé. C'est en effet de ce film que Prince a tiré le fameux chant que l'on retrouve, principalement, dans le morceau "It's Gonna Be A Beautiful Night". Je dois avouer que c'est la seule motivation qui m'a poussé à suivre ce film en entier."</comments>
     <image>The Wizard of Oz.jpg</image>
+  </movie>
+  <movie>
+    <date>1996-12-23</date>
+    <theater home="true"/>
+    <director>Stanley Kubrick</director>
+    <title>The Shining</title>
+    <title language="fr">Shining</title>
+    <url>https://www.imdb.com/title/tt0081505/</url>
+    <comments>"Il me semble que ça faisait longtemps que je n’avais pas vu un bon film à la télévision."</comments>
+    <image>The Shining.jpg</image>
   </movie>
   <movie>
     <date>1994-??-??</date>

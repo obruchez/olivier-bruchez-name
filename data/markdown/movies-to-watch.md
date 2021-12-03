@@ -4,13 +4,11 @@ Pretty much everything from [IMDb's Top 250](http://www.imdb.com/chart/top), [Le
 
 ## [Agnès Varda](http://www.imdb.com/name/nm0889513)
 
-* [Visages villages](http://www.imdb.com/title/tt5598102/) (8.0)
 * [Cléo de 5 à 7](http://www.imdb.com/title/tt0055852) (8.0)
 * [Sans toit ni loi](http://www.imdb.com/title/tt0089960) (7.8)
 
 ## [Akira Kurosawa](http://www.imdb.com/name/nm0000041/)
 
-* [Ran](http://www.imdb.com/title/tt0089881) (8.2) (recommended by [@ebruchez](https://twitter.com/ebruchez))
 * [The Hidden Fortress](http://www.imdb.com/title/tt0051808) (8.1) (recommended by [@ebruchez](https://twitter.com/ebruchez))
 
 ...
@@ -29,7 +27,6 @@ Pretty much everything from [IMDb's Top 250](http://www.imdb.com/chart/top), [Le
 
 * [Andrei Rublev](http://www.imdb.com/title/tt0060107) (8.2)
 * [Nostalgia](http://www.imdb.com/title/tt0086022) (8.2)
-* [Stalker](http://www.imdb.com/title/tt0079944) (8.1)
 * [Solaris](http://www.imdb.com/title/tt0069293) (8.1)
 * [The Sacrifice](http://www.imdb.com/title/tt0091670) (8.1)
 * [The Mirror](http://www.imdb.com/title/tt0072443) (8.1)
@@ -41,16 +38,11 @@ Pretty much everything from [IMDb's Top 250](http://www.imdb.com/chart/top), [Le
 
 * [Dunkirk](http://www.imdb.com/title/tt5013056/) (8.0)
 
-## [Danny Boyle](http://www.imdb.com/name/nm0000965)
-
-* [Trainspotting](http://www.imdb.com/title/tt0117951) (8.2)
-
 ## [Darren Aronofsky](http://www.imdb.com/name/nm0004716)
 
-* [Requiem for a Dream](http://www.imdb.com/title/tt0180093) (8.3)
 * [The Wrestler](http://www.imdb.com/title/tt1125849) (7.9)
 
-## [David Lynch](http://www.imdb.com/name/nm0000186)
+## [David Lynch](http://www.imdb.com/name/nm0000186)
 
 * [The Elephant Man](http://www.imdb.com/title/tt0080678) (8.2) (already seen)
 
@@ -68,9 +60,6 @@ Pretty much everything from [IMDb's Top 250](http://www.imdb.com/chart/top), [Le
 
 * [Scenes from a Marriage](http://www.imdb.com/title/tt6725014/) (8.6)
 * [Autumn Sonata](http://www.imdb.com/title/tt0077711/) (8.3)
-* [The Seventh Seal](http://www.imdb.com/title/tt0050976) (8.2)
-* [Wild Strawberries](http://www.imdb.com/title/tt0050986) (8.2)
-* [Persona](http://www.imdb.com/title/tt0060827) (8.1)
 * [Fanny and Alexander](http://www.imdb.com/title/tt0083922) (8.1)
 * [Cries and Whispers](http://www.imdb.com/title/tt0069467/) (8.1)
 * [The Virgin Spring](http://www.imdb.com/title/tt0053976/) (8.1)
@@ -95,13 +84,6 @@ Pretty much everything from [IMDb's Top 250](http://www.imdb.com/chart/top), [Le
 * [Women on the Verge of a Nervous Breakdown](http://www.imdb.com/title/tt0095675) (7.6)
 * [Bad Education](http://www.imdb.com/title/tt0275491) (7.5)
 
-## [Richard Linklater](http://www.imdb.com/name/nm0000500)
-
-* [Before Sunset](http://www.imdb.com/title/tt0381681) (8.1)
-* [Before Midnight](http://www.imdb.com/title/tt2209418) (7.9)
-* [Waking Life](http://www.imdb.com/title/tt0243017) (7.8)
-* [Dazed and Confused](http://www.imdb.com/title/tt0106677/) (7.7)
-
 ## [Robert Zemeckis](http://www.imdb.com/name/nm0000709)
 
 * [Contact](http://www.imdb.com/title/tt0118884) (7.4)
@@ -118,8 +100,6 @@ Pretty much everything from [IMDb's Top 250](http://www.imdb.com/chart/top), [Le
 
 ## [Stanley Kubrick](http://www.imdb.com/name/nm0000040)
 
-* [Full Metal Jacket](http://www.imdb.com/title/tt0093058) (8.3) (already seen on DVD)
-* [Barry Lyndon](http://www.imdb.com/title/tt0072684) (8.1)
 * [Spartacus](http://www.imdb.com/title/tt0054331) (7.9)
 * [Lolita](http://www.imdb.com/title/tt0056193) (7.6)
 
@@ -159,26 +139,23 @@ Pretty much everything from [IMDb's Top 250](http://www.imdb.com/chart/top), [Le
 * Dennis Hopper, [The Hot Spot](http://www.imdb.com/title/tt0099797) (6.4) (for the Miles Davis soundtrack)
 * John Huston, [Moby Dick](http://www.imdb.com/title/tt0049513) (7.4)
 * Barbara Kopple & Cecilia Peck, [Shut Up & Sing](http://www.imdb.com/title/tt0811136) (7.7)
-* Ray Kurzweil & Anthony Waller, [The Singularity is Near](http://www.imdb.com/title/tt1049412) (6.7)
 * Ken Loach, [It's a Free World](http://www.imdb.com/title/tt0807054) (7.0)
 * Kevin Macdonald, [Touching the Void](http://www.imdb.com/title/tt0379557) (8.1) (recommended by [@caryl_jones](https://twitter.com/caryl_jones))
 * Jessie Nelson, [I Am Sam](http://www.imdb.com/title/tt0277027) (7.6)
 * George Pal, [The Time Machine](http://www.imdb.com/title/tt0054387) (7.6)
 * Robert Barry Ptolemy, [Transcendent Man](http://www.imdb.com/title/tt1117394) (7.2) (documentary about Ray Kurzweil)
-* Michèle Rosier, [Mon coeur est rouge](http://www.imdb.com/title/tt0074913) (7.8) (some music composed by Keith Jarrett)
+* Michèle Rosier, [Mon coeur est rouge](http://www.imdb.com/title/tt0074913) (6.4) (some music composed by Keith Jarrett)
 * Patrick Savey, [Marcus](http://www.imdb.com/title/tt4400358) (available on iTunes)
 * Douglas Trumbull, [Brainstorm](http://www.imdb.com/title/tt0085271) (6.5) (not particularly good, saw this as a child)
 * Jacqueline Veuve, [La petite dame du Capitole](http://www.jacquelineveuve.ch/dsp_1f.php?lg=fr&fid=61) (already seen at the cinema, bought on DVD)
 
 ## Selections from [25 Spectacular Movies You (Probably) Haven’t Seen](http://www.highexistence.com/25-spectacular-movies-you-probably-havent-seen/)
 
-* Guy Ritchie, [Snatch.](http://www.imdb.com/title/tt0208092) (8.3) (seen in 2000)
 * Richard Schenkman, [The Man from Earth](http://www.imdb.com/title/tt0756683) (8.0)
 * Paul Thomas Anderson, [Magnolia](http://www.imdb.com/title/tt0175880) (8.0)
 * Tomas Alfredson, [Let the Right One In](http://www.imdb.com/title/tt1139797) (8.0)
 * Paul Thomas Anderson, [Boogie Nights](http://www.imdb.com/title/tt0118749) (7.9)
 * John Carney, [Once](http://www.imdb.com/title/tt0907657) (7.9)
-* Richard Linklater, [Waking Life](http://www.imdb.com/title/tt0243017) (7.8)
 * Stephen Chow, [Kung Fu Hustle](http://www.imdb.com/title/tt0373074) (7.8)
 * Woody Allen, [Midnight in Paris](http://www.imdb.com/title/tt1605783) (7.7) (seen in 2011)
 * Zach Braff, [Garden State](http://www.imdb.com/title/tt0333766) (7.6)
@@ -195,7 +172,7 @@ Pretty much everything from [IMDb's Top 250](http://www.imdb.com/chart/top), [Le
 * Vincent Paronnaud & Marjane Satrapi, [Persepolis](http://www.imdb.com/title/tt0808417) (8.0)
 * Tarsem Singh , [The Fall](http://www.imdb.com/title/tt0460791) (7.9)
 * Nicolas Winding Refn, [Drive](http://www.imdb.com/title/tt0780504) (7.8)
-* Shane Black, [Kiss Kiss Bang Bang](http://www.imdb.com/title/tt0373469) (7.7)
+* Shane Black, [Kiss Kiss Bang Bang](http://www.imdb.com/title/tt0373469) (7.7) (seen in 2005)
 * Rian Johnson, [Brick](http://www.imdb.com/title/tt0393109) (7.5)
 * Milos Forman, [Man on the Moon](http://www.imdb.com/title/tt0125664) (7.5)
 * Raymond De Felitta, [City Island](http://www.imdb.com/title/tt1174730) (7.4)

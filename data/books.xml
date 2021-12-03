@@ -2,13 +2,126 @@
 <books created="2006-08-20">
     <introduction>A list of books I read.</introduction>
     <book>
+        <date></date>
+        <title>L'Immortalité</title>
+        <author>Milan Kundera</author>
+        <publishingyear>1988</publishingyear>
+        <rating></rating>
+        <url>https://fr.wikipedia.org/wiki/L%27Immortalit%C3%A9</url>
+        <notes description="Kindle highlights"></notes>
+        <comments></comments>
+        <image>L'Immortalité.jpg</image>
+    </book> 
+    <book>
+        <date>2021-11-25</date>
+        <title>Fahrenheit 451</title>
+        <author>Ray Bradbury</author>
+        <publishingyear>1953</publishingyear>
+        <rating>4.75</rating>
+        <url>https://fr.wikipedia.org/wiki/Fahrenheit_451</url>
+        <notes description="Kindle highlights">Fahrenheit 451 (Ray Bradbury).md</notes>
+        <comments>A classic I hadn't read yet. I don't know why, but it evoked eerie and dream-like images in my mind, instead of futuristic ones. I could see David Lynch working on an adaptation. Strangely, it was François Truffaut who directed <a href="https://www.imdb.com/title/tt0060390/">an adaptation of it in 1966</a>, which I'll probably see soon, out of curiosity.</comments>
+        <image>Fahrenheit 451.jpg</image>
+    </book>
+    <book>
+        <date>2021-10-29</date>
+        <title>Le Nom de la rose</title>
+        <author>Umberto Eco</author>
+        <publishingyear>1980</publishingyear>
+        <rating>5.25</rating>
+        <url>https://fr.wikipedia.org/wiki/Le_Nom_de_la_rose_(roman)</url>
+        <notes description="Kindle highlights">Le Nom de la rose (Umberto Eco).md</notes>
+        <comments>I watched the movie a long time ago (probably in the 90s). I still remember some aspects of it, which influenced my reading (e.g. picturing William of Baskerville as Sean Connery...). The book itself is brilliant, full of long parts about specific elements, such as a dream Adso had, inspired by the Coena Cypriani, which I really liked (it's very Rabelaisesque at times). Probably a book I'll read again in the future.</comments>
+        <image>Le Nom de la rose.jpg</image>
+    </book> 
+    <book>
+        <date>2021-08-03</date>
+        <title>Prince and the Parade and Sign O' The Times Era Studio Sessions: 1985 and 1986</title>
+        <author>Duane Tudhal</author>
+        <publishingyear>2021</publishingyear>
+        <rating>5.25</rating>
+        <url>https://books.google.com/books?id=zJ4qEAAAQBAJ</url>
+        <notes description="Kindle highlights">Prince and the Parade and Sign O' The Times Era Studio Sessions - 1985 and 1986 (Duane Tudahl).md</notes>
+        <comments>A brilliant book, even better than the previous one. I could almost copy-paste my comments for the book about 1983-84. At the time, I concluded: "He was a really hard-working artist." Yes, Prince was a genius, but he was also very lonely. And weird. It's quite obvious that he worked so much because he didn't really know what to do when not playing music. I hope more books will be released, especially about the 1987-88 years.</comments>
+        <image>Prince and the Parade and Sign O' The Times Era Studio Sessions - 1985 and 1986.jpg</image>
+    </book>
+    <book>
+        <date>2021-06-16</date>
+        <title>Radical Compassion</title>
+        <subtitle>Learning to Love Yourself and Your World with the Practice of RAIN</subtitle>
+        <author>Tara Brach</author>
+        <publishingyear>2020</publishingyear>
+        <rating>4.0</rating>
+        <url>https://books.google.com/books?id=2yWHDwAAQBAJ</url>
+        <notes description="Kindle highlights">Radical Compassion (Tara Brach).md</notes>
+        <comments>I'm quite convinced by the <a href="https://www.tarabrach.com/rain-practice-radical-compassion/">RAIN method</a> described in this book, which itself was quite average (i.e. too long for the actual amount of information it contains).</comments>
+        <image>Radical Compassion.jpg</image>
+    </book>
+    <book>
+        <date>2021-05-24</date>
+        <title>Consolations</title>
+        <subtitle>The Solace, Nourishment and Underlying Meaning of Everyday Words</subtitle>
+        <author>David Whyte</author>
+        <publishingyear>2014</publishingyear>
+        <rating>5.0</rating>
+        <url>https://books.google.com/books?id=7BC3rQEACAAJ</url>
+        <notes description="Kindle highlights">Consolations (David Whyte).md</notes>
+        <comments>My second David Whyte collection. I really like his writing. I'm also currently listening to him reading his essays in Sam Harris' Waking Up app.</comments>
+        <image>Consolations.jpg</image>
+    </book>
+    <book>
+        <date>2021-05-05</date>
+        <title>Stories of Your Life and Others</title>
+        <author>Ted Chiang</author>
+        <publishingyear>2002</publishingyear>
+        <rating>5.0</rating>
+        <url>https://en.wikipedia.org/wiki/Stories_of_Your_Life_and_Others</url>
+        <notes description="Kindle highlights">Stories of Your Life and Others (Ted Chiang).md</notes>
+        <comments>Another excellent short stories collection. The movie <i>Arrival</i>, which I really like, was based on one of those stories. The only frustrating thing is that I've now apparently read pretty much everything Ted Chiang ever wrote...</comments>
+        <image>Stories of Your Life and Others.jpg</image>
+    </book>
+    <book>
+        <date>2021-04-30</date>
+        <title>The Joys and Sorrows of Parenting</title>
+        <subtitle>26 Essays to Reassure and Console</subtitle>
+        <author>The School of Life</author>
+        <publishingyear>2019</publishingyear>
+        <rating>4.25</rating>
+        <url>https://books.google.com/books?id=gLT1twEACAAJ</url>
+        <notes description="Kindle highlights">The Joys and Sorrows of Parenting (The School of Life).md</notes>
+        <comments>A bit too short/light, but not bad. I should probably read some of those essays again from time to time.</comments>
+        <image>The Joys and Sorrows of Parenting.jpg</image>
+    </book>
+    <book>
+        <date>2021-03-09</date>
+        <title>La vie est ailleurs</title>
+        <author>Milan Kundera</author>
+        <publishingyear>1969</publishingyear>
+        <rating>5.0</rating>
+        <url>https://fr.wikipedia.org/wiki/La_vie_est_ailleurs</url>
+        <notes description="Kindle highlights">La vie est ailleurs (Milan Kundera).md</notes>
+        <comments>J'ai lu ce livre il y a 21 ans. Je ne m'en souvenais quasiment plus du tout. Un roman réussi à propos de la poésie, du communisme, de l'art, de la politique, de l'amour (y compris maternel), etc. J'ai bien aimé les passages oniriques, en particulier au début. Ce mélange rêve/réalité - qu'est-ce que la réalité ? - est aussi un thème/style que j'apprécie chez David Lynch.</comments>
+        <image>La vie est ailleurs.jpg</image>
+    </book> 
+    <book>
+        <date>2021-02-07</date>
+        <title>MDMA solo</title>
+        <author>Phoenix Kaspian</author>
+        <publishingyear>2020</publishingyear>
+        <rating>3.0</rating>
+        <url>https://castaliafoundation.com/</url>
+        <notes description="Kindle highlights">MDMA solo (Phoenix Kaspian).md</notes>
+        <comments>This was a weird read. There are some good things in this book, obviously inspired by the Internal Family System (IFS) model and <i>Self-Therapy</i> book, but it sounds like it was written by someone who's really paranoid and anti-authority.</comments>
+        <image>MDMA solo.jpg</image>
+    </book>
+    <book>
         <date>2021-01-15</date>
         <title>Exhalation: Stories</title>
         <author>Ted Chiang</author>
         <publishingyear>2019</publishingyear>
         <rating>5.0</rating>
         <url>https://en.wikipedia.org/wiki/Exhalation:_Stories</url>
-        <notes description="Kindle highlights"></notes>
+        <notes description="Kindle highlights">Exhalation - Stories (Ted Chiang).md</notes>
         <comments>I discovered Ted Chiang thanks to the Very Bad Wizards podcast. This is the kind of science fiction I like. I've already bought another collection, <i>Stories of Your Life and Others</i>.</comments>
         <image>Exhalation - Stories.jpg</image>
     </book>
@@ -19,7 +132,7 @@
         <publishingyear>1972</publishingyear>
         <rating>4.75</rating>
         <url>https://fr.wikipedia.org/wiki/La_Valse_aux_adieux</url>
-        <notes description="Kindle highlights"></notes>
+        <notes description="Kindle highlights">La Valse aux adieux (Milan Kundera).md</notes>
         <comments>J'ai eu un peu de peine à entrer dans ce roman. Puis on se laisse emmener par ces destins croisés, par ces personnages dont la destinée leur échappe.</comments>
         <image>La Valse aux adieux.jpg</image>
     </book> 
@@ -357,7 +470,7 @@
         <rating>4.75</rating>
         <url>https://en.wikipedia.org/wiki/Why_We_Sleep</url>
         <notes description="Kindle highlights">Why We Sleep (Matthew Walker).md</notes>
-        <comments>Summary: we should all sleep more. Lack of sleep is bad for... pretty much everything. See also <a href="https://medlineplus.gov/magazine/issues/summer12/articles/summer12pg20.html">Tips for Getting a Good Night's Sleep</a>.</comments>
+        <comments>Summary: we should all sleep more. Lack of sleep is bad for... pretty much everything. See also <a href="https://medlineplus.gov/magazine/issues/summer12/articles/summer12pg20.html">Tips for Getting a Good Night's Sleep</a>. 2021-04-05: see <a href="https://guzey.com/books/why-we-sleep/">Matthew Walker's "Why We Sleep" Is Riddled with Scientific and Factual Errors</a>.</comments>
         <image>Why We Sleep.jpg</image>
     </book>
     <book>
@@ -1685,6 +1798,16 @@
         <rating/>
         <url>https://books.google.com/books/about/Miles.html?id=puBfGwAACAAJ</url>
         <image>Miles - L'autobiographie.jpg</image>
+    </book>
+    <book>
+        <date>1996-??-??</date>
+        <title>L'Amérique</title>
+        <author>Franz Kafka</author>
+        <publishingyear>1927</publishingyear>
+        <rating/>
+        <url>https://fr.wikipedia.org/wiki/L%27Am%C3%A9rique</url>
+        <comments>Read in 1995 or 1996.</comments>
+        <image>L'Amérique.jpg</image>
     </book>
     <book>
         <date>1996-09-21</date>

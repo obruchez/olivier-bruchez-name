@@ -113,7 +113,6 @@ Pretty much everything from [Les cent livres du siècle](https://fr.wikipedia.or
 * Aldous Huxley, ["Brave New World"](https://en.wikipedia.org/wiki/Brave_New_World) (mentioned by [@verybadwizards](https://twitter.com/verybadwizards))
 * Franz Kafka, ["L'amérique"](https://fr.wikipedia.org/wiki/L%27Am%C3%A9rique) (read during the 90s)
 * Frank Kafka, ["Le château"](https://fr.wikipedia.org/wiki/Le_Ch%C3%A2teau) (read in 2001)
-* Franz Kafka, ["La métamorphose"](https://fr.wikipedia.org/wiki/La_M%C3%A9tamorphose) (I might have already read this)
 * Franz Kafka, ["Le procès"](https://fr.wikipedia.org/wiki/Le_Proc%C3%A8s) (read in 2004)
 * Cormac McCarthy, ["The Road"](https://en.wikipedia.org/wiki/The_Road) (saw the movie in 2010 and liked it)
 * [Milan Kundera](https://en.wikipedia.org/wiki/Milan_Kundera) (re-read everything I've already read from him and read the rest)
@@ -177,7 +176,6 @@ Pretty much everything from [Les cent livres du siècle](https://fr.wikipedia.or
 
 ## Parenthood
 
-* Cyril Jost & Pierre Wazem, ["L’essentiel sur les bébés"](https://www.payot.ch/Detail/lessentiel_sur_les_bebes-cyril_jost-9782606015183)
 * Jennifer Senior, ["All Joy and No Fun: The Paradox of Modern Parenthood"](http://www.amazon.com/All-Joy-No-Fun-Parenthood/dp/0062072242)
 
 ## Personal development

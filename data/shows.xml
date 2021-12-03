@@ -10,31 +10,66 @@
   </show>
   <show>
     <date></date>
-    <name url="https://en.wikipedia.org/wiki/Hamilton%27s_Pharmacopeia">Hamilton's Pharmacopeia</name>
-    <series url="https://en.wikipedia.org/wiki/Hamilton%27s_Pharmacopeia#Season_3_(2021)" type="season">3</series>
+    <name url="https://en.wikipedia.org/wiki/Sherlock_(TV_series)">Sherlock</name>
+    <series url="https://en.wikipedia.org/wiki/Sherlock_(TV_series)#Series_2_(2012)" type="series">2</series>
     <comments></comments>
-    <image>Hamilton's Pharmacopeia.jpg</image>
+    <image>Sherlock.jpg</image>
   </show>
   <show>
-    <date></date>
-    <name url="https://en.wikipedia.org/wiki/The_Twilight_Zone_(1959_TV_series)">The Twilight Zone</name>
-    <series url="https://en.wikipedia.org/wiki/The_Twilight_Zone_(1959_TV_series,_season_5)" type="season">5</series>
-    <comments></comments>
-    <image>The Twilight Zone.jpg</image>
+    <date>2021-11-16</date>
+    <name url="https://en.wikipedia.org/wiki/Sherlock_(TV_series)">Sherlock</name>
+    <series url="https://en.wikipedia.org/wiki/Sherlock_(TV_series)#Series_1_(2010)" type="series">1</series>
+    <comments>One of the best shows ever according to IMDb. I can see why. This was a short "season" (three 90-minute episodes).</comments>
+    <image>Sherlock.jpg</image>
   </show>
   <show>
-    <date></date>
+    <date>2021-10-24</date>
+    <name url="https://en.wikipedia.org/wiki/Inside_No._9">Inside No. 9</name>
+    <series url="https://en.wikipedia.org/wiki/Inside_No._9#Series_6_(2021)" type="series">6</series>
+    <comments>After a strong start ("Wuthering Heist"), a uneven series, again. I guess I'm ready for this show to end, now.</comments>
+    <image>Inside No. 9.jpg</image>
+  </show>
+  <show>
+    <date>2021-09-08</date>
+    <name url="https://en.wikipedia.org/wiki/Rick_and_Morty">Rick and Morty</name>
+    <series url="https://en.wikipedia.org/wiki/Rick_and_Morty_(season_5)" type="season">5</series>
+    <comments>A better season than the last one, maybe? There are going to be five more seasons, if I understand correctly. At this point, I'm not sure this is a good idea.</comments>
+    <image>Rick and Morty.jpg</image>
+  </show>
+  <show>
+    <date>2021-08-31</date>
+    <name url="https://en.wikipedia.org/wiki/Fargo_(TV_series)">Fargo</name>
+    <series url="https://en.wikipedia.org/wiki/Fargo_(season_4)" type="season">4</series>
+    <comments>I didn't know anything about this season (i.e. didn't read anything about it on Reddit or elsewhere) before watching it and still found it underwhelming after a few episodes. This seems to be the consensus. It got better after a while, but barely. I really liked <a href="https://www.imdb.com/title/tt9724108/">"East/West"</a>.</comments>
+    <image>Fargo.jpg</image>
+  </show>
+  <show>
+    <date>2021-06-02</date>
     <name url="https://en.wikipedia.org/wiki/This_Is_Us_(TV_series)">This Is Us</name>
     <series url="https://en.wikipedia.org/wiki/This_Is_Us_(season_5)" type="season">5</series>
-    <comments></comments>
+    <comments>Not bad, but I think I'm ready for this show to end.</comments>
     <image>This Is Us.jpg</image>
   </show>
   <show>
-    <date></date>
+    <date>2021-04-22</date>
+    <name url="https://en.wikipedia.org/wiki/The_Twilight_Zone_(1959_TV_series)">The Twilight Zone</name>
+    <series url="https://en.wikipedia.org/wiki/The_Twilight_Zone_(1959_TV_series,_season_5)" type="season">5</series>
+    <comments>Probably the weakest season, but still some excellent episodes (e.g. <a href="https://en.wikipedia.org/wiki/Nightmare_at_20,000_Feet">"Nightmare at 20,000 Feet"</a>, <a href="https://en.wikipedia.org/wiki/An_Occurrence_at_Owl_Creek_Bridge_(film)">"An Occurrence at Owl Creek Bridge"</a>, <a href="https://en.wikipedia.org/wiki/Stopover_in_a_Quiet_Town">"Stopover in a Quiet Town"</a>, etc.).</comments>
+    <image>The Twilight Zone.jpg</image>
+  </show>
+  <show>
+    <date>2021-03-18</date>
     <name url="https://en.wikipedia.org/wiki/Westworld_(TV_series)">Westworld</name>
     <series url="https://en.wikipedia.org/wiki/Westworld_(season_3)" type="season">3</series>
-    <comments></comments>
+    <comments>For season 2, I wrote: "I'm not sure where it can go from there, though." This explains why I didn't really enjoy the third season. It has a kind of <i>Matrix</i> feel. At the same time, the anti-social networks angle is a bit too obvious/cliché.</comments>
     <image>Westworld.jpg</image>
+  </show>
+  <show>
+    <date>2021-02-14</date>
+    <name url="https://en.wikipedia.org/wiki/Hamilton%27s_Pharmacopeia">Hamilton's Pharmacopeia</name>
+    <series url="https://en.wikipedia.org/wiki/Hamilton%27s_Pharmacopeia#Season_3_(2021)" type="season">3</series>
+    <comments>As usual, some weird moments (e.g. "Xenon: the Perfect Anesthetic?") and some fun moments (e.g. "A Positive Methamphetamine Story"). This was unfortunately the last season of the show, according to a recent interview with Hamilton Morris.</comments>
+    <image>Hamilton's Pharmacopeia.jpg</image>
   </show>
   <show>
     <date>2021-01-25</date>
@@ -981,6 +1016,12 @@
     <date>2012-04-08</date>
     <name url="https://en.wikipedia.org/wiki/The_Office_(U.S._TV_series)">The Office (US)</name>
     <series url="https://en.wikipedia.org/wiki/The_Office_(U.S._season_3)" type="season">3</series>
+    <image>The Office (US).jpg</image>
+  </show>
+  <show>
+    <date>2011-10-03</date>
+    <name url="https://en.wikipedia.org/wiki/The_Office_(U.S._TV_series)">The Office (US)</name>
+    <series url="https://en.wikipedia.org/wiki/The_Office_(U.S._season_1)" type="season">1</series>
     <image>The Office (US).jpg</image>
   </show>
   <show>
