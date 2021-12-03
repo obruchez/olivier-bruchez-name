@@ -1,429 +1,474 @@
 <?xml version="1.0" encoding="utf-8"?>
-<hikes>
+<hikes created="2012-12-15">
   <introduction>A list of hikes I took.</introduction>
   <!-- TODO: add comments for new hikes? -->
   <hike>
-    <date>2019.08.04</date>
+    <date>2021-01-16</date>
+    <place>Col des Planches / Mont Chemin, Switzerland</place>
+    <!-- <pictures url=""/> -->
+    <comments>Snowshoeing.</comments>
+  </hike>
+  <hike>
+    <date>2020-10-19</date>
+    <place>Col des Planches / Crevasse / Col du Tronc / Col du Lein, Switzerland</place>
+    <pictures url="https://www.flickr.com/photos/bruchez/sets/72157716929270783"/>
+  </hike>
+  <hike>
+    <date>2020-07-05</date>
+    <place>Cabane FXB Panossière, Switzerland</place>
+    <pictures url="https://www.flickr.com/photos/bruchez/albums/72157715463933828"/>
+  </hike>
+  <hike>
+    <date>2019-08-04</date>
     <place>Louvie / Le Dâ / Le Crêt / Le Vasevay / Mauvoisin, Switzerland</place>
     <pictures url="https://www.flickr.com/photos/bruchez/albums/72157710128169942"/>
   </hike>
   <hike>
-    <date>2018.09.29</date>
+    <date>2018-09-29</date>
     <place>Tour des Lacs, Bagnes, Switzerland</place>
     <pictures url="https://www.flickr.com/photos/bruchez/sets/72157700422753421"/>
     <comments>Incomplete tour. I missed the Lac des Ougets and Lac des Adzerous (among others?).</comments>
   </hike>
   <hike>
-    <date>2018.09.13</date>
+    <date>2018-09-13</date>
     <place>Talaia de son Jaumell, Capdepera, Balearic Islands, Spain</place>
     <pictures url="https://www.flickr.com/photos/bruchez/sets/72157671479966797"/>
   </hike>
   <hike>
-    <date>2017.10.28</date>
+    <date>2017-10-28</date>
     <place>Six Blanc / Col de Mille, Switzerland</place>
     <pictures url="https://www.flickr.com/photos/bruchez/albums/72157687754736371"/>
   </hike>
   <hike>
-    <date>2017.10.01</date>
+    <date>2017-10-01</date>
     <place>Col des Mines / Croix de Coeur, Switzerland</place>
     <pictures url="https://www.flickr.com/photos/bruchez/sets/72157665630343979"/>
   </hike>
   <hike>
-    <date>2017.08.20</date>
+    <date>2017-08-20</date>
     <place>Combe de Drône / Col du Bastillon, Switzerland</place>
     <pictures url="https://www.flickr.com/photos/bruchez/sets/72157689995072986"/>
   </hike>
   <hike>
-    <date>2017.08.06</date>
+    <date>2017-08-06</date>
     <place>Cabane Brunet / Cabane FXB Panossière / Mauvoisin, Switzerland</place>
     <pictures url="https://www.flickr.com/photos/bruchez/albums/72157687710710925"/>
   </hike>
   <hike>
-    <date>2017.06.24</date>
+    <date>2017-06-24</date>
     <place>Cabane Brunet / Cabane FXB Panossière, Switzerland</place>
     <pictures url="https://www.flickr.com/photos/bruchez/sets/72157687602155316"/>
   </hike>
   <hike>
-    <date>2016.09.03</date>
+    <date>2016-09-03</date>
     <place>Sovereu / Le Dâ / Col du Bec d'Aigle / Louvie, Switzerland</place>
     <pictures url="https://www.flickr.com/photos/bruchez/sets/72157674102674510"/>
   </hike>
   <hike>
-    <date>2016.05.21</date>
+    <date>2016-05-21</date>
     <place>Clambin, Switzerland</place>
     <comments>Started from Montagnier.</comments>
     <pictures url="https://www.flickr.com/photos/bruchez/sets/72157671413342570"/>
   </hike>
   <hike>
-    <date>2016.01.24</date>
+    <date>2016-01-24</date>
     <place>Cabane Brunet, Switzerland</place>
     <comments>Ski touring.</comments>
     <pictures url="https://www.flickr.com/photos/bruchez/sets/72157667989774956/"/>
   </hike>
   <hike>
-    <date>2015.09.26</date>
+    <date>2015-09-26</date>
     <place>Combe de l'A, Switzerland</place>
     <comments>Brame du cerf.</comments>
   </hike>
   <hike>
-    <date>2015.08.12</date>
+    <date>2015-08-12</date>
     <place>Maligne Canyon / Beaver Lake / Valley of the Five Lakes, Jasper National Park, AB, Canada</place>
     <pictures url="https://www.flickr.com/photos/bruchez/sets/72157671729402665"/>
     <comments>Three separate small hikes.</comments>
   </hike>
   <hike>
-    <date>2015.08.10</date>
+    <date>2015-08-10</date>
     <place>Lake Louise / Plain of Six Glaciers / Big Beehive / Lake Agnes, Banff National Park, AB, Canada</place>
     <pictures url="https://www.flickr.com/photos/bruchez/sets/72157671636449746"/>
   </hike>
   <hike>
-    <date>2015.08.08</date>
+    <date>2015-08-08</date>
     <place>Johnston Canyon / Ink Pots, Banff National Park, AB, Canada</place>
     <pictures url="https://www.flickr.com/photos/bruchez/sets/72157671636449746"/>
   </hike>
   <hike>
-    <date>2015.08.06</date>
+    <date>2015-08-06</date>
     <place>Tow Hill / Blow Hole, Naikoon Provincial Park, BC, Canada</place>
     <pictures url="https://www.flickr.com/photos/bruchez/sets/72157671636188366"/>
     <comments>Also did the short Golden Spruce Trail in Port Clements in the afternoon.</comments>
   </hike>
   <hike>
-    <date>2015.07.31</date>
+    <date>2015-07-31</date>
     <place>Nuu Chah Nulth Trail, Pacific Rim National Park, BC, Canada</place>
     <pictures url="https://www.flickr.com/photos/bruchez/sets/72157668762236093"/>
     <comments>Also did a short section of the Pacific Wild Trail in Ucluelet the day after.</comments>
   </hike>
   <hike>
-    <date>2014.10.18</date>
+    <date>2014-10-18</date>
     <place>Golis de Servay, du Rogneux et des Otanes, Switzerland</place>
     <pictures url="https://www.flickr.com/photos/bruchez/sets/72157652566104970"/>
   </hike>
   <hike>
-    <date>2014.10.04</date>
+    <date>2014-10-04</date>
     <place>Le Crêt / Vasevay, Switzerland</place>
     <pictures url="https://www.flickr.com/photos/bruchez/sets/72157652560640799"/>
   </hike>
   <hike>
-    <date>2014.09.13</date>
+    <date>2014-09-13</date>
     <place>Cabane Brunet / Cabane FXB Panossière, Switzerland</place>
     <pictures url="https://www.flickr.com/photos/bruchez/sets/72157652562749950"/>
   </hike>
   <hike>
-    <date>2014.08.17</date>
+    <date>2014-08-17</date>
     <place>Le Catogne, Switzerland</place>
     <pictures url="https://secure.flickr.com/photos/bruchez/sets/72157646191712249/"/>
   </hike>
   <hike>
-    <date>2013.10.26</date>
+    <date>2013-10-26</date>
     <place>Col des Avouillons, Switzerland</place>
     <pictures url="https://secure.flickr.com/photos/bruchez/sets/72157637028732275/"/>
   </hike>
   <hike>
-    <date>2013.09.22</date>
+    <date>2013-09-22</date>
     <place>Sovereu / Col du Sarshlau / Ecuries du Crêt, Switzerland</place>
     <pictures url="https://secure.flickr.com/photos/bruchez/sets/72157636242618063"/>
   </hike>
   <hike>
-    <date>2013.08.31</date>
+    <date>2013-08-31</date>
     <place>Louvie / Col du Bec d'Aigle / Sovereu, Switzerland</place>
     <pictures url="https://secure.flickr.com/photos/bruchez/sets/72157636240711996/"/>
   </hike>
   <hike>
-    <date>2013.08.10</date>
+    <date>2013-08-10</date>
     <place>Cabane FXB Panossière, Switzerland</place>
     <pictures url="https://secure.flickr.com/photos/bruchez/sets/72157636194244833/"/>
   </hike>
   <hike>
-    <date>2012.10.13</date>
+    <date>2012-10-13</date>
     <place>Grand-Tsai / Col de Mille, Switzerland</place>
     <pictures url="https://secure.flickr.com/photos/bruchez/sets/72157631877647311/"/>
   </hike>
   <hike>
-    <date>2012.08.11</date>
+    <date>2012-08-11</date>
     <place>Cabane FXB Panossière / Col des Otanes, Switzerland</place>
     <pictures url="https://www.flickr.com/photos/bruchez/sets/72157631086249954/"/>
   </hike>
   <hike>
-    <date>2012.08.04</date>
+    <date>2012-08-04</date>
     <place>Cabane Brunet / Col de Lâne, Switzerland</place>
     <pictures url="https://www.flickr.com/photos/bruchez/sets/72157630960302446/"/>
   </hike>
   <hike>
-    <date>2010.10.03</date>
+    <date>2010-10-03</date>
     <place>Louvie / Le Dâ / Le Crêt, Switzerland</place>
     <pictures url="https://www.flickr.com/photos/bruchez/sets/72157625146522219/"/>
   </hike>
   <hike>
-    <date>2010.09.12</date>
+    <date>2010-09-12</date>
     <place>Cabane FXB Panossière, Switzerland</place>
     <pictures url="https://www.flickr.com/photos/bruchez/sets/72157625271313048/"/>
   </hike>
   <hike>
-    <date>2010.09.05</date>
+    <date>2010-09-05</date>
     <place>Gd-St-Bernard, Switzerland</place>
     <pictures url="https://www.flickr.com/photos/bruchez/sets/72157624768442755/"/>
   </hike>
   <hike>
-    <date>2010.06.26</date>
+    <date>2010-06-26</date>
     <place>Cabane FXB Panossière, Switzerland</place>
     <pictures url="https://www.flickr.com/photos/bruchez/sets/72157624472561093/"/>
   </hike>
   <hike>
-    <date>2009.11.01</date>
+    <date>2009-11-01</date>
     <place>Sovereu, Switzerland</place>
     <pictures url="https://www.flickr.com/photos/bruchez/sets/72157623318189240/"/>
   </hike>
   <hike>
-    <date>2009.08.29</date>
+    <date>2009-08-29</date>
     <place>Louvie, Switzerland</place>
     <!-- <pictures url=""/> -->
   </hike>
   <hike>
-    <date>2009.08.05</date>
+    <date>2009-08-05</date>
     <place>Col des Avouillons, Switzerland</place>
     <pictures url="https://www.flickr.com/photos/bruchez/sets/72157621862438517/"/>
   </hike>
   <hike>
-    <date>2009.07.05</date>
+    <date>2009-07-05</date>
     <place>Cabane Brunet, Switzerland</place>
     <pictures url="https://www.flickr.com/photos/bruchez/sets/72157621189493354/"/>
   </hike>
   <hike>
-    <date>2009.05.24</date>
+    <date>2009-05-24</date>
     <place>Verbier, Switzerland</place>
     <pictures url="https://www.flickr.com/photos/bruchez/sets/72157618775650667/"/>
   </hike>
   <hike>
-    <date>2008.11.10</date>
+    <date>2008-11-10</date>
     <place>La Pasay, Switzerland</place>
     <pictures url="https://www.flickr.com/photos/bruchez/sets/72157608874802857/"/>
   </hike>
   <hike>
-    <date>2008.10.11</date>
+    <date>2008-10-11</date>
     <place>Plan des Lires, Switzerland</place>
     <pictures url="https://www.flickr.com/photos/bruchez/sets/72157608243015592/"/>
   </hike>
   <hike>
-    <date>2008.07.27</date>
+    <date>2008-07-27</date>
     <place>Louvie, Switzerland</place>
     <pictures url="https://www.flickr.com/photos/bruchez/sets/72157606706370391/"/>
   </hike>
   <hike>
-    <date>2008.07.10</date>
+    <date>2008-07-10</date>
     <place>Mauvoisin / Cabane FXB Panossière, Switzerland</place>
     <pictures url="https://www.flickr.com/photos/bruchez/sets/72157606704977839/"/>
   </hike>
   <hike>
-    <date>2008.06.22</date>
+    <date>2008-06-22</date>
     <place>Cornettes de Bise, Switzerland</place>
     <pictures url="https://www.flickr.com/photos/bruchez/sets/72157605850048638/"/>
   </hike>
   <hike>
-    <date>2007.11.04</date>
+    <date>2007-11-04</date>
     <place>Combe de Drône, Switzerland</place>
     <pictures url="https://www.flickr.com/photos/bruchez/sets/72157603180282255/"/>
   </hike>
   <hike>
-    <date>2007.10.14</date>
+    <date>2007-10-14</date>
     <place>Combe de l'A, Switzerland</place>
     <pictures url="https://www.flickr.com/photos/bruchez/sets/72157602454817310/"/>
   </hike>
   <hike>
-    <date>2007.10.07</date>
+    <date>2007-10-07</date>
     <place>Pointe de Toules / Annibal Wall, Switzerland</place>
     <pictures url="https://www.flickr.com/photos/bruchez/sets/72157602320638822/"/>
   </hike>
   <hike>
-    <date>2007.08.12</date>
+    <date>2007-08-12</date>
     <place>Cabane du Vélan, Switzerland</place>
     <pictures url="https://www.flickr.com/photos/bruchez/sets/72157601416190750/"/>
   </hike>
   <hike>
-    <date>2007.07.14</date>
+    <date>2007-07-14</date>
     <place>Le Dâ / Le Crêt, Switzerland</place>
     <pictures url="https://www.flickr.com/photos/bruchez/sets/72157600886429948/"/>
   </hike>
   <hike>
-    <date>2007.06.23</date>
+    <date>2007-06-23</date>
     <place>Cabane FXB Panossière / Cabane Brunet, Switzerland</place>
     <pictures url="https://www.flickr.com/photos/bruchez/sets/72157600484703814/"/>
   </hike>
   <hike>
-    <date>2007.06.10</date>
+    <date>2007-06-10</date>
     <place>Sovereu, Switzerland</place>
     <pictures url="https://www.flickr.com/photos/bruchez/sets/72157600412408173/"/>
   </hike>
   <hike>
-    <date>2006.11.04</date>
+    <date>2006-11-04</date>
     <place>Le Crêt / Plan des Lires, Switzerland</place>
     <pictures url="https://www.flickr.com/photos/bruchez/sets/72157594364454836/"/>
   </hike>
   <hike>
-    <date>2006.10.28</date>
+    <date>2006-10-28</date>
     <place>Les Ruinettes / La Chaux, Switzerland</place>
     <pictures url="https://www.flickr.com/photos/bruchez/sets/72157594355340813/"/>
   </hike>
   <hike>
-    <date>2006.10.22</date>
+    <date>2006-10-22</date>
     <place>Louvie / Sovereu</place>
     <pictures url="https://www.flickr.com/photos/bruchez/sets/72157594342543116/"/>
   </hike>
   <hike>
-    <date>2006.09.24</date>
+    <date>2006-09-24</date>
     <place>Six Blanc / Col de Mille, Switzerland</place>
     <pictures url="https://www.flickr.com/photos/bruchez/sets/72157594301635762/"/>
   </hike>
   <hike>
-    <date>2006.09.10</date>
+    <date>2006-09-10</date>
     <place>Cabane FXB Panossière / Cabane Brunet, Switzerland</place>
     <pictures url="https://www.flickr.com/photos/bruchez/sets/72157594281639490/"/>
   </hike>
   <hike>
-    <date>2006.09.09</date>
+    <date>2006-09-09</date>
     <place>Bonatchiesse / Mauvoisin, Switzerland</place>
     <pictures url="https://www.flickr.com/photos/bruchez/sets/72157594292190703/"/>
   </hike>
   <hike>
-    <date>2006.08.27</date>
+    <date>2006-08-27</date>
     <place>Sovereu, Switzerland</place>
     <pictures url="https://www.flickr.com/photos/bruchez/sets/72157594262884108/"/>
   </hike>
   <hike>
-    <date>2006.07.30</date>
+    <date>2006-07-30</date>
     <place>Dents de Morcles, Switzerland</place>
     <pictures url="https://www.flickr.com/photos/bruchez/sets/72157594247656440/"/>
   </hike>
   <hike>
-    <date>2006.07.09</date>
+    <date>2006-07-09</date>
     <place>Mauvoisin, Switzerland</place>
     <pictures url="https://www.flickr.com/photos/bruchez/sets/72157594248803128/"/>
   </hike>
   <hike>
-    <date>2006.07.02</date>
+    <date>2006-07-02</date>
     <place>Bonatchiesse / Mauvoisin, Switzerland</place>
     <pictures url="https://www.flickr.com/photos/bruchez/sets/72157594249350785/"/>
   </hike>
   <hike>
-    <date>2005.10.29</date>
+    <date>2005-10-29</date>
     <place>Louvie / Le Crêt, Switzerland</place>
     <pictures url="https://www.flickr.com/photos/bruchez/sets/72157594269883976/"/>
   </hike>
   <hike>
-    <date>2005.05.01</date>
+    <date>2005-05-01</date>
     <place>Verbier, Switzerland</place>
     <pictures url="https://www.flickr.com/photos/bruchez/sets/407188/"/>
   </hike>
   <hike>
-    <date>2004.08.01</date>
+    <date>2004-08-01</date>
     <place>Mont Rogneux, Switzerland</place>
     <pictures url="https://www.flickr.com/photos/bruchez/sets/72057594077094542/"/>
   </hike>
   <hike>
-    <date>2004.06.27</date>
+    <date>2004-06-27</date>
     <place>Dent de Morcles, Switzerland</place>
     <pictures url="https://www.flickr.com/photos/bruchez/sets/72057594076927018/"/>
   </hike>
   <hike>
-    <date>2003.09.22</date>
+    <date>2003-09-22</date>
     <place>Pierre Avoi, Switzerland</place>
     <pictures url="https://www.flickr.com/photos/bruchez/sets/72057594073525360/"/>
   </hike>
   <hike>
-    <date>2003.09.20</date>
+    <date>2003-09-20</date>
     <place>Col des Avouillons, Switzerland</place>
     <pictures url="https://www.flickr.com/photos/bruchez/sets/72057594073496476/"/>
   </hike>
   <hike>
-    <date>2003.09.14</date>
+    <date>2003-09-14</date>
     <place>Col du Crêt, Switzerland</place>
     <pictures url="https://www.flickr.com/photos/bruchez/sets/72057594076475552/"/>
   </hike>
   <hike>
-    <date>2003.08.09</date>
+    <date>2003-08-09</date>
     <place>Chanrion, Switzerland</place>
     <pictures url="https://www.flickr.com/photos/bruchez/sets/72057594073531851/"/>
     <comments>Two-day hike.</comments>
   </hike>
   <hike>
-    <date>2003.08.02</date>
+    <date>2003-08-02</date>
     <place>Hérémence, Switzerland</place>
     <pictures url="https://www.flickr.com/photos/bruchez/sets/72057594076463463/"/>
   </hike>
   <hike>
-    <date>2003.07.26</date>
+    <date>2003-07-26</date>
     <place>Lacs de Fully, Switzerland</place>
     <pictures url="https://www.flickr.com/photos/bruchez/sets/72057594076921259/"/>
   </hike>
   <hike>
-    <date>2003.07.13</date>
+    <date>2003-07-13</date>
     <place>L'Arpille, Switzerland</place>
     <pictures url="https://www.flickr.com/photos/bruchez/sets/72057594073483273/"/>
   </hike>
   <hike>
-    <date>2003.07.06</date>
+    <date>2003-07-06</date>
     <place>Sovereu, Switzerland</place>
     <pictures url="https://www.flickr.com/photos/bruchez/sets/72057594073519048/"/>
   </hike>
   <hike>
-    <date>2003.06.29</date>
+    <date>2003-06-29</date>
     <place>Col de Lâne, Switzerland</place>
     <pictures url="https://www.flickr.com/photos/bruchez/sets/72057594073491320/"/>
   </hike>
   <hike>
-    <date>2003.06.28</date>
+    <date>2003-06-28</date>
     <place>Louvie, Switzerland</place>
     <pictures url="https://www.flickr.com/photos/bruchez/sets/72057594073504133/"/>
   </hike>
   <hike>
-    <date>2003.06.09</date>
+    <date>2003-06-09</date>
     <place>Cabane FXB Panossière, Switzerland</place>
     <pictures url="https://www.flickr.com/photos/bruchez/sets/72057594073512448/"/>
   </hike>
   <hike>
-    <date>2003.07.12</date>
+    <date>2003-07-12</date>
     <place>O Tsè Da Dzeu Di Teubè, Switzerland</place>
     <pictures url="https://www.flickr.com/photos/bruchez/sets/72157594285349698/"/>
   </hike>
   <hike>
-    <date>2003.04.27</date>
+    <date>2003-04-27</date>
     <place>Col du Lein, Switzerland</place>
     <pictures url="https://www.flickr.com/photos/bruchez/sets/72057594073577128/"/>
   </hike>
   <hike>
-    <date>2002.10.13</date>
+    <date>2002-10-13</date>
     <place>Combe de l'A, Switzerland</place>
     <pictures url="https://www.flickr.com/photos/bruchez/sets/72057594076457902/"/>
   </hike>
   <hike>
-    <date>1999.10.22</date>
-    <place>Les Ruinettes / Les Attelas, Switzerland</place>
+    <date>2000-11-05</date>
+    <place>Col des Planches, etc., Switzerland</place>
+    <!-- <pictures url=""/> -->
   </hike>
   <hike>
-    <date>1999.10.17</date>
-    <place>Six Blanc, Switzerland</place>
+    <date>2000-10-22</date>
+    <place>Planards / Ruinettes, Switzerland</place>
   </hike>
   <hike>
-    <date>1999.08.13</date>
+    <date>2000-09-09</date>
+    <place>Le Catogne, Switzerland</place>
+  </hike>
+  <hike>
+    <date>2000-08-26</date>
+    <place>Six Blanc / Col de Mille, Switzerland</place>
+  </hike>
+  <hike>
+    <date>2000-08-13</date>
     <place>La Chaux / Louvie (Sentier des Chamois), Switzerland</place>
   </hike>
   <hike>
-    <date>1999.08.03</date>
+    <date>2000-07-23</date>
+    <place>Moay / La Pasay, Switzerland</place>
+  </hike>
+  <hike>
+    <date>2000-07-18</date>
+    <place>Mauvoisin / Chanrion, Switzerland</place>
+  </hike>
+  <hike>
+    <date>1999-10-22</date>
+    <place>Les Ruinettes / Les Attelas, Switzerland</place>
+  </hike>
+  <hike>
+    <date>1999-10-17</date>
+    <place>Six Blanc, Switzerland</place>
+  </hike>
+  <hike>
+    <date>1999-08-13</date>
+    <place>La Chaux / Louvie (Sentier des Chamois), Switzerland</place>
+  </hike>
+  <hike>
+    <date>1999-08-03</date>
     <place>Sovereu, Switzerland</place>
   </hike>
   <hike>
-    <date>1999.07.31</date>
+    <date>1999-07-31</date>
     <place>Col du Lein / Pierre Avoi / Les Ruinettes, Switzerland</place>
   </hike>
   <hike>
-    <date>1999.07.25</date>
+    <date>1999-07-25</date>
     <place>Louvie, Switzerland</place>
   </hike>
   <hike>
-    <date>1999.07.18</date>
+    <date>1999-07-18</date>
     <place>Combe de l'A, Switzerland</place>
   </hike>
   <hike>
-    <date>1998.08.08</date>
+    <date>1998-08-08</date>
     <place>Mont Rogneux, Switzerland</place>
     <pictures url="https://www.flickr.com/photos/bruchez/sets/72157594303016728/"/>
   </hike>

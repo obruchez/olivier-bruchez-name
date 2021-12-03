@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
-<courses>
+<courses created="2015-04-04">
     <introduction>A list of MOOC courses I took.</introduction>
+    <course>
+        <date>2020-07-03</date>
+        <provider>Dessindigo</provider>
+        <name>Les bases du dessin</name>
+        <instructor>Grégoire Veauléger</instructor>
+        <url>https://www.dessindigo.com/cours-de-dessin/bases-du-dessin</url>
+        <image>Les bases du dessin.jpg</image>
+    </course>
     <course>
         <date>2019-01-28</date>
         <provider>Coursera</provider>

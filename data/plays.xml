@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<plays>
+<plays created="2006-05-11">
   <introduction>A list of plays I saw.</introduction>
   <!--
     <author></author>
@@ -9,7 +9,7 @@
     <actor></actor>
   -->
   <play>
-    <date>2018.01.12</date>
+    <date>2018-01-12</date>
     <location>Pulloff Théâtres, Lausanne, Switzerland</location>
     <name>Lucrèce Borgia</name>
     <author>Victor Hugo</author>
@@ -40,7 +40,7 @@
     -->
   </play>
   <play>
-    <date>2017.12.01</date>
+    <date>2017-12-01</date>
     <location>Salle Charles Apothéloz, Théâtre de Vidy, Lausanne, Switzerland</location>
     <name>L'Avare</name>    
     <author>Molière</author>
@@ -89,7 +89,7 @@
     <image>L'Avare.jpg</image>
   </play> 
   <play>
-    <date>2017.11.11</date>
+    <date>2017-11-11</date>
     <location>Salle Charles Apothéloz, Théâtre de Vidy, Lausanne, Switzerland</location>
     <name>Le Direktør</name>    
     <author>Lars von Trier</author>
@@ -141,7 +141,7 @@
     <image>Le Direktør.jpg</image>
   </play> 
   <play>
-    <date>2017.10.27</date>
+    <date>2017-10-27</date>
     <location>Pulloff Théâtres, Lausanne, Switzerland</location>
     <name>En découdre</name>
     <author>Luc Tartar</author>
@@ -167,7 +167,7 @@
     -->
   </play>
   <play>
-    <date>2017.10.19</date>
+    <date>2017-10-19</date>
     <location>Gershwin Theatre, New York, NY, USA</location>
     <name>Wicked</name> 
     <author>Winnie Holzman &amp; Gregory Maguire</author>
@@ -185,7 +185,7 @@
     <image>Wicked.jpg</image>
   </play>
   <play>
-    <date>2017.06.17</date>
+    <date>2017-06-17</date>
     <location>Casino Théâtre, Rolle, Switzerland</location>
     <name>Toc Toc</name>
     <author>Laurent Baffie</author>
@@ -202,7 +202,7 @@
     <image>Toc Toc.jpg</image>
   </play>
   <play>
-    <date>2017.05.19</date>
+    <date>2017-05-19</date>
     <location>Pulloff Théâtres, Lausanne, Switzerland</location>
     <name>A number</name>
     <author>Caryl Churchill</author>
@@ -214,7 +214,7 @@
     <image>A number.jpg</image>
   </play>
   <play>
-    <date>2017.02.24</date>
+    <date>2017-02-24</date>
     <location>Pulloff Théâtres, Lausanne, Switzerland</location>
     <name>On purge bébé</name>
     <author>Georges Feydeau</author>
@@ -244,7 +244,7 @@
     <image>On purge bébé.jpg</image>
   </play>
   <play>
-    <date>2017.01.13</date>
+    <date>2017-01-13</date>
     <location>Pulloff Théâtres, Lausanne, Switzerland</location>
     <name>L'enculé au chapeau</name>
     <author>Stephen Adly Guirgis</author>
@@ -266,7 +266,7 @@
     <image>L'enculé au chapeau.jpg</image>
   </play>
   <play>
-    <date>2016.12.01</date>
+    <date>2016-12-01</date>
     <location>Pulloff Théâtres, Lausanne, Switzerland</location>
     <name>Une femme à Berlin</name>
     <author>Marta Hillers</author>
@@ -286,7 +286,7 @@
     <image>Une femme à Berlin.jpg</image>
   </play>
   <play>
-    <date>2016.11.25</date>
+    <date>2016-11-25</date>
     <location>Salle Charles Apothéloz, Théâtre de Vidy, Lausanne, Switzerland</location>
     <name>Dom Juan</name>    
     <author>Molière</author>
@@ -321,7 +321,7 @@
     <image>Dom Juan.jpg</image>
   </play> 
   <play>
-    <date>2016.11.11</date>
+    <date>2016-11-11</date>
     <location>Pulloff Théâtres, Lausanne, Switzerland</location>
     <name>Blanc</name>
     <author>Emmanuelle Marie</author>
@@ -340,7 +340,7 @@
     <image>Blanc.jpg</image>
   </play>
   <play>
-    <date>2016.03.16</date>
+    <date>2016-03-16</date>
     <location>Pulloff Théâtres, Lausanne, Switzerland</location>
     <name>Caligula</name>
     <author>Albert Camus</author>
@@ -369,7 +369,7 @@
     <image>Caligula.png</image>
   </play>
   <play>
-    <date>2016.01.29</date>
+    <date>2016-01-29</date>
     <location>Le Chapiteau, Théâtre de Vidy, Lausanne, Switzerland</location>
     <name>Citizen Jobs</name>    
     <author>Jean-François Peyret</author>
@@ -379,7 +379,7 @@
     <image>Citizen Jobs.jpg</image>
   </play> 
   <play>
-    <date>2016.01.13</date>
+    <date>2016-01-13</date>
     <location>Pulloff Théâtres, Lausanne, Switzerland</location>
     <name>Le Cinoche</name>
     <author>Annie Baker</author>
@@ -403,7 +403,7 @@
     <image>Le Cinoche.jpg</image>
   </play>
   <play>
-    <date>2015.11.27</date>
+    <date>2015-11-27</date>
     <location>Salle Charles Apothéloz, Théâtre de Vidy, Lausanne, Switzerland</location>
     <name>Werther !</name>    
     <author>Johann Wolfgang von Goethe</author>
@@ -413,7 +413,7 @@
     <image>Werther.jpg</image>
   </play> 
   <play>
-    <date>2015.11.21</date>
+    <date>2015-11-21</date>
     <location>Grand Champ, Gland, Switzerland</location>
     <name>Zorghol 707</name>
     <author>Christian Rossignol</author>
@@ -438,7 +438,7 @@ Conception affiche :        Bram Dauw
     <image>Zorghol 707.jpg</image>
   </play>
   <play>
-    <date>2015.08.22</date>
+    <date>2015-08-22</date>
     <location>Carrière des Andonces, St-Triphon, Switzerland</location>
     <name>Fabrikk</name>
     <author>Karl's Kühne Gassenschau</author>
@@ -458,7 +458,7 @@ Conception affiche :        Bram Dauw
     <image>Fabrikk.jpg</image>
   </play>
   <play>
-    <date>2015.08.15</date>
+    <date>2015-08-15</date>
     <location>Theatre Under the Stars, Vancouver, BC, Canada</location>
     <name>Hairspray</name>
     <author>Mark O’Donnell &amp; Thomas Meehan</author>
@@ -517,7 +517,7 @@ Conception affiche :        Bram Dauw
     <image>Hairspray.jpg</image>
   </play>
   <play>
-    <date>2015.06.19</date>
+    <date>2015-06-19</date>
     <location>Pulloff Théâtres, Lausanne, Switzerland</location>
     <name>Paradise Now!</name>
     <author>Julie Gilbert</author>
@@ -537,7 +537,7 @@ Conception affiche :        Bram Dauw
     <image>Paradise Now.jpg</image>
   </play>
   <play>
-    <date>2015.05.13</date>
+    <date>2015-05-13</date>
     <location>Salle Charles Apothéloz, Théâtre de Vidy, Lausanne, Switzerland</location>
     <name>Derborence</name>    
     <author>Charles-Ferdinand Ramuz</author>
@@ -576,7 +576,7 @@ Conception affiche :        Bram Dauw
     <image>Derborence.jpg</image>
   </play> 
   <play>
-    <date>2015.05.01</date>
+    <date>2015-05-01</date>
     <location>Salle Charles Apothéloz, Théâtre de Vidy, Lausanne, Switzerland</location>
     <name>Les particules élémentaires</name>    
     <author>Michel Houellebecq</author>
@@ -617,7 +617,7 @@ Conception affiche :        Bram Dauw
     <image>Les particules élémentaires.jpg</image>
   </play> 
   <play>
-    <date>2015.03.13</date>
+    <date>2015-03-13</date>
     <location>Pulloff Théâtres, Lausanne, Switzerland</location>
     <name>Constellation Cendrillon</name>
     <author>Laurent Gachoud</author>
@@ -651,7 +651,7 @@ Conception affiche :        Bram Dauw
     <image>Constellation Cendrillon.jpg</image>
   </play>
   <play>
-    <date>2015.02.20</date>
+    <date>2015-02-20</date>
     <location>Pulloff Théâtres, Lausanne, Switzerland</location>
     <name>2h14</name>
     <author>David Paquet</author>
@@ -677,7 +677,7 @@ Conception affiche :        Bram Dauw
     <image>2h14.jpg</image>
   </play>
   <play>
-    <date>2015.01.16</date>
+    <date>2015-01-16</date>
     <location>Pulloff Théâtres, Lausanne, Switzerland</location>
     <name>Huit Femmes</name>
     <author>Robert Thomas</author>
@@ -706,7 +706,7 @@ Conception affiche :        Bram Dauw
     <image>Huit Femmes.jpg</image>
   </play>
   <play>
-    <date>2014.12.16</date>
+    <date>2014-12-16</date>
     <location>Salle Charles Apothéloz, Théâtre de Vidy, Lausanne, Switzerland</location>
     <name>Das Weisse vom Ei (Une île flottante)</name>    
     <author>Eugène Labiche</author>
@@ -733,7 +733,7 @@ Conception affiche :        Bram Dauw
     <image>Das Weisse vom Ei.jpg</image>
   </play> 
   <play>
-    <date>2014.12.05</date>
+    <date>2014-12-05</date>
     <location>Pulloff Théâtres, Lausanne, Switzerland</location>
     <name>Macbeth</name>
     <author>William Shakespeare</author>
@@ -752,7 +752,7 @@ Conception affiche :        Bram Dauw
     <image>Macbeth.jpg</image>
   </play>
   <play>
-    <date>2014.06.20</date>
+    <date>2014-06-20</date>
     <location>Pulloff Théâtres, Lausanne, Switzerland</location>
     <name>Ring</name>
     <author>Leonore Confino</author>
@@ -764,7 +764,7 @@ Conception affiche :        Bram Dauw
     <image>Ring.jpg</image>
   </play>
    <play>
-    <date>2014.05.09</date>
+    <date>2014-05-09</date>
     <location>Salle René Gonzalez, Théâtre de Vidy, Lausanne, Switzerland</location>
     <name>Galilée, le mécano</name>    
     <author>Marco Paolini, Francesco Niccolini &amp; Michela Signori</author>
@@ -802,7 +802,7 @@ Ombre Rosse
     <rating>4.75</rating>
   </play> 
    <play>
-    <date>2014.05.03</date>
+    <date>2014-05-03</date>
     <location>La Passerelle, Théâtre de Vidy, Lausanne, Switzerland</location>
     <name>Les Demeurées</name>    
     <author>Jeanne Benameur</author>
@@ -821,7 +821,7 @@ Danielle Milovic
     <rating>4.75</rating>
   </play> 
   <play>
-    <date>2014.04.05</date>
+    <date>2014-04-05</date>
     <location>Maison de Quartier, Lausanne, Switzerland</location>
     <name>Les Révérends</name>
     <author>Slawomir Mrözek</author>
@@ -845,7 +845,7 @@ Conception affiche :        Bram Dauw
     <rating>4.5</rating>
   </play>
    <play>
-    <date>2014.03.12</date>
+    <date>2014-03-12</date>
     <location>Théâtre Kléber-Méleau, Renens, Switzerland</location>
     <name>La double inconstance</name>
     <author>Pierre Carlet de Chamblain de Marivaux</author>
@@ -865,7 +865,7 @@ Conception affiche :        Bram Dauw
     <rating>4.75</rating>
   </play>
   <play>
-    <date>2014.03.07</date>
+    <date>2014-03-07</date>
     <location>Salle Charles Apothéloz, Théâtre de Vidy, Lausanne, Switzerland</location>
     <name>Richard III</name>    
     <author>William Shakespeare</author>
@@ -930,7 +930,7 @@ Bénédicte Ryckmans
     <rating>5.0</rating>
   </play> 
   <play>
-    <date>2014.01.22</date>
+    <date>2014-01-22</date>
     <location>Pulloff Théâtres, Lausanne, Switzerland</location>
     <name>Fureur</name>
     <author>Joanna Murray-Smith</author>
@@ -955,7 +955,7 @@ relations publiques : Claudine Corbaz
     <rating>4.75</rating>
   </play>
   <play>
-    <date>2014.01.15</date>
+    <date>2014-01-15</date>
     <location>Théâtre Kléber-Méleau, Renens, Switzerland</location>
     <name>Un mari idéal</name>
     <author>Oscar Wilde</author>
@@ -972,7 +972,7 @@ relations publiques : Claudine Corbaz
     <rating>5.0</rating>
   </play>
   <play>
-    <date>2013.11.20</date>
+    <date>2013-11-20</date>
     <location>Théâtre Kléber-Méleau, Renens, Switzerland</location>
     <name>La dame de la mer</name>
     <author>Henrik Ibsen</author>
@@ -993,7 +993,7 @@ Par le Teatro Malandro – mise en scène Omar Porras – avec Sophie Botte, Oli
     <rating>5.5</rating>
   </play>
   <play>
-    <date>2013.11.06</date>
+    <date>2013-11-06</date>
     <location>Salle Charles Apothéloz, Théâtre de Vidy, Lausanne, Switzerland</location>
     <name>Le triomphe de l'amour</name>    
     <author>Pierre Carlet de Chamblain de Marivaux</author>
@@ -1025,7 +1025,7 @@ Elsa Revol
     <rating>5.0</rating>
   </play>  
   <play>
-    <date>2013.08.10</date>
+    <date>2013-08-10</date>
     <location>Café du Mont-Fort, Sarreyer, Switzerland</location>
     <name>Le Défi</name>
     <author>Jean-Michel May</author>
@@ -1054,7 +1054,7 @@ Elle était intitulée Le Défi. Elle présentait l'histoire d'une troupe prépa
     <rating>3.25</rating>
   </play>
   <play>
-    <date>2013.05.19</date>
+    <date>2013-05-19</date>
     <location>Theater des Westens, Berlin, Switzerland</location>
     <name>Tanz der Vampire</name> 
     <author>Michael Kunze</author>
@@ -1073,7 +1073,7 @@ Elle était intitulée Le Défi. Elle présentait l'histoire d'une troupe prépa
     <image>Tanz der Vampire.jpg</image>
   </play>
   <play>
-    <date>2012.08.18</date>
+    <date>2012-08-18</date>
     <location>Le Bouveret, Switzerland</location>
     <name>Mamie Google</name> 
     <author>Thierry Pahud</author>
@@ -1084,7 +1084,7 @@ Elle était intitulée Le Défi. Elle présentait l'histoire d'une troupe prépa
     <image>Mamie Google.jpg</image>
   </play>
   <play>
-    <date>2012.03.17</date>
+    <date>2012-03-17</date>
     <location>Salle de jeunesse, Sarreyer, Switzerland</location>
     <name>Donne-moi ton coeur</name>
     <author>Roberto Capezzone</author>
@@ -1102,7 +1102,7 @@ N.-B. Tout rapprochement avec des situations ou des personnages ayant réellemen
     <image>Donne-moi ton coeur.jpg</image>
   </play> 
   <play>
-    <date>2012.02.24</date>
+    <date>2012-02-24</date>
     <location>Théâtre Kléber-Méleau, Renens, Switzerland</location>
     <name>Ballade de la geôle de Reading et deux contes</name>
     <author>Oscar Wilde</author>
@@ -1127,7 +1127,7 @@ Les contes nous feront retrouver la grâce et l’humour du grand écrivain irla
     <rating>4.5</rating>
   </play>
   <play>
-    <date>2012.02.15</date>
+    <date>2012-02-15</date>
     <location>Salle Charles Apothéloz, Théâtre de Vidy, Lausanne, Switzerland</location>
     <name>Histoire du soldat</name>
     <author>Charles-Ferdinand Ramuz</author>
@@ -1171,7 +1171,7 @@ Geoffroy Jourdain
     <image>Histoire du soldat.jpg</image>
   </play>    
   <play>
-    <date>2012.02.01</date>
+    <date>2012-02-01</date>
     <location>Salle de répétition, Théâtre de Vidy, Lausanne, Switzerland</location>
     <name>La fausse suivante (ou le fourbe puni)</name>
     <author>Pierre Carlet de Chamblain de Marivaux</author>
@@ -1209,7 +1209,7 @@ Olivier Valcarcel
     <image>La fausse suivante (ou le fourbe puni).jpg</image>
   </play>  
   <play>
-    <date>2012.01.11</date>
+    <date>2012-01-11</date>
     <location>La Passerelle, Théâtre de Vidy, Lausanne, Switzerland</location>
     <name>Lettre au père</name>
     <author>Franz Kafka</author>
@@ -1236,7 +1236,7 @@ Christian Dubet
     <image>Lettre au pè̀re.jpg</image>
   </play>  
   <play>
-    <date>2011.12.21</date>
+    <date>2011-12-21</date>
     <location>Salle Charles Apothéloz, Théâtre de Vidy, Lausanne, Switzerland</location>
     <name>Quartier lointain</name>
     <author>Jirô Taniguchi</author>
@@ -1292,7 +1292,7 @@ Muriel Maggos
     <image>Quartier lointain.jpg</image>
   </play>
   <play>
-    <date>2011.12.14</date>
+    <date>2011-12-14</date>
     <location>Salle de répétition, Théâtre de Vidy, Lausanne, Switzerland</location>
     <name>Les Juifs</name>
     <author>Gotthold Ephraïm Lessing</author>
@@ -1327,7 +1327,7 @@ Katrin Zingg
     <image>Les Juifs.jpg</image>
   </play>
   <play>
-    <date>2011.12.10</date>
+    <date>2011-12-10</date>
     <location>Château d'Oron, Oron-le-Châtel, Switzerland</location>
     <name>Vengeances et Délices</name>
     <author>?</author>
@@ -1336,7 +1336,7 @@ Katrin Zingg
     <rating>4.0</rating>
   </play>
   <play>
-    <date>2011.11.15</date>
+    <date>2011-11-15</date>
     <location>Salle Charles Apothéloz, Théâtre de Vidy, Lausanne, Switzerland</location>
     <name>Deux hommes jonglaient dans leur tête</name>
     <author>Roland Auzet, Jérôme Thomas &amp; Mathurin Bolze</author>
@@ -1363,7 +1363,7 @@ Robert Hébrard
     <image>Deux hommes jonglaient dans leur tête.jpg</image>
   </play>
   <play>
-    <date>2011.11.08</date>
+    <date>2011-11-08</date>
     <location>Chapiteau Vidy-L, Théâtre de Vidy, Lausanne, Switzerland</location>
     <name>Amours chagrines</name>
     <author>Emanuelle delle Piane</author>
@@ -1410,7 +1410,7 @@ Dramuscules choisis et ordonnés par Patrick Haggiag.
     <image>Amours chagrines.jpg</image>
   </play>
   <play>
-    <date>2011.11.05</date>
+    <date>2011-11-05</date>
     <location>Casino, Saxon, Switzerland</location>
     <name>La bonne planque</name>
     <author>Michel André</author>
@@ -1425,7 +1425,7 @@ Dramuscules choisis et ordonnés par Patrick Haggiag.
     <rating>3.0</rating>
   </play>  
   <play>
-    <date>2011.10.29</date>
+    <date>2011-10-29</date>
     <location>Théâtre de Marens, Nyon, Switzerland</location>
     <name>Hors-Piste</name>
     <author>Eric Delcourt</author>
@@ -1448,7 +1448,7 @@ Decors 	 	Maryline Zimmermann
     <image>Hors-Piste.png</image>
   </play>
   <play>
-    <date>2011.10.12</date>
+    <date>2011-10-12</date>
     <location>Salle Charles Apothéloz, Théâtre de Vidy, Lausanne, Switzerland</location>
     <name>Lignes de faille</name>
     <author>Nancy Huston</author>
@@ -1495,7 +1495,7 @@ Anne-Florence Schneider
     <image>Lignes de faille.jpg</image>
   </play>
   <play>
-    <date>2011.09.20</date>
+    <date>2011-09-20</date>
     <location>Salle Charles Apothéloz, Théâtre de Vidy, Lausanne, Switzerland</location>
     <name>Tartuffe</name>
     <author>Molière</author>
@@ -1555,7 +1555,7 @@ Joël L’Hopitalier
     <image>Tartuffe.jpg</image>
   </play>
   <play>
-    <date>2011.05.12</date>
+    <date>2011-05-12</date>
     <location>Aula des Cèdres, Lausanne, Switzerland</location>
     <name>Le médecin malgré lui ou le toubib à l'insu de son plein gré</name>  
     <author>Molière</author>
@@ -1574,7 +1574,7 @@ Joël L’Hopitalier
     <image>Le médecin malgré lui ou le toubib à l'insu de son plein gré.jpg</image>
   </play>
   <play>
-    <date>2011.04.01</date>
+    <date>2011-04-01</date>
     <location>Maison Villeagoise, Cugy, Switzerland</location>
     <name>Le Cauchemar d'Arthur Flock</name>
     <author>Bernard Novet</author>
@@ -1584,7 +1584,7 @@ Joël L’Hopitalier
     <image>Le Cauchemar d'Arthur Flock.jpg</image>
   </play>
   <play>
-    <date>2011.01.27</date>
+    <date>2011-01-27</date>
     <location>Théâtre du Léman, Geneva, Switzerland</location>
     <name>Les Monologues du Vagin</name>
     <author>Eve Ensler</author>
@@ -1597,7 +1597,7 @@ Joël L’Hopitalier
     <image>Les Monologues du Vagin.jpg</image>
   </play>
   <play>
-    <date>2010.11.18</date>
+    <date>2010-11-18</date>
     <location>Salle Charles Apothéloz, Théâtre de Vidy, Lausanne, Switzerland</location>
     <name>Les chaises</name>
     <author>Eugène Ionesco</author>
@@ -1624,7 +1624,7 @@ Joël L’Hopitalier
     <image>Les chaises.jpg</image>
   </play>
   <play>
-    <date>2010.10.01</date>
+    <date>2010-10-01</date>
     <location>Carrière des Andonces, St-Triphon, Switzerland</location>
     <name>Silo 8</name>
     <author>Karl's Kühne Gassenschau</author>
@@ -1644,7 +1644,16 @@ Joël L’Hopitalier
     <image>Silo 8.jpg</image>
   </play>
   <play>
-    <date>2010.05.04</date>
+    <date>2010-07-30</date>
+    <location>Le Bouveret, Switzerland</location>
+    <name>Les Brigades du Tigre</name>
+    <author>Alexis Giroud</author>
+    <director>Olivier Duperrex</director>
+    <actor>Théâtre du Croûtion</actor>
+    <image>Les Brigades du Tigre.jpg</image>
+  </play>
+  <play>
+    <date>2010-05-04</date>
     <location>Salle Charles Apothéloz, Théâtre de Vidy, Lausanne, Switzerland</location>
     <name>Raoul</name>
     <author>James Thiérrée</author>
@@ -1678,7 +1687,7 @@ Joël L’Hopitalier
     <image>Raoul.jpg</image>
   </play>
   <play>
-    <date>2010.03.27</date>
+    <date>2010-03-27</date>
     <location>Le Moulin, Sarreyer, Switzerland</location>
     <name>Midi dernier délai</name>  
     <author>Jean-Claude Martineau</author>
@@ -1697,7 +1706,7 @@ Joël L’Hopitalier
     <image>Midi dernier délai.png</image>
   </play>
   <play>
-    <date>2010.03.18</date>
+    <date>2010-03-18</date>
     <location>Théâtre Kléber-Méleau, Renens, Switzerland</location>
     <name>Phèdre</name>
     <author>Jean Racine</author>
@@ -1715,7 +1724,7 @@ Joël L’Hopitalier
     <image>Phèdre.jpg</image>
   </play>    
     <play>
-    <date>2009.12.11</date>
+    <date>2009-12-11</date>
     <location>Théâtre Kléber-Méleau, Renens, Switzerland</location>
     <name>Rosa, la vie</name>
     <author>Rosa Luxemburg</author>
@@ -1726,7 +1735,7 @@ Joël L’Hopitalier
     <image>Rosa, la vie.jpg</image>
   </play>
     <play>
-    <date>2009.11.20</date>
+    <date>2009-11-20</date>
     <location>Salle Charles Apothéloz, Théâtre de Vidy, Lausanne, Switzerland</location>
     <name>Pourquoi la cuisine ?</name>
     <author>Mladen Materic &amp; Peter Handke</author>
@@ -1758,7 +1767,7 @@ Joël L’Hopitalier
     <image>Pourquoi la cuisine.jpg</image>
   </play>
     <play>
-    <date>2009.11.18</date>
+    <date>2009-11-18</date>
     <location>La Passerelle, Théâtre de Vidy, Lausanne, Switzerland</location>
     <name>La musica deuxième</name>
     <author>Marguerite Duras</author>
@@ -1772,7 +1781,7 @@ Joël L’Hopitalier
     <image>La musica deuxième.jpg</image>
   </play>
   <play>
-    <date>2009.11.10</date>
+    <date>2009-11-10</date>
     <location>Théâtre 2.21, Lausanne, Switzerland</location>
     <name>Comédie</name>
     <author>Samuel Beckett</author>
@@ -1788,7 +1797,7 @@ Joël L’Hopitalier
     <image>Comédie.jpg</image>
   </play>
     <play>
-    <date>2009.09.10</date>
+    <date>2009-09-10</date>
     <location>Débarcadère, Cully, Switzerland</location>
     <name>Le Garçon Savoyard</name>
     <author>Charles-Ferdinand Ramuz</author>
@@ -1804,7 +1813,7 @@ Joël L’Hopitalier
     <image>Le Garçon Savoyard.jpg</image>
   </play>
   <play>
-    <date>2009.08.28</date>
+    <date>2009-08-28</date>
     <location>Champsec, Switzerland</location>
     <name>Ma forêt, mon fleuve</name>
     <author>S. Corinna Bille</author>
@@ -1831,7 +1840,7 @@ Joël L’Hopitalier
     <image>Ma forêt, mon fleuve.png</image>
   </play>
   <play>
-    <date>2009.08.08</date>
+    <date>2009-08-08</date>
     <location>Issert, Switzerland</location>
     <name>Un violon sur le toit</name>
     <author>Joseph Stein</author>
@@ -1848,7 +1857,7 @@ Joël L’Hopitalier
     <image>Un violon sur le toit.jpg</image>
   </play>
   <play>
-    <date>2008.09.03</date>
+    <date>2008-09-03</date>
     <location>Amphithéâtre, Martigny, Switzerland</location>
     <name>Martignix</name>
     <author>Alexis Giroud &amp; Yann Lambiel</author>
@@ -1877,11 +1886,11 @@ Joël L’Hopitalier
     <image>Martignix.jpg</image>
   </play>
   <play>
-    <date>2008.07.18</date>
+    <date>2008-07-18</date>
     <location>Le Bouveret, Switzerland</location>
     <name>Le Comte De Monte-Cristo</name> 
     <author>Alexandre Dumas</author>
-    <director>Olivier Duperrrex</director>
+    <director>Olivier Duperrex</director>
     <adaptation>Gil Pidoux</adaptation>
     <actor>Théâtre du Croûtion</actor>
     <!-- <person function="musique">Pascal Rinaldi</person>
@@ -1892,7 +1901,7 @@ Joël L’Hopitalier
     <image>Le Comte De Monte-Cristo.jpg</image>
   </play>
   <play>
-    <date>2008.04.29</date>
+    <date>2008-04-29</date>
     <location>La Passerelle, Théâtre de Vidy, Lausanne, Switzerland</location>
     <name>Classe</name>
     <author>Blandine Keller</author>
@@ -1906,7 +1915,7 @@ Joël L’Hopitalier
     <image>Classe.jpg</image>
   </play>
   <play>
-    <date>2008.04.18</date>
+    <date>2008-04-18</date>
     <location>Chapiteau, Théâtre de Vidy, Lausanne, Switzerland</location>
     <name>Les Caprices De Marianne</name>
     <author>Alfred de Musset</author>
@@ -1926,7 +1935,7 @@ Joël L’Hopitalier
     <image>Les Caprices De Marianne.jpg</image>
   </play>
   <play>
-    <date>2008.04.16</date>
+    <date>2008-04-16</date>
     <location>Salle Charles Apothéloz, Théâtre de Vidy, Lausanne, Switzerland</location>
     <name>La Seconde Surprise De L'Amour</name>
     <author>Pierre Carlet de Chamblain de Marivaux</author>
@@ -1953,7 +1962,7 @@ Joël L’Hopitalier
     <image>La Seconde Surprise De L'Amour.jpg</image>
   </play>
   <play>
-    <date>2008.04.08</date>
+    <date>2008-04-08</date>
     <location>Pulloff Théâtres, Lausanne, Switzerland</location>
     <name>Rapport À Une Académie</name>
     <author>Franz Kafka</author>
@@ -1976,7 +1985,7 @@ Joël L’Hopitalier
     <image>Rapport À Une Académie.jpg</image>
   </play>
   <play>
-    <date>2008.03.06</date>
+    <date>2008-03-06</date>
     <location>Espace Culturel des Terreaux, Lausanne, Switzerland</location>
     <name>Éloge De La Faiblesse</name>
     <author>Alexandre Jollien</author>
@@ -1988,7 +1997,7 @@ Joël L’Hopitalier
     <image>Éloge De La Faiblesse.jpg</image>
   </play>
   <play>
-    <date>2008.03.05</date>
+    <date>2008-03-05</date>
     <location>Pulloff Théâtres, Lausanne, Switzerland</location>
     <name>Mesure Pour Mesure</name>
     <author>William Shakespeare</author>
@@ -2022,7 +2031,7 @@ Joël L’Hopitalier
     <image>Mesure Pour Mesure.jpg</image>
   </play>
   <play>
-    <date>2008.02.20</date>
+    <date>2008-02-20</date>
     <location>Théâtre Kléber-Méleau, Renens, Switzerland</location>
     <name>Salomé</name>
     <author>Oscar Wilde</author>
@@ -2053,7 +2062,7 @@ Joël L’Hopitalier
     <image>Salomé.jpg</image>
   </play>
   <play>
-    <date>2008.02.09</date>
+    <date>2008-02-09</date>
     <location>Pulloff Théâtres, Lausanne, Switzerland</location>
     <name>Les Liaisons Dangereuses</name>
     <author>Pierre Choderlos de Laclos</author>
@@ -2089,7 +2098,7 @@ Joël L’Hopitalier
     <image>Les Liaisons Dangereuses.jpg</image>
   </play>
   <play>
-    <date>2008.01.29</date>
+    <date>2008-01-29</date>
     <location>Salle Charles Apothéloz, Théâtre de Vidy, Lausanne, Switzerland</location>
     <name>Fish Love</name>
     <author>Anton Chekhov</author>
@@ -2115,7 +2124,7 @@ Joël L’Hopitalier
     <image>Fish Love.jpg</image>
   </play>
   <play>
-    <date>2008.01.10</date>
+    <date>2008-01-10</date>
     <location>Espace Culturel des Terreaux, Lausanne, Switzerland</location>
     <name>Le clandestin et son Van Gogh</name>
     <author>Edith Cortessis</author>
@@ -2127,7 +2136,7 @@ Joël L’Hopitalier
     <image>Le clandestin et son Van Gogh.jpg</image>
   </play>
   <play>
-    <date>2007.12.06</date>
+    <date>2007-12-06</date>
     <location>Pulloff Théâtres, Lausanne, Switzerland</location>
     <name>Honour</name>
     <author>Joanna Murray-Smith</author>
@@ -2146,7 +2155,7 @@ Joël L’Hopitalier
     <image>Honour.jpg</image>
   </play>
   <play>
-    <date>2007.11.09</date>
+    <date>2007-11-09</date>
     <location>Espace Culturel des Terreaux, Lausanne, Switzerland</location>
     <name>Le Visiteur</name>
     <author>Eric-Emmanuel Schmitt</author>
@@ -2159,7 +2168,7 @@ Joël L’Hopitalier
     <image>Le Visiteur.jpg</image>
   </play>
   <play>
-    <date>2007.11.07</date>
+    <date>2007-11-07</date>
     <location>Pulloff Théâtres, Lausanne, Switzerland</location>
     <name>Il Faut Parfois Se Servir D'Un Poignard Pour Se Frayer Un Chemin</name>
     <author>Roberto Alvim</author>
@@ -2184,7 +2193,7 @@ Joël L’Hopitalier
     <image>Il Faut Parfois Se Servir D'Un Poignard Pour Se Frayer Un Chemin.jpg</image>
   </play>
   <play>
-    <date>2007.11.02</date>
+    <date>2007-11-02</date>
     <location>Salle de Répétition, Théâtre de Vidy, Lausanne, Switzerland</location>
     <name>Le Neveu De Wittgenstein</name>
     <author>Thomas Bernhard</author>
@@ -2195,7 +2204,7 @@ Joël L’Hopitalier
     <image>Le Neveu De Wittgenstein.jpg</image>
   </play>
   <play>
-    <date>2007.11.01</date>
+    <date>2007-11-01</date>
     <location>Salle Charles Apothéloz, Théâtre de Vidy, Lausanne, Switzerland</location>
     <name>Espresso</name>
     <author>?</author>
@@ -2206,7 +2215,7 @@ Joël L’Hopitalier
     <comments>Nouveau cirque.</comments>
   </play>
   <play>
-    <date>2007.09.12</date>
+    <date>2007-09-12</date>
     <location>Lyceum Theatre, London, UK</location>
     <name>The Lion King</name>
     <author>Roger Allers &amp; Irene Mecchi</author>
@@ -2234,7 +2243,7 @@ Joël L’Hopitalier
     <image>The Lion King.png</image>
   </play>
   <play>
-    <date>2007.06.16</date>
+    <date>2007-06-16</date>
     <location>Pulloff Théâtres, Lausanne, Switzerland</location>
     <name>Les Ravages De L'Ennui Chez Les Oursins</name>
     <author>Laurent Flutsch</author>
@@ -2248,7 +2257,7 @@ Joël L’Hopitalier
     <image>Les Ravages De L'Ennui Chez Les Oursins.jpg</image>
   </play>
   <play>
-    <date>2007.06.15</date>
+    <date>2007-06-15</date>
     <location>Salle Charles Apothéloz, Théâtre de Vidy, Lausanne, Switzerland</location>
     <name>Le Médecin Malgré Lui</name>
     <author>Molière</author>
@@ -2273,7 +2282,7 @@ Joël L’Hopitalier
     <image>Le Médecin Malgré Lui.jpg</image>
   </play>
   <play>
-    <date>2007.05.16</date>
+    <date>2007-05-16</date>
     <location>Salle Charles Apothéloz, Théâtre de Vidy, Lausanne, Switzerland</location>
     <name>Une Lune Pour Les Déshérités</name>
     <author>Eugène O'Neil</author>
@@ -2295,7 +2304,7 @@ Joël L’Hopitalier
     <image>Une Lune Pour Les Déshérités.jpg</image>
   </play>
   <play>
-    <date>2007.05.10</date>
+    <date>2007-05-10</date>
     <location>Théâtre Kléber-Méleau, Renens, Switzerland</location>
     <name>Les Femmes Savantes</name>
     <author>Molière</author>
@@ -2317,7 +2326,7 @@ Joël L’Hopitalier
     <rating>5.0</rating>
   </play>
   <play>
-    <date>2007.02.20</date>
+    <date>2007-02-20</date>
     <location>Bouffes Parisiens, Paris, France</location>
     <name>L'Éventail De Lady Windermere</name>
     <author>Oscar Wilde</author>
@@ -2336,7 +2345,7 @@ Joël L’Hopitalier
     <image>L'Éventail De Lady Windermere.jpg</image>
   </play>
   <play>
-    <date>2006.11.26</date>
+    <date>2006-11-26</date>
     <location>Chapiteau, Théâtre de Vidy, Lausanne, Switzerland</location>
     <name>Au Bord De L'Eau</name>
     <author>Eve Bonfanti &amp; Yves Hunstad</author>
@@ -2349,7 +2358,7 @@ Joël L’Hopitalier
     <image>Au Bord De L'Eau.jpg</image>
   </play>
   <play>
-    <date>2006.07.19</date>
+    <date>2006-07-19</date>
     <location>Vérossaz, Switzerland</location>
     <name>Léonard De Vinci</name>
     <author>Alexis Giroud</author>
@@ -2364,7 +2373,7 @@ Joël L’Hopitalier
     <image>Léonard De Vinci.jpg</image>
   </play>
   <play>
-    <date>2006.06.04</date>
+    <date>2006-06-04</date>
     <location>Théâtre Barnabé, Servion, Switzerland</location>
     <name>La Guerre Des Boutons</name>
     <author>Louis Pergaud</author>
@@ -2382,7 +2391,7 @@ Joël L’Hopitalier
     <rating>4.5</rating>
   </play>
   <play>
-    <date>2006.06.02</date>
+    <date>2006-06-02</date>
     <location>Théâtre du Jorat, Mézières, Switzerland</location>
     <name>L'Avare</name>
     <author>Molière</author>
@@ -2405,7 +2414,7 @@ Joël L’Hopitalier
     <image>L'Avare 2006.png</image>
   </play>
   <play>
-    <date>2006.05.23</date>
+    <date>2006-05-23</date>
     <location>Théâtre de Vevey, Vevey, Switzerland</location>
     <name>Le Médecin Malgré Lui Ou Le Toubib À L'Insu De Son Plein Gré</name>
     <author>Molière</author>
@@ -2423,7 +2432,7 @@ Joël L’Hopitalier
     <image>Le Médecin Malgré Lui Ou Le Toubib À L'Insu De Son Plein Gré 2006.jpg</image>
   </play>
   <play>
-    <date>2006.05.12</date>
+    <date>2006-05-12</date>
     <location>Théâtre du Jorat, Mézières, Switzerland</location>
     <name>Lunes De Miel</name>
     <author>Noël Coward</author>
@@ -2440,7 +2449,7 @@ Joël L’Hopitalier
     <image>Lunes De Miel.jpg</image>
   </play>
   <play>
-    <date>2006.05.11</date>
+    <date>2006-05-11</date>
     <location>La Passerelle, Théâtre de Vidy, Lausanne, Switzerland</location>
     <name>Dernière Lettre À Théo</name>
     <author>Metin Arditi</author>
@@ -2453,7 +2462,18 @@ Joël L’Hopitalier
     <image>Dernière Lettre À Théo.jpg</image>
   </play>
   <play>
-    <date>2006.04.04</date>
+    <date>2006-04-29</date>
+    <location>Concordia, Le Châble, Switzerland</location>
+    <name>Même les cow-girls ont le blues</name>
+    <author>Tom Robbins</author>
+    <director>José-Antoine Marin</director>
+    <actor>Delphine Mouchel</actor>
+    <actor>Blanche Heugel</actor>
+    <actor>Aline Vaudan</actor>
+    <rating/>
+  </play>
+  <play>
+    <date>2006-04-04</date>
     <location>Pulloff Théâtres, Lausanne, Switzerland</location>
     <name>Cinq filles couleur pêche</name>
     <author>Alan Ball</author>
@@ -2479,7 +2499,54 @@ responsable de production : Michel Sauser
     <image>Cinq filles couleur pêche.jpg</image>
   </play>
   <play>
-    <date>1986.??.??</date>
+    <date>2006-02-12</date>
+    <location>L'Octogone, Pully, Switzerland</location>
+    <name>Le Pianiste</name>
+    <author>Władysław Szpilman</author>
+    <translation>Bernard Cohen</translation>
+    <director>Robin Renucci</director>
+    <actor>Robin Renucci</actor>
+    <actor>Mikhaïl Rudy</actor>
+    <rating/>
+    <image>Le Pianiste.jpg</image>
+  </play>
+  <play>
+    <date>2005-12-16</date>
+    <location>Théâtre de Vidy, Lausanne, Switzerland</location>
+    <name>William Burroughs surpris en possession du "Chant du vieux marin" de Samuel Taylor Coleridge</name>
+    <author>Johny Brown</author>
+    <translation>Marie-Paule Ramo</translation>
+    <director>Dan Jemmett</director>
+    <actor>Karine Barbey</actor>
+    <actor>Denis Lavant</actor>
+    <actor>Sébastien Martel</actor>
+    <actor>Pascal Oyong-Oly</actor>
+    <rating/>
+    <!--
+Mise en scène   Dan Jemmett
+Interprétation  Karine Barbey
+Denis Lavant
+Seb Martel
+Pascal Oyong-Oly
+Scénographie    Denis Tisseraud
+Costumes    Sylvie Martin-Hyszka
+Lumières    Arnaud Jung
+Vidéo   Bruno Deville
+Musique DJ FrankFrenzy
+Assistanat à la scénographie    Jeanne-Lucie Schmutz
+Assistanat à la mise en scène   Céline Gaudier
+Régie générale  Annette Brugière
+    -->
+  </play>
+  <play>
+    <date>2000-07-15</date>
+    <location>Services Industriels de Bagnes, Le Châble, Switzerland</location>
+    <name>Les Frères Bagnes</name>
+    <author>Alexis Giroud</author>
+    <director>Alexis Giroud</director>
+  </play>
+  <play>
+    <date>1986-??-??</date>
     <location>Fionnay, Switzerland</location>
     <name>L'Ortie Sauvage</name>
     <author>Simone Collet</author>
@@ -2490,7 +2557,20 @@ responsable de production : Michel Sauser
   </play>
 
   <!--
-    Add Akua (2005-2006?)
-    Add 2006.04.29 Même les Cow-Girls ont le Blues
+  <play>
+    <date></date>
+    <location></location>
+    <name></name>
+    <author></author>
+    <director></director>
+    <actor></actor>
+    <rating></rating>
+    <comments></comments>
+    <image></image>
+  </play>
+  -->
+
+  <!--
+  Add Akua (2005-2006?)
   -->
 </plays>

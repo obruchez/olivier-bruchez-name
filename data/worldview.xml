@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<worldview title="Worldview (Olivier Bruchez)" link="https://github.com/obruchez/public/blob/master/Introspection/Worldview.md">
+<worldview created="2013-01-26">
     <introduction>My worldview (in French).</introduction>
     <introduction>Pour plus d'informations, voir les articles suivants sur mon blog&amp;nbsp;: [Ce que je crois](http://bruchez.blogspot.ch/2013/12/ce-que-je-crois.html) et [Ma vision du monde 2.0](http://bruchez.blogspot.ch/2014/12/ma-vision-du-monde-20.html).</introduction>
     <category description="Explication du monde (&quot;Quelle est la nature de notre univers ? Comment fonctionne-t-il ?&quot;)" slug="explication-du-monde">

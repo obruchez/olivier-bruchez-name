@@ -1,18 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- TODO: add pictures -->
-<exhibitions>
+<exhibitions created="2011-05-17">
     <introduction>A list of exhibitions I visited.</introduction>
     <exhibition>
-        <date>2020.02.20</date>
+        <date>2020-09-20</date>
+        <name>Permanent exhibition</name>
+        <museum>Spielzeug Welten Museum, Basel, Switzerland</museum>
+        <rating>5.0</rating>
+        <comments>I honeslty didn't expect to enjoy this museum as much as I did. We mainly went there because (thanks?) to our 2-year old son. This was a brief magical return to childhood.</comments>
+        <image>Spielzeug Welten Museum.jpg</image>
+        <!-- <pictures url=""/> -->
+    </exhibition>
+    <exhibition>
+        <date>2020-08-03</date>
+        <name>Permanent exhibition / Hent</name>
+        <museum>Port musée, Douarnenez, France</museum>
+        <rating>4.5</rating>
+        <comments>Not necessarily my cup of tea, but quite well done. Includes a paintings section.</comments>
+        <image>Port musée.jpg</image>
+        <!-- <pictures url=""/> -->
+    </exhibition>
+    <exhibition>
+        <date>2020-02-20</date>
         <name>Mondes (im)parfaits</name>
         <museum>Maison d'Ailleurs, Yverdon-les-Bains, Switzerland</museum>
         <rating>5.0</rating>
         <comments>Very nice exhibition around Les Cités obscures by François Schuiten and Benoît Peeter. It was the first time I visited the Maison d'Ailleurs, an impressive little museum (the library is gorgeous). Now I really need to (re)read all the Cités obscures series!</comments>
         <image>Mondes (im)parfaits.jpg</image>
-        <!-- <pictures url=""/> -->
+        <pictures url="https://www.flickr.com/photos/bruchez/albums/72157713374723127"/>
     </exhibition>
     <exhibition>
-        <date>2019.11.09</date>
+        <date>2019-11-09</date>
         <name>Rodin – Giacometti</name>
         <museum>Fondation Pierre Gianadda, Martigny, Switzerland</museum>
         <rating>5.0</rating>
@@ -21,7 +39,7 @@
         <pictures url="https://www.flickr.com/photos/bruchez/sets/72157712102507236"/>
     </exhibition>
     <exhibition>
-        <date>2019.07.31</date>
+        <date>2019-07-31</date>
         <name>Permanent exhibition</name>
         <museum>Narvik War Museum, Narvik, Norway</museum>
         <rating>4.75</rating>
@@ -30,7 +48,7 @@
         <pictures url="https://www.flickr.com/photos/bruchez/sets/72157711717289696"/>
     </exhibition>
     <exhibition>
-        <date>2019.07.25</date>
+        <date>2019-07-25</date>
         <name>Permanent exhibition</name>
         <museum>World Heritage Rock Art Centre - Alta Museum, Alta, Norway</museum>
         <rating>5.25</rating>
@@ -39,7 +57,7 @@
         <pictures url="https://www.flickr.com/photos/bruchez/sets/72157711717191926"/>
     </exhibition>
     <exhibition>
-        <date>2019.07.22</date>
+        <date>2019-07-22</date>
         <name>Permanent exhibition</name>
         <museum>Polarmuseet, Tromsø, Norway</museum>
         <rating>4.25</rating>
@@ -48,7 +66,7 @@
         <pictures url="https://www.flickr.com/photos/bruchez/sets/72157711717629417"/>
     </exhibition>
     <exhibition>
-        <date>2019.07.20</date>
+        <date>2019-07-20</date>
         <name>Vigeland installation</name>
         <museum>Frognerparken, Oslo, Norway</museum>
         <rating>5.0</rating>
@@ -57,7 +75,7 @@
         <pictures url="https://www.flickr.com/photos/bruchez/sets/72157711717152726"/>
     </exhibition>
     <exhibition>
-        <date>2019.07.19</date>
+        <date>2019-07-19</date>
         <name>Permanent exhibition</name>
         <museum>Frammuseet, Oslo, Norway</museum>
         <rating>5.0</rating>
@@ -66,7 +84,7 @@
         <pictures url="https://www.flickr.com/photos/bruchez/sets/72157711718924633"/>
     </exhibition>
     <exhibition>
-        <date>2019.07.19</date>
+        <date>2019-07-19</date>
         <name>Permanent exhibition</name>
         <museum>Viking Ship Museum, Oslo, Norway</museum>
         <rating>5.0</rating>
@@ -75,7 +93,7 @@
         <pictures url="https://www.flickr.com/photos/bruchez/sets/72157711717410677"/>
     </exhibition>
     <exhibition>
-        <date>2019.02.09</date>
+        <date>2019-02-09</date>
         <name>Trésors impressionnistes - La Collection Ordrupgaard</name>
         <museum>Fondation Pierre Gianadda, Martigny, Switzerland</museum>
         <rating>4.5</rating>
@@ -84,7 +102,7 @@
         <pictures url="https://www.flickr.com/photos/bruchez/sets/72157707432943964"/>
     </exhibition>
     <exhibition>
-        <date>2018.12.22</date>
+        <date>2018-12-22</date>
         <name>David Lynch - Fire in City</name>
         <museum>Musée Alexis Forel, Morges, Switzerland</museum>
         <rating>4.5</rating>
@@ -93,7 +111,7 @@
         <pictures url="https://www.flickr.com/photos/bruchez/sets/72157705239811175"/>
     </exhibition>
     <exhibition>
-        <date>2018.11.11</date>
+        <date>2018-11-11</date>
         <name>David Lynch - Dreams - A Tribute to Fellini</name>
         <museum>Maison du Diable, Sion, Switzerland</museum>
         <rating>3.5</rating>
@@ -102,7 +120,7 @@
         <pictures url="https://www.flickr.com/photos/bruchez/sets/72157704153729894"/>
     </exhibition>
     <exhibition>
-        <date>2018.08.02</date>
+        <date>2018-08-02</date>
         <name>Julian Charrière - An Invitation to Disappear</name>
         <museum>Musée de Bagnes, Le Châble, Switzerland</museum>
         <rating>4.0</rating>
@@ -111,7 +129,7 @@
         <pictures url="https://www.flickr.com/photos/bruchez/sets/72157696866800932"/>
     </exhibition>
     <exhibition>
-        <date>2018.07.20</date>
+        <date>2018-07-20</date>
         <name>Soulages</name>
         <museum>Fondation Pierre Gianadda, Martigny, Switzerland</museum>
         <rating>4.0</rating>
@@ -120,7 +138,7 @@
         <pictures url="https://www.flickr.com/photos/bruchez/albums/72157696468961462"/>
     </exhibition>
     <exhibition>
-        <date>2018.04.28</date>
+        <date>2018-04-28</date>
         <name>Toulouse-Lautrec - A la Belle Epoque - French Cancans</name>
         <museum>Fondation Pierre Gianadda, Martigny, Switzerland</museum>
         <rating>4.5</rating>
@@ -129,7 +147,7 @@
         <pictures url="https://www.flickr.com/photos/bruchez/sets/72157695610115354"/>
     </exhibition>
     <exhibition>
-        <date>2017.10.20</date>
+        <date>2017-10-20</date>
         <name>Permanent exhibition / Items: Is Fashion Modern? / Max Ernst: Beyond Painting</name>
         <museum>The Museum of Modern Art, New York, USA</museum>
         <rating>4.75</rating>
@@ -138,7 +156,7 @@
         <pictures url="https://www.flickr.com/photos/bruchez/sets/72157667875160388/"/>
     </exhibition>
     <exhibition>
-        <date>2017.10.19</date>
+        <date>2017-10-19</date>
         <name>Permanent exhibition</name>
         <museum>Frick Collection, New York, USA</museum>
         <rating>4.5</rating>
@@ -146,7 +164,7 @@
         <image>Frick Collection.jpg</image>
     </exhibition>
     <exhibition>
-        <date>2017.10.17</date>
+        <date>2017-10-17</date>
         <name>Permanent exhibition / The Theater of Disappearance / Rodin at The Met</name>
         <museum>Metropolitan Museum of Art, New York, USA</museum>
         <rating>5.5</rating>
@@ -155,7 +173,7 @@
         <pictures url="https://www.flickr.com/photos/bruchez/sets/72157664617197957/"/>
     </exhibition>
     <exhibition>
-        <date>2017.10.14</date>
+        <date>2017-10-14</date>
         <name>Permanent exhibition</name>
         <museum>National WWII Museum, New Orleans, USA</museum>
         <rating>5.0</rating>
@@ -163,7 +181,7 @@
         <image>National WWII Museum.jpg</image>
     </exhibition>
     <exhibition>
-        <date>2017.10.11</date>
+        <date>2017-10-11</date>
         <name>Permanent exhibition</name>
         <museum>Richard H. Driehaus Museum, Chicago, USA</museum>
         <rating>4.0</rating>
@@ -172,7 +190,7 @@
         <pictures url="https://www.flickr.com/photos/bruchez/sets/72157692528410295/"/>
     </exhibition>
     <exhibition>
-        <date>2017.10.10</date>
+        <date>2017-10-10</date>
         <name>Permanent exhibition / Tarsila do Amaral: Inventing Modern Art in Brazil</name>
         <museum>Art Institute of Chicago, Chicago, USA</museum>
         <rating>5.5</rating>
@@ -181,7 +199,7 @@
         <pictures url="https://www.flickr.com/photos/bruchez/sets/72157664950970718/"/>
     </exhibition>
     <exhibition>
-        <date>2017.10.05</date>
+        <date>2017-10-05</date>
         <name>Chefs-d'oeuvre de la collection Bührle - Manet, Cézanne, Monet, Van Gogh...</name>
         <museum>Fondation de l’Hermitage, Lausanne, Switzerland</museum>
         <rating>4.5</rating>
@@ -190,7 +208,7 @@
         <pictures url="https://www.flickr.com/photos/bruchez/sets/72157687752634781"/>
     </exhibition>
     <exhibition>
-        <date>2017.09.17</date>
+        <date>2017-09-17</date>
         <name>Claudio Moser - I come from the other side</name>
         <museum>Musée de Bagnes, Le Châble, Switzerland</museum>
         <rating>3.0</rating>
@@ -199,7 +217,7 @@
         <pictures url="https://www.flickr.com/photos/bruchez/sets/72157689999838786"/>
     </exhibition>
     <exhibition>
-        <date>2017.09.09</date>
+        <date>2017-09-09</date>
         <name>Cézanne - Le chant de la terre</name>
         <museum>Fondation Pierre Gianadda, Martigny, Switzerland</museum>
         <rating>4.75</rating>
@@ -208,7 +226,7 @@
         <pictures url="https://www.flickr.com/photos/bruchez/sets/72157689998519266"/>
     </exhibition>
     <exhibition>
-        <date>2017.07.22</date>
+        <date>2017-07-22</date>
         <name>Permanent exhibition</name>
         <museum>Chaplin's World, Vevey, Switzerland</museum>
         <rating>5.0</rating>
@@ -217,7 +235,7 @@
         <pictures url="https://www.flickr.com/photos/bruchez/albums/72157685129030654"/>
     </exhibition>
     <exhibition>
-        <date>2017.06.10</date>
+        <date>2017-06-10</date>
         <name>Hodler Monet Munch. Peindre l'impossible.</name>
         <museum>Fondation Pierre Gianadda, Martigny, Switzerland</museum>
         <rating>4.75</rating>
@@ -226,7 +244,7 @@
         <pictures url="https://www.flickr.com/photos/bruchez/sets/72157685125783794"/>
     </exhibition>
     <exhibition>
-        <date>2017.04.21</date>
+        <date>2017-04-21</date>
         <name>Permanent exhibition</name>
         <museum>Kyoto International Manga Museum, Kyoto, Japan</museum>
         <rating>4.75</rating>
@@ -234,7 +252,7 @@
         <image>Kyoto International Manga Museum.jpg</image>
     </exhibition>
     <exhibition>
-        <date>2017.04.21</date>
+        <date>2017-04-21</date>
         <name>Postwar German Posters for Films / Permanent exhibition</name>
         <museum>National Museum of Modern Art, Kyoto, Japan</museum>
         <rating>4.5</rating>
@@ -242,7 +260,7 @@
         <image>Postwar German Posters for Films.jpg</image>
     </exhibition>
     <exhibition>
-        <date>2017.04.15</date>
+        <date>2017-04-15</date>
         <name>Many small exhibitions</name>
         <museum>Design Festa Gallery, Tokyo, Japan</museum>
         <rating>4.5</rating>
@@ -250,7 +268,7 @@
         <image>Design Festa Gallery.jpg</image>
     </exhibition>
     <exhibition>
-        <date>2017.04.15</date>
+        <date>2017-04-15</date>
         <name>Permanent exhibition</name>
         <museum>Nezu Museum, Tokyo, Japan</museum>
         <rating>4.5</rating>
@@ -258,7 +276,7 @@
         <image>Nezu Museum.jpg</image>
     </exhibition>
     <exhibition>
-        <date>2017.04.15</date>
+        <date>2017-04-15</date>
         <name>All Aboard! The Cat Bus to the Ghibli Forest / Permanent exhibition</name>
         <museum>Ghibli Museum, Tokyo, Japan</museum>
         <rating>5.0</rating>
@@ -266,7 +284,7 @@
         <image>All Aboard! The Cat Bus to the Ghibli Forest.jpg</image>
     </exhibition>
     <exhibition>
-        <date>2017.04.14</date>
+        <date>2017-04-14</date>
         <name>Permanent exhibition</name>
         <museum>Ukiyo-e Ōta Memorial Museum of Art, Tokyo, Japan</museum>
         <rating>5.0</rating>
@@ -274,7 +292,7 @@
         <image>Ukiyo-e Ōta Memorial Museum of Art.jpg</image>
     </exhibition>
     <exhibition>
-        <date>2017.04.11</date>
+        <date>2017-04-11</date>
         <name>Marcel Breuer's Furniture: Improvement for good / Permanent exhibition</name>
         <museum>National Museum of Modern Art, Tokyo, Japan</museum>
         <rating>5.0</rating>
@@ -282,7 +300,7 @@
         <image>Marcel Breuer's Furniture - Improvement for good.jpg</image>
     </exhibition>
     <exhibition>
-        <date>2017.04.11</date>
+        <date>2017-04-11</date>
         <name>Permanent exhibition</name>
         <museum>Yūshūkan War Memorial Museum, Tokyo, Japan</museum>
         <rating>4.5</rating>
@@ -290,7 +308,7 @@
         <image>Yūshūkan War Memorial Museum.jpg</image>
     </exhibition>
     <exhibition>
-        <date>2017.04.09</date>
+        <date>2017-04-09</date>
         <name>The Art of Disney - The Magic of Animation / Permanent exhibition</name>
         <museum>National Museum of Emerging Science and Innovation (Miraikan), Tokyo, Japan</museum>
         <rating>5.0</rating>
@@ -298,7 +316,7 @@
         <image>The Art of Disney - The Magic of Animation.jpg</image>
     </exhibition>
     <exhibition>
-        <date>2017.02.19</date>
+        <date>2017-02-19</date>
         <name>Permanent exhibition</name>
         <museum>Nest, Vevey, Switzerland</museum>
         <rating>3.5</rating>
@@ -306,7 +324,7 @@
         <image>Nest.jpg</image>
     </exhibition>
     <exhibition>
-        <date>2017.01.03</date>
+        <date>2017-01-03</date>
         <name>Hieronymus Bosch and His Pictorial World in the 16th and 17th century / Permanent exhibition</name>
         <museum>Gemäldegalerie, Berlin, Germany</museum>
         <rating>5.25</rating>
@@ -314,7 +332,7 @@
         <image>Hieronymus Bosch and His Pictorial World in the 16th and 17th century.png</image>
     </exhibition>
     <exhibition>
-        <date>2017.01.02</date>
+        <date>2017-01-02</date>
         <name>The Heritage of the Old Kings. Ctesiphon and the Persian Sources of Islamic Art / Permanent exhibition</name>
         <museum>Pergamonmuseum, Berlin, Germany</museum>
         <rating>5.0</rating>
@@ -322,7 +340,7 @@
         <image>The Heritage of the Old Kings.jpg</image>
     </exhibition>
     <exhibition>
-        <date>2017.01.01</date>
+        <date>2017-01-01</date>
         <name>All about GOLEM! / Eran Shakine. A Muslim, a Christian and a Jew / Permanent exhibition</name>
         <museum>Jewish Museum, Berlin, Germany</museum>
         <rating>5.0</rating>
@@ -331,7 +349,7 @@
         <image>Eran Shakine. A Muslim, a Christian and a Jew.jpg</image>
     </exhibition>
     <exhibition>
-        <date>2016.12.30</date>
+        <date>2016-12-30</date>
         <name>Permanent exhibition / Things to Come</name>
         <museum>Museum für Film und Fernsehen, Berlin, Germany</museum>
         <rating>5.0</rating>
@@ -339,7 +357,7 @@
         <image>Things to Come.png</image>
     </exhibition>
     <exhibition>
-        <date>2016.12.30</date>
+        <date>2016-12-30</date>
         <name>Gülsün Karamustafa. Chronographia / Ernst Ludwig Kirchner: Hieroglyphics / The Collections</name>
         <museum>Hamburger Bahnhof, Berlin, Germany</museum>
         <rating>4.75</rating>
@@ -349,14 +367,14 @@
         <image>Hamburger Bahnhof - The Collections.jpg</image>
     </exhibition>
     <exhibition>
-        <date>2016.11.12</date>
+        <date>2016-11-12</date>
         <name>Picasso - L’œuvre ultime - Hommage à Jacqueline</name>
         <museum>Fondation Pierre Gianadda, Martigny, Switzerland</museum>
         <rating>5.0</rating>
         <image>Picasso - L’œuvre ultime - Hommage à Jacqueline.jpg</image>
     </exhibition>
     <exhibition>
-        <date>2016.09.19</date>
+        <date>2016-09-19</date>
         <name>Alain Bublex - Une après-midi japonaise</name>
         <museum>Musée de Bagnes, Le Châble, Switzerland</museum>
         <rating>4.25</rating>
@@ -364,157 +382,164 @@
         <!-- <pictures url=""/> -->
     </exhibition>
     <exhibition>
-        <date>2016.05.15</date>
+        <date>2016-05-15</date>
         <name>Signac : une vie au fil de l'eau</name>
         <museum>Fondation de l’Hermitage, Lausanne, Switzerland</museum>
         <rating>4.5</rating>
         <image>Signac - une vie au fil de l'eau.jpg</image>
     </exhibition>
     <exhibition>
-        <date>2016.05.06</date>
+        <date>2016-05-06</date>
         <name>Permanent exhibition</name>
         <museum>Ny Carlsberg Glyptotek, Copenhagen, Denmark</museum>
         <rating>5.0</rating>
     </exhibition>
     <exhibition>
-        <date>2016.05.05</date>
+        <date>2016-05-05</date>
         <name>Permanent exhibition / Eye Attack / Illumination / Fire Under Snow</name>
         <museum>Louisiana Museum of Modern Art, Humlebæk, Denmark</museum>
         <rating>5.0</rating>
     </exhibition>
     <exhibition>
-        <date>2015.11.07</date>
+        <date>2015-11-07</date>
         <name>Permanent exhibition</name>
         <museum>Musée et Chiens du Saint-Bernard, Martigny, Switzerland</museum>
         <rating>3.25</rating>
     </exhibition>
     <exhibition>
-        <date>2015.10.17</date>
+        <date>2015-10-17</date>
         <name>Matisse</name>
         <museum>Fondation Pierre Gianadda, Martigny, Switzerland</museum>
         <rating>4.25</rating>
     </exhibition>
     <exhibition>
-        <date>2015.09.20</date>
+        <date>2015-09-20</date>
         <name>Klee &amp; Kandinsky / Klee in Bern</name>
         <museum>Zentrum Paul Klee, Bern, Switzerland</museum>
         <rating>4.75</rating>
     </exhibition>
     <exhibition>
-        <date>2015.08.15</date>
+        <date>2015-08-15</date>
         <name>Permanent exhibition</name>
         <museum>UBC Museum of Anthropology, Vancouver, BC, Canada</museum>
         <rating>5.0</rating>
     </exhibition>
     <exhibition>
-        <date>2015.08.07</date>
+        <date>2015-08-07</date>
         <name>Permanent exhibition</name>
         <museum>Haida Gwaii Museum, Skidegate, BC, Canada</museum>
         <rating>5.0</rating>
     </exhibition>
     <exhibition>
-        <date>2014.10.26</date>
+        <date>2014-10-26</date>
         <name>Permanent exhibition</name>
         <museum>Accademia di Belle Arti di Firenze, Florence, Italy</museum>
         <rating>4.75</rating>
     </exhibition>
     <exhibition>
-        <date>2014.10.25</date>
+        <date>2014-10-25</date>
         <name>Permanent exhibition</name>
         <museum>Galleria degli Uffizi, Florence, Italy</museum>
         <rating>5.5</rating>
     </exhibition>
     <exhibition>
-        <date>2014.09.21</date>
+        <date>2014-09-21</date>
         <name>Les mondes de Gotlib</name>
         <museum>Espace Arlaud, Lausanne, Switzerland</museum>
         <rating>4.5</rating>
     </exhibition>
     <exhibition>
-        <date>2014.08.31</date>
+        <date>2014-08-31</date>
         <name>Renoir</name>
         <museum>Fondation Pierre Gianadda, Martigny, Switzerland</museum>
         <rating>4.75</rating>
     </exhibition>
     <exhibition>
-        <date>2014.08.09</date>
+        <date>2014-08-09</date>
         <name>Michel Lemieux - Victor Pilon / Permanent exhibition</name>
         <museum>Musée des Beaux-Arts, Montréal, QC, Canada</museum>
         <rating>5.0</rating>
     </exhibition>
     <exhibition>
-        <date>2014.07.28</date>
+        <date>2014-07-28</date>
         <name>Image x Image / Haïti In Extremis / Pierre Gauvreau. J'espérais vous voir ici / Les maîtres de l'Olympe / Permanent exhibition</name>
         <museum>Musée de la civilisation, Québec, QC, Canada</museum>
         <rating>4.75</rating>
     </exhibition>
     <exhibition>
-        <date>2013.10.20</date>
+        <date>2013-10-20</date>
         <name>Permanent exhibition</name>
         <museum>National Gallery, Veletržní Palace, Prague, Czech Republic</museum>
         <rating>5.25</rating>
     </exhibition>
     <exhibition>
-        <date>2013.10.06</date>
+        <date>2013-10-06</date>
         <name>Miró : poésie et lumière</name>
         <museum>Fondation de l’Hermitage, Lausanne, Switzerland</museum>
         <rating>4.5</rating>
     </exhibition>
     <exhibition>
-        <date>2013.08.31</date>
+        <date>2013-08-31</date>
         <name>Modigliani et l’Ecole de Paris</name>
         <museum>Fondation Pierre Gianadda, Martigny, Switzerland</museum>
         <rating>4.5</rating>
     </exhibition>
     <exhibition>
-        <date>2013.05.21</date>
+        <date>2013-05-21</date>
         <name>In the Light of Amarna 100 Years of the Nefertiti Discovery</name>
         <museum>Neues Museum, Berlin, Germany</museum>
         <rating>5.0</rating>
     </exhibition>
     <exhibition>
-        <date>2013.05.18</date>
+        <date>2013-05-18</date>
         <name>Permanent exhibition</name>
         <museum>Berggruen Museum, Berlin, Germany</museum>
         <rating>5.25</rating>
     </exhibition>
     <exhibition>
-        <date>2013.03.16</date>
+        <date>2013-03-16</date>
         <name>Permanent exhibition</name>
         <museum>Museum Tinguely, Basel, Switzerland</museum>
         <rating>4.75</rating>
     </exhibition>
     <exhibition>
-        <date>2012.11.10</date>
+        <date>2012-11-10</date>
         <name>Van Gogh, Picasso, Kandinsky... - Collection Merzbacher - Le mythe de la couleur</name>
         <museum>Fondation Pierre Gianadda, Martigny, Switzerland</museum>
         <rating>4.75</rating>
     </exhibition>
     <exhibition>
-        <date>2012.09.02</date>
+        <date>2012-09-02</date>
         <name>Christian Lutz - Aux dépens du réel</name>
         <museum>Musée de Bagnes, Le Châble, Switzerland</museum>
         <rating>4.0</rating>
         <comments>Exhibition located a the top of the Mauvoisin Dam.</comments>
     </exhibition>
     <exhibition>
-        <date>2012.09.02</date>
+        <date>2012-09-02</date>
         <name>Sentier du barrage</name>
         <museum>Musée de Bagnes, Le Châble, Switzerland</museum>
         <rating>5.0</rating>
         <comments>Exhibition located in Mauvoisin.</comments>
     </exhibition>
     <exhibition>
-        <date>2011.05.14</date>
+        <date>2011-05-14</date>
         <name>De Renoir à Szafran - Parcours d'un collectionneur</name>
         <museum>Fondation Pierre Gianadda, Martigny, Switzerland</museum>
         <rating>4.5</rating>
     </exhibition>
     <exhibition>
-        <date>2010.12.05</date>
+        <date>2010-12-05</date>
         <name>Andy Warhol. The Early Sixties. Paintings and Drawings 1961-1964.</name>
         <museum>Kunstmuseum, Basel, Switzerland</museum>
         <rating>4.5</rating>
+    </exhibition>
+    <exhibition>
+        <date>2010-08-05</date>
+        <name>Birth of Impressionism</name>
+        <museum>de Young Museum, San Francisco, US</museum>
+        <rating>4.5</rating>
+        <image>Birth of Impressionism.jpg</image>
     </exhibition>
     <!--
     <exhibition>

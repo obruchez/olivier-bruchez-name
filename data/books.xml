@@ -1,42 +1,177 @@
 <?xml version="1.0" encoding="utf-8"?>
-<books>
+<books created="2006-08-20">
     <introduction>A list of books I read.</introduction>
     <book>
-        <date>2020.02.29</date>
+        <date>2021-01-15</date>
+        <title>Exhalation: Stories</title>
+        <author>Ted Chiang</author>
+        <publishingyear>2019</publishingyear>
+        <rating>5.0</rating>
+        <url>https://en.wikipedia.org/wiki/Exhalation:_Stories</url>
+        <notes description="Kindle highlights"></notes>
+        <comments>I discovered Ted Chiang thanks to the Very Bad Wizards podcast. This is the kind of science fiction I like. I've already bought another collection, <i>Stories of Your Life and Others</i>.</comments>
+        <image>Exhalation - Stories.jpg</image>
+    </book>
+    <book>
+        <date>2020-11-27</date>
+        <title>La Valse aux adieux</title>
+        <author>Milan Kundera</author>
+        <publishingyear>1972</publishingyear>
+        <rating>4.75</rating>
+        <url>https://fr.wikipedia.org/wiki/La_Valse_aux_adieux</url>
+        <notes description="Kindle highlights"></notes>
+        <comments>J'ai eu un peu de peine à entrer dans ce roman. Puis on se laisse emmener par ces destins croisés, par ces personnages dont la destinée leur échappe.</comments>
+        <image>La Valse aux adieux.jpg</image>
+    </book> 
+    <book>
+        <date>2020-10-12</date>
+        <title>Lifespan</title>
+        <subtitle>Why We Age – and Why We Don't Have To</subtitle>
+        <author>David Andrew Sinclair</author>
+        <publishingyear>2019</publishingyear>
+        <rating>4.5</rating>
+        <url>https://en.wikipedia.org/wiki/Lifespan:_Why_We_Age_%E2%80%93_and_Why_We_Don%27t_Have_To</url>
+        <notes description="Kindle highlights">Lifespan (David Andrew Sinclair).md</notes>
+        <comments>I was already familiar with David's ideas and discoveries. You basically just need to watch a few YouTube videos to learn about them. I was especially curious about his views on how humanity will have to adapt to longer lifespans/healthspans and that part of the book somewhat disappointed me. Not all my concerns were addressed. In particular, automation/machine learning and the facts that a lot of jobs will really disappear at some point, without new jobs to replace them, the need for some form of universal basic income, and the fact that, mathematically, even if we still die, the world population will really become problematic at some point if we keep having children (maybe not in 100 or 200 years, but still). I recently heard David in a podcast briefly mention the fact that human beings will have to find a way to go to other planets in the future (or something to that effect). I guess that's what I expected to read in his book. But he wanted to stay optimistic, so he focused on the near-term future, I guess.</comments>
+        <image>Lifespan.jpg</image>
+    </book>
+    <book>
+        <date>2020-09-06</date>
+        <title>The Art of Living</title>
+        <subtitle>Self-management - How to Survive and Thrive in the 21st Century</subtitle>
+        <author>Youssef El Baba</author>
+        <publishingyear>2020</publishingyear>
+        <rating>3.5</rating>
+        <url>https://www.goodreads.com/book/show/52431581-the-art-of-living</url>
+        <notes description="Kindle highlights">The Art of Living (Youssef El Baba).md</notes>
+        <comments>This book convinced me that it's time to migrate from my current system (based on G Suite) to a more specific tool (maybe Omnifocus - I was not convinced by 2Do).</comments>
+        <image>The Art of Living.jpg</image>
+    </book>
+    <book>
+        <date>2020-07-14</date>
+        <title>A Brief History of Time</title>
+        <subtitle>From the Big Bang to Black Holes</subtitle>
+        <author>Stephen Hawking</author>
+        <publishingyear>1988</publishingyear>
+        <rating>4.5</rating>
+        <url>https://en.wikipedia.org/wiki/A_Brief_History_of_Time</url>
+        <notes description="Kindle highlights">A Brief History of Time (Stephen Hawking).md</notes>
+        <comments>I don't know why, but I expected something overly-simplified (not to say dumbed-down). Something I could understand. :) I was somewhat surprised to discover that this book tries to explain very hard concepts in a relatively simple way, which still leads to... a complex book with very complex concepts. I don't think you could say it's highly accessible. Which makes me wonder whether anybody could do better than Hawking. I'm not saying he failed. Popularizing science is really hard. I'm just saying I was a bit disappointed.</comments>
+        <image>A Brief History of Time.jpg</image>
+    </book>
+    <book>
+        <date>2020-05-27</date>
+        <title>L'Identité</title>
+        <author>Milan Kundera</author>
+        <publishingyear>1995</publishingyear>
+        <rating>4.75</rating>
+        <url>https://fr.wikipedia.org/wiki/L%27Identit%C3%A9</url>
+        <notes description="Kindle highlights">L'Identité (Milan Kundera).md</notes>
+        <comments>Étrange passage de la réalité au rêve, autour de la thématique de l'identité et de ses frontières. L'essai suivant le texte est très éclairant.</comments>
+        <image>L'Identité.jpg</image>
+    </book>
+    <book>
+        <date>2020.05.11</date>
+        <title>The Carpet People</title>
+        <author>Terry Pratchett</author>
+        <publishingyear>1992</publishingyear>
+        <rating>4.5</rating>
+        <url>https://en.wikipedia.org/wiki/The_Carpet_People</url>
+        <notes description="Kindle highlights">The Carpet People (Terry Pratchett).md</notes>
+        <comments>My first book by Terry Pratchett. I've heard a lot from him, but I'm not sure I'm a fan of his style (granted, this is probably not his most representative book).</comments>
+        <image>The Carpet People.jpg</image>
+    </book>
+    <book>
+        <date>2020-04-15</date>
+        <title>Life, the Universe and Everything</title>
+        <author>Douglas Adams</author>
+        <publishingyear>1982</publishingyear>
+        <rating>4.75</rating>
+        <url>https://en.wikipedia.org/wiki/Life,_the_Universe_and_Everything</url>
+        <notes description="Kindle highlights">Life, the Universe and Everything (Douglas Adams).md</notes>
+        <comments>I particularly liked the part where Arthur discovered he could fly.</comments>
+        <image>Life, the Universe and Everything.jpg</image>
+    </book>
+    <book>
+        <date>2020-04-10</date>
+        <title>Capitale de la douleur</title>
+        <author>Paul Éluard</author>
+        <publishingyear>1926</publishingyear>
+        <rating>3.5</rating>
+        <url>https://fr.wikipedia.org/wiki/Capitale_de_la_douleur</url>
+        <notes description="Kindle highlights">Capitale de la douleur (Paul Éluard).md</notes>
+        <comments>C'est certainement très bon, mais ça ne m'a absolument pas touché. Je dois manquer des clés nécessaires pour comprendre ce genre de poésie.</comments>
+        <image>Capitale de la douleur.jpg</image>
+    </book>
+    <book>
+        <date>2020-03-30</date>
+        <title>Une rencontre</title>
+        <author>Milan Kundera</author>
+        <publishingyear>2009</publishingyear>
+        <rating>4.5</rating>
+        <url>https://fr.wikipedia.org/wiki/Une_rencontre</url>
+        <notes description="Kindle highlights">Une rencontre (Milan Kundera).md</notes>
+        <comments><i>Une rencontre</i> ou <i>Si Milan Kundera avait un blog</i>... Kundera parle de compositeurs, peintres et écrivains/romanciers qui l'ont influencé. C'est toujours très bien écrit, mais ça m'a moins touché, ne connaissant pas la plupart des artistes qu'il mentionne.</comments>
+        <image>Une rencontre.jpg</image>
+    </book>
+    <book>
+        <date>2020-03-24</date>
+        <title>David Whyte: Essentials</title>
+        <author>David Whyte</author>
+        <publishingyear>2019</publishingyear>
+        <rating>4.75</rating>
+        <url>https://books.google.com/books?id=2cq2ywEACAAJ</url>
+        <notes description="Kindle highlights">David Whyte - Essentials (David Whyte).md</notes>
+        <comments>I discovered David Whyte in February 2020. I liked his discussion with Sam Harris on the Making Sense podcast. This is the kind of poetry I like. I think.</comments>
+        <image>David Whyte - Essentials.jpg</image>
+    </book>
+    <book>
+        <date>2020-03-24</date>
+        <title>Jacques le Fataliste et son maître</title>
+        <author>Denis Diderot</author>
+        <publishingyear>1796</publishingyear>
+        <rating>5.25</rating>
+        <url>https://fr.wikipedia.org/wiki/Jacques_le_Fataliste_et_son_ma%C3%AEtre</url>
+        <notes description="Kindle highlights">Jacques le Fataliste et son maître (Denis Diderot).md</notes>
+        <comments>C'est un hasard, mais c'est une œuvre très similaire à <i>Candide</i>, à savoir un "classique pas du tout ennuyeux", très libre dans sa structure (interruptions répétées des récits, discussions imaginaires entre l'auteur et le lecteur, etc.). On est encore relativement proche de Rabelais. Ça se lit très facilement. C'est à la fois léger et intelligent.</comments>
+        <image>Jacques le Fataliste et son maître.jpg</image>
+    </book>
+    <book>
+        <date>2020-02-29</date>
         <title>The Great Gatsby</title>
         <author>F. Scott Fitzgerald</author>
         <publishingyear>1925</publishingyear>
         <rating>4.0</rating>
         <url>https://en.wikipedia.org/wiki/The_Great_Gatsby</url>
-        <notes description="Kindle highlights"></notes>
+        <notes description="Kindle highlights">The Great Gatsby (F. Scott Fitzgerald).md</notes>
         <comments>I saw the 2013 movie and really liked it. The book is a classic, but it didn't manage to impress me as much.</comments>
         <image>The Great Gatsby.jpg</image>
     </book>
     <book>
-        <date>2020.02.17</date>
+        <date>2020-02-17</date>
         <title>Madame Bovary</title>
         <subtitle>Mœurs de province</subtitle>
         <author>Gustave Flaubert</author>
         <publishingyear>1857</publishingyear>
         <rating>5.0</rating>
         <url>https://fr.wikipedia.org/wiki/Madame_Bovary</url>
-        <notes description="Kindle highlights"></notes>
+        <notes description="Kindle highlights">Madame Bovary (Gustave Flaubert).md</notes>
         <comments>Un vrai classique, au sens où je me l'imagine. Comme <i>Candide</i>, je ne me souviens pas avoir étudié ce livre durant mes études. Je suis content de l'avoir lu avec le recul probablement nécessaire pour l'apprécier. Les longues descriptions typiques de Flaubert ne m'ont pas dérangé. Au contraire, j'ai trouvé son style plutôt impressionnant. Je ne m'étonne pas que l'écriture de cette œuvre ait nécessité plus de quatre ans de la vie de Flaubert.</comments>
         <image>Madame Bovary.jpg</image>
     </book>
     <book>
-        <date>2020.01.19</date>
+        <date>2020-01-19</date>
         <title>And Then There Were None</title>
         <author>Agatha Christie</author>
         <publishingyear>1939</publishingyear>
         <rating>5.0</rating>
         <url>https://en.wikipedia.org/wiki/And_Then_There_Were_None</url>
-        <notes description="Kindle highlights"></notes>
+        <notes description="Kindle highlights">And Then There Were None (Agatha Christie).md</notes>
         <comments>Crime novels are not my cup of tea and I'm not sure I will ever read another Agatha Christie books in my life, but I had a lot of fun reading <i>And Then There Were None</i>.</comments>
         <image>And Then There Were None.jpg</image>
     </book>
     <book>
-        <date>2020.01.07</date>
+        <date>2020-01-07</date>
         <title>Candide</title>
         <author>Voltaire</author>
         <publishingyear>1759</publishingyear>
@@ -47,7 +182,7 @@
         <image>Candide.jpg</image>
     </book>
     <book>
-        <date>2019.12.27</date>
+        <date>2019-12-27</date>
         <title>La Lenteur</title>
         <author>Milan Kundera</author>
         <publishingyear>1994</publishingyear>
@@ -58,7 +193,7 @@
         <image>La Lenteur.jpg</image>
     </book>
     <book>
-        <date>2019.12.21</date>
+        <date>2019-12-21</date>
         <title>How to Worry Less about Money</title>
         <author>John Armstrong</author>
         <publishingyear>2012</publishingyear>
@@ -69,7 +204,7 @@
         <image>How to Worry Less about Money.jpg</image>
     </book>
     <book>
-        <date>2019.12.19</date>
+        <date>2019-12-19</date>
         <title>The Beautiful Ones</title>
         <author>Prince Rogers Nelson &amp; Dan Piepenbring</author>
         <publishingyear>2019</publishingyear>
@@ -79,7 +214,7 @@
         <image>The Beautiful Ones.jpg</image>
     </book>
     <book>
-        <date>2019.12.11</date>
+        <date>2019-12-11</date>
         <title>L'Art du roman</title>
         <author>Milan Kundera</author>
         <publishingyear>1986</publishingyear>
@@ -90,7 +225,7 @@
         <image>L'Art du roman.jpg</image>
     </book>
     <book>
-        <date>2019.11.21</date>
+        <date>2019-11-21</date>
         <title>Self-Therapy</title>
         <subtitle>A Step-By-Step Guide to Creating Inner Wholeness Using IFS, a New, Cutting-Edge Therapy</subtitle>
         <author>Jay Earley</author>
@@ -102,7 +237,7 @@
         <image>Self-Therapy.jpg</image>
     </book>
     <book>
-        <date>2019.11.16</date>
+        <date>2019-11-16</date>
         <title>Poèmes saturniens</title>
         <author>Paul Verlaine</author>
         <publishingyear>1866</publishingyear>
@@ -113,7 +248,7 @@
         <image>Poèmes saturniens.jpg</image>
     </book>
     <book>
-        <date>2019.10.02</date>
+        <date>2019-10-02</date>
         <title>La Métamorphose</title>
         <author>Franz Kafka</author>
         <publishingyear>1915</publishingyear>
@@ -123,7 +258,7 @@
         <image>La Métamorphose.jpg</image>
     </book>
     <book>
-        <date>2019.09.17</date>
+        <date>2019-09-17</date>
         <title>Happy</title>
         <subtitle>Why More or Less Everything is Absolutely Fine</subtitle>
         <author>Derren Brown</author>
@@ -135,7 +270,7 @@
         <image>Happy.jpg</image>
     </book>
     <book>
-        <date>2019.08.06</date>
+        <date>2019-08-06</date>
         <title>The Restaurant at the End of the Universe</title>
         <author>Douglas Adams</author>
         <publishingyear>1980</publishingyear>
@@ -146,7 +281,7 @@
         <image>The Restaurant at the End of the Universe.jpg</image>
     </book>
     <book>
-        <date>2019.07.12</date>
+        <date>2019-07-12</date>
         <title>Conscious</title>
         <subtitle>A Brief Guide to the Fundamental Mystery of the Mind</subtitle>
         <author>Annaka Harris</author>
@@ -156,9 +291,20 @@
         <notes description="Kindle highlights">Conscious (Annaka Harris).md</notes>
         <comments>A good summary of the problem of consciousness. And, yes, panpsychism is probably worth investigating.</comments>
         <image>Conscious.jpg</image>
-    </book> 
+    </book>
     <book>
-        <date>2019.06.20</date>
+        <date>2019-06-23</date>
+        <title>The Consolations of Philosophy</title>
+        <author>Alain de Botton</author>
+        <publishingyear>2000</publishingyear>
+        <rating>4.0</rating>
+        <url>https://en.wikipedia.org/wiki/The_Consolations_of_Philosophy</url>
+        <notes description="Kindle highlights">The Consolations of Philosophy (Alain de Botton).md</notes>
+        <comments>I was familiar with Alain de Botton's YouTube videos (<a href="https://www.youtube.com/user/schooloflifechannel">The School of Life</a>). I've never been completely convinced by his approach. Is this self-help? Pop philosophy? Something else? I don't know. I'm still not convinced.</comments>
+        <image>The Consolations of Philosophy.jpg</image>
+    </book>
+    <book>
+        <date>2019-06-20</date>
         <title>The Ones Who Walk Away from Omelas</title>
         <author>Ursula K. Le Guin</author>
         <publishingyear>1973</publishingyear>
@@ -169,18 +315,7 @@
         <image>The Ones Who Walk Away from Omelas.jpg</image>
     </book>
     <book>
-        <date>2019.06.23</date>
-        <title>The Consolations of Philosophy</title>
-        <author>Alain de Botton</author>
-        <publishingyear>2000</publishingyear>
-        <rating>4.0</rating>
-        <url>https://en.wikipedia.org/wiki/The_Consolations_of_Philosophy</url>
-        <notes description="Kindle highlights">The Consolations of Philosophy (Alain de Botton).md</notes>
-        <comments>I was familiar with Alain de Botton's YouTube videos (<a href="https://www.youtube.com/user/schooloflifechannel">The School of Life</a>). I've never been completely convinced by his approach. Is this self-help? Pop philosophy? Something else? I don't know. I'm still not convinced.</comments>
-        <image>The Consolations of Philosophy.jpg</image>
-    </book> 
-    <book>
-        <date>2019.05.21</date>
+        <date>2019-05-21</date>
         <title>It Doesn't Have to Be Crazy at Work</title>
         <author>Jason Fried &amp; David Heinemeier Hansson</author>
         <publishingyear>2018</publishingyear>
@@ -191,7 +326,7 @@
         <image>It Doesn't Have to Be Crazy at Work.jpg</image>
     </book> 
     <book>
-        <date>2019.05.08</date>
+        <date>2019-05-08</date>
         <title>L'Ecclésiaste</title>
         <subtitle>Un temps pour tout</subtitle>
         <author>Ernest Renan</author>
@@ -203,7 +338,7 @@
         <image>L'Ecclésiaste.jpg</image>
     </book> 
     <book>
-        <date>2019.04.23</date>
+        <date>2019-04-23</date>
         <title>Le Livre du rire et de l'oubli</title>
         <author>Milan Kundera</author>
         <publishingyear>1979</publishingyear>
@@ -214,7 +349,7 @@
         <image>Le Livre du rire et de l'oubli.jpg</image>
     </book>
     <book>
-        <date>2019.03.29</date>
+        <date>2019-03-29</date>
         <title>Why We Sleep</title>
         <subtitle>The New Science of Sleep and Dreams</subtitle>
         <author>Matthew Walker</author>
@@ -226,7 +361,7 @@
         <image>Why We Sleep.jpg</image>
     </book>
     <book>
-        <date>2019.02.19</date>
+        <date>2019-02-19</date>
         <title>Voyage au bout de la nuit</title>
         <author>Louis-Ferdinand Céline</author>
         <publishingyear>1932</publishingyear>
@@ -237,7 +372,7 @@
         <image>Voyage au bout de la nuit.jpg</image>
     </book>
     <book>
-        <date>2018.12.31</date>
+        <date>2018-12-31</date>
         <title>Sapiens</title>
         <subtitle>A Brief History of Humankind</subtitle>
         <author>Yuval Noah Harari</author>
@@ -249,7 +384,7 @@
         <image>Sapiens.jpg</image>
     </book>
     <book>
-        <date>2018.11.08</date>
+        <date>2018-11-08</date>
         <title>Ethics in the Real World</title>
         <subtitle>82 Brief Essays on Things That Matter</subtitle>
         <author>Peter Singer</author>
@@ -261,7 +396,7 @@
         <image>Ethics in the Real World.png</image>
     </book>
     <book>
-        <date>2018.11.05</date>
+        <date>2018-11-05</date>
         <title>How to Change Your Mind</title>
         <subtitle>What the New Science of Psychedelics Teaches Us About Consciousness, Dying, Addiction, Depression, and Transcendence</subtitle>
         <author>Michael Pollan</author>
@@ -273,7 +408,7 @@
         <image>How to Change Your Mind.jpg</image>
     </book>
     <book>
-        <date>2018.09.16</date>
+        <date>2018-09-16</date>
         <title>The Last Lecture</title>
         <author>Randy Pausch &amp; Jeffrey Zaslow</author>
         <publishingyear>2008</publishingyear>
@@ -284,7 +419,7 @@
         <image>The Last Lecture.jpg</image>
     </book>
     <book>
-        <date>2018.09.13</date>
+        <date>2018-09-13</date>
         <title>De la brièveté de la vie</title>
         <author>Sénèque</author>
         <publishingyear>2013</publishingyear>
@@ -295,7 +430,7 @@
         <image>De la brièveté de la vie.jpg</image>
     </book>
     <book>
-        <date>2018.09.12</date>
+        <date>2018-09-12</date>
         <title>Risibles Amours</title>
         <author>Milan Kundera</author>
         <publishingyear>1986</publishingyear>
@@ -306,7 +441,7 @@
         <image>Risibles Amour.jpg</image>
     </book>
     <book>
-        <date>2018.09.11</date>
+        <date>2018-09-11</date>
         <title>Lost Connections</title>
         <subtitle>Uncovering the Real Causes of Depression – and the Unexpected Solutions</subtitle>
         <author>Johann Hari</author>
@@ -318,7 +453,7 @@
         <image>Lost Connections.jpg</image>
     </book>
     <book>
-        <date>2018.09.10</date>
+        <date>2018-09-10</date>
         <title>The Psychedelic Explorer's Guide</title>
         <subtitle>Safe, Therapeutic, and Sacred Journeys</subtitle>
         <author>James Fadiman</author>
@@ -330,7 +465,7 @@
         <image>The Psychedelic Explorer's Guide.jpg</image>
     </book>
     <book>
-        <date>2018.08.02</date>
+        <date>2018-08-02</date>
         <title>The Library of Babel and Other Stories</title>
         <author>Jorge Luis Borges</author>
         <publishingyear>2017</publishingyear>
@@ -341,7 +476,7 @@
         <image>The Library of Babel and Other Stories.jpg</image>
     </book>
     <book>
-        <date>2018.07.17</date>
+        <date>2018-07-17</date>
         <title>Summary: The 4-Hour Body</title>
         <subtitle>An Uncommon Guide to Rapid Fat Loss, Incredible Sex and Becoming Superhuman</subtitle>
         <author>Millionaire Mindset Publishing</author>
@@ -353,7 +488,7 @@
         <image>Summary - The 4-Hour Body.jpg</image>
     </book>
     <book>
-        <date>2018.07.15</date>
+        <date>2018-07-15</date>
         <title>Quiet</title>
         <subtitle>The Power of Introverts in a World That Can't Stop Talking</subtitle>
         <author>Susan Cain</author>
@@ -365,7 +500,7 @@
         <image>Quiet.jpg</image>
     </book>
     <book>
-        <date>2018.06.09</date>
+        <date>2018-06-09</date>
         <title>Middle Age</title>
         <author>Christopher Hamilton</author>
         <publishingyear>2009</publishingyear>
@@ -376,7 +511,7 @@
         <image>Middle Age.jpg</image>
     </book>
     <book>
-        <date>2018.05.11</date>
+        <date>2018-05-11</date>
         <title>Life 3.0</title>
         <subtitle>Being Human in the Age of Artificial Intelligence</subtitle>
         <author>Max Tegmark</author>
@@ -388,7 +523,7 @@
         <image>Life 3.0.jpg</image>
     </book>
     <book>
-        <date>2018.05.10</date>
+        <date>2018-05-10</date>
         <title>Les Fleurs du mal</title>
         <author>Charles Baudelaire</author>
         <publishingyear>1857</publishingyear>
@@ -398,7 +533,7 @@
         <image>Les Fleurs du mal.jpg</image>
     </book>
     <book>
-        <date>2018.03.29</date>
+        <date>2018-03-29</date>
         <title>Le Rideau</title>
         <author>Milan Kundera</author>
         <publishingyear>2005</publishingyear>
@@ -409,7 +544,7 @@
         <image>Le Rideau.jpg</image>
     </book>
     <book>
-        <date>2018.03.10</date>
+        <date>2018-03-10</date>
         <title>The Social Skills Guidebook</title>
         <subtitle>Manage Shyness, Improve Your Conversations, and Make Friends, Without Giving Up Who You Are</subtitle>
         <author>Chris MacLeod</author>
@@ -421,7 +556,7 @@
         <image>The Social Skills Guidebook.jpg</image>
     </book>
     <book>
-        <date>2018.02.05</date>
+        <date>2018-02-05</date>
         <title>La Fête de l'insignifiance</title>
         <author>Milan Kundera</author>
         <publishingyear>2014</publishingyear>
@@ -432,7 +567,7 @@
         <image>La Fête de l'insignifiance.jpg</image>
     </book>
     <book>
-        <date>2018.01.28</date>
+        <date>2018-01-28</date>
         <title>The Expectant Father</title>
         <subtitle>The Ultimate Guide for Dads-to-Be</subtitle>
         <author>Armin A. Brott &amp; Jennifer Ash</author>
@@ -444,7 +579,7 @@
         <image>The Expectant Father.jpg</image>
     </book>
     <book>
-        <date>2017.12.28</date>
+        <date>2017-12-28</date>
         <title>Prince and the Purple Rain Era Studio Sessions: 1983 and 1984</title>
         <author>Duane Tudhal</author>
         <publishingyear>2017</publishingyear>
@@ -455,7 +590,7 @@
         <image>Prince and the Purple Rain Era Studio Sessions - 1983 and 1984.jpg</image>
     </book>
     <book>
-        <date>2017.11.29</date>
+        <date>2017-11-29</date>
         <title>Paroles</title>
         <author>Jacques Prévert</author>
         <publishingyear>1946</publishingyear>
@@ -466,7 +601,7 @@
         <image>Paroles.jpg</image>
     </book>
     <book>
-        <date>2017.10.12</date>
+        <date>2017-10-12</date>
         <title>What If?</title>
         <subtitle>Serious Scientific Answers to Absurd Hypothetical Questions</subtitle>
         <author>Randall Munroe</author>
@@ -478,7 +613,7 @@
         <image>What If.jpg</image>
     </book>
     <book>
-        <date>2017.09.14</date>
+        <date>2017-09-14</date>
         <title>Keith Jarrett's The Köln Concert</title>
         <subtitle></subtitle>
         <author>Peter Elsdon</author>
@@ -490,7 +625,7 @@
         <image>Keith Jarrett's The Köln Concert.jpg</image>
     </book>
     <book>
-        <date>2017.08.26</date>
+        <date>2017-08-26</date>
         <title>Homo Deus</title>
         <subtitle>A Brief History of Tomorrow</subtitle>
         <author>Yuval Noah Harari</author>
@@ -502,7 +637,7 @@
         <image>Homo Deus.jpg</image>
     </book>
     <book>
-        <date>2017.07.31</date>
+        <date>2017-07-31</date>
         <title>A Guide to the Good Life</title>
         <subtitle>The Ancient Art of Stoic Joy</subtitle>
         <author>William B. Irvine</author>
@@ -514,7 +649,7 @@
         <image>A Guide to the Good Life.jpg</image>
     </book>
     <book>
-        <date>2017.07.04</date>
+        <date>2017-07-04</date>
         <title>Micromégas</title>
         <author>Voltaire</author>
         <publishingyear>1752</publishingyear>
@@ -525,7 +660,7 @@
         <image>Micromégas.jpg</image>
     </book>
     <book>
-        <date>2017.06.28</date>
+        <date>2017-06-28</date>
         <title>La Plaisanterie</title>
         <author>Milan Kundera</author>
         <publishingyear>1967</publishingyear>
@@ -536,7 +671,7 @@
         <image>La Plaisanterie.jpg</image>
     </book>
     <book>
-        <date>2017.05.21</date>
+        <date>2017-05-21</date>
         <title>The Hitchhiker's Guide to the Galaxy</title>
         <author>Douglas Adams</author>
         <publishingyear>1979</publishingyear>
@@ -547,7 +682,7 @@
         <image>The Hitchhiker's Guide to the Galaxy.jpg</image>
     </book>
     <book>
-        <date>2017.04.30</date>
+        <date>2017-04-30</date>
         <title>Meaning in Life and Why It Matters</title>
         <author>Susan Wolf</author>
         <publishingyear>2010</publishingyear>
@@ -558,7 +693,7 @@
         <image>Meaning in Life and Why It Matters.gif</image>
     </book>
     <book>
-        <date>2017.03.31</date>
+        <date>2017-03-31</date>
         <title>Nineteen Eighty-Four</title>
         <author>George Orwell</author>
         <publishingyear>1949</publishingyear>
@@ -569,7 +704,7 @@
         <image>Nineteen Eighty-Four.jpg</image>
     </book>
     <book>
-        <date>2017.02.08</date>
+        <date>2017-02-08</date>
         <title>Life in Light of Death</title>
         <author>James A. Lindsay</author>
         <publishingyear>2016</publishingyear>
@@ -580,7 +715,7 @@
         <image>Life in Light of Death.jpg</image>
     </book>
     <book>
-        <date>2017.01.20</date>
+        <date>2017-01-20</date>
         <title>The Subtle Art of Not Giving a F*ck</title>
         <subtitle>A Counterintuitive Approach to Living a Good Life</subtitle>
         <author>Mark Manson</author>
@@ -592,7 +727,7 @@
         <image>The Subtle Art of Not Giving a Fuck.jpg</image>
     </book>
     <book>
-        <date>2017.01.01</date>
+        <date>2017-01-01</date>
         <title>Disparaître de soi</title>
         <subtitle>Une tentation contemporaine</subtitle>
         <author>David Le Breton</author>
@@ -604,7 +739,7 @@
         <image>Disparaître de soi.jpg</image>
     </book>
     <book>
-        <date>2016.12.09</date>
+        <date>2016-12-09</date>
         <title>Childhood's End</title>
         <author>Arthur C. Clarke</author>
         <publishingyear>1953</publishingyear>
@@ -614,7 +749,7 @@
         <image>Childhood's End.jpg</image>
     </book>
     <book>
-        <date>2016.11.17</date>
+        <date>2016-11-17</date>
         <title>Les Catilinaires</title>
         <author>Amélie Nothomb</author>
         <publishingyear>1995</publishingyear>
@@ -624,7 +759,7 @@
         <image>Les Catilinaires.jpg</image>
     </book>
      <book>
-        <date>2016.11.12</date>
+        <date>2016-11-12</date>
         <title>L'emploi est mort, vive le travail !</title>
         <author>Bernard Stiegler</author>
         <publishingyear>2015</publishingyear>
@@ -634,7 +769,7 @@
         <image>L'emploi est mort, vive le travail.jpg</image>
     </book>
     <book>
-        <date>2016.11.08</date>
+        <date>2016-11-08</date>
         <title>Everybody Is Wrong About God</title>
         <author>James A. Lindsay</author>
         <publishingyear>2015</publishingyear>
@@ -644,7 +779,7 @@
         <image>Everybody Is Wrong About God.jpg</image>
     </book>
     <book>
-        <date>2016.10.13</date>
+        <date>2016-10-13</date>
         <title>L'Enfant du placard</title>
         <author>Tiffany Jaquet</author>
         <publishingyear>2016</publishingyear>
@@ -653,7 +788,7 @@
         <image>L'Enfant du placard.jpg</image>
     </book>
     <book>
-        <date>2016.10.02</date>
+        <date>2016-10-02</date>
         <title>Non-militarisation: countries without armies</title>
         <subtitle>Identification criteria and first findings</subtitle>
         <author>Christophe Barbey</author>
@@ -664,7 +799,7 @@
         <image>Non-militarisation - countries without armies.jpg</image>
     </book>
     <book>
-        <date>2016.09.28</date>
+        <date>2016-09-28</date>
         <title>Islam and the Future of Tolerance</title>
         <subtitle>A Dialogue</subtitle>
         <author>Sam Harris &amp; Maajid Nawaz</author>
@@ -675,7 +810,7 @@
         <image>Islam and the Future of Tolerance.jpg</image>
     </book>
     <book>
-        <date>2016.09.15</date>
+        <date>2016-09-15</date>
         <title>Plaidoyer pour les animaux</title>
         <subtitle>Vers une bienveillance pour tous</subtitle>
         <author>Matthieu Ricard</author>
@@ -686,7 +821,7 @@
         <image>Plaidoyer pour les animaux.jpg</image>
     </book>
     <book>
-        <date>2016.06.19</date>
+        <date>2016-06-19</date>
         <title>Faith Versus Fact</title>
         <subtitle>Why Science and Religion are Incompatible</subtitle>
         <author>Jerry Coyne</author>
@@ -697,7 +832,7 @@
         <image>Faith Versus Fact.png</image>
     </book>
     <book>
-        <date>2016.04.24</date>
+        <date>2016-04-24</date>
         <title>L'Insoutenable Légèreté de l'être</title>
         <author>Milan Kundera</author>
         <publishingyear>1984</publishingyear>
@@ -707,7 +842,7 @@
         <image>L'Insoutenable Légèreté de l'être.jpg</image>
     </book>
     <book>
-        <date>2016.03.01</date>
+        <date>2016-03-01</date>
         <title>Le Petit Prince</title>
         <author>Antoine de Saint-Exupéry</author>
         <publishingyear>1943</publishingyear>
@@ -717,7 +852,7 @@
         <image>Le Petit Prince.jpg</image>
     </book>
     <book>
-        <date>2016.02.23</date>
+        <date>2016-02-23</date>
         <title>Our Accelerating Future</title>
         <subtitle>How Superintelligence, Nanotechnology, and Transhumanism Will Transform the Planet</subtitle>
         <author>Michael M. Anissimov</author>
@@ -728,7 +863,7 @@
         <image>Our Accelerating Future.jpg</image>
     </book>
     <book>
-        <date>2015.12.29</date>
+        <date>2015-12-29</date>
         <title>Les Testaments trahis</title>
         <author>Milan Kundera</author>
         <publishingyear>1993</publishingyear>
@@ -738,7 +873,7 @@
         <image>Les Testaments trahis.jpg</image>
     </book>
     <book>
-        <date>2015.12.18</date>
+        <date>2015-12-18</date>
         <title>Functional Programming in Scala</title>
         <author>Paul Chiusano &amp; Runar Bjarnason</author>
         <publishingyear>2014</publishingyear>
@@ -748,7 +883,7 @@
         <image>Functional Programming in Scala.jpg</image>
     </book>
     <book>
-        <date>2015.10.03</date>
+        <date>2015-10-03</date>
         <title>Hygiène de l'assassin</title>
         <author>Amélie Nothomb</author>
         <publishingyear>1992</publishingyear>
@@ -758,7 +893,7 @@
         <image>Hygiène de l'assassin.jpg</image>
     </book>
     <book>
-        <date>2015.09.26</date>
+        <date>2015-09-26</date>
         <title>Surely You're Joking, Mr. Feynman!</title>
         <author>Ralph Leighton &amp; Richard Feynman</author>
         <publishingyear>1988</publishingyear>
@@ -768,7 +903,7 @@
         <image>Surely You're Joking, Mr. Feynman!.jpg</image>
     </book>
     <book>
-        <date>2015.07.19</date>
+        <date>2015-07-19</date>
         <title>When the Tripods Came</title>
         <author>John Christopher</author>
         <publishingyear>1988</publishingyear>
@@ -778,7 +913,7 @@
         <image>When the Tripods Came.jpg</image>
     </book>
     <book>
-        <date>2015.06.28</date>
+        <date>2015-06-28</date>
         <title>The Pool of Fire</title>
         <author>John Christopher</author>
         <publishingyear>1968</publishingyear>
@@ -787,7 +922,7 @@
         <image>The Pool of Fire.jpg</image>
     </book>
     <book>
-        <date>2015.06.20</date>
+        <date>2015-06-20</date>
         <title>The City of Gold and Lead</title>
         <author>John Christopher</author>
         <publishingyear>1968</publishingyear>
@@ -797,7 +932,7 @@
         <image>The City of Gold and Lead.jpg</image>
     </book>
     <book>
-        <date>2015.06.04</date>
+        <date>2015-06-04</date>
         <title>The White Mountains</title>
         <author>John Christopher</author>
         <publishingyear>1967</publishingyear>
@@ -806,7 +941,7 @@
         <image>The White Mountains.jpg</image>
     </book>
     <book>
-        <date>2015.05.27</date>
+        <date>2015-05-27</date>
         <title>Bad Pharma</title>
         <author>Ben Goldacre</author>
         <publishingyear>2012</publishingyear>
@@ -816,7 +951,7 @@
         <image>Bad Pharma.jpg</image>
     </book>
     <book>
-        <date>2015.03.24</date>
+        <date>2015-03-24</date>
         <title>Stupeur et Tremblements</title>
         <author>Amélie Nothomb</author>
         <publishingyear>1999</publishingyear>
@@ -826,7 +961,7 @@
         <image>Stupeur et Tremblements.jpg</image>
     </book>
     <book>
-        <date>2015.03.21</date>
+        <date>2015-03-21</date>
         <title>Gargantua</title>
         <author>François Rabelais</author>
         <publishingyear>1534</publishingyear>
@@ -837,7 +972,7 @@
         <image>Gargantua.jpg</image>
     </book>
     <book>
-        <date>2014.12.30</date>
+        <date>2014-12-30</date>
         <title>L'Alchimiste</title>
         <author>Paulo Coelho</author>
         <publishingyear>1988</publishingyear>
@@ -847,7 +982,7 @@
         <image>L'Alchimiste.jpg</image>
     </book>
     <book>
-        <date>2014.12.23</date>
+        <date>2014-12-23</date>
         <title>The Fear of Insignificance</title>
         <subtitle>Searching for Meaning in the Twenty-First Century</subtitle>
         <author>Carlo Strenger</author>
@@ -858,7 +993,7 @@
         <image>The Fear of Insignificance.jpg</image>
     </book>
     <book>
-        <date>2014.10.31</date>
+        <date>2014-10-31</date>
         <title>Cosmos</title>
         <author>Carl Sagan</author>
         <publishingyear>1980</publishingyear>
@@ -867,7 +1002,7 @@
         <image>Cosmos.jpg</image>
     </book>
     <book>
-        <date>2014.10.18</date>
+        <date>2014-10-18</date>
         <title>The Collected Short Stories of Roald Dahl</title>
         <author>Roald Dahl</author>
         <publishingyear>1991</publishingyear>
@@ -876,7 +1011,7 @@
         <image>The Collected Short Stories of Roald Dahl.jpg</image>
     </book>
     <book>
-        <date>2014.09.27</date>
+        <date>2014-09-27</date>
         <title>Waking Up</title>
         <subtitle>A Guide to Spirituality Without Religion</subtitle>
         <author>Sam Harris</author>
@@ -887,7 +1022,7 @@
         <image>Waking Up.jpg</image>
     </book>
 	<book>
-        <date>2014.09.02</date>
+        <date>2014-09-02</date>
         <title>A Manual for Creating Atheists</title>
         <author>Peter Boghossian</author>
         <publishingyear>2013</publishingyear>
@@ -897,7 +1032,7 @@
         <image>A Manual for Creating Atheists.jpg</image>
     </book>
     <book>
-        <date>2014.08.11</date>
+        <date>2014-08-11</date>
         <title>La Peste</title>
         <author>Albert Camus</author>
         <publishingyear>1947</publishingyear>
@@ -907,7 +1042,7 @@
         <image>La Peste.jpg</image>
     </book>
     <book>
-        <date>2014.04.26</date>
+        <date>2014-04-26</date>
         <title>The Brain and the Meaning of Life</title>
         <author>Paul Thagard</author>
         <publishingyear>2010</publishingyear>
@@ -917,7 +1052,7 @@
         <image>The Brain and the Meaning of Life.jpg</image>
     </book>
     <book>
-        <date>2014.02.27</date>
+        <date>2014-02-27</date>
         <title>Play for Scala</title>
         <subtitle>Covers Play 2</subtitle>
         <author>Peter Hilton, Erik Bakker &amp; Francisco Canedo</author>
@@ -927,7 +1062,7 @@
         <image>Play for Scala.jpg</image>
     </book>
     <book>
-        <date>2014.02.23</date>
+        <date>2014-02-23</date>
         <title>The Now Habit</title>
         <subtitle>A Strategic Program for Overcoming Procrastination and Enjoying Guilt-Free Play</subtitle>
         <author>Neil A. Fiore</author>
@@ -938,7 +1073,7 @@
         <image>The Now Habit.jpg</image>
     </book>
     <book>
-        <date>2014.01.11</date>
+        <date>2014-01-11</date>
         <title>Consciousness</title>
         <subtitle>Confessions of a Romantic Reductionist</subtitle>
         <author>Christof Koch</author>
@@ -949,7 +1084,7 @@
         <image>Confessions of a Romantic Reductionist.jpg</image>
     </book>
     <book>
-        <date>2013.12.16</date>
+        <date>2013-12-16</date>
         <title>Scala in Depth</title>
         <author>Joshua D. Suereth</author>
         <publishingyear>2012</publishingyear>
@@ -958,8 +1093,8 @@
         <image>Scala in Depth.jpg</image>
     </book>
     <book>
-        <date>2013.12.06</date>
-        <title>Pierres à cupules et autres pierres gravées: Verbier, Bagnes et Entremont</title>
+        <date>2013-12-06</date>
+        <title>Pierres à cupules et autres pierres gravées : Verbier, Bagnes et Entremont</title>
         <author>Gilbert Bruchez, Philippe Curdy &amp; François Baillifard</author>
         <publishingyear>2009</publishingyear>
         <rating>4.5</rating>
@@ -967,7 +1102,7 @@
         <!-- Cover not found online -->
     </book>
     <book>
-        <date>2013.11.21</date>
+        <date>2013-11-21</date>
         <title>Pantagruel</title>
         <author>François Rabelais</author>
         <publishingyear>1532</publishingyear>
@@ -978,7 +1113,7 @@
         <image>Pantagruel.jpg</image>
     </book>
     <book>
-        <date>2013.10.21</date>
+        <date>2013-10-21</date>
         <title>Métaphysique des tubes</title>
         <author>Amélie Nothomb</author>
         <publishingyear>2000</publishingyear>
@@ -988,7 +1123,7 @@
         <image>Métaphysique des tubes.jpg</image>
     </book>
     <book>
-        <date>2013.10.17</date>
+        <date>2013-10-17</date>
         <title>The Selfish Gene</title>
         <author>Richard Dawkins</author>
         <publishingyear>2006</publishingyear>
@@ -999,7 +1134,7 @@
         <image>The Selfish Gene.jpg</image>
     </book>
 	<book>
-        <date>2013.08.01</date>
+        <date>2013-08-01</date>
         <title>A Universe from Nothing</title>
         <author>Lawrence M. Krauss</author>
         <publishingyear>2012</publishingyear>
@@ -1009,7 +1144,7 @@
         <image>A Universe from Nothing.jpg</image>
     </book>
 	<book>
-        <date>2013.06.07</date>
+        <date>2013-06-07</date>
         <title>Le Vieil Homme et la Mer</title>
         <author>Ernest Hemingway</author>
         <publishingyear>1952</publishingyear>
@@ -1019,7 +1154,7 @@
         <image>Le Vieil Homme et la Mer.jpg</image>
     </book>
 	<book>
-        <date>2013.05.08</date>
+        <date>2013-05-08</date>
         <title>Le Mythe de Sisyphe</title>
         <author>Albert Camus</author>
         <publishingyear>1942</publishingyear>
@@ -1029,7 +1164,7 @@
         <image>Le Mythe de Sisyphe.jpg</image>
     </book>
     <book>
-        <date>2013.03.07</date>
+        <date>2013-03-07</date>
         <title>Le Voyage d'hiver</title>
         <author>Amélie Nothomb</author>
         <publishingyear>2009</publishingyear>
@@ -1038,7 +1173,7 @@
         <image>Le Voyage d'hiver.jpg</image>
     </book>
     <book>
-        <date>2013.02.19</date>
+        <date>2013-02-19</date>
         <title>What I Believe</title>
         <author>Bertrand Russell</author>
         <publishingyear>1925</publishingyear>
@@ -1048,7 +1183,7 @@
         <image>What I Believe.jpg</image>
     </book>
     <book>
-        <date>2013.02.04</date>
+        <date>2013-02-04</date>
         <title>How to Create a Mind</title>
         <subtitle>The Secret of Human Thought Revealed</subtitle>
         <author>Ray Kurzweil</author>
@@ -1059,7 +1194,7 @@
         <image>How to Create a Mind.jpg</image>
     </book>
     <book>
-        <date>2012.12.06</date>
+        <date>2012-12-06</date>
         <title>JavaScript: The Good Parts</title>
         <author>Douglas Crockford</author>
         <publishingyear>2008</publishingyear>
@@ -1068,7 +1203,7 @@
         <image>JavaScript - The Good Parts.jpg</image>
     </book>
     <book>
-        <date>2012.11.28</date>
+        <date>2012-11-28</date>
         <title>L'Étranger</title>
         <author>Albert Camus</author>
         <publishingyear>1942</publishingyear>
@@ -1078,7 +1213,7 @@
         <image>L'Étranger.jpg</image>
     </book>
     <book>
-        <date>2012.11.05</date>
+        <date>2012-11-05</date>
         <title>The Moral Landscape</title>
         <subtitle>How Science Can Determine Human Values</subtitle>
         <author>Sam Harris</author>
@@ -1089,7 +1224,7 @@
         <image>The Moral Landscape.jpg</image>
     </book>
     <book>
-        <date>2012.09.19</date>
+        <date>2012-09-19</date>
         <title>You Are Not So Smart</title>
         <subtitle>Why You Have Too Many Friends on Facebook, Why Your Memory Is Mostly Fiction, and 46 Other Ways You're Deluding Yourself</subtitle>
         <author>David McRaney</author>
@@ -1100,7 +1235,7 @@
         <image>You Are Not So Smart.jpg</image>
     </book>
 	<book>
-		<date>2012.04.26</date>
+		<date>2012-04-26</date>
 		<title>Free Will</title>
 		<author>Sam Harris</author>
 		<publishingyear>2012</publishingyear>
@@ -1110,7 +1245,7 @@
         <image>Free Will.jpg</image>
 	</book>
 	<book>
-		<date>2012.04.06</date>
+		<date>2012-04-06</date>
 		<title>Bad Science</title>
 		<author>Ben Goldacre</author>
 		<publishingyear>2008</publishingyear>
@@ -1120,7 +1255,7 @@
         <image>Bad Science.jpg</image>
 	</book>
 	<book>
-		<date>2011.11.14</date>
+		<date>2011-11-14</date>
 		<title>Anything You Want</title>
         <subtitle>40 Lessons for a New Kind of Entrepreneur</subtitle>
 		<author>Derek Sivers</author>
@@ -1130,7 +1265,7 @@
         <image>Anything You Want.jpg</image>
 	</book>
     <book>
-		<date>2011.10.20</date>
+		<date>2011-10-20</date>
 		<title>Lying</title>
 		<author>Sam Harris &amp; Annaka Harris</author>
 		<publishingyear>2011</publishingyear>
@@ -1139,7 +1274,7 @@
         <image>Lying.jpg</image>
 	</book>
     <book>
-		<date>2011.08.13</date>
+		<date>2011-08-13</date>
 		<title>God's Debris</title>
 		<subtitle>A Thought Experiment</subtitle>
 		<author>Scott Adams</author>
@@ -1150,7 +1285,7 @@
         <image>God's Debris.jpg</image>
 	</book>
 	<book>
-		<date>2011.07.08</date>
+		<date>2011-07-08</date>
 		<title>Institutions politiques suisses</title>
 		<author>Vincent Golay &amp; Mix &amp; Remix</author>
 		<publishingyear>2010</publishingyear>
@@ -1159,7 +1294,7 @@
         <image>Institutions politiques suisses.jpg</image>
 	</book>
     <book>
-		<date>2011.03.20</date>
+		<date>2011-03-20</date>
 		<title>Programming in Scala</title>
 		<author>Martin Odersky, Lex Spoon &amp; Bill Venners</author>
 		<publishingyear>2008</publishingyear>
@@ -1168,7 +1303,7 @@
         <image>Programming in Scala.png</image>
 	</book>
     <book>
-		<date>2011.02.01</date>
+		<date>2011-02-01</date>
 		<title>The Immortality Edge</title>
 		<subtitle>Realize the Secrets of Your Telomeres for a Longer, Healthier Life</subtitle>
 		<author>Michael Fossel, Greta Blackburn &amp; Dave Woynarowski</author>
@@ -1178,7 +1313,7 @@
         <image>The Immortality Edge.jpg</image>
 	</book>
     <book>
-		<date>2010.09.27</date>
+		<date>2010-09-27</date>
 		<title>Stumbling on Happiness</title>
 		<author>Daniel Gilbert</author>
 		<publishingyear>2006</publishingyear>
@@ -1187,7 +1322,7 @@
         <image>Stumbling on Happiness.jpg</image>
 	</book>
 	<book>
-		<date>2010.08.30</date>
+		<date>2010-08-30</date>
 		<title>Trick or Treatment?</title>
 		<subtitle>Alternative Medicine on Trial</subtitle>
 		<author>Simon Singh &amp; Edzard Ernst</author>
@@ -1197,7 +1332,7 @@
         <image>Alternative Medicine on Trial.jpg</image>
 	</book>
     <book>
-		<date>2010.07.01</date>
+		<date>2010-07-01</date>
 		<title>Placebo</title>
 		<subtitle>Mind over Matter in Modern Medicine</subtitle>
 		<author>Dylan Evans</author>
@@ -1207,7 +1342,7 @@
         <image>Placebo.jpg</image>
 	</book>
     <book>
-		<date>2010.06.03</date>
+		<date>2010-06-03</date>
 		<title>L'effet placebo</title>
 		<subtitle>Le pouvoir de guérir</subtitle>
 		<author>Danielle Fecteau</author>
@@ -1217,7 +1352,7 @@
         <image>L'effet placebo.jpg</image>
 	</book>
     <book>
-		<date>2010.04.30</date>
+		<date>2010-04-30</date>
 		<title>Tribal Leadership</title>
 		<subtitle>Leveraging Natural Groups to Build a Thriving Organization</subtitle>
 		<author>Dave Logan, John King &amp; Halee Fischer-Wright</author>
@@ -1227,7 +1362,7 @@
         <image>Tribal Leadership.jpg</image>
 	</book>
     <book>
-		<date>2010.02.16</date>
+		<date>2010-02-16</date>
 		<title>La Petite Marchande de prose</title>
 		<author>Daniel Pennac</author>
 		<publishingyear>1990</publishingyear>
@@ -1236,7 +1371,7 @@
         <image>La Petite Marchande de prose.jpg</image>
 	</book>
     <book>
-		<date>2009.08.16</date>
+		<date>2009-08-16</date>
 		<title>La fée carabine</title>
 		<author>Daniel Pennac</author>
 		<publishingyear>1987</publishingyear>
@@ -1245,7 +1380,7 @@
         <image>La fée carabine.jpg</image>
 	</book>
     <book>
-		<date>2009.06.27</date>
+		<date>2009-06-27</date>
 		<title>Transcend</title>
 		<subtitle>Nine Steps to Living Well Forever</subtitle>
 		<author>Ray Kurzweil &amp; Terry Grossman</author>
@@ -1255,7 +1390,7 @@
         <image>Transcend.jpg</image>
 	</book>
     <book>
-		<date>2009.06.12</date>
+		<date>2009-06-12</date>
 		<title>Au bonheur des ogres</title>
 		<author>Daniel Pennac</author>
 		<publishingyear>1985</publishingyear>
@@ -1264,7 +1399,7 @@
         <image>Au bonheur des ogres.jpg</image>
 	</book>
     <book>
-		<date>2009.05.27</date>
+		<date>2009-05-27</date>
 		<title>Je suis fatigué mais je ne sais pas pourquoi...!</title>
 		<subtitle>La fatigue chronique, fléau des temps modernes</subtitle>
 		<author>Philippe-Gaston Besson</author>
@@ -1274,7 +1409,7 @@
         <image>Je suis fatigué mais je ne sais pas pourquoi.jpg</image>
 	</book>
     <book>
-		<date>2009.05.27</date>
+		<date>2009-05-27</date>
 		<title>Le garçon qui croyait au paradis</title>
 		<author>Maurice Chappaz</author>
 		<publishingyear>1995</publishingyear>
@@ -1283,7 +1418,7 @@
         <image>Le garçon qui croyait au paradis.jpg</image>
 	</book>
     <book>
-		<date>2009.05.18</date>
+		<date>2009-05-18</date>
 		<title>Fantastic Voyage</title>
 		<subtitle>Live Long Enough To Live Forever</subtitle>
 		<author>Ray Kurzweil &amp; Terry Grossman</author>
@@ -1293,7 +1428,7 @@
         <image>Fantastic Voyage.jpg</image>
 	</book>
     <book>
-		<date>2009.04.25</date>
+		<date>2009-04-25</date>
 		<title>Chagrin d'école</title>
 		<author>Daniel Pennac</author>
 		<publishingyear>2007</publishingyear>
@@ -1302,7 +1437,7 @@
         <image>Chagrin d'école.jpg</image>
 	</book>
     <book>
-		<date>2009.04.10</date>
+		<date>2009-04-10</date>
 		<title>Asiles de fous</title>
 		<author>Régis Jauffret</author>
 		<publishingyear>2005</publishingyear>
@@ -1311,7 +1446,7 @@
         <image></image>
 	</book>
 	<book>
-		<date>2009.03.27</date>
+		<date>2009-03-27</date>
 		<title>Ulysse from Bagdad</title>
 		<author>Eric-Emmanuel Schmitt</author>
 		<publishingyear>2008</publishingyear>
@@ -1320,7 +1455,7 @@
         <image>Ulysse from Bagdad.jpg</image>
 	</book>
 	<book>
-		<date>2009.03.08</date>
+		<date>2009-03-08</date>
 		<title>L'Automne à Pékin</title>
 		<author>Boris Vian</author>
 		<publishingyear>1947</publishingyear>
@@ -1329,7 +1464,7 @@
         <image>L'Automne à Pékin.jpg</image>
 	</book>
     <book>
-		<date>2008.12.29</date>
+		<date>2008-12-29</date>
 		<title>Professional Web 2.0 Programming</title>
 		<author>Eric van der Vlist, Danny Ayers, Erik Bruchez, Joe Fawcett &amp; Alessandro Vernet</author>
 		<publishingyear>2006</publishingyear>
@@ -1338,7 +1473,7 @@
         <image>Professional Web 2.0 Programming.jpg</image>
 	</book>
     <book>
-		<date>2008.12.17</date>
+		<date>2008-12-17</date>
 		<title>365 jours pour réfléchir à notre Terre</title>
 		<author>Yann Arthus-Bertrand</author>
 		<publishingyear>2006</publishingyear>
@@ -1347,7 +1482,7 @@
         <image>365 jours pour réfléchir à notre Terre.jpg</image>
 	</book>
 	<book>
-		<date>2008.08.17</date>
+		<date>2008-08-17</date>
 		<title>Thinking In Java</title>
 		<author>Bruce Eckel</author>
 		<publishingyear>2006</publishingyear>
@@ -1356,7 +1491,7 @@
         <image>Thinking In Java.jpg</image>
 	</book>
 	<book>
-		<date>2008.03.24</date>
+		<date>2008-03-24</date>
 		<title>JPod</title>
 		<author>Douglas Coupland</author>
 		<publishingyear>2006</publishingyear>
@@ -1365,7 +1500,7 @@
         <image>JPod.gif</image>
 	</book>
 	<book>
-		<date>2008.02.16</date>
+		<date>2008-02-16</date>
 		<title>The 4-Hour Workweek</title>
 		<subtitle>Escape 9-5, Live Anywhere, And Join The New Rich</subtitle>
 		<author>Timothy Ferriss</author>
@@ -1375,7 +1510,7 @@
         <image>The 4-Hour Workweek.jpg</image>
 	</book>
 	<book>
-		<date>2008.01.28</date>
+		<date>2008-01-28</date>
 		<title>Getting Things Done</title>
 		<subtitle>The Art Of Stress-Free Productivity</subtitle>
 		<author>David Allen</author>
@@ -1384,9 +1519,8 @@
         <url>https://en.wikipedia.org/wiki/Getting_Things_Done</url>
         <image>Getting Things Done.jpg</image>
 	</book>
-    <!-- GR -->
 	<book>
-		<date>2007.07.08</date>
+		<date>2007-07-08</date>
 		<title>L'Élégance du hérisson</title>
 		<author>Muriel Barbery</author>
 		<publishingyear>2006</publishingyear>
@@ -1395,7 +1529,7 @@
         <image>L'Élégance du hérisson.jpg</image>
 	</book>
 	<book>
-		<date>2007.05.08</date>
+		<date>2007-05-08</date>
 		<title>Petit traité de manipulation à l'usage des honnêtes gens</title>
 		<author>Robert-Vincent Joule &amp; Jean-Léon Beauvois</author>
 		<publishingyear>2002</publishingyear>
@@ -1405,7 +1539,7 @@
         <image>Petit traité de manipulation à l'usage des honnêtes gens.jpg</image>
 	</book>
 	<book>
-		<date>2007.02.25</date>
+		<date>2007-02-25</date>
 		<title>The God Delusion</title>
 		<author>Richard Dawkins</author>
 		<publishingyear>2006</publishingyear>
@@ -1414,7 +1548,7 @@
         <image>The God Delusion.jpg</image>
 	</book>
 	<book>
-		<date>2006.10.10</date>
+		<date>2006-10-10</date>
 		<title>L'Écume des jours</title>
 		<author>Boris Vian</author>
 		<publishingyear>1947</publishingyear>
@@ -1423,7 +1557,7 @@
         <image>L'Écume des jours.jpg</image>
 	</book>
 	<book>
-		<date>2006.08.20</date>
+		<date>2006-08-20</date>
 		<title>The Singularity Is Near</title>
 		<subtitle>When Humans Transcend Biology</subtitle>
 		<author>Ray Kurzweil</author>
@@ -1433,7 +1567,7 @@
         <image>The Singularity Is Near.jpg</image>
 	</book>
 	<book>
-		<date>2006.05.14</date>
+		<date>2006-05-14</date>
 		<title>The Da Vinci Code</title>
 		<author>Dan Brown</author>
 		<publishingyear>2003</publishingyear>
@@ -1442,7 +1576,7 @@
         <image>The Da Vinci Code.jpg</image>
 	</book>
 	<book>
-		<date>2005.08.16</date>
+		<date>2005-08-16</date>
 		<title>Le Soleil des Scorta</title>
 		<author>Laurent Gaudé</author>
 		<publishingyear>2004</publishingyear>
@@ -1451,7 +1585,7 @@
         <image>Le Soleil des Scorta.jpg</image>
 	</book>
 	<book>
-		<date>2005.06.10</date>
+		<date>2005-06-10</date>
 		<title>L'Ignorance</title>
 		<author>Milan Kundera</author>
 		<publishingyear>2003</publishingyear>
@@ -1460,7 +1594,7 @@
         <image>L'Ignorance.jpg</image>
 	</book>
 	<book>
-		<date>2005.05.22</date>
+		<date>2005-05-22</date>
 		<title>The Last Miles</title>
 		<subtitle>The Music of Miles Davis 1980-1991</subtitle>
 		<author>George Cole</author>
@@ -1470,7 +1604,7 @@
         <image>The Last Miles.jpg</image>
 	</book>
     <book>
-        <date>2004.09.19</date>
+        <date>2004-09-19</date>
         <title>The Age of Spiritual Machines</title>
         <author>Ray Kurzweil</author>
         <publishingyear>1999</publishingyear>
@@ -1479,7 +1613,7 @@
         <image>The Age of Spiritual Machines.jpg</image>
     </book>
     <book>
-        <date>2004.01.24</date>
+        <date>2004-01-24</date>
         <title>Le Procès</title>
         <author>Franz Kafka</author>
         <publishingyear>1933</publishingyear>
@@ -1488,7 +1622,7 @@
         <image>Le Procè̀s.jpg</image>
     </book>
     <book>
-        <date>2002.??.??</date>
+        <date>2002-??-??</date>
         <title>Les Testaments trahis</title>
         <author>Milan Kundera</author>
         <publishingyear>1993</publishingyear>
@@ -1497,7 +1631,7 @@
         <image>Les Testaments trahis.jpg</image>
     </book>
     <book>
-        <date>2002.05.04</date>
+        <date>2002-05-04</date>
         <title>Miles Beyond</title>
         <subtitle>The Electric Explorations of Miles Davis 1967-1991</subtitle>
         <author>Paul Tingen</author>
@@ -1507,7 +1641,7 @@
         <image>Miles Beyond.jpg</image>
     </book>
     <book>
-        <date>2001.09.26</date>
+        <date>2001-09-26</date>
         <title>Le Château</title>
         <author>Franz Kafka</author>
         <publishingyear>1938</publishingyear>
@@ -1516,7 +1650,7 @@
         <image>Le Château.jpg</image>
     </book>
     <book>
-        <date>2000.??.??</date>
+        <date>2000-??-??</date>
         <title>La vie est ailleurs</title>
         <author>Milan Kundera</author>
         <publishingyear>1969</publishingyear>
@@ -1525,7 +1659,15 @@
         <image>La vie est ailleurs.jpg</image>
     </book>
     <book>
-        <date>1999.??.??</date>
+        <date>2000-02-??</date>
+        <title>Le mystère de la conscience</title>
+        <author>John Searle</author>
+        <publishingyear>1999</publishingyear>
+        <url>https://books.google.com/books?id=ff41AAAACAAJ</url>
+        <image>Le mystère de la conscience.jpg</image>
+    </book> 
+    <book>
+        <date>1999-??-??</date>
         <title>Keith Jarrett</title>
         <subtitle>The Man And His Music</subtitle>
         <author>Ian Carr</author>
@@ -1535,7 +1677,7 @@
         <image>Keith Jarrett - The Man And His Music.jpg</image>
     </book>
     <book>
-        <date>1998.??.??</date>
+        <date>1998-??-??</date>
         <title>Miles</title>
         <subtitle>L'autobiographie</subtitle>
         <author>Miles Davis &amp; Quincy Troupe</author>
@@ -1545,7 +1687,7 @@
         <image>Miles - L'autobiographie.jpg</image>
     </book>
     <book>
-        <date>1996.09.21</date>
+        <date>1996-09-21</date>
         <title>La Modification</title>
         <author>Michel Butor</author>
         <publishingyear>1957</publishingyear>
@@ -1554,7 +1696,7 @@
         <image>La Modification.jpg</image>
     </book>
     <book>
-        <date>1996.07.08</date>
+        <date>1996-07-08</date>
         <title>Plume</title>
         <author>Henri Michaux</author>
         <publishingyear>1938</publishingyear>
@@ -1563,7 +1705,7 @@
         <image>Plume.jpg</image>
     </book>
     <book>
-        <date>1996.07.04</date>
+        <date>1996-07-04</date>
         <title>Comme un roman</title>
         <author>Daniel Pennac</author>
         <publishingyear>1992</publishingyear>
@@ -1572,7 +1714,7 @@
         <image>Comme un roman.jpg</image>
     </book>
     <book>
-        <date>1996.07.01</date>
+        <date>1996-07-01</date>
         <title>L'insoutenable légèreté de l'être</title>
         <author>Milan Kundera</author>
         <publishingyear>1984</publishingyear>
@@ -1581,7 +1723,7 @@
         <image>L'Insoutenable Légèreté de l'être.jpg</image>
     </book>
     <book>
-        <date>199?.??.??</date>
+        <date>199?-??-??</date>
         <title>2010 : Odyssée deux</title>
         <author>Arthur C. Clarke</author>
         <publishingyear>1982</publishingyear>
@@ -1590,7 +1732,7 @@
         <image>2010 - Odyssée deux.jpg</image>
     </book>
     <book>
-        <date>199?.??.??</date>
+        <date>199?-??-??</date>
         <title>2001 : L'Odyssée de l'espace</title>
         <author>Arthur C. Clarke</author>
         <publishingyear>1968</publishingyear>
@@ -1599,7 +1741,7 @@
         <image>2001 - L'Odyssée de l'espace.jpg</image>
     </book>
     <book>
-        <date>199?.??.??</date>
+        <date>199?-??-??</date>
         <title>La Lenteur</title>
         <author>Milan Kundera</author>
         <publishingyear>1994</publishingyear>

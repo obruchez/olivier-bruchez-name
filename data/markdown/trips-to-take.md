@@ -89,6 +89,7 @@ See also [1000 places to see before you die](http://1000places.com/).
 
 ## Switzerland
 
+* [Aarburg Castle](https://en.wikipedia.org/wiki/Aarburg_Castle)
 * [Bern](https://en.wikipedia.org/wiki/Bern) (already visited, to visit again)
 * [Creux du Van](https://en.wikipedia.org/wiki/Creux_du_Van)
 * [Ebenalp](https://en.wikipedia.org/wiki/Ebenalp) (hiking, cable car, etc.)

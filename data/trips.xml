@@ -1,37 +1,51 @@
 <?xml version="1.0" encoding="utf-8"?>
-<trips>
+<trips created="2008-02-26">
   <introduction>A list of trips I took.</introduction>
   <trip>
-    <from>2019.09.14</from>
-    <to>2019.09.16</to>
+    <from>2020-09-19</from>
+    <to>2020-09-21</to>
+    <place>Basel, Switzerland</place>
+    <!-- <pictures url=""/> -->
+    <comments>Our third weekend in Basel (and our first with our 2-year old son). We went to the Spielzeug Welten Museum, among other things (walking in the Old Town, crossing the Rhine on small boats, having delicious food at Markthalle, etc.). This certainly won't be our last stay in that nice city.</comments>
+  </trip>
+  <trip>
+    <from>2020-07-25</from>
+    <to>2020-08-11</to>
+    <place>Bretagne / Brittany, France</place>
+    <!-- <pictures url=""/> -->
+    <comments>This was my first trip to Bretagne / Brittany in about 30 years. I didn't swim in the English Channel (La Manche), this time (one story I heard a lot those last 30 years: I apparently was almost taken by strong currents when swimming in La Manche in St-Malo - I didn't realize at the time I could have been in danger). We ate a lot of <i>crêpes</i> (sometimes because it was the easiest way to eat something vegetarian), a lot of pastries (<a href="https://en.wikipedia.org/wiki/Kouign-amann">kouign-amann</a> and others), and drank a lot of cider. If it wasn't for the non-vegetarian-friendly food (seafood and French cuisine in general), I guess I could live in Brittany. This is a really nice region.</comments>
+  </trip>
+  <trip>
+    <from>2019-09-14</from>
+    <to>2019-09-16</to>
     <place>Leukerbad, Switzerland</place>
     <pictures url="https://www.flickr.com/photos/bruchez/albums/72157711163526826"/>
     <comments>Our fourth stay in Leukerbad (after 2006, 2014, and 2018). Our first weekend without our 16-month-old baby.</comments>
   </trip>
   <trip>
-    <from>2019.07.18</from>
-    <to>2019.08.02</to>
+    <from>2019-07-18</from>
+    <to>2019-08-02</to>
     <place>Oslo / Northern Norway</place>
     <pictures url="https://www.flickr.com/photos/bruchez/albums/72157710120421426"/>
     <comments>I already visited Oslo in 2002, but this was the first time I visited Northern Norway. We had a lot of luck with the weather (a lot of sun, comfortable temperatures, often around 20 °C). North Cape (Nordkapp) was a bit underwhelming (it's a place "at the end of the world", but it somehow looks fake/artificial). I'm glad we went to Magerøya (the island), though. I really like sparsely populated areas. The Lofoten Islands were absolutely fantastic, of course. I'd like to go back there again, someday, and visit Senja and possibly other islands as well.</comments>
   </trip>
   <trip>
-    <from>2018.09.07</from>
-    <to>2018.09.16</to>
+    <from>2018-09-07</from>
+    <to>2018-09-16</to>
     <place>Cala Mesquida, Mallorca, Balearic Islands, Spain</place>
     <pictures url="https://www.flickr.com/photos/bruchez/sets/72157671479966797">Mallorca</pictures>
     <comments>We did a similar trip last year (in Alcúdia, more or less on the same side of the island, 50 minutes away from Cala Mesquida), this time with a 4-month-old baby. The plan was more or less the same: sleep, eat, go to the swimming pool or the beach, read books, etc. This time I finished five books (three of which I had started many weeks ago). I also did a short hike to Talaia de son Jaumell (beautiful view). I think I prefered Cala Mesquida to Alcúdia (more nature, no cars, beautiful beach, mountains, etc.), but the hotel in Alcúdia (PortBlue Club Pollentia Resort &amp; Spa) was probably a bit better than the one in Cala Mesquida (Zafiro Cala Mesquida). Next time, we should really visit the whole island more (with a rented car, possibly).</comments>
   </trip>
   <trip>
-    <from>2018.03.09</from>
-    <to>2018.03.11</to>
+    <from>2018-03-09</from>
+    <to>2018-03-11</to>
     <place>Leukerbad, Switzerland</place>
     <pictures url="https://www.flickr.com/photos/bruchez/sets/72157691937266112/"/>
     <comments>Our third stay in Leukerbad (after 2006 and 2014) and our last weekend/trip before our baby was born. Like last time, we had a massage at the Sources des Alpes (but we stayed at another, way cheaper hotel).</comments>
   </trip>
   <trip>
-    <from>2017.10.07</from>
-    <to>2017.10.22</to>
+    <from>2017-10-07</from>
+    <to>2017-10-22</to>
     <place>Chicago / New Orleans / New York, USA</place>
     <pictures url="https://www.flickr.com/photos/bruchez/sets/72157662909297987/">Chicago</pictures>
     <pictures url="https://www.flickr.com/photos/bruchez/sets/72157664950970718/">Chicago: Art Institute</pictures>
@@ -43,22 +57,22 @@
     <comments>I had never been to Chicago. It's a nice city (lake, river, buildings, etc.). I particularly liked the Art Institute of Chicago (a fantastic museum!). It was the second time I went to New Orleans and the first time since 2001. This is the city I liked the least among the three. I liked the National WWII Museum, though. It's very well done. Finally, this was the third time I went to New York (after 2001 and 2004). A fantastic city, of course. <i>The</i> city. The Metropolitan Museum of Art is impressive. Probably one of the best museums in the world. The National 9/11 Memorial &amp; Museum was completely different, but very moving and also very well done. It had a special meaning for me, as I first visited New York in September 2001, a few days before 9/11. I will also miss the vegan restaurants. A lot.</comments>
   </trip>
   <trip>
-    <from>2017.08.25</from>
-    <to>2017.08.27</to>
+    <from>2017-08-25</from>
+    <to>2017-08-27</to>
     <place>Adelboden, Switzerland</place>
     <pictures url="https://www.flickr.com/photos/bruchez/sets/72157689995368546">Adelboden &amp; Thun</pictures>
     <comments>A weekend in Adelboden for our 5-year wedding anniversary. We stayed at The Cambrian, a wonderful hotel, with a beautiful view, a spa, an indoor pool, a small outdoor pool (warmer), an excellent restaurant, etc. A very relaxing stay. We visited Thun Castle on our way back.</comments>
   </trip>
   <trip>
-    <from>2017.07.28</from>
-    <to>2017.08.04</to>
+    <from>2017-07-28</from>
+    <to>2017-08-04</to>
     <place>Alcúdia, Mallorca, Balearic Islands, Spain</place>
     <pictures url="https://www.flickr.com/photos/bruchez/sets/72157684952745471">Mallorca</pictures>
     <comments>This is not the kind of trips I'm naturally "attracted" to. We spent seven nights at PortBlue Club Pollentia Resort &amp; Spa. We didn't visit the area. At all. Instead, we slept, ate, went to the swimming pool and to the spa, read books, etc. For six complete days. This was the plan and this is what we did. I finished <i>A Guide to the Good Life: The Ancient Art of Stoic Joy</i> and started <i>Homo Deus: A Brief History of Tomorrow</i>. The last time we did something similar was in 2013, when we went to Fuerteventura.</comments>
   </trip>
   <trip>
-    <from>2017.04.08</from>
-    <to>2017.04.23</to>
+    <from>2017-04-08</from>
+    <to>2017-04-23</to>
     <place>Tokyo / Kyoto, Japan</place>
     <pictures url="https://www.flickr.com/photos/bruchez/sets/72157686360476230/">Tokyo</pictures>
     <pictures url="https://www.flickr.com/photos/bruchez/sets/72157688604227206/">Tokyo: National Museum of Modern Art</pictures>
@@ -68,15 +82,15 @@
     <comments>This was a trip we had wanted to do for several years. It was obviously very different from our trip to Namibia in 2016: big cities (Tokyo, especially), many people (in the subway, in the stations, in the streets), a language (Japanese) we couldn't read, etc.; but it was also quite "exotic", in a different way. This was the cherry blossom season, so nature was still an important dimension of the trip, in a sense, although we mainly visited cities. It was quite a dense trip, which I see as a kind of introduction to a country I had never visited before. We definitely need to go back to Japan someday.</comments>
   </trip>
   <trip>
-    <from>2016.12.29</from>
-    <to>2017.01.03</to>
+    <from>2016-12-29</from>
+    <to>2017-01-03</to>
     <place>Berlin, Germany</place>
     <pictures url="https://www.flickr.com/photos/bruchez/sets/72157674966716513">Berlin</pictures>
     <pictures url="https://www.flickr.com/photos/bruchez/sets/72157675063919403">Berlin: Gemäldegalerie</pictures>
   </trip>
   <trip>
-    <from>2016.07.30</from>
-    <to>2016.08.17</to>
+    <from>2016-07-30</from>
+    <to>2016-08-17</to>
     <place>Namibia</place>
     <pictures url="https://www.flickr.com/photos/bruchez/sets/72157678413656074">Namibia: Windhoek / Sossusvlei / Solitaire</pictures>
     <pictures url="https://www.flickr.com/photos/bruchez/sets/72157679384050322">Namibia: Swakopmund / Walvis Bay / Spitzkoppe / Cape Cross</pictures>
@@ -85,8 +99,8 @@
     <pictures url="https://www.flickr.com/photos/bruchez/sets/72157676024678662">Namibia: selections</pictures>
   </trip>
   <trip>
-    <from>2016.05.03</from>
-    <to>2016.05.06</to>
+    <from>2016-05-03</from>
+    <to>2016-05-06</to>
     <place>Copenhagen, Denmark</place>
     <pictures url="https://www.flickr.com/photos/bruchez/sets/72157668083605395">Copenhagen</pictures>
     <pictures url="https://www.flickr.com/photos/bruchez/sets/72157668137614016">Copenhagen: Kronborg Castle</pictures>
@@ -96,15 +110,15 @@
     <pictures url="https://www.flickr.com/photos/bruchez/sets/72157668231926435">Copenhagen: selections</pictures> 
   </trip>
   <trip>
-    <from>2015.09.19</from>
-    <to>2015.09.21</to>
+    <from>2015-09-19</from>
+    <to>2015-09-21</to>
     <place>Giessbach / Bern, Switzerland</place>
     <pictures url="https://www.flickr.com/photos/bruchez/sets/72157658590382979">Giessbach</pictures>
     <pictures url="https://www.flickr.com/photos/bruchez/sets/72157658598909858">Bern</pictures>
   </trip>
   <trip>
-    <from>2015.07.27</from>
-    <to>2015.08.17</to>
+    <from>2015-07-27</from>
+    <to>2015-08-17</to>
     <place>British Columbia / Alberta, Canada</place>
     <pictures url="https://www.flickr.com/photos/bruchez/sets/72157668762236093">Canada: Vancouver Island</pictures>
     <pictures url="https://www.flickr.com/photos/bruchez/sets/72157668751949574">Canada: Cowichan Bay (orca whale watching)</pictures>
@@ -118,14 +132,14 @@
     <pictures url="https://www.flickr.com/photos/bruchez/sets/72157671729779155">Canada: Museum of Anthropology (Vancouver)</pictures>
   </trip>
   <trip>
-    <from>2015.07.19</from>
-    <to>2015.07.27</to>
+    <from>2015-07-19</from>
+    <to>2015-07-27</to>
     <place>San Francisco, USA</place>
     <pictures url="https://www.flickr.com/photos/bruchez/sets/72157655181206403"/>
   </trip>
   <trip>
-    <from>2014.10.23</from>
-    <to>2014.10.26</to>
+    <from>2014-10-23</from>
+    <to>2014-10-26</to>
     <place>Florence, Italy</place>
     <pictures url="https://www.flickr.com/photos/bruchez/sets/72157651375734853">Florence</pictures>
     <pictures url="https://www.flickr.com/photos/bruchez/sets/72157653684044822">Florence: Palazzo Pitti</pictures>
@@ -133,8 +147,8 @@
     <pictures url="https://www.flickr.com/photos/bruchez/sets/72157653634148736">Florence: Galleria dell'Accademia</pictures>
   </trip>
   <trip>
-    <from>2014.07.24</from>
-    <to>2014.08.10</to>
+    <from>2014-07-24</from>
+    <to>2014-08-10</to>
     <place>Québec / New Brunswick, Canada</place>
     <pictures url="https://www.flickr.com/photos/bruchez/sets/72157655722676906/">Montréal / Mauricie / Québec</pictures>
     <pictures url="https://www.flickr.com/photos/bruchez/sets/72157653464548953/">From Québec to Tadoussac</pictures>
@@ -145,63 +159,63 @@
     <pictures url="https://www.flickr.com/photos/bruchez/sets/72157655792780285/">Montréal: Musée des beaux-arts</pictures>
   </trip>
   <trip>
-    <from>2014.04.25</from>
-    <to>2014.04.27</to>
+    <from>2014-04-25</from>
+    <to>2014-04-27</to>
     <place>Piedmont, Italy</place>
     <pictures url="https://secure.flickr.com/photos/bruchez/sets/72157644206369318/"/>
   </trip>
   <trip>
-    <from>2014.02.22</from>
-    <to>2014.02.23</to>
+    <from>2014-02-22</from>
+    <to>2014-02-23</to>
     <place>Leukerbad, Switzerland</place>
     <pictures url="https://secure.flickr.com/photos/bruchez/sets/72157644013995175"/>
   </trip>
   <trip>
-    <from>2013.10.17</from>
-    <to>2013.10.21</to>
+    <from>2013-10-17</from>
+    <to>2013-10-21</to>
     <place>Prague, Czech Republic</place>
     <pictures url="https://secure.flickr.com/photos/bruchez/sets/72157637696735815/">Prague, Czech Republic</pictures>
     <pictures url="https://secure.flickr.com/photos/bruchez/sets/72157637691283093/">NG Prague - Veletržní Palace</pictures>
   </trip>
   <trip>
-    <from>2013.07.29</from>
-    <to>2013.08.08</to>
+    <from>2013-07-29</from>
+    <to>2013-08-08</to>
     <place>Jandía, Fuerteventura, Canary Islands, Spain</place>
     <pictures url="https://secure.flickr.com/photos/bruchez/sets/72157636301699486/"/>
   </trip>
   <trip>
-    <from>2013.06.29</from>
-    <to>2013.06.30</to>
+    <from>2013-06-29</from>
+    <to>2013-06-30</to>
     <place>Château de Pizay, Saint-Jean-d'Ardières, France</place>
     <pictures url="https://secure.flickr.com/photos/bruchez/sets/72157636184284975/"/>
   </trip>
   <trip>
-    <from>2013.05.17</from>
-    <to>2013.05.21</to>
+    <from>2013-05-17</from>
+    <to>2013-05-21</to>
     <place>Berlin, Germany</place>
     <pictures url="http://www.flickr.com/photos/bruchez/sets/72157633607608311"/>
   </trip>
   <trip>
-    <from>2013.03.30</from>
-    <to>2013.04.13</to>
+    <from>2013-03-30</from>
+    <to>2013-04-13</to>
     <place>San Francisco, USA</place>
     <pictures url="http://www.flickr.com/photos/bruchez/sets/72157633175345058/"/>
   </trip>
   <trip>
-    <from>2013.03.15</from>
-    <to>2013.03.16</to>
+    <from>2013-03-15</from>
+    <to>2013-03-16</to>
     <place>Basel, Switzerland</place>
     <pictures url="http://www.flickr.com/photos/bruchez/sets/72157633043301297/"/>
   </trip>
   <trip>
-    <from>2012.12.29</from>
-    <to>2013.01.01</to>
+    <from>2012-12-29</from>
+    <to>2013-01-01</to>
     <place>Baden-Baden, Germany</place>
     <pictures url="http://www.flickr.com/photos/bruchez/sets/72157632418339930/"/>
   </trip>
   <trip>
-    <from>2012.10.20</from>
-    <to>2012.10.28</to>
+    <from>2012-10-20</from>
+    <to>2012-10-28</to>
     <place>Andalusia, Spain</place>
     <pictures url="http://www.flickr.com/photos/bruchez/sets/72157631891660868/">Granada</pictures>
     <pictures url="http://www.flickr.com/photos/bruchez/sets/72157631962326759/">Córdoba &amp; Carmona</pictures>
@@ -209,8 +223,8 @@
     <pictures url="http://www.flickr.com/photos/bruchez/sets/72157631972073409/">Tarifa, Gibraltar &amp; Málaga</pictures>
   </trip>
   <trip>
-    <from>2012.05.26</from>
-    <to>2012.06.11</to>
+    <from>2012-05-26</from>
+    <to>2012-06-11</to>
     <place>French Polynesia</place>
     <pictures url="http://www.flickr.com/photos/bruchez/sets/72157630062724669/">Huahine</pictures>
     <pictures url="http://www.flickr.com/photos/bruchez/sets/72157630062735001/">Moorea</pictures>
@@ -218,14 +232,14 @@
     <pictures url="http://www.flickr.com/photos/bruchez/sets/72157630066266849/">Rangiroa / Tahiti</pictures>
   </trip>
   <trip>
-    <from>2011.09.18</from>
-    <to>2011.09.19</to>
+    <from>2011-09-18</from>
+    <to>2011-09-19</to>
     <place>Colmar, France / Rust, Germany</place>
     <pictures url="http://www.flickr.com/photos/bruchez/sets/72157628721043781/"/>
   </trip>
   <trip>
-    <from>2011.07.30</from>
-    <to>2011.08.13</to>
+    <from>2011-07-30</from>
+    <to>2011-08-13</to>
     <place>Ireland</place>
     <pictures url="https://secure.flickr.com/photos/bruchez/sets/72157627620157346/">Part I</pictures>
     <pictures url="https://secure.flickr.com/photos/bruchez/sets/72157627695003636/">Part II</pictures>
@@ -233,44 +247,44 @@
     <pictures url="https://secure.flickr.com/photos/bruchez/sets/72157627634407281/">Part IV</pictures>
   </trip>
   <trip>
-    <from>2011.07.23</from>
-    <to>2011.07.24</to>
+    <from>2011-07-23</from>
+    <to>2011-07-24</to>
     <place>Colmar, France / Rust, Germany</place>
     <pictures url="https://secure.flickr.com/photos/bruchez/sets/72157627486405827/"/>
   </trip>
   <trip>
-    <from>2011.07.02</from>
-    <to>2011.07.13</to>
+    <from>2011-07-02</from>
+    <to>2011-07-13</to>
     <place>San Francisco / Lake Tahoe, USA</place>
     <pictures url="https://secure.flickr.com/photos/bruchez/sets/72157638630507146/"/>
   </trip>
   <trip>
-    <from>2011.04.22</from>
-    <to>2011.04.25</to>
+    <from>2011-04-22</from>
+    <to>2011-04-25</to>
     <place>Tyrol, Austria</place>
     <pictures url="http://www.flickr.com/photos/bruchez/sets/72157626726359608/"/>
   </trip>
   <trip>
-    <from>2011.02.26</from>
-    <to>2011.03.06</to>
+    <from>2011-02-26</from>
+    <to>2011-03-06</to>
     <place>Kuramathi, Maldives</place>
     <pictures url="http://www.flickr.com/photos/bruchez/sets/72157626107576299/"/>
   </trip>
     <trip>
-    <from>2010.12.03</from>
-    <to>2010.12.05</to>
+    <from>2010-12-03</from>
+    <to>2010-12-05</to>
     <place>Basel, Switzerland</place>
     <pictures url="http://www.flickr.com/photos/bruchez/sets/72157626699738272/"/>
   </trip>
     <trip>
-    <from>2010.09.16</from>
-    <to>2010.09.20</to>
+    <from>2010-09-16</from>
+    <to>2010-09-20</to>
     <place>Berlin, Germany</place>
     <pictures url="http://www.flickr.com/photos/bruchez/sets/72157625230526768/"/>
   </trip>
     <trip>
-    <from>2010.08.07</from>
-    <to>2010.08.21</to>
+    <from>2010-08-07</from>
+    <to>2010-08-21</to>
     <place>Mexico</place>
     <pictures url="http://www.flickr.com/photos/bruchez/sets/72157625013803091/">Mexico City</pictures>
     <pictures url="http://www.flickr.com/photos/bruchez/sets/72157625149670424/">Teotihuacán</pictures>
@@ -281,122 +295,122 @@
     <pictures url="http://www.flickr.com/photos/bruchez/sets/72157625173702788/">Cozumel, Isla Mujeres &amp; Cancun</pictures>
   </trip>
     <trip>
-    <from>2010.08.02</from>
-    <to>2010.08.07</to>
+    <from>2010-08-02</from>
+    <to>2010-08-07</to>
     <place>San Francisco / Monterey, USA</place>
     <pictures url="http://www.flickr.com/photos/bruchez/sets/72157624732992115/"/>
   </trip>
     <trip>
-    <from>2010.07.17</from>
-    <to>2010.07.20</to>
+    <from>2010-07-17</from>
+    <to>2010-07-20</to>
     <place>Amsterdam, Netherlands</place>
     <pictures url="http://www.flickr.com/photos/bruchez/sets/72157624599735434/"/>
   </trip>
     <trip>
-    <from>2009.12.21</from>
-    <to>2009.12.24</to>
+    <from>2009-12-21</from>
+    <to>2009-12-24</to>
     <place>Paris, France</place>
     <pictures url="http://www.flickr.com/photos/bruchez/sets/72157623320418088/"/>
   </trip>
     <trip>
-    <from>2009.10.10</from>
-    <to>2009.10.13</to>
+    <from>2009-10-10</from>
+    <to>2009-10-13</to>
     <place>Berlin, Germany</place>
     <pictures url="http://www.flickr.com/photos/bruchez/sets/72157623318080640/"/>
   </trip>
     <trip>
-    <from>2009.08.10</from>
-    <to>2009.08.19</to>
+    <from>2009-08-10</from>
+    <to>2009-08-19</to>
     <place>Catalonia, Spain</place>
     <pictures url="http://www.flickr.com/photos/bruchez/sets/72157622018777243/"/>
   </trip>
     <trip>
-    <from>2009.07.24</from>
-    <to>2009.07.26</to>
+    <from>2009-07-24</from>
+    <to>2009-07-26</to>
     <place>Berlin, Germany</place>
     <pictures url="http://www.flickr.com/photos/bruchez/sets/72157621766976171/"/>
   </trip>
     <trip>
-    <from>2009.07.20</from>
-    <to>2009.07.23</to>
+    <from>2009-07-20</from>
+    <to>2009-07-23</to>
     <place>Stockholm, Sweden</place>
     <pictures url="http://www.flickr.com/photos/bruchez/sets/72157621891490488/"/>
   </trip>
     <trip>
-    <from>2009.07.17</from>
-    <to>2009.07.19</to>
+    <from>2009-07-17</from>
+    <to>2009-07-19</to>
     <place>Berlin, Germany</place>
     <pictures url="http://www.flickr.com/photos/bruchez/sets/72157621766991683/"/>
   </trip>
     <trip>
-    <from>2009.07.11</from>
-    <to>2009.07.12</to>
+    <from>2009-07-11</from>
+    <to>2009-07-12</to>
     <place>Lucerne, Switzerland</place>
     <pictures url="http://www.flickr.com/photos/bruchez/sets/72157621330181873/"/>
   </trip>
     <trip>
-    <from>2009.06.26</from>
-    <to>2009.06.29</to>
+    <from>2009-06-26</from>
+    <to>2009-06-29</to>
     <place>Berlin, Germany</place>
     <pictures url="http://www.flickr.com/photos/bruchez/sets/72157621187803532/"/>
   </trip>
     <trip>
-    <from>2009.05.27</from>
-    <to>2009.05.30</to>
+    <from>2009-05-27</from>
+    <to>2009-05-30</to>
     <place>Berlin, Germany</place>
     <pictures url="http://www.flickr.com/photos/bruchez/sets/72157621186762478/"/>
   </trip>
     <trip>
-    <from>2009.05.07</from>
-    <to>2009.05.10</to>
+    <from>2009-05-07</from>
+    <to>2009-05-10</to>
     <place>Berlin, Germany</place>
     <pictures url="http://www.flickr.com/photos/bruchez/sets/72157618065721107/"/>
   </trip>
     <trip>
-    <from>2009.04.16</from>
-    <to>2009.04.20</to>
+    <from>2009-04-16</from>
+    <to>2009-04-20</to>
     <place>Berlin, Germany</place>
     <pictures url="http://www.flickr.com/photos/bruchez/sets/72157617350512617/"/>
   </trip>
   <trip>
-    <from>2009.03.21</from>
-    <to>2009.03.25</to>
+    <from>2009-03-21</from>
+    <to>2009-03-25</to>
     <place>Cologne / Berlin, Germany</place>
     <pictures url="http://www.flickr.com/photos/bruchez/sets/72157617364728814/"/>
   </trip>
   <trip>
-    <from>2009.02.04</from>
-    <to>2009.02.10</to>
+    <from>2009-02-04</from>
+    <to>2009-02-10</to>
     <place>Berlin, Germany</place>
     <pictures url="http://www.flickr.com/photos/bruchez/sets/72157613719494588/"/>
   </trip>
     <trip>
-    <from>2009.01.16</from>
-    <to>2009.01.19</to>
+    <from>2009-01-16</from>
+    <to>2009-01-19</to>
     <place>Dresden / Berlin, Germany</place>
     <pictures url="http://www.flickr.com/photos/bruchez/sets/72157612825347624/"/>
   </trip>
     <trip>
-    <from>2008.12.12</from>
-    <to>2008.12.14</to>
+    <from>2008-12-12</from>
+    <to>2008-12-14</to>
     <place>Berlin, Germany</place>
     <pictures url="http://www.flickr.com/photos/bruchez/sets/72157611528127197/"/>
   </trip>
   <trip>
-    <from>2008.11.14</from>
-    <to>2008.11.20</to>
+    <from>2008-11-14</from>
+    <to>2008-11-20</to>
     <place>Berlin, Germany</place>
     <pictures url="http://www.flickr.com/photos/bruchez/sets/72157610946892679/"/>
   </trip>
   <trip>
-    <from>2008.10.17</from>
-    <to>2008.10.19</to>
+    <from>2008-10-17</from>
+    <to>2008-10-19</to>
     <place>Berlin, Germany</place>
     <pictures url="http://www.flickr.com/photos/bruchez/sets/72157608277387585/"/>
   </trip>
   <trip>
-    <from>2008.09.07</from>
-    <to>2008.09.29</to>
+    <from>2008-09-07</from>
+    <to>2008-09-29</to>
     <place>California / Arizona / Utah / Nevada, USA</place>
     <pictures url="http://www.flickr.com/photos/bruchez/sets/72157611120712278/">Los Angeles (1/2)</pictures>
     <pictures url="http://www.flickr.com/photos/bruchez/sets/72157622016820639/">Los Angeles (2/2)</pictures>
@@ -413,112 +427,112 @@
     <pictures url="http://www.flickr.com/photos/ebruchez/sets/72157608818482541/">Alcatraz</pictures>
   </trip>
   <trip>
-    <from>2008.08.19</from>
-    <to>2008.08.20</to>
+    <from>2008-08-19</from>
+    <to>2008-08-20</to>
     <place>Château de Pizay, Saint-Jean-d'Ardières, France</place>
     <pictures url="http://www.flickr.com/photos/bruchez/sets/72157606872784789/"/>
   </trip>
   <trip>
-    <from>2008.07.16</from>
-    <to>2008.07.18</to>
+    <from>2008-07-16</from>
+    <to>2008-07-18</to>
     <place>Lucerne, Switzerland</place>
     <pictures url="http://www.flickr.com/photos/bruchez/sets/72157606705999985/"/>
   </trip>
   <trip>
-    <from>2008.07.14</from>
-    <to>2008.07.16</to>
+    <from>2008-07-14</from>
+    <to>2008-07-16</to>
     <place>Interlaken, Switzerland</place>
     <pictures url="http://www.flickr.com/photos/bruchez/sets/72157606705536627/"/>
   </trip>
   <trip>
-    <from>2008.03.08</from>
-    <to>2008.03.09</to>
+    <from>2008-03-08</from>
+    <to>2008-03-09</to>
     <place>Lucerne, Switzerland</place>
     <pictures url="http://www.flickr.com/photos/bruchez/sets/72157604103141398/"/>
   </trip>
   <trip>
-    <from>2008.02.11</from>
-    <to>2008.02.15</to>
+    <from>2008-02-11</from>
+    <to>2008-02-15</to>
     <place>Vienna, Austria</place>
     <pictures url="http://www.flickr.com/photos/bruchez/sets/72157603966138396/"/>
   </trip>
   <trip>
-    <from>2007.09.09</from>
-    <to>2007.09.13</to>
+    <from>2007-09-09</from>
+    <to>2007-09-13</to>
     <place>London, UK</place>
     <pictures url="http://www.flickr.com/photos/bruchez/sets/72157602099359817/"/>
   </trip>
   <trip>
-    <from>2007.08.01</from>
-    <to>2007.08.05</to>
+    <from>2007-08-01</from>
+    <to>2007-08-05</to>
     <place>Berlin, Germany</place>
     <pictures url="http://www.flickr.com/photos/bruchez/sets/72157601331777925/"/>
   </trip>
   <trip>
-    <from>2007.02.19</from>
-    <to>2007.02.21</to>
+    <from>2007-02-19</from>
+    <to>2007-02-21</to>
     <place>Paris, France</place>
     <pictures url="http://www.flickr.com/photos/bruchez/sets/72157594553508379/"/>
   </trip>
   <trip>
-    <from>2006.10.13</from>
-    <to>2006.10.15</to>
+    <from>2006-10-13</from>
+    <to>2006-10-15</to>
     <place>Leukerbad, Switzerland</place>
     <pictures url="http://www.flickr.com/photos/bruchez/sets/72157594331650141/"/>
   </trip>
   <trip>
-    <from>2006.07.16</from>
-    <to>2006.07.16</to>
+    <from>2006-07-16</from>
+    <to>2006-07-16</to>
     <place>Lucerne, Switzerland</place>
     <pictures url="http://www.flickr.com/photos/bruchez/sets/72157594248724600/"/>
   </trip>
   <trip>
-    <from>2006.06.22</from>
-    <to>2006.06.24</to>
+    <from>2006-06-22</from>
+    <to>2006-06-24</to>
     <place>Amsterdam, Netherlands</place>
     <pictures url="http://www.flickr.com/photos/bruchez/sets/72157594179012768/"/>
   </trip>
   <trip>
-    <from>2006.06.16</from>
-    <to>2006.06.21</to>
+    <from>2006-06-16</from>
+    <to>2006-06-21</to>
     <place>Madrid, Spain</place>
     <pictures url="http://www.flickr.com/photos/bruchez/sets/72157594179000347/"/>
   </trip>
   <trip>
-    <from>2005.09.17</from>
-    <to>2005.09.19</to>
+    <from>2005-09-17</from>
+    <to>2005-09-19</to>
     <place>Paris, France</place>
     <pictures url="http://www.flickr.com/photos/bruchez/sets/1020722/"/>
   </trip>
   <trip>
-    <from>2005.07.25</from>
-    <to>2005.08.08</to>
+    <from>2005-07-25</from>
+    <to>2005-08-08</to>
     <place>Catalonia, Spain</place>
     <pictures url="http://www.flickr.com/photos/bruchez/sets/1020785/"/>
   </trip>
   <trip>
-    <from>2005.07.21</from>
-    <to>2005.07.23</to>
+    <from>2005-07-21</from>
+    <to>2005-07-23</to>
     <place>Milan, Italy</place>
     <pictures url="http://www.flickr.com/photos/bruchez/sets/1020749/"/>
   </trip>
   
   <trip>
-    <from>2004.11.06</from>
-    <to>2004.11.08</to>
+    <from>2004-11-06</from>
+    <to>2004-11-08</to>
     <place>Rome, Italy</place>
     <pictures url="http://erik.bruchez.name/pictures/ebruchez/album/520521"/>
   </trip>
   
   <trip>
-    <from>2005.04.15</from>
-    <to>2005.04.16</to>
+    <from>2005-04-15</from>
+    <to>2005-04-16</to>
     <place>Europa-Park (Rust), Germany</place>
     <pictures url="http://www.flickr.com/photos/bruchez/sets/405777/"/>
   </trip>
   <trip>
-    <from>2004.06.30</from>
-    <to>2004.07.20</to>
+    <from>2004-06-30</from>
+    <to>2004-07-20</to>
     <place>Québec / Ontario / New Brunswick, Canada; New York / Massachusetts / etc., USA</place>
     <pictures url="http://www.flickr.com/photos/bruchez/sets/72157594285344968/">Montréal / Ottawa / Kingston</pictures>
     <pictures url="http://www.flickr.com/photos/bruchez/sets/72157594298638381/">Toronto / Niagara Falls</pictures>
@@ -526,20 +540,20 @@
     <pictures url="http://www.flickr.com/photos/bruchez/sets/72157594298637228/">Gaspesia / Québec / Montréal</pictures>
   </trip>
   <trip>
-    <from>2003.07.15</from>
-    <to>2003.07.18</to>
+    <from>2003-07-15</from>
+    <to>2003-07-18</to>
     <place>Antibes / Juan-les-Pins, France</place>
     <pictures url="http://www.flickr.com/photos/bruchez/sets/72157594285347535/"/>
   </trip>
   <trip>
-    <from>2003.05.03</from>
-    <to>2003.05.04</to>
+    <from>2003-05-03</from>
+    <to>2003-05-04</to>
     <place>London, UK</place>
     <pictures url="http://www.flickr.com/photos/bruchez/sets/72057594076487576/"/>
   </trip>
   <trip>
-    <from>2002.07.22</from>
-    <to>2002.08.02</to>
+    <from>2002-07-22</from>
+    <to>2002-08-02</to>
     <place>Sweden / Norway</place>
     <pictures url="http://www.flickr.com/photos/bruchez/sets/413902/">Stockholm / Vaxholm</pictures>
     <pictures url="http://www.flickr.com/photos/bruchez/sets/414195/">Oslo / Karlstad</pictures>
@@ -548,15 +562,15 @@
     <pictures url="http://www.flickr.com/photos/bruchez/sets/414244/">Trondheim / Östersund / Sundsvall</pictures>
   </trip>
   <trip>
-    <from>2001.08.16</from>
-    <to>2001.09.08</to>
+    <from>2001-08-16</from>
+    <to>2001-09-08</to>
     <place>East coast (from Florida to New York), USA</place>
     <!-- Scans diapositives -->
     <pictures url="http://erik.bruchez.name/pictures/ebruchez/album/516302">New York</pictures>
   </trip>
   <trip>
-    <from>2000.07.26</from>
-    <to>2000.08.07</to>
+    <from>2000-07-26</from>
+    <to>2000-08-07</to>
     <place>Egypt</place>
     <pictures url="http://erik.bruchez.name/pictures/ebruchez/album/516263">Giza</pictures>
     <pictures url="http://erik.bruchez.name/pictures/ebruchez/album/516264">Cairo</pictures>
@@ -565,50 +579,50 @@
     <pictures url="http://erik.bruchez.name/pictures/ebruchez/album/516267">Aswan and Abu Simbel</pictures>
   </trip>
   <trip>
-    <from>1999.08.16</from>
-    <to>1999.08.26</to>
+    <from>1999-08-16</from>
+    <to>1999-08-26</to>
     <place>California, USA</place>
     <!-- Scans photos papa -->
     <pictures url="http://erik.bruchez.name/pictures/ebruchez/album/516243">Lassen Volcanic Park</pictures>
   </trip>
   <trip>
-    <from>1997.08.05</from>
-    <to>1997.08.20</to>
+    <from>1997-08-05</from>
+    <to>1997-08-20</to>
     <place>California, USA</place>
     <!-- Scans photos papa -->
     <!-- <pictures url=""/> -->
   </trip>
   <trip>
-    <from>1996.07.24</from>
-    <to>1996.08.01</to>
+    <from>1996-07-24</from>
+    <to>1996-08-01</to>
     <place>Ticino, Switzerland</place>
     <!-- Scans photos papa -->
     <!-- <pictures url=""/> -->
   </trip>
   <trip>
-    <from>1995.??.??</from>
-    <to>1995.??.??</to>
+    <from>1995-??-??</from>
+    <to>1995-??-??</to>
     <place>Paris, France</place>
     <!-- Scans photos -->
     <!-- <pictures url=""/> -->
   </trip>
   <trip>
-    <from>1994.??.??</from>
-    <to>1994.??.??</to>
+    <from>1994-??-??</from>
+    <to>1994-??-??</to>
     <place>Liguria (Cinque Terre, etc.) / Tuscany (Pisa, etc.), Italy</place>
     <!-- Scans photos -->
     <!-- <pictures url=""/> -->
   </trip>
   <trip>
-    <from>1993.07.27</from>
-    <to>1993.08.03</to>
+    <from>1993-07-27</from>
+    <to>1993-08-03</to>
     <place>Andalusia, Spain</place>
     <!-- Scans diapos papa + photos JP -->
     <!-- <pictures url=""/> -->
   </trip>
   <trip>
-    <from>1987.??.??</from>
-    <to>1987.??.??</to>
+    <from>1987-??-??</from>
+    <to>1987-??-??</to>
     <place>Ticino, Switzerland</place>
     <!-- Scans photos papa -->
     <!-- <pictures url=""/> -->

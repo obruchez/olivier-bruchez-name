@@ -1,18 +1,311 @@
 <?xml version="1.0" encoding="utf-8"?>
-<comics>
+<comics created="2017-01-28">
   <introduction>A list of comics I read.</introduction>
   <comic>
-    <date></date>
+    <date>2021-01-18</date>
+    <writer>Greg</writer>
+    <artist>Greg</artist>
+    <series url="https://fr.wikipedia.org/wiki/Achille_Talon">Achille Talon</series>
+    <volume url="https://fr.wikipedia.org/wiki/Les_Petits_Desseins_d%27Achille_Talon" number="9">Les Petits Desseins d'Achille Talon</volume>
+    <comments>Un tome sur la lancée du précédent, avec quelques caricatures d'autres styles de bandes dessinées (un peu à la Gotlib, finalement ?).</comments>
+    <image>Achille Talon - Les Petits Desseins d'Achille Talon.jpg</image>
+  </comic>
+  <comic>
+    <date>2020-12-30</date>
+    <writer>Greg</writer>
+    <artist>Greg</artist>
+    <series url="https://fr.wikipedia.org/wiki/Achille_Talon">Achille Talon</series>
+    <volume url="https://fr.wikipedia.org/wiki/Achille_Talon_m%C3%A9prise_l%27obstacle" number="8">Achille Talon méprise l'obstacle</volume>
+    <comments>Un bon tome, avec moins de gags en mode "remplissage".</comments>
+    <image>Achille Talon - Achille Talon méprise l'obstacle.jpg</image>
+  </comic>
+  <comic>
+    <date>2020-12-29</date>
+    <writer>Roger Leloup</writer>
+    <artist>Roger Leloup</artist>
+    <colorist>Studio Leonardo</colorist>
+    <series url="https://fr.wikipedia.org/wiki/Yoko_Tsuno">Yoko Tsuno</series>
+    <volume url="https://fr.wikipedia.org/wiki/Anges_et_Faucons" number="29">Anges et Faucons</volume>
+    <comments>Une double aventure, avec des voyages dans le temps, des avions et des momies. Beaucoup de personnages. C'est parfois un peu difficile à suivre.</comments>
+    <image>Yoko Tsuno - Anges et Faucons.jpg</image>
+  </comic>
+  <comic>
+    <date>2020-12-28</date>
+    <writer>Greg</writer>
+    <artist>Greg</artist>
+    <series url="https://fr.wikipedia.org/wiki/Achille_Talon">Achille Talon</series>
+    <volume url="https://fr.wikipedia.org/wiki/Achille_Talon_au_pouvoir" number="6">Achille Talon au pouvoir</volume>
+    <comments>Beaucoup de mises en abyme (journal Polite, imprimerie, métier de dessinateur, etc.).</comments>
+    <image>Achille Talon - Achille Talon au pouvoir.jpg</image>
+  </comic>
+  <comic>
+    <date>2020-12-27</date>
+    <writer>Greg</writer>
+    <artist>Greg</artist>
+    <series url="https://fr.wikipedia.org/wiki/Achille_Talon">Achille Talon</series>
+    <volume url="https://fr.wikipedia.org/wiki/Les_Insolences_d%27Achille_Talon" number="7">Les Insolences d'Achille Talon</volume>
+    <comments>De plus en plus de mises en abyme. Une assez longue série de gags sur un "burn out" d'Achille.</comments>
+    <image>Achille Talon - Les Insolences d'Achille Talon.jpg</image>
+  </comic>
+  <comic>
+    <date>2020-12-26</date>
+    <writer>Greg</writer>
+    <artist>Greg</artist>
+    <series url="https://fr.wikipedia.org/wiki/Achille_Talon">Achille Talon</series>
+    <volume url="https://fr.wikipedia.org/wiki/L%27Indispensable_Achille_Talon" number="5">L'Indispensable Achille Talon</volume>
+    <comments>Le style se précise. Clairement le meilleur tome jusque là.</comments>
+    <image>Achille Talon - L'Indispensable Achille Talon.jpg</image>
+  </comic>
+  <comic>
+    <date>2020-12-24</date>
+    <writer>Greg</writer>
+    <artist>Greg</artist>
+    <series url="https://fr.wikipedia.org/wiki/Achille_Talon">Achille Talon</series>
+    <volume url="https://fr.wikipedia.org/wiki/Mon_fils_%C3%A0_moi_!" number="4">Mon fils à moi !</volume>
+    <comments>Le père et la mère d'Achille sont particulièrement présents dans ce tome.</comments>
+    <image>Achille Talon - Mon fils à moi !.jpg</image>
+  </comic>
+  <comic>
+    <date>2020-12-20</date>
+    <writer>Greg</writer>
+    <artist>Greg</artist>
+    <series url="https://fr.wikipedia.org/wiki/Achille_Talon">Achille Talon</series>
+    <volume url="https://fr.wikipedia.org/wiki/Achille_Talon_persiste_et_signe" number="3">Achille Talon persiste et signe</volume>
+    <comments>Maman Talon fait son apparition. De plus en plus de gags autour du journal Polite/Pilote.</comments>
+    <image>Achille Talon - Achille Talon persiste et signe.jpg</image>
+  </comic>
+  <comic>
+    <date>2020-12-15</date>
+    <writer>Greg</writer>
+    <artist>Greg</artist>
+    <series url="https://fr.wikipedia.org/wiki/Achille_Talon">Achille Talon</series>
+    <volume url="https://fr.wikipedia.org/wiki/Achille_Talon_aggrave_son_cas_!" number="2">Achille Talon aggrave son cas !</volume>
+    <comments>Papa Talon et Goscinny font leur apparition. On est déjà loin des imperfections du premier tome.</comments>
+    <image>Achille Talon - Achille Talon aggrave son cas !.jpg</image>
+  </comic>
+  <comic>
+    <date>2020-12-08</date>
+    <writer>Greg</writer>
+    <artist>Greg</artist>
+    <series url="https://fr.wikipedia.org/wiki/Achille_Talon">Achille Talon</series>
+    <volume url="https://fr.wikipedia.org/wiki/Les_Id%C3%A9es_d%27Achille_Talon,_cerveau-choc_!" number="1">Les Idées d'Achille Talon, cerveau-choc !</volume>
+    <comments>Le dessin est encore imparfait. Les gags sont parfois un peu naïfs. La personnalité d'Achille Talon est encore mal définie. Mais l'essentiel est déjà là.</comments>
+    <image>Achille Talon - Les Idées d'Achille Talon, cerveau-choc !.jpg</image>
+  </comic>
+  <comic>
+    <date>2020-11-22</date>
+    <writer>Don Rosa</writer>
+    <artist>Don Rosa</artist>
+    <volume url="https://picsou.fandom.com/fr/wiki/Donald_et_la_chasse_aux_crocos_du_Nil">Donald et la chasse aux crocos du Nil</volume>
+    <comments>Après plusieurs histoires courtes de qualité très moyenne, à nouveau une véritable aventure, plus longue, du type de celles qui m'ont fait aimer Don Rosa.</comments>
+    <image>Don Rosa - Donald et la chasse aux crocos du Nil.jpg</image>
+  </comic>
+  <comic>
+    <date>2020-10-10</date>
+    <writer>Don Rosa</writer>
+    <artist>Don Rosa</artist>
+    <volume url="https://picsou.fandom.com/fr/wiki/Gal%C3%A8re_buissonni%C3%A8re">Galère buissonière</volume>
+    <comments>Pas non plus fan de cette histoire d'école buissonière qui se termine sur un châtiment corporel.</comments>
+    <image>Don Rosa - Galère buissonière.jpg</image>
+  </comic>
+  <comic>
+    <date>2020-10-10</date>
+    <writer>Don Rosa</writer>
+    <artist>Don Rosa</artist>
+    <volume url="https://picsou.fandom.com/fr/wiki/Le_Poids_de_la_fortune">Le Poids de la fortune</volume>
+    <comments>Une histoire en deux pages. Rien de spécial.</comments>
+    <image>Don Rosa - Le Poids de la fortune.jpg</image>
+  </comic>
+  <comic>
+    <date>2020-10-10</date>
+    <writer>Don Rosa</writer>
+    <artist>Don Rosa</artist>
+    <volume url="https://picsou.fandom.com/fr/wiki/Rocket_de_r%C3%AAve">Rocket de rêve</volume>
+    <comments>Une histoire en deux pages. Rien de spécial.</comments>
+    <image>Don Rosa - Rocket de rêve.jpg</image>
+  </comic>
+  <comic>
+    <date>2020-10-04</date>
+    <writer>Don Rosa</writer>
+    <artist>Don Rosa</artist>
+    <volume url="https://picsou.fandom.com/fr/wiki/Dernier_tra%C3%AEneau_pour_Dawson">Dernier traîneau pour Dawson</volume>
+    <comments>Un épisode touchant, sur le thème de la nostalgie, de la vie simple et de la valeur du travail.</comments>
+    <image>Don Rosa - Dernier traîneau pour Dawson.jpg</image>
+  </comic>
+  <comic>
+    <date>2020-09-06</date>
+    <writer>Don Rosa</writer>
+    <artist>Don Rosa</artist>
+    <volume url="https://picsou.fandom.com/fr/wiki/La_Chasse_au_canard...">La Chasse au canard...</volume>
+    <comments>Une histoire en deux pages. Rien de spécial.</comments>
+    <image>Don Rosa - La Chasse au canard....jpg</image>
+  </comic>
+  <comic>
+    <date>2020-08-27</date>
+    <writer>Don Rosa</writer>
+    <artist>Don Rosa</artist>
+    <volume url="https://picsou.fandom.com/fr/wiki/La_Poisse_au_thon_!">La Poisse au thon !</volume>
+    <comments>Une histoire courte, avec une "chute" vaguement inspirée par les probabilités/statistiques.</comments>
+    <image>Don Rosa - La Poisse au thon !.jpg</image>
+  </comic>
+  <comic>
+    <date>2020-08-21</date>
+    <writer>Don Rosa</writer>
+    <artist>Don Rosa</artist>
+    <volume url="https://picsou.fandom.com/fr/wiki/Citrouille_carabin%C3%A9e">Citrouille carabinée</volume>
+    <comments>Guerre de voisinage. Je suis peu fan.</comments>
+    <image>Don Rosa - Citrouille carabinée.jpg</image>
+  </comic>
+  <comic>
+    <date>2020-07-24</date>
+    <writer>Don Rosa</writer>
+    <artist>Don Rosa</artist>
+    <volume url="https://picsou.fandom.com/fr/wiki/Un_sapin_de_luxe">Un sapin de luxe</volume>
+    <comments>Une très courte histoire.</comments>
+    <image>Don Rosa - Un sapin de luxe.jpg</image>
+  </comic>
+  <comic>
+    <date>2020-07-23</date>
+    <writer>Don Rosa</writer>
+    <artist>Don Rosa</artist>
+    <volume url="https://picsou.fandom.com/fr/wiki/L%27argent_coule_%C3%A0_flots">L'argent coule à flots</volume>
+    <comments>Une histoire basée sur une interprétation très libre (mais drôle) de quelques concepts physiques.</comments>
+    <image>Don Rosa - L'argent coule à flots.jpg</image>
+  </comic>
+  <comic>
+    <date>2020-07-20</date>
+    <writer>Don Rosa</writer>
+    <artist>Don Rosa</artist>
+    <volume url="https://picsou.fandom.com/fr/wiki/Caisse_%C3%A0_la_casse">Caisse à la casse</volume>
+    <comments>Constat : Donald est quand même bien violent !</comments>
+    <image>Don Rosa - Caisse à la casse.jpg</image>
+  </comic>
+  <comic>
+    <date>2020-07-15</date>
+    <writer>Don Rosa</writer>
+    <artist>Don Rosa</artist>
+    <volume url="https://picsou.fandom.com/fr/wiki/Chat_s%C5%93ur_deux_trop_f%C3%A9e_!">Chat sœur deux trop fée !</volume>
+    <comments>Le titre français est mauvais. L'histoire est relativement drôle.</comments>
+    <image>Don Rosa - Chat sœur deux trop fée.jpg</image>
+  </comic>
+  <comic>
+    <date>2020-07-13</date>
+    <writer>Don Rosa</writer>
+    <artist>Don Rosa</artist>
+    <volume url="https://picsou.fandom.com/fr/wiki/La_valse_des_investisseurs">La valse des investisseurs</volume>
+    <comments>Une "petite histoire" de Don Rosa. Je suis moins fan.</comments>
+    <image>Don Rosa - La valse des investisseurs.jpg</image>
+  </comic>
+  <comic>
+    <date>2020-07-10</date>
+    <writer>Don Rosa</writer>
+    <artist>Don Rosa</artist>
+    <volume url="https://fr.wikipedia.org/wiki/Le_Fils_du_soleil_(bande_dessin%C3%A9e)">Le Fils du soleil</volume>
+    <comments>Je décide de lire l'intégrale de Don Rosa en français, pour la nostalgie. Impossible de savoir combien de fois j'ai lu cette histoire, qui m'est très familière. J'ai dû la lire pour la première fois en 1988. Je me souviens très bien du numéro 200 de Picsou Magazine, avec tous ses petits autocollants.</comments>
+    <image>Don Rosa - Le Fils du soleil.jpg</image>
+  </comic>
+  <comic>
+    <date>2020-07-07</date>
+    <writer>Roger Leloup</writer>
+    <artist>Roger Leloup</artist>
+    <colorist>Studio Leonardo</colorist>
+    <series url="https://fr.wikipedia.org/wiki/Yoko_Tsuno">Yoko Tsuno</series>
+    <volume url="https://fr.wikipedia.org/wiki/Le_Temple_des_immortels" number="28">Le Temple des immortels</volume>
+    <comments>Au risque d'enfoncer une porte ouverte, les derniers tomes de la série sont tout de même moins bons. Le dessin n'est plus aussi précis. La multiplication inutile des personnages est un peu fatigante. J'ai souvent l'impression que les histoires sont un peu tirées par les cheveux. C'est la première fois depuis très longtemps que je relis la série. Je réalise que Yoko Tsuno, c'est de la science-fiction, oui, mais un peu "light", peu pointue. Les références régulières à la religion me dérangent plus qu'il y a une vingtaine d'années. Cela reste globalement de la très bonne BD, mais, à la fin, ça part un peu dans tous les sens. J'aurais apprécié des histoires un peu plus cohérentes. Il me reste à lire <i>Anges et Faucons</i>, que je n'ai pas encore.</comments>
+    <image>Yoko Tsuno - Le Temple des immortels.jpg</image>
+  </comic>
+  <comic>
+    <date>2020-06-26</date>
+    <writer>Roger Leloup</writer>
+    <artist>Roger Leloup</artist>
+    <colorist>Studio Leonardo</colorist>
+    <series url="https://fr.wikipedia.org/wiki/Yoko_Tsuno">Yoko Tsuno</series>
+    <volume url="https://fr.wikipedia.org/wiki/Le_Secret_de_Kh%C3%A2ny" number="27">Le Secret de Khâny</volume>
+    <comments>"Quelque chose en moi est-il toujours à moi ?"</comments>
+    <image>Yoko Tsuno - Le Secret de Khâny.jpg</image>
+  </comic>
+  <comic>
+    <date>2020-06-09</date>
+    <writer>Roger Leloup</writer>
+    <artist>Roger Leloup</artist>
+    <colorist>Studio Leonardo</colorist>
+    <series url="https://fr.wikipedia.org/wiki/Yoko_Tsuno">Yoko Tsuno</series>
+    <volume url="https://fr.wikipedia.org/wiki/Le_Mal%C3%A9fice_de_l%27am%C3%A9thyste" number="26">Le Maléfice de l'améthyste</volume>
+    <comments>Des avions et des voyages dans le temps.</comments>
+    <image>Yoko Tsuno - Le Maléfice de l'améthyste.jpg</image>
+  </comic>
+  <comic>
+    <date>2020-05-28</date>
+    <writer>Roger Leloup</writer>
+    <artist>Roger Leloup</artist>
+    <colorist>Studio Leonardo</colorist>
+    <series url="https://fr.wikipedia.org/wiki/Yoko_Tsuno">Yoko Tsuno</series>
+    <volume url="https://fr.wikipedia.org/wiki/La_Servante_de_Lucifer" number="25">La Servante de Lucifer</volume>
+    <comments>Je ne suis pas fan de Cécilia, pour l'instant. Roger Leloup aime dessiner les avions et les vieux bâtiments, quitte à les dessiner dans des lieux improbables (sous terre).</comments>
+    <image>Yoko Tsuno - La Servante de Lucifer.jpg</image>
+  </comic>
+  <comic>
+    <date>2020-05-18</date>
+    <writer>Roger Leloup</writer>
+    <artist>Roger Leloup</artist>
+    <colorist>Studio Leonardo</colorist>
+    <series url="https://fr.wikipedia.org/wiki/Yoko_Tsuno">Yoko Tsuno</series>
+    <volume url="https://fr.wikipedia.org/wiki/Le_Septi%C3%A8me_Code" number="24">Le Septième Code</volume>
+    <comments>Pour la deuxième fois de suite, le prétexte de l'histoire est tiré par les cheveux ("Yoko, Vic, Pol et Rosée vont en Amazonie pour que Pol y dispute une partie d'échecs."). On y découvre <a href="https://fr.wikipedia.org/wiki/%C3%89milia_Mac_Kinley">Émilia</a>, un personnage qui deviendra récurrent. C'est une histoire que je n'avais, je crois, encore jamais lue, contrairement à toutes les précédentes.</comments>
+    <image>Yoko Tsuno - Le Septième Code.jpg</image>
+  </comic>
+  <comic>
+    <date>2020-04-30</date>
+    <writer>Roger Leloup</writer>
+    <artist>Roger Leloup</artist>
+    <colorist>Studio Leonardo</colorist>
+    <series url="https://fr.wikipedia.org/wiki/Yoko_Tsuno">Yoko Tsuno</series>
+    <volume url="https://fr.wikipedia.org/wiki/La_Pagode_des_brumes" number="23">La Pagode des brumes</volume>
+    <comments>Une histoire mêlant voyage dans le temps, science-fiction et mystère. C'est un peu tiré par les cheveux par moments (le prétexte pour faire le voyage dans le temps, en particulier), mais les paysages et les bâtiments sont très beaux, comme souvent.</comments>
+    <image>Yoko Tsuno - La Pagode des brumes.jpg</image>
+  </comic>
+  <comic>
+    <date>2020-04-15</date>
+    <writer>Roger Leloup</writer>
+    <artist>Roger Leloup</artist>
+    <colorist>Studio Leonardo</colorist>
+    <series url="https://fr.wikipedia.org/wiki/Yoko_Tsuno">Yoko Tsuno</series>
+    <volume url="https://fr.wikipedia.org/wiki/La_Jonque_c%C3%A9leste" number="22">La Jonque céleste</volume>
+    <comments>Une assez jolie histoire. Ça commence à faire beaucoup de personnes sauvées du passé !</comments>
+    <image>Yoko Tsuno - La Jonque céleste.jpg</image>
+  </comic>
+  <comic>
+    <date>2020-04-10</date>
+    <writer>Roger Leloup</writer>
+    <artist>Roger Leloup</artist>
+    <colorist>Studio Leonardo</colorist>
+    <series url="https://fr.wikipedia.org/wiki/Yoko_Tsuno">Yoko Tsuno</series>
+    <volume url="https://fr.wikipedia.org/wiki/La_Porte_des_%C3%A2mes" number="21">La Porte des âmes</volume>
+    <comments>Philosophiquement, c'est une histoire un peu étrange, avec une confusion déconcertante entre le concept religieux d'âme, d'un côté, et ceux tout à fait scientifiques de conscience, de connaissances, de souvenirs, etc., de l'autre.</comments>
+    <image>Yoko Tsuno - La Porte des âmes.jpg</image>
+  </comic>
+  <comic>
+    <date>2020-03-30</date>
+    <writer>Roger Leloup</writer>
+    <artist>Roger Leloup</artist>
+    <colorist>Studio Leonardo</colorist>
+    <series url="https://fr.wikipedia.org/wiki/Yoko_Tsuno">Yoko Tsuno</series>
+    <volume url="https://fr.wikipedia.org/wiki/L%27Astrologue_de_Bruges" number="20">L'Astrologue de Bruges</volume>
+    <comments>De très belles images de Bruges. Une histoire qui nous fait gagner un nouveau personnage récurrent (si je me souviens bien).</comments>
+    <image>Yoko Tsuno - L'Astrologue de Bruges.jpg</image>
+  </comic>
+  <comic>
+    <date>2020-03-17</date>
     <writer>Roger Leloup</writer>
     <artist>Roger Leloup</artist>
     <colorist>Studio Leonardo</colorist>
     <series url="https://fr.wikipedia.org/wiki/Yoko_Tsuno">Yoko Tsuno</series>
     <volume url="https://fr.wikipedia.org/wiki/L%27Or_du_Rhin_(Yoko_Tsuno)" number="19">L'Or du Rhin</volume>
-    <comments></comments>
+    <comments>Une histoire vaguement Agatha-Christesque, un peu trop dense en idées.</comments>
     <image>Yoko Tsuno - L'Or du Rhin.jpg</image>
   </comic>
   <comic>
-    <date>2020.03.03</date>
+    <date>2020-03-03</date>
     <writer>Roger Leloup</writer>
     <artist>Roger Leloup</artist>
     <colorist>Studio Leonardo</colorist>
@@ -22,7 +315,7 @@
     <image>Yoko Tsuno - Les Exilés de Kifa.jpg</image>
   </comic>
   <comic>
-    <date>2020.02.26</date>
+    <date>2020-02-26</date>
     <writer>Roger Leloup</writer>
     <artist>Roger Leloup</artist>
     <colorist>Studio Leonardo</colorist>
@@ -32,17 +325,17 @@
     <image>Yoko Tsuno - Le Matin du monde.jpg</image>
   </comic>
   <comic>
-    <date>2020.02.19</date>
+    <date>2020-02-19</date>
     <writer>Luiz Eduardo de Oliveira</writer>
     <artist>Luiz Eduardo de Oliveira</artist>
     <colorist>Florence Spitéri</colorist>
     <series url="https://fr.wikipedia.org/wiki/Les_Mondes_d%27Ald%C3%A9baran#Cycle_Retour_sur_Ald%C3%A9baran">Retour sur Aldébaran</series>
-    <volume url="https://www.dargaud.com/bd/Mondes-d-Aldebaran-Les/Retour-sur-Aldebaran/Retour-sur-Aldebaran-tome-2-Retour-sur-Aldebaran-tome-2" number="1">Épisode 2</volume>
+    <volume url="https://www.dargaud.com/bd/Mondes-d-Aldebaran-Les/Retour-sur-Aldebaran/Retour-sur-Aldebaran-tome-2-Retour-sur-Aldebaran-tome-2" number="2">Épisode 2</volume>
     <comments>Est-ce que c'est moi ou est-ce que les héros masculins de Léo sont régulièrement "lourds" envers les femmes, insistant sur leur physique ? Sinon, on retrouve petit à petit la végétation et la faune belle et/ou monstrueuse auxquelles bien des tomes précédents nous avaient habitués.</comments>
     <image>Retour sur Aldébaran - Épisode 2.jpg</image>
   </comic>
   <comic>
-    <date>2020.02.17</date>
+    <date>2020-02-17</date>
     <writer>Roger Leloup</writer>
     <artist>Roger Leloup</artist>
     <colorist>Studio Leonardo</colorist>
@@ -52,7 +345,7 @@
     <image>Yoko Tsuno - Le Dragon de Hong Kong.jpg</image>
   </comic>
   <comic>
-    <date>2020.02.12</date>
+    <date>2020-02-12</date>
     <writer>Roger Leloup</writer>
     <artist>Roger Leloup</artist>
     <colorist>Studio Leonardo</colorist>
@@ -62,7 +355,7 @@
     <image>Yoko Tsuno - Le Canon de Kra.jpg</image>
   </comic>
   <comic>
-    <date>2020.02.05</date>
+    <date>2020-02-05</date>
     <writer>Roger Leloup</writer>
     <artist>Roger Leloup</artist>
     <colorist>Studio Leonardo</colorist>
@@ -72,7 +365,7 @@
     <image>Yoko Tsuno - Le Feu de Wotan.jpg</image>
   </comic>
   <comic>
-    <date>2020.02.03</date>
+    <date>2020-02-03</date>
     <writer>Luiz Eduardo de Oliveira</writer>
     <artist>Luiz Eduardo de Oliveira</artist>
     <colorist>Florence Spitéri</colorist>
@@ -82,7 +375,7 @@
     <image>Retour sur Aldébaran - Épisode 1.jpg</image>
   </comic>
   <comic>
-    <date>2020.01.22</date>
+    <date>2020-01-22</date>
     <writer>Roger Leloup</writer>
     <artist>Roger Leloup</artist>
     <colorist>Studio Leonardo</colorist>
@@ -92,7 +385,7 @@
     <image>Yoko Tsuno - Les Archanges de Vinéa.jpg</image>
   </comic>
   <comic>
-    <date>2020.01.19</date>
+    <date>2020-01-19</date>
     <writer>Roger Leloup</writer>
     <artist>Roger Leloup</artist>
     <colorist>Studio Leonardo</colorist>
@@ -102,7 +395,7 @@
     <image>Yoko Tsuno - La Proie et l'Ombre.jpg</image>
   </comic>
   <comic>
-    <date>2020.01.14</date>
+    <date>2020-01-14</date>
     <writer>Roger Leloup</writer>
     <artist>Roger Leloup</artist>
     <colorist>Studio Leonardo</colorist>
@@ -112,7 +405,7 @@
     <image>Yoko Tsuno - La Spirale du temps.jpg</image>
   </comic>
   <comic>
-    <date>2020.01.12</date>
+    <date>2020-01-12</date>
     <writer>Roger Leloup</writer>
     <artist>Roger Leloup</artist>
     <colorist>Studio Leonardo</colorist>
@@ -122,7 +415,7 @@
     <image>Yoko Tsuno - La Lumière d'Ixo.jpg</image>
   </comic>
   <comic>
-    <date>2020.01.07</date>
+    <date>2020-01-07</date>
     <writer>Roger Leloup</writer>
     <artist>Roger Leloup</artist>
     <colorist>Studio Leonardo</colorist>
@@ -132,7 +425,7 @@
     <image>Yoko Tsuno - La Fille du vent.jpg</image>
   </comic>
   <comic>
-    <date>2019.12.31</date>
+    <date>2019-12-31</date>
     <writer>Emma</writer>
     <artist>Emma</artist>
     <colorist>Emma</colorist>
@@ -142,7 +435,7 @@
     <image>Un autre regard 2.jpg</image>
   </comic>
   <comic>
-    <date>2019.12.30</date>
+    <date>2019-12-30</date>
     <writer>Emma</writer>
     <artist>Emma</artist>
     <colorist>Emma</colorist>
@@ -152,7 +445,7 @@
     <image>Un autre regard.jpg</image>
   </comic>
   <comic>
-    <date>2019.12.25</date>
+    <date>2019-12-25</date>
     <writer>Roger Leloup</writer>
     <artist>Roger Leloup</artist>
     <colorist>Studio Leonardo</colorist>
@@ -162,7 +455,7 @@
     <image>Yoko Tsuno - Les Titans.jpg</image>
   </comic>
   <comic>
-    <date>2019.12.22</date>
+    <date>2019-12-22</date>
     <writer>Roger Leloup</writer>
     <artist>Roger Leloup</artist>
     <colorist>Studio Leonardo</colorist>
@@ -172,7 +465,7 @@
     <image>Yoko Tsuno - La Frontière de la vie.jpg</image>
   </comic>
   <comic>
-    <date>2019.12.16</date>
+    <date>2019-12-16</date>
     <writer>Roger Leloup</writer>
     <artist>Roger Leloup</artist>
     <colorist>Studio Leonardo</colorist>
@@ -182,7 +475,7 @@
     <image>Yoko Tsuno - Les Trois Soleils de Vinéa.jpg</image>
   </comic>
   <comic>
-    <date>2019.12.06</date>
+    <date>2019-12-06</date>
     <writer>Roger Leloup</writer>
     <artist>Roger Leloup</artist>
     <colorist>Studio Leonardo</colorist>
@@ -192,7 +485,7 @@
     <image>Yoko Tsuno - Message pour l'éternité.jpg</image>
   </comic>
   <comic>
-    <date>2019.11.28</date>
+    <date>2019-11-28</date>
     <writer>Roger Leloup</writer>
     <artist>Roger Leloup</artist>
     <colorist>Studio Leonardo</colorist>
@@ -202,7 +495,7 @@
     <image>Yoko Tsuno - Aventures électroniques.jpg</image>
   </comic>
   <comic>
-    <date>2019.11.22</date>
+    <date>2019-11-22</date>
     <writer>Roger Leloup</writer>
     <artist>Roger Leloup</artist>
     <colorist>Studio Leonardo</colorist>
@@ -212,7 +505,7 @@
     <image>Yoko Tsuno - La Forge de Vulcain.jpg</image>
   </comic>
   <comic>
-    <date>2019.11.13</date>
+    <date>2019-11-13</date>
     <writer>Roger Leloup</writer>
     <artist>Roger Leloup</artist>
     <colorist>Studio Leonardo</colorist>
@@ -222,7 +515,7 @@
     <image>Yoko Tsuno - L'Orgue du diable.jpg</image>
   </comic>
   <comic>
-    <date>2019.11.07</date>
+    <date>2019-11-07</date>
     <writer>Roger Leloup</writer>
     <artist>Roger Leloup</artist>
     <colorist>Studio Leonardo</colorist>
@@ -232,7 +525,7 @@
     <image>Yoko Tsuno - Le Trio de l'étrange.jpg</image>
   </comic>
   <comic>
-    <date>2019.10.23</date>
+    <date>2019-10-23</date>
     <writer>Lewis Trondheim &amp; Joann Sfar</writer>
     <artist>Manu Larcenet</artist>
     <colorist>Walter</colorist>
@@ -242,7 +535,7 @@
     <image>Donjon Parade - Technique Grogro.jpg</image>
   </comic>
   <comic>
-    <date>2019.10.17</date>
+    <date>2019-10-17</date>
     <writer>Lewis Trondheim &amp; Joann Sfar</writer>
     <artist>Manu Larcenet</artist>
     <colorist>Walter</colorist>
@@ -252,7 +545,7 @@
     <image>Donjon Parade - Des fleurs et des marmots.jpg</image>
   </comic>
   <comic>
-    <date>2019.10.09</date>
+    <date>2019-10-09</date>
     <writer>Lewis Trondheim &amp; Joann Sfar</writer>
     <artist>Manu Larcenet</artist>
     <colorist>Walter</colorist>
@@ -262,7 +555,7 @@
     <image>Donjon Parade - Le Jour des crapauds.jpg</image>
   </comic>
   <comic>
-    <date>2019.10.01</date>
+    <date>2019-10-01</date>
     <writer>Lewis Trondheim &amp; Joann Sfar</writer>
     <artist>Manu Larcenet</artist>
     <colorist>Walter</colorist>
@@ -272,7 +565,7 @@
     <image>Donjon Parade - Le Sage du ghetto.jpg</image>
   </comic>
   <comic>
-    <date>2019.09.26</date>
+    <date>2019-09-26</date>
     <writer>Lewis Trondheim &amp; Joann Sfar</writer>
     <artist>Manu Larcenet</artist>
     <colorist>Walter</colorist>
@@ -282,7 +575,7 @@
     <image>Donjon Parade - Un donjon de trop.jpg</image>
   </comic>
   <comic>
-    <date>2019.09.21</date>
+    <date>2019-09-21</date>
     <writer>Lewis Trondheim &amp; Joann Sfar</writer>
     <artist>Nicolas Keramidas</artist>
     <colorist>Walter</colorist>
@@ -292,7 +585,7 @@
     <image>Donjon Monsters - Le Grimoire de l'inventeur.jpg</image>
   </comic>
   <comic>
-    <date>2019.09.12</date>
+    <date>2019-09-12</date>
     <writer>Lewis Trondheim &amp; Joann Sfar</writer>
     <artist>Stanislas Barthélémy</artist>
     <colorist>Dominique Thomas</colorist>
@@ -302,7 +595,7 @@
     <image>Donjon Monsters - Le Grand Animateur.jpg</image>
   </comic>
   <comic>
-    <date>2019.09.07</date>
+    <date>2019-09-07</date>
     <writer>Lewis Trondheim &amp; Joann Sfar</writer>
     <artist>Bézian</artist>
     <colorist>Walter</colorist>
@@ -312,7 +605,7 @@
     <image>Donjon Monsters - Des soldats d'honneur.jpg</image>
   </comic>
   <comic>
-    <date>2019.08.29</date>
+    <date>2019-08-29</date>
     <writer>Lewis Trondheim &amp; Joann Sfar</writer>
     <artist>Patrice Killoffer</artist>
     <colorist>Walter &amp; Patrice Killoffer</colorist>
@@ -322,7 +615,7 @@
     <image>Donjon Monsters - Les Profondeurs.jpg</image>
   </comic>
   <comic>
-    <date>2019.08.24</date>
+    <date>2019-08-24</date>
     <writer>Lewis Trondheim &amp; Joann Sfar</writer>
     <artist>Carlos Nine</artist>
     <colorist>Carlos Nine</colorist>
@@ -332,7 +625,7 @@
     <image>Donjon Monsters - Crève-cœur.jpg</image>
   </comic>
   <comic>
-    <date>2019.08.18</date>
+    <date>2019-08-18</date>
     <writer>Lewis Trondheim &amp; Joann Sfar</writer>
     <artist>Blutch</artist>
     <colorist>Walter</colorist>
@@ -342,7 +635,7 @@
     <image>Donjon Monsters - Mon fils le tueur.jpg</image>
   </comic>
   <comic>
-    <date>2019.07.15</date>
+    <date>2019-07-15</date>
     <writer>André Franquin</writer>
     <artist>André Franquin &amp; Jidéhem</artist>
     <colorist>Jidéhem &amp; Vittorio Leonardo</colorist>
@@ -352,7 +645,7 @@
     <image>Gaston - Le Bureau des gaffes en gros.jpg</image>
   </comic>
   <comic>
-    <date>2019.07.11</date>
+    <date>2019-07-11</date>
     <writer>Lewis Trondheim &amp; Joann Sfar</writer>
     <artist>Yoann</artist>
     <colorist>Yoann</colorist>
@@ -362,7 +655,7 @@
     <image>Donjon Monsters - Du ramdam chez les brasseurs.jpg</image>
   </comic>
   <comic>
-    <date>2019.07.05</date>
+    <date>2019-07-05</date>
     <writer>Lewis Trondheim &amp; Joann Sfar</writer>
     <artist>Jean-Emmanuel Vermot-Desroches</artist>
     <colorist>Walter</colorist>
@@ -372,7 +665,7 @@
     <image>Donjon Monsters - La Nuit du tombeur.jpg</image>
   </comic>
   <comic>
-    <date>2019.06.16</date>
+    <date>2019-06-16</date>
     <writer>Lewis Trondheim &amp; Joann Sfar</writer>
     <artist>Stéphane Blanquet</artist>
     <colorist>?</colorist>
@@ -382,7 +675,7 @@
     <image>Donjon Monsters - Le Noir Seigneur.jpg</image>
   </comic>
   <comic>
-    <date>2019.06.08</date>
+    <date>2019-06-08</date>
     <writer>Lewis Trondheim &amp; Joann Sfar</writer>
     <artist>Andreas</artist>
     <colorist>Walter</colorist>
@@ -392,7 +685,7 @@
     <image>Donjon Monsters - La Carte majeure.jpg</image>
   </comic>
   <comic>
-    <date>2019.05.31</date>
+    <date>2019-05-31</date>
     <writer>Lewis Trondheim &amp; Joann Sfar</writer>
     <artist>Jean-Christophe Menu</artist>
     <colorist>Walter</colorist>
@@ -402,7 +695,7 @@
     <image>Donjon Monsters - Le Géant qui pleure.jpg</image>
   </comic>
   <comic>
-    <date>2019.05.24</date>
+    <date>2019-05-24</date>
     <writer>Lewis Trondheim &amp; Joann Sfar</writer>
     <artist>Mazan</artist>
     <colorist>Walter</colorist>
@@ -412,7 +705,7 @@
     <image>Donjon Monsters - Jean-Jean la terreur.jpg</image>
   </comic>
   <comic>
-    <date>2019.05.22</date>
+    <date>2019-05-22</date>
     <writer>Lewis Trondheim &amp; Joann Sfar</writer>
     <artist>Mazan</artist>
     <colorist>Walter</colorist>
@@ -422,7 +715,7 @@
     <image>Donjon Crépuscule - La Fin du Donjon.jpg</image>
   </comic>
   <comic>
-    <date>2019.05.20</date>
+    <date>2019-05-20</date>
     <writer>Lewis Trondheim &amp; Joann Sfar</writer>
     <artist>Alfred</artist>
     <colorist>Walter</colorist>
@@ -432,7 +725,7 @@
     <image>Donjon Crépuscule - Haut Septentrion.jpg</image>
   </comic>
   <comic>
-    <date>2019.05.19</date>
+    <date>2019-05-19</date>
     <writer>Lewis Trondheim &amp; Joann Sfar</writer>
     <artist>Obion</artist>
     <colorist>Walter</colorist>
@@ -442,7 +735,7 @@
     <image>Donjon Crépuscule - Révolutions.jpg</image>
   </comic>
   <comic>
-    <date>2019.05.05</date>
+    <date>2019-05-05</date>
     <writer>Lewis Trondheim &amp; Joann Sfar</writer>
     <artist>Kerascoët</artist>
     <colorist>Walter</colorist>
@@ -452,7 +745,7 @@
     <image>Donjon Crépuscule - Les Nouveaux Centurions.jpg</image>
   </comic>
   <comic>
-    <date>2019.04.28</date>
+    <date>2019-04-28</date>
     <writer>Lewis Trondheim &amp; Joann Sfar</writer>
     <artist>Kerascoët</artist>
     <colorist>Walter</colorist>
@@ -462,7 +755,7 @@
     <image>Donjon Crépuscule - Le Dojo du lagon.jpg</image>
   </comic>
   <comic>
-    <date>2019.04.21</date>
+    <date>2019-04-21</date>
     <writer>Lewis Trondheim &amp; Joann Sfar</writer>
     <artist>Joann Sfar</artist>
     <colorist>Walter</colorist>
@@ -472,7 +765,7 @@
     <image>Donjon Crépuscule - Armaggedon.jpg</image>
   </comic>
   <comic>
-    <date>2019.04.07</date>
+    <date>2019-04-07</date>
     <writer>Lewis Trondheim &amp; Joann Sfar</writer>
     <artist>Joann Sfar</artist>
     <colorist>Walter</colorist>
@@ -482,7 +775,7 @@
     <image>Donjon Crépuscule - Le Volcan des Vaucanson.jpg</image>
   </comic>
   <comic>
-    <date>2019.03.31</date>
+    <date>2019-03-31</date>
     <writer>Lewis Trondheim &amp; Joann Sfar</writer>
     <artist>Joann Sfar</artist>
     <colorist>Walter</colorist>
@@ -492,7 +785,7 @@
     <image>Donjon Crépuscule - Le Cimetière des dragons.jpg</image>
   </comic>
   <comic>
-    <date>2019.03.24</date>
+    <date>2019-03-24</date>
     <writer>Lewis Trondheim &amp; Joann Sfar</writer>
     <artist>Boulet</artist>
     <colorist>Boulet &amp; Lucie Albon</colorist>
@@ -502,7 +795,7 @@
     <image>Donjon Zénith - Retour en fanfare.jpg</image>
   </comic>
   <comic>
-    <date>2019.03.16</date>
+    <date>2019-03-16</date>
     <writer>Lewis Trondheim &amp; Joann Sfar</writer>
     <artist>Boulet</artist>
     <colorist>Boulet &amp; Lucie Albon</colorist>
@@ -512,7 +805,7 @@
     <image>Donjon Zénith - Un mariage à part.jpg</image>
   </comic>
   <comic>
-    <date>2019.03.11</date>
+    <date>2019-03-11</date>
     <writer>Lewis Trondheim &amp; Joann Sfar</writer>
     <artist>Lewis Trondheim</artist>
     <colorist>Brigitte Findakly &amp; Lewis Trondheim</colorist>
@@ -522,7 +815,7 @@
     <image>Donjon Zénith - Sortilège et Avatar.jpg</image>
   </comic>
   <comic>
-    <date>2019.03.02</date>
+    <date>2019-03-02</date>
     <writer>Lewis Trondheim &amp; Joann Sfar</writer>
     <artist>Lewis Trondheim</artist>
     <colorist>Walter</colorist>
@@ -532,7 +825,7 @@
     <image>Donjon Zénith - La Princesse des barbares.jpg</image>
   </comic>
   <comic>
-    <date>2019.02.23</date>
+    <date>2019-02-23</date>
     <writer>Lewis Trondheim &amp; Joann Sfar</writer>
     <artist>Lewis Trondheim</artist>
     <colorist>Walter</colorist>
@@ -542,7 +835,7 @@
     <image>Donjon Zénith - Le Roi de la bagarre.jpg</image>
   </comic>
   <comic>
-    <date>2019.02.16</date>
+    <date>2019-02-16</date>
     <writer>Lewis Trondheim &amp; Joann Sfar</writer>
     <artist>Lewis Trondheim</artist>
     <colorist>Lewis Trondheim</colorist>
@@ -552,7 +845,7 @@
     <image>Donjon Zénith - Cœur de canard.jpg</image>
   </comic>
   <comic>
-    <date>2019.02.11</date>
+    <date>2019-02-11</date>
     <writer>F'murr</writer>
     <artist>F'murr</artist>
     <colorist>F'murr</colorist>
@@ -562,7 +855,7 @@
     <image>Le Génie des alpages - ...Courent dans la montagne.jpg</image>
   </comic>
   <comic>
-    <date>2019.02.03</date>
+    <date>2019-02-03</date>
     <writer>F'murr</writer>
     <artist>F'murr</artist>
     <colorist>F'murr</colorist>
@@ -572,7 +865,7 @@
     <image>Le Génie des alpages - Cheptel maudit.jpg</image>
   </comic>
   <comic>
-    <date>2019.01.26</date>
+    <date>2019-01-26</date>
     <writer>F'murr</writer>
     <artist>F'murr</artist>
     <colorist>F'murr</colorist>
@@ -582,7 +875,7 @@
     <image>Le Génie des alpages - Bouge tranquille !.jpg</image>
   </comic>
   <comic>
-    <date>2019.01.20</date>
+    <date>2019-01-20</date>
     <writer>F'murr</writer>
     <artist>F'murr</artist>
     <colorist>F'murr</colorist>
@@ -592,7 +885,7 @@
     <image>Le Génie des alpages - Sabotage et pâturage.jpg</image>
   </comic>
   <comic>
-    <date>2019.01.13</date>
+    <date>2019-01-13</date>
     <writer>F'murr</writer>
     <artist>F'murr</artist>
     <colorist>F'murr</colorist>
@@ -602,7 +895,7 @@
     <image>Le Génie des alpages - Monter, descendre, ça glisse pareil.jpg</image>
   </comic>
   <comic>
-    <date>2019.01.06</date>
+    <date>2019-01-06</date>
     <writer>F'murr</writer>
     <artist>F'murr</artist>
     <colorist>F'murr</colorist>
@@ -612,7 +905,7 @@
     <image>Le Génie des alpages - Après nous... le déluge.jpg</image>
   </comic>
   <comic>
-    <date>2018.12.22</date>
+    <date>2018-12-22</date>
     <writer>F'murr</writer>
     <artist>F'murr</artist>
     <colorist>F'murr</colorist>
@@ -622,7 +915,7 @@
     <image>Le Génie des alpages - Dans les nuages.jpg</image>
   </comic>
   <comic>
-    <date>2018.11.21</date>
+    <date>2018-11-21</date>
     <writer>F'murr</writer>
     <artist>F'murr</artist>
     <colorist>F'murr</colorist>
@@ -632,7 +925,7 @@
     <image>Le Génie des alpages - Tonnerre, et Mille sabots !.jpg</image>
   </comic>
   <comic>
-    <date>2018.10.24</date>
+    <date>2018-10-24</date>
     <writer>F'murr</writer>
     <artist>F'murr</artist>
     <colorist>F'murr</colorist>
@@ -642,7 +935,7 @@
     <image>Le Génie des alpages - Hi-Yo, c'est l'écho.jpg</image>
   </comic>
   <comic>
-    <date>2018.09.22</date>
+    <date>2018-09-22</date>
     <writer>F'murr</writer>
     <artist>F'murr</artist>
     <colorist>F'murr</colorist>
@@ -652,7 +945,7 @@
     <image>Le Génie des alpages - Les Intondables.jpg</image>
   </comic>
   <comic>
-    <date>2018.08.14</date>
+    <date>2018-08-14</date>
     <writer>F'murr</writer>
     <artist>F'murr</artist>
     <colorist>F'murr</colorist>
@@ -662,7 +955,7 @@
     <image>Le Génie des alpages - Un grand silence frisé.jpg</image>
   </comic>
   <comic>
-    <date>2018.07.27</date>
+    <date>2018-07-27</date>
     <writer>F'murr</writer>
     <artist>F'murr</artist>
     <colorist>F'murr</colorist>
@@ -672,7 +965,7 @@
     <image>Le Génie des alpages - Barre-toi de mon herbe.jpg</image>
   </comic>
   <comic>
-    <date>2018.06.21</date>
+    <date>2018-06-21</date>
     <writer>F'murr</writer>
     <artist>F'murr</artist>
     <colorist>F'murr</colorist>
@@ -682,7 +975,7 @@
     <image>Le Génie des alpages - Comme des bêtes.jpg</image>
   </comic>
   <comic>
-    <date>2018.04.26</date>
+    <date>2018-04-26</date>
     <writer>F'murr</writer>
     <artist>F'murr</artist>
     <colorist>F'murr</colorist>
@@ -692,7 +985,7 @@
     <image>Le Gé́nie des alpages.jpg</image>
   </comic>
   <comic>
-    <date>2018.04.12</date>
+    <date>2018-04-12</date>
     <writer>Joann Sfar &amp; Lewis Trondheim</writer>
     <artist>Christophe Gaultier</artist>
     <colorist>Walter</colorist>
@@ -702,7 +995,7 @@
     <image>Donjon - Sans un bruit.jpg</image>
   </comic>
   <comic>
-    <date>2018.03.27</date>
+    <date>2018-03-27</date>
     <writer>Joann Sfar &amp; Lewis Trondheim</writer>
     <artist>Christophe Blain</artist>
     <colorist>Walter</colorist>
@@ -712,7 +1005,7 @@
     <image>Donjon - Après la pluie.jpg</image>
   </comic>
   <comic>
-    <date>2018.02.26</date>
+    <date>2018-02-26</date>
     <writer>Joann Sfar &amp; Lewis Trondheim</writer>
     <artist>Christophe Blain</artist>
     <colorist>Walter</colorist>
@@ -722,7 +1015,7 @@
     <image>Donjon - Une jeunesse qui s'enfuit.jpg</image>
   </comic>
   <comic>
-    <date>2018.01.30</date>
+    <date>2018-01-30</date>
     <writer>Joann Sfar &amp; Lewis Trondheim</writer>
     <artist>Christophe Blain</artist>
     <colorist>Walter</colorist>
@@ -732,7 +1025,7 @@
     <image>Donjon - Un justicier dans l'ennui.jpg</image>
   </comic>
   <comic>
-    <date>2018.01.10</date>
+    <date>2018-01-10</date>
     <writer>Joann Sfar &amp; Lewis Trondheim</writer>
     <artist>Christophe Blain</artist>
     <colorist>Walter</colorist>
@@ -742,7 +1035,7 @@
     <image>Donjon - La Chemise de la nuit.jpg</image>
   </comic>
   <comic>
-    <date>2017.12.05</date>
+    <date>2017-12-05</date>
     <writer>Lewis Trondheim</writer>
     <artist>Lewis Trondheim</artist>
     <colorist>Brigitte Findakly</colorist>
@@ -752,7 +1045,7 @@
     <image>Lapinot - Un monde un peu meilleur.jpg</image>
   </comic>
   <comic>
-    <date>2017.11.09</date>
+    <date>2017-11-09</date>
     <writer>Lewis Trondheim</writer>
     <artist>Lewis Trondheim</artist>
     <colorist>Brigitte Findakly</colorist>
@@ -762,7 +1055,7 @@
     <image>Cyberculture mon amour.jpg</image>
   </comic>
   <comic>
-    <date>2017.10.29</date>
+    <date>2017-10-29</date>
     <writer>Lewis Trondheim</writer>
     <artist>Lewis Trondheim</artist>
     <colorist>Brigitte Findakly</colorist>
@@ -772,7 +1065,7 @@
     <image>Ordinateur mon ami.jpg</image>
   </comic>
   <comic>
-    <date>2017.09.28</date>
+    <date>2017-09-28</date>
     <writer>Lewis Trondheim</writer>
     <artist>Lewis Trondheim</artist>
     <colorist>Brigitte Findakly</colorist>
@@ -782,7 +1075,7 @@
     <image>Les Aventures de l'univers.jpg</image>
   </comic>
   <comic>
-    <date>2017.09.18</date>
+    <date>2017-09-18</date>
     <writer>Lewis Trondheim</writer>
     <artist>Lewis Trondheim</artist>
     <colorist>Brigitte Findakly</colorist>
@@ -792,7 +1085,7 @@
     <image>Lapinot - L'Accélérateur atomique.jpg</image>
   </comic>
   <comic>
-    <date>2017.09.09</date>
+    <date>2017-09-09</date>
     <writer>Lewis Trondheim</writer>
     <artist>Lewis Trondheim</artist>
     <colorist>Brigitte Findakly</colorist>
@@ -802,7 +1095,7 @@
     <image>Lapinot - La Vie comme elle vient.jpg</image>
   </comic>
   <comic>
-    <date>2017.09.05</date>
+    <date>2017-09-05</date>
     <writer>Lewis Trondheim</writer>
     <artist>Lewis Trondheim</artist>
     <colorist>Brigitte Findakly</colorist>
@@ -812,7 +1105,7 @@
     <image>Lapinot - La Couleur de l'enfer.jpg</image>
   </comic>
   <comic>
-    <date>2017.08.20</date>
+    <date>2017-08-20</date>
     <writer>Lewis Trondheim</writer>
     <artist>Lewis Trondheim</artist>
     <colorist>Brigitte Findakly</colorist>
@@ -822,7 +1115,7 @@
     <image>Lapinot - Pour de vrai.jpg</image>
   </comic>
   <comic>
-    <date>2017.07.19</date>
+    <date>2017-07-19</date>
     <writer>Frank Le Gall</writer>
     <artist>Lewis Trondheim</artist>
     <colorist>Brigitte Findakly</colorist>
@@ -832,7 +1125,7 @@
     <image>Lapinot - Vacances de printemps.jpg</image>
   </comic>
   <comic>
-    <date>2017.07.11</date>
+    <date>2017-07-11</date>
     <writer>Lewis Trondheim</writer>
     <artist>Lewis Trondheim</artist>
     <colorist>Brigitte Findakly</colorist>
@@ -842,7 +1135,7 @@
     <image>Lapinot - Amour &amp; Intérim.jpg</image>
   </comic>
   <comic>
-    <date>2017.07.09</date>
+    <date>2017-07-09</date>
     <writer>Lewis Trondheim</writer>
     <artist>Lewis Trondheim</artist>
     <colorist>Brigitte Findakly</colorist>
@@ -852,7 +1145,7 @@
     <image>Lapinot - Walter.jpg</image>
   </comic>
    <comic>
-    <date>2017.07.09</date>
+    <date>2017-07-09</date>
     <writer>Lewis Trondheim</writer>
     <artist>Lewis Trondheim</artist>
     <colorist>Brigitte Findakly</colorist>
@@ -862,7 +1155,7 @@
     <image>Lapinot - Pichenettes.jpg</image>
   </comic>
   <comic>
-    <date>2017.07.08</date>
+    <date>2017-07-08</date>
     <writer>Lewis Trondheim</writer>
     <artist>Lewis Trondheim</artist>
     <colorist>Brigitte Findakly</colorist>
@@ -872,7 +1165,7 @@
     <image>Lapinot - Blacktown.jpg</image>
   </comic>
   <comic>
-    <date>2017.07.01</date>
+    <date>2017-07-01</date>
     <writer>Lewis Trondheim</writer>
     <artist>Lewis Trondheim</artist>
     <colorist>Brigitte Findakly</colorist>
@@ -882,7 +1175,7 @@
     <image>Lapinot - Slaloms.jpg</image>
   </comic>
   <comic>
-    <date>2017.06.30</date>
+    <date>2017-06-30</date>
     <writer>Luiz Eduardo de Oliveira</writer>
     <artist>Luiz Eduardo de Oliveira</artist>
     <colorist>Luiz Eduardo de Oliveira</colorist>
@@ -892,7 +1185,7 @@
     <image>Survivants - Épisode 5.jpg</image>
   </comic>
   <comic>
-    <date>2017.06.30</date>
+    <date>2017-06-30</date>
     <writer>Luiz Eduardo de Oliveira</writer>
     <artist>Luiz Eduardo de Oliveira</artist>
     <colorist>Luiz Eduardo de Oliveira</colorist>
@@ -902,7 +1195,7 @@
     <image>Survivants - Épisode 4.jpg</image>
   </comic>
   <comic>
-    <date>2017.06.29</date>
+    <date>2017-06-29</date>
     <writer>Luiz Eduardo de Oliveira</writer>
     <artist>Luiz Eduardo de Oliveira</artist>
     <colorist>Luiz Eduardo de Oliveira</colorist>
@@ -912,7 +1205,7 @@
     <image>Survivants - Épisode 3.jpg</image>
   </comic>
   <comic>
-    <date>2017.06.15</date>
+    <date>2017-06-15</date>
     <writer>Luiz Eduardo de Oliveira</writer>
     <artist>Luiz Eduardo de Oliveira</artist>
     <colorist>Luiz Eduardo de Oliveira</colorist>
@@ -922,7 +1215,7 @@
     <image>Survivants - Épisode 2.jpg</image>
   </comic>
   <comic>
-    <date>2017.06.13</date>
+    <date>2017-06-13</date>
     <writer>Luiz Eduardo de Oliveira</writer>
     <artist>Luiz Eduardo de Oliveira</artist>
     <colorist>Luiz Eduardo de Oliveira</colorist>
@@ -932,7 +1225,7 @@
     <image>Survivants - Épisode 1.jpg</image>
   </comic>
   <comic>
-    <date>2017.06.06</date>
+    <date>2017-06-06</date>
     <writer>Luiz Eduardo de Oliveira</writer>
     <artist>Luiz Eduardo de Oliveira</artist>
     <colorist>Luiz Eduardo de Oliveira</colorist>
@@ -942,7 +1235,7 @@
     <image>Antarès - Épisode 6.jpg</image>
   </comic>
   <comic>
-    <date>2017.05.22</date>
+    <date>2017-05-22</date>
     <writer>Luiz Eduardo de Oliveira</writer>
     <artist>Luiz Eduardo de Oliveira</artist>
     <colorist>Luiz Eduardo de Oliveira</colorist>
@@ -952,7 +1245,7 @@
     <image>Antarès - Épisode 5.jpg</image>
   </comic>
   <comic>
-    <date>2017.05.16</date>
+    <date>2017-05-16</date>
     <writer>Luiz Eduardo de Oliveira</writer>
     <artist>Luiz Eduardo de Oliveira</artist>
     <colorist>Luiz Eduardo de Oliveira</colorist>
@@ -962,7 +1255,7 @@
     <image>Antarès - Épisode 4.jpg</image>
   </comic>
   <comic>
-    <date>2017.03.28</date>
+    <date>2017-03-28</date>
     <writer>Luiz Eduardo de Oliveira</writer>
     <artist>Luiz Eduardo de Oliveira</artist>
     <colorist>Luiz Eduardo de Oliveira</colorist>
@@ -972,7 +1265,7 @@
     <image>Antarès - Épisode 3.jpg</image>
   </comic>
   <comic>
-    <date>2017.03.16</date>
+    <date>2017-03-16</date>
     <writer>Luiz Eduardo de Oliveira</writer>
     <artist>Luiz Eduardo de Oliveira</artist>
     <colorist>Luiz Eduardo de Oliveira</colorist>
@@ -982,7 +1275,7 @@
     <image>Antarès - Épisode 2.jpg</image>
   </comic>
   <comic>
-    <date>2017.02.19</date>
+    <date>2017-02-19</date>
     <writer>Luiz Eduardo de Oliveira</writer>
     <artist>Luiz Eduardo de Oliveira</artist>
     <colorist>Luiz Eduardo de Oliveira</colorist>
@@ -992,7 +1285,7 @@
     <image>Antarès - Épisode 1.jpg</image>
   </comic>
   <comic>
-    <date>2017.02.11</date>
+    <date>2017-02-11</date>
     <writer>Luiz Eduardo de Oliveira</writer>
     <artist>Luiz Eduardo de Oliveira</artist>
     <colorist>Luiz Eduardo de Oliveira</colorist>
@@ -1002,7 +1295,7 @@
     <image>Bételgeuse - L'autre.jpg</image>
   </comic>
   <comic>
-    <date>2017.02.10</date>
+    <date>2017-02-10</date>
     <writer>Luiz Eduardo de Oliveira</writer>
     <artist>Luiz Eduardo de Oliveira</artist>
     <colorist>Luiz Eduardo de Oliveira</colorist>
@@ -1012,7 +1305,7 @@
     <image>Bételgeuse - Les cavernes.jpg</image>
   </comic>
   <comic>
-    <date>2017.02.06</date>
+    <date>2017-02-06</date>
     <writer>Luiz Eduardo de Oliveira</writer>
     <artist>Luiz Eduardo de Oliveira</artist>
     <colorist>Luiz Eduardo de Oliveira</colorist>
@@ -1022,7 +1315,7 @@
     <image>Bételgeuse - L'expédition.png</image>
   </comic>
   <comic>
-    <date>2017.01.30</date>
+    <date>2017-01-30</date>
     <writer>Luiz Eduardo de Oliveira</writer>
     <artist>Luiz Eduardo de Oliveira</artist>
     <colorist>Luiz Eduardo de Oliveira</colorist>
@@ -1032,7 +1325,7 @@
     <image>Bételgeuse - Les survivants.jpg</image>
   </comic>
   <comic>
-    <date>2017.01.28</date>
+    <date>2017-01-28</date>
     <writer>Luiz Eduardo de Oliveira</writer>
     <artist>Luiz Eduardo de Oliveira</artist>
     <colorist>Luiz Eduardo de Oliveira</colorist>
@@ -1042,7 +1335,7 @@
     <image>Bételgeuse - La planè̀te.jpg</image>
   </comic>
   <comic>
-    <date>2016.09.03</date>
+    <date>2016-09-03</date>
     <writer>Luiz Eduardo de Oliveira</writer>
     <artist>Luiz Eduardo de Oliveira</artist>
     <colorist>Luiz Eduardo de Oliveira</colorist>
@@ -1051,7 +1344,7 @@
     <image>Aldébaran - La créature.jpg</image>
   </comic>
   <comic>
-    <date>2016.09.01</date>
+    <date>2016-09-01</date>
     <writer>Luiz Eduardo de Oliveira</writer>
     <artist>Luiz Eduardo de Oliveira</artist>
     <colorist>Luiz Eduardo de Oliveira</colorist>
@@ -1060,7 +1353,7 @@
     <image>Aldébaran - Le groupe.jpg</image>
   </comic>
   <comic>
-    <date>2016.08.31</date>
+    <date>2016-08-31</date>
     <writer>Luiz Eduardo de Oliveira</writer>
     <artist>Luiz Eduardo de Oliveira</artist>
     <colorist>Luiz Eduardo de Oliveira</colorist>
@@ -1069,7 +1362,7 @@
     <image>Aldébaran - La photo.jpg</image>
   </comic>
   <comic>
-    <date>2016.08.30</date>
+    <date>2016-08-30</date>
     <writer>Luiz Eduardo de Oliveira</writer>
     <artist>Luiz Eduardo de Oliveira</artist>
     <colorist>Luiz Eduardo de Oliveira</colorist>
@@ -1078,13 +1371,23 @@
     <image>Aldébaran - La blonde.jpg</image>
   </comic>
   <comic>
-    <date>2016.08.29</date>
+    <date>2016-08-29</date>
     <writer>Luiz Eduardo de Oliveira</writer>
     <artist>Luiz Eduardo de Oliveira</artist>
     <colorist>Luiz Eduardo de Oliveira</colorist>
     <series url="https://fr.wikipedia.org/wiki/Les_Mondes_d%27Ald%C3%A9baran#Cycle_d.27Ald.C3.A9baran">Aldébaran</series>
     <volume url="https://fr.wikipedia.org/wiki/La_Catastrophe_(Ald%C3%A9baran)" number="1">La catastrophe</volume>
     <image>Aldébaran - La catastrophe.jpg</image>
+  </comic>
+  <comic>
+    <date>2000-05-20</date>
+    <writer>Benoît Peeters</writer>
+    <artist>François Schuiten</artist>
+    <colorist>François Schuiten</colorist>
+    <series url="https://fr.wikipedia.org/wiki/Les_Cit%C3%A9s_obscures">Les Cités obscures</series>
+    <volume url="https://fr.wikipedia.org/wiki/La_Tour_(bande_dessin%C3%A9e)" number="3">La Tour</volume>
+    <comments>Lu en anglais (<i>The Tower</i>). Je crois que c'est la première histoire de la série des Cités obscures que j'ai lue.</comments>
+    <image>Les Cités obscures - La Tour.jpg</image>
   </comic>
   <!-- <comic>
     <date></date>

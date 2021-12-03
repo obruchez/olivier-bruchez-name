@@ -94,7 +94,6 @@ Pretty much everything from [Les cent livres du siècle](https://fr.wikipedia.or
 
 ## Fiction
 
-* Douglas Adams, ["The Hitchhiker's Guide to the Galaxy"](https://en.wikipedia.org/wiki/The_Hitchhiker%27s_Guide_to_the_Galaxy)
 * Scott Adams, ["The Religion War"](https://en.wikipedia.org/wiki/The_Religion_War)
 * Isaac Asimov, ["Foundation"](https://en.wikipedia.org/wiki/Foundation_series) (series) (science fiction classic)
 * Gabriel Bá & Fábio Moon, ["Daytripper"](https://en.wikipedia.org/wiki/Daytripper_(DC_Comics)) (recommended by [@avernet](https://twitter.com/avernet/status/638501563384885249))
@@ -122,7 +121,6 @@ Pretty much everything from [Les cent livres du siècle](https://fr.wikipedia.or
 * Bill Moody, ["Sur les traces de Chet Baker"](http://www.amazon.fr/Sur-traces-Chet-Baker-enqu%C3%AAte/dp/2743612061)
 * Amélie Nothomb, ["Acide sulfurique"](https://fr.wikipedia.org/wiki/Acide_sulfurique_(roman)) (recommended by Miriam)
 * H. P. Lovecraft, ["The Complete Works of H.P. Lovecraft"](https://www.goodreads.com/book/show/11851522-the-complete-works-of-h-p-lovecraft)
-* Terry Pratchett, ["The Carpet People"](https://en.wikipedia.org/wiki/The_Carpet_People) (recommended by François?)
 * Terry Pratchett, ["The Colour of Magic"](https://en.wikipedia.org/wiki/The_Colour_of_Magic) (recommended by François in 2015)
 * Terry Pratchett, ["The Dark Side of the Sun"](https://en.wikipedia.org/wiki/The_Dark_Side_of_the_Sun) (recommended by François?)
 * Terry Pratchett, ["Strata"](https://en.wikipedia.org/wiki/Strata_%28novel%29) (recommended by François?)
@@ -151,7 +149,6 @@ Pretty much everything from [Les cent livres du siècle](https://fr.wikipedia.or
 
 * Jared Diamond, ["Collapse: How Societies Choose to Fail or Succeed"](https://en.wikipedia.org/wiki/Collapse:_How_Societies_Choose_to_Fail_or_Succeed) (recommended by Franck?)
 * Jared Diamond, ["Guns, Germs, and Steel: The Fates of Human Societies"](https://en.wikipedia.org/wiki/Guns,_Germs,_and_Steel) (recommended by Franck?)
-* Yuval Noah Harari, ["Sapiens: A Brief History of Humankind"](https://www.amazon.com/Sapiens-Humankind-Yuval-Noah-Harari-ebook/dp/B00K7ED54M/) (listed on [Hacker News](https://news.ycombinator.com/item?id=14477851))
 
 ## Humor
 
@@ -163,7 +160,6 @@ Pretty much everything from [Les cent livres du siècle](https://fr.wikipedia.or
 
 ## Meditation
 
-* Stephan Bodian, ["Zen ! La méditation pour les nuls"](https://encrypted.google.com/books/about/Zen_La_m%C3%A9ditation_pour_les_nuls.html?id=Qo6gOwAACAAJ) (I started reading this in 2004, never finished it)
 * Bhante Gunaratana, ["Mindfulness In Plain English"](http://www.urbandharma.org/pdf2/Mindfulness%20in%20Plain%20English%20Book%20Preview.pdf)
 * Alan Watts, ["Out of Your Mind: Essential Listening from the Alan Watts Audio Archives"](http://www.amazon.com/dp/1591791650) (audio book, recommended by [@avernet](https://twitter.com/avernet))
 
@@ -216,7 +212,6 @@ Pretty much everything from [Les cent livres du siècle](https://fr.wikipedia.or
 * Brian Christian, ["The Most Human Human: What Talking with Computers Teaches Us About What It Means to Be Alive"](http://www.amazon.com/The-Most-Human-Talking-Computers-ebook/dp/B004FEG2S6)
 * Paul Davies, ["The Mind Of God"](https://en.wikipedia.org/wiki/The_Mind_of_God)
 * Daniel Dennett, ["Freedom Evolves"](https://en.wikipedia.org/wiki/Freedom_Evolves) (and others) (but I really don't agree with him on free will!)
-* Denis Diderot, ["Jacques le fataliste et son maître"](https://fr.wikipedia.org/wiki/Jacques_le_fataliste_et_son_ma%C3%AEtre) (recommended by [@verybadwizards](https://twitter.com/verybadwizards))
 * Will Durant, ["The Story of Philosophy: The Lives and Opinions of the World's Greatest Philosophers"](http://www.amazon.com/The-Story-Philosophy-Opinions-Philosophers/dp/0671739166)
 * Michael S. A. Graziano, ["Consciousness and the Social Brain"](http://www.amazon.com/Consciousness-Social-Brain-Michael-Graziano/dp/0199928649) (summarized by [@SelfAwarePatter](https://twitter.com/SelfAwarePatter) on [his blog](http://selfawarepatterns.com/2013/12/30/consciousness-and-the-social-brain-a-review/))
 * Douglas Richard Hofstadter, ["I Am a Strange Loop"](https://en.wikipedia.org/wiki/I_Am_a_Strange_Loop)
@@ -229,7 +224,6 @@ Pretty much everything from [Les cent livres du siècle](https://fr.wikipedia.or
 * Robert Nozick, ["Philosophical Explanations"](https://en.wikipedia.org/wiki/Philosophical_Explanations)
 * Richard Oerton, ["The Nonsense of Free Will: Facing Up to a False Belief"](http://www.amazon.com/The-Nonsense-Free-Will-Facing/dp/1780882874) (recommended by [@SamHarrisOrg](https://twitter.com/SamHarrisOrg))
 * Michel Onfray, ["Contre-histoire de la philosophie"](https://fr.wikipedia.org/wiki/Contre-histoire_de_la_philosophie) (several volumes)
-* George Orwell, ["1984"](https://en.wikipedia.org/wiki/Nineteen_Eighty-Four) (science fiction classic)
 * Donald Palmer, ["Looking at Philosophy: The Unbearable Heaviness of Philosophy Made Lighter"](http://www.amazon.com/Looking-At-Philosophy-Unbearable-Heaviness/dp/007803826X) (easy to read, comics, etc.)
 * Derek Parfit, ["Reasons and Persons"](http://www.amazon.com/Reasons-Persons-Derek-Parfit/dp/019824908X/) (recommended by [@SamHarrisOrg](https://twitter.com/SamHarrisOrg) and [@willmacaskill](https://twitter.com/willmacaskill))
 * Roger Penrose, ["The Emperor's New Mind"](https://en.wikipedia.org/wiki/The_Emperor%27s_New_Mind)
@@ -251,7 +245,6 @@ Pretty much everything from [Les cent livres du siècle](https://fr.wikipedia.or
 * Richard P. Feynman, ["What Do You Care What Other People Think?"](http://en.wikipedia.org/wiki/What_Do_You_Care_What_Other_People_Think%3F)
 * Brian Greene, ["The Elegant Universe: Superstrings, Hidden Dimensions, and the Quest for the Ultimate Theory"](https://en.wikipedia.org/wiki/The_Elegant_Universe)
 * Brian Greene, ["The Fabric of the Cosmos: Space, Time, and the Texture of Reality"](https://en.wikipedia.org/wiki/The_Fabric_of_the_Cosmos)
-* Stephen Hawking, ["A Brief History of Time"](https://en.wikipedia.org/wiki/A_Brief_History_of_Time)
 * Stephen Hawking, ["The Universe in a Nutshell"](https://en.wikipedia.org/wiki/The_Universe_in_a_Nutshell)
 * Michio Kaku, ["Parallel Worlds: A Journey Through Creation, Higher Dimensions, and the Future of the Cosmos"](https://en.wikipedia.org/wiki/Parallel_Worlds_(book))
 * Manjit Kumar, ["Quantum: Einstein, Bohr and the Great Debate About the Nature of Reality"](https://www.amazon.fr/Quantum-Einstein-Debate-Nature-Reality-ebook/dp/B002RI9ZRC) (recommended by dad)
@@ -264,7 +257,6 @@ Pretty much everything from [Les cent livres du siècle](https://fr.wikipedia.or
 ## Psychology
 
 * Eric B. Baum, ["What Is Thought?"](http://www.amazon.com/exec/obidos/tg/detail/-/0262025485/) (recommended by [@r3mix](https://twitter.com/r3mix))
-* Susan Cain, ["Quiet: The Power of Introverts in a World That Can't Stop Talking"](http://www.amazon.com/Quiet-Power-Introverts-World-Talking-ebook/dp/B0074YVW1G/)
 * Ed Diener, ["Happiness: Unlocking the Mysteries of Psychological Wealth"](https://www.amazon.com/Happiness-Unlocking-Mysteries-Psychological-Wealth/dp/1405146613) (recommended on [@Coursera](https://twitter.com/coursera))
 * Robert H. Frank, ["Passions Within Reason: The Strategic Role of the Emotions"](https://www.amazon.com/gp/product/0393960226/) (recommended by [@verybadwizards](https://twitter.com/verybadwizards), not available as e-book as of Jan. 2017)
 * Winifred Gallagher, ["Rapt: Attention and the Focused Life"](http://www.amazon.com/Rapt-Attention-Focused-Winifred-Gallagher/dp/0143116908)

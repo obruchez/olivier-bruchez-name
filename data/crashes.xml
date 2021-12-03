@@ -1,57 +1,57 @@
 <?xml version="1.0" encoding="utf-8"?>
-<crashes>
+<crashes created="2006-05-10">
 	<introduction>A list of hard drive crashes I had.</introduction>
 	<introduction>Did I mention I'm a geek?</introduction>
 	<crash>
-		<date>2014.03.09</date>
+		<date>2014-03-09</date>
 		<manufacturer>Toshiba</manufacturer>
 		<model>MK5065GSXF 500GB 2.5" SATA 2.6/ATA-8</model>
 		<comments>Failed in my late-2011 MacBook Pro. Replaced the drive before it actually crashed, after getting S.M.A.R.T. errors from SMARTReporter. No data loss.</comments>
 	</crash>
     <crash>
-		<date>2011.01.23</date>
+		<date>2011-01-23</date>
 		<manufacturer>Western Digital</manufacturer>
 		<model>Caviar Green WD20EADS 2TB SATA</model>
 		<comments>Failed in a Drobo array. Array rebuilt without any data loss (diff with backup okay).</comments>
 	</crash>
     <crash>
-		<date>2009.09.19</date>
+		<date>2009-09-19</date>
 		<manufacturer>Samsung</manufacturer>
 		<model>MCBQE32GBMPP 32GB Flash 2.5" SATA SSD</model>
 		<comments>Caused by excessive heat. I don't know whether it was the motherboard or the hard drive that crashed/failed.</comments>
 	</crash>
 	<crash>
-		<date>2008.12.17</date>
+		<date>2008-12-17</date>
 		<manufacturer>Hitachi</manufacturer>
 		<model>Deskstar 7K500 500GB SATA II</model>
 		<comments>Failed in a 4-drive RAID 5 array. Had a replacement ready. Array restored without any problem. No data was lost. Apparently, the hard drive didn't really crash, but the RAID controller was on a "dying" motherboard.</comments>
 	</crash>
 	<crash>
-		<date>2006.10.04</date>
+		<date>2006-10-04</date>
 		<manufacturer>Hitachi</manufacturer>
 		<model>Deskstar 7K500 500GB SATA II</model>
 		<comments>Failed in a 4-drive RAID 5 array. Had a replacement ready. Array restored without any problem. No data was lost.</comments>
 	</crash>
 	<crash>
-		<date>2006.09.22</date>
+		<date>2006-09-22</date>
 		<manufacturer>Maxtor</manufacturer>
 		<model>OneTouch 300 GB USB/Firewire</model>
 		<comments>Backed up on a Maxtor OneTouch II 300 GB. Replaced by a Maxtor OneTouch III 300 GB. No data was lost.</comments>
 	</crash>
 	<crash>
-		<date>2005.10.12</date>
+		<date>2005-10-12</date>
 		<manufacturer>Hitachi</manufacturer>
 		<model>Deskstar 7K500 500GB SATA II</model>
 		<comments>Failed in a 4-drive RAID 5 array. Still covered under warranty. Bought a new drive anyway. No data was lost.</comments>
 	</crash>
 	<crash>
-		<date>2005.09.26</date>
+		<date>2005-09-26</date>
 		<manufacturer>Maxtor</manufacturer>
 		<model>OneTouch II 300GB USB/Firewire</model>
 		<comments>Was used as a mirror. Still covered under warranty. No data was lost.</comments>
 	</crash>
 	<crash>
-		<date>2005.02.11</date>
+		<date>2005-02-11</date>
 		<manufacturer>Seagate</manufacturer>
 		<model>ST3200 200GB SATA</model>
 		<comments>Failed in a 3-drive RAID 5 array. Still covered under warranty. Bought a new drive anyway. No data was lost.</comments>
