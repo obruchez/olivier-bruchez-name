@@ -3,7 +3,7 @@ lazy val root = (project in file("."))
   .settings(
     name := """olivier-bruchez-name""",
     organization := "org.bruchez.olivier",
-    version := "1.0-SNAPSHOT",
+    version := "2.0-SNAPSHOT",
     scalaVersion := "2.13.7",
     libraryDependencies ++= Seq(
       guice,
