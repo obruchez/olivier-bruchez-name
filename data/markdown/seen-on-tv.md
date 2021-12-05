@@ -71,6 +71,7 @@
 * [Lamu](http://www.imdb.com/title/tt0081954/)
 * [Le Collège fou, fou, fou](http://www.imdb.com/title/tt0294180/)
 * [Les 4 Filles du Dr. March](http://www.imdb.com/title/tt0168283/)
+* [Les Animaux du Bois de Quat'sous](https://www.imdb.com/title/tt0286336/) (probablement pas vraiment regardé, trop "récent")
 * [Les Chevaliers du Zodiaque](http://www.imdb.com/title/tt0161952/)
 * [Les Gummi](http://www.imdb.com/title/tt0088528/)
 * [Les Mondes Engloutis](http://www.imdb.com/title/tt0212676/) (apprécie surtout la musique du générique, en fait)
@@ -80,19 +81,19 @@
 
 ## Films / téléfilms
 
-* "Saturn 3" (?)
-* "New York 1997" (ou "Escape from New York")
 * [Derborence](http://www.imdb.com/title/tt0089014/)
+* [Escape from New York](https://www.imdb.com/title/tt0082340/) (aka New York 1997) (réellement vu ?)
 * [La balle volante](https://www.imdb.com/title/tt0192075/) (The Glitterball, en anglais) (pensais qu'était une série, mais il s'agit d'un film/téléfilm pour enfants)
 * [L'histoire sans fin](http://www.imdb.com/title/tt0088323/) (pas forcément vu, mais me dit vaguement quelque chose)
 * [Opération Ypsilon](http://www.imdb.com/title/tt1369834/) (avec Bruno Cremer et des armes bio-chimiques diffusées par hélicoptère ? en quatre parties d'une heure chacune)
+* [Saturn 3](https://www.imdb.com/title/tt0079285/) (réellement vu ?)
 * film avec la pièce interdite (chambre ?), la collection sous le lit (coquillages ?), le frère qui se fait enliser (dune ou plage ?), etc.
 
 ## Emissions
 
 * [Carabine FM](http://fr.wikipedia.org/wiki/Carabine_FM) (TSR, 1986-91)
 * [Club Dorothée](http://fr.wikipedia.org/wiki/Club_doroth%C3%A9e) (TF1, 1987-97)
-* Giga (Antenne 2, 1990-95)
+* [Giga](https://fr.wikipedia.org/wiki/Giga_(%C3%A9mission_de_t%C3%A9l%C3%A9vision)) (Antenne 2, 1990-95)
 * [Le Chevalier du Labyrinthe](http://fr.wikipedia.org/wiki/Le_Chevalier_du_Labyrinthe) (Antenne 2, 1990-91)
 * Petit Poisson (TSR, années ‘80) (caméra cachée)
 * [Temps X](http://fr.wikipedia.org/wiki/Igor_et_Grichka_Bogdanoff%23Temps_X) (TF1, 1979-89) (avec Igor et Grichka Bogdanoff ; probablement vu dans cette émission : personnage miniaturisé glissant sur un toboggan, effet spécial très visible, mal fait - sorte de halo autour du personnage - mais pas sûr, terminé en 1982 !)
@@ -107,4 +108,3 @@
 * utiliser sites de génériques pour compléter les listes (e.g. [Coucoucircus](http://www.coucoucircus.org/index3.php))
 * dessins animés à ajouter
   * autres DA de Cartoon Network (fin des années 90)
-  * DA avec animaux qui voyagent (hibou, héron, etc.)
