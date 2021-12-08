@@ -11,8 +11,15 @@
   <show>
     <date></date>
     <name url="https://en.wikipedia.org/wiki/Sherlock_(TV_series)">Sherlock</name>
-    <series url="https://en.wikipedia.org/wiki/Sherlock_(TV_series)#Series_2_(2012)" type="series">2</series>
+    <series url="https://en.wikipedia.org/wiki/Sherlock_(TV_series)#Series_3_(2014)" type="series">3</series>
     <comments></comments>
+    <image>Sherlock.jpg</image>
+  </show>
+  <show>
+    <date>2021-12-05</date>
+    <name url="https://en.wikipedia.org/wiki/Sherlock_(TV_series)">Sherlock</name>
+    <series url="https://en.wikipedia.org/wiki/Sherlock_(TV_series)#Series_2_(2012)" type="series">2</series>
+    <comments>What a cliffhanger!</comments>
     <image>Sherlock.jpg</image>
   </show>
   <show>
