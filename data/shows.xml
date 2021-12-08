@@ -1175,6 +1175,12 @@
     <image>Prison Break.jpg</image>
   </show>
   <show>
+    <date>2001-12-08</date>
+    <name url="https://en.wikipedia.org/wiki/Friends">Friends</name>
+    <series url="https://en.wikipedia.org/wiki/Friends_(season_2)" type="season">2</series>
+    <image>Friends.jpg</image>
+  </show>
+  <show>
     <date>2001-07-10</date>
     <name url="https://en.wikipedia.org/wiki/The_Tripods_(TV_series)">The Tripods</name>
     <series type="series">1</series>
@@ -1209,7 +1215,7 @@ OK ajouté: 22 mars 2008: Prison Break 3
 ???: Futurama 7
   
 ???: Friends 1
-???: Friends 2
+OK: Friends 2
 ???: Friends 3
 OK: Friends 4
 ???: Friends 5
