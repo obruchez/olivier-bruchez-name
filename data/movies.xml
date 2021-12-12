@@ -3,13 +3,13 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Checklist: add rating to IMDb -->
   <movie>
-    <date></date>
+    <date>2021-12-11</date>
     <theater home="true"/>
     <director>François Truffaut</director>
     <title>Fahrenheit 451</title>
     <url>https://www.imdb.com/title/tt0060390/</url>
-    <rating></rating>
-    <comments></comments>
+    <rating>4.0</rating>
+    <comments>I wanted to like this movie, but, having finished the book just a couple of weeks before, this was a weird experience. Truffaut's adaptation was very different than the "eerie and dream-like images" the book conjured up in my mind. Too concrete, I guess. The book works as a symbolic story. The movie has to present concrete characters and situations to the viewer. It doesn't really work, in my opinion. Especially the ending, with the "book people".</comments>
     <image>Fahrenheit 451.jpg</image>
   </movie>
   <movie>
