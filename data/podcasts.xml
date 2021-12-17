@@ -2,6 +2,18 @@
 <podcasts created="2016-05-10">
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date></date>
+    <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
+    <episode url="https://www.samharris.org/podcasts/making-sense-episodes/269-deep-time" number="269">Deep Time - A Conversation with Oliver Burkeman Walker</episode>
+    <comments></comments>
+  </podcast>
+  <podcast>
+    <date>2021-12-17</date>
+    <name url="https://podcast.ausha.co/violet">Violet - Le Podcast sur Prince et le Minneapolis Sound</name>
+    <episode url="https://podcast.ausha.co/violet/chaos-and-disorder">Chaos And Disorder : L'album clivant</episode>
+    <comments>Un album clivant, peut-être, mais qui me plaît. J'ai bien aimé l'analyse de "Had U", un morceau court, mais fascinant.</comments>
+  </podcast>
+  <podcast>
     <date>2021-12-15</date>
     <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
     <episode url="https://www.samharris.org/podcasts/making-sense-episodes/267-kingdom-sleep" number="267">The Kingdom of Sleep - A Conversation with Matthew Walker</episode>
