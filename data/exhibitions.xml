@@ -3,6 +3,14 @@
 <exhibitions created="2011-05-17">
     <introduction>A list of exhibitions I visited.</introduction>
     <exhibition>
+        <date>2021-12-12</date>
+        <name>Van Gogh Alive</name>
+        <museum>Beaulieu, Lausanne, Switzerland</museum>
+        <rating>4.5</rating>
+        <comments>This might seem like a cliché, but I love Van Gogh. I've seen his paintings in Amsterdam and in various museums around the world. Seing them in a "multimedia experience"ß (whatever that means in 2021) is not the same as seing paintings on the walls of a museum, but it's nevertheless a good way to discover them. Everything was not perfect (the sound, in particular, could have been better), but this form of experimental museology is probably the way to go. In my opinion, art is best experienced in a dedicated physical space, but there are various ways to do it. Technology can help and I hope to see other similar experiences in the future.</comments>
+        <image>Van Gogh Alive.jpg</image>
+    </exhibition>
+    <exhibition>
         <date>2021-11-13</date>
         <name>Caillebotte - Impressionniste et moderne</name>
         <museum>Fondation Pierre Gianadda, Martigny, Switzerland</museum>
