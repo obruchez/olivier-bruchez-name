@@ -2,6 +2,12 @@
 <podcasts created="2016-05-10">
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date>2021-12-22</date>
+    <name url="https://podcast.ausha.co/violet">Violet - Le Podcast sur Prince et le Minneapolis Sound</name>
+    <episode url="https://podcast.ausha.co/violet/emancipation-part-1-le-passe">Emancipation : Part 1, le passé</episode>
+    <comments>Première partie sur trois. <i>Emancipation</i> a beaucoup partagé les fans, à l'époque. C'était le premier triple album de Prince. Un quart de siècle plus tard, je l'aime toujours. Il m'arrive d'écouter une des trois parties du début à la fin, mais j'y puise aussi un peu comme dans une boîte de chocolats. Je suis désormais à jour avec ce podcast (Violet) et découvrirai donc les prochains épisodes au fur et à mesure qu'ils sont diffusés.</comments>
+  </podcast>
+  <podcast>
     <date>2021-12-17</date>
     <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
     <episode url="https://www.samharris.org/podcasts/making-sense-episodes/269-deep-time" number="269">Deep Time - A Conversation with Oliver Burkeman Walker</episode>
