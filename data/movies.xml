@@ -3,6 +3,17 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Checklist: add rating to IMDb -->
   <movie>
+    <date>2021-12-20</date>
+    <theater home="true"/>
+    <director>Ingmar Bergman</director>
+    <title>Höstsonaten</title>
+    <title language="en">Autumn Sonata</title>
+    <url>https://www.imdb.com/title/tt0077711/</url>
+    <rating>4.75</rating>
+    <comments>My fourth Ingmar Bergman movie. As a parent of a young child, it resonated with me, in the sense that I found myself strongly not wanting to be like those two women. It's not a particularly fun movie to watch, for that reason, but also because I felt that it could be a play instead of a movie. There's a claustrophobic aspect to it, I guess.</comments>
+    <image>Autumn Sonata.jpg</image>
+  </movie>
+  <movie>
     <date>2021-12-11</date>
     <theater home="true"/>
     <director>François Truffaut</director>
