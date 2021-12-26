@@ -5145,6 +5145,11 @@
     <episode url="http://comparedtowhatpodcast.com/episode-42-the-marcus-miller-conversation/" number="42">The Marcus Miller Conversation</episode>
   </podcast>
   <podcast>
+    <date>2011-12-26</date>
+    <name url="http://5by5.tv/hypercritical">Hypercritical</name>
+    <episode url="http://5by5.tv/hypercritical/16" number="16">The Soap Opera Effect</episode>
+  </podcast>
+  <podcast>
     <date>2010-10-12</date>
     <name url="https://podcasts.apple.com/gb/podcast/the-miles-davis-podcast/id365571367">The Miles Davis Podcast</name>
     <episode url="https://podcasts.apple.com/gb/podcast/bill-laswell-reconstructing-miles/id365571367" number="10">Bill Laswell: Reconstructing Miles</episode>
