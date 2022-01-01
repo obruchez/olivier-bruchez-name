@@ -1380,6 +1380,60 @@
     <image>Aldébaran - La catastrophe.jpg</image>
   </comic>
   <comic>
+  <comic>
+    <date>2011-12-??</date>
+    <writer>Lewis Trondheim</writer>
+    <artist>Lewis Trondheim</artist>
+    <colorist>Brigitte Findakly</colorist>
+    <series url="https://fr.wikipedia.org/wiki/Les_Formidables_Aventures_de_Lapinot">Les Formidables Aventures de Lapinot</series>
+    <volume url="http://www.dargaud.com/bd/Lapinot/Formidables-aventures-de-Lapinot-Les/Formidables-aventures-de-Lapinot-Les-tome-3-Walter" number="3">Walter</volume>
+    <image>Lapinot - Walter.jpg</image>
+  </comic>
+    <date>2011-12-??</date>
+    <writer>Lewis Trondheim</writer>
+    <artist>Lewis Trondheim</artist>
+    <colorist>Brigitte Findakly</colorist>
+    <series url="https://fr.wikipedia.org/wiki/Les_Formidables_Aventures_de_Lapinot">Les Formidables Aventures de Lapinot</series>
+    <volume url="http://www.dargaud.com/bd/Lapinot/Formidables-aventures-de-Lapinot-Les/Formidables-aventures-de-Lapinot-Les-tome-7-Couleur-de-l-enfer-La" number="7">La Couleur de l'enfer</volume>
+    <image>Lapinot - La Couleur de l'enfer.jpg</image>
+  </comic>
+  <comic>
+    <date>2011-12-??</date>
+    <writer>Lewis Trondheim</writer>
+    <artist>Lewis Trondheim</artist>
+    <colorist>Brigitte Findakly</colorist>
+    <series url="https://fr.wikipedia.org/wiki/Les_Formidables_Aventures_de_Lapinot">Les Formidables Aventures de Lapinot</series>
+    <volume url="https://fr.wikipedia.org/wiki/L%27Acc%C3%A9l%C3%A9rateur_atomique" number="9">L'Accélérateur atomique</volume>
+    <image>Lapinot - L'Accélérateur atomique.jpg</image>
+  </comic>
+  <comic>
+    <date>2011-12-??</date>
+    <writer>Lewis Trondheim</writer>
+    <artist>Lewis Trondheim</artist>
+    <colorist>Brigitte Findakly</colorist>
+    <series url="https://fr.wikipedia.org/wiki/Les_Formidables_Aventures_de_Lapinot#Les_Formidables_Aventures_sans_Lapinot">Les Formidables Aventures sans Lapinot</series>
+    <volume url="http://www.dargaud.com/bd/Lapinot/Formidables-aventures-sans-Lapinot-Les/Formidables-aventures-sans-Lapinot-Les-tome-1-Aventures-de-l-Univers-Les" number="1">Les Aventures de l'univers</volume>
+    <image>Les Aventures de l'univers.jpg</image>
+  </comic>
+  <comic>
+    <date>2011-12-??</date>
+    <writer>Lewis Trondheim &amp; Joann Sfar</writer>
+    <artist>Boulet</artist>
+    <colorist>Boulet &amp; Lucie Albon</colorist>
+    <series url="https://fr.wikipedia.org/wiki/Donjon_Z%C3%A9nith">Donjon Zénith</series>
+    <volume url="https://fr.wikipedia.org/wiki/Un_mariage_%C3%A0_part" number="5">Un mariage à part</volume>
+    <image>Donjon Zénith - Un mariage à part.jpg</image>
+  </comic>
+  <comic>
+    <date>2011-12-??</date>
+    <writer>Lewis Trondheim</writer>
+    <artist>Lewis Trondheim</artist>
+    <colorist>Brigitte Findakly</colorist>
+    <series url="https://fr.wikipedia.org/wiki/Les_Formidables_Aventures_de_Lapinot">Les Formidables Aventures de Lapinot</series>
+    <volume url="http://www.dargaud.com/bd/Lapinot/Formidables-aventures-de-Lapinot-Les/Formidables-aventures-de-Lapinot-Les-tome-4-Amour-et-Interim" number="4">Amour &amp; Intérim</volume>
+    <image>Lapinot - Amour &amp; Intérim.jpg</image>
+  </comic>
+  <comic>
     <date>2011-12-27</date>
     <writer>Lewis Trondheim</writer>
     <artist>Lewis Trondheim</artist>
@@ -1460,7 +1514,7 @@
     <image>Yoko Tsuno - La Jonque céleste.jpg</image>
   </comic>
   <comic>
-    <date>2001-09-xx</date>
+    <date>2001-09-??</date>
     <writer>Roger Leloup</writer>
     <artist>Roger Leloup</artist>
     <colorist>Studio Leonardo</colorist>
@@ -1469,7 +1523,7 @@
     <image>Yoko Tsuno - La Porte des âmes.jpg</image>
   </comic>
   <comic>
-    <date>2001-09-xx</date>
+    <date>2001-09-??</date>
     <writer>Roger Leloup</writer>
     <artist>Roger Leloup</artist>
     <colorist>Studio Leonardo</colorist>
@@ -1478,7 +1532,7 @@
     <image>Yoko Tsuno - L'Astrologue de Bruges.jpg</image>
   </comic>
   <comic>
-    <date>2001-09-xx</date>
+    <date>2001-09-??</date>
     <writer>Roger Leloup</writer>
     <artist>Roger Leloup</artist>
     <colorist>Studio Leonardo</colorist>
@@ -1487,7 +1541,7 @@
     <image>Yoko Tsuno - L'Or du Rhin.jpg</image>
   </comic>
   <comic>
-    <date>2001-xx-xx</date>
+    <date>2001-??-??</date>
     <writer>Roger Leloup</writer>
     <artist>Roger Leloup</artist>
     <colorist>Studio Leonardo</colorist>
@@ -1496,7 +1550,7 @@
     <image>Yoko Tsuno - Les Exilés de Kifa.jpg</image>
   </comic>
   <comic>
-    <date>2001-xx-xx</date>
+    <date>2001-??-??</date>
     <writer>Roger Leloup</writer>
     <artist>Roger Leloup</artist>
     <colorist>Studio Leonardo</colorist>
@@ -1505,7 +1559,7 @@
     <image>Yoko Tsuno - Le Matin du monde.jpg</image>
   </comic>
   <comic>
-    <date>2001-xx-xx</date>
+    <date>2001-??-??</date>
     <writer>Roger Leloup</writer>
     <artist>Roger Leloup</artist>
     <colorist>Studio Leonardo</colorist>
@@ -1514,7 +1568,7 @@
     <image>Yoko Tsuno - Le Dragon de Hong Kong.jpg</image>
   </comic>
   <comic>
-    <date>2001-xx-xx</date>
+    <date>2001-??-??</date>
     <writer>Roger Leloup</writer>
     <artist>Roger Leloup</artist>
     <colorist>Studio Leonardo</colorist>
@@ -1523,7 +1577,7 @@
     <image>Yoko Tsuno - Le Canon de Kra.jpg</image>
   </comic>
   <comic>
-    <date>2001-xx-xx</date>
+    <date>2001-??-??</date>
     <writer>Roger Leloup</writer>
     <artist>Roger Leloup</artist>
     <colorist>Studio Leonardo</colorist>
@@ -1532,7 +1586,7 @@
     <image>Yoko Tsuno - Le Feu de Wotan.jpg</image>
   </comic>
   <comic>
-    <date>2001-xx-xx</date>
+    <date>2001-??-??</date>
     <writer>Roger Leloup</writer>
     <artist>Roger Leloup</artist>
     <colorist>Studio Leonardo</colorist>
@@ -1541,7 +1595,7 @@
     <image>Yoko Tsuno - Les Archanges de Vinéa.jpg</image>
   </comic>
   <comic>
-    <date>2001-xx-xx</date>
+    <date>2001-??-??</date>
     <writer>Roger Leloup</writer>
     <artist>Roger Leloup</artist>
     <colorist>Studio Leonardo</colorist>
@@ -1550,7 +1604,7 @@
     <image>Yoko Tsuno - La Proie et l'Ombre.jpg</image>
   </comic>
   <comic>
-    <date>2001-xx-xx</date>
+    <date>2001-??-??</date>
     <writer>Roger Leloup</writer>
     <artist>Roger Leloup</artist>
     <colorist>Studio Leonardo</colorist>
@@ -1559,7 +1613,7 @@
     <image>Yoko Tsuno - La Spirale du temps.jpg</image>
   </comic>
   <comic>
-    <date>2001-xx-xx</date>
+    <date>2001-??-??</date>
     <writer>Roger Leloup</writer>
     <artist>Roger Leloup</artist>
     <colorist>Studio Leonardo</colorist>
@@ -1568,7 +1622,7 @@
     <image>Yoko Tsuno - La Lumière d'Ixo.jpg</image>
   </comic>
   <comic>
-    <date>2001-xx-xx</date>
+    <date>2001-??-??</date>
     <writer>Roger Leloup</writer>
     <artist>Roger Leloup</artist>
     <colorist>Studio Leonardo</colorist>
@@ -1577,7 +1631,7 @@
     <image>Yoko Tsuno - La Fille du vent.jpg</image>
   </comic>
   <comic>
-    <date>2001-xx-xx</date>
+    <date>2001-??-??</date>
     <writer>Roger Leloup</writer>
     <artist>Roger Leloup</artist>
     <colorist>Studio Leonardo</colorist>
@@ -1586,7 +1640,7 @@
     <image>Yoko Tsuno - Les Titans.jpg</image>
   </comic>
   <comic>
-    <date>2001-xx-xx</date>
+    <date>2001-??-??</date>
     <writer>Roger Leloup</writer>
     <artist>Roger Leloup</artist>
     <colorist>Studio Leonardo</colorist>
@@ -1595,7 +1649,7 @@
     <image>Yoko Tsuno - La Frontière de la vie.jpg</image>
   </comic>
   <comic>
-    <date>2001-xx-xx</date>
+    <date>2001-??-??</date>
     <writer>Roger Leloup</writer>
     <artist>Roger Leloup</artist>
     <colorist>Studio Leonardo</colorist>
@@ -1604,7 +1658,7 @@
     <image>Yoko Tsuno - Les Trois Soleils de Vinéa.jpg</image>
   </comic>
   <comic>
-    <date>2001-xx-xx</date>
+    <date>2001-??-??</date>
     <writer>Roger Leloup</writer>
     <artist>Roger Leloup</artist>
     <colorist>Studio Leonardo</colorist>
@@ -1613,7 +1667,7 @@
     <image>Yoko Tsuno - Message pour l'éternité.jpg</image>
   </comic>
   <comic>
-    <date>2001-xx-xx</date>
+    <date>2001-??-??</date>
     <writer>Roger Leloup</writer>
     <artist>Roger Leloup</artist>
     <colorist>Studio Leonardo</colorist>
@@ -1622,7 +1676,7 @@
     <image>Yoko Tsuno - Aventures électroniques.jpg</image>
   </comic>
   <comic>
-    <date>2001-xx-xx</date>
+    <date>2001-??-??</date>
     <writer>Roger Leloup</writer>
     <artist>Roger Leloup</artist>
     <colorist>Studio Leonardo</colorist>
@@ -1631,7 +1685,7 @@
     <image>Yoko Tsuno - La Forge de Vulcain.jpg</image>
   </comic>
   <comic>
-    <date>2001-xx-xx</date>
+    <date>2001-??-??</date>
     <writer>Roger Leloup</writer>
     <artist>Roger Leloup</artist>
     <colorist>Studio Leonardo</colorist>
@@ -1640,7 +1694,7 @@
     <image>Yoko Tsuno - L'Orgue du diable.jpg</image>
   </comic>
   <comic>
-    <date>2001-xx-xx</date>
+    <date>2001-??-??</date>
     <writer>Roger Leloup</writer>
     <artist>Roger Leloup</artist>
     <colorist>Studio Leonardo</colorist>
