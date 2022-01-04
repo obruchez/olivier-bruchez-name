@@ -2,6 +2,12 @@
 <podcasts created="2016-05-10">
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date>2022-01-02</date>
+    <name url="http://verybadwizards.com/">Very Bad Wizards</name>
+    <episode url="https://www.verybadwizards.com/227" number="227">A Terrible Master (David Foster Wallace's "This Is Water")</episode>
+    <comments>Following this episode, I've listened to "This Is Water" again. This is an excellent speech. We should all try to be a bit more compassionate and to give others the benefit of the doubt.</comments>
+  </podcast>
+  <podcast>
     <date>2021-12-22</date>
     <name url="https://podcast.ausha.co/violet">Violet - Le Podcast sur Prince et le Minneapolis Sound</name>
     <episode url="https://podcast.ausha.co/violet/emancipation-part-1-le-passe">Emancipation : Part 1, le passé</episode>
