@@ -59,7 +59,6 @@ Pretty much everything from [IMDb's Top 250](http://www.imdb.com/chart/top), [Le
 ## [Ingmar Bergman](http://www.imdb.com/name/nm0000005)
 
 * [Scenes from a Marriage](http://www.imdb.com/title/tt6725014/) (8.6)
-* [Autumn Sonata](http://www.imdb.com/title/tt0077711/) (8.3)
 * [Fanny and Alexander](http://www.imdb.com/title/tt0083922) (8.1)
 * [Cries and Whispers](http://www.imdb.com/title/tt0069467/) (8.1)
 * [The Virgin Spring](http://www.imdb.com/title/tt0053976/) (8.1)
@@ -124,7 +123,7 @@ Pretty much everything from [IMDb's Top 250](http://www.imdb.com/chart/top), [Le
 
 ## Misc
 
-* Percy Adlon, [Bagdad Cafe](http://www.imdb.com/title/tt0095801) (7.5)
+* Percy Adlon, [Bagdad Cafe](http://www.imdb.com/title/tt0095801) (7.4)
 * Ben Affleck, [Argo](http://www.imdb.com/title/tt1024648) (7.7) (recommended by colleagues)
 * Alejandro Amenábar, [Abre los ojos](http://www.imdb.com/title/tt0125659) (7.9) ([Vanilla Sky](http://www.imdb.com/title/tt0259711) is a remake of this movie)
 * Roy Andersson, [Songs from the Second Floor](http://www.imdb.com/title/tt0120263) (7.7) (already seen at the cinema)
