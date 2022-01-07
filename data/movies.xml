@@ -3,6 +3,16 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Checklist: add rating to IMDb -->
   <movie>
+    <date>2022-01-05</date>
+    <theater home="true"/>
+    <director>Jean-Jacques Annaud</director>
+    <title>The Name of the Rose</title>
+    <url>https://www.imdb.com/title/tt0091605/</url>
+    <rating>4.5</rating>
+    <comments>I was expecting a very simplified version of the story compared to the book, but the almost-happy ending still surprised me. I'm pretty sure I first saw this movie around 1994-95. If I remember correctly, it was shown to us by a canon/priest from the Abbey of Saint-Maurice d'Agaune.</comments>
+    <image>The Name of the Rose.jpg</image>
+  </movie>
+  <movie>
     <date>2022-01-03</date>
     <theater>Lux, Sion</theater>
     <director>Marie Amiguet &amp; Vincent Munier</director>
