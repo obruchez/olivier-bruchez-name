@@ -3,11 +3,19 @@
 <exhibitions created="2011-05-17">
     <introduction>A list of exhibitions I visited.</introduction>
     <exhibition>
+        <date>2021-01-05</date>
+        <name>Womanhouse 2021</name>
+        <museum>Le Manoir de la Ville de Martigny, Martigny, Switzerland</museum>
+        <rating>4.0</rating>
+        <comments>We watched a good part of <a href="https://fr.wikipedia.org/wiki/Maso_et_Miso_vont_en_bateau"><i>Maso et Miso vont en bateau</i></a>. The original TV show, <a href="https://www.youtube.com/watch?v=LHxBmO8A6YY"><i>Encore un jour et l'année de la femme, ouf ! C'est fini</i></a>, would probably be unthinkable nowadays and this is a good thing. We also spent 10-15 minutes listening to an interview with an anonymous woman. This is the kind of exhibitions that ask quite a lot of effort from the visitor.</comments>
+        <image>Le Manoir de la Ville de Martigny - Womanhouse 2021.jpg</image>
+    </exhibition>
+    <exhibition>
         <date>2021-12-12</date>
         <name>Van Gogh Alive</name>
         <museum>Beaulieu, Lausanne, Switzerland</museum>
         <rating>4.5</rating>
-        <comments>This might seem like a cliché, but I love Van Gogh. I've seen his paintings in Amsterdam and in various museums around the world. Seing them in a "multimedia experience"ß (whatever that means in 2021) is not the same as seing paintings on the walls of a museum, but it's nevertheless a good way to discover them. Everything was not perfect (the sound, in particular, could have been better), but this form of experimental museology is probably the way to go. In my opinion, art is best experienced in a dedicated physical space, but there are various ways to do it. Technology can help and I hope to see other similar experiences in the future.</comments>
+        <comments>This might seem like a cliché, but I love Van Gogh. I've seen his paintings in Amsterdam and in various museums around the world. Seing them in a "multimedia experience" (whatever that means in 2021) is not the same as seing paintings on the walls of a museum, but it's nevertheless a good way to discover them. Everything was not perfect (the sound, in particular, could have been better), but this form of experimental museology is probably the way to go. In my opinion, art is best experienced in a dedicated physical space, but there are various ways to do it. Technology can help and I hope to see other similar experiences in the future.</comments>
         <image>Van Gogh Alive.jpg</image>
     </exhibition>
     <exhibition>
