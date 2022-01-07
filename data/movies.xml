@@ -3,6 +3,16 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Checklist: add rating to IMDb -->
   <movie>
+    <date>2022-01-03</date>
+    <theater home="true"/>
+    <director>Marie Amiguet &amp; Vincent Munier</director>
+    <title>La panthère des neiges</title>
+    <url>https://www.imdb.com/title/tt11937680/</url>
+    <rating>4.5</rating>
+    <comments>The very first scene left me in a kind of depressed state: a baby yak getting violently killed (by wolves?) right in front of his mother. The whole scene was shot from very far, so you don't see much, but it left me with that idea that, no, nature is not only beautiful. It is also violent and cruel. Animals spend almost their whole lifes surviving, eating other animals, or being eaten. The rest of the movie is quite different. It is peaceful and beautiful. It inspires us to stop our crazy lives and reconnect (even only a little) with nature.</comments>
+    <image>La panthère des neiges.jpg</image>
+  </movie>
+  <movie>
     <date>2021-12-20</date>
     <theater home="true"/>
     <director>Ingmar Bergman</director>
