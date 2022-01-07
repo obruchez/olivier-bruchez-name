@@ -4,7 +4,7 @@
   <!-- Checklist: add rating to IMDb -->
   <movie>
     <date>2022-01-03</date>
-    <theater home="true"/>
+    <theater>Lux, Sion</theater>
     <director>Marie Amiguet &amp; Vincent Munier</director>
     <title>La panthère des neiges</title>
     <url>https://www.imdb.com/title/tt11937680/</url>
