@@ -2,6 +2,18 @@
 <books created="2006-08-20">
     <introduction>A list of books I read.</introduction>
     <book>
+        <date></date>
+        <title>Four Thousand Weeks</title>
+        <subtitle>Time Management for Mortals</subtitle>
+        <author>Oliver Burkeman</author>
+        <publishingyear>2021</publishingyear>
+        <rating></rating>
+        <url>https://books.google.com/books?id=WFP2DwAAQBAJ</url>
+        <notes description="Kindle highlights"></notes>
+        <comments></comments>
+        <image>Four Thousand Weeks.jpg</image>
+    </book>
+    <book>
         <date>2021-12-30</date>
         <title>L'Immortalité</title>
         <author>Milan Kundera</author>
