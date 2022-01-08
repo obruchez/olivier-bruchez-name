@@ -22,6 +22,13 @@
     <image>The Beatles - Get Back.jpg</image>
   </show>
   <show>
+    <date></date>
+    <name url="https://en.wikipedia.org/wiki/This_Is_Us_(TV_series)">This Is Us</name>
+    <series url="https://en.wikipedia.org/wiki/This_Is_Us_(season_6)" type="season">6</series>
+    <comments></comments>
+    <image>This Is Us.jpg</image>
+  </show>
+  <show>
     <date>2021-12-28</date>
     <name url="https://en.wikipedia.org/wiki/Sherlock_(TV_series)">Sherlock</name>
     <series url="https://en.wikipedia.org/wiki/Sherlock_(TV_series)#Series_3_(2014)" type="series">3</series>
