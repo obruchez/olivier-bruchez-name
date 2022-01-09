@@ -3,6 +3,16 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Checklist: add rating to IMDb -->
   <movie>
+    <date>2022-01-09</date>
+    <theater>Galeries, Lausanne</theater>
+    <director>Katerina Vykhodseva</director>
+    <title>Pirouette et le sapin de Noël</title>
+    <url>https://www.imdb.com/title/tt11450824/</url>
+    <rating>4.0</rating>
+    <comments>Our second time at the movie theater with our son. Preceded by 6 other short movies: <i>Lapin des neiges</i> (Lee Ruby &amp; Yi Hyeon-Jin), <i>Conte d’une nuit</i> (Maria Stepanova),  <i>La Moufle</i> (Roman Katchano), <a href="https://www.imdb.com/title/tt5425274/"><i>Lièvres des neiges</i></a> (Yelizaveta &amp; Polina Manokhina), <a href="https://www.imdb.com/title/tt12709252/"><i>Rita et Crocodile: La luge</i></a> (Siri Melchior), and <a href="https://www.imdb.com/title/tt4190354/"><i>Rita et Crocodile: Au ski</i></a> (Siri Melchior).</comments>
+    <image>Pirouette et le sapin de Noël.jpg</image>
+  </movie>
+  <movie>
     <date>2022-01-05</date>
     <theater home="true"/>
     <director>Jean-Jacques Annaud</director>
