@@ -2,6 +2,30 @@
 <podcasts created="2016-05-10">
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date></date>
+    <name url="https://podcast.ausha.co/violet">Violet - Le Podcast sur Prince et le Minneapolis Sound</name>
+    <episode url="https://podcast.ausha.co/violet/emancipation-part-3-le-futur">Emancipation : Part 3, le futur</episode>
+    <comments>Le futur, c'était vendre des bouts d'enregistrements live sur des cassettes audio, en 1997. Je m'en souviens comme si c'était hier. Prince était plein de contradictons. Il me manque beaucoup.</comments>
+  </podcast>
+  <podcast>
+    <date>2022-01-14</date>
+    <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
+    <episode url="https://www.samharris.org/podcasts/making-sense-episodes/272--on-disappointing-my-audience" number="272">On Disappointing My Audience</episode>
+    <comments>I'm very surprised that Sam takes NFTs seriously, but, again, he's smarter than me, so I don't know what to think anymore. Or maybe Sam is just subject to FOMO like everybody else.</comments>
+  </podcast>
+  <podcast>
+    <date>2022-01-14</date>
+    <name url="https://podcast.ausha.co/violet">Violet - Le Podcast sur Prince et le Minneapolis Sound</name>
+    <episode url="https://podcast.ausha.co/violet/emancipation-part-2-le-present">Emancipation : Part 2, le présent</episode>
+    <comments>Deuxième partie sur le premier (mais pas le dernier) triple album de Prince.</comments>
+  </podcast>
+  <podcast>
+    <date>2022-01-12</date>
+    <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
+    <episode url="https://www.samharris.org/podcasts/making-sense-episodes/270-what-have-we-learned-from-the-pandemic" number="270">What Have We Learned from the Pandemic? - A Conversation with Nicholas Christakis</episode>
+    <comments>I don't think I've learnt much from this discussion, but I was probably not the target audience of this episode.</comments>
+  </podcast>
+  <podcast>
     <date>2022-01-02</date>
     <name url="http://verybadwizards.com/">Very Bad Wizards</name>
     <episode url="https://www.verybadwizards.com/227" number="227">A Terrible Master (David Foster Wallace's "This Is Water")</episode>
