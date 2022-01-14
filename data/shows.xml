@@ -17,16 +17,16 @@
   </show>
   <show>
     <date></date>
-    <name url="https://en.wikipedia.org/wiki/The_Beatles:_Get_Back">The Beatles: Get Back</name>
-    <comments></comments>
-    <image>The Beatles - Get Back.jpg</image>
-  </show>
-  <show>
-    <date></date>
     <name url="https://en.wikipedia.org/wiki/This_Is_Us_(TV_series)">This Is Us</name>
     <series url="https://en.wikipedia.org/wiki/This_Is_Us_(season_6)" type="season">6</series>
     <comments></comments>
     <image>This Is Us.jpg</image>
+  </show>
+  <show>
+    <date>2022-01-14</date>
+    <name url="https://en.wikipedia.org/wiki/The_Beatles:_Get_Back">The Beatles: Get Back</name>
+    <comments>A long (almost 8 hours) but fantastic documentary.</comments>
+    <image>The Beatles - Get Back.jpg</image>
   </show>
   <show>
     <date>2021-12-28</date>
