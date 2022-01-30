@@ -9,6 +9,30 @@
     <actor></actor>
   -->
   <play>
+    <date>2022-01-21</date>
+    <location>Pulloff Théâtres, Lausanne, Switzerland</location>
+    <name>Les Seigneurs des nanos</name>
+    <author>Evelyne Knecht</author>
+    <director>Evelyne Knecht</director>
+    <actor>Catia Machado</actor>
+    <actor>Jean-Marc Hérouin</actor>
+    <actor>Nicolas Ruegg</actor>
+    <rating>4.75</rating>
+    <comments>Notre premier retour au Pulloff depuis 2018. Ça fait du bien. Un questionnement intelligent - plus qu'une réponse - par rapport au deep learning, aux réseaux sociaux, à la réalité virtuelle, au transhumanisme, à notre dépendance croissante à internet et à l'électricité, etc. C'est la première fois que je vois une pièce de théâtre mentionnant le resvératrol. L'influence de Kurzweil, sans doute ? L'ambiance est celle d'une dystopie, mais les thèmes sont pourtant tous contemporains. Il ne s'agit pas de science-fiction. On en ressort donc un peu secoué.</comments>
+    <image>Lucrèce Borgia.png</image>
+    <!--
+	scénographie et vidéos : Violaine Knecht
+	création lumière : Estelle Becker
+	musiques et bruitages : Emile Schaffner
+	costumes : Naomi Purro
+	maquillages : Viviane Lima-Chollet
+	régie : Victor Hunziker
+	administration : Cléo Morreale
+	photos : Mercedes Riedy
+    -->
+  </play>
+
+  <play>
     <date>2021-08-14</date>
     <location>Carrière des Andonces, St-Triphon, Switzerland</location>
     <name>Sektor1</name>
