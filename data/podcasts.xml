@@ -2,6 +2,12 @@
 <podcasts created="2016-05-10">
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date>2022-01-26</date>
+    <name url="https://forkeepspodcast.com/">For Keeps</name>
+    <episode url="https://forkeepspodcast.com/76-archiving-prince-with-sound-engineer-susan-rogers" number="76">Archiving Prince, with Sound Engineer Susan Rogers</episode>
+    <comments>I could listen to Susan tell the same stories over and over. She's fantastic.</comments>
+  </podcast>
+  <podcast>
     <date>2022-01-24</date>
     <name url="https://peterattiamd.com/podcast/">The Peter Attia Drive Podcast</name>
     <episode url="https://peterattiamd.com/paulconti3/" number="190">Paul Conti, M.D.: How to heal from trauma and break the cycle of shame</episode>
