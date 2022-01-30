@@ -2,6 +2,12 @@
 <podcasts created="2016-05-10">
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date>2022-01-28</date>
+    <name url="https://nutritionfacts.org/audio/">Nutrition Facts with Dr. Greger</name>
+    <episode url="https://nutritionfacts.org/audio/alzheimers-prevention/">Alzheimer’s Prevention</episode>
+    <comments>Blood cholesterol seems to be a predictor for Alzheimer’s. Avoid meat. Turmeric might be useful (but not curcumin?).</comments>
+  </podcast>
+  <podcast>
     <date>2022-01-</date>
     <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
     <episode url="https://www.samharris.org/podcasts/making-sense-episodes/271-earning-to-give" number="271">Earning to Give - A Conversation with Sam Bankman-Fried</episode>
