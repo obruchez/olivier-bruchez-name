@@ -2,6 +2,12 @@
 <podcasts created="2016-05-10">
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date>2022-01-21</date>
+    <name url="https://www.foundmyfitness.com/episodes">FoundMyFitness</name>
+    <episode url="https://www.foundmyfitness.com/episodes/ashley-mason" number="67">Dr. Ashley Mason on Drug-free Approaches for Treating Depression, Insomnia, and Overeating</episode>
+    <comments><a href="https://podcastnotes.org/found-my-fitness/067-dr-ashley-mason-on-drug-free-approaches-for-treating-depression-insomnia-and-overeating-found-my-fitness-with-dr-rhonda-patrick/">Sauna could be a good way to get physical and mental health benefits of exercise without actually exercising."</a> Is it useful if you exercise regularly, though (i.e. is there a synergistic effect)?</comments>
+  </podcast>
+  <podcast>
     <date>2022-01-19</date>
     <name url="https://podcast.ausha.co/violet">Violet - Le Podcast sur Prince et le Minneapolis Sound</name>
     <episode url="https://podcast.ausha.co/violet/emancipation-part-3-le-futur">Emancipation : Part 3, le futur</episode>
