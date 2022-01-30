@@ -3,6 +3,16 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Checklist: add rating to IMDb -->
   <movie>
+    <date>2022-01-28</date>
+    <theater home="true"/>
+    <director>Alfred Hitchcock</director>
+    <title>Dial M for Murder</title>
+    <url>https://www.imdb.com/title/tt0046912/</url>
+    <rating>4.75</rating>
+    <comments>My sixth Alfred Hitchcock movie (at least). A straight, simple story, almost taking place in a single location (like a play).</comments>
+    <image>Dial M for Murder.jpg</image>
+  </movie>
+  <movie>
     <date>2022-01-22</date>
     <theater home="true"/>
     <director>John Sturges</director>
