@@ -7,6 +7,14 @@
   -->
   <introduction>A list of concerts I went to.</introduction>
   <concert>
+    <date>2022-01-22</date>
+    <location>Théâtre de Beausobre, Morges, Switzerland</location>
+    <musician inst="vocals, guitar, percussions" main="true">Henri Dès</musician>
+    <musician inst="bass">?</musician>
+    <rating>4.5</rating>
+    <comments>Our son's first "real" concert. That was fun.</comments>
+  </concert>
+  <concert>
     <date>2021-10-23</date>
     <location>Chorus, Lausanne, Switzerland</location>
     <musician inst="cornet, vocals" main="true">Médéric Collignon</musician>
