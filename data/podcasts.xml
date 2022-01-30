@@ -2,6 +2,12 @@
 <podcasts created="2016-05-10">
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date>2022-01-</date>
+    <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
+    <episode url="https://www.samharris.org/podcasts/making-sense-episodes/271-earning-to-give" number="271">Earning to Give - A Conversation with Sam Bankman-Fried</episode>
+    <comments>Everybody should give to charities. The richest among us (billionaires, obviously, but millionaires as well) should give a lot. This is morally obvious nowadays. My only problem when listening to Sam Harris talk about money, happiness, effective altruism, etc. is that he doesn't seem to understand what it means not to be rich (as he probably has a lot of money himself and a lot of rich friends). This is a bit off-putting. Also, I'm not convinced that Sam Bankman-Fried created something useful for society. More speculation? More rich people getting richer? Where's the real value is that? This is not the way to go.</comments>
+  </podcast>
+  <podcast>
     <date>2022-01-26</date>
     <name url="https://forkeepspodcast.com/">For Keeps</name>
     <episode url="https://forkeepspodcast.com/76-archiving-prince-with-sound-engineer-susan-rogers" number="76">Archiving Prince, with Sound Engineer Susan Rogers</episode>
