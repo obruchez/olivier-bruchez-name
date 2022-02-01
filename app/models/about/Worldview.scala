@@ -8,13 +8,14 @@ import scala.xml.{Node, XML}
 import util.Date._
 import util._
 
-case class WorldviewPosition(summary: HtmlContent,
-                             details: HtmlContent,
-                             dateAdded: Partial,
-                             override val itemSlug: Option[String] = None,
-                             override val itemUrl: Option[String] = None,
-                             override val next: Boolean = false)
-    extends ListItem(dateAdded, summary, itemSlug, itemUrl) {
+case class WorldviewPosition(
+    summary: HtmlContent,
+    details: HtmlContent,
+    dateAdded: Partial,
+    override val itemSlug: Option[String] = None,
+    override val itemUrl: Option[String] = None,
+    override val next: Boolean = false
+) extends ListItem(dateAdded, summary, itemSlug, itemUrl) {
   type T = WorldviewPosition
 
   override def withNext(next: Boolean): WorldviewPosition = copy(next = next)
@@ -33,24 +34,29 @@ object WorldviewPosition {
   }
 }
 
-case class WorldviewCategory(description: HtmlContent,
-                             worldviewPositions: Seq[WorldviewPosition],
-                             slug: String)
+case class WorldviewCategory(
+    description: HtmlContent,
+    worldviewPositions: Seq[WorldviewPosition],
+    slug: String
+)
 
 object WorldviewCategory {
   def apply(rootNode: Node): Try[WorldviewCategory] = Try {
     val worldviewPositionsSeq = (rootNode \\ "position").map(WorldviewPosition(_).get)
 
-    WorldviewCategory(description = MarkdownContent(rootNode \@ "description").toHtmlContent.get,
-                      worldviewPositions = worldviewPositionsSeq,
-                      slug = (rootNode \@ "slug").trim)
+    WorldviewCategory(
+      description = MarkdownContent(rootNode \@ "description").toHtmlContent.get,
+      worldviewPositions = worldviewPositionsSeq,
+      slug = (rootNode \@ "slug").trim
+    )
   }
 }
 
-case class Worldview(override val introduction: Option[Introduction],
-                     worldviewCategories: Seq[WorldviewCategory],
-                     references: Seq[HtmlContent])
-    extends Cacheable {
+case class Worldview(
+    override val introduction: Option[Introduction],
+    worldviewCategories: Seq[WorldviewCategory],
+    references: Seq[HtmlContent]
+) extends Cacheable {
   override val listItems =
     worldviewCategories.flatMap(_.worldviewPositions).sortBy(_.dateAdded.yyyymmddString).reverse
 }

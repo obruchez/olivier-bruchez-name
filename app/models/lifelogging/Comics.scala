@@ -8,24 +8,26 @@ import scala.util.Try
 import scala.xml.{Node, XML}
 import util._
 
-case class Comic(override val date: Partial,
-                 writer: Option[String],
-                 artist: Option[String],
-                 colorist: Option[String],
-                 series: Option[String],
-                 seriesUrl: Option[URL],
-                 volume: String,
-                 volumeNumber: Option[Int],
-                 volumeUrl: Option[URL],
-                 comments: Option[HtmlContent],
-                 override val itemSlug: Option[String] = None,
-                 override val itemUrl: Option[String] = None,
-                 override val next: Boolean = false)
-    extends ListItem(
+case class Comic(
+    override val date: Partial,
+    writer: Option[String],
+    artist: Option[String],
+    colorist: Option[String],
+    series: Option[String],
+    seriesUrl: Option[URL],
+    volume: String,
+    volumeNumber: Option[Int],
+    volumeUrl: Option[URL],
+    comments: Option[HtmlContent],
+    override val itemSlug: Option[String] = None,
+    override val itemUrl: Option[String] = None,
+    override val next: Boolean = false
+) extends ListItem(
       date,
       HtmlContent.fromNonHtmlString(s"${Comics.authorSummary(writer, artist)} - $volume"),
       itemSlug,
-      itemUrl) {
+      itemUrl
+    ) {
   type T = Comic
 
   override def withNext(next: Boolean): Comic = copy(next = next)
@@ -53,9 +55,10 @@ object Comic {
   }
 }
 
-case class Comics(override val introduction: Option[Introduction],
-                  override val listItems: Seq[Comic])
-    extends Cacheable
+case class Comics(
+    override val introduction: Option[Introduction],
+    override val listItems: Seq[Comic]
+) extends Cacheable
 
 object Comics extends Fetchable {
   type C = Comics

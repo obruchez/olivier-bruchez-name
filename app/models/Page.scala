@@ -5,11 +5,13 @@ import play.api.mvc.Call
 
 import scala.concurrent.{ExecutionContext, Future}
 
-case class Page(title: String,
-                url: String,
-                icon: Option[String] = None,
-                fetchables: Seq[Fetchable] = Seq(),
-                groupChildren: Seq[PageGroup] = Seq()) {
+case class Page(
+    title: String,
+    url: String,
+    icon: Option[String] = None,
+    fetchables: Seq[Fetchable] = Seq(),
+    groupChildren: Seq[PageGroup] = Seq()
+) {
   def children: Seq[Page] = groupChildren.flatMap(_.pages)
 }
 
@@ -25,8 +27,9 @@ object Page {
   def apply(title: String, call: Call, icon: String, groupChildren: Seq[PageGroup]): Page =
     Page(title, call.url, icon = Some(icon), groupChildren = groupChildren)
 
-  def introductionsFromPages(pages: Seq[Page])(
-      implicit ec: ExecutionContext): Future[Seq[(Page, Option[Introduction])]] = {
+  def introductionsFromPages(
+      pages: Seq[Page]
+  )(implicit ec: ExecutionContext): Future[Seq[(Page, Option[Introduction])]] = {
     val sequenceOfFutures = for (page <- pages) yield {
       // Take only first fetchable into account
       val introductionFuture = page.fetchables.headOption match {

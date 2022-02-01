@@ -7,13 +7,14 @@ import _root_.twitter.Twitter
 import _root_.twitter.Twitter._
 import util._
 
-case class Tweet(override val date: ReadablePartial,
-                 content: String,
-                 reply: Boolean,
-                 override val itemSlug: Option[String] = None,
-                 override val itemUrl: Option[String] = None,
-                 override val next: Boolean = false)
-    extends ListItem(date, HtmlContent.fromNonHtmlString(content), itemSlug, itemUrl) {
+case class Tweet(
+    override val date: ReadablePartial,
+    content: String,
+    reply: Boolean,
+    override val itemSlug: Option[String] = None,
+    override val itemUrl: Option[String] = None,
+    override val next: Boolean = false
+) extends ListItem(date, HtmlContent.fromNonHtmlString(content), itemSlug, itemUrl) {
   type T = Tweet
 
   override def withNext(next: Boolean): Tweet = copy(next = next)
@@ -23,10 +24,12 @@ case class Tweet(override val date: ReadablePartial,
 
 object Tweet {
   def apply(status: ExtendedStatus): Tweet =
-    Tweet(date = new LocalDateTime(status.status.getCreatedAt),
-          content = status.status.getText,
-          reply = status.isReply,
-          itemUrl = Some(status.url.toString))
+    Tweet(
+      date = new LocalDateTime(status.status.getCreatedAt),
+      content = status.status.getText,
+      reply = status.isReply,
+      itemUrl = Some(status.url.toString)
+    )
 }
 
 case class Tweets(profile: String, override val listItems: Seq[Tweet]) extends Cacheable {
@@ -43,8 +46,10 @@ object Tweets extends Fetchable {
   override val icon = Some("fa-twitter")
 
   override def fetch(): Try[Tweets] = Try {
-    Tweets(profile = Twitter.userDescription,
-           // @todo how many tweets do we really want to fetch?
-           listItems = Twitter.latestStatuses(count = 1000).map(Tweet(_)))
+    Tweets(
+      profile = Twitter.userDescription,
+      // @todo how many tweets do we really want to fetch?
+      listItems = Twitter.latestStatuses(count = 1000).map(Tweet(_))
+    )
   }
 }

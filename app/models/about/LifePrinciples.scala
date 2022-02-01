@@ -10,15 +10,18 @@ case class LifePrinciple(summary: HtmlContent, details: HtmlContent, slug: Strin
 
 object LifePrinciple {
   def apply(rootNode: Node): Try[LifePrinciple] = Try {
-    LifePrinciple(summary = MarkdownContent(rootNode \@ "summary").toHtmlContent.get,
-                  details = MarkdownContent(rootNode.text).toHtmlContent.get,
-                  slug = rootNode \@ "slug")
+    LifePrinciple(
+      summary = MarkdownContent(rootNode \@ "summary").toHtmlContent.get,
+      details = MarkdownContent(rootNode.text).toHtmlContent.get,
+      slug = rootNode \@ "slug"
+    )
   }
 }
 
-case class LifePrinciples(override val introduction: Option[Introduction],
-                          lifePrinciples: Seq[LifePrinciple])
-    extends Cacheable {
+case class LifePrinciples(
+    override val introduction: Option[Introduction],
+    lifePrinciples: Seq[LifePrinciple]
+) extends Cacheable {
   def indexFromColumnNumber(columnNumber: Int, columnCount: Int): Int =
     math.round((columnNumber.toDouble / columnCount.toDouble) * lifePrinciples.size).toInt
 }

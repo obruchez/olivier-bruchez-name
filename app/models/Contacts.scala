@@ -1,19 +1,22 @@
 package models
 
+import util._
+
 import java.net.URL
 import scala.util.Try
 import scala.xml.{Node, XML}
-import util._
 
 case class Contact(name: String, url: String, urlDescription: String, icon: String)
 
 object Contact {
   def apply(rootNode: Node): Try[Contact] = Try {
     val urlNode = rootNode \\ "url"
-    Contact(name = (rootNode \\ "name").text.trim,
-            url = urlNode.text.trim,
-            urlDescription = urlNode \@ "description",
-            icon = (rootNode \\ "icon").text.trim)
+    Contact(
+      name = (rootNode \\ "name").text.trim,
+      url = urlNode.text.trim,
+      urlDescription = urlNode \@ "description",
+      icon = (rootNode \\ "icon").text.trim
+    )
   }
 }
 

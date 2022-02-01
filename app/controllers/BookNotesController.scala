@@ -9,9 +9,10 @@ import javax.inject.Inject
 import scala.concurrent.{ExecutionContext, Future}
 import scala.util._
 
-class BookNotesController @Inject()(implicit ec: ExecutionContext,
-                                    val controllerComponents: ControllerComponents)
-    extends BaseController {
+class BookNotesController @Inject() (implicit
+    ec: ExecutionContext,
+    val controllerComponents: ControllerComponents
+) extends BaseController {
   def bookNotes(slug: String) = Action.async {
     for {
       books <- Cache.get(Books)
@@ -52,10 +53,12 @@ class BookNotesController @Inject()(implicit ec: ExecutionContext,
         else
           s"${book.title} (${bookNotes.description.getOrElse(BookNotes.DefaultDescription)})"
 
-      Page(title = pageTitle,
-           url = routes.BookNotesController.bookNotes(bookNotes.slug).url,
-           icon = Sitemap.books.icon,
-           fetchables = Seq(bookNotes.fileSource))
+      Page(
+        title = pageTitle,
+        url = routes.BookNotesController.bookNotes(bookNotes.slug).url,
+        icon = Sitemap.books.icon,
+        fetchables = Seq(bookNotes.fileSource)
+      )
     }
   }
 }

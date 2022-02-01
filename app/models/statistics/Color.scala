@@ -8,15 +8,18 @@ case class Color(red: Int, green: Int, blue: Int) {
   def html: String = f"#$red%02X$green%02X$blue%02X"
 
   def lighterOrDarker(factor: Double): Color =
-    Color(red = Color.lighterOrDarker(red, factor),
-          green = Color.lighterOrDarker(green, factor),
-          blue = Color.lighterOrDarker(blue, factor))
+    Color(
+      red = Color.lighterOrDarker(red, factor),
+      green = Color.lighterOrDarker(green, factor),
+      blue = Color.lighterOrDarker(blue, factor)
+    )
 
   def distance(that: Color): Double =
     math.sqrt(
       math.pow(this.red - that.red, 2.0) +
         math.pow(this.green - that.green, 2.0) +
-        math.pow(this.blue - that.blue, 2.0))
+        math.pow(this.blue - that.blue, 2.0)
+    )
 }
 
 object Color {
@@ -34,8 +37,8 @@ object Color {
 
   def colors(count: Int): Seq[Color] =
     algorithm1Colors(count = count)
-  //algorithm2Colors(baseColor = Color("5DA5DA"), count = count)
-  //algorithm3Colors(baseColor = Color("5DA5DA"), count = count)
+  // algorithm2Colors(baseColor = Color("5DA5DA"), count = count)
+  // algorithm3Colors(baseColor = Color("5DA5DA"), count = count)
 
   private def lighterOrDarker(colorValue: Int, factor: Double): Int = {
     assert(colorValue >= 0 && colorValue <= 255)
@@ -76,8 +79,10 @@ object Color {
       } else {
         val lastAddedColor = acc.head
         val mostDistantInRemaining = mostDistant(lastAddedColor, remaining)
-        contrastedColors(mostDistantInRemaining :: acc,
-                         remaining.filterNot(_ == mostDistantInRemaining))
+        contrastedColors(
+          mostDistantInRemaining :: acc,
+          remaining.filterNot(_ == mostDistantInRemaining)
+        )
       }
 
     orderedColors.toList match {
@@ -94,12 +99,12 @@ object Color {
     val baseHue :: baseSaturation :: baseBrightness :: Nil =
       AwtColor.RGBtoHSB(baseColor.red, baseColor.green, baseColor.blue, null).toList
 
-    //println(s"baseHue=$baseHue, baseSaturation=$baseSaturation, baseBrightness=$baseBrightness")
+    // println(s"baseHue=$baseHue, baseSaturation=$baseSaturation, baseBrightness=$baseBrightness")
 
     for {
       index <- 0 until count
       hue = (baseHue.toDouble + index.toDouble / count.toDouble * 3.0 / 3.0) % 1.0
-      //_ = { println(s" hue = $hue")}
+      // _ = { println(s" hue = $hue")}
       rgb = AwtColor.HSBtoRGB(hue.toFloat, baseSaturation, baseBrightness)
       awtColor = new AwtColor(rgb)
     } yield Color(awtColor.getRed, awtColor.getGreen, awtColor.getBlue)

@@ -48,8 +48,10 @@ class Cache extends Actor with Logging {
     case GetCachingTime(fetchable) =>
       logger.debug(s"GetCachingTime(${fetchable.name})")
 
-      sender() ! CachingTimeResult(fetchable,
-                                   cachingTime = cachedValues.get(fetchable).map(_.cachingTime))
+      sender() ! CachingTimeResult(
+        fetchable,
+        cachingTime = cachedValues.get(fetchable).map(_.cachingTime)
+      )
   }
 }
 

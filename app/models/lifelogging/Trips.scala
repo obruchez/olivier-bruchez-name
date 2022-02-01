@@ -8,19 +8,21 @@ import scala.util.Try
 import scala.xml.{Node, XML}
 import util._
 
-case class Trip(from: Partial,
-                to: Partial,
-                place: String,
-                pictures: Seq[Pictures],
-                comments: Option[HtmlContent],
-                override val itemSlug: Option[String] = None,
-                override val itemUrl: Option[String] = None,
-                override val next: Boolean = false)
-    extends ListItem(
+case class Trip(
+    from: Partial,
+    to: Partial,
+    place: String,
+    pictures: Seq[Pictures],
+    comments: Option[HtmlContent],
+    override val itemSlug: Option[String] = None,
+    override val itemUrl: Option[String] = None,
+    override val next: Boolean = false
+) extends ListItem(
       date = from,
       HtmlContent.fromNonHtmlString(s"${Date.intervalEnglishString(from, to)}: $place"),
       itemSlug,
-      itemUrl) {
+      itemUrl
+    ) {
   type T = Trip
 
   override def withNext(next: Boolean): Trip = copy(next = next)

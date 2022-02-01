@@ -1,10 +1,11 @@
 package models
 
 import com.github.rjeschke.txtmark._
+import util.FileType
+
 import java.net.URL
 import scala.io.{Codec, Source}
 import scala.util._
-import util.FileType
 
 case class MarkdownContent(lines: Seq[String]) extends FileContent(FileType.Markdown) {
   def withoutHeadingTitle: MarkdownContent = {
@@ -29,11 +30,14 @@ case class MarkdownContent(lines: Seq[String]) extends FileContent(FileType.Mark
     val indexOfContent = withoutHeadingTitle.lines.indexWhere(_.startsWith("## "))
 
     val (introductionLines, mainContentLines) =
-      if (indexOfContent >= 0)
-        (withoutHeadingTitle.lines.take(indexOfContent).dropWhile(_.trim.isEmpty),
-         withoutHeadingTitle.lines.drop(indexOfContent))
-      else
+      if (indexOfContent >= 0) {
+        (
+          withoutHeadingTitle.lines.take(indexOfContent).dropWhile(_.trim.isEmpty),
+          withoutHeadingTitle.lines.drop(indexOfContent)
+        )
+      } else {
         (withoutHeadingTitle.lines, Seq())
+      }
 
     val introductionHtmlOption =
       Some(introductionLines).filter(_.nonEmpty).map(MarkdownContent(_).toHtmlContent.get)
@@ -41,9 +45,12 @@ case class MarkdownContent(lines: Seq[String]) extends FileContent(FileType.Mark
       MarkdownContent(mainContentLines).toHtmlContent.get
         .withCssClassAddedToHeadings(heading = "h2", cssClass = MarkdownContent.HeadlineClass)
 
-    (introductionHtmlOption.map { html =>
-      Introduction(shortVersion = HtmlContent.fromNonHtmlString(""), fullVersion = html)
-    }, contentHtml)
+    (
+      introductionHtmlOption.map { html =>
+        Introduction(shortVersion = HtmlContent.fromNonHtmlString(""), fullVersion = html)
+      },
+      contentHtml
+    )
   }
 }
 

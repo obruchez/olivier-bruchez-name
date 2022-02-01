@@ -8,20 +8,23 @@ import scala.util.Try
 import scala.xml.{Node, XML}
 import util._
 
-case class Podcast(override val date: Partial,
-                   name: String,
-                   url: Option[URL],
-                   episodeName: String,
-                   episodeUrl: Option[URL],
-                   episodeNumber: Option[Int],
-                   comments: Option[HtmlContent],
-                   override val itemSlug: Option[String] = None,
-                   override val itemUrl: Option[String] = None,
-                   override val next: Boolean = false)
-    extends ListItem(date,
-                     HtmlContent.fromNonHtmlString(s"$name - $episodeName"),
-                     itemSlug,
-                     itemUrl) {
+case class Podcast(
+    override val date: Partial,
+    name: String,
+    url: Option[URL],
+    episodeName: String,
+    episodeUrl: Option[URL],
+    episodeNumber: Option[Int],
+    comments: Option[HtmlContent],
+    override val itemSlug: Option[String] = None,
+    override val itemUrl: Option[String] = None,
+    override val next: Boolean = false
+) extends ListItem(
+      date,
+      HtmlContent.fromNonHtmlString(s"$name - $episodeName"),
+      itemSlug,
+      itemUrl
+    ) {
   type T = Podcast
 
   override def withNext(next: Boolean): Podcast = copy(next = next)
@@ -46,9 +49,10 @@ object Podcast {
   }
 }
 
-case class Podcasts(override val introduction: Option[Introduction],
-                    override val listItems: Seq[Podcast])
-    extends Cacheable
+case class Podcasts(
+    override val introduction: Option[Introduction],
+    override val listItems: Seq[Podcast]
+) extends Cacheable
 
 object Podcasts extends Fetchable {
   type C = Podcasts

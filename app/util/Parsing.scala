@@ -18,7 +18,8 @@ object Parsing {
     val fullVersion = HtmlContent.fromHtmlString(introductions.map(_.htmlString).mkString(" "))
 
     shortVersionOption.map(shortVersion =>
-      Introduction(shortVersion = shortVersion, fullVersion = fullVersion))
+      Introduction(shortVersion = shortVersion, fullVersion = fullVersion)
+    )
   }
 
   def picturesFromNode(node: Node): Seq[Pictures] =

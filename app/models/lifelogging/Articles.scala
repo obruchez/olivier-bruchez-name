@@ -8,15 +8,16 @@ import scala.util.Try
 import scala.xml.{Node, XML}
 import util._
 
-case class Article(override val date: Partial,
-                   title: String,
-                   subtitle: Option[String],
-                   url: Option[URL],
-                   comments: Option[HtmlContent],
-                   override val itemSlug: Option[String] = None,
-                   override val itemUrl: Option[String] = None,
-                   override val next: Boolean = false)
-    extends ListItem(date, HtmlContent.fromNonHtmlString(s"$title"), itemSlug, itemUrl) {
+case class Article(
+    override val date: Partial,
+    title: String,
+    subtitle: Option[String],
+    url: Option[URL],
+    comments: Option[HtmlContent],
+    override val itemSlug: Option[String] = None,
+    override val itemUrl: Option[String] = None,
+    override val next: Boolean = false
+) extends ListItem(date, HtmlContent.fromNonHtmlString(s"$title"), itemSlug, itemUrl) {
   type T = Article
 
   override def withNext(next: Boolean): Article = copy(next = next)
@@ -38,9 +39,10 @@ object Article {
   }
 }
 
-case class Articles(override val introduction: Option[Introduction],
-                    override val listItems: Seq[Article])
-    extends Cacheable
+case class Articles(
+    override val introduction: Option[Introduction],
+    override val listItems: Seq[Article]
+) extends Cacheable
 
 object Articles extends Fetchable {
   type C = Articles

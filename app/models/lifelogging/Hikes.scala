@@ -8,13 +8,14 @@ import scala.util.Try
 import scala.xml.{Node, XML}
 import util._
 
-case class Hike(override val date: Partial,
-                place: String,
-                pictures: Seq[Pictures],
-                override val itemSlug: Option[String] = None,
-                override val itemUrl: Option[String] = None,
-                override val next: Boolean = false)
-    extends ListItem(date, HtmlContent.fromNonHtmlString(s"$place"), itemSlug, itemUrl) {
+case class Hike(
+    override val date: Partial,
+    place: String,
+    pictures: Seq[Pictures],
+    override val itemSlug: Option[String] = None,
+    override val itemUrl: Option[String] = None,
+    override val next: Boolean = false
+) extends ListItem(date, HtmlContent.fromNonHtmlString(s"$place"), itemSlug, itemUrl) {
   type T = Hike
 
   override def withNext(next: Boolean): Hike = copy(next = next)
@@ -24,9 +25,11 @@ case class Hike(override val date: Partial,
 
 object Hike {
   def apply(rootNode: Node): Try[Hike] = Try {
-    Hike(date = Parsing.dateFromString((rootNode \\ "date").text).get,
-         place = (rootNode \\ "place").text.trim,
-         pictures = Parsing.picturesFromNode(rootNode))
+    Hike(
+      date = Parsing.dateFromString((rootNode \\ "date").text).get,
+      place = (rootNode \\ "place").text.trim,
+      pictures = Parsing.picturesFromNode(rootNode)
+    )
   }
 }
 

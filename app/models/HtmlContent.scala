@@ -1,10 +1,11 @@
 package models
 
-import java.net.URL
 import play.twirl.api.Html
+import util.FileType
+
+import java.net.URL
 import scala.io.{Codec, Source}
 import scala.util.Try
-import util.FileType
 
 case class HtmlContent(htmlString: String) extends FileContent(FileType.Html) {
   def withoutRootParagraph: HtmlContent = {
@@ -26,8 +27,10 @@ case class HtmlContent(htmlString: String) extends FileContent(FileType.Html) {
 
   def withCssClassAddedToHeadings(heading: String, cssClass: String): HtmlContent = {
     val quotes = "\""
-    val updatedString = htmlString.replaceAll(s"(<$heading>.*</$heading>)",
-                                              s"<div class=$quotes$cssClass$quotes>$$1</div>")
+    val updatedString = htmlString.replaceAll(
+      s"(<$heading>.*</$heading>)",
+      s"<div class=$quotes$cssClass$quotes>$$1</div>"
+    )
 
     copy(htmlString = updatedString)
   }

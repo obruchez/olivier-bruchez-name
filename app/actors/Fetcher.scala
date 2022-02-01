@@ -10,11 +10,10 @@ sealed trait FetcherMessage
 case class Fetch(fetchable: Fetchable) extends FetcherMessage
 
 class Fetcher(cache: ActorRef) extends Actor with Logging {
-  def receive = {
-    case Fetch(fetchable) =>
-      logger.info(s"Fetch(${fetchable.name})...")
+  def receive = { case Fetch(fetchable) =>
+    logger.info(s"Fetch(${fetchable.name})...")
 
-      fetch(fetchable)
+    fetch(fetchable)
   }
 
   private def fetch(fetchable: Fetchable): Unit = {

@@ -8,21 +8,23 @@ import scala.util.Try
 import scala.xml.{Node, XML}
 import util._
 
-case class Show(override val date: Partial,
-                name: String,
-                url: URL,
-                series: Option[String],
-                seriesUrl: Option[URL],
-                seriesType: Option[SeriesType],
-                comments: Option[HtmlContent],
-                override val itemSlug: Option[String] = None,
-                override val itemUrl: Option[String] = None,
-                override val next: Boolean = false)
-    extends ListItem(
+case class Show(
+    override val date: Partial,
+    name: String,
+    url: URL,
+    series: Option[String],
+    seriesUrl: Option[URL],
+    seriesType: Option[SeriesType],
+    comments: Option[HtmlContent],
+    override val itemSlug: Option[String] = None,
+    override val itemUrl: Option[String] = None,
+    override val next: Boolean = false
+) extends ListItem(
       date,
       HtmlContent.fromNonHtmlString(name + SeriesType.fullTitleSuffix(series, seriesType)),
       itemSlug,
-      itemUrl) {
+      itemUrl
+    ) {
   type T = Show
 
   override def withNext(next: Boolean): Show = copy(next = next)

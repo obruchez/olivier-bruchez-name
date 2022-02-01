@@ -11,15 +11,16 @@ import util._
 
 import scala.util.Try
 
-case class Post(override val date: ReadablePartial,
-                title: String,
-                content: HtmlContent,
-                relativePermalink: String,
-                originalUrl: String,
-                override val itemSlug: Option[String] = None,
-                override val itemUrl: Option[String] = None,
-                override val next: Boolean = false)
-    extends ListItem(date, HtmlContent.fromNonHtmlString(title), itemSlug, itemUrl) {
+case class Post(
+    override val date: ReadablePartial,
+    title: String,
+    content: HtmlContent,
+    relativePermalink: String,
+    originalUrl: String,
+    override val itemSlug: Option[String] = None,
+    override val itemUrl: Option[String] = None,
+    override val next: Boolean = false
+) extends ListItem(date, HtmlContent.fromNonHtmlString(title), itemSlug, itemUrl) {
   type T = Post
 
   override def withNext(next: Boolean): Post = copy(next = next)
@@ -32,7 +33,7 @@ object Post {
     Post(
       date = bloggerPost.publicationDate,
       title = bloggerPost.title,
-      //content = bloggerPost.content,
+      // content = bloggerPost.content,
       content = HtmlContent(cleanHtml(bloggerPost.content.htmlString)),
       relativePermalink = bloggerPost.relativePermalink,
       originalUrl = bloggerPost.url,
@@ -56,7 +57,7 @@ object Post {
       } else {
         element.tagName("p")
       }
-      //println(s"element.children().size = ${element.children().size} -> ${element.children().map(_.tagName()).mkString(", ")}")
+      // println(s"element.children().size = ${element.children().size} -> ${element.children().map(_.tagName()).mkString(", ")}")
     }
 
     /*
@@ -73,9 +74,9 @@ object Post {
 
     val out = cleanDoc.outerHtml
 
-    //println("=" * 80)
-    //println(out)
-    //println("=" * 80)
+    // println("=" * 80)
+    // println(out)
+    // println("=" * 80)
 
     out
   }
@@ -104,7 +105,8 @@ object Posts extends Fetchable {
 
     Posts(
       // @todo how many posts do we really want to fetch? (500 is actually the maximum allowed)
-      listItems = Blogger.latestPosts(count = MaxPostCount).map(Post(_)))
-    //listItems = Blogger.latestPosts(count = 1).map(Post(_)))
+      listItems = Blogger.latestPosts(count = MaxPostCount).map(Post(_))
+    )
+    // listItems = Blogger.latestPosts(count = 1).map(Post(_)))
   }
 }

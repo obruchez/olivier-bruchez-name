@@ -16,10 +16,11 @@ import scala.concurrent.{ExecutionContext, Future}
 
 object Application
 
-class Application @Inject()(implicit ec: ExecutionContext,
-                            val controllerComponents: ControllerComponents,
-                            val configurationSetter: ConfigurationSetter)
-    extends BaseController {
+class Application @Inject() (implicit
+    ec: ExecutionContext,
+    val controllerComponents: ControllerComponents,
+    val configurationSetter: ConfigurationSetter
+) extends BaseController {
   def home = Action.async {
     val MaxItemCount = 5
 
@@ -138,7 +139,8 @@ class Application @Inject()(implicit ec: ExecutionContext,
     Cache.get(MoviesToWatch) map { moviesToWatch =>
       Ok(
         views.html
-          .markdown(Sitemap.moviesToWatch, moviesToWatch.introduction, moviesToWatch.content))
+          .markdown(Sitemap.moviesToWatch, moviesToWatch.introduction, moviesToWatch.content)
+      )
     }
   }
 

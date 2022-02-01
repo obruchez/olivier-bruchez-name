@@ -8,9 +8,10 @@ import play.api.mvc._
 import javax.inject.Inject
 import scala.concurrent.{ExecutionContext, Future}
 
-class CourseCertificatesController @Inject()(implicit ec: ExecutionContext,
-                                             val controllerComponents: ControllerComponents)
-    extends BaseController {
+class CourseCertificatesController @Inject() (implicit
+    ec: ExecutionContext,
+    val controllerComponents: ControllerComponents
+) extends BaseController {
   def courseCertificate(slug: String) = Action.async {
     for {
       courses <- Cache.get(Courses)

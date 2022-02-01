@@ -1,8 +1,9 @@
 package models
 
-import java.net.URL
 import models.ListItems._
 import org.joda.time.Duration
+
+import java.net.URL
 import scala.concurrent.duration._
 import scala.util.Try
 
@@ -10,12 +11,14 @@ case class Introduction(shortVersion: HtmlContent, fullVersion: HtmlContent)
 
 object Introduction {
   def apply(string: String): Introduction =
-    Introduction(shortVersion = HtmlContent.fromNonHtmlString(string),
-                 fullVersion = HtmlContent.fromNonHtmlString(string))
+    Introduction(
+      shortVersion = HtmlContent.fromNonHtmlString(string),
+      fullVersion = HtmlContent.fromNonHtmlString(string)
+    )
 }
 
 trait Cacheable {
-  //def sizeInBytes: Int
+  // def sizeInBytes: Int
   def introduction: Option[Introduction] = None
   def listItems: Seq[ListItem] = Seq()
   def listItemUrlsFromListItemSlugs: Boolean = true

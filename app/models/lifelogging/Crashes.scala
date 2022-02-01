@@ -8,17 +8,20 @@ import scala.util.Try
 import scala.xml.{Node, XML}
 import util._
 
-case class Crash(override val date: Partial,
-                 manufacturer: String,
-                 model: String,
-                 comments: Option[HtmlContent],
-                 override val itemSlug: Option[String] = None,
-                 override val itemUrl: Option[String] = None,
-                 override val next: Boolean = false)
-    extends ListItem(date,
-                     HtmlContent.fromNonHtmlString(s"$manufacturer - $model"),
-                     itemSlug,
-                     itemUrl) {
+case class Crash(
+    override val date: Partial,
+    manufacturer: String,
+    model: String,
+    comments: Option[HtmlContent],
+    override val itemSlug: Option[String] = None,
+    override val itemUrl: Option[String] = None,
+    override val next: Boolean = false
+) extends ListItem(
+      date,
+      HtmlContent.fromNonHtmlString(s"$manufacturer - $model"),
+      itemSlug,
+      itemUrl
+    ) {
   type T = Crash
 
   override def withNext(next: Boolean): Crash = copy(next = next)
@@ -37,9 +40,10 @@ object Crash {
   }
 }
 
-case class Crashes(override val introduction: Option[Introduction],
-                   override val listItems: Seq[Crash])
-    extends Cacheable
+case class Crashes(
+    override val introduction: Option[Introduction],
+    override val listItems: Seq[Crash]
+) extends Cacheable
 
 object Crashes extends Fetchable {
   type C = Crashes

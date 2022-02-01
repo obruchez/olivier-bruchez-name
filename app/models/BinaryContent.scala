@@ -1,9 +1,10 @@
 package models
 
+import util.FileType
+
 import java.net.URL
 import scala.io.{Codec, Source}
 import scala.util.Try
-import util.FileType
 
 case class BinaryContent(content: Array[Byte], override val fileType: FileType)
     extends FileContent(fileType)

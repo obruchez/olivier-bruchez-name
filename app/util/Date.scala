@@ -32,7 +32,9 @@ object Date {
       val fromDateTimeFields = DateTimeFields(readablePartial)
       val toDateTimeFields = DateTimeFields(to)
 
-      if (fromDateTimeFields.yyyymmddValuesAllDefined && toDateTimeFields.yyyymmddValuesAllDefined) {
+      if (
+        fromDateTimeFields.yyyymmddValuesAllDefined && toDateTimeFields.yyyymmddValuesAllDefined
+      ) {
         if (fromDateTimeFields.year == toDateTimeFields.year) {
           if (fromDateTimeFields.month == toDateTimeFields.month) {
             if (fromDateTimeFields.dayOfMonth == toDateTimeFields.dayOfMonth) {
@@ -74,9 +76,11 @@ object Date {
     def futureDate: Boolean = {
       val now = new LocalDate
 
-      val fieldsToCompare = List(DateTimeFieldType.year(),
-                                 DateTimeFieldType.monthOfYear(),
-                                 DateTimeFieldType.dayOfMonth())
+      val fieldsToCompare = List(
+        DateTimeFieldType.year(),
+        DateTimeFieldType.monthOfYear(),
+        DateTimeFieldType.dayOfMonth()
+      )
 
       def nowBefore(fieldsLeftToCompare: List[DateTimeFieldType]): Boolean =
         fieldsLeftToCompare match {

@@ -32,10 +32,12 @@ object Test {
     val clientSecrets = (new GoogleClientSecrets).setInstalled(clientDetails)
 
     val flow =
-      new GoogleAuthorizationCodeFlow.Builder(httpTransport,
-                                              jsonFactory,
-                                              clientSecrets,
-                                              Collections.singleton(BloggerScopes.BLOGGER_READONLY))
+      new GoogleAuthorizationCodeFlow.Builder(
+        httpTransport,
+        jsonFactory,
+        clientSecrets,
+        Collections.singleton(BloggerScopes.BLOGGER_READONLY)
+      )
         .setDataStoreFactory(dataStoreFactory)
         .build()
 

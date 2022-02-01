@@ -18,10 +18,12 @@ object Sitemap {
   val lifePrinciples = Page(LifePrinciples, routes.Application.lifePrinciples)
   val worldview = Page(Worldview, routes.Application.worldview)
 
-  val about = Page("About",
-                   routes.Application.about,
-                   "fa-user",
-                   groupChildren = singlePageGroup(profile, lifePrinciples, worldview))
+  val about = Page(
+    "About",
+    routes.Application.about,
+    "fa-user",
+    groupChildren = singlePageGroup(profile, lifePrinciples, worldview)
+  )
 
   val articles = Page(Articles, routes.Application.articles)
   val books = Page(Books, routes.Application.books)
@@ -49,19 +51,22 @@ object Sitemap {
     "fa-list",
     groupChildren = Seq(
       PageGroup(
-        Seq(articles,
-            books,
-            comics,
-            concerts,
-            courses,
-            crashes,
-            exhibitions,
-            hikes,
-            movies,
-            plays,
-            podcasts,
-            shows,
-            trips)),
+        Seq(
+          articles,
+          books,
+          comics,
+          concerts,
+          courses,
+          crashes,
+          exhibitions,
+          hikes,
+          movies,
+          plays,
+          podcasts,
+          shows,
+          trips
+        )
+      ),
       PageGroup(Seq(booksToRead, moviesToWatch, tripsToTake)),
       PageGroup(Seq(statistics))
     )
@@ -72,31 +77,38 @@ object Sitemap {
   val pdfCv = Page(PdfCv, routes.Application.pdfCv)
   val wordCv = Page(WordCv, routes.Application.wordCv)
 
-  val cv = Page("CV / résumé",
-                routes.Application.cv,
-                "fa-file-text-o", // @todo better icon
-                groupChildren = singlePageGroup(pdfCv, wordCv))
+  val cv = Page(
+    "CV / résumé",
+    routes.Application.cv,
+    "fa-file-text-o", // @todo better icon
+    groupChildren = singlePageGroup(pdfCv, wordCv)
+  )
 
   val blog = Page("Blog", routes.Application.blogPosts, "fa-rss")
 
   val contacts = Page(Contacts, routes.Application.contacts)
 
-  val root = Page(title = "",
-                  url = "",
-                  groupChildren =
-                    singlePageGroup(home, about, blog, lifelogging, votes, cv, contacts))
+  val root = Page(
+    title = "",
+    url = "",
+    groupChildren = singlePageGroup(home, about, blog, lifelogging, votes, cv, contacts)
+  )
 
-  val posts = Page(title = "Posts",
-                   url = Posts.sourceUrl.toString,
-                   icon = Posts.icon,
-                   fetchables = Seq(Posts),
-                   groupChildren = Seq())
+  val posts = Page(
+    title = "Posts",
+    url = Posts.sourceUrl.toString,
+    icon = Posts.icon,
+    fetchables = Seq(Posts),
+    groupChildren = Seq()
+  )
 
-  val twitter = Page(title = "Twitter",
-                     url = Tweets.sourceUrl.toString,
-                     icon = Tweets.icon,
-                     fetchables = Seq(Tweets),
-                     groupChildren = Seq())
+  val twitter = Page(
+    title = "Twitter",
+    url = Tweets.sourceUrl.toString,
+    icon = Tweets.icon,
+    fetchables = Seq(Tweets),
+    groupChildren = Seq()
+  )
 
   val seenOnTv = Page(SeenOnTv, routes.Application.seenOnTv)
 

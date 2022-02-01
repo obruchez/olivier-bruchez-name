@@ -1,8 +1,9 @@
 package models
 
+import util._
+
 import java.net.URL
 import scala.util._
-import util._
 
 abstract class FileContent(val fileType: FileType) extends Cacheable
 

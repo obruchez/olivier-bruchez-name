@@ -1,8 +1,9 @@
 package models
 
+import util._
+
 import java.net.URL
 import scala.util._
-import util._
 
 case class SeenOnTv(override val introduction: Option[Introduction], content: HtmlContent)
     extends Cacheable

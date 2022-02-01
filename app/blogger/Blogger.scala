@@ -18,11 +18,13 @@ object Blogger {
 
   private val apiKey = Configuration.string("blogger.apikey").get
 
-  case class BloggerPost(title: String,
-                         url: String,
-                         publicationDate: LocalDateTime,
-                         content: HtmlContent,
-                         labels: Seq[String]) {
+  case class BloggerPost(
+      title: String,
+      url: String,
+      publicationDate: LocalDateTime,
+      content: HtmlContent,
+      labels: Seq[String]
+  ) {
     val relativePermalink = permalinkFromUrl(url)
   }
 
@@ -33,14 +35,13 @@ object Blogger {
       blogger.posts().list(blogId).setMaxResults(count.toLong).setKey(apiKey).execute().getItems
 
     for (post <- posts.iterator().asScala.toSeq)
-      yield
-        BloggerPost(
-          title = post.getTitle,
-          url = post.getUrl,
-          publicationDate = new LocalDateTime(DateTime.parseRfc3339(post.getPublished).getValue),
-          content = HtmlContent(post.getContent),
-          labels = Option(post.getLabels).map(_.asScala.toSeq).getOrElse(Seq())
-        )
+      yield BloggerPost(
+        title = post.getTitle,
+        url = post.getUrl,
+        publicationDate = new LocalDateTime(DateTime.parseRfc3339(post.getPublished).getValue),
+        content = HtmlContent(post.getContent),
+        labels = Option(post.getLabels).map(_.asScala.toSeq).getOrElse(Seq())
+      )
   }
 
   protected def permalinkFromUrl(url: String): String = {

@@ -8,20 +8,21 @@ import scala.util.Try
 import scala.xml.{Node, XML}
 import util._
 
-case class Play(override val date: Partial,
-                location: String,
-                author: String,
-                name: String,
-                director: String,
-                adaptation: Option[String],
-                translation: Option[String],
-                actors: Seq[String],
-                rating: Option[Double],
-                comments: Option[HtmlContent],
-                override val itemSlug: Option[String] = None,
-                override val itemUrl: Option[String] = None,
-                override val next: Boolean = false)
-    extends ListItem(date, HtmlContent.fromNonHtmlString(s"$name - $location"), itemSlug, itemUrl) {
+case class Play(
+    override val date: Partial,
+    location: String,
+    author: String,
+    name: String,
+    director: String,
+    adaptation: Option[String],
+    translation: Option[String],
+    actors: Seq[String],
+    rating: Option[Double],
+    comments: Option[HtmlContent],
+    override val itemSlug: Option[String] = None,
+    override val itemUrl: Option[String] = None,
+    override val next: Boolean = false
+) extends ListItem(date, HtmlContent.fromNonHtmlString(s"$name - $location"), itemSlug, itemUrl) {
   type T = Play
 
   override def withNext(next: Boolean): Play = copy(next = next)

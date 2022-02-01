@@ -28,19 +28,20 @@ object BookNotes {
   }
 }
 
-case class Book(override val date: Partial,
-                author: String,
-                title: String,
-                subtitle: Option[String],
-                year: Int,
-                rating: Option[Double],
-                comments: Option[HtmlContent],
-                url: URL,
-                notes: Option[BookNotes],
-                override val itemSlug: Option[String] = None,
-                override val itemUrl: Option[String] = None,
-                override val next: Boolean = false)
-    extends ListItem(date, HtmlContent.fromNonHtmlString(s"$author - $title"), itemSlug, itemUrl) {
+case class Book(
+    override val date: Partial,
+    author: String,
+    title: String,
+    subtitle: Option[String],
+    year: Int,
+    rating: Option[Double],
+    comments: Option[HtmlContent],
+    url: URL,
+    notes: Option[BookNotes],
+    override val itemSlug: Option[String] = None,
+    override val itemUrl: Option[String] = None,
+    override val next: Boolean = false
+) extends ListItem(date, HtmlContent.fromNonHtmlString(s"$author - $title"), itemSlug, itemUrl) {
   type T = Book
 
   override def withNext(next: Boolean): Book = copy(next = next)

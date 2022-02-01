@@ -8,16 +8,17 @@ import scala.util.Try
 import scala.xml.{Node, XML}
 import util._
 
-case class Exhibition(override val date: Partial,
-                      name: String,
-                      museum: String,
-                      rating: Option[Double],
-                      pictures: Seq[Pictures],
-                      comments: Option[HtmlContent],
-                      override val itemSlug: Option[String] = None,
-                      override val itemUrl: Option[String] = None,
-                      override val next: Boolean = false)
-    extends ListItem(date, HtmlContent.fromNonHtmlString(s"$museum - $name"), itemSlug, itemUrl) {
+case class Exhibition(
+    override val date: Partial,
+    name: String,
+    museum: String,
+    rating: Option[Double],
+    pictures: Seq[Pictures],
+    comments: Option[HtmlContent],
+    override val itemSlug: Option[String] = None,
+    override val itemUrl: Option[String] = None,
+    override val next: Boolean = false
+) extends ListItem(date, HtmlContent.fromNonHtmlString(s"$museum - $name"), itemSlug, itemUrl) {
   type T = Exhibition
 
   override def withNext(next: Boolean): Exhibition = copy(next = next)
@@ -38,9 +39,10 @@ object Exhibition {
   }
 }
 
-case class Exhibitions(override val introduction: Option[Introduction],
-                       override val listItems: Seq[Exhibition])
-    extends Cacheable
+case class Exhibitions(
+    override val introduction: Option[Introduction],
+    override val listItems: Seq[Exhibition]
+) extends Cacheable
 
 object Exhibitions extends Fetchable {
   type C = Exhibitions

@@ -44,11 +44,13 @@ object ProfileList {
 case class Profile(override val introduction: Option[Introduction], profileLists: Seq[ProfileList])
     extends Cacheable {
 
-  /**
-    * @param partNumber 0-based part number (maximum value can be partCount - 1)
-    * @param partCount total number of parts
-    * @return a subset of the ProfileList instances corresponding to the (partNumber + 1)-th part when dividing all the
-    *         ProfileList instances into partCount parts
+  /** @param partNumber
+    *   0-based part number (maximum value can be partCount - 1)
+    * @param partCount
+    *   total number of parts
+    * @return
+    *   a subset of the ProfileList instances corresponding to the (partNumber + 1)-th part when
+    *   dividing all the ProfileList instances into partCount parts
     */
   def partOfProfileLists(partNumber: Int, partCount: Int): Seq[ProfileList] = {
     val totalProfileItemCount = profileLists.map(_.profileItems.size).sum

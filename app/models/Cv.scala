@@ -1,7 +1,8 @@
 package models
 
-import scala.util.Try
 import util._
+
+import scala.util.Try
 
 case class PdfCv(binaryContent: BinaryContent) extends Cacheable
 

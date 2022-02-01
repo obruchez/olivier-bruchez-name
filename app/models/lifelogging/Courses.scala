@@ -27,16 +27,17 @@ object CourseCertificate {
   }
 }
 
-case class Course(override val date: Partial,
-                  provider: String,
-                  name: String,
-                  instructor: String,
-                  url: URL,
-                  certificate: Option[CourseCertificate],
-                  override val itemSlug: Option[String] = None,
-                  override val itemUrl: Option[String] = None,
-                  override val next: Boolean = false)
-    extends ListItem(date, HtmlContent.fromNonHtmlString(s"$name"), itemSlug, itemUrl) {
+case class Course(
+    override val date: Partial,
+    provider: String,
+    name: String,
+    instructor: String,
+    url: URL,
+    certificate: Option[CourseCertificate],
+    override val itemSlug: Option[String] = None,
+    override val itemUrl: Option[String] = None,
+    override val next: Boolean = false
+) extends ListItem(date, HtmlContent.fromNonHtmlString(s"$name"), itemSlug, itemUrl) {
   type T = Course
 
   override def withNext(next: Boolean): Course = copy(next = next)
@@ -62,9 +63,10 @@ object Course {
   }
 }
 
-case class Courses(override val introduction: Option[Introduction],
-                   override val listItems: Seq[Course])
-    extends Cacheable {
+case class Courses(
+    override val introduction: Option[Introduction],
+    override val listItems: Seq[Course]
+) extends Cacheable {
   def certificateFromSlug(slug: String): Option[CourseCertificate] =
     listItems.find(_.certificate.exists(_.slug == slug)).flatMap(_.certificate)
 

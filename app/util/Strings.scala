@@ -29,7 +29,9 @@ object Strings {
       val wordCountForInputString = wordCount(words)
 
       if (wordCountForInputString == 0)
-        truncatedAnywhere(string) // Doesn't work with whole words => truncate in the middle of the first word
+        truncatedAnywhere(
+          string
+        ) // Doesn't work with whole words => truncate in the middle of the first word
       else
         words.take(wordCountForInputString).mkString(" ") + dots // Remove some words and add dots
     }

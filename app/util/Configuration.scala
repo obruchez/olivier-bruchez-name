@@ -5,7 +5,7 @@ import javax.inject.Inject
 import javax.inject.Singleton
 
 @Singleton
-class ConfigurationSetter @Inject()(configuration: play.api.Configuration) {
+class ConfigurationSetter @Inject() (configuration: play.api.Configuration) {
   Configuration.configuration = configuration
 }
 

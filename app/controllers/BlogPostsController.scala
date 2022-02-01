@@ -8,9 +8,10 @@ import play.api.mvc._
 import javax.inject.Inject
 import scala.concurrent.ExecutionContext
 
-class BlogPostsController @Inject()(implicit ec: ExecutionContext,
-                                    val controllerComponents: ControllerComponents)
-    extends BaseController {
+class BlogPostsController @Inject() (implicit
+    ec: ExecutionContext,
+    val controllerComponents: ControllerComponents
+) extends BaseController {
   def blogPost(relativePermalink: String) = Action.async {
     Cache.get(Posts) map { posts =>
       posts.listItems.find(_.relativePermalink == relativePermalink) match {
@@ -24,8 +25,10 @@ class BlogPostsController @Inject()(implicit ec: ExecutionContext,
 
   implicit class PostOps(post: Post) {
     def page: Page =
-      Page(title = post.title,
-           url = routes.BlogPostsController.blogPost(post.relativePermalink).url,
-           icon = Sitemap.blog.icon)
+      Page(
+        title = post.title,
+        url = routes.BlogPostsController.blogPost(post.relativePermalink).url,
+        icon = Sitemap.blog.icon
+      )
   }
 }

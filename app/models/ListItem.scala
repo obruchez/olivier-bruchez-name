@@ -4,11 +4,13 @@ import org.joda.time.ReadablePartial
 import util.Date._
 import util.Slug
 
-abstract class ListItem(val date: ReadablePartial,
-                        val shortRepresentation: HtmlContent,
-                        val itemSlug: Option[String],
-                        val itemUrl: Option[String],
-                        val next: Boolean = false) {
+abstract class ListItem(
+    val date: ReadablePartial,
+    val shortRepresentation: HtmlContent,
+    val itemSlug: Option[String],
+    val itemUrl: Option[String],
+    val next: Boolean = false
+) {
   type T <: ListItem
 
   def noDate: Boolean = date.emptyDate
@@ -24,10 +26,11 @@ object ListItem {
 
     val listItemsWithSameDate = allListItems.reverse.filter(_.date.yyyymmddString == candidateSlug)
 
-    if (listItemsWithSameDate.size == 1)
+    if (listItemsWithSameDate.size == 1) {
       candidateSlug
-    else
+    } else {
       candidateSlug + "-" + (listItemsWithSameDate.indexOf(listItem) + 1)
+    }
   }
 }
 

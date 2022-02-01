@@ -14,12 +14,14 @@ object MinAvgMax {
     MinAvgMax(min = values.min, avg = values.sum / values.size.toDouble, max = values.max)
 }
 
-case class Statistics(books: Books,
-                      concerts: Concerts,
-                      exhibitions: Exhibitions,
-                      movies: Movies,
-                      plays: Plays,
-                      podcasts: Podcasts) {
+case class Statistics(
+    books: Books,
+    concerts: Concerts,
+    exhibitions: Exhibitions,
+    movies: Movies,
+    plays: Plays,
+    podcasts: Podcasts
+) {
   def mostReadBookAuthors: Seq[(Int, String)] = {
     val authors = books.listItems.map(_.author)
     sortedValuesWithLabels(personsFromRawList(authors))
@@ -61,7 +63,8 @@ case class Statistics(books: Books,
     import util.Date._
 
     val normalizedName = Map(
-      "Casino Barrière, Montreux, Switzerland" -> "Casino, Montreux, Switzerland")
+      "Casino Barrière, Montreux, Switzerland" -> "Casino, Montreux, Switzerland"
+    )
 
     // Count a venue at most once for a given day
     val concertVenues =
