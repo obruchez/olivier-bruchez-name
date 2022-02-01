@@ -4,7 +4,7 @@ version := "1.8-SNAPSHOT"
 
 lazy val root = (project in file(".")).enablePlugins(PlayScala)
 
-scalaVersion := "2.13.7"
+scalaVersion := "2.13.8"
 
 libraryDependencies ++= Seq(jdbc, ehcache, ws)
 
@@ -21,6 +21,7 @@ libraryDependencies ++= Seq(
   "joda-time" % "joda-time" % "2.10.13",
   "org.apache.commons" % "commons-text" % "1.9",
   "org.jsoup" % "jsoup" % "1.14.3",
+  "org.specs2" %% "specs2-core" % "4.13.2" % Test,
   "org.twitter4j" % "twitter4j-core" % "4.0.7"
 )
 
