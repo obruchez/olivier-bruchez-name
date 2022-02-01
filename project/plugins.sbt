@@ -8,7 +8,7 @@ addSbtPlugin("com.typesafe.sbt" % "sbt-less" % "1.1.2")
 addSbtPlugin("com.typesafe.sbt" % "sbt-mocha" % "1.1.2")
 addSbtPlugin("com.typesafe.sbt" % "sbt-rjs" % "1.0.10")
 
-addSbtPlugin("com.typesafe.sbt" % "sbt-native-packager" % "1.8.1")
+addSbtPlugin("com.github.sbt" % "sbt-native-packager" % "1.9.7")
 
 addSbtPlugin("org.scalameta" % "sbt-scalafmt" % "2.4.6")
 addSbtPlugin("com.beautiful-scala" % "sbt-scalastyle" % "1.5.1")
