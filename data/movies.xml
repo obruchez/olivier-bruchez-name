@@ -3,6 +3,16 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Checklist: add rating to IMDb -->
   <movie>
+    <date>2022-02-04</date>
+    <theater home="true"/>
+    <director>Denis Villeneuve</director>
+    <title>Prisoners</title>
+    <url>https://www.imdb.com/title/tt1392214/</url>
+    <rating>5.0</rating>
+    <comments>Two weird things about this movie: 1) I'm pretty sure I saw bits and pieces of it (maybe because my wife watched in on TV many years ago?) 2) I didn't know it was directed by Denis Villeneuve until the closing credits, but it immediately made sense. A captivating movie, especially if you have young children.</comments>
+    <image>Prisoners.jpg</image>
+  </movie>
+  <movie>
     <date>2022-01-28</date>
     <theater home="true"/>
     <director>Alfred Hitchcock</director>
