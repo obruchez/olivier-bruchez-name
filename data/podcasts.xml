@@ -1,6 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <podcasts created="2016-05-10">
   <introduction>A list of podcasts I listened to.</introduction>
+  Ajouter à podcasts.xml : Nutrition Facts with Dr. Greger: 
+  <podcast>
+    <date>2022-02-04</date>
+    <name url="https://nutritionfacts.org/audio/">Nutrition Facts with Dr. Greger</name>
+    <episode url="https://nutritionfacts.org/audio/beating-colds-and-flu/">Beating Colds and Flu</episode>
+    <comments>Prebiotics/probiotics might be good. Gargling seems promising.</comments>
+  </podcast>
   <podcast>
     <date>2022-02-04</date>
     <name url="https://www.happinesslab.fm/">The Happiness Lab</name>
