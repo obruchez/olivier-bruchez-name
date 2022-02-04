@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <podcasts created="2016-05-10">
   <introduction>A list of podcasts I listened to.</introduction>
+
+Ajouter à podcasts.xml : The Changelog: Software Development, Open Source: Why SQLite succeeded as a database
+  <podcast>
+    <date>2022-02-02</date>
+    <name url="https://changelog.com/podcast">The Changelog</name>
+    <episode url="https://changelog.com/podcast/201" number="201">Why SQLite succeeded as a database</episode>
+    <comments>About multiple threads: "I'm not a database person. I didn't know I was supposed to. Nobody told me."</comments>
+  </podcast>
   <podcast>
     <date>2022-02-01</date>
     <name url="https://www.foundmyfitness.com/episodes">FoundMyFitness</name>
