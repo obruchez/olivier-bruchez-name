@@ -2,6 +2,12 @@
 <podcasts created="2016-05-10">
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date>2022-02-01</date>
+    <name url="https://www.foundmyfitness.com/episodes">FoundMyFitness</name>
+    <episode url="https://www.foundmyfitness.com/episodes/bill-harris" number="68">Dr. Bill Harris on the Omega-3 Index, Increasing Omega-3 to Improve Longevity &amp; Heart Disease Risk</episode>
+    <comments>The omega-3 index is representative of the omega-3 content in most tissues in the body, but not the brain. Omega-3 index recommandation: 8-12 (Bill is at 10, I was at 14 a few years ago). Omega-3 dosage recommandation: at least 500 mg / day (Bill is at 2-3 g / day). The omega-3 to omega-6 ratio is uselss. DHA alone vs EPA alone vs combination of the two: we have no idea if it makes a difference (no study). ApoE4: a high omega-3 index <i>seems</i> to have a protective effect. Atrial fibrillation: we don't know what the deal is at the moment (i.e. is there a reason to worry or not?).</comments>
+  </podcast>
+  <podcast>
     <date>2022-01-28</date>
     <name url="https://nutritionfacts.org/audio/">Nutrition Facts with Dr. Greger</name>
     <episode url="https://nutritionfacts.org/audio/alzheimers-prevention/">Alzheimer's Prevention</episode>
@@ -203,7 +209,7 @@
     <date>2021-10-23</date>
     <name url="https://www.foundmyfitness.com/episodes">FoundMyFitness</name>
     <episode url="https://www.foundmyfitness.com/episodes/giselle-petzinger" number="60">Dr. Giselle Petzinger on Exercise for Parkinson's Disease</episode>
-    <comments>Exercise, again, is good for you. As is DHA (omega 3). It's probably important to change the kind of exercise you do from time to time and skill-based exercise (yoga, etc.) might be especially important for Parkinson's.</comments>
+    <comments>Exercise, again, is good for you. As is DHA (omega-3). It's probably important to change the kind of exercise you do from time to time and skill-based exercise (yoga, etc.) might be especially important for Parkinson's.</comments>
   </podcast>
   <podcast>
     <date>2021-10-19</date>
@@ -995,7 +1001,7 @@
     <date>2020-12-08</date>
     <name url="https://peterattiamd.com/podcast/">The Peter Attia Drive Podcast</name>
     <episode url="https://peterattiamd.com/laurenmillerrogen-richardisaacson/" number="138">Lauren Miller Rogen and Richard Isaacson, M.D.: Alzheimer’s disease prevention—patient and doctor perspectives</episode>
-    <comments>I will test my homocysteine levels in a few weeks. It should be low. High homocysteine seems to be bad for a lot of things. B vitamins and TMG can help if needed. For persons with a high risk of developing Alzheimer’s disease, 2 g a days of omega 3 is recommended. I'm at 850 mg a day (without counting food). An omega 3 index of 12-14 is desirable. Last time I checked, I was at 14.4. Good. Curcumin is a good idea (Richard mentions an optimised supplement with nanoparticles - it doesn't seem widely available). This is something I've been taking for years as well. Richard and Peter seem to somewhat disagree about ApoB vs LDL-P. I will check my ApoB level in a few weeks as well. Richard also mentions a blood test for transfats. Peter likes magnesium l-threonate. I've used it for some time, but it's quite expensive. I'm currently taking magnesium malate and glycinate.</comments>
+    <comments>I will test my homocysteine levels in a few weeks. It should be low. High homocysteine seems to be bad for a lot of things. B vitamins and TMG can help if needed. For persons with a high risk of developing Alzheimer’s disease, 2 g a days of omega-3 is recommended. I'm at 850 mg a day (without counting food). An omega-3 index of 12-14 is desirable. Last time I checked, I was at 14.4. Good. Curcumin is a good idea (Richard mentions an optimised supplement with nanoparticles - it doesn't seem widely available). This is something I've been taking for years as well. Richard and Peter seem to somewhat disagree about ApoB vs LDL-P. I will check my ApoB level in a few weeks as well. Richard also mentions a blood test for transfats. Peter likes magnesium l-threonate. I've used it for some time, but it's quite expensive. I'm currently taking magnesium malate and glycinate.</comments>
   </podcast>
   <podcast>
     <date>2020-12-08</date>
@@ -1007,7 +1013,7 @@
     <date>2020-12-06</date>
     <name url="https://peterattiamd.com/podcast/">The Peter Attia Drive Podcast</name>
     <episode url="https://peterattiamd.com/jamesokeefe/" number="134">James O’Keefe, M.D.: Preventing cardiovascular disease and the risk of too much exercise</episode>
-    <comments>For longevity, running 5 miles a week (i.e. 8 km) is enough. I should know my resting heart rate. It should be low rather than high. I should also focus more on day-to-day exercise, like walking (between 10'0000 and 20'000 steps a day would be good). I definitely don't walk enough. Also, playing and socializing are important. After all and contrary to what some studies/meta-analyses have been saying recently, omega 3 is important for heart health (in somewhat higher doses), not only brain health. Curcumin is also important for brain health (Alzheimer's prevention, etc.). Coronary artery calcium (CAC) scoring is an important test to do, but it's expensive ($400-$800 in the US).</comments>
+    <comments>For longevity, running 5 miles a week (i.e. 8 km) is enough. I should know my resting heart rate. It should be low rather than high. I should also focus more on day-to-day exercise, like walking (between 10'0000 and 20'000 steps a day would be good). I definitely don't walk enough. Also, playing and socializing are important. After all and contrary to what some studies/meta-analyses have been saying recently, omega-3 is important for heart health (in somewhat higher doses), not only brain health. Curcumin is also important for brain health (Alzheimer's prevention, etc.). Coronary artery calcium (CAC) scoring is an important test to do, but it's expensive ($400-$800 in the US).</comments>
   </podcast>
   <podcast>
     <date>2020-11-29</date>
@@ -1259,7 +1265,7 @@
     <date>2020-09-17</date>
     <name url="https://www.foundmyfitness.com/episodes">FoundMyFitness</name>
     <episode>Aliquot #1: Q&amp;A Mashup - Pregnancy and child development</episode>
-    <comments>Some very important nutrients mentioned: omega 3 (DHA/EPA) - this is the most important one -, iron, vitamin D3, vitamin E, magnesium, choline.</comments>
+    <comments>Some very important nutrients mentioned: omega-3 (DHA/EPA) - this is the most important one -, iron, vitamin D3, vitamin E, magnesium, choline.</comments>
   </podcast>
   <podcast>
     <date>2020-09-16</date>
@@ -1871,7 +1877,7 @@
     <date>2020-02-14</date>
     <name url="https://peterattiamd.com/podcast/">The Peter Attia Drive Podcast</name>
     <episode url="https://peterattiamd.com/richardisaacson/" number="18">Richard Isaacson, M.D.: Alzheimer's prevention</episode>
-    <comments>Richard's general advice (he doesn't like general advice): 1) Inform yourself (e.g. <a href="https://www.alzu.org/">alzu.org</a>) / know yourself (i.e. your values, etc.) 2) Exercise (did I hear 150 minutes per week?) 3) Eat well (blueberries, omega 3 / DHA, curcumin are important) 4) Sleep well 5) Manage your stress (e.g. meditation). Theracurmin was mentioned as a good form of curcumin (highly bioavailable). MTHFR mutations: Richard and Peter seem to think it's useful to take "methylated versions" of the B vitamins to prevent high levels of homocysteine (I thought it was mainly a marketing thing...). <a href="https://podcastnotes.org/genius-life/richard-isaacson-alzheimers-disease-apoe4-genius-life-max-lugavere/">Notes for another podcast.</a></comments>
+    <comments>Richard's general advice (he doesn't like general advice): 1) Inform yourself (e.g. <a href="https://www.alzu.org/">alzu.org</a>) / know yourself (i.e. your values, etc.) 2) Exercise (did I hear 150 minutes per week?) 3) Eat well (blueberries, omega-3 / DHA, curcumin are important) 4) Sleep well 5) Manage your stress (e.g. meditation). Theracurmin was mentioned as a good form of curcumin (highly bioavailable). MTHFR mutations: Richard and Peter seem to think it's useful to take "methylated versions" of the B vitamins to prevent high levels of homocysteine (I thought it was mainly a marketing thing...). <a href="https://podcastnotes.org/genius-life/richard-isaacson-alzheimers-disease-apoe4-genius-life-max-lugavere/">Notes for another podcast.</a></comments>
   </podcast>
   <podcast>
     <date>2020-02-13</date>
