@@ -10,17 +10,17 @@
   </show>
   <show>
     <date></date>
-    <name url="https://en.wikipedia.org/wiki/Sherlock_(TV_series)">Sherlock</name>
-    <series url="https://en.wikipedia.org/wiki/Sherlock_(TV_series)#Series_4_(2017)" type="series">4</series>
-    <comments></comments>
-    <image>Sherlock.jpg</image>
-  </show>
-  <show>
-    <date></date>
     <name url="https://en.wikipedia.org/wiki/This_Is_Us_(TV_series)">This Is Us</name>
     <series url="https://en.wikipedia.org/wiki/This_Is_Us_(season_6)" type="season">6</series>
     <comments></comments>
     <image>This Is Us.jpg</image>
+  </show>
+  <show>
+    <date>2022-02-01</date>
+    <name url="https://en.wikipedia.org/wiki/Sherlock_(TV_series)">Sherlock</name>
+    <series url="https://en.wikipedia.org/wiki/Sherlock_(TV_series)#Series_4_(2017)" type="series">4</series>
+    <comments>So, after watching the four available series, I think I agree that this is one of the best shows of all time.</comments>
+    <image>Sherlock.jpg</image>
   </show>
   <show>
     <date>2022-01-14</date>
