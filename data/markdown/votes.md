@@ -2,22 +2,39 @@
 
 My votes (in French). En Suisse, on ne plaisante pas avec la démocratie directe. :) J'essaie ici de documenter et de justifier la façon dont je me positionne par rapport aux votations fédérales, qui ont lieu jusqu'à quatre fois par année.
 
+## [Votation fédérale du 13 février 2022](https://www.admin.ch/gov/fr/accueil/documentation/votations/20220213.html)
+
+### Acceptez-vous l’initiative « Oui à l’interdiction de l’expérimentation animale et humaine – Oui aux approches de recherche qui favorisent la sécurité et le progrès » ? 
+Non. Résultat : ? (?.?%)
+
+### Acceptez-vous l’initiative populaire « Oui à la protection des enfants et des jeunes contre la publicité pour le tabac (enfants et jeunes sans publicité pour le tabac) » ?
+
+Oui. Résultat : ? (?.?%)
+
+### Acceptez-vous la modification du 18 juin 2021 de la loi fédérale sur les droits de timbre (LT) ?
+
+Oui. Résultat : ? (?.?%)
+
+### Acceptez-vous la loi fédérale du 18 juin 2021 sur un train de mesures en faveur des médias ?
+
+Oui. Résultat : ? (?.?%)
+
 ## [Votation fédérale du 28 novembre 2021](https://www.admin.ch/gov/fr/accueil/documentation/votations/20211128.html)
 
 ### Acceptez-vous l’initiative populaire « Pour des soins infirmiers forts (initiative sur les soins infirmiers) » ?
 
-Oui. Résultat : ? (?.?%)
+Oui. Résultat : oui (60.98%)
 
 ### Acceptez-vous l’initiative populaire « Désignation des juges fédéraux par tirage au sort (initiative sur la justice) » ?
 
-Oui. Résultat : ? (?.?%)
+Oui. Résultat : non (68.07%)
 
 - Un tirage au sort bien organisé (mathématiquement parlant) permettrait de conserver les avantages d'une élection, tout en séparant mieux les pouvoirs.
 - La contribution des juges fédéraux aux partis est un principe qui paraît vraiment désuet, voire choquant.
 
 ### Acceptez-vous la modification du 19 mars 2021 de la loi fédérale sur les bases légales des ordonnances du Conseil fédéral visant à surmonter l’épidémie de COVID-19 (loi COVID-19) (cas de rigueur, assurance-chômage, accueil extra-familial pour enfants, acteurs culturels, manifestations) ?
 
-Oui. Résultat : ? (?.?%)
+Oui. Résultat : oui (62.01%)
 
 ## [Votation fédérale du 26 septembre 2021](https://www.admin.ch/gov/fr/accueil/documentation/votations/20210926.html)
 
