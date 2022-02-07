@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <podcasts created="2016-05-10">
   <introduction>A list of podcasts I listened to.</introduction>
-
-Ajouter à podcasts.xml : Nutrition Facts with Dr. Greger: 
+  <podcast>
+    <date>2021-02-07</date>
+    <name url="http://robesse.libsyn.com/">Obsessed by Music</name>
+    <episode url="https://robesse.libsyn.com/making-time-to-listen-1">Making Time To Listen To Music</episode>
+    <comments>That's it: I'll try and block one hour one of those days to listen to one of my favorite albums and not do anything else.</comments>
+  </podcast>
   <podcast>
     <date>2022-02-07</date>
     <name url="https://nutritionfacts.org/audio/">Nutrition Facts with Dr. Greger</name>
