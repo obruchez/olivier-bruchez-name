@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <podcasts created="2016-05-10">
   <introduction>A list of podcasts I listened to.</introduction>
-  Ajouter à podcasts.xml : Nutrition Facts with Dr. Greger: 
+
+Ajouter à podcasts.xml : Nutrition Facts with Dr. Greger: 
+  <podcast>
+    <date>2022-02-07</date>
+    <name url="https://nutritionfacts.org/audio/">Nutrition Facts with Dr. Greger</name>
+    <episode url="https://nutritionfacts.org/audio/fighting-fatigue/">Fighting Fatigue</episode>
+    <comments>I'll quote Wikipedia: "Candida hypersensitivity is a pseudoscientific syndrome".</comments>
+  </podcast>
   <podcast>
     <date>2022-02-04</date>
     <name url="https://nutritionfacts.org/audio/">Nutrition Facts with Dr. Greger</name>
