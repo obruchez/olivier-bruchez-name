@@ -2,6 +2,12 @@
 <podcasts created="2016-05-10">
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date>2022-02-09</date>
+    <name url="https://www.happinesslab.fm/">The Happiness Lab</name>
+    <episode url="https://www.happinesslab.fm/happiness-lessons-of-the-ancients/episode-6-the-day-of-rest">Happiness Lessons of The Ancients: The Day of Rest</episode>
+    <comments>This episode made me realize that I schedule too many things, every day of the week. There should be a real "day of rest" even for personal projects/tasks. I've already changed some tasks in Omnifocus to reflect that.</comments>
+  </podcast>
+  <podcast>
     <date>2021-02-07</date>
     <name url="http://robesse.libsyn.com/">Obsessed by Music</name>
     <episode url="https://robesse.libsyn.com/making-time-to-listen-1">Making Time To Listen To Music</episode>
