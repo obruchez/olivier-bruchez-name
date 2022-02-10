@@ -3,6 +3,16 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Checklist: add rating to IMDb -->
   <movie>
+    <date>2022-02-09</date>
+    <theater home="true"/>
+    <director>Frank Capra</director>
+    <title>Mr. Smith Goes to Washington</title>
+    <url>https://www.imdb.com/title/tt0031679/</url>
+    <rating>5.0</rating>
+    <comments>A very original movie and a fantastic performance by James Stewart.</comments>
+    <image>Mr. Smith Goes to Washington.jpg</image>
+  </movie>
+  <movie>
     <date>2022-02-04</date>
     <theater home="true"/>
     <director>Denis Villeneuve</director>
