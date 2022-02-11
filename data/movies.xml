@@ -3,6 +3,16 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Checklist: add rating to IMDb -->
   <movie>
+    <date>2022-02-11</date>
+    <theater home="true"/>
+    <director>Danny Boyle</director>
+    <title>Yesterday</title>
+    <url>https://www.imdb.com/title/tt8079248/</url>
+    <rating>4.0</rating>
+    <comments>"A world without the Beatles is a world that's infinitely worse." An average, but fun movie.</comments>
+    <image>Yesterday.jpg</image>
+  </movie>
+  <movie>
     <date>2022-02-09</date>
     <theater home="true"/>
     <director>Frank Capra</director>
