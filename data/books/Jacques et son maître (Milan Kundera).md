@@ -1,0 +1,4 @@
+# Jacques et son maître (Milan Kundera)
+* JACQUES : À certains égards, mon maître est peut-être bête. Mais j'ai trouvé dans sa bêtise une aimable sagesse que je chercherais en vain dans votre intelligence. (p. 108)
+* JACQUES : Je vais vous révéler un grand secret. Une astuce immémoriale de l'humanité. En avant, c'est n'importe où. (p. 123)
+* JACQUES : Bon. Je veux donc que vous me conduisiez... en avant... LE MAÎTRE, regarde autour de lui, très embarrassé : Je veux bien, mais en avant, c'est où ? JACQUES : Je vais vous révéler un grand secret. Une astuce immémoriale de l'humanité. En avant, c'est n'importe où. LE MAÎTRE, jetant autour de lui un regard circulaire : N'importe où ? JACQUES, décrivant un cercle d'un grand geste du bras : Que vous regardiez n'importe où, partout c'est en avant ! LE MAÎTRE, sans enthousiasme : Mais c'est magnifique, Jacques ! C'est magnifique ! (p. 123)
