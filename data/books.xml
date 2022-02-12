@@ -2,6 +2,18 @@
 <books created="2006-08-20">
     <introduction>A list of books I read.</introduction>
     <book>
+        <date>2022-02-11</date>
+        <title>Jacques et son maître</title>
+        <subtitle>Hommage à Denis diderot en trois actes</subtitle>
+        <author>Milan Kundera</author>
+        <publishingyear>1981</publishingyear>
+        <rating>4.5</rating>
+        <url>https://books.google.com/books?id=FjHIAAAACAAJ</url>
+        <notes description="Kindle highlights"></notes>
+        <comments>Une variation, au sens musical du terme, de <i>Jacques le Fataliste et son maître</i>, l'un des romans préférés de Kundera. Avec cette pièce de théâtre, plutôt divertissante, j'ai terminé de lire les oeuvres "officielles" de Kundera, c'est-à-dire les oeuvres qu'il reconnaît lui-même comme digne d'intérêt, le reste n'ayant pas été réédité ou traduit. Je suis prêt pour le prochain livre de Kundera, qu'il est, je l'espère, en train d'écrire malgré son âge avancé.</comments>
+        <image>Jacques et son maître.jpg</image>
+    </book>
+    <book>
         <date>2022-01-29</date>
         <title>Four Thousand Weeks</title>
         <subtitle>Time Management for Mortals</subtitle>
@@ -1884,7 +1896,8 @@
         <url>https://fr.wikipedia.org/wiki/La_Lenteur</url>
         <image>La Lenteur.jpg</image>
     </book>
-    <!-- <book>
+    <!--
+    <book>
         <date></date>
         <title></title>
         <subtitle></subtitle>
@@ -1895,7 +1908,8 @@
         <notes description="Kindle highlights"></notes>
         <comments></comments>
         <image></image>
-    </book> -->
+    </book>
+    -->
 	<!--
 	Kundera, Kafka, Sartre, etc. + livre lu dans les années '90 parlant de l'ABS, etc.
 	-->
