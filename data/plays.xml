@@ -9,6 +9,18 @@
     <actor></actor>
   -->
   <play>
+    <date>2022-02-13</date>
+    <location>Théâtre de Beausobre, Morges, Switzerland</location>
+    <name>Chat Chat</name>
+    <author>Stanka Pavlova</author>
+    <director>Stanka Pavlova</director>
+    <actor>Stanka Pavlova</actor>
+    <actor>Raphaël Bourdin</actor>
+    <rating>4.5</rating>
+    <comments>La première "pièce de théâtre" de notre fils.</comments>
+    <image>Chat Chat.jpg</image>
+  </play>
+  <play>
     <date>2022-01-21</date>
     <location>Pulloff Théâtres, Lausanne, Switzerland</location>
     <name>Les Seigneurs des nanos</name>
