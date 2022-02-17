@@ -2,6 +2,12 @@
 <podcasts created="2016-05-10">
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date>2022-02-17</date>
+    <name url="http://verybadwizards.com/">Very Bad Wizards</name>
+    <episode url="https://www.verybadwizards.com/230" number="230">Be Happy (Lars von Trier's "Melancholia")</episode>
+    <comments>I saw <i>Melancholia</i> back when it was released. I will probably watch it again soon.</comments>
+  </podcast>
+  <podcast>
     <date>2022-02-11</date>
     <name url="https://www.foundmyfitness.com/episodes">FoundMyFitness</name>
     <episode url="https://www.foundmyfitness.com/episodes/eran-elinav" number="70">Dr. Eran Elinav on Microbiome Insights into Personalized Response to Diet, Obesity, and Leaky Gut</episode>
