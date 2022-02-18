@@ -3,6 +3,12 @@
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
     <date>2022-02-18</date>
+    <name url="https://nutritionfacts.org/audio/">Nutrition Facts with Dr. Greger</name>
+    <episode url="https://nutritionfacts.org/audio/boosting-immune-function/">Boosting Immune Function</episode>
+    <comments>Probiotics (or prebiotics) might help.</comments>
+  </podcast>
+  <podcast>
+    <date>2022-02-18</date>
     <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
     <episode url="https://www.samharris.org/podcasts/making-sense-episodes/273-joe-rogan-and-the-ethics-of-apology" number="273">Joe Rogan and the Ethics of Apology</episode>
     <comments>Yes, we need to become more forgiving as a society.</comments>
