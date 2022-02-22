@@ -3,6 +3,16 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Checklist: add rating to IMDb -->
   <movie>
+    <date>2022-02-22</date>
+    <theater home="true"/>
+    <director>Thomas Kail</director>
+    <title>Hamilton</title>
+    <url>https://www.imdb.com/title/tt8503618/</url>
+    <rating>4.25</rating>
+    <comments>Not a "real movie", but a musical. Far from bad, of course, but you have to be into American history.</comments>
+    <image>Hamilton.jpg</image>
+  </movie>
+  <movie>
     <date>2022-02-11</date>
     <theater home="true"/>
     <director>Danny Boyle</director>
