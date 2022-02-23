@@ -3,6 +3,16 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Checklist: add rating to IMDb -->
   <movie>
+    <date>2022-02-23</date>
+    <theater home="true"/>
+    <director>Lars von Trier</director>
+    <title>Melancholia</title>
+    <url>https://www.imdb.com/title/tt1527186/</url>
+    <rating>5.0</rating>
+    <comments>I saw this movie at a movie theatre a bit more than 10 years ago and was very impressed by it. This is a breathtaking movie about major depression, the meaning of life, and our cosmic insignificance.</comments>
+    <image>Melancholia.jpg</image>
+  </movie>
+  <movie>
     <date>2022-02-22</date>
     <theater home="true"/>
     <director>Thomas Kail</director>
