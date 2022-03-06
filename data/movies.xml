@@ -3,6 +3,17 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Checklist: add rating to IMDb -->
   <movie>
+    <date>2022-03-05</date>
+    <theater home="true"/>
+    <director>Ole Giæver &amp; Marte Vold</director>
+    <title>Mot naturen</title>
+    <title language="en">Out of Nature</title>
+    <url>https://www.imdb.com/title/tt3596492/</url>
+    <rating>4.25</rating>
+    <comments>A light movie about middle age and nature.</comments>
+    <image>Mot naturen.jpg</image>
+  </movie>
+  <movie>
     <date>2022-02-23</date>
     <theater home="true"/>
     <director>Lars von Trier</director>
