@@ -2,6 +2,12 @@
 <podcasts created="2016-05-10">
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date>2022-03-06</date>
+    <name url="https://www.rts.ch/play/radio/emission/tribu?id=6067786">Tribu</name>
+    <episode url="https://www.rts.ch/audio-podcast/2022/audio/vivre-sans-portable-25803398.html">Vivre sans portable</episode>
+    <comments>Une émission de 2016. Je me demande si la situation a beaucoup évolué en 6 ans. De mon côté, je fais de plus en plus l'effort de laisser mon portable à distance, voire à la maison pour certains déplacements.</comments>
+  </podcast>
+  <podcast>
     <date>2022-03-04</date>
     <name url="http://verybadwizards.com/">Very Bad Wizards</name>
     <episode>Ask Us-Anything #4</episode>
