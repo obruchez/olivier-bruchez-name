@@ -10,6 +10,13 @@
   </show>
   <show>
     <date></date>
+    <name url="https://en.wikipedia.org/wiki/Severance_(TV_series)">Severance</name>
+    <series url="https://en.wikipedia.org/wiki/Severance_(TV_series)" type="season">1</series>
+    <comments></comments>
+    <image>Severance.jpg</image>
+  </show>
+  <show>
+    <date></date>
     <name url="https://en.wikipedia.org/wiki/This_Is_Us_(TV_series)">This Is Us</name>
     <series url="https://en.wikipedia.org/wiki/This_Is_Us_(season_6)" type="season">6</series>
     <comments></comments>
