@@ -2,6 +2,12 @@
 <podcasts created="2016-05-10">
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date>2022-03-10</date>
+    <name url="https://www.happinesslab.fm/">The Happiness Lab</name>
+    <episode url="https://www.happinesslab.fm/2022-new-year-mini-season/emotions-are-dataso-listen-to-them">Emotions Are Data... So Listen to Them</episode>
+    <comments>Difficult emotions are the price to pay for a meaningful life. Negative emotions (but positive emotions as well) are signals that tell us what's important in our lives. It's important to be as accurate as possible when describing/interpreting negative emotions, i.e. we should try not to use very general terms such as anxiety or stress.</comments>
+  </podcast>
+  <podcast>
     <date>2022-03-07</date>
     <name url="https://www.happinesslab.fm/">The Happiness Lab</name>
     <episode url="https://www.happinesslab.fm/2022-new-year-mini-season/how-to-identify-your-negative-emotions">How to Identify Your Negative Emotions</episode>
