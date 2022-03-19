@@ -7,6 +7,20 @@
   -->
   <introduction>A list of concerts I went to.</introduction>
   <concert>
+    <date>2022-03-13</date>
+    <location>Salle Paderewski, Casino de Montbenon, Lausanne, Switzerland</location>
+    <event>Un Fantôme à l’Opéra</event>
+    <musician inst="violin">Isabelle Meyer</musician>
+    <musician inst="alto violin">Tobias Noss</musician>
+    <musician inst="cello">?</musician>
+    <musician inst="piano">?</musician>
+    <musician inst="percussions">Marilyne Musy</musician>
+    <musician inst="dance">?</musician>
+    <musician inst="magician">?</musician>
+    <rating>4.25</rating>
+    <comments>Another concert/show with our almost-4-year-old son.</comments>
+  </concert>
+  <concert>
     <date>2022-01-22</date>
     <location>Théâtre de Beausobre, Morges, Switzerland</location>
     <musician inst="vocals, guitar, percussions" main="true">Henri Dès</musician>
