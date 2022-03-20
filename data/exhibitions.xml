@@ -3,6 +3,15 @@
 <exhibitions created="2011-05-17">
     <introduction>A list of exhibitions I visited.</introduction>
     <exhibition>
+        <date>2022-03-19</date>
+        <name>Jean Dubuffet</name>
+        <museum>Fondation Pierre Gianadda, Martigny, Switzerland</museum>
+        <rating>4.25</rating>
+        <comments>The exhibition itself was pretty good, I guess, but I was not particularly touched/moved by the paintings.</comments>
+        <image>Jean Dubuffet.jpg</image>
+        <!-- <pictures url=""/> -->
+    </exhibition>
+    <exhibition>
         <date>2022-01-05</date>
         <name>Womanhouse 2021</name>
         <museum>Le Manoir de la Ville de Martigny, Martigny, Switzerland</museum>
