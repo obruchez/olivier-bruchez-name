@@ -2,6 +2,12 @@
 <podcasts created="2016-05-10">
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date>2022-03-18</date>
+    <name url="https://podcast.ausha.co/violet">Violet - Le Podcast sur Prince et le Minneapolis Sound</name>
+    <episode url="https://podcast.ausha.co/violet/crystal-ball-1998-bootleg-officiel">Crystal Ball 1998 : Bootleg officiel</episode>
+    <comments>Premier épisode de la nouvelle saison de Violet. Intéressante comparaison détaillée entre "Caravan" et "Days of Wild". <i>Crystal Ball</i> est une compilation que j'écoute régulièrement depuis 1998, souvent par petits bouts.</comments>
+  </podcast>
+  <podcast>
     <date>2022-03-14</date>
     <name url="https://peterattiamd.com/podcast/">The Peter Attia Drive Podcast</name>
     <episode url="https://peterattiamd.com/stevendell/" number="198">Eye health—everything you need to know | Steven Dell, M.D.</episode>
