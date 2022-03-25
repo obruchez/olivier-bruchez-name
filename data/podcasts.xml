@@ -2,6 +2,12 @@
 <podcasts created="2016-05-10">
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date>2022-03-25</date>
+    <name url="https://podcast.ausha.co/violet">Violet - Le Podcast sur Prince et le Minneapolis Sound</name>
+    <episode url="https://podcast.ausha.co/violet/the-truth-kamasutra-les-tresors-caches">The Truth / Kamasutra : les trésors cachés</episode>
+    <comments>Superbe analyse de <i>Kamasutra</i> par Nicolas. La chose n'était pas aisée. <a href="https://bruchez.blogspot.com/2018/02/thats-it.html">Je le considère comme le moins bon des albums de Prince</a>. On ne peut qu'imaginer ce que le projet aurait pu devenir avec un peu moins de sons kitsch et un retravail plus en profondeur par Clare Fisher, par exemple.</comments>
+  </podcast>
+  <podcast>
     <date>2022-03-21</date>
     <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
     <episode url="https://www.samharris.org/podcasts/making-sense-episodes/making-sense-presents-recipes-for-future-plagues">Special Episode: Recipes for Future Plagues - A Conversation with Rob Reid and Kevin Esvelt</episode>
