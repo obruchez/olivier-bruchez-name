@@ -3,6 +3,16 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Checklist: add rating to IMDb -->
   <movie>
+    <date>2022-03-21</date>
+    <theater home="true"/>
+    <director>David Lean</director>
+    <title>The Bridge on the River Kwai</title>
+    <url>https://www.imdb.com/title/tt0050212/</url>
+    <rating>5.0</rating>
+    <comments>An entertaining movie about the madness of war and honor.</comments>
+    <image>The Bridge on the River Kwai.jpg</image>
+  </movie>
+  <movie>
     <date>2022-03-05</date>
     <theater home="true"/>
     <director>Ole Giæver &amp; Marte Vold</director>
