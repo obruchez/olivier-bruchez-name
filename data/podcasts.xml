@@ -2,6 +2,12 @@
 <podcasts created="2016-05-10">
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date>2022-03-21</date>
+    <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
+    <episode url="https://www.samharris.org/podcasts/making-sense-episodes/making-sense-presents-recipes-for-future-plagues">Special Episode: Recipes for Future Plagues - A Conversation with Rob Reid and Kevin Esvelt</episode>
+    <comments>A special episode without Sam. Open data/science seems to be a bad idea when it comes to dangerous viruses.</comments>
+  </podcast>
+  <podcast>
     <date>2022-03-18</date>
     <name url="https://podcast.ausha.co/violet">Violet - Le Podcast sur Prince et le Minneapolis Sound</name>
     <episode url="https://podcast.ausha.co/violet/crystal-ball-1998-bootleg-officiel">Crystal Ball 1998 : Bootleg officiel</episode>
