@@ -1,6 +1,6 @@
 # olivier-bruchez-name
 
-[![Build Status](https://travis-ci.org/obruchez/olivier-bruchez-name.svg?branch=play2_8)](https://travis-ci.org/obruchez/olivier-bruchez-name)
+[![Scala CI](https://github.com/obruchez/olivier-bruchez-name/actions/workflows/scala.yml/badge.svg?branch=redesign)](https://github.com/obruchez/olivier-bruchez-name/actions/workflows/scala.yml)
 
 Source code for my personal website [olivier.bruchez.name](http://olivier.bruchez.name/), written in [Scala](http://www.scala-lang.org/), using [Play](https://www.playframework.com/), [Akka](http://akka.io/), and more.
 
