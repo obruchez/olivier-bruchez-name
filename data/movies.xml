@@ -3,6 +3,17 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Checklist: add rating to IMDb -->
   <movie>
+    <date>2022-03-25</date>
+    <theater home="true"/>
+    <director>Bong Joon Ho</director>
+    <title>Salinui chueok</title>
+    <title language="en">Memories of Murder</title>
+    <url>https://www.imdb.com/title/tt0353969/</url>
+    <rating>4.5</rating>
+    <comments>My second Bong Joon Ho movie. This is probably a movie I need to watch again one day. I didn't really "get" the weird mix of humor and violence.</comments>
+    <image>Memories of Murder.jpg</image>
+  </movie>
+  <movie>
     <date>2022-03-21</date>
     <theater home="true"/>
     <director>David Lean</director>
@@ -1111,7 +1122,7 @@
   <movie>
     <date>2019-10-09</date>
     <theater home="true"/>
-    <director>Joon-ho Bong</director>
+    <director>Bong Joon Ho</director>
     <title>Parasite</title>
     <title language="ko">Gisaengchung</title>
     <url>https://www.imdb.com/title/tt6751668/</url>
