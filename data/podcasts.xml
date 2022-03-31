@@ -2,6 +2,12 @@
 <podcasts created="2016-05-10">
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date>2022-03-09</date>
+    <name url="https://nutritionfacts.org/audio/">Nutrition Facts with Dr. Greger</name>
+    <episode url="https://nutritionfacts.org/audio/happier-and-healthier/">Happier and Healthier</episode>
+    <comments>Fish is "pro-inflammatory", so it doesn't help with depression, but omega 3 seems to be helpful for health/longevity in general and Greger even recommends supplementing it from a vegan source (which I do). I'm not sure what's the takeaway from this.</comments>
+  </podcast>
+  <podcast>
     <date>2022-03-28</date>
     <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
     <episode url="https://www.samharris.org/podcasts/making-sense-episodes/276-defending-the-global-order" number="276">Defending the Global Order - A Conversation with Yuval Noah Harari</episode>
