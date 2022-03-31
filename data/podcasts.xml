@@ -2,6 +2,12 @@
 <podcasts created="2016-05-10">
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date>2022-03-28</date>
+    <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
+    <episode url="https://www.samharris.org/podcasts/making-sense-episodes/276-defending-the-global-order" number="276">Defending the Global Order - A Conversation with Yuval Noah Harari</episode>
+    <comments>As often, I appreciate Harari's high-level understanding of the situation. What shocked people with the war in Ukraine is that Putin showed us that it's still possible for a country to invade another country for no good reason in 2022. We're "back to the jungle", as he puts it. This is definitely a step backwards and a frightening one. The silver lining is that "Western countries" have become stronger (i.e. more united) than before.</comments>
+  </podcast>
+  <podcast>
     <date>2022-03-25</date>
     <name url="https://podcast.ausha.co/violet">Violet - Le Podcast sur Prince et le Minneapolis Sound</name>
     <episode url="https://podcast.ausha.co/violet/the-truth-kamasutra-les-tresors-caches">The Truth / Kamasutra : les trésors cachés</episode>
