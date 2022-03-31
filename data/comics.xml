@@ -1559,6 +1559,14 @@
     <image>Le Retour à la Terre - Les Révolutions.jpg</image>
   </comic>
   <comic>
+    <date>2002-03-31</date>
+    <writer>Greg</writer>
+    <artist>Greg</artist>
+    <series url="https://fr.wikipedia.org/wiki/Achille_Talon">Achille Talon</series>
+    <volume url="https://fr.wikipedia.org/wiki/Le_Roi_des_Z%C3%B4tres" number="17">Le Roi des Zôtres</volume>
+    <image>Achille Talon - Le Roi des Zôtres.jpg</image>
+  </comic>
+  <comic>
     <date>2001-09-13</date>
     <writer>Roger Leloup</writer>
     <artist>Roger Leloup</artist>
