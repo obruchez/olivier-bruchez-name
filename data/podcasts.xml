@@ -3,6 +3,12 @@
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
     <date>2022-03-30</date>
+    <name url="https://www.foundmyfitness.com/episodes">FoundMyFitness</name>
+    <episode url="https://www.foundmyfitness.com/episodes/robbins-diamandis" number="71">Peter Diamandis, MD, and Tony Robbins on strategies that promote longevity now - and in the very near future</episode>
+    <comments>I've been trying to be less excited about the technological singularity, longevity escape velocity, etc. for a while now, but it's difficult not to get a bit more excited about it when hearing Diamandis/Robbins. Example: "I think we're going to see, in the next decade, 15 years at most, CRISPR being used to…treat and get rid of…almost every genetic disease. We're going to put genetic disease behind us."</comments>
+  </podcast>
+  <podcast>
+    <date>2022-03-30</date>
     <name url="http://verybadwizards.com/">Very Bad Wizards</name>
     <episode>Ask Us-Anything #5</episode>
     <comments>It's always a bit weird/funny to hear two university professors talk about their drug use, but I guess this needs to be less taboo. Road trips: I agree about flat places being boring. I usually don't mind having to drive. It's kind of a meditative activity. And you can always listen to podcasts or to some music if you're really bored.</comments>
