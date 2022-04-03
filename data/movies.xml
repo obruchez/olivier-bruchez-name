@@ -3,6 +3,16 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Checklist: add rating to IMDb -->
   <movie>
+    <date>2022-04-02</date>
+    <theater home="true"/>
+    <director>Denis Villeneuve</director>
+    <title>Blade Runner 2049</title>
+    <url>https://www.imdb.com/title/tt1856101/</url>
+    <rating>4.5</rating>
+    <comments>I loved the movie from a visual and sonic perspective, but failed to find the story particularly captivating.</comments>
+    <image>Blade Runner 2049.jpg</image>
+  </movie>
+  <movie>
     <date>2022-03-25</date>
     <theater home="true"/>
     <director>Bong Joon Ho</director>
