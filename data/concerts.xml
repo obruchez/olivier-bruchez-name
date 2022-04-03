@@ -7,6 +7,16 @@
   -->
   <introduction>A list of concerts I went to.</introduction>
   <concert>
+    <date>2022-04-03</date>
+    <location>Grande salle, Chavornay, Switzerland</location>
+    <event></event>
+    <group>Gaëtan</group>
+    <musician inst="ukulele, vocals">Gaëtan Cruchet</musician>
+    <musician inst="guitar">Fred Leclercq</musician>
+    <rating>4.25</rating>
+    <comments>Our son's third concert.</comments>
+  </concert>
+  <concert>
     <date>2022-03-13</date>
     <location>Salle Paderewski, Casino de Montbenon, Lausanne, Switzerland</location>
     <event>Un Fantôme à l’Opéra</event>
@@ -3504,4 +3514,14 @@
     <musician inst="dance">Nicole Belchieur</musician>
     <comments/>
   </concert>
+  <!--
+  	<concert>
+    <date></date>
+    <location></location>
+    <event></event>
+    <musician inst=""></musician>
+    <rating></rating>
+    <comments></comments>
+  </concert>
+  -->
 </concerts>
