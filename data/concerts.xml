@@ -7,6 +7,14 @@
   -->
   <introduction>A list of concerts I went to.</introduction>
   <concert>
+    <date>2022-04-06</date>
+    <location>Le Club, Cully, Switzerland</location>
+    <event>Cully Jazz Festival</event>
+    <musician inst="cello, vocals" main="yes">Lana Kostic</musician>
+    <rating>4.5</rating>
+    <comments>This was a short (45-minute?) concert for people who donated some money to the festival after it was cancelled in 2020. Not necessarily the kind of music I would listen to, but as a live performance, it was quite fascinating. It was a sonic as well as a visual experience.</comments>
+  </concert>
+  <concert>
     <date>2022-04-03</date>
     <location>Grande salle, Chavornay, Switzerland</location>
     <event></event>
