@@ -3,6 +3,16 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Checklist: add rating to IMDb -->
   <movie>
+    <date>2022-04-07</date>
+    <theater home="true"/>
+    <director>Henri-Georges Clouzot</director>
+    <title>Le salaire de la peur</title>
+    <url>https://www.imdb.com/title/tt0046268/</url>
+    <rating>5.0</rating>
+    <comments>The different languages (French, English, Spanish, German, Italian, and Russian) immediately gave me that exotic/quirky feeling that lasted until the very end of the movie. The ending scene itself was completely unexpected and is apparently a bit controversed, but the more I think about it, the more it makes sense. This movie captures what money and fear can do to men. And also, I guess, what unbounded capitalism can lead to.</comments>
+    <image>Le salaire de la peur.jpg</image>
+  </movie>
+  <movie>
     <date>2022-04-02</date>
     <theater home="true"/>
     <director>Denis Villeneuve</director>
