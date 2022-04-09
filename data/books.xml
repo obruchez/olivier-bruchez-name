@@ -2,6 +2,18 @@
 <books created="2006-08-20">
     <introduction>A list of books I read.</introduction>
     <book>
+        <date>2022-04-08</date>
+        <title>Wanting</title>
+        <subtitle>The Power of Mimetic Desire in Everyday Life</subtitle>
+        <author>Luke Burgis</author>
+        <publishingyear>2021</publishingyear>
+        <rating>4.25</rating>
+        <url>https://books.google.com/books?id=9ty-zQEACAAJ</url>
+        <notes description="Kindle highlights"></notes>
+        <comments>A book about <a href="https://en.wikipedia.org/wiki/Mimetic_theory">mimetic theory</a>.</comments>
+        <image>Wanting.jpg</image>
+    </book>
+    <book>
         <date>2022-02-11</date>
         <title>Jacques et son maître</title>
         <subtitle>Hommage à Denis diderot en trois actes</subtitle>
