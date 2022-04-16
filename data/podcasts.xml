@@ -2,6 +2,18 @@
 <podcasts created="2016-05-10">
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date>2022-04-14</date>
+    <name url="http://verybadwizards.com/">Very Bad Wizards</name>
+    <episode url="https://www.verybadwizards.com/232" number="232">Mind over Matter</episode>
+    <comments>About the opening segment: PhDs are usually more useful to the persons who do them than to the people who potentially read them. That's true for blog posts as well. About panpsychism: Tamler/Dave don't find the concept particularly useful, i.e. it just moves the problem to another level.</comments>
+  </podcast>
+  <podcast>
+    <date>2022-04-06</date>
+    <name url="https://hubermanlab.com/">Huberman Lab</name>
+    <episode url="https://hubermanlab.com/using-science-to-optimize-sleep-learning-and-metabolism/" number="3">Using Science to Optimize Sleep, Learning &amp; Metabolism</episode>
+    <comments>We tend to focus too much on blue light. All light late during the day is problematic when it comes to sleep. Less food / fasting leads to more wakefulness. If you skip a meal, it's probably better to skip breakfast. If we oversimplify things: tyrosine is better in the morning (more wakefulness) and tryptophan is better in the evening (more relaxation). It could be interesting to experiment with tyrosine supplements in the morning and tryptophan supplements in the evening. High-carb meals tend to lead to higher tryptophan levels, so should be taken in the evening if possible. I should probably investigate NSDR (Non-Sleep Deep Rest). Another oversimplification: prefer cold showers in the morning and hot showers in the evening.</comments>
+  </podcast>
+  <podcast>
     <date>2022-04-06</date>
     <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
     <episode url="https://www.samharris.org/podcasts/making-sense-episodes/277-how-does-the-war-in-ukraine-end" number="277">How Does the War in Ukraine End? - A Conversation with Ian Bremmer</episode>
