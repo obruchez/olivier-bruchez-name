@@ -3,6 +3,16 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Checklist: add rating to IMDb -->
   <movie>
+    <date>2022-04-18</date>
+    <theater home="true"/>
+    <director>William Wyler</director>
+    <title>Ben-Hur</title>
+    <url>https://www.imdb.com/title/tt0052618/</url>
+    <rating>5.0</rating>
+    <comments>A classic among classics. I've known about <i>Ben-Hur</i> for a very long time, but I don't think I had ever seen a single scene from that movie. I didn't even know Jesus was a character in the movie.</comments>
+    <image>Ben-Hur.jpg</image>
+  </movie>
+  <movie>
     <date>2022-04-07</date>
     <theater home="true"/>
     <director>Henri-Georges Clouzot</director>
