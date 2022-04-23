@@ -2,6 +2,12 @@
 <podcasts created="2016-05-10">
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date>2022-04-22</date>
+    <name url="https://podcast.ausha.co/violet">Violet - Le Podcast sur Prince et le Minneapolis Sound</name>
+    <episode url="https://podcast.ausha.co/violet/new-power-soul-npg-acte-iii">New Power Soul : NPG Acte III</episode>
+    <comments>Un album sous-estimé, festif en apparence, mais en réalité assez sombre du point de vue de certaines paroles, mais également de certains aspects musicaux.</comments>
+  </podcast>
+  <podcast>
     <date>2022-04-14</date>
     <name url="http://verybadwizards.com/">Very Bad Wizards</name>
     <episode url="https://www.verybadwizards.com/232" number="232">Mind over Matter</episode>
