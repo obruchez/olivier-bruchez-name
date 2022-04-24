@@ -2,22 +2,46 @@
 
 My votes (in French). En Suisse, on ne plaisante pas avec la démocratie directe. :) J'essaie ici de documenter et de justifier la façon dont je me positionne par rapport aux votations fédérales, qui ont lieu jusqu'à quatre fois par année.
 
+## [Votation fédérale du 15 mai 2022](https://www.admin.ch/gov/fr/accueil/documentation/votations/20220515.html)
+
+### Acceptez-vous la modification du 1er octobre 2021 de la loi fédérale sur la culture et la production cinématographiques (loi sur le cinéma, LCin) ?
+
+Oui. Résultat : ? (?.?%)
+
+- La loi me semble raisonnable. Il est important d'encourager, même un tout petit peu, la culture suisse et européenne.
+
+### Acceptez-vous la modification du 1er octobre 2021 de la loi fédérale sur la transplantation d’organes, de tissus et de cellules (loi sur la transplantation) ?
+
+Oui. Résultat : ? (?.?%)
+
+- L'argument principal du comité référendaire (celui de l'ignorance) me paraît particulièrement faible.
+- D'un point de vue éthique (i.e. si l'on cherche à diminuer la quantité globale de souffrance), le consentement présumé est clairement la meilleure solution.
+
+### Acceptez-vous l’arrêté fédéral du 1er octobre 2021 portant approbation et mise en oeuvre de l’échange de notes entre la Suisse et l’Union européenne concernant la reprise du règlement (UE) 2019/1896 relatif au corps européen de garde-frontières et de garde-côtes et abrogeant les règlements (UE) no 1052/2013 et (UE) 2016/1624 (développement de l’acquis de Schengen) ?
+
+Oui. Résultat : ? (?.?%)
+
+- En général, étant plutôt de gauche, je "devrais" voter non.
+- Je vote ici oui en partant du principe qu'il vaut mieux participer à un système que l'on veut améliorer que risquer de s'en exclure.
+- Je ne sais pas si une exclusion de Schengen est plausible, mais je ne pense pas qu'en ce moment, il soit opportun pour la Suisse d'aller une nouvelle fois à l'encontre de l'UE.
+
 ## [Votation fédérale du 13 février 2022](https://www.admin.ch/gov/fr/accueil/documentation/votations/20220213.html)
 
 ### Acceptez-vous l’initiative « Oui à l’interdiction de l’expérimentation animale et humaine – Oui aux approches de recherche qui favorisent la sécurité et le progrès » ? 
-Non. Résultat : ? (?.?%)
+
+Non. Résultat : non (79.1%)
 
 ### Acceptez-vous l’initiative populaire « Oui à la protection des enfants et des jeunes contre la publicité pour le tabac (enfants et jeunes sans publicité pour le tabac) » ?
 
-Oui. Résultat : ? (?.?%)
+Oui. Résultat : oui (56.7%)
 
 ### Acceptez-vous la modification du 18 juin 2021 de la loi fédérale sur les droits de timbre (LT) ?
 
-Oui. Résultat : ? (?.?%)
+Oui. Résultat : non (62.6%)
 
 ### Acceptez-vous la loi fédérale du 18 juin 2021 sur un train de mesures en faveur des médias ?
 
-Oui. Résultat : ? (?.?%)
+Oui. Résultat : non (54.6%)
 
 ## [Votation fédérale du 28 novembre 2021](https://www.admin.ch/gov/fr/accueil/documentation/votations/20211128.html)
 
