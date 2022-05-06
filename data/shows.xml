@@ -10,17 +10,17 @@
   </show>
   <show>
     <date></date>
-    <name url="https://en.wikipedia.org/wiki/Severance_(TV_series)">Severance</name>
-    <series url="https://en.wikipedia.org/wiki/Severance_(TV_series)" type="season">1</series>
-    <comments></comments>
-    <image>Severance.jpg</image>
-  </show>
-  <show>
-    <date></date>
     <name url="https://en.wikipedia.org/wiki/This_Is_Us_(TV_series)">This Is Us</name>
     <series url="https://en.wikipedia.org/wiki/This_Is_Us_(season_6)" type="season">6</series>
     <comments></comments>
     <image>This Is Us.jpg</image>
+  </show>
+  <show>
+    <date>2022-04-29</date>
+    <name url="https://en.wikipedia.org/wiki/Severance_(TV_series)">Severance</name>
+    <series url="https://en.wikipedia.org/wiki/Severance_(TV_series)" type="season">1</series>
+    <comments>This was hands down the best show I've seen in a long while. I'm not sure where season 2 can go from there. As someone on Reddit wrote, let's hope they don't "Westworld" us.</comments>
+    <image>Severance.jpg</image>
   </show>
   <show>
     <date>2022-03-03</date>
