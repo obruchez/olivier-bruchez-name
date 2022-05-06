@@ -2,6 +2,13 @@
 <trips created="2008-02-26">
   <introduction>A list of trips I took.</introduction>
   <trip>
+    <from>2022-04-25</from>
+    <to>2022-04-29</to>
+    <place>Berlin, Germany</place>
+    <pictures url="https://www.flickr.com/photos/bruchez/albums/72177720298640125">Berlin</pictures>
+    <comments>My 18<sup>th</sup> trip to Berlin (my 4<sup>th</sup> since 2010 actually). This was a trip to mark our 10 years of marriage, as Berlin is a special city for us. We visited the Humboldt Forum for the first time (twice), among other museums. We planned two special diners at a vegetarian (<a href="https://cookiescream.com/">Cookies Cream</a>) and vegan (<a href="https://lucky-leek.com/">Lucky Leek</a>) Michelin restaurants, and visited some of our favorite "normal" restaurants as well (Atame, Samadhi, and Oxymoron). We also biked quite a lot. That was fun.</comments>
+  </trip>
+  <trip>
     <from>2021-07-19</from>
     <to>2021-08-02</to>
     <place>Schaffhausen / Saint Gall / Grisons, Switzerland</place>
