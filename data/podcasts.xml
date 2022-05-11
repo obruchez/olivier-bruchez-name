@@ -2,6 +2,30 @@
 <podcasts created="2016-05-10">
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date>2022-05-06</date>
+    <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
+    <episode url="https://www.samharris.org/podcasts/making-sense-episodes/280-the-future-of-artificial-intelligence" number="280">The Future of Artificial Intelligence - A Conversation with Eric Schmidt</episode>
+    <comments>Nothing really new/interesting.</comments>
+  </podcast>
+  <podcast>
+    <date>2022-05-04</date>
+    <name url="https://podcast.ausha.co/violet">Violet - Le Podcast sur Prince et le Minneapolis Sound</name>
+    <episode url="https://podcast.ausha.co/violet/the-vault-un-disque-qui-a-du-coffre">The Vault : Un disque qui a du coffre</episode>
+    <comments>Je partage l'avis du podcast : <i>The Vault... Old Friends 4 Sale</i> est un album tout à fait agréable, qui contient l'un de mes morceaux préférés, "When The Lights Go Down".</comments>
+  </podcast>
+  <podcast>
+    <date>2022-05-03</date>
+    <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
+    <episode url="https://www.samharris.org/podcasts/making-sense-episodes/279-the-rules-of-the-stage" number="279">The Rules of the Stage - A Conversation with Ricky Gervais</episode>
+    <comments>An entertaining episode about the Oscar slap incident. Nothing too serious. That was welcome.</comments>
+  </podcast>
+  <podcast>
+    <date>2022-05-02</date>
+    <name url="https://peterattiamd.com/podcast/">The Peter Attia Drive Podcast</name>
+    <episode url="https://peterattiamd.com/strong-convictions-loosely-held-2/" number="202">Peter on nutrition, disease prevention, sleep, and more — looking back on the last 100 episodes</episode>
+    <comments>Colonoscopy: they should be done every 1-3 years instead of 5-10 years. ApoB: we should be more agressive, earlier. I'm at 69 mg/dl, which is pretty good, but I should aim at values under 60 and below 40 would be even better. DEXA is an accurate way to measure body composition. I don't see any cheap way to do it in Switzerland. Intermittent fasting: it's beneficial only because of indirect caloric restriction according to Peter. Protein: we should consume 2 g/kg/day (so at least 130 g/day for me). NMN/NR: Peter is pretty pessimistic about them. He's waiting for impressive studies, but hasn't seen one so far. Psychedelics/MDMA: there's a lot of hype around them (and <a href="https://stuartritchie.substack.com/p/psychedelics?s=r">this article</a> agrees with this sentiment), but Peter's enthusiastic about future psychotherapies using those drugs (i.e. they must be accompanied by "hard work"). Melatonin: avoid taking it more than occasionally.</comments>
+  </podcast>
+  <podcast>
     <date>2022-04-22</date>
     <name url="https://podcast.ausha.co/violet">Violet - Le Podcast sur Prince et le Minneapolis Sound</name>
     <episode url="https://podcast.ausha.co/violet/new-power-soul-npg-acte-iii">New Power Soul : NPG Acte III</episode>
