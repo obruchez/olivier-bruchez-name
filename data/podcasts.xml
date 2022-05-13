@@ -2,6 +2,12 @@
 <podcasts created="2016-05-10">
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date>2022-05-09</date>
+    <name url="https://hubermanlab.com/">Huberman Lab</name>
+    <episode url="https://hubermanlab.com/tools-for-managing-stress-and-anxiety/" number="10">Master Stress: Tools for Managing Stress &amp; Anxiety</episode>
+    <comments>"The physiological sigh is the best real-time tool to calm down: two inhales through the nose followed by an extended exhale through the mouth." Supplements that might help: l-theanine (before sleep or in late afternoon), melatonin (but doesn't really advise taking it - too many drawbacks), and ashwagandha. "Managing medium-term stress (stress lasting days to weeks) is best done by increasing your stress threshold through short, difficult bursts to become more comfortable at higher levels of activation – try sprints, cold shower, bike intervals, etc." Also, changing our vision can help: "If you keep your head still, you can dilate your gaze so you can see far into the periphery—above, below and to the sides of you." To help with long-term stress: "Social connections (e.g., significant other, platonic, pet, joy of participating in or watching event) mitigates long-term stress by releasing serotonin and suppressing tachykinin."</comments>
+  </podcast>
+  <podcast>
     <date>2022-05-06</date>
     <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
     <episode url="https://www.samharris.org/podcasts/making-sense-episodes/280-the-future-of-artificial-intelligence" number="280">The Future of Artificial Intelligence - A Conversation with Eric Schmidt</episode>
