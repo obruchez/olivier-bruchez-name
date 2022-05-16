@@ -662,6 +662,12 @@
         <comments>Exhibition located in Mauvoisin.</comments>
     </exhibition>
     <exhibition>
+        <date>2012-04-25</date>
+        <name>La chasse aux sorcières dans le Pays de Vaud</name>
+        <museum>Château de Chillon, Veytaux, Switzerland</museum>
+        <image>La chasse aux sorcières dans le Pays de Vaud.jpg</image>
+    </exhibition>
+    <exhibition>
         <date>2011-11-19</date>
         <name>Permanent exhibition</name>
         <museum>Collection de l'Art Brut, Lausanne, Switzerland</museum>
