@@ -3,6 +3,38 @@
 <exhibitions created="2011-05-17">
     <introduction>A list of exhibitions I visited.</introduction>
     <exhibition>
+        <date>2022-04-29</date>
+        <name>After Nature</name>
+        <museum>Humboldt Forum, Berlin, Germany</museum>
+        <rating>4.25</rating>
+        <comments>We probably didn't have enough time to fully experience the exhibition, so we were a bit underwhelmed.</comments>
+        <image>After Nature.jpg</image>
+    </exhibition>
+    <exhibition>
+        <date>2022-04-27</date>
+        <name>Berlin Global</name>
+        <museum>Humboldt Forum, Berlin, Germany</museum>
+        <rating>5.0</rating>
+        <comments>An experimental/interactive exhibition. Many things to see/read. Quite thought-provoking as well.</comments>
+        <image>Berlin Global.jpg</image>
+    </exhibition>
+    <exhibition>
+        <date>2022-04-27</date>
+        <name>Paul Gauguin - Why Are You Angry? Permanent exhibition.</name>
+        <museum>Alte Nationalgalerie, Berlin, Germany</museum>
+        <rating>5.0</rating>
+        <comments>A museum like I like them. Three floors. Huge rooms. Many paintings. I especially liked the room dedicated to Caspar David Friedrich. I first visited it in 2009. The Paul Gauguin exhibition was thought-provoking.</comments>
+        <image>Paul Gauguin - Why Are You Angry.jpg</image>
+    </exhibition>
+    <exhibition>
+        <date>2022-04-25</date>
+        <name>Asisi Panorama Berlin</name>
+        <museum>Asisi Panorama, Berlin, Germany</museum>
+        <rating>4.75</rating>
+        <comments>In theory, it was just a huge picture in a room, so I was ready to be underwhelmed, but it was actually a captivating experience.</comments>
+        <image>Asisi Panorama Berlin.jpg</image>
+    </exhibition>
+    <exhibition>
         <date>2022-03-19</date>
         <name>Jean Dubuffet</name>
         <museum>Fondation Pierre Gianadda, Martigny, Switzerland</museum>
@@ -17,7 +49,7 @@
         <museum>Le Manoir de la Ville de Martigny, Martigny, Switzerland</museum>
         <rating>4.0</rating>
         <comments>We watched a good part of <a href="https://fr.wikipedia.org/wiki/Maso_et_Miso_vont_en_bateau"><i>Maso et Miso vont en bateau</i></a>. The original TV show, <a href="https://www.youtube.com/watch?v=LHxBmO8A6YY"><i>Encore un jour et l'année de la femme, ouf ! C'est fini</i></a>, would probably be unthinkable nowadays and this is a good thing. We also spent 10-15 minutes listening to an interview with an anonymous woman. This is the kind of exhibitions that ask quite a lot of effort from the visitor.</comments>
-        <image>Le Manoir de la Ville de Martigny - Womanhouse 2021.jpg</image>
+        <image>Womanhouse 2021.jpg</image>
         <pictures url="https://www.flickr.com/photos/bruchez/albums/72177720296415433"/>
     </exhibition>
     <exhibition>
@@ -653,6 +685,13 @@
         <museum>de Young Museum, San Francisco, US</museum>
         <rating>4.5</rating>
         <image>Birth of Impressionism.jpg</image>
+    </exhibition>
+    <exhibition>
+        <date>2009-07-18</date>
+        <name>Permanent exhibition.</name>
+        <museum>Alte Nationalgalerie, Berlin, Germany</museum>
+        <rating>5.0</rating>
+        <image>Alte Nationalgalerie.jpg</image>
     </exhibition>
     <exhibition>
         <date>2002-10-18</date>
