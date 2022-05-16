@@ -706,6 +706,12 @@
         <image>Abbaye de Saint-Maurice d'Agaune.jpg</image>
         <pictures url="https://www.flickr.com/photos/bruchez/albums/72157594285353220"/>
     </exhibition>
+    <exhibition>
+        <date>2002-04-27</date>
+        <name>Miles Davis</name>
+        <museum>Café de la Grenette, Sion, Switzerland</museum>
+        <comments>3 original paintings and 8 lithographs.</comments>
+    </exhibition>
     <!--
     <exhibition>
         <date></date>
