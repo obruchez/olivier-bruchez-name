@@ -2,6 +2,24 @@
 <podcasts created="2016-05-10">
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date>2022-05-19</date>
+    <name url="http://verybadwizards.com/">Very Bad Wizards</name>
+    <episode>Ask Us Anything #7</episode>
+    <comments>It's hard to find a suitable psychotherapist, but I find it hard as well to find a good M.D.</comments>
+  </podcast>
+  <podcast>
+    <date>2022-05-18</date>
+    <name url="http://verybadwizards.com/">Very Bad Wizards</name>
+    <episode>Ask Us Anything #8</episode>
+    <comments>"Art is money laundering with the useful side-effect that people make art." -David</comments>
+  </podcast>
+  <podcast>
+    <date>2022-05-17</date>
+    <name url="http://verybadwizards.com/">Very Bad Wizards</name>
+    <episode url="https://www.verybadwizards.com/236" number="236">Your Outie Is Skilled at Lovemaking (With Paul Bloom)</episode>
+    <comments>One of the best TV shows I've ever seen. Even without being "severed", it's easy to consider your past or future self as a different person. In all cases, we should act with more compassion with ourselves.</comments>
+  </podcast>
+  <podcast>
     <date>2022-05-13</date>
     <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
     <episode url="https://www.samharris.org/podcasts/making-sense-episodes/281-western-culture-and-its-discontents" number="281">Western Culture and Its Discontents - A Conversation with Douglas Murray</episode>
@@ -76,7 +94,7 @@
   <podcast>
     <date>2022-04-04</date>
     <name url="http://verybadwizards.com/">Very Bad Wizards</name>
-    <episode>Ask Us-Anything #6</episode>
+    <episode>Ask Us Anything #6</episode>
     <comments>Podcasts are probably a good format for academics. It's a good way to reach more people. And to be more useful as well.</comments>
   </podcast>
   <podcast>
@@ -94,7 +112,7 @@
   <podcast>
     <date>2022-03-30</date>
     <name url="http://verybadwizards.com/">Very Bad Wizards</name>
-    <episode>Ask Us-Anything #5</episode>
+    <episode>Ask Us Anything #5</episode>
     <comments>It's always a bit weird/funny to hear two university professors talk about their drug use, but I guess this needs to be less taboo. Road trips: I agree about flat places being boring. I usually don't mind having to drive. It's kind of a meditative activity. And you can always listen to podcasts or to some music if you're really bored.</comments>
   </podcast>
   <podcast>
@@ -154,7 +172,7 @@
   <podcast>
     <date>2022-03-04</date>
     <name url="http://verybadwizards.com/">Very Bad Wizards</name>
-    <episode>Ask Us-Anything #4</episode>
+    <episode>Ask Us Anything #4</episode>
     <comments>I'm in favor of the advice line idea.</comments>
   </podcast>
   <podcast>
