@@ -3,6 +3,16 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Checklist: add rating to IMDb -->
   <movie>
+    <date>2022-05-20</date>
+    <theater home="true"/>
+    <director>Carl Theodor Dreyer</director>
+    <title>La passion de Jeanne d'Arc</title>
+    <url>https://www.imdb.com/title/tt0019254/</url>
+    <rating>5.0</rating>
+    <comments>A breathtaking movie with an incredible cinematography. It's almost like watching a series of still photos or paintings.</comments>
+    <image>La passion de Jeanne d'Arc.jpg</image>
+  </movie>
+  <movie>
     <date>2022-05-07</date>
     <theater home="true"/>
     <director>Satoshi Kon</director>
