@@ -2,6 +2,30 @@
 <podcasts created="2016-05-10">
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date>2022-05-20</date>
+    <name url="https://nutritionfacts.org/audio/">Nutrition Facts with Dr. Greger</name>
+    <episode url="https://nutritionfacts.org/audio/fighting-depression/">Fighting Depression</episode>
+    <comments>Boosting BDNF might be good.</comments>
+  </podcast>
+  <podcast>
+    <date>2022-05-20</date>
+    <name url="https://nutritionfacts.org/audio/">Nutrition Facts with Dr. Greger</name>
+    <episode url="https://nutritionfacts.org/audio/vitamin-supplements-do-we-need-multivitamins/">Vitamin Supplements – Do We Need Multivitamins?</episode>
+    <comments>Multivitamins are useless according to multiple studies and meta-analysis. A question that comes to mind is: is it the case for all brands, formulations, doses, etc.? Is it still the case if you eat, exercice, and sleep "correcly"?</comments>
+  </podcast>
+  <podcast>
+    <date>2022-05-20</date>
+    <name url="https://nutritionfacts.org/audio/">Nutrition Facts with Dr. Greger</name>
+    <episode url="https://nutritionfacts.org/audio/raising-healthy-children/">Raising Healthy Children</episode>
+    <comments>Sulforaphane/broccoli is good. Broccoli sprouts as well. Nutritional yeast is apparently good for colds (prevention).</comments>
+  </podcast>
+  <podcast>
+    <date>2022-05-20</date>
+    <name url="https://nutritionfacts.org/audio/">Nutrition Facts with Dr. Greger</name>
+    <episode url="https://nutritionfacts.org/audio/a-longer-life/">A Longer Life</episode>
+    <comments>Rapamycin is definitely a drug to follow. Exercise is very important, as always. Lutein is also mentioned.</comments>
+  </podcast>
+  <podcast>
     <date>2022-05-19</date>
     <name url="http://verybadwizards.com/">Very Bad Wizards</name>
     <episode>Ask Us Anything #7</episode>
@@ -4034,16 +4058,16 @@
     <comments><a href="http://mailchi.mp/danielmiessler/daniels-unsupervised-learning-newsletter-no-2451457">Show notes / newsletter</a>. This is a good thing that the creators of WannaCry didn't receive too much money ("only" 100'000 USD). This might discourage an explosion of future attacks. About remote working: companies shouldn't ban remote working, but I understand why they also don't want to have people always working from home.</comments>
   </podcast>
   <podcast>
+    <date>2017-05-25</date>
+    <name url="http://verybadwizards.com/">Very Bad Wizards</name>
+    <episode url="https://www.verybadwizards.com/89" number="89">Shame on You (with Jennifer Jacquet)</episode>
+    <comments>I agree with Tamler and David: some people are not clear enough when writing a paper, article, or book. And it's not because some fields are <em>really</em> complex and difficult to understand (physics) that you should deliberately use obscure words or concepts to make your field or topic sound more "important" or "serious". I had never really thought about the difference between guilt (more private) and shame (more public), as well as their relationship. Also, it's interesting to think about how shame can be constructively used in public policies, etc. Being anonymous on the internet leads to less shame. That's a problem.</comments>
+  </podcast>
+  <podcast>
     <date>2017-05-24</date>
     <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
     <episode url="https://www.samharris.org/podcast/item/the-path-to-impeachment" number="76">The Path to Impeachment - Conversations with Anne Applebaum and Juliette Kayyem</episode>
     <comments>Donald Trump's idiocy/incompetence never ceases to amaze. I'm not American, but I'd love to see him go before 2021.</comments>
-  </podcast>
-  <podcast>
-    <date>2017-05-25</date>
-    <name url="http://verybadwizards.com/">Very Bad Wizards</name>
-    <episode url="https://www.verybadwizards.com/89" number="89">Shame on You (with Jennifer Jacquet)</episode>
-    <comments>I agree with Tamler and David: some people are not clear enough when writing a paper, article, or book And it's not because some fields are <em>really</em> complex and difficult to understand (physics) that you should deliberately use obscure words or concepts to make your field or topic sound more "important" or "serious". I had never really thought about the difference between guilt (more private) and shame (more public), as well as their relationship. Also, it's interesting to think about how shame can be constructively used in public policies, etc. Being anonymous on the internet leads to less shame. That's a problem.</comments>
   </podcast>
   <podcast>
     <date>2017-05-18</date>
