@@ -7,6 +7,14 @@
   -->
   <introduction>A list of concerts I went to.</introduction>
   <concert>
+    <date>2022-05-22</date>
+    <location>Le Zénith, Château-d'Œx, Switzerland</location>
+    <musician inst="vocals, guitar, percussions" main="true">Henri Dès</musician>
+    <musician inst="bass">Fabien Iannone</musician>
+    <rating>4.5</rating>
+    <comments>Our second Henri Dès concert this year. Our 4-year-old son loved it.</comments>
+  </concert>
+  <concert>
     <date>2022-04-06</date>
     <location>Le Club, Cully, Switzerland</location>
     <event>Cully Jazz Festival</event>
@@ -42,7 +50,7 @@
     <date>2022-01-22</date>
     <location>Théâtre de Beausobre, Morges, Switzerland</location>
     <musician inst="vocals, guitar, percussions" main="true">Henri Dès</musician>
-    <musician inst="bass">?</musician>
+    <musician inst="bass">Fabien Iannone</musician>
     <rating>4.5</rating>
     <comments>Our son's first "real" concert. That was fun.</comments>
   </concert>
