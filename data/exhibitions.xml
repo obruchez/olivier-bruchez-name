@@ -3,6 +3,30 @@
 <exhibitions created="2011-05-17">
     <introduction>A list of exhibitions I visited.</introduction>
     <exhibition>
+        <date>2022-05-27</date>
+        <name>Permanent exhibition (incl. Encountering Böcklin)</name>
+        <museum>Kunstmuseum, Basel, Switzerland</museum>
+        <rating>5.0</rating>
+        <comments>We only had the time to visit the permanent exhibition, including a section dedicated to Böcklin, which I really liked. The last time we visited the museum, in 2010, the Neubau building didn't exist (it was inaugurated in 2016). I also really liked the "20<sup>th</sup> century / classic modernism" part of the Hauptbau.</comments>
+        <image>Kunstmuseum Basel.jpg</image>
+    </exhibition>
+    <exhibition>
+        <date>2022-05-26</date>
+        <name>Plastic: Remaking Our World</name>
+        <museum>Vitra Campus, Weil am Rhein, Germany</museum>
+        <rating>4.75</rating>
+        <comments>An impressive campus/site. The temporary exhibition was well done, starting with factual information, then more depressing facts (pollution, microplastics, etc.), and then positive themes (algae-based plastic, ocean/river cleaning, etc.).</comments>
+        <image>Plastic - Remaking Our World.jpg</image>
+    </exhibition>
+    <exhibition>
+        <date>2022-05-25</date>
+        <name>Passages – Landscape, Figure and Abstraction. Gerhard Richter: "Mood".</name>
+        <museum>Fondation Beyeler, Basel, Switzerland</museum>
+        <rating>4.25</rating>
+        <comments>I really like some of the artists presented (Braque, Cézanne, Ernst, Giacometti, van Gogh, Miró, etc.), but too many of the paintings fell into the "single-color-or-single-line" category for my taste. We'll probably come back to the Fondation Beyeler, but we'll choose the exhibition a bit more carefully.</comments>
+        <image>Passages – Landscape, Figure and Abstraction.jpg</image>
+    </exhibition>
+    <exhibition>
         <date>2022-04-29</date>
         <name>After Nature</name>
         <museum>Humboldt Forum, Berlin, Germany</museum>
