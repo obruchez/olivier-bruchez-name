@@ -2,6 +2,13 @@
 <trips created="2008-02-26">
   <introduction>A list of trips I took.</introduction>
   <trip>
+    <from>2022-05-25</from>
+    <to>2022-05-27</to>
+    <place>Weil-am-Rhein, Germany / Basel, Switzerland</place>
+    <!-- <pictures url=""/> -->
+    <comments>This was our first time in Weil am Rhein and our 4<sup>th</sup> trip to Basel. We had an excellent meal (vegan menu, for me) at Gasthaus zur Krone. We visited the Beyeler Foundation, the Vitra Campus, the Kunstmuseum Basel, and Augusta Raurica, among other things.</comments>
+  </trip>
+  <trip>
     <from>2022-04-25</from>
     <to>2022-04-29</to>
     <place>Berlin, Germany</place>
