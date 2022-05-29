@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <shows created="2015-05-06">
   <introduction>A list of TV shows I saw.</introduction>
-  <show>
+  <!-- <show>
     <date></date>
     <name url="https://en.wikipedia.org/wiki/Bob's_Burgers">Bob's Burgers</name>
     <series url="https://en.wikipedia.org/wiki/Bob%27s_Burgers_(season_7)" type="season">7</series>
     <comments></comments>
     <image>Bob's Burgers.jpg</image>
-  </show>
+  </show> -->
   <show>
-    <date></date>
+    <date>2022-05-25</date>
     <name url="https://en.wikipedia.org/wiki/This_Is_Us_(TV_series)">This Is Us</name>
     <series url="https://en.wikipedia.org/wiki/This_Is_Us_(season_6)" type="season">6</series>
-    <comments></comments>
+    <comments>An uneven show overall. I guess it kind of helped me think about my relationships with my wife, my 4-year-old son, our parents, etc.</comments>
     <image>This Is Us.jpg</image>
   </show>
   <show>
