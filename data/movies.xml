@@ -3,6 +3,16 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Checklist: add rating to IMDb -->
   <movie>
+    <date>2022-05-24</date>
+    <theater home="true"/>
+    <director>Dan Kwan &amp; Daniel Scheinert</director>
+    <title>Everything Everywhere All at Once</title>
+    <url>https://www.imdb.com/title/tt6710474/</url>
+    <rating>4.5</rating>
+    <comments>I don't know what happened. This is definitely not a bad movie, but something didn't work for me. I don't know what exactly. I was regularly more bored than entertained. Maybe the movie tried too much to be funny or absurd. Maybe it was the vulgarity.</comments>
+    <image>Everything Everywhere All at Once.jpg</image>
+  </movie>
+  <movie>
     <date>2022-05-20</date>
     <theater home="true"/>
     <director>Carl Theodor Dreyer</director>
