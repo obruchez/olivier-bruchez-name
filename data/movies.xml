@@ -7593,6 +7593,14 @@
     <title>Spider-Man</title>
   </movie>
   <movie>
+    <date>2002-05-27</date>
+    <theater home="true"/>
+    <director>Stanley Kubrick</director>
+    <title>Eyes Wide Shut</title>
+    <url>https://www.imdb.com/title/tt0120663/</url>
+    <image>Eyes Wide Shut.jpg</image>
+  </movie>
+  <movie>
     <date>2002-05-22</date>
     <title>Star Wars : Episode II - L'Attaque Des Clones</title>
     <version>fr</version>
