@@ -2,6 +2,12 @@
 <podcasts created="2016-05-10">
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date>2021-06-01</date>
+    <name>Superchuckamania</name>
+    <episode number="61">Episode 61</episode>
+    <comments>A whole episode by Captain/Playa about Prince. This was kind of okay, but </comments>
+  </podcast>
+  <podcast>
     <date>2022-05-20</date>
     <name url="https://nutritionfacts.org/audio/">Nutrition Facts with Dr. Greger</name>
     <episode url="https://nutritionfacts.org/audio/fighting-depression/">Fighting Depression</episode>
