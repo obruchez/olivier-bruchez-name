@@ -3,6 +3,16 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Checklist: add rating to IMDb -->
   <movie>
+    <date>2022-06-03</date>
+    <theater home="true"/>
+    <director>Alfred Hitchcock</director>
+    <title>Rebecca</title>
+    <url>https://www.imdb.com/title/tt0032976/</url>
+    <rating>5.25</rating>
+    <comments>Another masterpiece by Alfred Hitchcock, mixing different genres (romance, mystery, crime, etc.).</comments>
+    <image>Rebecca.jpg</image>
+  </movie>
+  <movie>
     <date>2022-05-24</date>
     <theater home="true"/>
     <director>Dan Kwan &amp; Daniel Scheinert</director>
