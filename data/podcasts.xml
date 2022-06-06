@@ -3,6 +3,12 @@
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
     <date>2022-06-03</date>
+    <name url="https://peterattiamd.com/podcast/">The Peter Attia Drive Podcast</name>
+    <episode url="https://peterattiamd.com/ryanhall/" number="199">Running, overcoming challenges, and finding success | Ryan Hall</episode>
+    <comments>For about 20,000 USD, you can run <a href="https://www.icemarathon.com/">a marathon in Antartica</a>. And for about 40'000 USD, you can (try and) <a href="https://worldmarathonchallenge.com/">run 7 marathons on 7 continents in 7 days</a>. Anyway, some people just sound superhuman to me.</comments>
+  </podcast>
+  <podcast>
+    <date>2022-06-03</date>
     <name>Prince | Official Podcast</name>
     <episode number="19">The Story of Prince and The Revolution: Live, Episode 1: Welcome to Superstardom</episode>
     <comments>I'm ready for the next Super Deluxe Edition of <i>Diamonds And Pearls</i>.</comments>
