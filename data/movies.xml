@@ -3,6 +3,16 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Checklist: add rating to IMDb -->
   <movie>
+    <date>2022-06-05</date>
+    <theater home="true"/>
+    <director>Jon Watts</director>
+    <title>Spider-Man: No Way Home</title>
+    <url>https://www.imdb.com/title/tt10872600/</url>
+    <rating>4.25</rating>
+    <comments>Not a bad movie, but I'm probably getting too old for superhero movies. Without even knowing it, I saw the 2002 <i>Spider-Man</i> exactly 20 years before to the day!</comments>
+    <image>Spider-Man - No Way Home.jpg</image>
+  </movie>
+  <movie>
     <date>2022-06-03</date>
     <theater home="true"/>
     <director>Alfred Hitchcock</director>
