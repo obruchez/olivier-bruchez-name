@@ -2,6 +2,18 @@
 <podcasts created="2016-05-10">
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date>2022-06-09</date>
+    <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
+    <episode url="https://www.samharris.org/podcasts/making-sense-episodes/282-do-you-really-have-a-self" number="282">Do You Really Have a Self? - A Conversation with Jay Garfield</episode>
+    <comments>A familiar topic for people meditating with Sam's app. "When we understand our interdependence with those around us, rather than the idea that we are independent entities that just happen to encounter one another, then we understand the role that others have in constituting and making possible who we are, and that can allow an attitude of competition to be replaced by an attitude of gratitude, and gratitude itself can be extraordinarily liberating."</comments>
+  </podcast>
+  <podcast>
+    <date>2022-06-08</date>
+    <name>Prince | Official Podcast</name>
+    <episode number="20">The Story of Prince and The Revolution: Live, Episode 2: Hello Syracuse, and the World</episode>
+    <comments>See previous episode.</comments>
+  </podcast>
+  <podcast>
     <date>2022-06-03</date>
     <name url="https://peterattiamd.com/podcast/">The Peter Attia Drive Podcast</name>
     <episode url="https://peterattiamd.com/ryanhall/" number="199">Running, overcoming challenges, and finding success | Ryan Hall</episode>
