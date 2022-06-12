@@ -1559,6 +1559,14 @@
     <image>Le Retour à la Terre - Les Révolutions.jpg</image>
   </comic>
   <comic>
+    <date>2002-06-12</date>
+    <writer>Jacques Martin</writer>
+    <artist>Jacques Martin</artist>
+    <series url="https://fr.wikipedia.org/wiki/Alix_(bande_dessin%C3%A9e)">Alix</series>
+    <volume url="https://fr.wikipedia.org/wiki/L%27Empereur_de_Chine" number="17">L'Empereur de Chine</volume>
+    <image>Alix - L'Empereur de Chine.jpg</image>
+  </comic> 
+  <comic>
     <date>2002-06-06</date>
     <writer>Greg</writer>
     <artist>Greg</artist>
