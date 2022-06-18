@@ -2,6 +2,24 @@
 <podcasts created="2016-05-10">
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date>2022-06-15</date>
+    <name url="https://absolutelymental.com/">Absolutely Mental</name>
+    <episode number="1.3">Will we be replaced by robots?</episode>
+    <comments>"Ricky calls Sam to ask if AI will replace comedians. They also discuss the implications of not having free will and if a chimp has ever asked, "what does it all mean?"" They agree that bears are dangerous."</comments>
+  </podcast>
+  <podcast>
+    <date>2022-06-15</date>
+    <name url="https://absolutelymental.com/">Absolutely Mental</name>
+    <episode number="1.2">What makes something funny?</episode>
+    <comments>"Ricky calls Sam to discuss Sam's monster joke from their last conversation. They consider where to draw the line in comedy. Ricky thinks everything is on the table. Except the word “vagina.”" Already listened to this episode on Sam's podcast.</comments>
+  </podcast>
+  <podcast>
+    <date>2022-06-14</date>
+    <name url="https://absolutelymental.com/">Absolutely Mental</name>
+    <episode number="1.1">Why do we dream?</episode>
+    <comments>"Ricky calls Sam to ask why we dream. They discuss why puns are terrible and explore some of the mechanics of comedy." Already listened to this episode on Sam's podcast.</comments>
+  </podcast>
+  <podcast>
     <date>2022-06-13</date>
     <name url="https://www.livelongerworld.com/">Live Longer World</name>
     <episode url="https://livelongerworld.substack.com/p/rmiller" number="18">Longevity Supplements - Interventions Testing Program Results | Dr. Richard Miller</episode>
