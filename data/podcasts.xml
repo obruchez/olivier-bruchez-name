@@ -2,6 +2,12 @@
 <podcasts created="2016-05-10">
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date>2022-06-21</date>
+    <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
+    <episode url="https://www.samharris.org/podcasts/making-sense-episodes/283-gun-violence-in-america" number="283">Gun Violence in America - A Conversation with Graeme Wood</episode>
+    <comments>If someone is threatening you with a weapon, run. Other than that, I don't know what to do of this episode. The US have a problem with guns that many other countries don't have. It's very hard to see how they can solve it.</comments>
+  </podcast>
+  <podcast>
     <date>2022-06-15</date>
     <name url="https://absolutelymental.com/">Absolutely Mental</name>
     <episode number="1.3">Will we be replaced by robots?</episode>
