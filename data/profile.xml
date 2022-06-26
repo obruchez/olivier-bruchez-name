@@ -40,6 +40,7 @@
         <item>
             <subitem url="https://en.wikipedia.org/wiki/Tea">Tea</subitem>
             <subitem url="https://en.wikipedia.org/wiki/Green_tea">Green tea</subitem>
+            <subitem url="https://en.wikipedia.org/wiki/Yerba_mate">Yerba mate</subitem>
         </item>
         <item url="https://en.wikipedia.org/wiki/Veganism#Vegan_diets,_substitutions,_and_meat_analogues">Vegan cuisine</item>
         <item url="https://en.wikipedia.org/wiki/Vegetarian_cuisine">Vegetarian cuisine</item>
@@ -167,7 +168,6 @@
         <item url="https://en.wikipedia.org/wiki/Bertrand_Russel">Bertrand Russel</item>
         <item url="https://en.wikipedia.org/wiki/Carl_Sagan">Carl Sagan</item>
         <item url="https://en.wikipedia.org/wiki/David_Allen_(author)">David Allen</item>
-        <item url="https://en.wikipedia.org/wiki/Elon_Musk">Elon Musk</item>
         <item url="https://en.wikipedia.org/wiki/Peter_Singer">Peter Singer</item>
         <item url="https://en.wikipedia.org/wiki/Ray_Kurzweil">Ray Kurzweil</item>
         <item url="https://en.wikipedia.org/wiki/Richard_Dawkins">Richard Dawkins</item>
@@ -248,6 +248,7 @@
         <item url="https://en.wikipedia.org/wiki/The_Office_(U.S._TV_series)">The Office (US)</item>
         <item url="https://en.wikipedia.org/wiki/Rick_and_Morty">Rick and Morty</item>
         <item url="https://en.wikipedia.org/wiki/Seinfeld">Seinfeld</item>
+        <item url="https://en.wikipedia.org/wiki/Severance_(TV_series)">Severance</item>
         <item url="https://en.wikipedia.org/wiki/Silicon_Valley_(TV_series)">Silicon Valley</item>
         <item url="https://en.wikipedia.org/wiki/The_Simpsons">The Simpsons</item>
         <item url="https://en.wikipedia.org/wiki/The_Spoils_of_Babylon">The Spoils of Babylon</item>
