@@ -2,6 +2,17 @@
 <books created="2006-08-20">
     <introduction>A list of books I read.</introduction>
     <book>
+        <date>2022-06-19</date>
+        <title>Animal Farm</title>
+        <author>George Orwell</author>
+        <publishingyear>1945</publishingyear>
+        <rating>5.0</rating>
+        <url>https://en.wikipedia.org/wiki/Animal_Farm</url>
+        <notes description="Kindle highlights"></notes>
+        <comments>Another (short) classic I hadn't read yet. I don't know why, but I expected it to be a book for children. I was pleasantly surprised to discover what it really is (i.e. a critique of political systems).</comments>
+        <image>Animal Farm.jpg</image>
+    </book>
+    <book>
         <date>2022-05-28</date>
         <title>Les Rêveries du promeneur solitaire</title>
         <author>Jean-Jacques Rousseau</author>
@@ -27,7 +38,7 @@
     <book>
         <date>2022-02-11</date>
         <title>Jacques et son maître</title>
-        <subtitle>Hommage à Denis diderot en trois actes</subtitle>
+        <subtitle>Hommage à Denis Diderot en trois actes</subtitle>
         <author>Milan Kundera</author>
         <publishingyear>1981</publishingyear>
         <rating>4.5</rating>
