@@ -2,6 +2,12 @@
 <podcasts created="2016-05-10">
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date>2022-06-25</date>
+    <name url="https://podcast.ausha.co/violet">Violet - Le Podcast sur Prince et le Minneapolis Sound</name>
+    <episode url="https://podcast.ausha.co/violet/rave-un2-the-joy-fantastic-le-bug-de-l-an-2000">Rave Un2 The Joy Fantastic : Le Bug de l’An 2000</episode>
+    <comments>Il est assez fascinant d'apprendre que quelqu'un ait pu devenir fan de Prince à l'âge de 4 ans en découvrant le concert <i>Rave Un2 the Year 2000</i>. Quant à l'album, oui, il est objectivement moins bon que beaucoup d'autres, mais je l'écoute régulièrement avec plaisir.</comments>
+  </podcast>
+  <podcast>
     <date>2022-06-21</date>
     <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
     <episode url="https://www.samharris.org/podcasts/making-sense-episodes/283-gun-violence-in-america" number="283">Gun Violence in America - A Conversation with Graeme Wood</episode>
@@ -4061,7 +4067,7 @@
     <date>2017-06-26</date>
     <name url="https://www.samharris.org/podcast">Waking Up with Sam Harris</name>
     <episode url="https://www.samharris.org/podcast/item/the-end-of-the-world-according-to-isis" number="82">The End of the World According to ISIS - A Conversation with Graeme Wood</episode>
-    <comments>I didn't know of <a href="https://en.wikipedia.org/wiki/Al-Masih_ad-Dajjal">Al-Masih ad-Dajjal ("the anti-christ")</a> and the role of <a href="https://en.wikipedia.org/wiki/Jesus_in_Islam">Jesus in Islam</a>. That part was really entertaining. The fact that well-eduated people can become members of ISIS, because they're attracted/motivated by their <em>ideas</em>, not because they're poor, stupid or crazy, is frightening. But it's a reality. Wood reminds us that there aren't that many members of ISIS, though ("only" about 40,000, according to him) and that ISIS is slowly but surely becoming weaker, so it's still a worrying organization, but things will eventually get better. It was also interesting to hear that members of ISIS crave attention and will "gladly" give interviews to journalists (or even <a href="https://en.wikipedia.org/wiki/J%C3%BCrgen_Todenh%C3%B6fer">welcome a German journalist to ISIS-controlled territories and let him leave safely</a>).</comments>
+    <comments>I didn't know of <a href="https://en.wikipedia.org/wiki/Al-Masih_ad-Dajjal">Al-Masih ad-Dajjal ("the anti-christ")</a> and the role of <a href="https://en.wikipedia.org/wiki/Jesus_in_Islam">Jesus in Islam</a>. That part was really entertaining. The fact that well-educated people can become members of ISIS, because they're attracted/motivated by their <em>ideas</em>, not because they're poor, stupid or crazy, is frightening. But it's a reality. Wood reminds us that there aren't that many members of ISIS, though ("only" about 40,000, according to him) and that ISIS is slowly but surely becoming weaker, so it's still a worrying organization, but things will eventually get better. It was also interesting to hear that members of ISIS crave attention and will "gladly" give interviews to journalists (or even <a href="https://en.wikipedia.org/wiki/J%C3%BCrgen_Todenh%C3%B6fer">welcome a German journalist to ISIS-controlled territories and let him leave safely</a>).</comments>
   </podcast>
   <podcast>
     <date>2017-06-21</date>
