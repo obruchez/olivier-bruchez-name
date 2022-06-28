@@ -9,6 +9,13 @@
     <image>Bob's Burgers.jpg</image>
   </show> -->
   <show>
+    <date></date>
+    <name url="https://en.wikipedia.org/wiki/Better_Call_Saul">Better Call Saul</name>
+    <series url="https://en.wikipedia.org/wiki/Better_Call_Saul_(season_1)" type="season">1</series>
+    <comments></comments>
+    <image>Better Call Saul.jpg</image>
+  </show>
+  <show>
     <date>2022-06-22</date>
     <name url="https://en.wikipedia.org/wiki/Inside_No._9">Inside No. 9</name>
     <series url="https://en.wikipedia.org/wiki/Inside_No._9#Series_7_(2022)" type="series">7</series>
