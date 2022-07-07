@@ -3,6 +3,16 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Checklist: add rating to IMDb -->
   <movie>
+    <date>2022-07-01</date>
+    <theater home="true"/>
+    <director>Martin Scorsese</director>
+    <title>Raging Bull</title>
+    <url>https://www.imdb.com/title/tt0081398/</url>
+    <rating>4.25</rating>
+    <comments>See comments for <i>Casino<i>.</comments>
+    <image>Raging Bull.jpg</image>
+  </movie>
+  <movie>
     <date>2022-06-05</date>
     <theater home="true"/>
     <director>Jon Watts</director>
