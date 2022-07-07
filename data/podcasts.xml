@@ -2,6 +2,24 @@
 <podcasts created="2016-05-10">
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date>2022-07-03</date>
+    <name url="https://absolutelymental.com/">Absolutely Mental</name>
+    <episode number="6">Where does morality come from?</episode>
+    <comments>"Ricky calls Sam to ask if human morality is an evolved trait. They debate the order of vaccine distribution. They agree that time travel would be very difficult."</comments>
+  </podcast>
+  <podcast>
+    <date>2022-07-03</date>
+    <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
+    <episode url="https://www.samharris.org/podcasts/making-sense-episodes/286-the-paradox-of-psychedelics" number="286">The Paradox of Psychedelics</episode>
+    <comments>Some bits and pieces from the Waking Up app.</comments>
+  </podcast>
+  <podcast>
+    <date>2022-07-03</date>
+    <name url="https://absolutelymental.com/">Absolutely Mental</name>
+    <episode number="5">What’s the point?</episode>
+    <comments>"Ricky calls Sam to discuss Robert Nozick’s "experience machine" and the value of remaining in touch with the real world. Sam promotes mosquito genocide. Ricky worries about flying spiders."</comments>
+  </podcast>
+  <podcast>
     <date>2022-06-29</date>
     <name url="https://absolutelymental.com/">Absolutely Mental</name>
     <episode number="4">Would you rather?</episode>
