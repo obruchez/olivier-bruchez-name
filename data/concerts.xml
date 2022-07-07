@@ -7,6 +7,16 @@
   -->
   <introduction>A list of concerts I went to.</introduction>
   <concert>
+    <date>2022-07-04</date>
+    <location>Auditorium Stravinski, Montreux, Switzerland</location>
+    <event>Montreux Jazz Festival</event>
+    <musician inst="vocals" main="true">Björk</musician>
+    <musician inst="conductor">Bjarni Frímann Bjarnason</musician>
+    <musician inst="orchestra">Sinfonietta de Lausanne</musician>
+    <rating>4.5</rating>
+    <comments>Some songs were beautiful. Overall, this concert made a fact obvious to me: Björk songs work because of the electronic and rhythmic elements. Removing them is an interesting, but also frustrating exercise.</comments>
+  </concert>
+  <concert>
     <date>2022-05-22</date>
     <location>Le Zénith, Château-d'Œx, Switzerland</location>
     <musician inst="vocals, guitar, percussions" main="true">Henri Dès</musician>
@@ -3531,7 +3541,7 @@
     <comments/>
   </concert>
   <!--
-  	<concert>
+  <concert>
     <date></date>
     <location></location>
     <event></event>
