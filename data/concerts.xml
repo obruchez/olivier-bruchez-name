@@ -7,6 +7,27 @@
   -->
   <introduction>A list of concerts I went to.</introduction>
   <concert>
+    <date>2022-07-23</date>
+    <location>Salle des Combins, Verbier, Switzerland</location>
+    <event>Verbier Festival</event>
+    <musician inst="bass-baritone">Thomas Quasthoff</musician>
+    <musician inst="saxophone">Bill Evans</musician>
+    <musician inst="trombone">Niels Landgren</musician>
+    <musician inst="double bass">Dieter Ilg</musician>
+    <musician inst="percussion">Wolfgang Haffner</musician>
+    <musician inst="piano">Simon Oslender</musician>
+    <rating></rating>
+    <comments></comments>
+  </concert>
+  <concert>
+    <date>2022-07-20</date>
+    <location>Église de Verbier, Verbier, Switzerland</location>
+    <event>Verbier Festival</event>
+    <musician inst="piano">Brad Mehldau</musician>
+    <rating>5.0</rating>
+    <comments>A very pleasant 2-hour solo piano concert in a very hot church. Brad played a lot of pop/rock songs (Radiohead, The Beatles, David Bowie, etc.). This was the 11<sup>th</sup> time I saw him in concert.</comments>
+  </concert>
+  <concert>
     <date>2022-07-04</date>
     <location>Auditorium Stravinski, Montreux, Switzerland</location>
     <event>Montreux Jazz Festival</event>
