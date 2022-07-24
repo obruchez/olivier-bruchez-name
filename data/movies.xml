@@ -3,6 +3,16 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Checklist: add rating to IMDb -->
   <movie>
+    <date>2022-07-22</date>
+    <theater home="true"/>
+    <director>Michael Cimino</director>
+    <title>The Deer Hunter</title>
+    <url>https://www.imdb.com/title/tt0077416/</url>
+    <rating>5.0</rating>
+    <comments>A poignant story about what war does to people, their friends, and communities. The cast is absolutely superb (Robert De Niro, Christopher Walken, Meryl Streep, etc.). The contrast between the beautiful, bright scenes in the mountains, and the dark, chaotic scenes in Vietnam is striking and gives the movie a very dynamic and intriguing quality.</comments>
+    <image>The Deer Hunter.jpg</image>
+  </movie>
+  <movie>
     <date>2022-07-01</date>
     <theater home="true"/>
     <director>Martin Scorsese</director>
