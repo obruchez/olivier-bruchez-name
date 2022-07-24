@@ -2,6 +2,13 @@
 <trips created="2008-02-26">
   <introduction>A list of trips I took.</introduction>
   <trip>
+    <from>2022-07-09</from>
+    <to>2022-07-16</to>
+    <place>Turin / Milan / Verona / Stresa, Italy</place>
+    <!-- <pictures url=""/> -->
+    <comments>Turin and Milan both have beautiful areas, but Verona was our favorite place visited during this trip. We'll probably visit it again in the near future. Possibly in spring/autumn, as the temperatures were too high for my taste. Stresa and the Borromean Islands were also very nice, with the advantage of being quite close to where we live (i.e. also an idea for an upcoming weekend).</comments>
+  </trip>
+  <trip>
     <from>2022-05-25</from>
     <to>2022-05-27</to>
     <place>Weil-am-Rhein, Germany / Basel, Switzerland</place>
