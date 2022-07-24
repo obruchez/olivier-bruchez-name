@@ -10,7 +10,7 @@
     <date>2022-07-23</date>
     <location>Salle des Combins, Verbier, Switzerland</location>
     <event>Verbier Festival</event>
-    <musician inst="bass-baritone" leader="true">Thomas Quasthoff</musician>
+    <musician inst="bass-baritone" main="true">Thomas Quasthoff</musician>
     <musician inst="tenor saxophone, soprano saxophone, piano, vocals">Bill Evans</musician>
     <musician inst="trombone">Niels Landgren</musician>
     <musician inst="double bass">Dieter Ilg</musician>
