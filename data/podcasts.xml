@@ -2,6 +2,24 @@
 <podcasts created="2016-05-10">
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date>2022-07-18</date>
+    <name url="https://nutritionfacts.org/audio/">Nutrition Facts with Dr. Greger</name>
+    <episode url="https://nutritionfacts.org/audio/how-to-prevent-alzheimers-with-diet/" number="155">How to Prevent Alzheimer's with Diet</episode>
+    <comments>There's a causal link between meat / saturated fat and Alzheimer's. Saffron might help.</comments>
+  </podcast>
+  <podcast>
+    <date>2022-07-18</date>
+    <name url="https://absolutelymental.com/">Absolutely Mental</name>
+    <episode number="7">What makes us who we are?</episode>
+    <comments>"Ricky calls Sam to discuss the nature vs. nurture debate, but what he really wants is a jetpack... then he could die happy."</comments>
+  </podcast>
+  <podcast>
+    <date>2022-07-16</date>
+    <name url="https://hubermanlab.com/">Huberman Lab</name>
+    <episode url="https://hubermanlab.com/the-science-and-treatment-of-obsessive-compulsive-disorder/" number="78">The Science &amp; Treatment of Obsessive Compulsive Disorder (OCD)</episode>
+    <comments>I was wondering whether I might suffer (at least a little bit) from OCD. This is probably not the case. CBT and SSRIs are helpful. Cannabis is probably useless. Psilocybin might help (in a psychotherapeutic context, as usual).</comments>
+  </podcast>
+  <podcast>
     <date>2022-07-03</date>
     <name url="https://absolutelymental.com/">Absolutely Mental</name>
     <episode number="6">Where does morality come from?</episode>
@@ -106,25 +124,25 @@
   <podcast>
     <date>2022-05-20</date>
     <name url="https://nutritionfacts.org/audio/">Nutrition Facts with Dr. Greger</name>
-    <episode url="https://nutritionfacts.org/audio/fighting-depression/">Fighting Depression</episode>
+    <episode url="https://nutritionfacts.org/audio/fighting-depression/" number="249">Fighting Depression</episode>
     <comments>Boosting BDNF might be good.</comments>
   </podcast>
   <podcast>
     <date>2022-05-20</date>
     <name url="https://nutritionfacts.org/audio/">Nutrition Facts with Dr. Greger</name>
-    <episode url="https://nutritionfacts.org/audio/vitamin-supplements-do-we-need-multivitamins/">Vitamin Supplements – Do We Need Multivitamins?</episode>
+    <episode url="https://nutritionfacts.org/audio/vitamin-supplements-do-we-need-multivitamins/" number="180">Vitamin Supplements – Do We Need Multivitamins?</episode>
     <comments>Multivitamins are useless according to multiple studies and meta-analysis. A question that comes to mind is: is it the case for all brands, formulations, doses, etc.? Is it still the case if you eat, exercice, and sleep "correcly"?</comments>
   </podcast>
   <podcast>
     <date>2022-05-20</date>
     <name url="https://nutritionfacts.org/audio/">Nutrition Facts with Dr. Greger</name>
-    <episode url="https://nutritionfacts.org/audio/raising-healthy-children/">Raising Healthy Children</episode>
+    <episode url="https://nutritionfacts.org/audio/raising-healthy-children/" number="149">Raising Healthy Children</episode>
     <comments>Sulforaphane/broccoli is good. Broccoli sprouts as well. Nutritional yeast is apparently good for colds (prevention).</comments>
   </podcast>
   <podcast>
     <date>2022-05-20</date>
     <name url="https://nutritionfacts.org/audio/">Nutrition Facts with Dr. Greger</name>
-    <episode url="https://nutritionfacts.org/audio/a-longer-life/">A Longer Life</episode>
+    <episode url="https://nutritionfacts.org/audio/a-longer-life/" number="136">A Longer Life</episode>
     <comments>Rapamycin is definitely a drug to follow. Exercise is very important, as always. Lutein is also mentioned.</comments>
   </podcast>
   <podcast>
@@ -244,7 +262,7 @@
   <podcast>
     <date>2022-03-29</date>
     <name url="https://nutritionfacts.org/audio/">Nutrition Facts with Dr. Greger</name>
-    <episode url="https://nutritionfacts.org/audio/happier-and-healthier/">Happier and Healthier</episode>
+    <episode url="https://nutritionfacts.org/audio/happier-and-healthier/" number="121">Happier and Healthier</episode>
     <comments>Fish is "pro-inflammatory", so it doesn't help with depression, but omega 3 seems to be helpful for health/longevity in general and Greger even recommends supplementing it from a vegan source (which I do). I'm not sure what's the takeaway from this.</comments>
   </podcast>
   <podcast>
@@ -328,7 +346,7 @@
   <podcast>
     <date>2022-02-18</date>
     <name url="https://nutritionfacts.org/audio/">Nutrition Facts with Dr. Greger</name>
-    <episode url="https://nutritionfacts.org/audio/boosting-immune-function/">Boosting Immune Function</episode>
+    <episode url="https://nutritionfacts.org/audio/boosting-immune-function/" number="117">Boosting Immune Function</episode>
     <comments>Probiotics (or prebiotics) might help.</comments>
   </podcast>
   <podcast>
@@ -370,13 +388,13 @@
   <podcast>
     <date>2022-02-07</date>
     <name url="https://nutritionfacts.org/audio/">Nutrition Facts with Dr. Greger</name>
-    <episode url="https://nutritionfacts.org/audio/fighting-fatigue/">Fighting Fatigue</episode>
+    <episode url="https://nutritionfacts.org/audio/fighting-fatigue/" number="48">Fighting Fatigue</episode>
     <comments>I'll quote Wikipedia: "Candida hypersensitivity is a pseudoscientific syndrome".</comments>
   </podcast>
   <podcast>
     <date>2022-02-04</date>
     <name url="https://nutritionfacts.org/audio/">Nutrition Facts with Dr. Greger</name>
-    <episode url="https://nutritionfacts.org/audio/beating-colds-and-flu/">Beating Colds and Flu</episode>
+    <episode url="https://nutritionfacts.org/audio/beating-colds-and-flu/" number="11">Beating Colds and Flu</episode>
     <comments>Prebiotics/probiotics might be good. Gargling seems promising.</comments>
   </podcast>
   <podcast>
@@ -406,8 +424,8 @@
   <podcast>
     <date>2022-01-28</date>
     <name url="https://nutritionfacts.org/audio/">Nutrition Facts with Dr. Greger</name>
-    <episode url="https://nutritionfacts.org/audio/alzheimers-prevention/">Alzheimer's Prevention</episode>
-    <comments>Blood cholesterol seems to be a predictor for Alzheimer’s. Avoid meat. Turmeric might be useful (but not curcumin?).</comments>
+    <episode url="https://nutritionfacts.org/audio/alzheimers-prevention/" number="4">Alzheimer's Prevention</episode>
+    <comments>Blood cholesterol seems to be a predictor for Alzheimer's. Avoid meat. Turmeric might be useful (but not curcumin?).</comments>
   </podcast>
   <podcast>
     <date>2022-01-28</date>
