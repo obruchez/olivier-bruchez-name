@@ -10,14 +10,14 @@
     <date>2022-07-23</date>
     <location>Salle des Combins, Verbier, Switzerland</location>
     <event>Verbier Festival</event>
-    <musician inst="bass-baritone">Thomas Quasthoff</musician>
-    <musician inst="saxophone">Bill Evans</musician>
+    <musician inst="bass-baritone" leader="true">Thomas Quasthoff</musician>
+    <musician inst="tenor saxophone, soprano saxophone, piano, vocals">Bill Evans</musician>
     <musician inst="trombone">Niels Landgren</musician>
     <musician inst="double bass">Dieter Ilg</musician>
-    <musician inst="percussion">Wolfgang Haffner</musician>
+    <musician inst="drums">Wolfgang Haffner</musician>
     <musician inst="piano">Simon Oslender</musician>
-    <rating></rating>
-    <comments></comments>
+    <rating>3.5</rating>
+    <comments>Overall, a very mainstream jazz concert. It sometimes felt like "hotel bar jazz". I was not convinced by Thomas Quasthoff's style/humor, which I found off-putting, like Médéric Collignon's scat singing last year. We attended this concert mainly because Bill Evans was there, but his presence is still somewhat of a mystery to me, as his skills were underused. Dieter Ilg's introduction solo to "Summertime" was really excellent. A nice (but a bit too conventional) version of "Jean-Pierre" was played.</comments>
   </concert>
   <concert>
     <date>2022-07-20</date>
