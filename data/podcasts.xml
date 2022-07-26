@@ -2,6 +2,12 @@
 <podcasts created="2016-05-10">
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date>2022-07-25</date>
+    <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
+    <episode url="https://www.samharris.org/podcasts/making-sense-episodes/287-why-wealth-matters" number="287">Why Wealth Matters - A Conversation with Morgan Housel</episode>
+    <comments><a href="https://www.reddit.com/r/samharris/comments/vs2qad/287_why_wealth_matters/">The comments on Reddit</a> are pretty harsh. Social comparison is bad for your mental health.</comments>
+  </podcast>
+  <podcast>
     <date>2022-07-18</date>
     <name url="https://nutritionfacts.org/audio/">Nutrition Facts with Dr. Greger</name>
     <episode url="https://nutritionfacts.org/audio/how-to-prevent-alzheimers-with-diet/" number="155">How to Prevent Alzheimer's with Diet</episode>
