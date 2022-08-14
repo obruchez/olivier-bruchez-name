@@ -3,6 +3,16 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Checklist: add rating to IMDb -->
   <movie>
+    <date>2022-08-13</date>
+    <theater home="true"/>
+    <director>John Krasinski</director>
+    <title>A Quiet Place</title>
+    <url>https://www.imdb.com/title/tt6644200/</url>
+    <rating>4.25</rating>
+    <comments>Just what I needed, i.e. something a bit light, not from a "top movies" list. I like post-apocalyptic fiction. Of course, there are always <a href="https://screenrant.com/quiet-place-universe-things-make-no-sense/">inconsistencies and elements that don't make sense</a>, but they don't bother me too much in that particular genre, for some reasons.</comments>
+    <image>A Quiet Place.jpg</image>
+  </movie>
+  <movie>
     <date>2022-07-22</date>
     <theater home="true"/>
     <director>Michael Cimino</director>
