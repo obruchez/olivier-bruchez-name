@@ -2,17 +2,25 @@
 <trips created="2008-02-26">
   <introduction>A list of trips I took.</introduction>
   <trip>
+    <from>2022-07-27</from>
+    <to>2022-08-10</to>
+    <place>Le Boucanet / Montpellier / Carcassonne / Toulouse, France</place>
+    <pictures url="https://www.flickr.com/photos/bruchez/albums/72177720301137237">Le Boucanet / Montpellier / Aigues-Mortes</pictures>
+    <pictures url="https://www.flickr.com/photos/bruchez/albums/72177720301137762">Carcassonne / Toulouse</pictures>
+    <comments>My first time in all those nice places. I'd like to go back to Toulouse someday, but probably during spring or fall, when it is less hot.</comments>
+  </trip>
+  <trip>
     <from>2022-07-09</from>
     <to>2022-07-16</to>
     <place>Turin / Milan / Verona / Stresa, Italy</place>
-    <!-- <pictures url=""/> -->
+    <pictures url="https://www.flickr.com/photos/bruchez/albums/72177720301136199"/>
     <comments>Turin and Milan both have beautiful areas, but Verona was our favorite place visited during this trip. We'll probably visit it again in the near future. Possibly in spring/autumn, as the temperatures were too high for my taste. Stresa and the Borromean Islands were also very nice, with the advantage of being quite close to where we live (i.e. also an idea for an upcoming weekend).</comments>
   </trip>
   <trip>
     <from>2022-05-25</from>
     <to>2022-05-27</to>
     <place>Weil-am-Rhein, Germany / Basel, Switzerland</place>
-    <!-- <pictures url=""/> -->
+    <pictures url="https://www.flickr.com/photos/bruchez/albums/72177720299701101"/>
     <comments>This was our first time in Weil am Rhein and our 4<sup>th</sup> trip to Basel. We had an excellent meal (vegan menu, for me) at Gasthaus zur Krone. We visited the Beyeler Foundation, the Vitra Campus, the Kunstmuseum Basel, and Augusta Raurica, among other things.</comments>
   </trip>
   <trip>
