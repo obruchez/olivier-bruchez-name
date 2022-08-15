@@ -3,6 +3,16 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Checklist: add rating to IMDb -->
   <movie>
+    <date>2022-08-14</date>
+    <theater home="true"/>
+    <director>John Krasinski</director>
+    <title>A Quiet Place Part II</title>
+    <url>https://www.imdb.com/title/tt8332922/</url>
+    <rating>4.0</rating>
+    <comments>Not bad, but slightly less entertaining than the first. I kind of expected the Alien-like twist with the boat. I don't know if it was supposed to be a reference or just lazy writing.</comments>
+    <image>A Quiet Place Part II.jpg</image>
+  </movie>
+  <movie>
     <date>2022-08-13</date>
     <theater home="true"/>
     <director>John Krasinski</director>
