@@ -2,6 +2,29 @@
 <books created="2006-08-20">
     <introduction>A list of books I read.</introduction>
     <book>
+        <date>2022-08-04</date>
+        <title>Le Joueur d'échecs</title>
+        <author>Stefan Zweig</author>
+        <publishingyear>1943</publishingyear>
+        <rating>5.25</rating>
+        <url>https://fr.wikipedia.org/wiki/Le_Joueur_d%27%C3%A9checs</url>
+        <notes description="Kindle highlights"></notes>
+        <comments>Un très court roman qui m'a vraiment tenu en haleine. Pratiquant la méditation, j'ai par contre été (un peu) amusé par le peu de tolérance à l'ennui du mystérieux personnage du joueur d'échec, pour qui le quotidien dans sa chambre d'hôtel était intolérable. Je ne dis pas que j'aurais été insensible au manque de divertissements, mais la manière dont il décrit ces moments-là m'interpelle.</comments>
+        <image>Le Joueur d'échecs.jpg</image>
+    </book>
+    <book>
+        <date>2022-07-31</date>
+        <title>Everything Is Fucked</title>
+        <subtitle>A Book About Hope</subtitle>
+        <author>Mark Manson</author>
+        <publishingyear>2019</publishingyear>
+        <rating>4.25</rating>
+        <url>https://en.wikipedia.org/wiki/Everything_Is_Fucked</url>
+        <notes description="Kindle highlights"></notes>
+        <comments>Coming from quite a different angle (meditation, etc.), Sam Harris also thinks that hope is not as positive as we think. It's basically wanting things to be different than what they are, which is often actually a negative thing.</comments>
+        <image>Everything Is Fucked.jpg</image>
+    </book>
+    <book>
         <date>2022-06-19</date>
         <title>Animal Farm</title>
         <author>George Orwell</author>
