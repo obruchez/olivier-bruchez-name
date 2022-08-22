@@ -18,8 +18,15 @@
   <show>
     <date></date>
     <name url="https://en.wikipedia.org/wiki/Solar_Opposites">Solar Opposite</name>
-    <series url="https://en.wikipedia.org/wiki/List_of_Solar_Opposites_episodes#Season_1_(2020)" type="season">1</series>
+    <series url="https://en.wikipedia.org/wiki/List_of_Solar_Opposites_episodes#Season_2_(2021)" type="season">2</series>
     <comments></comments>
+    <image>Solar Opposite.jpg</image>
+  </show>
+  <show>
+    <date>2022-08-21</date>
+    <name url="https://en.wikipedia.org/wiki/Solar_Opposites">Solar Opposite</name>
+    <series url="https://en.wikipedia.org/wiki/List_of_Solar_Opposites_episodes#Season_1_(2020)" type="season">1</series>
+    <comments>A show quite similar to <i>Rick and Morty</i> (both shows were co-created by Justin Roiland). Maybe a bit easier to follow/understand.</comments>
     <image>Solar Opposite.jpg</image>
   </show>
   <show>
