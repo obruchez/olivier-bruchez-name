@@ -3,6 +3,16 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Checklist: add rating to IMDb -->
   <movie>
+    <date>2022-08-18</date>
+    <theater home="true"/>
+    <director>Damián Szifron</director>
+    <title>Relatos salvajes</title>
+    <url>https://www.imdb.com/title/tt3011894/</url>
+    <rating>4.5</rating>
+    <comments>Is this a feature film? Is this six episodes of a TV show shown back-to-back? In any case, it's definitely entertaining. The last part (the wedding) is a masterpiece of surreal/dark humor.</comments>
+    <image>Relatos salvajes.jpg</image>
+  </movie>
+  <movie>
     <date>2022-08-14</date>
     <theater home="true"/>
     <director>John Krasinski</director>
