@@ -2,6 +2,12 @@
 <podcasts created="2016-05-10">
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date>2022-08-29</date>
+    <name url="http://verybadwizards.com/">Very Bad Wizards</name>
+    <episode>Ask Us Anything #9</episode>
+    <comments>I was disappointed when Dave said that "acupuncture works, because it works on horses and there's no placebo effect with horses". The placebo effect is not the only variable you have to take into account. Human biases and expectations, in the case of horses, are another one. Also, doing good studies on acupuncture is notoriously very hard, because it's almost impossible to have a good control group (e.g. using sham needles). Another interesting part: it's important to feel good while doing good things. This is a topic already mentioned multiple times by Sam Harris and this is highly problematic when you're trying to implement effective altruism. For example, giving money to effective charities doesn't feel good at all to me. It's too abstract. I don't see the consequences. But it's one of the best thing I can do.</comments>
+  </podcast>
+  <podcast>
     <date>2022-08-21</date>
     <name url="https://absolutelymental.com/">Absolutely Mental</name>
     <episode number="8">Why do we fear death?</episode>
