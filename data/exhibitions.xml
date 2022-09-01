@@ -3,6 +3,30 @@
 <exhibitions created="2011-05-17">
     <introduction>A list of exhibitions I visited.</introduction>
     <exhibition>
+        <date>2022-08-09</date>
+        <name>Permanent exhibition. Antoine de Saint Exupéry, Un Petit Prince parmi les Hommes.</name>
+        <museum>L'Envol des Pionniers, Toulouse, France</museum>
+        <rating>5.0</rating>
+        <comments>It's important to understand and remember that sending a letter accross the world, less than a century ago, was something completely crazy and difficult. At least sometimes. Courageous people risked their lives. Now, of course, you just send an email or a WhatsApp message, but there's less adventure in the process.</comments>
+        <image>Antoine de Saint Exupéry, Un Petit Prince parmi les Hommes.jpg</image>
+    </exhibition>
+    <exhibition>
+        <date>2022-08-08</date>
+        <name>Permanent exhibition</name>
+        <museum>Cité de l'Espace, Toulouse, France</museum>
+        <rating>5.25</rating>
+        <comments>We've only seen a small part of the Cité de l'Espace, as it's quite big. The presentation of the Mars rovers was particularly well done. Also the part about the new Moon missions, explaining how human beings will be able to live on the Moon, etc., was interesting for adults, as well as for our 4-year-old son. We live exciting times and the exhibit managed to convey that.</comments>
+        <image>Cité de l'Espace.jpg</image>
+    </exhibition>
+    <exhibition>
+        <date>2022-08-07</date>
+        <name>Permanent exhibition</name>
+        <museum>Halle de la Machine, Toulouse, France</museum>
+        <rating>5.5</rating>
+        <comments>We already visited Les Machines de l'Île and the Grand Éléphant in Nantes in 2020. That was already a fantastic experience. The Minotaur is breathtaking as well and we had the opportunity to see the Dragon Horse before it's going back to China. That was an incredible experience.</comments>
+        <image>Halle de la Machine.jpg</image>
+    </exhibition>
+    <exhibition>
         <date>2022-05-27</date>
         <name>Permanent exhibition (incl. Encountering Böcklin)</name>
         <museum>Kunstmuseum, Basel, Switzerland</museum>
@@ -170,7 +194,7 @@
         <name>Permanent exhibition</name>
         <museum>Spielzeug Welten Museum, Basel, Switzerland</museum>
         <rating>5.0</rating>
-        <comments>I honeslty didn't expect to enjoy this museum as much as I did. We mainly went there because (thanks?) to our 2-year old son. This was a brief magical return to childhood.</comments>
+        <comments>I honestly didn't expect to enjoy this museum as much as I did. We mainly went there because (thanks?) to our 2-year old son. This was a brief magical return to childhood.</comments>
         <image>Spielzeug Welten Museum.jpg</image>
         <pictures url="https://www.flickr.com/photos/bruchez/albums/72157716361426522"/>
     </exhibition>
