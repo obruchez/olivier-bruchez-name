@@ -7648,6 +7648,15 @@
     <version>fr</version>
   </movie>
   <movie>
+    <date>2002-08-10</date>
+    <theater home="true"/>
+    <director>Vincenzo Natali</director>
+    <title>Cube</title>
+    <version>fr</version>
+    <url>https://www.imdb.com/title/tt0123755/</url>
+    <image>Cube.jpg</image>
+  </movie>
+  <movie>
     <date>2002-07-10</date>
     <title>Men In Black 2</title>
   </movie>
@@ -8283,8 +8292,11 @@
   </movie>
   <movie>
     <date>1999-11-17</date>
+    <director>Vincenzo Natali</director>
     <title>Cube</title>
     <version>fr</version>
+    <url>https://www.imdb.com/title/tt0123755/</url>
+    <image>Cube.jpg</image>
   </movie>
   <movie>
     <date>1999-11-09</date>
