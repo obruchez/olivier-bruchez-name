@@ -2,6 +2,12 @@
 <podcasts created="2016-05-10">
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date>2022-09-02</date>
+    <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
+    <episode url="https://www.samharris.org/podcasts/making-sense-episodes/288-the-end-of-global-order" number="288">The End of Global Order - A Conversation with Peter Zeihan and Ian Bremmer</episode>
+    <comments>Not exactly the kind of episodes I should be listening right now, as the news this year tends to make me anxious (Ukraine/Russia, Taiwan/China, enegergy crisis, climate crisis, etc.). Still I stay optimistic about the long term future of the world...</comments>
+  </podcast>
+  <podcast>
     <date>2022-08-29</date>
     <name url="http://verybadwizards.com/">Very Bad Wizards</name>
     <episode>Ask Us Anything #9</episode>
