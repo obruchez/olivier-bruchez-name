@@ -1559,6 +1559,14 @@
     <image>Le Retour à la Terre - Les Révolutions.jpg</image>
   </comic>
   <comic>
+    <date>2002-09-04</date>
+    <writer>Jacques Martin</writer>
+    <artist>Jacques Martin</artist>
+    <series url="https://fr.wikipedia.org/wiki/Alix_(bande_dessin%C3%A9e)">Alix</series>
+    <volume url="https://fr.wikipedia.org/wiki/Iorix_le_grand" number="10">Iorix le grand</volume>
+    <image>Alix - Iorix le grand.jpg</image>
+  </comic> 
+  <comic>
     <date>2002-09-02</date>
     <writer>Roger Leloup</writer>
     <artist>Roger Leloup</artist>
