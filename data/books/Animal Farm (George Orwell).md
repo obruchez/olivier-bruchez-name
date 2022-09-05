@@ -1,0 +1,2 @@
+# Animal Farm (George Orwell)
+* After much choking, during which his various chins turned purple, he managed to get it out: “If you have your lower animals to contend with,’ he said, “we have our lower classes!’ This bon mot set the table in a roar; and Mr. Pilkington once again congratulated the pigs on the low rations, the long working hours, and the general absence of pampering which he had observed on Animal Farm. (p. 94)
