@@ -2,6 +2,12 @@
 <podcasts created="2016-05-10">
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date>2022-09-06</date>
+    <name url="https://www.mushroomrevival.com/">Mushroom Revival Podcast</name>
+    <episode url="https://www.mushroomrevival.com/blogs/podcast/microdosing-psilocybin-with-dr-james-fadiman">Microdosing Psilocybin with Dr. James Fadiman</episode>
+    <comments>I know it's hard or impossible to design good studies about psychedelics, because once you go over a given dosage, well, it becomes impossible to have a good placebo (i.e. it becomes impossible *not* to be able to say that you were not given a placebo). That being said, Fadiman is slightly too critical of science and pharma to my taste. It really sounds like he starts from the conclusion (i.e. psilocybin "works", whatever that means) and then look a the evidence, the studies, etc. very critically. Both Fadiman and the host are looking at the placebo effect from the wrong angle, in my opinion. I really don't like that idea that if something "works", you don't care whether it's because of the placebo effect or not. If something's just a placebo effect, then it probably means that it might be a good idea to look for better alternatives, because the placebo effect, as far as I'm aware, is often more modest than what most people think. Regression to the means is often a more likely explanation. Also, the placebo effect is often about the symptoms and you probably want to focus more on the root of your problems. I was not a fan of <i>The Psychedelic Explorer's Guide</i> and this is a confirmation that the field definitely needs more serious/curious people. Maybe one thing to retain from that discussion: Fadiman seems to say that microdosing is not about subperceptual doses, but slightly higher doses.</comments>
+  </podcast>
+  <podcast>
     <date>2022-09-02</date>
     <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
     <episode url="https://www.samharris.org/podcasts/making-sense-episodes/288-the-end-of-global-order" number="288">The End of Global Order - A Conversation with Peter Zeihan and Ian Bremmer</episode>
