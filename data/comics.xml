@@ -1559,6 +1559,15 @@
     <image>Le Retour à la Terre - Les Révolutions.jpg</image>
   </comic>
   <comic>
+    <date>2002-09-10</date>
+    <writer>Roger Leloup</writer>
+    <artist>Roger Leloup</artist>
+    <colorist>Studio Leonardo</colorist>
+    <series url="https://fr.wikipedia.org/wiki/Yoko_Tsuno">Yoko Tsuno</series>
+    <volume url="https://fr.wikipedia.org/wiki/La_Forge_de_Vulcain_(Yoko_Tsuno)" number="3">La Forge de Vulcain</volume>
+    <image>Yoko Tsuno - La Forge de Vulcain.jpg</image>
+  </comic>
+  <comic>
     <date>2002-09-04</date>
     <writer>Jacques Martin</writer>
     <artist>Jacques Martin</artist>
