@@ -3,6 +3,16 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Checklist: add rating to IMDb -->
   <movie>
+    <date>2022-09-12</date>
+    <theater home="true"/>
+    <director>John G. Avildsen</director>
+    <title>Rocky</title>
+    <url>https://www.imdb.com/title/tt0075148/</url>
+    <rating>4.5</rating>
+    <comments>I've known about <i>Rocky</i> since I was a child, but I had never actually seen it, for some reasons. It's a simple, almost naive, but enjoyable story.</comments>
+    <image>Rocky.jpg</image>
+  </movie>
+  <movie>
     <date>2022-08-29</date>
     <theater home="true"/>
     <director>Stanley Kramer</director>
