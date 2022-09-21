@@ -14,7 +14,7 @@ Oui. Résultat : ? (?.?%)
 
 Non. Résultat : ? (?.?%)
 
-- L'argument de l'inflation, touchant particulièrement les personnes à bas revenu, me semble particulièrement pertinent. Ce n'est pas le moment d'élever la TVA. D'autres sources de financement (visant surtout les personnes riches) sont possibles.
+- L'argument de l'inflation, touchant particulièrement les personnes à bas revenus, me semble particulièrement pertinent. Ce n'est pas le moment d'augmenter la TVA. D'autres sources de financements (visant surtout les personnes riches) sont possibles.
 
 ### Acceptez-vous la modification du 17 décembre 2021 de la loi fédérale sur l’assurance-vieillesse et survivants (LAVS) (AVS 21) ?
 
