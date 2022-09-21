@@ -2,24 +2,48 @@
 
 My votes (in French). En Suisse, on ne plaisante pas avec la démocratie directe. :) J'essaie ici de documenter et de justifier la façon dont je me positionne par rapport aux votations fédérales, qui ont lieu jusqu'à quatre fois par année.
 
+## [Votation fédérale du 25 septembre 2022](https://www.admin.ch/gov/fr/accueil/documentation/votations/20220925.html)
+
+### Acceptez-vous l’initiative populaire « Non à l’élevage intensif en Suisse (initiative sur l’élevage intensif) » ?
+
+Oui. Résultat : ? (?.?%)
+
+- L'argument selon lequel la Suisse en fait déjà beaucoup est mauvais. Cela est peut-être vrai en comparaison internationale, mais la situation à l'étranger est mauvaise, de manière générale. La Suisse peut beaucoup mieux faire.
+
+### Acceptez-vous l’arrêté fédéral du 17 décembre 2021 sur le financement additionnel de l’AVS par le biais d’un relèvement de la TVA ?
+
+Non. Résultat : ? (?.?%)
+
+- L'argument de l'inflation, touchant particulièrement les personnes à bas revenu, me semble particulièrement pertinent. Ce n'est pas le moment d'élever la TVA. D'autres sources de financement (visant surtout les personnes riches) sont possibles.
+
+### Acceptez-vous la modification du 17 décembre 2021 de la loi fédérale sur l’assurance-vieillesse et survivants (LAVS) (AVS 21) ?
+
+Non. Résultat : ? (?.?%)
+
+- L'argument de l'inégalité salariale homme/femme me semble également pertinent. Une retraite au même âge paraît à première vue juste, mais, au vu de cette inégalité salariale, elle devient parfaitement injuste.
+
+### Acceptez-vous la modification du 17 décembre 2021 de la loi fédérale sur l’impôt anticipé (LIA) (Renforcement du marché des capitaux de tiers) ?
+
+Non. Résultat : ? (?.?%)
+
 ## [Votation fédérale du 15 mai 2022](https://www.admin.ch/gov/fr/accueil/documentation/votations/20220515.html)
 
 ### Acceptez-vous la modification du 1er octobre 2021 de la loi fédérale sur la culture et la production cinématographiques (loi sur le cinéma, LCin) ?
 
-Oui. Résultat : ? (?.?%)
+Oui. Résultat : oui (58.4%)
 
 - La loi me semble raisonnable. Il est important d'encourager, même un tout petit peu, la culture suisse et européenne.
 
 ### Acceptez-vous la modification du 1er octobre 2021 de la loi fédérale sur la transplantation d’organes, de tissus et de cellules (loi sur la transplantation) ?
 
-Oui. Résultat : ? (?.?%)
+Oui. Résultat : oui (60.2%)
 
 - L'argument principal du comité référendaire (celui de l'ignorance) me paraît particulièrement faible.
 - D'un point de vue éthique (i.e. si l'on cherche à diminuer la quantité globale de souffrance), le consentement présumé est clairement la meilleure solution.
 
 ### Acceptez-vous l’arrêté fédéral du 1er octobre 2021 portant approbation et mise en oeuvre de l’échange de notes entre la Suisse et l’Union européenne concernant la reprise du règlement (UE) 2019/1896 relatif au corps européen de garde-frontières et de garde-côtes et abrogeant les règlements (UE) no 1052/2013 et (UE) 2016/1624 (développement de l’acquis de Schengen) ?
 
-Oui. Résultat : ? (?.?%)
+Oui. Résultat : oui (71.5%)
 
 - En général, étant plutôt de gauche, je "devrais" voter non.
 - Je vote ici oui en partant du principe qu'il vaut mieux participer à un système que l'on veut améliorer que risquer de s'en exclure.
