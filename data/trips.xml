@@ -2,6 +2,13 @@
 <trips created="2008-02-26">
   <introduction>A list of trips I took.</introduction>
   <trip>
+    <from>2022-09-17</from>
+    <to>2022-09-19</to>
+    <place>Basel, Switzerland / Europa-Park, Germany</place>
+    <!-- <pictures url=""></pictures> -->
+    <comments>Our 5<th>th</th> trip to Basel and 5<th>th</th> visit to Europa-Park, this time with our 4-year-old son. In Basel, we visited the Basel Paper Mill, which is a fantastic place for children (and adults!), and went to Aquabasilea.</comments>
+  </trip>
+  <trip>
     <from>2022-07-27</from>
     <to>2022-08-10</to>
     <place>Le Boucanet / Montpellier / Carcassonne / Toulouse, France</place>
@@ -578,7 +585,6 @@
     <place>Rome, Italy</place>
     <pictures url="http://erik.bruchez.name/pictures/ebruchez/album/520521"/>
   </trip>
-  
   <trip>
     <from>2005-04-15</from>
     <to>2005-04-16</to>
