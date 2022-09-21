@@ -2,6 +2,12 @@
 <podcasts created="2016-05-10">
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date>2022-09-20</date>
+    <name url="https://podcast.ausha.co/violet">Violet - Le Podcast sur Prince et le Minneapolis Sound</name>
+    <episode url="https://podcast.ausha.co/violet/the-rainbow-children-l-episode-en-public">The Rainbow Children : L’épisode en public</episode>
+    <comments>L'un des derniers grands albums de Prince. Un épisode (en public) à la hauteur de l'oeuvre.</comments>
+  </podcast>
+  <podcast>
     <date>2022-09-06</date>
     <name url="https://www.mushroomrevival.com/">Mushroom Revival Podcast</name>
     <episode url="https://www.mushroomrevival.com/blogs/podcast/microdosing-psilocybin-with-dr-james-fadiman">Microdosing Psilocybin with Dr. James Fadiman</episode>
