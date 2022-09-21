@@ -3,6 +3,14 @@
 <exhibitions created="2011-05-17">
     <introduction>A list of exhibitions I visited.</introduction>
     <exhibition>
+        <date>2022-09-17</date>
+        <name>Permanent exhibition</name>
+        <museum>Basel Paper Mill, Basel, Switzerland</museum>
+        <rating>5.0</rating>
+        <comments>A relatively small museum, ideal for children and adults alike. It's informative and entertaining at the same time, with quite a lot of items on display.</comments>
+        <image>Basel Paper Mill.jpg</image>
+    </exhibition>
+    <exhibition>
         <date>2022-08-09</date>
         <name>Permanent exhibition. Antoine de Saint Exupéry, Un Petit Prince parmi les Hommes.</name>
         <museum>L'Envol des Pionniers, Toulouse, France</museum>
