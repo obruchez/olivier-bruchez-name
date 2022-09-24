@@ -3,6 +3,16 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Checklist: add rating to IMDb -->
   <movie>
+    <date>2022-09-23</date>
+    <theater home="true"/>
+    <director>Jim Sheridan</director>
+    <title>In the Name of the Father</title>
+    <url>https://www.imdb.com/title/tt0107207/</url>
+    <rating>4.75</rating>
+    <comments>Since watching the movie, I've learnt that the story was highly romanticized (compared to what really happened). I'm not surprised. Still, I've found it very entertaining, even touching at times.</comments>
+    <image>In the Name of the Father.jpg</image>
+  </movie>
+  <movie>
     <date>2022-09-12</date>
     <theater home="true"/>
     <director>John G. Avildsen</director>
