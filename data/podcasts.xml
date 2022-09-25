@@ -2,6 +2,12 @@
 <podcasts created="2016-05-10">
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date>2022-09-22</date>
+    <name url=""></name>
+    <episode url="https://hiddenbrain.org/podcast/the-one-room-commute/">Work 2.0: The One-Room Commute</episode>
+    <comments>An end-of-2021 perspective on remote/home working. I guess the conclusion is that home/remote working is not for everyone. Not everyone can do it (logistically). Not everyone <em>wants</em> to do it. Not everyone likes it. It depends a lot on personal factors. Do you have a suitable place at home to work? Are you comfortable being socially more isolated? Do you have the discipline necessary to be productive at home? By the way, are you even <em>that</em> productive at the office, surrounded by colleagues? It seems that, for some people, it's even positive to see colleagues that they don't particularly appreciate from time to time, rather than to not see them at all. We're social animals, after all. It's a very complex topic and I'm pretty sure a lot of those questions are not settled yet.</comments>
+  </podcast>
+  <podcast>
     <date>2022-09-20</date>
     <name url="https://podcast.ausha.co/violet">Violet - Le Podcast sur Prince et le Minneapolis Sound</name>
     <episode url="https://podcast.ausha.co/violet/the-rainbow-children-l-episode-en-public">The Rainbow Children : L’épisode en public</episode>
