@@ -3,6 +3,16 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Checklist: add rating to IMDb -->
   <movie>
+    <date>2022-09-30</date>
+    <theater home="true"/>
+    <director>William Wyler</director>
+    <title>The Best Years of Our Lives</title>
+    <url>https://www.imdb.com/title/tt0036868/</url>
+    <rating>4.75</rating>
+    <comments>Three American veterans come back to their families after World War II and have to fight their demons. Nowadays I guess we would say they suffer from PTSD (post-traumatic stress disorder). It's cruel to see that, at the time, they have to deal with those situations almost alone, without any help from the government, from doctors, etc. All in all, a very moving movie dealing with important topics.</comments>
+    <image>The Best Years of Our Lives.jpg</image>
+  </movie>
+  <movie>
     <date>2022-09-23</date>
     <theater home="true"/>
     <director>Jim Sheridan</director>
