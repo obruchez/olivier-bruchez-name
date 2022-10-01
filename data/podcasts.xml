@@ -2,6 +2,12 @@
 <podcasts created="2016-05-10">
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date>2022-09-29</date>
+    <name url="https://www.foundmyfitness.com/episodes">FoundMyFitness</name>
+    <episode url="https://www.foundmyfitness.com/episodes/stuart-phillips" number="76">Stuart Phillips, PhD, on Building Muscle with Resistance Exercise and Reassessing Protein Intake</episode>
+    <comments>It's becoming clearer and clearer that, while I'm exercising regularly (3 times a week), I should focus more on strength training, muscle building, proteins, etc. Focusing on consuming enough proteins (1.2-1.6 g per kg of body weight, so about 80-100 g for me) is really important. The kind of protein (animal vs plant) and the way it's split (or not) during the day are less important. Vitamin D3 and omega 3 are important. Creatine (4-5 g) is useful as well (muscles and brain). Sauna is important (I should use the one at my gym way more often).</comments>
+  </podcast>
+  <podcast>
     <date>2022-09-22</date>
     <name url="https://absolutelymental.com/">Absolutely Mental</name>
     <episode number="9">How can stories make us cry?</episode>
