@@ -2,6 +2,17 @@
 <books created="2006-08-20">
     <introduction>A list of books I read.</introduction>
     <book>
+        <date>2022-09-30</date>
+        <title>Brave New World</title>
+        <author>Aldous Huxley</author>
+        <publishingyear>1932</publishingyear>
+        <rating>4.0</rating>
+        <url>https://en.wikipedia.org/wiki/Brave_New_World</url>
+        <notes description="Kindle highlights"></notes>
+        <comments>It's a classic, but for some reasons I found it very hard to enjoy it. Maybe the vocabulary is harder to understand for non-native English readers than in most books? I don't know. I had to read a summary of the story half-way through to get an idea of what was happening.</comments>
+        <image>Brave New World.jpg</image>
+    </book>
+    <book>
         <date>2022-08-04</date>
         <title>Le Joueur d'échecs</title>
         <author>Stefan Zweig</author>
