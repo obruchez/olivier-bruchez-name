@@ -3,6 +3,16 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Checklist: add rating to IMDb -->
   <movie>
+    <date>2022-10-05</date>
+    <theater home="true"/>
+    <director>Oliver Stone</director>
+    <title>Platoon</title>
+    <url>https://www.imdb.com/title/tt0091763/</url>
+    <rating>4.75</rating>
+    <comments>Another movie about the absurdity and atrocities of war. Some scenes were hard to watch. One of Johnny Depp's earliest appearances. I was also surprised to learn that Corey Glover (from Living Colour) played in that movie.</comments>
+    <image>Platoon.jpg</image>
+  </movie>
+  <movie>
     <date>2022-09-30</date>
     <theater home="true"/>
     <director>William Wyler</director>
