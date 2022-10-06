@@ -2,6 +2,12 @@
 <podcasts created="2016-05-10">
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date>2022-10-06</date>
+    <name url="https://peterattiamd.com/podcast/">The Peter Attia Drive Podcast</name>
+    <episode url="https://peterattiamd.com/exercising-for-longevity/" number="206">Exercising for longevity: strength, stability, zone 2, zone 5, and more</episode>
+    <comments>Another reminder that I should do more strength training. Zone 2 is a good exercise zone. There's virtually no limit to how much zone 2 exercice you should do. The more, the better. It's also a zone where you can do something else while exercising (e.g. focusing on a podcast or a video), so it's a good way to associate fun things with exercise. Cardio should be done before strength training (good: it's already what I'm doing). Peter's way of thinking (focusing on what you want to do when you're 100) is a good way to look at things.</comments>
+  </podcast>
+  <podcast>
     <date>2022-09-29</date>
     <name url="https://www.foundmyfitness.com/episodes">FoundMyFitness</name>
     <episode url="https://www.foundmyfitness.com/episodes/stuart-phillips" number="76">Stuart Phillips, PhD, on Building Muscle with Resistance Exercise and Reassessing Protein Intake</episode>
