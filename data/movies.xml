@@ -3,6 +3,16 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Checklist: add rating to IMDb -->
   <movie>
+    <date>2022-10-10</date>
+    <theater home="true"/>
+    <director>John Ford</director>
+    <title>The Grapes of Wrath</title>
+    <url>https://www.imdb.com/title/tt0032551/</url>
+    <rating>5.0</rating>
+    <comments>A moving film about a poor family during the Great Depression. I liked the scene with the mother and son at the end. I don't know if it's in the book as well, but I liked this idea of "universal consciousness", of being part of humanity, of something bigger than ourselves.</comments>
+    <image>The Grapes of Wrath.jpg</image>
+  </movie>
+  <movie>
     <date>2022-10-05</date>
     <theater home="true"/>
     <director>Oliver Stone</director>
