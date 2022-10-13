@@ -2,6 +2,12 @@
 <podcasts created="2016-05-10">
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date>2022-10-12</date>
+    <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
+    <episode url="https://www.samharris.org/podcasts/making-sense-episodes/289-time-management-for-mortals" number="289">Time Management for Mortals - A Conversation with Oliver Burkeman</episode>
+    <comments>A really important episode (for me). I've read Burkeman's book, but I think I'll need to listen to this episode multiple times. And the rest of the "courses" on Waking Up as well.</comments>
+  </podcast>
+  <podcast>
     <date>2022-10-11</date>
     <name url="https://hubermanlab.com/">Huberman Lab</name>
     <episode url="https://hubermanlab.com/the-effects-of-cannabis-marijuana-on-the-brain-and-body/" number="92">The Effects of Cannabis (Marijuana) on the Brain &amp; Body</episode>
