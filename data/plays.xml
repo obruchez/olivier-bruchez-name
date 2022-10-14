@@ -9,6 +9,28 @@
     <actor></actor>
   -->
   <play>
+    <date>2022-10-11</date>
+    <location>Pulloff Théâtres, Lausanne, Switzerland</location>
+    <name>Saint Exupéry, volé au ciel</name>
+    <author>Stéphane Albelda</author>
+    <director>Stéphane Albelda</director>
+    <actor>Didier Disero</actor>
+    <actor>Stéphane Liard</actor>
+    <actor>Daphné-Rhéa Pellissier</actor>
+    <actor>Elise Agati</actor>
+    <actor>Sébastien Rey</actor>
+    <rating>4.75</rating>
+    <comments>Une belle pièce sur la vie réelle et imaginée de Saint Exupéry. "Que peut-on opposer à la dévastation ? Peu de choses : le courage et le regard juste, d’où naissent l’amour et la solidarité. Saint Exupéry, volé au ciel, esquisse, de manière impressionniste, les mots, les actions, les forces et les faiblesses d’un homme qui a pris la mesure de lui-même dans l’épreuve concrète de l’engagement." Des acteurs plein d'énergie, qui remplissent le public d'émotion et de bonheur.</comments>
+    <image>Saint Exupéry, volé au ciel.png</image>
+    <!--
+    composition : Elise Agati, Stéphane Albelda, Sébastien Rey
+	scénographie : Marie-Hélène Papilloud
+	lumières : Dominique Fumeaux
+	vidéo : Guillaume Mayoraz
+	costumes : Cécile Revaz
+    -->
+  </play>
+  <play>
     <date>2022-02-13</date>
     <location>Théâtre de Beausobre, Morges, Switzerland</location>
     <name>Chat Chat</name>
@@ -43,7 +65,6 @@
 	photos : Mercedes Riedy
     -->
   </play>
-
   <play>
     <date>2021-08-14</date>
     <location>Carrière des Andonces, St-Triphon, Switzerland</location>
