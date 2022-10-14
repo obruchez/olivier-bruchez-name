@@ -4658,7 +4658,7 @@
     <title>Being John Malkovich</title>
     <title language="fr">Dans la peau de John Malkovich</title>
     <url>https://www.imdb.com/title/tt0120601/</url>
-    <rating>4.75</rating>$
+    <rating>4.75</rating>
     <image>Being John Malkovich.jpg</image>
   </movie>
   <movie>
@@ -7675,6 +7675,16 @@
     <version>fr</version>
   </movie>
   <movie>
+    <date>2002-10-14</date>
+    <theater home="true"/>
+    <director>Spike Jonze</director>
+    <title>Being John Malkovich</title>
+    <title language="fr">Dans la peau de John Malkovich</title>
+    <version>fr</version>
+    <url>https://www.imdb.com/title/tt0120601/</url>
+    <image>Being John Malkovich.jpg</image>
+  </movie>
+  <movie>
     <date>2002-10-10</date>
     <title>La Mémoire Dans La Peau</title>
     <version>fr</version>
@@ -8327,8 +8337,13 @@
   </movie>
   <movie>
     <date>1999-12-14</date>
-    <title>Dans La Peau De John Malkovitch</title>
+    <theater home="true"/>
+    <director>Spike Jonze</director>
+    <title>Being John Malkovich</title>
+    <title language="fr">Dans la peau de John Malkovich</title>
     <version>fr</version>
+    <url>https://www.imdb.com/title/tt0120601/</url>
+    <image>Being John Malkovich.jpg</image>
   </movie>
   <movie>
     <date>1999-12-01</date>
