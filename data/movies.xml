@@ -3,6 +3,16 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Checklist: add rating to IMDb -->
   <movie>
+    <date>2022-10-15</date>
+    <theater home="true"/>
+    <director>Stuart Rosenberg</director>
+    <title>Cool Hand Luke</title>
+    <url>https://www.imdb.com/title/tt0061512/</url>
+    <rating>5.0</rating>
+    <comments>An excellent surprise! I was expecting the usual "prison movie", but Paul Newman's character keeps behaving in perplexing, but still kind-of-charming ways. He's an anti-conformist, but also an anti-hero, which gives the movie a very moving tone.</comments>
+    <image>Cool Hand Luke.jpg</image>
+  </movie>
+  <movie>
     <date>2022-10-10</date>
     <theater home="true"/>
     <director>John Ford</director>
