@@ -2,6 +2,12 @@
 <podcasts created="2016-05-10">
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date>2022-10-15</date>
+    <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
+    <episode url="https://www.samharris.org/podcasts/making-sense-episodes/291-where-is-happiness" number="291">Where is Happiness? - A Conversation with Arthur C. Brooks</episode>
+    <comments>Nothing really new, here. To be happy, we have to do things that benefit others. A nice discussion, overall.</comments>
+  </podcast>
+  <podcast>
     <date>2022-10-12</date>
     <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
     <episode url="https://www.samharris.org/podcasts/making-sense-episodes/289-time-management-for-mortals" number="289">Time Management for Mortals - A Conversation with Oliver Burkeman</episode>
