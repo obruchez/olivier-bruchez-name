@@ -3,6 +3,14 @@
 <exhibitions created="2011-05-17">
     <introduction>A list of exhibitions I visited.</introduction>
     <exhibition>
+        <date>2022-10-16</date>
+        <name>Pauline Julier - Meadow</name>
+        <museum>Musée de Bagnes, Le Châble, Switzerland</museum>
+        <rating>4.5</rating>
+        <comments>Exhibition located in Fionnay, around the Bassin de Compensation. An intriguing set of photos taken between Chile and Mars, among others.</comments>
+        <image>Pauline Julier - Meadow.jpg</image>
+    </exhibition>
+    <exhibition>
         <date>2022-09-17</date>
         <name>Permanent exhibition</name>
         <museum>Basel Paper Mill, Basel, Switzerland</museum>
