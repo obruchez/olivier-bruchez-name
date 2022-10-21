@@ -2,6 +2,12 @@
 <podcasts created="2016-05-10">
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date>2022-10-20</date>
+    <name url="https://www.bbc.co.uk/programmes/b0144txn">BBC Radio 3 - Free Thinking</name>
+    <episode url="https://www.bbc.co.uk/programmes/m001cnwd">Miles Davis and On The Corner</episode>
+    <comments>Nothing really new, but it was kind of fun hearing fresh views on a 50-year-old album. Bill Laswell sounded a bit <i>blasé</i>. I'm glad Paul Tingen took Teo Macero's defense. I think Bill's a bit too harsh, here. Teo was more than just a salaried employee.</comments>
+  </podcast>
+  <podcast>
     <date>2022-10-15</date>
     <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
     <episode url="https://www.samharris.org/podcasts/making-sense-episodes/291-where-is-happiness" number="291">Where is Happiness? - A Conversation with Arthur C. Brooks</episode>
