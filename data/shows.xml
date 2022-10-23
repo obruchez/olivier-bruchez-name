@@ -17,9 +17,15 @@
   </show>
   <show>
     <date></date>
+    <name url="https://en.wikipedia.org/wiki/Scenes_from_a_Marriage">Scenes from a Marriage</name>
+    <comments></comments>
+    <image>Scenes from a Marriage.jpg</image>
+  </show>
+  <show>
+    <date>2022-10-21</date>
     <name url="https://en.wikipedia.org/wiki/Solar_Opposites">Solar Opposite</name>
     <series url="https://en.wikipedia.org/wiki/List_of_Solar_Opposites_episodes#Season_3_(2022)" type="season">3</series>
-    <comments></comments>
+    <comments>Another great season.</comments>
     <image>Solar Opposite.jpg</image>
   </show>
   <show>
