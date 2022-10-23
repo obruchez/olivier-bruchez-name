@@ -2,6 +2,12 @@
 <podcasts created="2016-05-10">
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date>2022-10-22</date>
+    <name url="https://absolutelymental.com/">Absolutely Mental</name>
+    <episode number="10">What's so great about life?</episode>
+    <comments>Sharing our good experiences with other people. Living for others and/or something bigger than us (e.g. a cause). "Ricky calls Sam to ask what makes life worth living. They discuss the implications of fame, mortality, and the importance of dying in the right outfit."</comments>
+  </podcast>
+  <podcast>
     <date>2022-10-20</date>
     <name url="https://www.bbc.co.uk/programmes/b0144txn">BBC Radio 3 - Free Thinking</name>
     <episode url="https://www.bbc.co.uk/programmes/m001cnwd">Miles Davis and On The Corner</episode>
