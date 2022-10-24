@@ -580,7 +580,16 @@
     <place>Milan, Italy</place>
     <pictures url="http://www.flickr.com/photos/bruchez/sets/1020749/"/>
   </trip>
-  
+  <trip>
+    <from>2005-06-17</from>
+    <to>2005-06-19</to>
+    <place>Münster, Germany</place>
+  </trip>
+  <trip>
+    <from>2005-05-20</from>
+    <to>2005-05-22</to>
+    <place>Münster, Germany</place>
+  </trip>
   <trip>
     <from>2004-11-06</from>
     <to>2004-11-08</to>
