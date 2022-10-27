@@ -2,6 +2,12 @@
 <podcasts created="2016-05-10">
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date>2022-10-27</date>
+    <name url="https://podcast.ausha.co/violet">Violet - Le Podcast sur Prince et le Minneapolis Sound</name>
+    <episode url="https://podcast.ausha.co/violet/one-nite-alone-jusqu-au-bout-de-la-nuit">One Nite Alone : Jusqu'au bout de la Nuit</episode>
+    <comments>Une année très spéciale : 2002. Appartenant au NPG Music Club, nous avions pu assister aux soundchecks avant les concerts (pour ma part à Zürich). Après le concert, j'avais pu rencontrer Prince et lui serrer la main au Kaufleuten. Ce sont de bons souvenirs et l'enregistrement live principal (<i>One Nite Alone... Live!</i>) est un bon témoignagne de cette période excellente et particulièrement musicale de Prince.</comments>
+  </podcast>
+  <podcast>
     <date>2022-10-25</date>
     <name url="https://www.happinesslab.fm/">The Happiness Lab</name>
     <episode url="https://www.pushkin.fm/podcasts/the-happiness-lab-with-dr-laurie-santos/how-to-be-angry-better">How to be Angry Better</episode>
