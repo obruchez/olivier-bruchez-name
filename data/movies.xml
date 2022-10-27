@@ -3,6 +3,16 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Checklist: add rating to IMDb -->
   <movie>
+    <date>2022-10-27</date>
+    <theater home="true"/>
+    <director>Neil Marshall</director>
+    <title>The Descent</title>
+    <url>https://www.imdb.com/title/tt0435625/</url>
+    <rating>3.5</rating>
+    <comments>I quite liked the first half of the movie, but not the second part (the goblins/gory part). This is probably the other way round for most people. The very end was pretty good.</comments>
+    <image>The Descent.jpg</image>
+  </movie>
+  <movie>
     <date>2022-10-16</date>
     <theater home="true"/>
     <director>Percy Adlon</director>
