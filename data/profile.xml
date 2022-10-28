@@ -168,7 +168,6 @@
         <item url="https://en.wikipedia.org/wiki/Vincent_van_Gogh">Vincent van Gogh</item>
     </list>
     <list title="People who inspire me / thinkers / bloggers">
-        <item url="https://en.wikipedia.org/wiki/Ben_Goldacre">Ben Goldacre</item>
         <item url="https://en.wikipedia.org/wiki/Bertrand_Russel">Bertrand Russel</item>
         <item url="https://en.wikipedia.org/wiki/Carl_Sagan">Carl Sagan</item>
         <item url="https://en.wikipedia.org/wiki/David_Allen_(author)">David Allen</item>
@@ -205,12 +204,13 @@
         <item url="https://en.wikipedia.org/wiki/Valais">Valais</item>
     </list>
     <list title="Podcasts">
-        <item url="https://www.foundmyfitness.com/episodes">FoundMyFitness</item>
+        <item url="https://www.foundmyfitness.com/episodes">FoundMyFitness (Rhonda Patrick)</item>
+        <item url="https://hubermanlab.com/">Huberman Lab (Andrew Huberman)</item>
         <item url="https://peachandblack.podbean.com/">Peach &amp; Black</item>
-        <item url="https://www.samharris.org/podcast">Sam Harris (Making Sense)</item>
-        <item url="https://www.happinesslab.fm/">The Happiness Lab</item>
-        <item url="https://nutritionfacts.org/audio/">Nutrition Facts with Dr. Greger</item>
-        <item url="https://peterattiamd.com/podcast/">The Peter Attia Drive Podcast</item>
+        <item url="https://www.samharris.org/podcast">Making Sense (Sam Harris)</item>
+        <item url="https://www.happinesslab.fm/">The Happiness Lab (Laurie Santos)</item>
+        <item url="https://nutritionfacts.org/audio/">Nutrition Facts (Michael Greger)</item>
+        <item url="https://peterattiamd.com/podcast/">The Drive (Peter Attia)</item>
         <item url="https://verybadwizards.fireside.fm/">Very Bad Wizards</item>
         <item url="https://podcast.ausha.co/violet">Violet</item>
     </list>
@@ -254,6 +254,7 @@
         <item url="https://en.wikipedia.org/wiki/Seinfeld">Seinfeld</item>
         <item url="https://en.wikipedia.org/wiki/Severance_(TV_series)">Severance</item>
         <item url="https://en.wikipedia.org/wiki/Silicon_Valley_(TV_series)">Silicon Valley</item>
+        <item url="https://en.wikipedia.org/wiki/Solar_Opposites">Solar Opposites</item>
         <item url="https://en.wikipedia.org/wiki/The_Simpsons">The Simpsons</item>
         <item url="https://en.wikipedia.org/wiki/The_Spoils_of_Babylon">The Spoils of Babylon</item>
         <item url="https://en.wikipedia.org/wiki/The_Tripods_(TV_series)">The Tripods</item>
