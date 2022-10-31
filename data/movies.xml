@@ -3,6 +3,16 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Checklist: add rating to IMDb -->
   <movie>
+    <date>2022-10-28</date>
+    <theater home="true"/>
+    <director>Douglas Trumbull</director>
+    <title>Brainstorm</title>
+    <url>https://www.imdb.com/title/tt0085271/</url>
+    <rating>4.5</rating>
+    <comments>I became obsessed with that movie when I was 10 years old. I recorded it on VHS tape (or my brother did) when it was broadcast on <a href="https://en.wikipedia.org/wiki/France_3">FR3</a> on December 17, 1990. I don't know if I watched it only once then or multiple times. Anyway, I had probably not watched it in 31 years. I since learnt the context in which it was filmed (Natalie Wood's death, Douglas Trumbull's "retirement" after the movie, etc.). Yes, it has its faults and I'm not a fan of the hell/heaven scene, but it's still an intriguing and entertaining movie.</comments>
+    <image>Brainstorm.jpg</image>
+  </movie>
+  <movie>
     <date>2022-10-27</date>
     <theater home="true"/>
     <director>Neil Marshall</director>
