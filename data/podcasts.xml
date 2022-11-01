@@ -2,6 +2,18 @@
 <podcasts created="2016-05-10">
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date>2022-11-01</date>
+    <name url="https://anchor.fm/the-tripodscast">Tripodscast</name>
+    <episode url="https://anchor.fm/the-tripodscast/episodes/Episode-Two-The-City-of-Gold-and-Lead-e19g4ft">Episode Two: The City of Gold and Lead</episode>
+    <comments>An episode about the second book in the trilogy.</comments>
+  </podcast>
+  <podcast>
+    <date>2022-11-01</date>
+    <name url="https://anchor.fm/the-tripodscast">Tripodscast</name>
+    <episode url="https://anchor.fm/the-tripodscast/episodes/Episode-One-The-White-Mountains-e18makc">Episode One: The White Mountains</episode>
+    <comments>I've started watching the BBC TV series (yet again) a few days ago and just discovered this podcast about the book and the series. This first episode is about the first book in the trilogy.</comments>
+  </podcast>
+  <podcast>
     <date>2022-10-27</date>
     <name url="https://podcast.ausha.co/violet">Violet - Le Podcast sur Prince et le Minneapolis Sound</name>
     <episode url="https://podcast.ausha.co/violet/one-nite-alone-jusqu-au-bout-de-la-nuit">One Nite Alone : Jusqu'au bout de la Nuit</episode>
