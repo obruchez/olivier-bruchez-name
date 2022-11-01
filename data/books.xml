@@ -2,6 +2,17 @@
 <books created="2006-08-20">
     <introduction>A list of books I read.</introduction>
     <book>
+        <date>2022-10-31</date>
+        <title>The Doors of Perception</title>
+        <author>Aldous Huxley</author>
+        <publishingyear>1954</publishingyear>
+        <rating>4.0</rating>
+        <url>https://en.wikipedia.org/wiki/The_Doors_of_Perception</url>
+        <notes description="Kindle highlights"></notes>
+        <comments>An intriguing book. A very intellectual take on a mescaline trip, among other topics. Again, I'm not a fan of Huxley's writing. I don't know why exactly.</comments>
+        <image>The Doors of Perception.jpg</image>
+    </book>
+    <book>
         <date>2022-09-30</date>
         <title>Brave New World</title>
         <author>Aldous Huxley</author>
