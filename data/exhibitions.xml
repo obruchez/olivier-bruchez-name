@@ -3,6 +3,15 @@
 <exhibitions created="2011-05-17">
     <introduction>A list of exhibitions I visited.</introduction>
     <exhibition>
+        <date>2022-10-30</date>
+        <name>Achille Laugé</name>
+        <museum>Fondation de l’Hermitage, Lausanne, Switzerland</museum>
+        <rating>4.5</rating>
+        <comments>Yet another painter I had never heard of. Some beautiful paintings.</comments>
+        <image>Achille Laugé.png</image>
+        <!-- <pictures url=""/> -->
+    </exhibition>
+    <exhibition>
         <date>2022-10-16</date>
         <name>Pauline Julier - Meadow</name>
         <museum>Musée de Bagnes, Le Châble, Switzerland</museum>
