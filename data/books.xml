@@ -2,6 +2,17 @@
 <books created="2006-08-20">
     <introduction>A list of books I read.</introduction>
     <book>
+        <date>2022-11-03</date>
+        <title>Heaven and Hell</title>
+        <author>Aldous Huxley</author>
+        <publishingyear>1956</publishingyear>
+        <rating>4.5</rating>
+        <url>https://en.wikipedia.org/wiki/Heaven_and_Hell_(essay)</url>
+        <notes description="Kindle highlights"></notes>
+        <comments>An essay included along with <i>The Doors of Perception</i>. I found it to be a bit more accessible.</comments>
+        <image>Heaven and Hell.jpg</image>
+    </book>
+    <book>
         <date>2022-10-31</date>
         <title>The Doors of Perception</title>
         <author>Aldous Huxley</author>
