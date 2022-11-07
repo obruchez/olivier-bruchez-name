@@ -8784,6 +8784,16 @@
     <image>The Shining.jpg</image>
   </movie>
   <movie>
+    <date>1995-??-??</date>
+    <theater>St-Maurice</theater>
+    <director>Percy Adlon</director>
+    <title>Bagdad Café</title>
+    <url>https://www.imdb.com/title/tt0095801/</url>
+    <comments>Probably seen in 1995.</comments>
+    <image>Bagdad Café.jpg</image>
+  </movie>
+
+  <movie>
     <date>1994-??-??</date>
     <theater>St-Maurice</theater>
     <director>Milos Forman</director>
@@ -8817,7 +8827,6 @@
     <director>Douglas Trumbull</director>
     <title>Brainstorm</title>
     <url>https://www.imdb.com/title/tt0085271/</url>
-    <rating>4.5</rating>
     <comments>Broadcast on <a href="https://en.wikipedia.org/wiki/France_3">FR3</a> on December 17, 1990. Recorded on a VHS tape.</comments>
     <image>Brainstorm.jpg</image>
   </movie>
