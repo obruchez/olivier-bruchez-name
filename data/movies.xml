@@ -8812,6 +8812,16 @@
     <url>https://www.imdb.com/title/tt0086879/</url>
   </movie>
   <movie>
+    <date>1990-12-??</date>
+    <theater home="true"/>
+    <director>Douglas Trumbull</director>
+    <title>Brainstorm</title>
+    <url>https://www.imdb.com/title/tt0085271/</url>
+    <rating>4.5</rating>
+    <comments>Broadcast on <a href="https://en.wikipedia.org/wiki/France_3">FR3</a> on December 17, 1990. Recorded on a VHS tape.</comments>
+    <image>Brainstorm.jpg</image>
+  </movie>
+  <movie>
     <date>1988-??-??</date>
     <theater>Martigny</theater>
     <director>Jean-Jacques Annaud</director>
