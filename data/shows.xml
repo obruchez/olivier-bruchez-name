@@ -18,8 +18,16 @@
   <show>
     <date></date>
     <name url="https://en.wikipedia.org/wiki/The_Tripods_(TV_series)">The Tripods</name>
+    <series type="series">2</series>
+    <image>The Tripods.jpg</image>
+    <!-- RTS = 1988-06-01 -->
+  </show>
+  <show>
+    <date>2022-11-08</date>
+    <name url="https://en.wikipedia.org/wiki/The_Tripods_(TV_series)">The Tripods</name>
     <series type="series">1</series>
     <image>The Tripods.jpg</image>
+    <comments>C'est la quatrième fois que je regarde la première saison des <i>Tripodes</i>, après 1986, 2001 et 2015. Série qui m'avait fascinée lorsque j'avais 7 ans, celle-ci a un peu mal vieilli, il est vrai, en comparaison avec toutes les séries excellentes de ces dernières decennies. L'histoire n'a toutefois pas pris une ride, à mon avis, et c'est une adaptation télévisée qu'il faut savoir regarder en gardant en tête les limitations techniques de l'époque (absence d'images de synthèse), ainsi que le public cible, plutôt jeune.</comments>
   </show>
   <show>
     <date>2022-10-27</date>
@@ -1291,6 +1299,13 @@
     <name url="https://en.wikipedia.org/wiki/The_Tripods_(TV_series)">The Tripods</name>
     <series type="series">1</series>
     <image>The Tripods.jpg</image>
+  </show>
+  <show>
+    <date>1986-01-24</date>
+    <name url="https://en.wikipedia.org/wiki/The_Tripods_(TV_series)">The Tripods</name>
+    <series type="series">1</series>
+    <image>The Tripods.jpg</image>
+    <comments>La série était diffusée en français sur la Télévision Suisse Romande. Le dernier épisode de la première saison, que je suivais avec enthousiasme, a été diffusé le 24 janvier 1986. J'ai probablement dû le regarder en direct.</comments>
   </show>
   <!--
   <show>
