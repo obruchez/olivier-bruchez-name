@@ -7,6 +7,14 @@
   -->
   <introduction>A list of concerts I went to.</introduction>
   <concert>
+    <date>2022-11-06</date>
+    <location>Salle Paderewski, Casino de Montbenon, Lausanne, Switzerland</location>
+    <event>JazzOnze+ Festival Lausanne</event>
+    <musician inst="piano">Abdullah Ibrahim</musician>
+    <rating>5.0</rating>
+    <comments>This was the fourth time I saw Abdullah Ibrahim and the first time in 13 years. This was a beautiful concert, as is his last album. At 88 years old, I don't know if I'll see him live again (you never know). This made this concert even more special.</comments>
+  </concert>
+  <concert>
     <date>2022-07-23</date>
     <location>Salle des Combins, Verbier, Switzerland</location>
     <event>Verbier Festival</event>
