@@ -3,6 +3,78 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Checklist: add rating to IMDb -->
   <movie>
+    <date>2022-11-05</date>
+    <theater>Cinéma Bel-Air, Yverdon</theater>
+    <director>Julia Ocker</director>
+    <title>Elephant</title>
+    <rating>4.0</rating>
+    <comments>La Petite Lanterne : séance émotions</comments>
+    <image>Elephant.jpg</image>
+  </movie>
+  <movie>
+    <date>2022-11-05</date>
+    <theater>Cinéma Bel-Air, Yverdon</theater>
+    <director>Roza Kolchagova</director>
+    <title>Baba</title>
+    <url>https://www.imdb.com/title/tt8207542/</url>
+    <rating>4.75</rating>
+    <comments>La Petite Lanterne : séance émotions</comments>
+    <image>Baba.jpg</image>
+  </movie>
+  <movie>
+    <date>2022-11-05</date>
+    <theater>Cinéma Bel-Air, Yverdon</theater>
+    <director>Lynn Gerlach &amp; Irmgard Walthert</director>
+    <title>Mahlzeit</title>
+    <title language="fr">Repas</title>
+    <url>https://www.imdb.com/title/tt2440962/</url>
+    <rating>3.5</rating>
+    <comments>La Petite Lanterne : séance émotions</comments>
+    <image>Mahlzeit.jpg</image>
+  </movie>
+  <movie>
+    <date>2022-11-05</date>
+    <theater>Cinéma Bel-Air, Yverdon</theater>
+    <director>Frank Braun &amp; Claudius Gentinetta</director>
+    <title>Die Seilbahn</title>
+    <url>https://www.imdb.com/title/tt1233354/</url>
+    <rating>4.5</rating>
+    <comments>La Petite Lanterne : séance émotions</comments>
+    <image>Die Seilbahn.jpg</image>
+  </movie>
+  <movie>
+    <date>2022-11-05</date>
+    <theater>Cinéma Bel-Air, Yverdon</theater>
+    <director>Marek Beneš</director>
+    <title>Pat a Mat: Kopají bazén</title>
+    <title language="fr">Pat et Mat: la piscine</title>
+    <url>https://www.imdb.com/title/tt0849593/</url>
+    <rating>4.25</rating>
+    <comments>La Petite Lanterne : séance émotions</comments>
+    <image>Kopaji bazen.jpg</image>
+  </movie>
+  <movie>
+    <date>2022-11-05</date>
+    <theater>Cinéma Bel-Air, Yverdon</theater>
+    <director>Johannes Weiland &amp; Uwe Heidschötter</director>
+    <title>Der Kleine und das Biest</title>
+    <title language="fr">Le Petit Garçon et le monstre</title>
+    <url>https://www.imdb.com/title/tt2072079/</url>
+    <rating>4.5</rating>
+    <comments>La Petite Lanterne : séance émotions</comments>
+    <image>Der Kleine und das Biest.jpg</image>
+  </movie>
+  <movie>
+    <date>2022-11-05</date>
+    <theater>Cinéma Bel-Air, Yverdon</theater>
+    <director>Conor Finnegan</director>
+    <title>Fluffy McCloud</title>
+    <url>https://www.imdb.com/title/tt6959534/</url>
+    <rating>4.0</rating>
+    <comments>La Petite Lanterne : séance émotions</comments>
+    <image>Fluffy McCloud.jpg</image>
+  </movie>
+  <movie>
     <date>2022-10-28</date>
     <theater home="true"/>
     <director>Douglas Trumbull</director>
@@ -806,7 +878,7 @@
     <title>Average Happiness</title>
     <url>https://www.imdb.com/title/tt10481922/</url>
     <rating>4.5</rating>
-    <comments>"Parmi de nombreux prix et sélections en Suisse et dans le monde, ce court métrage a été couronné Prix du cinéma suisse du meilleur film d'animation en 2020. Il a également fait partie de la dernière Tournée romande de la Nuit du Court métrage." Not bad. It's a bit trippy.</comments>
+    <comments>"Parmi de nombreux prix et sélections en Suisse et dans le monde, ce court métrage a été couronné Prix du cinéma suisse du meilleur film d'animation en 2020. Il a également fait partie de la dernière Tournée romande de la Nuit du Court métrage." Not bad. It's a bit trippy.</comments>
     <image>Average Happiness.jpg</image>
   </movie>
   <movie>
