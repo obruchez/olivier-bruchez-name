@@ -11,7 +11,7 @@
   <show>
     <date></date>
     <name url="https://en.wikipedia.org/wiki/Better_Call_Saul">Better Call Saul</name>
-    <series url="https://en.wikipedia.org/wiki/Better_Call_Saul_(season_1)" type="season">1</series>
+    <series url="https://en.wikipedia.org/wiki/Better_Call_Saul_(season_2)" type="season">2</series>
     <comments></comments>
     <image>Better Call Saul.jpg</image>
   </show>
@@ -21,6 +21,13 @@
     <series type="series">2</series>
     <image>The Tripods.jpg</image>
     <!-- RTS = 1988-06-01 -->
+  </show>
+  <show>
+    <date>2022-11-08</date>
+    <name url="https://en.wikipedia.org/wiki/Better_Call_Saul">Better Call Saul</name>
+    <series url="https://en.wikipedia.org/wiki/Better_Call_Saul_(season_1)" type="season">1</series>
+    <comments>We started watching <i>Better Call Saul</i> mainly because it's a spin-off of <i>Breaking Bad</i>, which we liked a lot. It's not exactly what I expected, but in this case, it's a good thing. You quickly forget that it's a spin-off, since it's such an excellent show in its own right.</comments>
+    <image>Better Call Saul.jpg</image>
   </show>
   <show>
     <date>2022-11-08</date>
