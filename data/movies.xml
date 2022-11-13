@@ -3,6 +3,16 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Checklist: add rating to IMDb -->
   <movie>
+    <date>2022-11-12</date>
+    <theater>Lux, Sion</theater>
+    <director>Lukas Dhont</director>
+    <title>Close</title>
+    <url>https://www.imdb.com/title/tt9660502/</url>
+    <rating>4.75</rating>
+    <comments>Objectively a very beautiful movie, with a breathtaking cinematography. I understand why it won the Palme d'Or. For some reasons, though, it didn't move me the way it was supposed to do. I didn't cry and I'm the kind of person who cry easily when watching a movie. I don't know why.</comments>
+    <image>Close.jpg</image>
+  </movie>
+  <movie>
     <date>2022-11-05</date>
     <theater>Cinéma Bel-Air, Yverdon</theater>
     <director>Julia Ocker</director>
