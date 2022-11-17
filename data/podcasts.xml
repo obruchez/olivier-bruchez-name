@@ -2,6 +2,12 @@
 <podcasts created="2016-05-10">
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date>2022-11-15</date>
+    <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
+    <episode url="https://www.samharris.org/podcasts/making-sense-episodes/295-philosophy-and-the-good-life" number="295">Philosophy and the Good Life - A Conversation with Kieran Setiya</episode>
+    <comments>As we're in 2022, I'm not bothered anymore by Sam talking for 5 minutes straight about meditation or free will, or asking his guest if he's ever taken psychedelics. Sam's podcasts are discussions. They're not standard interviews. Still, I'm not sure I retained much from this episode. Maybe because I was not focused enough. The thought experiment about past/future pain was not really illuminating to me. We're hardwired to avoid pain/suffering. The only pain/suffering we can avoid is in the future, by definition. Am I missing something? About grieving: we're attached to this idea that we should grieve for people we love; if we don't (e.g. if we take that imaginary pill that suppresses grieving), we tend to see that as a form of betrayal. Maybe an episode I should listen to again.</comments>
+  </podcast>
+  <podcast>
     <date>2022-11-11</date>
     <name url="https://absolutelymental.com/">Absolutely Mental</name>
     <episode number="11">How will civilization end?</episode>
