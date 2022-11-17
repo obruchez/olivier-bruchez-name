@@ -2,6 +2,24 @@
 <podcasts created="2016-05-10">
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date>2022-11-17</date>
+    <name url="https://anchor.fm/the-tripodscast">Tripodscast</name>
+    <episode url="https://anchor.fm/the-tripodscast/episodes/The-Holiday-Special-Dani-Reacts-e1c22o3">The Holiday Special: Dani Reacts</episode>
+    <comments>I'm usually not a fan of reaction videos, but this was a fun episode.</comments>
+  </podcast>
+  <podcast>
+    <date>2022-11-17</date>
+    <name url="https://anchor.fm/the-tripodscast">Tripodscast</name>
+    <episode url="https://anchor.fm/the-tripodscast/episodes/Episode-Five-Part-One-BBC-TV-Adaptation---First-Series-e1bhmou">Episode Five Part One: BBC TV Adaptation - First Series</episode>
+    <comments>I finished watching the first series 9 days ago, so it's still fresh in my mind. The interviews with Ceri Seele and John Shackley were a really nice suprise. I especially liked the one with Ceri Seele.</comments>
+  </podcast>
+  <podcast>
+    <date>2022-11-15</date>
+    <name url="https://anchor.fm/the-tripodscast">Tripodscast</name>
+    <episode url="https://anchor.fm/the-tripodscast/episodes/Episode-Four-When-the-Tripods-Came-e1aqnqk">Episode Four: When the Tripods Came</episode>
+    <comments>Everybody seems to agree that the prequel was less interesting than the first three books. I personally liked that some of the action happened in Switzerland (the Lausanne railway station was mentioned, if I recall correctly?).</comments>
+  </podcast>
+  <podcast>
     <date>2022-11-15</date>
     <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
     <episode url="https://www.samharris.org/podcasts/making-sense-episodes/295-philosophy-and-the-good-life" number="295">Philosophy and the Good Life - A Conversation with Kieran Setiya</episode>
@@ -14,7 +32,7 @@
     <comments>"Ricky calls Sam to discuss the prospect of human extinction. They also explore animal testing, flat earthers, and UFO’s. Ricky confirms that cows have been anally probed." I'm not convinced that all animal testing should be banned. Most of it is probably useless, but not all of it. The Interventions Testing Program (ITP), for example, looks like a good program. They're trying to extend mice lifespan. I don't see how that's unethical.</comments>
   </podcast>
   <podcast>
-    <date>2022-12-04</date>
+    <date>2022-11-04</date>
     <name url="https://anchor.fm/the-tripodscast">Tripodscast</name>
     <episode url="https://anchor.fm/the-tripodscast/episodes/Episode-Three-The-Pool-of-Fire-e1a4ff0">Episode Three: The Pool of Fire</episode>
     <comments>An episode about the third book in the trilogy, which was never adapted by the BBC, unfortunately.</comments>
