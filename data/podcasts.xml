@@ -2,6 +2,12 @@
 <podcasts created="2016-05-10">
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date>2022-11-18</date>
+    <name url="https://anchor.fm/the-tripodscast">Tripodscast</name>
+    <episode url="https://anchor.fm/the-tripodscast/episodes/Episode-Five-Part-Two-BBC-TV-Adaptation---First-Series-e1cjtf2">Episode Five Part Two: BBC TV Adaptation - First Series</episode>
+    <comments>I enjoyed the interviews. John Shackley was not as negative as I expected him to be. On the contrary.</comments>
+  </podcast>
+  <podcast>
     <date>2022-11-17</date>
     <name url="https://anchor.fm/the-tripodscast">Tripodscast</name>
     <episode url="https://anchor.fm/the-tripodscast/episodes/The-Holiday-Special-Dani-Reacts-e1c22o3">The Holiday Special: Dani Reacts</episode>
