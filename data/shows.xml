@@ -16,11 +16,11 @@
     <image>Better Call Saul.jpg</image>
   </show>
   <show>
-    <date></date>
+    <date>2022-11-20</date>
     <name url="https://en.wikipedia.org/wiki/The_Tripods_(TV_series)">The Tripods</name>
     <series type="series">2</series>
     <image>The Tripods.jpg</image>
-    <!-- RTS = 1988-06-01 -->
+    <comments>La troisième fois que je regarde cette saison, après 1988 et 2015. La première édition en DVD des Tripodes (en 2001) ne comprenait que la première saison. Globalement une meilleure saison que la première, avec moins de longueurs.</comments>
   </show>
   <show>
     <date>2022-11-08</date>
@@ -1306,6 +1306,13 @@
     <name url="https://en.wikipedia.org/wiki/The_Tripods_(TV_series)">The Tripods</name>
     <series type="series">1</series>
     <image>The Tripods.jpg</image>
+  </show>
+  <show>
+    <date>1988-06-01</date>
+    <name url="https://en.wikipedia.org/wiki/The_Tripods_(TV_series)">The Tripods</name>
+    <series type="series">2</series>
+    <image>The Tripods.jpg</image>
+    <comments>Le dernier épisode a été diffusé le 1<sup>er</sup> juin 1988 sur la Télévision Suisse Romande, mais je ne suis pas sûr de l'avoir vu. Il me semble vaguement me souvenir que je l'avais manqué, pour une raison ou pour une autre. Je n'ai pas la moindre idée si j'ai été au courant par la suite que la série avait été annulée ou si j'ai juste "oublié" cette série et suis passé à autre chose, avant de m'en souvenir des années plus tard.</comments>
   </show>
   <show>
     <date>1986-01-24</date>
