@@ -2,6 +2,12 @@
 <podcasts created="2016-05-10">
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date>2022-11-22</date>
+    <name url="https://anchor.fm/the-tripodscast">Tripodscast</name>
+    <episode url="https://anchor.fm/the-tripodscast/episodes/Episode-Six-Part-One-BBC-TV-Adaptation---Second-Series-e1d70bg">Episode Six Part One: BBC TV Adaptation - Second Series</episode>
+    <comments>The interviews with Robin Hayter and Richard Bates were nice, although Richard Bates can already be heard quite extensively in the <i>Cult of The Tripods</i> documentary (in 2006).</comments>
+  </podcast>
+  <podcast>
     <date>2022-11-21</date>
     <name url="https://hubermanlab.com/">Huberman Lab</name>
     <episode url="https://hubermanlab.com/what-alcohol-does-to-your-body-brain-health/" number="86">What Alcohol Does to Your Body, Brain &amp; Health</episode>
