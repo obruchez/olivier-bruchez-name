@@ -2,6 +2,12 @@
 <podcasts created="2016-05-10">
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date>2022-11-21</date>
+    <name url="https://hubermanlab.com/">Huberman Lab</name>
+    <episode url="https://hubermanlab.com/what-alcohol-does-to-your-body-brain-health/" number="86">What Alcohol Does to Your Body, Brain &amp; Health</episode>
+    <comments>Alcohol is empty calories (worse than sugar). Low-to-moderate consumption of alcohol is still bad (not better than no alcohol). Drinking alcohol regularly leads to more anxiety, more stress, worse mood (although it can reduce stress/anxiety in the very short term). Alcohol has a negative impact on the gut microbiome and on sleep. There's no magic cure/pill for hangovers. It's probably a good idea to take probiotics (or eat fermented food) before and after drinking alcohol. Alcohol has a negative impact on dopamine/serotonine systems. Waiting a long time between "drinking sessions" is a good idea (it allows the brain to recover). Taking vitamins B9/B12 might counteract a little bit the negative impact on cancers. All in all, alcohol is pretty bad. I'm actually surprised to hear Huberman being that negative about alcohol (and way more negative about alcohol than about cannabis). The conclusion is (obviously): drink as little alcohol as possible.</comments>
+  </podcast>
+  <podcast>
     <date>2022-11-18</date>
     <name url="https://anchor.fm/the-tripodscast">Tripodscast</name>
     <episode url="https://anchor.fm/the-tripodscast/episodes/Episode-Five-Part-Two-BBC-TV-Adaptation---First-Series-e1cjtf2">Episode Five Part Two: BBC TV Adaptation - First Series</episode>
