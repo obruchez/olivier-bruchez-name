@@ -3,6 +3,17 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Checklist: add rating to IMDb -->
   <movie>
+    <date>2022-11-23</date>
+    <theater home="true"/>
+    <director>Gillo Pontecorvo</director>
+    <title>La battaglia di Algeri</title>
+    <title language="fr">La bataille d'Alger</title>
+    <url>https://www.imdb.com/title/tt0058946/</url>
+    <rating>4.5</rating>
+    <comments>I knew I was watching something important, but I found it hard to <i>feel</i> anything while watching this movie. There's something odd about it.</comments>
+    <image>La battaglia di Algeri.jpg</image>
+  </movie>
+  <movie>
     <date>2022-11-12</date>
     <theater>Lux, Sion</theater>
     <director>Lukas Dhont</director>
