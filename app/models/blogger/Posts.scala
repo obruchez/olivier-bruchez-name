@@ -33,11 +33,12 @@ object Post {
     Post(
       date = bloggerPost.publicationDate,
       title = bloggerPost.title,
-      // content = bloggerPost.content,
       content = HtmlContent(cleanHtml(bloggerPost.content.htmlString)),
       relativePermalink = bloggerPost.relativePermalink,
       originalUrl = bloggerPost.url,
-      itemUrl = Some(routes.BlogPostsController.blogPost(bloggerPost.relativePermalink).url)
+      // 2022-11-30: link to original blog post until Google has re-indexed everything correctly
+      itemUrl = Some(bloggerPost.url)
+      // itemUrl = Some(routes.BlogPostsController.blogPost(bloggerPost.relativePermalink).url)
     )
 
   protected def cleanHtml(html: String): String = {

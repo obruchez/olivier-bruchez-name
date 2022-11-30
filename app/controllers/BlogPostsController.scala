@@ -16,8 +16,10 @@ class BlogPostsController @Inject() (implicit
     Cache.get(Posts) map { posts =>
       posts.listItems.find(_.relativePermalink == relativePermalink) match {
         case Some(post) =>
-          Redirect(post.originalUrl)
+          // 2022-11-30: do not redirect to original blog post until Google has re-indexed everything correctly
+          NotFound
         // 2022-09-05: redirect instead of serving the blog post contents, for now
+        // Redirect(post.originalUrl)
         // Ok(views.html.blogPost(post.page, post))
         case None =>
           NotFound
