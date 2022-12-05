@@ -2,6 +2,12 @@
 <podcasts created="2016-05-10">
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date>2022-12-05</date>
+    <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
+    <episode url="https://www.samharris.org/podcasts/making-sense-episodes/299-steps-in-the-right-direction" number="299">Steps in the Right Direction - A Conversation with Russ Roberts</episode>
+    <comments>I was frustrated that they didn't discuss the topic of parenthood and happiness more. I don't like this idea that being a parent should be an irrational decision. We need more studies. We need more discussion. I still feel there's a taboo here. And it's not healthy. The problem with studies about happiness, though, is that, at the end of the day, you still have to ask people if they're happy or not (either directly or indirectly) and people are pretty bad at knowking what they feel. They're bad at introspection. So it's hard to trust any study about happiness. How satisfied are you with your life right know, from 1 to 10. I... don't know?</comments>
+  </podcast>
+  <podcast>
     <date>2022-11-28</date>
     <name url="https://anchor.fm/the-tripodscast">Tripodscast</name>
     <episode url="https://anchor.fm/the-tripodscast/episodes/Episode-Six-Part-Two-BBC-TV-Adaptation---Second-Series-e1dujko">Episode Six Part One: BBC TV Adaptation - Second Series</episode>
