@@ -9,6 +9,66 @@
     <actor></actor>
   -->
   <play>
+    <date>2022-11-18</date>
+    <location>Théâtre Kléber-Méleau, Renens, Switzerland</location>
+    <name>Charlie</name>
+    <author>Daniel Keyes</author>
+    <adaptation>Christian Denisart</adaptation>
+    <director>Christian Denisart</director>
+    <actor>Pascal Schopfer</actor>
+    <actor>Loredana von Allmen</actor>
+    <actor>Alexandre Bonstein</actor>
+    <actor>Thierry Baechtold</actor>
+    <actor>Giulia Belet</actor>
+    <actor>Matthieu Sesseli</actor>
+    <actor>Sébastien Gautier</actor>
+    <actor>Annick Rody</actor>
+    <actor>Laurence Crevoisier</actor>
+    <actor>Louise Knobil</actor>
+    <rating>5.0</rating>
+    <comments>Je ne sais pas s'il y a un message. Il s'agit plus d'un questionnement : l'intelligence fait-elle automatiquement le bonheur ? Pas forcément, j'imagine. Quoi qu'il en soit, l'intérêt de la pièce n'était pas forcément là. Il était dans la mise en scène, pleine d'énergie, d'enthousiasme et de surprises. Les comédiens étaient également excellents. Le public a adoré. C'est la magie du théâtre, quoi.</comments>
+    <image>Charlie.jpg</image>
+    <!--
+	Collaboration artistique :
+	Jos Houben
+	Assisté de :
+	Fanny Pelichet
+	Scénographie :
+	Yann Becker
+	Création lumière :
+	Estelle Becker
+	Création costumes :
+	Karolina Luisoni
+	Maquillages :
+	Malika Stahli
+	Chorégraphie :
+	Judith Desse
+	Musique :
+	Annick Rody
+	Laurence Crevoisier
+	Louise Knobil
+	Christian Denisart
+	Construction décors :
+	Les ateliers du TKM
+	Alexandre Genoud
+	Chingo Bensong
+	Christophe Reichel
+	Léo Bachmann
+	Peinture :
+	Sibylle Portenier
+	Réalisation film super 8 :
+	Laure Schwarz
+	Programmation synthé modulaire :
+	Ariel Garcia
+	Régie plateau :
+	Noé Stehlé
+	Régie lumière :
+	Marc-Étienne Despland
+	Administration :
+	Sarah Frund
+    -->
+  </play>
+  <play>
     <date>2022-10-11</date>
     <location>Pulloff Théâtres, Lausanne, Switzerland</location>
     <name>Saint Exupéry, volé au ciel</name>
