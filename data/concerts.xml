@@ -7,6 +7,17 @@
   -->
   <introduction>A list of concerts I went to.</introduction>
   <concert>
+    <date>2022-11-20</date>
+    <location>Théâtre Le Reflet, Vevey, Switzerland</location>
+    <group>Aziza</group>
+    <musician inst="bass">Dave Holland</musician>
+    <musician inst="tenor saxophone, soprano saxophone">Chris Potter</musician>
+    <musician inst="guitar">Lionel Loueke</musician>
+    <musician inst="drums">Eric Harland</musician>
+    <rating>5.25</rating>
+    <comments>I saw this exact same band 6 years ago. There's not much to say: those musicians are all excellent. I was not a fan of Lionel Loueke before (especially with Herbie Hancock), but that night his sound didn't bother me. I actually liked a lot of what he did.</comments>
+  </concert>
+  <concert>
     <date>2022-11-06</date>
     <location>Salle Paderewski, Casino de Montbenon, Lausanne, Switzerland</location>
     <event>JazzOnze+ Festival Lausanne</event>
