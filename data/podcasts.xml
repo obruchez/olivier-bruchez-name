@@ -2,6 +2,12 @@
 <podcasts created="2016-05-10">
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date>2022-12-07</date>
+    <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
+    <episode url="https://www.samharris.org/podcasts/making-sense-episodes/304-why-i-left-twitter" number="304">Why I Left Twitter - A conversation with Cal Newport</episode>
+    <comments>I'm glad Sam has finally left Twitter. This was a waste of his time. The discussion with Cal Newport was interesting. I bought <i>Deep Work</i> after listening to this episode. Time blocking sounds like something I sometimes do, but that I should do intentionally, not by accident...</comments>
+  </podcast>
+  <podcast>
     <date>2022-12-05</date>
     <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
     <episode url="https://www.samharris.org/podcasts/making-sense-episodes/299-steps-in-the-right-direction" number="299">Steps in the Right Direction - A Conversation with Russ Roberts</episode>
