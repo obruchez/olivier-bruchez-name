@@ -2,6 +2,12 @@
 <podcasts created="2016-05-10">
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date>2022-12-13</date>
+    <name url="https://podcast.ausha.co/violet">Violet - Le Podcast sur Prince et le Minneapolis Sound</name>
+    <episode url="https://podcast.ausha.co/violet/n-e-w-s-xpectation-c-note-instrus-mentaux">N.E.W.S. / Xpectation / C-NOTE : Instrus Mentaux</episode>
+    <comments>3 albums instrumentaux sortis sur une période d'un peu plus d'une année et traités ici durant le même épisode. J'ai réécouté régulièrement ces albums depuis 19 ans (en particulier <i>East</i> et <i>Xpedition</i>, mais c'est vraiment une bonne chose que plusieurs heures aient été consacrés à ces albums finalement souvent ignorés de la discographie de Prince.</comments>
+  </podcast>
+  <podcast>
     <date>2022-12-07</date>
     <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
     <episode url="https://www.samharris.org/podcasts/making-sense-episodes/304-why-i-left-twitter" number="304">Why I Left Twitter - A conversation with Cal Newport</episode>
