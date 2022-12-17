@@ -9,6 +9,30 @@
     <actor></actor>
   -->
   <play>
+    <date>2022-12-10</date>
+    <location>Salle Métropole, Lausanne, Switzerland</location>
+    <name>Le Livre de la Jungle</name>
+    <author>Rudyard Kipling</author>
+    <director>Ned Grujic</director>
+    <adaptation>Igor De Chaillé &amp; Ely Grimaldi</adaptation>
+    <actor>Arnaud Allain</actor>
+	<actor>Tom Almodar</actor>
+	<actor>Yoni Amar</actor>
+	<actor>Joris Conquet</actor>
+	<actor>Sébastien Duchange</actor>
+	<actor>Xavier Ducrocq</actor>
+	<actor>Ophélie Joh (Joinville)</actor>
+	<actor>Antoine Lelandais</actor>
+	<actor>Lucas Radziejewski</actor>
+	<actor>Cédric Revollon</actor>
+	<actor>Lorna Roudil</actor>
+	<actor>Nicolas Toussaint</actor>
+	<actor>Gilles Vajou</actor>
+    <rating>4.0</rating>
+    <comments>Comédie musicale vue avec notre fils de 4 ans et demi.</comments>
+    <image>Le Livre de la Jungle.jpg</image>
+  </play>
+  <play>
     <date>2022-11-18</date>
     <location>Théâtre Kléber-Méleau, Renens, Switzerland</location>
     <name>Charlie</name>
