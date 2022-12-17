@@ -7776,6 +7776,14 @@
     <image>The Lord of the Rings - The Fellowship of the Ring.jpg</image>
   </movie>
   <movie>
+    <date>2002-12-14</date>
+    <theater home="true"/>
+    <director>Cameron Crowe</director>
+    <title>Vanilla Sky</title>
+    <url>https://www.imdb.com/title/tt0259711/</url>
+    <image>Vanilla Sky.jpg</image>
+  </movie>
+  <movie>
     <date>2002-12-13</date>
     <title>Harry Potter Et La Chambre Secrète</title>
     <version>fr</version>
@@ -7946,7 +7954,11 @@
   </movie>
   <movie>
     <date>2002-02-13</date>
+    <theater home="true"/>
+    <director>Cameron Crowe</director>
     <title>Vanilla Sky</title>
+    <url>https://www.imdb.com/title/tt0259711/</url>
+    <image>Vanilla Sky.jpg</image>
   </movie>
   <movie>
     <date>2002-02-06</date>
