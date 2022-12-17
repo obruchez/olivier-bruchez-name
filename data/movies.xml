@@ -3,6 +3,16 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Checklist: add rating to IMDb -->
   <movie>
+    <date>2022-12-16</date>
+    <theater home="true"/>
+    <director>Joseph Kosinski</director>
+    <title>Top Gun: Maverick</title>
+    <url>https://www.imdb.com/title/tt1745960/</url>
+    <rating>4.5</rating>
+    <comments>I find some movies hard to watch, but they somehow change me or leave me with the feeling that I might revisit them someday in the future (e.g. <i>La bataille d'Alger</i>). Some movies are entertaining, but I forget everything about them a few weeks/months later. <i>Top Gun: Maverick</i> falls in that category. It's not bad. It's well done. It's fun. But it's pretty forgettable as well.</comments>
+    <image>Top Gun - Maverick.jpg</image>
+  </movie>
+  <movie>
     <date>2022-11-23</date>
     <theater home="true"/>
     <director>Gillo Pontecorvo</director>
