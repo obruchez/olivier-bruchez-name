@@ -9,6 +9,28 @@
     <actor></actor>
   -->
   <play>
+    <date>2022-12-18</date>
+    <location>Théâtre du Martolet, St-Maurice, Switzerland</location>
+    <name>Pinocchio</name>
+    <author>Carlo Collodi</author>
+    <director>Guillaume Bouchède </director>
+    <adaptation>Igor De Chaillé &amp; Ely Grimaldi</adaptation>
+    <actor>Juliette Béchu</actor>
+    <actor>Laura Bensimon</actor>
+    <actor>Pablo Cherrey Iturralde</actor>
+    <actor>Tullio Cipriano</actor>
+    <actor>Simon Heulle</actor>
+    <actor>Marine Llado</actor>
+    <actor>Olivier Podesta</actor>
+    <actor>Pierre Reggiani</actor>
+    <actor>Thomas Ronzeau</actor>
+    <actor>Nicolas Soulié</actor>
+    <actor>Inès Valarcher</actor>
+    <rating></rating>
+    <comments>Comédie musicale vue avec notre fils de 4 ans et demi. Liste des comédiens pas confirmée.</comments>
+    <image>Pinocchio.jpg</image>
+  </play>
+  <play>
     <date>2022-12-10</date>
     <location>Salle Métropole, Lausanne, Switzerland</location>
     <name>Le Livre de la Jungle</name>
@@ -29,7 +51,7 @@
 	<actor>Nicolas Toussaint</actor>
 	<actor>Gilles Vajou</actor>
     <rating>4.0</rating>
-    <comments>Comédie musicale vue avec notre fils de 4 ans et demi.</comments>
+    <comments>Comédie musicale vue avec notre fils de 4 ans et demi. Liste des comédiens pas confirmée.</comments>
     <image>Le Livre de la Jungle.jpg</image>
   </play>
   <play>
