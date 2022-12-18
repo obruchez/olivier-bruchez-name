@@ -2,6 +2,15 @@
 <comics created="2017-01-28">
   <introduction>A list of comics I read.</introduction>
   <comic>
+    <date>2022-12-17</date>
+    <writer>De Groot</writer>
+    <artist>Turk</artist>
+    <series url="https://fr.wikipedia.org/wiki/Robin_Dubois">Robin Dubois</series>
+    <volume url="https://www.bedetheque.com/BD-Robin-Dubois-Tome-15-L-Eldoradingue-10330.html" number="15">L'Eldoradingue</volume>
+    <comments>Un tome que j'ai beaucoup lu étant enfant.</comments>
+    <image>Robin Dubois - L'Eldoradingue.jpg</image>
+  </comic>
+  <comic>
     <date>2022-01-09</date>
     <writer>Luiz Eduardo de Oliveira</writer>
     <artist>Luiz Eduardo de Oliveira</artist>
