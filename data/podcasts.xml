@@ -2,6 +2,12 @@
 <podcasts created="2016-05-10">
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date>2022-12-19</date>
+    <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
+    <episode url="https://www.samharris.org/podcasts/making-sense-episodes/303-the-fall-of-sam-bankman-fried" number="303">The Fall of Sam Bankman-Fried</episode>
+    <comments>Sam Harris' point of view is reasonable. Sam Bankman-Fried did something criminal, apparently, but it doesn't diminish any of the ideas behind effective altruism. Just like it doesn't invalidate veganism, by the way.</comments>
+  </podcast>
+  <podcast>
     <date>2022-12-16</date>
     <name url="https://anchor.fm/the-tripodscast">Tripodscast</name>
     <episode url="https://anchor.fm/the-tripodscast/episodes/Episode-Six-Part-Two-BBC-TV-Adaptation---Second-Series-e1dujko">Episode Seven Part One: The Cancellation</episode>
