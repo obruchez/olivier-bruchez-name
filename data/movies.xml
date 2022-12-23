@@ -3,6 +3,16 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Checklist: add rating to IMDb -->
   <movie>
+    <date>2022-12-22</date>
+    <theater home="true"/>
+    <director>Cameron Crowe</director>
+    <title>Vanilla Sky</title>
+    <url>https://www.imdb.com/title/tt0259711/</url>
+    <rating>5.0</rating>
+    <comments>I saw <i>Vanilla Sky</i> twice in 2002. I especially remember the impressive opening scene (Times Square, etc.) and the John Coltrane hologram. All in all, this is a thought-provoking movie. It's a bit reminiscent of <i>Matrix</i>: would you rather live a simulated and happy life, or a real life?</comments>
+    <image>Vanilla Sky.jpg</image>
+  </movie>
+  <movie>
     <date>2022-12-16</date>
     <theater home="true"/>
     <director>Joseph Kosinski</director>
@@ -7964,7 +7974,7 @@
   </movie>
   <movie>
     <date>2002-02-13</date>
-    <theater home="true"/>
+    <theater>Galeries, Lausanne</theater>
     <director>Cameron Crowe</director>
     <title>Vanilla Sky</title>
     <url>https://www.imdb.com/title/tt0259711/</url>
