@@ -2,6 +2,12 @@
 <podcasts created="2016-05-10">
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date>2022-12-23</date>
+    <name url="https://anchor.fm/the-tripodscast">Tripodscast</name>
+    <episode url="https://anchor.fm/the-tripodscast/episodes/Episode-9-Legacy-e1giqmn">Episode 9: Legacy</episode>
+    <comments>It was nice to hear from <i>Tripods</i> fans, including from Switzerland, and to hear Grimentz being mentioned (it was one of the filming locations).</comments>
+  </podcast>
+  <podcast>
     <date>2022-12-21</date>
     <name url="https://anchor.fm/the-tripodscast">Tripodscast</name>
     <episode url="https://anchor.fm/the-tripodscast/episodes/Episode-8-Merchandising-e1ftngm">Episode 8: Merchandising</episode>
