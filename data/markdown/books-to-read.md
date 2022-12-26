@@ -104,6 +104,7 @@ Pretty much everything from [Les cent livres du siècle](https://fr.wikipedia.or
 * S. Corinna Bille, ["La Fraise Noire"](https://encrypted.google.com/books/about/La_fraise_noire.html?id=0EUVAAAAMAAJ) (read a long time ago?)
 * Douglas Coupland, ["Microserfs"](https://en.wikipedia.org/wiki/Microserfs)
 * Roald Dahl, short stories not included in ["The Collected Short Stories of Roald Dahl"](https://en.wikipedia.org/wiki/The_Collected_Short_Stories_of_Roald_Dahl)
+* Antoine de Saint-Exupéry ["Vol de Nuit"](https://fr.wikipedia.org/wiki/Vol_de_nuit), etc.
 * Friedrich Dürrenmatt, ["Der Tunnel"](https://en.wikipedia.org/wiki/The_Tunnel_%28short_story%29) (short story, mentioned by [@icassina](https://twitter.com/icassina))
 * Antoine Galland, ["Les Milles et Une Nuits"](https://fr.wikipedia.org/wiki/Les_Mille_et_Une_Nuits)
 * Romain Gary, ["La Vie devant soi"](https://fr.wikipedia.org/wiki/La_Vie_devant_soi) (recommended by a colleague)
