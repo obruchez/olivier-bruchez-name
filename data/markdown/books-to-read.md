@@ -110,7 +110,6 @@ Pretty much everything from [Les cent livres du siècle](https://fr.wikipedia.or
 * Romain Gary, ["La Vie devant soi"](https://fr.wikipedia.org/wiki/La_Vie_devant_soi) (recommended by a colleague)
 * William Gibson, ["Neuromancer"](https://en.wikipedia.org/wiki/Neuromancer) (science fiction classic, recommended by [@JeromeCaillet](https://twitter.com/JeromeCaillet))
 * Frank Herbert, ["Dune"](https://en.wikipedia.org/wiki/Dune_(franchise)) (series) (science fiction classic)
-* Aldous Huxley, ["Brave New World"](https://en.wikipedia.org/wiki/Brave_New_World) (mentioned by [@verybadwizards](https://twitter.com/verybadwizards))
 * Franz Kafka, ["L'amérique"](https://fr.wikipedia.org/wiki/L%27Am%C3%A9rique) (read during the 90s)
 * Frank Kafka, ["Le château"](https://fr.wikipedia.org/wiki/Le_Ch%C3%A2teau) (read in 2001)
 * Franz Kafka, ["Le procès"](https://fr.wikipedia.org/wiki/Le_Proc%C3%A8s) (read in 2004)
