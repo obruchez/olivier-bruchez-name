@@ -191,7 +191,6 @@ Pretty much everything from [Les cent livres du siècle](https://fr.wikipedia.or
 * Tim Ferriss, ["Tribe of Mentors: Short Life Advice from the Best in the World"](https://www.amazon.com/Tribe-Mentors-Short-Advice-World-ebook/dp/B071KJ7PTB/) (really interesting or not?)
 * Jonathan Fields, ["Career Renegade: How to Make a Great Living Doing What You Love"](http://www.amazon.com/Career-Renegade-Great-Living-Doing/dp/0767927419/)
 * P.M. Forni, ["The Thinking Life: How to Thrive in the Age of Distraction"](http://www.amazon.com/The-Thinking-Life-Thrive-Distraction/dp/B008SMFIC2/)
-* FruitfulTime, ["Stop Procrastination Now"](https://dollswithoutheads.files.wordpress.com/2008/10/stop-procrastination-now.pdf) (and I should probably start by not reading this book...)
 * Dan Harris, ["10% Happier: How I Tamed the Voice in My Head, Reduced Stress Without Losing My Edge, and Found Self-Help That Actually Works"](https://www.amazon.com/10-Happier-Self-Help-Actually-Works-A/dp/0062265423) (recommended by [@PeterAttiamd](https://twitter.com/PeterAttiamd))
 * Gordon MacKenzie, ["Orbiting the Giant Hairball: A Corporate Fool's Guide to Surviving with Grace"](http://www.amazon.com/Orbiting-Giant-Hairball-Corporate-Surviving/dp/0670879835)
 * Eric Maisel, ["The Creativity Book: A Year's Worth of Inspiration and Guidance"](http://www.amazon.com/The-Creativity-Book-Inspiration-Guidance-ebook/dp/B001NJA8Y0)
