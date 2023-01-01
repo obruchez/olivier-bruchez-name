@@ -2,6 +2,12 @@
 <podcasts created="2016-05-10">
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date>2022-12-27</date>
+    <name url="https://www.rts.ch/play/radio/emission/le-point-j?id=11217536">Le point J</name>
+    <episode url="https://www.rts.ch/audio-podcast/2021/audio/pourrait-on-se-passer-de-cadeaux-de-noel-25787354.html">Pourrait-on se passer de cadeaux de Noël ?</episode>
+    <comments>Oui.</comments>
+  </podcast>
+  <podcast>
     <date>2022-12-26</date>
     <name url="https://anchor.fm/the-tripodscast">Tripodscast</name>
     <episode url="https://anchor.fm/the-tripodscast/episodes/Episode-10-The-Worlds-of-Sam-Youd-e1h7rga">Episode 10: The Worlds of Sam Youd</episode>
