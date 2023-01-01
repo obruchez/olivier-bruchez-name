@@ -2,6 +2,18 @@
 <books created="2006-08-20">
     <introduction>A list of books I read.</introduction>
     <book>
+        <date>2022-12-29</date>
+        <title>The Like Switch</title>
+        <subtitle>An Ex-FBI Agent's Guide to Influencing, Attracting, and Winning People Over</subtitle>
+        <author>Jack Schafer &amp; Marvin Karlins</author>
+        <publishingyear>2015</publishingyear>
+        <rating>4.0</rating>
+        <url>https://books.google.com/books?id=KKoVBgAAQBAJ</url>
+        <notes description="Kindle highlights"></notes>
+        <comments>Part of this book contains useful tips to be more friendly to other people (nonverbal cues, showing empathy, etc.). The rest looks like a guide to become a spy.</comments>
+        <image>The Like Switch.jpg</image>
+    </book>
+    <book>
         <date>2022-11-03</date>
         <title>Heaven and Hell</title>
         <author>Aldous Huxley</author>
