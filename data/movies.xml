@@ -3,6 +3,16 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Checklist: add rating to IMDb -->
   <movie>
+    <date>2022-12-30</date>
+    <theater home="true"/>
+    <director>Danny Boyle</director>
+    <title>28 Days Later</title>
+    <url>https://www.imdb.com/title/tt0289043/</url>
+    <rating>5.0</rating>
+    <comments>I really like post-apocalyptic movies. This one has just the right balance of plausible elements and pure zombie/horror-movie aspects. I didn't remember much from my first viewing in 2003, but the story is really satisfying. It's definitely less depressing than <i>The Road</i> or <i>A Quiet Place</i>. The scenes with an empty London are impressive (just like the scene with an empty Times Square in <i>Vanilla Sky</i>).</comments>
+    <image>28 Days Later.jpg</image>
+  </movie>
+  <movie>
     <date>2022-12-29</date>
     <theater home="true"/>
     <director>Peter Weir</director>
@@ -7740,8 +7750,12 @@
   </movie>
   <movie>
     <date>2003-07-29</date>
-    <title>28 Jours Plus Tard</title>
+    <director>Danny Boyle</director>
+    <title>28 Days Later</title>
+    <title language="fr">28 jours plus tard</title>
     <version>fr</version>
+    <url>https://www.imdb.com/title/tt0289043/</url>
+    <image>28 Days Later.jpg</image>
   </movie>
   <movie>
     <date>2003-07-24</date>
