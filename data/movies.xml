@@ -3,6 +3,16 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Checklist: add rating to IMDb -->
   <movie>
+    <date>2022-12-27</date>
+    <theater home="true"/>
+    <director>Danny Boyle</director>
+    <title>Sunshine</title>
+    <url>https://www.imdb.com/title/tt0448134/</url>
+    <rating>4.75</rating>
+    <comments>I first saw <i>Sunshine</i> in 2007, when it was released. It's almost an excellent science fiction movie, but something's missing. You don't really care about any of the characters. Also, the very premise of the movie, i.e. the fact that the mission has to involve a human crew and could not be entirely automated, is fishy at best.</comments>
+    <image>Sunshine.jpg</image>
+  </movie>
+  <movie>
     <date>2022-12-22</date>
     <theater home="true"/>
     <director>Cameron Crowe</director>
