@@ -2,6 +2,12 @@
 <podcasts created="2016-05-10">
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date>2022-12-26</date>
+    <name url="https://anchor.fm/the-tripodscast">Tripodscast</name>
+    <episode url="https://anchor.fm/the-tripodscast/episodes/Episode-10-The-Worlds-of-Sam-Youd-e1h7rga">Episode 10: The Worlds of Sam Youd</episode>
+    <comments>An episode about John Christopher / Sam Youd's other works, with interviews with his children.</comments>
+  </podcast>
+  <podcast>
     <date>2022-12-23</date>
     <name url="https://anchor.fm/the-tripodscast">Tripodscast</name>
     <episode url="https://anchor.fm/the-tripodscast/episodes/Episode-9-Legacy-e1giqmn">Episode 9: Legacy</episode>
