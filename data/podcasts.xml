@@ -2,6 +2,12 @@
 <podcasts created="2016-05-10">
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date>2022-12-30</date>
+    <name url="https://tim.blog/podcast/">The Tim Ferriss Show</name>
+    <episode url="https://tim.blog/2020/09/03/psychedelic-news-hour/" number="458">The Psychedelic News Hour: New Breakthroughs, Compound Comparisons and Warnings (Psilocybin/LSD/Ayahuasca/N,N-DMT/5-MeO-DMT), Treatment of Trauma, Scalable vs. Unscalable Approaches, Making Sense of “Bad” Trips, and Much More</episode>
+    <comments>We need more serious studies on psychedelic treatments, which means money, so it's good to hear that $30 million were raised in 2020.<a href="https://tim.blog/2020/09/05/psychedelic-news-hour-transcript/">Episode transcript</a>.</comments>
+  </podcast>
+  <podcast>
     <date>2022-12-27</date>
     <name url="https://nutritionfacts.org/audio/">Nutrition Facts with Dr. Greger</name>
     <episode url="https://nutritionfacts.org/audio/doing-the-moringa/" number="255">Doing the Moringa</episode>
