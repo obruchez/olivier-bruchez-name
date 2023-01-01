@@ -3,6 +3,17 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Checklist: add rating to IMDb -->
   <movie>
+    <date>2022-12-29</date>
+    <theater home="true"/>
+    <director>Peter Weir</director>
+    <title>The Truman Show</title>
+    <version>fr</version>
+    <url>https://www.imdb.com/title/tt0120382/</url>
+    <rating>4.75</rating>
+    <comments>I really liked this movie when I saw it in 1998 and 2008. This time, I watched it dubbed in French with my parents. It was a less pleasing experience. The dubbing (like all dubbings) is awful, but I was also less convinced by Jim Carrey's acting and I spent some of the movie pondering about the plausibility of the whole affair (actors spending decades playing the same role, possibly with no or little personal life, etc.). Yes, I know, the movie is supposed to be more of a comedy, critical of television and viewers alike, but I couldn't help it.</comments>
+    <image>The Truman Show.jpg</image>
+  </movie>
+  <movie>
     <date>2022-12-27</date>
     <theater home="true"/>
     <director>Danny Boyle</director>
@@ -8740,8 +8751,11 @@
   </movie>
   <movie>
     <date>1998-11-04</date>
+    <director>Peter Weir</director>
     <title>The Truman Show</title>
     <version>fr</version>
+    <url>https://www.imdb.com/title/tt0120382/</url>
+    <image>The Truman Show.jpg</image>
   </movie>
   <movie>
     <date>1998-10-27</date>
