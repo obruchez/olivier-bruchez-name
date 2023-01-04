@@ -3,6 +3,16 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Checklist: add rating to IMDb -->
   <movie>
+    <date>2023-01-02</date>
+    <theater home="true"/>
+    <director>Mike Flanagan</director>
+    <title>Doctor Sleep</title>
+    <url>https://www.imdb.com/title/tt5606664/</url>
+    <rating>4.5</rating>
+    <comments>As a fan of <i>The Shining</i> and Stanley Kubrick in general, I was drawn to <i>Doctor Sleep</i> because I heard that some scenes/places from <i>The Shining</i> were visually recreated in it, which is indeed the case. It's an interesting exercise, although it's a bit weird to see different actors than Jack Nicholson, Shelley Duvall, etc. Other than that, I guess the story is okay. The action is a bit slow and it's hard to really care about any of the characters. As a parent, I found it hard to watch the scene where the boy was murdered, though.</comments>
+    <image>Doctor Sleep.jpg</image>
+  </movie>
+  <movie>
     <date>2022-12-30</date>
     <theater home="true"/>
     <director>Danny Boyle</director>
