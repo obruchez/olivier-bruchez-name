@@ -2,6 +2,12 @@
 <podcasts created="2016-05-10">
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date>2023-01-08</date>
+    <name url="https://hubermanlab.com/">Huberman Lab</name>
+    <episode url="https://hubermanlab.com/nicotines-effects-on-the-brain-and-body-and-how-to-quit-smoking-or-vaping/" number="90">Nicotine's Effects on the Brain &amp; Body &amp; How to Quit Smoking or Vaping</episode>
+    <comments>"Acetylcholine, epinephrine and dopamine are the three key chemicals that govern focus and direction, energy and motivation respectively. [..] A 300 milligram dose of alpha GPC taken 10-30 minutes before any cognitive or physical task can increase focus by increasing acetylcholine and epinephrine. [...] Nicotine is effective at increasing focus, motivation and cognitive capacity due to its influence on these three key chemicals. [...] Nicotine has two major effects on the brain. Firstly, it increases dopamine levels which activates the limbic pathway, making us feel motivated and good. Secondly, it increases acetylcholine which acts as a neurochemical attentional spotlight, enhancing our ability to focus on particular tasks. [...] Nicotine has the interesting effect of increasing alertness and attention, while also relaxing skeletal muscles. [...] When nicotine is ingested, the reward pathways in the body are stimulated, alertness and attention increase, and one's mood is elevated. Additionally, the heart rate and blood pressure are increased. This creates an optimal state for cognitive work, such as typing or writing. However, it is not ideal for physical performance, as it decreases reaction time and muscle activation. [...] In adults, over 25 years old, nicotine ingestion to enhance cognitive function, may be beneficial at reasonable dosages and frequency, but not by smoking, vaping, or direct contact of tobacco to the mouth or nose."</comments>
+  </podcast>
+  <podcast>
     <date>2022-12-30</date>
     <name url="https://tim.blog/podcast/">The Tim Ferriss Show</name>
     <episode url="https://tim.blog/2020/09/03/psychedelic-news-hour/" number="458">The Psychedelic News Hour: New Breakthroughs, Compound Comparisons and Warnings (Psilocybin/LSD/Ayahuasca/N,N-DMT/5-MeO-DMT), Treatment of Trauma, Scalable vs. Unscalable Approaches, Making Sense of “Bad” Trips, and Much More</episode>
