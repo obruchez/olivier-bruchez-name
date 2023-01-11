@@ -7824,6 +7824,14 @@
     <version>fr</version>
   </movie>
   <movie>
+    <date>2003-01-10</date>
+    <theater home="true"/>
+    <director>Gore Verbinski</director>
+    <title>The Ring</title>
+    <url>https://www.imdb.com/title/tt0298130/</url>
+    <image>The Ring.jpg</image>
+  </movie>
+  <movie>
     <date>2002-12-17</date>
     <director>Peter Jackson</director>
     <title>The Lord Of The Rings: The Two Towers</title>
