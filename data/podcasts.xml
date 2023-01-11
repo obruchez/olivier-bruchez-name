@@ -2,6 +2,12 @@
 <podcasts created="2016-05-10">
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date>2023-01-09</date>
+    <name url="https://lexfridman.com/podcast/">Lex Fridman Podcast</name>
+    <episode url="https://www.youtube.com/watch?v=ykY69lSpDdo" number="321">Ray Kurzweil: Singularity, Superintelligence, and Immortality</episode>
+    <comments>Nothing really new if you're familiar with Ray Kurzweil. He was 74 years old at the time of this interview and doesn't look/sound particularly more healthy than my parents, for example, who are 75 years old. This is somewhat disappointing, with all the supplements he has taken daily for the last 20 years at least.</comments>
+  </podcast>
+  <podcast>
     <date>2023-01-08</date>
     <name url="https://hubermanlab.com/">Huberman Lab</name>
     <episode url="https://hubermanlab.com/nicotines-effects-on-the-brain-and-body-and-how-to-quit-smoking-or-vaping/" number="90">Nicotine's Effects on the Brain &amp; Body &amp; How to Quit Smoking or Vaping</episode>
