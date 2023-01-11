@@ -7824,6 +7824,14 @@
     <version>fr</version>
   </movie>
   <movie>
+    <date>2003-01-11</date>
+    <theater home="true"/>
+    <director>Hideo Nakata</director>
+    <title>Ringu</title>
+    <url>https://www.imdb.com/title/tt0178868/</url>
+    <image>Ringu.jpg</image>
+  </movie>
+  <movie>
     <date>2003-01-10</date>
     <theater home="true"/>
     <director>Gore Verbinski</director>
