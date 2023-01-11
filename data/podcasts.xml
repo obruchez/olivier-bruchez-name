@@ -2,6 +2,12 @@
 <podcasts created="2016-05-10">
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date>2023-01-11</date>
+    <name url="https://absolutelymental.com/">Absolutely Mental</name>
+    <episode number="12">Why do we care about the future of humanity?</episode>
+    <comments>"We care about what happens after we die… but why? Ricky and Sam kick off season two by discussing our desire to leave the earth better than we found it. Ricky officially denounces Satan."</comments>
+  </podcast>
+  <podcast>
     <date>2023-01-09</date>
     <name url="https://lexfridman.com/podcast/">Lex Fridman Podcast</name>
     <episode url="https://www.youtube.com/watch?v=ykY69lSpDdo" number="321">Ray Kurzweil: Singularity, Superintelligence, and Immortality</episode>
