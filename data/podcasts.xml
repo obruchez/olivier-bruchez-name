@@ -2,12 +2,17 @@
 <podcasts created="2016-05-10">
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date>2022-09-22</date>
+    <name url="https://hiddenbrain.org/">Hidden Brain</name>
+    <episode url="https://www.npr.org/2017/07/25/539092670/you-2-0-the-value-of-deep-work-in-an-age-of-distraction">You 2.0: Deep Work</episode>
+    <comments>After listening to this episode, I've decided to block more time in the morning for deep work, by moving my recurrent/shallow tasks in the afternoon. Also, I will stop checking my emails in the morning. I will do it only in the afternoon.</comments>
+  </podcast>
+  <podcast>
     <date>2023-01-12</date>
     <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
     <episode url="https://www.samharris.org/podcasts/making-sense-episodes/307-twitter-elon-free-speech" number="307">Twitter, Elon, &amp; Free Speech</episode>
     <comments>Elon Musk has done many positive things for the world, but is behaving in a completely irresponsible way with Twitter.</comments>
   </podcast>
-
   <podcast>
     <date>2023-01-11</date>
     <name url="https://absolutelymental.com/">Absolutely Mental</name>
