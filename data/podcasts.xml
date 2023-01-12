@@ -2,6 +2,13 @@
 <podcasts created="2016-05-10">
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date>2023-01-12</date>
+    <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
+    <episode url="https://www.samharris.org/podcasts/making-sense-episodes/307-twitter-elon-free-speech" number="307">Twitter, Elon, &amp; Free Speech</episode>
+    <comments>Elon Musk has done many positive things for the world, but is behaving in a completely irresponsible way with Twitter.</comments>
+  </podcast>
+
+  <podcast>
     <date>2023-01-11</date>
     <name url="https://absolutelymental.com/">Absolutely Mental</name>
     <episode number="12">Why do we care about the future of humanity?</episode>
