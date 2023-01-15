@@ -3,6 +3,16 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Checklist: add rating to IMDb -->
   <movie>
+    <date>2023-01-12</date>
+    <theater home="true"/>
+    <director>Ron Howard</director>
+    <title>A Beautiful Mind</title>
+    <url>https://www.imdb.com/title/tt0268978/</url>
+    <rating>4.5</rating>
+    <comments>An unrealistic, but rather entertaining movie about the life of John Nash.</comments>
+    <image>A Beautiful Mind.jpg</image>
+  </movie>
+  <movie>
     <date>2023-01-02</date>
     <theater home="true"/>
     <director>Mike Flanagan</director>
