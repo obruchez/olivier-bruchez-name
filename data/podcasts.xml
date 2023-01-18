@@ -2,6 +2,12 @@
 <podcasts created="2016-05-10">
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date>2023-01-18</date>
+    <name url="https://absolutelymental.com/">Absolutely Mental</name>
+    <episode number="13">How does hypnosis work?</episode>
+    <comments>"Ricky and Sam discuss the mechanics of hypnosis and the possibility of a "truth serum."" They also condemn swallowing live frogs at parties."</comments>
+  </podcast>
+  <podcast>
     <date>2022-09-22</date>
     <name url="https://hiddenbrain.org/">Hidden Brain</name>
     <episode url="https://www.npr.org/2017/07/25/539092670/you-2-0-the-value-of-deep-work-in-an-age-of-distraction">You 2.0: Deep Work</episode>
