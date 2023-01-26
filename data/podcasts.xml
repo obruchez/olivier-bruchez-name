@@ -2,6 +2,12 @@
 <podcasts created="2016-05-10">
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date>2023-01-25</date>
+    <name url="https://podcast.ausha.co/violet">Violet - Le Podcast sur Prince et le Minneapolis Sound</name>
+    <episode url="https://podcast.ausha.co/violet/the-chocolate-invasion-the-slaughterhouse-the-internet-experience">The Chocolate Invasion / The Slaughterhouse : The Internet Experience</episode>
+    <comments>Deux albums jamais publiés physiquement et rarement considérés parmi les meilleurs de Prince, mais qui, avec le recul, contiennent de nombreuses pépites.</comments>
+  </podcast>
+  <podcast>
     <date>2023-01-18</date>
     <name url="https://absolutelymental.com/">Absolutely Mental</name>
     <episode number="13">How does hypnosis work?</episode>
