@@ -2,6 +2,18 @@
 <books created="2006-08-20">
     <introduction>A list of books I read.</introduction>
     <book>
+        <date>2023-01-28</date>
+        <title>Midlife</title>
+        <subtitle>A Philosophical Guide</subtitle>
+        <author>Kieran Setiya</author>
+        <publishingyear>2017</publishingyear>
+        <rating>4.75</rating>
+        <url>https://books.google.com/books?id=fvSnDgAAQBAJ</url>
+        <notes description="Kindle highlights"></notes>
+        <comments>A way better book than Christopher Hamilton's <i>Middle Age</i>, with some relatively actionable pieces of advice.</comments>
+        <image>Midlife.jpg</image>
+    </book>
+    <book>
         <date>2022-12-29</date>
         <title>The Like Switch</title>
         <subtitle>An Ex-FBI Agent's Guide to Influencing, Attracting, and Winning People Over</subtitle>
