@@ -3,6 +3,78 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Checklist: add rating to IMDb -->
   <movie>
+    <date>2023-01-29</date>
+    <theater>Cinéma d'Echallens, Echallens</theater>
+    <director>Cao Hamburger</director>
+    <title>O Menino, a Favela e as Tampas de Panela</title>
+    <title language="fr">Zézé</title>
+    <url>https://www.imdb.com/title/tt2458448/</url>
+    <rating>4.0</rating>
+    <comments>La Petite Lanterne : séance histoire</comments>
+    <image>O Menino, a Favela e as Tampas de Panela.jpg</image>
+  </movie>
+  <movie>
+    <date>2023-01-29</date>
+    <theater>Cinéma d'Echallens, Echallens</theater>
+    <director>Per Carleson</director>
+    <title>Kvinnokraft</title>
+    <title language="en">Girl Power</title>
+    <url>https://www.imdb.com/title/tt0417878/</url>
+    <rating>4.25</rating>
+    <comments>La Petite Lanterne : séance histoire</comments>
+    <image>Kvinnokraft.jpg</image>
+  </movie>
+  <movie>
+    <date>2023-01-29</date>
+    <theater>Cinéma d'Echallens, Echallens</theater>
+    <director>Julia Ocker</director>
+    <title>Zebra</title>
+    <url>https://www.imdb.com/title/tt3769630/</url>
+    <rating>4.25</rating>
+    <comments>La Petite Lanterne : séance histoire</comments>
+    <image>Zebra.jpg</image>
+  </movie>
+  <movie>
+    <date>2023-01-29</date>
+    <theater>Cinéma d'Echallens, Echallens</theater>
+    <director>Anna Kritskaya</director>
+    <title>Dubak</title>
+    <rating>4.25</rating>
+    <comments>La Petite Lanterne : séance histoire</comments>
+    <image>Dubak.jpg</image>
+  </movie>
+  <movie>
+    <date>2023-01-29</date>
+    <theater>Cinéma d'Echallens, Echallens</theater>
+    <director>André Leduc &amp; Bernard Longpré</director>
+    <title>Monsieur Pointu</title>
+    <url>https://www.imdb.com/title/tt0073402/</url>
+    <rating>4.25</rating>
+    <comments>La Petite Lanterne : séance histoire</comments>
+    <image>Monsieur Pointu.jpg</image>
+  </movie>
+  <movie>
+    <date>2023-01-29</date>
+    <theater>Cinéma d'Echallens, Echallens</theater>
+    <director>Borivoj Zeman &amp; Karel Zeman</director>
+    <title>Vánocní sen</title>
+    <title language="fr">Rêve de Noël</title>
+    <url>https://www.imdb.com/title/tt0039088/</url>
+    <rating>4.0</rating>
+    <comments>La Petite Lanterne : séance histoire</comments>
+    <image>Vánocní sen.jpg</image>
+  </movie>
+  <movie>
+    <date>2023-01-29</date>
+    <theater>Cinéma d'Echallens, Echallens</theater>
+    <director>Auguste Lumière &amp; Louis Lumière</director>
+    <title>Les Acrobates</title>
+    <url>https://www.imdb.com/title/tt1188711/</url>
+    <rating>4.0</rating>
+    <comments>La Petite Lanterne : séance histoire</comments>
+    <image>Les Acrobates.jpg</image>
+  </movie>
+  <movie>
     <date>2023-01-12</date>
     <theater home="true"/>
     <director>Ron Howard</director>
