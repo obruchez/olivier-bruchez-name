@@ -12,7 +12,7 @@ libraryDependencies ++= Seq(
   guice,
   "com.github.rjeschke" % "txtmark" % "0.13",
   "com.google.apis" % "google-api-services-blogger" % "v3-rev82-1.25.0",
-  "com.google.api-client" % "google-api-client" % "2.2.0",
+  "com.google.api-client" % "google-api-client" % "1.35.2",
   "com.google.http-client" % "google-http-client" % "1.42.3",
   "com.google.http-client" % "google-http-client-jackson2" % "1.42.3",
   "com.google.oauth-client" % "google-oauth-client" % "1.34.1",
