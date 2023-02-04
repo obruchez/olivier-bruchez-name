@@ -3,6 +3,17 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Checklist: add rating to IMDb -->
   <movie>
+    <date>2023-01-31</date>
+    <theater home="true"/>
+    <director>Juan José Campanella</director>
+    <title>El secreto de sus ojos</title>
+    <title language="en">The Secret in Their Eyes</title>
+    <url>https://www.imdb.com/title/tt1305806/</url>
+    <rating>5.0</rating>
+    <comments>A story about justice, corruption, retribution, love, and more.</comments>
+    <image>El secreto de sus ojos.jpg</image>
+  </movie>
+  <movie>
     <date>2023-01-29</date>
     <theater>Cinéma d'Echallens, Echallens</theater>
     <director>Cao Hamburger</director>
