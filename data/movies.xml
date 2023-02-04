@@ -7897,6 +7897,15 @@
     <version>fr</version>
   </movie>
   <movie>
+    <date>2003-02-04</date>
+    <theater home="true"/>
+    <director>Daniel Myrick &amp; Eduardo Sánchez</director>
+    <title>The Blair Witch Project</title>
+    <title language="fr">Le Projet Blair Witch</title>
+    <url>https://www.imdb.com/title/tt0185937/</url>
+    <image>The Blair Witch Project.jpg</image>
+  </movie>
+  <movie>
     <date>2003-01-30</date>
     <title>Gangs Of New York</title>
   </movie>
