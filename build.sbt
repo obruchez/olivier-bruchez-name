@@ -1,6 +1,6 @@
 name := "olivier-bruchez-name"
 
-version := "1.8-SNAPSHOT"
+version := "1.9"
 
 lazy val root = (project in file(".")).enablePlugins(PlayScala)
 
@@ -30,5 +30,12 @@ routesGenerator := InjectedRoutesGenerator
 ThisBuild / scalafmtOnCompile := true
 
 Debian / requiredStartFacilities := Some("$remote_fs $syslog $network")
-
 Debian / requiredStopFacilities := Some("$remote_fs $syslog $network")
+
+import com.typesafe.sbt.packager.docker._
+
+dockerChmodType := DockerChmodType.UserGroupWriteExecute
+dockerPermissionStrategy := DockerPermissionStrategy.CopyChown
+dockerExposedPorts := Seq(9000)
+dockerExposedVolumes := Seq("/opt/docker/prod-conf", "/var/log/olivier-bruchez-name/")
+dockerBaseImage := "openjdk:11-jre-slim"
