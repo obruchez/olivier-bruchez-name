@@ -3,6 +3,16 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Checklist: add rating to IMDb -->
   <movie>
+    <date>2023-02-14</date>
+    <theater home="true"/>
+    <director>Gavin O'Connor</director>
+    <title>Warrior</title>
+    <url>https://www.imdb.com/title/tt1291584/</url>
+    <rating>4.25</rating>
+    <comments>A movie with a lot of testosterone and patriotism. You can guess what will happen at the end quite early. I guess it's still an entertaining movie, but it left me with a kind of empty feeling.</comments>
+    <image>Warrior.jpg</image>
+  </movie>
+  <movie>
     <date>2023-01-31</date>
     <theater home="true"/>
     <director>Juan José Campanella</director>
