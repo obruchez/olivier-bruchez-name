@@ -37,5 +37,7 @@ import com.typesafe.sbt.packager.docker._
 dockerChmodType := DockerChmodType.UserGroupWriteExecute
 dockerPermissionStrategy := DockerPermissionStrategy.CopyChown
 dockerExposedPorts := Seq(9000)
-dockerExposedVolumes := Seq("/opt/docker/prod-conf", "/var/log/olivier-bruchez-name/")
-dockerBaseImage := "openjdk:11-jre-slim"
+dockerExposedVolumes := Seq("/opt/docker/prod-conf", "/var/log/olivier-bruchez-name")
+dockerBaseImage := "openjdk:11-jre-slim-buster"
+dockerBuildOptions ++= Seq("--platform", "linux/amd64")
+//dockerBuildOptions ++= Seq("--platform", "linux/arm64")
