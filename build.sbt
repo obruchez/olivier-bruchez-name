@@ -41,3 +41,8 @@ dockerExposedVolumes := Seq("/opt/docker/prod-conf", "/var/log/olivier-bruchez-n
 dockerBaseImage := "openjdk:11-jre-slim-buster"
 dockerBuildOptions ++= Seq("--platform", "linux/amd64")
 //dockerBuildOptions ++= Seq("--platform", "linux/arm64")
+
+Docker / daemonUserUid := Some("1099")
+Docker / daemonUser := "olivierbruchezname"
+Docker / daemonGroupGid := Some("1099")
+Docker / daemonGroup := "olivierbruchezname"
