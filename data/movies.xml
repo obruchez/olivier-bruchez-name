@@ -7913,6 +7913,14 @@
     <title>Smoke Signals</title>
   </movie>
   <movie>
+    <date>2003-02-20</date>
+    <theater home="true"/>
+    <director>Pierre-Paul Renders</director>
+    <title>Thomas est amoureux</title>
+    <url>https://www.imdb.com/title/tt0262826/</url>
+    <image>Thomas est amoureux.jpg</image>
+  </movie>
+  <movie>
     <date>2003-02-13</date>
     <title>Attrape-Moi Si Tu Peux</title>
     <version>fr</version>
