@@ -2,6 +2,12 @@
 <podcasts created="2016-05-10">
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date>2023-02-20</date>
+    <name url="https://hubermanlab.com/">Huberman Lab</name>
+    <episode url="https://hubermanlab.com/optimize-your-learning-and-creativity-with-science-based-tools/" number="8">Optimize Your Brain with Science-based Tools</episode>
+    <comments>Expose yourself to bright light during the first 30 minutes after waking up. Drink water (after waking up, but also during the day). Coffee/caffeine 2 hours after waking up (to not interfere with cortisol). Being in a place with lots of things/people (i.e. not "quiet") can make you more alert. Salt/sodium is not bad; it's important, especially if you drink coffee (Huberman drinks salted water in the morning). Fasting leads to alertness; eating makes you sleepy. Modulate the amount of food you eat around noon depending on your level of alertness at the end of the morning. Huberman skips breakfast and exercises during his first hour after waking up (this is not for me, as I tend to be slightly underweight and I have a child to take care of). Non-Sleep Deep Rest (NSDR) in the afternoon. Deep (focused) work in the morning, shallow (more fragmented) work in the afternoon, creative work at the end of the day. Altertness before sleeping is normal.</comments>
+  </podcast>
+  <podcast>
     <date>2023-02-13</date>
     <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
     <episode url="https://www.samharris.org/podcasts/making-sense-episodes/302-science-civilization" number="302">Science &amp; Civilization - A conversation with Neil deGrasse Tyson</episode>
