@@ -3,6 +3,15 @@
 <exhibitions created="2011-05-17">
     <introduction>A list of exhibitions I visited.</introduction>
     <exhibition>
+        <date>2023-02-26</date>
+        <name>A Chair and You</name>
+        <museum>Museum of Contemporary Design and Applied Arts (MUDAC), Lausanne, Switzerland</museum>
+        <rating>5.0</rating>
+        <comments>I didn't expect this exhibition to be that impressive. It's just... chairs. A lot of them. But with lights and shadows. And sounds. And music. Very playful. And the museum itself is beautiful.</comments>
+        <image>A Chair and You.png</image>
+        <!-- <pictures url=""/> -->
+    </exhibition>
+    <exhibition>
         <date>2023-02-25</date>
         <name>Léon Spilliaert. Avec la mer du Nord...</name>
         <museum>Fondation de l’Hermitage, Lausanne, Switzerland</museum>
