@@ -9,6 +9,30 @@
     <actor></actor>
   -->
   <play>
+    <date>2023-02-26</date>
+    <location>Petit Théâtre, Lausanne, Switzerland</location>
+    <name>Tout bêtement</name>
+    <author>Jacques Roman</author>
+    <director>Isabelle Renaut</director>
+    <actor>Benjamin Bender</actor>
+    <actor>François Karlen</actor>
+    <actor>Marie-Emmanuelle Perruchoud</actor>
+    <actor>Mathis Pellaux</actor>
+    <actor>Simon Pellaux</actor>
+    <rating>4.5</rating>
+    <comments>"A mi-chemin entre le conte poétique et le bestiaire musical, Tout bêtement est un spectacle théâtral en musique et en chansons où l’on se rêve animal, avec une trompe ou un museau. Vous y croiserez un lapin curieux, un éléphanteau peureux et aussi une oie audacieuse, une baleine conteuse, un sanglier au grand cœur et des singes songeurs." Un spectacle plus décalé que prévu, vu avec notre fils, qui a bientôt 5 ans.</comments>
+    <image>Tout bêtement.jpg</image>
+    <!--
+Direction musicale Florence Renaut
+Scénographie Yangalie Kohlbrenner
+Dramaturgie et assistanat à la mise en scène Guillaume Béguin
+Regard extérieur jeu marionnettes Laura Gambarini
+Musique Alexis Gfeller
+Lumière Line Adam
+Costumes Karine Dubois
+-->
+  </play>
+  <play>
     <date>2022-12-18</date>
     <location>Théâtre du Martolet, St-Maurice, Switzerland</location>
     <name>Pinocchio</name>
