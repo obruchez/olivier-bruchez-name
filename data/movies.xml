@@ -7909,6 +7909,14 @@
     <image>American Beauty.jpg</image>
   </movie>
   <movie>
+    <date>2003-02-27</date>
+    <theater home="true"/>
+    <director>Sofia Coppola</director>
+    <title>The Virgin Suicides</title>
+    <url>https://www.imdb.com/title/tt0159097/</url>
+    <image>The Virgin Suicides.jpg</image>
+  </movie>
+  <movie>
     <date>2003-02-24</date>
     <title>Smoke Signals</title>
   </movie>
@@ -8465,7 +8473,10 @@
   </movie>
   <movie>
     <date>2000-12-05</date>
-    <title>Virgin Suicides</title>
+    <director>Sofia Coppola</director>
+    <title>The Virgin Suicides</title>
+    <url>https://www.imdb.com/title/tt0159097/</url>
+    <image>The Virgin Suicides.jpg</image>
   </movie>
   <movie>
     <date>2000-11-29</date>
