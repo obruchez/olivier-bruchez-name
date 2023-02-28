@@ -2,6 +2,12 @@
 <podcasts created="2016-05-10">
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date>2023-02-28</date>
+    <name url="https://tim.blog/podcast/">The Tim Ferriss Show</name>
+    <episode url="https://tim.blog/2019/09/03/david-allen-getting-things-done/" number="384">David Allen - The Art of Getting Things Done (GTD)</episode>
+    <comments>I've been implementing GTD for more than 15 years now and I'm always fine-tuning things. I should probably read the book again or, better, listen to the audio book.</comments>
+  </podcast>
+  <podcast>
     <date>2023-02-24</date>
     <name url="https://www.foundmyfitness.com/episodes">FoundMyFitness</name>
     <episode url="https://www.foundmyfitness.com/episodes/intestinal-permeability" number="75">Intestinal Permeability: the Bacterial link to Aging, Brain Barrier Dysfunction &amp; Metabolic Disorder</episode>
