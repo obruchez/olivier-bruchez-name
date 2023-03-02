@@ -2,6 +2,12 @@
 <podcasts created="2016-05-10">
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date>2023-03-01</date>
+    <name url="https://hiddenbrain.org/">Hidden Brain</name>
+    <episode url="https://hiddenbrain.org/podcast/vacations/" number="39">Vacations</episode>
+    <comments>Nobody cares about your vacations, so take vacations for yourself, not for others. Benefits of vacations quickly vanish (after 4 weeks in a study with German teachers), so maybe shorter, but more frequent vacations are a good idea? Vacations are a way to develop our sense of awe.</comments>
+  </podcast>
+  <podcast>
     <date>2023-02-28</date>
     <name url="https://tim.blog/podcast/">The Tim Ferriss Show</name>
     <episode url="https://tim.blog/2019/09/03/david-allen-getting-things-done/" number="384">David Allen - The Art of Getting Things Done (GTD)</episode>
