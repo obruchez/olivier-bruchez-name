@@ -3,6 +3,16 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Checklist: add rating to IMDb -->
   <movie>
+    <date>2023-03-04/date>
+    <theater home="true"/>
+    <director>Steve McQueen</director>
+    <title>12 Years a Slave</title>
+    <url>https://www.imdb.com/title/tt2024544/</url>
+    <rating>5.0</rating>
+    <comments>This was a hard movie to watch. It's hard to imagine that slavery could be a thing so little time ago.</comments>
+    <image>12 Years a Slave.jpg</image>
+  </movie>
+  <movie>
     <date>2023-02-14</date>
     <theater home="true"/>
     <director>Gavin O'Connor</director>
