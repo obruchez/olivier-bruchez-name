@@ -7909,6 +7909,14 @@
     <image>American Beauty.jpg</image>
   </movie>
   <movie>
+    <date>2003-03-03</date>
+    <theater home="true"/>
+    <director>Hideo Nakata</director>
+    <title>Ringu 2</title>
+    <url>https://www.imdb.com/title/tt0218553/</url>
+    <image>Ringu 2.jpg</image>
+  </movie>
+  <movie>
     <date>2003-02-27</date>
     <theater home="true"/>
     <director>Sofia Coppola</director>
