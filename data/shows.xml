@@ -23,6 +23,13 @@
     <image>Rick and Morty.jpg</image>
   </show>
   <show>
+    <date></date>
+    <name url="https://en.wikipedia.org/wiki/The_Last_of_Us_(TV_series)">The Last of Us</name>
+    <series url="https://en.wikipedia.org/wiki/The_Last_of_Us_(TV_series)#Episodes" type="season">1</series>
+    <comments></comments>
+    <image>The Last of Us.jpg</image>
+  </show>
+  <show>
     <date>2023-01-29</date>
     <name url="https://en.wikipedia.org/wiki/Better_Call_Saul">Better Call Saul</name>
     <series url="https://en.wikipedia.org/wiki/Better_Call_Saul_(season_3)" type="season">3</series>
