@@ -3,6 +3,12 @@
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
     <date>2023-03-07</date>
+    <name url="https://nutritionfacts.org/audio/">Nutrition Facts with Dr. Greger</name>
+    <episode url="https://nutritionfacts.org/audio/magic-medicinal-mushrooms/" number="269">Magic Medicinal Mushrooms</episode>
+    <comments>Shiitake is apparently good for immunity.</comments>
+  </podcast>
+  <podcast>
+    <date>2023-03-07</date>
     <name url="http://robesse.libsyn.com/">Obsessed by Music</name>
     <episode url="https://robesse.libsyn.com/podcast/how-much-music-is-enough-how-much-do-we-really-need">Is It Possible To Have Too Much Music?</episode>
     <comments>The answer is "yes". We have access to way more music than we "need". This is a good problem to have. We should focus more on quality and less on quantity, i.e. listen to our favorite albums more often and with more "intention" (not in the background).</comments>
