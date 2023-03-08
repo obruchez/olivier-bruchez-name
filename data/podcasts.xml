@@ -3,6 +3,12 @@
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
     <date>2023-03-07</date>
+    <name url="http://robesse.libsyn.com/">Obsessed by Music</name>
+    <episode url="https://robesse.libsyn.com/podcast/how-much-music-is-enough-how-much-do-we-really-need">Is It Possible To Have Too Much Music?</episode>
+    <comments>The answer is "yes". We have access to way more music than we "need". This is a good problem to have. We should focus more on quality and less on quantity, i.e. listen to our favorite albums more often and with more "intention" (not in the background).</comments>
+  </podcast>
+  <podcast>
+    <date>2023-03-07</date>
     <name url="https://peterattiamd.com/podcast/">The Peter Attia Drive Podcast</name>
     <episode url="https://peterattiamd.com/benoitarsenault/" number="210">Lp(a) and its impact on heart disease | Benoît Arsenault, Ph.D.</episode>
     <comments>A very technical episode. I've already measured my Lp(a) level. Once is enough. ApoB can be measured regularly. Increasing your HDL levels is useless (again).</comments>
