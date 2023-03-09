@@ -9,6 +9,39 @@
     <actor></actor>
   -->
   <play>
+    <date>2023-03-07</date>
+    <location>Pulloff Théâtres, Lausanne, Switzerland</location>
+    <name>Circus</name>
+    <author>Stéphane Albelda</author>
+    <director>Jean Gabriel Chobaz</director>
+    <actor>Frank Arnaudon</actor>
+    <actor>Jean Gabriel Chobaz</actor>
+    <actor>Laurie Comtesse</actor>
+    <actor>Jean-Luc Borgeat</actor>
+    <actor>Florence Quartenoud</actor>
+    <actor>Paola Landolt</actor>
+    <actor>Stéphane Rentznik</actor>
+    <rating>4.25</rating>
+    <comments>Attiré par les mentions de David Lynch et autres, je me suis un peu ennuyé. Il y avait pourtant tous les éléments pour bien faire : de bons acteurs, de l'émotion, des rebondissements, de l'absurde, etc. La sauce n'a pas pris pour moi. Peut-être la fatigue ? Ou alors autre chose; je ne sais pas.</comments>
+    <image>Circus.png</image>
+    <!--
+assistante à la mise en scène : Véronique Montel
+chorégraphies : Marco Cantalupo
+création des musiques : Timothée Haller
+scénographie : Jean Gabriel Chobaz et Antoinette Baira
+vidéo : Michael Facchin
+lumières : Jean-Pierre Potvliege
+costumes : Scilla Ilardo et Patricia Pennacchio
+maquillages, perruques  et effets spéciaux : Manux Olivet Pellegrin et Nathalie Mouchnino
+création sonore: David Tabachnik
+construction décor: Jean-Marie Matthey-Le Ratelier
+régie lumière et technique : Patrick Guex
+régie son : Jonathan Simarro
+régie de plateau : Dorian Wolfcarius
+photographe : Valdemar Verissimo
+    -->
+  </play>
+  <play>
     <date>2023-02-26</date>
     <location>Petit Théâtre, Lausanne, Switzerland</location>
     <name>Tout bêtement</name>
