@@ -9,7 +9,7 @@
         <rating>5.0</rating>
         <comments>I didn't expect this exhibition to be that impressive. It's just... chairs. A lot of them. But with lights and shadows. And sounds. And music. Very playful. And the museum itself is beautiful.</comments>
         <image>A Chair and You.png</image>
-        <!-- <pictures url=""/> -->
+        <pictures url="https://www.flickr.com/photos/bruchez/albums/72177720306471077"/>
     </exhibition>
     <exhibition>
         <date>2023-02-25</date>
@@ -18,7 +18,7 @@
         <rating>4.5</rating>
         <comments>Same comment as for Achille Laugé exhibition. I especially liked Spilliaert's sea landscapes. Beautiful colors.</comments>
         <image>Léon Spilliaert - Avec la mer du Nord.jpg</image>
-        <!-- <pictures url=""/> -->
+        <pictures url="https://www.flickr.com/photos/bruchez/sets/72177720306464941"/>
     </exhibition>
     <exhibition>
         <date>2022-10-30</date>
