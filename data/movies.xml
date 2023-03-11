@@ -3,6 +3,16 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Checklist: add rating to IMDb -->
   <movie>
+    <date>2023-03-09</date>
+    <theater home="true"/>
+    <director>Mel Gibson</director>
+    <title>Hacksaw Ridge</title>
+    <url>https://www.imdb.com/title/tt2119532/</url>
+    <rating>4.5</rating>
+    <comments>Desmond Doss is a true hero, but, in the movie, he's often an insufferable character (to me at least). The way he naively clings to his principles, without thinking about the consequences of his acts, is frustrating. The combat scenes are also hard to watch. I guess they're very realistic, which means that they're very gory/violent. All in all, I can't say I enjoyed this movie a lot, although it's technically a good movie.</comments>
+    <image>Hacksaw Ridge.jpg</image>
+  </movie>
+  <movie>
     <date>2023-03-04/date>
     <theater home="true"/>
     <director>Steve McQueen</director>
