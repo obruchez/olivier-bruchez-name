@@ -7911,6 +7911,14 @@
     <title>Chicago</title>
   </movie>
   <movie>
+    <date>2003-03-11</date>
+    <theater home="true"/>
+    <director>Andrzej Sekula</director>
+    <title>Cube 2: Hypercube</title>
+    <url>https://www.imdb.com/title/tt0285492/</url>
+    <image>Cube 2 - Hypercube.jpg</image>
+  </movie>
+  <movie>
     <date>2003-03-04</date>
     <theater home="true"/>
     <director>Sam Mendes</director>
