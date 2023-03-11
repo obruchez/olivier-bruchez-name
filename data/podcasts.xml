@@ -2,6 +2,12 @@
 <podcasts created="2016-05-10">
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date>2023-03-10/date>
+    <name url="http://verybadwizards.com/">Very Bad Wizards</name>
+    <episode url="https://www.verybadwizards.com/233" number="233">Keeping It Surreal (Kafka's "The Trial" Pt. 1)</episode>
+    <comments>I read <i>The Trial</i> in French in 2004. I don't remember the story very well, but hearing Tamler and Dave talk about it, it's obvious that I've read it. I still remember the feelings I had while reading it, that weird feeling of reading someone's absurd dream, of confusion, etc. Obviously, this is a book I should read again someday.</comments>
+  </podcast>
+  <podcast>
     <date>2023-03-07</date>
     <name url="https://absolutelymental.com/">Absolutely Mental</name>
     <episode number="15">The certainty (and uncertainty) of death</episode>
