@@ -2,6 +2,12 @@
 <podcasts created="2016-05-10">
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date>2023-03-15</date>
+    <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
+    <episode url="https://www.samharris.org/podcasts/making-sense-episodes/308-the-long-game" number="308">The Long Game - A Conversation with Robert Waldinger</episode>
+    <comments>Sam, as often, mentions the study where well-being plateaus as income rises, but life satisfaction keeps going up. Robert doesn't agree with the interpretation that life satisfaction keeps going up, but I'm not sure why. Overall, a nice discussion, but with not too many insights if you've heard Robert's TEDx talk.</comments>
+  </podcast>
+  <podcast>
     <date>2023-03-10</date>
     <name url="http://verybadwizards.com/">Very Bad Wizards</name>
     <episode url="https://www.verybadwizards.com/233" number="233">Keeping It Surreal (Kafka's "The Trial" Pt. 1)</episode>
