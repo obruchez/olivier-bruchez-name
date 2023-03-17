@@ -2,6 +2,18 @@
 <books created="2006-08-20">
     <introduction>A list of books I read.</introduction>
     <book>
+        <date></date>
+        <title>Deep Work</title>
+        <subtitle>Rules for Focused Success in a Distracted World</subtitle>
+        <author>Cal Newport</author>
+        <publishingyear>2016</publishingyear>
+        <rating></rating>
+        <url>https://books.google.com/books?id=lZpFCgAAQBAJ</url>
+        <notes description="Kindle highlights"></notes>
+        <comments></comments>
+        <image>Deep Work.jpg</image>
+    </book>
+    <book>
         <date>2023-01-28</date>
         <title>Midlife</title>
         <subtitle>A Philosophical Guide</subtitle>
