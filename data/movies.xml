@@ -3,6 +3,16 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Checklist: add rating to IMDb -->
   <movie>
+    <date>2023-03-16</date>
+    <theater home="true"/>
+    <director>James Mangold</director>
+    <title>Ford v Ferrari</title>
+    <url>https://www.imdb.com/title/tt1950186/</url>
+    <rating>4.75</rating>
+    <comments>I'm not a fan of racing cars, so I didn't expect to enjoy this movie. But I did enjoy it. It was entertaining. Matt Damon and Christian Bale are both perfect in their (slightly stereotypical and/or over-the-top) roles.</comments>
+    <image>Ford v Ferrari.jpg</image>
+  </movie>
+  <movie>
     <date>2023-03-09</date>
     <theater home="true"/>
     <director>Mel Gibson</director>
