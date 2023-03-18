@@ -3,6 +3,63 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Checklist: add rating to IMDb -->
   <movie>
+    <date>2023-03-18</date>
+    <theater>Cinéma Bel-Air, Yverdon</theater>
+    <director>Gottfried Mentor</director>
+    <title>Lämmer</title>
+    <url>https://www.imdb.com/title/tt3770036/</url>
+    <rating>4.5</rating>
+    <comments>La Petite Lanterne : séance planète</comments>
+    <image>Lämmer.jpg</image>
+  </movie>
+  <movie>
+    <date>2023-03-18</date>
+    <theater>Cinéma Bel-Air, Yverdon</theater>
+    <director>Ana Chubinidze</director>
+    <title>Le Petit Bonhomme de poche</title>
+    <url>https://www.imdb.com/title/tt7070358/</url>
+    <rating>4.5</rating>
+    <comments>La Petite Lanterne : séance planète</comments>
+    <image>Le Petit Bonhomme de poche.jpg</image>
+  </movie>
+  <movie>
+    <date>2023-03-18</date>
+    <theater>Cinéma Bel-Air, Yverdon</theater>
+    <director>Yulia Aronova</director>
+    <title>Eskimo</title>
+    <rating>4.5</rating>
+    <comments>La Petite Lanterne : séance planète</comments>
+    <image>Eskimo.jpg</image>
+  </movie>
+  <movie>
+    <date>2023-03-18</date>
+    <theater>Cinéma Bel-Air, Yverdon</theater>
+    <director>Sami Guellaï &amp; Mohamed Fadera</director>
+    <title>Tulkou</title>
+    <rating>4.75</rating>
+    <comments>La Petite Lanterne : séance planète</comments>
+    <image>Tulkou.jpg</image>
+  </movie>
+  <movie>
+    <date>2023-03-18</date>
+    <theater>Cinéma Bel-Air, Yverdon</theater>
+    <director>Natalia Chernysheva</director>
+    <title>Snežinka</title>
+    <url>https://www.imdb.com/title/tt3327954/</url>
+    <rating>4.5</rating>
+    <comments>La Petite Lanterne : séance planète</comments>
+    <image>Snežinka.jpg</image>
+  </movie>
+  <movie>
+    <date>2023-03-18</date>
+    <theater>Cinéma Bel-Air, Yverdon</theater>
+    <director>Sylvie Zijlmans</director>
+    <title>Ik de jouwe, jij de mijne</title>
+    <rating>4.0</rating>
+    <comments>La Petite Lanterne : séance planète</comments>
+    <image>Ik de jouwe, jij de mijne.jpg</image>
+  </movie>
+  <movie>
     <date>2023-03-16</date>
     <theater home="true"/>
     <director>James Mangold</director>
