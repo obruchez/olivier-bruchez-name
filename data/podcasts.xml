@@ -2,6 +2,12 @@
 <podcasts created="2016-05-10">
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date>2023-03-22</date>
+    <name url="https://peterattiamd.com/podcast/">The Peter Attia Drive Podcast</name>
+    <episode url="https://peterattiamd.com/benoitarsenault/" number="222">How nutrition impacts longevity | Matt Kaeberlein, Ph.D</episode>
+    <comments>Rapamycin has a positive impact on healthspan/lifespan even if you take it late in life (at least if you're a mouse). This is good news. Some forms of rapamycin are apparently better than others. You should take the "triangle" one (e.g. Rapamune). The discussion about protein was interesting, as Matt and Peter recognize that some knowledgeable people think you should have a low protein diet, while others think you should have a high protein diet. The reality is that there's a trade-off and that trade-off varies with age. If you're 50 years old or older, it's probably a good idea to consume a lot of protein, as long as it doesn't come with too many high-calorie foods.</comments>
+  </podcast>
+  <podcast>
     <date>2023-03-15</date>
     <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
     <episode url="https://www.samharris.org/podcasts/making-sense-episodes/308-the-long-game" number="308">The Long Game - A Conversation with Robert Waldinger</episode>
