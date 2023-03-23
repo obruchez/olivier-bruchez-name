@@ -3,6 +3,17 @@
     <introduction>A list of books I read.</introduction>
     <book>
         <date></date>
+        <title>So Long, and Thanks for All the Fish</title>
+        <author>Douglas Adams</author>
+        <publishingyear>1984</publishingyear>
+        <rating></rating>
+        <url>https://en.wikipedia.org/wiki/So_Long,_and_Thanks_for_All_the_Fish</url>
+        <notes description="Kindle highlights"></notes>
+        <comments></comments>
+        <image>So Long, and Thanks for All the Fish.jpg</image>
+    </book>
+    <book>
+        <date></date>
         <title>Deep Work</title>
         <subtitle>Rules for Focused Success in a Distracted World</subtitle>
         <author>Cal Newport</author>
