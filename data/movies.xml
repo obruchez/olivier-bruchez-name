@@ -3,6 +3,16 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Checklist: add rating to IMDb -->
   <movie>
+    <date>2023-03-27</date>
+    <theater home="true"/>
+    <director>Terry George</director>
+    <title>Hotel Rwanda</title>
+    <url>https://www.imdb.com/title/tt0395169/</url>
+    <rating>5.0</rating>
+    <comments>Another movie that I found hard to watch (the third this month), but that I liked. I was not really familiar with the Rwandan genocide. Up until now, it was just an abstraction. Seeing what it actually means, although only partially, is devasting.</comments>
+    <image>Hotel Rwanda.jpg</image>
+  </movie>
+  <movie>
     <date>2023-03-18</date>
     <theater>Cinéma Bel-Air, Yverdon</theater>
     <director>Gottfried Mentor</director>
