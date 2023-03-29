@@ -2,6 +2,12 @@
 <podcasts created="2016-05-10">
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date>2023-03-29</date>
+    <name url="https://podcast.ausha.co/violet">Violet - Le Podcast sur Prince et le Minneapolis Sound</name>
+    <episode url="https://podcast.ausha.co/violet/musicology-retour-a-l-ecole">Musicology : Retour à l'école</episode>
+    <comments><i>Musicology</i> n'a jamais été un de mes albums préférés. Je l'écoute rarement. Trop <i>mainstream</i>, mais pas mauvais. L'éclairage de Nicolas permet de voir qu'il y a toujours du très bon perdu au milieu de ce que l'on trouve moyen, avec Prince.</comments>
+  </podcast>
+  <podcast>
     <date>2023-03-22</date>
     <name url="https://peterattiamd.com/podcast/">The Peter Attia Drive Podcast</name>
     <episode url="https://peterattiamd.com/benoitarsenault/" number="222">How nutrition impacts longevity | Matt Kaeberlein, Ph.D</episode>
