@@ -1573,6 +1573,14 @@
     <artist>François Schuiten</artist>
     <colorist>François Schuiten</colorist>
     <series url="https://fr.wikipedia.org/wiki/Les_Cit%C3%A9s_obscures">Les Cités obscures</series>
+    <volume url="https://fr.wikipedia.org/wiki/Les_Murailles_de_Samaris" number="1">Les Murailles de Samaris</volume>
+    <image>Les Cités obscures - Les Murailles de Samaris.jpg</image>
+  </comic>
+  <comic>
+    <date>2003-03-29</date>
+    <writer>Benoît Peeters</writer>
+    <artist>François Schuiten</artist>
+    <series url="https://fr.wikipedia.org/wiki/Les_Cit%C3%A9s_obscures">Les Cités obscures</series>
     <volume url="https://fr.wikipedia.org/wiki/L%27Enfant_pench%C3%A9e" number="6">L'Enfant penchée</volume>
     <image>Les Cités obscures - L'Enfant penchée.jpg</image>
   </comic>
