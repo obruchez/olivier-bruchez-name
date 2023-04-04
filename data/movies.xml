@@ -3,6 +3,16 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Checklist: add rating to IMDb -->
   <movie>
+    <date>2023-04-01</date>
+    <theater home="true"/>
+    <director>Ron Howard</director>
+    <title>Rush</title>
+    <url>https://www.imdb.com/title/tt1979320/</url>
+    <rating>4.5</rating>
+    <comments>I watched this film just a couple of weeks after watching <i>Ford v Ferrari</i>. Both movies are about racing and competition. Both are based on a true story. They obviously share a lof of common elements. I guess <i>Ford v Ferrari</i> was slightly more entertaining and less realistic (?). All in all, not really my cup of tea, but quite entertaining.</comments>
+    <image>Rush.jpg</image>
+  </movie>
+  <movie>
     <date>2023-03-27</date>
     <theater home="true"/>
     <director>Terry George</director>
