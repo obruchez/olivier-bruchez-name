@@ -3,6 +3,16 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Checklist: add rating to IMDb -->
   <movie>
+    <date>2023-04-06</date>
+    <theater home="true"/>
+    <director>Tom McCarthy</director>
+    <title>Spotlight</title>
+    <url>https://www.imdb.com/title/tt1895587/</url>
+    <rating>4.75</rating>
+    <comments>Not a bad movie by any stretch of the imagination, but a rather "dry" one, in the sense that it's informative. You really feel that it's a film inspired by true events and that it doesn't aspire to be entertaining or shocking.</comments>
+    <image>Spotlight.jpg</image>
+  </movie>
+  <movie>
     <date>2023-04-01</date>
     <theater home="true"/>
     <director>Ron Howard</director>
