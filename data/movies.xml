@@ -8000,6 +8000,14 @@
     <title>About Schmidt</title>
   </movie>
   <movie>
+    <date>2003-04-05</date>
+    <theater home="true"/>
+    <director>Joe Berlinger</director>
+    <title>Book of Shadows: Blair Witch 2</title>
+    <url>https://www.imdb.com/title/tt0229260/</url>
+    <image>Book of Shadows - Blair Witch 2.jpg</image>
+  </movie>
+  <movie>
     <date>2003-03-20</date>
     <title>8 Mile</title>
   </movie>
