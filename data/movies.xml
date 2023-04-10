@@ -3,6 +3,16 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Checklist: add rating to IMDb -->
   <movie>
+    <date>2023-04-10</date>
+    <theater home="true"/>
+    <director>Franklin J. Schaffner</director>
+    <title>Planet of the Apes</title>
+    <url>https://www.imdb.com/title/tt0063442/</url>
+    <rating>4.5</rating>
+    <comments>A classic. An entertaining movie with a simple message: humans might be screwing it up (atomic bombs, wars, unrestricted artificial intelligence, etc. - you get the idea). I watched it knowing the ending, so it kind of ruined the fun of it.</comments>
+    <image>Planet of the Apes.jpg</image>
+  </movie>
+  <movie>
     <date>2023-04-06</date>
     <theater home="true"/>
     <director>Tom McCarthy</director>
