@@ -8000,6 +8000,13 @@
     <title>About Schmidt</title>
   </movie>
   <movie>
+    <date>2003-04-08</date>
+    <director>David Lynch</director>
+    <title>Mulholland Dr.</title>
+    <url>https://www.imdb.com/title/tt0166924/</url>
+    <image>Mulholland Drive.jpg</image>
+  </movie>
+  <movie>
     <date>2003-04-07</date>
     <theater home="true"/>
     <director>Robert Rodriguez</director>
@@ -8350,8 +8357,9 @@
   <movie>
     <date>2001-12-10</date>
     <director>David Lynch</director>
-    <title>Mulholland Drive</title>
+    <title>Mulholland Dr.</title>
     <url>https://www.imdb.com/title/tt0166924/</url>
+    <image>Mulholland Drive.jpg</image>
   </movie>
   <movie>
     <date>2001-12-05</date>
