@@ -2,6 +2,12 @@
 <podcasts created="2016-05-10">
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date>2023-04-05</date>
+    <name url="https://conversationswithtyler.com/">Conversations with Tyler</name>
+    <episode url="https://conversationswithtyler.com/episodes/william-macaskill/" number="">William MacAskill on Effective Altruism, Moral Progress, and Cultural Innovation</episode>
+    <comments>My first <i>Conversations with Tyler</i> episode. I've heard MacAskill multiple times in the past (Sam Harris, Very Bad Wizards, and Tim Ferriss). This episode was more technical. It felt like Tyler really wanted to go to the limits of MacAskill's ideas.</comments>
+  </podcast>
+  <podcast>
     <date>2023-04-06</date>
     <name url="https://podcast.ausha.co/violet">Violet - Le Podcast sur Prince et le Minneapolis Sound</name>
     <episode url="https://podcast.ausha.co/violet/bonus-6-musicologie-appliquee">Bonus #6 : Musicologie appliquée</episode>
