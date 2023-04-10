@@ -8000,6 +8000,14 @@
     <title>About Schmidt</title>
   </movie>
   <movie>
+    <date>2003-04-07</date>
+    <theater home="true"/>
+    <director>Robert Rodriguez</director>
+    <title>The Faculty</title>
+    <url>https://www.imdb.com/title/tt0133751/</url>
+    <image>The Faculty.jpg</image>
+  </movie>
+  <movie>
     <date>2003-04-05</date>
     <theater home="true"/>
     <director>Joe Berlinger</director>
