@@ -9,6 +9,24 @@
     <actor></actor>
   -->
   <play>
+    <date>2023-04-15</date>
+    <location>St. Martin's Theatre, London, UK</location>
+    <name>The Mousetrap</name>
+    <author>Agatha Christie</author>
+    <director>Ian Talbot</director>
+    <actor>Sara Lessore</actor>
+    <actor>George Banks</actor>
+    <actor>Jonathan Tynan-Moss</actor>
+    <actor>Cathryn Sherman (?)</actor>
+    <actor>Philip Childs</actor>
+    <actor>Phoebe Sparrow</actor>
+    <actor>Rob Pomfret</actor>
+    <actor>George Jones (?)</actor>
+    <rating>4.5</rating>
+    <comments>"The world's longest running play." Definitely not bad, although I'm not a fan of Agatha Christie. Yes, you will suspect everybody at some point and, yes, you will be (kind of) surprised at the end.</comments>
+    <image>The Mousetrap.jpg</image>
+  </play>
+  <play>
     <date>2023-03-07</date>
     <location>Pulloff Théâtres, Lausanne, Switzerland</location>
     <name>Circus</name>
