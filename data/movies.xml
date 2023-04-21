@@ -3,6 +3,16 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Checklist: add rating to IMDb -->
   <movie>
+    <date>2023-04-</date>
+    <theater home="true"/>
+    <director>Fede Alvarez</director>
+    <title>Don't Breathe</title>
+    <url>https://www.imdb.com/title/tt4160708/</url>
+    <rating>3.5</rating>
+    <comments>Unlikeable characters doing stupid things in implausible situations. I knew I wasn't going to see a masterpiece, but that was still a disappointing experience.</comments>
+    <image>Don't Breathe.jpg</image>
+  </movie>
+  <movie>
     <date>2023-04-10</date>
     <theater home="true"/>
     <director>Franklin J. Schaffner</director>
