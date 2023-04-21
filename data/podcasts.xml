@@ -3,6 +3,12 @@
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
     <date>2023-04-20</date>
+    <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
+    <episode url="https://www.samharris.org/podcasts/making-sense-episodes/312-the-trouble-with-ai" number="312">The Trouble with AI - A Conversation with Stuart Russell and Gary Marcus</episode>
+    <comments>It could have been an interesting discussion and it was at times, but there were too many interruptions and digressions.</comments>
+  </podcast>
+  <podcast>
+    <date>2023-04-20</date>
     <name url="https://absolutelymental.com/">Absolutely Mental</name>
     <episode number="17">3 Questions for the Aliens</episode>
     <comments>"Ricky poses a thought experiment where Sam would act as a human representative to speak with super-intelligent aliens. Sam would ask the aliens to cure aging. Ricky would rather know which version of the Office they liked more."</comments>
