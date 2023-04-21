@@ -3,6 +3,14 @@
 <exhibitions created="2011-05-17">
     <introduction>A list of exhibitions I visited.</introduction>
     <exhibition>
+        <date>2023-04-16</date>
+        <name>Permanent exhibition</name>
+        <museum>British Museum, London, UK</museum>
+        <rating>4.5</rating>
+        <comments>This was an overwhelming experience. There were too many visitors, so that was not pleasant at all. The number of items on display is completely incredible. You don't really know where to focus your attention. This was a visit that really made me realize that I prefer art museums and paintings in particular.</comments>
+        <image>British Museum.jpg</image>
+    </exhibition>
+    <exhibition>
         <date>2023-04-14</date>
         <name>Permanent exhibition</name>
         <museum>Tate Modern, London, UK</museum>
