@@ -11,8 +11,15 @@
   <show>
     <date></date>
     <name url="https://en.wikipedia.org/wiki/Better_Call_Saul">Better Call Saul</name>
-    <series url="https://en.wikipedia.org/wiki/Better_Call_Saul_(season_5)" type="season">5</series>
+    <series url="https://en.wikipedia.org/wiki/Better_Call_Saul_(season_6)" type="season">6</series>
     <comments></comments>
+    <image>Better Call Saul.jpg</image>
+  </show>
+  <show>
+    <date>2023-04-14</date>
+    <name url="https://en.wikipedia.org/wiki/Better_Call_Saul">Better Call Saul</name>
+    <series url="https://en.wikipedia.org/wiki/Better_Call_Saul_(season_5)" type="season">5</series>
+    <comments>Another fantastic season.</comments>
     <image>Better Call Saul.jpg</image>
   </show>
   <show>
