@@ -9,6 +9,25 @@
     <actor></actor>
   -->
   <play>
+    <date>2023-04-16</date>
+    <location>Adelphi Theatre, London, UK</location>
+    <name>Back to the Future: The Musical</name>
+    <author>Bob Gale</author>
+    <director>John Rando</director>
+    <actor>Ben Joyce</actor>
+    <actor>Cory English</actor>
+    <actor>Amber Davies</actor>
+    <actor>Oliver Nicholas</actor>
+    <actor>Jordan Benjamin</actor>
+    <actor>Sophie Naglik</actor>
+    <actor>Harry Jobson</actor>
+    <actor>Gary Trainor</actor>
+    <actor>Emma Lloyd</actor>
+    <rating>5.5</rating>
+    <comments>I was not prepared to be as impressed as I was. I'm not a fan of musicals in general, but it was excellent. The sets and special effects, in particular, were astounding.</comments>
+    <image>Back to the Future - The Musical.jpg</image>
+  </play>
+  <play>
     <date>2023-04-15</date>
     <location>St. Martin's Theatre, London, UK</location>
     <name>The Mousetrap</name>
@@ -22,7 +41,7 @@
     <actor>Phoebe Sparrow</actor>
     <actor>Rob Pomfret</actor>
     <actor>George Jones (?)</actor>
-    <rating>4.5</rating>
+    <rating>4.75</rating>
     <comments>"The world's longest running play." Definitely not bad, although I'm not a fan of Agatha Christie. Yes, you will suspect everybody at some point and, yes, you will be (kind of) surprised at the end.</comments>
     <image>The Mousetrap.jpg</image>
   </play>
