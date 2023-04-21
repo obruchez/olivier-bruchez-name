@@ -2,6 +2,13 @@
 <trips created="2008-02-26">
   <introduction>A list of trips I took.</introduction>
   <trip>
+    <from>2023-04-14</from>
+    <to>2023-04-18</to>
+    <place>London, UK</place>
+    <!-- <pictures url=""/> -->
+    <comments>My 3<sup>rd</sup> trip to London. The 1<sup>st</sup> time, in 2003, was to see Keith Jarrett at the Royal Festival Hall. The 2<sup>nd</sup> time, in 2007, was to see Prince at the O2 and at the Indigo2. This time, we didn't see any concert, but we saw a play (<i>The Mousetrap</i>), a musical (<i>Back to the Future: The Musical</i>) and visited three museums (Tate Modern, British Museum, and National Gallery), among other things. That was fun. I will miss the vegetarian/vegan restaurants, like in Berlin.</comments>
+  </trip>
+  <trip>
     <from>2022-09-17</from>
     <to>2022-09-19</to>
     <place>Basel, Switzerland / Europa-Park, Germany</place>
