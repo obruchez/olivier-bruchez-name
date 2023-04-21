@@ -3,6 +3,14 @@
 <exhibitions created="2011-05-17">
     <introduction>A list of exhibitions I visited.</introduction>
     <exhibition>
+        <date>2023-04-14</date>
+        <name>Permanent exhibition</name>
+        <museum>Tate Modern, London, UK</museum>
+        <rating>4.5</rating>
+        <comments>I don't understand modern art, but I like the experience of walking in a huge, impressive building and regularly getting in a state of incomprehension, surprise, or amusement.</comments>
+        <image>Tate Modern.jpg</image>
+    </exhibition>
+    <exhibition>
         <date>2023-02-26</date>
         <name>A Chair and You</name>
         <museum>Museum of Contemporary Design and Applied Arts (MUDAC), Lausanne, Switzerland</museum>
