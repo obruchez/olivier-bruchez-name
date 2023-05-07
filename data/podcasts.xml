@@ -2,6 +2,12 @@
 <podcasts created="2016-05-10">
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date>2023-05-06</date>
+    <name url="https://absolutelymental.com/">Absolutely Mental</name>
+    <episode number="18">Lions, Twitter, and Billionaires...</episode>
+    <comments>"Ricky asks Sam what single concept he’d like everyone in the world to understand. They also discuss space tourism, the morality underlying animal behavior, and Ricky’s award-winning tweets."</comments>
+  </podcast>
+  <podcast>
     <date>2023-05-03</date>
     <name url="https://lexfridman.com/podcast/">Lex Fridman Podcast</name>
     <episode url="https://www.youtube.com/watch?v=AaTRHFaaPG8" number="368">Eliezer Yudkowsky: Dangers of AI and the End of Human Civilization</episode>
