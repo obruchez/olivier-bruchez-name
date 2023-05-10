@@ -3,6 +3,29 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Checklist: add rating to IMDb -->
   <movie>
+    <date>2023-05-07</date>
+    <theater>Les Mutin.e.s, Lausanne</theater>
+    <director>Max Lang &amp; Daniel Snaddon</director>
+    <title>The Snail and the Whale</title>
+    <title language="fr">La Baleine et l’Escargote</title>
+    <version>fr</version>
+    <url>https://www.imdb.com/title/tt9303756/</url>
+    <rating>4.75</rating>
+    <comments>A nice and beautiful short movie for children.</comments>
+    <image>The Snail and the Whale.jpg</image>
+  </movie>
+  <movie>
+    <date>2023-05-07</date>
+    <theater>Les Mutin.e.s, Lausanne</theater>
+    <director>Aliona Baranova</director>
+    <title>Lístek</title>
+    <title language="en">Lístek</title>
+    <url>https://www.imdb.com/title/tt13418640/</url>
+    <rating>4.5</rating>
+    <comments>Preceded by two episodes of <i>Rita et Crocodile</i>: <a href="https://www.imdb.com/title/tt4190356/">"Rita et Crocodile au zoo"</a> and <a href="https://www.imdb.com/title/tt12710102/">"Rita et Crocodile à la piscine"</a>.</comments>
+    <image>Leaf.jpg</image>
+  </movie>
+  <movie>
     <date>2023-04-11</date>
     <theater home="true"/>
     <director>Fede Alvarez</director>
