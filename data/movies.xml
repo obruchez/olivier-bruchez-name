@@ -3,6 +3,16 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Checklist: add rating to IMDb -->
   <movie>
+    <date>2023-05-11</date>
+    <theater home="true"/>
+    <director>James Mangold</director>
+    <title>Logan</title>
+    <url>https://www.imdb.com/title/tt3315342/</url>
+    <rating>3.5</rating>
+    <comments>Not a bad movie, I guess, but it left me completely cold. The fact that I had never seen any other <i>X-Men</i> movie probably didn't help.</comments>
+    <image>Logan.jpg</image>
+  </movie>
+  <movie>
     <date>2023-05-07</date>
     <theater>Les Mutin.e.s, Lausanne</theater>
     <director>Max Lang &amp; Daniel Snaddon</director>
@@ -31,7 +41,7 @@
     <director>Fede Alvarez</director>
     <title>Don't Breathe</title>
     <url>https://www.imdb.com/title/tt4160708/</url>
-    <rating>3.5</rating>
+    <rating>3.25</rating>
     <comments>Unlikeable characters doing stupid things in implausible situations. I knew I wasn't going to see a masterpiece, but that was still a disappointing experience.</comments>
     <image>Don't Breathe.jpg</image>
   </movie>
