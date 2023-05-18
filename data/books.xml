@@ -2,14 +2,14 @@
 <books created="2006-08-20">
     <introduction>A list of books I read.</introduction>
     <book>
-        <date></date>
+        <date>2023-05-07</date>
         <title>So Long, and Thanks for All the Fish</title>
         <author>Douglas Adams</author>
         <publishingyear>1984</publishingyear>
-        <rating></rating>
+        <rating>3.5</rating>
         <url>https://en.wikipedia.org/wiki/So_Long,_and_Thanks_for_All_the_Fish</url>
         <notes description="Kindle highlights"></notes>
-        <comments></comments>
+        <comments>Surprisingly quite boring compared to the previous books in the <i>The Hitchhiker's Guide to the Galaxy</i> franchise.</comments>
         <image>So Long, and Thanks for All the Fish.jpg</image>
     </book>
     <book>
