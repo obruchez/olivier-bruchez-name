@@ -2,6 +2,12 @@
 <podcasts created="2016-05-10">
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date>2023-05-30</date>
+    <name url="https://absolutelymental.com/">Absolutely Mental</name>
+    <episode number="19">Why can’t we cure pain?</episode>
+    <comments>"Ricky calls Sam to ask why there isn’t a cure for all physical pain. They discuss phantom pain in amputees, the origins of language, and the dangers of tying your shoes."</comments>
+  </podcast>
+  <podcast>
     <date>2023-05-27</date>
     <name url="https://hubermanlab.com/">Huberman Lab</name>
     <episode url="https://hubermanlab.com/dr-robin-carhart-harris-the-science-of-psychedelics-for-mental-health/">Dr. Robin Carhart-Harris: The Science of Psychedelics for Mental Health</episode>
