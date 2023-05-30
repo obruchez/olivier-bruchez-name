@@ -2,6 +2,12 @@
 <podcasts created="2016-05-10">
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date>2023-05-27</date>
+    <name url="https://hubermanlab.com/">Huberman Lab</name>
+    <episode url="https://hubermanlab.com/dr-robin-carhart-harris-the-science-of-psychedelics-for-mental-health/">Dr. Robin Carhart-Harris: The Science of Psychedelics for Mental Health</episode>
+    <comments>Psychedelic-assisted psychotherapy using psilocybin and MDMA will probably get approved in the near future in the US. Microdosing, as usually defined (i.e. using subperceptual doses), doesn't seem to work better than a placebo. I'm wondering if using slightly higher doses, i.e. right above the threshold of perception or "sub-hallucinogenic" doses (as James Fadiman is now advocating), would lead to more interesting results.</comments>
+  </podcast>
+  <podcast>
     <date>2023-05-24</date>
     <name url="https://podcast.ausha.co/violet">Violet - Le Podcast sur Prince et le Minneapolis Sound</name>
     <episode url="https://podcast.ausha.co/violet/3121-viva-las-vegas">3121 : Viva Las Vegas !</episode>
