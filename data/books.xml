@@ -2,14 +2,14 @@
 <books created="2006-08-20">
     <introduction>A list of books I read.</introduction>
     <book>
-        <date></date>
+        <date>2023-05-31</date>
         <title>Le Dernier Jour d’un condamné</title>
         <author>Victor Hugo</author>
         <publishingyear>1832</publishingyear>
-        <rating></rating>
+        <rating>5.25</rating>
         <url>https://fr.wikipedia.org/wiki/Le_Dernier_Jour_d%27un_condamn%C3%A9</url>
         <notes description="Kindle highlights"></notes>
-        <comments></comments>
+        <comments>Un livre absolument fascinant et en avance sur son temps, puisqu'il a fallu attendre presque 150 ans pour que la peine de mort soit enfin abolie en France.</comments>
         <image>Le Dernier Jour d’un condamné.jpg</image>
     </book>
     <book>
