@@ -3,6 +3,16 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Checklist: add rating to IMDb -->
   <movie>
+    <date>2023-05-28</date>
+    <theater home="true"/>
+    <director>Andrew Niccol</director>
+    <title>Gattaca</title>
+    <url>https://www.imdb.com/title/tt0119177/</url>
+    <rating></rating>
+    <comments>I think I must I've seen <i>Gattaca</i> when it came out in 1997 (it's currently missing in my list, for some reasons). The issues raised by this film are still relevant today, but there's something missing to make it a true science fiction classic.</comments>
+    <image>Gattaca.jpg</image>
+  </movie>
+  <movie>
     <date>2023-05-27</date>
     <theater home="true"/>
     <director>Lasse Hallström</director>
