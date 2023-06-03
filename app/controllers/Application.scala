@@ -6,7 +6,6 @@ import models.blogger.Posts
 import models.lifelogging._
 import models.statistics.Statistics
 import models.todo.{BooksToRead, MoviesToWatch, TripsToTake}
-import models.twitter.Tweets
 import models._
 import play.api.mvc._
 import util.ConfigurationSetter
@@ -43,9 +42,8 @@ class Application @Inject() (implicit
         .filter(_._1.listItems.nonEmpty)
         .sortBy(_._1.fetchable.name.toLowerCase)
       posts <- Cache.get(Posts)
-      tweets <- Cache.get(Tweets)
     } yield {
-      Ok(views.html.home(posts, tweets, recentActivityListItemsWithPages))
+      Ok(views.html.home(posts, recentActivityListItemsWithPages))
     }
   }
 

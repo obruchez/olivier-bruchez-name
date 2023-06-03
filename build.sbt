@@ -20,9 +20,8 @@ libraryDependencies ++= Seq(
   "com.google.oauth-client" % "google-oauth-client-jetty" % "1.34.1",
   "joda-time" % "joda-time" % "2.12.2",
   "org.apache.commons" % "commons-text" % "1.10.0",
-  "org.jsoup" % "jsoup" % "1.15.3",
-  "org.scalatestplus.play" %% "scalatestplus-play" % "5.1.0" % Test,
-  "org.twitter4j" % "twitter4j-core" % "4.0.7"
+  "org.jsoup" % "jsoup" % "1.15.4",
+  "org.scalatestplus.play" %% "scalatestplus-play" % "5.1.0" % Test
 )
 
 routesGenerator := InjectedRoutesGenerator

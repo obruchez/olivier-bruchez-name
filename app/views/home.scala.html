@@ -1,8 +1,7 @@
 @import models.blogger.Posts
-@import models.twitter.Tweets
 @import util.Date._
 
-@(posts: Posts, tweets: Tweets, recentActivityListItemsWithPages: Seq[(ListItems, Page)])
+@(posts: Posts, recentActivityListItemsWithPages: Seq[(ListItems, Page)])
 
 @main(Sitemap.home) {
   <div class="home">
@@ -11,13 +10,11 @@
     <p>My name is Olivier Bruchez. To make it short, here's my <a href="https://twitter.com/obruchez">Twitter bio</a>&ast;:</p>
 
     <blockquote class="hero-unify">
-    <p class="profile"><em>"@HtmlContent.fromNonHtmlString(tweets.profile).html"</em></p>
+    <p class="profile"><em>"Software engineer living in Switzerland, working at EPFL, passionate about software development (incl. Scala), science, technology, philosophy, music, and more."</em></p>
     </blockquote>
 
     <p>You can find more information about me on my <a href="@routes.Application.profile">profile</a> page or in
       my <a href="@routes.Application.pdfCv">CV / résumé</a>.</p>
-
-    <p><small>&ast; Dynamically retrieved from Twitter, of course!</small></p>
 
     <div class="headline"><h2>About this website</h2></div>
 
@@ -42,21 +39,6 @@
         <p>Here are my latest posts:</p>
         <ul class="latestposts">
         @postItems.map { listItem =>
-          <li><a href="@listItem.itemUrl">@listItem.date.yyyymmddString</a>: @listItem.shortRepresentation.html</li>
-        }
-        </ul>
-      }
-    }
-
-    <div class="headline"><h2>Twitter</h2></div>
-
-    <p><a href="https://twitter.com/obruchez">I'm also on Twitter</a> since February 2008.</p>
-
-    @defining(tweets.latestItems(Tweets, count = 5).listItems) { tweetItems =>
-      @if(tweetItems.nonEmpty) {
-        <p>Here are my latest tweets:</p>
-        <ul class="latesttweets">
-        @tweetItems.map { listItem =>
           <li><a href="@listItem.itemUrl">@listItem.date.yyyymmddString</a>: @listItem.shortRepresentation.html</li>
         }
         </ul>
