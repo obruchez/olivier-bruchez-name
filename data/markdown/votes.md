@@ -2,29 +2,43 @@
 
 My votes (in French). En Suisse, on ne plaisante pas avec la démocratie directe. :) J'essaie ici de documenter et de justifier la façon dont je me positionne par rapport aux votations fédérales, qui ont lieu jusqu'à quatre fois par année.
 
+## [Votation fédérale du 18 juin 2023](https://www.admin.ch/gov/fr/accueil/documentation/votations/20230618.html)
+
+### Acceptez-vous l’arrêté fédéral du 16 décembre 2022 sur une imposition particulière des grands groupes d’entreprises (mise en oeuvre du projet conjoint de l’OCDE et du G20 sur l’imposition des grands groupes d’entreprises) ?
+
+Oui. Résultat : ? (?.?%)
+
+### Acceptez-vous la loi fédérale du 30 septembre 2022 sur les objectifs en matière de protection du climat, sur l’innovation et sur le renforcement de la sécurité énergétique (LCl) ? 
+
+Oui. Résultat : ? (?.?%)
+
+### Acceptez-vous la modification du 16 décembre 2022 de la loi fédérale sur les bases légales des ordonnances du Conseil fédéral visant à surmonter l’épidémie de COVID-19 (loi COVID-19) ?
+
+Oui. Résultat : ? (?.?%)
+
 ## [Votation fédérale du 25 septembre 2022](https://www.admin.ch/gov/fr/accueil/documentation/votations/20220925.html)
 
 ### Acceptez-vous l’initiative populaire « Non à l’élevage intensif en Suisse (initiative sur l’élevage intensif) » ?
 
-Oui. Résultat : ? (?.?%)
+Oui. Résultat : non (62.9%)
 
 - L'argument selon lequel la Suisse en fait déjà beaucoup est mauvais. Cela est peut-être vrai en comparaison internationale, mais la situation à l'étranger est mauvaise, de manière générale. La Suisse peut beaucoup mieux faire.
 
 ### Acceptez-vous l’arrêté fédéral du 17 décembre 2021 sur le financement additionnel de l’AVS par le biais d’un relèvement de la TVA ?
 
-Non. Résultat : ? (?.?%)
+Non. Résultat : oui (55.1%)
 
 - L'argument de l'inflation, touchant particulièrement les personnes à bas revenus, me semble particulièrement pertinent. Ce n'est pas le moment d'augmenter la TVA. D'autres sources de financements (visant surtout les personnes riches) sont possibles.
 
 ### Acceptez-vous la modification du 17 décembre 2021 de la loi fédérale sur l’assurance-vieillesse et survivants (LAVS) (AVS 21) ?
 
-Non. Résultat : ? (?.?%)
+Non. Résultat : oui (50.5%)
 
 - L'argument de l'inégalité salariale homme/femme me semble également pertinent. Une retraite au même âge paraît à première vue juste, mais, au vu de cette inégalité salariale, elle devient parfaitement injuste.
 
 ### Acceptez-vous la modification du 17 décembre 2021 de la loi fédérale sur l’impôt anticipé (LIA) (Renforcement du marché des capitaux de tiers) ?
 
-Non. Résultat : ? (?.?%)
+Non. Résultat : non (52.0%)
 
 ## [Votation fédérale du 15 mai 2022](https://www.admin.ch/gov/fr/accueil/documentation/votations/20220515.html)
 
