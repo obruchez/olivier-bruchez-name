@@ -3,6 +3,11 @@
   <introduction>A list of hikes I took.</introduction>
   <!-- TODO: add comments for new hikes? -->
   <hike>
+    <date>2023-07-16</date>
+    <place>Les Ruinettes / La Chaux / Verbier, Switzerland</place>
+    <!-- <pictures url=""/> -->
+  </hike>
+  <hike>
     <date>2022-10-29</date>
     <place>Le Crêt / Plan des Lires / Le Vasevay, Switzerland</place>
     <pictures url="https://www.flickr.com/photos/bruchez/albums/72177720303376469"/>
