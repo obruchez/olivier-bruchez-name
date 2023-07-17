@@ -2,6 +2,13 @@
 <trips created="2008-02-26">
   <introduction>A list of trips I took.</introduction>
   <trip>
+    <from>2023-07-01</from>
+    <to>2023-07-10</to>
+    <place>Corse, France</place>
+    <!-- <pictures url=""/> -->
+    <comments>My first time in Corsica. We stayed in the Ajaccio, Porto-Vecchio, and Bonifacio areas. Beautiful landscapes, mountains, beaches, etc. I hope we'll have the opportunity to return there one day.</comments>
+  </trip>
+  <trip>
     <from>2023-04-14</from>
     <to>2023-04-18</to>
     <place>London, UK</place>
