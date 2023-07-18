@@ -2,6 +2,48 @@
 <podcasts created="2016-05-10">
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date>2023-07-18</date>
+    <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
+    <episode url="https://www.samharris.org/podcasts/making-sense-episodes/325-a-few-thoughts-about-rfk-jr" number="325">A Few Thoughts About RFK Jr.</episode>
+    <comments></comments>
+  </podcast>
+  <podcast>
+    <date>2023-07-18</date>
+    <name url="https://absolutelymental.com/">Absolutely Mental</name>
+    <episode number="20">The Monkey Mind</episode>
+    <comments></comments>
+  </podcast>
+  <podcast>
+    <date>2023-07-16</date>
+    <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
+    <episode url="https://www.samharris.org/podcasts/making-sense-episodes/320-constructing-self-and-world" number="320">Constructing Self and World - A Conversation with Shamil Chandaria</episode>
+    <comments></comments>
+  </podcast>
+  <podcast>
+    <date>2023-07-13</date>
+    <name url="http://verybadwizards.com/">Very Bad Wizards</name>
+    <episode url="https://www.verybadwizards.com/247" number="247">Open the Pod, Dave (with Sam Harris)</episode>
+    <comments></comments>
+  </podcast>
+  <podcast>
+    <date>2023-07-11</date>
+    <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
+    <episode url="https://www.samharris.org/podcasts/making-sense-episodes/315-the-great-derangement" number="315">The Great Derangement - A Conversation with Tim Urban</episode>
+    <comments></comments>
+  </podcast>
+  <podcast>
+    <date>2023-06-29</date>
+    <name url="https://podcast.ausha.co/violet">Violet - Le Podcast sur Prince et le Minneapolis Sound</name>
+    <episode url="https://podcast.ausha.co/violet/planet-earth-ici-londres">Planet Earth : Ici Londres !</episode>
+    <comments></comments>
+  </podcast>
+  <podcast>
+    <date>2023-06-15</date>
+    <name url="https://hubermanlab.com/">Huberman Lab</name>
+    <episode url="https://hubermanlab.com/the-science-of-mdma-and-its-therapeutic-applications/">The Science of MDMA &amp; Its Therapeutic Uses: Benefits &amp; Risks</episode>
+    <comments></comments>
+  </podcast>
+  <podcast>
     <date>2023-06-12</date>
     <name url="http://verybadwizards.com/">Very Bad Wizards</name>
     <episode url="https://verybadwizards.com/episode/episode-234-like-a-dog-kafkas-the-trial-pt-2" number="234">Like A Dog (Kafka's "The Trial" Pt. 2)</episode>
