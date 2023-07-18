@@ -3,6 +3,56 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Checklist: add rating to IMDb -->
   <movie>
+    <date>2023-07-14</date>
+    <theater home="true"/>
+    <director>Leigh Whannell</director>
+    <title>The Invisible Man</title>
+    <url>https://www.imdb.com/title/tt1051906/</url>
+    <rating>4.0</rating>
+    <comments></comments>
+    <image>The Invisible Man.jpg</image>
+  </movie>
+  <movie>
+    <date>2023-06-27</date>
+    <theater home="true"/>
+    <director>Louis C.K.</director>
+    <title>Fourth of July</title>
+    <url>https://www.imdb.com/title/tt20851874/</url>
+    <rating>4.75</rating>
+    <comments></comments>
+    <image>Fourth of July.jpg</image>
+  </movie>
+  <movie>
+    <date>2023-06-27</date>
+    <theater home="true"/>
+    <director>Robert Wise</director>
+    <title>The Sound of Music</title>
+    <url>https://www.imdb.com/title/tt0059742/</url>
+    <rating>4.75</rating>
+    <comments></comments>
+    <image>The Sound of Music.jpg</image>
+  </movie>
+  <movie>
+    <date>2023-06-22</date>
+    <theater home="true"/>
+    <director>Alejandro G. Iñárritu</director>
+    <title>Amores Perros</title>
+    <url>https://www.imdb.com/title/tt0245712/</url>
+    <rating>5.0</rating>
+    <comments></comments>
+    <image>Amores perros.jpg</image>
+  </movie>
+  <movie>
+    <date>2023-06-18</date>
+    <theater home="true"/>
+    <director>Ron Clements &amp; John Musker</director>
+    <title>Aladdin</title>
+    <url>https://www.imdb.com/title/tt0103639/</url>
+    <rating>4.75</rating>
+    <comments></comments>
+    <image>Aladdin.jpg</image>
+  </movie>
+  <movie>
     <date>2023-05-30</date>
     <theater home="true"/>
     <director>Mathieu Kassovitz</director>
@@ -8682,7 +8732,12 @@
   </movie>
   <movie>
     <date>2001-03-13</date>
-    <title>Amours Chiennes</title>
+    <theater home="true"/>
+    <director>Alejandro G. Iñárritu</director>
+    <title>Amores Perros</title>
+    <title language="fr">Amours Chiennes</title>
+    <url>https://www.imdb.com/title/tt0245712/</url>
+    <image>Amores perros.jpg</image>
   </movie>
   <movie>
     <date>2001-03-12</date>
