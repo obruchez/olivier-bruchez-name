@@ -2,11 +2,16 @@
 <podcasts created="2016-05-10">
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date>2023-07-21</date>
+    <name url="https://hubermanlab.com/">Huberman Lab</name>
+    <episode url="https://hubermanlab.com/understanding-and-conquering-depression/" number="34">Understanding &amp; Conquering Depression</episode>
+    <comments>Norepinephrine, serotonin, and dopamine are all involved in depression. You should not overwhelm the pleasure system. You can reset it by stopping some activities for some time (e.g. 30 days). Things that are good: exercise (120-180 minutes per week), cold showers, EPA (1-2 g daily), creatine (1-5 g daily), fermented foods, tryptophan-rich foods (not too much). Experimental treatments: ketamine, PCP, psilocybin.</comments>
+  </podcast>
+  <podcast>
     <date>2023-07-18</date>
     <name url="https://hubermanlab.com/">Huberman Lab</name>
     <episode url="https://podcastnotes.org/huberman-lab/episode-12-how-to-increase-motivation-drive-huberman-lab/" number="12">How To Increase Motivation &amp; Drive</episode>
-    <comments>Don't celebrate too often (although I think I'm at a point where I don't celebrate often enough). <a href="https://examine.com/supplements/mucuna-pruriens/">Mucuna pruriens</a> might be an interesting supplement for dopamine. Andrew seems to say that PEA (beta-phenylethylamine) might be interesting, but it doesn't seem to be easily available. Chocolate is rich in PEA. There might be a link between prolactine (where higher levels might be caused by hypothyroidism) and gynaecomastia. More dopamine also helps lowering prolactine.
-    </comments>
+    <comments>Don't celebrate too often (although I think I'm at a point where I don't celebrate often enough). <a href="https://examine.com/supplements/mucuna-pruriens/">Mucuna pruriens</a> might be an interesting supplement for dopamine. Andrew seems to say that PEA (beta-phenylethylamine) might be interesting, but it doesn't seem to be easily available. Chocolate is rich in PEA. There might be a link between prolactine (where higher levels might be caused by hypothyroidism) and gynaecomastia. More dopamine also helps lowering prolactine.</comments>
   </podcast>
   <podcast>
     <date>2023-07-18</date>
