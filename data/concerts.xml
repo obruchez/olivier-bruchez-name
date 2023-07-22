@@ -7,6 +7,45 @@
   -->
   <introduction>A list of concerts I went to.</introduction>
   <concert>
+    <date>2023-07-15</date>
+    <location>Auditorium Stravinski, Montreux, Switzerland</location>
+    <event>Montreux Jazz Festival</event>
+    <musician inst="guitar" main="true">Cory Wong</musician>
+    <musician inst="keyboards">Kevin Gastonguay</musician>
+    <musician inst="bass">Yohannes Tona</musician>
+    <musician inst="drums">Petar Janjic</musician>
+    <musician inst="trombone">Michael B. Nelson</musician>
+    <musician inst="trumpet">Tay Webb</musician>
+    <musician inst="saxophone">Kenni Holmen</musician>
+    <musician inst="saxophone">Jake Boffs</musician>
+    <musician inst="saxophone">Alex Bone</musician>
+    <rating>4.75</rating>
+    <comments>I've heard Cory Wong a lot on his YouTube channel. I discovered him in 2022, realizing that he was playing with two former Prince musicians (Sonny Thompson and Michael B. Nelson). I was a bit disappointed to see that Sonny was not part of the tour, but happy to finally see/hear Michael B. Nelson (he's kind of a legend to me, having heard him and/or his work so many times in Prince's music). I'm still not totally convinced by Cory's music, which is a bit too much pop/light to my ears, but there's definitely a lot of talent in the band.</comments>
+  </concert>
+  <concert>
+    <date>2023-07-13</date>
+    <location>Auditorium Stravinski, Montreux, Switzerland</location>
+    <event>Montreux Jazz Festival</event>
+    <musician inst="bass, bass clarinet" main="true">Marcus Miller</musician>
+    <musician inst="trumpet">Russell Gunn</musician>
+    <musician inst="saxophone">Donald Hayes</musician>
+    <musician inst="keyboards">Xavier Gordon</musician>
+    <musician inst="drums">Anwar Marshall</musician>
+    <musician inst="guitar">Tom Ibarra</musician>
+    <rating>5.0</rating>
+    <comments>My 17<sup>th</sup> (!) Marcus Miller concert. This is the musician I've seen the most live. I hadn't seen him in 7 years. Nothing revolutionary, but the music is top-notch, as always. I didn't know any of the musicians playing with him. Tom Ibarra, in particular, is apparently not touring with Marcus. He's a 23-year-old guitar player who already played with Marcus in 2016.</comments>
+  </concert>
+  <concert>
+    <date>2023-07-13</date>
+    <location>Auditorium Stravinski, Montreux, Switzerland</location>
+    <event>Montreux Jazz Festival</event>
+    <musician inst="guitar" main="true">Pat Metheny</musician>
+    <musician inst="keyboards">Chris Fishman</musician>
+    <musician inst="drums">Joe Dyson</musician>
+    <rating>5.0</rating>
+    <comments>I hadn't seen Pat in 13 years. That was in Montreux as well. At that time, he was still refusing to be recorded. I'm not very familiar with his music, but this was an excellent concert.</comments>
+  </concert>
+  <concert>
     <date>2022-11-20</date>
     <location>Théâtre Le Reflet, Vevey, Switzerland</location>
     <group>Aziza</group>
@@ -1254,7 +1293,7 @@
     <musician inst="dance">Jimi "Joy" McKinney</musician>
     <musician inst="dance">Dave "City" Council</musician>
     <musician inst="dance">Tina Graham</musician>
-    <rating>5.0</rating>
+    <rating>5.25</rating>
     <comments/>
   </concert>
   <concert>
