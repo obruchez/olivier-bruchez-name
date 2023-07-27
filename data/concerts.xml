@@ -7,6 +7,14 @@
   -->
   <introduction>A list of concerts I went to.</introduction>
   <concert>
+    <date>2022-07-25</date>
+    <location>Église de Verbier, Verbier, Switzerland</location>
+    <event>Verbier Festival</event>
+    <musician inst="piano">Brad Mehldau</musician>
+    <rating>5.0</rating>
+    <comments>I saw Brad almost one year before exactly at the same venue. The format was more or less the same, with maybe more original compositions than pop/rock songs this time. A very "generous" concert, like the previous one, with four encores.</comments>
+  </concert>
+  <concert>
     <date>2023-07-15</date>
     <location>Auditorium Stravinski, Montreux, Switzerland</location>
     <event>Montreux Jazz Festival</event>
