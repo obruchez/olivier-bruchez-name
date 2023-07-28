@@ -3,6 +3,17 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Checklist: add rating to IMDb -->
   <movie>
+    <date>2023-07-27</date>
+    <theater home="true"/>
+    <director>Çagan Irmak</director>
+    <title>Babam ve Oglum</title>
+    <title language="en">My Father and My Son</title>
+    <url>https://www.imdb.com/title/tt0476735/</url>
+    <rating>4.75</rating>
+    <comments>I'm a father and a son. It's a touching film that really spoke to me.</comments>
+    <image>My Father and My Son.jpg</image>
+  </movie>
+  <movie>
     <date>2023-07-14</date>
     <theater home="true"/>
     <director>Leigh Whannell</director>
