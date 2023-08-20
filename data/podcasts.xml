@@ -2,6 +2,36 @@
 <podcasts created="2016-05-10">
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date>2023-08-20</date>
+    <name url="https://absolutelymental.com/">Absolutely Mental</name>
+    <episode number="21">Why do we laugh?</episode>
+    <comments>"Ricky calls Sam to ask why humans laugh. They break down the mechanics of stand up comedy, the science behind tickling, and the mistakes of a very sad middle school teacher..." We laugh when our internal model of the world is "contradicted" by what happens.</comments>
+  </podcast>
+  <podcast>
+    <date>2023-08-18</date>
+    <name url="https://www.tenpercent.com/">Ten Percent Happier with Dan Harris</name>
+    <episode url="https://www.tenpercent.com/tph/podcast-episode/the-minimalists-oren-sofer-362" number="362">The Minimalists, Joshua Fields Millburn and Ryan Nicodemus</episode>
+    <comments>I'm a minimalist at heart, but I often fail to be one in practice. I feel my life is often way more complex than it needs to be, especially when it comes to material/financial matters. I'm going to move soon, so this will be the opportunity to get rid of some of the stuff we've accumulated over the years, even though we give/sell stuff regularly.</comments>
+  </podcast>
+  <podcast>
+    <date>2023-08-18</date>
+    <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
+    <episode url="https://www.samharris.org/podcasts/making-sense-episodes/328-health-longevity" number="328">Health &amp; Longevity - A Conversation with Peter Attia</episode>
+    <comments>"Work hard for muscles". Proteins are really important, for vegans it particular. NMN/NR are useless until proven otherwise. Metformin is probably not very useful for most people. Rapamycin is way more promising. We should have more information about its usefulness or lack thereof in about 3 years, when the TRIAD (Test of Rapamycin in Aging Dogs) study is over. Re. the brain (mental health, degenerative diseases): use it or lose it (this is true for the body as well).</comments>
+  </podcast>
+  <podcast>
+    <date>2023-08-12</date>
+    <name url="https://podcast.ausha.co/violet">Violet - Le Podcast sur Prince et le Minneapolis Sound</name>
+    <episode url="https://podcast.ausha.co/violet/lotusflow3r-part-1-prince-meduse-montreux"> Lotusflow3r : Part 1, Prince méduse Montreux</episode>
+    <comments>L'un des mes albums préférés des "dernières années". Et les deux concerts de Montreux 2009 font parties des meilleurs concerts de la carrière de Prince. Une période fascinante.</comments>
+  </podcast>
+  <podcast>
+    <date>2023-08-06</date>
+    <name url="https://peterattiamd.com/podcast/">The Peter Attia Drive Podcast</name>
+    <episode url="https://peterattiamd.com/billperkins/" number="237">Optimizing life for maximum fulfillment | Bill Perkins</episode>
+    <comments>I bought Bill's book, <i>Die With Zero</i>. I'm still not totally convinced, although I understand the sentiment.</comments>
+  </podcast>
+  <podcast>
     <date>2023-07-28</date>
     <name url="http://robesse.libsyn.com/">Obsessed by Music</name>
     <episode url="https://robesse.libsyn.com/a-spotlight-on-sound-quality-in-music">A Spotlight On Sound Quality In Music</episode>
