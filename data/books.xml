@@ -2,6 +2,18 @@
 <books created="2006-08-20">
     <introduction>A list of books I read.</introduction>
     <book>
+        <date>2023-08-05</date>
+        <title>Algorithms to Live By</title>
+        <subtitle>The Computer Science of Human Decisions</subtitle>
+        <author>Brian Christian &amp; Tom Griffiths</author>
+        <publishingyear>2016</publishingyear>
+        <rating>4.75</rating>
+        <url>https://books.google.com/books?id=8h73oQEACAAJ</url>
+        <notes description="Kindle highlights"></notes>
+        <comments>I have a master in computer science, so I often think about the world in terms of algorithms. Some of them are useful on a day-to-day basis. Some of them are useful to better understand the world (so more in a philosophical way, almost). Some of the more advanced concepts coming from machine learning, for example. This book made me realize that there are more links than expected between computer science and the "real world".</comments>
+        <image>Algorithms to Live By.jpg</image>
+    </book>
+    <book>
         <date>2023-05-31</date>
         <title>Le Dernier Jour d’un condamné</title>
         <author>Victor Hugo</author>
