@@ -2,6 +2,13 @@
 <trips created="2008-02-26">
   <introduction>A list of trips I took.</introduction>
   <trip>
+    <from>2023-07-29</from>
+    <to>2023-08-10</to>
+    <place>England, UK</place>
+    <!-- <pictures url=""/> -->
+    <comments>My first time in the UK outside of London. We visited Canterbury, Brighton, Portsmouth, Salisbury, Bath, and Oxford. I didn't know anything about most of those places, so that was an enriching trip. Stonehenge was a highlight, but there were many things to like, from cathedrals/abbeys to old warships. I was also pleasantly surprised by the fact that vegetarian/vegan dishes are available in most restaurants. This is not something you see often in Swiss restaurants...</comments>
+  </trip>
+  <trip>
     <from>2023-07-01</from>
     <to>2023-07-10</to>
     <place>Corse, France</place>
