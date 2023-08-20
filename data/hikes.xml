@@ -3,6 +3,12 @@
   <introduction>A list of hikes I took.</introduction>
   <!-- TODO: add comments for new hikes? -->
   <hike>
+    <date>2023-08-13</date>
+    <place>Cabane Brunet / Buvette de Pindin, Switzerland</place>
+    <!-- <pictures url=""/> -->
+    <comments>A small hike we did with our 5-year-old son. We went to the buvette using the path that follows the Torrent de Sery and went back using the main road.</comments>
+  </hike>
+  <hike>
     <date>2023-07-16</date>
     <place>Les Ruinettes / La Chaux / Verbier, Switzerland</place>
     <!-- <pictures url=""/> -->
