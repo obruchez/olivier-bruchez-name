@@ -3,6 +3,18 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Checklist: add rating to IMDb -->
   <movie>
+    <date>2023-08-27</date>
+    <theater home="true"/>
+    <director>Hayao Miyazaki</director>
+    <title>Gake no ue no Ponyo</title>
+    <title language="fr">Ponyo sur la falaise</title>
+    <version>fr</version>
+    <url>https://www.imdb.com/title/tt0876563/</url>
+    <rating>4.5</rating>$
+    <comments>My 5-year-old son's second Miyazaki movie, after <a href="https://www.imdb.com/title/tt0096283/"><i>My Neighbor Totoro</i></a>, which he saw with my wife. <i>Ponyo</i> is clearly more children-oriented. It is still imbued with Miyazaki's themes/poetry, but it is not as breathtaking as some of his other films.</comments>
+    <image>Ponyo.jpg</image>
+  </movie>
+  <movie>
     <date>2023-07-27</date>
     <theater home="true"/>
     <director>Çagan Irmak</director>
@@ -58,6 +70,7 @@
     <theater home="true"/>
     <director>Ron Clements &amp; John Musker</director>
     <title>Aladdin</title>
+    <version>fr</version>
     <url>https://www.imdb.com/title/tt0103639/</url>
     <rating>4.75</rating>
     <comments>A movie we watched with our son. A classic.</comments>
