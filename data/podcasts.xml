@@ -2,6 +2,18 @@
 <podcasts created="2016-05-10">
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date>2022-08-29</date>
+    <name>Superchuckamania</name>
+    <episode number="210">Episode 210</episode>
+    <comments>Two years later, I wanted to check this podcast again (they're half of the Peack &amp; Black podcast, after all). Too much rambling. One Prince mention. I'll pass. Again.</comments>
+  </podcast>
+  <podcast>
+    <date>2023-08-28</date>
+    <name url="https://hubermanlab.com/">Huberman Lab</name>
+    <episode url="https://hubermanlab.com/adhd-and-how-anyone-can-improve-their-focus/" number="347">ADHD &amp; How Anyone Can Improve Their Focus</episode>
+    <comments>Avoid sugar. Some drugs (Ritalin, Adderall, but also modafinil/armodafinil) are quite effective. Some supplements can help: omega 3 and phosphatidylserine (maybe). Alpha-GPC helps with focus. L-tyrosine and PEA (hard to get) can increase dopamine. Racetams, like alpha-GPC, increase cholinergic/acetylcholine transmission, so help with focus. Meditation (17+ minutes) can help. Smartphones (and I guess online distractions in general) are a problem/challenge. Teenager shouldn't use them more than 60 minutes per day. Adults should avoid using them for more than 2 hours per day. Deep work is important.</comments>
+  </podcast>
+  <podcast>
     <date>2023-08-20</date>
     <name url="https://absolutelymental.com/">Absolutely Mental</name>
     <episode number="21">Why do we laugh?</episode>
