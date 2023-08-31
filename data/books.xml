@@ -2,6 +2,18 @@
 <books created="2006-08-20">
     <introduction>A list of books I read.</introduction>
     <book>
+        <date>2023-08-27</date>
+        <title>Die With Zero</title>
+        <subtitle>Getting All You Can from Your Money and Your Life</subtitle>
+        <author>Bill Perkins</author>
+        <publishingyear>2020</publishingyear>
+        <rating>4.25</rating>
+        <url>https://books.google.com/books?id=e92hDwAAQBAJ</url>
+        <notes description="Kindle highlights"></notes>
+        <comments>I started reading Perkins' book after hearing him on Peter Attia's podcast. Basically, this is a rich guy telling other people to spend more money, earlier in life. He makes some good points, I guess. Invest in experiences and people. Don't plan to do too many things when you're retired, as people's health get worse rather quickly. He's not wrong, but those are not very original ideas. His most interesting idea is that you should really think about the rest of your life and how you're going to spend your money. And maybe - maybe! - you're saving too much money, even if you're not rich. Maybe. I'm not convinced, as I don't live on a yacht, but I'll think about it.</comments>
+        <image>Die With Zero.jpg</image>
+    </book>
+    <book>
         <date>2023-08-05</date>
         <title>Algorithms to Live By</title>
         <subtitle>The Computer Science of Human Decisions</subtitle>
