@@ -3,6 +3,26 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Checklist: add rating to IMDb -->
   <movie>
+    <date>2023-09-09</date>
+    <theater home="true"/>
+    <director>Wes Anderson</director>
+    <title>Asteroid City</title>
+    <url>https://www.imdb.com/title/tt14230388/</url>
+    <rating>4.75</rating>
+    <comments>The consensus seems to be that this is a case of style over substance, that it looks like a cliché of a Wes Anderson movie, etc. I understand where these criticisms are coming from, but I wouldn't be as harsh. To me, it almost felt like a series of paintings. I liked the slow pace. The casting was also impressive, of course. Unlike <i>Spider-Man: Across the Spider-Verse</i>, this is a film I'd happily watch a second time.</comments>
+    <image>Asteroid City.jpg</image>
+  </movie>
+  <movie>
+    <date>2023-09-06</date>
+    <theater home="true"/>
+    <director>Joaquim Dos Santos, Kemp Powers &amp; Justin K. Thompson</director>
+    <title>Spider-Man: Across the Spider-Verse</title>
+    <url>https://www.imdb.com/title/tt9362722/</url>
+    <rating>4.75</rating>
+    <comments>Visually, this movie is absolutly stunning. I really liked the previous <i>Spider-Verse</i> movie (2019), so I was prepared to like this one as well. I don't know if it was the fact that I was tired when watching it, but this film felt a bit too "dense" to me. Somes scenes contained too much "information": too many things to look at, too many special effects, too many things to listen to. It was a bit overwhelming. Maybe I should try to watch it again, but, at the same time, I don't feel the need to see this film again, unlike others.</comments>
+    <image>Spider-Man - Across the Spider-Verse.jpg</image>
+  </movie>
+  <movie>
     <date>2023-08-27</date>
     <theater home="true"/>
     <director>Hayao Miyazaki</director>
