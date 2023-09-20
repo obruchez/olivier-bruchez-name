@@ -2,6 +2,12 @@
 <podcasts created="2016-05-10">
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date>2023-09-19</date>
+    <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
+    <episode url="https://www.samharris.org/podcasts/making-sense-episodes/333-sanity-check-on-climate-change" number="222">Sanity Check on Climate Change - A Conversation with Chris Field</episode>
+    <comments>Nuclear energy is interesting but expensive (compared to renewable sources of energy). We've made a lot of progress in the last 10 years. "We can do it."</comments>
+  </podcast>
+  <podcast>
     <date>2023-09-12</date>
     <name url="https://hubermanlab.com/">Huberman Lab</name>
     <episode url="https://hubermanlab.com/dr-rena-improving-sexual-and-urological-health-in-males-and-females/">Dr. Rena Malik: Improving Sexual &amp; Urological Health in Males and Females</episode>
