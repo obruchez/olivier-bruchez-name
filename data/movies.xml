@@ -3,6 +3,16 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Checklist: add rating to IMDb -->
   <movie>
+    <date>2023-09-14</date>
+    <theater home="true"/>
+    <director>T.J. Gnanavel</director>
+    <title>Jai Bhim</title>
+    <url>https://www.imdb.com/title/tt15097216/</url>
+    <rating>4.75</rating>
+    <comments>Some important themes: police violence, corruption, caste discrimination, etc. It took me a while to get into the film. All in all, a rather entertaining film. I was not a fan of the "lawyer as a superhero" </comments>
+    <image>Jai Bhim.jpg</image>
+  </movie>
+  <movie>
     <date>2023-09-09</date>
     <theater home="true"/>
     <director>Wes Anderson</director>
