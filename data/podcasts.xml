@@ -2,6 +2,12 @@
 <podcasts created="2016-05-10">
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date>2023-09-21</date>
+    <name url="https://hubermanlab.com/">Huberman Lab</name>
+    <episode url="https://www.hubermanlab.com/episode/controlling-your-dopamine-for-motivation-focus-and-satisfaction">Controlling Your Dopamine For Motivation, Focus &amp; Satisfaction</episode>
+    <comments>Randomly avoid external sources of dopamine when doing an activity you want to do on the long term (e.g. avoid coffee before the gym, avoid music/podcast/etc. while at the gym, etc.). This is like intermittent fasting. Avoid frequent dopamine peaks, as dopamine goes down below baseline after a peak. Sources of dopamine I should keep in mind: YouTube, music, podcasts, Feedly, Hacker News, forums about topics I like, etc. An exception would be coffee: it makes dopamine more available. Yerba mate is good as well, as it's neuroprotective. Armodafinil: take breaks from time to time. Cold exposure: it's really effective; it must be uncomfortable to work; there's no dopamine crash afterwards. Avoid rewards, aim for growth mindset instead. It's important to be able to get pleasure just from effort. Make sure there's no dopamine peak before or after an effort. An effort leading to good results can improve dopamine levels (remember: not too many rewards). Regularly depriving yourself of something you love such as food, music, video games, smartphones, etc. allows you to increase your baseline dopamine (I like this, as this is basically something from stoicism as well). Huberman takes 300 mg of PEA from time to time. Avoid lights at night. Avoid melatonin. Disrupting your circadian rhythm is not good for your dopamine. L-tyrosine is better than L-dopa / mucuna pruriens. Social relationships are good. They can help with dopamine via oxytocin. <a href="https://podcastnotes.org/huberman-lab/episode-39-controlling-your-dopamine-for-motivation-focus-satisfaction-huberman-lab/">Podcast notes</a>.</comments>
+  </podcast>
+  <podcast>
     <date>2023-09-19</date>
     <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
     <episode url="https://www.samharris.org/podcasts/making-sense-episodes/333-sanity-check-on-climate-change" number="222">Sanity Check on Climate Change - A Conversation with Chris Field</episode>
