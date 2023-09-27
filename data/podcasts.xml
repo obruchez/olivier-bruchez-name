@@ -2,6 +2,12 @@
 <podcasts created="2016-05-10">
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date>2023-09-22</date>
+    <name url="https://absolutelymental.com/">Absolutely Mental</name>
+    <episode number="22">The Human Brain (but mostly other stuff)</episode>
+    <comments>"Ricky and Sam kick off season 3 by discussing art and imperfection, human cognition, and Ricky’s bicep gains."</comments>
+  </podcast>
+  <podcast>
     <date>2023-09-21</date>
     <name url="https://hubermanlab.com/">Huberman Lab</name>
     <episode url="https://www.hubermanlab.com/episode/controlling-your-dopamine-for-motivation-focus-and-satisfaction">Controlling Your Dopamine For Motivation, Focus &amp; Satisfaction</episode>
