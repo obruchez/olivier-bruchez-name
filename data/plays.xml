@@ -9,6 +9,90 @@
     <actor></actor>
   -->
   <play>
+    <date>2023-09-30</date>
+    <location>Salle Charles Apothéloz, Théâtre de Vidy, Lausanne, Switzerland</location>
+    <name>Le Jardin des délices</name>    
+    <author>Laura Vazquez</author>
+    <director>Philippe Quesne</director>
+    <actor>Jean-Charles Dumay</actor>
+    <actor>Léo Gobin</actor>
+    <actor>Sébastien Jacobs</actor>
+    <actor>Elina Löwensohn</actor>
+    <actor>Nuno Lucas</actor>
+    <actor>Isabelle Prim</actor>
+    <actor>Thierry Raynaud</actor>
+    <actor>Gaëtan Vourc'h</actor>
+    <rating>4.75</rating>
+    <comments>La première fois que nous retournons au Théâtre de Vidy depuis 2017 ! Nous étions avant cela des habitués. Nous avons profité cette fois-ci des "chouettes garderies créatives" proposées par Vidy, qui permettent aux parents de faire garder leurs enfants durant la pièce de théâtre. Très pratique ! Quant à la pièce, j'ai eu envie de la voir surtout parce qu'elle puise son inspiration dans l'oeuvre du même nom de Jérôme Bosch, que j'avais découverte au Prado en 2006. J'avais été complètement subjugué par elle et j'aime bien dire que je ne m'en suis jamais remis. C'est une oeuvre absolument extraordinaire, en avance sur son temps par certains aspects. La pièce, elle, est décalée, loufoque, absurde, parfois très dôle, invite à d'autres moments à la méditation.</comments>
+    <image>Le Jardin des délices.jpg</image>
+    <!--
+Musiques de
+Henri Purcell, José Mário Branco, Roy Orbison, Jérôme Bosch, Giacomo Meyerbeer, Areski Belkacem, Bernard Hermann…
+
+Costumes, sculptures
+Karine Marques Ferreira
+
+Collaboration scénographie
+Élodie Dauguet
+
+Dramaturge
+Éric Vautrin ▼
+
+Assistant à la mise en scène
+François-Xavier Rouyer
+
+Collaboration technique
+Marc Chevillon
+
+Son
+Janyves Coïc ▼
+
+Lumière
+Jean-Baptiste Boutte ▼
+
+Vidéo
+Matthias Schnyder ▼
+
+Accessoires
+Mathieu Dorsaz ▼
+
+Régie générale
+François Boulet
+Martine Staerk ▼
+
+Régie plateau
+Ewan Guichard ▼
+Fabio Gaggetta ▼
+(en alternance)
+
+Régie lumière
+Cassandre Colliard ▼
+
+Régie son
+Janyves Coïc ▼
+Charlotte Constant ▼
+(en alternance)
+
+Habillage
+Estelle Boul
+Cécile Delanoë
+(en alternance)
+
+Construction des décors
+Ateliers du Théâtre Vidy-Lausanne ▼
+
+Production et Diffusion
+Judith Martin ▼
+Elizabeth Gay ▼
+
+Chargée de production
+Aline Fuchs ▼
+
+Production Vivarium Studio
+Charlotte Kaminski
+    -->
+  </play> 
+  <play>
     <date>2023-04-16</date>
     <location>Adelphi Theatre, London, UK</location>
     <name>Back to the Future: The Musical</name>
