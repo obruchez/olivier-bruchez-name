@@ -3,6 +3,16 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Checklist: add rating to IMDb -->
   <movie>
+    <date>2023-09-28</date>
+    <theater home="true"/>
+    <director>Yann Samuell</director>
+    <title>Jeux d'enfants</title>
+    <url>https://www.imdb.com/title/tt0364517/</url>
+    <rating>3.5</rating>
+    <comments>A perfect case of form over substance. The main characters are perfectly unpleasant. The story doesn't really make sense. Anyway, this happens to be the movie my wife and I saw during our first date, on September 28, 2003. We had never watched it again since. We probably won't watch it again.</comments>
+    <image>Jeux d'enfants.jpg</image>
+  </movie>
+  <movie>
     <date>2023-09-14</date>
     <theater home="true"/>
     <director>T.J. Gnanavel</director>
@@ -8143,8 +8153,10 @@
   </movie>
   <movie>
     <date>2003-09-28</date>
-    <title>Jeux D'Enfants</title>
-    <version>fr</version>
+    <director>Yann Samuell</director>
+    <title>Jeux d'enfants</title>
+    <url>https://www.imdb.com/title/tt0364517/</url>
+    <image>Jeux d'enfants.jpg</image>
   </movie>
   <movie>
     <date>2003-09-25</date>
