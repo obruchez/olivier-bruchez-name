@@ -2,6 +2,12 @@
 <podcasts created="2016-05-10">
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date>2023-10-09</date>
+    <name url="https://peterattiamd.com/podcast/">The Peter Attia Drive Podcast</name>
+    <episode url="https://peterattiamd.com/davidsabatini-mattkaeberlein/" number="272">Rapamycin: potential longevity benefits, surge in popularity, unanswered questions, and more</episode>
+    <comments>"[Rapamycin] is the most robust and reproducible drug that we know about today for impacting not only longevity, but to the extent that we can measure various metrics of healthspan in complex animals, rapamycin also seems to positively impact pretty much every aspect of health span that we measure." Peter and Matt take rapamycin intermittently (people usually take 5-7 mg every week). David is waiting for the results of the study on dogs (2026).</comments>
+  </podcast>
+  <podcast>
     <date>2023-09-26</date>
     <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
     <episode url="https://www.samharris.org/podcasts/making-sense-episodes/335-a-postmortem-on-my-response-to-covid" number="335">A Postmortem on My Response to Covid</episode>
