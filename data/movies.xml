@@ -3,6 +3,17 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Checklist: add rating to IMDb -->
   <movie>
+    <date>2023-10-16</date>
+    <theater home="true"/>
+    <director>Park Chan-wook</director>
+    <title>Ah-ga-ssi</title>
+    <title language="en">The Handmaiden</title>
+    <url>https://www.imdb.com/title/tt4016934/</url>
+    <rating>4.75</rating>
+    <comments>This is rather beautifully filmed movie. I liked the idea of a story told multiple times, with plot twists. I'm not sure the "soft porn" scenes were necessary.</comments>
+    <image>The Handmaiden.jpg</image>
+  </movie>
+  <movie>
     <date>2023-09-28</date>
     <theater home="true"/>
     <director>Yann Samuell</director>
