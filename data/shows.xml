@@ -10,6 +10,13 @@
   </show> -->
   <show>
     <date></date>
+    <name url="https://en.wikipedia.org/wiki/Better_Things_(TV_series)">Better Things</name>
+    <series url="https://en.wikipedia.org/wiki/Better_Things_(TV_series)#Season_1_(2016)" type="season">1</series>
+    <comments></comments>
+    <image>Better Things.jpg</image>
+  </show>
+  <show>
+    <date></date>
     <name url="https://en.wikipedia.org/wiki/Black_Mirror">Black Mirror</name>
     <series url="https://en.wikipedia.org/wiki/List_of_Black_Mirror_episodes#Series_6_(2023)" type="series">6</series>
     <comments></comments>
@@ -23,9 +30,9 @@
     <image>Inside No. 9.jpg</image>
   </show>
   <show>
-    <date></date>
+    <date>2023-10-16</date>
     <name url="https://en.wikipedia.org/wiki/Lucky_Louie">Lucky Louie</name>
-    <comments></comments>
+    <comments>This was pretty bad or at most average. I watched this show because I absolutely loved <i>Louie</i> and <i>Horace &amp; Pete</i>. That was a disappointment.</comments>
     <image>Lucky Louie.jpg</image>
   </show>
   <show>
