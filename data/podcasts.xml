@@ -2,6 +2,36 @@
 <podcasts created="2016-05-10">
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date>2023-10-16</date>
+    <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
+    <episode url="https://www.samharris.org/podcasts/making-sense-episodes/331-a-golden-age-for-assholes" number="331">A Golden Age for Assholes</episode>
+    <comments>This must have felt good. Only Sam can do this kind of monologues without losing his cool.</comments>
+  </podcast>
+  <podcast>
+    <date>2023-10-16</date>
+    <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
+    <episode url="https://www.samharris.org/podcasts/making-sense-episodes/317-what-do-we-know-about-our-minds" number="317">What Do We Know About Our Minds? - A Conversation with Paul Bloom</episode>
+    <comments>A reminder that I should read Paul's previous book (that I purchased but never read).</comments>
+  </podcast>
+  <podcast>
+    <date>2023-10-09</date>
+    <name url="https://peterattiamd.com/podcast/">The Peter Attia Drive Podcast</name>
+    <episode url="https://peterattiamd.com/oliverburkeman/" number="265">Time, productivity, and purpose: insights from Four Thousand Weeks | Oliver Burkeman</episode>
+    <comments>"Part of living a meaningful life is to be conscious of that fact that we don't get all the time we would wish to have." This is a book I need to read again. I agree with Peter that this is a really important book.</comments>
+  </podcast>
+  <podcast>
+    <date>2023-10-14</date>
+    <name>Prince | Official Podcast</name>
+    <episode>The Story of Diamonds And Pearls, Episode 1: Welcome 2 The New Power Generation</episode>
+    <comments>Not my favorite Prince album, but, still, 1991 is when I started discovering Prince, so I'm actually quite excited about the Super Deluxe Edition.</comments>
+  </podcast>
+  <podcast>
+    <date>2023-10-14</date>
+    <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
+    <episode url="https://www.samharris.org/podcasts/making-sense-episodes/337-the-future-of-psychedelic-medicine" number="337">The Future of Psychedelic Medicine - A Conversation with Jeannie Fontana and Robin Carhart-Harris</episode>
+    <comments>This was more about politics and how psychedelic medicine can become a thing (i.e. an official thing). This was not a very dynamic and illuminating discussion.</comments>
+  </podcast>
+  <podcast>
     <date>2023-10-09</date>
     <name url="https://peterattiamd.com/podcast/">The Peter Attia Drive Podcast</name>
     <episode url="https://peterattiamd.com/davidsabatini-mattkaeberlein/" number="272">Rapamycin: potential longevity benefits, surge in popularity, unanswered questions, and more</episode>
