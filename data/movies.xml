@@ -3,6 +3,16 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Checklist: add rating to IMDb -->
   <movie>
+    <date>2023-10-18</date>
+    <theater home="true"/>
+    <director>Brad Bird</director>
+    <title>The Incredibles</title>
+    <url>https://www.imdb.com/title/tt0317705/</url>
+    <rating>4.75</rating>
+    <comments>That was a fun animation movie. I'll watch it again with my son in a few years.</comments>
+    <image>The Incredible.jpg</image>
+  </movie>
+  <movie>
     <date>2023-10-16</date>
     <theater home="true"/>
     <director>Park Chan-wook</director>
