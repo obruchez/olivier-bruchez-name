@@ -3,6 +3,16 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Checklist: add rating to IMDb -->
   <movie>
+    <date>2023-10-19</date>
+    <theater home="true"/>
+    <director>Brad Bird</director>
+    <title>The Iron Giant</title>
+    <url>https://www.imdb.com/title/tt0129167/</url>
+    <rating>5.0</rating>
+    <comments>I can't wait to watch this very touching film again with my son. It was less funny, but also deeper than <i>The Incredibles</i>, which I saw the day before.</comments>
+    <image>The Iron Giant.jpg</image>
+  </movie>
+  <movie>
     <date>2023-10-18</date>
     <theater home="true"/>
     <director>Brad Bird</director>
