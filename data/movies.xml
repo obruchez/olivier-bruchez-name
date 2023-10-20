@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <movies created="2000-03-05">
   <introduction>A list of movies I saw.</introduction>
-  <!-- Checklist: add rating to IMDb -->
+  <!-- Add rating to IMDb -->
+  <movie>
+    <date>2023-10-20</date>
+    <theater home="true"/>
+    <director>Ari Aster</director>
+    <title>Hereditary</title>
+    <url>https://www.imdb.com/title/tt7784604/</url>
+    <rating>3.0</rating>
+    <comments>That was pretty bad. I just wanted something light, but the story was really boring.</comments>
+    <image>Hereditary.jpg</image>
+  </movie>
   <movie>
     <date>2023-10-19</date>
     <theater home="true"/>
