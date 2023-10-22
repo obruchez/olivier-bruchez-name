@@ -3,6 +3,13 @@
   <introduction>A list of hikes I took.</introduction>
   <!-- TODO: add comments for new hikes? -->
   <hike>
+    <date>2023-10-22</date>
+    <place>Chanrion / Prise d'eau d'Otemma, Switzerland</place>
+    <!-- <pictures url=""/> -->
+    <comments>For some reasons, I hadn't been in Chanrion since August 2003. This is a wonderful place. I need to to back there soon.</comments>
+  </hike>
+
+  <hike>
     <date>2023-08-13</date>
     <place>Cabane Brunet / Buvette de Pindin, Switzerland</place>
     <!-- <pictures url=""/> -->
