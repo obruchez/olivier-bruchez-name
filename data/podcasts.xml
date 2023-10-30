@@ -2,6 +2,12 @@
 <podcasts created="2016-05-10">
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date>2023-10-28</date>
+    <name>Prince | Official Podcast</name>
+    <episode>The Story of Diamonds And Pearls, Episode 2: If It Ain’t From Minneapolis, It Ain’t S#!^</episode>
+    <comments>I had never realized that a lot of Prince's musicians from that era are from Minnapolis.</comments>
+  </podcast>
+  <podcast>
     <date>2023-10-16</date>
     <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
     <episode url="https://www.samharris.org/podcasts/making-sense-episodes/331-a-golden-age-for-assholes" number="331">A Golden Age for Assholes</episode>
