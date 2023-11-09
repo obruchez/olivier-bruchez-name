@@ -2,6 +2,24 @@
 <podcasts created="2016-05-10">
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date>2023-11-08</date>
+    <name url="https://peterattiamd.com/podcast/">The Peter Attia Drive Podcast</name>
+    <episode url="https://peterattiamd.com/peter-faq/" number="276">Special episode: Peter answers questions on longevity, supplements, protein, fasting, apoB, statins, and more</episode>
+    <comments>"One of the most important things to understand when you are using some sort of intervention is, do you have a biomarker to know if you're doing it correctly?" I'm halfway through Peter's book. It's becoming clear that Peter is not spending too much time thinking about future tools to extend our healthspan. The focus should mainly be on exercising. A lot. And not much on nutrition and supplements. Also: I should find ways to eat enough protein. Peter is eating a lot of venison jerky sticks. I should probably look for vegetarian/vegan alternatives.</comments>
+  </podcast>
+  <podcast>
+    <date>2023-11-07</date>
+    <name>Prince | Official Podcast</name>
+    <episode>The Story of Diamonds And Pearls, Episode 4: U Got the Horn, So Why Don’t U Blow It?</episode>
+    <comments>It was nice hearing from Michael B. Nelson. I love that guy.</comments>
+  </podcast>
+  <podcast>
+    <date>2023-11-05</date>
+    <name>Prince | Official Podcast</name>
+    <episode>The Story of Diamonds And Pearls, Episode 3: Rosie Is Like a Tornado</episode>
+    <comments>I'm happy to learn that Rosie is better now.</comments>
+  </podcast>
+  <podcast>
     <date>2023-11-04</date>
     <name url="https://podcast.ausha.co/violet">Violet - Le Podcast sur Prince et le Minneapolis Sound</name>
     <episode url="https://podcast.ausha.co/violet/diamonds-pearls-super-deluxe-coffret-a-bijoux">Diamonds &amp; Pearls Super Deluxe : Coffret à bijoux</episode>
