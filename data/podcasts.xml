@@ -2,6 +2,12 @@
 <podcasts created="2016-05-10">
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date>2023-11-13</date>
+    <name url="https://podcast.ausha.co/violet">Violet - Le Podcast sur Prince et le Minneapolis Sound</name>
+    <episode url="https://podcast.ausha.co/violet/bonus-7-fabrice-et-joseph-chantome-evoquent-lotusflow3r">Bonus #7 : Fabrice et Joseph Chantôme évoquent Lotusflow3r</episode>
+    <comments>"Fabrice Chantôme est ingénieur du son. Joseph, son fils, est musicien, et tout aussi passionné de son que son père. Lors de l'épisode de Violet consacré a Lotusflow3r, Nicolas Gabet a diffusé des extraits de son entretien avec la "Chantôme Family". Nous avons souhaité partager avec vous l'intégralité de ces échanges."</comments>
+  </podcast>
+  <podcast>
     <date>2023-11-08</date>
     <name url="https://peterattiamd.com/podcast/">The Peter Attia Drive Podcast</name>
     <episode url="https://peterattiamd.com/peter-faq/" number="276">Special episode: Peter answers questions on longevity, supplements, protein, fasting, apoB, statins, and more</episode>
