@@ -93,6 +93,10 @@ if ($pos >= 0) {
 * use ImageMagick: convert file1.png file2.png file3.png file.ico
 * as of October 8, 2008, there's a transparency bug in ImageMagick
 
+## Convert JPEG files to a PDF file (including the filenames)
+
+* convert *.jpg -auto-orient -set filename: "%t" -density 300 -gravity south -undercolor White -annotate 0 "%t" -bordercolor White -border 20x20 output.pdf
+
 ## Copy EXIF tags from one file to another one
 
 * exiftool -TagsFromFile source.jpg dest.jpg
