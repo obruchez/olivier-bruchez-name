@@ -9,6 +9,25 @@
     <actor></actor>
   -->
   <play>
+    <date>2023-12-02</date>
+    <location>Théâtre du Martolet, St-Maurice, Switzerland</location>
+    <name>La Petite Fille aux allumettes</name>
+    <author>Hans Christian Andersen</author>
+    <director>David Rozen</director>
+    <adaptation>Julien Salvia, Ludovic-Alexandre Vidal &amp; Anthony Michineau</adaptation>
+    <actor>Lilly Caruso</actor>
+    <actor>Maxime Guerville</actor>
+    <actor>Angélique Magnan</actor>
+    <actor>?</actor>
+    <actor>?</actor>
+    <actor>?</actor>
+    <actor>?</actor>
+    <actor>?</actor>
+    <rating>4.0</rating>
+    <comments>Comédie musicale vue avec notre fils de 5 ans et demi.</comments>
+    <image>La Petite Fille aux allumettes.jpg</image>
+  </play>
+  <play>
     <date>2023-09-30</date>
     <location>Salle Charles Apothéloz, Théâtre de Vidy, Lausanne, Switzerland</location>
     <name>Le Jardin des délices</name>    
@@ -191,7 +210,7 @@ Costumes Karine Dubois
     <location>Théâtre du Martolet, St-Maurice, Switzerland</location>
     <name>Pinocchio</name>
     <author>Carlo Collodi</author>
-    <director>Guillaume Bouchède </director>
+    <director>Guillaume Bouchède</director>
     <adaptation>Igor De Chaillé &amp; Ely Grimaldi</adaptation>
     <actor>Juliette Béchu</actor>
     <actor>Laura Bensimon</actor>
