@@ -8137,6 +8137,14 @@
     <title>Nos Meilleures Années (Deuxième Partie)</title>
   </movie>
   <movie>
+    <date>2002-12-07</date>
+    <theater home="true"/>
+    <director>Tony Kaye</director>
+    <title>American History X</title>
+    <url>https://www.imdb.com/title/tt0120586/</url>
+    <image>American History X.jpg</image>
+  </movie>
+  <movie>
     <date>2003-12-06</date>
     <title>Love Actually</title>
     <version>fr</version>
