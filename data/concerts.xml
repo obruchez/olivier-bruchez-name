@@ -7,6 +7,22 @@
   -->
   <introduction>A list of concerts I went to.</introduction>
   <concert>
+    <date>2023-11-12</date>
+    <location>Opéra de Lausanne, Lausanne, Switzerland</location>
+    <event><i>Cendrillon</i> opera</event>
+    <musician inst="vocals">Nuada Le Drève</musician>
+    <musician inst="vocals">Rémi Ortega</musician>
+    <musician inst="vocals">Maxence Billiemaz</musician>
+    <musician inst="vocals">Emma Delannoy</musician>
+    <musician inst="vocals">Jean Miannay</musician>
+    <musician inst="vocals">Aurélie Brémond</musician>
+    <musician inst="vocals">Ludmila Schwartzwalder</musician>
+    <musician inst="orchestra">Orchestre de la Haute école de Musique de Lausanne</musician>
+    <musician inst="conductor">Marc Leroy-Calatayud</musician>
+    <rating>4.75</rating>
+    <comments><i>Cendrillon</i> opera (Pauline Viardot), directed by Gilles Rico. Our 5-and-a-half-year-old son's first opera. He loved it.</comments>
+  </concert>
+  <concert>
     <date>2023-07-25</date>
     <location>Église de Verbier, Verbier, Switzerland</location>
     <event>Verbier Festival</event>
