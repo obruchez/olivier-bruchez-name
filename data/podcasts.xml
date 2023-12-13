@@ -2,6 +2,12 @@
 <podcasts created="2016-05-10">
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date>2023-11-14</date>
+    <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
+    <episode url="https://www.samharris.org/podcasts/making-sense-episodes/327-transformative-experiences" number="327">Transformative Experiences - A Conversation with L.A. Paul</episode>
+    <comments>I liked the discussion about children and how they affect (i.e. transform) parents. I guess it shows how difficult it is to come up with realistic counterfactuals. I'm still convinced that people have children way too "easily" (i.e. without thinking too much about it).</comments>
+  </podcast>
+  <podcast>
     <date>2023-11-13</date>
     <name url="https://podcast.ausha.co/violet">Violet - Le Podcast sur Prince et le Minneapolis Sound</name>
     <episode url="https://podcast.ausha.co/violet/bonus-7-fabrice-et-joseph-chantome-evoquent-lotusflow3r">Bonus #7 : Fabrice et Joseph Chantôme évoquent Lotusflow3r</episode>
