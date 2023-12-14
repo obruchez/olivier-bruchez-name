@@ -2,6 +2,24 @@
 <podcasts created="2016-05-10">
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date>2023-11-24</date>
+    <name url="https://absolutelymental.com/">Absolutely Mental</name>
+    <episode number="23">Accepting Determinism</episode>
+    <comments>"Ricky asks Sam why subjective experience doesn’t always match up with his understanding of determinism. They discuss determinism’s role in the justice system, the importance of luck, and getting crushed to death by an avalanche while shagging a chicken."</comments>
+  </podcast>
+  <podcast>
+    <date>2023-11-24</date>
+    <name url="https://podcasts.konbini.com/en/konbini-small-talk-konbini">Small Talk - Konbini</name>
+    <episode url="https://podcasts.konbini.com/en/konbini-small-talk-konbini/202311220415-marina-rollman-et-les-croque-monsieur-suisses-austeres">Marina Rollman et les croque-monsieur suisses austères</episode>
+    <comments>Une discussion légère entre deux humoristes que j'apprécie tout particulièrement, Marina Rollman et David Castello-Lopes. Quelques passages intéressants sur la relation entre la culture suisse et la culture française.</comments>
+  </podcast>
+  <podcast>
+    <date>2023-11-21</date>
+    <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
+    <episode url="https://www.samharris.org/podcasts/making-sense-episodes/341-gaza-global-order" number="341">Gaza &amp; Global Order - A Conversation with Yuval Noah Harari</episode>
+    <comments>"Sam Harris speaks with Yuval Noah Harari about the events of October 7th and the resulting war in Gaza."</comments>
+  </podcast>
+  <podcast>
     <date>2023-11-14</date>
     <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
     <episode url="https://www.samharris.org/podcasts/making-sense-episodes/327-transformative-experiences" number="327">Transformative Experiences - A Conversation with L.A. Paul</episode>
