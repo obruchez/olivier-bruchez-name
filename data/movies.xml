@@ -3,6 +3,26 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Add rating to IMDb -->
   <movie>
+    <date>2023-11-23</date>
+    <theater home="true"/>
+    <director>Kevin Costner</director>
+    <title>Dances with Wolves</title>
+    <url>https://www.imdb.com/title/tt0099348/</url>
+    <rating>5.0</rating>
+    <comments></comments>
+    <image>Dances with Wolves.jpg</image>
+  </movie>
+  <movie>
+    <date>2023-11-21</date>
+    <theater home="true"/>
+    <director>Milos Forman</director>
+    <title>Amadeus</title>
+    <url>https://www.imdb.com/title/tt0086879/</url>
+    <rating>5.0</rating>
+    <comments></comments>
+    <image>Amadeus.jpg</image>
+  </movie>
+  <movie>
     <date>2023-10-20</date>
     <theater home="true"/>
     <director>Ari Aster</director>
@@ -8121,6 +8141,16 @@
     <title>The Lord Of The Rings: The Return Of The King</title>
     <title language="fr">Le Seigneur Des Anneaux : Le Retour Du Roi</title>
     <url>https://www.imdb.com/title/tt0167260/</url>
+  </movie>
+  <movie>
+    <date>2003-12-23</date>
+    <theater home="true"/>
+    <director>Roger Michell</director>
+    <title>Notting Hill</title>
+	<title language="fr">Coup de Foudre à Notting Hill</title>
+	<version>fr</version>
+    <url>https://www.imdb.com/title/tt0125439/</url>
+    <image>Notting Hill.jpg</image>
   </movie>
   <movie>
     <date>2003-12-21</date>
