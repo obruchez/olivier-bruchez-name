@@ -3,6 +3,18 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Add rating to IMDb -->
   <movie>
+    <date>2023-12-22</date>
+    <theater home="true"/>
+    <director>Jun Falkenstein, Alex Mann &amp; Bradley Raymond</director>
+    <title>Mickey's Once Upon a Christmas</title>
+    <title language="fr">Mickey : Il était une fois Noël</title>
+    <version>fr</version>
+    <url>https://www.imdb.com/title/tt0238414/</url>
+    <rating>3.0</rating>
+    <comments>3 stories about Christmas. I saw this with my 5-year-old son.</comments>
+    <image>Mickey's Once Upon a Christmas.jpg</image>
+  </movie>
+  <movie>
     <date>2023-11-23</date>
     <theater home="true"/>
     <director>Kevin Costner</director>
