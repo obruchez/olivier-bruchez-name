@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <podcasts created="2016-05-10">
   <introduction>A list of podcasts I listened to.</introduction>
+   <podcast>
+    <date>2023-12-12</date>
+    <name url="http://robesse.libsyn.com/">Obsessed by Music</name>
+    <episode url="https://robesse.libsyn.com/next-obm-episode">10 Reasons Why I Still Play Music On CDs (and why I can’t get rid of them)</episode>
+    <comments>I undertand Rob's reasons, but they all boil down to a single motivation: focus entirely on the experience of listing to the music. In that sense, smartphones, streaming platforms, etc. are not ideal. But it can be done.</comments>
+  </podcast>
+  <podcast>
+    <date>2023-12-12</date>
+    <name url="https://hubermanlab.com/">Huberman Lab</name>
+    <episode url="https://www.hubermanlab.com/episode/using-your-nervous-system-to-enhance-your-immune-system">Using Your Nervous System to Enhance Your Immune System</episode>
+    <comments><a href="https://podcastnotes.org/huberman-lab/episode-44-using-your-nervous-system-to-enhance-your-immune-system-huberman-lab/">Podcast notes</a>. My main takeaway: Wim Hof breathing, i.e. (1) 20-30 deep inhales and exhales through nose; (2) exhale of all air to empty lungs; (3) hold breath for up to 60 seconds; (4) repeat 2-4 rounds.</comments>
+  </podcast>
+  <podcast>
+    <date>2023-12-05</date>
+    <name url="http://robesse.libsyn.com/">Obsessed by Music</name>
+    <episode url="https://robesse.libsyn.com/what-is-a-music-snob-with-arthur-turnbull">Exploring Snobbism And The Evolution Of Music - With Arthur Turnbull</episode>
+    <comments>You can be a "snob" <i>and</i> share your passion with others.</comments>
+  </podcast>
+  <podcast>
+    <date>2023-11-28</date>
+    <name url="https://www.tenpercent.com/">Ten Percent Happier with Dan Harris</name>
+    <episode url="https://www.youtube.com/watch?v=nZfZWcX49CM">Matthieu Ricard, French Monk and 'World's Happiest Man'</episode>
+    <comments>It's very difficult to disagree with Matthieu. His point of views are really reasonable, especially when it comes to animal rights.</comments>
+  </podcast>
   <podcast>
     <date>2023-11-24</date>
     <name url="https://absolutelymental.com/">Absolutely Mental</name>
