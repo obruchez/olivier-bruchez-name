@@ -9,6 +9,78 @@
     <actor></actor>
   -->
   <play>
+    <date>2023-12-17</date>
+    <location>Petit Théâtre, Lausanne, Switzerland</location>
+    <name>Nils, le merveilleux voyage</name>
+    <author>Nicolas Yazgi</author>
+    <director>Julie Burnier &amp; Frédéric Ozier</director>
+    <actor>Julie Burnier</actor>
+    <actor>Philippe Chosson,</actor>
+    <actor>Pascale Güdel</actor>
+    <actor>Frédéric Ozier</actor>
+    <actor>Léo Piccirelli</actor>
+    <actor>Salvatore Orlando</actor>
+    <rating>5.0</rating>
+    <comments>Une superbe pièce vue avec mon fils. Je ne m'attendais pas à quelque chose d'aussi bien fait. Une vraie réussite, pleine de poésie et d'imagination.</comments>
+    <image>Nils, le merveilleux voyage.jpg</image>
+    <!--
+	Musique et son
+	Jean-Samuel Racine
+
+	Collaboration artistique
+	Sophie Pasquet Racine
+
+	Scénographie
+	Curious Space (Anna Jones et Patrick Burnier)
+
+	Marionnettes
+	Nick Barnes
+
+	Costumes
+	Amandine Rutschmann
+
+	Perruques
+	Malika Stähli
+
+	Couture
+	Letizia Compitiello
+
+	Lumière
+	Antoine Friderici
+
+	Accessoires
+	Léo Piccirelli
+
+	Régie
+	Guillaume Gex
+	-->
+  </play>
+  <play>
+    <date>2023-12-08</date>
+    <location>Pulloff Théâtres, Lausanne, Switzerland</location>
+    <name>Occident</name>
+    <author>Rémi De Vos</author>
+    <director>Nicolas Rossier</director>
+    <actor>Anne-Catherine Savoy</actor>
+    <actor>Nicolas Rossier</actor>
+    <rating>4.5</rating>
+    <comments>Une courte pièce assez intense à propos d'un couple qui s'aime, mais se déteste, tout cela sur fond d'alcool.</comments>
+    <image>Occident.png</image>
+    <!--
+	mise en scène : 
+	scénographie : Geneviève Pasquier
+	assistanat mise en scène : Alice Bouille
+	création lumière : Christophe Pitoiset
+	création musicale : Laurence Crevoisier
+	costumes : Cécile Revaz
+	maquillages et coiffures : Mael Jorand
+	collaboration au décor : Marie-Cécile Kolly
+	construction décor : Vincent Rime
+	régie lumière : Valentin Savio
+	administration : Emmanuel Colliard
+    -->
+  </play>
+  <play>
     <date>2023-12-02</date>
     <location>Théâtre du Martolet, St-Maurice, Switzerland</location>
     <name>La Petite Fille aux allumettes</name>
