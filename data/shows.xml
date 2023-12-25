@@ -16,13 +16,6 @@
     <image>Better Things.jpg</image>
   </show>
   <show>
-    <date>2023-12-02</date>
-    <name url="https://en.wikipedia.org/wiki/Better_Things_(TV_series)">Better Things</name>
-    <series url="https://en.wikipedia.org/wiki/Better_Things_(TV_series)#Season_3_(2019)" type="season">3</series>
-    <comments>The first season of <i>Better Things</i> without Louis C.K.'s involvement. It's still good.</comments>
-    <image>Better Things.jpg</image>
-  </show>
-  <show>
     <date></date>
     <name url="https://en.wikipedia.org/wiki/Black_Mirror">Black Mirror</name>
     <series url="https://en.wikipedia.org/wiki/List_of_Black_Mirror_episodes#Series_6_(2023)" type="series">6</series>
@@ -31,9 +24,29 @@
   </show>
   <show>
     <date></date>
+    <name url="https://en.wikipedia.org/wiki/Fargo_(TV_series)">Fargo</name>
+    <series url="https://en.wikipedia.org/wiki/Fargo_(season_5)" type="season">5</series>
+    <comments></comments>
+    <image>Fargo.jpg</image>
+  </show>
+  <show>
+    <date></date>
+    <name url="https://en.wikipedia.org/wiki/Futurama">Futurama</name>
+    <series url="https://en.wikipedia.org/wiki/Futurama_(season_8)" type="season">8</series>
+    <image>Futurama.jpg</image>
+  </show>
+  <show>
+    <date>2023-12-02</date>
+    <name url="https://en.wikipedia.org/wiki/Better_Things_(TV_series)">Better Things</name>
+    <series url="https://en.wikipedia.org/wiki/Better_Things_(TV_series)#Season_3_(2019)" type="season">3</series>
+    <comments>The first season of <i>Better Things</i> without Louis C.K.'s involvement. It's still good.</comments>
+    <image>Better Things.jpg</image>
+  </show>
+  <show>
+    <date>2023-12-19</date>
     <name url="https://en.wikipedia.org/wiki/Inside_No._9">Inside No. 9</name>
     <series url="https://en.wikipedia.org/wiki/Inside_No._9#Series_8_(2022%E2%80%9323)" type="series">8</series>
-    <comments></comments>
+    <comments>Apart from "3 by 3", which was a bit boring, this was an enjoyable season.</comments>
     <image>Inside No. 9.jpg</image>
   </show>
   <show>
