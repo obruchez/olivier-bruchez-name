@@ -3,6 +3,22 @@
 <exhibitions created="2011-05-17">
     <introduction>A list of exhibitions I visited.</introduction>
     <exhibition>
+        <date>2023-11-19</date>
+        <name>Dialogue entre une pieuvre et un presse-agrumes. Space is the place.</name>
+        <museum>Museum of Contemporary Design and Applied Arts (MUDAC), Lausanne, Switzerland</museum>
+        <rating>5.0</rating>
+        <comments>I really like this museum and its exhibitions. It certainly won't be the last time we go there. It's like a trip (to a parallel world).</comments>
+        <image>Dialogue entre une pieuvre et un presse-agrumes.jpg</image>
+    </exhibition>
+    <exhibition>
+        <date>2023-11-11</date>
+        <name>Permanent exhibition.</name>
+        <museum>Chemins de fer du Kaeserberg, Granges-Paccot, Switzerland</museum>
+        <rating>4.75</rating>
+        <comments>One man's dream. It took him 17 years to realize this railway model. Really impressive.</comments>
+        <image>Chemins de fer du Kaeserberg.jpg</image>
+    </exhibition>
+    <exhibition>
         <date>2023-09-30</date>
         <name>Vuillard et l’art du Japon</name>
         <museum>Fondation de l’Hermitage, Lausanne, Switzerland</museum>
