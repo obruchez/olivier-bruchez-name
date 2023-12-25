@@ -2,6 +2,29 @@
 <books created="2006-08-20">
     <introduction>A list of books I read.</introduction>
     <book>
+        <date>2023-12-20</date>
+        <title>Alice's Adventures in Wonderland</title>
+        <author>Lewis Carroll</author>
+        <publishingyear>1865</publishingyear>
+        <rating>4.75</rating>
+        <url>https://en.wikipedia.org/wiki/Alice%27s_Adventures_in_Wonderland</url>
+        <notes description="Kindle highlights"></notes>
+        <comments>It's difficult not to think about Disney's interpretation of the story. The book is quite different. Probably weirder.</comments>
+        <image>Alice's Adventures in Wonderland.jpg</image>
+    </book>
+    <book>
+        <date>2023-12-01</date>
+        <title>Outlive</title>
+        <subtitle>The Science and Art of Longevity</subtitle>
+        <author>Peter Attia</author>
+        <publishingyear>2023</publishingyear>
+        <rating>4.75</rating>
+        <url>https://books.google.com/books?id=CspvEAAAQBAJ</url>
+        <notes description="Kindle highlights"></notes>
+        <comments>I've been listening to Peter Attia's podcast for 4 years now. I like his rather conservative approach to longevity. My personal takeaway is that I should exercise way more and eat more protein.</comments>
+        <image>Outlive.jpg</image>
+    </book>
+    <book>
         <date>2023-08-27</date>
         <title>Die With Zero</title>
         <subtitle>Getting All You Can from Your Money and Your Life</subtitle>
