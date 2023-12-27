@@ -2,6 +2,15 @@
 <comics created="2017-01-28">
   <introduction>A list of comics I read.</introduction>
   <comic>
+    <date>2023-12-27</date>
+    <writer>Jacques Martin</writer>
+    <artist>Gilles Chaillet</artist>
+    <series url="https://fr.wikipedia.org/wiki/Lefranc_(bande_dessin%C3%A9e)">Lefranc</series>
+    <volume url="https://fr.wikipedia.org/wiki/Les_Portes_de_l%27enfer_(Lefranc)" number="5">Les Portes de l'enfer</volume>
+    <comments>Relecture "de Noël" d'un tome que j'ai toujours bien présent à l'esprit, probablement à cause de son côté post-apocalyptique.</comments>
+    <image>Lefranc - Les Portes de l'enfer.jpg</image>
+  </comic>
+  <comic>
     <date>2022-12-17</date>
     <writer>De Groot</writer>
     <artist>Turk</artist>
