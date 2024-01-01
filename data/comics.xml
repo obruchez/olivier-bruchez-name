@@ -2,6 +2,15 @@
 <comics created="2017-01-28">
   <introduction>A list of comics I read.</introduction>
   <comic>
+    <date>2023-12-30</date>
+    <writer>De Groot</writer>
+    <artist>Turk</artist>
+    <series url="https://fr.wikipedia.org/wiki/Robin_Dubois">Robin Dubois</series>
+    <volume url="https://www.bedetheque.com/BD-Robin-Dubois-Tome-15-L-Eldoradingue-10330.html" number="15">L'Eldoradingue</volume>
+    <comments>Lu avec mon fils de 5 ans et demi.</comments>
+    <image>Robin Dubois - L'Eldoradingue.jpg</image>
+  </comic>
+  <comic>
     <date>2023-12-27</date>
     <writer>Jacques Martin</writer>
     <artist>Gilles Chaillet</artist>
