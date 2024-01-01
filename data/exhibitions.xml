@@ -3,6 +3,15 @@
 <exhibitions created="2011-05-17">
     <introduction>A list of exhibitions I visited.</introduction>
     <exhibition>
+        <date>2023-12-29</date>
+        <name>Les Années Fauves</name>
+        <museum>Fondation Pierre Gianadda, Martigny, Switzerland</museum>
+        <rating>4.25</rating>
+        <comments>Same comment as for the last exhibition we saw at Fondation Pierre Gianadda.</comments>
+        <image>Les Années Fauves.jpg</image>
+        <!-- <pictures url=""/> -->
+    </exhibition>
+    <exhibition>
         <date>2023-11-19</date>
         <name>Dialogue entre une pieuvre et un presse-agrumes. Space is the place.</name>
         <museum>Museum of Contemporary Design and Applied Arts (MUDAC), Lausanne, Switzerland</museum>
