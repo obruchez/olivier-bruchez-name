@@ -11,7 +11,7 @@
   <show>
     <date></date>
     <name url="https://en.wikipedia.org/wiki/Better_Things_(TV_series)">Better Things</name>
-    <series url="https://en.wikipedia.org/wiki/Better_Things_(TV_series)#Season_4_(2020)" type="season">4</series>
+    <series url="https://en.wikipedia.org/wiki/Better_Things_(TV_series)#Season_5_(2022)" type="season">5</series>
     <comments></comments>
     <image>Better Things.jpg</image>
   </show>
@@ -34,6 +34,13 @@
     <name url="https://en.wikipedia.org/wiki/Futurama">Futurama</name>
     <series url="https://en.wikipedia.org/wiki/Futurama_(season_8)" type="season">8</series>
     <image>Futurama.jpg</image>
+  </show>
+  <show>
+    <date>2024-01-04</date>
+    <name url="https://en.wikipedia.org/wiki/Better_Things_(TV_series)">Better Things</name>
+    <series url="https://en.wikipedia.org/wiki/Better_Things_(TV_series)#Season_4_(2020)" type="season">4</series>
+    <comments>Another excellent season.</comments>
+    <image>Better Things.jpg</image>
   </show>
   <show>
     <date>2023-12-02</date>
