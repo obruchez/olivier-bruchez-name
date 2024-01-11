@@ -17,13 +17,6 @@
   </show>
   <show>
     <date></date>
-    <name url="https://en.wikipedia.org/wiki/Black_Mirror">Black Mirror</name>
-    <series url="https://en.wikipedia.org/wiki/List_of_Black_Mirror_episodes#Series_6_(2023)" type="series">6</series>
-    <comments></comments>
-    <image>Black Mirror.jpg</image>
-  </show>
-  <show>
-    <date></date>
     <name url="https://en.wikipedia.org/wiki/Fargo_(TV_series)">Fargo</name>
     <series url="https://en.wikipedia.org/wiki/Fargo_(season_5)" type="season">5</series>
     <comments></comments>
@@ -34,6 +27,20 @@
     <name url="https://en.wikipedia.org/wiki/Futurama">Futurama</name>
     <series url="https://en.wikipedia.org/wiki/Futurama_(season_8)" type="season">8</series>
     <image>Futurama.jpg</image>
+  </show>
+  <show>
+    <date>2024-01-09</date>
+    <name url="https://en.wikipedia.org/wiki/Black_Mirror">Black Mirror</name>
+    <series url="https://en.wikipedia.org/wiki/List_of_Black_Mirror_episodes#Series_6_(2023)" type="series">6</series>
+    <comments>Not a bad season, but not an excellent one either. <i>Mazey Day</i> and <i>Demon 79</i> were a bit off-topic. The rest was pretty good.</comments>
+    <image>Black Mirror.jpg</image>
+  </show>
+  <show>
+    <date>2024-01-08</date>
+    <name url="https://fr.wikipedia.org/wiki/Les_Ann%C3%A9es_coll%C3%A8ge">Les Années collège</name>
+    <series url="https://fr.wikipedia.org/wiki/Les_Ann%C3%A9es_coll%C3%A8ge" type="season">1</series>
+    <comments>Regardé sous le coup de la nostalgie. J'ai vu cette série sur Antenne 2, à la fin des années 80 et/ou au début des années 90. C'est vraiment très naïf. Le doublage français fait mal aux oreilles.</comments>
+    <image>Les Années collège.jpg</image>
   </show>
   <show>
     <date>2024-01-04</date>
