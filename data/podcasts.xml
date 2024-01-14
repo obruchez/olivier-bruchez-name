@@ -2,6 +2,12 @@
 <podcasts created="2016-05-10">
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date>2024-01-13</date>
+    <name url="https://podcast.ausha.co/violet">Violet - Le Podcast sur Prince et le Minneapolis Sound</name>
+    <episode url="https://podcast.ausha.co/violet/lotusflow3r-part-2-mplsound-et-elixer">Lotusflow3r : Part 2, MPLSound et Elixer</episode>
+    <comments>L'interview d'Alfred Bernardin, qui a travaillé avec Prince durant environ une année et que je ne connaissais pas, est absolument fascinante. <i>Elixer</i> est un projet assez frustrant : la musique est très bonne, mais la voix de Bria est complètement lisse. J'espère que nous entendrons un jour les versions chantées par Prince.</comments>
+  </podcast>
+  <podcast>
     <date>2024-01-05</date>
     <name url="https://peterattiamd.com/podcast/">The Peter Attia Drive Podcast</name>
     <episode url="https://peterattiamd.com/richardmiller2/" number="281">Longevity drugs, aging biomarkers, and updated findings from the Interventions Testing Program (ITP) | Rich Miller, M.D., Ph.D.</episode>
