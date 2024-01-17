@@ -3,6 +3,16 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Add rating to IMDb -->
   <movie>
+    <date>2024-01-14</date>
+    <theater home="true"/>
+    <director>Vidhu Vinod Chopra</director>
+    <title>12th Fail</title>
+    <url>https://www.imdb.com/title/tt23849204/</url>
+    <rating>4.5</rating>
+    <comments>Yet another Indian movie that recently entered the IMDb Top 250 Movies. Not bad.</comments>
+    <image>12th Fail.jpg</image>
+  </movie>
+  <movie>
     <date>2024-01-06</date>
     <theater home="true"/>
     <director>Christopher Nolan</director>
