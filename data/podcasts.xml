@@ -2,6 +2,12 @@
 <podcasts created="2016-05-10">
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date>2024-01-16</date>
+    <name url="http://verybadwizards.com/">Very Bad Wizards</name>
+    <episode url="https://verybadwizards.com/episode/episode-273-ah-ah-miyazakis-spirited-away" number="273">Ah. Ah. (Miyazaki's "Spirited Away")</episode>
+    <comments>I've seen <i>Spirited Away</i> three times (twice in 2002!) and I think I'm ready to watch it a fourth time. And then I can watch it again when my son is old enough...</comments>
+  </podcast>
+  <podcast>
     <date>2024-01-13</date>
     <name url="https://podcast.ausha.co/violet">Violet - Le Podcast sur Prince et le Minneapolis Sound</name>
     <episode url="https://podcast.ausha.co/violet/lotusflow3r-part-2-mplsound-et-elixer">Lotusflow3r : Part 2, MPLSound et Elixer</episode>
