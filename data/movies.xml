@@ -8162,6 +8162,14 @@
     <version>fr</version>
   </movie>
   <movie>
+    <date>2004-01-18</date>
+    <theater home="true"/>
+    <director>Gabriel Aghion</director>
+    <title>Pédale douce</title>
+    <url>https://www.imdb.com/title/tt0117412/</url>
+    <image>Pédale douce.jpg</image>
+  </movie>
+  <movie>
     <date>2004-01-14</date>
     <director>Sofia Coppola</director>
     <title>Lost In Translation</title>
