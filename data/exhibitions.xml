@@ -3,6 +3,14 @@
 <exhibitions created="2011-05-17">
     <introduction>A list of exhibitions I visited.</introduction>
     <exhibition>
+        <date>2024-01-20</date>
+        <name>Robot</name>
+        <museum>Espace des inventions, Lausanne, Switzerland</museum>
+        <rating>4.5</rating>
+        <comments>My first time at the Espace des inventions, with our 5-year-old son, along with some friends of ours and their children. A really nice place for children. And for adults as well! We had the opportunity to see a small demo of a Boston Dynamics dog. Quite impressive.</comments>
+        <image>Robot.png</image>
+    </exhibition>
+    <exhibition>
         <date>2023-12-29</date>
         <name>Les Années Fauves</name>
         <museum>Fondation Pierre Gianadda, Martigny, Switzerland</museum>
