@@ -9,6 +9,29 @@
     <actor></actor>
   -->
   <play>
+    <date>2024-01-20</date>
+    <location>Théâtre Barnabé, Servion, Switzerland</location>
+    <name>Viva Vegas</name>
+    <author>Noam Perakis</author>
+    <director>Noam Perakis</director>
+    <actor>Giliane Béguin</actor>
+    <actor>Célia Chaillet</actor>
+    <actor>Gilles Guenat</actor>
+    <actor>Loïc Fleury</actor>
+    <actor>Joël Ingargiola</actor>
+    <actor>Faustine Jenny</actor>
+    <actor>Myriam Kuhn</actor>
+    <actor>Julien Opoix</actor>
+    <actor>Nathan Pannatier</actor>
+    <actor>Fabrice Pasche</actor>
+    <actor>Noam Perakis</actor>
+    <actor>Céline Rey</actor>
+    <actor>Cyril Tassi</actor>
+    <rating>4.75</rating>
+    <comments>Notre premier retour au Théâtre Barnabé depuis 2006 ! Un spectacle de qualité et une ancienne salle qui a du caractère.</comments>
+    <image>Viva Vegas.jpg</image>
+  </play>
+  <play>
     <date>2023-12-17</date>
     <location>Petit Théâtre, Lausanne, Switzerland</location>
     <name>Nils, le merveilleux voyage</name>
