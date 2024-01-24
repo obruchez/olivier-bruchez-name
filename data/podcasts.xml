@@ -2,6 +2,18 @@
 <podcasts created="2016-05-10">
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date>2024-01-24</date>
+    <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
+    <episode url="https://www.samharris.org/podcasts/making-sense-episodes/347-finding-sanity-in-2024" number="347">Finding Sanity in 2024</episode>
+    <comments>The world is insane. Solution: meditate.</comments>
+  </podcast>
+  <podcast>
+    <date>2024-01-24</date>
+    <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
+    <episode url="https://www.samharris.org/podcasts/making-sense-episodes/342-animal-minds-moral-truths" number="342">Animal Minds &amp; Moral Truths - A Conversation with Peter Singer</episode>
+    <comments>I really like Peter Singer. His take on animal experimentation sounds reasonable. I'm convinced that some animal experimentation is necessary. It has to be done in the most humane way possible.</comments>
+  </podcast>
+  <podcast>
     <date>2024-01-16</date>
     <name url="http://verybadwizards.com/">Very Bad Wizards</name>
     <episode url="https://verybadwizards.com/episode/episode-273-ah-ah-miyazakis-spirited-away" number="273">Ah. Ah. (Miyazaki's "Spirited Away")</episode>
