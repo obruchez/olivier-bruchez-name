@@ -2,6 +2,24 @@
 <podcasts created="2016-05-10">
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date>2024-01-30</date>
+    <name url="https://absolutelymental.com/">Absolutely Mental</name>
+    <episode number="25">How do genetic mutations work?</episode>
+    <comments>"Ricky and Sam delve into evolution, genetic mutations, and their implications in modern society. They cite a lack of deodorant as a deterrent for time traveling to the past."</comments>
+  </podcast>
+  <podcast>
+    <date>2024-01-28</date>
+    <name url="https://absolutelymental.com/">Absolutely Mental</name>
+    <episode number="24">Why is our species so successful?</episode>
+    <comments>"Ricky and Sam discuss human communication, wealth taxes, and effective charitable giving. Ricky pledges to leave all of his money to chimps."</comments>
+  </podcast>
+  <podcast>
+    <date>2024-01-28</date>
+    <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
+    <episode url="https://www.samharris.org/podcasts/making-sense-episodes/297-preparing-for-the-end" number="297">Preparing for the End - A Conversation with BJ Miller and Shoshana Berger</episode>
+    <comments>This is an episode I've been wanting to listen to for a long time. It's an important topic, that we usually don't want to think too much about. I do have a document that I've shared with my wife with important information about what to do or know if I die before her, but I realize it's far from complete. In particular, I should really think about my wishes regarding cardiopulmonary resuscitation, assisted suicide, etc. What should happen if I get Alzheimer's disease (a very tricky question)?</comments>
+  </podcast>
+  <podcast>
     <date>2024-01-24</date>
     <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
     <episode url="https://www.samharris.org/podcasts/making-sense-episodes/347-finding-sanity-in-2024" number="347">Finding Sanity in 2024</episode>
