@@ -22,6 +22,13 @@
     <image>Futurama.jpg</image>
   </show>
   <show>
+    <date>2024-02-03</date>
+    <name url="https://fr.wikipedia.org/wiki/Les_Ann%C3%A9es_coll%C3%A8ge">Les Années collège</name>
+    <series url="https://fr.wikipedia.org/wiki/Les_Ann%C3%A9es_coll%C3%A8ge" type="season">2</series>
+    <comments>Voir la saison précédente.</comments>
+    <image>Les Années collège.jpg</image>
+  </show>
+  <show>
     <date>2024-01-17</date>
     <name url="https://en.wikipedia.org/wiki/Fargo_(TV_series)">Fargo</name>
     <series url="https://en.wikipedia.org/wiki/Fargo_(season_5)" type="season">5</series>
