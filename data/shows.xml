@@ -8,18 +8,18 @@
     <comments></comments>
     <image>Bob's Burgers.jpg</image>
   </show> -->
-  <show>
-    <date></date>
-    <name url="https://en.wikipedia.org/wiki/Better_Things_(TV_series)">Better Things</name>
-    <series url="https://en.wikipedia.org/wiki/Better_Things_(TV_series)#Season_5_(2022)" type="season">5</series>
-    <comments></comments>
-    <image>Better Things.jpg</image>
-  </show>
-  <show>
+  <!-- <show>
     <date></date>
     <name url="https://en.wikipedia.org/wiki/Futurama">Futurama</name>
     <series url="https://en.wikipedia.org/wiki/Futurama_(season_8)" type="season">8</series>
     <image>Futurama.jpg</image>
+  </show> -->
+  <show>
+    <date>2024-02-08</date>
+    <name url="https://en.wikipedia.org/wiki/Better_Things_(TV_series)">Better Things</name>
+    <series url="https://en.wikipedia.org/wiki/Better_Things_(TV_series)#Season_5_(2022)" type="season">5</series>
+    <comments>I'll miss this show.</comments>
+    <image>Better Things.jpg</image>
   </show>
   <show>
     <date>2024-02-03</date>
