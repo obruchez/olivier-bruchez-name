@@ -7,6 +7,23 @@
   -->
   <introduction>A list of concerts I went to.</introduction>
   <concert>
+    <date>2024-02-04</date>
+    <location>Opéra de Lausanne, Lausanne, Switzerland</location>
+    <event><i>Così fan tutte</i> opera</event>
+    <musician inst="vocals">Arianna Vendittelli</musician>
+    <musician inst="vocals">Wallis Giunta</musician>
+    <musician inst="vocals">Pavel Petrov</musician>
+    <musician inst="vocals">Robert Gleadow</musician>
+    <musician inst="vocals">Rubén Amoretti</musician>
+    <musician inst="vocals">Marie Lys</musician>
+    <musician inst="orchestra">Orchestre de Chambre de Lausanne</musician>
+    <musician inst="conductor">Diego Fasolis</musician>
+    <musician inst="choir">Chœur de l’Opéra de Lausanne</musician>
+    <musician inst="choir director">Diego Fasolis</musician>
+    <rating>5.0</rating>
+    <comments><i>Così fan tutte</i> opera (Wolfgang Amadeus Mozart), directed by Jean Liermier. A convincing and entertaining reality TV version of this opera, which completely makes sense, when you think about it. It was already played in 2018, with a different set of musicians (except for Robert Gleadow).</comments>
+  </concert>
+  <concert>
     <date>2023-11-12</date>
     <location>Opéra de Lausanne, Lausanne, Switzerland</location>
     <event><i>Cendrillon</i> opera</event>
