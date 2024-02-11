@@ -3,7 +3,7 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Add rating to IMDb -->
   <movie>
-    <date>20024-02-02</date>
+    <date>2024-02-02</date>
     <theater>Galeries, Lausanne</theater>
     <director>Yorgos Lanthimos</director>
     <title>Poor Things</title>
