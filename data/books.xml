@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <books created="2006-08-20">
     <introduction>A list of books I read.</introduction>
+    <!-- TODO: replace links to Google Books with links to Goodreads -->
     <book>
-        <date></date>
+        <date>2024-02-11</date>
         <title>The Sweet Spot</title>
         <subtitle>The Pleasures of Suffering and the Search for Meaning</subtitle>
         <author>Paul Bloom</author>
         <publishingyear>2021</publishingyear>
-        <rating></rating>
-        <url>https://books.google.com/books?id=kCoZEAAAQBAJ</url>
+        <rating>4.5</rating>
+        <url>https://www.goodreads.com/book/show/56922622-the-sweet-spot</url>
         <notes description="Kindle highlights"></notes>
-        <comments></comments>
+        <comments>There's a subtle relationship between suffering, meaning, and happiness. I still don't know what it is, but I guess this book is raising a few useful questions. To quote The Guardian: "Bloom endorses motivational pluralism: we're all a tangled mess of complicated drives and enthusiasms, and finding the sweet spot that includes just the right mix of suffering and value and satisfaction is, as the book's subtitle puts it, the "key to a good life"."</comments>
         <image>The Sweet Spot.jpg</image>
     </book>
     <book>
@@ -31,7 +32,7 @@
         <author>Peter Attia</author>
         <publishingyear>2023</publishingyear>
         <rating>4.75</rating>
-        <url>https://books.google.com/books?id=CspvEAAAQBAJ</url>
+        <url>https://www.goodreads.com/book/show/61153739-outlive</url>
         <notes description="Kindle highlights"></notes>
         <comments>I've been listening to Peter Attia's podcast for 4 years now. I like his rather conservative approach to longevity. My personal takeaway is that I should exercise way more and eat more protein.</comments>
         <image>Outlive.jpg</image>
@@ -43,7 +44,7 @@
         <author>Bill Perkins</author>
         <publishingyear>2020</publishingyear>
         <rating>4.25</rating>
-        <url>https://books.google.com/books?id=e92hDwAAQBAJ</url>
+        <url>https://www.goodreads.com/book/show/52950915-die-with-zero</url>
         <notes description="Kindle highlights"></notes>
         <comments>I started reading Perkins' book after hearing him on Peter Attia's podcast. Basically, this is a rich guy telling other people to spend more money, earlier in life. He makes some good points, I guess. Invest in experiences and people. Don't plan to do too many things when you're retired, as people's health get worse rather quickly. He's not wrong, but those are not very original ideas. His most interesting idea is that you should really think about the rest of your life and how you're going to spend your money. And maybe - maybe! - you're saving too much money, even if you're not rich. Maybe. I'm not convinced, as I don't live on a yacht, but I'll think about it.</comments>
         <image>Die With Zero.jpg</image>
@@ -55,7 +56,7 @@
         <author>Brian Christian &amp; Tom Griffiths</author>
         <publishingyear>2016</publishingyear>
         <rating>4.75</rating>
-        <url>https://books.google.com/books?id=8h73oQEACAAJ</url>
+        <url>https://www.goodreads.com/book/show/25666050-algorithms-to-live-by</url>
         <notes description="Kindle highlights"></notes>
         <comments>I have a master in computer science, so I often think about the world in terms of algorithms. Some of them are useful on a day-to-day basis. Some of them are useful to better understand the world (so more in a philosophical way, almost). Some of the more advanced concepts coming from machine learning, for example. This book made me realize that there are more links than expected between computer science and the "real world".</comments>
         <image>Algorithms to Live By.jpg</image>
@@ -89,7 +90,7 @@
         <author>Cal Newport</author>
         <publishingyear>2016</publishingyear>
         <rating>4.75</rating>
-        <url>https://books.google.com/books?id=lZpFCgAAQBAJ</url>
+        <url>https://www.goodreads.com/book/show/25744928-deep-work</url>
         <notes description="Kindle highlights"></notes>
         <comments>An important book at this point in my life. I've been implementing Getting Things Done (GTD) for more than 15 years now and I think I've come to terms with the idea that our time is limited (see <a href="https://olivier.bruchez.name/books#2022-01-29"><i>Four Thousand Weeks</i></a> and <a href="https://olivier.bruchez.name/books#2023-01-28"><i>Midlife</i></a>, for example). The logical conclusion is that we should have a clear set of priorities for all the domains/projects in our lives (e.g. it should be quite clear to anybody that health and the people you love should be at the top of your list) and that when you decide to do something, you should do it with intention and focus, hence the idea that deep work is important. As Newport explains in his book, deep work doesn't come without any effort. You have to decide that you want to work deeply and then make it possible to do it, with strategies such as time blocking, scheduling your days, quitting social networks, etc.</comments>
         <image>Deep Work.jpg</image>
