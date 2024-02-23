@@ -3,6 +3,16 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Add rating to IMDb -->
   <movie>
+    <date>2024-02-22</date>
+    <theater home="true"/>
+    <director>Nishikant Kamat</director>
+    <title>Drishyam</title>
+    <url>https://www.imdb.com/title/tt4430212/</url>
+    <rating>4.75</rating>
+    <comments>I was prepared not to like this movie, because it's one of those Indian movies that keep entering and exiting the IMDb Top 250. I was pleasantly surprised. It's both clever and entertaining. The moral questions it raises are not completely obvious.</comments>
+    <image>Drishyam.jpg</image>
+  </movie>
+  <movie>
     <date>2024-02-02</date>
     <theater>Galeries, Lausanne</theater>
     <director>Yorgos Lanthimos</director>
