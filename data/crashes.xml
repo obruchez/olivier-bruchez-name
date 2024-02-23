@@ -3,6 +3,12 @@
 	<introduction>A list of hard drive crashes I had.</introduction>
 	<introduction>Did I mention I'm a geek?</introduction>
 	<crash>
+		<date>2024-02-17</date>
+		<manufacturer>Samsung</manufacturer>
+		<model>SSD 850 EVO 2.5" SATA III 1TB</model>
+		<comments>Failed in my Ubuntu server. Array rebuilt without any data loss.</comments>
+	</crash>
+	<crash>
 		<date>2014-03-09</date>
 		<manufacturer>Toshiba</manufacturer>
 		<model>MK5065GSXF 500GB 2.5" SATA 2.6/ATA-8</model>
