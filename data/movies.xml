@@ -3,6 +3,26 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Add rating to IMDb -->
   <movie>
+    <date>2024-02-24</date>
+    <theater home="true"/>
+    <director>M. Night Shyamalan</director>
+    <title>The Sixth Sense</title>
+    <url>https://www.imdb.com/title/tt0167404/</url>
+    <rating>5.0</rating>
+    <comments>This was the second time I saw <i>The Sixth Sense</i>. The first time was in 2000, when the movie came out. I had never forgotten the plot twist, so watching the movie a second time, even 24 years later, was a special experience. I was more in an "analyzing" mode, somehow. The movie is still very good, I think, but it's definitely not one you want to watch often.</comments>
+    <image>The Sixth Sense.jpg</image>
+  </movie>
+  <movie>
+    <date>2024-02-24</date>
+    <theater home="true"/>
+    <director>Clyde Geronimi, Wilfred JacksonHamilton Luske</director>
+    <title>Alice in Wonderland</title>
+    <url>https://www.imdb.com/title/tt0043274/</url>
+    <rating>4.5</rating>
+    <comments>I read the book in December 2023. We watched the movie with our 5-year-old son. Visually, the film is good, but I'm just not a fan of the story. Many elements are absurd, but maybe not absurd or mysterious enough. Nothing's really funny either. And at the end, "it's just all a dream", so nothing really matters, right?</comments>
+    <image>Alice in Wonderland (1951).jpg</image>
+  </movie>
+  <movie>
     <date>2024-02-22</date>
     <theater home="true"/>
     <director>Nishikant Kamat</director>
@@ -5146,7 +5166,7 @@
     <title>Alice in Wonderland</title>
     <url>https://www.imdb.com/title/tt1014759/</url>
     <rating>4.75</rating>
-    <image>Alice in Wonderland.jpg</image>
+    <image>Alice in Wonderland (2010).jpg</image>
   </movie>
   <movie>
     <date>2010-03-26</date>
@@ -9221,8 +9241,12 @@
   </movie>
   <movie>
     <date>2000-01-17</date>
-    <title>Le Sixième Sens</title>
+    <director>M. Night Shyamalan</director>
+    <title>The Sixth Sense</title>
+    <title language="fr">Le Sixième Sens</title>
     <version>fr</version>
+    <url>https://www.imdb.com/title/tt0167404/</url>
+    <image>The Sixth Sense.jpg</image>
   </movie>
   <movie>
     <date>1999-12-21</date>
