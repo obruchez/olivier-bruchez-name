@@ -2,6 +2,12 @@
 <podcasts created="2016-05-10">
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date>2024-02-26</date>
+    <name url="https://podcast.ausha.co/violet">Violet - Le Podcast sur Prince et le Minneapolis Sound</name>
+    <episode url="https://podcast.ausha.co/violet/20ten-un-courrier-international">20TEN : Un Courrier International</episode>
+    <comments>Un album que j'ai écouté en boucle à l'époque. Je suis agréablement surpris que Nicolas l'apprécie autant.</comments>
+  </podcast>
+  <podcast>
     <date>2024-02-19</date>
     <name url="https://absolutelymental.com/">Absolutely Mental</name>
     <episode number="27">What is deja vu?</episode>
