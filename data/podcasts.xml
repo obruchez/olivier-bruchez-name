@@ -2,6 +2,18 @@
 <podcasts created="2016-05-10">
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date>2024-03-02</date>
+    <name url="http://verybadwizards.com/">Very Bad Wizards</name>
+    <episode url="https://verybadwizards.fireside.fm/253" number="253">Tarkovsky's Starchild</episode>
+    <comments>I watched <i>Stalker</i> for the first time in my life in 2021 and I loved it. Hearing Tamler and Dave discuss it made me watch it again. A masterpiece, for sure.</comments>
+  </podcast>
+  <podcast>
+    <date>2024-02-27</date>
+    <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
+    <episode url="https://www.samharris.org/podcasts/making-sense-episodes/355-a-falling-world" number="355">A Falling World - A Conversation with Peter Zeihan</episode>
+    <comments>A depressing episode (except for Zeihan's prediction that Trump won't won the election), but it's hard to take Zeihan's predictions seriously. His take on technology and AI, in particular, doesn't sound particularly serious to me.</comments>
+  </podcast>
+  <podcast>
     <date>2024-02-26</date>
     <name url="https://podcast.ausha.co/violet">Violet - Le Podcast sur Prince et le Minneapolis Sound</name>
     <episode url="https://podcast.ausha.co/violet/20ten-un-courrier-international">20TEN : Un Courrier International</episode>
