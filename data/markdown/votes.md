@@ -2,19 +2,29 @@
 
 My votes (in French). En Suisse, on ne plaisante pas avec la démocratie directe. :) J'essaie ici de documenter et de justifier la façon dont je me positionne par rapport aux votations fédérales, qui ont lieu jusqu'à quatre fois par année.
 
+## [Votation fédérale du 3 mars 2024](https://www.bk.admin.ch/ch/f/pore/va/20240303/index.html)
+
+### Acceptez-vous l’initiative populaire « Mieux vivre à la retraite (initiative pour une 13e rente AVS) » ?
+
+Oui. Résultat : oui (58.24%).
+
+### Acceptez-vous l’initiative populaire « Pour une prévoyance vieillesse sûre et pérenne (initiative sur les rentes) » ?
+
+Non. Résultat : non (74.72%).
+
 ## [Votation fédérale du 18 juin 2023](https://www.admin.ch/gov/fr/accueil/documentation/votations/20230618.html)
 
 ### Acceptez-vous l’arrêté fédéral du 16 décembre 2022 sur une imposition particulière des grands groupes d’entreprises (mise en oeuvre du projet conjoint de l’OCDE et du G20 sur l’imposition des grands groupes d’entreprises) ?
 
-Oui. Résultat : ? (?.?%)
+Oui. Résultat : oui (78.5%)
 
 ### Acceptez-vous la loi fédérale du 30 septembre 2022 sur les objectifs en matière de protection du climat, sur l’innovation et sur le renforcement de la sécurité énergétique (LCl) ? 
 
-Oui. Résultat : ? (?.?%)
+Oui. Résultat : oui (59.1%)
 
 ### Acceptez-vous la modification du 16 décembre 2022 de la loi fédérale sur les bases légales des ordonnances du Conseil fédéral visant à surmonter l’épidémie de COVID-19 (loi COVID-19) ?
 
-Oui. Résultat : ? (?.?%)
+Oui. Résultat : oui (61.9%)
 
 ## [Votation fédérale du 25 septembre 2022](https://www.admin.ch/gov/fr/accueil/documentation/votations/20220925.html)
 
