@@ -3,6 +3,16 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Add rating to IMDb -->
   <movie>
+    <date>2024-03-03</date>
+    <theater home="true"/>
+    <director>Andrei Tarkovsky</director>
+    <title>Stalker</title>
+    <url>https://www.imdb.com/title/tt0079944/</url>
+    <rating>5.25</rating>
+    <comments>Hearing Tamler and Dave from the <a href="https://verybadwizards.com/">Very Bad Wizards podcast</a> discuss this movie made me watch it again, after watching it for the first time in 2021. This is a masterpiece, full of mystery, weirdly beautiful, disturbing, poetic. I don't know what it means exactly, but I know that movies are supposed to move you like <i>Stalker</i> does. This is what cinema is about.</comments>
+    <image>Stalker.jpg</image>
+  </movie>
+  <movie>
     <date>2024-02-24</date>
     <theater home="true"/>
     <director>M. Night Shyamalan</director>
