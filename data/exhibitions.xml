@@ -3,6 +3,15 @@
 <exhibitions created="2011-05-17">
     <introduction>A list of exhibitions I visited.</introduction>
     <exhibition>
+        <date>2024-03-03</date>
+        <name>Immersion. The Origins: 1949-1969</name>
+        <museum>Musée cantonal des Beaux-Arts, MCBA, Lausanne, Switzerland</museum>
+        <rating>5.0</rating>
+        <comments>A very successful exhibition which drew a lot of people. We had to wait in line for two hours to get in. Overall, it was a very fun exhibition, including for children.</comments>
+        <image>Immersion. The Origins- 1949-1969.jpg</image>
+        <!-- <pictures url=""/> -->
+    </exhibition>
+    <exhibition>
         <date>2024-01-20</date>
         <name>Robot</name>
         <museum>Espace des inventions, Lausanne, Switzerland</museum>
