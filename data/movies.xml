@@ -3,6 +3,16 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Add rating to IMDb -->
   <movie>
+    <date>2024-03-04</date>
+    <theater home="true"/>
+    <director>Joel Coen &amp; Ethan Coen</director>
+    <title>No Country For Old Men</title>
+    <url>https://www.imdb.com/title/tt0477348/</url>
+    <rating>5.0</rating>
+    <comments>The first time I watched this movie since 2008. I remember one of the people I was in the theater with being very stressed by some of the scenes. I can now see why. Violence aside, the film is excellent. Very gripping. Also more open-ended than expected.</comments>
+    <image>No Country for Old Men.jpg</image>
+  </movie>
+  <movie>
     <date>2024-03-03</date>
     <theater home="true"/>
     <director>Andrei Tarkovsky</director>
