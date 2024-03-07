@@ -9,6 +9,47 @@
     <actor></actor>
   -->
   <play>
+    <date>2024-03-03</date>
+    <location>Petit Théâtre, Lausanne, Switzerland</location>
+    <name>Track Attack</name>
+    <author>Simon Aeschimann, Céline Frey &amp; Alain Frey</author>
+    <director>Madeleine Piguet Raykov</director>
+    <actor>Simon Aeschimann</actor>
+    <actor>Céline Frey</actor>
+    <actor>Stéphane Rentznik</actor>
+    <rating>4.75</rating>
+    <comments>Une pièce très sympa et déjantée, vue avec mon fils.</comments>
+    <image>Track Attack.jpg</image>
+    <!--
+	Création
+	Elvett & Simon Aeschimann
+
+	Texte original
+	Nicolas Frey
+
+	Idée, réalisation et composition
+	Simon Aeschimann, Céline Frey et Alain Frey
+
+	Voix off
+	Jean-Luc Wey
+
+	Création lumière et scénographie
+	Benjamin Deferne
+
+	Collaboration artistique et technique
+	Félix Bergeron
+
+	Costumes et perruques
+	Anne-Laure Futin
+
+	Coiffures
+	Emmanuelle Olivet Pellegrin
+
+	Régie
+	Benjamin Deferne
+    -->
+  </play>
+  <play>
     <date>2024-01-20</date>
     <location>Théâtre Barnabé, Servion, Switzerland</location>
     <name>Viva Vegas</name>
