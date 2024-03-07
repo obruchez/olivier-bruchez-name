@@ -8203,7 +8203,18 @@
     <url>https://www.imdb.com/title/tt0319061/</url>
   </movie>
   <movie>
+    <date>2004-03-07</date>
+    <theater home="true"/>
+    <director>Tom Shadyac</director>
+    <title>Bruce Almighty</title>
+    <title language="fr">Bruce Tout-Puissant</title>
+    <version>fr</version>
+    <url>https://www.imdb.com/title/tt0315327/</url>
+    <image>Bruce Almighty.jpg</image>
+  </movie>
+  <movie>
     <date>2004-03-06</date>
+    <theater>Casino, Martigny</theater>
     <title>Polly Et Moi</title>
     <version>fr</version>
   </movie>
@@ -8377,8 +8388,12 @@
   </movie>
   <movie>
     <date>2003-07-24</date>
-    <title>Bruce Tout-Puissant</title>
+    <director>Tom Shadyac</director>
+    <title>Bruce Almighty</title>
+    <title language="fr">Bruce Tout-Puissant</title>
     <version>fr</version>
+    <url>https://www.imdb.com/title/tt0315327/</url>
+    <image>Bruce Almighty.jpg</image>
   </movie>
   <movie>
     <date>2003-05-20</date>
