@@ -3,6 +3,29 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Add rating to IMDb -->
   <movie>
+    <date>2024-03-09</date>
+    <theater home="true"/>
+    <director>Pete Docter &amp; Ronaldo Del Carmen</director>
+    <title>Inside Out</title>
+    <title language="fr">Vice Versa</title>
+    <version>fr</version>
+    <url>https://www.imdb.com/title/tt2096673/</url>
+    <rating>5.0</rating>
+    <comments>Watched with our son. A clever, funny, and touching movie.</comments>
+    <image>Inside Out.jpg</image>
+  </movie>
+  <movie>
+    <date>2024-03-08</date>
+    <theater home="true"/>
+    <director>Andrei Tarkovsky</director>
+    <title>Solyaris</title>
+    <titlel anguage="en">Solaris</title>
+    <url>https://www.imdb.com/title/tt0069293/</url>
+    <rating>5.0</rating>
+    <comments>My second Tarkovsky movie, after <i>Stalker</i>. This is a slow, intriguing movie. I'd probably need to watch it a second time to be a little less puzzled.</comments>
+    <image>Solaris.jpg</image>
+  </movie>
+  <movie>
     <date>2024-03-04</date>
     <theater home="true"/>
     <director>Joel Coen &amp; Ethan Coen</director>
@@ -37,6 +60,8 @@
     <theater home="true"/>
     <director>Clyde Geronimi, Wilfred JacksonHamilton Luske</director>
     <title>Alice in Wonderland</title>
+	<title language="fr">Alice au pays des merveilles</title>
+    <version>fr</version>
     <url>https://www.imdb.com/title/tt0043274/</url>
     <rating>4.5</rating>
     <comments>I read the book in December 2023. We watched the movie with our 5-year-old son. Visually, the film is good, but I'm just not a fan of the story. Many elements are absurd, but maybe not absurd or mysterious enough. Nothing's really funny either. And at the end, "it's just all a dream", so nothing really matters, right?</comments>
