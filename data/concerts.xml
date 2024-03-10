@@ -2925,6 +2925,15 @@
     <comments></comments>
   </concert>
   <concert>
+    <date>2004-03-11</date>
+    <location>Studio 15, Radio Suisse Romande, Lausanne, Switzerland</location>
+    <event>JazzZ</event>
+    <musician inst="piano" main="true">Moncef Genoud</musician>
+    <musician inst="bass">Fréddéric Folmer</musician>
+    <musician inst="drums, percussions">Thiery Hochstätter</musician>
+    <musician inst="saxophone">Yvan Ischer</musician>
+  </concert>
+  <concert>
     <date>2004-02-03</date>
     <location>Studio 15, Radio Suisse Romande, Lausanne, Switzerland</location>
     <event>JazzZ</event>
