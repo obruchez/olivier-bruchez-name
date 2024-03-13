@@ -3,6 +3,16 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Add rating to IMDb -->
   <movie>
+    <date>2024-03-11</date>
+    <theater home="true"/>
+    <director>Richard Kelly</director>
+    <title>Donnie Darko</title>
+    <url>https://www.imdb.com/title/tt0246578/</url>
+    <rating>4.75</rating>
+    <comments>What a weird movie. I had not heard about it until 2024. Is it a movie about mental illness? A science fiction movie? A movie about paranormal events? It's all of those and it also has a "teen movie" vibe, which, in my book, is not a good thing.</comments>
+    <image>Donnie Darko.jpg</image>
+  </movie>
+  <movie>
     <date>2024-03-09</date>
     <theater home="true"/>
     <director>Pete Docter &amp; Ronaldo Del Carmen</director>
