@@ -3,6 +3,46 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Add rating to IMDb -->
   <movie>
+    <date>2024-03-27</date>
+    <theater home="true"/>
+    <director>Christopher Nolan</director>
+    <title>Interstellar</title>
+    <url>https://www.imdb.com/title/tt0816692/</url>
+    <rating>5.0</rating>
+    <comments>Ten years later, I didn't remember much from the beginning of the movie. I didn't particularly like this idea that we can communicate between the future and the past (or that all times are simultaneously "accessible", like another physical dimension), because, well, it doesn't make any sense, but I liked all the ideas about black holes, wormholes, intergalactic travel, other planets, etc. This is a strangely paradoxical take on the future of humanity, where we have the technology to visit other galaxies and planets, and, at the same time, we don't have the technology to fix things on Earth (geoengineering, etc.). This is another thing that doesn't make sense to me, but, all in all, this is an excellent movie.</comments>
+    <image>Interstellar.jpg</image>
+  </movie>
+  <movie>
+    <date>2024-03-23</date>
+    <theater home="true"/>
+    <director>Alfonso Cuarón</director>
+    <title>Gravity</title>
+    <url>https://www.imdb.com/title/tt1454468/</url>
+    <rating>5.0</rating>
+    <comments>I maybe like this movie more than I should. I'm not sure why exactly. First of all, it's a beautiful movie. In 2013, we saw it in 3D (when it was still a thing - is it still a thing?). It's more a movie about loss, acceptance, loneliness, and survival than a movie about space and technology. This is maybe why I like it. I don't particularly like "real science fiction". It usually bores me.</comments>
+    <image>Gravity.jpg</image>
+  </movie>
+  <movie>
+    <date>2024-03-21</date>
+    <theater home="true"/>
+    <director>Agnès Varda</director>
+    <title>Cléo de 5 à 7</title>
+    <url>https://www.imdb.com/title/tt0055852/</url>
+    <rating>8.0</rating>
+    <comments>Le quatrième long métrage d'Agnès Varda que je regarde. J'ai aussi vu cinq de ses courts métrages. J'aime beaucoup sa sensibilité, très touchante. J'aime cette idée de suivre un personnage "en temps réel" durant la durée du film. C'est un exercice de style et à la fois très naturel. L'intervention de Michel Legrand, jouant un rôle de musicien, est amusante. Enfin, les scènes finales, la rencontre avec Antoine, ne sont pas sans rappeler <i>Before Sunset</i> : une rencontre simple, entre deux personnes, qui parlent de tout et se promènent dans une ville. Je peux facilement imaginer que Richard Linklater a été influencé par Agnès Varda.</comments>
+    <image>Cléo de 5 à 7.jpg</image>
+  </movie>
+  <movie>
+    <date>2024-03-17</date>
+    <theater home="true"/>
+    <director>Todd Field</director>
+    <title>Tár</title>
+    <url>https://www.imdb.com/title/tt14444726/</url>
+    <rating>5.0</rating>
+    <comments>I watched this movie after seing that Tamler and Dave from Very Bad Wizards dedicated an entire episode to it. So I watched it and then listened to the episode. Without much surprise, I missed a lot of things. It gave me a new perspective on the movie, which I should probably watch again. What's real? What's imagined/remembered? The movie has way more depth than I originally thought.</comments>
+    <image>Tár.jpg</image>
+  </movie>
+  <movie>
     <date>2024-03-11</date>
     <theater home="true"/>
     <director>Richard Kelly</director>
@@ -3941,7 +3981,7 @@
     <rating>4.5</rating>
     <image>Astérix - Le domaine des dieux.jpg</image>
   </movie>
-   <movie>
+  <movie>
     <date>2014-11-16</date>
     <theater>Cinétoile Malley Lumières, Lausanne-Prilly</theater>
     <director>Christopher Nolan</director>
