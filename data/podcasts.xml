@@ -2,6 +2,30 @@
 <podcasts created="2016-05-10">
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date>2024-03-30</date>
+    <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
+    <episode url="https://www.samharris.org/podcasts/making-sense-episodes/359-getting-used-to-it" number="259">Getting Used to It - A Conversation with Cass R. Sunstein</episode>
+    <comments>I liked the part about midlife crisis as an habituation problem. You have everything you wanted to have, but it's feeling all normal now. You want more. Hence the crisis.</comments>
+  </podcast>
+  <podcast>
+    <date>2024-03-27</date>
+    <name url="https://podcast.ausha.co/violet">Violet - Le Podcast sur Prince et le Minneapolis Sound</name>
+    <episode url="https://podcast.ausha.co/violet/bonus-8-alfred-bernardin-du-grand-palais-au-new-morning">Bonus #8 : Alfred Bernardin - du Grand Palais au New Morning</episode>
+    <comments>L'expérience complètement folle d'Alfred Bernardin en tant que tourneur/manager de Prince entre 2009 et 2010. La perspective d'une personne qui n'était pas un fan et qui considérait sa relation avec Prince purement à travers le prisme professionnel, mais qui a tout de même découvert la facette complètement folle/géniale de Prince et en même temps son côté très humain. Un témoignage fascinant.</comments>
+  </podcast>
+  <podcast>
+    <date>2024-03-24</date>
+    <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
+    <episode url="https://www.samharris.org/podcasts/making-sense-episodes/321-reckoning-with-parfit" number="321">Reckoning with Parfit - A Conversation with David Edmonds</episode>
+    <comments>I bought <i>Reasons and Persons</i> many years ago (I think), but never took the time to read it. It's an intimidating book. Some thought experiments mentioned in the episode seem very useful, especially about population ethics. For example, the idea that you can judge the happiness of a group of people by just computing the average happiness doesn't work, and you can convince yourself that this is the case by considering some edge cases. I should read <i>Reasons and Persons</i> someday.</comments>
+  </podcast>
+  <podcast>
+    <date>2024-03-19</date>
+    <name url="http://verybadwizards.com/">Very Bad Wizards</name>
+    <episode url="https://verybadwizards.fireside.fm/259" number="259">Losing Time ("Tár"" with Paul Bloom)</episode>
+    <comments>Another very "useful" discussion that gave me a new perspective on a movie I had just watched. I missed many things, like the scene with the students, which is actually a continuous sequence. The parallel with <i>Stalker</i> during the underground scene with the dog, also, is an intriguing idea.</comments>
+  </podcast>
+  <podcast>
     <date>2024-03-13</date>
     <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
     <episode url="https://www.samharris.org/podcasts/making-sense-episodes/358-the-war-in-ukraine" number="358">The War in Ukraine - A Conversation with Yaroslav Trofimov</episode>
