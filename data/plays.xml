@@ -9,6 +9,25 @@
     <actor></actor>
   -->
   <play>
+    <date>2024-03-22</date>
+    <location>Pulloff Théâtres, Lausanne, Switzerland</location>
+    <name>Zürich - Petrograd</name>
+    <author>Matthieu Béguelin</author>
+    <director>Matthieu Béguelin</director>
+    <actor>Laurent Lecoultre</actor>
+    <actor>Valérie Liengme</actor>
+    <actor>Alexandra Marcos</actor>
+    <actor>Raphaël Tschudi</actor>
+    <rating>4.25</rating>
+    <comments>Pas une mauvaise pièce, mais un peu trop "linéaire" et factuel (?) à mon goût.</comments>
+    <image>Zürich - Petrograd.png</image>
+    <!--
+	costumes : Hervé Broillet
+	décors : Yvan Schlatter
+	vidéo : Jacques Matthey
+    -->
+  </play>
+  <play>
     <date>2024-03-03</date>
     <location>Petit Théâtre, Lausanne, Switzerland</location>
     <name>Track Attack</name>
