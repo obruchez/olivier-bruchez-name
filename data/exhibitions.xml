@@ -3,6 +3,15 @@
 <exhibitions created="2011-05-17">
     <introduction>A list of exhibitions I visited.</introduction>
     <exhibition>
+        <date>2024-03-29</date>
+        <name>Anker et l'enfance</name>
+        <museum>Fondation Pierre Gianadda, Martigny, Switzerland</museum>
+        <rating>4.75</rating>
+        <comments>The first exhibition at Fondation Pierre Gianadda since Léonard Gianadda died (is it the last one he organized himself?). I had not seen the previous Anker exhibition. I really liked this one.</comments>
+        <image>Anker et l'enfance.jpg</image>
+        <!-- <pictures url=""/> -->
+    </exhibition>
+    <exhibition>
         <date>2024-03-09</date>
         <name>Nicolas de Staël</name>
         <museum>Fondation de l’Hermitage, Lausanne, Switzerland</museum>
