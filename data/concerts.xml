@@ -7,6 +7,30 @@
   -->
   <introduction>A list of concerts I went to.</introduction>
   <concert>
+    <date>2024-04-06</date>
+    <location>Chapiteau, Cully, Switzerland</location>
+    <event>Cully Jazz Festival</event>
+    <group>Portico Quartet</group>
+    <musician inst="drums">Duncan Bellamy</musician>
+    <musician inst="soprano saxophone, tenor saxophone, electronics">Jack Wyllie</musician>
+    <musician inst="double bass, bass">Milo Fitzpatrick</musician>
+    <musician inst="keyboards">Taz Modi</musician>
+    <rating>3.75</rating>
+    <comments>The drummer was pretty good. The other musicians left me cold and the music was quite repetitive.</comments>
+  </concert>
+  <concert>
+    <date>2024-04-06</date>
+    <location>Chapiteau, Cully, Switzerland</location>
+    <event>Cully Jazz Festival</event>
+    <group>Avishai Cohen Quartet</group>
+    <musician inst="trumpet" main="yes">Avishai Cohen</musician>
+    <musician inst="double bass">Barak Mori</musician>
+    <musician inst="piano">Yonathan Avishai</musician>
+    <musician inst="drums">Ziv Ravitz</musician>
+    <rating>4.75</rating>
+    <comments>My first Avishai Cohen (trumpet) concert. I had already seen Ziv Ravitz three times with Yaron Herman. Their interpretation of Maurice Ravel's Concerto For Piano And Orchestra In G (2nd Movement) was beautiful.</comments>
+  </concert>
+  <concert>
     <date>2024-02-04</date>
     <location>Opéra de Lausanne, Lausanne, Switzerland</location>
     <event><i>Così fan tutte</i> opera</event>
