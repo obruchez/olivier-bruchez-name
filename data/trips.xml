@@ -697,6 +697,7 @@
     <place>Ticino, Switzerland</place>
     <!-- Scans photos papa -->
     <!-- <pictures url=""/> -->
+    <comments>Riazzino, Bellinzona, etc.</comments>
   </trip>
   <trip>
     <from>1995-??-??</from>
@@ -725,6 +726,7 @@
     <place>Ticino, Switzerland</place>
     <!-- Scans photos papa -->
     <!-- <pictures url=""/> -->
+    <comments>Riazzino, etc.</comments>
   </trip>
   <!-- Paris/Bretagne, Belgique/Luxembourg, Nord de l'Italie (1994), Tessin (plusieurs fois), Tour de Suisse, Portugal (1995-6 ?),  etc. -->
 </trips>
