@@ -7,6 +7,14 @@
   -->
   <introduction>A list of concerts I went to.</introduction>
   <concert>
+    <date>2024-04-09</date>
+    <location>Temple, Cully, Switzerland</location>
+    <event>Cully Jazz Festival</event>
+    <musician inst="piano" main="true">Yaron Herman</musician>
+    <rating>5.0</rating>
+    <comments>My 12<sup>th</sup> Yaron Herman concert and the 3<sup>rd</sup> one at the Temple in Cully. Fantastic concert. We were right behind Yaron (2 meters away?), so were able to see his hands "fly" on the keyboard. Impressive.</comments>
+  </concert>
+  <concert>
     <date>2024-04-06</date>
     <location>Chapiteau, Cully, Switzerland</location>
     <event>Cully Jazz Festival</event>
