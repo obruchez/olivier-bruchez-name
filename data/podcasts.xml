@@ -2,9 +2,15 @@
 <podcasts created="2016-05-10">
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date>2024-04-11</date>
+    <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
+    <episode url="https://www.samharris.org/podcasts/making-sense-episodes/360-we-really-dont-have-free-will" number="360">We Really Don’t Have Free Will? - A Conversation with Robert M. Sapolsky</episode>
+    <comments>I probably haven't heard a single thing that I found controversial or unintuitive, so I'm not sure it was a very "useful" episode to listen to and, at the same time, it's quite mysterious to me why some people still insist on saying some version of free will exists and/or is useful. I kind of understand why, but I still think it's a desperately corrupted/obsolete concept, like "god" or "soul".</comments>
+  </podcast>
+  <podcast>
     <date>2024-03-30</date>
     <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
-    <episode url="https://www.samharris.org/podcasts/making-sense-episodes/359-getting-used-to-it" number="259">Getting Used to It - A Conversation with Cass R. Sunstein</episode>
+    <episode url="https://www.samharris.org/podcasts/making-sense-episodes/359-getting-used-to-it" number="359">Getting Used to It - A Conversation with Cass R. Sunstein</episode>
     <comments>I liked the part about midlife crisis as an habituation problem. You have everything you wanted to have, but it's feeling all normal now. You want more. Hence the crisis.</comments>
   </podcast>
   <podcast>
