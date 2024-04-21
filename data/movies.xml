@@ -2,6 +2,36 @@
 <movies created="2000-03-05">
   <introduction>A list of movies I saw.</introduction>
   <!-- Add rating to IMDb -->
+  <movie>
+    <date>2024-04-21</date>
+    <theater home="true"/>
+    <director>Hal Ashby</director>
+    <title>Being There</title>
+    <url>https://www.imdb.com/title/tt0078841/</url>
+    <rating>4.0</rating>
+    <comments>I know that this is a comedy, a sort of critique of the political world, among other things, and that you're supposed to suspend disbelief, but it simply didn't work for me. It could be an excellent short movie, I guess, but here the joke goes on for too long.</comments>
+    <image>Being There.jpg</image>
+  </movie>
+  <movie>
+    <date>2024-04-18</date>
+    <theater home="true"/>
+    <director>Denis Villeneuve</director>
+    <title>Dune: Part Two</title>
+    <url>https://www.imdb.com/title/tt15239678/</url>
+    <rating>4.75</rating>
+    <comments>An impressive movie, again. Denis Villeneuve is a fantastic director. I just find the Dune universe a bit boring. I hope he won't touch it again after his (rumored?) adaptation of <i>Dune Messiah</i>.</comments>
+    <image>Dune - Part Two.jpg</image>
+  </movie>
+  <movie>
+    <date>2024-04-14</date>
+    <theater home="true"/>
+    <director>Krzysztof Kieslowski</director>
+    <title>Trois couleurs : Blanc</title>
+    <url>https://www.imdb.com/title/tt0111507/</url>
+    <rating>4.25</rating>
+    <comments>Again, I didn't care for any of the characters. It's definitely a comedy, at times, but not openly funny and rather dark.</comments>
+    <image>Trois couleurs - Blanc.jpg</image>
+  </movie>
    <movie>
     <date>2024-04-01</date>
     <theater home="true"/>
@@ -1362,7 +1392,7 @@
     <date>2021-08-22</date>
     <theater home="true"/>
     <director>Krzysztof Kieslowski</director>
-    <title>Trois couleurs: Bleu</title>
+    <title>Trois couleurs : Bleu</title>
     <url>https://www.imdb.com/title/tt0108394/</url>
     <rating>4.75</rating>
     <comments>The first movie of the <i>Trois couleurs</i> trilogy. It failed to catch my full attention. I don't know why exactly. Maybe because I didn't care at all for the main character.</comments>
