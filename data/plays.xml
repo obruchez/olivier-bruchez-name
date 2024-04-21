@@ -9,6 +9,44 @@
     <actor></actor>
   -->
   <play>
+    <date>2024-04-20</date>
+    <location>Salle 96, René Gonzalez, Théâtre de Vidy, Lausanne, Switzerland</location>
+    <name>Sacs à Murmures</name>
+    <author>Yasmine Hugonnet</author>
+    <director>Yasmine Hugonnet</director>
+    <actor>Jenna Hendry</actor>
+    <actor>Simon Ramseier</actor>
+    <actor>Nina Richard</actor>
+    <rating>4.5</rating>
+    <comments>Une "pièce" (danse, musique, ventriloquie) bien dans l'esprit de Vidy, vue avec notre fils de presque 6 ans. Un bon moment, bien décalé, suivi d'un échange très ludique avec le public.</comments>
+    <image>Sacs à Murmures.jpg</image>
+    <!--
+	Collaboration artistique et composition musicale
+	Michael Nick
+
+	Conception scénographie et costumes
+	Nadia Lauro
+
+	Assistante
+	Anaïs Kauer
+
+	Direction technique
+	Sonya Trolliet
+
+	Création Lumières
+	Dominique Dardant
+
+	Réalisation costumes
+	Théâtre Vidy-Lausanne
+
+	Administration/production
+	Violaine DuPasquier
+
+	Diffusion/production
+	Jérôme Pique
+    -->
+  </play>
+  <play>
     <date>2024-03-22</date>
     <location>Pulloff Théâtres, Lausanne, Switzerland</location>
     <name>Zürich - Petrograd</name>
