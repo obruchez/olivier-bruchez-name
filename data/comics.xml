@@ -1586,6 +1586,15 @@
     <image>Le Retour à la Terre - Les Révolutions.jpg</image>
   </comic>
   <comic>
+    <date>2004-04-18</date>
+    <writer>Serge Le Tendre</writer>
+    <artist>Régis Loisel</artist>
+    <colorist>Yves Lencot</colorist>
+    <series url="https://fr.wikipedia.org/wiki/La_Qu%C3%AAte_de_l%27oiseau_du_temps">La Quête de l'oiseau du temps</series>
+    <volume url="https://fr.wikipedia.org/wiki/La_Conque_de_Ramor" number="1">La Conque de Ramor</volume>
+    <image>La Quête de l'oiseau du temps - La Conque de Ramor.jpg</image>
+  </comic>
+  <comic>
     <date>2004-01-25</date>
     <writer>Benoît Peeters</writer>
     <artist>François Schuiten</artist>
