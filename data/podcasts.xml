@@ -2,6 +2,18 @@
 <podcasts created="2016-05-10">
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date>2024-04-24</date>
+    <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
+    <episode url="https://www.samharris.org/podcasts/making-sense-episodes/363-knowledge-work" number="363">Knowledge Work - A Conversation with Cal Newport</episode>
+    <comments>A shorter discussion with Cal. I was surprised to hear him dismiss this idea that AI/machine learning will mean everything will be done by machine at some point (i.e. he doesn't believe in the idea of technological singularity, I guess).</comments>
+  </podcast>
+  <podcast>
+    <date>20234-04-23</date>
+    <name url="https://hubermanlab.com/">Huberman Lab</name>
+    <episode url="https://www.hubermanlab.com/episode/dr-cal-newport-how-to-enhance-focus-and-improve-productivity">Dr. Cal Newport: How to Enhance Focus and Improve Productivity</episode>
+    <comments>Flow is nice, but we shouldn't always aim towards flow. Training/practicing is not the same as flow and can be "painful". But it's necessary. Internet/smartphone for children: wait as much as possible (ideally 16 for smartphones). I should put my smartphone in another room as often as possible when working. I used to use browser extensions to prevent me from going to certain sites (social media, etc.). Maybe I should use them again. Andrew and Cal don't like to have discussions via text messages. I guess they prefer "deep" discussions, which means actually talking to people. I'm the same. <a href="https://podcastnotes.org/uncategorized/dr-cal-newport-how-to-enhance-focus-improve-productivity-huberman-lab/">Episode notes</a>.</comments>
+  </podcast>
+  <podcast>
     <date>2024-04-11</date>
     <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
     <episode url="https://www.samharris.org/podcasts/making-sense-episodes/360-we-really-dont-have-free-will" number="360">We Really Don’t Have Free Will? - A Conversation with Robert M. Sapolsky</episode>
