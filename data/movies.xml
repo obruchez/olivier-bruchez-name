@@ -3,6 +3,16 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Add rating to IMDb -->
   <movie>
+    <date>2024-04-25</date>
+    <theater home="true"/>
+    <director>Terry Gilliam</director>
+    <title>Brazil</title>
+    <url>https://www.imdb.com/title/tt0088846/</url>
+    <rating>4.75</rating>
+    <comments>My fifth Terry Gilliam movie. I liked the universe he created here. It's like a toy world, with pipes everywhere. It's very original, funny, sad, weird, and frightening at the same time. It's chaotic and poetic.</comments>
+    <image>Brazil.jpg</image>
+  </movie>
+  <movie>
     <date>2024-04-21</date>
     <theater home="true"/>
     <director>Hal Ashby</director>
