@@ -1420,6 +1420,12 @@
     <image>Prison Break.jpg</image>
   </show>
   <show>
+    <date>2004-05-08</date>
+    <name url="https://en.wikipedia.org/wiki/Friends">Friends</name>
+    <series url="https://en.wikipedia.org/wiki/Friends_(season_10)" type="season">10</series>
+    <image>Friends.jpg</image>
+  </show>
+  <show>
     <date>2003-06-12</date>
     <name url="https://en.wikipedia.org/wiki/Friends">Friends</name>
     <series url="https://en.wikipedia.org/wiki/Friends_(season_9)" type="season">9</series>
