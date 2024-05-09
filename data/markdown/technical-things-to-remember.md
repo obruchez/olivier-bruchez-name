@@ -27,7 +27,7 @@
 
 ## Archive an arbitrary Web site
 
-* wget -r -k -p <url>
+* wget -mpEk <url> (see [Ask Ubuntu](https://askubuntu.com/questions/391622/download-a-whole-website-with-wget-or-other-including-all-its-downloadable-con))
 * see other arguments here: [http://www.gnu.org/software/wget/manual/wget.html](https://www.gnu.org/software/wget/manual/wget.html)
 
 ## Batch convert images
