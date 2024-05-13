@@ -3,6 +3,39 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Add rating to IMDb -->
   <movie>
+    <date>2024-05-10</date>
+    <theater home="true"/>
+    <director>Andrew Stanton</director>
+    <title>WALL·E</title>
+    <url>https://www.imdb.com/title/tt0910970/</url>
+    <rating>4.75</rating>
+    <comments>I saw <i>WALL·E</i> 16 years ago, when it came out. My son loved it.</comments>
+    <image>WALL·E.jpg</image>
+  </movie>
+  <movie>
+    <date>2024-05-05</date>
+    <theater home="true"/>
+    <director>Ruben Östlund</director>
+    <title>Triangle of Sadness</title>
+    <url>https://www.imdb.com/title/tt7322224/</url>
+    <rating>3.5</rating>
+    <comments>I usually like slow movies. Not this time. The end (the part on the island) was pretty good, but the rest was a bit boring. And the captain's dinner scene was awful, of course. I understand what the director tried to do there, but he failed, I think. </comments>
+    <image>Triangle of Sadness.jpg</image>
+  </movie>
+  <movie>
+    <date>2024-05-04</date>
+    <theater home="true"/>
+    <director>Hayao Miyazaki</director>
+    <title>Mon voisin Totoro</title>
+    <title language="ja">Tonari no Totoro</title>
+    <title language="en">My Neighbor Totoro</title>
+    <version>fr</version>
+    <url>https://www.imdb.com/title/tt0096283/</url>
+    <rating>5.0</rating>
+    <comments>My son insisted to watch <i>My Neighbor Totoro</i> again, so I watched it with him, this time. This was the first time I saw it in 14 years. I think I liked it slighty more that the first time.</comments>
+    <image>My Neighbour Totoro.jpg</image>
+  </movie>
+  <movie>
     <date>2024-04-25</date>
     <theater home="true"/>
     <director>Terry Gilliam</director>
