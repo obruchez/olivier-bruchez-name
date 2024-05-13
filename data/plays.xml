@@ -9,6 +9,54 @@
     <actor></actor>
   -->
   <play>
+    <date>2024-05-05</date>
+    <location>Petit Théâtre, Lausanne, Switzerland</location>
+    <name>Les Voyages de Gulliver</name>
+    <author>Yvan Richardet</author>
+    <director>Thierry Crozat</director>
+    <actor>Donatienne Amann</actor>
+    <actor>Laurent Annoni</actor>
+    <actor>Chantal Bianchi</actor>
+    <actor>Lorin Kopp</actor>
+    <actor>Verena Lopes</actor>
+    <actor>Yvan Richardet</actor>
+    <rating>5.0</rating>
+    <comments>Encore un excellent spectacle, autant pours les enfants que pour les parents, au Petit Théâtre de Lausanne. La vidéo (en direct ou non) était bien intégrée au reste du spectacle, de manière inventive.</comments>
+    <image>Les Voyages de Gulliver.jpg</image>
+    <!--
+	Musique
+	Joséphine Maillefer
+
+	Dramaturgie
+	Lefki Papachrysostomou
+
+	Scénographie et accessoires
+	Alain-Serge Porta
+
+	Construction scénographie
+	Cédric Rauber et Christophe Reichel
+
+	Consultant vidéo
+	Miguel Sousa
+
+	Costumes
+	Fanny Buchs
+
+	Lumières
+	Armand Pochon
+
+	Technique
+	Line Adam et Emile Schaer
+
+	Montage et transport
+	Laurent Annoni, Donatien Thiévent et EVAM
+
+	Régie
+	Donatien Pivetaud et Armand Pochon
+    -->
+  </play>
+
+  <play>
     <date>2024-04-20</date>
     <location>Salle 96, René Gonzalez, Théâtre de Vidy, Lausanne, Switzerland</location>
     <name>Sacs à Murmures</name>
