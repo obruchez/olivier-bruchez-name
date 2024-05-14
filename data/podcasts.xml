@@ -2,6 +2,24 @@
 <podcasts created="2016-05-10">
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date>2024-05-07</date>
+    <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
+    <episode url="https://www.samharris.org/podcasts/making-sense-episodes/365-reality-check" number="365">Reality Check - A Conversation with David Wallace-Wells</episode>
+    <comments>Sam talked about Daniel Dennett. Very nice. Sam and David seem to both have a hard time realizing that capitalism/libertarianism <i>can</i> lead to large inequalities, which, ultimately, is a bad thing. Ironically, they both sounded out of touch with reality, at times.</comments>
+  </podcast>
+  <podcast>
+    <date>2024-05-03</date>
+    <name url="https://www.youtube.com/@thejoecohenshow">The Joe Cohen Show</name>
+    <episode url="https://thejoecohenshow.com/podcast/is-niacin-killing-you-breaking-down-the-new-niacin-study/">Is Niacin Killing You?: Breaking Down The New Niacin Study</episode>
+    <comments>Niacin has some negative consequences, like almost all substances, but, overall, it doesn't affect lifespan. The hope is that it has an effet on healthspan.</comments>
+  </podcast>
+  <podcast>
+    <date>2024-05-03</date>
+    <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
+    <episode url="https://www.samharris.org/podcasts/making-sense-episodes/364-facts-values" number="364">Facts &amp; Values - Clarifying the Moral Landscape</episode>
+    <comments>This was a good refresher on Sam's position. This was a monologue, so nobody could contradict Sam. On the other hand, I've always mostly agreed with him on the topic, so I still don't know why his position is so controversial.</comments>
+  </podcast>
+  <podcast>
     <date>2024-04-24</date>
     <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
     <episode url="https://www.samharris.org/podcasts/making-sense-episodes/363-knowledge-work" number="363">Knowledge Work - A Conversation with Cal Newport</episode>
@@ -598,7 +616,7 @@
   <podcast>
     <date>2023-01-17</date>
     <name url="https://www.youtube.com/@thejoecohenshow">The Joe Cohen Show</name>
-    <episode url="https://www.youtube.com/watch?v=rG7eKkNiFkc" number="7">Tim Gray: Sleep, Psychedelics &amp; Methylene Blue</episode>
+    <episode url="https://thejoecohenshow.com/podcast/tim-gray-sleep-psychedelics-methylene-blue-episode-07/" number="7">Tim Gray: Sleep, Psychedelics &amp; Methylene Blue</episode>
     <comments>Tim currently takes progesterone. This is quite surprizing, for a man. Tim seems to like piracetam. <a href="https://www.gwern.net/Nootropics#piracetam">Gwern</a> likes it as well. He also likes mescaline and thinks it's less anxiety-inducing than LSD/psylocybine.</comments>
   </podcast>
   <podcast>
