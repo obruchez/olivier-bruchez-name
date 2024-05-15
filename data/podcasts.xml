@@ -2,6 +2,14 @@
 <podcasts created="2016-05-10">
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date>2024-05-14</date>
+    <name url="https://peterattiamd.com/podcast/">The Peter Attia Drive Podcast</name>
+    <episode url="https://peterattiamd.com/arthurbrooks/" number="226">The science of happiness | Arthur Brooks, Ph.D.</episode>
+    <comments>Brooks sounds like a motivational speaker, at times. As usual, relationships are very important. Your spouse should be your best friend. You should share values with her/him (i.e. share a philosophy of life). It's important to have close friends with whom you can share everything. It's more difficult for men to have real/close friends in their lives. Some interesting concepts: <a href="https://en.wikipedia.org/wiki/Exposure_therapy">exposure therapy</a>, reverse bucket lists (i.e. being grateful for the things you've already done). "Love is a cat, not a toaster" (complicated vs complex).
+    </comments>
+  </podcast>
+
+  <podcast>
     <date>2024-05-07</date>
     <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
     <episode url="https://www.samharris.org/podcasts/making-sense-episodes/365-reality-check" number="365">Reality Check - A Conversation with David Wallace-Wells</episode>
