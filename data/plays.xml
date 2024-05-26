@@ -3089,7 +3089,7 @@ Conception affiche :        Bram Dauw
   </play>
   <play>
     <date>2006-04-29</date>
-    <location>Concordia, Le Châble, Switzerland</location>
+    <location>La Concordia, Le Châble, Switzerland</location>
     <name>Même les cow-girls ont le blues</name>
     <author>Tom Robbins</author>
     <director>José-Antoine Marin</director>
@@ -3256,6 +3256,21 @@ Conception affiche :        Bram Dauw
     <name>Les Frères Bagnes</name>
     <author>Alexis Giroud</author>
     <director>Alexis Giroud</director>
+  </play>
+  <play>
+    <date>1994-04-08</date>
+    <location>La Concordia, Le Châble, Switzerland</location>
+    <name>Les Gitans</name>
+    <author>Alexis Giroud &amp; Fabien Gargiulo</author>
+    <director>Alexis Giroud &amp; Fabien Gargiulo</director>
+    <image>Les Gitans.jpg</image>
+    <!--
+	Les Gitans:
+	Giroud Alexis, Maret Sylvain, Di Martino Sarah, Baillifard Nathalie, Rebelo Elisabeth, Giroud Nicolas, Stettlet Laure, Giroud Olivier, Tarrago Diego, Allaman Samuel, Corthay Luc, Dos Santos Filipa, Greve Nancy, Perraudin Caroline, Berguerand Yves
+
+	La Cour:
+	Filliez Pierre, Sihamdi Vanessa, Vocat Jean, Maret Simon, Michellod Thomas, Masson Esther, Déliroz Vanessa, Baumeler Stéphanie, Oreiller Marie, Gay Sébastien, Michellod Yvan.
+    -->
   </play>
   <play>
     <date>1986-??-??</date>
