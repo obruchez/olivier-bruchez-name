@@ -9,6 +9,32 @@
     <actor></actor>
   -->
   <play>
+    <date>2024-05-26</date>
+    <location>Théâtre du Jorat, Mézières, Switzerland</location>
+    <name>20’000 Lieues sous les mers</name>
+    <author>Jules Verne</author>
+    <director>Christian Hecq &amp; Valérie Lesort</director>
+    <adaptation>Christian Hecq &amp; Valérie Lesort</adaptation>
+    <actor>Christian Hecq</actor>
+    <actor>Pauline Tricot</actor>
+    <actor>Laurent Natrella</actor>
+    <actor>Rodolphe Poulain</actor>
+    <actor>Eric Prat</actor>
+    <actor>Mikael Fau</actor>
+    <actor>Cécile Brune</actor>
+    <rating>5.0</rating>
+    <comments>Une superbe adaptation déjantée de cette oeuvre de Jules Vernes, dans un théâtre que nous découvrions avec ma femme et mon fils.</comments>
+    <image>20’000 Lieues sous les mers.jpg</image>
+    <!--
+	Scénographie et costumes Éric Ruf
+	Lumières Pascal Laajili
+	Conception sonore Dominique Bataille
+	Création des marionnettes Carole Allemand et Valérie Lesort
+	Assistanat à la scénographie Delphine Sainte-Marie
+	Assistanat aux costumes Siegrid Petit-Imbert
+    -->
+  </play>
+  <play>
     <date>2024-05-05</date>
     <location>Petit Théâtre, Lausanne, Switzerland</location>
     <name>Les Voyages de Gulliver</name>
@@ -55,7 +81,6 @@
 	Donatien Pivetaud et Armand Pochon
     -->
   </play>
-
   <play>
     <date>2024-04-20</date>
     <location>Salle 96, René Gonzalez, Théâtre de Vidy, Lausanne, Switzerland</location>
