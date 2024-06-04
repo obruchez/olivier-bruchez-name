@@ -2,6 +2,12 @@
 <podcasts created="2016-05-10">
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date>2024-06-04</date>
+    <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
+    <episode url="https://www.samharris.org/podcasts/making-sense-episodes/289-time-management-for-mortals" number="289">Time Management for Mortals - A Conversation with Oliver Burkeman</episode>
+    <comments>The second time I listen to this episode. I'll probably listen to it again in the future.</comments>
+  </podcast>
+  <podcast>
     <date>2024-05-31</date>
     <name url="https://podcast.ausha.co/violet">Violet - Le Podcast sur Prince et le Minneapolis Sound</name>
     <episode url="https://podcast.ausha.co/violet/bonus-8-alfred-bernardin-du-grand-palais-au-new-morning">La période 2011 - 2014 : Du Dakota à Montreux</episode>
