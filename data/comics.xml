@@ -1586,6 +1586,15 @@
     <image>Le Retour à la Terre - Les Révolutions.jpg</image>
   </comic>
   <comic>
+    <date>2004-06-05</date>
+    <writer>Jean Van Hamme</writer>
+    <artist>Grzegorz Rosiński</artist>
+    <colorist>Graza</colorist>
+    <series url="https://fr.wikipedia.org/wiki/Thorgal">Thorgal</series>
+    <volume url="https://fr.wikipedia.org/wiki/Le_Mal_bleu" number="25">Le Mal bleu</volume>
+    <image>Thorgal - Le Mal bleu.jpg</image>
+  </comic>
+  <comic>
     <date>2004-05-01</date>
     <writer>Serge Le Tendre</writer>
     <artist>Régis Loisel</artist>
