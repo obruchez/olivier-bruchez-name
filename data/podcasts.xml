@@ -2,6 +2,12 @@
 <podcasts created="2016-05-10">
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date>2024-06-11</date>
+    <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
+    <episode url="https://www.samharris.org/podcasts/making-sense-episodes/369-escaping-death" number="369">Escaping Death - A Conversation with Sebastian Junger</episode>
+    <comments>So it seems that Junger, who is an atheist and seems quite rational, has become a bit more open to the idea of "something else" (e.g. maybe an afterlife or another "dimension"). I understand that a Near Death Experience can do that to you, but there's no need to conclude that there is anything "outside of our (hallucinating) brain". In that sense, Sam's article, <a href="https://www.samharris.org/blog/science-on-the-brink-of-death">"Science on the Brink of Death"</a>, is still valid today.</comments>
+  </podcast>
+  <podcast>
     <date>2024-06-04</date>
     <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
     <episode url="https://www.samharris.org/podcasts/making-sense-episodes/289-time-management-for-mortals" number="289">Time Management for Mortals - A Conversation with Oliver Burkeman</episode>
