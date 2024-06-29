@@ -2,6 +2,24 @@
 <podcasts created="2016-05-10">
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date>2024-06-28</date>
+    <name url="https://www.foundmyfitness.com/episodes">FoundMyFitness</name>
+    <episode url="https://www.foundmyfitness.com/episodes/andrew-huberman" number="91">Andrew Huberman, PhD: How to Improve Motivation &amp; Focus By Leveraging Dopamine</episode>
+    <comments>Nothing really new. Dopamine, focus, motivation: be patient, it takes time (e.g. while reading a book, expect the first 10-15 minutes to be hard). Do not stack things that raise dopamine. Cold showers: even one minute is good. Use stimulants as little as possible. NSDR: I should really try it; 10 minutes is enough. HIIT is excellent (for dopamine). 5 minutes of sun light in the morning is really good (even if you have a bright artificial light available). Alcohol: maximum 3 drinks (i.e. 42 g of alcohol) per week; more is already problematic.</comments>
+  </podcast>
+  <podcast>
+    <date>2024-06-18</date>
+    <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
+    <episode url="https://www.samharris.org/podcasts/making-sense-episodes/371-what-the-hell-is-happening" number="371">What the Hell Is Happening? - A Conversation with Bill Maher</episode>
+    <comments>I still don't know what the hell is happening. And I'm still not a fan of Bill Maher.</comments>
+  </podcast>
+  <podcast>
+    <date>2024-06-17</date>
+    <name url="https://hubermanlab.com/">Huberman Lab</name>
+    <episode url="https://www.hubermanlab.com/episode/dr-jonathan-haidt-how-smartphones-social-media-impact-mental-health-the-realistic-solutions">Dr. Jonathan Haidt: How Smartphones &amp; Social Media Impact Mental Health &amp; the Realistic Solutions</episode>
+    <comments>The four rules: 1) no own smartphone before high school (i.e. 14); 2) no social media before 16; 3) phone-free schools; 4) far more independence, free play, responsibilities in the real world. Avoid screens when eating with other people (my own advice: note what you want to check on your smartphone or laptop on a piece of paper). Talk with other parents. Children should have at least one day each week with no obligation. Give your children ideas for what they can do.</comments>
+  </podcast>
+  <podcast>
     <date>2024-06-11</date>
     <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
     <episode url="https://www.samharris.org/podcasts/making-sense-episodes/369-escaping-death" number="369">Escaping Death - A Conversation with Sebastian Junger</episode>
