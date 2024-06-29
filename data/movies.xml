@@ -3,10 +3,22 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Add rating to IMDb -->
   <movie>
+    <date>2024-06-29</date>
+    <theater home="true"/>
+    <director>Clyde Geronimi, Wilfred Jackson &amp; Hamilton Luske</director>
+    <title>Peter Pan</title>
+    <version>fr</version>
+    <url>https://www.imdb.com/title/tt0046183/</url>
+    <rating>4.0</rating>
+    <comments>Another movie we watched with our son. This is a classic, but with some violence, sexism, and stereotypes.</comments>
+    <image>Peter Pan.jpg</image>
+  </movie>
+  <movie>
     <date>2024-05-10</date>
     <theater home="true"/>
     <director>Andrew Stanton</director>
     <title>WALL·E</title>
+    <version>fr</version>
     <url>https://www.imdb.com/title/tt0910970/</url>
     <rating>4.75</rating>
     <comments>I saw <i>WALL·E</i> 16 years ago, when it came out. My son loved it.</comments>
