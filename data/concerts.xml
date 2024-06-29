@@ -7,6 +7,17 @@
   -->
   <introduction>A list of concerts I went to.</introduction>
   <concert>
+    <date>2024-06-22</date>
+    <location>Théâtre de Beausobre, Morges, Switzerland</location>
+    <event>Diabolo Festival</event>
+    <group>Gaëtan</group>
+    <musician inst="ukulele, vocals">Gaëtan Cruchet</musician>
+    <musician inst="director">Arsène Liechti</musician>
+    <musician inst="orchestra">Orchestre de Chambre de Genève</musician>
+    <rating>4.25</rating>
+    <comments><i>Pierre et le loup</i> and original songs. My son's second Gaëtan concert.</comments>
+  </concert>
+  <concert>
     <date>2024-04-09</date>
     <location>Temple, Cully, Switzerland</location>
     <event>Cully Jazz Festival</event>
@@ -187,7 +198,6 @@
   <concert>
     <date>2022-04-03</date>
     <location>Grande salle, Chavornay, Switzerland</location>
-    <event></event>
     <group>Gaëtan</group>
     <musician inst="ukulele, vocals">Gaëtan Cruchet</musician>
     <musician inst="guitar">Fred Leclercq</musician>
