@@ -2,6 +2,12 @@
 <podcasts created="2016-05-10">
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date>2024-07-01</date>
+    <name url="https://absolutelymental.com/">Absolutely Mental</name>
+    <episode number="29">Why do we sleep?</episode>
+    <comments>"Ricky and Sam explore why we haven't developed a pill to substitute sleep, but can't seem to wrap their heads around why flies don't burn their feet on lightbulbs."</comments>
+  </podcast>
+  <podcast>
     <date>2024-06-28</date>
     <name url="https://www.foundmyfitness.com/episodes">FoundMyFitness</name>
     <episode url="https://www.foundmyfitness.com/episodes/andrew-huberman" number="91">Andrew Huberman, PhD: How to Improve Motivation &amp; Focus By Leveraging Dopamine</episode>
@@ -40,7 +46,7 @@
   <podcast>
     <date>2024-05-31</date>
     <name url="https://www.lemonde.fr/lheure-du-monde/">L'Heure du Monde</name>
-    <episode url="https://podcasts.lemonde.fr/lheure-du-monde/202405290200-crise-climatique-faut-il-retirer-du-co2-de-latmosphere">Crise climatique : faut-il retirer du CO2 de l’atmosphère ?</episode>
+    <episode url="https://podcasts.lemonde.fr/lheure-du-monde/202405290200-crise-climatique-faut-il-retirer-du-co2-de-latmosphere">Crise climatique : faut-il retirer du CO2 de l'atmosphère ?</episode>
     <comments><p>Je débats régulièrement avec des amis concernant ces "aspirateurs géants à CO2". Ils pensent que c'est une fausse bonne idée. Je pense que c'est une voie à explorer absolument, que ces appareils seront beaucoup plus efficaces dans 10, 20 ou 50 ans. Quelques notes : "Joli résumé de la problématique. Pas technophobe, ça correspond bien à ma sensibilité. La synthèse (arguments pour/contre) après 15 minutes correspond assez bien à mes idées. Je pourrais presque signer sous tout ce qui a été dit.</p><p>Si je devais confronter mon point de vue, qui tend sérieusement et sans ironie à être du côté "la technologie nous sauvera", aux arguments contre exposés dans le podcast, je dirais que je comprends bien la problématique. Investir de l'argent dans des "aspirateurs géants à CO2", ça divertit des ressources qui pourraient aller ailleurs. Ca donne aussi des (mauvais) arguments à ceux qui veulent continuer à émettre du CO2 comme si de rien n'était. Pour moi, il faut néanmoins investiguer toutes les pistes. Il faut évidemment et surtout arrêter d'émettre du CO2. Mais ça me semble être une évidence. Mettre des panneaux solaires partout. Arrêter de bouffer de la viande. Changer les mentalités autour de la croissance infinie et l'hyper-consumérisme. Etc, etc.</p><p>Le fait de dire que les "aspirateurs à CO2" c'est une mauvaise solution parce que ça extrait peu de CO2 en ayant besoin de beaucoup d'énergie me laisse assez froid. Les ordinateurs, dans les années 50, remplissaient des pièces entières et étaient moins puissants qu'une calculette. Je pense aussi au machine learning et à la façon dont les gens réagissaient à mes "radotages" sur la singularité technologique il y a 20 ans. On ne saura pas si des technologies 100 fois, 1000 fois ou 1 million de fois plus efficaces sont possibles sans financer la recherche dans ce domaine.</p><p>A nouveau, je comprends que ça entre en conflit avec toutes les autres solutions réelles ou potentielles, mais on est finalement presque tous et tout le temps en train de travailler sur des problèmes qui ne sont pas urgents ou prioritaires. L'argent que j'ai donné ce matin à ma coiffeuse n'est pas allé à une cause plus urgente. Donc je ne comprends pas non plus complètement cet argument.</p><p>Le problème principal reste que le fait de savoir que de la recherche est faite dans ce domaine peut entraîner une absence de motivation à faire autre chose. Je ne sais pas comment résoudre ce problème."</p></comments>
   </podcast>
   <podcast>
@@ -89,7 +95,7 @@
   <podcast>
     <date>2024-04-11</date>
     <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
-    <episode url="https://www.samharris.org/podcasts/making-sense-episodes/360-we-really-dont-have-free-will" number="360">We Really Don’t Have Free Will? - A Conversation with Robert M. Sapolsky</episode>
+    <episode url="https://www.samharris.org/podcasts/making-sense-episodes/360-we-really-dont-have-free-will" number="360">We Really Don't Have Free Will? - A Conversation with Robert M. Sapolsky</episode>
     <comments>I probably haven't heard a single thing that I found controversial or unintuitive, so I'm not sure it was a very "useful" episode to listen to and, at the same time, it's quite mysterious to me why some people still insist on saying some version of free will exists and/or is useful. I kind of understand why, but I still think it's a desperately corrupted/obsolete concept, like "god" or "soul".</comments>
   </podcast>
   <podcast>
@@ -215,7 +221,7 @@
    <podcast>
     <date>2023-12-12</date>
     <name url="http://robesse.libsyn.com/">Obsessed by Music</name>
-    <episode url="https://robesse.libsyn.com/next-obm-episode">10 Reasons Why I Still Play Music On CDs (and why I can’t get rid of them)</episode>
+    <episode url="https://robesse.libsyn.com/next-obm-episode">10 Reasons Why I Still Play Music On CDs (and why I can't get rid of them)</episode>
     <comments>I undertand Rob's reasons, but they all boil down to a single motivation: focus entirely on the experience of listing to the music. In that sense, smartphones, streaming platforms, etc. are not ideal. But it can be done.</comments>
   </podcast>
   <podcast>
@@ -240,7 +246,7 @@
     <date>2023-11-24</date>
     <name url="https://absolutelymental.com/">Absolutely Mental</name>
     <episode number="23">Accepting Determinism</episode>
-    <comments>"Ricky asks Sam why subjective experience doesn’t always match up with his understanding of determinism. They discuss determinism’s role in the justice system, the importance of luck, and getting crushed to death by an avalanche while shagging a chicken."</comments>
+    <comments>"Ricky asks Sam why subjective experience doesn't always match up with his understanding of determinism. They discuss determinism's role in the justice system, the importance of luck, and getting crushed to death by an avalanche while shagging a chicken."</comments>
   </podcast>
   <podcast>
     <date>2023-11-24</date>
@@ -275,7 +281,7 @@
   <podcast>
     <date>2023-11-07</date>
     <name>Prince | Official Podcast</name>
-    <episode>The Story of Diamonds And Pearls, Episode 4: U Got the Horn, So Why Don’t U Blow It?</episode>
+    <episode>The Story of Diamonds And Pearls, Episode 4: U Got the Horn, So Why Don't U Blow It?</episode>
     <comments>It was nice hearing from Michael B. Nelson. I love that guy.</comments>
   </podcast>
   <podcast>
@@ -293,7 +299,7 @@
   <podcast>
     <date>2023-10-28</date>
     <name>Prince | Official Podcast</name>
-    <episode>The Story of Diamonds And Pearls, Episode 2: If It Ain’t From Minneapolis, It Ain’t S#!^</episode>
+    <episode>The Story of Diamonds And Pearls, Episode 2: If It Ain't From Minneapolis, It Ain't S#!^</episode>
     <comments>I had never realized that a lot of Prince's musicians from that era are from Minnapolis.</comments>
   </podcast>
   <podcast>
@@ -342,7 +348,7 @@
     <date>2023-09-22</date>
     <name url="https://absolutelymental.com/">Absolutely Mental</name>
     <episode number="22">The Human Brain (but mostly other stuff)</episode>
-    <comments>"Ricky and Sam kick off season 3 by discussing art and imperfection, human cognition, and Ricky’s bicep gains."</comments>
+    <comments>"Ricky and Sam kick off season 3 by discussing art and imperfection, human cognition, and Ricky's bicep gains."</comments>
   </podcast>
   <podcast>
     <date>2023-09-21</date>
@@ -432,7 +438,7 @@
     <date>2023-07-18</date>
     <name url="https://absolutelymental.com/">Absolutely Mental</name>
     <episode number="20">The Monkey Mind</episode>
-    <comments>"Ricky asks Sam to explain the “monkey mind.” They also explore the illusion of free will, the nature of thought and distraction, and more of Sam’s mumbo jumbo."</comments>
+    <comments>"Ricky asks Sam to explain the “monkey mind.” They also explore the illusion of free will, the nature of thought and distraction, and more of Sam's mumbo jumbo."</comments>
   </podcast>
   <podcast>
     <date>2023-07-16</date>
@@ -485,8 +491,8 @@
   <podcast>
     <date>2023-05-30</date>
     <name url="https://absolutelymental.com/">Absolutely Mental</name>
-    <episode number="19">Why can’t we cure pain?</episode>
-    <comments>"Ricky calls Sam to ask why there isn’t a cure for all physical pain. They discuss phantom pain in amputees, the origins of language, and the dangers of tying your shoes."</comments>
+    <episode number="19">Why can't we cure pain?</episode>
+    <comments>"Ricky calls Sam to ask why there isn't a cure for all physical pain. They discuss phantom pain in amputees, the origins of language, and the dangers of tying your shoes."</comments>
   </podcast>
   <podcast>
     <date>2023-05-27</date>
@@ -510,7 +516,7 @@
     <date>2023-05-06</date>
     <name url="https://absolutelymental.com/">Absolutely Mental</name>
     <episode number="18">Lions, Twitter, and Billionaires...</episode>
-    <comments>"Ricky asks Sam what single concept he’d like everyone in the world to understand. They also discuss space tourism, the morality underlying animal behavior, and Ricky’s award-winning tweets."</comments>
+    <comments>"Ricky asks Sam what single concept he'd like everyone in the world to understand. They also discuss space tourism, the morality underlying animal behavior, and Ricky's award-winning tweets."</comments>
   </podcast>
   <podcast>
     <date>2023-05-03</date>
@@ -534,7 +540,7 @@
     <date>2023-04-14</date>
     <name url="https://absolutelymental.com/">Absolutely Mental</name>
     <episode number="16">Q&amp;A</episode>
-    <comments>"Ricky poses Sam a question from a listener. They discuss mental illness, the relationship between mind and body, and why, when Christ returns to earth, it definitely won’t be on a spaceship."</comments>
+    <comments>"Ricky poses Sam a question from a listener. They discuss mental illness, the relationship between mind and body, and why, when Christ returns to earth, it definitely won't be on a spaceship."</comments>
   </podcast>
   <podcast>
     <date>2023-04-11</date>
@@ -834,7 +840,7 @@
     <date>2022-11-11</date>
     <name url="https://absolutelymental.com/">Absolutely Mental</name>
     <episode number="11">How will civilization end?</episode>
-    <comments>"Ricky calls Sam to discuss the prospect of human extinction. They also explore animal testing, flat earthers, and UFO’s. Ricky confirms that cows have been anally probed." I'm not convinced that all animal testing should be banned. Most of it is probably useless, but not all of it. The Interventions Testing Program (ITP), for example, looks like a good program. They're trying to extend mice lifespan. I don't see how that's unethical.</comments>
+    <comments>"Ricky calls Sam to discuss the prospect of human extinction. They also explore animal testing, flat earthers, and UFO's. Ricky confirms that cows have been anally probed." I'm not convinced that all animal testing should be banned. Most of it is probably useless, but not all of it. The Interventions Testing Program (ITP), for example, looks like a good program. They're trying to extend mice lifespan. I don't see how that's unethical.</comments>
   </podcast>
   <podcast>
     <date>2022-11-04</date>
@@ -864,7 +870,7 @@
     <date>2022-10-25</date>
     <name url="https://www.happinesslab.fm/">The Happiness Lab</name>
     <episode url="https://www.pushkin.fm/podcasts/the-happiness-lab-with-dr-laurie-santos/how-to-be-angry-better">How to be Angry Better</episode>
-    <comments>"Anger is a powerful signal that you or someone you value is in danger. But in our normal lives the sensations of rage we experience are false alarms – we aren’t in real peril and we don’t need to resort to extreme survival behaviors, such as violence."</comments>
+    <comments>"Anger is a powerful signal that you or someone you value is in danger. But in our normal lives the sensations of rage we experience are false alarms – we aren't in real peril and we don't need to resort to extreme survival behaviors, such as violence."</comments>
   </podcast>
   <podcast>
     <date>2022-10-22</date>
@@ -923,7 +929,7 @@
   <podcast>
     <date>2022-09-20</date>
     <name url="https://podcast.ausha.co/violet">Violet - Le Podcast sur Prince et le Minneapolis Sound</name>
-    <episode url="https://podcast.ausha.co/violet/the-rainbow-children-l-episode-en-public">The Rainbow Children : L’épisode en public</episode>
+    <episode url="https://podcast.ausha.co/violet/the-rainbow-children-l-episode-en-public">The Rainbow Children : L'épisode en public</episode>
     <comments>L'un des derniers grands albums de Prince. Un épisode (en public) à la hauteur de l'oeuvre.</comments>
   </podcast>
   <podcast>
@@ -995,8 +1001,8 @@
   <podcast>
     <date>2022-07-03</date>
     <name url="https://absolutelymental.com/">Absolutely Mental</name>
-    <episode number="5">What’s the point?</episode>
-    <comments>"Ricky calls Sam to discuss Robert Nozick’s "experience machine" and the value of remaining in touch with the real world. Sam promotes mosquito genocide. Ricky worries about flying spiders."</comments>
+    <episode number="5">What's the point?</episode>
+    <comments>"Ricky calls Sam to discuss Robert Nozick's "experience machine" and the value of remaining in touch with the real world. Sam promotes mosquito genocide. Ricky worries about flying spiders."</comments>
   </podcast>
   <podcast>
     <date>2022-06-29</date>
@@ -1013,7 +1019,7 @@
   <podcast>
     <date>2022-06-25</date>
     <name url="https://podcast.ausha.co/violet">Violet - Le Podcast sur Prince et le Minneapolis Sound</name>
-    <episode url="https://podcast.ausha.co/violet/rave-un2-the-joy-fantastic-le-bug-de-l-an-2000">Rave Un2 The Joy Fantastic : Le Bug de l’An 2000</episode>
+    <episode url="https://podcast.ausha.co/violet/rave-un2-the-joy-fantastic-le-bug-de-l-an-2000">Rave Un2 The Joy Fantastic : Le Bug de l'An 2000</episode>
     <comments>Il est assez fascinant d'apprendre que quelqu'un ait pu devenir fan de Prince à l'âge de 4 ans en découvrant le concert <i>Rave Un2 the Year 2000</i>. Quant à l'album, oui, il est objectivement moins bon que beaucoup d'autres, mais je l'écoute régulièrement avec plaisir.</comments>
   </podcast>
   <podcast>
@@ -1650,7 +1656,7 @@
     <date>2021-10-05</date>
     <name url="https://peterattiamd.com/podcast/">The Peter Attia Drive Podcast</name>
     <episode url="https://peterattiamd.com/estherperel/" number="172">Esther Perel: The effects of trauma, the role of narratives in shaping our worldview, and why we need to accept uncomfortable emotions</episode>
-    <comments>"I don’t fundamentally believe that one can know oneself without knowing oneself in relationship to others." —Esther Perel</comments>
+    <comments>"I don't fundamentally believe that one can know oneself without knowing oneself in relationship to others." —Esther Perel</comments>
   </podcast>
   <podcast>
     <date>2021-10-04</date>
@@ -1997,7 +2003,7 @@
   <podcast>
     <date>2021-04-09</date>
     <name url="https://peterattiamd.com/podcast/">The Peter Attia Drive Podcast</name>
-    <episode url="https://peterattiamd.com/stevelevitt/" number="154">Steve Levitt, Ph.D.: A rogue economist’s view on climate change, mental health, the ethics of experiments, and more</episode>
+    <episode url="https://peterattiamd.com/stevelevitt/" number="154">Steve Levitt, Ph.D.: A rogue economist's view on climate change, mental health, the ethics of experiments, and more</episode>
     <comments>Levitt sounds like a fun guy, but we don't seem to share a lot of values/interests, from what I could gather. There's a moment during the episode where he mentions Sam Harris' <i>Waking Up</i> book, but he seems to completely misunderstand what meditation is. That was weird.</comments>
   </podcast>
   <podcast>
@@ -2165,8 +2171,8 @@
   <podcast>
     <date>2021-02-08</date>
     <name url="https://peterattiamd.com/podcast/">The Peter Attia Drive Podcast</name>
-    <episode url="https://peterattiamd.com/husseinyassine/" number="147">Hussein Yassine, M.D.: Deep dive into the "Alzheimer’s gene" (APOE), brain health, and omega-3s</episode>
-    <comments>A very technical episode. "We don’t have the evidence to support omega-3 supplementation but there is enough evidence to suggest one serving of fatty fish per week": since I'm vegetarian, I'll keep taking my supplements, as I have since 2007.</comments>
+    <episode url="https://peterattiamd.com/husseinyassine/" number="147">Hussein Yassine, M.D.: Deep dive into the "Alzheimer's gene" (APOE), brain health, and omega-3s</episode>
+    <comments>A very technical episode. "We don't have the evidence to support omega-3 supplementation but there is enough evidence to suggest one serving of fatty fish per week": since I'm vegetarian, I'll keep taking my supplements, as I have since 2007.</comments>
   </podcast>
   <podcast>
     <date>2021-02-03</date>
@@ -2375,8 +2381,8 @@
   <podcast>
     <date>2020-12-08</date>
     <name url="https://peterattiamd.com/podcast/">The Peter Attia Drive Podcast</name>
-    <episode url="https://peterattiamd.com/laurenmillerrogen-richardisaacson/" number="138">Lauren Miller Rogen and Richard Isaacson, M.D.: Alzheimer’s disease prevention—patient and doctor perspectives</episode>
-    <comments>I will test my homocysteine levels in a few weeks. It should be low. High homocysteine seems to be bad for a lot of things. B vitamins and TMG can help if needed. For persons with a high risk of developing Alzheimer’s disease, 2 g a days of omega-3 is recommended. I'm at 850 mg a day (without counting food). An omega-3 index of 12-14 is desirable. Last time I checked, I was at 14.4. Good. Curcumin is a good idea (Richard mentions an optimised supplement with nanoparticles - it doesn't seem widely available). This is something I've been taking for years as well. Richard and Peter seem to somewhat disagree about ApoB vs LDL-P. I will check my ApoB level in a few weeks as well. Richard also mentions a blood test for transfats. Peter likes magnesium l-threonate. I've used it for some time, but it's quite expensive. I'm currently taking magnesium malate and glycinate.</comments>
+    <episode url="https://peterattiamd.com/laurenmillerrogen-richardisaacson/" number="138">Lauren Miller Rogen and Richard Isaacson, M.D.: Alzheimer's disease prevention—patient and doctor perspectives</episode>
+    <comments>I will test my homocysteine levels in a few weeks. It should be low. High homocysteine seems to be bad for a lot of things. B vitamins and TMG can help if needed. For persons with a high risk of developing Alzheimer's disease, 2 g a days of omega-3 is recommended. I'm at 850 mg a day (without counting food). An omega-3 index of 12-14 is desirable. Last time I checked, I was at 14.4. Good. Curcumin is a good idea (Richard mentions an optimised supplement with nanoparticles - it doesn't seem widely available). This is something I've been taking for years as well. Richard and Peter seem to somewhat disagree about ApoB vs LDL-P. I will check my ApoB level in a few weeks as well. Richard also mentions a blood test for transfats. Peter likes magnesium l-threonate. I've used it for some time, but it's quite expensive. I'm currently taking magnesium malate and glycinate.</comments>
   </podcast>
   <podcast>
     <date>2020-12-08</date>
@@ -2387,7 +2393,7 @@
   <podcast>
     <date>2020-12-06</date>
     <name url="https://peterattiamd.com/podcast/">The Peter Attia Drive Podcast</name>
-    <episode url="https://peterattiamd.com/jamesokeefe/" number="134">James O’Keefe, M.D.: Preventing cardiovascular disease and the risk of too much exercise</episode>
+    <episode url="https://peterattiamd.com/jamesokeefe/" number="134">James O'Keefe, M.D.: Preventing cardiovascular disease and the risk of too much exercise</episode>
     <comments>For longevity, running 5 miles a week (i.e. 8 km) is enough. I should know my resting heart rate. It should be low rather than high. I should also focus more on day-to-day exercise, like walking (between 10'0000 and 20'000 steps a day would be good). I definitely don't walk enough. Also, playing and socializing are important. After all and contrary to what some studies/meta-analyses have been saying recently, omega-3 is important for heart health (in somewhat higher doses), not only brain health. Curcumin is also important for brain health (Alzheimer's prevention, etc.). Coronary artery calcium (CAC) scoring is an important test to do, but it's expensive ($400-$800 in the US).</comments>
   </podcast>
   <podcast>
@@ -2550,7 +2556,7 @@
     <date>2020-10-15</date>
     <name url="http://peachandblack.podbean.com/">Peach &amp; Black Podcast</name>
     <episode url="https://peachandblack.podbean.com/e/princes-non-album-tracks-vol5/">Prince's Non-Album Tracks Vol. 5</episode>
-    <comments>Four random non-album tracks: "Little Red Corvette (Dance Remix)", "Don’t Talk 2 Strangers", "Glasscutter", and "Ain't Gonna Miss U When U're Gone". I certainly don't listen to them a lot. They're not bad.</comments>
+    <comments>Four random non-album tracks: "Little Red Corvette (Dance Remix)", "Don't Talk 2 Strangers", "Glasscutter", and "Ain't Gonna Miss U When U're Gone". I certainly don't listen to them a lot. They're not bad.</comments>
   </podcast>
   <podcast>
     <date>2020-10-13</date>
