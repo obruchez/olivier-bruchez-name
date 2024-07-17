@@ -7,6 +7,15 @@
   -->
   <introduction>A list of concerts I went to.</introduction>
   <concert>
+    <date>2024-07-13</date>
+    <location>Espace Saint-Marc, Le Châble, Switzerland</location>
+    <event>Rencontres Verbier Musique &amp; Cinéma</event>
+    <musician inst="conductor">Mathieu Herzog</musician>
+    <musician inst="orchestra">Orchestre Appassionato</musician>
+    <rating>4.5</rating>
+    <comments>"Concert Famille: L'univers de Disney par l'Orcherstre Synphonique Appassionato Venez rêver au rythme des mélodies entêtantes des plus beaux films Disney." Another concert with our son. That was fun. The conductor had a great sense of humor.</comments>
+  </concert>
+  <concert>
     <date>2024-06-22</date>
     <location>Théâtre de Beausobre, Morges, Switzerland</location>
     <event>Diabolo Festival</event>
