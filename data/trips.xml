@@ -2,6 +2,12 @@
 <trips created="2008-02-26">
   <introduction>A list of trips I took.</introduction>
   <trip>
+    <from>2024-07-03</from>
+    <to>2024-07-09</to>
+    <place>Berlin, Germany</place>
+    <comments>My 19<th>th</th> trip to Berlin. Our first trip with our son and my parents. This year, our focus was on landmarks, since 3 persons were discovering Berlin for the first time.</comments>
+  </trip>
+  <trip>
     <from>2023-09-16</from>
     <to>2023-09-18</to>
     <place>Europa-Park, Germany</place>
