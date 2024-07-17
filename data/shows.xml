@@ -15,6 +15,12 @@
     <image>Futurama.jpg</image>
   </show> -->
   <show>
+    <date></date>
+    <name url="https://en.wikipedia.org/wiki/Lost_(TV_series)">Lost</name>
+    <series url="https://en.wikipedia.org/wiki/Lost_(season_1)" type="season">1</series>
+    <image>Lost.jpg</image>
+  </show>
+  <show>
     <date>2024-02-08</date>
     <name url="https://en.wikipedia.org/wiki/Better_Things_(TV_series)">Better Things</name>
     <series url="https://en.wikipedia.org/wiki/Better_Things_(TV_series)#Season_5_(2022)" type="season">5</series>
