@@ -3,6 +3,16 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Add rating to IMDb -->
   <movie>
+    <date>2024-07-19</date>
+    <theater home="true"/>
+    <director>Wes Anderson</director>
+    <title>The Grand Budapest Hotel</title>
+    <url>https://www.imdb.com/title/tt2278388/</url>
+    <rating>5.25</rating>
+    <comments>10 years later, I didn't remember much from the story. This was the movie that convinced us to watch all of Wes Anderson's filmography.</comments>
+    <image>The Grand Budapest Hotel.jpg</image>
+  </movie>
+  <movie>
     <date>2024-06-29</date>
     <theater home="true"/>
     <director>Clyde Geronimi, Wilfred Jackson &amp; Hamilton Luske</director>
