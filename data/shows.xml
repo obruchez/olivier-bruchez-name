@@ -17,7 +17,14 @@
   <show>
     <date></date>
     <name url="https://en.wikipedia.org/wiki/Lost_(TV_series)">Lost</name>
+    <series url="https://en.wikipedia.org/wiki/Lost_(season_2)" type="season">2</series>
+    <image>Lost.jpg</image>
+  </show>
+  <show>
+    <date>2024-07-20</date>
+    <name url="https://en.wikipedia.org/wiki/Lost_(TV_series)">Lost</name>
     <series url="https://en.wikipedia.org/wiki/Lost_(season_1)" type="season">1</series>
+    <comments>An excellent first season. We watched it for the first time in late 2005-early 2006. I had forgotten many things, including the rather slow pace.</comments>
     <image>Lost.jpg</image>
   </show>
   <show>
@@ -1424,6 +1431,12 @@
     <name url="https://en.wikipedia.org/wiki/Prison_Break">Prison Break</name>
     <series url="https://en.wikipedia.org/wiki/Prison_Break_(season_3)" type="season">3</series>
     <image>Prison Break.jpg</image>
+  </show>
+  <show>
+    <date>2006-01-08</date>
+    <name url="https://en.wikipedia.org/wiki/Lost_(TV_series)">Lost</name>
+    <series url="https://en.wikipedia.org/wiki/Lost_(season_1)" type="season">1</series>
+    <image>Lost.jpg</image>
   </show>
   <show>
     <date>2004-05-17</date>
