@@ -3,6 +3,12 @@
   <introduction>A list of hikes I took.</introduction>
   <!-- TODO: add comments for new hikes? -->
   <hike>
+    <date>2024-07-20</date>
+    <place>Bisse du Trient Switzerland</place>
+    <!-- <pictures url=""/> -->
+    <comments>A small and easy hike done with my 6-year old son. The Buvette du Glacier du Trient at the end of the bisse is a nice reward.</comments>
+  </hike>
+  <hike>
     <date>2024-07-14</date>
     <place>Cabane FXB Panossière / Col des Otanes, Switzerland</place>
     <!-- <pictures url=""/> -->
