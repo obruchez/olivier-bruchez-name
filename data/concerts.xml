@@ -7,6 +7,36 @@
   -->
   <introduction>A list of concerts I went to.</introduction>
   <concert>
+    <date>2024-07-18</date>
+    <location>Scène du Lac, Montreux, Switzerland</location>
+    <event>Montreux Jazz Festival</event>
+    <musician inst="vocals" main="true">Janelle Monáe</musician>
+    <musician inst="guitar">Kellindo Parker</musician>
+    <musician inst="trumpet">Lessie Vonner</musician>
+    <musician inst="keyboards">Lorenzo Nelson</musician>
+    <musician inst="drums">Dearcus Curry</musician>
+    <musician inst="bass">Kyla Wright</musician>
+    <rating>4.5</rating>
+    <comments>I last saw Janelle live in 2012, in Montreux. I really like her 2007-2010 output. I love her duet with Prince (2013). I kind of lost interest after that. Her show was impressive visually, but not that much musically. Her cover of "Let's Go Crazy" was very average.</comments>
+  </concert>
+  <concert>
+    <date>2024-07-18</date>
+    <location>Scène du Lac, Montreux, Switzerland</location>
+    <event>Montreux Jazz Festival</event>
+    <musician inst="vocals" main="true">Raye</musician>
+    <musician inst="drums">Matthew Brooks</musician>
+    <musician inst="guitar">Paul Murray</musician>
+    <musician inst="bass">Olivia Thompson</musician>
+    <musician inst="keyboards">Daniella Bernard</musician>
+    <musician inst="percussions">Daniel Ellis</musician>
+    <musician inst="trumpet">Michael Cordone</musician>
+    <musician inst="saxophone">Graeme Blevins</musician>
+    <musician inst="trombone">Daniel Higham</musician>
+    <musician inst="saxophone">Thomas Richards</musician>
+    <rating>4.75</rating>
+    <comments>I didn't know Raye at all. I was pleasantly surprised. She was clearly happy to be there. Part of her Swiss family was in the audience. She exuded a lot of positive energy.</comments>
+  </concert>
+  <concert>
     <date>2024-07-13</date>
     <location>Espace Saint-Marc, Le Châble, Switzerland</location>
     <event>Rencontres Verbier Musique &amp; Cinéma</event>
