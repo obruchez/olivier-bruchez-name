@@ -8236,6 +8236,14 @@
     <version>fr</version>
   </movie>
   <movie>
+    <date>2004-08-02</date>
+    <theater home="true"/>
+    <director>David Lynch</director>
+    <title>The Cowboy and the Frenchman</title>
+    <url>https://www.imdb.com/title/tt0190327/</url>
+    <image>The Cowboy and the Frenchman.jpg</image>
+  </movie>
+  <movie>
     <date>2004-07-29</date>
     <theater home="true"/>
     <director>Jeffrey Schwarz</director>
