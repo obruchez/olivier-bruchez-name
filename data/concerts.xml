@@ -7,6 +7,30 @@
   -->
   <introduction>A list of concerts I went to.</introduction>
   <concert>
+    <date>2024-07-26</date>
+    <location>Grande Scène, Nyon, Switzerland</location>
+    <event>Paléo Festival de Nyon</event>
+    <musician inst="vocals" main="true">Olivia Ruiz</musician>
+    <musician inst="guitar">?</musician>
+    <musician inst="bass">?</musician>
+    <musician inst="drums">?</musician>
+    <musician inst="keyboards">?</musician>
+    <musician inst="?">?</musician>
+    <rating>3.5</rating>
+    <comments>Unknown musicians. The older songs were pretty good. I'm not familiar with her new album. We saw a bit of Véronique Sanson after that (not my cup of tea). My son's first Paléo Festival.</comments>
+  </concert>
+  </concert>
+  <concert>
+    <date>2024-07-26</date>
+    <location>La Ruche, Nyon, Switzerland</location>
+    <event>Paléo Festival de Nyon</event>
+    <group>La Radicale</group>
+    <musician inst="guitar, vocals, keyboards">Bertrand Blessing</musician>
+    <musician inst="dance">Laura Boudou</musician>
+    <rating>3.5</rating>
+    <comments><i>Tracas#1</i> show by the Compagnie La Radicale. Not really a concert per se. More of an artistic performance with music? We saw a bit of L'Armée du Chahut before that (acapella band, with seven singers).</comments>
+  </concert>
+  <concert>
     <date>2024-07-18</date>
     <location>Scène du Lac, Montreux, Switzerland</location>
     <event>Montreux Jazz Festival</event>
