@@ -8236,6 +8236,14 @@
     <version>fr</version>
   </movie>
   <movie>
+    <date>2004-07-29</date>
+    <theater home="true"/>
+    <director>Jeffrey Schwarz</director>
+    <title>Mysteries of Love</title>
+    <url>https://www.imdb.com/title/tt0312988/</url>
+    <comments>A documentary about <i>Blue Velvet</i> (1986).</comments>
+  </movie>
+  <movie>
     <date>2004-07-20</date>
     <theater>Montréal-Paris flight</theater>
     <director>Peter Webber</director>
