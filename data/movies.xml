@@ -8226,6 +8226,25 @@
     <version>fr</version>
   </movie>
   <movie>
+    <date>2004-08-11</date>
+    <theater home="true"/>
+    <director>Jean-François Pouliot</director>
+    <title>La grande séduction</title>
+    <url>https://www.imdb.com/title/tt0366532/</url>
+    <comments>"Film somme toute assez gentillet".</comments>
+    <image>La grande séduction.jpg</image>
+  </movie>
+  <movie>
+    <date>2004-08-08</date>
+    <theater home="true"/>
+    <director>Aaron Blaise &amp; Robert Walker</director>
+	<title>Brother Bear</title>
+    <title language="fr">Frère des ours</title>
+    <version>fr</version>
+    <url>https://www.imdb.com/title/tt0328880/</url>
+    <image>Brother Bear.jpg</image>
+  </movie>
+  <movie>
     <date>2004-08-05</date>
     <title>Spider-Man 2</title>
     <version>fr</version>
