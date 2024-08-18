@@ -2,6 +2,36 @@
 <podcasts created="2016-05-10">
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date>2024-08-18</date>
+    <name url="https://thejoecohenshow.com/">The Joe Cohen Show</name>
+    <episode url="https://thejoecohenshow.com/podcast/dr-alan-bauman-understanding-hair-loss-healthy-hair-and-effective-regrowth-strategies/">Q&amp;A #01 - Understanding Anxiety: The Genetic Connection and Holistic Remedies</episode>
+    <comments>The general advice here seems to be: check your genes (i.e. use SelfDecode). Joe seems to like 5-HTP.</comments>
+  </podcast>
+  <podcast>
+    <date>2024-08-16</date>
+    <name url="https://thejoecohenshow.com/">The Joe Cohen Show</name>
+    <episode url="https://thejoecohenshow.com/podcast/dr-alan-bauman-understanding-hair-loss-healthy-hair-and-effective-regrowth-strategies/">Dr. Alan Bauman | Understanding Hair Loss, Healthy Hair, and Effective Regrowth Strategies</episode>
+    <comments>Minoxidil: oral and topical forms can be used together if it is hard to apply topical Minoxidil twice a day. Important nutrients: protein, iron, etc. I should check how to fix my itchy scalp.</comments>
+  </podcast>
+  <podcast>
+    <date>2022-08-15</date>
+    <name url="https://www.foundmyfitness.com/episodes">FoundMyFitness</name>
+    <episode url="https://www.foundmyfitness.com/episodes/magnesium" number="87">The Science of Magnesium and Its Role in Aging and Disease</episode>
+    <comments>Testing serum magnesium is useless. Testing red blood cell (RBC) magnesium is not that much useful. The most useful thing to do is tracking magnesium consumption (food and supplements). Supplements: should be taken in 2-3 doses during the day instead of a single dose. Magnesium taurate is a good source of taurine (i.e. no need to supplement with taurine if you take magnesium taurate). Magnesium threonate: passes blood-brain barrier, can enhance cognition (possibly); do not count towards total magnesium. Overall, magnesium is one of the most useful food/supplement you can take.</comments>
+  </podcast>
+  <podcast>
+    <date>2024-08-14</date>
+    <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
+    <episode url="https://www.samharris.org/podcasts/making-sense-episodes/377-the-future-of-psychedelic-medicine" number="377">The Future of Psychedelic Medicine 2 - A Conversation with Dr. Jennifer Mitchell and Dr. Sarah Abedi</episode>
+    <comments>This conversation happened before the final (negative) FDA decision regarding MDMA and PTSD. I hope this is not the end of the story.</comments>
+  </podcast>
+  <podcast>
+    <date>2024-08-13</date>
+    <name url="https://podcast.ausha.co/violet">Violet - Le Podcast sur Prince et le Minneapolis Sound</name>
+    <episode url="https://podcast.ausha.co/violet/plectrumelectrum-girl-power">PlectrumElectrum : Girl Power</episode>
+    <comments>La discussion tant attendue sur le talent (ou manque de talent) des filles du groupe de Prince a enfin eu lieu. Conclusion : Hannah et Donna sont professionnelles, "sans plus", i.e. il n'y a pas beaucoup de créativité et de personnalité chez elles. Je suis plutôt du côté de Nicolas : l'énergie de l'album m'importe plus que les qualités musicales.</comments>
+  </podcast>
+  <podcast>
     <date>2024-07-24</date>
     <name>Superchuckamania</name>
     <episode number="238">Celebration Part Two</episode>
@@ -88,7 +118,7 @@
   </podcast>
   <podcast>
     <date>2024-05-03</date>
-    <name url="https://www.youtube.com/@thejoecohenshow">The Joe Cohen Show</name>
+    <name url="https://thejoecohenshow.com/">The Joe Cohen Show</name>
     <episode url="https://thejoecohenshow.com/podcast/is-niacin-killing-you-breaking-down-the-new-niacin-study/">Is Niacin Killing You?: Breaking Down The New Niacin Study</episode>
     <comments>Niacin has some negative consequences, like almost all substances, but, overall, it doesn't affect lifespan. The hope is that it has an effet on healthspan.</comments>
   </podcast>
@@ -694,7 +724,7 @@
   </podcast>
   <podcast>
     <date>2023-01-17</date>
-    <name url="https://www.youtube.com/@thejoecohenshow">The Joe Cohen Show</name>
+    <name url="https://thejoecohenshow.com/">The Joe Cohen Show</name>
     <episode url="https://thejoecohenshow.com/podcast/tim-gray-sleep-psychedelics-methylene-blue-episode-07/" number="7">Tim Gray: Sleep, Psychedelics &amp; Methylene Blue</episode>
     <comments>Tim currently takes progesterone. This is quite surprizing, for a man. Tim seems to like piracetam. <a href="https://www.gwern.net/Nootropics#piracetam">Gwern</a> likes it as well. He also likes mescaline and thinks it's less anxiety-inducing than LSD/psylocybine.</comments>
   </podcast>
