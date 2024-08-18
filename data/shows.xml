@@ -17,7 +17,15 @@
   <show>
     <date></date>
     <name url="https://en.wikipedia.org/wiki/Lost_(TV_series)">Lost</name>
+    <series url="https://en.wikipedia.org/wiki/Lost_(season_3)" type="season">3</series>
+    <comments></comments>
+    <image>Lost.jpg</image>
+  </show>
+  <show>
+    <date>2024-08-17</date>
+    <name url="https://en.wikipedia.org/wiki/Lost_(TV_series)">Lost</name>
     <series url="https://en.wikipedia.org/wiki/Lost_(season_2)" type="season">2</series>
+    <comments>The reason vs faith / meaning vs insignificance themes are even clearer in that season. Strangely enough, this doesn't bother me. Another excellent season.</comments>
     <image>Lost.jpg</image>
   </show>
   <show>
