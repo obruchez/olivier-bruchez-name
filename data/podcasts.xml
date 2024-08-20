@@ -2,6 +2,12 @@
 <podcasts created="2016-05-10">
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date>2024-08-20</date>
+    <name url="http://verybadwizards.com/">Very Bad Wizards</name>
+    <episode url="https://verybadwizards.com/episode/episode-284-reel-choices" number="284">Reel Choices</episode>
+    <comments>Some movies that I've added to my to-watch list: <i>Anatomy of a Fall</i>, <i>Locke</i>, <i>The Night of the Hunter</i>, and <i>Dog Day Afternoon</i>.</comments>
+  </podcast>
+  <podcast>
     <date>2024-08-18</date>
     <name url="https://thejoecohenshow.com/">The Joe Cohen Show</name>
     <episode url="https://thejoecohenshow.com/podcast/dr-alan-bauman-understanding-hair-loss-healthy-hair-and-effective-regrowth-strategies/">Q&amp;A #01 - Understanding Anxiety: The Genetic Connection and Holistic Remedies</episode>
