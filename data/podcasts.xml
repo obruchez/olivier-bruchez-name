@@ -2,6 +2,12 @@
 <podcasts created="2016-05-10">
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date>2024-08-</date>
+    <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
+    <episode url="https://www.samharris.org/podcasts/making-sense-episodes/379-regulating-artificial-intelligence" number="379">Regulating Artificial Intelligence - A Conversation with Yoshua Bengio and Scott Wiener</episode>
+    <comments>This new bill (SB 1047) sounds like a reasonable baby step towards AI regulation/security.</comments>
+  </podcast>
+  <podcast>
     <date>2024-08-20</date>
     <name url="http://verybadwizards.com/">Very Bad Wizards</name>
     <episode url="https://verybadwizards.com/episode/episode-284-reel-choices" number="284">Reel Choices</episode>
