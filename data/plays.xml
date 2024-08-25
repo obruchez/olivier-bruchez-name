@@ -9,6 +9,41 @@
     <actor></actor>
   -->
   <play>
+    <date>2024-08-23</date>
+    <location>Théâtre du Jorat, Mézières, Switzerland</location>
+    <name>Le Songe d'une nuit d'été</name>
+    <author>William Shakespeare</author>
+    <director>Jean-Michel d'Hoop</director>
+    <adaptation>Jean-Michel d'Hoop</adaptation>
+    <actor>Ahmed Ayed</actor>
+    <actor>Soazig De Staercke</actor>
+    <actor>Emmanuël Hennebert</actor>
+    <actor>Marouan Iddoub</actor>
+    <actor>Amber Kemp</actor>
+    <actor>Nicolas Laine</actor>
+    <actor>Héloïse Meire</actor>
+    <actor>Simon Wauters</actor>
+    <rating>5.0</rating>
+    <comments>Une adaptation complètement loufoque de cette pièce de Shakespeare que je ne connaissais pas. L'utilisation des marionettes participe à introduire un côté humoristique, mais aussi très perturbant.</comments>
+    <image>Le Songe d'une nuit d'été.jpg</image>
+    <!--
+	Assistanat à la mise en scène Lucile Vignolles
+	Musique Boris Gronemberger
+	Scénographie et technique
+	Marionnettes et masques Loïc Nebreda
+	assisté par Isis Hauben
+	Scénographie Olivier Wiame
+	assisté par Olivia Sprumont
+	Costumes Camille Collin
+	Confection costumes Cinzia Derom
+	Lumières Xavier Lauwers
+	Chorégraphie Jérôme Louis
+	Construction décor Vincent Rutten
+	Régie générale Grégoire Tempels, Marc Defrise
+	Photos Debby Termonia
+    -->
+  </play>
+  <play>
     <date>2024-05-26</date>
     <location>Théâtre du Jorat, Mézières, Switzerland</location>
     <name>20’000 Lieues sous les mers</name>
