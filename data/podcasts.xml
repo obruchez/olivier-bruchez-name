@@ -1,8 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <podcasts created="2016-05-10">
   <introduction>A list of podcasts I listened to.</introduction>
+    <podcast>
+    <date>2024-08-28</date>
+    <name url="https://hubermanlab.com/">Huberman Lab</name>
+    <episode url="https://www.hubermanlab.com/episode/dr-peter-attia-supplements-for-longevity-their-efficacy">Dr. Peter Attia: Supplements for Longevity &amp; Their Efficacy</episode>
+    <comments><a href="https://podcastnotes.org/huberman-lab/dr-peter-attia-supplements-for-longevity-their-efficacy-huberman-lab/">Podcast notes</a>. NMN/NR are mostly useless (until proven otherwise). Peter takes 8 mg of rapamycin per week. Peter takes: AG1 (multivitamin with probiotics), omega 3, vitamin D3, vitamin B12, magnesium, creatine, electrolytes; vitamin B9, curcumin, ashwagandha, Pendulum (probiotics); he doesn't take any vitamin B6 (outside of AG1, I guess). Andrew takes: AG1, omega 3, vitamin D3, vitamin B12, magnesium, creatine, electrolytes; tongkat ali, green tea, NMN, apigenin, L-theanine, sometimes inositol; also proteins and caffeine (as beverages). Andrew stopped nicotine. I don't know if Peter still takes it. All in all, I'm quite aligned with Peter and like his more conservative approach. Rapamycin would be the next step for me, but it's quite expensive and I'd really like to see the results of the study on dogs (in a few years if they can finance it).</comments>
+  </podcast>
   <podcast>
-    <date>2024-08-</date>
+    <date>2024-08-25</date>
     <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
     <episode url="https://www.samharris.org/podcasts/making-sense-episodes/379-regulating-artificial-intelligence" number="379">Regulating Artificial Intelligence - A Conversation with Yoshua Bengio and Scott Wiener</episode>
     <comments>This new bill (SB 1047) sounds like a reasonable baby step towards AI regulation/security.</comments>
