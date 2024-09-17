@@ -2,23 +2,33 @@
 
 My votes (in French). En Suisse, on ne plaisante pas avec la démocratie directe. :) J'essaie ici de documenter et de justifier la façon dont je me positionne par rapport aux votations fédérales, qui ont lieu jusqu'à quatre fois par année.
 
+## [Votation fédérale du 22 septembre 2024](https://www.bk.admin.ch/ch/f/pore/va/20240922/index.html)
+
+### Initiative populaire «Pour l’avenir de notre nature et de notre paysage (Initiative biodiversité)»
+
+Oui. Résultat : ? (??.?%).
+
+### Modification de la loi fédérale sur la prévoyance professionnelle vieillesse, survivants et invalidité (LPP) (Réforme de la prévoyance professionnelle)
+
+Non. Résultat : ? (??.?%).
+
 ## [Votation fédérale du 9 juin 2024](https://www.bk.admin.ch/ch/f/pore/va/20240609/index.html)
 
 ### Initiative populaire « Maximum 10% du revenu pour les primes d’assurance-maladie (initiative d’allègement des primes) »
 
-Oui. Résultat : ? (??.?%).
+Oui. Résultat : non (55.47%).
 
 ### Initiative populaire « Pour des primes plus basses. Frein aux coûts dans le système de santé (initiative pour un frein aux coûts) »
 
-Non. Résultat : ? (??.?%).
+Non. Résultat : non (62.77%).
 
 ### Initiative populaire «Pour la liberté et l’intégrité physique»
 
-Non. Résultat : ? (??.?%).
+Non. Résultat : non (73.73%).
 
 ### Loi fédérale relative à un approvisionnement en électricité sûr reposant sur des énergies renouvelables (modification de la loi sur l’énergie et de la loi sur l’approvisionnement en électricité)
 
-Oui. Résultat : ? (??.?%).
+Oui. Résultat : oui (68.72%).
 
 ## [Votation fédérale du 3 mars 2024](https://www.bk.admin.ch/ch/f/pore/va/20240303/index.html)
 
