@@ -10,7 +10,7 @@
   <trip>
     <from>2023-09-16</from>
     <to>2023-09-18</to>
-    <place>Europa-Park, Germany</place>
+    <place>Europa-Park (Rust), Germany</place>
     <comments>Our 6<sup>th</sup> visit to Europa-Park. 3 days. 2 nights. It was a blast. We met several friends and their children. This was also our longest trip with our VW ID.3.</comments>
   </trip>
   <trip>
@@ -37,7 +37,7 @@
   <trip>
     <from>2022-09-17</from>
     <to>2022-09-19</to>
-    <place>Basel, Switzerland / Europa-Park, Germany</place>
+    <place>Basel, Switzerland / Europa-Park (Rust), Germany</place>
     <pictures url="https://www.flickr.com/photos/bruchez/sets/72177720303101500">Basel</pictures>
     <pictures url="https://www.flickr.com/photos/bruchez/sets/72177720303112284">Europa-Park</pictures>
     <comments>Our 5<sup>th</sup> trip to Basel and 5<sup>th</sup> visit to Europa-Park, this time with our 4-year-old son. In Basel, we visited the Basel Paper Mill, which is a fantastic place for children (and adults!), and went to Aquabasilea.</comments>
@@ -307,7 +307,7 @@
   <trip>
     <from>2012-12-29</from>
     <to>2013-01-01</to>
-    <place>Baden-Baden, Germany</place>
+    <place>Baden-Baden / Europa-Park (Rust), Germany</place>
     <pictures url="http://www.flickr.com/photos/bruchez/sets/72157632418339930/"/>
   </trip>
   <trip>
@@ -331,7 +331,7 @@
   <trip>
     <from>2011-09-18</from>
     <to>2011-09-19</to>
-    <place>Colmar, France / Rust, Germany</place>
+    <place>Colmar, France / Europa-Park (Rust), Germany</place>
     <pictures url="http://www.flickr.com/photos/bruchez/sets/72157628721043781/"/>
   </trip>
   <trip>
@@ -346,7 +346,7 @@
   <trip>
     <from>2011-07-23</from>
     <to>2011-07-24</to>
-    <place>Colmar, France / Rust, Germany</place>
+    <place>Colmar, France / Europa-Park (Rust), Germany</place>
     <pictures url="https://secure.flickr.com/photos/bruchez/sets/72157627486405827/"/>
   </trip>
   <trip>
