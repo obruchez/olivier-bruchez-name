@@ -2,6 +2,13 @@
 <trips created="2008-02-26">
   <introduction>A list of trips I took.</introduction>
   <trip>
+    <from>2024-09-13</from>
+    <to>2024-09-16</to>
+    <place>Leukerbad, Switzerland</place>
+    <!-- <pictures url=""/> -->
+    <comments>Our 6<sup>th</sup> stay in Leukerbad and our 3<sup>rd</sup> at the Bristol Hotel. We took the Gemmi cable car and did a small hike from the top (there was a lot of snow). We should do a longer hike in the area the next time we go there (e.g. Kandersteg).</comments>
+  </trip>
+  <trip>
     <from>2024-07-03</from>
     <to>2024-07-09</to>
     <place>Berlin, Germany</place>
