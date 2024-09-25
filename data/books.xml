@@ -3,6 +3,17 @@
     <introduction>A list of books I read.</introduction>
     <!-- TODO: replace links to Google Books with links to Goodreads -->
     <book>
+        <date>2024-09-23</date>
+        <title>L'Homme qui plantait des arbres</title>
+        <author>Jean Giono</author>
+        <publishingyear>19553</publishingyear>
+        <rating>5.0</rating>
+        <url>https://fr.wikipedia.org/wiki/L%27Homme_qui_plantait_des_arbres</url>
+        <notes description="Kindle highlights"></notes>
+        <comments>Un très court récit. J'en avais besoin, après <i>Les Frères Karamazov</i>. Cela m'a aussi fait du bien de lire quelque chose d'aussi positif. C'est une parabole, mais l'idée même de planter des arbres, en soi, est captivante. Je devrais le faire aussi. Littéralement, comme figurativement.</comments>
+        <image>L'Homme qui plantait des arbres.jpg</image>
+    </book>
+    <book>
         <date>2024-09-19</date>
         <title>Les Frères Karamazov</title>
         <author>Fiodor Dostoïevski</author>
