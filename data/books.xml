@@ -3,14 +3,14 @@
     <introduction>A list of books I read.</introduction>
     <!-- TODO: replace links to Google Books with links to Goodreads -->
     <book>
-        <date></date>
+        <date>2024-09-19</date>
         <title>Les Frères Karamazov</title>
         <author>Fiodor Dostoïevski</author>
         <publishingyear>1879</publishingyear>
-        <rating></rating>
+        <rating>5.0</rating>
         <url>https://www.goodreads.com/book/show/4934</url>
         <notes description="Kindle highlights"></notes>
-        <comments>French translation of <i>The Brothers Karamazov</i>.</comments>
+        <comments>Un classique. Un long livre. Je dois admettre que j'ai eu un peu de peine à le lire. A coup de 10-15 minutes par soir, ça n'était pas suffisant. C'est vraiment lorsque j'ai commencé à dédier de plus grandes tranches de temps à ce livre que j'ai pu véritablement entrer dans le récit. La partie dédié au procès est captivante.</comments>
         <image>Les Frères Karamazov.jpg</image>
     </book>
     <book>
