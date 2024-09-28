@@ -2,6 +2,12 @@
 <podcasts created="2016-05-10">
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date>2024-09-24</date>
+    <name url="https://absolutelymental.com/">Absolutely Mental</name>
+    <episode number="31">Stricly Science</episode>
+    <comments>"Ricky and Sam wrap up season 3 with a science-heavy discussion on the mechanics of neurons, information processing, and Einstein self-pleasuring to his equations."</comments>
+  </podcast>
+  <podcast>
     <date>2024-09-17</date>
     <name url="https://podcast.ausha.co/violet">Violet - Le Podcast sur Prince et le Minneapolis Sound</name>
     <episode url="https://podcast.ausha.co/violet/art-official-age-le-testament-de-prince">Art Official Age : Le Testament de Prince ?</episode>
