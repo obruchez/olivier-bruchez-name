@@ -9,6 +9,18 @@
   </podcast>
   <podcast>
     <date>2024-09-17</date>
+    <name url="https://hiddenbrain.org/">Hidden Brain</name>
+    <episode url="https://hiddenbrain.org/podcast/money-talks/" number="69">Money Talks</episode>
+    <comments>Money can be (mis)used to buy stuff and show off. This can be done with appearing busy, as well.</comments>
+  </podcast>
+  <podcast>
+    <date>2024-09-17</date>
+    <name url="https://hiddenbrain.org/">Hidden Brain</name>
+    <episode url="https://hiddenbrain.org/podcast/getting-unstuck/" number="56">Getting Unstuck</episode>
+    <comments>"Think of your life the way a designer at a tech company thinks of a new product. You don't quite know what you want to build. Just for fun, you come up with a prototype, then a second and a third. You pay attention to whether you enjoy building one kind of prototype or another. You listen to feedback from others. You go back to the drawing board and try again."</comments>
+  </podcast>
+  <podcast>
+    <date>2024-09-17</date>
     <name url="https://podcast.ausha.co/violet">Violet - Le Podcast sur Prince et le Minneapolis Sound</name>
     <episode url="https://podcast.ausha.co/violet/art-official-age-le-testament-de-prince">Art Official Age : Le Testament de Prince ?</episode>
     <comments>Le dernier <i>concept album</i> de Prince. L'éclairage de Frédéric concernant les paroles était particulièrement révélateur. On nage en plein <i>new age</i>. C'était ça, Prince, aussi. Quant à la musique, j'aime bien, mais ça n'est pas forcément l'album qui retient le plus mon attention dans les dernières années de Prince.</comments>
