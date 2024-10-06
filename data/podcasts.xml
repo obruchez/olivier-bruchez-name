@@ -2,6 +2,12 @@
 <podcasts created="2016-05-10">
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date>2024-10-01</date>
+    <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
+    <episode url="https://www.samharris.org/podcasts/making-sense-episodes/382-the-eye-of-nature" number="382">The Eye of Nature - A Conversation with Richard Dawkins</episode>
+    <comments>It's hard to get one's head around how evolution really works in practice. It's a topic where Dawkins really shines.</comments>
+  </podcast>
+  <podcast>
     <date>2024-09-24</date>
     <name url="https://absolutelymental.com/">Absolutely Mental</name>
     <episode number="31">Stricly Science</episode>
