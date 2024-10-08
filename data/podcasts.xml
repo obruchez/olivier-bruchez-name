@@ -2,6 +2,12 @@
 <podcasts created="2016-05-10">
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date>2024-10-08</date>
+    <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
+    <episode url="https://www.samharris.org/podcasts/making-sense-episodes/385-ai-utopia" number="385">AI Utopia - A Conversation with Nick Bostrom</episode>
+    <comments>I've been thinking about artificial intelligence and our future as a species for more than 20 years now (Kurzweil, etc.). I was excited about it then. I'm more worried now. There are so many ways for things to go wrong. I'm convinced that if we can create intelligent entities (and maybe conscious ones), then we'll also be able to completely change their purpose, their psychology, and hence their values. This is fascinating. And frightening at the same time.</comments>
+  </podcast>
+  <podcast>
     <date>2024-10-01</date>
     <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
     <episode url="https://www.samharris.org/podcasts/making-sense-episodes/382-the-eye-of-nature" number="382">The Eye of Nature - A Conversation with Richard Dawkins</episode>
