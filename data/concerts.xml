@@ -7,6 +7,28 @@
   -->
   <introduction>A list of concerts I went to.</introduction>
   <concert>
+    <date>2024-10-06</date>
+    <location>Opéra de Lausanne, Lausanne, Switzerland</location>
+    <event><i>Guillaume Tell</i> opera</event>
+    <musician inst="vocals">Jean-Sébastien Bou</musician>
+    <musician inst="vocals">Olga Kulchynska</musician>
+    <musician inst="vocals">Julien Dran</musician>
+    <musician inst="vocals">Elisabeth Boudreault</musician>
+    <musician inst="vocals">Géraldine Chauvet</musician>
+    <musician inst="vocals">Frédéric Caton</musician>
+    <musician inst="vocals">Luigi De Donato</musician>
+    <musician inst="vocals">Sahy Ratia</musician>
+    <musician inst="vocals">Jean Miannay</musician>
+    <musician inst="vocals">Warren Kempf</musician>
+    <musician inst="vocals">Marc Scoffoni</musician>
+    <musician inst="orchestra">Orchestre de Chambre de Lausanne</musician>
+    <musician inst="conductor">Francesco Lanzillotta</musician>
+    <musician inst="choir">Chœur de l’Opéra de Lausanne</musician>
+    <musician inst="choir director">Alessandro Zuppardo</musician>
+    <rating>4.75</rating>
+    <comments><i>Guillaume Tell</i> opera (Gioachino Rossini), directed by Bruno Ravella. Apart from the overture, which is very famous, I didn't know anything about this long opera. All the singers were excellent. I was not particularly touched/moved by some of the themes (patriotism, freedom/tyranny).</comments>
+  </concert>
+  <concert>
     <date>2024-07-26</date>
     <location>Grande Scène, Nyon, Switzerland</location>
     <event>Paléo Festival de Nyon</event>
