@@ -2,6 +2,15 @@
 <!-- TODO: add pictures -->
 <exhibitions created="2011-05-17">
     <introduction>A list of exhibitions I visited.</introduction>
+    <exhibition>
+        <date>2024-10-13</date>
+        <name>Cézanne - Renoir - Regards croisés</name>
+        <museum>Fondation Pierre Gianadda, Martigny, Switzerland</museum>
+        <rating>4.75</rating>
+        <comments>I was more touched by Renoir's paintings. I really like his more ethereal approach and choice of background, dream-like colors.</comments>
+        <image>Cézanne - Renoir - Regards croisés.jpg</image>
+        <!-- <pictures url=""/> -->
+    </exhibition>
 	<exhibition>
         <date>2024-07-08</date>
         <name>Permanent exhibition</name>
@@ -405,7 +414,7 @@
     </exhibition>
     <exhibition>
         <date>2019-11-09</date>
-        <name>Rodin – Giacometti</name>
+        <name>Rodin - Giacometti</name>
         <museum>Fondation Pierre Gianadda, Martigny, Switzerland</museum>
         <rating>5.0</rating>
         <comments>"Exposition organisée par le Musée Rodin et la Fondation Giacometti". I really liked this exhibition, as I'm already a "fan" of Giacometti. The parallels/comparisons with Rodin made it clear that no artist exists in a vacuum.</comments>
