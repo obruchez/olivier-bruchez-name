@@ -3,6 +3,16 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Add rating to IMDb -->
   <movie>
+    <date>2024-10-17</date>
+    <theater home="true"/>
+    <director>Stanley Kubrick</director>
+    <title>The Shining</title>
+    <url>https://www.imdb.com/title/tt0081505/</url>
+    <rating>5.5</rating>
+    <comments>My first movie in 2 months and one I hadn't seen in 16 years. A recent episode of Very Bad Wizards made me realize that this is a masterpiece that I should watch more often. It's a disturbing, but beautifully filmed movie.</comments>
+    <image>The Shining.jpg</image>
+  </movie>
+  <movie>
     <date>2024-07-19</date>
     <theater home="true"/>
     <director>Wes Anderson</director>
