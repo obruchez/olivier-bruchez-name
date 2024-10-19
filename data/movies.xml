@@ -3,6 +3,16 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Add rating to IMDb -->
   <movie>
+    <date>2024-10-19</date>
+    <theater home="true"/>
+    <director>Alejandro Amenábar</director>
+    <title>The Others</title>
+    <url>https://www.imdb.com/title/tt0230600/</url>
+    <rating>4.25</rating>
+    <comments>Halfway through the movie, when the husband came back, I understood what was happening. And then, at two thirds of the movie, I realized that it was not the first time I was seeing it... I actually saw it when it came out, 22 years ago! That's quite funny. Anyway, it's not bad, far from it. But it's a very "easy-to-spoil" movie, like the other one with a very similar plot, from two years before.</comments>
+    <image>The Others.jpg</image>
+  </movie>
+  <movie>
     <date>2024-10-18</date>
     <theater home="true"/>
     <director>Jean-Luc Godard</director>
@@ -9029,7 +9039,10 @@
   </movie>
   <movie>
     <date>2002-01-09</date>
+    <director>Alejandro Amenábar</director>
     <title>The Others</title>
+    <url>https://www.imdb.com/title/tt0230600/</url>
+    <image>The Others.jpg</image>
   </movie>
   <movie>
     <date>2001-12-19</date>
