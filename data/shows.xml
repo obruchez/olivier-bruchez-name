@@ -15,10 +15,17 @@
     <image>Futurama.jpg</image>
   </show> -->
   <show>
-    <date></date>
+    <date>2024-10-22</date>
+    <name url="https://en.wikipedia.org/wiki/Rick_and_Morty">Rick and Morty</name>
+    <series url="https://en.wikipedia.org/wiki/Rick_and_Morty_(season_7)" type="season">7</series>
+    <comments>An uneven season (again). It includes one of the worst episodes of all time (<i>Rise of the Numbericons: The Movie</i>, what was that?), some very average episodes, and some excellent episodes. <i>Fear No Mort</i> was excellent and even included a reference (two references?) to <i>Lost</i>. <i>That's Amorte</i> was disturbing (in a good way).</comments>
+    <image>Rick and Morty.jpg</image>
+  </show>
+  <show>
+    <date>2024-10-21</date>
     <name url="https://en.wikipedia.org/wiki/Lost_(TV_series)">Lost</name>
     <series url="https://en.wikipedia.org/wiki/Lost_(season_6)" type="season">6</series>
-    <comments></comments>
+    <comments>Let's say it: <i>Lost</i> is probably one of my favorite TV shows ever. It's not without weaknesses, though. I know I'm repeating myself here, but the time travels don't make sense. They're supposed to give a science fiction vibe to the show, I guess, but it's just lazy. Like Hurley and Miles conclude during one of their discussions about time travel paradoxes, it doesn't make sense. But, hey, the island is mysterious, right? Pure laziness. The last episode and the church scene in particular is not one of my favorite moments either. The rest is pretty epic. I will miss this show (until the next time I rewatch it?).</comments>
     <image>Lost.jpg</image>
   </show>
   <show>
