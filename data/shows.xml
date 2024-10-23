@@ -1325,10 +1325,23 @@
     <image>The Office (US).jpg</image>
   </show>
   <show>
+    <date>2011-11-17</date>
+    <name url="https://en.wikipedia.org/wiki/The_IT_Crowd">The IT Crowd</name>
+    <series url="https://en.wikipedia.org/wiki/List_of_The_IT_Crowd_episodes#Series_4_(2010)" type="series">4</series>
+    <comments>We also watched the special episode on November 4, 2013.</comments>
+    <image>The IT Crowd.jpg</image>
+  </show>
+  <show>
     <date>2011-10-03</date>
     <name url="https://en.wikipedia.org/wiki/The_Office_(U.S._TV_series)">The Office (US)</name>
     <series url="https://en.wikipedia.org/wiki/The_Office_(U.S._season_1)" type="season">1</series>
     <image>The Office (US).jpg</image>
+  </show>
+  <show>
+    <date>2011-09-17</date>
+    <name url="https://en.wikipedia.org/wiki/The_IT_Crowd">The IT Crowd</name>
+    <series url="https://en.wikipedia.org/wiki/List_of_The_IT_Crowd_episodes#Series_3_(2008)" type="series">3</series>
+    <image>The IT Crowd.jpg</image>
   </show>
   <show>
     <date>2011-09-06</date>
@@ -1361,6 +1374,12 @@
     <image>Seinfeld.jpg</image>
   </show>
   <show>
+    <date>2011-06-22</date>
+    <name url="https://en.wikipedia.org/wiki/The_IT_Crowd">The IT Crowd</name>
+    <series url="https://en.wikipedia.org/wiki/List_of_The_IT_Crowd_episodes#Series_2_(2007)" type="series">2</series>
+    <image>The IT Crowd.jpg</image>
+  </show>
+  <show>
     <date>2011-06-20</date>
     <name url="https://en.wikipedia.org/wiki/Better_Off_Ted">Better Off Ted</name>
     <series url="https://en.wikipedia.org/wiki/Better_Off_Ted#Season_1_(2009)" type="season">1</series>
@@ -1384,6 +1403,12 @@
     <name url="https://en.wikipedia.org/wiki/How_I_Met_Your_Mother">How I Met Your Mother</name>
     <series url="https://en.wikipedia.org/wiki/How_I_Met_Your_Mother#Season_6" type="season">6</series>
     <image>How I Met Your Mother.jpg</image>
+  </show>
+  <show>
+    <date>2011-05-02</date>
+    <name url="https://en.wikipedia.org/wiki/The_IT_Crowd">The IT Crowd</name>
+    <series url="https://en.wikipedia.org/wiki/List_of_The_IT_Crowd_episodes#Series_1_(2006)" type="series">1</series>
+    <image>The IT Crowd.jpg</image>
   </show>
   <show>
     <date>2010-07-28</date>
@@ -1606,6 +1631,5 @@ OK: Friends 10
 ???: The Office 5
 
 Bref
-The IT Crowd
   -->
   
