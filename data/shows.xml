@@ -1515,7 +1515,19 @@
   <show>
     <date>2008-03-22</date>
     <name url="https://en.wikipedia.org/wiki/Prison_Break">Prison Break</name>
-    <series url="https://en.wikipedia.org/wiki/Prison_Break_(season_3)" type="season">3</series>
+    <series url="https://en.wikipedia.org/wiki/Prison_Break_season_3" type="season">3</series>
+    <image>Prison Break.jpg</image>
+  </show>
+  <show>
+    <date>2007-04-08</date>
+    <name url="https://en.wikipedia.org/wiki/Prison_Break">Prison Break</name>
+    <series url="https://en.wikipedia.org/wiki/Prison_Break_season_2" type="season">2</series>
+    <image>Prison Break.jpg</image>
+  </show>
+  <show>
+    <date>2007-02-09</date>
+    <name url="https://en.wikipedia.org/wiki/Prison_Break">Prison Break</name>
+    <series url="https://en.wikipedia.org/wiki/Prison_Break_season_1" type="season">1</series>
     <image>Prison Break.jpg</image>
   </show>
   <show>
@@ -1599,13 +1611,8 @@
 </shows>
 
 <!--
-???: Prison Break 1
-???: Prison Break 2
-OK ajouté: 22 mars 2008: Prison Break 3
-
-???: Lost 1
-???: Lost 2
-???: Lost 3
+???: Lost 2 (2006-2008)
+???: Lost 3 (2006-2008): 8 avril 2007 = following US air dates
 
 ???: The Simpsons 1-9
 
