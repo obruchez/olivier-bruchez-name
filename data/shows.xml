@@ -1228,6 +1228,11 @@
     <image>The Big Bang Theory.jpg</image>
   </show>
   <show>
+    <date>2013-05-29</date>
+    <name url="https://en.wikipedia.org/wiki/The_Spoils_of_Babylon">The Spoils of Babylon</name>
+    <image>The Spoils of Babylon.jpg</image>
+  </show>
+  <show>
     <date>2013-05-26</date>
     <name url="https://en.wikipedia.org/wiki/How_I_Met_Your_Mother">How I Met Your Mother</name>
     <series url="https://en.wikipedia.org/wiki/How_I_Met_Your_Mother#Season_8" type="season">8</series>
@@ -1602,6 +1607,5 @@ OK: Friends 10
 
 Bref
 The IT Crowd
-The Spoils of Babylon
   -->
   
