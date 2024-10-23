@@ -1332,6 +1332,12 @@
     <image>Community.jpg</image>
   </show>
   <show>
+    <date>2011-08-26</date>
+    <name url="https://en.wikipedia.org/wiki/Better_Off_Ted">Better Off Ted</name>
+    <series url="https://en.wikipedia.org/wiki/Better_Off_Ted#Season_2_(2009%E2%80%9310)" type="season">2</series>
+    <image>Better Off Ted.jpg</image>
+  </show>
+  <show>
     <date>2011-07-19</date>
     <name url="https://en.wikipedia.org/wiki/Community_(TV_series)">Community</name>
     <series url="https://en.wikipedia.org/wiki/Community_(season_1)" type="season">1</series>
@@ -1348,6 +1354,13 @@
     <name url="https://en.wikipedia.org/wiki/Seinfeld">Seinfeld</name>
     <series url="https://en.wikipedia.org/wiki/Seinfeld_(season_1)" type="season">1</series>
     <image>Seinfeld.jpg</image>
+  </show>
+  <show>
+    <date>2011-06-20</date>
+    <name url="https://en.wikipedia.org/wiki/Better_Off_Ted">Better Off Ted</name>
+    <series url="https://en.wikipedia.org/wiki/Better_Off_Ted#Season_1_(2009)" type="season">1</series>
+    <comments>Date probably wrong, but we finished the first season around late June-early July 2011.</comments>
+    <image>Better Off Ted.jpg</image>
   </show>
   <show>
     <date>2011-06-04</date>
@@ -1587,7 +1600,6 @@ OK: Friends 10
 ???: The Office 2
 ???: The Office 5
 
-Better Off Ted
 Bref
 The IT Crowd
 The Spoils of Babylon
