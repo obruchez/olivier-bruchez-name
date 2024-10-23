@@ -1509,7 +1509,7 @@
   <show>
     <date>2008-06-23</date>
     <name url="https://en.wikipedia.org/wiki/Lost_(TV_series)">Lost</name>
-    <series url="https://en.wikipedia.org/wiki/Lost_(season_4)" type="season">4</series>
+    <series url="https://en.wikipedia.org/wiki/Lost_season_4" type="season">4</series>
     <image>Lost.jpg</image>
   </show>
   <show>
@@ -1517,6 +1517,12 @@
     <name url="https://en.wikipedia.org/wiki/Prison_Break">Prison Break</name>
     <series url="https://en.wikipedia.org/wiki/Prison_Break_season_3" type="season">3</series>
     <image>Prison Break.jpg</image>
+  </show>
+  <show>
+    <date>2007-05-27</date>
+    <name url="https://en.wikipedia.org/wiki/Lost_(TV_series)">Lost</name>
+    <series url="https://en.wikipedia.org/wiki/Lost_season_3" type="season">3</series>
+    <image>Lost.jpg</image>
   </show>
   <show>
     <date>2007-04-08</date>
@@ -1531,9 +1537,15 @@
     <image>Prison Break.jpg</image>
   </show>
   <show>
+    <date>2006-06-04</date>
+    <name url="https://en.wikipedia.org/wiki/Lost_(TV_series)">Lost</name>
+    <series url="https://en.wikipedia.org/wiki/Lost_season_2" type="season">2</series>
+    <image>Lost.jpg</image>
+  </show>
+  <show>
     <date>2006-01-08</date>
     <name url="https://en.wikipedia.org/wiki/Lost_(TV_series)">Lost</name>
-    <series url="https://en.wikipedia.org/wiki/Lost_(season_1)" type="season">1</series>
+    <series url="https://en.wikipedia.org/wiki/Lost_season_1" type="season">1</series>
     <image>Lost.jpg</image>
   </show>
   <show>
@@ -1611,9 +1623,6 @@
 </shows>
 
 <!--
-???: Lost 2 (2006-2008)
-???: Lost 3 (2006-2008): 8 avril 2007 = following US air dates
-
 ???: The Simpsons 1-9
 
 ???: Futurama 1
