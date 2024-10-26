@@ -3,6 +3,30 @@
     <introduction>A list of books I read.</introduction>
     <!-- TODO: replace links to Google Books with links to Goodreads -->
     <book>
+        <date></date>
+        <title>Les Choses</title>
+        <subtitle>Une histoire des années soixante</subtitle>
+        <author>Georges Perec</author>
+        <publishingyear>1965</publishingyear>
+        <rating></rating>
+        <url>https://fr.wikipedia.org/wiki/Les_Choses</url>
+        <notes description="Kindle highlights"></notes>
+        <comments></comments>
+        <image>Les Choses.jpg</image>
+    </book>
+    <book>
+        <date></date>
+        <title>The Tripods: All For Nothing?</title>
+        <subtitle>The Secrets and Stories Behind the BBC Series</subtitle>
+        <author>Chris Jones</author>
+        <publishingyear>2024</publishingyear>
+        <rating></rating>
+        <url>https://books.google.com/books?id=ok3S0AEACAAJ</url>
+        <notes description="Kindle highlights"></notes>
+        <comments></comments>
+        <image>The Tripods - All For Nothing.jpg</image>
+    </book>
+    <book>
         <date>2024-10-17</date>
         <title>Bonjour tristesse</title>
         <author>Françoise Sagan</author>
