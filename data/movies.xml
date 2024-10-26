@@ -3,6 +3,17 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Add rating to IMDb -->
   <movie>
+    <date>2024-10-26</date>
+    <theater home="true"/>
+    <director>Chris Sanders</director>
+    <title>The Wild Robot</title>
+    <title language="fr">Le Robot sauvage</title>
+    <url>https://www.imdb.com/title/tt29623480/</url>
+    <rating>4.75</rating>
+    <comments>Vu avec notre fils de 6 ans, qui a beaucoup aimé. C'est très bien fait. Il y a des émotions. L'histoire est relativement originale. La seule chose qui me dérange, finalement, est un problème très fréquent avec les dessins animés / films d'animation : en humanisant les animaux, on n'en rend que plus évident la cruauté et l'absurdité de la vie sauvage/naturelle. Le rapprochement mort/humour est un peu troublant.</comments>
+    <image>The Wild Robot.jpg</image>
+  </movie>
+  <movie>
     <date>2024-10-19</date>
     <theater home="true"/>
     <director>Alejandro Amenábar</director>
@@ -20,7 +31,7 @@
     <url>https://www.imdb.com/title/tt0053472/</url>
     <rating>4.0</rating>
     <comments>Mon premier Godard. C'est très déroutant. Le côté décousu des dialogues. Le côté un peu "amateur" du tournage. Du côté de la Nouvelle Vague, j'avais bien plus aimé <i>Cléo de 5 à 7</i> ou <i>Les quatre cents coups</i>. J'avais aussi été... troublé par <i>La Pointe-courte</i>, toujours d'Agnès Varda.</comments>
-    <image></image>
+    <image>À bout de souffle.jpg</image>
   </movie>
   <movie>
     <date>2024-10-17</date>
