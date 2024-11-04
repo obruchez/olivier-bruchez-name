@@ -3,6 +3,15 @@
 <exhibitions created="2011-05-17">
     <introduction>A list of exhibitions I visited.</introduction>
     <exhibition>
+        <date>2024-11-02</date>
+        <name>Chefs-d’œuvre du musée Langmatt. Boudin, Renoir, Cézanne, Gauguin...</name>
+        <museum>Fondation de l’Hermitage, Lausanne, Switzerland</museum>
+        <rating>5.0</rating>
+        <comments>An impressive collection. Other works by Cézanne and Renoir were also presented at Fondation Pierre Gianadda, so I was in familiar territory.</comments>
+        <image>Chefs-d’œuvre du musée Langmatt.jpg</image>
+        <!-- <pictures url=""/> -->
+    </exhibition>
+    <exhibition>
         <date>2024-10-13</date>
         <name>Cézanne - Renoir - Regards croisés</name>
         <museum>Fondation Pierre Gianadda, Martigny, Switzerland</museum>
