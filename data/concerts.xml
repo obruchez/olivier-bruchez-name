@@ -7,6 +7,27 @@
   -->
   <introduction>A list of concerts I went to.</introduction>
   <concert>
+    <date>2024-10-30</date>
+    <location>Salle Paderewski, Casino de Montbenon, Lausanne, Switzerland</location>
+    <event>JazzOnze+ Festival Lausanne</event>
+    <musician inst="tenor saxophone, alto saxophone" main="true">Branford Marsalis</musician>
+    <musician inst="piano">Joey Calderazzo</musician>
+    <musician inst="bass">Eric Revis</musician>
+    <musician inst="drums">Justin Faulkner</musician>
+    <rating>4.75</rating>
+    <comments>I didn't really know what to expect, as I was not familiar with Marsalis' work outside of what he did with Miles Davis and Sting, and I only knew Joey Calderazzo from his work with Michael Brecker. The musicianship was great and the musicians seemed happy to play (laughing and exchanging jokes). My only reservation was that Justin Faulkner, the drummer, can be very, very loud and took a bit too much space to my liking. At the same time, he was quite impressive.</comments>
+  </concert>
+  <concert>
+    <date>2024-10-29</date>
+    <location>Salle Paderewski, Casino de Montbenon, Lausanne, Switzerland</location>
+    <event>JazzOnze+ Festival Lausanne</event>
+    <musician inst="bass, vocals" main="true">Avishai Cohen</musician>
+    <musician inst="piano">Guy Moskovich</musician>
+    <musician inst="drums">Roni Kaspi</musician>
+    <rating>5.0</rating>
+    <comments>A tight and generous performance. Roni Kaspi was quite impressive, in particular.</comments>
+  </concert>
+  <concert>
     <date>2024-10-06</date>
     <location>Opéra de Lausanne, Lausanne, Switzerland</location>
     <event><i>Guillaume Tell</i> opera</event>
@@ -2895,11 +2916,11 @@
     <location>Kaufleuten, Zürich, Switzerland</location>
     <musician inst="bass, bass clarinet, saxophone" main="true">Marcus Miller</musician>
     <musician inst="guitar">Dean Brown</musician>
-    <musician inst="saxophone">Keith Anderson (?)</musician>
+    <musician inst="saxophone">Keith Anderson</musician>
     <musician inst="trumpet">Michael "Patches" Stewart</musician>
     <musician inst="drums">Poogie Bell</musician>
-    <musician inst="bass">Big Doug Epting (?)</musician>
-    <comments></comments>
+    <musician inst="bass">Big Doug Epting</musician>
+    <comments>Not sure about Keith Anderson on saxophone and Big Doug Epting on bass.</comments>
   </concert>
   <concert>
     <date>2004-11-07</date>
@@ -2934,10 +2955,11 @@
     <event>Francomanias</event>
     <group>-M-</group>
     <musician inst="guitar, vocals" main="true">Mathieu Chedid</musician>
-    <musician inst="bass">Vincent Ségal (?)</musician>
-    <musician inst="drums">Cyril Atef (?)</musician>
-    <musician inst="guitar">Sébastien Martel (?)</musician>
-    <musician inst="bass, keyboards, DJ">Shalom (?)</musician>
+    <musician inst="bass">Vincent Ségal</musician>
+    <musician inst="drums">Cyril Atef</musician>
+    <musician inst="guitar">Sébastien Martel</musician>
+    <musician inst="bass, keyboards, DJ">Shalom</musician>
+    <comments>Uncertain musicians.</comments>
   </concert>
   <concert>
     <date>2004-05-21</date>
@@ -3185,8 +3207,8 @@
     <group>Brad Mehldau Trio</group>
     <musician inst="piano" main="true">Brad Mehldau</musician>
     <musician inst="bass">Larry Grenadier</musician>
-    <musician inst="drums">Jorge Rossy (?)</musician>
-    <comments></comments>
+    <musician inst="drums">Jorge Rossy</musician>
+    <comments>Not sure about Jorge Rossy on drums.</comments>
   </concert>
   <concert>
     <date>2003-07-08</date>
@@ -3222,9 +3244,9 @@
     <location>Chapiteau, Cully, Switzerland</location>
     <event>Cully Jazz Festival</event>
     <musician inst="piano" main="true">Abdullah Ibrahim</musician>
-    <musician inst="bass">Belden Bullock (?)</musician>
-    <musician inst="drums">Sipho Kunene (?)</musician>
-    <comments></comments>
+    <musician inst="bass">Belden Bullock</musician>
+    <musician inst="drums">Sipho Kunene</musician>
+    <comments>Uncertain musicians.</comments>
   </concert>
   <concert>
     <date>2003-03-18</date>
@@ -3363,10 +3385,10 @@
     <location>Casino, Montreux, Switzerland</location>
     <event>Montreux Jazz Festival</event>
     <musician inst="drums" main="true">Roy Haynes</musician>
-    <musician inst="trumpet">Nicholas Payton (?)</musician>
-    <musician inst="piano">Dave Kikoski (?)</musician>
-    <musician inst="saxophone">Kenny Garrett (?)</musician>
-    <musician inst="bass">Christian McBride (?)</musician>
+    <musician inst="saxophone">Kenny Garrett</musician>
+    <musician inst="trumpet">Nicholas Payton</musician>
+    <musician inst="bass">Christian McBride</musician>
+    <musician inst="piano">Dave Kikoski</musician>
     <comments/>
   </concert>
   <concert>
@@ -3453,10 +3475,10 @@
     <location>Auditorium Stravinski, Montreux, Switzerland</location>
     <event>Montreux Jazz Festival</event>
     <musician inst="piano, keyboards" main="true">Herbie Hancock</musician>
+    <musician inst="bass">Matthew Garrison</musician>
     <musician inst="drums">Terri Lyne Carrington</musician>
     <musician inst="trumpet">Wallace Roney</musician>
-    <musician inst="keyboards">Darrell Diaz (?)</musician>
-    <musician inst="bass">Matthew Garrison</musician>
+    <musician inst="keyboards">Darrell Diaz</musician>
     <musician inst="DJ">DJ Disk</musician>
     <comments/>
   </concert>
@@ -3465,12 +3487,12 @@
     <location>Auditorium Stravinski, Montreux, Switzerland</location>
     <event>Montreux Jazz Festival</event>
     <musician inst="bass" main="true">Marcus Miller</musician>
+    <musician inst="trumpet">Michael "Patches" Stewart</musician>
+    <musician inst="saxophone">Roger Byam</musician>
     <musician inst="guitar">Dean Brown</musician>
     <musician inst="drums">Gerry Brown</musician>
-    <musician inst="saxophone">Roger Byam (?)</musician>
-    <musician inst="trumpet">Michael "Patches" Stewart</musician>
     <musician inst="keyboards">Leroy "Scooter" Taylor</musician>
-    <comments/>
+    <comments>Not sure about Roger Byam on saxophone.</comments>
   </concert>
   <concert>
     <date>2001-07-15</date>
