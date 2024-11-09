@@ -8,18 +8,12 @@
     <comments></comments>
     <image>Bob's Burgers.jpg</image>
   </show> -->
-  <!-- <show>
-    <date></date>
-    <name url="https://en.wikipedia.org/wiki/Futurama">Futurama</name>
-    <series url="https://en.wikipedia.org/wiki/Futurama_(season_8)" type="season">8</series>
-    <image>Futurama.jpg</image>
-  </show> -->
   <show>
     <date></date>
     <name url="https://en.wikipedia.org/wiki/Blackadder">Blackadder</name>
-    <series url="https://en.wikipedia.org/wiki/The_Black_Adder" type="series">1</series>
+    <series url="https://en.wikipedia.org/wiki/The_Black_Adder" type="series">2</series>
     <comments></comments>
-    <image>Blackadder1.jpg</image>
+    <image>Blackadder2.jpg</image>
   </show>
   <show>
     <date></date>
@@ -33,6 +27,13 @@
     <series url="https://en.wikipedia.org/wiki/Severance_(TV_series)" type="season">1</series>
     <comments>Watching season 1 again, two years and a half later, before season 2 is aired.</comments>
     <image>Severance.jpg</image>
+  </show>
+  <show>
+    <date>2024-11-06</date>
+    <name url="https://en.wikipedia.org/wiki/Blackadder">Blackadder</name>
+    <series url="https://en.wikipedia.org/wiki/The_Black_Adder" type="series">1</series>
+    <comments>I'm not sure I saw this first series on television. I'm not hooked yet. I'm surprised this is the only series written by Rowan Atkinson (with Richard Curtis).</comments>
+    <image>Blackadder1.jpg</image>
   </show>
   <show>
     <date>2024-10-22</date>
