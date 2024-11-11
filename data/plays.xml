@@ -9,6 +9,113 @@
     <actor></actor>
   -->
   <play>
+    <date>2024-11-10</date>
+    <location>Petit Théâtre, Lausanne, Switzerland</location>
+    <name>Lavomatic</name>
+    <author>Hélène Cattin &amp; Sandra Gaudin</author>
+    <director>Sandra Gaudin</director>
+    <actor>Hugo Braillard</actor>
+    <actor>Céline Goormaghtigh</actor>
+    <actor>Victor Poltier</actor>
+    <actor>Christian Scheidt</actor>
+    <rating>4.75</rating>
+    <comments>Une pièce sur les apparences, la différence, les stéréotypes, etc. Encore une belle création au Petit Théâtre.</comments>
+    <image>Lavomatic.jpg</image>
+    <!--
+    Création – compagnie
+	Cie Sandra Gaudin
+
+	Création – coproduction
+	Le Petit Théâtre de Lausanne
+
+	Scénographie et lumière
+	Christophe Pitoiset
+
+	Musique
+	Alberto Malo
+
+	Vidéo
+	Francesco Cesalli
+
+	Son
+	Bernard Amaudruz
+
+	Costumes
+	Eléonore Cassaigneau assistée de Samantha Landragin
+
+	Perruques
+	Olivier Schawalder
+
+	Maquillage
+	Sonia Geneux
+
+	Construction
+	Frédéric Baudoin assisté de Solène Fuehrer
+
+	Régie
+	Bernard Amaudruz et Guillaume Gex
+    -->
+  </play>
+  <play>
+    <date>2024-11-08</date>
+    <location>Théâtre Kléber-Méleau, Renens, Switzerland</location>
+    <name>Les Fourberies de Scapin</name>
+    <author>Molière</author>
+    <director>Omar Porras</director>
+    <actor>Olivia Dalric</actor>
+    <actor>Peggy Dias</actor>
+    <actor>Karl Eberhard</actor>
+    <actor>Alexandre Ethève</actor>
+    <actor>Caroline Fouilhoux</actor>
+    <actor>Pascal Hunziker</actor>
+    <actor>Laurent Natrella</actor>
+    <actor>Marie-Evane Schallenberger</actor>
+    <rating>4.75</rating>
+    <comments>Encore une adaptation déjantée. Peut-être un peu trop. Des explosions, des chansons, de l'humour absurde. En principe, j'aurais dû bien aimer. La fatigue, peut-être ? On était peut-être un peu trop constamment dans la démesure.</comments>
+    <image>Les Fourberies de Scapin.jpg</image>
+    <!--
+	Assistanat à la mise en scène :
+	Marie Robert
+	Adaptation et dramaturgie : 
+	Omar Porras et Marco Sabbatini
+	Collaboration artistique : 
+	Alexandre Ethève
+	Scénographie et masques : 
+	Fredy Porras
+	Musique : 
+	Erick Bongcam et Omar Porras (avec la collaboration de Christophe Fossemalle)
+	Création lumière :
+	Omar Porras et Mathias Roche
+	Costumes :
+	Bruno Fatalot
+	Assistantes costumes :
+	Julie Raonison
+	Leïla Christen
+	Postiches, perruques et maquillages :
+	Véronique Soulier-Nguyen
+	assistée de Léa Arraez
+	Accessoires :
+	Laurent Boulanger
+	Construction décor :
+	Jean-Marc Bassoli
+	Alexandre Genoud
+	Olivier Lorétan †
+	Yvan Schlatter
+	Noé Stehlé
+	Peinture décor :
+	Béatrice Lipp
+	Lola Sacier
+	Régie générale :
+	Gabriel Sklenar
+	Régie son :
+	Emmanuel Nappey
+	Ben Tixhon
+	Régie lumière :
+	Marc-Etienne Despland
+	Denis Waldvogel
+    -->
+  </play>
+  <play>
     <date>2024-09-01</date>
     <location>Temple Saint-Vincent, Montreux, Switzerland</location>
     <name>Sorcière</name>
@@ -84,7 +191,7 @@
     <actor>Eric Prat</actor>
     <actor>Mikael Fau</actor>
     <actor>Cécile Brune</actor>
-    <rating>5.0</rating>
+    <rating>5.25</rating>
     <comments>Une superbe adaptation déjantée de cette oeuvre de Jules Vernes, dans un théâtre que nous découvrions avec ma femme et mon fils.</comments>
     <image>20’000 Lieues sous les mers.jpg</image>
     <!--
@@ -108,8 +215,8 @@
     <actor>Lorin Kopp</actor>
     <actor>Verena Lopes</actor>
     <actor>Yvan Richardet</actor>
-    <rating>5.0</rating>
-    <comments>Encore un excellent spectacle, autant pours les enfants que pour les parents, au Petit Théâtre de Lausanne. La vidéo (en direct ou non) était bien intégrée au reste du spectacle, de manière inventive.</comments>
+    <rating>5.25</rating>
+    <comments>Encore un excellent spectacle, autant pour les enfants que pour les parents, au Petit Théâtre de Lausanne. La vidéo (en direct ou non) était bien intégrée au reste du spectacle, de manière inventive.</comments>
     <image>Les Voyages de Gulliver.jpg</image>
     <!--
 	Musique
@@ -276,7 +383,7 @@
     <actor>Frédéric Ozier</actor>
     <actor>Léo Piccirelli</actor>
     <actor>Salvatore Orlando</actor>
-    <rating>5.0</rating>
+    <rating>5.25</rating>
     <comments>Une superbe pièce vue avec mon fils. Je ne m'attendais pas à quelque chose d'aussi bien fait. Une vraie réussite, pleine de poésie et d'imagination.</comments>
     <image>Nils, le merveilleux voyage.jpg</image>
     <!--
@@ -3388,9 +3495,5 @@ Conception affiche :        Bram Dauw
     <comments></comments>
     <image></image>
   </play>
-  -->
-
-  <!--
-  Add Akua (2005-2006?)
   -->
 </plays>
