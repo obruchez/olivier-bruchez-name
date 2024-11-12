@@ -2,6 +2,12 @@
 <podcasts created="2016-05-10">
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date>2024-11-12</date>
+    <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
+    <episode url="https://www.samharris.org/podcasts/making-sense-episodes/391-the-reckoning" number="391">The Reckoning</episode>
+    <comments>"Sam Harris discusses the result of the 2024 presidential election, the lessons that the Democratic Party should draw from it, and the implications of a second Trump term." A reasonable and cathartic take on the (Trump/US) situation.</comments>
+  </podcast>
+  <podcast>
     <date>2024-11-05</date>
     <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
     <episode url="https://www.samharris.org/podcasts/making-sense-episodes/386-information-social-order" number="386">Information &amp; Social Order - A Conversation with Yuval Noah Harari</episode>
