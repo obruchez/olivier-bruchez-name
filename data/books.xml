@@ -4,18 +4,6 @@
     <!-- TODO: replace links to Google Books with links to Goodreads -->
     <book>
         <date></date>
-        <title>Les Choses</title>
-        <subtitle>Une histoire des années soixante</subtitle>
-        <author>Georges Perec</author>
-        <publishingyear>1965</publishingyear>
-        <rating></rating>
-        <url>https://fr.wikipedia.org/wiki/Les_Choses</url>
-        <notes description="Kindle highlights"></notes>
-        <comments></comments>
-        <image>Les Choses.jpg</image>
-    </book>
-    <book>
-        <date></date>
         <title>The Singularity Is Nearer</title>
         <subtitle>When We Merge with AI</subtitle>
         <author>Ray Kurzweil</author>
@@ -37,6 +25,18 @@
         <notes description="Kindle highlights"></notes>
         <comments></comments>
         <image>The Tripods - All For Nothing.jpg</image>
+    </book>
+    <book>
+        <date>2024-11-14</date>
+        <title>Les Choses</title>
+        <subtitle>Une histoire des années soixante</subtitle>
+        <author>Georges Perec</author>
+        <publishingyear>1965</publishingyear>
+        <rating>4.5</rating>
+        <url>https://fr.wikipedia.org/wiki/Les_Choses</url>
+        <notes description="Kindle highlights"></notes>
+        <comments>Le style de Perec (en tout cas dans ce livre, je ne connais pas les autres) est déconcertant. Il n'y a pas vraiment d'action, d'intrigue, presque uniquement des descriptions. Pas de dialogue non plus. Les longues énumérations sont fréquentes. Toute la partie consacrée à Sfax est spéciale également. Je l'ai lue/ressentie comme une sorte de rêve.</comments>
+        <image>Les Choses.jpg</image>
     </book>
     <book>
         <date>2024-10-17</date>
