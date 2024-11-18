@@ -2,6 +2,12 @@
 <podcasts created="2016-05-10">
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date>2024-11-18</date>
+    <name url="https://podcast.ausha.co/violet">Violet - Le Podcast sur Prince et le Minneapolis Sound</name>
+    <episode url="https://podcast.ausha.co/violet/hitnrun-phase-one">HITnRUN Phase One : Minneapolis Reloaded</episode>
+    <comments>Un album que j'aime beaucoup, mais qui ne fait pas l'unanimité. Je suis content d'entendre que Nicolas l'apprécie également.</comments>
+  </podcast>
+  <podcast>
     <date>2024-11-12</date>
     <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
     <episode url="https://www.samharris.org/podcasts/making-sense-episodes/391-the-reckoning" number="391">The Reckoning</episode>
