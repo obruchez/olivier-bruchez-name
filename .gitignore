@@ -1,4 +1,5 @@
 .bsp
+.java-version
 .history
 /*.iml
 /.classpath
