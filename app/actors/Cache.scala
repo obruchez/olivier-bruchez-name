@@ -8,8 +8,8 @@ import org.joda.time.DateTime
 import play.api.Logging
 
 import scala.collection.mutable
-import scala.concurrent.Future
 import scala.concurrent.duration._
+import scala.concurrent.{ExecutionContextExecutor, Future}
 
 sealed trait CacheMessage
 case class GetCache[F <: Fetchable](fetchable: F) extends CacheMessage
@@ -27,7 +27,7 @@ class Cache extends Actor with Logging {
   private val cachedValues = mutable.Map[Fetchable, CachedValue]()
   private val subscribers = mutable.Map[Fetchable, Seq[ActorRef]]().withDefaultValue(Seq())
 
-  def receive = {
+  def receive: Receive = {
     case GetCache(fetchable) =>
       logger.info(s"GetCache(${fetchable.name})")
 
@@ -56,8 +56,8 @@ class Cache extends Actor with Logging {
 }
 
 object Cache {
-  private implicit val timeout = Timeout(30.seconds)
-  private implicit val dispatcher = Master.system.dispatcher
+  private implicit val timeout: Timeout = Timeout(30.seconds)
+  private implicit val dispatcher: ExecutionContextExecutor = Master.system.dispatcher
 
   def fileContent(fileSource: FileSource): Future[FileContent] = get(fileSource)
 
