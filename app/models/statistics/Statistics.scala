@@ -158,7 +158,6 @@ case class Statistics(
   private val PersonsToIgnore = Set("", "?", "etc.")
 
   private def ratingsDistribution(ratings: Seq[Double]): Seq[(String, Int)] = {
-    import scala.math.BigDecimal
 
     for {
       rating <- BigDecimal(0.0) to BigDecimal(5.0) by BigDecimal(0.25)
@@ -177,12 +176,15 @@ case class Statistics(
     } yield (year.toString, minAvgMax)
 
   protected def yearlyCounts(listItems: Seq[ListItem]): Seq[(String, Int)] = {
-    val yearsAndCounts =
-      for {
-        (yearOption, items) <- listItems.groupBy(li => li.date.year).toSeq
-        year <- yearOption
-      } yield (year, items.size)
+    val itemCountsByYear = listItems.groupBy(li => li.date.year).flatMap { case (yearOpt, items) =>
+      yearOpt.map(year => year -> items.size)
+    }
 
-    yearsAndCounts.sortBy(_._1).map { case (year, count) => (year.toString, count) }
+    val minYear = itemCountsByYear.keys.min
+    val maxYear = itemCountsByYear.keys.max
+
+    (minYear to maxYear).map { year =>
+      year.toString -> itemCountsByYear.getOrElse(year, 0)
+    }
   }
 }
