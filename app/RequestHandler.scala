@@ -1,7 +1,7 @@
 import play.api.Logger
 import play.api.http._
 import play.api.mvc.{Handler, RequestHeader}
-import play.api.routing._
+import play.api.routing.Router
 import play.core.DefaultWebCommands
 
 import javax.inject.Inject
@@ -14,7 +14,7 @@ class RequestHandler @Inject() (
 ) extends DefaultHttpRequestHandler(
       new DefaultWebCommands,
       None,
-      router,
+      () => router,
       errorHandler,
       configuration,
       filters.filters
