@@ -1,8 +1,8 @@
 package actors
 
-import akka.actor._
-import akka.routing.RoundRobinPool
 import controllers.Sitemap
+import org.apache.pekko.actor._
+import org.apache.pekko.routing.RoundRobinPool
 import org.joda.time.DateTime
 import play.api.Logging
 
@@ -15,7 +15,7 @@ case class CheckCache(force: Boolean, reschedule: Boolean) extends MasterMessage
 class Master extends Actor with Logging {
   import context._
 
-  def receive = { case CheckCache(force, reschedule) =>
+  def receive: Receive = { case CheckCache(force, reschedule) =>
     logger.info(s"Checking cache...")
 
     // Retrieve caching times of all fetchables from Sitemap
@@ -51,12 +51,12 @@ class Master extends Actor with Logging {
 }
 
 object Master {
-  val CheckPeriod = 60.seconds
+  private val CheckPeriod = 60.seconds
 
-  lazy val system = ActorSystem("System")
-  lazy val master = system.actorOf(Props[Master](), name = "master")
-  lazy val cache = system.actorOf(Props[Cache](), name = "cache")
-  lazy val fetcherRouter =
+  lazy val system: ActorSystem = ActorSystem("System")
+  private lazy val master = system.actorOf(Props[Master](), name = "master")
+  lazy val cache: ActorRef = system.actorOf(Props[Cache](), name = "cache")
+  lazy val fetcherRouter: ActorRef =
     system.actorOf(RoundRobinPool(10).props(Props(new Fetcher(cache))), "fetcher-pool")
 
   // @todo add hook for call to stop()

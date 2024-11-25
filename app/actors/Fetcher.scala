@@ -1,7 +1,7 @@
 package actors
 
-import akka.actor.{Actor, ActorRef}
 import models.Fetchable
+import org.apache.pekko.actor.{Actor, ActorRef}
 import play.api.Logging
 
 import scala.util._
@@ -10,7 +10,7 @@ sealed trait FetcherMessage
 case class Fetch(fetchable: Fetchable) extends FetcherMessage
 
 class Fetcher(cache: ActorRef) extends Actor with Logging {
-  def receive = { case Fetch(fetchable) =>
+  def receive: Receive = { case Fetch(fetchable) =>
     logger.info(s"Fetch(${fetchable.name})...")
 
     fetch(fetchable)

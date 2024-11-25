@@ -1,9 +1,9 @@
 package actors
 
-import akka.actor._
-import akka.pattern._
-import akka.util.Timeout
 import models._
+import org.apache.pekko.actor._
+import org.apache.pekko.pattern._
+import org.apache.pekko.util.Timeout
 import org.joda.time.DateTime
 import play.api.Logging
 
@@ -22,7 +22,7 @@ case class CachingTimeResult[F <: Fetchable](fetchable: F, cachingTime: Option[D
     extends CacheResultMessage
 
 class Cache extends Actor with Logging {
-  case class CachedValue(cacheable: Cacheable, cachingTime: DateTime)
+  private case class CachedValue(cacheable: Cacheable, cachingTime: DateTime)
 
   private val cachedValues = mutable.Map[Fetchable, CachedValue]()
   private val subscribers = mutable.Map[Fetchable, Seq[ActorRef]]().withDefaultValue(Seq())
