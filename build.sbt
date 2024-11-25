@@ -11,17 +11,17 @@ libraryDependencies ++= Seq(jdbc, ehcache, ws)
 libraryDependencies ++= Seq(
   guice,
   "com.github.rjeschke" % "txtmark" % "0.13",
-  "com.google.apis" % "google-api-services-blogger" % "v3-rev82-1.25.0",
-  "com.google.api-client" % "google-api-client" % "1.35.2",
-  "com.google.http-client" % "google-http-client" % "1.42.3",
-  "com.google.http-client" % "google-http-client-jackson2" % "1.42.3",
-  "com.google.oauth-client" % "google-oauth-client" % "1.34.1",
-  "com.google.oauth-client" % "google-oauth-client-java6" % "1.34.1",
-  "com.google.oauth-client" % "google-oauth-client-jetty" % "1.34.1",
-  "joda-time" % "joda-time" % "2.12.2",
-  "org.apache.commons" % "commons-text" % "1.10.0",
-  "org.jsoup" % "jsoup" % "1.15.4",
-  "org.scalatestplus.play" %% "scalatestplus-play" % "5.1.0" % Test
+  "com.google.apis" % "google-api-services-blogger" % "v3-rev20221220-2.0.0",
+  "com.google.api-client" % "google-api-client" % "2.6.0",
+  "com.google.http-client" % "google-http-client" % "1.44.1",
+  "com.google.http-client" % "google-http-client-jackson2" % "1.44.2",
+  "com.google.oauth-client" % "google-oauth-client" % "1.35.0",
+  "com.google.oauth-client" % "google-oauth-client-java6" % "1.35.0",
+  "com.google.oauth-client" % "google-oauth-client-jetty" % "1.36.0",
+  "joda-time" % "joda-time" % "2.12.7",
+  "org.apache.commons" % "commons-text" % "1.11.0",
+  "org.jsoup" % "jsoup" % "1.18.1",
+  "org.scalatestplus.play" %% "scalatestplus-play" % "7.0.1" % Test
 )
 
 routesGenerator := InjectedRoutesGenerator
