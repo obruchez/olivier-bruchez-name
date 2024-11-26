@@ -31,7 +31,7 @@ ThisBuild / scalafmtOnCompile := true
 Debian / requiredStartFacilities := Some("$remote_fs $syslog $network")
 Debian / requiredStopFacilities := Some("$remote_fs $syslog $network")
 
-import com.typesafe.sbt.packager.docker._
+import com.typesafe.sbt.packager.docker.*
 
 dockerChmodType := DockerChmodType.UserGroupWriteExecute
 dockerPermissionStrategy := DockerPermissionStrategy.CopyChown
