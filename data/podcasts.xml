@@ -2,6 +2,24 @@
 <podcasts created="2016-05-10">
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date>2024-12-05</date>
+    <name url="https://freakonomics.com/">Freakonomics Radio</name>
+    <episode url="https://freakonomics.com/podcast/is-the-internet-being-ruined/" number="253">Is the Internet Being Ruined?</episode>
+    <comments>Answer: yes. It is being ruined by social media, by corporations, by closed platforms, etc. We need more open data. Open forums. Open discussions. Collaborative platforms. We need less addiction-driven, ad-driven services.</comments>
+  </podcast>
+  <podcast>
+    <date>2024-12-05</date>
+    <name url="https://www.arteradio.com/">ARTE Radio Podcasts</name>
+    <episode url="https://www.arteradio.com/son/61660591/mon_travail_ne_sert_rien">Mon travail ne sert à rien</episode>
+    <comments>Rien de particulièrement nouveau. L'utilité d'un travail est subjective, mais il y a probablement des postes ou des professions entières qui pourraient être supprimés sans que cela ait un impact négatif sur la société (au contraire). J'ai eu envie d'écouter cet épisode en particulier parce que nous sommes en train de regarder à nouveau la première saison de <i>Severance</i>, qui traite de ce sujet, entre autres.</comments>
+  </podcast>
+  <podcast>
+    <date>2024-12-03</date>
+    <name url="https://ataripodcast.libsyn.com/">The Atari 8-bit Podcast</name>
+    <episode url="https://ataripodcast.libsyn.com/antic-interview-11-the-atari-8-bit-podcast-david-small">ANTIC Interview 11 - David Small</episode>
+    <comments>A long time ago (in the early 90s), I loved reading Dave Small's articles (in French, in ST Magazine). I should probably read them again. I'm struck by all the people Dave met and worked with. You can tell his work was in great part about the people, maybe even more than the computers.</comments>
+  </podcast>
+  <podcast>
     <date>2024-11-18</date>
     <name url="https://podcast.ausha.co/violet">Violet - Le Podcast sur Prince et le Minneapolis Sound</name>
     <episode url="https://podcast.ausha.co/violet/hitnrun-phase-one">HITnRUN Phase One : Minneapolis Reloaded</episode>
