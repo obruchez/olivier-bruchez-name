@@ -9,6 +9,38 @@
     <actor></actor>
   -->
   <play>
+    <date>2024-12-05</date>
+    <location>Salle Charles Apothéloz, Théâtre de Vidy, Lausanne, Switzerland</location>
+    <name>L'Amante anglaise</name>
+    <author>Marguerite Duras</author>
+    <director>Émilie Charriot</director>
+    <actor>Nicolas Bouchaud</actor>
+    <actor>Laurent Poitrenaux</actor>
+    <actor>Dominique Reymond</actor>
+    <rating>4.5</rating>
+    <comments>Une mise en scène très dépouillée. Un peu trop, peut-être ? J'ai eu de la peine à suivre. Certains éléments étaient bien trouvés, pourtant (les comédiens dans et autour du public, etc.).</comments>
+    <image>L'Amante anglaise.jpg</image>
+    <!--
+	Dramaturgie
+	Olivia Barron
+
+	Lumière et scénographie
+	Yves Godin
+
+	Costumes
+	Caroline Spieth
+
+	Production et administration
+	Morgane Kursner
+
+	Diffusion
+	EPOC Productions - Emmanuelle Ossena
+
+	Rh et comptabilité
+	Christèle Fürbringer
+    -->
+  </play>
+  <play>
     <date>2024-11-10</date>
     <location>Petit Théâtre, Lausanne, Switzerland</location>
     <name>Lavomatic</name>
