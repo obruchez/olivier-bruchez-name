@@ -26,6 +26,17 @@
         <comments></comments>
         <image>The Tripods - All For Nothing.jpg</image>
     </book>
+	<book>
+        <date>2024-11-30</date>
+        <title>Comme un roman</title>
+        <author>Daniel Pennac</author>
+        <publishingyear>1992</publishingyear>
+        <rating>5.0</rating>
+        <url>https://fr.wikipedia.org/wiki/Comme_un_roman</url>
+        <notes description="Kindle highlights"></notes>
+        <comments>C'est la première fois que je relis ce livre depuis 1996. C'est un bon rappel pour moi. Désacraliser la lecture, c'est important. J'ai trop tendance à vouloir lire "utile". Lire des classiques. Il faut que je me donne plus de liberté. C'est aussi l'occasion de lancer une réflexion à propos de notre fils de 6 ans, qui adore qu'on lui lise des livres. Il faut que nous trouvions un moyen de conserver ce rapport enthousiaste qu'il entretient avec les livres. Sans tomber dans les pièges que décrit Pennac (le dogme - "il faut lire").</comments>
+        <image>Comme un roman.jpg</image>
+    </book>
     <book>
         <date>2024-11-14</date>
         <title>Les Choses</title>
