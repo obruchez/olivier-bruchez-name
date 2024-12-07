@@ -3,6 +3,14 @@
 <exhibitions created="2011-05-17">
     <introduction>A list of exhibitions I visited.</introduction>
     <exhibition>
+        <date>2024-12-01</date>
+        <name>Matthew Wong - Vincent Van Gogh</name>
+        <museum>Kunsthaus, Zürich, Switzerland</museum>
+        <rating>5.0</rating>
+        <comments>I didn't know anything about Wong. His life is tragic. Like Van Gogh's. The parallel between their lives is striking.</comments>
+        <image>Matthew Wong - Vincent Van Gogh.jpg</image>
+    </exhibition>
+    <exhibition>
         <date>2024-11-02</date>
         <name>Chefs-d’œuvre du musée Langmatt. Boudin, Renoir, Cézanne, Gauguin...</name>
         <museum>Fondation de l’Hermitage, Lausanne, Switzerland</museum>
