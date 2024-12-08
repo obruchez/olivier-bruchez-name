@@ -7,6 +7,16 @@
   -->
   <introduction>A list of concerts I went to.</introduction>
   <concert>
+    <date>2024-12-08</date>
+    <location>Salle Paderewski, Casino de Montbenon, Lausanne, Switzerland</location>
+    <event>Musique &amp; gourmandises</event>
+    <musician inst="director">Maxime Pitois</musician>
+    <musician inst="orchestra">Orchestre de Ribaupierre</musician>
+    <musician inst="violin">Iván Orlín</musician>
+    <rating>4.75</rating>
+    <comments>We could only stay for the first part (Tchaïkovski, Concerto pour violon en ré majeur op. 35), unfortunately, as our son was sick. The soloist was impressive.</comments>
+  </concert>
+  <concert>
     <date>2024-10-30</date>
     <location>Salle Paderewski, Casino de Montbenon, Lausanne, Switzerland</location>
     <event>JazzOnze+ Festival Lausanne</event>
