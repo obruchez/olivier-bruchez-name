@@ -9,6 +9,70 @@
     <actor></actor>
   -->
   <play>
+    <date>2024-12-08</date>
+    <location>Petit Théâtre, Lausanne, Switzerland</location>
+    <name>Lala et le cirque du vent</name>
+    <author>Anne Sylvestre</author>
+    <director>Anne-Cécile Moser</director>
+    <actor>Bastien Alvarez</actor>
+    <actor>Arthur Besson</actor>
+    <actor>Patrice Bussy</actor>
+    <actor>Delphine Delabeye</actor>
+    <actor>Edmée Fleury</actor>
+    <actor>Nicolas Rossier</actor>
+    <actor>Kim Sélamet</actor>
+    <rating>4.5</rating>
+    <comments>Un conte musical sur fond de cirque.</comments>
+    <image>Lala et le cirque du vent.jpg</image>
+    <!--
+	Scénographie
+	Neda Loncarevic
+
+	Lumière
+	Vincent Scalbert
+
+	Arrangements musicaux
+	Arthur Besson
+
+	Coach vocal
+	Edmée Fleury
+
+	Costumes
+	Claude Rueger
+
+	Perruques et maquillage
+	Malika Stähli
+
+	Peinture
+	Noëlle Choquard
+
+	Confection
+	Letizia Compitiello
+
+	Couture
+	Fanny Buchs
+
+	Tapisserie
+	Yvan Schlatter
+
+	Machinerie
+	Damiel et Léo Bachmann – Atelier Antilope
+
+	Oreille extérieure
+	Philippe De Rham
+
+	Assistanat scénographie
+	Thérèse Weibel
+
+	Stage technique
+	Solène Fuehrer
+
+	Régie
+	Guillaume Gex et Théo Serez
+    -->
+  </play>
+
+  <play>
     <date>2024-12-05</date>
     <location>Salle Charles Apothéloz, Théâtre de Vidy, Lausanne, Switzerland</location>
     <name>L'Amante anglaise</name>
