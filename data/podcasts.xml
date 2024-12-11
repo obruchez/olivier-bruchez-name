@@ -2,6 +2,12 @@
 <podcasts created="2016-05-10">
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date>2024-12-10</date>
+    <name url="https://www.dwarkeshpatel.com/">Dwarkesh Podcast</name>
+    <episode url="https://www.dwarkeshpatel.com/p/gwern-branwen">Gwern Branwen - How an Anonymous Researcher Predicted AI's Trajectory</episode>
+    <comments>Gwern is a fascinating person. I love his web site. This was a weird interview, as we don't actually hear Gwern's voice. I should embrace rabbit holes more. Also, I should read Borges again.</comments>
+  </podcast>
+  <podcast>
     <date>2024-12-05</date>
     <name url="https://freakonomics.com/">Freakonomics Radio</name>
     <episode url="https://freakonomics.com/podcast/is-the-internet-being-ruined/" number="253">Is the Internet Being Ruined?</episode>
