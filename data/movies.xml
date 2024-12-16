@@ -3,6 +3,16 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Add rating to IMDb -->
   <movie>
+    <date>2024-12-16</date>
+    <theater home="true"/>
+    <director>Robert Bresson</director>
+    <title>Un condamné à mort s'est échappé</title>
+    <url>https://www.imdb.com/title/tt0049902/</url>
+    <rating>5.25</rating>
+    <comments><i>Un condamné à mort s'est échappé ou Le vent souffle où il veut</i>. Un film étonnament simple et pourtant captivant, quasiment entièrement narré en voix off.</comments>
+    <image>Un condamné à mort s'est échappé.jpg</image>
+  </movie>
+  <movie>
     <date>2024-10-26</date>
     <theater home="true"/>
     <director>Chris Sanders</director>
