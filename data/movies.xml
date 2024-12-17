@@ -3,6 +3,16 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Add rating to IMDb -->
   <movie>
+    <date>2024-12-17</date>
+    <theater home="true"/>
+    <director>Louisa Connolly-Burnham</director>
+    <title>The Call Centre</title>
+    <url>https://www.imdb.com/title/tt9730700/</url>
+    <rating>4.0</rating>
+    <comments>A dark short movie.</comments>
+    <image>The Call Centre.jpg</image>
+  </movie>
+  <movie>
     <date>2024-12-16</date>
     <theater home="true"/>
     <director>Robert Bresson</director>
