@@ -9,6 +9,38 @@
     <actor></actor>
   -->
   <play>
+    <date>2024-12-20</date>
+    <location>Théâtre 2.21, Lausanne, Switzerland</location>
+    <name>Peut-être braconne-t-elle ?</name>
+    <author>William Faulkner</author>
+    <director>Romain Butikofer</director>
+    <actor>Lauriane Ausoni</actor>
+    <actor>Virgile Bosco</actor>
+    <actor>Jade De Vasconcelos</actor>
+    <actor>Anne-Sophie Fornier</actor>
+    <actor>Sylvain Girardin</actor>
+    <actor>Bernard Gmünder</actor>
+    <actor>Sarah Kiehl</actor>
+    <actor>Cyril Lemray</actor>
+    <actor>Soheila Peyamiras</actor>
+    <actor>Valérie Savary</actor>
+    <actor>Paolo Schumacher</actor>
+    <actor>Sam Treyvaud</actor>
+    <actor>Alexandre Widmer</actor>
+    <actor>Zoé Yersin</actor>
+    <!--
+	voix enregistrées : Agathe, Alan, Charlotte, Romane, William, Zoélie
+	création son et lumière : Sonya Trolliet
+	regard extérieur mise en scène : Michel Sauser
+	regard extérieur scénographie : Carole Lesigne
+	regard extérieur costumes : Tania D'Ambrogio
+	administration : Romain Butikofer
+	-->
+    <rating>4.0</rating>
+    <comments>Notre premier retour au théâtre 2.21 depuis... 2009 ! Cette fois-ci aussi pour une pièce décalée, si je me souviens bien. Difficile à suivre/comprendre.</comments>
+    <image>Peut-être braconne-t-elle.jpg</image>
+  </play>
+  <play>
     <date>2024-12-08</date>
     <location>Petit Théâtre, Lausanne, Switzerland</location>
     <name>Lala et le cirque du vent</name>
@@ -2712,7 +2744,7 @@ Conception affiche :        Bram Dauw
     <rating>4.25</rating>
     <image>Comédie.jpg</image>
   </play>
-    <play>
+  <play>
     <date>2009-09-10</date>
     <location>Débarcadère, Cully, Switzerland</location>
     <name>Le Garçon Savoyard</name>
