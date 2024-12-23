@@ -3,6 +3,15 @@
 <exhibitions created="2011-05-17">
     <introduction>A list of exhibitions I visited.</introduction>
     <exhibition>
+        <date>2024-12-21</date>
+        <name>Thalassa! Thalassa! L’imaginaire de la mer</name>
+        <museum>Musée cantonal des Beaux-Arts, MCBA, Lausanne, Switzerland</museum>
+        <rating>4.25</rating>
+        <comments>Le récif corallien au crochet était particulièrement impressionnant.</comments>
+        <image>Thalassa! Thalassa! L’imaginaire de la mer.jpg</image>
+        <!-- <pictures url=""/> -->
+    </exhibition>
+    <exhibition>
         <date>2024-12-01</date>
         <name>Matthew Wong - Vincent Van Gogh</name>
         <museum>Kunsthaus, Zürich, Switzerland</museum>
