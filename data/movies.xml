@@ -3,6 +3,16 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Add rating to IMDb -->
   <movie>
+    <date>2024-12-23</date>
+    <theater home="true"/>
+    <director>Jordan Peele</director>
+    <title>Get Out</title>
+    <url>https://www.imdb.com/title/tt5052448/</url>
+    <rating>4.0</rating>
+    <comments>I really liked the first two thirds of the movie. The last third is more or less "standard horror stuff".</comments>
+    <image>Get Out.jpg</image>
+  </movie>
+  <movie>
     <date>2024-12-17</date>
     <theater home="true"/>
     <director>Louisa Connolly-Burnham</director>
