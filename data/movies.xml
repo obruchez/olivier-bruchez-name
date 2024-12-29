@@ -3,6 +3,18 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Add rating to IMDb -->
   <movie>
+    <date>2024-12-29</date>
+    <theater home="true"/>
+    <director>Wolfgang Petersen</director>
+    <title>The NeverEnding Story</title>
+    <title language="fr">L'Histoire sans fin</title>
+    <version>fr</version>
+    <url>https://www.imdb.com/title/tt0088323/</url>
+    <rating>3.5</rating>
+    <comments>Vu avec notre fils de 6 ans. Il a aimé, mais ça n'est vraiment pas bon. Ça a mal vieilli et, à la base, ça ne volait déjà pas très haut. On peut pardonner la qualité des effets spéciaux, bien entendu, mais ça manque d'humour, de "magie" et les enfants ne jouent pas très bien.</comments>
+    <image>The NeverEnding Story.jpg</image>
+  </movie>
+  <movie>
     <date>2024-12-27</date>
     <theater home="true"/>
     <director>Cameron Crowe</director>
@@ -48,6 +60,7 @@
     <director>Chris Sanders</director>
     <title>The Wild Robot</title>
     <title language="fr">Le Robot sauvage</title>
+    <version>fr</version>
     <url>https://www.imdb.com/title/tt29623480/</url>
     <rating>4.75</rating>
     <comments>Vu avec notre fils de 6 ans, qui a beaucoup aimé. C'est très bien fait. Il y a des émotions. L'histoire est relativement originale. La seule chose qui me dérange, finalement, est un problème très fréquent avec les dessins animés / films d'animation : en humanisant les animaux, on n'en rend que plus évident la cruauté et l'absurdité de la vie sauvage/naturelle. Le rapprochement mort/humour est un peu troublant.</comments>
