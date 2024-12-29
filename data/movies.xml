@@ -3,6 +3,16 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Add rating to IMDb -->
   <movie>
+    <date>2024-12-27</date>
+    <theater home="true"/>
+    <director>Cameron Crowe</director>
+    <title>Almost Famous</title>
+    <url>https://www.imdb.com/title/tt0181875/</url>
+    <rating>4.75</rating>
+    <comments>I watched the director's cut. A nice coming-of-age movie. Some people seem to love this movie. Maybe I missed something?</comments>
+    <image>Almost Famous.jpg</image>
+  </movie>
+  <movie>
     <date>2024-12-23</date>
     <theater home="true"/>
     <director>Jordan Peele</director>
