@@ -3,6 +3,26 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Add rating to IMDb -->
   <movie>
+    <date>2025-01-04</date>
+    <theater home="true"/>
+    <director>Peter Weir</director>
+    <title>Picnic at Hanging Rock</title>
+    <url>https://www.imdb.com/title/tt0073540/</url>
+    <rating>4.75</rating>
+    <comments>I watched this movie following a recommendation by a David Lynch fan. I was not disappointed. I only discovered who Peter Weir was after watching the film (i.e. director of <i>Dead Poets Society</i>, <i>The Truman Show</i>, etc.).</comments>
+    <image>Picnic at Hanging Rock.jpg</image>
+  </movie>
+  <movie>
+    <date>2025-01-04</date>
+    <theater>Galeries, Lausanne</theater>
+    <director>Gints Zilbalodis</director>
+    <title>Flow</title>
+    <url>https://www.imdb.com/title/tt4772188/</url>
+    <rating>5.0</rating>
+    <comments>We saw this film with our 6-year-old son, along with friends and their children. This was a very contemplative experience (no dialogue). This confirms yet again that I like post-apocalyptic movies (<i>28 Days Later</i>, <i>The Road</i>, <i>A Quiet Place</i>, the Times Square sequence in <i>Vanilla Sky</i>, etc. There were several moments left open for interpretation, like the "rapture" scene or the ending with the whale (including the post-credits scene). Both of those moments have an obvious sad interpretation. Other moments were more heart-warming or even funny.</comments>
+    <image>Flow.jpg</image>
+  </movie>
+  <movie>
     <date>2024-12-29</date>
     <theater home="true"/>
     <director>Wolfgang Petersen</director>
