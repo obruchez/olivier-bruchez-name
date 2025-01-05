@@ -2,6 +2,12 @@
 <podcasts created="2016-05-10">
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date>2025-01-03</date>
+    <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
+    <episode url="https://www.samharris.org/podcasts/making-sense-episodes/397-a-new-years-message-from-sam" number="397">A New Year's Message from Sam</episode>
+    <comments>I've never been a fan of the advice to live each day as if it were your last, because it's obviously bad advice. To live a good life, you need to make long-term plans. If I only had one day left to live, I would try to spend that day with my family and friends, and I wouldn't be "productive" in any sense of the word. You can't live like that each day of your life. Living each day as if you only had one year to live, as suggested by Sam, is better advice. It makes the idea behind the advice clearer: for everything you choose to do, ask yourself if it's worth doing knowing that your time is limited.</comments>
+  </podcast>
+  <podcast>
     <date>2024-12-10</date>
     <name url="https://www.dwarkeshpatel.com/">Dwarkesh Podcast</name>
     <episode url="https://www.dwarkeshpatel.com/p/gwern-branwen">Gwern Branwen - How an Anonymous Researcher Predicted AI's Trajectory</episode>
