@@ -3,6 +3,15 @@
     <introduction>A list of books I read.</introduction>
     <!-- TODO: replace links to Google Books with links to Goodreads -->
     <book>
+		<date></date>
+		<title>Au bonheur des ogres</title>
+		<author>Daniel Pennac</author>
+		<publishingyear>1985</publishingyear>
+		<rating></rating>
+        <url>https://fr.wikipedia.org/wiki/Au_bonheur_des_ogres</url>
+        <image>Au bonheur des ogres.jpg</image>
+	</book>
+    <book>
         <date></date>
         <title>The Singularity Is Nearer</title>
         <subtitle>When We Merge with AI</subtitle>
@@ -515,7 +524,7 @@
         <rating>4.5</rating>
         <url>https://en.wikipedia.org/wiki/The_Carpet_People</url>
         <notes description="Kindle highlights">The Carpet People (Terry Pratchett).md</notes>
-        <comments>My first book by Terry Pratchett. I've heard a lot from him, but I'm not sure I'm a fan of his style (granted, this is probably not his most representative book).</comments>
+        <comments>My first book by Terry Pratchett. I've heard a lot about him, but I'm not sure if I'm a fan of his style (granted, this is probably not his most representative book).</comments>
         <image>The Carpet People.jpg</image>
     </book>
     <book>
@@ -670,7 +679,7 @@
         <rating>4.5</rating>
         <url>https://books.google.com/books?id=Ny96Z7N_ihsC</url>
         <notes description="Kindle highlights">Self-Therapy (Jay Earley).md</notes>
-        <comments>First, IFS kind of sounded like woo to me, but after a while, it started to make sense. I think I like this approach. It's almost like an algorithm. It's also somewhat related to meditation in general and to loving kindness meditation in particular. I'm going to try it.</comments>
+        <comments>At first, IFS kind of sounded like woo to me, but after a while, it started to make sense. I think I like this approach. It's almost like an algorithm. It's also somewhat related to meditation in general and to loving kindness meditation in particular. I'm going to try it.</comments>
         <image>Self-Therapy.jpg</image>
     </book>
     <book>
@@ -771,7 +780,7 @@
         <rating>4.0</rating>
         <url>https://fr.wikipedia.org/wiki/Eccl%C3%A9siaste</url>
         <notes description="Kindle highlights">L'Ecclésiaste (Ernest Renan).md</notes>
-        <comments>Texte original et étude/commentaire d'Ernest Renan. Le livre en lui-même, faisant partie de la Bible, est court. Le commentaire est nettement plus long, mais pas vraiment "à mon goût". <a href="https://verybadwizards.fireside.fm/160">L'approche irrévérencieuse de Dave et Tamler du podcast Very Bad Wizards</a> correspondait plus à ma sensibilité (athée, donc).</comments>
+        <comments>Texte original et étude/commentaire d'Ernest Renan. Le livre en lui-même, faisant partie de la Bible, est court. Le commentaire est nettement plus long, mais pas vraiment "à mon goût". <a href="https://sites.libsyn.com/474285/episode-160-everything-is-meaningless-the-book-of-ecclesiastes">L'approche irrévérencieuse de Dave et Tamler du podcast Very Bad Wizards</a> correspondait plus à ma sensibilité (athée, donc).</comments>
         <image>L'Ecclésiaste.jpg</image>
     </book> 
     <book>
