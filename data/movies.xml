@@ -3,6 +3,26 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Add rating to IMDb -->
   <movie>
+    <date>2025-01-12</date>
+    <theater>Galeries, Lausanne</theater>
+    <director>Pedro Almodóvar</director>
+    <title>The Room Next Door</title>
+    <url>https://www.imdb.com/title/tt29439114/</url>
+    <rating>4.75</rating>
+    <comments>A fascinating subject that actually concerns everyone (death). The police officer's role at the end feels a bit cliché, and having the heroine's daughter played by the same actress is a bit... strange.</comments>
+    <image>The Room Next Door.jpg</image>
+  </movie>
+  <movie>
+    <date>2025-01-11</date>
+    <theater home="true"/>
+    <director>David Robert Mitchell</director>
+    <title>Under the Silver Lake</title>
+    <url>https://www.imdb.com/title/tt5691670/</url>
+    <rating>4.0</rating>
+    <comments>What a weird movie! It tries very hard to be <i>Mulholland Drive</i>, but it obviously fails. <i>Donnie Darko</i> is also mentioned quite a lot. The funny scenes are not really funny. The nude/sex scenes seem a bit gratuitous.</comments>
+    <image>Under the Silver Lake.jpg</image>
+  </movie>
+  <movie>
     <date>2025-01-04</date>
     <theater home="true"/>
     <director>Peter Weir</director>
