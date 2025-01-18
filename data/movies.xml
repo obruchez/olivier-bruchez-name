@@ -3,6 +3,26 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Add rating to IMDb -->
   <movie>
+    <date>2025-01-17</date>
+    <theater home="true"/>
+    <director>Robert Altman</director>
+    <title>3 Women</title>
+    <url>https://www.imdb.com/title/tt0075612/</url>
+    <rating>4.75</rating>
+    <comments>My first Robert Altman movie. Of all his films, I was only vaguely familiar with <i>Prêt-à-Porter</i> (the film's soundtrack includes a song by Prince called "Get Wild"), which ironically is considered one of his worst works. <i>3 Women</i> is a slow but intriguing movie. All characters are weird and somewhat unlikeable. Even the music invokes strange feelings. This makes the movie a bit challenging to watch. Still, there's something mysteriously appealing. Like a painting I don't fully understand but can't stop looking at. There are probably at least 5-10 other movies by Altman I should watch.</comments>
+    <image>3 Women.jpg</image>
+  </movie>
+  <movie>
+    <date>2025-01-15</date>
+    <theater home="true"/>
+    <director>Jane Schoenbrun</director>
+    <title>I Saw the TV Glow</title>
+    <url>https://www.imdb.com/title/tt15574270/</url>
+    <rating>3.5</rating>
+    <comments>I didn't have the "key" to "decode" this film (i.e. the fact that it is about gender transitioning) and without that key it was pretty boring. In that sense, it's like a bad David Lynch movie - I don't think I've ever been bored by a David Lynch movie, even if I didn't understand anything. The last 10 minutes were pretty good, though.</comments>
+    <image>I Saw the TV Glow.jpg</image>
+  </movie>
+  <movie>
     <date>2025-01-12</date>
     <theater>Galeries, Lausanne</theater>
     <director>Pedro Almodóvar</director>
