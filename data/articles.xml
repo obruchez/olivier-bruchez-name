@@ -1,6 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <articles created="2017-01-11">
   <introduction>A list of articles I read.</introduction>
+
+  <article>
+    <date>2025-01-22</date>
+    <title url="https://peterattiamd.com/beyond-randomized-controlled-trials/">A nuanced and multifaceted approach to longevity research</title>
+    <subtitle>While randomized controlled trials remain the gold standard, understanding their limitations is crucial for advancing longevity science</subtitle>
+    <comments>Randomized controlled trials are hard (sometimes impossible) to implement and expensive. Our knowledge can't completely depend on them.</comments>
+  </article>
   <article>
     <date>2024-10-11</date>
     <title url="https://www.audiotechnology.com/features/royal-appointment-recording-prince">Royal Appointment: Recording Prince</title>
