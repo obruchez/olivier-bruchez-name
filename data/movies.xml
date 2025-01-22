@@ -3,6 +3,16 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Add rating to IMDb -->
   <movie>
+    <date>2025-01-18</date>
+    <theater home="true"/>
+    <director>John Badham</director>
+    <title>WarGames</title>
+    <url>https://www.imdb.com/title/tt0086567/</url>
+    <rating>4.25</rating>
+    <comments>I watched this movie when I was a child, probably in the late 1980s. I think I recorded it and watched it multiple times. The film explores several interesting themes: computer security, artificial intelligence, reinforcement learning, and nuclear warfare. Looking back, its treatment of these subjects seems quite naive.</comments>
+    <image>WarGames.jpg</image>
+  </movie>
+  <movie>
     <date>2025-01-17</date>
     <theater home="true"/>
     <director>Robert Altman</director>
