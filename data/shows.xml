@@ -22,9 +22,16 @@
     <image>Dekalog.jpg</image>
   </show>
   <show>
+    <date></date>
+    <name url="https://en.wikipedia.org/wiki/Severance_(TV_series)">Severance</name>
+    <series url="https://en.wikipedia.org/wiki/Severance_(TV_series)#Season_2_(2025)" type="season">2</series>
+    <comments></comments>
+    <image>Severance.jpg</image>
+  </show>
+  <show>
     <date>2024-12-13</date>
     <name url="https://en.wikipedia.org/wiki/Severance_(TV_series)">Severance</name>
-    <series url="https://en.wikipedia.org/wiki/Severance_(TV_series)" type="season">1</series>
+    <series url="https://en.wikipedia.org/wiki/Severance_(TV_series)#Season_1_(2022)" type="season">1</series>
     <comments>Watching season 1 again, two years and a half later, before season 2 is aired. A fantastic show. I've seen the trailer for season 2. I fear it might not be as good as season 1, but we'll see.</comments>
     <image>Severance.jpg</image>
   </show>
@@ -293,7 +300,7 @@
   <show>
     <date>2022-04-29</date>
     <name url="https://en.wikipedia.org/wiki/Severance_(TV_series)">Severance</name>
-    <series url="https://en.wikipedia.org/wiki/Severance_(TV_series)" type="season">1</series>
+    <series url="https://en.wikipedia.org/wiki/Severance_(TV_series)#Season_1_(2022)" type="season">1</series>
     <comments>This was hands down the best show I've seen in a long while. I'm not sure where season 2 can go from there. As someone on Reddit wrote, let's hope they don't "Westworld" us.</comments>
     <image>Severance.jpg</image>
   </show>
