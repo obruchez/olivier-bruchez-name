@@ -3,15 +3,6 @@
     <introduction>A list of books I read.</introduction>
     <!-- TODO: replace links to Google Books with links to Goodreads -->
     <book>
-		<date></date>
-		<title>Au bonheur des ogres</title>
-		<author>Daniel Pennac</author>
-		<publishingyear>1985</publishingyear>
-		<rating></rating>
-        <url>https://fr.wikipedia.org/wiki/Au_bonheur_des_ogres</url>
-        <image>Au bonheur des ogres.jpg</image>
-	</book>
-    <book>
         <date></date>
         <title>The Singularity Is Nearer</title>
         <subtitle>When We Merge with AI</subtitle>
@@ -35,6 +26,16 @@
         <comments></comments>
         <image>The Tripods - All For Nothing.jpg</image>
     </book>
+    <book>
+		<date>2025-01-20</date>
+		<title>Au bonheur des ogres</title>
+		<author>Daniel Pennac</author>
+		<publishingyear>1985</publishingyear>
+		<rating>5.0</rating>
+        <url>https://fr.wikipedia.org/wiki/Au_bonheur_des_ogres</url>
+        <image>Au bonheur des ogres.jpg</image>
+        <comments>La deuxième (peut-être même troisième) fois que je lis ce livre de Pennac. J'avais oublié toute l'intrigue et l'explication finalement assez glauque derrière les explosions dans le magasin.</comments>
+	</book>
      <book>
         <date>2024-12-15</date>
         <title>La fin de la conversation ?</title>
