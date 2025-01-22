@@ -2,6 +2,13 @@
 <trips created="2008-02-26">
   <introduction>A list of trips I took.</introduction>
   <trip>
+    <from>2025-01-17</from>
+    <to>2025-01-19</to>
+    <place>Basel, Switzerland</place>
+    <!-- <pictures url=""/> -->
+    <comments>Our 6<sup>th</sup> time in Basel. We visited the Naturhistorisches Museum, Tinguely Museum, and Beyeler Foundation (Matisse - Invitation to the Voyage).</comments>
+  </trip>
+  <trip>
     <from>2024-11-29</from>
     <to>2024-12-01</to>
     <place>Zürich, Switzerland</place>
