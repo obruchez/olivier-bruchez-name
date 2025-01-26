@@ -3,6 +3,16 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Add rating to IMDb -->
   <movie>
+    <date>2025-01-24</date>
+    <theater home="true"/>
+    <director>Damien Chazelle</director>
+    <title>La La Land</title>
+    <url>https://www.imdb.com/title/tt3783958/</url>
+    <rating>5.0</rating>
+    <comments>I saw this movie 8 years ago when it came out. In 2017, I already wrote that I liked it, for various reasons, but another reason I really like it is the music, by Justin Hurwitz. It's just excellent.</comments>
+    <image>La La Land.jpg</image>
+  </movie>
+  <movie>
     <date>2025-01-22</date>
     <theater home="true"/>
     <director>Lawrence Michael Levine</director>
