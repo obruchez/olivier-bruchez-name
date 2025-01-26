@@ -2,6 +2,12 @@
 <podcasts created="2016-05-10">
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date>2025-01-23</date>
+    <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
+    <episode url="https://www.samharris.org/podcasts/making-sense-episodes/398-thoughts-without-a-thinker" number="398">Thoughts Without a Thinker</episode>
+    <comments>The main part is about meditation, but I was mainly interested in the update about the Los Angeles fires. I'm glad Sam's house wasn't destroyed, after all.</comments>
+  </podcast>
+  <podcast>
     <date>2025-01-14</date>
     <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
     <episode url="https://www.samharris.org/podcasts/making-sense-episodes/396-the-way-forward" number="396">The Way Forward - A Conversation with Matthew Yglesias</episode>
