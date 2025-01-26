@@ -7,6 +7,20 @@
   -->
   <introduction>A list of concerts I went to.</introduction>
   <concert>
+    <date>2025-01-24</date>
+    <location>Opéra de Lausanne, Lausanne, Switzerland</location>
+    <event><i>Petite balade aux enfers</i> lyrical show</event>
+    <musician inst="piano">Marine Thoreau La Salle</musician>
+    <musician inst="vocals">Herlinde Van de Straete</musician>
+    <musician inst="vocals">Caroline Guentensperger</musician>
+    <musician inst="vocals">Sophia Ianni</musician>
+    <musician inst="puppeteer">Florimond Plantier</musician>
+    <musician inst="puppeteer">Sami Adjali</musician>
+    <musician inst="puppeteer">Bertil Cazaumayou</musician>
+    <rating>5.0</rating>
+    <comments><i>Petite balade aux enfers</i> lyrical show with puppets, after <i>Orpheus and Eurydice</i> by Christoph Willibald Gluck. My wife, my 6-year-old son and I loved it. The puppets were hilarious. The audience as a whole loved it as well.</comments>
+  </concert>
+  <concert>
     <date>2024-12-08</date>
     <location>Salle Paderewski, Casino de Montbenon, Lausanne, Switzerland</location>
     <event>Musique &amp; gourmandises</event>
