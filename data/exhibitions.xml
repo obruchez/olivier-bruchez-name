@@ -2,6 +2,33 @@
 <!-- TODO: add pictures -->
 <exhibitions created="2011-05-17">
     <introduction>A list of exhibitions I visited.</introduction>
+	<exhibition>
+        <date>2025-01-19</date>
+        <name>Matisse – Invitation to the Voyage</name>
+        <museum>Fondation Beyeler, Riehen, Switzerland</museum>
+        <rating>4.5</rating>
+        <comments>It was the last day of the exhibition. I think I had never seen so many people in a museum before. As a result, the visit wasn't pleasant. The selected works were rare, apparently. For my part, I realized I wasn't particularly moved by Matisse's work.</comments>
+        <image>Matisse – Invitation to the Voyage.jpg</image>
+        <!-- <pictures url=""/> -->
+    </exhibition>
+    <exhibition>
+        <date>2025-01-19</date>
+        <name>Permanent exhibition</name>
+        <museum>Naturhistorisches Museum, Basel, Switzerland</museum>
+        <rating>4.25</rating>
+        <comments>Another museum we visited especially for our son. I really liked the old buildings in which this museum is located.</comments>
+        <image>Naturhistorisches Museum Basel.jpg</image>
+        <!-- <pictures url=""/> -->
+    </exhibition>
+	<exhibition>
+        <date>2025-01-18</date>
+        <name>Permanent exhibition / Fresh Window. The Art of Display &amp; Display of Art</name>
+        <museum>Museum Tinguely, Basel, Switzerland</museum>
+        <rating>4.75</rating>
+        <comments>Our first visit in 12 years, this time with our 6-year-old son. It's a place that's well-suited for both children, given the playful aspect of the machines, and parents, who can reflect on the nature of art, for example.</comments>
+        <image>Museum Tinguely.jpg</image>
+        <!-- <pictures url=""/> -->
+    </exhibition>
     <exhibition>
         <date>2024-12-21</date>
         <name>Thalassa! Thalassa! L’imaginaire de la mer</name>
@@ -115,7 +142,7 @@
     </exhibition>
     <exhibition>
         <date>2023-11-19</date>
-        <name>Dialogue entre une pieuvre et un presse-agrumes. Space is the place.</name>
+        <name>Dialogue entre une pieuvre et un presse-agrumes / Space is the place</name>
         <museum>Museum of Contemporary Design and Applied Arts (MUDAC), Lausanne, Switzerland</museum>
         <rating>5.0</rating>
         <comments>I really like this museum and its exhibitions. It certainly won't be the last time we go there. It's like a trip (to a parallel world).</comments>
@@ -148,7 +175,7 @@
     </exhibition>
     <exhibition>
         <date>2023-04-18</date>
-        <name>Permanent exhibition. Nalini Malani: My Reality is Different.</name>
+        <name>Permanent exhibition / Nalini Malani: My Reality is Different</name>
         <museum>National Gallery, London, UK</museum>
         <rating>5.5</rating>
         <comments>Now that's my kind of museum! Beautiful rooms. Fantastic paintings. As often, I was particularly impressed by the rooms dedicated to impressionism.</comments>
@@ -216,7 +243,7 @@
     </exhibition>
     <exhibition>
         <date>2022-08-09</date>
-        <name>Permanent exhibition. Antoine de Saint Exupéry, Un Petit Prince parmi les Hommes.</name>
+        <name>Permanent exhibition / Antoine de Saint Exupéry, Un Petit Prince parmi les Hommes</name>
         <museum>L'Envol des Pionniers, Toulouse, France</museum>
         <rating>5.0</rating>
         <comments>It's important to understand and remember that sending a letter accross the world, less than a century ago, was something completely crazy and difficult. At least sometimes. Courageous people risked their lives. Now, of course, you just send an email or a WhatsApp message, but there's less adventure in the process.</comments>
@@ -261,8 +288,8 @@
     </exhibition>
     <exhibition>
         <date>2022-05-25</date>
-        <name>Passages – Landscape, Figure and Abstraction. Gerhard Richter: "Mood".</name>
-        <museum>Fondation Beyeler, Basel, Switzerland</museum>
+        <name>Passages – Landscape, Figure and Abstraction / Gerhard Richter: "Mood"</name>
+        <museum>Fondation Beyeler, Riehen, Switzerland</museum>
         <rating>4.25</rating>
         <comments>I really like some of the artists presented (Braque, Cézanne, Ernst, Giacometti, van Gogh, Miró, etc.), but too many of the paintings fell into the "single-color-or-single-line" category for my taste. We'll probably come back to the Fondation Beyeler, but we'll choose the exhibition a bit more carefully.</comments>
         <image>Passages – Landscape, Figure and Abstraction.jpg</image>
@@ -288,7 +315,7 @@
     </exhibition>
     <exhibition>
         <date>2022-04-27</date>
-        <name>Paul Gauguin - Why Are You Angry? Permanent exhibition.</name>
+        <name>Paul Gauguin - Why Are You Angry? / Permanent exhibition.</name>
         <museum>Alte Nationalgalerie, Berlin, Germany</museum>
         <rating>5.0</rating>
         <comments>A museum like I like them. Three floors. Huge rooms. Many paintings. I especially liked the room dedicated to Caspar David Friedrich. I first visited it in 2009. The Paul Gauguin exhibition was thought-provoking.</comments>
@@ -910,6 +937,7 @@
         <name>Permanent exhibition</name>
         <museum>Museum Tinguely, Basel, Switzerland</museum>
         <rating>4.75</rating>
+        <image>Museum Tinguely.jpg</image>
     </exhibition>
     <exhibition>
         <date>2012-11-10</date>
