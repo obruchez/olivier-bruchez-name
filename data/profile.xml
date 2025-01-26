@@ -3,7 +3,7 @@
     <introduction>I'm a geek. I like lists. So this is me. In lists.</introduction>
     <list title="Activities">
         <item url="https://en.wikipedia.org/wiki/Blogging">Blogging</item>
-		<item url="https://en.wikipedia.org/wiki/Concert">Going to concerts</item>
+        <item url="https://en.wikipedia.org/wiki/Concert">Going to concerts</item>
         <item url="https://en.wikipedia.org/wiki/Museum">Going to the museum</item>
         <item url="https://en.wikipedia.org/wiki/Opera">Going to the opera</item>
         <item url="https://en.wikipedia.org/wiki/Theatre">Going to the theatre</item>
@@ -19,8 +19,20 @@
         <item url="https://en.wikipedia.org/wiki/Lewis_Trondheim">Lewis Trondheim (aka Laurent Chabosy)</item>
         <item url="https://en.wikipedia.org/wiki/Yoko_Tsuno">Yoko Tsuno</item>
     </list>
+    <list title="Comedians">
+        <item url="https://fr.wikipedia.org/wiki/David_Castello-Lopes">David Castello-Lopes</item>
+        <item url="https://en.wikipedia.org/wiki/Florence_Foresti">Florence Foresti</item>
+        <item url="https://en.wikipedia.org/wiki/Louis_C.K.">Louis C.K.</item>
+        <item url="https://en.wikipedia.org/wiki/Marina_Rollman">Marina Rollman</item>
+        <item url="https://en.wikipedia.org/wiki/Ricky_Gervais">Ricky Gervais</item>
+        <item url="https://fr.wikipedia.org/wiki/Thomas_Wiesel">Thomas Wiesel</item>
+        <item>
+            <subitem url="https://fr.wikipedia.org/wiki/Vincent_Kucholl">Vincent Kucholl</subitem>
+            <subitem url="https://fr.wikipedia.org/wiki/Vincent_Veillon">Vincent Veillon</subitem>
+        </item>
+    </list>
     <list title="Directors">
-    	<item url="https://en.wikipedia.org/wiki/Agnès_Varda">Agnès Varda</item>
+        <item url="https://en.wikipedia.org/wiki/Agnès_Varda">Agnès Varda</item>
         <item url="https://en.wikipedia.org/wiki/Alfred_Hitchcock">Alfred Hitchcock</item>
         <item url="https://en.wikipedia.org/wiki/Andrei_Tarkovsky">Andrei Tarkovsky</item>
         <item url="https://en.wikipedia.org/wiki/David_Lynch">David Lynch</item>
@@ -122,7 +134,7 @@
         </item>
     </list>
     <list title="Musicians">
-    	<!-- Christine and the Queens? Rodrigo y Gabriela? -->
+        <!-- Christine and the Queens? Rodrigo y Gabriela? -->
         <item url="https://en.wikipedia.org/wiki/Prince_(musician)">Prince</item>
         <item url="https://en.wikipedia.org/wiki/Miles_Davis">Miles Davis</item>
         <item url="https://en.wikipedia.org/wiki/Keith_Jarrett">Keith Jarrett</item>
@@ -161,8 +173,8 @@
         <item url="https://en.wikipedia.org/wiki/Yaron_Herman">Yaron Herman</item>
     </list>
     <list title="Painters">
-    	<item url="https://en.wikipedia.org/wiki/Camille_Pissarro">Camille Pissarro</item>
-    	<item url="https://en.wikipedia.org/wiki/Caspar_David_Friedrich">Caspar David Friedrich</item>
+        <item url="https://en.wikipedia.org/wiki/Camille_Pissarro">Camille Pissarro</item>
+        <item url="https://en.wikipedia.org/wiki/Caspar_David_Friedrich">Caspar David Friedrich</item>
         <item url="https://en.wikipedia.org/wiki/Hieronymus_Bosch">Hieronymus Bosch</item>
         <item url="https://en.wikipedia.org/wiki/Joan_Mir%C3%B3">Joan Miró</item>
         <item url="https://en.wikipedia.org/wiki/Marc_Chagall">Marc Chagall</item>
