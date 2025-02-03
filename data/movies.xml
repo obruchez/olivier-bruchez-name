@@ -3,6 +3,17 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Add rating to IMDb -->
   <movie>
+    <date>2025-02-03</date>
+    <theater home="true"/>
+    <director>Roy Andersson</director>
+    <title>Sånger från andra våningen</title>
+    <title language="en">Songs from the Second Floor</title>
+    <url>https://www.imdb.com/title/tt0120263/</url>
+    <rating>4.75</rating>
+    <comments>I saw this movie 24 years ago when it came out, with three friends. It's slow, almost boring at times. But it's also weird and intriguing, like a series of absurd paintings. For some reason, I bought the DVD in 2004, but never really watched it (except the sacrifice scene). I sold it in 2013, apparently, but I've always felt the need to watch this movie again.</comments>
+    <image>Songs from the Second Floor.jpg</image>
+  </movie>
+  <movie>
     <date>2025-01-24</date>
     <theater home="true"/>
     <director>Damien Chazelle</director>
@@ -661,7 +672,7 @@
     <title>Gattaca</title>
     <url>https://www.imdb.com/title/tt0119177/</url>
     <rating>4.75</rating>
-    <comments>I think I must I've seen <i>Gattaca</i> when it came out in 1997 (it's currently missing in my list, for some reasons). The issues raised by this film are still relevant today, but there's something missing to make it a true science fiction classic.</comments>
+    <comments>I think I must I've seen <i>Gattaca</i> when it came out in 1997 (it's currently missing in my list, for some reason). The issues raised by this film are still relevant today, but there's something missing to make it a true science fiction classic.</comments>
     <image>Gattaca.jpg</image>
   </movie>
   <movie>
@@ -1026,7 +1037,7 @@
     <title>Close</title>
     <url>https://www.imdb.com/title/tt9660502/</url>
     <rating>4.75</rating>
-    <comments>Objectively a very beautiful movie, with a breathtaking cinematography. I understand why it won the Palme d'Or. For some reasons, though, it didn't move me the way it was supposed to do. I didn't cry and I'm the kind of person who cry easily when watching a movie. I don't know why.</comments>
+    <comments>Objectively a very beautiful movie, with a breathtaking cinematography. I understand why it won the Palme d'Or. For some reason, though, it didn't move me the way it was supposed to do. I didn't cry and I'm the kind of person who cry easily when watching a movie. I don't know why.</comments>
     <image>Close.jpg</image>
   </movie>
   <movie>
@@ -1188,7 +1199,7 @@
     <title>Rocky</title>
     <url>https://www.imdb.com/title/tt0075148/</url>
     <rating>4.5</rating>
-    <comments>I've known about <i>Rocky</i> since I was a child, but I had never actually seen it, for some reasons. It's a simple, almost naive, but enjoyable story.</comments>
+    <comments>I've known about <i>Rocky</i> since I was a child, but I had never actually seen it, for some reason. It's a simple, almost naive, but enjoyable story.</comments>
     <image>Rocky.jpg</image>
   </movie>
   <movie>
@@ -1228,7 +1239,7 @@
     <title>A Quiet Place</title>
     <url>https://www.imdb.com/title/tt6644200/</url>
     <rating>4.25</rating>
-    <comments>Just what I needed, i.e. something a bit light, not from a "top movies" list. I like post-apocalyptic fiction. Of course, there are always <a href="https://screenrant.com/quiet-place-universe-things-make-no-sense/">inconsistencies and elements that don't make sense</a>, but they don't bother me too much in that particular genre, for some reasons.</comments>
+    <comments>Just what I needed, i.e. something a bit light, not from a "top movies" list. I like post-apocalyptic fiction. Of course, there are always <a href="https://screenrant.com/quiet-place-universe-things-make-no-sense/">inconsistencies and elements that don't make sense</a>, but they don't bother me too much in that particular genre, for some reason.</comments>
     <image>A Quiet Place.jpg</image>
   </movie>
   <movie>
@@ -2016,7 +2027,7 @@
     <title>Incendies</title>
     <url>https://www.imdb.com/title/tt1255953/</url>
     <rating>4.75</rating>
-    <comments>For some reasons, I wasn't particularly moved by this movie. The ending was unexpected. Incidentally, it's one of those movies that you cannot really watch twice because of the plot twist.</comments>
+    <comments>For some reason, I wasn't particularly moved by this movie. The ending was unexpected. Incidentally, it's one of those movies that you cannot really watch twice because of the plot twist.</comments>
     <image>Incendies.jpg</image>
   </movie>
   <movie>
@@ -9366,7 +9377,13 @@
   </movie>
   <movie>
     <date>2001-05-15</date>
-    <title>Chansons Du Deuxième Étage</title>
+    <theater>Bellevaux, Lausanne</theater>
+    <director>Roy Andersson</director>
+    <title>Sånger från andra våningen</title>
+    <title language="en">Songs from the Second Floor</title>
+    <title language="fr">Chansons du deuxième étage</title>
+    <url>https://www.imdb.com/title/tt0120263/</url>
+    <image>Songs from the Second Floor.jpg</image>
   </movie>
   <movie>
     <date>2001-05-08></date>
