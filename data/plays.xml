@@ -9,6 +9,32 @@
     <actor></actor>
   -->
   <play>
+    <date>2025-02-02</date>
+    <location>Théâtre Barnabé, Servion, Switzerland</location>
+    <name>Robin des Bois</name>
+    <author>Noam Perakis</author>
+    <director>Noam Perakis</director>
+    <actor>Giliane Béguin</actor>
+    <actor>Célia Chaillet</actor>
+    <actor>Gilles Guenat</actor>
+    <actor>Loïc Fleury</actor>
+    <actor>Faustine Jenny</actor>
+    <actor>Nathan Pannatier</actor>
+    <actor>Fabrice Pasche</actor>
+    <actor>Noam Perakis</actor>
+    <actor>Loren Muñoz</actor>
+    <actor>Maureen Béguin</actor>
+    <actor>Xavier Alfonso</actor>
+    <actor>Tyssa</actor>
+    <actor>Tania Zoppi</actor>
+    <rating>4.5</rating>
+    <comments>Une comédie musicale très loufoque vue avec notre fils de 6 ans et demi. Il a aimé, mais le langage était probablement un peu trop fleuri pour son âge... J'adore cette salle atypique. Nous étions au balcon, sous le toit, près des poutres.</comments>
+    <image>Robin des Bois.jpg</image>
+    <!--
+	Livret, scénographie et mise en scène Noam Perakis | Collaboration au livret et Assistanat à la mise en scène Nathan Pannatier et Giliane Béguin | Paroles et direction vocale Céline Rey | Direction musicale Julien Fontaine | Chorégraphies Gilles Guenat | Direction technique Florian Zaramella et Philippe Schnider | Décors et technique Corentin Meige, Michal Dráb, Gilles Meystre, Sarah Zubic, Françoise Bach, André Bernet, Maxime Rey, Irina De Faveri, Nicolas Geinoz, David Gorjao, Emmanuel Franz et Michel Conne | Vol Scène-Concept | Vidéo Sylvain Geinoz | Costumes Elodie Belin et Céline Bovet assistées de Léa Schrago | Perruques Maureen Béguin | Création et régie lumière Philippe Schnider | Création son Fabien Ayer et Benoît Boulian | Régie son Benoît Boulian et Yoan Motta | Plateau Florian Zaramella, Gabriel Liechti, Sylvain Geinoz, Arthur Pasquier, Valentin Savio, Elise Pelizzari | Orchestre Julien Fontaine, Sébastien Chave, Sidonie Cholat, Yves Leyvraz, Artur Papp, Nick Ryckx et Corentin Schoeni  | Production Association Cotescene et Fondation Barnabé
+    -->
+  </play>
+  <play>
     <date>2024-12-20</date>
     <location>Théâtre 2.21, Lausanne, Switzerland</location>
     <name>Peut-être braconne-t-elle ?</name>
