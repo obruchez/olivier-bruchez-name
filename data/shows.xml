@@ -11,9 +11,9 @@
   <show>
     <date></date>
     <name url="https://en.wikipedia.org/wiki/Blackadder">Blackadder</name>
-    <series url="https://en.wikipedia.org/wiki/The_Black_Adder" type="series">2</series>
+    <series url="https://en.wikipedia.org/wiki/The_Black_Adder" type="series">3</series>
     <comments></comments>
-    <image>Blackadder2.jpg</image>
+    <image>Blackadder3.jpg</image>
   </show>
   <show>
     <date></date>
@@ -27,6 +27,13 @@
     <series url="https://en.wikipedia.org/wiki/Severance_(TV_series)#Season_2_(2025)" type="season">2</series>
     <comments></comments>
     <image>Severance.jpg</image>
+  </show>
+  <show>
+    <date>2025-02-14</date>
+    <name url="https://en.wikipedia.org/wiki/Blackadder">Blackadder</name>
+    <series url="https://en.wikipedia.org/wiki/The_Black_Adder" type="series">2</series>
+    <comments>Now I'm pretty sure I saw this season on French television a long time ago (on FR3 / France 3?). Stephen Fry and Hugh Laurie have recurring roles.</comments>
+    <image>Blackadder2.jpg</image>
   </show>
   <show>
     <date>2024-12-13</date>
