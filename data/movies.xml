@@ -2,6 +2,18 @@
 <movies created="2000-03-05">
   <introduction>A list of movies I saw.</introduction>
   <!-- Add rating to IMDb -->
+<movie>
+    <date>2025-02-14</date>
+    <theater home="true"/>
+    <director>Pierre Coffin &amp; Chris Renaud</director>
+    <title>Despicable Me</title>
+    <title language="fr">Moi, moche et méchant</title>
+    <version>fr</version>
+    <url>https://www.imdb.com/title/tt1323594/</url>
+    <rating>4.5</rating>
+    <comments>Watched with our 6-year-old son. Nothing unexpected.</comments>
+    <image>Despicable Me.jpg</image>
+  </movie>
   <movie>
     <date>2025-02-14</date>
     <theater home="true"/>
