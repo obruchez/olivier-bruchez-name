@@ -3,6 +3,16 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Add rating to IMDb -->
   <movie>
+    <date>2025-02-14</date>
+    <theater home="true"/>
+    <director>Cédric Kahn</director>
+    <title>Feux rouges</title>
+    <url>https://www.imdb.com/title/tt0365190/</url>
+    <rating>4.25</rating>
+    <comments>This film seems to have achieved some international success (surprisingly). It's not a bad movie, but I found it hard to relate to any of the characters. The shots of the roads illuminated by the car headlights are quite reminiscent of <i>Lost Highway</i>.</comments>
+    <image>Feux rouges.jpg</image>
+  </movie>
+  <movie>
     <date>2025-02-03</date>
     <theater home="true"/>
     <director>Roy Andersson</director>
