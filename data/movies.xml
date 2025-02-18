@@ -2,7 +2,17 @@
 <movies created="2000-03-05">
   <introduction>A list of movies I saw.</introduction>
   <!-- Add rating to IMDb -->
-<movie>
+  <movie>
+    <date>2025-02-16</date>
+    <theater home="true"/>
+    <director>James Cameron</director>
+    <title>The Abyss</title>
+    <url>https://www.imdb.com/title/tt0096754/</url>
+    <rating>4.75</rating>
+    <comments>It's not a masterpiece, but it's definitely entertaining. I had probably seen this on TV in 1993 (maybe on March 1 on TSR or April 3 on France 2), at least some of the scenes.</comments>
+    <image>The Abyss.jpg</image>
+  </movie>
+  <movie>
     <date>2025-02-14</date>
     <theater home="true"/>
     <director>Pierre Coffin &amp; Chris Renaud</director>
@@ -11,7 +21,7 @@
     <version>fr</version>
     <url>https://www.imdb.com/title/tt1323594/</url>
     <rating>4.5</rating>
-    <comments>Watched with our 6-year-old son. Nothing unexpected.</comments>
+    <comments>Watched with our 6-year-old son. Nothing unexpected. I was very familiar with some of the characters, but I had never watched the actual movie.</comments>
     <image>Despicable Me.jpg</image>
   </movie>
   <movie>
