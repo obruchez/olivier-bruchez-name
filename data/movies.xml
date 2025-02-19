@@ -3,6 +3,16 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Add rating to IMDb -->
   <movie>
+    <date>2025-02-18</date>
+    <theater home="true"/>
+    <director>Mark Mylod</director>
+    <title>The Menu</title>
+    <url>https://www.imdb.com/title/tt9764362/</url>
+    <rating>4.25</rating>
+    <comments>This movie started as a dark comedy. I liked this first part. Then there was the scene with the sous-chef ("The Mess"). At this point, the movie clearly became a horror movie. I have nothing against horror movies, but the amount of suspension of disbelief required after this moment becomes just insane. The customers barely fought back. And we're also supposed to believe that the entire chef's crew (15-20 young, healthy persons) would willingly sacrifice themselves for their boss. Several moments reminded me of <i>Midsommar</i>.</comments>
+    <image>The Menu.jpg</image>
+  </movie>
+  <movie>
     <date>2025-02-16</date>
     <theater home="true"/>
     <director>James Cameron</director>
