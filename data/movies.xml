@@ -2,7 +2,17 @@
 <movies created="2000-03-05">
   <introduction>A list of movies I saw.</introduction>
   <!-- Add rating to IMDb -->
-   <movie>
+  <movie>
+    <date>2025-02-27</date>
+    <theater home="true"/>
+    <director>Yorgos Lanthimos</director>
+    <title>The Lobster</title>
+    <url>https://www.imdb.com/title/tt3464902/</url>
+    <rating>4.75</rating>
+    <comments>My third Yorgos Lanthimos film. An allegory of how we often go against our instincts to fit society. It was not an easy watch, as the absurd nature of the movie makes all characters quite unlikeable.</comments>
+    <image>The Lobster.jpg</image>
+  </movie>
+  <movie>
     <date>2025-02-20</date>
     <theater home="true"/>
     <director>James Wan</director>
