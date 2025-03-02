@@ -1,6 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <trips created="2008-02-26">
   <introduction>A list of trips I took.</introduction>
+    <trip>
+    <from>2025-02-28</from>
+    <to>2025-03-01</to>
+    <place>Charmey / Gruyères, Switzerland</place>
+    <!-- <pictures url=""/> -->
+    <comments>A very short stay in the Charmey and Gruyères region. It was the second time I went to the thermal baths of Charmey, the second time I visited the Gruyères Castle and the second time also that I went to the Maison Cailler. The first time I actually visited the inside of the Gruyères Castle was in 2011 and the first time I went to Charmey and the Maison Cailler was in 2017.</comments>
+  </trip>
   <trip>
     <from>2025-01-17</from>
     <to>2025-01-19</to>
