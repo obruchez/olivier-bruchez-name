@@ -9,7 +9,7 @@
         <rating>4.5</rating>
         <comments>It was the last day of the exhibition. I think I had never seen so many people in a museum before. As a result, the visit wasn't pleasant. The selected works were rare, apparently. For my part, I realized I wasn't particularly moved by Matisse's work.</comments>
         <image>Matisse – Invitation to the Voyage.jpg</image>
-        <!-- <pictures url=""/> -->
+        <pictures url="https://www.flickr.com/photos/bruchez/albums/72177720323545207/"/>
     </exhibition>
     <exhibition>
         <date>2025-01-19</date>
@@ -18,7 +18,7 @@
         <rating>4.25</rating>
         <comments>Another museum we visited especially for our son. I really liked the old buildings in which this museum is located.</comments>
         <image>Naturhistorisches Museum Basel.jpg</image>
-        <!-- <pictures url=""/> -->
+        <pictures url="https://www.flickr.com/photos/bruchez/albums/72177720323545207/"/>
     </exhibition>
 	<exhibition>
         <date>2025-01-18</date>
@@ -27,7 +27,7 @@
         <rating>4.75</rating>
         <comments>Our first visit in 12 years, this time with our 6-year-old son. It's a place that's well-suited for both children, given the playful aspect of the machines, and parents, who can reflect on the nature of art, for example.</comments>
         <image>Museum Tinguely.jpg</image>
-        <!-- <pictures url=""/> -->
+        <pictures url="https://www.flickr.com/photos/bruchez/albums/72177720323545207/"/>
     </exhibition>
     <exhibition>
         <date>2024-12-21</date>
@@ -45,6 +45,7 @@
         <rating>5.0</rating>
         <comments>I didn't know anything about Wong. His life is tragic. Like Van Gogh's. The parallel between their lives is striking.</comments>
         <image>Matthew Wong - Vincent Van Gogh.jpg</image>
+        <pictures url="https://www.flickr.com/photos/bruchez/albums/72177720322440871/"/>
     </exhibition>
     <exhibition>
         <date>2024-11-02</date>
