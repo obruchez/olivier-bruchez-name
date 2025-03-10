@@ -3,6 +3,18 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Add rating to IMDb -->
   <movie>
+    <date>2025-03-08</date>
+    <theater home="true"/>
+    <director>Chris Wedge &amp; Carlos Saldanha</director>
+    <title>Ice Age</title>
+    <title language="fr">L'Âge de glace</title>
+    <version>fr</version>
+    <url>https://www.imdb.com/title/tt0268380/</url>
+    <rating>4.5</rating>
+    <comments>Scrat is clearly the funniest character. Our son loved him.</comments>
+    <image>Ice Age.jpg</image>
+  </movie>
+  <movie>
     <date>2025-02-27</date>
     <theater home="true"/>
     <director>Yorgos Lanthimos</director>
@@ -50,7 +62,7 @@
     <title language="fr">Moi, moche et méchant</title>
     <version>fr</version>
     <url>https://www.imdb.com/title/tt1323594/</url>
-    <rating>4.5</rating>
+    <rating>4.25</rating>
     <comments>Watched with our 6-year-old son. Nothing unexpected. I was very familiar with some of the characters, but I had never watched the actual movie.</comments>
     <image>Despicable Me.jpg</image>
   </movie>
