@@ -3,6 +3,16 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Add rating to IMDb -->
   <movie>
+    <date>2025-03-13</date>
+    <theater home="true"/>
+    <director>Byron Haskin</director>
+    <title>The Power</title>
+    <url>https://www.imdb.com/title/tt0063452/</url>
+    <rating>4.0</rating>
+    <comments>This is not a masterpiece, but I'll be generous for my rating, as this is a movie I watched and liked when I was 11 years old. It was broadcast on <a href="https://en.wikipedia.org/wiki/France_3">FR3</a> on January 2, 1990, and I'm pretty sure my brother or I recorded it on VHS. I'm certain I watched it at least once, maybe even multiple times. I was of course a bit shocked/terrified by the centrifuge scene. I watched <i>The Time Machine</i>, also produced/directed by George Pal, around the same time, as it was broadcast the same night on FR3.</comments>
+    <image>The Power.jpg</image>
+  </movie>
+  <movie>
     <date>2025-03-08</date>
     <theater home="true"/>
     <director>Chris Wedge &amp; Carlos Saldanha</director>
@@ -10273,6 +10283,17 @@
     <url>https://www.imdb.com/title/tt0085271/</url>
     <comments>Broadcast on <a href="https://en.wikipedia.org/wiki/France_3">FR3</a> on December 17, 1990. Recorded on a VHS tape.</comments>
     <image>Brainstorm.jpg</image>
+  </movie>
+  <movie>
+    <date>1990-01-02</date>
+    <theater home="true"/>
+    <director>Byron Haskin</director>
+    <title>The Power</title>
+    <title language="fr">La guerre des cerveaux</title>
+    <version>fr</version>
+    <url>https://www.imdb.com/title/tt0063452/</url>
+    <comments>Recorded on VHS on January 2, 1990 (<a href="https://en.wikipedia.org/wiki/France_3">FR3</a>). I probably watched it soon after that, at least once, maybe multiple times.</comments>
+    <image>The Power.jpg</image>
   </movie>
   <movie>
     <date>1988-??-??</date>
