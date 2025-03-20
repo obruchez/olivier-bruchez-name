@@ -2,6 +2,12 @@
 <podcasts created="2016-05-10">
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date>2025-03-18</date>
+    <name url="https://podcast.ausha.co/violet">Violet - Le Podcast sur Prince et le Minneapolis Sound</name>
+    <episode url="https://podcast.ausha.co/violet/hitnrun-phase-two-that-s-it">HITnRUN Phase Two : That’s it !</episode>
+    <comments>Le dernier album de Prince. Un album chaleureux, qui ne révolutionne rien, mais de très bonne facture. Content d'apprendre que l'équipe de Violet réfléchit à une suite !</comments>
+  </podcast>
+  <podcast>
     <date>2025-03-14</date>
     <name url="https://peterattiamd.com/podcast/">The Peter Attia Drive Podcast</name>
     <episode url="https://peterattiamd.com/longevityroundtable/" number="333">Longevity roundtable — the science of aging, geroprotective molecules, lifestyle interventions, challenges in research, and more</episode>
