@@ -1,10 +1,10 @@
 name := "olivier-bruchez-name"
 
-version := "1.9.2"
+version := "1.9.3"
 
 lazy val root = (project in file(".")).enablePlugins(PlayScala)
 
-scalaVersion := "2.13.15"
+scalaVersion := "2.13.16"
 
 libraryDependencies ++= Seq(jdbc, ehcache, ws)
 
@@ -12,15 +12,15 @@ libraryDependencies ++= Seq(
   guice,
   "com.github.rjeschke" % "txtmark" % "0.13",
   "com.google.apis" % "google-api-services-blogger" % "v3-rev20221220-2.0.0",
-  "com.google.api-client" % "google-api-client" % "2.6.0",
-  "com.google.http-client" % "google-http-client" % "1.44.1",
-  "com.google.http-client" % "google-http-client-jackson2" % "1.44.2",
-  "com.google.oauth-client" % "google-oauth-client" % "1.35.0",
-  "com.google.oauth-client" % "google-oauth-client-java6" % "1.35.0",
-  "com.google.oauth-client" % "google-oauth-client-jetty" % "1.36.0",
-  "joda-time" % "joda-time" % "2.12.7",
-  "org.apache.commons" % "commons-text" % "1.11.0",
-  "org.jsoup" % "jsoup" % "1.18.1",
+  "com.google.api-client" % "google-api-client" % "2.7.2",
+  "com.google.http-client" % "google-http-client" % "1.46.3",
+  "com.google.http-client" % "google-http-client-jackson2" % "1.46.3",
+  "com.google.oauth-client" % "google-oauth-client" % "1.39.0",
+  "com.google.oauth-client" % "google-oauth-client-java6" % "1.39.0",
+  "com.google.oauth-client" % "google-oauth-client-jetty" % "1.39.0",
+  "joda-time" % "joda-time" % "2.13.1",
+  "org.apache.commons" % "commons-text" % "1.13.0",
+  "org.jsoup" % "jsoup" % "1.19.1",
   "org.scalatestplus.play" %% "scalatestplus-play" % "7.0.1" % Test
 )
 
