@@ -3,8 +3,8 @@ lazy val root = (project in file("."))
   .settings(
     name := """olivier-bruchez-name""",
     organization := "org.bruchez.olivier",
-    version := "2.0.3",
-    scalaVersion := "2.13.15",
+    version := "2.0.4",
+    scalaVersion := "2.13.16",
     libraryDependencies ++= Seq(
       guice,
       "org.scalatestplus.play" %% "scalatestplus-play" % "7.0.1" % Test
