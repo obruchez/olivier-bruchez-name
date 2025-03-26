@@ -3,6 +3,16 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Add rating to IMDb -->
   <movie>
+    <date>2025-03-24</date>
+    <theater home="true"/>
+    <director>Stanley Kubrick</director>
+    <title>Eyes Wide Shut</title>
+    <url>https://www.imdb.com/title/tt0120663/</url>
+    <rating>5.0</rating>
+    <comments>I first saw this movie 23 years ago. It's way better than I remembered. I'm currently listening to <a href="https://verybadwizards.com/episode/episode-241-very-bad-orgies-kubricks-eyes-wide-shut">Very Bad Wizard's episode about the movie</a> and, as always, I realize I had missed many details.</comments>
+    <image>Eyes Wide Shut.jpg</image>
+  </movie>
+  <movie>
     <date>2025-03-18</date>
     <theater home="true"/>
     <director>George Pal</director>
