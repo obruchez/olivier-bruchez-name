@@ -3,6 +3,16 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Add rating to IMDb -->
   <movie>
+    <date>2025-03-18</date>
+    <theater home="true"/>
+    <director>George Pal</director>
+    <title>The Time Machine</title>
+    <url>https://www.imdb.com/title/tt0054387/</url>
+    <rating>4.25</rating>
+    <comments>Seen in early 1990 around the same time as <i>The Power</i>, which was directed by Byron Haskin, but also produced by George Pal. I'd say <i>The Time Machine</i> is slightly better and more entertaining.</comments>
+    <image>The Time Machine.jpg</image>
+  </movie>
+  <movie>
     <date>2025-03-13</date>
     <theater home="true"/>
     <director>Byron Haskin</director>
@@ -10302,6 +10312,17 @@
     <url>https://www.imdb.com/title/tt0063452/</url>
     <comments>Recorded on VHS on January 2, 1990 (<a href="https://en.wikipedia.org/wiki/France_3">FR3</a>). I probably watched it soon after that, at least once, maybe multiple times.</comments>
     <image>The Power.jpg</image>
+  </movie>
+  <movie>
+    <date>1990-01-02</date>
+    <theater home="true"/>
+    <director>George Pal</director>
+    <title>The Time Machine</title>
+    <title language="fr">La Machine à explorer le temps</title>
+    <version>fr</version>
+    <url>https://www.imdb.com/title/tt0054387/</url>
+    <comments>Recorded on VHS on January 2, 1990 (<a href="https://en.wikipedia.org/wiki/France_3">FR3</a>). I probably watched it soon after that, at least once, maybe multiple times.</comments>
+    <image>The Time Machine.jpg</image>
   </movie>
   <movie>
     <date>1988-??-??</date>
