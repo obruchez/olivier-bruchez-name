@@ -4,15 +4,14 @@
     <!-- TODO: replace links to Google Books with links to Goodreads -->
     <book>
         <date></date>
-        <title>The Singularity Is Nearer</title>
-        <subtitle>When We Merge with AI</subtitle>
-        <author>Ray Kurzweil</author>
-        <publishingyear>2024</publishingyear>
-        <rating></rating>
-        <url>https://en.wikipedia.org/wiki/The_Singularity_Is_Nearer</url>
+        <title>Le Désert des Tartares</title>
+        <author>Dino Buzzati</author>
+        <publishingyear></publishingyear>
+        <rating>1940</rating>
+        <url>https://fr.wikipedia.org/wiki/Le_D%C3%A9sert_des_Tartares</url>
         <notes description="Kindle highlights"></notes>
         <comments></comments>
-        <image></image>
+        <image>Le Désert des Tartares.jpg</image>
     </book>
     <book>
         <date></date>
@@ -21,10 +20,22 @@
         <author>Chris Jones</author>
         <publishingyear>2024</publishingyear>
         <rating></rating>
-        <url>https://books.google.com/books?id=ok3S0AEACAAJ</url>
+        <url>https://www.goodreads.com/book/show/219082861</url>
         <notes description="Kindle highlights"></notes>
         <comments></comments>
         <image>The Tripods - All For Nothing.jpg</image>
+    </book>
+    <book>
+        <date>2025-03-18</date>
+        <title>The Singularity Is Nearer</title>
+        <subtitle>When We Merge with AI</subtitle>
+        <author>Ray Kurzweil</author>
+        <publishingyear>2024</publishingyear>
+        <rating>4.5</rating>
+        <url>https://en.wikipedia.org/wiki/The_Singularity_Is_Nearer</url>
+        <notes description="Kindle highlights"></notes>
+        <comments>Shorter than <i>The Singularity Is Near</i>. I'm not sure I learned anything new. I'm quite convinced that AI is on the path described by Kurzweil for a couple of decades now. Kurzweil predicts that AI will reach human intelligence by 2029. I'm still not sure about nanotechnology and nanobots, though. Kurzweil predicts that, in the 2030s, nanobots could enter our bodies, repair our cells, etc. This sounds exciting, but harder to believe, somehow.</comments>
+        <image>The Singularity Is Nearer.jpg</image>
     </book>
     <book>
 		<date>2025-01-20</date>
@@ -43,7 +54,7 @@
         <author>David Le Breton</author>
         <publishingyear>2024</publishingyear>
         <rating>3.5</rating>
-        <url>https://books.google.com/books?id=Z6ETEQAAQBAJ</url>
+        <url>https://www.goodreads.com/book/show/208432021</url>
         <notes description="Kindle highlights"></notes>
         <comments>Le second et probablement dernier livre de Le Breton que je lis. J'aurais probablement dû relire ce que j'avais pensé du premier livre que j'avais lu de lui... Ça se répète quand même beaucoup. On est dans la généralité. Il y a peu de nuances. Et surtout peu de pistes de réflexion, de solution. A part... marcher ?</comments>
         <image>La fin de la conversation.jpg</image>
