@@ -9,6 +9,73 @@
     <actor></actor>
   -->
   <play>
+    <date>2025-03-22</date>
+    <location>Salle Charles Apothéloz, Théâtre de Vidy, Lausanne, Switzerland</location>
+    <name>Préparation pour un miracle</name>
+    <author>Marc Oosterhoff</author>
+    <director>Marc Oosterhoff</director>
+    <actor>Marc Oosterhoff</actor>
+    <rating>4.25</rating>
+    <comments>Notre fils de 6 ans et demi a beaucoup aimé. Il y avait quelques longueurs. Sinon de l'humour absurde, de la magie, de l'acrobatie. C'était définitivement original.</comments>
+    <image>Préparation pour un miracle.jpg</image>
+    <!--
+	Assistante et collaboration artistique
+	Latifeh Hadji
+
+	Collaboration dramaturgique
+	Eric Vautrin
+
+	Regard magique
+	Arthur Chavaudret
+
+	Recherche, concept et réalisation sonore
+	Maxime Steiner
+
+	Recherche et concept sonore
+	Olivia Pedroli
+
+	Conception scénographique
+	Léo Piccirelli
+
+	Direction technique et création lumière
+	Leo Garcia
+
+	Assistante à la direction technique Laurie Gerber
+
+	Régie lumière, son et spatialisation sonore
+	Filipe Pascoal, Armand Pochon (alternance)
+
+	Régie plateau
+	Marius Barthaux
+	Orso Meyer
+	Marco Bataille-Testu
+	David Melendy (alternance)
+
+	Réalisation des décors
+	Ateliers du Théâtre Vidy-Lausanne
+
+	Accessoires
+	Carole Allemand
+	Cédric Oosterhoff
+	Mathieu Dorsaz
+
+	Costumes
+	Marie Jeanrenaud
+
+	Maquillage
+	Nathalie Monod
+
+	Production (création)
+	Mariana Nunes
+
+	Administration
+	Valérie Niederoest
+
+	Diffusion, logistique de tournée
+	Isabelle Campiche
+    -->
+  </play>
+  <play>
     <date>2025-02-02</date>
     <location>Théâtre Barnabé, Servion, Switzerland</location>
     <name>Robin des Bois</name>
@@ -129,7 +196,6 @@
 	Guillaume Gex et Théo Serez
     -->
   </play>
-
   <play>
     <date>2024-12-05</date>
     <location>Salle Charles Apothéloz, Théâtre de Vidy, Lausanne, Switzerland</location>
