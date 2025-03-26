@@ -2,6 +2,12 @@
 <podcasts created="2016-05-10">
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date>2025-03-25</date>
+    <name url="https://www.mushroomrevival.com/blogs/podcast">Mushroom Revival Podcast</name>
+    <episode url="https://www.mushroomrevival.com/blogs/podcast/the-difference-between-pure-psilocybin-and-full-spectrum-mushrooms-with-lerer-bernard-and-orr-shahar">The Difference Between Pure Psilocybin and Full Spectrum Mushrooms with Lerer Bernard and Orr Shahar</episode>
+    <comments>I was thinking about this recently when taking an apigenin supplement and looking at what chamomile actually contains besides apigenin (a lot of things). In the case of psilocybin and psilocybin mushrooms, full spectrum mushrooms, again, contain many things and seem to be "better" according to a study on mouses.</comments>
+  </podcast>
+  <podcast>
     <date>2025-03-18</date>
     <name url="https://podcast.ausha.co/violet">Violet - Le Podcast sur Prince et le Minneapolis Sound</name>
     <episode url="https://podcast.ausha.co/violet/hitnrun-phase-two-that-s-it">HITnRUN Phase Two : That’s it !</episode>
