@@ -3,6 +3,16 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Add rating to IMDb -->
   <movie>
+    <date>2025-03-28</date>
+    <theater home="true"/>
+    <director>Aaron Schimberg</director>
+    <title>A Different Man</title>
+    <url>https://www.imdb.com/title/tt21097228/</url>
+    <rating>4.5</rating>
+    <comments>A troubling movie. Definitely not as sad as <i>Elephant Man</i>. They're very different movies, after all. <i>A Different Man</i> is a dark comedy, about identity, self-perception, society's reactions to differences, etc. I only learnt about Adam Pearson's condition after I had watched the movie.</comments>
+    <image>A Different Man.jpg</image>
+  </movie>
+  <movie>
     <date>2025-03-24</date>
     <theater home="true"/>
     <director>Stanley Kubrick</director>
