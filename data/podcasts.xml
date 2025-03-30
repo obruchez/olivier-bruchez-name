@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <podcasts created="2016-05-10">
   <introduction>A list of podcasts I listened to.</introduction>
+    <podcast>
+    <date>2025-03-29</date>
+    <name url="http://verybadwizards.com/">Very Bad Wizards</name>
+    <episode url="https://verybadwizards.com/episode/episode-241-very-bad-orgies-kubricks-eyes-wide-shut" number="241">Very Bad Orgies (Kubrick's "Eyes Wide Shut")</episode>
+    <comments>I watched <i>Eyes Wide Shut</i> right before this episode, for the first time in 23 years. Again, this was an illuminating episode. I had missed many things, mainly the comedic elements of the film (not obvious at all), the transactional nature of almost everything that happens, the references to other Kubrick movies, etc. Like Tamler, I'm now convinced that this is a much better movie than people thought when it came out. There's a dream-like quality to it that's fascinating.</comments>
+  </podcast>
   <podcast>
     <date>2025-03-25</date>
     <name url="https://www.mushroomrevival.com/blogs/podcast">Mushroom Revival Podcast</name>
