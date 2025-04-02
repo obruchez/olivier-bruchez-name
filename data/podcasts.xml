@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <podcasts created="2016-05-10">
   <introduction>A list of podcasts I listened to.</introduction>
-    <podcast>
+  <podcast>
+    <date>2025-04-01</date>
+    <name url="http://verybadwizards.com/">Very Bad Wizards</name>
+    <episode url="https://www.patreon.com/posts/reintegrators-1-121510650">The Reintegrators Episode 1: Fetid Moppet</episode>
+    <comments>One of my favorite podcasts talking about one of my favorite TV shows, <i>Severance</i>. Dave and Tamler are joined by Paul Bloom.</comments>
+  </podcast>
+  <podcast>
     <date>2025-03-29</date>
     <name url="http://verybadwizards.com/">Very Bad Wizards</name>
     <episode url="https://verybadwizards.com/episode/episode-241-very-bad-orgies-kubricks-eyes-wide-shut" number="241">Very Bad Orgies (Kubrick's "Eyes Wide Shut")</episode>
