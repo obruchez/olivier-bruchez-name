@@ -3,6 +3,16 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Add rating to IMDb -->
   <movie>
+    <date>2025-04-06</date>
+    <theater home="true"/>
+    <director>Anthony Scott Burns</director>
+    <title>Come True</title>
+    <url>https://www.imdb.com/title/tt7026488/</url>
+    <rating>3.5</rating>
+    <comments>An intriguing movie, with average acting, average effects, and a bafflingly bad ending. Some of the ideas are pretty good, though. The scene in the forest right before the final scene was pretty good, I think. Some people find the dream sequences well done, but to me they look like an average video game. It might have worked well as a short film, maybe?</comments>
+    <image>Come True.jpg</image>
+  </movie>
+  <movie>
     <date>2025-03-31</date>
     <theater home="true"/>
     <director>Lorcan Finnegan</director>
