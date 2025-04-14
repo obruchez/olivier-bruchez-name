@@ -7,6 +7,65 @@
   -->
   <introduction>A list of concerts I went to.</introduction>
   <concert>
+    <date>2025-04-13</date>
+    <location>Opéra de Lausanne, Lausanne, Switzerland</location>
+    <event><i>Don Pasquale</i> opera</event>
+    <musician inst="vocals">Omar Montanari</musician>
+    <musician inst="vocals">Angelica Disanto</musician>
+    <musician inst="vocals">Joel Prieto</musician>
+    <musician inst="vocals">Dario Solari</musician>
+    <musician inst="vocals">Julia Deit-Ferrand</musician>
+    <musician inst="orchestra">Orchestre de Chambre de Lausanne</musician>
+    <musician inst="conductor">Giuseppe Grazioli</musician>
+    <musician inst="choir">Chœur de l’Opéra de Lausanne</musician>
+    <musician inst="choir director">Jacopo Facchini</musician>
+    <rating>5.25</rating>
+    <comments><i>Don Pasquale</i> opera (Gaetano Donizetti), directed by Tim Sheader. Very impressive sets and costumes. Good acting. A success.</comments>
+  </concert>
+  <concert>
+    <date>2025-04-08</date>
+    <location>Temple, Cully, Switzerland</location>
+    <event>Cully Jazz Festival</event>
+    <group>Chris Potter &amp; Craig Taborn</group>
+    <musician inst="saxophone">Chris Potter</musician>
+    <musician inst="piano">Craig Taborn</musician>
+    <rating>4.5</rating>
+    <comments>I love Chris Potter, but they played some very cerebral music and I was very tired. The encore was a bit easier to follow.</comments>
+  </concert>
+  <concert>
+    <date>2025-04-05</date>
+    <location>Chapiteau, Cully, Switzerland</location>
+    <event>Cully Jazz Festival</event>
+    <group>PianoForte</group>
+    <musician inst="piano">Baptiste Trotignon</musician>
+    <musician inst="piano">Bojan Zulfikarpasic</musician>
+    <musician inst="piano">Eric Legnini</musician>
+    <musician inst="piano">Pierre de Bethmann</musician>
+    <rating>4.25</rating>
+    <comments>The audience loved them as well. They mainly played covers. Some excellent tunes, such as <i>The Windup</i>. I was a bit underwhelmed. The musicians were excellent, but the sound of four pianos and/or Fender Rhondes playing at the same time was a bit... awkward?</comments>
+  </concert>
+  <concert>
+    <date>2025-04-05</date>
+    <location>Chapiteau, Cully, Switzerland</location>
+    <event>Cully Jazz Festival</event>
+    <group></group>John Scofield Trio
+    <musician inst="guitar">John Scofield</musician>
+    <musician inst="double bass">Vicente Archer</musician>
+    <musician inst="drums">Bill Stewart</musician>
+    <rating>4.5</rating>
+    <comments>I love John Scofield. That was straight jazz. A bit too straight for me.</comments>
+  </concert>
+  <concert>
+    <date>2025-04-05</date>
+    <location>Chapiteau, Cully, Switzerland</location>
+    <event>Cully Jazz Festival</event>
+    <group>Vincent Schmidt &amp; Natan Niddam</group>
+    <musician inst="guitar">Vincent Schmidt</musician>
+    <musician inst="piano, vocals">Natan Niddam</musician>
+    <rating>4.5</rating>
+    <comments>The audience loved them. They were having fun and that was obvious to everybody. They played some very melodic tunes.</comments>
+  </concert>
+  <concert>
     <date>2025-01-24</date>
     <location>Opéra de Lausanne, Lausanne, Switzerland</location>
     <event><i>Petite balade aux enfers</i> lyrical show</event>
