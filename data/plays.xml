@@ -8,6 +8,22 @@
     <translation></translation>
     <actor></actor>
   -->
+    <play>
+    <date>2025-04-03</date>
+    <location>Pulloff Théâtres, Lausanne, Switzerland</location>
+    <name>Emma, c’est moi !</name>
+    <author>Michel Voïta</author>
+    <director>Michel Voïta</director>
+    <actor>Noémie Kocher</actor>
+    <actor>Eloïse Pochon</actor>
+    <actor>Michel Voïta</actor>
+    <rating>5.0</rating>
+    <comments>On plonge dans la tête de Gustave Flaubert, en train d'écrire <i>Madame Bovary</i>, et dans sa relation avec Louise Colet, avec une Emma Bovary incarnée sur scène. C'est original et très bien joué.</comments>
+    <image>Emma, c’est moi !.png</image>
+    <!--
+	scénographie : Hervé Audibert
+    -->
+  </play>
   <play>
     <date>2025-03-22</date>
     <location>Salle Charles Apothéloz, Théâtre de Vidy, Lausanne, Switzerland</location>
