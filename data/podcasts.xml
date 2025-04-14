@@ -2,6 +2,30 @@
 <podcasts created="2016-05-10">
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date>2025-04-11</date>
+    <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
+    <episode url="https://www.samharris.org/podcasts/making-sense-episodes/407-can-we-ever-return-to-normal-politics" number="407">Can We Ever Return to Normal Politics? - A Conversation with Jon Favreau</episode>
+    <comments>"Sam Harris speaks with Jon Favreau about the state of American politics. They discuss the Trump administration’s wrongful deportation of Kilmar Abrego Garcia, tariffs, why Trump’s supporters don’t care about his corruption, the next steps for Democrats, the energy behind AOC and Bernie Sanders, why Biden failed on the border, Biden’s legacy, potential 2028 Democratic candidates, Elon Musk and DOGE, whether we can ever return to “normal” politics, and other topics."</comments>
+  </podcast>
+  <podcast>
+    <date>2025-04-11</date>
+    <name url="http://verybadwizards.com/">Very Bad Wizards</name>
+    <episode url="https://www.patreon.com/posts/reintegrators-3-123632411">The Reintegrators Episode 3: Innie Salvation</episode>
+    <comments>"Tamler and David discuss episodes 6 &amp; 7 of Severance season 2 (Paul was unfortunately out sick for this one)."</comments>
+  </podcast>
+  <podcast>
+    <date>2025-04-08</date>
+    <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
+    <episode url="https://www.samharris.org/podcasts/making-sense-episodes/405-more-from-sam-tariffs-signal-gate-trump-elon-douglas-murray-joe-rogan" number="405">"More From Sam": Tariffs, SignalGate, Trump, Elon, Douglas Murray, &amp; Joe Rogan</episode>
+    <comments>"They discuss tariffs, SignalGate, Trump, Elon, Joe Rogan, Lex Fridman, The All-In podcast, Sam’s upcoming podcast with Douglas Murray, and more."</comments>
+  </podcast>
+  <podcast>
+    <date>2025-04-06</date>
+    <name url="http://verybadwizards.com/">Very Bad Wizards</name>
+    <episode url="https://www.patreon.com/posts/reintegrators-2-122553330">The Reintegrators Episode 2: R. Helly</episode>
+    <comments>"Paul, Tamler, and David discuss Severance Season 2, Episodes 4 &amp; 5."</comments>
+  </podcast>
+  <podcast>
     <date>2025-04-01</date>
     <name url="http://verybadwizards.com/">Very Bad Wizards</name>
     <episode url="https://www.patreon.com/posts/reintegrators-1-121510650">The Reintegrators Episode 1: Fetid Moppet</episode>
