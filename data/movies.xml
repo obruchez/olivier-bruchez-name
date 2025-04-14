@@ -3,6 +3,26 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Add rating to IMDb -->
   <movie>
+    <date>2025-04-14</date>
+    <theater home="true"/>
+    <director>Neil Burger</director>
+    <title>Limitless</title>
+    <url>https://www.imdb.com/title/tt1219289/</url>
+    <rating>4.25</rating>
+    <comments>The main character becomes very intelligent and then manages to do some pretty... stupid things? All in all, an intertaining but inconsistent movie that I watched because of my interest in nootropics.</comments>
+    <image>Limitless.jpg</image>
+  </movie>
+  <movie>
+    <date>2025-04-09</date>
+    <theater home="true"/>
+    <director>Paul Thomas Anderson</director>
+    <title>Punch-Drunk Love</title>
+    <url>https://www.imdb.com/title/tt0272338/</url>
+    <rating>4.5</rating>
+    <comments>The only other movie by Paul Thomas Anderson I had seen before was <i>There Will Be Blood</i>. There are many funny, weird, and satisfying moments in <i>Punch-Drunk Love</i>. It's not perfect and a bit silly at times, but it's definitely entertaining.</comments>
+    <image>Punch-Drunk Love.jpg</image>
+  </movie>
+  <movie>
     <date>2025-04-06</date>
     <theater home="true"/>
     <director>Anthony Scott Burns</director>
