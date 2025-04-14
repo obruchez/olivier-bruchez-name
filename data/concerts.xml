@@ -48,8 +48,7 @@
     <date>2025-04-05</date>
     <location>Chapiteau, Cully, Switzerland</location>
     <event>Cully Jazz Festival</event>
-    <group></group>John Scofield Trio
-    <musician inst="guitar">John Scofield</musician>
+    <musician inst="guitar" main="true">John Scofield</musician>
     <musician inst="double bass">Vicente Archer</musician>
     <musician inst="drums">Bill Stewart</musician>
     <rating>4.5</rating>
