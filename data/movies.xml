@@ -3,6 +3,16 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Add rating to IMDb -->
   <movie>
+    <date>2025-04-18</date>
+    <theater home="true"/>
+    <director>Ivan Sen</director>
+    <title>Limbo</title>
+    <url>https://www.imdb.com/title/tt21833834/</url>
+    <rating>4.5</rating>
+    <comments>A beautiful, slow-paced movie, that would benefit from a bit more narrative depth.</comments>
+    <image>Limbo.jpg</image>
+  </movie>
+  <movie>
     <date>2025-04-14</date>
     <theater home="true"/>
     <director>Neil Burger</director>
