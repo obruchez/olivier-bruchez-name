@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <articles created="2017-01-11">
   <introduction>A list of articles I read.</introduction>
-
+  <article>
+    <date>2025-04-15</date>
+    <title url="https://i-d.co/article/streaming-arthouse-movies-john-waters-netflix-2024/">Every Arthouse Buff You Know Is Pirating Films</title>
+    <subtitle>Cult movie literacy is at a peak. Cinephiles want more.</subtitle>
+    <comments>Basically, archiving cannot happen without breaking the rules.</comments>
+  </article>
   <article>
     <date>2025-01-22</date>
     <title url="https://peterattiamd.com/beyond-randomized-controlled-trials/">A nuanced and multifaceted approach to longevity research</title>
