@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <trips created="2008-02-26">
   <introduction>A list of trips I took.</introduction>
-    <trip>
+  <trip>
+    <from>2025-04-20</from>
+    <to>2025-04-25</to>
+    <place>Rome, Italy</place>
+    <!-- <pictures url=""/> -->
+    <comments>A pretty packed trip to Rome, including visits to: the Trevi Fountain, Trastevere, the Colosseum (with the Roman Forum and Palatine Hill), the Pantheon, the Galleria Borghese, the Papal Basilica of Saint Mary Major, the Catacombs of Callixtus (San Callisto), the Vatican (Saint Peter’s Basilica, the Vatican Museums, and the Sistine Chapel), the Palazzo Colonna, and Piazza Navona. We also saw the temporary exhibition "Picasso lo straniero" at the Palazzo Cipolla. This wasn’t planned, but visiting Saint Peter’s Basilica also meant seeing Pope Francis' remains. This was my first trip to Rome since 2004 (Keith Jarrett concert, Colosseum, Vatican Museums, Trevi Fountain, etc.)</comments>
+  </trip>
+  <trip>
     <from>2025-02-28</from>
     <to>2025-03-01</to>
     <place>Charmey / Gruyères, Switzerland</place>
