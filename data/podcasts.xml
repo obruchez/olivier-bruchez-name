@@ -2,6 +2,12 @@
 <podcasts created="2016-05-10">
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date>2025-04-27</date>
+    <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
+    <episode url="https://www.samharris.org/podcasts/making-sense-episodes/410-the-whole-catastrophe" number="410">The Whole Catastrophe - A Conversation with Douglas Murray</episode>
+    <comments>The discussion about Israel and Gaza sounded reasonable, but the one about Trump and Elon was frustrating. So, yes, I'm not a fan of Murray, overall.</comments>
+  </podcast>
+  <podcast>
     <date>2025-04-11</date>
     <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
     <episode url="https://www.samharris.org/podcasts/making-sense-episodes/407-can-we-ever-return-to-normal-politics" number="407">Can We Ever Return to Normal Politics? - A Conversation with Jon Favreau</episode>
