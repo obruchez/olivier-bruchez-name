@@ -2,6 +2,30 @@
 <podcasts created="2016-05-10">
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date>2025-05-02</date>
+    <name url="http://verybadwizards.com/">Very Bad Wizards</name>
+    <episode url="https://verybadwizards.com/episode/episode-300-if-we-only-had-a-brain" number="300">If We Only Had A Brain</episode>
+    <comments>I watched <i>The Wizard of Oz</i> in 2020. I was not really impressed. Now I'd like to watch it again with my son. This would be a more interesting experience, I think.</comments>
+  </podcast>
+  <podcast>
+    <date>2025-04-30</date>
+    <name url="http://verybadwizards.com/">Very Bad Wizards</name>
+    <episode url="https://verybadwizards.com/episode/episode-305-emile-is-the-name-of-the-goat-with-paul-bloom" number="305">Emile Is the Name of the Goat (with Paul Bloom)</episode>
+    <comments>"VBW favorite Paul Bloom joins us to break down the Severance season finale and season 2 in general. We all agree that it’s a much-needed return to form and debate some of the choices and questions the episode raises."</comments>
+  </podcast>
+  <podcast>
+    <date>2025-04-29</date>
+    <name url="http://verybadwizards.com/">Very Bad Wizards</name>
+    <episode url="https://www.patreon.com/posts/reintegrators-4-124647829">The Reintegrators Episode 4: We Were Once Chums</episode>
+    <comments>"Paul, Tamler, and David discuss Severance S2 E8 and E9."</comments>
+  </podcast>
+  <podcast>
+    <date>2025-04-29</date>
+    <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
+    <episode url="https://www.samharris.org/podcasts/making-sense-episodes/409-more-from-sam-religion-deportations-douglas-murray-vs-rogan-bill-mahers-dinner-with-trump" number="409">"More From Sam": Religion, Deportations, Douglas Murray vs. Rogan, &amp; Bill Maher's Dinner with Trump</episode>
+    <comments>"Sam and Jaron discuss community in the absence of religion, whether you should lie to your children about the existence of Santa Claus, Bill Ackman's response to Trump's tariff reversal, Douglas Murray's appearance on Joe Rogan's podcast, the deportation of Kilmar Abrego Garcia, Bill Maher's visit to the White House, and other topics."</comments>
+  </podcast>
+  <podcast>
     <date>2025-04-27</date>
     <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
     <episode url="https://www.samharris.org/podcasts/making-sense-episodes/410-the-whole-catastrophe" number="410">The Whole Catastrophe - A Conversation with Douglas Murray</episode>
