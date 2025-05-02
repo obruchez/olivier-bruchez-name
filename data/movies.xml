@@ -3,6 +3,16 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Add rating to IMDb -->
   <movie>
+    <date>2025-04-30</date>
+    <theater home="true"/>
+    <director>Paul Thomas Anderson</director>
+    <title>Magnolia</title>
+    <url>https://www.imdb.com/title/tt0175880/</url>
+    <rating>5.0</rating>
+    <comments>An ambitious movie and a fantastic cast. I watched it without realizing that it was directed by Paul Thomas Anderson (I watched <i>Punch-Drunk Love</i> a few weeks ago).</comments>
+    <image>Magnolia.jpg</image>
+  </movie>
+  <movie>
     <date>2025-04-18</date>
     <theater home="true"/>
     <director>Ivan Sen</director>
