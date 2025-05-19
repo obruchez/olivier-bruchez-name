@@ -4,17 +4,6 @@
     <!-- TODO: replace links to Google Books with links to Goodreads -->
     <book>
         <date></date>
-        <title>Le Désert des Tartares</title>
-        <author>Dino Buzzati</author>
-        <publishingyear>1940</publishingyear>
-        <rating></rating>
-        <url>https://fr.wikipedia.org/wiki/Le_D%C3%A9sert_des_Tartares</url>
-        <notes description="Kindle highlights"></notes>
-        <comments></comments>
-        <image>Le Désert des Tartares.jpg</image>
-    </book>
-    <book>
-        <date></date>
         <title>The Tripods: All For Nothing?</title>
         <subtitle>The Secrets and Stories Behind the BBC Series</subtitle>
         <author>Chris Jones</author>
@@ -24,6 +13,17 @@
         <notes description="Kindle highlights"></notes>
         <comments></comments>
         <image>The Tripods - All For Nothing.jpg</image>
+    </book>
+    <book>
+        <date>2025-05-09</date>
+        <title>Le Désert des Tartares</title>
+        <author>Dino Buzzati</author>
+        <publishingyear>1940</publishingyear>
+        <rating>5.0</rating>
+        <url>https://fr.wikipedia.org/wiki/Le_D%C3%A9sert_des_Tartares</url>
+        <notes description="Kindle highlights"></notes>
+        <comments>Un excellent roman, à propos du temps qui passe, de l'attente, de la guerre (et de son absurdité) et, finalement, du sens de la vie. On pourrait même dire que c'est aussi un livre à propos de la crise de la quarantaine, un concept qui, j'imagine, n'est apparu que bien plus tard.</comments>
+        <image>Le Désert des Tartares.jpg</image>
     </book>
     <book>
         <date>2025-03-18</date>
