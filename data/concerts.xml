@@ -7,6 +7,33 @@
   -->
   <introduction>A list of concerts I went to.</introduction>
   <concert>
+    <date>2025-05-18</date>
+    <location>Opéra de Lausanne, Lausanne, Switzerland</location>
+    <event><i>Carmen</i> opera</event>
+    <musician inst="vocals">Antoinette Dennefeld</musician>
+    <musician inst="vocals">Adriana González</musician>
+    <musician inst="vocals">Judith Fa</musician>
+    <musician inst="vocals">Séraphine Cotrez</musician>
+    <musician inst="vocals">Edgaras Montvidas</musician>
+    <musician inst="vocals">Philippe Sly</musician>
+    <musician inst="vocals">Olivier Gourdy</musician>
+    <musician inst="vocals">Rémi Ortega</musician>
+    <musician inst="vocals">Loïc Félix</musician>
+    <musician inst="vocals">Raphaël Brémard</musician>
+    <musician inst="vocals">Yanis Skouta</musician>
+    <musician inst="vocals">Roman Conrad</musician>
+    <musician inst="vocals">Vincent Kohler</musician>
+    <musician inst="vocals">Antonio Lourenco</musician>
+    <musician inst="orchestra">Orchestre de Chambre de Lausanne</musician>
+    <musician inst="conductor">Jean-Marie Zeitouni</musician>
+    <musician inst="choir">Chœur de l’Opéra de Lausanne</musician>
+    <musician inst="choir director">Alessandro Zuppardo</musician>
+    <musician inst="choir">Les Chœurs de l’Ecole de Musique de Lausanne</musician>
+    <musician inst="choir director">Catherine Fender</musician>
+    <rating>5.0</rating>
+    <comments><i>Carmen</i> opera (Georges Bizet), directed by Jean-François Sivadier. One of the most well-known operas of all time. I first saw it in Avenches in 1996. The sets were simple, but everything else was excellent.</comments>
+  </concert>
+  <concert>
     <date>2025-04-13</date>
     <location>Opéra de Lausanne, Lausanne, Switzerland</location>
     <event><i>Don Pasquale</i> opera</event>
@@ -3852,6 +3879,12 @@
     <location>Métropole, Lausanne, Switzerland</location>
     <musician inst="oud" main="true">Rabih Abou-Khalil</musician>
     <comments>Musicians unknown.</comments>
+  </concert>
+  <concert>
+    <date>1996-07-13</date>
+    <location>Arènes d'Avenches, Avenches, Switzerland</location>
+    <event><i>Carmen</i> opera</event>
+    <comments><i>Carmen</i> opera (Georges Bizet).</comments>
   </concert>
   <concert>
     <date>1994-07-16</date>
