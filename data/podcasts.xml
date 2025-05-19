@@ -2,6 +2,36 @@
 <podcasts created="2016-05-10">
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date>2025-05-13</date>
+    <name url="https://80000hours.org/podcast/">80,000 Hours Podcast</name>
+    <episode url="https://80000hours.org/podcast/episodes/bonus-parenting-insights-compilation/" number="413">Parenting insights from Rob and 8 past guests</episode>
+    <comments>I think it's Rob who pointed out that it's far more difficult to imagine your life without your children (because you have to "kill" them in your imagination, which is a horrible thought) than to imagine your life with (imaginary) children when you don't have children yet. This introduces a bias in a lot of studies about children and well-being. Then there's the distinction between present well-being and meaning. Most parents say their children give their life meaning. Even if they're miserable. I still don't know what the answer is, but it's probably more difficult than you would think.</comments>
+  </podcast>
+  <podcast>
+    <date>2025-05-11</date>
+    <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
+    <episode url="https://www.samharris.org/podcasts/making-sense-episodes/413-more-from-sam-trump-israel-corruption-free-speech-violations-the-democrats-ezra-klein" number="413">"More From Sam": Trump &amp; Israel, Corruption, Free Speech Violations, the Democrats, &amp; Ezra Klein</episode>
+    <comments>"They discuss whether Jews in the U.S. are safer under Trump, due process rights and free speech, what Trump is doing to universities, the Trump family's latest corruption scandals, Sam's updated views on Bill Maher's dinner at the White House, what Sam got wrong about wokeness and the 2024 election, Pete Buttigieg's appearance on Andrew Schulz's podcast, Gavin Newsom, and Ezra Klein."</comments>
+  </podcast>
+  <podcast>
+    <date>2025-05-09</date>
+    <name url="https://www.foundmyfitness.com/episodes">FoundMyFitness</name>
+    <episode url="https://www.foundmyfitness.com/episodes/darren-candow" number="100">The Optimal Creatine Protocol for Strength, Brain, and Longevity | Darren Candow, PhD</episode>
+    <comments>5 grams is a great starting dose (for muscle mass). 8 grams is good for bones. 10 g is good for the brain. 20 g is good is case of stress or sleep deprivation. There are potential benefits for Alzheimer's, but no study to back this up. Rhonda takes 5 grams daily of glutamine. Anecdotally, she thinks it helps her immunity. Creatine interferes with cafeine. One hour before and after exercise is ideal for muscles. For bones/brain, timing is not important.</comments>
+  </podcast>
+  <podcast>
+    <date>2025-05-09</date>
+    <name url="https://www.youtube.com/@LeFuturologuePodcast">Le Futurologue Podcast</name>
+    <episode url="https://www.youtube.com/watch?v=9tpzIk5Polo&amp;ab_channel=LeFuturologuePodcast">"Il est urgent de mettre l'IA en pause." - Maxime Fournes</episode>
+    <comments>Pour être transparent, je dirais d'abord que j'ai un biais négatif par rapport à la personne interviewée. Je l'ai perçue comme peu modeste, mais je ne saurais mettre précisément le doigt sur ce qui me fait dire cela. Concernant ses arguments, peut-être est-ce un problème de temps limité ou de format de l'interview, mais je les ai trouvés un peu courts. Pour savoir ce qu'une intelligence artificielle supérieure à l'intelligence humaine ferait de nous, il suffirait de regarder ce que l'humanité a fait aux animaux ? Alors, oui, les être humains tuent, exploitent, etc. les animaux, mais on pourrait aussi choisir de voir les mouvements développés en faveur de la protection des animaux. Les végétariens/végans. Les sanctuaires pour animaux. Les gens qui adoptent des animaux abandonnés. Etc, etc. Donc on en revient au problème de l'alignement. Fournes se dit en paix avec sa mortalité et l'extinction de l'espèce humaine. Il méditerait deux heures par jour. "On va tous mourir un jour.", dit-il. Soit. Je pense que c'est bien d'accepter notre finitude. Mais devons-nous comprendre qu'il ne croit pas que l'être humain repoussera la mort, par la recherche médicale et scientifique, jusqu'à rendre l'être humain "quasi-immortel" ? Fournes semble avoir une dent contre Yann LeCun ("qui ne comprend rien à l'IA"). Pas très modeste, donc. Fournes propose de "mettre en pause" la recherche avec des traités internationaux, mais, à moins que quelque chose ne m'échappe, il ne dit pas vraiment comment y parvenir. Est-ce vraiment réaliste ? Que fait-on avec les Etats qui ne sont pas d'accord ? Personnellement, je suis sensible à la problématique du danger de l'intelligence artificielle, mais je n'étonne qu'une voie, développée par Ray Kurzweil dans <i>The Singularity is Nearer</i>, dans le contexte des nanotechnologies, ne soit pas discutée : utiliser l'intelligence artificielle pour lutter, justement, contre les mauvaises utilisations de l'intelligence artificielle. Pourra-t-on tout prévoir ? Non, mais des approches générales pourraient fonctionner, j'en reste convaincu.</comments>
+  </podcast>
+  <podcast>
+    <date>2025-05-05</date>
+    <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
+    <episode url="https://www.samharris.org/podcasts/making-sense-episodes/408-finding-equanimity-in-chaos" number="408">Finding Equanimity in Chaos - A Conversation with Dan Harris</episode>
+    <comments>"They discuss how meditation helped Sam after evacuating his home during the LA fires, why Sam owns a gun, the ethics of violence, how to feel compassion for your political opponents, why it doesn't make sense to “hate” anyone, free will and determinism, psychedelics, the importance of training your mind, and other topics."</comments>
+  </podcast>
+  <podcast>
     <date>2025-05-02</date>
     <name url="http://verybadwizards.com/">Very Bad Wizards</name>
     <episode url="https://verybadwizards.com/episode/episode-300-if-we-only-had-a-brain" number="300">If We Only Had A Brain</episode>
@@ -11,7 +41,7 @@
     <date>2025-04-30</date>
     <name url="http://verybadwizards.com/">Very Bad Wizards</name>
     <episode url="https://verybadwizards.com/episode/episode-305-emile-is-the-name-of-the-goat-with-paul-bloom" number="305">Emile Is the Name of the Goat (with Paul Bloom)</episode>
-    <comments>"VBW favorite Paul Bloom joins us to break down the Severance season finale and season 2 in general. We all agree that it’s a much-needed return to form and debate some of the choices and questions the episode raises."</comments>
+    <comments>"VBW favorite Paul Bloom joins us to break down the Severance season finale and season 2 in general. We all agree that it's a much-needed return to form and debate some of the choices and questions the episode raises."</comments>
   </podcast>
   <podcast>
     <date>2025-04-29</date>
@@ -35,7 +65,7 @@
     <date>2025-04-11</date>
     <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
     <episode url="https://www.samharris.org/podcasts/making-sense-episodes/407-can-we-ever-return-to-normal-politics" number="407">Can We Ever Return to Normal Politics? - A Conversation with Jon Favreau</episode>
-    <comments>"Sam Harris speaks with Jon Favreau about the state of American politics. They discuss the Trump administration’s wrongful deportation of Kilmar Abrego Garcia, tariffs, why Trump’s supporters don’t care about his corruption, the next steps for Democrats, the energy behind AOC and Bernie Sanders, why Biden failed on the border, Biden’s legacy, potential 2028 Democratic candidates, Elon Musk and DOGE, whether we can ever return to “normal” politics, and other topics."</comments>
+    <comments>"Sam Harris speaks with Jon Favreau about the state of American politics. They discuss the Trump administration's wrongful deportation of Kilmar Abrego Garcia, tariffs, why Trump's supporters don't care about his corruption, the next steps for Democrats, the energy behind AOC and Bernie Sanders, why Biden failed on the border, Biden's legacy, potential 2028 Democratic candidates, Elon Musk and DOGE, whether we can ever return to “normal” politics, and other topics."</comments>
   </podcast>
   <podcast>
     <date>2025-04-11</date>
@@ -47,7 +77,7 @@
     <date>2025-04-08</date>
     <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
     <episode url="https://www.samharris.org/podcasts/making-sense-episodes/405-more-from-sam-tariffs-signal-gate-trump-elon-douglas-murray-joe-rogan" number="405">"More From Sam": Tariffs, SignalGate, Trump, Elon, Douglas Murray, &amp; Joe Rogan</episode>
-    <comments>"They discuss tariffs, SignalGate, Trump, Elon, Joe Rogan, Lex Fridman, The All-In podcast, Sam’s upcoming podcast with Douglas Murray, and more."</comments>
+    <comments>"They discuss tariffs, SignalGate, Trump, Elon, Joe Rogan, Lex Fridman, The All-In podcast, Sam's upcoming podcast with Douglas Murray, and more."</comments>
   </podcast>
   <podcast>
     <date>2025-04-06</date>
@@ -76,7 +106,7 @@
   <podcast>
     <date>2025-03-18</date>
     <name url="https://podcast.ausha.co/violet">Violet - Le Podcast sur Prince et le Minneapolis Sound</name>
-    <episode url="https://podcast.ausha.co/violet/hitnrun-phase-two-that-s-it">HITnRUN Phase Two : That’s it !</episode>
+    <episode url="https://podcast.ausha.co/violet/hitnrun-phase-two-that-s-it">HITnRUN Phase Two : That's it !</episode>
     <comments>Le dernier album de Prince. Un album chaleureux, qui ne révolutionne rien, mais de très bonne facture. Content d'apprendre que l'équipe de Violet réfléchit à une suite !</comments>
   </podcast>
   <podcast>
@@ -149,7 +179,7 @@
     <date>2024-11-05</date>
     <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
     <episode url="https://www.samharris.org/podcasts/making-sense-episodes/386-information-social-order" number="386">Information &amp; Social Order - A Conversation with Yuval Noah Harari</episode>
-    <comments>I'll quote Reddit's top comment: "Fantastic episode. I especially liked the part of the episode where they discuss the current situation in Israel and Yuval gives Sam some information about the Israelis thoughts on the war and the region as a whole that flies in the face of Sam’s beliefs a bit."</comments>
+    <comments>I'll quote Reddit's top comment: "Fantastic episode. I especially liked the part of the episode where they discuss the current situation in Israel and Yuval gives Sam some information about the Israelis thoughts on the war and the region as a whole that flies in the face of Sam's beliefs a bit."</comments>
   </podcast>
   <podcast>
     <date>2024-10-12</date>
