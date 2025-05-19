@@ -3,6 +3,36 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Add rating to IMDb -->
   <movie>
+    <date>2025-05-14</date>
+    <theater home="true"/>
+    <director>Paul Thomas Anderson</director>
+    <title>Licorice Pizza</title>
+    <url>https://www.imdb.com/title/tt11271038/</url>
+    <rating>4.75</rating>
+    <comments>My third Paul Thomas Anderson movie. Alana Haim is fantastic.</comments>
+    <image>Licorice Pizza.jpg</image>
+  </movie>
+  <movie>
+    <date>2025-05-06</date>
+    <theater home="true"/>
+    <director>Darren Aronofsky</director>
+    <title>The Fountain</title>
+    <url>https://www.imdb.com/title/tt0414993/</url>
+    <rating>4.5</rating>
+    <comments>I saw <i>The Fountain</i> in 2007 when it came out. I was not convinced then. I'm still not convinced.</comments>
+    <image>The Fountain.jpg</image>
+  </movie>
+  <movie>
+    <date>2025-05-03</date>
+    <theater home="true"/>
+    <director>François Ozon</director>
+    <title>Swimming Pool</title>
+    <url>https://www.imdb.com/title/tt0324133/</url>
+    <rating>4.25</rating>
+    <comments>On y voit beaucoup Ludivine Sagnier nue et/ou en train de faire l'amour. Le twist à la fin est sympathique, mais ne rattrape pas tout.</comments>
+    <image>Swimming Pool.jpg</image>
+  </movie>
+  <movie>
     <date>2025-04-30</date>
     <theater home="true"/>
     <director>Paul Thomas Anderson</director>
