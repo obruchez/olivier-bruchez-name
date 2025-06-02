@@ -3,13 +3,35 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Add rating to IMDb -->
   <movie>
+    <date>2025-05-23</date>
+    <theater home="true"/>
+    <director>Paul Thomas Anderson</director>
+    <title>Boogie Nights</title>
+    <url>https://www.imdb.com/title/tt0118749/</url>
+    <rating>4.75</rating>
+    <comments>My fifth Paul Thomas Anderson movie. Definitely a fascinating director.</comments>
+    <image>Boogie Nights.jpg</image>
+  </movie>
+  <movie>
+    <date>2025-05-23</date>
+    <theater home="true"/>
+    <director>Hayao Miyazaki</director>
+    <title>Tenkû no shiro Rapyuta</title>
+    <title language="fr">Le Château dans le ciel</title>
+    <version>fr</version>
+    <url>https://www.imdb.com/title/tt0092067/</url>
+    <rating>4.75</rating>
+    <comments>My son's fourth Miyazaki film. It was more violent than I remembered (weapons, explosions, etc.), but I really like this idea of a floating island in the sky, with a huge castle / building complex, taken over by nature.</comments>
+    <image>Laputa - Castle in the Sky.jpg</image>
+  </movie>
+  <movie>
     <date>2025-05-14</date>
     <theater home="true"/>
     <director>Paul Thomas Anderson</director>
     <title>Licorice Pizza</title>
     <url>https://www.imdb.com/title/tt11271038/</url>
     <rating>4.75</rating>
-    <comments>My third Paul Thomas Anderson movie. Alana Haim is fantastic.</comments>
+    <comments>My fourth Paul Thomas Anderson movie. Alana Haim is fantastic.</comments>
     <image>Licorice Pizza.jpg</image>
   </movie>
   <movie>
@@ -793,7 +815,7 @@
     <title language="fr">Ponyo sur la falaise</title>
     <version>fr</version>
     <url>https://www.imdb.com/title/tt0876563/</url>
-    <rating>4.5</rating>$
+    <rating>4.5</rating>
     <comments>My 5-year-old son's second Miyazaki movie, after <a href="https://www.imdb.com/title/tt0096283/"><i>My Neighbor Totoro</i></a>, which he saw with my wife. <i>Ponyo</i> is clearly more children-oriented. It is still imbued with Miyazaki's themes/poetry, but it is not as breathtaking as some of his other films.</comments>
     <image>Ponyo.jpg</image>
   </movie>
