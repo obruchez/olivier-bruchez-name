@@ -2,6 +2,24 @@
 <podcasts created="2016-05-10">
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date>2025-06-03</date>
+    <name url="https://www.foundmyfitness.com/episodes">FoundMyFitness</name>
+    <episode url="https://www.foundmyfitness.com/episodes/vitamin-d-dementia" number="102">Why Vitamin D Deficiency Accelerates Brain Aging</episode>
+    <comments>Another good reason to take vitamin D3.</comments>
+  </podcast>
+  <podcast>
+    <date>2025-05-22</date>
+    <name url="https://www.youtube.com/@LeFuturologuePodcast">Le Futurologue Podcast</name>
+    <episode url="https://www.youtube.com/watch?v=EEWXqoFKGk0">Ce qu’on ne vous dit pas sur ChatGPT</episode>
+    <comments>Une bonne introduction à tout le sujet de l'intelligence artificielle, des modèles LLM, des risques, etc.</comments>
+  </podcast>
+  <podcast>
+    <date>2025-05-20</date>
+    <name url="https://www.youtube.com/@LeFuturologuePodcast">Le Futurologue Podcast</name>
+    <episode url="https://www.youtube.com/watch?v=hRs-A3M-1u8">Intelligence Artificielle : Le Grand Déni - Laurent Alexandre</episode>
+    <comments>Je partage son enthousiasme par rapport aux possibilités de l'intelligence artificielle, beaucoup moins ses positions politiques, bien plus à droite que les miennes. Je m'étonne par contre qu'il ne se fasse pas de souci par rapport aux risques potentiels de l'IA, qu'il ne "croie" pas en la singularité technologique, et qu'il pense (comme Kurzweil ?) que nous fusionnerons forcément avec les IA et que, par conséquent, nous ne perdrons pas nos emplois, par exemple.</comments>
+  </podcast>
+  <podcast>
     <date>2025-05-13</date>
     <name url="https://80000hours.org/podcast/">80,000 Hours Podcast</name>
     <episode url="https://80000hours.org/podcast/episodes/bonus-parenting-insights-compilation/" number="413">Parenting insights from Rob and 8 past guests</episode>
