@@ -3,6 +3,16 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Add rating to IMDb -->
   <movie>
+    <date>2025-06-05</date>
+    <theater>Galeries, Lausanne</theater>
+    <director>Darren Aronofsky</director>
+    <title>Black Swan</title>
+    <url>https://www.imdb.com/title/tt0947798/</url>
+    <rating>5.0</rating>
+    <comments>I saw this movie twice when it came out in early 2011. I was a fan. I felt the need to re-watch it before other Aronofsky movies.</comments>
+    <image>Black Swan.jpg</image>
+  </movie>
+  <movie>
     <date>2025-05-23</date>
     <theater home="true"/>
     <director>Paul Thomas Anderson</director>
