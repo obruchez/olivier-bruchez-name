@@ -3,6 +3,16 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Add rating to IMDb -->
   <movie>
+    <date>2025-06-10</date>
+    <theater home="true"/>
+    <director>Darren Aronofsky</director>
+    <title>Requiem for a Dream</title>
+    <url>https://www.imdb.com/title/tt0180093/</url>
+    <rating>5.0</rating>
+    <comments>Five years ago, I wrote that this was "definitely not a feel-good movie". Watching it a second time, I was maybe even more disturbed by some of the scenes. Fantastic cinematography. The link with David Lynch is less striking to me.</comments>
+    <image>Requiem for a Dream.jpg</image>
+  </movie>
+  <movie>
     <date>2025-06-05</date>
     <theater>Galeries, Lausanne</theater>
     <director>Darren Aronofsky</director>
