@@ -2,6 +2,36 @@
 <podcasts created="2016-05-10">
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date>2025-06-16</date>
+    <name url="https://www.youtube.com/@LeFuturologuePodcast">Le Futurologue Podcast</name>
+    <episode url="https://www.youtube.com/watch?v=yYKt1864NQI">"L’IA est plus dangereuse que la bombe atomique." - Flavien Chervet</episode>
+    <comments>La troisième interview du Futurologue que j'écoute et de loin la plus raisonnable pour le moment.</comments>
+  </podcast>
+  <podcast>
+    <date>2025-06-16</date>
+    <name url="https://podcasts.konbini.com/en/konbini-small-talk-konbini">Small Talk - Konbini</name>
+    <episode url="https://podcasts.konbini.com/konbini-small-talk-konbini/202506110300-m-et-la-pyramide-du-nez">-M- et la pyramide du nez</episode>
+    <comments>David Castello-Lopes est à l'heure actuelle l'un de mes humoristes préférés. -M- était un musicien que je suivais de près il y a 15-20 ans, nettement moins depuis. Il est clairement influencé par Prince. Il reste quelqu'un d'agréable à écouter, très doux et humble.</comments>
+  </podcast>
+  <podcast>
+    <date>2025-06-10</date>
+    <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
+    <episode url="https://www.samharris.org/podcasts/making-sense-episodes/strange-truths" number="414">Strange Truths - A Conversation with David Deutsch</episode>
+    <comments>I'm currently reading David Deutsch's book <i>The Beginning of Infinity</i>. It's a hard read. He's clearly very intelligent. He's a proponent of the <a href="https://en.wikipedia.org/wiki/Many-worlds_interpretation">many-worlds</a> <a href="https://en.wikipedia.org/wiki/Interpretations_of_quantum_mechanics">interpretation of quantum mechanics</a>. I'm still not sure what it means exactly (concretely).</comments>
+  </podcast>
+  <podcast>
+    <date>2025-06-10</date>
+    <name url="https://podcast.ausha.co/violet">Violet - Le Podcast sur Prince et le Minneapolis Sound</name>
+    <episode url="https://podcast.ausha.co/violet/bonus-9-ersin-leibowitch-auteur-de-prince-xperience-dans-la-tete-du-genie">Bonus #9 : Ersin Leibowitch - Auteur de "Prince Xperience. Dans la tête du génie"</episode>
+    <comments>Suite à cette discussion très agréable, j'ai acheté le livre de Leibowitch. Je ne sais pas si je le lirai (l'ouvrage est peut-être un peu trop généraliste ?), mais c'est ma manière d'encourager ce genre d'initiatives. Et d'entrer dans le club des "gens cools qui achètent des livres à propos de la musique".</comments>
+  </podcast>
+  <podcast>
+    <date>2025-06-09</date>
+    <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
+    <episode url="https://www.samharris.org/podcasts/making-sense-episodes/419-more-from-sam-elon-vs-trump-religion-jordan-peterson-rapid-fire-questions" number="419">"More From Sam": Elon vs. Trump, Religion, Jordan Peterson, &amp; Rapid Fire Questions</episode>
+    <comments>"This episode was originally recorded on June 4th, but in light of today's events, Sam and Jaron recorded an additional segment (on June 5) about the latest news on Trump and Musk's fallout, which is included at the end of this episode. They also discuss the real results of DOGE, the Big Beautiful Bill, Jordan Peterson, the role of religion in modern society, and other topics."</comments>
+  </podcast>
+  <podcast>
     <date>2025-06-03</date>
     <name url="https://www.foundmyfitness.com/episodes">FoundMyFitness</name>
     <episode url="https://www.foundmyfitness.com/episodes/vitamin-d-dementia" number="102">Why Vitamin D Deficiency Accelerates Brain Aging</episode>
@@ -4044,7 +4074,7 @@
     <date>2019-06-28</date>
     <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
     <episode url="https://samharris.org/podcasts/158-understanding-humans-wild/" number="158">Understanding Humans in the Wild - A Conversation with Adam Grant</episode>
-    <comments>I liked the part where Adam explained his skepticism about meditation, because he kind of has a good point. People give meditation too much credits. It's a tool. It's useful. It can also be beneficial if you use it right. But not necessarily. I still would like to know if Adam Grant really doesn't have a "monkey mind" or if he doesn't realize he has one. Are there people that really don't need meditation? It's an open question. I also liked the part about framing, i.e. how you can see a situation or even a feeling from different points of view. For example, anxiety and excitement share almost the same physiological characteristics. The difference is how we interpret those signs. We can't really control our physiological responses, but we can control our interpretations.</comments>
+    <comments>I liked the part where Adam explained his skepticism about meditation, because he kind of has a good point. People give meditation too much credit. It's a tool. It's useful. It can also be beneficial if you use it right. But not necessarily. I still would like to know if Adam Grant really doesn't have a "monkey mind" or if he doesn't realize he has one. Are there people that really don't need meditation? It's an open question. I also liked the part about framing, i.e. how you can see a situation or even a feeling from different points of view. For example, anxiety and excitement share almost the same physiological characteristics. The difference is how we interpret those signs. We can't really control our physiological responses, but we can control our interpretations.</comments>
   </podcast>
   <podcast>
     <date>2019-06-26</date>
