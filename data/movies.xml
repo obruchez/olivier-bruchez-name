@@ -3,6 +3,16 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Add rating to IMDb -->
   <movie>
+    <date>2025-06-21</date>
+    <theater home="true"/>
+    <director>Darren Aronofsky</director>
+    <title>Mother!</title>
+    <url>https://www.imdb.com/title/tt5109784/</url>
+    <rating>5.0</rating>
+    <comments>I think the various biblical and religious allegories worked pretty well. This is really an anxiety-inducing movie, without being a typical horror movie.</comments>
+    <image>Mother!.jpg</image>
+  </movie>
+  <movie>
     <date>2025-06-10</date>
     <theater home="true"/>
     <director>Darren Aronofsky</director>
