@@ -2,6 +2,18 @@
 <podcasts created="2016-05-10">
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date>2025-06-24</date>
+    <name url="https://www.foundmyfitness.com/episodes">FoundMyFitness</name>
+    <episode url="https://www.foundmyfitness.com/episodes/coffee" number="203">How To Use Coffee To Live Longer (Full Guide &amp; Research)</episode>
+    <comments>In summary, coffee is good for health, but you have to be careful about when and how you consume it. 2-3 cups in the morning like I do is fine, so nothing to change here for me. Filtered coffee is better (Nespresso capsules don't fall into that category, apparently). Caffeine and polyphenols, etc. are both positive for different things. Rhonda's summary: "1) Coffee actively slows aging, boosts cognitive performance, and reduces chronic disease risk. 2) Filtered coffee in the morning (2-3 cups) maximizes circadian rhythm and metabolic health. 3) Minimize additives and consider supplements (like L-theanine) to enhance coffee's benefits without anxiety."</comments>
+  </podcast>
+  <podcast>
+    <date>2025-06-24</date>
+    <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
+    <episode url="https://www.samharris.org/podcasts/making-sense-episodes/420-countdown-to-superintelligence" number="420">Countdown to Superintelligence - A Conversation with Daniel Kokotajlo</episode>
+    <comments>Yet another person who hopes that things won't happen too fast, so that we have more or less enough time to adjust.</comments>
+  </podcast>
+  <podcast>
     <date>2025-06-16</date>
     <name url="https://www.youtube.com/@LeFuturologuePodcast">Le Futurologue Podcast</name>
     <episode url="https://www.youtube.com/watch?v=yYKt1864NQI">"L’IA est plus dangereuse que la bombe atomique." - Flavien Chervet</episode>
