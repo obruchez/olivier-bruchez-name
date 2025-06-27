@@ -3,6 +3,16 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Add rating to IMDb -->
   <movie>
+    <date>2025-06-27</date>
+    <theater home="true"/>
+    <director>Darren Aronofsky</director>
+    <title>The Wrestler</title>
+    <url>https://www.imdb.com/title/tt1125849/</url>
+    <rating>4.75</rating>
+    <comments>A very touching movie, quite different from Aronofsky's other movies.</comments>
+    <image>The Wrestler.jpg</image>
+  </movie>
+  <movie>
     <date>2025-06-21</date>
     <theater home="true"/>
     <director>Darren Aronofsky</director>
