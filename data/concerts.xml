@@ -7,6 +7,30 @@
   -->
   <introduction>A list of concerts I went to.</introduction>
   <concert>
+    <date>2025-06-29</date>
+    <location>Théâtre Jean-Duceppe, Montréal, QC, Canada</location>
+    <event>Festival International de Jazz de Montréal</event>
+    <musician inst="electric guitar" main="true">Mike Stern</musician>
+    <musician inst="guitar">Leni Stern</musician>
+    <musician inst="bass">Noam Tanzer</musician>
+    <musician inst="saxophone">Bob Franceschini</musician>
+    <musician inst="drums">Dennis Chambers</musician>
+    <rating>5.25</rating>
+    <comments>My third Mike Stern concert and also the third time I saw Dennis Chambers. It was the first time I saw the three other musicians in the band, who were also excellent. All in all a great concert, that I would have appreciated more with less jetlag.</comments>
+  </concert>
+  <concert>
+    <date>2025-06-29</date>
+    <location>Théâtre Jean-Duceppe, Montréal, QC, Canada</location>
+    <event>Festival International de Jazz de Montréal</event>
+    <musician inst="drums" main="true">Matys Colpron</musician>
+    <musician inst="guitar">Antoine Tousignant</musician>
+    <musician inst="tenor saxophone">Samuel Baglier</musician>
+    <musician inst="bass">Vincent Dessureault</musician>
+    <musician inst="keyboards">Cédric de Saint-Rome</musician>
+    <rating>4.0</rating>
+    <comments>They were opening for Mike Stern. I'm not 100% sure about the names of the musicians. I was jetlagged and obviously there for Mike Stern. A few of the songs were pretty cool.</comments>
+  </concert>
+  <concert>
     <date>2025-05-18</date>
     <location>Opéra de Lausanne, Lausanne, Switzerland</location>
     <event><i>Carmen</i> opera</event>
