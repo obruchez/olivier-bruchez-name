@@ -2,6 +2,24 @@
 <podcasts created="2016-05-10">
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date>2025-06-28</date>
+    <name url="https://nymag.com/tags/cover-story/">Cover Story</name>
+    <episode url="https://www.thecut.com/2022/03/cover-story-podcast-episode-7-political-science.html">Political Science</episode>
+    <comments>"On this week's episode of Cover Story: Power Trip, one of the participants of an MDMA-assisted-therapy clinical trial gets her hands on the data. Though her symptoms of PTSD lessened immensely with treatment and she was a success story on paper, she left the experiment more torn and depressed than before. Collaborator Lily Kay Ross and partner Dave Nickles turn to MAPS, the Multidisciplinary Association for Psychedelic Studies, for answers. Why did the data make it seem like every participant was a success story when that was not the case?" There were some limitations/problems with the trial, but it does sound like a one-sided description of the problem, as explained in the 2025 article <a href="https://www.nytimes.com/2025/02/04/health/fda-mdma-psychedelic-therapy-psymposia.html"><i>How a Leftist Activist Group Helped Torpedo a Psychedelic Therapy</i></a> It's hard to get a clear picture of what happened.</comments>
+  </podcast>
+  <podcast>
+    <date>2025-06-28</date>
+    <name url="https://nymag.com/tags/cover-story/">Cover Story</name>
+    <episode url="https://www.thecut.com/2022/03/cover-story-podcast-open-heart-surgery.html">Open-Heart Surgery</episode>
+    <comments>"After diving into the trippy underground world of psychedelics in part one of Cover Story: Power Trip, the investigative podcast returns to explore its aboveground counterpart — lab research — and see how it compares. In episode six, collaborator Lily Kay Ross and her partner, Dave Nickles, talk with participants from some of the most advanced MDMA-assisted-therapy trials conducted. While on paper the subjects' experiences proved successful in treating their PTSD, Ross and Nickles uncover that the treatment might have left them with more issues than it fixed."</comments>
+  </podcast>
+  <podcast>
+    <date>2025-06-28</date>
+    <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
+    <episode url="https://www.samharris.org/podcasts/making-sense-episodes/412-better-things-better-people" number="412">Better Things &amp; Better People - A Conversation with Rutger Bregman</episode>
+    <comments>Rehabilitating utopias: I like this idea. He's against de-growth as a general idea, which I can also agree with. Effective altruism: we should focus on guilt-free ways to make people do good things. I guess he's right. I've bought his book <i>Moral Ambition</i> after listening to that episode.</comments>
+  </podcast>
+  <podcast>
     <date>2025-06-27</date>
     <name url="http://peachandblack.podbean.com/">Peach &amp; Black Podcast</name>
     <episode url="https://open.spotify.com/episode/7md5jo337sbOUmbX0dBBSF">Prince - Batman Review : The New Master</episode>
@@ -22,7 +40,7 @@
   <podcast>
     <date>2025-06-16</date>
     <name url="https://www.youtube.com/@LeFuturologuePodcast">Le Futurologue Podcast</name>
-    <episode url="https://www.youtube.com/watch?v=yYKt1864NQI">"L’IA est plus dangereuse que la bombe atomique." - Flavien Chervet</episode>
+    <episode url="https://www.youtube.com/watch?v=yYKt1864NQI">"L'IA est plus dangereuse que la bombe atomique." - Flavien Chervet</episode>
     <comments>La troisième interview du Futurologue que j'écoute et de loin la plus raisonnable pour le moment.</comments>
   </podcast>
   <podcast>
@@ -58,7 +76,7 @@
   <podcast>
     <date>2025-05-22</date>
     <name url="https://www.youtube.com/@LeFuturologuePodcast">Le Futurologue Podcast</name>
-    <episode url="https://www.youtube.com/watch?v=EEWXqoFKGk0">Ce qu’on ne vous dit pas sur ChatGPT</episode>
+    <episode url="https://www.youtube.com/watch?v=EEWXqoFKGk0">Ce qu'on ne vous dit pas sur ChatGPT</episode>
     <comments>Une bonne introduction à tout le sujet de l'intelligence artificielle, des modèles LLM, des risques, etc.</comments>
   </podcast>
   <podcast>
