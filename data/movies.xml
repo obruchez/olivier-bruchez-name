@@ -3,6 +3,58 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Add rating to IMDb -->
   <movie>
+    <date>2025-07-19</date>
+    <theater home="true"/>
+    <director>Jessica Hausner</director>
+    <title>Hotel</title>
+    <url>https://www.imdb.com/title/tt0415855/</url>
+    <rating>3.5</rating>
+    <comments>I see what the director tried to do, but everything felt a bit "raw", not developed enough. I'm not against movies without a soundtrack, for example, but the rest must somehow compensate for this absence. Make the characters really intriguing. At least, the movie is not too long... Also, there's a clear David Lynch connection: the road lit by the car's headlights (<i>Lost Highway</i>), the red curtains (<i>Twin Peaks</i>), the fact that we don't always know what's real or not, etc. </comments>
+    <image>Hotel.jpg</image>
+  </movie>
+  <movie>
+    <date>2025-07-18</date>
+    <theater home="true"/>
+    <director>Duncan Jones</director>
+    <title>Moon</title>
+    <url>https://www.imdb.com/title/tt1182345/</url>
+    <rating>4.75</rating>
+    <comments>I saw this at the Cinémathèque back in 2016 and really liked it then. I felt the need to watch it again this year, for some reason. I guess I was less impressed this time. Why can't the whole operation on the Moon be automated? They seem to have human-level AI, after all. And why is it more convenient and/or cheaper to have dozens of clones ready to be reanimated than to send humans from Earth? This doesn't make much sense.</comments>
+    <image>Moon.jpg</image>
+  </movie>
+  <movie>
+    <date>2025-07-16</date>
+    <theater home="true"/>
+    <director>Tim Burton</director>
+    <title>Charlie and the Chocolate Factory</title>
+    <title language="fr">Charlie et la Chocolaterie</title>
+    <version>fr</version>
+    <url>https://www.imdb.com/title/tt0367594/</url>
+    <rating>4.75</rating>
+    <comments>Watched with our 7-year-old son. By coincidence, we rewatched this film 20 years later, almost to the day, from when we had seen it at the cinema! It's clearly meant for children, but it's very well done.</comments>
+    <image>Charlie and the Chocolate Factory.jpg</image>
+  </movie>
+  <movie>
+    <date>2025-07-16</date>
+    <theater home="true"/>
+    <director>Darren Aronofsky</director>
+    <title>The Whale</title>
+    <url>https://www.imdb.com/title/tt13833688/</url>
+    <rating>4.75</rating>
+    <comments>Another very touching movie from Aronofsky. I don't know what to make of the very last scene. Does it need to have a religious interpretation? I guess not.</comments>
+    <image>The Whale.jpg</image>
+  </movie>
+  <movie>
+    <date>2025-07-15</date>
+    <theater>Flight AC884, Air Canada</theater>
+    <director>Robert Zemeckis</director>
+    <title>Contact</title>
+    <url>https://www.imdb.com/title/tt0118884/</url>
+    <rating>8.0</rating>
+    <comments>I really like the story. The movie itself is not perfect. It's not <i>2001: A Space Odyssey</i>. It's missing something. I'm not sure what exactly. Maybe a better cinematography?</comments>
+    <image>Contact.jpg</image>
+  </movie>
+  <movie>
     <date>2025-06-27</date>
     <theater home="true"/>
     <director>Darren Aronofsky</director>
@@ -9131,7 +9183,7 @@
   <movie>
     <date>2003-04-15</date>
     <theater home="true"/>
-    <director></director>
+    <director>Robert Zemeckis</director>
     <title>Contact</title>
     <url>https://www.imdb.com/title/tt0118884/</url>
     <image>Contact.jpg</image>
