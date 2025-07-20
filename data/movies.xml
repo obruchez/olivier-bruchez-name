@@ -3,6 +3,16 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Add rating to IMDb -->
   <movie>
+    <date>2025-07-20</date>
+    <theater home="true"/>
+    <director>Denis Villeneuve</director>
+    <title>Enemy</title>
+    <url>https://www.imdb.com/title/tt2316411/</url>
+    <rating>4.75</rating>
+    <comments>This could have been a good short movie.</comments>
+    <image>Enemy.jpg</image>
+  </movie>
+  <movie>
     <date>2025-07-19</date>
     <theater home="true"/>
     <director>Jessica Hausner</director>
