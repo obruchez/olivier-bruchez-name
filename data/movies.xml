@@ -3,12 +3,52 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Add rating to IMDb -->
   <movie>
+    <date></date>
+    <theater home="true"/>
+    <director>Lucile Hadzihalilovic</director>
+    <title>Innocence</title>
+    <url>https://www.imdb.com/title/tt0375233/</url>
+    <rating></rating>
+    <comments></comments>
+    <image>Innocence.jpg</image>
+  </movie>
+  <movie>
+    <date>2025-07-26</date>
+    <theater home="true"/>
+    <director>Richard Sears</director>
+    <title>Bottom of the World</title>
+    <url>https://www.imdb.com/title/tt2337841/</url>
+    <rating>4.0</rating>
+    <comments>This is very (too much?) reminiscent of David Lynch (<i>Mulholland Drive</i>, in particular), <i>Brazil</i>, <i>An Occurrence at Owl Creek Bridge</i> (a special episode of <i>The Twilight Zone</i>), etc. It's missing something, although I'm not sure what. The characters are maybe all a bit hollow.</comments>
+    <image>Bottom of the World.jpg</image>
+  </movie>
+  <movie>
+    <date>2025-07-24</date>
+    <theater home="true"/>
+    <director>Jonathan Glazer</director>
+    <title>Under the Skin</title>
+    <url>https://www.imdb.com/title/tt1441395/</url>
+    <rating>4.75</rating>
+    <comments>All men are pigs, apparently. This is a slow, experimental film, with beautiful views of Scotland. The beach scenes are horrific. That image of the child crying will stay with me.</comments>
+    <image>Under the Skin.jpg</image>
+  </movie>
+  <movie>
+    <date>2025-07-21</date>
+    <theater home="true"/>
+    <director>Ryan Gosling</director>
+    <title>Lost River</title>
+    <url>https://www.imdb.com/title/tt2366608/</url>
+    <rating>4.5</rating>
+    <comments>I understand why this film disappointed many people, especially fans of Ryan Gosling. Some say the characters are not developed enough, that the film is going in too many directions, and that it favors form over substance. It's a bit too harsh, in my opinion. I liked the themes of abandoned houses/towns and the idea of an underwater town. What does it mean to have a "home"? Some scenes are disturbing. The film explores some of the same ideas as <i>Blue Velvet</i>, with less success.</comments>
+    <image>Lost River.jpg</image>
+  </movie>
+  <movie>
     <date>2025-07-20</date>
     <theater home="true"/>
     <director>Denis Villeneuve</director>
     <title>Enemy</title>
     <url>https://www.imdb.com/title/tt2316411/</url>
-    <rating>4.75</rating>
+    <rating>4.5</rating>
     <comments>This could have been a good short movie.</comments>
     <image>Enemy.jpg</image>
   </movie>
@@ -18,7 +58,7 @@
     <director>Jessica Hausner</director>
     <title>Hotel</title>
     <url>https://www.imdb.com/title/tt0415855/</url>
-    <rating>3.5</rating>
+    <rating>3.75</rating>
     <comments>I see what the director tried to do, but everything felt a bit "raw", not developed enough. I'm not against movies without a soundtrack, for example, but the rest must somehow compensate for this absence. Make the characters really intriguing. At least, the movie is not too long... Also, there's a clear David Lynch connection: the road lit by the car's headlights (<i>Lost Highway</i>), the red curtains (<i>Twin Peaks</i>), the fact that we don't always know what's real or not, etc. </comments>
     <image>Hotel.jpg</image>
   </movie>
