@@ -8323,6 +8323,16 @@
     <image>Sin City.jpg</image>
   </movie>
   <movie>
+    <date>2005-07-28</date>
+    <theater home="true"/>
+    <director>Marc Lawrence</director>
+    <title>Two Weeks Notice</title>
+    <title language="fr">L'amour sans préavis</title>
+    <version>fr</version>
+    <url>https://www.imdb.com/title/tt0313737/</url>
+    <image>Two Weeks Notice.jpg</image>
+  </movie>
+  <movie>
     <date>2005-07-17</date>
     <theater>Capitole, Sion</theater>
     <director>Tim Burton</director>
