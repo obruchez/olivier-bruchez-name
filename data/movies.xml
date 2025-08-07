@@ -136,7 +136,7 @@
   </movie>
   <movie>
     <date>2025-06-05</date>
-    <theater>Galeries, Lausanne</theater>
+    <theater home="true"/>
     <director>Darren Aronofsky</director>
     <title>Black Swan</title>
     <url>https://www.imdb.com/title/tt0947798/</url>
