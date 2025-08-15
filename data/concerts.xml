@@ -10,7 +10,7 @@
     <date>2025-08-01</date>
     <location>Salle des Combins, Verbier, Switzerland</location>
     <event>Verbier Festival</event>
-    <musician inst="piano">Brad Mehldau</musician>
+    <musician inst="piano" main="true">Brad Mehldau</musician>
     <musician inst="bass">Felix Moseholm</musician>
     <musician inst="drums">Jorge Rossy</musician>
     <rating>4.75</rating>
