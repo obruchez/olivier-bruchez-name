@@ -2,6 +2,13 @@
 <trips created="2008-02-26">
   <introduction>A list of trips I took.</introduction>
   <trip>
+    <from>2025-08-07</from>
+    <to>2025-08-10</to>
+    <place>Center Parcs Les Trois Forêts, Hattigny, France</place>
+    <!-- <pictures url=""/> -->
+    <comments>My first time at a Center Parcs resort, with our 7-year-old son.</comments>
+  </trip>
+  <trip>
     <from>2025-06-28</from>
     <to>2025-07-14</to>
     <place>Québec, Canada</place>
