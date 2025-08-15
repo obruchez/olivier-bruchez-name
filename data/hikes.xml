@@ -3,6 +3,12 @@
   <introduction>A list of hikes I took.</introduction>
   <!-- TODO: add comments for new hikes? -->
   <hike>
+    <date>2025-08-03</date>
+    <place>Col des Avouillons, Switzerland</place>
+    <!-- <pictures url=""/> -->
+    <comments>A small hike after e-biking from Montagnier to Pindin (in the area above Cabane Brunet).</comments>
+  </hike>
+  <hike>
     <date>2024-10-21</date>
     <place>Lac de Mauvoisin / Glacier d'Otemma / Lac de Crête Sèche, Switzerland</place>
     <!-- <pictures url=""/> -->
