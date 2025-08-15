@@ -7,6 +7,16 @@
   -->
   <introduction>A list of concerts I went to.</introduction>
   <concert>
+    <date>2025-08-01</date>
+    <location>Salle des Combins, Verbier, Switzerland</location>
+    <event>Verbier Festival</event>
+    <musician inst="piano">Brad Mehldau</musician>
+    <musician inst="bass">Felix Moseholm</musician>
+    <musician inst="drums">Jorge Rossy</musician>
+    <rating>4.75</rating>
+    <comments>Brad's 3<sup>rd</sup> concert in Verbier, this time with a trio and at a larger venue. I liked how Brad and Jorge gave Felix Moseholm a lot of space to play. He's certainly very talented.</comments>
+  </concert>
+  <concert>
     <date>2025-07-24</date>
     <location>Grande Scène, Nyon, Switzerland</location>
     <event>Paléo Festival de Nyon</event>
