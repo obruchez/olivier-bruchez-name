@@ -3594,7 +3594,17 @@ Conception affiche :        Bram Dauw
 	Régie générale  Annette Brugière
     -->
   </play>
- <play>
+  <play>
+    <date>2005-07-15</date>
+    <location>Vérossaz, Switzerland</location>
+    <name>Don Camillo II</name>
+    <author>Giovannino Guareschi</author>
+    <adaptation>Alexis Giroud</adaptation>
+    <director>Olivier Duperrex</director>
+    <actor>Théâtre du Croûtion</actor>
+    <image>Don Camillo II.jpg</image>
+  </play>
+  <play>
     <date>2004-08-19</date>
     <location>Carrière des Andonces, St-Triphon, Switzerland</location>
     <name>Akua</name>
