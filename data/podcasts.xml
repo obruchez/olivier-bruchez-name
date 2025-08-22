@@ -2,10 +2,40 @@
 <podcasts created="2016-05-10">
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date>2025-08-17</date>
+    <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
+    <episode url="https://www.samharris.org/podcasts/making-sense-episodes/429-the-new-world-order" number="429">The New World Order - A Conversation with Anne Applebaum</episode>
+    <comments>"Sam Harris speaks with Anne Applebaum about the erosion of democracy at home and abroad. They discuss the Sudanese civil war and the outside forces involved, America's retreat from global leadership, the impacts of USAID cuts, gerrymandering, the integrity of U.S. elections, the capitulation of Republican representatives to Trump, tariffs, what a post-Trump world could look like, JD Vance as a potential successor to the MAGA movement, Israel's actions in Gaza, and other topics."</comments>
+  </podcast>
+  <podcast>
+    <date>2025-08-12</date>
+    <name url="https://www.patreon.com/c/HamiltonMorris">The Hamilton Morris Podcast</name>
+    <episode url="https://www.patreon.com/posts/pod-129-dr-rick-135716167" number="129">Dr. Rick Doblin on FDA rejection and the future of Lykos MDMA</episode>
+    <comments>"In this episode I visit the home of MAPS founder and president of Dr. Rick Doblin to discuss the FDA's rejection of MDMA and the future of the drug's medical development."</comments>
+  </podcast>
+  <podcast>
+    <date>2025-07-30</date>
+    <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
+    <episode url="https://www.samharris.org/podcasts/making-sense-episodes/427-ai-friends-enemies" number="427">AI Friends &amp; Enemies - A Conversation with Paul Bloom</episode>
+    <comments>"Sam Harris speaks with Paul Bloom about AI and current events. They discuss the state of LLMs, the risks and benefits of AI companionship, what it means to attribute consciousness to AI, relationships with AI as a form of psychosis, Trump's attacks on science and academia, what Trump may be trying to hide in the Epstein files, how damaging Trump's connections to Epstein might be, MAGA's obsession with conspiracy theories, questions surrounding Epstein's death, Paul's research on revenge, Sam's falling out with Elon Musk, where things went wrong for Elon, and other topics."</comments>
+  </podcast>
+  <podcast>
+    <date>2025-07-29</date>
+    <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
+    <episode url="https://www.samharris.org/podcasts/making-sense-episodes/426-how-bad-is-it" number="426">How Bad Is It? - A Conversation with David Frum</episode>
+    <comments>"Sam Harris speaks with David Frum about the current state of American politics. They discuss the extent of Trump's corruption, his immigration crackdowns, what's going well under Trump 2.0, Trump's support for Ukraine and Israel, U.S. foreign policy, nuclear proliferation, Israel's security and internal political conflicts, perceptions of the war in Gaza, the Trump administration's professed support for Jews, the fallout of DOGE, Trump's friendship with Jeffrey Epstein, and other topics."</comments>
+  </podcast>
+  <podcast>
+    <date>2025-07-29</date>
+    <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
+    <episode url="https://www.samharris.org/podcasts/making-sense-episodes/423-more-from-sam-democracy-populism-wealth-inequality-news-induced-anxiety-rapid-fire-questions" number="423">"More From Sam": Democracy, Populism, Wealth Inequality, News-Induced Anxiety, &amp; Rapid Fire Questions</episode>
+    <comments>"In this latest episode of the "More From Sam" series, Sam and Jaron talk about current events and answer some of the questions you all submitted on Substack. They discuss Epstein's "client list," how to safeguard democracy, populism, wealth inequality, the allure of socialism, how to manage feeling overwhelmed by current events, and rapid fire questions."</comments>
+  </podcast>
+  <podcast>
     <date>2025-07-22</date>
     <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
     <episode url="https://www.samharris.org/podcasts/making-sense-episodes/424-more-from-sam-nazi-grok-ice-epstein-social-media-rapid-fire-questions" number="424">"More From Sam": Nazi Grok, ICE, Epstein, Social Media, Rapid Fire Questions</episode>
-    <comments>"In this latest episode of the “More From Sam” series, Sam and Jaron talk about current events and answer some of the questions you all submitted on Substack. They discuss Nazi Grok, immigration, ICE raids, Jeffrey Epstein, how to stay focused in the age of distraction, and rapid fire questions."</comments>
+    <comments>"In this latest episode of the "More From Sam" series, Sam and Jaron talk about current events and answer some of the questions you all submitted on Substack. They discuss Nazi Grok, immigration, ICE raids, Jeffrey Epstein, how to stay focused in the age of distraction, and rapid fire questions."</comments>
   </podcast>
   <podcast>
     <date>2025-06-28</date>
@@ -119,7 +149,7 @@
     <date>2025-05-05</date>
     <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
     <episode url="https://www.samharris.org/podcasts/making-sense-episodes/408-finding-equanimity-in-chaos" number="408">Finding Equanimity in Chaos - A Conversation with Dan Harris</episode>
-    <comments>"They discuss how meditation helped Sam after evacuating his home during the LA fires, why Sam owns a gun, the ethics of violence, how to feel compassion for your political opponents, why it doesn't make sense to “hate” anyone, free will and determinism, psychedelics, the importance of training your mind, and other topics."</comments>
+    <comments>"They discuss how meditation helped Sam after evacuating his home during the LA fires, why Sam owns a gun, the ethics of violence, how to feel compassion for your political opponents, why it doesn't make sense to "hate" anyone, free will and determinism, psychedelics, the importance of training your mind, and other topics."</comments>
   </podcast>
   <podcast>
     <date>2025-05-02</date>
@@ -155,7 +185,7 @@
     <date>2025-04-11</date>
     <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
     <episode url="https://www.samharris.org/podcasts/making-sense-episodes/407-can-we-ever-return-to-normal-politics" number="407">Can We Ever Return to Normal Politics? - A Conversation with Jon Favreau</episode>
-    <comments>"Sam Harris speaks with Jon Favreau about the state of American politics. They discuss the Trump administration's wrongful deportation of Kilmar Abrego Garcia, tariffs, why Trump's supporters don't care about his corruption, the next steps for Democrats, the energy behind AOC and Bernie Sanders, why Biden failed on the border, Biden's legacy, potential 2028 Democratic candidates, Elon Musk and DOGE, whether we can ever return to “normal” politics, and other topics."</comments>
+    <comments>"Sam Harris speaks with Jon Favreau about the state of American politics. They discuss the Trump administration's wrongful deportation of Kilmar Abrego Garcia, tariffs, why Trump's supporters don't care about his corruption, the next steps for Democrats, the energy behind AOC and Bernie Sanders, why Biden failed on the border, Biden's legacy, potential 2028 Democratic candidates, Elon Musk and DOGE, whether we can ever return to "normal" politics, and other topics."</comments>
   </podcast>
   <podcast>
     <date>2025-04-11</date>
@@ -822,7 +852,7 @@
     <date>2023-07-18</date>
     <name url="https://absolutelymental.com/">Absolutely Mental</name>
     <episode number="20">The Monkey Mind</episode>
-    <comments>"Ricky asks Sam to explain the “monkey mind.” They also explore the illusion of free will, the nature of thought and distraction, and more of Sam's mumbo jumbo."</comments>
+    <comments>"Ricky asks Sam to explain the "monkey mind." They also explore the illusion of free will, the nature of thought and distraction, and more of Sam's mumbo jumbo."</comments>
   </podcast>
   <podcast>
     <date>2023-07-16</date>
@@ -1103,7 +1133,7 @@
   <podcast>
     <date>2022-12-30</date>
     <name url="https://tim.blog/podcast/">The Tim Ferriss Show</name>
-    <episode url="https://tim.blog/2020/09/03/psychedelic-news-hour/" number="458">The Psychedelic News Hour: New Breakthroughs, Compound Comparisons and Warnings (Psilocybin/LSD/Ayahuasca/N,N-DMT/5-MeO-DMT), Treatment of Trauma, Scalable vs. Unscalable Approaches, Making Sense of “Bad” Trips, and Much More</episode>
+    <episode url="https://tim.blog/2020/09/03/psychedelic-news-hour/" number="458">The Psychedelic News Hour: New Breakthroughs, Compound Comparisons and Warnings (Psilocybin/LSD/Ayahuasca/N,N-DMT/5-MeO-DMT), Treatment of Trauma, Scalable vs. Unscalable Approaches, Making Sense of "Bad" Trips, and Much More</episode>
     <comments>We need more serious studies on psychedelic treatments, which means money, so it's good to hear that $30 million were raised in 2020.<a href="https://tim.blog/2020/09/05/psychedelic-news-hour-transcript/">Episode transcript</a>.</comments>
   </podcast>
   <podcast>
@@ -1422,7 +1452,7 @@
     <date>2022-06-15</date>
     <name url="https://absolutelymental.com/">Absolutely Mental</name>
     <episode number="2">What makes something funny?</episode>
-    <comments>"Ricky calls Sam to discuss Sam's monster joke from their last conversation. They consider where to draw the line in comedy. Ricky thinks everything is on the table. Except the word “vagina.”" Already listened to this episode on Sam's podcast.</comments>
+    <comments>"Ricky calls Sam to discuss Sam's monster joke from their last conversation. They consider where to draw the line in comedy. Ricky thinks everything is on the table. Except the word "vagina."" Already listened to this episode on Sam's podcast.</comments>
   </podcast>
   <podcast>
     <date>2022-06-14</date>
