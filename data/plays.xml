@@ -8,7 +8,25 @@
     <translation></translation>
     <actor></actor>
   -->
-    <play>
+  <play>
+    <date>2025-08-30</date>
+    <location>Château de Vullierens, Vullierens, Switzerland</location>
+    <name>Alice revient au Jardin des Merveilles</name>
+    <author>Victoria Giorgini</author>
+    <director>Victoria Giorgini</director>
+    <actor>Charlotte Cassimo</actor>
+    <actor>Victoria Giorgini</actor>
+    <actor>Malo Penseyres</actor>
+    <actor>Monica Medaina</actor>
+    <actor>Charlie Gantenbein-Soumeire</actor>
+    <actor>Nathan Vonlanthen</actor>
+    <actor>Jason Quintero</actor>
+    <actor>Luna Trinkler</actor>
+    <rating>3.75</rating>
+    <comments>Un théâtre immersif pour les enfants. Les comédiens étaient un peu inégaux, mais, globalement, c'était "pas mal". L'environnement, les jardins du Château de Vullierens, était très sympathique. Il faudra que nous y retournions.</comments>
+    <image>Alice revient au Jardin des Merveilles.jpg</image>
+  </play>
+  <play>
     <date>2025-04-03</date>
     <location>Pulloff Théâtres, Lausanne, Switzerland</location>
     <name>Emma, c’est moi !</name>
