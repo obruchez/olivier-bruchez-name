@@ -3,6 +3,16 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Add rating to IMDb -->
   <movie>
+    <date>2025-09-03</date>
+    <theater home="true"/>
+    <director>David Robert Mitchell</director>
+    <title>It Follows</title>
+    <url>https://www.imdb.com/title/tt3235888/</url>
+    <rating>4.0</rating>
+    <comments>I like the ultra-simple idea behind this film. It's all contained in the title. The execution, though, isn't particularly good. I found myself a bit bored.</comments>
+    <image>It Follows.jpg</image>
+  </movie>
+  <movie>
     <date>2025-08-19</date>
     <theater home="true"/>
     <director>Benedek Fliegauf</director>
