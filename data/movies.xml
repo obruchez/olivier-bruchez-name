@@ -3,6 +3,26 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Add rating to IMDb -->
   <movie>
+    <date>2025-09-10</date>
+    <theater home="true"/>
+    <director>Jennifer Kent</director>
+    <title>The Babadook</title>
+    <url>https://www.imdb.com/title/tt2321549/</url>
+    <rating>4.5</rating>
+    <comments>Yet another horror film, this time based on the well-worn idea of a haunted house. Except it's not really the house that's haunted. And the main theme is more about a mother and her son, who never knew his father, tragically killed on the day of his birth.</comments>
+    <image>The Babadook.jpg</image>
+  </movie>
+  <movie>
+    <date>2025-09-06</date>
+    <theater home="true"/>
+    <director>Robert Eggers</director>
+    <title>The Witch</title>
+    <url>https://www.imdb.com/title/tt4263482/</url>
+    <rating>4.5</rating>
+    <comments>A visually very dark horror film, built around the theme of ("real") witchcraft and the harsh life of the 17<sup>th</sup> century. It doesn't entirely work, and the ending is a bit strange, but it's far from being without value.</comments>
+    <image>The Witch.jpg</image>
+  </movie>
+  <movie>
     <date>2025-09-03</date>
     <theater home="true"/>
     <director>David Robert Mitchell</director>
