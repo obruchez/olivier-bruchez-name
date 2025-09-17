@@ -2,23 +2,33 @@
 
 My votes (in French). En Suisse, on ne plaisante pas avec la démocratie directe. :) J'essaie ici de documenter et de justifier la façon dont je me positionne par rapport aux votations fédérales, qui ont lieu jusqu'à quatre fois par année.
 
+## [Votation fédérale du 28 septembre 2025][https://www.bk.admin.ch/ch/f/pore/va/20250928/index.html]
+
+#### Arrêté fédéral relatif à l'impôt immobilier cantonal sur les résidences secondaires
+
+Non. Résultat : ? (??.?%).
+
+#### Loi fédérale sur l'identité électronique et d'autres moyens de preuves électroniques (Loi sur l'e-ID, LeID)
+
+Oui. Résultat : ? (??.?%).
+
 ## [Votation fédérale du 24 novembre 2024](https://www.bk.admin.ch/ch/f/pore/va/20241124/index.html)
 
 #### Acceptez-vous l’arrêté fédéral du 29 septembre 2023 sur l’étape d’aménagement 2023 des routes nationales ?
 
-Non. Résultat : ? (?%).
+Non. Résultat : non (52.7%).
 
 #### Acceptez-vous la modification du 29 septembre 2023 du code des obligations (droit du bail : sous-location) ?
 
-Non. Résultat : ? (?%).
+Non. Résultat : non (51.6%).
 
 #### Acceptez-vous la modification du 29 septembre 2023 du code des obligations (droit du bail : résiliation pour besoin propre) ?
 
-Non. Résultat : ? (?%).
+Non. Résultat : non (53.8%).
 
 #### Acceptez-vous la modification du 22 décembre 2023 de la loi fédérale sur l’assurance-maladie (LAMal) (financement uniforme des prestations) ?
 
-Non. Résultat : ? (?%).
+Non. Résultat : oui (53.3%).
 
 ## [Votation fédérale du 22 septembre 2024](https://www.bk.admin.ch/ch/f/pore/va/20240922/index.html)
 
