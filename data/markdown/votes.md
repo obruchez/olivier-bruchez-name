@@ -2,7 +2,7 @@
 
 My votes (in French). En Suisse, on ne plaisante pas avec la démocratie directe. :) J'essaie ici de documenter et de justifier la façon dont je me positionne par rapport aux votations fédérales, qui ont lieu jusqu'à quatre fois par année.
 
-## [Votation fédérale du 28 septembre 2025][https://www.bk.admin.ch/ch/f/pore/va/20250928/index.html]
+## [Votation fédérale du 28 septembre 2025](https://www.bk.admin.ch/ch/f/pore/va/20250928/index.html)
 
 #### Arrêté fédéral relatif à l'impôt immobilier cantonal sur les résidences secondaires
 
