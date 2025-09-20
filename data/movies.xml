@@ -2,6 +2,15 @@
 <movies created="2000-03-05">
   <introduction>A list of movies I saw.</introduction>
   <!-- Add rating to IMDb -->
+    <movie>
+    <date>2025-09-19</date>
+    <theater>Galeries, Lausanne</theater>
+    <title>La Moustache</title>
+    <rating>4.75</rating>
+    <url>https://www.imdb.com/title/tt0428856/</url>
+    <comments>I first saw this film when it came out 20 years ago. The David Lynch inspiration is quite obvious. Some people seem to think the last part is weaker, but it's actually where things start to get a bit more weird and interesting.</comments>
+    <image>La moustache.jpg</image>
+  </movie>
   <movie>
     <date>2025-09-10</date>
     <theater home="true"/>
