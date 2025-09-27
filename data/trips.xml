@@ -2,6 +2,13 @@
 <trips created="2008-02-26">
   <introduction>A list of trips I took.</introduction>
   <trip>
+    <from>2025-09-20</from>
+    <to>2025-09-22</to>
+    <place>Basel, Switzerland / Europa-Park (Rust), Germany</place>
+    <!-- <pictures url=""/> -->
+    <comments>My 7<sup>th</sup> visit to Europa-Park, the 3<sup>rd</sup> one with our 7-year-old son, who now had access to more roller coasters: Wodan (2012), Poseidon (2000), Matterhorn-Blitz (1999), and Swiss Bob Run (1985). We went to Aquabasilea on our way to Rust.</comments>
+  </trip>
+  <trip>
     <from>2025-08-07</from>
     <to>2025-08-10</to>
     <place>Center Parcs Les Trois Forêts, Hattigny, France</place>
