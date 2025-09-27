@@ -2,6 +2,12 @@
 <podcasts created="2016-05-10">
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date>2025-09-26</date>
+    <name url="https://www.youtube.com/@LeFuturologuePodcast">Le Futurologue Podcast</name>
+    <episode url="https://www.youtube.com/watch?v=yYKt1864NQI">"L'IA est un désastre écologique !" - Philippe Bihouix</episode>
+    <comments>J'ai l'impression d'être d'accord avec à peu près 80-90% de ce que dit Philippe Bihouix, mais je ressors de cet entretien sans vraiment savoir ce qu'il propose concrètement. Il fait partie de ces gens qui constatent. C'est déjà ça. Mais que fait-on ensuite ?</comments>
+  </podcast>
+  <podcast>
     <date>2025-09-12</date>
     <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
     <episode url="https://www.samharris.org/podcasts/making-sense-episodes/433-how-did-we-get-here" number="433">How Did We Get Here? - A Conversation with Dan Carlin</episode>
