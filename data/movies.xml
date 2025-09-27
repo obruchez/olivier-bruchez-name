@@ -2,7 +2,17 @@
 <movies created="2000-03-05">
   <introduction>A list of movies I saw.</introduction>
   <!-- Add rating to IMDb -->
-    <movie>
+  <movie>
+    <date>2025-09-25</date>
+    <theater home="true"/>
+    <director>David Fincher</director>
+    <title>The Game</title>
+    <url>https://www.imdb.com/title/tt0119174/</url>
+    <rating>4.5</rating>
+    <comments>An entertaining movie, where you <i>really</i> need to suspend disbelief. I first saw it when it came out, 28 years ago.</comments>
+    <image>The Game.jpg</image>
+  </movie>
+  <movie>
     <date>2025-09-19</date>
     <theater>Galeries, Lausanne</theater>
     <title>La Moustache</title>
@@ -10562,8 +10572,11 @@
   </movie>
   <movie>
     <date>1997-12-18</date>
+    <director>David Fincher</director>
     <title>The Game</title>
     <version>fr</version>
+    <url>https://www.imdb.com/title/tt0119174/</url>
+    <image>The Game.jpg</image>
   </movie>
   <movie>
     <date>1997-12-02</date>
