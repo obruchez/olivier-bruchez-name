@@ -2,6 +2,18 @@
 <podcasts created="2016-05-10">
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date>2025-09-28</date>
+    <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
+    <episode url="https://www.samharris.org/podcasts/making-sense-episodes/404-what-if-consciousness-is-fundamental" number="404">What If Consciousness Is Fundamental? - A Conversation with Annaka Harris</episode>
+    <comments>I've long been fascinated by consciousness, but I'm not sure I'm fascinated enough to listen to hours of esoteric discussions with very clever people.</comments>
+  </podcast>
+  <podcast>
+    <date>2025-09-28</date>
+    <name url="http://verybadwizards.com/">Very Bad Wizards</name>
+    <episode url="https://www.patreon.com/posts/noir-summer-5-as-138530481">Noir Summer Episode 5: As Little As Possible ("Chinatown")</episode>
+    <comments>I've seen <i>Chinatown</i> twice, in 2004 and 2010. I apparently loved it, but I don't remember much about it, apart from the nose. It's time to rewatch it!</comments>
+  </podcast>
+  <podcast>
     <date>2025-09-26</date>
     <name url="https://www.youtube.com/@LeFuturologuePodcast">Le Futurologue Podcast</name>
     <episode url="https://www.youtube.com/watch?v=yYKt1864NQI">"L'IA est un désastre écologique !" - Philippe Bihouix</episode>
