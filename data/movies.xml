@@ -3,6 +3,18 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Add rating to IMDb -->
   <movie>
+    <date>2025-10-04</date>
+    <theater home="true"/>
+    <director>Luc Besson</director>
+    <title>Arthur and the Invisibles</title>
+    <title language="fr">Arthur et les Minimoys</title>
+    <version>fr</version>
+    <url>https://www.imdb.com/title/tt0344854/</url>
+    <rating>3.5</rating>
+    <comments>Regardé avec mon fils de 7 ans, qui a demandé à voir ce film à cause de la très bonne attraction Arthur à Europa-Park. Le film, quant à lui, n'est pas très bon.</comments>
+    <image>Arthur and the Invisibles.jpg</image>
+  </movie>
+  <movie>
     <date>2025-09-30</date>
     <theater home="true"/>
     <director>Rob Reiner</director>
