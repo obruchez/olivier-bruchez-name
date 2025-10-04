@@ -9,6 +9,56 @@
     <actor></actor>
   -->
   <play>
+    <date>2025-10-03</date>
+    <location>Théâtre du Jorat, Mézières, Switzerland</location>
+    <name>La réunification des deux Corées</name>
+    <author>Joël Pommerat</author>
+    <director>Joël Pommerat</director>
+    <adaptation></adaptation>
+    <actor>Ella Benoit</actor>
+    <actor>Saadia Bentaïeb</actor>
+    <actor>Yannick Choirat</actor>
+    <actor>Philippe Frécon</actor>
+    <actor>Ruth Olaizola</actor>
+    <actor>Marie Piemontese</actor>
+    <actor>Anne Rotger</actor>
+    <actor>David Sighicelli</actor>
+    <actor>Maxime Tshibangu</actor>
+    <rating>5.25</rating>
+    <comments>Une excellente surprise. On nous avait avertit que c'était une pièce à propos de l'amour. Je m'attendais à quelque chose d'un peu mièvre. La pièce est au contraire très intense, à tour de rôle comique, sombre ou choquante. Vingt scène indépendantes, dont la première est un extrait de <i>Scènes de la vie conjugale</i> d'Ingmar Bergman, que j'avais vu en 2022.</comments>
+    <image>La réunification des deux Corées.jpg</image>
+    <!--
+	Scénographie et lumière Éric Soyer
+	Direction technique Emmanuel Abate
+	Direction technique adjointe Thaïs Morel
+	Collaboration artistique Garance Rivoal, Lucia Trotta
+	Assistanat à la mise en scène Pierre-Yves Le Borgne
+	Vidéo Renaud Rubiano
+	Accessoires Thomas Ramon
+	Costumes Isabelle Deffin
+	Habilleuse Manon Denarié
+	Perruques Julie Poulain (2024), Estelle Tolstoukine (2012)
+	Son Philippe Perrin (2024), François Leymarie, Grégoire Leymarie (2012)
+	Musique originale Antonin Leymarie
+	Musique enregistrée par Joachim Florent (basse / contrebasse) Jean-Philippe Feiss (violoncelle) Guillaume Magne (basse / guitare) Gérald Chevillon (clarinette basse / sax) Guillaume Dutrieux (voix dans tuba / trompette) Matthieu Ha (voix de celui ou celle qui chante) Jeanne Added et Thomas de Pourquery (autres voix)
+	Régie lumière Gwendal Malard
+	Régie plateau Olivier Delachavonnery, Héloïse Fizet
+	Régie son Philippe Perrin, Lola Étiève
+	Régie vidéo Grégoire Chomel
+	Recherche documents Évelyne Pommerat
+	Recherche sonore Alain Besson
+	Assistante aux costumes Karelle Durand (2012)
+	Couturière Morgane Olivier (2012)
+	Réalisation du décor Thomas Ramon – ARTOM (2024) les Ateliers de l’Odéon-Théâtre de l’Europe avec les techniciens de la Compagnie Louis Brouillard et l’équipe technique de l’Odéon-Théâtre de l’Europe (2012)
+	Diffusion internationale, missions spéciales et agent Anne de Amézaga
+	Administratrice Elsa Blossier
+	Co-directrice Magali Briday-Voileau
+	Chargée de production Alice Caputo
+	Responsable des tournées Pierre-Quentin Derrien
+	Directrice de production Lorraine Ronsin-Quéchon
+    -->
+  </play>
+  <play>
     <date>2025-08-30</date>
     <location>Château de Vullierens, Vullierens, Switzerland</location>
     <name>Alice revient au Jardin des Merveilles</name>
