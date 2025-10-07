@@ -8412,6 +8412,14 @@
     <image>Wallace &amp; Gromit - The Curse of the Wereabbit.jpg</image>
   </movie>
   <movie>
+    <date>2005-10-06</date>
+    <theater home="true"/>
+    <director>Jean-Marie Poiré</director>
+    <title>Le père Noël est une ordure</title>
+    <url>https://www.imdb.com/title/tt0084555/</url>
+    <image>Le père Noël est une ordure.jpg</image>
+  </movie>
+  <movie>
     <date>2005-10-05</date>
     <theater>Europlex Flon, Lausanne</theater>
     <title>Kiss Kiss Bang Bang</title>
