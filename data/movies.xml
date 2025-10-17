@@ -3,6 +3,46 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Add rating to IMDb -->
   <movie>
+    <date>2025-10-17</date>
+    <theater home="true"/>
+    <director>Paul Thomas Anderson</director>
+    <title>Hard Eight</title>
+    <url>https://www.imdb.com/title/tt0119256/</url>
+    <rating>4.75</rating>
+    <comments>My seventh Paul Thomas Anderson film and his first feature film. Philip Baker Hall is brilliant in it. I really like the rhythm and atmosphere of this film. Not too much action - things are more suggested than shown.</comments>
+    <image>Hard Eight.jpg</image>
+  </movie>
+  <movie>
+    <date>2025-10-13</date>
+    <theater home="true"/>
+    <director>Nicolas Gessner</director>
+    <title>The Little Girl Who Lives Down the Lane</title>
+    <url>https://www.imdb.com/title/tt0074806/</url>
+    <rating>4.5</rating>
+    <comments>Jodie Foster makes this movie. And maybe Martin Sheen. It's not a great film, and the pedophilia theme doesn't help.</comments>
+    <image>The Little Girl Who Lives Down the Lane.jpg</image>
+  </movie>
+  <movie>
+    <date>2025-10-11</date>
+    <theater home="true"/>
+    <director>David Fincher</director>
+    <title>Gone Girl</title>
+    <url>https://www.imdb.com/title/tt2267998/</url>
+    <rating>4.75</rating>
+    <comments>I saw <i>Gone Girl</i> when it came out in 2014. Like <i>Chinatown</i>, I enjoyed it less - maybe again because I watched it in multiple sessions. Or maybe my tastes changed?</comments>
+    <image>Gone Girl.jpg</image>
+  </movie>
+  <movie>
+    <date>2025-10-08</date>
+    <theater home="true"/>
+    <director>Roman Polanski</director>
+    <title>Chinatown</title>
+    <url>https://www.imdb.com/title/tt0071315/</url>
+    <rating>5.0</rating>
+    <comments>This was the third time I've watched <i>Chinatown</i> - after 2004 and 2010, both times at the Cinémathèque in Lausanne. I enjoyed it less this time, strangely enough, maybe because I watched it in multiple sessions.</comments>
+    <image>Chinatown.jpg</image>
+  </movie>
+  <movie>
     <date>2025-10-04</date>
     <theater home="true"/>
     <director>Luc Besson</director>
@@ -8410,6 +8450,14 @@
     <rating>4.5</rating>
     <url>https://www.imdb.com/title/tt0312004/</url>
     <image>Wallace &amp; Gromit - The Curse of the Wereabbit.jpg</image>
+  </movie>
+  <movie>
+    <date>2005-10-10</date>
+    <theater home="true"/>
+    <director>Patrice Leconte</director>
+    <title>Les Bronzés font du ski</title>
+    <url>https://www.imdb.com/title/tt0078907/</url>
+    <image>Les Bronzés font du ski.jpg</image>
   </movie>
   <movie>
     <date>2005-10-06</date>
