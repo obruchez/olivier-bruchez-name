@@ -5,6 +5,16 @@
   <movie>
     <date>2025-10-18</date>
     <theater home="true"/>
+    <director>Gaspar Noé</director>
+    <title>Climax</title>
+    <url>https://www.imdb.com/title/tt8359848/</url>
+    <rating>3.0</rating>
+    <comments>I guess I understand the concept, but this is really not my cup of tea. The dance scenes were pretty cool, though.</comments>
+    <image>Climax.jpg</image>
+  </movie>
+  <movie>
+    <date>2025-10-18</date>
+    <theater home="true"/>
     <director>Christopher Smith</director>
     <title>Triangle</title>
     <url>https://www.imdb.com/title/tt1187064/</url>
