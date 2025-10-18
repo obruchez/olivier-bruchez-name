@@ -3,6 +3,16 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Add rating to IMDb -->
   <movie>
+    <date>2025-10-18</date>
+    <theater home="true"/>
+    <director>Christopher Smith</director>
+    <title>Triangle</title>
+    <url>https://www.imdb.com/title/tt1187064/</url>
+    <rating>4.25</rating>
+    <comments>The problem with time loops or time travel is that it never really works. There are always some paradoxical elements somewhere. The first half of the movie was pretty entertaining. I really liked the part where they discover the ship. And then it becomes a bit repetitive - almost by definition.</comments>
+    <image>Triangle.jpg</image>
+  </movie>
+  <movie>
     <date>2025-10-17</date>
     <theater home="true"/>
     <director>Paul Thomas Anderson</director>
