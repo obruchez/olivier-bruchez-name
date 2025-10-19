@@ -7,6 +7,19 @@
   -->
   <introduction>A list of concerts I went to.</introduction>
   <concert>
+    <date>2025-10-15</date>
+    <location>Magazzini Generali, Milan, Italy</location>
+    <group>KNOWER</group>
+    <musician inst="drums, vocals">Louis Cole</musician>
+    <musician inst="vocals">Genevieve Artadi</musician>
+    <musician inst="bass">Petter Olofsson (Petter 9000)</musician>
+    <musician inst="guitar">Thom Gill</musician>
+    <musician inst="keyboards">Isis Giraldo (Chiquita Magic)</musician>
+    <musician inst="keyboards">Israel Strom</musician>
+    <rating>5.0</rating>
+    <comments>My first KNOWER / Louis Cole concert and, I hope, not the last one. The mix was quite bad, at least from the front row, where I was, but the concert was fun. Genevieve came to high-five us at the end of the show. That was nice of her.</comments>
+  </concert>
+  <concert>
     <date>2025-08-01</date>
     <location>Salle des Combins, Verbier, Switzerland</location>
     <event>Verbier Festival</event>
