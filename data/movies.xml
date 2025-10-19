@@ -96,7 +96,8 @@
   </movie>
   <movie>
     <date>2025-09-19</date>
-    <theater>Galeries, Lausanne</theater>
+    <theater home="true"/>
+    <director>Emmanuel Carrère</director>
     <title>La Moustache</title>
     <rating>4.75</rating>
     <url>https://www.imdb.com/title/tt0428856/</url>
@@ -8553,6 +8554,7 @@
   <movie>
     <date>2005-07-08</date>
     <theater>Galeries, Lausanne</theater>
+    <director>Emmanuel Carrère</director>
     <title>La Moustache</title>
     <rating>4.5</rating>
     <url>https://www.imdb.com/title/tt0428856/</url>
