@@ -3,6 +3,17 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Add rating to IMDb -->
   <movie>
+    <date>2025-10-20</date>
+    <theater home="true"/>
+    <director>Erlingur Thoroddsen</director>
+    <title>Rökkur</title>
+    <title language="en">Rift</title>
+    <url>https://www.imdb.com/title/tt6039372/</url>
+    <rating>4.5</rating>
+    <comments>I find the reviews on IMDb too harsh. Yes, this film blends several genres. Is it a thriller? A drama? A horror film? It depends on the moment. I find this mix unsettling, but it's not a flaw, rather an original characteristic of the film. I really like the atmosphere that permeates the entire film, the solitude, the disturbing Icelandic landscapes at that time of year, and the dream-like quality of certain scenes.</comments>
+    <image>Rift.jpg</image>
+  </movie>
+  <movie>
     <date>2025-10-18</date>
     <theater home="true"/>
     <director>Gaspar Noé</director>
