@@ -746,6 +746,12 @@
     <pictures url="http://erik.bruchez.name/pictures/ebruchez/album/516302">New York</pictures>
   </trip>
   <trip>
+    <from>2001-07-19</from>
+    <to>2001-07-18</to>
+    <place>Paris, France</place>
+    <comments>Short trip to Paris for a Keith Jarrett concert at the Palais des Congrès.</comments>
+  </trip>
+  <trip>
     <from>2000-07-26</from>
     <to>2000-08-07</to>
     <place>Egypt</place>
