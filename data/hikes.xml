@@ -3,9 +3,15 @@
   <introduction>A list of hikes I took.</introduction>
   <!-- TODO: add comments for new hikes? -->
   <hike>
+    <date>2025-10-18</date>
+    <place>Louvie / Le Dâ / Le Crêt / Le Vasevay / Mauvoisin, Switzerland</place>
+    <!-- <pictures url="/"/> -->
+    <comments>I hadn't done this particular hike in 6 years. It was a really beautiful day.</comments>
+  </hike>
+  <hike>
     <date>2025-08-03</date>
     <place>Col des Avouillons, Switzerland</place>
-    <!-- <pictures url=""/> -->
+    <pictures url="https://www.flickr.com/photos/bruchez/albums/72177720328629591/"/>
     <comments>A small hike after e-biking from Montagnier to Pindin (in the area above Cabane Brunet).</comments>
   </hike>
   <hike>
