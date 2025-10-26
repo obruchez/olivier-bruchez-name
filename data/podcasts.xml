@@ -2,6 +2,12 @@
 <podcasts created="2016-05-10">
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date>2025-10-25</date>
+    <name url="https://www.humanetech.com/podcast">Your Undivided Attention</name>
+    <episode url="https://www.humanetech.com/podcast/people-are-lonelier-than-ever-enter-ai" number="111">People are Lonelier than Ever. Enter AI.</episode>
+    <comments>I largely share Sherry Turkle's opinion. Basically, it's dangerous to see a relationship as something purely transactional and self-centered, and from this perspective, it's pretty much certain that chatbots won't do much good for many people, despite the epidemic of loneliness we're experiencing. What wasn't discussed, however, is that artificial general intelligence is not only possible, but will inevitably arrive much sooner than expected. The possible consequences of such a development on this idea of "artificial relationships" weren't discussed.</comments>
+  </podcast>
+  <podcast>
     <date>2025-10-12</date>
     <name url="https://www.foundmyfitness.com/episodes">FoundMyFitness</name>
     <episode url="https://www.foundmyfitness.com/episodes/michael-grandner" number="107">How To Cure Insomnia &amp; Fall Asleep Fast | Dr. Michael Grandner</episode>
