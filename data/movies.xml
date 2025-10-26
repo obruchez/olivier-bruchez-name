@@ -3,6 +3,16 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Add rating to IMDb -->
   <movie>
+    <date>2025-10-22</date>
+    <theater home="true"/>
+    <director>Cory McAbee</director>
+    <title>The American Astronaut</title>
+    <url>https://www.imdb.com/title/tt0243759/</url>
+    <rating>4.5</rating>
+    <comments>A quirky and relatively obscure comedy (only 3.3K ratings on IMDb at the time of writing). Personally, I really liked its somewhat cheap but also childlike quality, with space travels that feel more like a story a child would tell than serious science fiction.</comments>
+    <image>The American Astronaut.jpg</image>
+  </movie>
+  <movie>
     <date>2025-10-21</date>
     <theater home="true"/>
     <director>Aki Kaurismäki</director>
