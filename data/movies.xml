@@ -3,6 +3,17 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Add rating to IMDb -->
   <movie>
+    <date>2025-10-29</date>
+    <theater home="true"/>
+    <director></director>
+    <title>Låt den rätte komma in</title>
+    <title language="en">Let the Right One In</title>
+    <url>https://www.imdb.com/title/tt1139797/</url>
+    <rating>4.25</rating>
+    <comments>A beautiful movie about early adolescence, bullying, and revenge, among other things. It's also a vampire movie, which didn't work, for me.</comments>
+    <image>Let the Right One In.jpg</image>
+  </movie>
+  <movie>
     <date>2025-10-22</date>
     <theater home="true"/>
     <director>Cory McAbee</director>
