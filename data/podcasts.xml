@@ -2,6 +2,12 @@
 <podcasts created="2016-05-10">
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date>2025-10-29</date>
+    <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
+    <episode url="https://www.samharris.org/podcasts/making-sense-episodes/440-a-world-in-crisis" number="440">A World in Crisis - A Conversation with Robert D. Kaplan</episode>
+    <comments>"Sam Harris speaks with Robert D. Kaplan about his new book, Waste Land: A World in Permanent Crisis. They discuss climate change, demographics, the primacy of order over freedom, why Russia is a country in decline, political extremism and the migration crisis in Europe and the UK, Israel's military successes, what the world could look like in the aftermath of the war in the Middle East, antisemitism on the left, how a war in the Pacific could cause a global economic catastrophe, whether the U.S. could win a war with China, President Biden's legacy, the pitfalls of globalization and social media, whether we can ever return to a “normal” America, and other topics."</comments>
+  </podcast>
+  <podcast>
     <date>2025-10-25</date>
     <name url="https://www.humanetech.com/podcast">Your Undivided Attention</name>
     <episode url="https://www.humanetech.com/podcast/people-are-lonelier-than-ever-enter-ai" number="111">People are Lonelier than Ever. Enter AI.</episode>
