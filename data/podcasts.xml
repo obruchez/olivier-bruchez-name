@@ -2,6 +2,18 @@
 <podcasts created="2016-05-10">
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date>2025-11-04</date>
+    <name url="https://www.humanetech.com/podcast">Your Undivided Attention</name>
+    <episode url="https://www.humanetech.com/podcast/ask-us-anything-2025" number="119">Ask Us Anything 2025</episode>
+    <comments><a href="https://www.youtube.com/watch?v=6kPHnl-RsVI">"Why AI Is Our Ultimate Test and Greatest Invitation" (Tristan Harris' TED talk, 2025)</a>. <a href="https://www.youtube.com/watch?v=xoVJKj8lcNQ">"The A.I. Dilemma" (2023)</a>.</comments>
+  </podcast>
+  <podcast>
+    <date>2025-11-04</date>
+    <name url="https://www.humanetech.com/podcast">Your Undivided Attention</name>
+    <episode url="https://www.humanetech.com/podcast/agi-beyond-the-buzz-what-is-it-and-are-we-ready" number="109">AGI Beyond the Buzz: What Is It, and Are We Ready?</episode>
+    <comments>Obviously, we're not ready. I still meet people who think AGI is not even possible... Discussing this is essential.</comments>
+  </podcast>
+  <podcast>
     <date>2025-10-29</date>
     <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
     <episode url="https://www.samharris.org/podcasts/making-sense-episodes/440-a-world-in-crisis" number="440">A World in Crisis - A Conversation with Robert D. Kaplan</episode>
