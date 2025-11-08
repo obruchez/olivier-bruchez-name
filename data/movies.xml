@@ -3,6 +3,18 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Add rating to IMDb -->
   <movie>
+    <date>2025-11-01</date>
+    <theater home="true"/>
+    <director>Chris Columbus</director>
+    <title>Harry Potter and the Sorcerer's Stone</title>
+    <title language="fr">Harry Potter à l'école des sorciers</title>
+    <version>fr</version>
+    <url>https://www.imdb.com/title/tt0241527/</url>
+    <rating>5.0</rating>
+    <comments>I hadn't seen this movie in 24 years. We watched it with our 7-year-old son, who had recently read the corresponding book with my wife.</comments>
+    <image>Harry Potter and the Sorcerer's Stone.jpg</image>
+  </movie>
+  <movie>
     <date>2025-10-29</date>
     <theater home="true"/>
     <director></director>
@@ -9868,7 +9880,10 @@
   </movie>
   <movie>
     <date>2001-12-13</date>
-    <title>Harry Potter And The Philosopher's Stone</title>
+    <director>Chris Columbus</director>
+    <title>Harry Potter and the Sorcerer's Stone</title>
+    <url>https://www.imdb.com/title/tt0241527/</url>
+    <image>Harry Potter and the Sorcerer's Stone.jpg</image>
   </movie>
   <movie>
     <date>2001-12-10</date>
