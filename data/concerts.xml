@@ -7,11 +7,23 @@
   -->
   <introduction>A list of concerts I went to.</introduction>
   <concert>
+    <date>2025-11-02</date>
+    <location>Arena, Geneva, Switzerland</location>
+    <group>Aldebert</group>
+    <musician inst="vocals, guitar" main="true">Guillaume Aldebert</musician>
+    <musician inst="guitar">Nicolas Alberny</musician>
+    <musician inst="drums">Nicolas Bastos</musician>
+    <musician inst="keyboards">Christophe Darlot</musician>
+    <musician inst="bass">Hubert Harel </musician>
+    <rating>4.5</rating>
+    <comments>My son's first Aldebert concert. A nice show for kids, but also for parents.</comments>
+  </concert>
+  <concert>
     <date>2025-10-15</date>
     <location>Magazzini Generali, Milan, Italy</location>
     <group>KNOWER</group>
-    <musician inst="drums, vocals">Louis Cole</musician>
-    <musician inst="vocals">Genevieve Artadi</musician>
+    <musician inst="drums, vocals" main="true">Louis Cole</musician>
+    <musician inst="vocals" main="true">Genevieve Artadi</musician>
     <musician inst="bass">Petter Olofsson (Petter 9000)</musician>
     <musician inst="guitar">Thom Gill</musician>
     <musician inst="keyboards">Isis Giraldo (Chiquita Magic)</musician>
