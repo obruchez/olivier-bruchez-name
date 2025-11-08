@@ -3,13 +3,23 @@
 <exhibitions created="2011-05-17">
     <introduction>A list of exhibitions I visited.</introduction>
     <exhibition>
+        <date>2025-11-01</date>
+        <name>La Pologne rêvée</name>
+        <museum>Fondation de l’Hermitage, Lausanne, Switzerland</museum>
+        <rating>4.75</rating>
+        <comments>"The Fondation de l'Hermitage is highlighting the remarkably vibrant art of Poland in the period 1850–1914. [...] This exhibition featuring 100 iconic works is exploring the main movements reflected in the work of Polish artists: Romanticism, Realism, Impressionism, Symbolism and Modernism." I didn't know any of the painters, I think, but it was still a nice exhibition, as usual.</comments>
+        <image>La Pologne rêvée.jpg</image>
+        <!-- <pictures url=""/> -->
+    </exhibition>
+
+    <exhibition>
         <date>2025-09-27</date>
         <name>De Rembrandt à Van Gogh - Collection Armand Hammer, Los Angeles</name>
         <museum>Fondation Pierre Gianadda, Martigny, Switzerland</museum>
         <rating>4.5</rating>
         <comments>Highlights included works by Van Gogh, Sisley, and Renoir.</comments>
         <image>De Rembrandt à Van Gogh.jpg</image>
-        <!-- <pictures url=""/> -->
+        <pictures url="https://www.flickr.com/photos/bruchez/albums/72177720329488053/"/>
     </exhibition>
     <exhibition>
         <date>2025-05-17</date>
