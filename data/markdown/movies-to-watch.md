@@ -4,7 +4,6 @@ Pretty much everything from [IMDb's Top 250](http://www.imdb.com/chart/top), [Le
 
 ## [Agnès Varda](http://www.imdb.com/name/nm0889513)
 
-* [Cléo de 5 à 7](http://www.imdb.com/title/tt0055852) (8.0)
 * [Sans toit ni loi](http://www.imdb.com/title/tt0089960) (7.8)
 
 ## [Akira Kurosawa](http://www.imdb.com/name/nm0000041/)
@@ -15,7 +14,6 @@ Pretty much everything from [IMDb's Top 250](http://www.imdb.com/chart/top), [Le
 
 ## [Alejandro González Iñárritu](http://www.imdb.com/name/nm0327944/)
 
-* [Amores Perros](http://www.imdb.com/title/tt0245712) (8.1)
 * [21 Grams](http://www.imdb.com/title/tt0315733) (7.7)
 
 ## [Alejandro Jodorowsky](http://www.imdb.com/name/nm0423524/)
@@ -27,7 +25,6 @@ Pretty much everything from [IMDb's Top 250](http://www.imdb.com/chart/top), [Le
 
 * [Andrei Rublev](http://www.imdb.com/title/tt0060107) (8.2)
 * [Nostalgia](http://www.imdb.com/title/tt0086022) (8.2)
-* [Solaris](http://www.imdb.com/title/tt0069293) (8.1)
 * [The Sacrifice](http://www.imdb.com/title/tt0091670) (8.1)
 * [The Mirror](http://www.imdb.com/title/tt0072443) (8.1)
 * [Ivan's Childhood](http://www.imdb.com/title/tt0056111) (8.1)
@@ -37,10 +34,6 @@ Pretty much everything from [IMDb's Top 250](http://www.imdb.com/chart/top), [Le
 ## [Christopher Nolan](http://www.imdb.com/name/nm0634240)
 
 * [Dunkirk](http://www.imdb.com/title/tt5013056/) (8.0)
-
-## [Darren Aronofsky](http://www.imdb.com/name/nm0004716)
-
-* [The Wrestler](http://www.imdb.com/title/tt1125849) (7.9)
 
 ## [David Lynch](http://www.imdb.com/name/nm0000186)
 
@@ -58,7 +51,6 @@ Pretty much everything from [IMDb's Top 250](http://www.imdb.com/chart/top), [Le
 
 ## [Ingmar Bergman](http://www.imdb.com/name/nm0000005)
 
-* [Scenes from a Marriage](http://www.imdb.com/title/tt6725014/) (8.6)
 * [Fanny and Alexander](http://www.imdb.com/title/tt0083922) (8.1)
 * [Cries and Whispers](http://www.imdb.com/title/tt0069467/) (8.1)
 * [The Virgin Spring](http://www.imdb.com/title/tt0053976/) (8.1)
@@ -85,7 +77,6 @@ Pretty much everything from [IMDb's Top 250](http://www.imdb.com/chart/top), [Le
 
 ## [Robert Zemeckis](http://www.imdb.com/name/nm0000709)
 
-* [Contact](http://www.imdb.com/title/tt0118884) (7.4)
 * [Flight](http://www.imdb.com/title/tt1907668) (7.3)
 
 ## [Roman Polanski](http://www.imdb.com/name/nm0000591)
@@ -104,8 +95,6 @@ Pretty much everything from [IMDb's Top 250](http://www.imdb.com/chart/top), [Le
 
 ## [Terry Gilliam](http://www.imdb.com/name/nm0000416)
 
-* [Brazil](http://www.imdb.com/title/tt0088846) (8.0)
-
 \+ [Lost in La Mancha](http://www.imdb.com/title/tt0308514) (7.4) (a documentary about "Terry Gilliam's doomed attempt to get his film, The Man Who Killed Don Quixote, off the ground")
 
 ## [Tim Burton](http://www.imdb.com/name/nm0000318)
@@ -123,10 +112,8 @@ Pretty much everything from [IMDb's Top 250](http://www.imdb.com/chart/top), [Le
 
 ## Misc
 
-* Percy Adlon, [Bagdad Cafe](http://www.imdb.com/title/tt0095801) (7.4)
 * Ben Affleck, [Argo](http://www.imdb.com/title/tt1024648) (7.7) (recommended by colleagues)
 * Alejandro Amenábar, [Abre los ojos](http://www.imdb.com/title/tt0125659) (7.9) ([Vanilla Sky](http://www.imdb.com/title/tt0259711) is a remake of this movie)
-* Roy Andersson, [Songs from the Second Floor](http://www.imdb.com/title/tt0120263) (7.7) (already seen at the cinema)
 * Yann Arthus-Bertrand, [Home](http://www.imdb.com/title/tt1014762) (8.6)
 * Jaume Balagueró & Paco Plaza, [[Rec]](http://www.imdb.com/title/tt1038988) (7.5)
 * Marie-Dominique Dhelsing, [Pierre Rabhi : Au nom de la terre](http://www.imdb.com/title/tt2805242) (7.4) (recommended by [@caryl_jones](https://twitter.com/caryl_jones))
@@ -134,36 +121,27 @@ Pretty much everything from [IMDb's Top 250](http://www.imdb.com/chart/top), [Le
 * Richard Fleischer, [Soylent Green](http://www.imdb.com/title/tt0070723) (7.1)
 * Paul Haggis, [In the Valley of Elah](http://www.imdb.com/title/tt0478134) (7.2)
 * Lasse Hallström, [Chocolat](http://www.imdb.com/title/tt0241303) (7.3)
-* Byron Haskin, [The Power](http://www.imdb.com/title/tt0063452) ("La Guerre des Cerveaux") (6.1) (not particularly good, saw this as a child)
 * Dennis Hopper, [The Hot Spot](http://www.imdb.com/title/tt0099797) (6.4) (for the Miles Davis soundtrack)
 * John Huston, [Moby Dick](http://www.imdb.com/title/tt0049513) (7.4)
 * Barbara Kopple & Cecilia Peck, [Shut Up & Sing](http://www.imdb.com/title/tt0811136) (7.7)
 * Ken Loach, [It's a Free World](http://www.imdb.com/title/tt0807054) (7.0)
 * Kevin Macdonald, [Touching the Void](http://www.imdb.com/title/tt0379557) (8.1) (recommended by [@caryl_jones](https://twitter.com/caryl_jones))
 * Jessie Nelson, [I Am Sam](http://www.imdb.com/title/tt0277027) (7.6)
-* George Pal, [The Time Machine](http://www.imdb.com/title/tt0054387) (7.6)
 * Robert Barry Ptolemy, [Transcendent Man](http://www.imdb.com/title/tt1117394) (7.2) (documentary about Ray Kurzweil)
 * Michèle Rosier, [Mon coeur est rouge](http://www.imdb.com/title/tt0074913) (6.4) (some music composed by Keith Jarrett)
 * Patrick Savey, [Marcus](http://www.imdb.com/title/tt4400358) (available on iTunes)
-* Douglas Trumbull, [Brainstorm](http://www.imdb.com/title/tt0085271) (6.5) (not particularly good, saw this as a child)
 * Jacqueline Veuve, [La petite dame du Capitole](http://www.jacquelineveuve.ch/dsp_1f.php?lg=fr&fid=61) (already seen at the cinema, bought on DVD)
 
 ## Selections from [25 Spectacular Movies You (Probably) Haven’t Seen](http://www.highexistence.com/25-spectacular-movies-you-probably-havent-seen/)
 
 * Richard Schenkman, [The Man from Earth](http://www.imdb.com/title/tt0756683) (8.0)
-* Paul Thomas Anderson, [Magnolia](http://www.imdb.com/title/tt0175880) (8.0)
-* Tomas Alfredson, [Let the Right One In](http://www.imdb.com/title/tt1139797) (8.0)
-* Paul Thomas Anderson, [Boogie Nights](http://www.imdb.com/title/tt0118749) (7.9)
 * John Carney, [Once](http://www.imdb.com/title/tt0907657) (7.9)
 * Stephen Chow, [Kung Fu Hustle](http://www.imdb.com/title/tt0373074) (7.8)
 * Woody Allen, [Midnight in Paris](http://www.imdb.com/title/tt1605783) (7.7) (seen in 2011)
 * Zach Braff, [Garden State](http://www.imdb.com/title/tt0333766) (7.6)
 * Cary Fukunaga, [Sin Nombre](http://www.imdb.com/title/tt1127715) (7.6) (seen in 2009)
-* Darren Aronofsky, [The Fountain](http://www.imdb.com/title/tt0414993) (7.4) (was disappointed the first time I saw this - did I miss something?)
-* Paul Thomas Anderson, [Punch-Drunk Love](http://www.imdb.com/title/tt0272338) (7.3)
 * Sean Ellis, [Cashback](http://www.imdb.com/title/tt0460740) (7.3)
 * Gaspar Noé, [Enter the Void](http://www.imdb.com/title/tt1191111) (7.3)
-* Neil Marshall, [The Descent](http://www.imdb.com/title/tt0435625) (7.3) (horror movie - not a fan of this genre in general)
 
 ## Selections from [25 Spectacular Movies You (Probably) Haven’t Seen Pt. 2](http://www.highexistence.com/25-spectacular-movies-you-probably-havent-seen-part-2/)
 
@@ -186,7 +164,6 @@ Pretty much everything from [IMDb's Top 250](http://www.imdb.com/chart/top), [Le
 * Jaco Van Dormael, [Mr. Nobody](http://www.imdb.com/title/tt0485947) (7.9)
 * Jacques Audiard, [Un prophète](http://www.imdb.com/title/tt1235166) (7.9)
 * Anders Thomas Jensen, [Adams æbler](http://www.imdb.com/title/tt0418455) (7.9) (seen in 2006)
-* Andrew Niccol, [Gattaca](http://www.imdb.com/title/tt0119177) (7.8) (seen in 1997?)
 * Kinji Fukasaku, [Battle Royale](http://www.imdb.com/title/tt0266308) (7.8)
 * Paolo Sorrentino, [The Great Beauty](http://www.imdb.com/title/tt2358891) (7.7)
 * Pan Nalin, [Samsara](http://www.imdb.com/title/tt0196069) (7.7)
@@ -194,6 +171,5 @@ Pretty much everything from [IMDb's Top 250](http://www.imdb.com/chart/top), [Le
 * Hans Weingartner, [The Edukators](http://www.imdb.com/title/tt0408777) (7.6)
 * Dennis Gansel, [Die Welle](http://www.imdb.com/title/tt1063669) (7.6)
 * Tom Tykwer, [Perfume: The Story of a Murderer ](http://www.imdb.com/title/tt0396171) (7.5)
-* Neil Burger, [Limitless](http://www.imdb.com/title/tt1219289) (7.4)
 * John Carpenter, [They Live](http://www.imdb.com/title/tt0096256) (7.3)
 * Antonio Naharro & Álvaro Pastor, [Yo, también](http://www.imdb.com/title/tt1289449) (7.2)
