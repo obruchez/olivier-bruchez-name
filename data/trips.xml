@@ -2,6 +2,13 @@
 <trips created="2008-02-26">
   <introduction>A list of trips I took.</introduction>
   <trip>
+    <from>2025-10-15</from>
+    <to>2025-10-16</to>
+    <place>Milan, Italy</place>
+    <!-- <pictures url=""/> -->
+    <comments>A 2-day trip to Milan. I went there mainly for a KNOWER concert, but I also visited the Cathedral (Duomo), the Teatro alla Scala Museum, the Pinacoteca di Brera, the Museo del Novecento, the Sforzesco Castle courtyards, and the Parco Sempione.</comments>
+  </trip>
+  <trip>
     <from>2025-09-20</from>
     <to>2025-09-22</to>
     <place>Basel, Switzerland / Europa-Park (Rust), Germany</place>
