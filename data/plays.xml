@@ -9,6 +9,46 @@
     <actor></actor>
   -->
   <play>
+    <date>2025-11-16</date>
+    <location>Salle Charles Apothéloz, Théâtre de Vidy, Lausanne, Switzerland</location>
+    <name>La Distance</name>
+    <author>Tiago Rodrigues</author>
+    <director>Tiago Rodrigues</director>
+    <actor>Adama Diop</actor>
+    <actor>Alison Dechamps</actor>
+    <rating>5.25</rating>
+    <comments>Une pièce très forte, des comédiens très présents, une mise en scène astucieuse, autour des thèmes de la crise climatique, de la colonisation spatiale, des relations intergénérationnelles, du rôle de la mémoire et de l'histoire, de l'oubli, etc. La fin était très émouvante.</comments>
+    <image>La Distance.jpg</image>
+    <!--
+	Traduction
+	Thomas Resendes
+
+	Scénographie
+	Fernando Ribeiro
+
+	Lumière
+	Rui Monteiro
+
+	Musique et son
+	Pedro Costa
+
+	Costumes
+	José António Tenente
+
+	Collaboration artistique
+	Sophie Bricaire
+
+	Assistanat à la mise en scène
+	André Pato
+
+	Stagiaire à la mise en scène
+	Thomas Medioni
+
+	Production
+	Festival d’Avignon
+    -->
+  </play>
+  <play>
     <date>2025-10-03</date>
     <location>Théâtre du Jorat, Mézières, Switzerland</location>
     <name>La réunification des deux Corées</name>
