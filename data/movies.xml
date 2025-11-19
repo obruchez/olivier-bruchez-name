@@ -3,6 +3,26 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Add rating to IMDb -->
   <movie>
+    <date>2025-11-17</date>
+    <theater home="true"/>
+    <director>Jim Jarmusch</director>
+    <title>Dead Man</title>
+    <url>https://www.imdb.com/title/tt0112817/</url>
+    <rating>4.25</rating>
+    <comments>I really wanted to love this film. There are lots of good things: Johnny Depp, the black-and-white cinematography, Neil Young's music, a certain sense of absurdity, and so on. Yet I still felt quite a bit of boredom, even though I usually have plenty of patience for slow, contemplative films.</comments>
+    <image>Dead Man.jpg</image>
+  </movie>
+  <movie>
+    <date>2025-11-17</date>
+    <theater home="true"/>
+    <director>Nicolas Roeg</director>
+    <title>Don't Look Now</title>
+    <url>https://www.imdb.com/title/tt0069995/</url>
+    <rating>4.75</rating>
+    <comments>A very Lynchian film, especially towards the end. There are lots of clever touches in the editing, especially at the beginning this time. Some scenes drag on a bit, but in the end you can't help loving the journey through Venice's mysterious alleyways.</comments>
+    <image>Don't Look Now.jpg</image>
+  </movie>
+  <movie>
     <date>2025-11-03</date>
     <theater home="true"/>
     <director>Ida Lupino</director>
