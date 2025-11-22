@@ -3,6 +3,16 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Add rating to IMDb -->
   <movie>
+    <date>2025-11-20</date>
+    <theater home="true"/>
+    <director>Robert Altman</director>
+    <title>Images</title>
+    <url>https://www.imdb.com/title/tt0068732</url>
+    <rating>4.5</rating>
+    <comments>A fascinating film about a woman going crazy and having hallucinations. It's hard to tell what's real and what's not. Sometimes a bit too much.</comments>
+    <image>Images.jpg</image>
+  </movie>
+  <movie>
     <date>2025-11-17</date>
     <theater home="true"/>
     <director>Jim Jarmusch</director>
