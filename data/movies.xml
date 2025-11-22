@@ -10062,7 +10062,11 @@
   </movie>
   <movie>
     <date>2001-05-29</date>
-    <title>2001 : L'Odyssée De L'Espace</title>
+    <theater>Le Romandie, Lausanne</theater>
+    <director>Stanley Kubrick</director>
+    <title>2001: A Space Odyssey</title>
+    <url>https://www.imdb.com/title/tt0062622/</url>
+    <image>2001 - A Space Odyssey.jpg</image>
   </movie>
   <movie>
     <date>2001-05-22</date>
@@ -10917,6 +10921,28 @@
     <url>https://www.imdb.com/title/tt0054387/</url>
     <comments>Recorded on VHS on January 2, 1990 (<a href="https://en.wikipedia.org/wiki/France_3">FR3</a>). I probably watched it soon after that, at least once, maybe multiple times.</comments>
     <image>The Time Machine.jpg</image>
+  </movie>
+  <movie>
+    <date>1989-12-19</date>
+    <theater home="true"/>
+    <director>Peter Hyams</director>
+    <title>2010: The Year We Make Contact</title>
+    <title language="fr">2010 : L'Année du premier contact</title>
+    <version>fr</version>
+    <url>https://www.imdb.com/title/tt0086837/</url>
+    <comments>Recorded on VHS on December 19, 1989 (<a href="https://en.wikipedia.org/wiki/France_3">FR3</a>). I probably watched it soon after that, at least once, maybe multiple times.</comments>
+    <image>2010 - The Year We Make Contact.jpg</image>
+  </movie>
+  <movie>
+    <date>1989-12-18</date>
+    <theater home="true"/>
+    <director>Stanley Kubrick</director>
+    <title>2001: A Space Odyssey</title>
+    <title language="fr">2001 : L'Odyssée de l'espace</title>
+    <version>fr</version>
+    <url>https://www.imdb.com/title/tt0062622/</url>
+    <comments>Recorded on VHS on December 18, 1989 (<a href="https://en.wikipedia.org/wiki/France_3">FR3</a>). I probably watched it soon after that, at least once, maybe multiple times.</comments>
+    <image>2001 - A Space Odyssey.jpg</image>
   </movie>
   <movie>
     <date>1988-??-??</date>
