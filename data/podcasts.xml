@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <podcasts created="2016-05-10">
   <introduction>A list of podcasts I listened to.</introduction>
-    <podcast>
+  <podcast>
+    <date>2025-11-20</date>
+    <name url="https://peterattiamd.com/podcast/">The Peter Attia Drive Podcast</name>
+    <episode url="https://peterattiamd.com/sallygreenwald/" number="371">Women's sexual health: desire, arousal, and orgasms, navigating perimenopause, and enhancing satisfaction | Sally Greenwald, M.D., M.P.H.</episode>
+    <comments>ChatGTP summary: "The conversation explores why sexual health is an essential component of overall health, longevity, emotional well-being, and relationship satisfaction. The guest, an OB-GYN specializing in women’s sexual health, explains the physiology of female arousal and orgasm, the “orgasm gap,” and the major differences in desire patterns between men and women—especially spontaneous vs. responsive desire. She discusses how adequate foreplay, appropriate lubrication, and understanding clitoral anatomy dramatically improve comfort and orgasm likelihood for women. The episode also addresses the role of testosterone and estrogen in sexual desire, the importance of communication, and evidence-based methods (including vibrators, scheduling intimacy, and mindfulness) to enhance women’s sexual satisfaction and relational harmony."</comments>
+  </podcast>
+  <podcast>
     <date>2025-11-14</date>
     <name url="https://www.youtube.com/@LeFuturologuePodcast">Le Futurologue Podcast</name>
     <episode url="https://www.youtube.com/watch?v=WC8MKbf_Rzc">Expert de la conscience : "ChatGPT est peut-être déjà conscient."</episode>
