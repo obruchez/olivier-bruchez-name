@@ -2,6 +2,16 @@
 <movies created="2000-03-05">
   <introduction>A list of movies I saw.</introduction>
   <!-- Add rating to IMDb -->
+<movie>
+    <date>2025-11-26</date>
+    <theater home="true"/>
+    <director>Paul Thomas Anderson</director>
+    <title>One Battle After Another</title>
+    <url>https://www.imdb.com/title/tt30144839/</url>
+    <rating>5.0</rating>
+    <comments>I was completely lost and overwhelmed during the first part of the film. Then I got really hooked. The pace, the music, the acting, the cinematography: it's just great.</comments>
+    <image>One Battle After Another.jpg</image>
+  </movie>
   <movie>
     <date>2025-11-20</date>
     <theater home="true"/>
