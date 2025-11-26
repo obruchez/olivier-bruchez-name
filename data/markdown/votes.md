@@ -2,31 +2,47 @@
 
 My votes (in French). En Suisse, on ne plaisante pas avec la démocratie directe. :) J'essaie ici de documenter et de justifier la façon dont je me positionne par rapport aux votations fédérales, qui ont lieu jusqu'à quatre fois par année.
 
-## [Votation fédérale du 28 septembre 2025](https://www.bk.admin.ch/ch/f/pore/va/20250928/index.html)
+## [Votation fédérale du 30 novembre 2025](https://www.bk.admin.ch/ch/f/pore/va/20251130/index.html)
 
-#### Arrêté fédéral relatif à l'impôt immobilier cantonal sur les résidences secondaires
-
-Non. Résultat : ? (??.?%).
-
-#### Loi fédérale sur l'identité électronique et d'autres moyens de preuves électroniques (Loi sur l'e-ID, LeID)
+### Initiative populaire « Pour une suisse qui s’engage (initiative service citoyen) »
 
 Oui. Résultat : ? (??.?%).
 
+- Un très petit oui pour cette mauvaise initiative qui n'a aucune chance de passer. Je supporte l'idée derrière le projet.
+
+### Initiative populaire « Pour une politique climatique sociale financée de manière juste fiscalement (initiative pour l’avenir) »
+
+Oui. Résultat : ? (??.?%).
+
+- Idem. Le mécanisme de franchise et de taux d'imposition non progressif, en particulier, est ridicule.
+
+## [Votation fédérale du 28 septembre 2025](https://www.bk.admin.ch/ch/f/pore/va/20250928/index.html)
+
+### Arrêté fédéral relatif à l'impôt immobilier cantonal sur les résidences secondaires
+
+Non. Résultat : oui (57.73%).
+
+- On fait croire à la population qu'on vote sur la valeur locative. C'est une supercherie.
+
+### Loi fédérale sur l'identité électronique et d'autres moyens de preuves électroniques (Loi sur l'e-ID, LeID)
+
+Oui. Résultat : oui (50.39%).
+
 ## [Votation fédérale du 24 novembre 2024](https://www.bk.admin.ch/ch/f/pore/va/20241124/index.html)
 
-#### Acceptez-vous l’arrêté fédéral du 29 septembre 2023 sur l’étape d’aménagement 2023 des routes nationales ?
+### Acceptez-vous l’arrêté fédéral du 29 septembre 2023 sur l’étape d’aménagement 2023 des routes nationales ?
 
 Non. Résultat : non (52.7%).
 
-#### Acceptez-vous la modification du 29 septembre 2023 du code des obligations (droit du bail : sous-location) ?
+### Acceptez-vous la modification du 29 septembre 2023 du code des obligations (droit du bail : sous-location) ?
 
 Non. Résultat : non (51.6%).
 
-#### Acceptez-vous la modification du 29 septembre 2023 du code des obligations (droit du bail : résiliation pour besoin propre) ?
+### Acceptez-vous la modification du 29 septembre 2023 du code des obligations (droit du bail : résiliation pour besoin propre) ?
 
 Non. Résultat : non (53.8%).
 
-#### Acceptez-vous la modification du 22 décembre 2023 de la loi fédérale sur l’assurance-maladie (LAMal) (financement uniforme des prestations) ?
+### Acceptez-vous la modification du 22 décembre 2023 de la loi fédérale sur l’assurance-maladie (LAMal) (financement uniforme des prestations) ?
 
 Non. Résultat : oui (53.3%).
 
