@@ -15,6 +15,17 @@
         <image>The Tripods - All For Nothing.jpg</image>
     </book>
     <book>
+        <date>2025-11-23</date>
+        <title>La Chatte</title>
+        <author>Colette</author>
+        <publishingyear>1933</publishingyear>
+        <rating>4.5</rating>
+        <url>https://fr.wikipedia.org/wiki/La_Chatte_(roman)</url>
+        <notes description="Kindle highlights"></notes>
+        <comments>Uns lecture beaucoup plus facile que <i>Moderato cantabile</i>, qui m'a fait du bien. Cette rivalité femme/chatte est un peu surréaliste, mais fonctionne bien.</comments>
+        <image>La Chatte.jpg</image>
+    </book>
+    <book>
         <date>2025-10-22</date>
         <title>Moderato cantabile</title>
         <author>Marguerite Duras</author>
