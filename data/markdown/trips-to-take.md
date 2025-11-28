@@ -31,6 +31,7 @@ See also [1000 places to see before you die](http://1000places.com/).
 ## [Countries](https://en.wikipedia.org/wiki/List_of_sovereign_states)
 
 * [Australia](https://en.wikipedia.org/wiki/Australia) (be a little more specific, see Vanessa/Grégoire's trip) (including [Tasmania](https://en.wikipedia.org/wiki/Tasmania))
+* [Bhutan](https://en.wikipedia.org/wiki/Bhutan)
 * [Chile](https://en.wikipedia.org/wiki/Chile) (including the [Atacama Desert](https://en.wikipedia.org/wiki/Atacama_Desert))
 * [Finland](https://en.wikipedia.org/wiki/Finland)
 * [Greece](https://en.wikipedia.org/wiki/Greece)
