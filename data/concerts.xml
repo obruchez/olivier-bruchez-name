@@ -7,6 +7,29 @@
   -->
   <introduction>A list of concerts I went to.</introduction>
   <concert>
+    <date>2025-12-02</date>
+    <location>Arena, Geneva, Switzerland</location>
+    <group>Lamomali</group>
+    <musician inst="vocals, guitar" main="true">Matthieu Chedid</musician>
+    <musician inst="vocals, guitar">Fatoumata Diawara</musician>
+    <musician inst="vocals, kora">Lubiana Kepaou</musician>
+    <musician inst="kora">Madou Diabaté</musician>
+    <musician inst="bass">Mike Clinton</musician>
+    <musician inst="drums">Maxime Garoute</musician>
+    <musician inst="percussions">Boubacar Dembélé</musician>
+    <musician inst="vocals">Mountaga Diabaté</musician>
+    <musician inst="keyboards">Corentin Pujol</musician>
+    <rating>4.75</rating>
+    <comments>Our 7-year-old son's first "real" concert. And my first Matthieu Chedid concert in 10 years. It was really fun.</comments>
+  </concert>
+  <concert>
+    <date>2025-12-02</date>
+    <location>Arena, Geneva, Switzerland</location>
+    <musician inst="vocals, guirar">Alex Montembault</musician>
+    <rating>3.5</rating>
+    <comments>Opening for Matthieu Chedid. Nice voice.</comments>
+  </concert>
+  <concert>
     <date>2025-11-02</date>
     <location>Arena, Geneva, Switzerland</location>
     <group>Aldebert</group>
