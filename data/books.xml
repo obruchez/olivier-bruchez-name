@@ -15,6 +15,17 @@
         <image>The Tripods - All For Nothing.jpg</image>
     </book>
     <book>
+        <date></date>
+        <title>La Place</title>
+        <author>Annie Ernaux</author>
+        <publishingyear>1983</publishingyear>
+        <rating></rating>
+        <url>https://fr.wikipedia.org/wiki/La_Place</url>
+        <notes description="Kindle highlights"></notes>
+        <comments></comments>
+        <image>La Place.jpg</image>
+    </book>
+    <book>
         <date>2025-11-23</date>
         <title>La Chatte</title>
         <author>Colette</author>
