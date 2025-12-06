@@ -2,7 +2,17 @@
 <movies created="2000-03-05">
   <introduction>A list of movies I saw.</introduction>
   <!-- Add rating to IMDb -->
-<movie>
+  <movie>
+    <date>2025-12-06</date>
+    <theater>Bâtiment SG, EPFL, Ecublens, Switzerland</theater>
+    <director>Paul Grimault</director>
+    <title>Le roi et l'oiseau</title>
+    <url>https://www.imdb.com/fr/title/tt0079820</url>
+    <rating>4.25</rating>
+    <comments>Vu avec mon fils de 7 ans. J'ai envie d'aimer un peu plus ce film d'animation original, mais pour l'instant, je reste sur un sentiment mitigé. Il y a plein de bonnes trouvailles, mais le résultat est un peu inégal. Il y a des longueurs ou tout du moins un problème de rythme.</comments>
+    <image>Le roi et l'oiseau.jpg</image>
+  </movie>
+  <movie>
     <date>2025-11-26</date>
     <theater home="true"/>
     <director>Paul Thomas Anderson</director>
