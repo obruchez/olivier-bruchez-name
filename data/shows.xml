@@ -17,13 +17,6 @@
   </show>
   <show>
     <date></date>
-    <name url="https://en.wikipedia.org/wiki/Black_Mirror">Black Mirror</name>
-    <series url="https://en.wikipedia.org/wiki/List_of_Black_Mirror_episodes#Series_7_(2025)" type="series">7</series>
-    <comments></comments>
-    <image>Black Mirror.jpg</image>
-  </show>
-  <show>
-    <date></date>
     <name url="https://en.wikipedia.org/wiki/Dekalog">Dekalog</name>
     <comments></comments>
     <image>Dekalog.jpg</image>
@@ -34,6 +27,13 @@
     <series url="https://en.wikipedia.org/wiki/Pluribus_(TV_series)" type="season">1</series>
     <comments></comments>
     <image>Pluribus.jpg</image>
+  </show>
+  <show>
+    <date>2025-12-05</date>
+    <name url="https://en.wikipedia.org/wiki/Black_Mirror">Black Mirror</name>
+    <series url="https://en.wikipedia.org/wiki/List_of_Black_Mirror_episodes#Series_7_(2025)" type="series">7</series>
+    <comments>I particularly liked <i>Eulogy</i>, but overall it was a good season.</comments>
+    <image>Black Mirror.jpg</image>
   </show>
   <show>
     <date>2025-07-03</date>
