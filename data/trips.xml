@@ -2,31 +2,45 @@
 <trips created="2008-02-26">
   <introduction>A list of trips I took.</introduction>
   <trip>
+    <from>2025-11-28</from>
+    <to>2025-11-30</to>
+    <place>Zürich, Switzerland</place>
+    <!-- <pictures url=""/> -->
+    <comments>We went to the Dolder ice rink (very fun!), we returned to Haus Hiltl, the world's first vegetarian restaurant (1898), we visited Zauberpark and its light installations, and we also visited the Titanic exhibition at the Lichthalle MAAG, among other things.</comments>
+  </trip>
+  <trip>
     <from>2025-10-15</from>
     <to>2025-10-16</to>
     <place>Milan, Italy</place>
-    <!-- <pictures url=""/> -->
+    <pictures url="https://www.flickr.com/photos/bruchez/albums/72177720330062445/">Milan</pictures>
+    <pictures url="https://www.flickr.com/photos/bruchez/albums/72177720330063000/">Milan: Pinacoteca di Brera</pictures>
+    <pictures url="https://www.flickr.com/photos/bruchez/albums/72177720330085268/">Milan: Museo del Novecento</pictures>
     <comments>A 2-day trip to Milan. I went there mainly for a KNOWER concert, but I also visited the Cathedral (Duomo), the Teatro alla Scala Museum, the Pinacoteca di Brera, the Museo del Novecento, the Sforzesco Castle courtyards, and the Parco Sempione.</comments>
   </trip>
   <trip>
     <from>2025-09-20</from>
     <to>2025-09-22</to>
     <place>Basel, Switzerland / Europa-Park (Rust), Germany</place>
-    <!-- <pictures url=""/> -->
+    <pictures url="https://www.flickr.com/photos/bruchez/albums/72177720329475032/"/>
     <comments>My 7<sup>th</sup> visit to Europa-Park, the 3<sup>rd</sup> one with our 7-year-old son, who now had access to more roller coasters: Wodan (2012), Poseidon (2000), Matterhorn-Blitz (1999), and Swiss Bob Run (1985). We went to Aquabasilea on our way to Rust.</comments>
   </trip>
   <trip>
     <from>2025-08-07</from>
     <to>2025-08-10</to>
     <place>Center Parcs Les Trois Forêts, Hattigny, France</place>
-    <!-- <pictures url=""/> -->
+    <pictures url="https://www.flickr.com/photos/bruchez/albums/72177720328653224"/>
     <comments>My first time at a Center Parcs resort, with our 7-year-old son.</comments>
   </trip>
   <trip>
     <from>2025-06-28</from>
     <to>2025-07-14</to>
     <place>Québec, Canada</place>
-    <!-- <pictures url=""/> -->
+    <pictures url="https://www.flickr.com/photos/bruchez/albums/72177720328634078/">Québec: Montréal</pictures>
+    <pictures url="https://www.flickr.com/photos/bruchez/albums/72177720328633192/">Québec: Lac Thomas, Mauricie &amp; La Tuque</pictures>
+    <pictures url="https://www.flickr.com/photos/bruchez/albums/72177720328643963/">Québec: Lac Gamelin, Lac Saint-Jean &amp; St-Félicien</pictures>
+    <pictures url="https://www.flickr.com/photos/bruchez/albums/72177720328644618/">Québec: Saguenay, Bergeronnes &amp; Tadoussac</pictures>
+    <pictures url="https://www.flickr.com/photos/bruchez/albums/72177720328636222/">Québec: Québec &amp; Île d'Orléans</pictures>
+    <pictures url="https://www.flickr.com/photos/bruchez/albums/72177720328629016/">Québec: Montréal</pictures>
     <comments>My 3<sup>rd</sup> trip to Québec and 4<sup>th</sup> trip to Canada (5<sup>th</sup>, counting a brief visit of Niagara Falls back in 2001). We visited Montréal, Québec, La Mauricie National Park, the Lake Saint-Jean, Saguenay, and Tadoussac areas. We stayed at two lakeside chalets, which was very nice. We also saw Mike Stern at the Festival International de Jazz de Montréal. I'm still fascinated by the far north areas, which we have never visited - and which probably are more boring in practice than in theory. Still, I'd really like to visit one of those towns in the North part of Québec someday.</comments>
   </trip>
   <trip>
@@ -62,7 +76,7 @@
     <to>2024-12-01</to>
     <place>Zürich, Switzerland</place>
     <pictures url="https://www.flickr.com/photos/bruchez/albums/72177720322440871/"/>
-    <comments>Possibly my first time in Zürich since 2009. In the past, I mainly went there to see concerts: Prince in 1998 and 2002, Marcus Miller in 2002 and 2005, Keith Jarrett in 2009. For some reasons, we also saw David Copperfield at the Hallenstadion in 2005 (I was not impressed). This time, I particularly liked the Altstadt and the Kunsthaus (Matthew Wong - Vincent Van Gogh exhibition). We also passed by Kaufleuten, the club where I shook Prince's hand in 2002, among other things.</comments>
+    <comments>Possibly my first time in Zürich since 2009. In the past, I mainly went there to see concerts: Prince in 1998 and 2002, Marcus Miller in 2002 and 2005, Keith Jarrett in 2009. For some reason, we also saw David Copperfield at the Hallenstadion in 2005 (I was not impressed). This time, I particularly liked the Altstadt and the Kunsthaus (Matthew Wong - Vincent Van Gogh exhibition). We also passed by Kaufleuten, the club where I shook Prince's hand in 2002, among other things.</comments>
   </trip>
   <trip>
     <from>2024-09-13</from>
