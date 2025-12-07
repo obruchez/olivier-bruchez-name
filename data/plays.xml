@@ -9,6 +9,32 @@
     <actor></actor>
   -->
   <play>
+    <date>2025-12-07</date>
+    <location>Théâtre Barnabé, Servion, Switzerland</location>
+    <name>Jules César</name>
+    <author>Noam Perakis &amp; Céline Rey</author>
+    <director>Noam Perakis</director>
+	<actor>Julien Opoix</actor>
+	<actor>Tania Zoppi</actor>
+	<actor>Maureen Béguin</actor>
+	<actor>Gilles Guenat</actor>
+	<actor>Loïc Fleury</actor>
+	<actor>Noam Perakis</actor>
+	<actor>Célia Chaillet</actor>
+	<actor>Kim Nicolas</actor>
+	<actor>Cyril Tassi</actor>
+	<actor>Amber Dedieu-Meille</actor>
+	<actor>Camila Piccinini</actor>
+	<actor>Chloé Gérona</actor>
+	<actor>Stéphane Rudaz</actor>
+    <rating>4.5</rating>
+    <comments>Assez similaire à <i>Robin des Bois</i>, vu en début d'année, également avec notre fils. C'est définitivement divertissant.</comments>
+    <image>Jules César.jpg</image>
+    <!--
+	Direction vocale Céline Rey | Direction musicale Vincent Kessi et Olivier Kessi | Chorégraphies Gilles Guenat | Direction technique Florian Zaramella | Scénographie Noam Perakis et Corentin Meige | Construction et décors Corentin Meige, Gabriel Liechti, Michal Dráb, Gilles Meystre, Diane Muller, Linda Boschung, Charline Henry, Françoise Bach Barras, Sylvain Geinoz, Nicolas Geinoz, Florian Zaramella, Gabriel Liechti| Création lumières Philippe Schnider | Régie lumières Philippe Schnider et Sylvain Geinoz | Création son Benoît Boulian | Régie son Benoît Boulian et Yoan Motta | Création vidéos : Sylvain Geinoz et Hector Wilmot | Plateau Florian Zaramella, Gabriel Liechti, Lucile Brügger, Damien Garnerie et Corentin Scheoni  Vol Scène-Concept | Costumes Elodie Belin | Orchestre Direction musicale et trompette/bugle/trompette piccolo : Vincent Kessi / Saxophones/clarinette : Olivier Kessi et Joël Musy / Trombones : Cyprien Gruffel et Ross Butcher / Guitares : Stefano Rana / Claviers : Allan Broomfield et  Sidonie Cholat / Basse : Nick Ryckx et Sacha Dumais / Batterie : Vivien Hochstätter et Sébastien Chave Production Fondation Barnabé et Association Cotescene
+    -->
+  </play>
+  <play>
     <date>2025-11-21</date>
     <location>Opéra de Lausanne, Lausanne, Switzerland</location>
     <name>Chaplin</name>
