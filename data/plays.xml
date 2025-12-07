@@ -154,6 +154,21 @@
     <image>Alice revient au Jardin des Merveilles.jpg</image>
   </play>
   <play>
+    <date>2025-08-24</date>
+    <location>Théâtre Barnabé, Servion, Switzerland</location>
+    <name>Charlie et la Chocolaterie</name>
+    <author>Roald Dahl</author>
+    <adaptation>David Greig</adaptation>
+    <director>Julien Opoix</director>
+	<actor>?</actor>
+    <rating>4.5</rating>
+    <comments>Nous avions préparé notre fils à cette comédie musicale avec le film de Tim Burton, vu quelques semaines plus tôt. C'était plaisant, quoique clairement plus ciblé pour un jeune public que d'autres productions du Théâtre Barnabé.</comments>
+    <image>Charlie et la Chocolaterie.jpg</image>
+    <!--
+	Chansons du film écrites par Leslie Bricusse, Anthony Newlay | Musique : Marc Shaiman | Lyrics : Scott Wittman, Marc Shaiman | Chorégraphies : Cyril Tassi | Direction des choeurs : Lorie Guillod | Direction technique : Florian Zaramella et Philippe Schnider | Décors : Gilles Meystre, Michal Dráb, Diane Muller, Linda Boschung, Françoise Bach-Barras | Son : Benoît Boulian | Adaptation française : Ludovic-Alexandre Vidal et Philippe Hersen | Création et régies lumière : Philippe Schnider | Plateau : Florian Zaramella, Gilles Meystre et Sylvain Geinoz | Costumes : Elodie Belin, Oleksander Borodin et Céline Bovet | Production : Théâtre Barnabé, en accord avec l’Agence Drama – Paris (www.dramaparis.com) pour le compte de Music Theatre International (www.mtishows.eu). L’ensemble du matériel musical autorisé est également fourni par MTI – www.mtishows.eu
+    -->
+  </play>
+  <play>
     <date>2025-04-03</date>
     <location>Pulloff Théâtres, Lausanne, Switzerland</location>
     <name>Emma, c’est moi !</name>
