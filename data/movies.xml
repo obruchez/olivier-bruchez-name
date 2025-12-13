@@ -3,6 +3,18 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Add rating to IMDb -->
   <movie>
+    <date>2025-12-13</date>
+    <theater home="true"/>
+    <director>Pete Docter &amp; Bob Peterson</director>
+    <title>Là-haut</title>
+    <title language="en">Up</title>
+    <version>fr</version>
+    <url>https://www.imdb.com/title/tt1049413/</url>
+    <rating>5.25</rating>
+    <comments>Vu pour la première fois depuis sa sortie au cinéma en 2009. Mon fils a adoré. Et moi aussi. C'est un film d'animation touchant et intelligent.</comments>
+    <image>Up.jpg</image>
+  </movie>
+  <movie>
     <date>2025-12-06</date>
     <theater>Bâtiment SG, EPFL, Ecublens, Switzerland</theater>
     <director>Paul Grimault</director>
