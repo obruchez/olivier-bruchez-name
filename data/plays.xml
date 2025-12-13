@@ -9,6 +9,57 @@
     <actor></actor>
   -->
   <play>
+    <date>2025-12-12</date>
+    <location>Théâtre Kléber-Méleau, Renens, Switzerland</location>
+    <name>Presque Hamlet</name>
+    <author>William Shakespeare</author>
+    <director>Dan Jemmett</director>
+    <actor>Gilles Privat</actor>
+    <rating>5.0</rating>
+    <comments>Une comédie d'après William Shakespeare. Enfin presque. C'était bien loufoque. Je m'aperçois que j'avais déjà vu Gilles Privat dans <i>Serial Lover</i> au cinéma en 1998.</comments>
+    <image>Presque Hamlet.jpg</image>
+    <!--
+	Univers sonore
+	Frank Frenzy
+
+	ÉQUIPE DE RECRÉATION AU THÉÂTRE DE CAROUGE
+
+	Assistanat à la mise en scène
+	Lola Riccaboni
+
+	Lumières
+	Eusébio Paduret
+
+	Construction
+	Grégoire de Saint Sauveur
+
+	Accessoires
+	Célia Zanghi
+
+	Costumes
+	Cécile Vercaemer
+
+	Couture
+	Pauline Ecuyer
+	Cécile Vercaemer
+
+	Et toute l’équipe du Théâtre de Carouge
+
+	Production
+
+	Théâtre de Carouge – Genève
+
+	Remerciements
+
+	Théâtre Vidy-Lausanne
+	Mathieu Dorsaz
+
+	Ce spectacle n’aurait pas existé sans Philippe Sturbelle, Ariel Goldenberg et René Gonzalez.
+
+	Création en septembre 2000, au Théâtre de Vidy à Lausanne.
+    -->
+  </play>
+  <play>
     <date>2025-12-07</date>
     <location>Théâtre Barnabé, Servion, Switzerland</location>
     <name>Jules César</name>
