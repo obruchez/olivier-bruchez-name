@@ -8337,12 +8337,20 @@
   </movie>
   <movie>
     <date>2005-12-14</date>
+    <theater home="true"/>
+    <title>My Girl</title>
+    <version>fr</version>
+    <url>https://www.imdb.com/title/tt0102492/</url>
+    <image>My Girl.jpg</image>
+  </movie>
+  <movie>
+    <date>2005-12-14</date>
     <theater>Galeries, Lausanne</theater>
     <title>Three Burials</title>
     <title language="fr">Trois Enterrements</title>
     <rating>5.5</rating>
     <url>https://www.imdb.com/title/tt0419294/</url>
-    <image>Three Burials</image>
+    <image>Three Burials.jpg</image>
   </movie>
   <movie>
     <date>2005-12-02</date>
