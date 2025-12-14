@@ -9,6 +9,41 @@
     <actor></actor>
   -->
   <play>
+    <date>2025-12-14</date>
+    <location>Petit Théâtre, Lausanne, Switzerland</location>
+    <name>Brocéliande</name>
+    <author>Julie Annen</author>
+    <director>Julie Annen</director>
+    <actor>Diana Fontannaz</actor>
+    <actor>Antoine Minne</actor>
+    <actor>Salvatore Orlando</actor>
+    <actor>Solange Schifferdecker</actor>
+    <rating>4.25</rating>
+    <comments>Ma première fois au Petit Théâtre en 2025, alors que j'y étais allé 4 fois en 2024. Une pièce avec marionnettes et caméras. La vidéo est utilisée avec moins de parcimonie que dans une pièce telle que <i>Les Voyages de Gulliver</i>. C'est créatif/inventif et, en même temps, je regrette peut-être d'avoir encore affaire à un écran, alors qu'en général le théâtre est un lieu qui me permet justement d'échapper aux écrans, qui font partie de mon quotidien.</comments>
+    <image>Brocéliande.jpg</image>
+    <!--
+	Création–coproduction
+
+	Cie Rupille 7, Le Petit Théâtre de Lausanne, PAN! (La Compagnie) et Théâtre de Grand-Champ
+
+	Assistanat mise en scène
+
+	Peter Palasthy
+
+	Scénographie, costumes, maquettes et marionnettes
+
+	Thibaut De Coster et Charly Kleinermann
+
+	Vidéo, cadrage et montage
+
+	Vincent Thaon
+
+	Lumière
+
+	Christophe Pitoiset
+    -->
+  </play>
+  <play>
     <date>2025-12-12</date>
     <location>Théâtre Kléber-Méleau, Renens, Switzerland</location>
     <name>Presque Hamlet</name>
