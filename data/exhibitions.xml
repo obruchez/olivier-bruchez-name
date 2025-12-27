@@ -3,6 +3,15 @@
 <exhibitions created="2011-05-17">
     <introduction>A list of exhibitions I visited.</introduction>
     <exhibition>
+        <date>2025-11-30</date>
+        <name>The legend of the Titanic - The immersive exhibition</name>
+        <museum>Lichthalle MAAG, Zürich, Switzerland</museum>
+        <rating>4.0</rating>
+        <comments>The movie part of the exhibition was average. The VR room was fun.</comments>
+        <image>The legend of the Titanic.jpg</image>
+        <!-- <pictures url=""/> -->
+    </exhibition>
+    <exhibition>
         <date>2025-11-01</date>
         <name>La Pologne rêvée</name>
         <museum>Fondation de l’Hermitage, Lausanne, Switzerland</museum>
@@ -11,7 +20,6 @@
         <image>La Pologne rêvée.jpg</image>
         <!-- <pictures url=""/> -->
     </exhibition>
-
     <exhibition>
         <date>2025-09-27</date>
         <name>De Rembrandt à Van Gogh - Collection Armand Hammer, Los Angeles</name>
