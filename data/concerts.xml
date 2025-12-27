@@ -7,6 +7,31 @@
   -->
   <introduction>A list of concerts I went to.</introduction>
   <concert>
+    <date>2025-12-21</date>
+    <location>Opéra de Lausanne, Lausanne, Switzerland</location>
+    <event><i>Barbe-Bleue</i> opera</event>
+    <musician inst="vocals">Florian Laconi</musician>
+    <musician inst="vocals">Jérémy Duffau</musician>
+    <musician inst="vocals">Jennifer Courcier</musician>
+    <musician inst="vocals">Héloïse Mas</musician>
+    <musician inst="vocals">Christophe Gay</musician>
+    <musician inst="vocals">Thibault de Damas</musician>
+    <musician inst="vocals">Christophe Mortagne</musician>
+    <musician inst="vocals">Julie Pasturaud</musician>
+    <musician inst="vocals">Naïma Wanshe</musician>
+    <musician inst="vocals">Léa Sirera</musician>
+    <musician inst="vocals">Lauriane Paillet</musician>
+    <musician inst="vocals">Eudoxie Mottironi</musician>
+    <musician inst="vocals">Solène Nancy</musician>
+    <musician inst="vocals">Aurélien Reymond-Moret</musician>
+    <musician inst="orchestra">Sinfonietta de Lausanne</musician>
+    <musician inst="conductor">Alexandra Cravero</musician>
+    <musician inst="choir">Chœur de l’Opéra de Lausanne</musician>
+    <musician inst="choir director">Guillaume Rault</musician>
+    <rating>5.0</rating>
+    <comments><i>Barbe-Bleue</i> opera (Jacques Offenbach), directed by Laurent Pelly. A comic opera we didn't know but enjoyed very much.</comments>
+  </concert>
+  <concert>
     <date>2025-12-02</date>
     <location>Arena, Geneva, Switzerland</location>
     <group>Lamomali</group>
