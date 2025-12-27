@@ -3,6 +3,17 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Add rating to IMDb -->
   <movie>
+    <date>2025-12-26</date>
+    <theater home="true"/>
+    <director>Robert Zemeckis</director>
+    <title>Forrest Gump</title>
+    <version>fr</version>
+    <url>https://www.imdb.com/title/tt0109830/</url>
+    <rating>5.25</rating>
+    <comments>Déjà vu en 2013, 2009 et probablement dans les années 90. Regardé cette fois-ci avec mes parents.</comments>
+    <image>Forrest Gump.jpg</image>
+  </movie>
+  <movie>
     <date>2025-12-13</date>
     <theater home="true"/>
     <director>Pete Docter &amp; Bob Peterson</director>
