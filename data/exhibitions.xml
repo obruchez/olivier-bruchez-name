@@ -3,6 +3,15 @@
 <exhibitions created="2011-05-17">
     <introduction>A list of exhibitions I visited.</introduction>
     <exhibition>
+        <date>2025-12-27</date>
+        <name>De Manet à Kelly - L'art de l'empreinte</name>
+        <museum>Fondation Pierre Gianadda, Martigny, Switzerland</museum>
+        <rating>4.25</rating>
+        <comments>The exhibition itself is well done, but ultimately I'm probably less receptive to prints (lithographs, etchings, etc.) than to painting in general. That said, there were a few works I really liked, especially among the darker subjects toward the end of the exhibition.</comments>
+        <image>De Manet à Kelly.jpg</image>
+        <!-- <pictures url=""/> -->
+    </exhibition>
+    <exhibition>
         <date>2025-11-30</date>
         <name>The legend of the Titanic - The immersive exhibition</name>
         <museum>Lichthalle MAAG, Zürich, Switzerland</museum>
