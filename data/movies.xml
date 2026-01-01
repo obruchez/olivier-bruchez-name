@@ -3,6 +3,16 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Add rating to IMDb -->
   <movie>
+    <date>2026-01-01</date>
+    <theater home="true"/>
+    <director>Jonathan Dayton &amp; Valerie Faris</director>
+    <title>Little Miss Sunshine</title>
+    <rating>5.0</rating>
+    <url>https://www.imdb.com/title/tt0449059/</url>
+    <comments>This is the first time I've watched this movie again since it came out in 2006. It's still funny and touching.</comments>
+    <image>Little Miss Sunshine.jpg</image>
+  </movie>
+  <movie>
     <date>2025-12-26</date>
     <theater home="true"/>
     <director>Robert Zemeckis</director>
