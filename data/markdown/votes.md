@@ -6,13 +6,13 @@ My votes (in French). En Suisse, on ne plaisante pas avec la démocratie directe
 
 ### Initiative populaire « Pour une suisse qui s’engage (initiative service citoyen) »
 
-Oui. Résultat : ? (??.?%).
+Oui. Résultat : non (84.15%).
 
 - Un très petit oui pour cette mauvaise initiative qui n'a aucune chance de passer. Je supporte l'idée derrière le projet.
 
 ### Initiative populaire « Pour une politique climatique sociale financée de manière juste fiscalement (initiative pour l’avenir) »
 
-Oui. Résultat : ? (??.?%).
+Oui. Résultat : non (78.28%).
 
 - Idem. Le mécanisme de franchise et de taux d'imposition non progressif, en particulier, est ridicule.
 
@@ -27,6 +27,12 @@ Non. Résultat : oui (57.73%).
 ### Loi fédérale sur l'identité électronique et d'autres moyens de preuves électroniques (Loi sur l'e-ID, LeID)
 
 Oui. Résultat : oui (50.39%).
+
+## [Votation fédérale du 9 février 2025](https://www.bk.admin.ch/ch/f/pore/va/20250209/index.html)
+
+### Initiative populaire du 21.02.2023 «Pour une économie responsable respectant les limites planétaires (initiative pour la responsabilité environnementale)»
+
+Oui. Résultat : non (69.8%).
 
 ## [Votation fédérale du 24 novembre 2024](https://www.bk.admin.ch/ch/f/pore/va/20241124/index.html)
 
