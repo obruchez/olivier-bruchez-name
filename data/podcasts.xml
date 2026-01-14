@@ -2,6 +2,24 @@
 <podcasts created="2016-05-10">
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date>2026-01-12</date>
+    <name>Superchuckamania</name>
+    <episode number="90">‘you can just do the quack’</episode>
+    <comments>An episode with Toejam (Scott Bignell). That was fun. And I was happy to hear that he's also a fan of Louis Cole.</comments>
+  </podcast>
+  <podcast>
+    <date>2026-01-09</date>
+    <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
+    <episode url="https://www.samharris.org/podcasts/making-sense-episodes/448-the-philosophy-of-good-and-evil" number="448">The Philosophy of Good and Evil - A Conversation with David Edmonds</episode>
+    <comments>"Sam Harris speaks with David Edmonds about moral philosophy and effective altruism. They discuss Edmonds’s book Death in a Shallow Pond, Peter Singer’s famous drowning child thought experiment, arguments for and against thought experiments, “trolleyology,” consequentialism, the origins of the Effective Altruism movement, the controversial strategy of “earning to give,” Derek Parfit’s influence on contemporary ethics, the backlash against effective altruists, Angus Deaton’s critique of the efficacy of foreign aid, and other topics."</comments>
+  </podcast>
+  <podcast>
+    <date>2026-01-06</date>
+    <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
+    <episode url="https://www.samharris.org/podcasts/making-sense-episodes/450-more-from-sam-resolutions-conspiracies-demonology-and-the-fate-of-the-world" number="450">More From Sam: Resolutions, Conspiracies, Demonology, and the Fate of the World</episode>
+    <comments>"In this latest episode of the More From Sam series, Sam and Jaron talk about current events. They discuss Sam's 2025 New Year's resolutions, the benefits of meditation, Sam’s conversation with Ross Douthat, AI risks, Tucker Carlson's midnight encounter with a demon, the fracturing on the right, antisemitism on the right and the left, the Bondi Beach massacre, the Epstein files, accusations made by Joe Rogan and Bret Weinstein, and the collapse of shared reality, which Sam argues is the central problem driving many of these crises."</comments>
+  </podcast>
+  <podcast>
     <date>2025-12-09</date>
     <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
     <episode url="https://www.samharris.org/podcasts/making-sense-episodes/447-the-unraveling-of-american-power" number="447">The Unraveling of American Power - A Conversation with Peter Zeihan</episode>
