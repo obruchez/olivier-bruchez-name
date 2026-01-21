@@ -3,6 +3,16 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Add rating to IMDb -->
   <movie>
+    <date>2026-01-21</date>
+    <theater home="true"/>
+    <director>Paul Thomas Anderson</director>
+    <title>Inherent Vice</title>
+    <url>https://www.imdb.com/title/tt1791528/</url>
+    <rating>3.0</rating>
+    <comments>An intentionally confusing and hard-to-understand movie. I can't say it was a fun watch. Technically, it's good, but I have to give it an average rating for now. A second watch would probably be worth it. I've already read about the film online, to make sure I more or less understand what happened, but I'll also listen to <a href="https://verybadwizards.com/episode/episode-318-a-pta-meeting">the Very Bad Wizard episode about it</a> in the near future. I now have one last Paul Thomas Anderson movie to watch to complete his filmography: <i>Phantom Thread</i>.</comments>
+    <image>Inherent Vice.jpg</image>
+  </movie>
+  <movie>
     <date>2026-01-01</date>
     <theater home="true"/>
     <director>Jonathan Dayton &amp; Valerie Faris</director>
