@@ -3,6 +3,16 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Add rating to IMDb -->
   <movie>
+    <date>2026-01-23</date>
+    <theater home="true"/>
+    <director>Richard Linklater</director>
+    <title>Nouvelle Vague</title>
+    <url>https://www.imdb.com/title/tt31688586/</url>
+    <rating>5.0</rating>
+    <comments>Le premier film en français de Richard Linklater. Un hommage touchant et drôle à Jean-Luc Godard et à la Nouvelle Vague. Il faut que je donne une seconde chance à Godard !</comments>
+    <image>Nouvelle Vague.jpg</image>
+  </movie>
+  <movie>
     <date>2026-01-21</date>
     <theater home="true"/>
     <director>Paul Thomas Anderson</director>
