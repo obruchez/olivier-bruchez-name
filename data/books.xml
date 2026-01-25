@@ -4,6 +4,17 @@
     <!-- TODO: replace links to Google Books with links to Goodreads -->
     <book>
         <date></date>
+        <title>Journal d'un corps</title>
+        <author>Daniel Pennac</author>
+        <publishingyear>2012</publishingyear>
+        <rating></rating>
+        <url>https://fr.wikipedia.org/wiki/Journal_d%27un_corps</url>
+        <notes description="Kindle highlights"></notes>
+        <comments></comments>
+        <image>Journal d'un corps.jpg</image>
+    </book>
+    <book>
+        <date></date>
         <title>The Tripods: All For Nothing?</title>
         <subtitle>The Secrets and Stories Behind the BBC Series</subtitle>
         <author>Chris Jones</author>
