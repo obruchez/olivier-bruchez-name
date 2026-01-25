@@ -2,6 +2,13 @@
 <trips created="2008-02-26">
   <introduction>A list of trips I took.</introduction>
   <trip>
+    <from>2026-01-16</from>
+    <to>2026-01-18</to>
+    <place>Basel, Switzerland</place>
+    <!-- <pictures url=""/> -->
+    <comments>We went back to the Zoological Gardens (Basel Zoo) and the Spielzeug Welten Museum (Toy Worlds Museum), which we visited also with our son more than 5 years ago. He didn't remember it. We also visited the fantastic Yayoi Kusama exhibition at the Fondation Beyeler.</comments>
+  </trip>
+  <trip>
     <from>2025-11-28</from>
     <to>2025-11-30</to>
     <place>Zürich, Switzerland</place>
