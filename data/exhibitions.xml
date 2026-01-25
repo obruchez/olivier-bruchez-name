@@ -3,6 +3,24 @@
 <exhibitions created="2011-05-17">
     <introduction>A list of exhibitions I visited.</introduction>
     <exhibition>
+        <date>2026-01-18</date>
+        <name>Yayoi Kusama</name>
+        <museum>Fondation Beyeler, Riehen, Switzerland</museum>
+        <rating>5.25</rating>
+        <comments>A landmark exhibition dedicated to Yayoi Kusama. We had already visited the Beyeler Foundation last year for the Matisse exhibition. This year, there were just as many visitors, if not more. We all enjoyed it very much!</comments>
+        <image>Yayoi Kusama.jpg</image>
+        <!-- <pictures url=""/> -->
+    </exhibition>
+    <exhibition>
+        <date>2026-01-17</date>
+        <name>Permanent exhibition</name>
+        <museum>Spielzeug Welten Museum, Basel, Switzerland</museum>
+        <rating>5.0</rating>
+        <comments>See my comments from 2020. I particularly like the third floor.</comments>
+        <image>Spielzeug Welten Museum.jpg</image>
+        <!-- <pictures url=""/> -->
+    </exhibition>
+    <exhibition>
         <date>2026-01-11</date>
         <name>Les Monstrueuses / Tisser son temps</name>
         <museum>Museum of Contemporary Design and Applied Arts (MUDAC), Lausanne, Switzerland</museum>
