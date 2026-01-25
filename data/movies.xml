@@ -3,6 +3,16 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Add rating to IMDb -->
   <movie>
+    <date>2026-01-24</date>
+    <theater home="true"/>
+    <director>Rob Reiner</director>
+    <title>When Harry Met Sally...</title>
+    <url>https://www.imdb.com/title/tt0098635/</url>
+    <rating>4.5</rating>
+    <comments>This is a "movie with Meg Ryan". You know what's going to happen at the end. And you're waiting for <i>the</i> scene, the one which is probably even more well-known than the film itself. All in all, this is entertaining, but far from a masterpiece. Apparently, this is my fourth Rob Reiner movie. I think I liked <i>Misery</i>, seen last year, more than <i>When Harry Met Sally...</i>.</comments>
+    <image>When Harry Met Sally....jpg</image>
+  </movie>
+  <movie>
     <date>2026-01-23</date>
     <theater home="true"/>
     <director>Richard Linklater</director>
