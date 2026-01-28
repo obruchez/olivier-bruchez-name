@@ -3,6 +3,16 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Add rating to IMDb -->
   <movie>
+    <date>2026-01-28</date>
+    <theater home="true"/>
+    <director>Philip Kaufman</director>
+    <title>Invasion of the Body Snatchers</title>
+    <url>https://www.imdb.com/title/tt0077745/</url>
+    <rating>4.25</rating>
+    <comments>That was pretty good. I should probably see the original someday.</comments>
+    <image>Invasion of the Body Snatchers.jpg</image>
+  </movie>
+  <movie>
     <date>2026-01-24</date>
     <theater home="true"/>
     <director>Rob Reiner</director>
