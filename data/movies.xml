@@ -3,6 +3,16 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Add rating to IMDb -->
   <movie>
+    <date>2026-01-31</date>
+    <theater home="true"/>
+    <director>Mike Flanagan</director>
+    <title>The Life of Chuck</title>
+    <url>https://www.imdb.com/title/tt12908150/</url>
+    <rating>4.25</rating>
+    <comments>An entertaining film. I liked the apocalypse theme of the first part. The drum/dance scene in the second part was fun. And the last part was... cute? I wouldn't say it's particularly "profound".</comments>
+    <image>The Life of Chuck.jpg</image>
+  </movie>
+  <movie>
     <date>2026-01-28</date>
     <theater home="true"/>
     <director>Philip Kaufman</director>
