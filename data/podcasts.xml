@@ -2,6 +2,18 @@
 <podcasts created="2016-05-10">
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date>2026-02-03</date>
+    <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
+    <episode url="https://www.samharris.org/podcasts/making-sense-episodes/455-more-from-sam-guns-propaganda-ai-and-power-unbound" number="455">More From Sam: Guns, Propaganda, AI, and Power Unbound</episode>
+    <comments>"In this latest episode of the More From Sam series, Sam and Jaron talk about current events. They discuss the killing of Alex Pretti in Minneapolis, the lack of outrage from gun culture, the escalating humanitarian crisis in Iran, Melania Trump’s pay-to-play documentary deal, the societal implications of AI-driven job displacement, the fascistic social media imagery of the Trump administration, Sam’s youthful misadventures with psychedelics in Muir Woods, and other topics."</comments>
+  </podcast>
+  <podcast>
+    <date>2026-02-02</date>
+    <name url="http://verybadwizards.com/">Very Bad Wizards</name>
+    <episode url="https://verybadwizards.com/episode/episode-318-a-pta-meeting">A PTA Meeting</episode>
+    <comments>I watched <i>Inherent Vice</i> about two weeks ago. This is an underrated Paul Thomas Anderson film, according to Dave and Tamler. It's certainly a hard film to watch and enjoy.</comments>
+  </podcast>
+  <podcast>
     <date>2026-01-27</date>
     <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
     <episode url="https://www.samharris.org/podcasts/making-sense-episodes/454-more-from-sam-minnesota-greenland-iran-s-thole-countries-and-more" number="454">More From Sam: Minnesota, Greenland, Iran, S**thole Countries, and More</episode>
@@ -41,7 +53,7 @@
     <date>2026-01-09</date>
     <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
     <episode url="https://www.samharris.org/podcasts/making-sense-episodes/448-the-philosophy-of-good-and-evil" number="448">The Philosophy of Good and Evil - A Conversation with David Edmonds</episode>
-    <comments>"Sam Harris speaks with David Edmonds about moral philosophy and effective altruism. They discuss Edmonds's book Death in a Shallow Pond, Peter Singer's famous drowning child thought experiment, arguments for and against thought experiments, “trolleyology,” consequentialism, the origins of the Effective Altruism movement, the controversial strategy of “earning to give,” Derek Parfit's influence on contemporary ethics, the backlash against effective altruists, Angus Deaton's critique of the efficacy of foreign aid, and other topics."</comments>
+    <comments>"Sam Harris speaks with David Edmonds about moral philosophy and effective altruism. They discuss Edmonds's book Death in a Shallow Pond, Peter Singer's famous drowning child thought experiment, arguments for and against thought experiments, "trolleyology," consequentialism, the origins of the Effective Altruism movement, the controversial strategy of "earning to give," Derek Parfit's influence on contemporary ethics, the backlash against effective altruists, Angus Deaton's critique of the efficacy of foreign aid, and other topics."</comments>
   </podcast>
   <podcast>
     <date>2026-01-06</date>
@@ -95,7 +107,7 @@
     <date>2025-11-20</date>
     <name url="https://peterattiamd.com/podcast/">The Peter Attia Drive Podcast</name>
     <episode url="https://peterattiamd.com/sallygreenwald/" number="371">Women's sexual health: desire, arousal, and orgasms, navigating perimenopause, and enhancing satisfaction | Sally Greenwald, M.D., M.P.H.</episode>
-    <comments>ChatGTP summary: "The conversation explores why sexual health is an essential component of overall health, longevity, emotional well-being, and relationship satisfaction. The guest, an OB-GYN specializing in women's sexual health, explains the physiology of female arousal and orgasm, the “orgasm gap,” and the major differences in desire patterns between men and women—especially spontaneous vs. responsive desire. She discusses how adequate foreplay, appropriate lubrication, and understanding clitoral anatomy dramatically improve comfort and orgasm likelihood for women. The episode also addresses the role of testosterone and estrogen in sexual desire, the importance of communication, and evidence-based methods (including vibrators, scheduling intimacy, and mindfulness) to enhance women's sexual satisfaction and relational harmony."</comments>
+    <comments>ChatGTP summary: "The conversation explores why sexual health is an essential component of overall health, longevity, emotional well-being, and relationship satisfaction. The guest, an OB-GYN specializing in women's sexual health, explains the physiology of female arousal and orgasm, the "orgasm gap," and the major differences in desire patterns between men and women—especially spontaneous vs. responsive desire. She discusses how adequate foreplay, appropriate lubrication, and understanding clitoral anatomy dramatically improve comfort and orgasm likelihood for women. The episode also addresses the role of testosterone and estrogen in sexual desire, the importance of communication, and evidence-based methods (including vibrators, scheduling intimacy, and mindfulness) to enhance women's sexual satisfaction and relational harmony."</comments>
   </podcast>
   <podcast>
     <date>2025-11-14</date>
@@ -119,7 +131,7 @@
     <date>2025-10-29</date>
     <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
     <episode url="https://www.samharris.org/podcasts/making-sense-episodes/440-a-world-in-crisis" number="440">A World in Crisis - A Conversation with Robert D. Kaplan</episode>
-    <comments>"Sam Harris speaks with Robert D. Kaplan about his new book, Waste Land: A World in Permanent Crisis. They discuss climate change, demographics, the primacy of order over freedom, why Russia is a country in decline, political extremism and the migration crisis in Europe and the UK, Israel's military successes, what the world could look like in the aftermath of the war in the Middle East, antisemitism on the left, how a war in the Pacific could cause a global economic catastrophe, whether the U.S. could win a war with China, President Biden's legacy, the pitfalls of globalization and social media, whether we can ever return to a “normal” America, and other topics."</comments>
+    <comments>"Sam Harris speaks with Robert D. Kaplan about his new book, Waste Land: A World in Permanent Crisis. They discuss climate change, demographics, the primacy of order over freedom, why Russia is a country in decline, political extremism and the migration crisis in Europe and the UK, Israel's military successes, what the world could look like in the aftermath of the war in the Middle East, antisemitism on the left, how a war in the Pacific could cause a global economic catastrophe, whether the U.S. could win a war with China, President Biden's legacy, the pitfalls of globalization and social media, whether we can ever return to a "normal" America, and other topics."</comments>
   </podcast>
   <podcast>
     <date>2025-10-25</date>
