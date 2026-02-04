@@ -3,6 +3,16 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Add rating to IMDb -->
   <movie>
+    <date>2026-02-04</date>
+    <theater home="true"/>
+    <director>Robin Hardy</director>
+    <title>The Wicker Man</title>
+    <url>https://www.imdb.com/title/tt0070917/</url>
+    <rating>4.5</rating>
+    <comments>It's difficult not to think that <i>Midsommar</i> was strongly inspired by <i>The Wicker Man</i>. <i>Midsommar</i> is a more shocking, darker film than <i>The Wicker Man</i>, which has a lighter, sometimes comedic side, at least until the final scenes.</comments>
+    <image>The Wicker Man.jpg</image>
+  </movie>
+  <movie>
     <date>2026-01-31</date>
     <theater home="true"/>
     <director>Mike Flanagan</director>
