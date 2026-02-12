@@ -2,10 +2,22 @@
 <podcasts created="2016-05-10">
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date>2026-02-10</date>
+    <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
+    <episode url="https://www.samharris.org/podcasts/making-sense-episodes/457-more-from-sam-the-epstein-files-the-newsom-factor-don-lemons-arrest-ai-market-disruption-and-more" number="457">More From Sam: The Epstein Files, The Newsom Factor, Don Lemon’s Arrest, AI Market Disruption, and More</episode>
+    <comments>"In this latest episode of the More From Sam series, Sam and Jaron talk about current events. They discuss Sam's unexpected appearance in the Epstein files, the revolting behavior of various public figures named, the political viability of Gavin Newsom in 2028, the wisdom of celebrity political statements, the societal implications of AI-driven job displacement, what makes Sam and his family laugh, and other topics."</comments>
+  </podcast>
+  <podcast>
+    <date>2026-02-10</date>
+    <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
+    <episode url="https://www.samharris.org/podcasts/making-sense-episodes/456-american-fascism" number="456">American Fascism - A Conversation with Jonathan Rauch</episode>
+    <comments>"Sam Harris speaks with Jonathan Rauch about the emergence of fascism in American politics. They discuss Rauch's article, "Yes, It's Fascism," the 18 criteria of fascism, the glorification and unapologetic use of state violence, "might is right" foreign policy, the politicization of law enforcement, the complicity of the rich and powerful, blood and soil nationalism, the influence of Carl Schmitt, the resilience of American institutions, and other topics."</comments>
+  </podcast>
+  <podcast>
     <date>2026-02-03</date>
     <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
     <episode url="https://www.samharris.org/podcasts/making-sense-episodes/455-more-from-sam-guns-propaganda-ai-and-power-unbound" number="455">More From Sam: Guns, Propaganda, AI, and Power Unbound</episode>
-    <comments>"In this latest episode of the More From Sam series, Sam and Jaron talk about current events. They discuss the killing of Alex Pretti in Minneapolis, the lack of outrage from gun culture, the escalating humanitarian crisis in Iran, Melania Trump’s pay-to-play documentary deal, the societal implications of AI-driven job displacement, the fascistic social media imagery of the Trump administration, Sam’s youthful misadventures with psychedelics in Muir Woods, and other topics."</comments>
+    <comments>"In this latest episode of the More From Sam series, Sam and Jaron talk about current events. They discuss the killing of Alex Pretti in Minneapolis, the lack of outrage from gun culture, the escalating humanitarian crisis in Iran, Melania Trump's pay-to-play documentary deal, the societal implications of AI-driven job displacement, the fascistic social media imagery of the Trump administration, Sam's youthful misadventures with psychedelics in Muir Woods, and other topics."</comments>
   </podcast>
   <podcast>
     <date>2026-02-02</date>
