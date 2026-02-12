@@ -3,6 +3,26 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Add rating to IMDb -->
   <movie>
+    <date>2026-02-12</date>
+    <theater home="true"/>
+    <director>Jim Abrahams, David Zucker &amp; Jerry Zucker</director>
+    <title>Airplane!</title>
+    <url>https://www.imdb.com/title/tt0080339/</url>
+    <rating>3.5</rating>
+    <comments>I vaguely remember seeing this in French when I was a child. I can't say I didn't smile several times, but this is just not my kind of humor.</comments>
+    <image>Airplane!.jpg</image>
+  </movie>
+  <movie>
+    <date>2026-02-09</date>
+    <theater home="true"/>
+    <director>David Lowery</director>
+    <title>A Ghost Story</title>
+    <url>https://www.imdb.com/title/tt6265828/</url>
+    <rating>4.5</rating>
+    <comments>The bedsheet/shroud gimmick is a bit off-putting at first. Then you get used to it. It's a very meditative film about grief and attachment. I see what it's trying to do. I'm just not sure it completely succeeds.</comments>
+    <image>A Ghost Story.jpg</image>
+  </movie>
+  <movie>
     <date>2026-02-04</date>
     <theater home="true"/>
     <director>Robin Hardy</director>
