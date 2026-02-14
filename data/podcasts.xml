@@ -2,9 +2,21 @@
 <podcasts created="2016-05-10">
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date>2026-02-14</date>
+    <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
+    <episode url="https://www.samharris.org/podcasts/making-sense-episodes/459-more-from-sam-corruption-immigration-the-end-of-white-collar-work-and-more" number="459">More From Sam: Corruption, Immigration, The End of White-Collar Work, and More</episode>
+    <comments>"In this latest episode of the More From Sam series, Sam and Jaron talk about current events. They discuss Trump's cryptocurrency dealings with the UAE and their national security implications, AI timelines and the looming end of white-collar work, the impact of Trump's immigration crackdown on U.S. population decline, potential U.S. military action in Iran, the end of the Minnesota ICE surge, the Bad Bunny Super Bowl halftime controversy, and other topics."</comments>
+  </podcast>
+  <podcast>
+    <date>2026-02-14</date>
+    <name url="https://www.youtube.com/@LeFuturologuePodcast">Le Futurologue Podcast</name>
+    <episode url="https://www.youtube.com/watch?v=IyMwJp7V2xA">L'IA en 2026 | 13 prédictions sur l'avenir</episode>
+    <comments>Pas de prédiction spécifique sur la perte d'emploi (pour le moment), mais quelques prédictions plus positives, sur l'augmentation des résistances sociales à l'IA, l'impact positif de l'IA sur la science, la prise en compte de l'IA en politique (on n'attend que ça !) et le "renforcement de l'écosystème de sécurité de l'IA". On est loin par contre de la prédiction récente de Mustafa Suleyman que tous les emplois de bureau ("white collar jobs") pourront être automatisés par des IA d'ici un an et demi.</comments>
+  </podcast>
+  <podcast>
     <date>2026-02-10</date>
     <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
-    <episode url="https://www.samharris.org/podcasts/making-sense-episodes/457-more-from-sam-the-epstein-files-the-newsom-factor-don-lemons-arrest-ai-market-disruption-and-more" number="457">More From Sam: The Epstein Files, The Newsom Factor, Don Lemon’s Arrest, AI Market Disruption, and More</episode>
+    <episode url="https://www.samharris.org/podcasts/making-sense-episodes/457-more-from-sam-the-epstein-files-the-newsom-factor-don-lemons-arrest-ai-market-disruption-and-more" number="457">More From Sam: The Epstein Files, The Newsom Factor, Don Lemon's Arrest, AI Market Disruption, and More</episode>
     <comments>"In this latest episode of the More From Sam series, Sam and Jaron talk about current events. They discuss Sam's unexpected appearance in the Epstein files, the revolting behavior of various public figures named, the political viability of Gavin Newsom in 2028, the wisdom of celebrity political statements, the societal implications of AI-driven job displacement, what makes Sam and his family laugh, and other topics."</comments>
   </podcast>
   <podcast>
