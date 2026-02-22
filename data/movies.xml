@@ -3,6 +3,16 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Add rating to IMDb -->
   <movie>
+    <date>2026-02-21</date>
+    <theater home="true"/>
+    <director>Louis Malle</director>
+    <title>Black Moon</title>
+    <url>https://www.imdb.com/title/tt0072709/</url>
+    <rating>3.75</rating>
+    <comments>My second Louis Malle feature film, after <i>Ascenseur pour l'échafaud</i>, and also my second film with Cathryn Harrison, who died "mysteriously" (no public announcement) in October 2018, years after her last movies. That was a hard watch. I see a connection with David Lynch (the dream-like themes, the surrealism, etc.), but it kind of goes nowhere in a way that David Lynch's films never do.</comments>
+    <image>Black Moon.jpg</image>
+  </movie>
+  <movie>
     <date>2026-02-14</date>
     <theater home="true"/>
     <director>Alain Chabat</director>
