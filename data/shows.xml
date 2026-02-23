@@ -8,7 +8,7 @@
     <comments></comments>
     <image>Bob's Burgers.jpg</image>
   </show> -->
-  <show>
+  <!-- <show>
     <date></date>
     <name url="https://en.wikipedia.org/wiki/Blackadder">Blackadder</name>
     <series url="https://en.wikipedia.org/wiki/The_Black_Adder" type="series">3</series>
@@ -20,6 +20,13 @@
     <name url="https://en.wikipedia.org/wiki/Dekalog">Dekalog</name>
     <comments></comments>
     <image>Dekalog.jpg</image>
+  </show> -->
+  <show>
+    <date>2026-01-14</date>
+    <name url="https://en.wikipedia.org/wiki/The_IT_Crowd">The IT Crowd</name>
+    <series url="https://en.wikipedia.org/wiki/List_of_The_IT_Crowd_episodes#Series_2_(2007)" type="series">2</series>
+    <comments>See first series.</comments>
+    <image>The IT Crowd.jpg</image>
   </show>
   <show>
     <date>2026-01-07</date>
