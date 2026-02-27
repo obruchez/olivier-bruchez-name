@@ -2,6 +2,24 @@
 
 My votes (in French). En Suisse, on ne plaisante pas avec la démocratie directe. :) J'essaie ici de documenter et de justifier la façon dont je me positionne par rapport aux votations fédérales, qui ont lieu jusqu'à quatre fois par année.
 
+## [Votation fédérale du 8 mars 2026](https://www.admin.ch/gov/fr/accueil/documentation/votations/20260308.html)
+
+### Acceptez-vous l’initiative populaire « Oui à une monnaie suisse libre et indépendante sous forme de pièces ou de billets  (l’argent liquide, c’est la liberté) » ?
+
+Non. Résultat : ? (?.?%).
+
+### Acceptez-vous l’initiative populaire « 200 francs, ça suffit ! (initiative SSR) » ?
+
+Non. Résultat : ? (?.?%).
+
+### Acceptez-vous l’initiative populaire « Pour une politique énergétique et climatique équitable : investir pour la prospérité, le travail et l’environnement (initiative pour un fonds climat) » ?
+
+Oui. Résultat : ? (?.?%).
+
+### Acceptez-vous la loi fédérale du 20 juin 2025 sur l’imposition individuelle ?
+
+Oui. Résultat : ? (?.?%).
+
 ## [Votation fédérale du 30 novembre 2025](https://www.bk.admin.ch/ch/f/pore/va/20251130/index.html)
 
 ### Initiative populaire « Pour une suisse qui s’engage (initiative service citoyen) »
