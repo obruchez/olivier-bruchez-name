@@ -2,6 +2,12 @@
 <podcasts created="2016-05-10">
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date>2026-02-24</date>
+    <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
+    <episode url="https://www.samharris.org/podcasts/making-sense-episodes/446-how-to-do-the-most-good" number="446">How to Do the Most Good - A Conversation with Michael Plant</episode>
+    <comments>I liked the part of the discussion about the conflict between the experiencing self and the remembering self. Life satisfaction leads us to compare ourselves with other people, etc. This is not necessarily good. We don't want to always live for the judging self. The moment-to-moment well-being is probably more important than life satisfaction at a few discrete points, i.e. the area under the curve is what's important.</comments>
+  </podcast>
+  <podcast>
     <date>2026-02-23</date>
     <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
     <episode url="https://www.samharris.org/podcasts/making-sense-episodes/458-the-bulwark-against-maga" number="458">The Bulwark Against MAGA - A Conversation with Sarah Longwell and Tim Miller</episode>
