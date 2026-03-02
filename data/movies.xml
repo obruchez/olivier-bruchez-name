@@ -3,6 +3,18 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Add rating to IMDb -->
   <movie>
+    <date>2026-03-01</date>
+    <theater home="true"/>
+    <director>Chris Columbus</director>
+    <title>Home Alone</title>
+    <title language="fr">Maman, j'ai raté l'avion !</title>
+    <version>fr</version>
+    <url>https://www.imdb.com/title/tt0099785/</url>
+    <rating>3.5</rating>
+    <comments>Mon fils a aimé, surtout les scènes avec les cambrioleurs.</comments>
+    <image>Home Alone.jpg</image>
+  </movie>
+  <movie>
     <date>2026-02-21</date>
     <theater home="true"/>
     <director>Louis Malle</director>
