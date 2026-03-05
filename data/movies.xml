@@ -3,6 +3,16 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Add rating to IMDb -->
   <movie>
+    <date>2026-03-05</date>
+    <theater home="true"/>
+    <director>Hal Ashby</director>
+    <title>Harold and Maude</title>
+    <url>https://www.imdb.com/title/tt0067185/</url>
+    <rating>4.5</rating>
+    <comments>It seems that Hal Ashby was a pretty uneven director, unfortunately. I wasn't convinced by <i>Being There</i>. <i>Harold and Maude</i> worked slightly better, for me at least.</comments>
+    <image>Harold and Maude.jpg</image>
+  </movie>
+  <movie>
     <date>2026-03-01</date>
     <theater home="true"/>
     <director>Chris Columbus</director>
