@@ -3,6 +3,17 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Add rating to IMDb -->
   <movie>
+    <date>2026-03-06</date>
+    <theater>Théâtre Barnabé, Servion</theater>
+    <director>Buster Keaton</director>
+    <title>Go West</title>
+    <title lang="fr">Ma vache et moi</title>
+    <url>https://www.imdb.com/title/tt0015863/</url>
+    <rating>4.75</rating>
+    <comments>Une projection vue avec notre fils, accompagnée par Guy-Baptiste Jaccottet à l'orgue (le plus grand orgue de cinéma d'Europe). Nous étions assis quelques mètres derrière Jean Dujardin et Sandrine Kiberlain. C'était mon troisième film de Buster Keaton. Comme je l'écrivais déjà en 2020 : il faut que je regarde plus de ses films.</comments>
+    <image>Go West.jpg</image>
+  </movie>
+  <movie>
     <date>2026-03-05</date>
     <theater home="true"/>
     <director>Hal Ashby</director>
