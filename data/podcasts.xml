@@ -2,6 +2,18 @@
 <podcasts created="2016-05-10">
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date>2026-03-06</date>
+    <name url="https://www.dwarkeshpatel.com/">Dwarkesh Podcast</name>
+    <episode url="https://www.dwarkesh.com/p/dario-amodei-2">Dario Amodei — "We are near the end of the exponential"</episode>
+    <comments>I heard a CEO talk to his investors. A lot of hunches and back-of-the-envelope calculations. "AGI is coming", but, unless I'm missing something, I haven't heard Amodei talk about what a post-AGI society would look like. In such a society, Anthropic will make a lot of money, apparently (so the investors will be happy), but what will people do? People without a job, I mean? How is the economy supposed to work? What about software engineers in particular (Anthropic's current customers)? This is not serious. Unless, again, I'm missing something.</comments>
+  </podcast>
+  <podcast>
+    <date>2026-03-03</date>
+    <name url="https://changelog.com/podcast">The Changelog</name>
+    <episode url="https://changelog.com/podcast/678" number="678">Opus 4.5 changed everything (Interview)</episode>
+    <comments>It's hard not to accept the idea that Anthropic's latest models are really impressive. "Code has become cheap": it's easy to vibe-code, but still hard to actually ship and write good code that you understand and will be able to maintain. I agree that Claude Code, etc. will lead to developers learning more stuff. It lowers the barrier to entry for many technologies and concepts.</comments>
+  </podcast>
+  <podcast>
     <date>2026-02-24</date>
     <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
     <episode url="https://www.samharris.org/podcasts/making-sense-episodes/446-how-to-do-the-most-good" number="446">How to Do the Most Good - A Conversation with Michael Plant</episode>
