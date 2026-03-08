@@ -9,6 +9,26 @@
     <actor></actor>
   -->
   <play>
+    <date>2026-03-08</date>
+    <location>Pulloff Théâtres, Lausanne, Switzerland</location>
+    <name>Petits crimes conjugaux</name>
+    <author>Eric-Emmanuel Schmitt</author>
+    <director>Anne-Marie Delbart</director>
+    <actor>Jacques Maitre</actor>
+    <actor>Pascale Vachoux</actor>
+    <rating>4.75</rating>
+    <comments>Notre première pièce au Pulloff depuis presque une année. Une pièce très prenante sur le couple, son usure, ce que nous cherchons chez notre partenaire, etc.</comments>
+    <image>Petits crimes conjugaux.jpg</image>
+    <!--
+	Lumières : Jean-Michel Carrat
+Scénographie : Claire Peverelli
+Création sonore : Bruno Dias
+Costumes : Anne-Marie Delbart
+Maquillage : Arnaud Buchs
+Administration : Beatrice Cazorla
+    -->
+  </play>
+  <play>
     <date>2025-12-14</date>
     <location>Petit Théâtre, Lausanne, Switzerland</location>
     <name>Brocéliande</name>
