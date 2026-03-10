@@ -2,6 +2,18 @@
 <podcasts created="2016-05-10">
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date>2026-03-10</date>
+    <name url="https://www.arteradio.com/emission/vivons-heureux-avant-la-fin-du-monde">Vivons heureux avant la fin du monde : des idées pour repenser nos modèles de société</name>
+    <episode url="https://www.arteradio.com/son/qu-est-ce-qui-pourrait-sauver-le-couple">Qu’est-ce qui pourrait sauver le couple ?</episode>
+    <comments>"Tout couple est une voiture d’occasion que l'on passe sa vie à réparer."</comments>
+  </podcast>
+  <podcast>
+    <date>2026-03-10</date>
+    <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
+    <episode url="https://www.samharris.org/podcasts/making-sense-episodes/462-more-from-sam-the-iran-war-american-amorality-tucker-carlson-and-more" number="462">More From Sam: The Iran War, American Amorality, Addressing Hopelessness, Tucker, and More</episode>
+    <comments>"In this latest episode of the More From Sam series, Sam and Jaron talk about current events. They discuss whether the U.S. was right to take military action against Iran, the new era of American amorality, antisemitism on the left and right, Tucker Carlson's provocative interview with Mike Huckabee, navigating feelings of hopelessness and dread, the dangers and promise of psychedelics, the corrosive effects of social media on culture and politics, and other topics."</comments>
+  </podcast>
+  <podcast>
     <date>2026-03-06</date>
     <name url="https://www.dwarkeshpatel.com/">Dwarkesh Podcast</name>
     <episode url="https://www.dwarkesh.com/p/dario-amodei-2">Dario Amodei — "We are near the end of the exponential"</episode>
