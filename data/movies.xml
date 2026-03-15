@@ -3,6 +3,16 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Add rating to IMDb -->
   <movie>
+    <date>2026-03-15</date>
+    <theater>Vortex, Lausanne</theater>
+    <director>Marcel Barelli</director>
+    <title>Mary Anning</title>
+    <url>https://www.imdb.com/title/tt36639995/</url>
+    <rating>4.5</rating>
+    <comments>Un film d'animation de fiction inspiré par la vie de Mary Anning, paléontologue autodidacte britannique. Le film était suivi d'une discussion autour du film, puis d'un atelier à propos de la paléontologie. Avec de vrais fossiles, bien sûr !</comments>
+    <image>Mary Anning.jpg</image>
+  </movie>
+  <movie>
     <date>2026-03-06</date>
     <theater>Théâtre Barnabé, Servion</theater>
     <director>Buster Keaton</director>
