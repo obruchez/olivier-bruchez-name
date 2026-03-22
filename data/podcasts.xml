@@ -2,6 +2,12 @@
 <podcasts created="2016-05-10">
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date>2026-03-20</date>
+    <name url="https://80000hours.org/podcast/">80,000 Hours Podcast</name>
+    <episode url="https://80000hours.org/podcast/episodes/agi-timelines-in-2025/">What the hell happened with AGI timelines in 2025?</episode>
+    <comments>In early 2025, predictions for AGI were very short. In late 2025, they became longer. That's in part because reasoning models brought a huge increase in performances, rapidly, but then hit a plateau. Reinforcement learning (RL) is very inefficient and compute-intensive. We still don't know how to make models learn continuously. So AI progress is real, but slower than expected just one year ago. We need new breakthroughs, which will be probably found. We just don't know when.</comments>
+  </podcast>
+  <podcast>
     <date>2026-03-17</date>
     <name url="https://www.arteradio.com/emission/vivons-heureux-avant-la-fin-du-monde">Vivons heureux avant la fin du monde : des idées pour repenser nos modèles de société</name>
     <episode url="https://www.arteradio.com/son/61682153/alcool_nous_avons_un_probleme">Alcool, nous avons un problème</episode>
