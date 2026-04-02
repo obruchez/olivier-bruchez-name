@@ -2,6 +2,24 @@
 <podcasts created="2016-05-10">
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date>2026-03-31</date>
+    <name url="https://www.alexoconnor.com/">Within Reason</name>
+    <episode url="https://www.alexoconnor.com/p/atheist-spirituality-with-sam-harris" number="144">Sam Harris - Spirituality for Atheists</episode>
+    <comments>I liked the discussion about consciousness. I'm more and more convinced we will never get to an intuitive explanation of how it works. I hope I'm wrong, though.</comments>
+  </podcast>
+  <podcast>
+    <date>2026-03-24</date>
+    <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
+    <episode url="https://www.samharris.org/podcasts/making-sense-episodes/465-more-from-sam-iran-jihadism-conspiracism-ai-disruption-the-manosphere-and-more" number="465">More From Sam: Iran, Jihadism, Conspiracism, AI Disruption, the Manosphere, and More</episode>
+    <comments>"In this latest episode of the More From Sam series, Sam and Jaron talk about current events. They discuss the Iran war and the Trump administration's shambolic messaging, antisemitism and moral confusion on the left and right, the spread of conspiracism, finding contentment in uncertain times, AI's looming disruption of white-collar work, wealth inequality and the ultra-rich's failures of philanthropy, Louis Theroux's documentary on the manosphere, and other topics."</comments>
+  </podcast>
+  <podcast>
+    <date>2026-03-24</date>
+    <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
+    <episode url="https://www.samharris.org/podcasts/making-sense-episodes/464-the-politics-of-pragmatism-and-the-future-of-california" number="464">The Politics of Pragmatism and the Future of California - A Conversation with Matt Mahan</episode>
+    <comments>Matt Mahan sounds like a very nice guy (for a politician).</comments>
+  </podcast>
+  <podcast>
     <date>2026-03-20</date>
     <name url="https://80000hours.org/podcast/">80,000 Hours Podcast</name>
     <episode url="https://80000hours.org/podcast/episodes/agi-timelines-in-2025/">What the hell happened with AGI timelines in 2025?</episode>
@@ -34,8 +52,8 @@
   <podcast>
     <date>2026-03-10</date>
     <name url="https://www.arteradio.com/emission/vivons-heureux-avant-la-fin-du-monde">Vivons heureux avant la fin du monde : des idées pour repenser nos modèles de société</name>
-    <episode url="https://www.arteradio.com/son/qu-est-ce-qui-pourrait-sauver-le-couple">Qu’est-ce qui pourrait sauver le couple ?</episode>
-    <comments>"Tout couple est une voiture d’occasion que l'on passe sa vie à réparer."</comments>
+    <episode url="https://www.arteradio.com/son/qu-est-ce-qui-pourrait-sauver-le-couple">Qu'est-ce qui pourrait sauver le couple ?</episode>
+    <comments>"Tout couple est une voiture d'occasion que l'on passe sa vie à réparer."</comments>
   </podcast>
   <podcast>
     <date>2026-03-10</date>
