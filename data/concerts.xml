@@ -7,6 +7,37 @@
   -->
   <introduction>A list of concerts I went to.</introduction>
   <concert>
+    <date>2026-04-11</date>
+    <location>Chapiteau, Cully, Switzerland</location>
+    <event>Cully Jazz Festival</event>
+    <group>The Bad Plus Potter Taborn</group>
+    <musician inst="saxophone">Chris Potter</musician>
+    <musician inst="piano">Craig Taborn</musician>
+    <musician inst="double bass">Reid Anderson</musician>
+    <musician inst="drums">Dave King</musician>
+    <rating>5.0</rating>
+    <comments>I agree with Reid Anderson that Keith Jarrett's American Quartet was a great band. That was a fun concert, a bit too short.</comments>
+  </concert>
+  <concert>
+    <date>2026-04-11</date>
+    <location>Chapiteau, Cully, Switzerland</location>
+    <event>Cully Jazz Festival</event>
+    <group>CJO plays Victor Decamp</group>
+    <musician inst="trombone, composition" main="true">Victor Decamp</musician>
+    <musician inst="alto and soprano saxophone">Marina Iten</musician>
+    <musician inst="tenor saxophone, flute">Marco Karrer</musician>
+    <musician inst="baritone saxophone, bass clarinet, flute">Xavier Sprunger</musician>
+    <musician inst="trumpet, flugelhorn">Felix Grandjean</musician>
+    <musician inst="trumpet, flugelhorn">Lukas Kohler</musician>
+    <musician inst="bass trombone">Benjamin Szilágyi</musician>
+    <musician inst="piano">Daniel Hernandez</musician>
+    <musician inst="percussions, vibraphone">Jonathan Salvi</musician>
+    <musician inst="drums">Michael Cina</musician>
+    <musician inst="double bass">Emilio Giovanoli</musician>
+    <rating>4.0</rating>
+    <comments>It was a quality concert, but a little clinical, shall we say.</comments>
+  </concert>
+  <concert>
     <date>2025-12-21</date>
     <location>Opéra de Lausanne, Lausanne, Switzerland</location>
     <event><i>Barbe-Bleue</i> opera</event>
