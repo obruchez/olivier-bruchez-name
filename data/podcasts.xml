@@ -2,6 +2,18 @@
 <podcasts created="2016-05-10">
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date>2026-04-18</date>
+    <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
+    <episode url="https://www.samharris.org/podcasts/making-sense-episodes/468-more-from-sam-gratitude-bad-conversations-conspiracy-addiction-waffle-house-teleportation-and-more" number="468">More From Sam: Gratitude, Bad Conversations, Conspiracy Addiction, Waffle House Teleportation, and More</episode>
+    <comments>"In this latest episode of the More From Sam series, Sam and Jaron talk about current events. They discuss how to cultivate gratitude and navigate anxiety in uncertain times, the role of mindfulness in coping with AI-driven job displacement, the slowing of religious decline in America, a FEMA official's claim that he teleported to a Waffle House, the irresponsibility of conspiracy-fueled podcasting, Sam on which conversations are worth having, and other topics."</comments>
+  </podcast>
+  <podcast>
+    <date>2026-04-09</date>
+    <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
+    <episode url="https://www.samharris.org/podcasts/making-sense-episodes/467-ea-ai-and-the-end-of-work" number="467">EA, AI, and the End of Work - A Conversation with William MacAskill</episode>
+    <comments>"Sam Harris speaks with William MacAskill about effective altruism, AI, and the future of humanity. They discuss the post-FTX recovery of the EA movement, global health and pandemic preparedness, the limits of quantifiable ethics, the intelligence explosion, risks of concentrated AI power, what a post-scarcity world might look like, and other topics."</comments>
+  </podcast>
+  <podcast>
     <date>2026-03-31</date>
     <name url="https://www.alexoconnor.com/">Within Reason</name>
     <episode url="https://www.alexoconnor.com/p/atheist-spirituality-with-sam-harris" number="144">Sam Harris - Spirituality for Atheists</episode>
