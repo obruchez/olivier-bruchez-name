@@ -23,8 +23,22 @@
   </show>
   <show>
     <date></date>
+    <name url="https://en.wikipedia.org/wiki/The_Good_Place">The Good Place</name>
+    <series url="https://en.wikipedia.org/wiki/The_Good_Place_season_2" type="season">2</series>
+    <comments></comments>
+    <image>The Good Place.jpg</image>
+  </show>
+  <show>
+    <date></date>
+    <name url="https://en.wikipedia.org/wiki/The_IT_Crowd">The IT Crowd</name>
+    <series url="https://en.wikipedia.org/wiki/List_of_The_IT_Crowd_episodes#Series_4_(2010)" type="series">4</series>
+    <comments></comments>
+    <image>The IT Crowd.jpg</image>
+  </show>
+  <show>
+    <date></date>
     <name url="https://en.wikipedia.org/wiki/Northern_Exposure">Northern Exposure</name>
-    <series url="https://en.wikipedia.org/wiki/List_of_Northern_Exposure_episodes#Season_2_(1991)" type="season">2</series>
+    <series url="https://en.wikipedia.org/wiki/List_of_Northern_Exposure_episodes#Season_3_(1991%E2%80%9392)" type="season">3</series>
     <comments></comments>
     <image>Northern Exposure.jpg</image>
   </show>
@@ -36,11 +50,11 @@
     <image>Parks and Recreation.jpg</image>
   </show>
   <show>
-    <date></date>
-    <name url="https://en.wikipedia.org/wiki/The_Good_Place">The Good Place</name>
-    <series url="https://en.wikipedia.org/wiki/The_Good_Place_season_2" type="season">2</series>
-    <comments></comments>
-    <image>The Good Place.jpg</image>
+    <date>2026-04-14</date>
+    <name url="https://en.wikipedia.org/wiki/Northern_Exposure">Northern Exposure</name>
+    <series url="https://en.wikipedia.org/wiki/List_of_Northern_Exposure_episodes#Season_2_(1991)" type="season">2</series>
+    <comments>Not your typical show. Sometimes over the top. Most often charming.</comments>
+    <image>Northern Exposure.jpg</image>
   </show>
   <show>
     <date>2026-04-12</date>
