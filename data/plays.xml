@@ -9,6 +9,40 @@
     <actor></actor>
   -->
   <play>
+    <date>2026-04-26</date>
+    <location>Théâtre Barnabé, Servion, Switzerland</location>
+    <name>Le grand concert de Broadway</name>
+    <director>Noam Perakis</director>
+    <director>Gilles Guenat</director>
+    <actor>Tyssa</actor>
+    <actor>Faustine Jenny</actor>
+    <actor>Tania Zoppi</actor>
+    <actor>Céline Rey</actor>
+    <actor>Tristan Giovanoli</actor>
+    <actor>Joël Ingargiola</actor>
+    <actor>Kim Nicolas</actor>
+    <actor>Gilles Guenat</actor>
+    <actor>Noam Perakis</actor>
+    <actor>Wassila Benaïssa</actor>
+    <actor>Stéphane Rudaz</actor>
+    <actor>Victor Dantas</actor>
+    <actor>Maxence Marmy</actor>
+    <rating>4.5</rating>
+    <comments>Pas toujours ma tasse de thé (les comédies musicales en général), mais il y avait vraiment de très bonnes choses.</comments>
+    <image>Le grand concert de Broadway.jpg</image>
+    <!--
+	Direction Noam Perakis et Gilles Guenat
+	Direction des chœurs Céline Rey
+	Direction musicale Vincent Kessi et Olivier Kessi
+	Création lumières et direction technique Philippe Schnider
+	Son Benoît Boulian
+	Plateau Florian Zaramella et Sylvain Geinoz
+	Costumes Elodie Belin
+	Orchestre Maxime Alliot, Allan Broomfield, Elena Califano et autres (16 musiciens)
+	Production Théâtre Barnabé — Spectacle pour les 20 ans de la Compagnie Broadway, voyage musical à travers les classiques (West Side Story, Chicago, Moulin Rouge, The Phantom of the Opera, Jesus Christ Superstar, Hollywood, etc.)
+    -->
+  </play>
+  <play>
     <date>2026-03-08</date>
     <location>Pulloff Théâtres, Lausanne, Switzerland</location>
     <name>Petits crimes conjugaux</name>
