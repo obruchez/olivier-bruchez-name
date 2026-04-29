@@ -2,6 +2,13 @@
 <trips created="2008-02-26">
   <introduction>A list of trips I took.</introduction>
   <trip>
+    <from>2026-04-13</from>
+    <to>2026-04-17</to>
+    <place>Tyrol, Austria</place>
+    <!-- <pictures url=""/> -->
+    <comments>We stayed 4 nights at the Aqua Dome in Oberlängenfeld, which we loved (nice hotel and baths, fantastic food). After a few days, we realized that we already went to the Aqua Dome back in 2011! We also went to the Neuschwanstein Castle.</comments>
+  </trip>
+  <trip>
     <from>2026-01-16</from>
     <to>2026-01-18</to>
     <place>Basel, Switzerland</place>
