@@ -2,6 +2,12 @@
 <podcasts created="2016-05-10">
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date>2026-04-28</date>
+    <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
+    <episode url="https://www.samharris.org/podcasts/making-sense-episodes/469-escaping-an-anti-human-future" number="469">Escaping an Anti-Human Future - A Conversation with Tristan Harris</episode>
+    <comments>"Sam Harris speaks with Tristan Harris about the dangers of AI and the race to build it. They discuss the new documentary The AI Doc: Or How I Became an Apocaloptimist, the lessons of The Social Dilemma, the arms race dynamics between AI labs, the "intelligence curse" and its implications for human political power, the psychology of tech CEOs indifferent to extinction risk, the possibilities of US-China coordination on AI safety, and other topics."</comments>
+  </podcast>
+  <podcast>
     <date>2026-04-18</date>
     <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
     <episode url="https://www.samharris.org/podcasts/making-sense-episodes/468-more-from-sam-gratitude-bad-conversations-conspiracy-addiction-waffle-house-teleportation-and-more" number="468">More From Sam: Gratitude, Bad Conversations, Conspiracy Addiction, Waffle House Teleportation, and More</episode>
