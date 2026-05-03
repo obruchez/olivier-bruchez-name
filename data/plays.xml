@@ -9,6 +9,38 @@
     <actor></actor>
   -->
   <play>
+    <date>2026-05-03</date>
+    <location>Petit Théâtre, Lausanne, Switzerland</location>
+    <name>Moustique</name>
+    <author>Fabien Arca</author>
+    <director>Cédric Dorier</director>
+    <actor>René-Claude Emery</actor>
+    <actor>Pascal Hunziker</actor>
+    <actor>Anne-Sophie Rohr Cettou</actor>
+    <actor>Lucas Savioz</actor>
+    <actor>Mathilde Soutter</actor>
+    <rating>4.5</rating>
+    <comments>Une pièce abordant des idées plus difficiles, de manière parfois un peu "cash", tels que les relations difficiles entre parents et enfants, l'adolescence, l'homosexualité, la mort, etc.</comments>
+    <image>Moustique.jpg</image>
+    <!--
+	Création–coproduction Cie Les Célébrants et Le Petit Théâtre de Lausanne
+	Texte Fabien Arca
+	Mise en scène Cédric Dorier
+	Assistanat mise en scène Lucas Savioz
+	Scénographie Cédric Dorier accompagné de Gilbert Maire
+	Chorégraphie Judith Desse
+	Lumière Jonas Bühler
+	Son et musique David Scrufari
+	Costumes Irène Schlatter
+	Maquillage et coiffure Katrine Zingg
+	Construction Christophe Reichel
+	Peinture Frédéric Baudoin
+	Régie Théo Serez
+	Photo © Philippe Pache
+	Spectacle pour enfants dès 7 ans, durée environ 60 min
+    -->
+  </play>
+  <play>
     <date>2026-04-26</date>
     <location>Théâtre Barnabé, Servion, Switzerland</location>
     <name>Le grand concert de Broadway</name>
