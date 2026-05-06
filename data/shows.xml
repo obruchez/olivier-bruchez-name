@@ -24,7 +24,7 @@
   <show>
     <date></date>
     <name url="https://en.wikipedia.org/wiki/The_Good_Place">The Good Place</name>
-    <series url="https://en.wikipedia.org/wiki/The_Good_Place_season_2" type="season">2</series>
+    <series url="https://en.wikipedia.org/wiki/The_Good_Place_season_3" type="season">3</series>
     <comments></comments>
     <image>The Good Place.jpg</image>
   </show>
@@ -41,6 +41,13 @@
     <series url="https://en.wikipedia.org/wiki/Parks_and_Recreation_season_1" type="season">1</series>
     <comments></comments>
     <image>Parks and Recreation.jpg</image>
+  </show>
+  <show>
+    <date>2026-05-05</date>
+    <name url="https://en.wikipedia.org/wiki/The_Good_Place">The Good Place</name>
+    <series url="https://en.wikipedia.org/wiki/The_Good_Place_season_2" type="season">2</series>
+    <comments>A season full of twists and turns.</comments>
+    <image>The Good Place.jpg</image>
   </show>
   <show>
     <date>2026-05-04</date>
