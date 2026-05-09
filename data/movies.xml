@@ -3,6 +3,16 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Add rating to IMDb -->
   <movie>
+    <date>2026-05-09</date>
+    <theater home="true"/>
+    <director>Alfonso Cuarón</director>
+    <title>Children of Men</title>
+    <url>https://www.imdb.com/title/tt0206634/</url>
+    <rating>4.0</rating>
+    <comments>A film I didn't connect with at all. I had to force myself to finish it. A bit disappointing, given that it's rather highly rated.</comments>
+    <image>Children of Men.jpg</image>
+  </movie>
+  <movie>
     <date>2026-03-15</date>
     <theater>Vortex, Lausanne</theater>
     <director>Marcel Barelli</director>
