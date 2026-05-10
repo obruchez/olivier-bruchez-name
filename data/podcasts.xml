@@ -2,6 +2,12 @@
 <podcasts created="2016-05-10">
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date>2026-05-10</date>
+    <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
+    <episode url="https://www.samharris.org/podcasts/making-sense-episodes/466-what-is-technology-doing-to-us" number="466">What Is Technology Doing to Us? - A Conversation with Nicholas Christakis</episode>
+    <comments>"Sam Harris speaks with Nicholas Christakis about technology, society, and human nature. They discuss the harms of modern communication technology, polarization and anomie, how AI agents can improve human cooperation, the social implications of humanoid robots, Christakis's experience at the center of the woke moral panic at Yale, the Trump administration's assault on American universities and science, the collapse of public trust in institutions, and other topics."</comments>
+  </podcast>
+  <podcast>
     <date>2026-05-05</date>
     <name url="https://stevenbartlett.com/doac/">The Diary Of A CEO with Steven Bartlett</name>
     <episode url="https://open.spotify.com/episode/0xS39qL3VwpPRBdSCxDinl">Sex Scientist: Phone Addiction Is Killing Your Sex Life More Than Porn! - Dr Rena Malik</episode>
