@@ -2,6 +2,12 @@
 <podcasts created="2016-05-10">
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date>2026-05-11</date>
+    <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
+    <episode url="https://www.samharris.org/podcasts/making-sense-episodes/474-hasan-piker-islamism-making-sense-community-and-more" number="474">More From Sam: Hasan Piker, Islamism, Making Sense Community, and More</episode>
+    <comments>"In this latest episode of the More From Sam series, Sam and Jaron talk about current events. They discuss the launch of Making Sense Community, Sam's Ben Shapiro conversation, the New York Times's embrace of Hasan Piker, Zohran Mamdani's approach to Islamism, the misuse of the word "genocide," AI-driven job displacement, and other topics."</comments>
+  </podcast>
+  <podcast>
     <date>2026-05-10</date>
     <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
     <episode url="https://www.samharris.org/podcasts/making-sense-episodes/466-what-is-technology-doing-to-us" number="466">What Is Technology Doing to Us? - A Conversation with Nicholas Christakis</episode>
