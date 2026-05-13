@@ -3,6 +3,18 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Add rating to IMDb -->
   <movie>
+    <date>2026-05-13</date>
+    <theater home="true"/>
+    <director>Chris Columbus</director>
+    <title>Harry Potter and the Chamber of Secrets</title>
+    <title language="fr">Harry Potter et la Chambre des secrets</title>
+    <version>fr</version>
+    <url>https://www.imdb.com/title/tt0295297/</url>
+    <rating>4.5</rating>
+    <comments>Six months after the first Harry Potter movie, we watched the second one, after finishing the book with our 8-year-old son.</comments>
+    <image>Harry Potter and the Chamber of Secrets.jpg</image>
+  </movie>
+  <movie>
     <date>2026-05-09</date>
     <theater home="true"/>
     <director>Alfonso Cuarón</director>
@@ -9927,8 +9939,12 @@
   </movie>
   <movie>
     <date>2002-12-13</date>
-    <title>Harry Potter Et La Chambre Secrète</title>
+    <director>Chris Columbus</director>
+    <title>Harry Potter and the Chamber of Secrets</title>
+    <title language="fr">Harry Potter et la Chambre des secrets</title>
     <version>fr</version>
+    <url>https://www.imdb.com/title/tt0295297/</url>
+    <image>Harry Potter and the Chamber of Secrets.jpg</image>
   </movie>
   <movie>
     <date>2002-12-11</date>
