@@ -3,6 +3,15 @@
 <exhibitions created="2011-05-17">
     <introduction>A list of exhibitions I visited.</introduction>
     <exhibition>
+        <date>2026-05-15</date>
+        <name>Isao Takahata</name>
+        <museum>Museum of Contemporary Design and Applied Arts (MUDAC), Lausanne, Switzerland</museum>
+        <rating>5.0</rating>
+        <comments>I wasn't expecting such an impressive exhibition, with so many original documents and drawings. I'm not very familiar with Takahata's work, apart from <i>Grave of the Fireflies</i>, but it makes me want to discover more.</comments>
+        <image>Isao Takahata.jpg</image>
+        <!-- <pictures url=""/> -->
+    </exhibition>
+    <exhibition>
         <date>2026-01-18</date>
         <name>Yayoi Kusama</name>
         <museum>Fondation Beyeler, Riehen, Switzerland</museum>
