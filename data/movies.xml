@@ -3,6 +3,18 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Add rating to IMDb -->
   <movie>
+    <date>2026-05-15</date>
+    <theater>Pathé Flon, Lausanne</theater>
+    <director>Daniel Chong</director>
+    <title>Hoppers</title>
+    <title language="fr">Jumpers</title>
+    <version>fr</version>
+    <url>https://www.imdb.com/title/tt26443616/</url>
+    <rating>4.5</rating>
+    <comments>A good Pixar movie. Nothing exceptional. It's supposed to make you laugh and cry, and it's quite successful in that regard.</comments>
+    <image>Hoppers.jpg</image>
+  </movie>
+  <movie>
     <date>2026-05-13</date>
     <theater home="true"/>
     <director>Chris Columbus</director>
