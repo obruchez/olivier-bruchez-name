@@ -3,6 +3,12 @@
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
     <date>2026-05-19</date>
+    <name url="https://radiolab.org/">Radiolab</name>
+    <episode url="https://radiolab.org/podcast/91725-words">Words</episode>
+    <comments>Fascinating. It seems that language really enables higher-level concepts, reasoning, complex thoughts, etc. This is an episode from 2010, but listening to it in 2026, when LLMs are now part of our lives, is especially interesting, because a lot of people probably tend to underestimate the power of language when it comes to intelligence.</comments>
+  </podcast>
+  <podcast>
+    <date>2026-05-19</date>
     <name url="https://podcast.ausha.co/violet">Violet - Le Podcast sur Prince et le Minneapolis Sound</name>
     <episode url="https://podcast.ausha.co/violet/piano-a-microphone-l-ultime-tournee">Piano &amp; A Microphone : l'ultime tournée</episode>
     <comments>Un épisode plein d'émotions. 10 ans plus tard, je n'ai toujours pas accordé le temps qu'elle mériterait à la dernière tournée de Prince. Quelque part, je crois que j'attends toujours une publication officielle, qui risque malheureusement encore de se faire attendre longtemps...</comments>
