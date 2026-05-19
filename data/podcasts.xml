@@ -2,6 +2,12 @@
 <podcasts created="2016-05-10">
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date>2026-05-19</date>
+    <name url="https://podcast.ausha.co/violet">Violet - Le Podcast sur Prince et le Minneapolis Sound</name>
+    <episode url="https://podcast.ausha.co/violet/piano-a-microphone-l-ultime-tournee">Piano &amp; A Microphone : l'ultime tournée</episode>
+    <comments>Un épisode plein d'émotions. 10 ans plus tard, je n'ai toujours pas accordé le temps qu'elle mériterait à la dernière tournée de Prince. Quelque part, je crois que j'attends toujours une publication officielle, qui risque malheureusement encore de se faire attendre longtemps...</comments>
+  </podcast>
+  <podcast>
     <date>2026-05-11</date>
     <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
     <episode url="https://www.samharris.org/podcasts/making-sense-episodes/474-hasan-piker-islamism-making-sense-community-and-more" number="474">More From Sam: Hasan Piker, Islamism, Making Sense Community, and More</episode>
