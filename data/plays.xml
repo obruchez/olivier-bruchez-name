@@ -9,6 +9,20 @@
     <actor></actor>
   -->
   <play>
+    <date>2026-05-24</date>
+    <location>Théâtre Mogador, Paris, France</location>
+    <name>Le Roi Lion</name>
+    <author>Roger Allers</author>
+    <author>Irene Mecchi</author>
+    <director>Julie Taymor</director>
+    <actor>Olivier Breitman</actor>
+    <actor>Phindile Ndlovu</actor>
+    <actor>Jo Neyja</actor>
+    <rating>5.25</rating>
+    <comments>That was a lot of fun! My wife and I saw the <i>Lion King</i> musical in London in 2007. This French version is well done. The body puppets, masks, and costumes were impressive.</comments>
+    <image>Le Roi Lion.jpg</image>
+  </play>
+  <play>
     <date>2026-05-03</date>
     <location>Petit Théâtre, Lausanne, Switzerland</location>
     <name>Moustique</name>
