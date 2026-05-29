@@ -2,6 +2,12 @@
 <trips created="2008-02-26">
   <introduction>A list of trips I took.</introduction>
   <trip>
+    <from>2026-05-22</from>
+    <to>2026-05-25</to>
+    <place>Paris, France</place>
+    <comments>My first trip to Paris in 17 years. We visited a few tourist hotspots (Montmartre, Sacré-Coeur, Notre-Dame). I think I took a bateau-mouche for the first time in my life. We also visited the Lee Miller exhibit at the Musée d'Art Moderne and saw <i>Le Roi Lion</i> at the Théâtre Mogador.</comments>
+  </trip>
+  <trip>
     <from>2026-04-13</from>
     <to>2026-04-17</to>
     <place>Tyrol, Austria</place>
