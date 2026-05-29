@@ -2,6 +2,18 @@
 <podcasts created="2016-05-10">
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date>2026-05-26</date>
+    <name url="https://www.humanetech.com/podcast">Your Undivided Attention</name>
+    <episode url="https://www.humanetech.com/podcast/attachment-hacking-and-the-rise-of-ai-psychosis" number="124">Attachment Hacking and the Rise of AI Psychosis</episode>
+    <comments>"Therapy and companionship has become the #1 use case for AI, with millions worldwide sharing their innermost thoughts with AI systems — often things they wouldn't tell loved ones or human therapists. This mass experiment in human-computer interaction is already showing extremely concerning results: people are losing their grip on reality, leading to lost jobs, divorce, involuntary commitment to psychiatric wards, and in extreme cases, death by suicide."</comments>
+  </podcast>
+  <podcast>
+    <date>2026-05-26</date>
+    <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
+    <episode url="https://www.samharris.org/podcasts/making-sense-episodes/476-the-bittersweet-age" number="476">The Bittersweet Age - A Conversation with Susan Cain</episode>
+    <comments>"Sam Harris speaks with Susan Cain about writing, creativity, and what AI means for human culture. They discuss the future of books and reading, the tells that AI inherits from good writers, why the advent of AI may spark a revival of the humanities, following your bliss, the ethics of curing sadness, the therapeutic potential of psychedelics, and other topics." I'm regularly amazed by the fact that music is so unimportant to Sam. I couldn't live without it (figuratively, of course).</comments>
+  </podcast>
+  <podcast>
     <date>2026-05-19</date>
     <name url="https://radiolab.org/">Radiolab</name>
     <episode url="https://radiolab.org/podcast/91725-words">Words</episode>
