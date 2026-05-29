@@ -3,13 +3,21 @@
 <exhibitions created="2011-05-17">
     <introduction>A list of exhibitions I visited.</introduction>
     <exhibition>
+        <date>2026-05-24</date>
+        <name>Lee Miller</name>
+        <museum>Musée d'Art Moderne de Paris (MAM), Paris, France</museum>
+        <rating>4.5</rating>
+        <comments>Not quite my usual taste, but I didn't know Lee Miller, and it was nice discovering her work.</comments>
+        <image>Lee Miller.jpg</image>
+        <!-- <pictures url=""/> -->
+    </exhibition>
+    <exhibition>
         <date>2026-05-15</date>
         <name>Isao Takahata</name>
         <museum>Museum of Contemporary Design and Applied Arts (MUDAC), Lausanne, Switzerland</museum>
         <rating>5.0</rating>
         <comments>I wasn't expecting such an impressive exhibition, with so many original documents and drawings. I'm not very familiar with Takahata's work, apart from <i>Grave of the Fireflies</i>, but it makes me want to discover more.</comments>
         <image>Isao Takahata.jpg</image>
-        <!-- <pictures url=""/> -->
     </exhibition>
     <exhibition>
         <date>2026-01-18</date>
@@ -18,7 +26,7 @@
         <rating>5.25</rating>
         <comments>A landmark exhibition dedicated to Yayoi Kusama. We had already visited the Beyeler Foundation last year for the Matisse exhibition. This year, there were just as many visitors, if not more. We all enjoyed it very much!</comments>
         <image>Yayoi Kusama.jpg</image>
-        <!-- <pictures url=""/> -->
+         <pictures url="https://www.flickr.com/photos/bruchez/albums/72177720331916069"/>
     </exhibition>
     <exhibition>
         <date>2026-01-17</date>
@@ -27,7 +35,7 @@
         <rating>5.0</rating>
         <comments>See my comments from 2020. I particularly like the third floor.</comments>
         <image>Spielzeug Welten Museum.jpg</image>
-        <!-- <pictures url=""/> -->
+         <pictures url="https://www.flickr.com/photos/bruchez/albums/72177720331916069"/>
     </exhibition>
     <exhibition>
         <date>2026-01-11</date>
@@ -36,7 +44,7 @@
         <rating>4.75</rating>
         <comments>I wasn't familiar with Swiss designer Kévin Germanier. His flamboyant style is very playful. An exhibition that my 7-and-a-half-year-old son particularly enjoyed.</comments>
         <image>Les Monstrueuses.jpg</image>
-        <!-- <pictures url=""/> -->
+         <pictures url="https://www.flickr.com/photos/bruchez/albums/72177720331908288"/>
     </exhibition>
     <exhibition>
         <date>2025-12-27</date>
@@ -54,7 +62,7 @@
         <rating>4.0</rating>
         <comments>The movie part of the exhibition was average. The VR room was fun.</comments>
         <image>The legend of the Titanic.jpg</image>
-        <!-- <pictures url=""/> -->
+         <pictures url="https://www.flickr.com/photos/bruchez/albums/72177720330927760/"/>
     </exhibition>
     <exhibition>
         <date>2025-11-01</date>
@@ -63,7 +71,7 @@
         <rating>4.75</rating>
         <comments>"The Fondation de l'Hermitage is highlighting the remarkably vibrant art of Poland in the period 1850–1914. [...] This exhibition featuring 100 iconic works is exploring the main movements reflected in the work of Polish artists: Romanticism, Realism, Impressionism, Symbolism and Modernism." I didn't know any of the painters, I think, but it was still a nice exhibition, as usual.</comments>
         <image>La Pologne rêvée.jpg</image>
-        <!-- <pictures url=""/> -->
+         <pictures url="https://www.flickr.com/photos/bruchez/albums/72177720330935352/"/>
     </exhibition>
     <exhibition>
         <date>2025-09-27</date>
@@ -117,7 +125,7 @@
         <rating>4.25</rating>
         <comments>Le récif corallien au crochet était particulièrement impressionnant.</comments>
         <image>Thalassa! Thalassa! L’imaginaire de la mer.jpg</image>
-        <!-- <pictures url=""/> -->
+         <pictures url="https://www.flickr.com/photos/bruchez/albums/72177720322946117/"/>
     </exhibition>
     <exhibition>
         <date>2024-12-01</date>
