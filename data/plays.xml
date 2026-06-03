@@ -9,6 +9,20 @@
     <actor></actor>
   -->
   <play>
+    <date>2026-06-02</date>
+    <location>Pulloff Théâtres, Lausanne, Switzerland</location>
+    <name>La Colocataire</name>
+    <author>Jen Silverman</author>
+    <director>Geoffrey Dyson</director>
+    <adaptation>Geoffrey Dyson</adaptation>
+    <adaptation>Antoinette Monod</adaptation>
+    <actor>Margarita Sanchez</actor>
+    <actor>Anne-Laure Luisoni</actor>
+    <rating>4.5</rating>
+    <comments>Une pièce touchante et drôle abordant le rôle de la transformation personnelle et de l'émancipation tardive.</comments>
+    <image>La Colocataire.jpg</image>
+  </play>
+  <play>
     <date>2026-05-24</date>
     <location>Théâtre Mogador, Paris, France</location>
     <name>Le Roi Lion</name>
