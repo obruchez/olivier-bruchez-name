@@ -183,10 +183,16 @@ class Application @Inject() (implicit
     Redirect(routes.Application.home)
   }
 
-  def blogPostComparison = Action.async {
-    Cache.get(Posts) map { posts =>
-      Ok(views.html.blogPostComparison(posts.listItems))
-    }
+  def blogPostComparison = Action {
+    // 2026-06-07: disabled. FortiGuard classified olivier.bruchez.name as "Malicious Websites"
+    // (signature HTML/IFrame.SRH!tr). Identified cause: this comparison page stacks ~10 full-page
+    // external <iframe>s (bruchez.blogspot.com), a pattern that trips Fortinet's "malicious iframe"
+    // heuristic (false positive, not a compromise). Return 404 so the page is no longer served or
+    // crawlable.
+    NotFound
+    // Cache.get(Posts) map { posts =>
+    //   Ok(views.html.blogPostComparison(posts.listItems))
+    // }
   }
 
   implicit class ResultOps(result: Result) {
