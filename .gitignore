@@ -14,3 +14,7 @@ project/project
 project/target
 target
 tmp
+
+# Local-only deploy script: contains infra details (SSH user@host, LAN IP,
+# ports, paths) we don't want in this public repo.
+deploy.sh
