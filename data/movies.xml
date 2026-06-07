@@ -3,6 +3,17 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Add rating to IMDb -->
   <movie>
+    <date>2026-06-07</date>
+    <theater home="true"/>
+    <director>Enrico Casarosa</director>
+    <title>Luca</title>
+    <version>fr</version>
+    <url>https://www.imdb.com/title/tt12801262/</url>
+    <rating>4.5</rating>
+    <comments>Again, a good Pixar movie, but nothing exceptional.</comments>
+    <image>Luca.jpg</image>
+  </movie>
+  <movie>
     <date>2026-05-15</date>
     <theater>Pathé Flon, Lausanne</theater>
     <director>Daniel Chong</director>
