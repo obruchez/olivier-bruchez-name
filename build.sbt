@@ -37,7 +37,7 @@ dockerChmodType := DockerChmodType.UserGroupWriteExecute
 dockerPermissionStrategy := DockerPermissionStrategy.CopyChown
 dockerExposedPorts := Seq(9000)
 dockerExposedVolumes := Seq("/opt/docker/prod-conf", "/var/log/olivier-bruchez-name")
-dockerBaseImage := "openjdk:11-jre-slim-buster"
+dockerBaseImage := "eclipse-temurin:11-jre-jammy"
 dockerBuildOptions ++= Seq("--platform", "linux/amd64")
 //dockerBuildOptions ++= Seq("--platform", "linux/arm64")
 
