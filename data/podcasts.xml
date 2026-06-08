@@ -2,6 +2,12 @@
 <podcasts created="2016-05-10">
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date>2026-06-08</date>
+    <name url="https://podcast.ausha.co/violet">Violet - Le Podcast sur Prince et le Minneapolis Sound</name>
+    <episode url="https://podcast.ausha.co/violet/the-time">THE TIME : The Time / What Time Is It - Le gang du C.O.O.L</episode>
+    <comments>Je suis content que Violet revienne avec des épisodes thématiques, après avoir traversé la discographie officielle de Prince. Il y a à mon avis encore pas mal d'épisodes à faire sur le même schéma. J'aime bien les deux premiers albums de The Time et suis probablement plus fan de <i>Get It Up</i> que Nicolas.</comments>
+  </podcast>
+  <podcast>
     <date>2026-05-26</date>
     <name url="https://www.humanetech.com/podcast">Your Undivided Attention</name>
     <episode url="https://www.humanetech.com/podcast/attachment-hacking-and-the-rise-of-ai-psychosis" number="124">Attachment Hacking and the Rise of AI Psychosis</episode>
