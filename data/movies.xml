@@ -8347,6 +8347,16 @@
     <image>C.R.A.Z.Y..jpg</image>
   </movie>
   <movie>
+    <date>2006-05-26</date>
+    <theater home="true"/>
+    <director>Hideo Nakata</director>
+    <title>The Ring Two</title>
+    <title language="fr">Le Cercle 2</title>
+    <version>fr</version>
+    <url>https://www.imdb.com/title/tt0377109/</url>
+    <image>The Ring Two.jpg</image>
+  </movie>
+  <movie>
     <date>2006-05-25</date>
     <theater>Galeries, Lausanne</theater>
     <director>James McTeigue</director>
