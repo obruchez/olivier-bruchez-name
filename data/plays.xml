@@ -9,6 +9,30 @@
     <actor></actor>
   -->
   <play>
+    <date>2026-06-19</date>
+    <location>Théâtre du Jorat, Mézières, Switzerland</location>
+    <name>Dracula</name>
+    <author>Bram Stoker</author>
+    <adaptation>Lionel Aebischer</adaptation>
+    <adaptation>Frédéric Erard</adaptation>
+    <adaptation>Laurent Lecoultre</adaptation>
+    <adaptation>Emmanuel Moser</adaptation>
+    <adaptation>Raphaël Pedroli</adaptation>
+    <actor>Lionel Aebischer</actor>
+    <actor>Frédéric Erard</actor>
+    <actor>Laurent Lecoultre</actor>
+    <actor>Emmanuel Moser</actor>
+    <actor>Raphaël Pedroli</actor>
+    <rating>4.25</rating>
+    <comments>Un spectacle déjanté, entre théâtre et musique, avec quelques participations du public sur scène. Notre fils a beaucoup aimé.</comments>
+    <image>Dracula.jpg</image>
+    <!--
+	Adaptation libre du roman de Bram Stoker par les compagnies Les Batteurs de Pavés et Les Petits Chanteurs à la Gueule de Bois (création collective, sans metteur en scène unique crédité).
+	Écriture et jeu : Lionel Aebischer, Frédéric Erard, Laurent Lecoultre, Emmanuel Moser, Raphaël Pedroli.
+	Théâtre musical (contrebasse, guitare, clarinette, percussions). Photo © Vincent Guignet.
+    -->
+  </play>
+  <play>
     <date>2026-06-02</date>
     <location>Pulloff Théâtres, Lausanne, Switzerland</location>
     <name>La Colocataire</name>
