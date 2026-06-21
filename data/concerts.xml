@@ -7,6 +7,34 @@
   -->
   <introduction>A list of concerts I went to.</introduction>
   <concert>
+    <date>2026-06-21</date>
+    <location>Opéra de Lausanne, Lausanne, Switzerland</location>
+    <event><i>Rigoletto</i> opera</event>
+    <musician inst="vocals">Davide Tuscano</musician>
+    <musician inst="vocals">Lionel Lhote</musician>
+    <musician inst="vocals">Marie Lys</musician>
+    <musician inst="vocals">Vartan Gabrielian</musician>
+    <musician inst="vocals">Sophie Kidwell</musician>
+    <musician inst="vocals">Sulkhan Jaiani</musician>
+    <musician inst="vocals">Vincent Casagrande</musician>
+    <musician inst="vocals">Matthieu Justine</musician>
+    <musician inst="vocals">Kyu Choi</musician>
+    <musician inst="vocals">Anouk Molendijk</musician>
+    <musician inst="vocals">Léa Sirera</musician>
+    <musician inst="vocals">Solène Nancy</musician>
+    <musician inst="dance">Agnès Letestu</musician>
+    <musician inst="orchestra">Orchestre de Chambre de Lausanne</musician>
+    <musician inst="conductor">Giulio Cilona</musician>
+    <musician inst="choir">Chœur de l’Opéra de Lausanne</musician>
+    <musician inst="choir director">Anass Ismat</musician>
+    <rating>5.0</rating>
+    <comments><i>Rigoletto</i> opera (Giuseppe Verdi), directed by Richard Brunel. A truly excellent French production, with impressive sets and an inventive staging.</comments>
+    <!--
+	Rôles : Davide Tuscano (Le Duc de Mantoue), Lionel Lhote (Rigoletto), Marie Lys (Gilda), Vartan Gabrielian (Sparafucile), Sophie Kidwell (Maddalena), Sulkhan Jaiani (Comte Monterone), Vincent Casagrande (Marullo), Matthieu Justine (Borsa), Kyu Choi (Le Comte Ceprano), Anouk Molendijk (Giovanna), Léa Sirera (Le Page), Solène Nancy (La Comtesse Ceprano), Agnès Letestu (La mère de Gilda, danseuse étoile).
+	Décors : Étienne Pluss. Costumes : Thibault Vancraenenbroeck. Lumières : Laurent Castaingt. Chorégraphie : Maxime Thomas. Dramaturgie : Catherine Ailloud-Nicolas. Collaboration à la mise en scène : Alex Crestey.
+    -->
+  </concert>
+  <concert>
     <date>2026-04-11</date>
     <location>Chapiteau, Cully, Switzerland</location>
     <event>Cully Jazz Festival</event>
