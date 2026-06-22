@@ -2,6 +2,24 @@
 <podcasts created="2016-05-10">
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date>2026-06-22</date>
+    <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
+    <episode url="https://www.samharris.org/podcasts/making-sense-episodes/479-when-robots-take-over" number="479">When Robots Take Over - A Conversation with Vinod Khosla</episode>
+    <comments>"Sam Harris speaks with Vinod Khosla about AI, economic disruption, and political risk. They discuss the prospect of mass job displacement, a trillion-dollar policy framework to redistribute AI's gains, the failure of the California wealth tax, the corporate capitulation to Trump, Elon Musk's embrace of white nationalist rhetoric, US-China competition, semiconductor dependence, and other topics."</comments>
+  </podcast>
+  <podcast>
+    <date>2026-06-22</date>
+    <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
+    <episode url="https://www.samharris.org/podcasts/making-sense-episodes/475-the-hard-problem-of-consciousness" number="475">The Hard Problem of Consciousness - A Conversation with Michael Pollan</episode>
+    <comments>"Sam Harris speaks with Michael Pollan about consciousness, the mind, and the self. They discuss Pollan's new book, the relationship between consciousness and intelligence, whether consciousness is a product of evolution, the role of psychedelics in consciousness research, AI and the question of machine consciousness, the illusion of the self, and other topics."</comments>
+  </podcast>
+  <podcast>
+    <date>2026-06-22</date>
+    <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
+    <episode url="https://www.samharris.org/podcasts/making-sense-episodes/478-the-psychedelic-mind" number="478">The Psychedelic Mind - A Conversation with Robin Carhart-Harris</episode>
+    <comments>"Sam Harris speaks with Robin Carhart-Harris about psychedelic research and its therapeutic potential. They discuss the current state of the field, the FDA denial of MDMA-assisted therapy for PTSD, the critical role of set and setting, risks for vulnerable populations, the REBUS model of how psychedelics work on the brain, the default mode network and ego dissolution, microdosing, the neuroscience of consciousness, DMT entities, and other topics."</comments>
+  </podcast>
+  <podcast>
     <date>2026-06-16</date>
     <name url="https://www.rts.ch/la-1ere/programmes/egosysteme/podcast/">Egosystème - RTS Première</name>
     <episode url="https://www.rts.ch/audio-podcast/2026/audio/anxiete-quand-tu-nous-tiens-29133422.html">Anxiété quand tu nous tiens !</episode>
