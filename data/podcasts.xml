@@ -2,6 +2,12 @@
 <podcasts created="2016-05-10">
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date>2026-06-24</date>
+    <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
+    <episode url="https://www.samharris.org/podcasts/making-sense-episodes/477-more-from-sam-irans-unraveling-the-gaza-information-war-ai-generated-music-and-more" number="477">More From Sam: Iran's Unraveling, The Gaza Information War, AI-Generated Music, and More</episode>
+    <comments>"In this latest episode of the More From Sam series, Sam and Jaron talk about current events. They discuss the Trump administration's bungled Iran campaign, the information war surrounding Gaza and October 7, Nicholas Kristof's disputed New York Times report on Israeli prisoner abuse, Sam's controversial take on AI-generated music, OpenAI solving a decades-old math problem, the ethics of concealing GLP-1 use, and other topics." Multiple "I have zero insights" in this episode, which show the limits of this exercise. Sam also recognizes that it must be boring/tiring for his "fans" to hear him talk about some of the topics for the hundredth time (Israel, jihadism, etc.). I don't know where he can go from there. Explore new topics?</comments>
+  </podcast>
+  <podcast>
     <date>2026-06-22</date>
     <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
     <episode url="https://www.samharris.org/podcasts/making-sense-episodes/479-when-robots-take-over" number="479">When Robots Take Over - A Conversation with Vinod Khosla</episode>
@@ -11,7 +17,7 @@
     <date>2026-06-22</date>
     <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
     <episode url="https://www.samharris.org/podcasts/making-sense-episodes/475-the-hard-problem-of-consciousness" number="475">The Hard Problem of Consciousness - A Conversation with Michael Pollan</episode>
-    <comments>"Sam Harris speaks with Michael Pollan about consciousness, the mind, and the self. They discuss Pollan's new book, the relationship between consciousness and intelligence, whether consciousness is a product of evolution, the role of psychedelics in consciousness research, AI and the question of machine consciousness, the illusion of the self, and other topics."</comments>
+    <comments>"Sam Harris speaks with Michael Pollan about consciousness, the mind, and the self. They discuss Pollan's new book, the relationship between consciousness and intelligence, whether consciousness is a product of evolution, the role of psychedelics in consciousness research, AI and the question of machine consciousness, the illusion of the self, and other topics." I'm not a fan of this idea that "plants might be conscious". They're probably not. At least in any important (i.e. morally consequent) meaning of the word.</comments>
   </podcast>
   <podcast>
     <date>2026-06-22</date>
