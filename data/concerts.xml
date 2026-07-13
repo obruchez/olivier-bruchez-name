@@ -7,6 +7,13 @@
   -->
   <introduction>A list of concerts I went to.</introduction>
   <concert>
+    <date>2026-07-11</date>
+    <location>Teatro La Fenice, Venice, Italy</location>
+    <musician inst="piano">Grigory Sokolov</musician>
+    <rating>4.5</rating>
+    <comments>My first Sokolov concert. Programme: Sonata n. 4 op. 7 (Ludwig van Beethoven); Sei Bagatelle op. 126 (Ludwig van Beethoven); Sonata in B flat major D960 (Franz Schubert).</comments>
+  </concert>
+  <concert>
     <date>2026-06-21</date>
     <location>Opéra de Lausanne, Lausanne, Switzerland</location>
     <event><i>Rigoletto</i> opera</event>
