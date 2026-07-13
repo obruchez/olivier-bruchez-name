@@ -2,6 +2,12 @@
 <podcasts created="2016-05-10">
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date>2026-07-13</date>
+    <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
+    <episode url="https://www.samharris.org/podcasts/making-sense-episodes/482-more-from-sam-the-iran-deal-college-in-the-ai-age-mamdanis-dsa-and-more" number="482">More From Sam: The Iran Deal, College in the AI Age, Mamdani's DSA, and More</episode>
+    <comments>"In this latest episode of the More From Sam series, Sam and Jaron talk about current events. They discuss topics from Making Sense Community, including one-world government, the value of a degree as AI reshapes careers, and factory farming ethics, along with Mamdani's DSA-aligned candidates, Trump's humiliating capitulation in the Iran deal, the Tulsi Gabbard guru story, and other topics."</comments>
+  </podcast>
+  <podcast>
     <date>2026-06-24</date>
     <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
     <episode url="https://www.samharris.org/podcasts/making-sense-episodes/477-more-from-sam-irans-unraveling-the-gaza-information-war-ai-generated-music-and-more" number="477">More From Sam: Iran's Unraveling, The Gaza Information War, AI-Generated Music, and More</episode>
