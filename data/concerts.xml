@@ -7,6 +7,60 @@
   -->
   <introduction>A list of concerts I went to.</introduction>
   <concert>
+    <date>2026-07-17</date>
+    <location>Montreux Jazz Lab, Montreux, Switzerland</location>
+    <event>Montreux Jazz Festival</event>
+    <musician inst="vocals" main="true">Gregory Porter</musician>
+    <musician inst="piano">Chip Crawford</musician>
+    <musician inst="organ">Ondrej Pivec</musician>
+    <musician inst="tenor saxophone">Scooter Brown</musician>
+    <musician inst="bass">Jahmal Nichols</musician>
+    <musician inst="drums">Emanuel Harrold</musician>
+    <rating>3.0</rating>
+    <comments>We stayed after the Charles Lloyd concert, without knowing who Gregory Porter is. After seeing so many great musicians (Charles Lloyd, Marcus Miller, Mike Stern, Bill Evans, Mino Cinelu, Billy Cobham, etc., let's just say it was a let-down.</comments>
+  </concert>
+  <concert>
+    <date>2026-07-17</date>
+    <location>Montreux Jazz Lab, Montreux, Switzerland</location>
+    <event>Montreux Jazz Festival</event>
+    <musician inst="tenor saxophone" main="true">Charles Lloyd</musician>
+    <musician inst="piano">Gerald Clayton</musician>
+    <musician inst="bass">Harish Raghavan</musician>
+    <musician inst="drums">Kweku Sumbry</musician>
+    <rating>5.0</rating>
+    <comments>That was really nice seeing Charles Lloyd again, for the 7<sup>th</sup> time and the first time in 7 years. I saw his workshop/interview two days before in Montreux as well.</comments>
+  </concert>
+  <concert>
+    <date>2026-07-16</date>
+    <location>Montreux Jazz Lab, Montreux, Switzerland</location>
+    <event>Montreux Jazz Festival</event>
+    <group>Marcus Miller — We Want Miles!</group>
+    <musician inst="bass" main="true">Marcus Miller</musician>
+    <musician inst="guitar">Mike Stern</musician>
+    <musician inst="saxophone">Bill Evans</musician>
+    <musician inst="percussions">Mino Cinelu</musician>
+    <musician inst="trumpet">Russell Gunn</musician>
+    <musician inst="keyboards">Brett Williams</musician>
+    <musician inst="drums">Anwar Marshall</musician>
+    <rating>5.5</rating>
+    <comments>This was just great. This was the second time I was seeing Mike Stern and Bill Evans together, but of course the first time I was seeing them with Marcus Miller. They should release a live album of this tour.</comments>
+  </concert>
+  <concert>
+    <date>2026-07-16</date>
+    <location>Montreux Jazz Lab, Montreux, Switzerland</location>
+    <event>Montreux Jazz Festival</event>
+    <group>Billy Cobham's Time Machine</group>
+    <musician inst="drums" main="true">Billy Cobham</musician>
+    <musician inst="keyboards">Gary Husband</musician>
+    <musician inst="guitar">Rocco Zifarelli</musician>
+    <musician inst="bass">Victor Cisternas</musician>
+    <musician inst="saxophone">Bjorn Arko</musician>
+    <musician inst="trumpet">Antonio Baldino</musician>
+    <musician inst="trombone">Andrea Andreoli</musician>
+    <rating>4.5</rating>
+    <comments>I realized I was not familiar with Billy Cobham at all. I knew he covered <i>Sign O' The Times</i> at some point. I since learned <i>Stratus</i>, which Prince played between 2006 and 2015 (notably in 2009 in Montreux), is a Cobham track. And also <i>Red Baron</i>, which Marcus Miller covered as well.</comments>
+  </concert>
+  <concert>
     <date>2026-07-11</date>
     <location>Teatro La Fenice, Venice, Italy</location>
     <musician inst="piano">Grigory Sokolov</musician>
