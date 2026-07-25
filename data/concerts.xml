@@ -7,6 +7,19 @@
   -->
   <introduction>A list of concerts I went to.</introduction>
   <concert>
+    <date>2026-07-24</date>
+    <location>Cinéma de Verbier, Verbier, Switzerland</location>
+    <event>Verbier Festival</event>
+    <group>Shems Bendali Quintet</group>
+    <musician inst="trumpet" main="true">Shems Bendali</musician>
+    <musician inst="saxophone">Arthur Donnot</musician>
+    <musician inst="piano">Andrew Audiger</musician>
+    <musician inst="double bass">Yves Marcotte</musician>
+    <musician inst="drums">Marton Kiss</musician>
+    <rating>4.5</rating>
+    <comments>Ciné-concert (UNLTD series, Miles Davis 100): the quintet improvised new music live over Louis Malle's film <i>Ascenseur pour l'échafaud</i> (1958), echoing the original soundtrack improvised by Miles Davis in 1957. Not bad.</comments>
+  </concert>
+  <concert>
     <date>2026-07-17</date>
     <location>Montreux Jazz Lab, Montreux, Switzerland</location>
     <event>Montreux Jazz Festival</event>
@@ -17,7 +30,7 @@
     <musician inst="bass">Jahmal Nichols</musician>
     <musician inst="drums">Emanuel Harrold</musician>
     <rating>3.0</rating>
-    <comments>We stayed after the Charles Lloyd concert, without knowing who Gregory Porter is. After seeing so many great musicians (Charles Lloyd, Marcus Miller, Mike Stern, Bill Evans, Mino Cinelu, Billy Cobham, etc., let's just say it was a let-down.</comments>
+    <comments>We stayed after the Charles Lloyd concert, without knowing who Gregory Porter is. After seeing so many great musicians (Charles Lloyd, Marcus Miller, Mike Stern, Bill Evans, Mino Cinelu, Billy Cobham, etc.), let's just say it was a let-down.</comments>
   </concert>
   <concert>
     <date>2026-07-17</date>
