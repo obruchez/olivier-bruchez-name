@@ -3,6 +3,16 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Add rating to IMDb -->
   <movie>
+    <date>2026-07-24</date>
+    <theater>Cinéma de Verbier, Verbier</theater>
+    <director>Louis Malle</director>
+    <title>Ascenseur pour l'échafaud</title>
+    <url>https://www.imdb.com/title/tt0051378/</url>
+    <rating>4.75</rating>
+    <comments>See <a href="https://olivier.bruchez.name/movies#2017-12-12">my previous comments (2017)</a> for the movie itself. Ciné-concert at the Verbier Festival (UNLTD, Miles Davis 100). No Miles Davis music here, but live music improvised by the Shems Bendali Quintet.</comments>
+    <image>Ascenseur pour l'échafaud.jpg</image>
+  </movie>
+  <movie>
     <date>2026-07-18</date>
     <theater home="true"/>
     <director>Phil Lord &amp; Christopher Miller</director>
