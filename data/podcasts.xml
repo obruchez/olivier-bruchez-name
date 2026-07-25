@@ -2,6 +2,30 @@
 <podcasts created="2016-05-10">
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date>2026-07-25</date>
+    <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
+    <episode url="https://www.samharris.org/podcasts/making-sense-episodes/481-sam-harris-receives-the-2026-richard-dawkins-award" number="481">Sam Harris Receives the 2026 Richard Dawkins Award - Sam Harris and Richard Dawkins in Conversation</episode>
+    <comments>"Richard Dawkins presents Sam Harris with the 2026 Richard Dawkins Award at a live Center for Inquiry event. After the tribute, the two friends discuss consciousness and epiphenomenalism, AI and the Turing test, the scientific basis of morality, the failures of democracy and Trump's corruption, the role of philosophy, changing deeply held beliefs, Sam's path to meditation, the legacy of Christopher Hitchens, and other topics."</comments>
+  </podcast>
+  <podcast>
+    <date>2026-07-24</date>
+    <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
+    <episode url="https://www.samharris.org/podcasts/making-sense-episodes/483-the-knots-we-tie-ourselves-into" number="483">The Knots We Tie Ourselves Into - A Conversation with Alain de Botton</episode>
+    <comments>See the comments for the Tim Ferris episode back in 2018. My opinion of Alain de Botton hasn't really changed, I guess. "Sam Harris speaks with Alain de Botton about the psychology of unhappiness, the secular world's discomfort with ecstasy and ritual, psychedelics as a tool for self-discovery, Freud's legacy, AI as the ultimate mirror, the case against meritocracy, the cancel culture purity trap, the psychological meaning of death, and other topics."</comments>
+  </podcast>
+  <podcast>
+    <date>2026-07-24</date>
+    <name url="https://podcast.ausha.co/violet">Violet - Le Podcast sur Prince et le Minneapolis Sound</name>
+    <episode url="https://podcast.ausha.co/violet/vanity-6-apollonia-6">VANITY 6 &amp; APOLLONIA 6 : Prince et ses drôles de dames</episode>
+    <comments>Deux des projets les moins intéressants de Prince (avec ceux de Carmen Electra, le projet <i>Kamasutra</i>, etc.). Mais il y a toujours de bonnes choses à en retirer, comme d'habitude.</comments>
+  </podcast>
+  <podcast>
+    <date>2026-07-15</date>
+    <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
+    <episode url="https://www.samharris.org/podcasts/making-sense-episodes/484-artificial-intimacy" number="484">Artificial Intimacy - A Conversation with Paul Bloom</episode>
+    <comments>I love Paul Bloom. This is an episode I might want to listen to again in the future. "Sam Harris speaks with Paul Bloom about our relationships with AI and the future of human connection. They discuss the surprising pace of AI progress, AI companions as a remedy for loneliness, the importance of mattering to other people, digitally resurrecting the dead, whether AI can be conscious, the moral failings of artists, what science actually knows about parenting, the ethics of apology, why late converts from Trump provoke outrage, and other topics."</comments>
+  </podcast>
+  <podcast>
     <date>2026-07-13</date>
     <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
     <episode url="https://www.samharris.org/podcasts/making-sense-episodes/482-more-from-sam-the-iran-deal-college-in-the-ai-age-mamdanis-dsa-and-more" number="482">More From Sam: The Iran Deal, College in the AI Age, Mamdani's DSA, and More</episode>
