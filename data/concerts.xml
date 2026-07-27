@@ -7,6 +7,34 @@
   -->
   <introduction>A list of concerts I went to.</introduction>
   <concert>
+    <date>2026-07-26</date>
+    <location>Véga, Nyon, Switzerland</location>
+    <event>Paléo Festival de Nyon</event>
+    <musician inst="vocals" main="true">Luiza</musician>
+    <musician inst="trumpet">?</musician>
+    <musician inst="saxophone">?</musician>
+    <musician inst="drums">?</musician>
+    <musician inst="guitar, bass, cavaquinho">?</musician>
+    <rating>3.5</rating>
+    <comments>Accompanying my wife and son to Paléo (concert 2 out of 2).</comments>
+  </concert>
+  <concert>
+    <date>2026-07-26</date>
+    <location>Véga, Nyon, Switzerland</location>
+    <event>Paléo Festival de Nyon</event>
+    <group>UtopieXXL</group>
+    <musician inst="vocals">Charlotte Müller Perrier</musician>
+    <musician inst="vocals">Jonathan Spicher</musician>
+    <musician inst="vocals">Jean-Luc Waeber</musician>
+    <musician inst="piano">Alexandre Rion</musician>
+    <musician inst="piano">Kathrin Hartmann</musician>
+    <musician inst="percussions director">Dominique Haldemann</musician>
+    <musician inst="children's choir">Maîtrise de Saint-Pierre-aux-Liens</musician>
+    <musician inst="conductor">Gonzague Monney</musician>
+    <rating>3.25</rating>
+    <comments><i>Carmina Burana</i> (Carl Orff), performed by UtopieXXL, a 150-singer choir built around the Ensemble Vocal Utopie, in the version for two pianos and percussion. Accompanying my wife and son to Paléo (concert 1 out of 2).</comments>
+  </concert>
+  <concert>
     <date>2026-07-24</date>
     <location>Cinéma de Verbier, Verbier, Switzerland</location>
     <event>Verbier Festival</event>
