@@ -2,6 +2,12 @@
 <podcasts created="2016-05-10">
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date>2026-07-27</date>
+    <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
+    <episode url="https://www.samharris.org/podcasts/making-sense-episodes/480-the-economics-of-everything" number="480">The Economics of Everything - A Conversation with Noah Smith</episode>
+    <comments>Some parts sounded really too simplistic, in particular the US vs Europe bit. "Sam Harris speaks with economist and Substack writer Noah Smith about the U.S. national debt, wealth inequality, and the economic consequences of AI. They discuss the mechanics of debt and inflation, the case for fiscal austerity, why the U.S. squandered low interest rates, modern monetary theory, how AI may restructure labor and ownership, the anti-billionaire politics of the American left, the degrowth movement and its failures, demographic decline and fertility trends, the role of smartphones in eroding democratic culture, and other topics."</comments>
+  </podcast>
+  <podcast>
     <date>2026-07-25</date>
     <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
     <episode url="https://www.samharris.org/podcasts/making-sense-episodes/481-sam-harris-receives-the-2026-richard-dawkins-award" number="481">Sam Harris Receives the 2026 Richard Dawkins Award - Sam Harris and Richard Dawkins in Conversation</episode>
