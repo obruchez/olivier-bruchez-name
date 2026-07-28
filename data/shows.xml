@@ -23,13 +23,6 @@
   </show>
   <show>
     <date></date>
-    <name url="https://en.wikipedia.org/wiki/The_Good_Place">The Good Place</name>
-    <series url="https://en.wikipedia.org/wiki/The_Good_Place_season_3" type="season">3</series>
-    <comments></comments>
-    <image>The Good Place.jpg</image>
-  </show>
-  <show>
-    <date></date>
     <name url="https://en.wikipedia.org/wiki/Northern_Exposure">Northern Exposure</name>
     <series url="https://en.wikipedia.org/wiki/List_of_Northern_Exposure_episodes#Season_3_(1991%E2%80%9392)" type="season">3</series>
     <comments></comments>
@@ -41,6 +34,20 @@
     <series url="https://en.wikipedia.org/wiki/Parks_and_Recreation_season_1" type="season">1</series>
     <comments></comments>
     <image>Parks and Recreation.jpg</image>
+  </show>
+  <show>
+    <date>2026-07-27</date>
+    <name url="https://en.wikipedia.org/wiki/The_Good_Place">The Good Place</name>
+    <series url="https://en.wikipedia.org/wiki/The_Good_Place_season_4" type="season">4</series>
+    <comments>The human mind can't cope with never-ending happiness, apparently. It was nice seeing Lisa Kudrow.</comments>
+    <image>The Good Place.jpg</image>
+  </show>
+  <show>
+    <date>2026-06-18</date>
+    <name url="https://en.wikipedia.org/wiki/The_Good_Place">The Good Place</name>
+    <series url="https://en.wikipedia.org/wiki/The_Good_Place_season_3" type="season">3</series>
+    <comments>How can you assign a number to human lives? What does it mean to live a moral life in a very complex world? I like those kinds of questions.</comments>
+    <image>The Good Place.jpg</image>
   </show>
   <show>
     <date>2026-05-05</date>
