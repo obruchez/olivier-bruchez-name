@@ -3,6 +3,19 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Add rating to IMDb -->
   <movie>
+    <date>2026-07-28</date>
+    <theater home="true"/>
+    <director>Isao Takahata</director>
+    <title>Pompoko</title>
+    <title language="ja">Heisei tanuki gassen ponpoko</title>
+    <title language="en">Pom Poko</title>
+    <version>fr</version>
+    <url>https://www.imdb.com/title/tt0110008/</url>
+    <rating>4.75</rating>
+    <comments>What a strange film! Some scenes have a psychedelic aesthetic. Some elements are very funny and offbeat, like the use of the tanuki's "balls" as rugs or weapons. We watched this film with three children. At times, I felt the themes it dealt with were perhaps a bit too complex for their ages (7, 8 and 9).</comments>
+    <image>Pom Poko.jpg</image>
+  </movie>
+  <movie>
     <date>2026-07-24</date>
     <theater>Cinéma de Verbier, Verbier</theater>
     <director>Louis Malle</director>
