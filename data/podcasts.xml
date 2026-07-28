@@ -2,6 +2,12 @@
 <podcasts created="2016-05-10">
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date>2026-07-28</date>
+    <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
+    <episode url="https://www.samharris.org/podcasts/making-sense-episodes/485-the-new-science-of-cancer" number="485">The New Science of Cancer - A Conversation with Siddhartha Mukherjee</episode>
+    <comments>Things are getting better. "Sam Harris speaks with Siddhartha Mukherjee about the science of cancer. They discuss the updated edition of <i>The Emperor of All Maladies</i>, whether cancer is one disease or many, why prevention is so hard, inflammation and air pollution as carcinogens, the myth that cell phones cause cancer, liquid biopsies and Bayesian reasoning, immunotherapy and CAR T cells, drug pricing, the promise of AI in drug discovery, the state of American medical science, and other topics."</comments>
+  </podcast>
+  <podcast>
     <date>2026-07-27</date>
     <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
     <episode url="https://www.samharris.org/podcasts/making-sense-episodes/480-the-economics-of-everything" number="480">The Economics of Everything - A Conversation with Noah Smith</episode>
