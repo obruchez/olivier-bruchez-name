@@ -3,6 +3,12 @@
   <introduction>A list of hikes I took.</introduction>
   <!-- TODO: add comments for new hikes? -->
   <hike>
+    <date>2026-08-02</date>
+    <place>Morgins / Tovassière / Lac de Chésery, Switzerland</place>
+    <!-- <pictures url="/"/> -->
+    <comments>Nice hike with our 8-year-old son in an area I barely know.</comments>
+  </hike>
+  <hike>
     <date>2025-10-18</date>
     <place>Louvie / Le Dâ / Le Crêt / Le Vasevay / Mauvoisin, Switzerland</place>
     <!-- <pictures url="/"/> -->
