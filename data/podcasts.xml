@@ -2,6 +2,12 @@
 <podcasts created="2016-05-10">
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date>2026-08-03</date>
+    <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
+    <episode url="https://www.samharris.org/podcasts/making-sense-episodes/486-luck-all-the-way-down" number="486">Luck All the Way Down - A Conversation with Kathryn Paige Harden</episode>
+    <comments>"Sam Harris speaks with Kathryn Paige Harden about behavioral genetics, moral luck, and the problem of blame. They discuss Harden's book <i>Original Sin</i>, the controversy over Charles Murray and Ezra Klein, why behavioral genetics remains taboo, the meaning of heritability, nature and nurture as feedback loops, why biological explanations can increase blame, psychopathy as a continuum, a hypothetical cure for evil, embryo selection and IVF, and other topics."</comments>
+  </podcast>
+  <podcast>
     <date>2026-07-28</date>
     <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
     <episode url="https://www.samharris.org/podcasts/making-sense-episodes/485-the-new-science-of-cancer" number="485">The New Science of Cancer - A Conversation with Siddhartha Mukherjee</episode>
