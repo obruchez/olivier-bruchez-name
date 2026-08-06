@@ -3,6 +3,17 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Add rating to IMDb -->
   <movie>
+    <date>2026-08-05</date>
+    <theater>Pathé Annecy, Annecy</theater>
+    <director>Andrew Stanton</director>
+    <title>Toy Story 5</title>
+    <version>fr</version>
+    <url>https://www.imdb.com/title/tt29355505/</url>
+    <rating>4.5</rating>
+    <comments>Une petite pause sympathique dans une salle de cinéma climatisée. Je ne suis pas sûr que l'on ait résolu la question des écrans et de leur intrusion dans nos vies, toutefois.</comments>
+    <image>Toy Story 5.jpg</image>
+  </movie>
+  <movie>
     <date>2026-07-29</date>
     <theater home="true"/>
     <director>Éric Rohmer</director>
