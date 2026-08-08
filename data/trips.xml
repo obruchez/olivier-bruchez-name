@@ -2,6 +2,13 @@
 <trips created="2008-02-26">
   <introduction>A list of trips I took.</introduction>
   <trip>
+    <from>2026-08-04</from>
+    <to>2026-08-07</to>
+    <place>Annecy, France</place>
+    <!-- <pictures url=""/> -->
+    <comments>Surprisingly, this was our first stay in Annecy, even though we live only an hour and a half away from it. Some of the activities we did during our stay: Château de Menthon-Saint-Bernard, swimming in the lake, Fort Boyard Aventures, boat trip (Annecy-Doussard), cycling halfway around the lake (Doussard-Annecy), and a license-free electric boat (max 6 km/h). The area very clearly suffers from overtourism and is somewhat choking on its car traffic, even as it promotes cycling.</comments>
+  </trip>
+  <trip>
     <from>2026-06-27</from>
     <to>2026-07-12</to>
     <place>Croatia / Venice, Italy</place>
