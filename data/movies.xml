@@ -3,6 +3,16 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Add rating to IMDb -->
   <movie>
+    <date>2026-08-06</date>
+    <theater home="true"/>
+    <director>Kane Parsons</director>
+    <title>Backrooms</title>
+    <url>https://www.imdb.com/title/tt26657236/</url>
+    <rating>4.5</rating>
+    <comments>I really like the basic premise, this idea of endless rooms. It reminds me a lot of the many hours I spent in the late 1990s and early 2000s playing games such as Doom, Duke Nukem 3D, Half-Life, Unreal, and all their expansions. Visually, it is a success in my opinion. The two lead actors are excellent. The ending is a bit frustrating. It perhaps doesn't leave enough room for mystery and explains things a little too much. The interpretation is almost too obvious, somehow.</comments>
+    <image>Backrooms.jpg</image>
+  </movie>
+  <movie>
     <date>2026-08-05</date>
     <theater>Pathé Annecy, Annecy</theater>
     <director>Andrew Stanton</director>
