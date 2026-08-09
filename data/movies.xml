@@ -3,6 +3,16 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Add rating to IMDb -->
   <movie>
+    <date>2026-08-08</date>
+    <theater home="true"/>
+    <director>Christian Desmares &amp; Franck Ekinci</director>
+    <title>Avril et le Monde truqué</title>
+    <url>https://www.imdb.com/title/tt3422078/</url>
+    <rating>5.0</rating>
+    <comments>Vu en 2015 au cinéma. Vu cette fois-ci avec notre fils de 8 ans. Je n'avais encore jamais fait le lien entre Tardi et les illustrations de la saga Malaussène.</comments>
+    <image>Avril et le Monde truqué.jpg</image>
+  </movie>
+  <movie>
     <date>2026-08-06</date>
     <theater home="true"/>
     <director>Kane Parsons</director>
