@@ -2,6 +2,12 @@
 <podcasts created="2016-05-10">
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date>2026-08-11</date>
+    <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
+    <episode url="https://www.samharris.org/podcasts/making-sense-episodes/487-is-ai-already-conscious" number="487">Is AI Already Conscious? - A Conversation with Cameron Berg</episode>
+    <comments>Consciousness is a subject that has fascinated me for decades. In connection with artificial intelligence, it becomes an almost esoteric subject, but at the same time a very important one. A fascinating discussion, then, but also a frustrating one, as usual, because consciousness, being a fundamentally subjective phenomenon, is very hard for science and philosophy to get a grip on. I'm glad that people are thinking about all these questions, even if the project seems somewhat endless for now. "Sam Harris speaks with Cameron Berg about whether AI systems are or could become conscious. They discuss self-reports in LLMs, what models say when deception is switched off, the "bliss attractor" state, consciousness and sentience, the hard problem of consciousness, parallels between neural networks and biological brains, the moral risk of building minds that can suffer, possible parallels to factory farming, moral patienthood, the alignment problem, and other topics."</comments>
+  </podcast>
+  <podcast>
     <date>2026-08-03</date>
     <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
     <episode url="https://www.samharris.org/podcasts/making-sense-episodes/486-luck-all-the-way-down" number="486">Luck All the Way Down - A Conversation with Kathryn Paige Harden</episode>
