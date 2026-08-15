@@ -3,6 +3,26 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Add rating to IMDb -->
   <movie>
+    <date>2026-08-15</date>
+    <theater>Théâtre du Jorat, Mézières</theater>
+    <director>Charlie Chaplin</director>
+    <title>The Gold Rush</title>
+    <url>https://www.imdb.com/title/tt0015864/</url>
+    <rating>5.0</rating>
+    <comments>Vu avec ma femme et mon fils. Nous avions déjà vu ce film avec le même orchestre en 2015, au Capitole.</comments>
+    <image>The Gold Rush.jpg</image>
+  </movie>
+  <movie>
+    <date>2026-08-13</date>
+    <theater home="true"/>
+    <director>Preston Sturges</director>
+    <title>Sullivan's Travels</title>
+    <url>https://www.imdb.com/title/tt0034240/</url>
+    <rating>4.75</rating>
+    <comments>You get caught up in the story, even if the social commentary is a bit thin.</comments>
+    <image>Sullivan's Travels.jpg</image>
+  </movie>
+  <movie>
     <date>2026-08-12</date>
     <theater home="true"/>
     <director>Curry Barker</director>
