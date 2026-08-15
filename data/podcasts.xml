@@ -2,6 +2,12 @@
 <podcasts created="2016-05-10">
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date>2026-08-13</date>
+    <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
+    <episode url="https://www.samharris.org/podcasts/making-sense-episodes/488-ego-ecstasy-and-equanimity" number="488">Ego, Ecstasy, and Equanimity - A Conversation with Neal Brennan</episode>
+    <comments>An interview that sheds light on Sam's human side. I think it's the first time I've heard him talk about his mother and his father. I realize that he was also born into a family that quickly became wealthy (when he was 12?), and that this necessarily influenced and biased his view of the world. When you don't really need to worry about money, when you can leave Stanford to explore your spirituality in India or Nepal, that must help a lot in being a bit less anxious, stressed, and so on. "Sam Harris speaks with Neal Brennan about the experiences that shaped his life and work. They discuss Sam's mother's television career, growing up with an absent father, his struggles with perfectionism, his first experience with MDMA, dropping out of Stanford, meditation retreats, spiritual charisma and claims of psychic powers, the illusion of self, the limits of pacifism, deleting Twitter, Trump and the politics of shamelessness, hypocrisy and vice signaling, the future of American democracy, and other topics."</comments>
+  </podcast>
+  <podcast>
     <date>2026-08-11</date>
     <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
     <episode url="https://www.samharris.org/podcasts/making-sense-episodes/487-is-ai-already-conscious" number="487">Is AI Already Conscious? - A Conversation with Cameron Berg</episode>
