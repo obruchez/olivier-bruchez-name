@@ -2,6 +2,12 @@
 <podcasts created="2016-05-10">
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date>2026-08-16</date>
+    <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
+    <episode url="https://www.samharris.org/episode/SE27CFA36CC">The Essential Sam Harris: Making Sense of Consciousness</episode>
+    <comments>Thomas Metzinger and Anil Seth seem to be the ones who most strongly disagree with Sam's views, at least when it comes to the hard problem of consciousness. "In this episode, we survey the landscape of consciousness and get acquainted with the mystery of the mind."</comments>
+  </podcast>
+  <podcast>
     <date>2026-08-13</date>
     <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
     <episode url="https://www.samharris.org/podcasts/making-sense-episodes/488-ego-ecstasy-and-equanimity" number="488">Ego, Ecstasy, and Equanimity - A Conversation with Neal Brennan</episode>
