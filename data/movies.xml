@@ -3,6 +3,16 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Add rating to IMDb -->
   <movie>
+    <date>2026-08-20</date>
+    <theater home="true"/>
+    <director>Howard Hawks</director>
+    <title>His Girl Friday</title>
+    <url>https://www.imdb.com/title/tt0032599/</url>
+    <rating>4.75</rating>
+    <comments>A film with an enormous amount of dialogue, incredibly fast-paced and full of twists. A great discovery!</comments>
+    <image>His Girl Friday.jpg</image>
+  </movie>
+  <movie>
     <date>2026-08-15</date>
     <theater>Théâtre du Jorat, Mézières</theater>
     <director>Charlie Chaplin</director>
