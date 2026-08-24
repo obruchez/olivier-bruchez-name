@@ -2,6 +2,12 @@
 <podcasts created="2016-05-10">
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date>2026-08-24</date>
+    <name url="https://podcast.ausha.co/violet">Violet - Le Podcast sur Prince et le Minneapolis Sound</name>
+    <episode url="https://podcast.ausha.co/violet/the-time-ice-cream-castle-dez-dickerson-modernaire-il-etait-une-fois-au-first-avenue">THE TIME - Ice Cream Castle / DEZ DICKERSON - Modernaire : Il était une fois au First Avenue</episode>
+    <comments>Encore une discussion fascinante un projet mineur ("Modernaire"), ains que sur le troisième album de The Time.</comments>
+  </podcast>
+  <podcast>
     <date>2026-08-16</date>
     <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
     <episode url="https://www.samharris.org/episode/SE27CFA36CC">The Essential Sam Harris: Making Sense of Consciousness</episode>
