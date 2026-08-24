@@ -3,6 +3,16 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Add rating to IMDb -->
   <movie>
+    <date>2026-08-22</date>
+    <theater home="true"/>
+    <director>Cédric Klapisch</director>
+    <title>La Venue de l'avenir</title>
+    <url>https://www.imdb.com/title/tt31411349/</url>
+    <rating>4.5</rating>
+    <comments>Une idée sympathique et un film somme toute assez léger et divertissant.</comments>
+    <image>La Venue de l'avenir.jpg</image>
+  </movie>
+  <movie>
     <date>2026-08-20</date>
     <theater home="true"/>
     <director>Howard Hawks</director>
