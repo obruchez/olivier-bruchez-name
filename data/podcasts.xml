@@ -2,6 +2,12 @@
 <podcasts created="2016-05-10">
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date>2026-08-26</date>
+    <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
+    <episode url="https://www.samharris.org/podcasts/making-sense-episodes/489-more-from-sam-a-fabulist-at-cambridge-the-strait-of-hormuz-aoc-in-2028-and-more" number="489">More From Sam: A Fabulist at Cambridge, the Strait of Hormuz, AOC in 2028, and More</episode>
+    <comments>"In this latest episode of the More From Sam series, Sam and Jaron talk about current events. They discuss the death of Cambridge professor Jason Arday and the institutions that promoted him, America's deteriorating position in the war with Iran, the witch hunt against Anthony Fauci, AOC's prospects in 2028, two former NBA players trolling the WNBA's eligibility rules, the strange appeal of Nick Fuentes, why pacifism fails against real evil, a Making Sense community question on parenthood and mortality, and other topics."</comments>
+  </podcast>
+  <podcast>
     <date>2026-08-24</date>
     <name url="https://podcast.ausha.co/violet">Violet - Le Podcast sur Prince et le Minneapolis Sound</name>
     <episode url="https://podcast.ausha.co/violet/the-time-ice-cream-castle-dez-dickerson-modernaire-il-etait-une-fois-au-first-avenue">THE TIME - Ice Cream Castle / DEZ DICKERSON - Modernaire : Il était une fois au First Avenue</episode>
