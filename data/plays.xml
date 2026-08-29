@@ -9,6 +9,25 @@
     <actor></actor>
   -->
   <play>
+    <date>2026-08-28</date>
+    <location>Théâtre du Jorat, Mézières, Switzerland</location>
+    <name>Histoire d'un Cid</name>
+    <author>Pierre Corneille</author>
+    <director>Jean Bellorini</director>
+    <actor>Cindy Almeida de Brito</actor>
+    <actor>François Deblock</actor>
+    <actor>Karyll Elgrichi</actor>
+    <actor>Federico Vanni</actor>
+    <rating>4.75</rating>
+    <comments>Une adaptation déjantée d'un classique du théâtre. Avec du Radiohead et du Starmania, entre autres.</comments>
+    <image>Histoire d'un Cid.jpg</image>
+    <!--
+	D'après Le Cid de Pierre Corneille, adaptation collective du texte, mise en scène Jean Bellorini.
+	Rôle en alternance : Federico Vanni / Luca Iervolino (je ne sais pas lequel jouait le 28.08.2026).
+	Musiciens : Clément Griffault (claviers), Benoit Prisset (percussions).
+    -->
+  </play>
+  <play>
     <date>2026-06-19</date>
     <location>Théâtre du Jorat, Mézières, Switzerland</location>
     <name>Dracula</name>
