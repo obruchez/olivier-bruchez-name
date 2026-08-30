@@ -2,6 +2,12 @@
 <hikes created="2012-12-15">
   <introduction>A list of hikes I took.</introduction>
   <hike>
+    <date>2026-08-30</date>
+    <place>Riggisalp / Brecca / Schwarzsee, Switzerland</place>
+    <!-- <pictures url="/"/> -->
+    <comments>I don't think I'd ever been to Schwarzsee before. We did this relatively short hike with our 8-year-old son and some friends of ours.</comments>
+  </hike>
+  <hike>
     <date>2026-08-09</date>
     <place>Solalex / Anzeindaz, Switzerland</place>
     <!-- <pictures url="/"/> -->
