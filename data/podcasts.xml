@@ -2,6 +2,12 @@
 <podcasts created="2016-05-10">
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date>2026-08-31</date>
+    <name url="https://www.patreon.com/c/HamiltonMorris">The Hamilton Morris Podcast</name>
+    <episode number="148">The history of ecstasy tablet design with Adam Fierman</episode>
+    <comments>"In this episode I sit down with the artist and MDMA design historian Adam Fierman to talk about his new book, the underground world of ecstasy tablet collectors, swastika tablets, copyright law, and more!"</comments>
+  </podcast>
+  <podcast>
     <date>2026-08-26</date>
     <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
     <episode url="https://www.samharris.org/podcasts/making-sense-episodes/489-more-from-sam-a-fabulist-at-cambridge-the-strait-of-hormuz-aoc-in-2028-and-more" number="489">More From Sam: A Fabulist at Cambridge, the Strait of Hormuz, AOC in 2028, and More</episode>
