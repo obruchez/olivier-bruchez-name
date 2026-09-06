@@ -3,6 +3,26 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Add rating to IMDb -->
   <movie>
+    <date>2026-09-05</date>
+    <theater home="true"/>
+    <director>David Fincher</director>
+    <title>The Social Network</title>
+    <url>https://www.imdb.com/title/tt1285016/</url>
+    <rating>4.75</rating>
+    <comments>I usually like films with less rapid-fire dialogue, but it worked quite well here. It's crazy to think that this film is from 2010. Sixteen years later, Facebook is still a net negative for society.</comments>
+    <image>The Social Network.jpg</image>
+  </movie>
+  <movie>
+    <date>2026-09-04</date>
+    <theater home="true"/>
+    <director>Dominik Moll</director>
+    <title>Lemming</title>
+    <url>https://www.imdb.com/title/tt0415932/</url>
+    <rating>4.5</rating>
+    <comments>Un film lynchien, meilleur que prévu. La voix off explicative à la fin était probablement de trop, toutefois (une décision de producteur plus que du réalisateur ?).</comments>
+    <image>Lemming.jpg</image>
+  </movie>
+  <movie>
     <date>2026-08-22</date>
     <theater home="true"/>
     <director>Cédric Klapisch</director>
