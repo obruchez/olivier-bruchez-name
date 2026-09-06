@@ -2,6 +2,12 @@
 <podcasts created="2016-05-10">
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date>2026-09-04</date>
+    <name url="http://verybadwizards.com/">Very Bad Wizards</name>
+    <episode url="https://verybadwizards.com/episode/episode-336-the-wright-stuff" number="336">The Wright Stuff</episode>
+    <comments>A frustrating debate. Nothing came out of it, I think. "The great Robert Wright returns to the podcast to talk about his new book <i>The God Test: Artificial Intelligence and Our Coming Cosmic Reckoning</i>. We debate the magnitude of AI's potential impact, the natural selection analogy Bob presses in the book, and a whole lot more. Plus, a new AI-powered collar can translate your pet's sounds and behavior into language with 95% accuracy! Still skeptical about the power of this new technology Tamler?"</comments>
+  </podcast>
+  <podcast>
     <date>2026-08-31</date>
     <name url="https://www.patreon.com/c/HamiltonMorris">The Hamilton Morris Podcast</name>
     <episode number="148">The history of ecstasy tablet design with Adam Fierman</episode>
