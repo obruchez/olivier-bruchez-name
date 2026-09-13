@@ -7,6 +7,16 @@
   -->
   <introduction>A list of concerts I went to.</introduction>
   <concert>
+    <date>2026-09-11</date>
+    <location>Petit Palais, Fairmont Le Montreux Palace, Montreux, Switzerland</location>
+    <event>Septembre Musical Montreux-Vevey</event>
+    <group>Kirill Gerstein &amp; Brad Mehldau</group>
+    <musician inst="piano" main="true">Kirill Gerstein</musician>
+    <musician inst="piano" main="true">Brad Mehldau</musician>
+    <rating>5.0</rating>
+    <comments>My 15<sup>th</sup> Brad Mehldau concert, this time in a more classical setting. They played Brad's own compositions, but also compositions by Fauré and Brahms. The idea (a dialogue between two pianists) was fun.</comments>
+  </concert>
+  <concert>
     <date>2026-07-26</date>
     <location>Véga, Nyon, Switzerland</location>
     <event>Paléo Festival de Nyon</event>
