@@ -2,6 +2,12 @@
 <podcasts created="2016-05-10">
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date>2026-09-08</date>
+    <name url="https://freakonomics.com/">Freakonomics Radio</name>
+    <episode url="https://freakonomics.com/podcast/the-suicide-paradox/" number="40">The Suicide Paradox</episode>
+    <comments>The paradox is that people in "healthy societies" kill themselves more often. "There are more than twice as many suicides as murders in the U.S., but suicide attracts far less scrutiny. <i>Freakonomics Radio</i> digs through the numbers and finds all kinds of surprises."</comments>
+  </podcast>
+  <podcast>
     <date>2026-09-04</date>
     <name url="http://verybadwizards.com/">Very Bad Wizards</name>
     <episode url="https://verybadwizards.com/episode/episode-336-the-wright-stuff" number="336">The Wright Stuff</episode>
