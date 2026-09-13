@@ -3,6 +3,27 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Add rating to IMDb -->
   <movie>
+    <date>2026-09-11</date>
+    <theater home="true"/>
+    <director>Woody Allen</director>
+    <title>The Purple Rose of Cairo</title>
+    <url>https://www.imdb.com/title/tt0089853/</url>
+    <rating>5.0</rating>
+    <comments>My first Woody Allen film in 10 years. Controversy aside, I should watch more of his films.</comments>
+    <image>The Purple Rose of Cairo.jpg</image>
+  </movie>
+  <movie>
+    <date>2026-09-07</date>
+    <theater home="true"/>
+    <director>Brice Cauvin</director>
+    <title>De particulier à particulier</title>
+    <title language="en">Hotel Harabati</title>
+    <url>https://www.imdb.com/title/tt0436216/</url>
+    <rating>4.25</rating>
+    <comments>Un autre film lynchien, peut-être un peu moins abouti que celui de Moll, vu quelques jours plus tôt, également avec Laurent Lucas. La fin semble ambitieuse, mais arrive un peu étrangement. Elle n'est pas sans rappeler celle de <i>La moustache</i>, sort un an plus tôt.</comments>
+    <image>De particulier à particulier.jpg</image>
+  </movie>
+  <movie>
     <date>2026-09-05</date>
     <theater home="true"/>
     <director>David Fincher</director>
