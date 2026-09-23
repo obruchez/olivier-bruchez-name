@@ -2,6 +2,12 @@
 <podcasts created="2016-05-10">
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date>2026-09-22</date>
+    <name url="https://podcasts.apple.com/us/podcast/how-can-u-just-leave-me-standing-in-search-of-prince/id1562509939">How can U just leave me standing? ...in search of Prince Rogers Nelson.</name>
+    <episode url="https://podcasts.apple.com/us/podcast/episode-1-mark-brown-made-his-debut-gig-at-19-years/id1562509939?i=1000516589712" number="1">Mark Brown made his debut gig at 19 years old supporting The Rolling Stones at the LA Coliseum in front of 90,000 people. Renamed BrownMark he was on bass when Purple Rain was played live for the very first time by Prince and The Revolution at First Avenue.</episode>
+    <comments>"Calling all music lovers, come with us - back to the early 1980s. As a teenager Mark Brown first saw Prince, entering a restaurant he was working at, looking like a rock star (but long before he became a superstar). At the tender age of just 19, he joined his band, renamed Brownmark he was the first bass player to perform Purple Rain live one hot August night in a club called First Avenue in Minneapolis, which went on to be immortalised in the hit movie. He took his place onstage, and became a part of music history, as a pop culture phenomenon was born."</comments>
+  </podcast>
+  <podcast>
     <date>2026-09-18</date>
     <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
     <episode url="https://www.samharris.org/podcasts/making-sense-episodes/493-two-reasons-to-meditate" number="493">Two Reasons to Meditate</episode>
