@@ -3,6 +3,16 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Add rating to IMDb -->
   <movie>
+    <date>2026-09-19</date>
+    <theater home="true"/>
+    <director>Kirk Jones</director>
+    <title>I Swear</title>
+    <url>https://www.imdb.com/title/tt31514146/</url>
+    <rating>4.5</rating>
+    <comments>Not a bad film, but one that a little too often feels as if it was made specifically to change how people perceive Tourette syndrome. It's funny at times, but I can't say I was really moved.</comments>
+    <image>I Swear.jpg</image>
+  </movie>
+  <movie>
     <date>2026-09-15</date>
     <theater home="true"/>
     <director>Alfred Hitchcock</director>
