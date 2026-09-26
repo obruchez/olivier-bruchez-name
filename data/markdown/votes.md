@@ -2,6 +2,22 @@
 
 My votes (in French). En Suisse, on ne plaisante pas avec la démocratie directe. :) J'essaie ici de documenter et de justifier la façon dont je me positionne par rapport aux votations fédérales, qui ont lieu jusqu'à quatre fois par année.
 
+## [Votation fédérale du 27 septembre 2026](https://www.admin.ch/fr/votation-populaire-du-27-septembre-2026)
+
+### Acceptez-vous l’initiative populaire « Sauvegarder la neutralité suisse (initiative sur la neutralité) » ?
+
+Non. Résultat : ? (?.?%).
+
+### Acceptez-vous l’initiative populaire « Pour une alimentation sûre – grâce au renforcement de la production indigène durable, à davantage de denrées alimentaires végétales et à une eau potable propre (initiative sur l’alimentation) » ?
+
+Oui. Résultat : ? (?.?%).
+
+## [Votation cantonale (Vaud) du 27 septembre 2026](https://www.vd.ch/etat-droit-finances/votations-et-elections/votations-federale-et-cantonale-du-27-septembre-2026)
+
+### Acceptez-vous l’initiative populaire « Baisse d’impôts pour tous – Redonner du pouvoir d’achat à la classe moyenne » ?
+
+Non. Résultat : ? (?.?%).
+
 ## [Votation fédérale du 8 mars 2026](https://www.admin.ch/gov/fr/accueil/documentation/votations/20260308.html)
 
 ### Acceptez-vous l’initiative populaire « Oui à une monnaie suisse libre et indépendante sous forme de pièces ou de billets  (l’argent liquide, c’est la liberté) » ?
