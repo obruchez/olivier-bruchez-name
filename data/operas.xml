@@ -1,0 +1,389 @@
+<?xml version="1.0" encoding="utf-8"?>
+<operas created="2026-09-26">
+  <introduction>A list of operas I saw.</introduction>
+  <!--
+    <composer></composer>
+    <director></director>
+    <musician inst=""></musician>
+  -->
+  <opera>
+    <date>2026-06-21</date>
+    <location>Opéra de Lausanne, Lausanne, Switzerland</location>
+    <name>Rigoletto</name>
+    <composer>Giuseppe Verdi</composer>
+    <director>Richard Brunel</director>
+    <musician inst="vocals">Davide Tuscano</musician>
+    <musician inst="vocals">Lionel Lhote</musician>
+    <musician inst="vocals">Marie Lys</musician>
+    <musician inst="vocals">Vartan Gabrielian</musician>
+    <musician inst="vocals">Sophie Kidwell</musician>
+    <musician inst="vocals">Sulkhan Jaiani</musician>
+    <musician inst="vocals">Vincent Casagrande</musician>
+    <musician inst="vocals">Matthieu Justine</musician>
+    <musician inst="vocals">Kyu Choi</musician>
+    <musician inst="vocals">Anouk Molendijk</musician>
+    <musician inst="vocals">Léa Sirera</musician>
+    <musician inst="vocals">Solène Nancy</musician>
+    <musician inst="dance">Agnès Letestu</musician>
+    <musician inst="orchestra">Orchestre de Chambre de Lausanne</musician>
+    <musician inst="conductor">Giulio Cilona</musician>
+    <musician inst="choir">Chœur de l’Opéra de Lausanne</musician>
+    <musician inst="choir director">Anass Ismat</musician>
+    <rating>5.0</rating>
+    <comments>A truly excellent French production, with impressive sets and an inventive staging.</comments>
+    <image>Rigoletto.jpg</image>
+    <!--
+	Rôles : Davide Tuscano (Le Duc de Mantoue), Lionel Lhote (Rigoletto), Marie Lys (Gilda), Vartan Gabrielian (Sparafucile), Sophie Kidwell (Maddalena), Sulkhan Jaiani (Comte Monterone), Vincent Casagrande (Marullo), Matthieu Justine (Borsa), Kyu Choi (Le Comte Ceprano), Anouk Molendijk (Giovanna), Léa Sirera (Le Page), Solène Nancy (La Comtesse Ceprano), Agnès Letestu (La mère de Gilda, danseuse étoile).
+	Décors : Étienne Pluss. Costumes : Thibault Vancraenenbroeck. Lumières : Laurent Castaingt. Chorégraphie : Maxime Thomas. Dramaturgie : Catherine Ailloud-Nicolas. Collaboration à la mise en scène : Alex Crestey.
+    -->
+  </opera>
+  <opera>
+    <date>2025-12-21</date>
+    <location>Opéra de Lausanne, Lausanne, Switzerland</location>
+    <name>Barbe-Bleue</name>
+    <composer>Jacques Offenbach</composer>
+    <director>Laurent Pelly</director>
+    <musician inst="vocals">Florian Laconi</musician>
+    <musician inst="vocals">Jérémy Duffau</musician>
+    <musician inst="vocals">Jennifer Courcier</musician>
+    <musician inst="vocals">Héloïse Mas</musician>
+    <musician inst="vocals">Christophe Gay</musician>
+    <musician inst="vocals">Thibault de Damas</musician>
+    <musician inst="vocals">Christophe Mortagne</musician>
+    <musician inst="vocals">Julie Pasturaud</musician>
+    <musician inst="vocals">Naïma Wanshe</musician>
+    <musician inst="vocals">Léa Sirera</musician>
+    <musician inst="vocals">Lauriane Paillet</musician>
+    <musician inst="vocals">Eudoxie Mottironi</musician>
+    <musician inst="vocals">Solène Nancy</musician>
+    <musician inst="vocals">Aurélien Reymond-Moret</musician>
+    <musician inst="orchestra">Sinfonietta de Lausanne</musician>
+    <musician inst="conductor">Alexandra Cravero</musician>
+    <musician inst="choir">Chœur de l’Opéra de Lausanne</musician>
+    <musician inst="choir director">Guillaume Rault</musician>
+    <rating>5.0</rating>
+    <comments>A comic opera we didn't know but enjoyed very much.</comments>
+    <image>Barbe-Bleue.jpg</image>
+  </opera>
+  <opera>
+    <date>2025-05-18</date>
+    <location>Opéra de Lausanne, Lausanne, Switzerland</location>
+    <name>Carmen</name>
+    <composer>Georges Bizet</composer>
+    <director>Jean-François Sivadier</director>
+    <musician inst="vocals">Antoinette Dennefeld</musician>
+    <musician inst="vocals">Adriana González</musician>
+    <musician inst="vocals">Judith Fa</musician>
+    <musician inst="vocals">Séraphine Cotrez</musician>
+    <musician inst="vocals">Edgaras Montvidas</musician>
+    <musician inst="vocals">Philippe Sly</musician>
+    <musician inst="vocals">Olivier Gourdy</musician>
+    <musician inst="vocals">Rémi Ortega</musician>
+    <musician inst="vocals">Loïc Félix</musician>
+    <musician inst="vocals">Raphaël Brémard</musician>
+    <musician inst="vocals">Yanis Skouta</musician>
+    <musician inst="vocals">Roman Conrad</musician>
+    <musician inst="vocals">Vincent Kohler</musician>
+    <musician inst="vocals">Antonio Lourenco</musician>
+    <musician inst="orchestra">Orchestre de Chambre de Lausanne</musician>
+    <musician inst="conductor">Jean-Marie Zeitouni</musician>
+    <musician inst="choir">Chœur de l’Opéra de Lausanne</musician>
+    <musician inst="choir director">Alessandro Zuppardo</musician>
+    <musician inst="choir">Les Chœurs de l’Ecole de Musique de Lausanne</musician>
+    <musician inst="choir director">Catherine Fender</musician>
+    <rating>5.0</rating>
+    <comments>One of the most well-known operas of all time. I first saw it in Avenches in 1996. The sets were simple, but everything else was excellent.</comments>
+    <image>Carmen 2025.jpg</image>
+  </opera>
+  <opera>
+    <date>2025-04-13</date>
+    <location>Opéra de Lausanne, Lausanne, Switzerland</location>
+    <name>Don Pasquale</name>
+    <composer>Gaetano Donizetti</composer>
+    <director>Tim Sheader</director>
+    <musician inst="vocals">Omar Montanari</musician>
+    <musician inst="vocals">Angelica Disanto</musician>
+    <musician inst="vocals">Joel Prieto</musician>
+    <musician inst="vocals">Dario Solari</musician>
+    <musician inst="vocals">Julia Deit-Ferrand</musician>
+    <musician inst="orchestra">Orchestre de Chambre de Lausanne</musician>
+    <musician inst="conductor">Giuseppe Grazioli</musician>
+    <musician inst="choir">Chœur de l’Opéra de Lausanne</musician>
+    <musician inst="choir director">Jacopo Facchini</musician>
+    <rating>5.25</rating>
+    <comments>Very impressive sets and costumes. Good acting. A success.</comments>
+    <image>Don Pasquale.png</image>
+  </opera>
+  <opera>
+    <date>2025-01-24</date>
+    <location>Opéra de Lausanne, Lausanne, Switzerland</location>
+    <name>Petite balade aux enfers</name>
+    <composer>Christoph Willibald Gluck</composer>
+    <director>Valérie Lesort</director>
+    <musician inst="piano">Marine Thoreau La Salle</musician>
+    <musician inst="vocals">Herlinde Van de Straete</musician>
+    <musician inst="vocals">Caroline Guentensperger</musician>
+    <musician inst="vocals">Sophia Ianni</musician>
+    <musician inst="puppeteer">Florimond Plantier</musician>
+    <musician inst="puppeteer">Sami Adjali</musician>
+    <musician inst="puppeteer">Bertil Cazaumayou</musician>
+    <rating>5.0</rating>
+    <comments>Lyrical show with puppets, after <i>Orpheus and Eurydice</i> by Christoph Willibald Gluck. My wife, my 6-year-old son and I loved it. The puppets were hilarious. The audience as a whole loved it as well.</comments>
+    <image>Petite balade aux enfers.jpg</image>
+  </opera>
+  <opera>
+    <date>2024-10-06</date>
+    <location>Opéra de Lausanne, Lausanne, Switzerland</location>
+    <name>Guillaume Tell</name>
+    <composer>Gioachino Rossini</composer>
+    <director>Bruno Ravella</director>
+    <musician inst="vocals">Jean-Sébastien Bou</musician>
+    <musician inst="vocals">Olga Kulchynska</musician>
+    <musician inst="vocals">Julien Dran</musician>
+    <musician inst="vocals">Elisabeth Boudreault</musician>
+    <musician inst="vocals">Géraldine Chauvet</musician>
+    <musician inst="vocals">Frédéric Caton</musician>
+    <musician inst="vocals">Luigi De Donato</musician>
+    <musician inst="vocals">Sahy Ratia</musician>
+    <musician inst="vocals">Jean Miannay</musician>
+    <musician inst="vocals">Warren Kempf</musician>
+    <musician inst="vocals">Marc Scoffoni</musician>
+    <musician inst="orchestra">Orchestre de Chambre de Lausanne</musician>
+    <musician inst="conductor">Francesco Lanzillotta</musician>
+    <musician inst="choir">Chœur de l’Opéra de Lausanne</musician>
+    <musician inst="choir director">Alessandro Zuppardo</musician>
+    <rating>4.75</rating>
+    <comments>Apart from the overture, which is very famous, I didn't know anything about this long opera. All the singers were excellent. I was not particularly touched/moved by some of the themes (patriotism, freedom/tyranny).</comments>
+    <image>Guillaume Tell.png</image>
+  </opera>
+  <opera>
+    <date>2024-02-04</date>
+    <location>Opéra de Lausanne, Lausanne, Switzerland</location>
+    <name>Così fan tutte</name>
+    <composer>Wolfgang Amadeus Mozart</composer>
+    <director>Jean Liermier</director>
+    <musician inst="vocals">Arianna Vendittelli</musician>
+    <musician inst="vocals">Wallis Giunta</musician>
+    <musician inst="vocals">Pavel Petrov</musician>
+    <musician inst="vocals">Robert Gleadow</musician>
+    <musician inst="vocals">Rubén Amoretti</musician>
+    <musician inst="vocals">Marie Lys</musician>
+    <musician inst="orchestra">Orchestre de Chambre de Lausanne</musician>
+    <musician inst="conductor">Diego Fasolis</musician>
+    <musician inst="choir">Chœur de l’Opéra de Lausanne</musician>
+    <musician inst="choir director">Diego Fasolis</musician>
+    <rating>5.0</rating>
+    <comments>A convincing and entertaining reality TV version of this opera, which completely makes sense, when you think about it. It was already played in 2018, with a different set of musicians (except for Robert Gleadow).</comments>
+    <image>Così fan tutte.jpg</image>
+  </opera>
+  <opera>
+    <date>2023-11-12</date>
+    <location>Opéra de Lausanne, Lausanne, Switzerland</location>
+    <name>Cendrillon</name>
+    <composer>Pauline Viardot</composer>
+    <director>Gilles Rico</director>
+    <musician inst="vocals">Nuada Le Drève</musician>
+    <musician inst="vocals">Rémi Ortega</musician>
+    <musician inst="vocals">Maxence Billiemaz</musician>
+    <musician inst="vocals">Emma Delannoy</musician>
+    <musician inst="vocals">Jean Miannay</musician>
+    <musician inst="vocals">Aurélie Brémond</musician>
+    <musician inst="vocals">Ludmila Schwartzwalder</musician>
+    <musician inst="orchestra">Orchestre de la Haute école de Musique de Lausanne</musician>
+    <musician inst="conductor">Marc Leroy-Calatayud</musician>
+    <rating>4.75</rating>
+    <comments>Our 5-and-a-half-year-old son's first opera. He loved it.</comments>
+    <image>Cendrillon.png</image>
+  </opera>
+  <opera>
+    <date>2018-04-22</date>
+    <location>Opéra de Lausanne, Lausanne, Switzerland</location>
+    <name>La donna del lago</name>
+    <composer>Gioachino Rossini</composer>
+    <director>Max Emanuel Cencic</director>
+    <musician inst="vocals">Lena Belkina</musician>
+    <musician inst="vocals">Max Emanuel Cencic</musician>
+    <musician inst="vocals">Daniel Behle</musician>
+    <musician inst="vocals">Juan Francisco Gatell</musician>
+    <musician inst="vocals">Daniel Golossov</musician>
+    <musician inst="vocals">Delphine Gillot</musician>
+    <musician inst="vocals">Tristan Blanchet</musician>
+    <musician inst="vocals">Aurélien Reymond-Moret</musician>
+    <musician inst="orchestra">Orchestre de Chambre de Lausanne</musician>
+    <musician inst="conductor">George Petrou</musician>
+    <musician inst="choir">Chœur de l’Opéra de Lausanne</musician>
+    <musician inst="choir director">Antonio Greco</musician>
+    <rating>4.75</rating>
+    <comments>This was the last opera we will be able to attend for a while. It was an incredible experience as usual, but I was maybe a little bit underwhelmed by the production and the adaptation. Also, I'm not against nudity and eroticism, but it was probably a bit overused here.</comments>
+    <image>La donna del lago.jpg</image>
+  </opera>
+  <opera>
+    <date>2018-03-25</date>
+    <location>Opéra de Lausanne, Lausanne, Switzerland</location>
+    <name>La clemenza di Tito</name>
+    <composer>Wolfgang Amadeus Mozart</composer>
+    <director>Fabio Ceresa</director>
+    <musician inst="vocals">Paolo Fanale</musician>
+    <musician inst="vocals">Salome Jicia</musician>
+    <musician inst="vocals">Sylvia Schwartz</musician>
+    <musician inst="vocals">Yuriy Mynenko</musician>
+    <musician inst="vocals">Lamia Beuque</musician>
+    <musician inst="vocals">Daniel Golossov</musician>
+    <musician inst="orchestra">Orchestre de Chambre de Lausanne</musician>
+    <musician inst="conductor">Diego Fasolis</musician>
+    <musician inst="choir">Chœur de l’Opéra de Lausanne</musician>
+    <musician inst="choir director">Pascal Mayer</musician>
+    <rating>5.0</rating>
+    <comments>Another very good production from the Opéra de Lausanne. The set was impressive, as often (monumental statues, scale model of Rome, etc.). Several "monologues" got well-deserved applause from the audience.</comments>
+    <image>La clemenza di Tito.jpg</image>
+  </opera>
+  <opera>
+    <date>2017-06-11</date>
+    <location>Opéra de Lausanne, Lausanne, Switzerland</location>
+    <name>Don Giovanni</name>
+    <composer>Wolfgang Amadeus Mozart</composer>
+    <director>Éric Vigié</director>
+    <musician inst="vocals">Kostas Smoriginas</musician>
+    <musician inst="vocals">Riccardo Novaro</musician>
+    <musician inst="vocals">Anne-Catherine Gillet</musician>
+    <musician inst="vocals">Lucia Cirillo</musician>
+    <musician inst="vocals">Catherine Trottmann</musician>
+    <musician inst="vocals">Anicio Zorzi Giustiniani</musician>
+    <musician inst="vocals">Ruben Amoretti</musician>
+    <musician inst="vocals">Leon Košavić</musician>
+    <musician inst="orchestra">Orchestre de Chambre de Lausanne</musician>
+    <musician inst="conductor">Michael Güttler</musician>
+    <musician inst="choir">Chœur de l’Opéra de Lausanne</musician>
+    <musician inst="choir director">Pascal Mayer</musician>
+    <rating>5.0</rating>
+    <comments>Yet another famous opera that I didn't know. A lot of excellent singers. The sets in the second part were particularly impressive (the scenes with the Statue), yet quite simple. Some of the colors/lights effects were also simple but effective. After seeing Molière's <i>Dom Juan</i> at Théâtre de Vidy last year, it was intriguing to see Mozart / Lorenzo da Ponte's take on the Don Juan character.</comments>
+    <image>Don Giovanni.jpg</image>
+  </opera>
+  <opera>
+    <date>2017-03-26</date>
+    <location>Opéra de Lausanne, Lausanne, Switzerland</location>
+    <name>La Bohème</name>
+    <composer>Giacomo Puccini</composer>
+    <director>Claude Stratz</director>
+    <musician inst="vocals">Emily Dorn</musician>
+    <musician inst="vocals">Giorgio Berrugi</musician>
+    <musician inst="vocals">Anne-Sophie Petit</musician>
+    <musician inst="vocals">Vittorio Prato</musician>
+    <musician inst="vocals">Luigi De Donato</musician>
+    <musician inst="vocals">Benoît Capt</musician>
+    <musician inst="vocals">Mario Marchisio</musician>
+    <musician inst="vocals">Marin Yonchev</musician>
+    <musician inst="orchestra">Orchestre de Chambre de Lausanne</musician>
+    <musician inst="conductor">Jean-Yves Ossonce</musician>
+    <musician inst="choir">Chœur de l’Opéra de Lausanne</musician>
+    <musician inst="choir director">Jacques Blanc</musician>
+    <musician inst="">Maîtrise Opéra du Conservatoire de Lausanne</musician>
+    <rating>5.0</rating>
+    <comments>This was my fourth opera at the Opéra de Lausanne. As usual, I didn't know anything about the work (let's say I wanted to have a fresh, neophyte perspective - but I'm a bit lazy as well...). The first two acts (before the intermission) are very happy. Almost mushy. The last two acts are a bit more dramatic. The very end of the fourth act is really designed to make you cry. The main themes are quite common, a bit clichés: the poor artist, love at first sight, happiness in poverty, etc. The music is easy to follow. Overall, I really liked the simple (but not pared-down) set and the singers were very good. Some of the longer "monologues" got a lot of applause from the audience.</comments>
+    <image>La Bohème.jpg</image>
+  </opera>
+  <opera>
+    <date>2016-06-12</date>
+    <location>Opéra de Lausanne, Lausanne, Switzerland</location>
+    <name>Faust</name>
+    <composer>Charles Gounod</composer>
+    <director>Stefano Poda</director>
+    <musician inst="vocals">Paolo Fanale</musician>
+    <musician inst="vocals">Kenneth Kellog</musician>
+    <musician inst="vocals">Maria Katzarava</musician>
+    <musician inst="vocals">Régis Mengus</musician>
+    <musician inst="vocals">Benoît Capt</musician>
+    <musician inst="vocals">Carine Séchaye</musician>
+    <musician inst="vocals">Marina Viotti</musician>
+    <musician inst="orchestra">Orchestre de Chambre de Lausanne</musician>
+    <musician inst="conductor">Jean-Yves Ossonce</musician>
+    <musician inst="choir">Chœur de l’Opéra de Lausanne</musician>
+    <musician inst="choir director">Marcel Seminara</musician>
+    <rating>5.0</rating>
+    <comments></comments>
+    <image>Faust.jpg</image>
+  </opera>
+  <opera>
+    <date>2015-10-09</date>
+    <location>Opéra de Lausanne, Lausanne, Switzerland</location>
+    <name>La Cenerentola</name>
+    <composer>Gioachino Rossini</composer>
+    <director>Adriano Sinivia</director>
+    <musician inst="vocals">Serena Malfi</musician>
+    <musician inst="vocals">Edgardo Rocha</musician>
+    <musician inst="vocals">Alexandre Diakoff</musician>
+    <musician inst="vocals">Giorgio Caoduro</musician>
+    <musician inst="vocals">Laure Barras</musician>
+    <musician inst="vocals">Catherine Trottmann</musician>
+    <musician inst="vocals">Luigi De Donato</musician>
+    <musician inst="orchestra">Orchestre de Chambre de Lausanne</musician>
+    <musician inst="conductor">Stefano Ranzani</musician>
+    <musician inst="choir">Chœur de l’Opéra de Lausanne</musician>
+    <musician inst="choir director">Pascal Mayer</musician>
+    <musician inst="">Maîtrise Horizons du Conservatoire de Lausanne</musician>
+    <rating>5.0</rating>
+    <comments></comments>
+    <image>La Cenerentola.jpg</image>
+  </opera>
+  <opera>
+    <date>2015-06-10</date>
+    <location>Opéra de Lausanne, Lausanne, Switzerland</location>
+    <name>Die Zauberflöte</name>
+    <composer>Wolfgang Amadeus Mozart</composer>
+    <director>Pet Halmen</director>
+    <musician inst="vocals">Catalina Bertucci</musician>
+    <musician inst="vocals">Shawn Mathey</musician>
+    <musician inst="vocals">Anna Siminska</musician>
+    <musician inst="vocals">Benoît Capt</musician>
+    <musician inst="vocals">Kenneth Kellogg</musician>
+    <musician inst="vocals">Céline Mellon</musician>
+    <musician inst="vocals">Marion Grange</musician>
+    <musician inst="vocals">Inès Berlet</musician>
+    <musician inst="vocals">Marina Viotti</musician>
+    <musician inst="vocals">Johan Girardin</musician>
+    <musician inst="vocals">Maria Mitterfellner</musician>
+    <musician inst="vocals">Maud Niklas</musician>
+    <musician inst="vocals">André Gass</musician>
+    <musician inst="vocals">Stuart Patterson</musician>
+    <musician inst="vocals">Jérémie Brocard</musician>
+    <musician inst="orchestra">Orchestre de Chambre de Lausanne</musician>
+    <musician inst="conductor">Diego Fasolis</musician>
+    <musician inst="choir">Chœur de l’Opéra de Lausanne</musician>
+    <musician inst="choir director">Pascal Mayer</musician>
+    <musician inst="">Maîtrise Horizons du Conservatoire de Lausanne</musician>
+    <rating>5.0</rating>
+    <comments></comments>
+    <image>Die Zauberflöte.jpg</image>
+  </opera>
+  <opera>
+    <date>1999-07-24</date>
+    <location>Arènes d'Avenches, Avenches, Switzerland</location>
+    <name>Nabucco</name>
+    <composer>Giuseppe Verdi</composer>
+    <director>Renzo Giacchieri</director>
+    <musician inst="orchestra">Sinfonietta de Lausanne</musician>
+    <musician inst="conductor">Rico Saccani</musician>
+    <musician inst="choir director">Pascal Mayer</musician>
+    <rating></rating>
+    <comments>Unknown singers, choir, etc.</comments>
+    <image>Nabucco.jpg</image>
+    <!--
+	Festival d'opéra d'Avenches (5e édition), dernière représentation. Date corrigée le 2026-09-26 (1994 par erreur dans concerts.xml ; le festival a commencé en 1995).
+    -->
+  </opera>
+  <opera>
+    <date>1996-07-13</date>
+    <location>Arènes d'Avenches, Avenches, Switzerland</location>
+    <name>Carmen</name>
+    <composer>Georges Bizet</composer>
+    <director>Serafin Guiscafre</director>
+    <musician inst="orchestra">Orchestre des Rencontres musicales</musician>
+    <musician inst="conductor">John Neschling</musician>
+    <rating></rating>
+    <comments></comments>
+    <!--
+	Festival d'opéra d'Avenches (2e édition). Mise en scène : orthographe tirée d'une archive de presse numérisée (accents incertains).
+	Distribution en alternance, celle du 13.07.1996 est inconnue.
+    -->
+  </opera>
+</operas>
