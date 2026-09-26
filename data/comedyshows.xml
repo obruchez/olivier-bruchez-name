@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="utf-8"?>
+<comedyshows created="2026-09-26">
+  <introduction>A list of comedy shows I saw.</introduction>
+  <!--
+    <group></group>
+    <comedian></comedian>
+    <openingact></openingact>
+    <author></author>
+    <director></director>
+  -->
+  <comedyshow>
+    <date>2026-06-05</date>
+    <location>Salle de spectacles, Epalinges, Switzerland</location>
+    <name>Société Écrans</name>
+    <comedian>Thomas Wiesel</comedian>
+    <openingact>Paul Walther</openingact>
+    <rating></rating>
+    <comments></comments>
+    <image>Société Écrans.jpg</image>
+  </comedyshow>
+  <comedyshow>
+    <date>2026-04-03</date>
+    <location>Théâtre Barnabé, Servion, Switzerland</location>
+    <name>Le spectacle des 30 ans</name>
+    <group>Les Dicodeurs</group>
+    <director>Sébastien Corthésy</director>
+    <rating></rating>
+    <comments></comments>
+    <image>Les Dicodeurs - Le spectacle des 30 ans.jpg</image>
+    <!--
+	Présentation : Marie Riley. Coproduction RTS / Jokers Comedy.
+    -->
+  </comedyshow>
+  <comedyshow>
+    <date>2025-11-27</date>
+    <location>Arena de Genève, Genève, Switzerland</location>
+    <name>Mortality</name>
+    <comedian>Ricky Gervais</comedian>
+    <rating></rating>
+    <comments></comments>
+    <image>Mortality.jpg</image>
+  </comedyshow>
+  <comedyshow>
+    <date>2025-11-07</date>
+    <location>Théâtre Boulimie, Lausanne, Switzerland</location>
+    <name>Délicieux</name>
+    <comedian>David Castello-Lopes</comedian>
+    <rating></rating>
+    <comments></comments>
+    <image>Délicieux.jpg</image>
+  </comedyshow>
+  <comedyshow>
+    <date>2025-09-18</date>
+    <location>Théâtre du Jorat, Mézières, Switzerland</location>
+    <name>Merci pour le couteau à poisson, les conversations et les délices au jambon</name>
+    <comedian>Brigitte Rosset</comedian>
+    <director>Christian Scheidt</director>
+    <rating></rating>
+    <comments></comments>
+    <image>Merci pour le couteau à poisson, les conversations et les délices au jambon.jpg</image>
+  </comedyshow>
+  <comedyshow>
+    <date>2025-05-24</date>
+    <location>Arena de Genève, Genève, Switzerland</location>
+    <name>Authentique</name>
+    <comedian>David Castello-Lopes</comedian>
+    <rating></rating>
+    <comments></comments>
+    <image>Authentique.jpg</image>
+  </comedyshow>
+  <comedyshow>
+    <date>2025-04-12</date>
+    <location>Théâtre Barnabé, Servion, Switzerland</location>
+    <name>52 Minutes</name>
+    <comedian>Vincent Kucholl</comedian>
+    <comedian>Vincent Veillon</comedian>
+    <comedian>Thomas Wiesel</comedian>
+    <rating></rating>
+    <comments></comments>
+    <image>52 Minutes.jpg</image>
+    <!--
+	Enregistrement public de l'émission de la RTS. Invités : Dani et Nico Capone (duo Nicocapone : Daniela Pinto et Nicolas Scuderi).
+    -->
+  </comedyshow>
+  <comedyshow>
+    <date>2023-04-22</date>
+    <location>Arena de Genève, Genève, Switzerland</location>
+    <name>Boys Boys Boys</name>
+    <comedian>Florence Foresti</comedian>
+    <rating></rating>
+    <comments></comments>
+    <image>Boys Boys Boys.jpg</image>
+  </comedyshow>
+  <comedyshow>
+    <date>2022-03-30</date>
+    <location>Vaudoise Aréna, Lausanne, Switzerland</location>
+    <name>D'ailleurs</name>
+    <comedian>Gad Elmaleh</comedian>
+    <rating></rating>
+    <comments></comments>
+    <image>D'ailleurs.jpg</image>
+    <!--
+	Premier spectacle de la Vaudoise Aréna. Première partie non identifiée.
+    -->
+  </comedyshow>
+  <comedyshow>
+    <date>2016-03-18</date>
+    <location>Salle Métropole, Lausanne, Switzerland</location>
+    <name>Origines</name>
+    <comedian>Baptiste Lecaplain</comedian>
+    <author>Baptiste Lecaplain</author>
+    <author>Benjamin Guedj</author>
+    <director>Aslem Smida</director>
+    <rating></rating>
+    <comments></comments>
+    <image>Origines.jpg</image>
+  </comedyshow>
+  <comedyshow>
+    <date>2015-05-05</date>
+    <location>Arena de Genève, Genève, Switzerland</location>
+    <name>Madame Foresti</name>
+    <comedian>Florence Foresti</comedian>
+    <rating></rating>
+    <comments></comments>
+    <image>Madame Foresti.jpg</image>
+  </comedyshow>
+  <comedyshow>
+    <date>2010-12-01</date>
+    <location>Arena de Genève, Genève, Switzerland</location>
+    <name>Mother Fucker</name>
+    <comedian>Florence Foresti</comedian>
+    <rating></rating>
+    <comments></comments>
+    <image>Mother Fucker.jpg</image>
+  </comedyshow>
+  <comedyshow>
+    <date>2009-12-23</date>
+    <location>L'Olympia, Paris, France</location>
+    <name>Trop stylé</name>
+    <comedian>Dany Boon</comedian>
+    <openingact>Jérôme Commandeur</openingact>
+    <rating></rating>
+    <comments></comments>
+    <image>Trop stylé.jpg</image>
+  </comedyshow>
+  <comedyshow>
+    <date>2007-06-16</date>
+    <location>Pulloff Théâtres, Lausanne, Switzerland</location>
+    <name>Les Ravages De L'Ennui Chez Les Oursins</name>
+    <comedian>Laurent Flutsch</comedian>
+    <author>Laurent Flutsch</author>
+    <director>Jean-Luc Barbezat</director>
+    <!-- <person function="lumières">Alain Roche</person>
+    <person function="costume">Annick Yannopoulos</person>
+    <person function="illustrations">Karim Sauterel</person> -->
+    <rating>5.0</rating>
+    <comments>Spectacle humoristique.</comments>
+    <image>Les Ravages De L'Ennui Chez Les Oursins.jpg</image>
+  </comedyshow>
+  <comedyshow>
+    <date>2005-04-02</date>
+    <location>Cycle d'orientation, Le Châble, Switzerland</location>
+    <name>Délit de Suisse</name>
+    <comedian>Yann Lambiel</comedian>
+    <author>Yann Lambiel</author>
+    <author>Thierry Meury</author>
+    <author>Laurent Flutsch</author>
+    <author>Pierre Naftule</author>
+    <director>Jean-Luc Barbezat</director>
+    <director>Pierre Naftule</director>
+    <rating></rating>
+    <comments></comments>
+    <image>Délit de Suisse.jpg</image>
+  </comedyshow>
+  <comedyshow>
+    <date>2003-05-17</date>
+    <location>Yvonand, Switzerland</location>
+    <name>Satires obligatoires (?)</name>
+    <comedian>Yann Lambiel</comedian>
+    <rating></rating>
+    <comments></comments>
+  </comedyshow>
+  <comedyshow>
+    <date>2002-11-30</date>
+    <location>Théâtre Boulimie, Lausanne, Switzerland</location>
+    <name></name>
+    <comedian>Lova Golovtchiner</comedian>
+    <comedian>Martine Jeanneret</comedian>
+    <comedian>Samy Benjamin</comedian>
+    <comedian>Frédéric Gérard</comedian>
+    <comedian>Kaya Güner</comedian>
+    <rating></rating>
+    <comments></comments>
+  </comedyshow>
+  <comedyshow>
+    <date>2001-03-21</date>
+    <location>Théâtre Boulimie, Lausanne, Switzerland</location>
+    <name>30 ans ferme !</name>
+    <comedian>Lova Golovtchiner</comedian>
+    <comedian>Martine Jeanneret</comedian>
+    <comedian>Samy Benjamin</comedian>
+    <comedian>Frédéric Gérard</comedian>
+    <comedian>Kaya Güner</comedian>
+    <author>Lova Golovtchiner (?)</author>
+    <director>Martine Jeanneret</director>
+    <rating></rating>
+    <comments></comments>
+  </comedyshow>
+</comedyshows>

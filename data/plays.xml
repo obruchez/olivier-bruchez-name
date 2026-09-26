@@ -3691,20 +3691,6 @@ Conception affiche :        Bram Dauw
     <image>The Lion King.png</image>
   </play>
   <play>
-    <date>2007-06-16</date>
-    <location>Pulloff Théâtres, Lausanne, Switzerland</location>
-    <name>Les Ravages De L'Ennui Chez Les Oursins</name>
-    <author>Laurent Flutsch</author>
-    <director>Jean-Luc Barbezat</director>
-    <actor>Laurent Flutsch</actor>
-    <!-- <person function="lumières">Alain Roche</person>
-    <person function="costume">Annick Yannopoulos</person>
-    <person function="illustrations">Karim Sauterel</person> -->
-    <rating>5.0</rating>
-    <comments>Spectacle humoristique.</comments>
-    <image>Les Ravages De L'Ennui Chez Les Oursins.jpg</image>
-  </play>
-  <play>
     <date>2007-06-15</date>
     <location>Salle Charles Apothéloz, Théâtre de Vidy, Lausanne, Switzerland</location>
     <name>Le Médecin Malgré Lui</name>
@@ -4075,18 +4061,6 @@ Conception affiche :        Bram Dauw
     <author>Marcel Pagnol</author>
     <director>?</director>
     <actor>?</actor>
-  </play>
-  <play>
-    <date>2001-03-21</date>
-    <location>Théâtre Boulimie, Lausanne, Switzerland</location>
-    <name>30 ans ferme</name>
-    <author>Lova Golovtchiner (?)</author>
-    <director>Lova Golovtchiner (?)</director>
-    <actor>Lova Golovtchiner</actor>
-    <actor>Martine Jeanneret</actor>
-    <actor>Samy Benjamin</actor>
-    <actor>Frédéric Gérard</actor>
-    <actor>Kaya Güner</actor>
   </play>
   <play>
     <date>2000-07-15</date>
