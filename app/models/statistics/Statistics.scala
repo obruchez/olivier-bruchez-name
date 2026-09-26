@@ -107,12 +107,12 @@ case class Statistics(
     yearlyCounts(movies.listItems)
 
   def mostSeenPlayAuthors: Seq[(Int, String)] = {
-    val authors = plays.listItems.map(_.author)
+    val authors = plays.listItems.flatMap(_.authors)
     sortedValuesWithLabels(personsFromRawList(authors))
   }
 
   def mostSeenPlayDirectors: Seq[(Int, String)] = {
-    val directors = plays.listItems.map(_.director)
+    val directors = plays.listItems.flatMap(_.directors)
     sortedValuesWithLabels(personsFromRawList(directors))
   }
 

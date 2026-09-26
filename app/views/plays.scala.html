@@ -20,9 +20,9 @@
       <td>@play.name</td>
       <td>@{
         val paragraphs =
-          Seq(s"Author: ${play.author}", s"Director: ${play.director}") ++
-          play.adaptation.map(adaptation => s"Adaptation: $adaptation") ++
-          play.translation.map(translation => s"Translation: $translation") ++
+          Seq(s"Author: ${play.authors.mkString(", ")}", s"Director: ${play.directors.mkString(", ")}") ++
+          (if (play.adaptations.isEmpty) Seq() else Seq(s"Adaptation: ${play.adaptations.mkString(", ")}")) ++
+          (if (play.translations.isEmpty) Seq() else Seq(s"Translation: ${play.translations.mkString(", ")}")) ++
           (if (play.actors.isEmpty) Seq() else Seq(s"Actors: ${play.actors.mkString(", ")}"))
 
         paragraphs.map(paragraph => <p>{paragraph}</p>).foldLeft(xml.NodeSeq.Empty)(_ ++ _)

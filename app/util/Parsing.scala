@@ -4,7 +4,7 @@ import java.net.URL
 import models._
 import org.joda.time.Partial
 import scala.util.Try
-import scala.xml.Node
+import scala.xml.{Node, NodeSeq}
 
 object Parsing {
   def introductionFromNode(node: Node): Try[Option[Introduction]] = Try {
@@ -39,6 +39,9 @@ object Parsing {
       case Some(node) =>
         commentsFromString(node.child.mkString)
     }
+
+  def nonEmptyTexts(nodes: NodeSeq): Seq[String] =
+    nodes.map(_.text.trim).filter(_.nonEmpty)
 
   def dateFromString(string: String): Try[Partial] =
     Date.partialFromYyyymmddString(string.trim)
