@@ -18,23 +18,33 @@ Oui. Résultat : ? (?.?%).
 
 Non. Résultat : ? (?.?%).
 
+## [Votation fédérale du 14 juin 2026](https://www.admin.ch/fr/votation-populaire-du-14-juin-2026)
+
+### Acceptez-vous l’initiative populaire « Pas de Suisse à 10 millions ! (initiative pour la durabilité) » ?
+
+Non. Résultat : non (54.79%).
+
+### Acceptez-vous la modification du 26 septembre 2025 de la loi fédérale sur le service civil (LSC) ?
+
+Non. Résultat : oui (52.46%).
+
 ## [Votation fédérale du 8 mars 2026](https://www.admin.ch/gov/fr/accueil/documentation/votations/20260308.html)
 
 ### Acceptez-vous l’initiative populaire « Oui à une monnaie suisse libre et indépendante sous forme de pièces ou de billets  (l’argent liquide, c’est la liberté) » ?
 
-Non. Résultat : ? (?.?%).
+Non. Résultat : non (54.39%).
 
 ### Acceptez-vous l’initiative populaire « 200 francs, ça suffit ! (initiative SSR) » ?
 
-Non. Résultat : ? (?.?%).
+Non. Résultat : non (61.95%).
 
 ### Acceptez-vous l’initiative populaire « Pour une politique énergétique et climatique équitable : investir pour la prospérité, le travail et l’environnement (initiative pour un fonds climat) » ?
 
-Oui. Résultat : ? (?.?%).
+Oui. Résultat : non (70.71%).
 
 ### Acceptez-vous la loi fédérale du 20 juin 2025 sur l’imposition individuelle ?
 
-Oui. Résultat : ? (?.?%).
+Oui. Résultat : oui (54.26%).
 
 ## [Votation fédérale du 30 novembre 2025](https://www.bk.admin.ch/ch/f/pore/va/20251130/index.html)
 
