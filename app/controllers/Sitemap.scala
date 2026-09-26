@@ -25,7 +25,9 @@ object Sitemap {
   )
 
   val articles = Page(Articles, routes.Application.articles)
+  val ballets = Page(Ballets, routes.Application.ballets)
   val books = Page(Books, routes.Application.books)
+  val comedyShows = Page(ComedyShows, routes.Application.comedyShows)
   val comics = Page(Comics, routes.Application.comics)
   val concerts = Page(Concerts, routes.Application.concerts)
   val courses = Page(Courses, routes.Application.courses)
@@ -33,6 +35,7 @@ object Sitemap {
   val exhibitions = Page(Exhibitions, routes.Application.exhibitions)
   val hikes = Page(Hikes, routes.Application.hikes)
   val movies = Page(Movies, routes.Application.movies)
+  val operas = Page(Operas, routes.Application.operas)
   val plays = Page(Plays, routes.Application.plays)
   val podcasts = Page(Podcasts, routes.Application.podcasts)
   val shows = Page(Shows, routes.Application.shows)
@@ -52,7 +55,9 @@ object Sitemap {
       PageGroup(
         Seq(
           articles,
+          ballets,
           books,
+          comedyShows,
           comics,
           concerts,
           courses,
@@ -60,6 +65,7 @@ object Sitemap {
           exhibitions,
           hikes,
           movies,
+          operas,
           plays,
           podcasts,
           shows,
@@ -131,5 +137,18 @@ object Sitemap {
   }
 
   val recentActivityPages =
-    Seq(articles, books, concerts, exhibitions, movies, plays, podcasts, trips, shows)
+    Seq(
+      articles,
+      ballets,
+      books,
+      comedyShows,
+      concerts,
+      exhibitions,
+      movies,
+      operas,
+      plays,
+      podcasts,
+      trips,
+      shows
+    )
 }

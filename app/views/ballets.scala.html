@@ -1,0 +1,51 @@
+@import models.lifelogging.{ Ballet, Ballets }
+
+@(ballets: Ballets)
+
+@header = {
+  <tr class="list-header">
+    <th class="col-md-1">Date</th>
+    <th class="col-md-3">Location</th>
+    <th class="col-md-3">Name</th>
+    <th class="col-md-4">Credits</th>
+    <th class="col-md-1">Rating</th>
+  </tr>
+}
+
+@rowFromItem(listItem: ListItem, trClass: String) = {
+  @defining(listItem.asInstanceOf[Ballet]) { ballet =>
+    <tr class="list-details @trClass">
+      <td>@sluganddate(ballet)</td>
+      <td>@ballet.location</td>
+      <td>@{
+        ballet.pieces.map(piece => <p>{piece.name}</p>).foldLeft(xml.NodeSeq.Empty)(_ ++ _)
+      }</td>
+      <td>@{
+        def pieceCredits(prefix: String, choreographers: Seq[String], composers: Seq[String]): Seq[String] =
+          (if (choreographers.isEmpty) Seq() else Seq(s"${prefix}Choreography: ${choreographers.mkString(", ")}")) ++
+          (if (composers.isEmpty) Seq() else Seq(s"${prefix}Music: ${composers.mkString(", ")}"))
+
+        val paragraphs =
+          ballet.company.map(company => s"Company: $company").toSeq ++
+          ballet.pieces.flatMap { piece =>
+            val prefix = if (ballet.pieces.size > 1) s"${piece.name} / " else ""
+            pieceCredits(prefix, piece.choreographers, piece.composers)
+          } ++
+          (if (ballet.dancers.isEmpty) Seq() else Seq(s"Dancers: ${ballet.dancers.mkString(", ")}"))
+
+        paragraphs.map(paragraph => <p>{paragraph}</p>).foldLeft(xml.NodeSeq.Empty)(_ ++ _)
+      }</td>
+      <td>@views.html.rating(ballet.rating)</td>
+    </tr>
+    @ballet.comments.map { comments =>
+      <tr><td colspan="5">@comments.html</td></tr>
+    }
+  }
+}
+
+@list(
+  page = Sitemap.ballets,
+  cacheable = ballets,
+  header = header,
+  rowFromItem = rowFromItem,
+  nextItemsTitle = Some("Upcoming ballets"))

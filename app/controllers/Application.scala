@@ -73,7 +73,13 @@ class Application @Inject() (implicit
     Cache.get(Articles).map(articles => Ok(views.html.articles(articles)))
   }
 
+  def ballets = Action.async { Cache.get(Ballets).map(ballets => Ok(views.html.ballets(ballets))) }
+
   def books = Action.async { Cache.get(Books).map(books => Ok(views.html.books(books))) }
+
+  def comedyShows = Action.async {
+    Cache.get(ComedyShows).map(comedyShows => Ok(views.html.comedyshows(comedyShows)))
+  }
 
   def comics = Action.async { Cache.get(Comics).map(comics => Ok(views.html.comics(comics))) }
 
@@ -93,6 +99,8 @@ class Application @Inject() (implicit
 
   def movies = Action.async { Cache.get(Movies).map(movies => Ok(views.html.movies(movies))) }
 
+  def operas = Action.async { Cache.get(Operas).map(operas => Ok(views.html.operas(operas))) }
+
   def plays = Action.async { Cache.get(Plays).map(plays => Ok(views.html.plays(plays))) }
 
   def podcasts = Action.async {
@@ -105,13 +113,26 @@ class Application @Inject() (implicit
 
   def statistics = Action.async {
     for {
+      ballets <- Cache.get(Ballets)
       books <- Cache.get(Books)
+      comedyShows <- Cache.get(ComedyShows)
       concerts <- Cache.get(Concerts)
       exhibitions <- Cache.get(Exhibitions)
       movies <- Cache.get(Movies)
+      operas <- Cache.get(Operas)
       plays <- Cache.get(Plays)
       podcasts <- Cache.get(Podcasts)
-      statistics = Statistics(books, concerts, exhibitions, movies, plays, podcasts)
+      statistics = Statistics(
+        ballets,
+        books,
+        comedyShows,
+        concerts,
+        exhibitions,
+        movies,
+        operas,
+        plays,
+        podcasts
+      )
     } yield Ok(views.html.statistics(statistics))
   }
 

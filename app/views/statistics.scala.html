@@ -23,7 +23,7 @@
 @ratingsDistribution(ratings: Seq[(String, Int)], entity: String) = {
   @{
     val barChart = BarOrLineChart(
-      baseId = s"${entity.toLowerCase}-ratings-distribution",
+      baseId = s"${entity.toLowerCase.replace(' ', '-')}-ratings-distribution",
       title = s"$entity ratings (distribution)",
       labels = ratings.map(_._1),
       valueSets = Seq(BarOrLineChartValueSet(values = ratings.map(_._2), label = "Count", color = Color.Gray)))
@@ -35,7 +35,7 @@
 @ratingsEvolution(ratings: Seq[(String, MinAvgMax)], entity: String) = {
   @{
     val lineChart = BarOrLineChart(
-      baseId = s"${entity.toLowerCase}-ratings-evolution",
+      baseId = s"${entity.toLowerCase.replace(' ', '-')}-ratings-evolution",
       title = s"$entity ratings (evolution)",
       labels = ratings.map(_._1),
       valueSets = Seq(
@@ -52,7 +52,7 @@
 @yearlyCounts(counts: Seq[(String, Int)], entity: String) = {
 @{
   val lineChart = BarOrLineChart(
-    baseId = s"${entity.toLowerCase}-counts",
+    baseId = s"${entity.toLowerCase.replace(' ', '-')}-counts",
     title = s"$entity counts",
     labels = counts.map(_._1),
     valueSets = Seq(BarOrLineChartValueSet(values = counts.map(_._2.toDouble), label = "Count", color = Color.Red)))
@@ -64,52 +64,91 @@
 @main(Sitemap.statistics, scripts) {
   @toc("Contents", "show", "hide") {
     <ul class="list-unstyled">
-      <li>1 <a href="#books">Books</a>
+      <li>1 <a href="#ballets">Ballets</a>
         <ul class="list-unstyled">
-          <li>1.1 <a href="#most-read-book-authors">Most read book authors</a></li>
-          <li>1.2 <a href="#book-ratings-distribution">Book ratings (distribution)</a></li>
-          <li>1.3 <a href="#book-ratings-evolution">Book ratings (evolution)</a></li>
-          <li>1.4 <a href="#book-counts">Book counts</a></li>
+          <li>1.1 <a href="#most-seen-ballet-companies">Most seen ballet companies</a></li>
+          <li>1.2 <a href="#most-seen-ballet-choreographers">Most seen ballet choreographers</a></li>
+          <li>1.3 <a href="#ballet-ratings-distribution">Ballet ratings (distribution)</a></li>
+          <li>1.4 <a href="#ballet-ratings-evolution">Ballet ratings (evolution)</a></li>
+          <li>1.5 <a href="#ballet-counts">Ballet counts</a></li>
         </ul>
       </li>
-      <li>2 <a href="#concerts">Concerts</a>
+      <li>2 <a href="#books">Books</a>
         <ul class="list-unstyled">
-          <li>2.1 <a href="#most-seen-concert-artists">Most seen concert artists</a></li>
-          <li>2.2 <a href="#most-seen-concert-artists-main-musicians-only">Most seen concert artists (main musicians only)</a></li>
-          <li>2.3 <a href="#most-visited-concert-venues">Most visited concert venues</a></li>
-          <li>2.4 <a href="#concert-ratings-distribution">Concert ratings (distribution)</a></li>
-          <li>2.5 <a href="#concert-ratings-evolution">Concert ratings (evolution)</a></li>
-          <li>2.6 <a href="#concert-counts">Concert counts</a></li>
+          <li>2.1 <a href="#most-read-book-authors">Most read book authors</a></li>
+          <li>2.2 <a href="#book-ratings-distribution">Book ratings (distribution)</a></li>
+          <li>2.3 <a href="#book-ratings-evolution">Book ratings (evolution)</a></li>
+          <li>2.4 <a href="#book-counts">Book counts</a></li>
         </ul>
       </li>
-      <li>3 <a href="#movies">Movies</a>
+      <li>3 <a href="#comedy-shows">Comedy shows</a>
         <ul class="list-unstyled">
-          <li>3.1 <a href="#most-seen-movies">Most seen movies</a></li>
-          <li>3.2 <a href="#most-seen-movie-directors">Most seen movie directors</a></li>
-          <li>3.3 <a href="#movie-ratings-distribution">Movie ratings (distribution)</a></li>
-          <li>3.4 <a href="#movie-ratings-evolution">Movie ratings (evolution)</a></li>
-          <li>3.5 <a href="#movie-counts">Movie counts</a></li>
+          <li>3.1 <a href="#most-seen-comedians">Most seen comedians</a></li>
+          <li>3.2 <a href="#most-visited-comedy-venues">Most visited comedy venues</a></li>
+          <li>3.3 <a href="#comedy-show-ratings-distribution">Comedy show ratings (distribution)</a></li>
+          <li>3.4 <a href="#comedy-show-ratings-evolution">Comedy show ratings (evolution)</a></li>
+          <li>3.5 <a href="#comedy-show-counts">Comedy show counts</a></li>
         </ul>
       </li>
-      <li>4 <a href="#plays">Plays</a>
+      <li>4 <a href="#concerts">Concerts</a>
         <ul class="list-unstyled">
-          <li>4.1 <a href="#most-seen-play-authors">Most seen play authors</a></li>
-          <li>4.2 <a href="#most-seen-play-directors">Most seen play directors</a></li>
-          <li>4.3 <a href="#most-seen-play-actor">Most seen play actor</a></li>
-          <li>4.4 <a href="#most-visited-theatres">Most visited theatres</a></li>
-          <li>4.5 <a href="#play-ratings-distribution">Play ratings (distribution)</a></li>
-          <li>4.6 <a href="#play-ratings-evolution">Play ratings (evolution)</a></li>
-          <li>4.7 <a href="#play-counts">Play counts</a></li>
+          <li>4.1 <a href="#most-seen-concert-artists">Most seen concert artists</a></li>
+          <li>4.2 <a href="#most-seen-concert-artists-main-musicians-only">Most seen concert artists (main musicians only)</a></li>
+          <li>4.3 <a href="#most-visited-concert-venues">Most visited concert venues</a></li>
+          <li>4.4 <a href="#concert-ratings-distribution">Concert ratings (distribution)</a></li>
+          <li>4.5 <a href="#concert-ratings-evolution">Concert ratings (evolution)</a></li>
+          <li>4.6 <a href="#concert-counts">Concert counts</a></li>
         </ul>
       </li>
-      <li>5 <a href="#podcasts">Podcasts</a>
+      <li>5 <a href="#movies">Movies</a>
         <ul class="list-unstyled">
-          <li>5.1 <a href="#most-listened-to-podcasts">Most listened to podcasts</a></li>
-          <li>5.2 <a href="#podcast-counts">Podcast counts</a></li>
+          <li>5.1 <a href="#most-seen-movies">Most seen movies</a></li>
+          <li>5.2 <a href="#most-seen-movie-directors">Most seen movie directors</a></li>
+          <li>5.3 <a href="#movie-ratings-distribution">Movie ratings (distribution)</a></li>
+          <li>5.4 <a href="#movie-ratings-evolution">Movie ratings (evolution)</a></li>
+          <li>5.5 <a href="#movie-counts">Movie counts</a></li>
+        </ul>
+      </li>
+      <li>6 <a href="#operas">Operas</a>
+        <ul class="list-unstyled">
+          <li>6.1 <a href="#most-seen-opera-composers">Most seen opera composers</a></li>
+          <li>6.2 <a href="#most-visited-opera-houses">Most visited opera houses</a></li>
+          <li>6.3 <a href="#opera-ratings-distribution">Opera ratings (distribution)</a></li>
+          <li>6.4 <a href="#opera-ratings-evolution">Opera ratings (evolution)</a></li>
+          <li>6.5 <a href="#opera-counts">Opera counts</a></li>
+        </ul>
+      </li>
+      <li>7 <a href="#plays">Plays</a>
+        <ul class="list-unstyled">
+          <li>7.1 <a href="#most-seen-play-authors">Most seen play authors</a></li>
+          <li>7.2 <a href="#most-seen-play-directors">Most seen play directors</a></li>
+          <li>7.3 <a href="#most-seen-play-actor">Most seen play actor</a></li>
+          <li>7.4 <a href="#most-visited-theatres">Most visited theatres</a></li>
+          <li>7.5 <a href="#play-ratings-distribution">Play ratings (distribution)</a></li>
+          <li>7.6 <a href="#play-ratings-evolution">Play ratings (evolution)</a></li>
+          <li>7.7 <a href="#play-counts">Play counts</a></li>
+        </ul>
+      </li>
+      <li>8 <a href="#podcasts">Podcasts</a>
+        <ul class="list-unstyled">
+          <li>8.1 <a href="#most-listened-to-podcasts">Most listened to podcasts</a></li>
+          <li>8.2 <a href="#podcast-counts">Podcast counts</a></li>
         </ul>
       </li>
     </ul>
   }
+
+  <div class="headline"><a name="ballets"></a><h2>Ballets</h2></div>
+
+  @pieChart(statistics.mostSeenBalletCompanies, "Company", "Most seen ballet companies", threshold = 1)
+
+  @pieChart(statistics.mostSeenBalletChoreographers, "Choreographer", "Most seen ballet choreographers", threshold = 1)
+
+  @ratingsDistribution(statistics.balletRatingsDistribution, "Ballet")
+
+  @ratingsEvolution(statistics.balletRatingsEvolution, "Ballet")
+
+  @yearlyCounts(statistics.balletYearlyCounts, "Ballet")
 
   <div class="headline"><a name="books"></a><h2>Books</h2></div>
 
@@ -120,6 +159,18 @@
   @ratingsEvolution(statistics.bookRatingsEvolution, "Book")
 
   @yearlyCounts(statistics.bookYearlyCounts, "Book")
+
+  <div class="headline"><a name="comedy-shows"></a><h2>Comedy shows</h2></div>
+
+  @pieChart(statistics.mostSeenComedians, "Comedian", "Most seen comedians", threshold = 2)
+
+  @pieChart(statistics.mostVisitedComedyVenues, "Venue", "Most visited comedy venues", threshold = 2)
+
+  @ratingsDistribution(statistics.comedyShowRatingsDistribution, "Comedy show")
+
+  @ratingsEvolution(statistics.comedyShowRatingsEvolution, "Comedy show")
+
+  @yearlyCounts(statistics.comedyShowYearlyCounts, "Comedy show")
 
   <div class="headline"><a name="concerts"></a><h2>Concerts</h2></div>
 
@@ -152,6 +203,18 @@
   @ratingsEvolution(statistics.movieRatingsEvolution, "Movie")
 
   @yearlyCounts(statistics.movieYearlyCounts, "Movie")
+
+  <div class="headline"><a name="operas"></a><h2>Operas</h2></div>
+
+  @pieChart(statistics.mostSeenOperaComposers, "Composer", "Most seen opera composers", threshold = 2)
+
+  @pieChart(statistics.mostVisitedOperaHouses, "Opera house", "Most visited opera houses", threshold = 1)
+
+  @ratingsDistribution(statistics.operaRatingsDistribution, "Opera")
+
+  @ratingsEvolution(statistics.operaRatingsEvolution, "Opera")
+
+  @yearlyCounts(statistics.operaYearlyCounts, "Opera")
 
   <div class="headline"><a name="plays"></a><h2>Plays</h2></div>
 

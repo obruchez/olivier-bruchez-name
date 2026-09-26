@@ -1,0 +1,46 @@
+@import models.lifelogging.{ ComedyShow, ComedyShows }
+
+@(comedyShows: ComedyShows)
+
+@header = {
+  <tr class="list-header">
+    <th class="col-md-1">Date</th>
+    <th class="col-md-4">Comedians</th>
+    <th class="col-md-3">Name</th>
+    <th class="col-md-3">Location</th>
+    <th class="col-md-1">Rating</th>
+  </tr>
+}
+
+@rowFromItem(listItem: ListItem, trClass: String) = {
+  @defining(listItem.asInstanceOf[ComedyShow]) { comedyShow =>
+    <tr class="list-details @trClass">
+      <td>@sluganddate(comedyShow)</td>
+      <td>@{
+        val comedians =
+          comedyShow.group.map(group => <strong>{group}</strong> ++ xml.Text(if (comedyShow.comedians.nonEmpty) ": " else "")).getOrElse(xml.NodeSeq.Empty) ++
+          (if (comedyShow.group.isEmpty) <strong>{comedyShow.comedians.mkString(", ")}</strong> else xml.Text(comedyShow.comedians.mkString(", ")))
+
+        val paragraphs =
+          (if (comedyShow.openingActs.isEmpty) Seq() else Seq(s"Opening act: ${comedyShow.openingActs.mkString(", ")}")) ++
+          (if (comedyShow.authors.isEmpty) Seq() else Seq(s"Author: ${comedyShow.authors.mkString(", ")}")) ++
+          (if (comedyShow.directors.isEmpty) Seq() else Seq(s"Director: ${comedyShow.directors.mkString(", ")}"))
+
+        <p>{comedians}</p> ++ paragraphs.map(paragraph => <p>{paragraph}</p>).foldLeft(xml.NodeSeq.Empty)(_ ++ _)
+      }</td>
+      <td>@comedyShow.name</td>
+      <td>@comedyShow.location</td>
+      <td>@views.html.rating(comedyShow.rating)</td>
+    </tr>
+    @comedyShow.comments.map { comments =>
+      <tr><td colspan="5">@comments.html</td></tr>
+    }
+  }
+}
+
+@list(
+  page = Sitemap.comedyShows,
+  cacheable = comedyShows,
+  header = header,
+  rowFromItem = rowFromItem,
+  nextItemsTitle = Some("Upcoming comedy shows"))

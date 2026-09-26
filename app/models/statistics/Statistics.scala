@@ -15,13 +15,35 @@ object MinAvgMax {
 }
 
 case class Statistics(
+    ballets: Ballets,
     books: Books,
+    comedyShows: ComedyShows,
     concerts: Concerts,
     exhibitions: Exhibitions,
     movies: Movies,
+    operas: Operas,
     plays: Plays,
     podcasts: Podcasts
 ) {
+  def mostSeenBalletCompanies: Seq[(Int, String)] = {
+    val companies = ballets.listItems.flatMap(_.company)
+    sortedValuesWithLabels(companies)
+  }
+
+  def mostSeenBalletChoreographers: Seq[(Int, String)] = {
+    val choreographers = ballets.listItems.flatMap(_.pieces.flatMap(_.choreographers).distinct)
+    sortedValuesWithLabels(personsFromRawList(choreographers))
+  }
+
+  def balletRatingsDistribution: Seq[(String, Int)] =
+    ratingsDistribution(ballets.listItems.flatMap(_.rating))
+
+  def balletRatingsEvolution: Seq[(String, MinAvgMax)] =
+    ratingsEvolution(ballets.listItems.flatMap(i => i.rating.map(r => (i.date, r))))
+
+  def balletYearlyCounts: Seq[(String, Int)] =
+    yearlyCounts(ballets.listItems)
+
   def mostReadBookAuthors: Seq[(Int, String)] = {
     val authors = books.listItems.map(_.author)
     sortedValuesWithLabels(personsFromRawList(authors))
@@ -35,6 +57,27 @@ case class Statistics(
 
   def bookYearlyCounts: Seq[(String, Int)] =
     yearlyCounts(books.listItems)
+
+  def mostSeenComedians: Seq[(Int, String)] = {
+    val comedians = comedyShows.listItems.flatMap { comedyShow =>
+      if (comedyShow.comedians.nonEmpty) comedyShow.comedians else comedyShow.group.toSeq
+    }
+    sortedValuesWithLabels(personsFromRawList(comedians))
+  }
+
+  def mostVisitedComedyVenues: Seq[(Int, String)] = {
+    val venues = comedyShows.listItems.map(_.location).filterNot(_.isEmpty)
+    sortedValuesWithLabels(venues)
+  }
+
+  def comedyShowRatingsDistribution: Seq[(String, Int)] =
+    ratingsDistribution(comedyShows.listItems.flatMap(_.rating))
+
+  def comedyShowRatingsEvolution: Seq[(String, MinAvgMax)] =
+    ratingsEvolution(comedyShows.listItems.flatMap(i => i.rating.map(r => (i.date, r))))
+
+  def comedyShowYearlyCounts: Seq[(String, Int)] =
+    yearlyCounts(comedyShows.listItems)
 
   def mostSeenConcertArtists(mainMusiciansOnly: Boolean): Seq[(Int, String)] = {
     val artists =
@@ -105,6 +148,25 @@ case class Statistics(
 
   def movieYearlyCounts: Seq[(String, Int)] =
     yearlyCounts(movies.listItems)
+
+  def mostSeenOperaComposers: Seq[(Int, String)] = {
+    val composers = operas.listItems.flatMap(_.composers)
+    sortedValuesWithLabels(personsFromRawList(composers))
+  }
+
+  def mostVisitedOperaHouses: Seq[(Int, String)] = {
+    val venues = operas.listItems.map(_.location).filterNot(_.isEmpty)
+    sortedValuesWithLabels(venues)
+  }
+
+  def operaRatingsDistribution: Seq[(String, Int)] =
+    ratingsDistribution(operas.listItems.flatMap(_.rating))
+
+  def operaRatingsEvolution: Seq[(String, MinAvgMax)] =
+    ratingsEvolution(operas.listItems.flatMap(i => i.rating.map(r => (i.date, r))))
+
+  def operaYearlyCounts: Seq[(String, Int)] =
+    yearlyCounts(operas.listItems)
 
   def mostSeenPlayAuthors: Seq[(Int, String)] = {
     val authors = plays.listItems.flatMap(_.authors)
