@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ballets created="2026-09-26">
+  <introduction>A list of ballets I saw.</introduction>
+  <!--
+    <company></company>
+    <piece>
+      <name></name>
+      <choreographer></choreographer>
+      <composer></composer>
+    </piece>
+    <dancer></dancer>
+  -->
+  <ballet>
+    <date>2026-09-25</date>
+    <location>Théâtre du Jorat, Mézières, Switzerland</location>
+    <company>Béjart Ballet Lausanne</company>
+    <piece>
+      <name>Qu'est-ce que la joie ?</name>
+      <choreographer>Antoine Le Moal</choreographer>
+      <composer>Peter Gabriel</composer>
+    </piece>
+    <piece>
+      <name>Real Love</name>
+      <choreographer>Andonis Foniadakis</choreographer>
+      <composer>Depeche Mode</composer>
+    </piece>
+    <piece>
+      <name>7 danses grecques</name>
+      <choreographer>Maurice Béjart</choreographer>
+      <composer>Mikis Theodorakis</composer>
+    </piece>
+    <rating></rating>
+    <comments></comments>
+    <image>Béjart Ballet Lausanne 2026.png</image>
+    <!--
+	Soirée « Carte blanche à Julien Favreau » (directeur artistique du Béjart Ballet Lausanne depuis 2024).
+	Qu'est-ce que la joie ? : première mondiale. Real Love : créé à Beaulieu le 16.12.2025. 7 danses grecques : créé à New York en octobre 1983.
+    -->
+  </ballet>
+  <ballet>
+    <date>2025-11-21</date>
+    <location>Opéra de Lausanne, Lausanne, Switzerland</location>
+    <company>Ballet de l'Opéra national du Rhin</company>
+    <piece>
+      <name>Chaplin</name>
+      <choreographer>Mario Schröder</choreographer>
+      <composer>Kurt Schwertsik</composer>
+      <composer>Pēteris Vasks</composer>
+      <composer>John Adams</composer>
+      <composer>Samuel Barber</composer>
+      <composer>Johannes Brahms</composer>
+      <composer>Benjamin Britten</composer>
+      <composer>Charlie Chaplin</composer>
+      <composer>Hans Werner Henze</composer>
+      <composer>Charles Ives</composer>
+      <composer>Ruggero Leoncavallo</composer>
+      <composer>Colin Matthews</composer>
+      <composer>Alfred Schnittke</composer>
+      <composer>Richard Wagner</composer>
+    </piece>
+    <rating>5.25</rating>
+    <comments>Un superbe ballet de l'Opéra national du Rhin. Je crois bien que ça n'était que le second ballet que je voyais de toute ma vie, mais j'ai été très impressionné. Chaque tableau introduisait une sorte de monde à part. Dans certains d'entre eux, les mouvements se répétaient jusqu'à devenir hypnotiques. Dans d'autres, les figures tenaient presque de l'acrobatie. Je ne suis pas certain d'avoir <i>compris</i> l'histoire ou le message, mais j'ai définitivement été <i>touché</i> par ce que j'ai vu.</comments>
+    <image>Chaplin.jpg</image>
+    <!--
+	Direction artistique du Ballet de l'Opéra national du Rhin : Bruno Bouché. Décors et costumes : Paul Zoller. Musique enregistrée.
+    -->
+  </ballet>
+  <ballet>
+    <date>2010-06-01</date>
+    <location>Théâtre de Beaulieu, Lausanne, Switzerland</location>
+    <company>Béjart Ballet Lausanne</company>
+    <piece>
+      <name>Le Presbytère n'a rien perdu de son charme, ni le jardin de son éclat</name>
+      <choreographer>Maurice Béjart</choreographer>
+      <composer>Queen</composer>
+      <composer>Wolfgang Amadeus Mozart</composer>
+    </piece>
+    <rating></rating>
+    <comments></comments>
+    <image>Le Presbytère.jpg</image>
+    <!--
+	Aussi appelé « Ballet for Life ». Costumes : Gianni Versace. Créé à la Salle Métropole, Lausanne, le 15.12.1996.
+    -->
+  </ballet>
+</ballets>
