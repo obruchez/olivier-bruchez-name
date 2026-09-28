@@ -3,6 +3,15 @@
 <exhibitions created="2011-05-17">
     <introduction>A list of exhibitions I visited.</introduction>
     <exhibition>
+        <date>2026-09-26</date>
+        <name>Isao Takahata / Et nous alors?</name>
+        <museum>Museum of Contemporary Design and Applied Arts (MUDAC), Lausanne, Switzerland</museum>
+        <rating>5.0</rating>
+        <comments>We picked up the Isao Takahata exhibition where we'd left off in May. Once again, a very nice and very dense exhibition. The glass animals exhibition was a pleasant surprise. Some really beautiful pieces, with a very playful presentation.</comments>
+        <image>Et nous alors.jpg</image>
+        <!-- <pictures url=""/> -->
+    </exhibition>
+    <exhibition>
         <date>2026-05-24</date>
         <name>Lee Miller</name>
         <museum>Musée d'Art Moderne de Paris (MAM), Paris, France</museum>
