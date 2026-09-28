@@ -3,6 +3,17 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Add rating to IMDb -->
   <movie>
+    <date>2026-09-27</date>
+    <theater home="true"/>
+    <director>Joachim Trier</director>
+    <title>Affeksjonsverdi</title>
+    <title language="en">Sentimental Value</title>
+    <url>https://www.imdb.com/title/tt27714581/</url>
+    <rating>4.75</rating>
+    <comments>The themes are fairly clear: trauma passed down through generations and tearing families apart, art that brings people together and even heals them, the family home as a central place (a silent witness), etc. I'm not convinced it all works perfectly, though.</comments>
+    <image>Affeksjonsverdi.jpg</image>
+  </movie>
+  <movie>
     <date>2026-09-19</date>
     <theater home="true"/>
     <director>Kirk Jones</director>
