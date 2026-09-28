@@ -1,6 +1,6 @@
 name := "olivier-bruchez-name"
 
-version := "1.9.4"
+version := "1.9.5"
 
 lazy val root = (project in file(".")).enablePlugins(PlayScala)
 
