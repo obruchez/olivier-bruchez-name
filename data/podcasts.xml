@@ -2,6 +2,12 @@
 <podcasts created="2016-05-10">
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date>2026-09-29</date>
+    <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
+    <episode url="https://www.samharris.org/podcasts/making-sense-episodes/494-a-coin-toss-for-the-future" number="494">A Coin Toss for the Future</episode>
+    <comments>I'm happy smart people are thinking about this problem. "Sam Harris speaks with Ryan Greenblatt about AI misalignment and the risk of losing control of increasingly capable systems. They discuss the Hugging Face incident, the spectrum of concern about AI risk, why companies are racing ahead despite high odds of catastrophe, reward hacking, the distinction between alignment and control, the danger of AIs reasoning in 'neuralese,' alignment faking, how an AI takeover might unfold, and other topics."</comments>
+  </podcast>
+  <podcast>
     <date>2026-09-22</date>
     <name url="https://podcasts.apple.com/us/podcast/how-can-u-just-leave-me-standing-in-search-of-prince/id1562509939">How can U just leave me standing? ...in search of Prince Rogers Nelson.</name>
     <episode url="https://podcasts.apple.com/us/podcast/episode-1-mark-brown-made-his-debut-gig-at-19-years/id1562509939?i=1000516589712" number="1">Mark Brown made his debut gig at 19 years old supporting The Rolling Stones at the LA Coliseum in front of 90,000 people. Renamed BrownMark he was on bass when Purple Rain was played live for the very first time by Prince and The Revolution at First Avenue.</episode>
