@@ -9,6 +9,50 @@
     <actor></actor>
   -->
   <play>
+    <date>2026-10-08</date>
+    <location>Théâtre Kléber-Méleau, Renens, Switzerland</location>
+    <name>La Visite de la vieille dame</name>
+    <author>Friedrich Dürrenmatt</author>
+    <director>Omar Porras</director>
+    <adaptation>Omar Porras</adaptation>
+    <translation>Jean-Pierre Porret</translation>
+    <actor>Pierre Boulben</actor>
+    <actor>Francisco Cabello</actor>
+    <actor>Manon Castellano</actor>
+    <actor>Karl Eberhard</actor>
+    <actor>Antoine Joly</actor>
+    <actor>Jeanne Pasquier</actor>
+    <actor>Omar Porras</actor>
+    <actor>Marie-Evane Schallenberger</actor>
+    <rating>5.0</rating>
+    <comments>On est projeté dans un univers singulier, entre le burlesque et le côté inquiétant des masques. Il y a ce dilemme moral central à la pièce, jamais complètement résolu, l'argent, la corruption, la déresponsabilisation collective. C'est très prenant.</comments>
+    <image>La Visite de la vieille dame.jpg</image>
+    <!--
+	Recréation le 22 septembre 2026 au TKM (Teatro Malandro).
+	Assistante à la mise en scène :
+	Marie Robert
+	Scénographie :
+	Fredy Porras
+	Omar Porras
+	Musique originale :
+	Andrès Garcia
+	Omar Porras
+	Sarten
+	Costumes :
+	Bruno Fatalot
+	Omar Porras
+	Maquillage, perruques et masques :
+	Fredy Porras
+	Accessoires et effets spéciaux :
+	Laurent Boulanger
+	Création lumière :
+	Mathias Roche
+	Création et régie son :
+	Benjamin Tixhon
+	Sébastien Perron
+    -->
+  </play>
+  <play>
     <date>2026-08-28</date>
     <location>Théâtre du Jorat, Mézières, Switzerland</location>
     <name>Histoire d'un Cid</name>
