@@ -2,6 +2,12 @@
 <podcasts created="2016-05-10">
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date>2026-10-08</date>
+    <name url="https://www.tenpercent.com/">Ten Percent Happier with Dan Harris</name>
+    <episode url="https://podcasts.apple.com/us/podcast/the-science-of-making-and-keeping-friends-robin-dunbar/id1087147821?i=1000536756330" number="372">The Science of Making and Keeping Friends | Robin Dunbar</episode>
+    <comments>"Friendship might not necessarily be something you've considered to be an urgent psychological and physiological issue. On this show, we spend a lot of time exploring how the quality of our relationships determines the quality of our lives and our health. Sadly, in many ways, it's harder than ever to make and keep friends. With loneliness and disconnection on the rise, it's clear that our society just wasn't constructed for social connection. And recent data suggests we're in a friendship crisis, with many of us reporting that we have fewer close friendships than ever. Our guest today is Robin Dunbar, an Emeritus Professor of Evolutionary Psychology at Oxford University and the author of numerous books on the development of Homo sapiens. Dunbar is perhaps best known for formulating 'Dunbar's number,' which is a measurement of the number of relationships our brain is capable of maintaining at any one time. He is a world-renowned expert on human relationships, and has a ton of fascinating research findings and practical tips for upping your friendship game. In this conversation, we dive into the science behind human relationships, the upsides and downsides of maintaining friendships on social media, the viability of friendships across gender lines, and what science says you can do to compensate if you feel you are currently lacking in close friendships."</comments>
+  </podcast>
+  <podcast>
     <date>2026-09-29</date>
     <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
     <episode url="https://www.samharris.org/podcasts/making-sense-episodes/494-a-coin-toss-for-the-future" number="494">A Coin Toss for the Future</episode>
