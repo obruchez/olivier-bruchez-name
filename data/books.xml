@@ -15,6 +15,17 @@
         <image>The Tripods - All For Nothing.jpg</image>
     </book>
     <book>
+        <date>2026-10-09</date>
+        <title>Le Horla</title>
+        <author>Guy de Maupassant</author>
+        <publishingyear>1887</publishingyear>
+        <rating>5.25</rating>
+        <url>https://fr.wikipedia.org/wiki/Le_Horla</url>
+        <notes description="Kindle highlights"></notes>
+        <comments>C'est court. C'est prenant. On ne sait pas où s'arrête la réalité et où commence la folie.</comments>
+        <image>Le Horla.jpg</image>
+    </book>
+    <book>
         <date>2026-10-04</date>
         <title>Si une nuit d'hiver un voyageur</title>
         <author>Italo Calvino</author>
