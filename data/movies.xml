@@ -3,6 +3,26 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Add rating to IMDb -->
   <movie>
+    <date>2026-10-10</date>
+    <theater home="true"/>
+    <director>Woody Allen</director>
+    <title>Crimes and Misdemeanors</title>
+    <url>https://www.imdb.com/title/tt0097123/</url>
+    <rating>5.0</rating>
+    <comments>There's New York. There's jazz. There's cinema. There are people who are unhappy in love. There's a neurotic character, an extension of who Woody Allen really is, I guess, played by himself. There are ethical/philosophical questions about guilt, suicide, and the meaning of life. I'm in.</comments>
+    <image>Crimes and Misdemeanors.jpg</image>
+  </movie>
+  <movie>
+    <date>2026-10-05</date>
+    <theater home="true"/>
+    <director>John Huston</director>
+    <title>The Maltese Falcon</title>
+    <url>https://www.imdb.com/title/tt0033870/</url>
+    <rating>4.75</rating>
+    <comments>I was impressed by the screen presence of the actors in this film. Humphrey Bogart, of course, whose character is unpredictable, but also Peter Lorre, with his very distinctive looks, and Sydney Greenstreet.</comments>
+    <image>The Maltese Falcon.jpg</image>
+  </movie>
+  <movie>
     <date>2026-09-27</date>
     <theater home="true"/>
     <director>Joachim Trier</director>
