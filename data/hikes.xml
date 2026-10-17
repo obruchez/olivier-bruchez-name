@@ -2,6 +2,12 @@
 <hikes created="2012-12-15">
   <introduction>A list of hikes I took.</introduction>
   <hike>
+    <date>2026-10-17</date>
+    <place>Cabane Brunet / Col de Lâne, Switzerland</place>
+    <!-- <pictures url="/"/> -->
+    <comments>Solo hike during my October stay at the chalet in Fionnay. I turned back 50-100 m below the pass: too much snow, too dangerous.</comments>
+  </hike>
+  <hike>
     <date>2026-08-30</date>
     <place>Riggisalp / Brecca / Schwarzsee, Switzerland</place>
     <!-- <pictures url="/"/> -->
