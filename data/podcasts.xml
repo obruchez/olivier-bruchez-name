@@ -2,6 +2,12 @@
 <podcasts created="2016-05-10">
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date>2026-10-13</date>
+    <name url="http://verybadwizards.com/">Very Bad Wizards</name>
+    <episode url="https://verybadwizards.com/episode/episode-337-first-contact-tarkovskys-solaris" number="337">First Contact? (Tarkovsky's "Solaris")</episode>
+    <comments>Hard to believe that Dave and Tamler are so unconvinced that AI will make huge progress in the coming years and fundamentally change the way we practice every intellectual discipline. "First it was a book, then it was a groundbreaking movie… that's right it's <i>Solaris</i>. After having discussed the Stanislaw Lem novel in the previous episode, David and Tamler try to make contact with Andrei Tarkovsky's 1972 classic film. We talk about all the ways Tarkovsky's adaptation reflects and diverges from the source material. We also discuss how to interpret the ending, opening act (not featured in the novel), the five-minute driving scene, and contrast it with Kubrick's <i>2001: A Space Odyssey</i>. Plus, we take an AI Compass survey to determine what type of AI archetype we are."</comments>
+  </podcast>
+  <podcast>
     <date>2026-10-08</date>
     <name url="https://www.tenpercent.com/">Ten Percent Happier with Dan Harris</name>
     <episode url="https://podcasts.apple.com/us/podcast/the-science-of-making-and-keeping-friends-robin-dunbar/id1087147821?i=1000536756330" number="372">The Science of Making and Keeping Friends | Robin Dunbar</episode>
@@ -52,7 +58,7 @@
   <podcast>
     <date>2026-09-04</date>
     <name url="http://verybadwizards.com/">Very Bad Wizards</name>
-    <episode url="https://verybadwizards.com/episode/episode-336-the-wright-stuff" number="336">The Wright Stuff</episode>
+    <episode url="https://verybadwizards.com/episode/episode-336-the-wright-stuff" number="335">The Wright Stuff</episode>
     <comments>A frustrating debate. Nothing came out of it, I think. "The great Robert Wright returns to the podcast to talk about his new book <i>The God Test: Artificial Intelligence and Our Coming Cosmic Reckoning</i>. We debate the magnitude of AI's potential impact, the natural selection analogy Bob presses in the book, and a whole lot more. Plus, a new AI-powered collar can translate your pet's sounds and behavior into language with 95% accuracy! Still skeptical about the power of this new technology Tamler?"</comments>
   </podcast>
   <podcast>
@@ -1055,7 +1061,7 @@
   <podcast>
     <date>2024-03-19</date>
     <name url="http://verybadwizards.com/">Very Bad Wizards</name>
-    <episode url="https://verybadwizards.fireside.fm/259" number="259">Losing Time ("Tár"" with Paul Bloom)</episode>
+    <episode url="https://verybadwizards.fireside.fm/259" number="259">Losing Time ("Tár" with Paul Bloom)</episode>
     <comments>Another very "useful" discussion that gave me a new perspective on a movie I had just watched. I missed many things, like the scene with the students, which is actually a continuous sequence. The parallel with <i>Stalker</i> during the underground scene with the dog, also, is an intriguing idea.</comments>
   </podcast>
   <podcast>
