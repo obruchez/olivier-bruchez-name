@@ -16,6 +16,13 @@
   </show> -->
   <show>
     <date></date>
+    <name url="https://en.wikipedia.org/wiki/Rick_and_Morty">Rick and Morty</name>
+    <series url="https://en.wikipedia.org/wiki/Rick_and_Morty_(season_8)" type="season">8</series>
+    <comments></comments>
+    <image>Rick and Morty.jpg</image>
+  </show>
+  <show>
+    <date></date>
     <name url="https://en.wikipedia.org/wiki/Blackadder">Blackadder</name>
     <series url="https://en.wikipedia.org/wiki/The_Black_Adder" type="series">3</series>
     <comments></comments>
