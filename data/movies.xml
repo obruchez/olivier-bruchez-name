@@ -3,6 +3,68 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Add rating to IMDb -->
   <movie>
+    <date>2026-10-17</date>
+    <theater home="true"/>
+    <director>Andrei Tarkovsky</director>
+    <title>Solyaris</title>
+    <title language="en">Solaris</title>
+    <url>https://www.imdb.com/title/tt0069293/</url>
+    <rating>5.0</rating>
+    <comments>My second time watching this movie. I'd listened to the Very Bad Wizards episode about it to prepare. Now I almost want to watch <i>Stalker</i> a third time. Or <i>2001: A Space Odyssey</i>.</comments>
+    <image>Solaris.jpg</image>
+  </movie>
+  <movie>
+    <date>2026-10-17</date>
+    <theater home="true"/>
+    <director>Woody Allen</director>
+    <title>Zelig</title>
+    <url>https://www.imdb.com/title/tt0086637/</url>
+    <rating>5.0</rating>
+    <comments>A smart, feel-good comedy.</comments>
+    <image>Zelig.jpg</image>
+  </movie>
+  <movie>
+    <date>2026-10-16</date>
+    <theater home="true"/>
+    <director>Alain Resnais</director>
+    <title>L'Année dernière à Marienbad</title>
+    <url>https://www.imdb.com/title/tt0054632/</url>
+    <rating>4.5</rating>
+    <comments>J'ai trouvé cinématographiquement très beau, mais je n'ai pas pu entrer dans le film. Je l'ai trouvé opaque. Je savais pourtant à quoi m'attendre.</comments>
+    <image>L'Année dernière à Marienbad.jpg</image>
+  </movie>
+  <movie>
+    <date>2026-10-15</date>
+    <theater home="true"/>
+    <director>Ingmar Bergman</director>
+    <title>Vargtimmen</title>
+    <title language="en">Hour of the Wolf</title>
+    <url>https://www.imdb.com/title/tt0063759/</url>
+    <rating>4.75</rating>
+    <comments>I needed an explanation to understand what I had just seen. It had been described to me as Bergman's horror movie, but it's much more than that.</comments>
+    <image>Vargtimmen.jpg</image>
+  </movie>
+  <movie>
+    <date>2026-10-14</date>
+    <theater home="true"/>
+    <director>Federico Fellini</director>
+    <title>8½</title>
+    <url>https://www.imdb.com/title/tt0056801/</url>
+    <rating>5.25</rating>
+    <comments>Surprisingly, my first Fellini movie. I was expecting to be a little bored. And then I got caught up in the movie's crazy energy. Its dreamlike quality. It's a movie I'll watch again someday, I'm already sure of it.</comments>
+    <image>8½.jpg</image>
+  </movie>
+  <movie>
+    <date>2026-10-13</date>
+    <theater home="true"/>
+    <director>Jean Cocteau</director>
+    <title>Orphée</title>
+    <url>https://www.imdb.com/title/tt0041719/</url>
+    <rating>5.0</rating>
+    <comments>Mon premier film de Cocteau. Très beau, très singulier. Une sorte de poème, en quelque sorte. J'avais déjà vu un bout du <i>Sang d'un poète</i> à l'exposition consacrée à Lee Miller à Paris, au printemps. Le thème du miroir traversé s'y retrouvait déjà.</comments>
+    <image>Orphée.jpg</image>
+  </movie>
+  <movie>
     <date>2026-10-10</date>
     <theater home="true"/>
     <director>Woody Allen</director>
