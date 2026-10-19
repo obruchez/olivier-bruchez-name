@@ -3,6 +3,16 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Add rating to IMDb -->
   <movie>
+    <date>2026-10-19</date>
+    <theater home="true"/>
+    <director>Woody Allen</director>
+    <title>Stardust Memories</title>
+    <url>https://www.imdb.com/title/tt0081554/</url>
+    <rating>5.0</rating>
+    <comments>Watched a few days after <i>8½</i>. A crazier and also less dreamlike version of Fellini's movie, but one that ends up having its own character.</comments>
+    <image>Stardust Memories.jpg</image>
+  </movie>
+  <movie>
     <date>2026-10-17</date>
     <theater home="true"/>
     <director>Andrei Tarkovsky</director>
