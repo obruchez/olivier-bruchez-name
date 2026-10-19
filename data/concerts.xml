@@ -2,6 +2,17 @@
 <concerts created="2000-04-01">
   <introduction>A list of concerts I went to.</introduction>
   <concert>
+    <date>2026-10-18</date>
+    <location>Jumeaux Jazz Club, Lausanne, Switzerland</location>
+    <musician inst="alto saxophone, soprano saxophone, keyboards, vocals" main="true">Kenny Garrett</musician>
+    <musician inst="piano, keyboards">Keith Brown</musician>
+    <musician inst="bass">Eric Wheeler</musician>
+    <musician inst="drums">Ronald Bruner Jr.</musician>
+    <musician inst="percussions, vocals">Rudy Bird</musician>
+    <rating>5.25</rating>
+    <comments>I can't believe I hadn't seen Kenny Garrett live since 2019! I had a ticket for a concert in Geneva in 2024, but it was cancelled without explanation. So this was the 10<sup>th</sup> time I saw Kenny live, the 8<sup>th</sup> time under his own name (I'd also seen him with Marcus Miller and with Roy Haynes), and the 2<sup>nd</sup> time in Lausanne. I was in the front row, right in the middle, less than two meters from Kenny, who, as usual, got the audience involved (singing, dancing, etc.). I had no choice but to join in!</comments>
+  </concert>
+  <concert>
     <date>2026-09-11</date>
     <location>Petit Palais, Fairmont Le Montreux Palace, Montreux, Switzerland</location>
     <event>Septembre Musical Montreux-Vevey</event>
