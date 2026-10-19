@@ -2,6 +2,18 @@
 <podcasts created="2016-05-10">
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date>2026-10-18</date>
+    <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
+    <episode url="https://www.samharris.org/podcasts/making-sense-episodes/498-more-from-sam-bond-villains-useful-idiots-firing-squads-and-more" number="498">More From Sam: Bond Villains, Useful Idiots, Firing Squads, and More</episode>
+    <comments>"In this latest episode of the More From Sam series, Sam and Jaron talk about current events. They discuss Alex Gibney's documentary on Elon Musk, Dara Horn's insights into antisemitism, the Democrats' Hasan Piker problem, Abdul El-Sayed and Zohran Mamdani, the Pentagon's plan to livestream a military execution, Trump's $5,000 voter promise, tech leaders' capitulation to Trump, and other topics."</comments>
+  </podcast>
+  <podcast>
+    <date>2026-10-18</date>
+    <name url="https://podcast.ausha.co/violet">Violet - Le Podcast sur Prince et le Minneapolis Sound</name>
+    <episode url="https://podcast.ausha.co/violet/the-family-une-famille-deluxe">The Family : une famille Deluxe</episode>
+    <comments>Probablement l'un des meilleurs side-projects de Prince, dont la majeure partie des non-fans connaissent surtout la reprise de "Nothing Compares 2 U" de Sinéad O'Connor.</comments>
+  </podcast>
+  <podcast>
     <date>2026-10-13</date>
     <name url="http://verybadwizards.com/">Very Bad Wizards</name>
     <episode url="https://verybadwizards.com/episode/episode-337-first-contact-tarkovskys-solaris" number="337">First Contact? (Tarkovsky's "Solaris")</episode>
@@ -77,7 +89,7 @@
     <date>2026-08-24</date>
     <name url="https://podcast.ausha.co/violet">Violet - Le Podcast sur Prince et le Minneapolis Sound</name>
     <episode url="https://podcast.ausha.co/violet/the-time-ice-cream-castle-dez-dickerson-modernaire-il-etait-une-fois-au-first-avenue">THE TIME - Ice Cream Castle / DEZ DICKERSON - Modernaire : Il était une fois au First Avenue</episode>
-    <comments>Encore une discussion fascinante un projet mineur ("Modernaire"), ains que sur le troisième album de The Time.</comments>
+    <comments>Encore une discussion fascinante sur un projet mineur ("Modernaire"), ainsi que sur le troisième album de The Time.</comments>
   </podcast>
   <podcast>
     <date>2026-08-16</date>
