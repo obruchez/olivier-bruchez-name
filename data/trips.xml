@@ -125,7 +125,7 @@
     <to>2024-08-08</to>
     <place>Île de Ré, France</place>
     <pictures url="https://www.flickr.com/photos/bruchez/albums/72177720319290955/"/>
-    <comments>Our first time on the Île de Ré. A very nice island. We obviously did a lot of cycling (that's what people do there). Some places we visited on our way to the island and back: Guédelon, Zoo de Beauval, Château de Chenonceau, Puy du fou.</comments>
+    <comments>Our first time on the Île de Ré. A very nice island. We obviously did a lot of cycling (that's what people do there). Some places we visited on our way to the island and back: Guédelon, Zoo de Beauval, Château de Chenonceau, Puy du fou, Tours, and Dijon.</comments>
   </trip>
   <trip>
     <from>2024-07-03</from>
@@ -752,16 +752,16 @@
     <place>Münster, Germany</place>
   </trip>
   <trip>
-    <from>2004-11-06</from>
-    <to>2004-11-08</to>
-    <place>Rome, Italy</place>
-    <pictures url="http://erik.bruchez.name/pictures/ebruchez/album/520521"/>
-  </trip>
-  <trip>
     <from>2005-04-15</from>
     <to>2005-04-16</to>
     <place>Europa-Park (Rust), Germany</place>
     <pictures url="http://www.flickr.com/photos/bruchez/sets/405777/"/>
+  </trip>
+  <trip>
+    <from>2004-11-06</from>
+    <to>2004-11-08</to>
+    <place>Rome, Italy</place>
+    <pictures url="http://erik.bruchez.name/pictures/ebruchez/album/520521"/>
   </trip>
   <trip>
     <from>2004-06-30</from>
@@ -802,8 +802,8 @@
     <pictures url="http://erik.bruchez.name/pictures/ebruchez/album/516302">New York</pictures>
   </trip>
   <trip>
-    <from>2001-07-19</from>
-    <to>2001-07-18</to>
+    <from>2001-07-18</from>
+    <to>2001-07-19</to>
     <place>Paris, France</place>
     <comments>Short trip to Paris for a Keith Jarrett concert at the Palais des Congrès.</comments>
   </trip>
@@ -825,6 +825,13 @@
     <pictures url="http://erik.bruchez.name/pictures/ebruchez/album/516243">Lassen Volcanic Park</pictures>
   </trip>
   <trip>
+    <from>1999-08-09</from>
+    <to>1999-08-11</to>
+    <place>Colmar / Bischwiller, France</place>
+    <!-- <pictures url=""/> -->
+    <comments>Short trip to watch the total solar eclipse of August 11, 1999.</comments>
+  </trip>
+  <trip>
     <from>1997-08-05</from>
     <to>1997-08-20</to>
     <place>California, USA</place>
@@ -840,18 +847,28 @@
     <comments>Riazzino, Bellinzona, etc.</comments>
   </trip>
   <trip>
-    <from>1995-??-??</from>
-    <to>1995-??-??</to>
+    <from>1995-08-12</from>
+    <to>1995-08-22</to>
+    <place>Porto / Nazaré / Algarve / Lisbon, Portugal</place>
+    <!-- Scans photos papa -->
+    <!-- <pictures url=""/> -->
+    <comments>Porto, Batalha, Nazaré, Fátima, the Algarve (Albufeira, Cape St. Vincent), Évora, and Lisbon.</comments>
+  </trip>
+  <trip>
+    <from>1995-04-17</from>
+    <to>1995-04-21</to>
     <place>Paris, France</place>
     <!-- Scans photos -->
     <!-- <pictures url=""/> -->
+    <comments>Class trip.</comments>
   </trip>
   <trip>
-    <from>1994-??-??</from>
-    <to>1994-??-??</to>
+    <from>1994-07-27</from>
+    <to>1994-08-??</to>
     <place>Liguria (Cinque Terre, etc.) / Tuscany (Pisa, etc.), Italy</place>
-    <!-- Scans photos -->
+    <!-- Scans photos papa -->
     <!-- <pictures url=""/> -->
+    <comments>Stays in Massa-Carrara, Volterra, and Fivizzano, with visits to the Cinque Terre, Pisa, and Siena. Exact return date unknown (between August 2 and 8).</comments>
   </trip>
   <trip>
     <from>1993-07-27</from>
@@ -868,5 +885,5 @@
     <!-- <pictures url=""/> -->
     <comments>Riazzino, etc.</comments>
   </trip>
-  <!-- Paris/Bretagne, Belgique/Luxembourg, Nord de l'Italie (1994), Tessin (plusieurs fois), Tour de Suisse, Portugal (1995-6 ?),  etc. -->
+  <!-- Paris/Bretagne, Belgique/Luxembourg, Tessin (plusieurs fois), Tour de Suisse, etc. -->
 </trips>
