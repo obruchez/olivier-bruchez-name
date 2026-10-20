@@ -3,6 +3,17 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Add rating to IMDb -->
   <movie>
+    <date>2026-10-20</date>
+    <theater home="true"/>
+    <director>Apichatpong Weerasethakul</director>
+    <title>Uncle Boonmee Who Can Recall His Past Lives</title>
+    <title language="th">Loong Boonmee Raleuk Chaat</title>
+    <url>https://www.imdb.com/title/tt1588895/</url>
+    <rating>4.25</rating>
+    <comments>A very contemplative movie. Some beautiful shots. I didn't really connect with the themes of ghosts, lost loved ones coming back, and reincarnation.</comments>
+    <image>Uncle Boonmee Who Can Recall His Past Lives.jpg</image>
+  </movie>
+  <movie>
     <date>2026-10-19</date>
     <theater home="true"/>
     <director>Woody Allen</director>
