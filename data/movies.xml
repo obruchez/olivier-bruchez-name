@@ -3,6 +3,16 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Add rating to IMDb -->
   <movie>
+    <date>2026-10-21</date>
+    <theater home="true"/>
+    <director>Alain Resnais</director>
+    <title>Hiroshima, mon amour</title>
+    <url>https://www.imdb.com/title/tt0052893/</url>
+    <rating>4.5</rating>
+    <comments>Mon second film de Resnais en quelques jours. Toujours aussi peu facile à regarder (surtout le premier quart d'heure, avec ses images très dures, car réelles), mais tout de même plus lisible. Raconter, c'est commencer à oublier. Deux lieux. Deux drames. Très différents, normalement incomparables.</comments>
+    <image>Hiroshima mon amour.jpg</image>
+  </movie>
+  <movie>
     <date>2026-10-20</date>
     <theater home="true"/>
     <director>Apichatpong Weerasethakul</director>
