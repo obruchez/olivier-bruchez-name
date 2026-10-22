@@ -2,6 +2,12 @@
 <podcasts created="2016-05-10">
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date>2026-10-22</date>
+    <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
+    <episode url="https://www.samharris.org/podcasts/making-sense-episodes/497-the-confidence-man" number="497">The Confidence Man</episode>
+    <comments>"Sam Harris speaks with Alex Gibney about his new documentary, <i>Musk</i>. They discuss Sam's former friendship with Musk, the line between visionary and con man, the myth of Tesla's founding, the staged self-driving video, Musk's lurch to the right, DOGE and the dismantling of USAID, his feud and reconciliation with Trump, Starlink and the war in Ukraine, the case for future investigations, and other topics."</comments>
+  </podcast>
+  <podcast>
     <date>2026-10-18</date>
     <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
     <episode url="https://www.samharris.org/podcasts/making-sense-episodes/498-more-from-sam-bond-villains-useful-idiots-firing-squads-and-more" number="498">More From Sam: Bond Villains, Useful Idiots, Firing Squads, and More</episode>
