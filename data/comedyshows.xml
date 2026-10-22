@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <comedyshows created="2026-09-26">
   <introduction>A list of comedy shows I saw.</introduction>
-  <!--
+<!--
     <group></group>
     <comedian></comedian>
     <openingact></openingact>
     <author></author>
     <director></director>
-  -->
+-->
   <comedyshow>
     <date>2026-06-05</date>
     <location>Salle de spectacles, Epalinges, Switzerland</location>
     <name>Société Écrans</name>
     <comedian>Thomas Wiesel</comedian>
     <openingact>Paul Walther</openingact>
-    <rating></rating>
-    <comments></comments>
+    <rating>5.0</rating>
+    <comments>Très sympa. Première partie assez moyenne. Première fois dans la salle où Keith Jarrett a joué en 1973 et 1975.</comments>
     <image>Société Écrans.jpg</image>
   </comedyshow>
   <comedyshow>
@@ -24,20 +24,17 @@
     <name>Le spectacle des 30 ans</name>
     <group>Les Dicodeurs</group>
     <director>Sébastien Corthésy</director>
-    <rating></rating>
-    <comments></comments>
+    <rating>4.0</rating>
+    <comments>Un bon moment, même si ce n'est pas trop mon type d'humour (très grand public).</comments>
     <image>Les Dicodeurs - Le spectacle des 30 ans.jpg</image>
-    <!--
-	Présentation : Marie Riley. Coproduction RTS / Jokers Comedy.
-    -->
   </comedyshow>
   <comedyshow>
     <date>2025-11-27</date>
     <location>Arena de Genève, Genève, Switzerland</location>
     <name>Mortality</name>
     <comedian>Ricky Gervais</comedian>
-    <rating></rating>
-    <comments></comments>
+    <rating>5.0</rating>
+    <comments>I had a good time, probably more than expected.</comments>
     <image>Mortality.jpg</image>
   </comedyshow>
   <comedyshow>
@@ -45,8 +42,8 @@
     <location>Théâtre Boulimie, Lausanne, Switzerland</location>
     <name>Délicieux</name>
     <comedian>David Castello-Lopes</comedian>
-    <rating></rating>
-    <comments></comments>
+    <rating>5.0</rating>
+    <comments>Petite salle de 150 places, ambiance très différente de l'Arena. Spectacle réussi, avec pas mal de thèmes personnels (décès de ses parents, dépression, etc.).</comments>
     <image>Délicieux.jpg</image>
   </comedyshow>
   <comedyshow>
@@ -56,8 +53,8 @@
     <comedian>Brigitte Rosset</comedian>
     <author>Brigitte Rosset</author>
     <director>Christian Scheidt</director>
-    <rating></rating>
-    <comments></comments>
+    <rating>5.0</rating>
+    <comments>J'avais quelques craintes (public nettement plus âgé que nous), puis je me suis laissé emporter. Un long monologue sur la famille et les souvenirs, drôle et émouvant.</comments>
     <image>Merci pour le couteau à poisson, les conversations et les délices au jambon.jpg</image>
   </comedyshow>
   <comedyshow>
@@ -65,8 +62,8 @@
     <location>Arena de Genève, Genève, Switzerland</location>
     <name>Authentique</name>
     <comedian>David Castello-Lopes</comedian>
-    <rating></rating>
-    <comments></comments>
+    <rating>5.0</rating>
+    <comments>Pas de redite des vidéos en ligne. Utilisation astucieuse de la vidéo sur scène, comme support ou comme transition.</comments>
     <image>Authentique.jpg</image>
   </comedyshow>
   <comedyshow>
@@ -76,20 +73,17 @@
     <comedian>Vincent Kucholl</comedian>
     <comedian>Vincent Veillon</comedian>
     <comedian>Thomas Wiesel</comedian>
-    <rating></rating>
-    <comments></comments>
+    <rating>4.5</rating>
+    <comments>Enregistrement public de l'émission. Le temps a passé vite. La partie avec Thomas Wiesel était la plus drôle. Je me suis parfois senti un peu "hors" du spectacle (son, fatigue).</comments>
     <image>52 Minutes.jpg</image>
-    <!--
-	Enregistrement public de l'émission de la RTS. Invités : Dani et Nico Capone (duo Nicocapone : Daniela Pinto et Nicolas Scuderi).
-    -->
   </comedyshow>
   <comedyshow>
     <date>2023-04-22</date>
     <location>Arena de Genève, Genève, Switzerland</location>
     <name>Boys Boys Boys</name>
     <comedian>Florence Foresti</comedian>
-    <rating></rating>
-    <comments></comments>
+    <rating>4.75</rating>
+    <comments>Plus intelligent (moins "populaire") que ce à quoi je m'attendais. En fait, j'ai l'impression que j'ai la même réaction chaque fois que je la vois, i.e. "j'oublie, puis je redécouvre".</comments>
     <image>Boys Boys Boys.jpg</image>
   </comedyshow>
   <comedyshow>
@@ -97,12 +91,9 @@
     <location>Vaudoise Aréna, Lausanne, Switzerland</location>
     <name>D'ailleurs</name>
     <comedian>Gad Elmaleh</comedian>
-    <rating></rating>
-    <comments></comments>
+    <rating>3.0</rating>
+    <comments>Spectacle très grand public auquel j'avais été invité par un membre de l'équipe technique de la tournée. La salle a beaucoup apprécié, mais ça n'est pas mon genre d'humour. Petit jeu de mot de Gad durant son sketch sur son propre enterrement entre "Morrens" et "mourant", l'une des personnes du public ayant déclaré venir de Brétigny-sur-Morrens.</comments>
     <image>D'ailleurs.jpg</image>
-    <!--
-	Premier spectacle de la Vaudoise Aréna. Première partie non identifiée.
-    -->
   </comedyshow>
   <comedyshow>
     <date>2016-03-18</date>
@@ -112,8 +103,8 @@
     <author>Baptiste Lecaplain</author>
     <author>Benjamin Guedj</author>
     <director>Aslem Smida</director>
-    <rating></rating>
-    <comments></comments>
+    <rating>3.5</rating>
+    <comments>Spectacle vu avec des amis. Le public a beaucoup ri. Je suis resté en mode "sourire pincé". Je n'ai pas beaucoup apprécié la blague sur les végétariens/végans.</comments>
     <image>Origines.jpg</image>
   </comedyshow>
   <comedyshow>
@@ -121,8 +112,8 @@
     <location>Arena de Genève, Genève, Switzerland</location>
     <name>Madame Foresti</name>
     <comedian>Florence Foresti</comedian>
-    <rating></rating>
-    <comments></comments>
+    <rating>4.5</rating>
+    <comments>Une heure et demie non stop, sans pause entre les sketches. Je ne peux pas dire que je suis fan d'elle, mais j'ai été assez impressionné par la performance.</comments>
     <image>Madame Foresti.jpg</image>
   </comedyshow>
   <comedyshow>
@@ -130,8 +121,8 @@
     <location>Arena de Genève, Genève, Switzerland</location>
     <name>Mother Fucker</name>
     <comedian>Florence Foresti</comedian>
-    <rating></rating>
-    <comments></comments>
+    <rating>4.5</rating>
+    <comments>Premier rang, sur le côté de la scène. Je ne m'attendais pas à quelque chose d'exceptionnel, mais c'était mieux que prévu.</comments>
     <image>Mother Fucker.jpg</image>
   </comedyshow>
   <comedyshow>
@@ -140,8 +131,8 @@
     <name>Trop stylé</name>
     <comedian>Dany Boon</comedian>
     <openingact>Jérôme Commandeur</openingact>
-    <rating></rating>
-    <comments></comments>
+    <rating>3.5</rating>
+    <comments>Pas mal, mais pas génial. Pas très subtil et trop populaire à mon goût. Première partie (Lecommandeur) peu subtile également.</comments>
     <image>Trop stylé.jpg</image>
   </comedyshow>
   <comedyshow>
@@ -155,7 +146,7 @@
     <person function="costume">Annick Yannopoulos</person>
     <person function="illustrations">Karim Sauterel</person> -->
     <rating>5.0</rating>
-    <comments>Spectacle humoristique.</comments>
+    <comments>Spectacle amusant et décalé.</comments>
     <image>Les Ravages De L'Ennui Chez Les Oursins.jpg</image>
   </comedyshow>
   <comedyshow>
@@ -169,8 +160,8 @@
     <author>Pierre Naftule</author>
     <director>Jean-Luc Barbezat</director>
     <director>Pierre Naftule</director>
-    <rating></rating>
-    <comments></comments>
+    <rating>3.75</rating>
+    <comments>Vu en famille. Objectivement bien fait, mais pas mon truc.</comments>
     <image>Délit de Suisse.jpg</image>
   </comedyshow>
   <comedyshow>
@@ -178,20 +169,20 @@
     <location>Yvonand, Switzerland</location>
     <name>Satires obligatoires (?)</name>
     <comedian>Yann Lambiel</comedian>
-    <rating></rating>
-    <comments></comments>
+    <rating>4.0</rating>
+    <comments>Sympathique, essentiellement à propos des conseillers fédéraux. Apparemment très semblable à son spectacle précédent.</comments>
   </comedyshow>
   <comedyshow>
     <date>2002-11-30</date>
     <location>Théâtre Boulimie, Lausanne, Switzerland</location>
-    <name></name>
+    <name>?</name>
     <comedian>Lova Golovtchiner</comedian>
     <comedian>Martine Jeanneret</comedian>
     <comedian>Samy Benjamin</comedian>
     <comedian>Frédéric Gérard</comedian>
     <comedian>Kaya Güner</comedian>
-    <rating></rating>
-    <comments></comments>
+    <rating>3.5</rating>
+    <comments>Moyennement aimé.</comments>
   </comedyshow>
   <comedyshow>
     <date>2001-03-21</date>
@@ -204,7 +195,7 @@
     <comedian>Kaya Güner</comedian>
     <author>Lova Golovtchiner (?)</author>
     <director>Martine Jeanneret</director>
-    <rating></rating>
-    <comments></comments>
+    <rating>3.75</rating>
+    <comments>Il y avait de bonnes choses, mais ça reste un humour gentillet.</comments>
   </comedyshow>
 </comedyshows>
