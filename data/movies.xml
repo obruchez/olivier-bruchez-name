@@ -3,6 +3,16 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Add rating to IMDb -->
   <movie>
+    <date>2026-10-22</date>
+    <theater home="true"/>
+    <director>Louis Malle</director>
+    <title>My Dinner with Andre</title>
+    <url>https://www.imdb.com/title/tt0082783/</url>
+    <rating>4.75</rating>
+    <comments>The original podcast. Just two people talking and philosophizing. We all need to be woken up from time to time.</comments>
+    <image>My Dinner with Andre.jpg</image>
+  </movie>
+  <movie>
     <date>2026-10-21</date>
     <theater home="true"/>
     <director>Alain Resnais</director>
