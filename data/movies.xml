@@ -3,6 +3,18 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Add rating to IMDb -->
   <movie>
+    <date>2026-10-25</date>
+    <theater home="true"/>
+    <director>Jared Bush &amp; Byron Howard</director>
+    <title>Encanto</title>
+    <title language="fr">Encanto : La Fantastique Famille Madrigal</title>
+    <version>fr</version>
+    <url>https://www.imdb.com/title/tt2953050/</url>
+    <rating>4.5</rating>
+    <comments>Vu avec mon fils de 8 ans. C'est très bien fait, comme souvent. Une histoire sur l'esprit de famille, essentiellement.</comments>
+    <image>Encanto.jpg</image>
+  </movie>
+  <movie>
     <date>2026-10-22</date>
     <theater home="true"/>
     <director>Louis Malle</director>
