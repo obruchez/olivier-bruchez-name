@@ -2,6 +2,33 @@
 <concerts created="2000-04-01">
   <introduction>A list of concerts I went to.</introduction>
   <concert>
+    <date>2026-10-30</date>
+    <location>Salle Paderewski, Casino de Montbenon, Lausanne, Switzerland</location>
+    <event>JazzOnze+ Festival Lausanne</event>
+    <group>Kurt Rosenwinkel The Remedy Group</group>
+    <musician inst="guitar" main="true">Kurt Rosenwinkel</musician>
+    <musician inst="tenor saxophone">Seamus Blake</musician>
+    <musician inst="piano, keyboards">Aaron Goldberg</musician>
+    <musician inst="bass">Joe Martin</musician>
+    <musician inst="drums">Kendrick Scott</musician>
+    <rating>5.0</rating>
+    <comments>I'd already seen Kurt Rosenwinkel in 2017, but I didn't like it. This time, the magic really happened. All the musicians were very good, but I especially enjoyed the saxophone player (Seamus Blake).</comments>
+  </concert>
+  <concert>
+    <date>2026-10-30</date>
+    <location>Salle Paderewski, Casino de Montbenon, Lausanne, Switzerland</location>
+    <event>JazzOnze+ Festival Lausanne</event>
+    <group>François Lindemann &amp; Alvin Queen Sextet</group>
+    <musician inst="piano" main="true">François Lindemann</musician>
+    <musician inst="drums" main="true">Alvin Queen</musician>
+    <musician inst="alto saxophone">Greg Osby</musician>
+    <musician inst="trumpet">Jorge Vistel</musician>
+    <musician inst="trombone">Robin Eubanks</musician>
+    <musician inst="bass">Heiri Känzig</musician>
+    <rating>4.5</rating>
+    <comments>I'd briefly seen François Lindemann at the Funky Claude evening in 2013. This was my first real concert with him. I'd already seen Greg Osby in 2017 (with Dave Liebman, Joe Lovano, etc.), Robin Eubanks in 2004 (with Dave Holland), Heiri Känzig in 2000 (with Thierry Lang), and Alvin Queen in 2005 (with Oscar Peterson). Gary Bartz and Eddie Henderson were originally supposed to be there, but unfortunately they couldn't make it.</comments>
+  </concert>
+  <concert>
     <date>2026-10-18</date>
     <location>Jumeaux Jazz Club, Lausanne, Switzerland</location>
     <musician inst="alto saxophone, soprano saxophone, keyboards, vocals" main="true">Kenny Garrett</musician>
