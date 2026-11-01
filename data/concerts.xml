@@ -2,6 +2,28 @@
 <concerts created="2000-04-01">
   <introduction>A list of concerts I went to.</introduction>
   <concert>
+    <date>2026-10-31</date>
+    <location>Salle Paderewski, Casino de Montbenon, Lausanne, Switzerland</location>
+    <event>JazzOnze+ Festival Lausanne</event>
+    <group>Hiromi: The Trio Project</group>
+    <musician inst="piano" main="true">Hiromi Uehara</musician>
+    <musician inst="bass">James Genus</musician>
+    <musician inst="drums">Simon Phillips</musician>
+    <rating>5.0</rating>
+    <comments>I didn't know Hiromi. At all. I'd never heard or seen anything by her. It was my father who suggested going to see her. I didn't regret it. It blew me away.</comments>
+  </concert>
+  <concert>
+    <date>2026-10-31</date>
+    <location>Salle Paderewski, Casino de Montbenon, Lausanne, Switzerland</location>
+    <event>JazzOnze+ Festival Lausanne</event>
+    <group>The Jazz Trio</group>
+    <musician inst="alto saxophone">Florian Egli</musician>
+    <musician inst="bass">Raphael Walser</musician>
+    <musician inst="drums">Jonas Ruther</musician>
+    <rating>4.0</rating>
+    <comments>It started off very mild and, fortunately, built up a bit over time.</comments>
+  </concert>
+  <concert>
     <date>2026-10-30</date>
     <location>Salle Paderewski, Casino de Montbenon, Lausanne, Switzerland</location>
     <event>JazzOnze+ Festival Lausanne</event>
