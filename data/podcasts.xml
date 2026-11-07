@@ -2,6 +2,12 @@
 <podcasts created="2016-05-10">
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date>2026-11-05</date>
+    <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
+    <episode url="https://www.samharris.org/podcasts/making-sense-episodes/500-the-playing-animal" number="500">The Playing Animal</episode>
+    <comments>"Sam Harris speaks with Jimmy Carr about comedy, culture, and the state of the West. They discuss Carr's new book on the craft of joke writing, why comedy should be taught, the ethics of crowd work, AI as a new god, cancel culture, attention and meditation, psychedelics, political violence and Italy's years of lead, immigration and unrest in Europe, Britain's economic decline, nuclear power, the case for educating for character, and other topics."</comments>
+  </podcast>
+  <podcast>
     <date>2026-10-23</date>
     <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
     <episode url="https://www.samharris.org/podcasts/making-sense-episodes/499-the-birth-of-agi" number="499">The Birth of AGI</episode>
