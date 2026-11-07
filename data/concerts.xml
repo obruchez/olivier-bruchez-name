@@ -2,6 +2,18 @@
 <concerts created="2000-04-01">
   <introduction>A list of concerts I went to.</introduction>
   <concert>
+    <date>2026-11-04</date>
+    <location>Métropole, Lausanne, Switzerland</location>
+    <event>Les Découvertes de l'OCL</event>
+    <group>La fabrique de Mozart</group>
+    <musician inst="conductor">Leo Hussain</musician>
+    <musician inst="orchestra">Orchestre de Chambre de Lausanne</musician>
+    <musician inst="narrator">Anna Krenger</musician>
+    <musician inst="narrator">Paul Berrocal</musician>
+    <rating>4.5</rating>
+    <comments>Une découverte d'oeuvres de Mozart (extraits de K. 525, K. 201, K. 492, K. 550, K. 50 et K. 551), présentées par deux comédiens. Vu avec mon fils de 8 ans.</comments>
+  </concert>
+  <concert>
     <date>2026-10-31</date>
     <location>Salle Paderewski, Casino de Montbenon, Lausanne, Switzerland</location>
     <event>JazzOnze+ Festival Lausanne</event>
