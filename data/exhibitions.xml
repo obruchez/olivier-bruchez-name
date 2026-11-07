@@ -3,6 +3,15 @@
 <exhibitions created="2011-05-17">
     <introduction>A list of exhibitions I visited.</introduction>
     <exhibition>
+        <date>2026-11-07</date>
+        <name>Rodin selon Rilke</name>
+        <museum>Fondation Pierre Gianadda, Martigny, Switzerland</museum>
+        <rating>4.5</rating>
+        <comments>Sculpture is definitely less my thing than painting.</comments>
+        <image>Rodin selon Rilke.jpg</image>
+        <!-- <pictures url=""/> -->
+    </exhibition>
+    <exhibition>
         <date>2026-09-26</date>
         <name>Isao Takahata / Et nous alors?</name>
         <museum>Museum of Contemporary Design and Applied Arts (MUDAC), Lausanne, Switzerland</museum>
