@@ -15,6 +15,17 @@
         <image>The Tripods - All For Nothing.jpg</image>
     </book>
     <book>
+        <date>2026-11-07</date>
+        <title>Le Chevalier inexistant</title>
+        <author>Italo Calvino</author>
+        <publishingyear>1959</publishingyear>
+        <rating>4.75</rating>
+        <url>https://fr.wikipedia.org/wiki/Le_Chevalier_inexistant</url>
+        <notes description="Kindle highlights"></notes>
+        <comments>Un livre à nouveau très "ludique" d'Italo Calvino qui propose, derrière des personnages presque amusants et un contexte de chevalerie, une réflexion sur les questions d'identité et de nos rôles dans la société.</comments>
+        <image>Le Chevalier inexistant.jpg</image>
+    </book>
+    <book>
         <date>2026-10-09</date>
         <title>Le Horla</title>
         <author>Guy de Maupassant</author>
