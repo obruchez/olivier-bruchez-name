@@ -2,6 +2,12 @@
 <podcasts created="2016-05-10">
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date>2026-11-09</date>
+    <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
+    <episode url="https://www.samharris.org/podcasts/making-sense-episodes/501-the-performance-of-empathy" number="501">The Performance of Empathy</episode>
+    <comments>What a frustrating discussion. They kept talking past each other. That was probably the worst episode in a long time. "Sam Harris speaks with Sherry Turkle about her new book, <i>Artificial Intimacy</i>. They discuss the early optimism of the internet, the attention economy, the loss of solitude and boredom, the decline of empathy, whether the performance of empathy can ever be enough, AI as therapist, the first-person pronoun as the 'original sin' of generative AI, humanoid robots and consciousness, loneliness among older people, and other topics."</comments>
+  </podcast>
+  <podcast>
     <date>2026-11-05</date>
     <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
     <episode url="https://www.samharris.org/podcasts/making-sense-episodes/500-the-playing-animal" number="500">The Playing Animal</episode>
