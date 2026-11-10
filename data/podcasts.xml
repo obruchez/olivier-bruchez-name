@@ -2,6 +2,12 @@
 <podcasts created="2016-05-10">
   <introduction>A list of podcasts I listened to.</introduction>
   <podcast>
+    <date>2026-11-10</date>
+    <name url="https://www.humanetech.com/podcast">Your Undivided Attention</name>
+    <episode url="https://www.humanetech.com/podcast/why-silicon-valley-wants-to-leave-humanity-behind" number="144">Why Silicon Valley Wants to Leave Humanity Behind</episode>
+    <comments>"Behind the AI race, there's a philosophy with an intellectual lineage and a body of work that holds that human beings are a defective early draft, that the things that make us humans are bugs to be fixed, that this planet is expendable and we can move on to the next. And that the suffering of real people today is a rounding error against the value of a cosmic future."</comments>
+  </podcast>
+  <podcast>
     <date>2026-11-09</date>
     <name url="https://www.samharris.org/podcast">Making Sense with Sam Harris</name>
     <episode url="https://www.samharris.org/podcasts/making-sense-episodes/501-the-performance-of-empathy" number="501">The Performance of Empathy</episode>
