@@ -2,7 +2,7 @@
 <books created="2006-08-20">
     <introduction>A list of books I read.</introduction>
     <!-- TODO: replace links to Google Books with links to Goodreads -->
-    <book>
+    <!-- <book>
         <date></date>
         <title>The Tripods: All For Nothing?</title>
         <subtitle>The Secrets and Stories Behind the BBC Series</subtitle>
@@ -13,6 +13,17 @@
         <notes description="Kindle highlights"></notes>
         <comments></comments>
         <image>The Tripods - All For Nothing.jpg</image>
+    </book> -->
+    <book>
+        <date></date>
+        <title>The Turn of the Screw</title>
+        <author>Henry James</author>
+        <publishingyear>1898</publishingyear>
+        <rating></rating>
+        <url>https://en.wikipedia.org/wiki/The_Turn_of_the_Screw</url>
+        <notes description="Kindle highlights"></notes>
+        <comments></comments>
+        <image>The Turn of the Screw.jpg</image>
     </book>
     <book>
         <date>2026-11-07</date>
