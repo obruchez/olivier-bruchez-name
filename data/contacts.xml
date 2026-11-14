@@ -12,11 +12,6 @@
     <icon>fa-rss</icon>
   </contact>
   <contact>
-    <name>Facebook</name>
-    <url description="facebook.com/obruchez">https://www.facebook.com/obruchez</url>
-    <icon>fa fa-facebook</icon>
-  </contact>
-  <contact>
     <name>Flickr</name>
     <url description="flickr.com/photos/bruchez">https://secure.flickr.com/photos/bruchez/sets</url>
     <icon>fa-flickr</icon>
@@ -25,11 +20,6 @@
     <name>Github</name>
     <url description="github.com/obruchez">https://github.com/obruchez</url>
     <icon>fa-github</icon>
-  </contact>
-  <contact>
-    <name>Hangouts</name>
-    <url description="olivier.bruchez@gmail.com">mailto:olivier.bruchez@gmail.com</url>
-    <icon>fa-google</icon>
   </contact>
   <contact>
     <name>KeithJarrett.org</name>
@@ -45,11 +35,6 @@
     <name>LinkedIn</name>
     <url description="linkedin.com/in/obruchez">https://www.linkedin.com/in/obruchez</url>
     <icon>fa-linkedin</icon>
-  </contact>
-  <contact>
-    <name>Skype</name>
-    <url description="obruchez">skype:obruchez</url>
-    <icon>fa-skype</icon>
   </contact>
   <contact>
     <name>Twitter</name>
