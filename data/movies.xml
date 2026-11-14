@@ -3,6 +3,18 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Add rating to IMDb -->
   <movie>
+    <date>2026-11-13</date>
+    <theater home="true"/>
+    <director>Domee Shi</director>
+    <title>Turning Red</title>
+    <title language="fr">Alerte rouge</title>
+    <version>fr</version>
+    <url>https://www.imdb.com/title/tt8097030/</url>
+    <rating>4.25</rating>
+    <comments>Vu avec mon fils de 8 ans. Encore un film sur l'obéissance aux parents, l'individualité, etc. Finalement assez similaire à Encanto, vu récemment, mais dans un autre style.</comments>
+    <image>Turning Red.jpg</image>
+  </movie>
+  <movie>
     <date>2026-10-25</date>
     <theater home="true"/>
     <director>Jared Bush &amp; Byron Howard</director>
