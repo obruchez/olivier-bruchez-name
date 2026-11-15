@@ -45,7 +45,6 @@ Pretty much everything from [IMDb's Top 250](http://www.imdb.com/chart/top), [Le
 
 * [Ma nuit chez Maud](http://www.imdb.com/title/tt0064612) (8.1)
 * [4 aventures de Reinette et Mirabelle](http://www.imdb.com/title/tt0090565/) (7.9)
-* [Le genou de Claire](http://www.imdb.com/title/tt0065772) (7.8)
 * [Le rayon vert](http://www.imdb.com/title/tt0091830) (7.8)
 * [L'amour l'après-midi](http://www.imdb.com/title/tt0068205) (7.8)
 
@@ -105,10 +104,7 @@ Pretty much everything from [IMDb's Top 250](http://www.imdb.com/chart/top), [Le
 ## [Woody Allen](http://www.imdb.com/name/nm0000095)
 
 * [Hannah and Her Sisters](http://www.imdb.com/title/tt0091167) (8.0)
-* [Crimes and Misdemeanors](http://www.imdb.com/title/tt0097123) (8.0)
 * [Love and Death](http://www.imdb.com/title/tt0073312) (7.8)
-* [Zelig](http://www.imdb.com/title/tt0086637) (7.8)
-* [The Purple Rose of Cairo](http://www.imdb.com/title/tt0089853) (7.7)
 
 ## Misc
 
@@ -145,7 +141,6 @@ Pretty much everything from [IMDb's Top 250](http://www.imdb.com/chart/top), [Le
 
 ## Selections from [25 Spectacular Movies You (Probably) Haven’t Seen Pt. 2](http://www.highexistence.com/25-spectacular-movies-you-probably-havent-seen-part-2/)
 
-* Juan José Campanella, [The Secret in Their Eyes](http://www.imdb.com/title/tt1305806) (8.3)
 * Vincent Paronnaud & Marjane Satrapi, [Persepolis](http://www.imdb.com/title/tt0808417) (8.0)
 * Tarsem Singh , [The Fall](http://www.imdb.com/title/tt0460791) (7.9)
 * Nicolas Winding Refn, [Drive](http://www.imdb.com/title/tt0780504) (7.8)
