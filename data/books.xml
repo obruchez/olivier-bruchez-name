@@ -305,7 +305,7 @@
         <url>https://www.goodreads.com/book/show/25666050</url>
         <notes description="Kindle highlights"></notes>
         <comments>I have a master in computer science, so I often think about the world in terms of algorithms. Some of them are useful on a day-to-day basis. Some of them are useful to better understand the world (so more in a philosophical way, almost). Some of the more advanced concepts coming from machine learning, for example. This book made me realize that there are more links than expected between computer science and the "real world".</comments>
-        <image>Algorithms to Live By.jpg</image>
+        <image>Algorithms to Live by.jpg</image>
     </book>
     <book>
         <date>2023-05-31</date>
@@ -1690,7 +1690,7 @@
         <publishingyear>2009</publishingyear>
         <rating>4.5</rating>
         <url>https://books.google.com/books/about/Pierres_%C3%A0_cupules_et_autres_pierres_gra.html?id=y2h-KQEACAAJ</url>
-        <!-- Cover not found online -->
+        <image>Pierres à cupules et autres pierres gravées.jpg</image>
     </book>
     <book>
         <date>2013-11-21</date>
@@ -2229,7 +2229,7 @@
         <publishingyear>1933</publishingyear>
         <rating/>
         <url>https://fr.wikipedia.org/wiki/Le_Proc%C3%A8s</url>
-        <image>Le Procè̀s.jpg</image>
+        <image>Le Procès.jpg</image>
     </book>
     <book>
         <date>2002-??-??</date>
