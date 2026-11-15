@@ -4,19 +4,19 @@ version := "1.9.5"
 
 lazy val root = (project in file(".")).enablePlugins(PlayScala)
 
-scalaVersion := "3.9.0"
+scalaVersion := "3.10.1"
 
 scalacOptions ++= Seq("-deprecation", "-feature", "-unchecked")
 
 libraryDependencies ++= Seq(
   guice,
   "com.github.rjeschke" % "txtmark" % "0.13",
-  "com.google.apis" % "google-api-services-blogger" % "v3-rev20221220-2.0.0",
-  "com.google.api-client" % "google-api-client" % "2.7.2",
-  "com.google.http-client" % "google-http-client" % "1.46.3",
-  "com.google.http-client" % "google-http-client-jackson2" % "1.46.3",
-  "joda-time" % "joda-time" % "2.13.1",
-  "org.apache.commons" % "commons-text" % "1.13.0",
+  "com.google.apis" % "google-api-services-blogger" % "v3-rev20260707-2.9.2",
+  "com.google.api-client" % "google-api-client" % "2.9.2",
+  "com.google.http-client" % "google-http-client" % "2.2.0",
+  "com.google.http-client" % "google-http-client-jackson2" % "2.2.0",
+  "joda-time" % "joda-time" % "2.15.1",
+  "org.apache.commons" % "commons-text" % "1.15.0",
   "org.jsoup" % "jsoup" % "1.24.1",
   "org.scala-lang.modules" %% "scala-xml" % "2.5.0",
   "org.scalatestplus.play" %% "scalatestplus-play" % "7.0.2" % Test
