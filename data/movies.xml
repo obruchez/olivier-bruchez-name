@@ -3,6 +3,17 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Add rating to IMDb -->
   <movie>
+    <date>2026-11-14</date>
+    <theater home="true"/>
+    <director>Ryûsuke Hamaguchi</director>
+    <title>Drive My Car</title>
+    <title language="ja">Doraibu mai kâ</title>
+    <url>https://www.imdb.com/title/tt14039582/</url>
+    <rating>5.0</rating>
+    <comments>A very contemplative film. I'd planned to watch it during my stay at the chalet in October, but I didn't have time, since I had to come back down early because of the snow. This mix of theater, road trip, family drama and different languages is both disorienting and very rich.</comments>
+    <image>Drive My Car.jpg</image>
+  </movie>
+  <movie>
     <date>2026-11-13</date>
     <theater home="true"/>
     <director>Domee Shi</director>
