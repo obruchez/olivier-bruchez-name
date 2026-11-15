@@ -15,6 +15,11 @@ abstract class ListItem(
 
   def noDate: Boolean = date.emptyDate
 
+  /** Planned for a known day in the future (a booked concert, a trip): kept out of the list itself
+    * and announced on the home page.
+    */
+  def upcoming: Boolean = next && date.isoString.length == 10
+
   /** Cover/poster, as a path relative to the images directory, e.g. "books/Le Horla.jpg". */
   def image: Option[String] = None
 

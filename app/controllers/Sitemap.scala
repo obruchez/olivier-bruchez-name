@@ -122,7 +122,7 @@ object Sitemap {
     comedyShows -> ListInfo("Comedy show", Some("Upcoming comedy shows")),
     comics -> ListInfo("Comic", Some("Currently reading")),
     concerts -> ListInfo("Concert", Some("Upcoming concerts")),
-    courses -> ListInfo("Course", Some("Upcoming courses")),
+    courses -> ListInfo("Course", Some("Currently taking")),
     crashes -> ListInfo("Crash"),
     exhibitions -> ListInfo("Exhibition"),
     hikes -> ListInfo("Hike"),
@@ -194,7 +194,12 @@ object Sitemap {
       shows
     )
 
-  // Lists whose current/upcoming items are shown in the "Right now" section of the home page
-  val rightNowPages =
-    Seq(books, comics, shows, concerts, plays, operas, ballets, comedyShows, trips)
+  // Lists whose items in progress (no date yet) are shown in the "Right now" section of the home page
+  val rightNowPages = Seq(books, comics, shows, courses)
+
+  // Lists of events: an item without a date is something planned, not something in progress
+  val eventPages = Seq(concerts, plays, operas, ballets, comedyShows, trips)
+
+  // Lists whose items dated in the future are shown in the "Upcoming" section of the home page
+  val upcomingPages = (recentActivityPages ++ eventPages :+ courses).distinct
 }

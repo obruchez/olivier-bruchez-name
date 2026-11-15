@@ -18,7 +18,7 @@
 @main(page) {
   @Html(ListIcons.symbol(page))
   <div class="entries @if(entries.exists(_._1.image.nonEmpty)) {has-covers @Sitemap.coverShapes.getOrElse(page, "")}">
-  @defining(entries.partition(_._1.next)) { case (nextItems, pastItems) =>
+  @defining(entries.filterNot(_._1.upcoming).partition(_._1.next)) { case (nextItems, pastItems) =>
     @defining(pastItems.groupBy(_._1.date.year).toSeq.sortBy(_._1).reverse) { byYear =>
       <div class="lead-in">
         @cacheable.introduction.map { introduction => <p>@introduction.fullVersion.html</p> }

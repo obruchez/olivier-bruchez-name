@@ -1,7 +1,7 @@
 @import models.blogger.Post
 @import util.Date._
 
-@(rightNow: Seq[(Page, Seq[ListItem])], lately: Seq[(Page, ListItem)], posts: Seq[Post])
+@(rightNow: Seq[(Page, Seq[ListItem])], upcoming: Seq[(Page, HtmlContent, Option[String])], lately: Seq[(Page, ListItem)], posts: Seq[Post])
 
 @main(Sitemap.home) {
   <section class="hello">
@@ -36,6 +36,20 @@
                 <p>@item.shortRepresentation.html@if(!item.date.emptyDate) {<span class="now-date">, @item.date.shortEnglishString(withYear = true)</span>}</p>
               }
             </dd>
+          </div>
+        }
+      </dl>
+    </section>
+  }
+
+  @if(upcoming.nonEmpty) {
+    <section class="home-section">
+      <h2>Upcoming</h2>
+      <dl class="now-list">
+        @upcoming.map { case (page, title, date) =>
+          <div>
+            <dt><a class="with-icon" href="@page.url">@Html(ListIcons.svg(page))@Sitemap.listInfos.get(page).fold(page.title)(_.itemName)</a></dt>
+            <dd><p>@title.html@date.map { date =><span class="now-date">, @date</span>}</p></dd>
           </div>
         }
       </dl>

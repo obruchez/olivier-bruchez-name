@@ -11,6 +11,7 @@ object ListIcons {
     Sitemap.comedyShows -> """<rect x="9" y="3" width="6" height="11" rx="3"/><path d="M5.5 11a6.5 6.5 0 0 0 13 0M12 17.5V21M8.5 21h7"/>""",
     Sitemap.comics -> """<path d="M4 5h16v11h-9l-4 4v-4H4z"/>""",
     Sitemap.concerts -> """<path d="M9 18V5l10-2v13"/><circle cx="6.5" cy="18" r="2.5"/><circle cx="16.5" cy="16" r="2.5"/>""",
+    Sitemap.courses -> """<path d="M2 9l10-5 10 5-10 5z"/><path d="M6 11.5V16c1.5 1.5 3.5 2.5 6 2.5s4.5-1 6-2.5v-4.5M22 9v6"/>""",
     Sitemap.exhibitions -> """<rect x="3" y="4" width="18" height="16" rx="1"/><path d="M6 17l4.5-5 3 3 2-2 2.5 4"/><circle cx="15.5" cy="8.5" r="1.3"/>""",
     Sitemap.hikes -> """<path d="M2 20L9 7l4 7 2.5-4L22 20z"/>""",
     Sitemap.movies -> """<rect x="3" y="4" width="18" height="16" rx="1.5"/><path d="M7.5 4v16M16.5 4v16M3 9h4.5M3 15h4.5M16.5 9H21M16.5 15H21"/>""",

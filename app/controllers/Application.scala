@@ -45,21 +45,56 @@ class Application @Inject() (implicit
       // The latest entry of each list, unless the list has been left alone for a year
       latest <- lately(count = Int.MaxValue, maxPerList = 1)
       rightNowActivity <- cacheables(Sitemap.rightNowPages)
+      upcomingActivity <- cacheables(Sitemap.upcomingPages)
       posts <- Cache.get(Posts)
     } yield {
       val rightNow =
         rightNowActivity
           .map { case (page, cacheable) =>
-            page -> cacheable.listItems.filter(_.next).reverse.withUrls(page)
+            page -> cacheable.listItems.filter(item => item.next && !item.upcoming).reverse
           }
           .filter(_._2.nonEmpty)
+
+      // What is planned, soonest first; events without a date yet come last
+      val upcoming =
+        upcomingActivity
+          .flatMap { case (page, cacheable) =>
+            cacheable.listItems
+              .filter(item => item.upcoming || (item.next && Sitemap.eventPages.contains(page)))
+              .map(page -> _)
+          }
+          .sortBy { case (_, item) => if (item.noDate) "9999" else item.date.yyyymmddString }
+          .map { case (page, item) => (page, upcomingTitle(item), upcomingDate(item)) }
 
       val oneYearAgo = java.time.LocalDate.now.minusYears(1).toString
       val lately = latest.filter(_._2.date.yyyymmddString >= oneYearAgo)
 
-      Ok(views.html.home(rightNow, lately, posts.listItems.take(5)))
+      Ok(views.html.home(rightNow, upcoming, lately, posts.listItems.take(5)))
     }
   }
+
+  // In "Upcoming", every entry is a title followed by its date, written the same way for all lists
+  private def upcomingTitle(item: ListItem): HtmlContent =
+    item match {
+      case trip: models.lists.Trip => HtmlContent.fromNonHtmlString(trip.place)
+      case _                       => item.shortRepresentation
+    }
+
+  private def upcomingDate(item: ListItem): Option[String] =
+    item match {
+      case _ if item.noDate                                                                  => None
+      case trip: models.lists.Trip if trip.to.isoString.length == 10 && trip.to != trip.from =>
+        val (from, to) = (trip.from, trip.to)
+        val sameYear = from.isoString.take(4) == to.isoString.take(4)
+        val sameMonth = sameYear && from.isoString.take(7) == to.isoString.take(7)
+        Some(
+          if (sameMonth)
+            s"${from.shortEnglishString(withYear = false)}-${to.isoString.drop(8).toInt}, ${to.isoString.take(4)}"
+          else
+            s"${from.shortEnglishString(withYear = !sameYear)} - ${to.shortEnglishString(withYear = true)}"
+        )
+      case _ => Some(item.date.shortEnglishString(withYear = true))
+    }
 
   // Atom feed of the same selection as the "Lately" section of the home page, only longer
   def feed = Action.async { (request: Request[AnyContent]) =>
