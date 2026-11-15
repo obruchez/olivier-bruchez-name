@@ -7,4 +7,7 @@
   }
   <a href="@routes.Application.feed">Feed</a>
   <a href="https://github.com/obruchez/olivier-bruchez-name">Source code</a>
+  @util.Configuration.analyticsMeasurementId.map { _ =>
+    <span>Visits are counted with <a href="https://policies.google.com/technologies/partner-sites">Google Analytics</a></span>
+  }
 </footer>

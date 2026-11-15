@@ -19,6 +19,9 @@
   <script defer src="@routes.Assets.at("vendor/bootstrap/bootstrap.bundle.min.js")"></script>
   @scripts
   <script defer src="@routes.Assets.at("js/site.js")"></script>
+  @util.Configuration.analyticsMeasurementId.map { id =>
+    <script defer src="@routes.Assets.at("js/analytics.js")" data-measurement-id="@id"></script>
+  }
 </head>
 <body>
   <a class="visually-hidden-focusable skip-link" href="#content">Skip to content</a>

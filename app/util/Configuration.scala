@@ -9,6 +9,10 @@ object Configuration {
   def string(path: String): Option[String] =
     configuration.getOptional[String](path)
 
+  /** Google Analytics 4 measurement ID ("G-..."); no tracking when absent. */
+  def analyticsMeasurementId: Option[String] =
+    string("analytics.measurementid").map(_.trim).filter(_.nonEmpty)
+
   def url(path: String): Option[URL] =
     string(path).map(Url.parse)
 
