@@ -1,6 +1,6 @@
 # Books to read
 
-Pretty much everything from [Les cent livres du siècle](https://fr.wikipedia.org/wiki/Les_cent_livres_du_si%C3%A8cle) and [Les 100 meilleurs livres de tous les temps](https://fr.wikipedia.org/wiki/Les_100_meilleurs_livres_de_tous_les_temps). See also [Quels sont les classiques littéraires à lire absolument ?](https://fr.answers.yahoo.com/question/index?qid=20111112161815AAh5LUy), [100 Books to Read in a Lifetime](http://www.amazon.com/b?node=8192263011), [Alan Kay from Viewpoints Research Institute recommends his reading list for beginners](http://shelfjoy.com/shelfjoy/alan-kay-from-viewpoints-research-institute-recommends-his-reading-list-for-beginners), and many other similar lists. [Derek Sivers' Books I've read](https://sivers.org/book) seems to be a really good list (for non-fiction books). [Five Books](https://fivebooks.com/) seems to be a good resource as well. My reference as of 2020 will be [The Greatest Books](https://thegreatestbooks.org/), which is an aggregated list generated from more than a hundred individual lists.
+Pretty much everything from [Les cent livres du siècle](https://fr.wikipedia.org/wiki/Les_cent_livres_du_si%C3%A8cle) and [Les 100 meilleurs livres de tous les temps](https://fr.wikipedia.org/wiki/Les_100_meilleurs_livres_de_tous_les_temps). See also [Quels sont les classiques littéraires à lire absolument ?](https://web.archive.org/web/20210425025028/https://fr.answers.yahoo.com/question/index?qid=20111112161815AAh5LUy), [100 Books to Read in a Lifetime](http://www.amazon.com/b?node=8192263011), [Alan Kay from Viewpoints Research Institute recommends his reading list for beginners](https://web.archive.org/web/20201112034727/http://shelfjoy.com/shelfjoy/alan-kay-from-viewpoints-research-institute-recommends-his-reading-list-for-beginners), and many other similar lists. [Derek Sivers' Books I've read](https://sive.rs/book) seems to be a really good list (for non-fiction books). [Five Books](https://fivebooks.com/) seems to be a good resource as well. My reference as of 2020 will be [The Greatest Books](https://thegreatestbooks.org/), which is an aggregated list generated from more than a hundred individual lists.
 
 ## Atheism / religion
 
@@ -15,7 +15,7 @@ Pretty much everything from [Les cent livres du siècle](https://fr.wikipedia.or
 * David Niose, ["Nonbeliever Nation: The Rise of Secular Americans"](http://www.amazon.com/Nonbeliever-Nation-Rise-Secular-Americans/dp/1137278714) (reviewed on [Friendly Atheist](http://www.patheos.com/blogs/friendlyatheist/2012/09/29/a-review-of-david-nioses-nonbeliever-nation/))
 * Victor J. Stenger, ["God: The Failed Hypothesis"](https://en.wikipedia.org/wiki/God:_The_Failed_Hypothesis) (Victor J. Stenger is one of the "New Atheists", he died in 2014)
 * [Bible](https://en.wikipedia.org/wiki/Bible) (e-book, really long to read?)
-* authors listed in ["50 Top Atheists in the World Today"](http://www.thebestschools.org/blog/2011/12/01/50-top-atheists-in-the-world-today/) (2011) (Peter Singer, etc.)
+* authors listed in ["50 Top Atheists in the World Today"](https://web.archive.org/web/20210826080348/https://thebestschools.org/features/top-atheists-in-the-world-today/) (2011) (Peter Singer, etc.)
 
 ## Biography
 
@@ -55,7 +55,7 @@ Pretty much everything from [Les cent livres du siècle](https://fr.wikipedia.or
 * Tom DeMarco, ["Peopleware: Productive Projects and Teams"](https://www.amazon.com/Peopleware-Productive-Projects-Tom-DeMarco-ebook/dp/B00DY5A8X2) (recommended by [@akosma](https://twitter.com/akosma))
 * Eric Evans, ["Domain-Driven Design: Tackling Complexity in the Heart of Software"](http://www.amazon.com/exec/obidos/ASIN/0321125215/domainlanguag-20) (recommended by [@behaghel](https://twitter.com/behaghel))
 * Erich Gamma, etc., ["Design Patterns: Elements of Reusable Object-Oriented Software"](http://www.amazon.com/Design-Patterns-Object-Oriented-Addison-Wesley-Professional/dp/0201633612/)
-* Imran Ghory, ["Reinforcement learning in board games"](http://www.cs.bris.ac.uk/Publications/Papers/2000100.pdf)
+* Imran Ghory, ["Reinforcement learning in board games"](https://web.archive.org/web/20180107140550/http://www.cs.bris.ac.uk:80/Publications/Papers/2000100.pdf)
 * Robert L. Glass, ["Facts and Fallacies of Software Engineering"](https://www.amazon.com/Facts-Fallacies-Software-Engineering-Robert-ebook/dp/B001TKD4RG) (recommended by [@akosma](https://twitter.com/akosma))
 * Andy Hertzfeld, ["Revolution in The Valley: The Insanely Great Story of How the Mac Was Made"](https://www.amazon.com/Revolution-Valley-Paperback-Insanely-Great-ebook/dp/B006BAW3N0) (recommended by [@akosma](https://twitter.com/akosma))
 * Steve Krug, ["Don't Make Me Think: A Common Sense Approach to Web Usability"](http://www.amazon.com/Dont-Make-Me-Think-Usability/dp/0321344758) (recommended by [@behaghel](https://twitter.com/behaghel)?)
@@ -85,7 +85,7 @@ Pretty much everything from [Les cent livres du siècle](https://fr.wikipedia.or
 
 ## Education
 
-* Martha C. Nussbaum, ["Cultivating Humanity: A Classical Defense of Reform in Liberal Education"](http://www.amazon.com/Cultivating-Humanity-Martha-C-Nussbaum-ebook/dp/B00J8CVOHY/) (mentioned by Carlo Strenger in "The Fear of Insignificance")
+* Martha C. Nussbaum, ["Cultivating Humanity: A Classical Defense of Reform in Liberal Education"](https://www.hup.harvard.edu/books/9780674179493) (mentioned by Carlo Strenger in "The Fear of Insignificance")
 
 ## Essays
 
@@ -102,7 +102,7 @@ Pretty much everything from [Les cent livres du siècle](https://fr.wikipedia.or
 * René Barjavel, ["Le Grand Secret"](https://fr.wikipedia.org/wiki/Le_Grand_Secret_%28roman%29) (recommended by [@behaghel](https://twitter.com/behaghel))
 * René Barjavel, ["Ravage"](https://fr.wikipedia.org/wiki/Ravage_%28roman%29) (recommended by [@behaghel](https://twitter.com/behaghel))
 * Emily Brontë, ["Wuthering Heights"](https://en.wikipedia.org/wiki/Wuthering_Heights)
-* S. Corinna Bille, ["La Fraise Noire"](https://encrypted.google.com/books/about/La_fraise_noire.html?id=0EUVAAAAMAAJ) (read a long time ago?)
+* S. Corinna Bille, ["La Fraise Noire"](https://books.google.com/books/about/La_fraise_noire.html?id=0EUVAAAAMAAJ) (read a long time ago?)
 * Douglas Coupland, ["Microserfs"](https://en.wikipedia.org/wiki/Microserfs)
 * Roald Dahl, short stories not included in ["The Collected Short Stories of Roald Dahl"](https://en.wikipedia.org/wiki/The_Collected_Short_Stories_of_Roald_Dahl)
 * Antoine de Saint-Exupéry ["Vol de Nuit"](https://fr.wikipedia.org/wiki/Vol_de_nuit), etc.
@@ -114,7 +114,7 @@ Pretty much everything from [Les cent livres du siècle](https://fr.wikipedia.or
 * Frank Kafka, ["Le château"](https://fr.wikipedia.org/wiki/Le_Ch%C3%A2teau) (read in 2001)
 * Franz Kafka, ["Le procès"](https://fr.wikipedia.org/wiki/Le_Proc%C3%A8s) (read in 2004)
 * Cormac McCarthy, ["The Road"](https://en.wikipedia.org/wiki/The_Road) (saw the movie in 2010 and liked it)
-* Ursula K. Le Guin, ["The Found and the Lost: The Collected Novellas of Ursula K. Le Guin"](https://www.amazon.com/Found-Lost-Collected-Novellas-Ursula-ebook/dp/B01E4A32X8/) (I'm not sure where to start, are there better collections?)
+* Ursula K. Le Guin, ["The Found and the Lost: The Collected Novellas of Ursula K. Le Guin"](https://www.ursulakleguin.com/the-found-and-the-lost) (I'm not sure where to start, are there better collections?)
 * Ursula K. Le Guin, ["The Dispossessed"](https://www.amazon.com/Dispossessed-Ambiguous-Utopia-Hainish-Cycle-ebook/dp/B000FC11GA/) (can it be read independently?)
 * Bill Moody, ["Sur les traces de Chet Baker"](http://www.amazon.fr/Sur-traces-Chet-Baker-enqu%C3%AAte/dp/2743612061)
 * Amélie Nothomb, ["Acide sulfurique"](https://fr.wikipedia.org/wiki/Acide_sulfurique_(roman)) (recommended by Miriam)
@@ -154,7 +154,7 @@ Pretty much everything from [Les cent livres du siècle](https://fr.wikipedia.or
 
 ## Interviews
 
-* Maurice Chappaz, ["À-Dieu-Vat !"](https://encrypted.google.com/books/about/%C3%80_Dieu_vat.html?id=NJwbAQAAIAAJ)
+* Maurice Chappaz, ["À-Dieu-Vat !"](https://books.google.com/books/about/%C3%80_Dieu_vat.html?id=NJwbAQAAIAAJ)
 
 ## Meditation
 
@@ -170,7 +170,7 @@ Pretty much everything from [Les cent livres du siècle](https://fr.wikipedia.or
 
 ## Music
 
-* Frank Alkyer, ["The Miles Davis Reader"](https://encrypted.google.com/books/about/The_Miles_Davis_Reader.html?id=Dx2Ty5xVg04C)
+* Frank Alkyer, ["The Miles Davis Reader"](https://books.google.com/books/about/The_Miles_Davis_Reader.html?id=Dx2Ty5xVg04C)
 * Jan Swafford, ["Language of the Spirit: An Introduction to Classical Music"](https://www.amazon.com/Language-Spirit-Introduction-Classical-Music/dp/0465097545/) (looks like a good introduction to classical music)
 
 ## Parenthood
@@ -183,7 +183,7 @@ Pretty much everything from [Les cent livres du siècle](https://fr.wikipedia.or
 * David Allen, ["Making It All Work"](http://www.amazon.com/Making-All-Work-Winning-Business/dp/067001995X/)
 * Leo Babauta, ["The One Skill: How Mastering the Art of Letting Go Will Change Your Life"](http://zenhabits.net/lg/) (free book, mentioned by [@avernet](https://twitter.com/avernet))
 * Leo Babauta, ["Zen To Done"](http://www.amazon.com/Zen-Done-Ultimate-Simple-Productivity-ebook/dp/B001970HQU/)
-* Travis Bradberry & Jean Greaves, ["Emotional Intelligence 2.0"](https://en.wikipedia.org/wiki/Emotional_Intelligence_2.0)
+* Travis Bradberry & Jean Greaves, ["Emotional Intelligence 2.0"](https://www.goodreads.com/book/show/6486483-emotional-intelligence-2-0)
 * Dale Carnegie, ["How To Win Friends and Influence People"](https://www.amazon.com/How-Win-Friends-Influence-People-ebook/dp/B003WEAI4E/) (listed on [Hacker News](https://news.ycombinator.com/item?id=14477851))
 * Ray Dalio, ["Principles: Life and Work"](https://www.amazon.com/gp/product/1501124021/) (recommended on [@Coursera](https://twitter.com/coursera))
 * Arvind Devalia, ["Get the Life You Love and Live It"](http://www.amazon.com/Get-Life-You-Love-Live/dp/1905613008/)
@@ -202,7 +202,7 @@ Pretty much everything from [Les cent livres du siècle](https://fr.wikipedia.or
 ## Philosophy
 
 * Simon Blackburn, ["Think: A Compelling Introduction to Philosophy"](https://en.wikipedia.org/wiki/Think:_A_Compelling_Introduction_to_Philosophy) (Blackburn is an atheist; he doesn't agree with Harris on morality)
-* Russell Blackford & Damien Broderick, ["Intelligence Unbound: The Future of Uploaded and Machine Minds"](http://www.amazon.com/Intelligence-Unbound-Future-Uploaded-Machine/dp/1118736281/) (mentioned on [kurzweilai.net](http://www.kurzweilai.net/intelligence-unbound-the-future-of-uploaded-and-machine-minds))
+* Russell Blackford & Damien Broderick, ["Intelligence Unbound: The Future of Uploaded and Machine Minds"](http://www.amazon.com/Intelligence-Unbound-Future-Uploaded-Machine/dp/1118736281/) (mentioned on [kurzweilai.net](https://www.thekurzweillibrary.com/intelligence-unbound-the-future-of-uploaded-and-machine-minds))
 * Jean Bricmont & Alan Sokal, ["Intellectual Impostures"](http://www.amazon.com/Intellectual-Impostures-Jean-Bricmont-ebook/dp/B005OA3I8C/) (recommended by Stephen Law - books about pseudoscience; see also the original French version, ["Impostures intellectuelles"](http://www.amazon.fr/Impostures-intellectuelles-Alan-Sokal-ebook/dp/B00QR1Q48S/))
 * David Chalmers, ["The Conscious Mind: In Search of a Fundamental Theory"](https://en.wikipedia.org/wiki/The_Conscious_Mind) (and others) (seems to have a very weird view on consciousness - and philosophical zombies - not necessarily interesting)
 * Brian Christian, ["The Most Human Human: What Talking with Computers Teaches Us About What It Means to Be Alive"](http://www.amazon.com/The-Most-Human-Talking-Computers-ebook/dp/B004FEG2S6)
@@ -260,7 +260,7 @@ Pretty much everything from [Les cent livres du siècle](https://fr.wikipedia.or
 * Jonathan Haidt, ["The Happiness Hypothesis: Putting Ancient Wisdom to the Test of Modern Science"](http://www.amazon.com/Happiness-Hypothesis-Putting-Ancient-Science-ebook/dp/B00YY05O7G/) (had a really good discussion with [@SamHarrisOrg](https://twitter.com/SamHarrisOrg) on his podcast)
 * Michael John Harris, ["The End of Absence: Reclaiming What We've Lost in a World of Constant Connection"](https://www.amazon.com/End-Absence-Reclaiming-Constant-Connection-ebook/dp/B00INIYHFU/)
 * Robert-Vincent Joule & Jean-Léon Beauvois, ["La soumission librement consentie"](https://fr.wikipedia.org/wiki/Soumission_librement_consentie) (read ["Petit traité de manipulation à l'usage des honnêtes gens"](https://fr.wikipedia.org/wiki/Petit_trait%C3%A9_de_manipulation_%C3%A0_l%27usage_des_honn%C3%AAtes_gens) from them)
-* Daniel Kahneman, ["Thinking, Fast and Slow"](https://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow) (recommended by [@mistertricker](https://twitter.com/mistertricker))
+* Daniel Kahneman, ["Thinking, Fast and Slow"](https://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow) (recommended by @mistertricker)
 * Robert Levine, ["The Power of Persuasion: How We're Bought and Sold"](https://www.amazon.com/Power-Persuasion-Were-Bought-Sold-ebook/dp/B000QEOVG4/ref=mt_kindle) (recommended by [@willmacaskill](https://twitter.com/willmacaskill))
 * Barry Schwartz, ["The Paradox of Choice: Why More Is Less"](https://en.wikipedia.org/wiki/The_Paradox_of_Choice)
 * Carol Tavris & Elliot Aronson, ["Mistakes Were Made (But Not by Me): Why We Justify Foolish Beliefs, Bad Decisions, and Hurtful Acts"](https://www.amazon.com/Mistakes-Were-Made-But-Not/dp/0156033909) (recommended by [@PeterAttiamd](https://twitter.com/PeterAttiamd))
@@ -284,11 +284,11 @@ Pretty much everything from [Les cent livres du siècle](https://fr.wikipedia.or
 * Thomas Friedman, ["The World Is Flat: A Brief History of the Twenty-First Century"](https://en.wikipedia.org/wiki/The_World_Is_Flat)
 * Eric Hoffer, ["The True Believer: Thoughts on the Nature of Mass Movements"](https://www.amazon.com/True-Believer-Thoughts-Movements-Perennial-ebook/dp/B003TO5838)
 * A. des Isnards & T. Zuber, ["L'Open Space m'a tuer"](http://www.amazon.fr/LOpen-space-tuer-Alexandre-ISNARDS/dp/2266258095)
-* Johan Norberg, ["Progress: Ten Reasons to Look Forward to the Future"](https://www.amazon.com/Progress-Reasons-Look-Forward-Future-ebook/dp/B01C9O36UK)
+* Johan Norberg, ["Progress: Ten Reasons to Look Forward to the Future"](https://en.wikipedia.org/wiki/Progress:_Ten_Reasons_to_Look_Forward_to_the_Future)
 
 ## Switzerland
 
-* Maurice Chappaz, ["Portrait des Valaisans"](https://encrypted.google.com/books/about/Portrait_des_Valaisans_en_l%C3%A9gende_et_en.html?id=82MkAQAAIAAJ)
+* Maurice Chappaz, ["Portrait des Valaisans"](https://books.google.com/books/about/Portrait_des_Valaisans_en_l%C3%A9gende_et_en.html?id=82MkAQAAIAAJ)
 * ?, "Forces Motrices de Mauvoisin S.A. : Nos 50 Ans"
 
 ## Technology
@@ -306,4 +306,4 @@ Pretty much everything from [Les cent livres du siècle](https://fr.wikipedia.or
 ## Vegetarianism
 
 * Aymeric Caron, ["Antispéciste: Réconcilier l'humain, l'animal, la nature"](http://www.amazon.fr/Antisp%C3%A9ciste-R%C3%A9concilier-lhumain-lanimal-FICTION-ebook/dp/B01DDOWFVG/)
-* Renan Larue, ["Le végétarisme et ses ennemis: Vingt-cinq siècles de débats"](http://www.amazon.fr/v-g-tarisme-ses-ennemis-Vingt-cinq-si-cles-ebook/dp/B00SBZ69TC/)
+* Renan Larue, ["Le végétarisme et ses ennemis: Vingt-cinq siècles de débats"](https://www.puf.com/le-vegetarisme-et-ses-ennemis)

@@ -1,6 +1,6 @@
 # Movies to watch
 
-Pretty much everything from [IMDb's Top 250](http://www.imdb.com/chart/top), [Letterboxd's Top 250](https://letterboxd.com/visdave34/list/official-top-250-narrative-feature-films/), and [Phi Phenomenon](http://www.phi-phenomenon.org/). See also [List of films considered the best](https://en.wikipedia.org/wiki/List_of_films_considered_the_best), [Metacritic's top movies](http://www.metacritic.com/browse/movies/score/metascore/all/filtered), [Rotten Tomatoes' Top 100 movies of all time](http://www.rottentomatoes.com/top/bestofrt/), and [The 50 Greatest Films of All Time](https://www.bfi.org.uk/news/50-greatest-films-all-time).
+Pretty much everything from [IMDb's Top 250](http://www.imdb.com/chart/top), [Letterboxd's Top 500](https://letterboxd.com/official/list/letterboxds-top-500-films/), and [Phi Phenomenon](http://www.phi-phenomenon.org/). See also [List of films considered the best](https://en.wikipedia.org/wiki/List_of_films_considered_the_best), [Metacritic's top movies](http://www.metacritic.com/browse/movies/score/metascore/all/filtered), [Rotten Tomatoes' best movies of all time](https://editorial.rottentomatoes.com/guide/best-movies-of-all-time/), and [The Greatest Films of All Time](https://www.bfi.org.uk/sight-and-sound/greatest-films-all-time).
 
 ## [Agnès Varda](http://www.imdb.com/name/nm0889513)
 
@@ -112,7 +112,7 @@ Pretty much everything from [IMDb's Top 250](http://www.imdb.com/chart/top), [Le
 * Alejandro Amenábar, [Abre los ojos](http://www.imdb.com/title/tt0125659) (7.9) ([Vanilla Sky](http://www.imdb.com/title/tt0259711) is a remake of this movie)
 * Yann Arthus-Bertrand, [Home](http://www.imdb.com/title/tt1014762) (8.6)
 * Jaume Balagueró & Paco Plaza, [[Rec]](http://www.imdb.com/title/tt1038988) (7.5)
-* Marie-Dominique Dhelsing, [Pierre Rabhi : Au nom de la terre](http://www.imdb.com/title/tt2805242) (7.4) (recommended by [@caryl_jones](https://twitter.com/caryl_jones))
+* Marie-Dominique Dhelsing, [Pierre Rabhi : Au nom de la terre](http://www.imdb.com/title/tt2805242) (7.4) (recommended by @caryl_jones)
 * Federico Fellini, [8½](http://www.imdb.com/title/tt0056801) (8.1) (recommended by [@ebruchez](https://twitter.com/ebruchez))
 * Richard Fleischer, [Soylent Green](http://www.imdb.com/title/tt0070723) (7.1)
 * Paul Haggis, [In the Valley of Elah](http://www.imdb.com/title/tt0478134) (7.2)
@@ -121,12 +121,12 @@ Pretty much everything from [IMDb's Top 250](http://www.imdb.com/chart/top), [Le
 * John Huston, [Moby Dick](http://www.imdb.com/title/tt0049513) (7.4)
 * Barbara Kopple & Cecilia Peck, [Shut Up & Sing](http://www.imdb.com/title/tt0811136) (7.7)
 * Ken Loach, [It's a Free World](http://www.imdb.com/title/tt0807054) (7.0)
-* Kevin Macdonald, [Touching the Void](http://www.imdb.com/title/tt0379557) (8.1) (recommended by [@caryl_jones](https://twitter.com/caryl_jones))
+* Kevin Macdonald, [Touching the Void](http://www.imdb.com/title/tt0379557) (8.1) (recommended by @caryl_jones)
 * Jessie Nelson, [I Am Sam](http://www.imdb.com/title/tt0277027) (7.6)
 * Robert Barry Ptolemy, [Transcendent Man](http://www.imdb.com/title/tt1117394) (7.2) (documentary about Ray Kurzweil)
 * Michèle Rosier, [Mon coeur est rouge](http://www.imdb.com/title/tt0074913) (6.4) (some music composed by Keith Jarrett)
 * Patrick Savey, [Marcus](http://www.imdb.com/title/tt4400358) (available on iTunes)
-* Jacqueline Veuve, [La petite dame du Capitole](http://www.jacquelineveuve.ch/dsp_1f.php?lg=fr&fid=61) (already seen at the cinema, bought on DVD)
+* Jacqueline Veuve, [La petite dame du Capitole](https://web.archive.org/web/20111121023647/http://www.jacquelineveuve.ch:80/dsp_1f.php?lg=fr&fid=61) (already seen at the cinema, bought on DVD)
 
 ## Selections from [25 Spectacular Movies You (Probably) Haven’t Seen](http://www.highexistence.com/25-spectacular-movies-you-probably-havent-seen/)
 
