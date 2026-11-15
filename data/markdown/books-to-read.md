@@ -108,7 +108,6 @@ Pretty much everything from [Les cent livres du siècle](https://fr.wikipedia.or
 * Antoine de Saint-Exupéry ["Vol de Nuit"](https://fr.wikipedia.org/wiki/Vol_de_nuit), etc.
 * Friedrich Dürrenmatt, ["Der Tunnel"](https://en.wikipedia.org/wiki/The_Tunnel_%28short_story%29) (short story, mentioned by [@icassina](https://twitter.com/icassina))
 * Antoine Galland, ["Les Milles et Une Nuits"](https://fr.wikipedia.org/wiki/Les_Mille_et_Une_Nuits)
-* Romain Gary, ["La Vie devant soi"](https://fr.wikipedia.org/wiki/La_Vie_devant_soi) (recommended by a colleague)
 * William Gibson, ["Neuromancer"](https://en.wikipedia.org/wiki/Neuromancer) (science fiction classic, recommended by [@JeromeCaillet](https://twitter.com/JeromeCaillet))
 * Frank Herbert, ["Dune"](https://en.wikipedia.org/wiki/Dune_(franchise)) (series) (science fiction classic)
 * Franz Kafka, ["L'amérique"](https://fr.wikipedia.org/wiki/L%27Am%C3%A9rique) (read during the 90s)
