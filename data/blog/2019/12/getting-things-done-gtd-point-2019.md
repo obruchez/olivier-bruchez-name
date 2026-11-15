@@ -1,0 +1,15 @@
+Il y a un peu plus de quatre ans, j'ai écrit [un article sur mon système GTD](/blog/2015/11/getting-things-done-gtd-mon-systeme). Très peu de choses ont changé depuis. J'utilise toujours les mêmes outils (Google Drive, Google Calendar, Gmail), la même structure de documents et le même processus.
+
+Je suis toujours aussi convaincu par GTD. L'une des idées principales de cette méthode est qu'il est primordial de se vider la tête, régulièrement, de manière systématique, et d'organiser toutes ces idées, toutes ces tâches, sous forme de listes. Cela paraît intuitif et, lorsque les gens se sentent submergés, confus, nombre d'entre eux ont le réflexe de mettre par écrit leurs idées, mais peu ont une véritable méthode pour les organiser par la suite. Souvent, ces idées terminent par conséquent sur des feuilles ou des Post-it, qui s'entassent sur un bureau, sans jamais être véritablement traitées ou suivies. J'en ai été témoin personnellement, à de maintes reprises.
+
+L'intérêt d'une liste de prochaines actions ou de tâches, psychologiquement, est qu'il suffit ensuite de parcourir cette liste, de choisir une tâche et de "machinalement" l'effectuer. Evidemment, il faut toujours du temps, de l'énergie et de la motivation, mais il y a définitivement un côté automatique à ce processus. Un obstacle psychologique en moins.
+
+En novembre 2013, j'ai commencé à faire une planification de mes projets/tâches semaine par semaine. Petit à petit, je me suis retrouvé à planifier mes tâches pour chaque jour de la semaine, chaque dimanche. Comme expliqué dans mon article de 2015, je trouvais que c'était une granularité intéressante. Moins d'une semaine avant, je connais en principe mon agenda et, donc, le temps libre que j'ai à disposition. Si un imprévu surgit, cela "bouleverse" peut-être un jour dans la semaine, au grand maximum deux ou trois jours. En général, cela me permet d'équilibrer ma semaine.
+
+Mais cet outil, mon planning hebdomadaire, est progressivement devenu trop contraignant. J'ai perdu toute spontanéité. Le côté automatique/robotique a pris le dessus. En mai 2019, j'ai ressenti le besoin de laisser tomber ma planification journalière, qui était devenue source de stress.
+
+Depuis, je fais toujours une to-do list hebdomadaire, mais je ne décide pas précisément de l'organisation de mes journées. Je dresse une liste générale des tâches que je souhaite réaliser dans la semaine, ce qui me permet, chaque jour, de choisir mes tâches en fonction de ma motivation, de mon énergie et de mon temps à disposition
+
+Je conserve toutefois une checklist journalière pour les choses que je souhaite réaliser tous les jours (sport, méditation, lecture, etc.). Cette checklist reste pour moi plus une source de motivation que de stress. Tant que je ne la charge pas trop.
+
+Je crois que la conclusion, c'est que mon système GTD doit constamment évoluer en fonction de mes besoins psychologiques, de mon rythme de vie. Je ne l'ai pas assez remis en question ces dernières années. Je vais tâcher d'être un peu plus attentif à ce point, d'exploiter les forces de GTD, sans tomber dans une forme de rigidité.

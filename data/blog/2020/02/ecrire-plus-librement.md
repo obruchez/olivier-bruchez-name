@@ -1,0 +1,11 @@
+Ayant eu de la peine à écrire régulièrement sur mon blog, l'année passée, j'ai tenté une nouvelle approche à la fin de l'année : je me suis donné comme but d'écrire plus ou moins chaque jour, aussi peu ou autant que je le souhaite. Ça pouvait être deux ou trois phrases. Ou une seule. Ou alors plusieurs paragraphes. Sur n'importe quel sujet. Pourvu qu'il soit plus ou moins cohérent.
+
+Ça a marché : après six mois sans écrire, je suis parvenu à écrire un ou deux articles par mois. Rien d'impressionnant, mais, par rapport à rien du tout, c'est toujours ça. Mon but est toujours le même depuis des années : écrire pour m'exercer à l'écriture ; si, pas hasard, je parviens à écrire quelque chose d'intéressant, c'est un bonus.
+
+On peut voir les choses sur une échelle continue : d'un côté, il y aurait l'écriture spontanée (avec des services tels que 750 Words, par exemple), dont le but est d'écrire pour soi, le plus régulièrement et le plus vite possible, sans trop réfléchir, quitte à écrire des séquences de mots qui n'ont aucun sens ; de l'autre, il y aurait les livres sur lesquels les auteurs travaillent des mois ou des années. Mon but se trouve plutôt du côté de l'écriture spontanée. Une forme d'écriture relativement rapide, presque automatique, mais pas trop.
+
+Cet exercice se rapproche de celui proposé par un professeur de français que j'ai eu lorsque j'avais 14 ans. Chaque semaine, nous devions écrire un texte. Une page A4 minimum, je crois. Nous pouvions écrire sur n'importe quel sujet. L'exercice n'était pas noté, mais obligatoire. Mon professeur sélectionnait quelques textes, lus devant la classe par leurs auteurs. Je me souviens avoir lu un de mes textes une fois. Peut-être deux.
+
+Sur une feuille ou sur un blog, dès qu'il y a un public potentiel, l'exercice reste difficile. Je m'en suis rendu compte ces dernières semaines. Au début, comme dit, cela marchait relativement bien. Puis l'auto-censure a refait son apparition. J'ai essayé d'écrire un article. Je me suis dit que ce que j'écrivais était médiocre. Je suis passé à autre chose. Avec difficultés, toujours. Les voix autocritiques, mais aussi celles des critiques imaginaires, sont presque impossibles à museler...
+
+Bref, je vais essayer de revenir à un peu plus de spontanéité.

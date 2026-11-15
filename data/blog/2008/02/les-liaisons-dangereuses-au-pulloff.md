@@ -1,0 +1,7 @@
+Je l'avoue : je n'ai ni lu le livre ni vu ses différentes adaptations cinématographiques, dont la plus connue de Stephen Frears en 1988 (avec Glenn Close, John Malkovich, Michelle Pfeiffer et Keanu Reeves, rien que ça).
+
+Par contre, il y a deux jours, j'ai vu la mise en scène de Jean-Gabriel Chobaz, au Pulloff, à Lausanne. Cette pièce est l'adaptation théâtrale du texte de Christopher Hampton, traduit en français par Jean-Claude Brisville, texte lui-même adapté du roman épistolaire de Pierre Choderlos de Laclos de 1782 (vous me suivez ?).
+
+Si un journal gratuit médiocre (n'est-ce pas un pléonasme ?) vous a dit que la pièce comportait des scènes de nudité, n'y allez pas pour ça ou, inversément, que cela ne vous empêche pas d'y aller : oui, il y en a, mais il y a plus que ça. Il s'agit d'ailleurs bien plus d'érotisme que de nudité. C'est le texte, superbe, qui veut ça. Ambiance gothique, décadente, maquillages et costumes magnifiques, anachronismes, musique étonnamment rock ou, au contraire, classique (superbe extrait de la Suite N° 3 en ré majeur de Bach), etc. Difficile de ne pas être touché, troublé. Je vous recommande vivement d'aller le vérifier par vous-mêmes. Après le Pulloff, la pièce sera jouée ailleurs en Suisse Romande (Morges, Avenches, Treyvaux, Vevey, Yverdon-les-Bains, Berne, Bulle, Sion et Genève).
+
+Note pour Madeline Golay, qui s'est occupée des costumes : Prince, dont je suis fan, porte le corset bien plus serré que cela (comprendront ceux qui ont vu ou verront la pièce).

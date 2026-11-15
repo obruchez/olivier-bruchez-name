@@ -1,0 +1,35 @@
+Il y a quelques mois, ma femme et moi avons essayé de trouver des podcasts à écouter ensemble, pour éviter le réflexe un peu paresseux de juste allumer la radio, lors de nos voyages un peu plus longs en voiture.
+
+L'un des podcasts proposés par ma femme, [Tribu](https://www.rts.ch/play/radio/emission/tribu?id=6067786), est en réalité une émission de la RTS. On reste dans le domaine de la radio, donc, mais la frontière avec le monde du podcast est de toute façon très fine. Au moins, on sort du réflexe du direct que je mentionnais.
+
+Fin février, nous avons écouté un épisode intitulé ["Ennuyer les autres en racontant ses voyages"](https://www.rts.ch/play/radio/tribu/audio/ennuyer-les-autres-en-racontant-ses-voyages?id=11030824). Rien que son titre m'a fait sourire. Tribu n'est toutefois pas une émission humoristique et c'est son intérêt : traiter de sujets parfois légers, mais avec un certain sérieux.
+
+Je pense que nous avons tous vécu cet ennui un jour ou l'autre : celui d'écouter une personne raconter ses vacances, peut-être même pour la deuxième ou troisième fois en présence d'autres personnes, peut-être en nous montrant des photos sur son téléphone.
+
+Inversement, nous avons probablement tous été coupables, à l'occasion, d'ennuyer les autres avec un récit un peu trop long ou un peu trop détaillé de nos dernières vacances. C'est presque un passage obligé.
+
+Au travail, il est même difficile d'échapper à cette question des collègues au retour des vacances : "Alors, ton voyage à X, c'était comment ?" On peut faire court. On peut se concentrer sur une anecdote. On peut en parler durant toute une semaine. Mais il faut dans tous les cas essayer d'être enthousiaste, d'être intéressant, de ne pas perdre son public.
+
+Et ça n'est pas donné à tout le monde d'être intéressant. Que ce soit pour les récits de voyage ou pour tout autre exposé, d'ailleurs. J'ai toujours été impressionné par les gens qui donnent l'impression de pouvoir bien parler de tout. En écrivant cela, je pense instantanément à quelqu'un que j'ai rencontré en ligne il y a presque vingt ans et qui est capable d'écrire de longs paragraphes passionnés autant sur Led Zeppelin que sur Miles Davis. J'ai toujours beaucoup aimé le lire. Parler de la musique : il s'agit d'un autre exercice compliqué.
+
+Il s'agit de noter que captiver les personnes qui vous écoutent, ça n'est pas la même chose que parler beaucoup. Ou peu, d'ailleurs. Rien à voir avec le débit de parole, avec la quantité de mots. Il s'agit d'autre chose. Je suis quelqu'un de réservé, mais je peux facilement imaginer que certaines personnes loquaces le sont simplement parce qu'elles aiment bien s'entendre parler, pas parce qu'elles fascinent les foules.
+
+Il suffit du reste d'écouter un couple raconter un voyage pour réaliser qu'il se le raconte aussi (principalement ?) à lui-même. Raconter quelque chose que l'on a vécu, c'est une manière de le revivre. Rien de mal à cela. Ça peut rester très divertissant à observer.
+
+Autre phénomène lié : il y a encore pas si longtemps, on envoyait des cartes postales. C'était un moyen de dire qu'on pensait à l'autre, mais aussi de dire : regardez où je suis. Une mise en scène, une manière de se raconter, en quelque sorte. Depuis environ quinze ans, ce sont les réseaux sociaux (Facebook, Instagram, etc.) qui ont repris ce rôle, mais c'est, du coup, moins un moyen de penser à l'autre et plus un moyen de se mettre en valeur. Et de collectionner les *likes* [selon un schéma très proche de celui de l'addiction](https://www.arte.tv/en/videos/085801-002-A/facebook/).
+
+Le voyage n'a jamais cessé de se démocratiser, avec les compagnies aériennes *low cost*, tous les services en ligne liés au tourisme de manière directe (guides, plateformes de réservation et d'achats de billets, etc.) ou indirecte (plateformes de partages de photos/vidéos, réseaux sociaux, etc.). Voyager est progressivement devenu tellement commun qu'il est du coup aussi devenu moins intéressant d'en parler, en quelque sorte.
+
+C'est un problème dont on parle de plus en plus : le tourisme de masse. Un nombre sans cesse croissant de personnes désirant voir un nombre limité de lieux "à voir absolument". Parfois, c'est un phénomène complètement artificiel, amplifié, voire causé entièrement par internet (TripAdvisor, Instagram, etc.). D'autres fois, c'est parfaitement mérité : il y a réellement des endroits exceptionnels qu'il faut absolument avoir vu une fois dans sa vie (disons le MET à New York, par exemple). Tous les lieux n'ont pas une histoire aussi riche. Tous les musées n'ont pas des collections aussi impressionnantes.
+
+Voyager moins loin, voyager moins souvent : ce sont peut-être des solutions aux problèmes de l'hyper-tourisme et de l'empreinte carbone, mais je ne suis pas sûr que ça rende l'expérience fondamentalement plus intéressante. Le dépaysement recherché est souvent d'autant plus grand que la distance parcourue est importante.
+
+Et puisqu'on est en pleine période de confinement / semi-confinement (COVID-19), disons-le d'emblée : pour ce qui est des musées, que j'apprécie tout particulièrement, mais aussi des espaces architecturaux ou simplement des paysages, rien ne remplace l'expérience réelle. Ni les galeries de photos en ligne ni les technologies actuelles de réalité virtuelle.
+
+Une autre solution, donc : essayer le plus possible de vivre le moment présent ; vivre le voyage pour soi-même, pas pour les autres. Cela veut dire : pas pour Facebook ou Instagram ; pas pour les amis ou les collègues ; pas pour le futur récit qu'on en fera. Je sais que je dois faire des efforts de ce point de vue-là. J'ai par exemple tendance à prendre trop de photos et à absolument vouloir voir les endroits "qu'il faut avoir vus", quitte à trop remplir mes journées.
+
+Pour revenir au sujet initial, je suis convaincu qu'il est possible d'effectuer un certain retour à un partage traditionnel de ses voyages, pour sortir de l'excès des réseaux sociaux et des milliers de photos que permettent les smartphones et appareils photos numériques. L'exercice pourrait consister en une forme de "soirée diapos" assumée, mais avec des contraintes, comme par exemple une seule photo par jour de voyage, voire, pour rendre l'exercice encore plus difficile et, donc, potentiellement intéressant, une seule minute de récit de voyage par jour. On pourrait également rendre la bouteille de vin ou de bière artisanale obligatoire...
+
+De même, la désuète carte postale réellement envoyée depuis le pays visité pourrait devenir un exercice créatif : un texte vraiment personnel, un poème (soyons fous !), un mot imposé par le destinataire, etc.
+
+Bref, je brainstorme, mais, en résumé, l'idée est la même, autant pour le voyage que pour la façon de le raconter ou de le partager : il s'agit de viser la qualité et une démarche plus consciente, plutôt que la quantité et des gestes automatiques. Plus facile à dire qu'à faire, j'imagine. C'est en tout cas une chose (de plus) que la situation actuelle aura permis de (re)mettre en question. Voyager : mais pour quoi au juste ?

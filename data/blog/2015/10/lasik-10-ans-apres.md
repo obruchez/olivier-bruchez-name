@@ -1,0 +1,19 @@
+Je me suis fais opérer des yeux, au [LASIK](https://en.wikipedia.org/wiki/LASIK), la technique la plus fréquemment employée dans le domaine de la chirurgie de l'oeil au laser, le 11 octobre 2005 à 12h45, après environ une année de réflexion. Sans entrer dans les détails, l'opération en elle-même n'a duré qu'un quart d'heure, mais je suis resté presque quatre heures dans la clinique où elle a eu lieu, à Lausanne, en comptant l'attente avant et après l'opération.
+
+L'intervention n'a pas duré longtemps, donc, mais a été relativement désagréable. Mes yeux ont été anesthésiés localement à l'aide de gouttes. Les pires moments ont ensuite été la cécité temporaire lors de la découpe du capot ([microkératome](https://fr.wikipedia.org/wiki/Microk%C3%A9ratome)), puis l'odeur de cornée brûlée lors de l'utilisation du laser. Je crois que je n'ai pas besoin d'en dire plus...
+
+Après 30-60 minutes de récupération, je suis rentré chez moi, accompagné, bien entendu. J'avais dû oublier mes lunettes de soleil, car je me souviens que la lumière du jour m'a été particulièrement désagréable (pupilles encore dilatées).
+
+En tout, j'ai pris congé durant trois jours et ai recommencé à travailler le quatrième jour. Durant cette période initiale, la nuit, j'ai dû porter des coques en plastique pour empêcher un contact trop important entre mon oreiller et mes yeux. Comme je dors sur le ventre et non sur le dos, ces coques m'ont empêché de bien dormir. Ces premiers jours ont donc été relativement éprouvants, malgré le retour d'une vision plus ou moins normale dès le premier soir.
+
+Je n'avais pas fait énormément de recherche avant l'opération. Pour le choix du chirurgien, j'ai suivi le conseil de mon ophtalmologue. Je me suis renseigné sur les équipements utilisés (modèles des microkératome et laser). Et, surtout, j'ai passé beaucoup de temps à lire les histoires d'horreurs qui foisonnent sur internet. Il faut dire que le LASIK est une technique très utilisée. Probablement trop. Comme tous les actes chirurgicaux, il y a des risques. Et plus il y a de personnes opérées, plus il y a d'échecs, de complications, d'effets secondaires et, donc, de témoignages effrayants.
+
+Si je devais donner quelques conseils à quelqu'un qui hésiterait aujourd'hui à se faire opérer, je dirais que si, dans le domaine du LASIK, la technologie est presque plus importante que le chirurgien, il ne faut pas négliger l'importance de ce dernier. De nos jours, en 2015, s'il n'existe pas (encore) de TripAdvisor de la médecine, il existe de nombreux forums où il est possible d'obtenir des recommandations de chirurgiens.
+
+Il est également important de vérifier qu'une opération est possible sans risques. Je ne me souviens plus exactement quels éléments doivent être contrôlés, mais je sais qu'il y a des contre-indications au LASIK. Celles-ci ne doivent pas être prises à la légère. J'imagine qu'une partie des opérations ratées sont causées par des chirurgiens plus intéressés par l'argent que par le confort des patients.
+
+Il ne coûte rien de demander une description exacte de l'équipement utilisé par le chirurgien (fabriquant, modèle, année, etc.). Si ces informations sont données facilement par le chirurgien ou la clinique, j'imagine que c'est plutôt bon signe.
+
+Je n'ai pas d'avis tranché sur la question de savoir si c'est une bonne idée de voyager pour se faire opérer dans des pays moins chers. A priori, je répondrais plutôt par la négative (que faire en cas de complications, par exemple ?), mais j'imagine qu'il doit y avoir des cliniques sérieuses un peu partout.
+
+Enfin, si c'était à refaire, je me ferais opérer à nouveau aujourd'hui, sans trop hésiter. En fait, je serais probablement plus motivé à le faire aujourd'hui qu'en 2005, comme il s'agit d'un acte chirurgical qui dépend beaucoup de la technologie employée. J'imagine donc que les équipements utilisés en 2015 sont en moyenne plus perfectionnés et plus sûrs qu'il y a dix ans.

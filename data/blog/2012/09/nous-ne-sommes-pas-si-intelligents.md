@@ -1,0 +1,9 @@
+Je viens récemment de terminer la lecture de [*You are not so smart*](http://www.amazon.com/You-Are-Not-So-Smart/dp/1592406599/), de David McRaney. C'est un livre que je ne peux que recommander, tout comme je recommandais il y a quelques mois [*Bad Science*](http://en.wikipedia.org/wiki/Bad_Science_(book)), de [Ben Goldacre](http://en.wikipedia.org/wiki/Ben_Goldacre).
+
+L'idée principale de *You are not so smart* n'est pas nouvelle : nous nous berçons constamment d'illusions ; ou, pour être un plus précis, notre cerveau ne nous renvoie pas une image fidèle de la réalité. En quarante-huit chapitres, McRaney passe en revue autant de [biais cognitifs](http://fr.wikipedia.org/wiki/Biais_cognitif), d'erreurs logiques et d'idées reçues, avec juste ce qu'il faut de légèreté pour ne jamais perdre son lecteur.
+
+Ces raccourcis que se permet de prendre notre cerveau permettent d'expliquer certaines des erreurs de jugement que nous décelons chez les autres personnes, mais il ne faut jamais oublier qu'ils déforment également nos propres raisonnements. Un bon sceptique est un sceptique qui met tout en doute, y compris son propre schéma de pensée**.** Et c'est en ayant une vue d'ensemble de toutes les manières dont on peut se tromper qu'on peut... moins se tromper ! Car la prise de conscience que nous percevons très souvent la réalité de manière fortement filtrée, altérée, ne doit pas entraîner une forme de frilosité intellectuelle. Au contraire, chaque chapitre de "You are not so smart", bien compris, peut devenir un outil pour mieux comprendre le monde qui nous entoure ou mieux argumenter dans un débat, ce qui est très précieux.
+
+Une partie des chapitres sont disponibles gratuitement sur le [blog de McRaney](http://youarenotsosmart.com/).
+
+Voir également [mes notes en anglais](/blog/2012/09/you-are-not-so-smart) (résumé de chaque chapitre, liens sur Wikipedia, etc.).

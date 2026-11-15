@@ -1,0 +1,7 @@
+C'est ce que m'annonce aujourd'hui le Lausanne Cités retrouvé dans ma boîte aux lettres en rentrant du travail : l'Atlantic va fermer ses portes (encore ?) le 31 août 2007. "Le cinéma va mal" et tout ça.
+
+Et c'est avec nostalgie que je pense à toutes les salles de cinémas qui ont fermé depuis que j'habite à Lausanne : ABC, Athénée, Bourg, Cine Qua Non, Eldorado, Lido, Palace, Richemont et Romandie. Neuf salles en dix ans. Bientôt dix. L'ABC devient le D! Club, l'Athénée devient une Migros, le Romandie devient le club de rock de Lausanne, etc. Bref, les choses changent...
+
+Alors, au lieu de se lamenter, pourquoi ne pas aller un peu plus souvent dans les "petites" salles de cinéma de Lausanne ? A l'Atlantic (bien sûr). Au Bellevaux (oui, c'est un peu décentré, mais le détour en vaut la peine). Au Zinéma (oui, derrière les poubelles). Au City Club de Pully (pas tout à fait à Lausanne, mais pas loin).
+
+Ou pourquoi ne pas rendre visite à la [Petite Dame du Capitole](https://web.archive.org/web/20070203222814/http://www.artfilm.ch/petitedameducapitole.php?lang=f) ? Le Capitole est une salle impressionnante. Gigantesque. La plus grande et la plus ancienne de Lausanne. Et de loin. Plus de 800 places ! La dernière fois que j'y suis allé, la soeur d'un de mes amis n'en revenait pas. Cela fait plusieurs années qu'elle étudie à Lausanne, mais elle n'avait jamais mis les pieds dans cette salle. Nous étions quatre. Il y avait seulement deux autres personnes à part nous... Peut mieux faire.

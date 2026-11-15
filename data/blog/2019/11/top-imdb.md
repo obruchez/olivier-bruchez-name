@@ -1,0 +1,11 @@
+Cette année, je m'étais donné comme but d'avoir regardé les cent premiers films du [top 250 d'IMDb](https://www.imdb.com/chart/top). Au moment d'écrire ces lignes, c'est chose faite : j'ai regardé les 110 premiers films de cette liste.
+
+Officiellement, je me donne ce genre de buts en partie parce que [la vie est courte](/blog/2018/04/la-vie-est-trop-courte-mais-de-combien) : j'aime regarder des films ; autant regarder ceux qui sont considérés comme les meilleurs.
+
+En réalité, je le fais aussi parce que c'est ludique. A tout moment, un film peut apparaître à une position élevée dans le top. Cela peut arriver avec des films récents, comme *[Joker](https://www.imdb.com/title/tt7286456/)*, qui est entré à un moment dans le top 10, si je me souviens bien, et que nous sommes finalement allés voir au cinéma. Cela est aussi arrivé il y a quelques temps avec *[Harakiri](https://www.imdb.com/title/tt0056058/)*, de 1962, qui a subitement fait son apparition dans le top 30.
+
+Aussi, cela me pousse à regarder des films que je ne regarderais pas sinon : des films de samouraïs, des westerns, des comédies indiennes, des films DC/Marvel, etc. Il y a eu de très bonnes surprises, qui font que je ne regrette pas de m'être "forcé" à regarder ces films. Il y a aussi eu des déceptions, mais qui restent toutes relatives. Et très peu nombreuses, somme toute.
+
+Enfin, il faut noter que le top 250 d'IMDb est très connu, mais ce n'est qu'une liste de films parmi d'autres : le [top 250 de Letterboxd](https://web.archive.org/web/20200715210844/https://letterboxd.com/dave/list/official-top-250-narrative-feature-films/), [Phi Phenomenon](http://www.phi-phenomenon.org/), la [liste des meilleurs films de Wikipedia](https://en.wikipedia.org/wiki/List_of_films_considered_the_best), le [top de Metacritic](https://www.metacritic.com/browse/movies/score/metascore/all/filtered), le [top 100 de Rotten Tomatoes](https://web.archive.org/web/20190102040946/https://www.rottentomatoes.com/top/bestofrt/), etc. Certains films - de vrais classiques, on dira - se retrouvent sur la plupart de ces listes. Pour d'autres, le consensus n'est pas au rendez-vous.
+
+Mais soyons ambitieux : mon but, à terme, est d'avoir vu au moins les cent films les mieux classés de chacune de ces listes ! :)

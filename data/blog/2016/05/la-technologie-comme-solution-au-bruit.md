@@ -1,0 +1,41 @@
+Au départ, je pensais écrire un article spécifiquement sur le bruit des motos. Nous habitons à la campagne, mais près d'une route avec pas mal de circulation. Dont pas mal de motos, justement, surtout lorsqu'il fait beau. Cet article aurait été une tentative d'analyse psychologique, tentant de démontrer que les propriétaires de motos, des véhicules en moyenne particulièrement bruyants, sont des gens primaires et égoïstes. Un coup de gueule, en somme.
+
+Réflexion faite, j'aimerais écrire un article plus positif et, surtout, inscrire cette problématique dans un contexte un peu plus général. Mais pas trop général : je sais qu'il existe énormément de sources de bruits (avions, trains, voisins, chantiers, industrie, etc.), mais c'est bien du bruit routier dont j'aimerais parler.
+
+Le premier constat encourageant, c'est que, même si ça n'est pas une problématique dont on parle souvent (j'en discute rarement avec mes amis ou mes collègues, par exemple), il semblerait que je ne sois pas le seul à trouver le bruit routier gênant. Des associations existent. En Suisse, si je me souviens bien, [Cercle Bruit](http://cerclebruit.ch/) avait réalisé, il y a un an ou deux, une [campagne](http://stop-au-bruit.ch/) spécifiquement dédiée au bruit routier, encourageant les conducteurs à rouler à bas régime.
+
+J'en profite ici pour citer un [tweet de @BoredElonMusk](https://twitter.com/BoredElonMusk/status/589170615283802112), qui illustre que l'agacement provoqué par le bruit routier et, en particulier, celui causé par les motos, est bien universel :
+
+> *“Service that lets you hire loud motorcycles to follow other loud motorcycles to sit outside their house and just rev for an extended period.”*
+
+Je paierais cher pour un tel service...
+
+Le deuxième constat encourageant, c'est que, selon un ami, la police commence à prendre le problème du bruit routier au sérieux et à distribuer des amendes aux propriétaires d'engins trop bruyants (car il y a, fort heureusement, des lois contre ce genre de véhicules). C'est parfaitement anecdotique et ne concerne, en l'occurence, que la région lausannoise, près de laquelle j'habite.
+
+Comme le savent ma femme, ma famille, mes amis, mes collègues et, en résumé, toute personne avec qui j'ai parlé plus de dix minutes, je suis absolument enthousiasmé par les concepts de [voitures électriques](https://fr.wikipedia.org/wiki/Voiture_%C3%A9lectrique), d'une part, et de [voitures autonomes](https://fr.wikipedia.org/wiki/Voiture_autonome), d'autre part.
+
+Le troisième constat encourageant, donc, c'est que les voitures électriques abordables, c'est pour bientôt. Tesla a annoncé il y a deux mois son [Model 3](https://en.wikipedia.org/wiki/Tesla_Model_3), qui devrait être vendu pour 35'000 dollars. Les Pays-Bas ont également annoncé vouloir [interdire la vente de véhicules non-électriques d'ici 2025](http://www.sciencealert.com/the-netherlands-is-making-moves-to-ban-all-non-electric-vehicles-by-2025). D'ici neuf ans. Ca n'est pas demain, mais presque. Je ne suis évidemment et de loin pas la seule personne à être autant excitée par cette tendance. Voir par exemple cet article : ["The Electric Car" ("The electric car is going to take over the world. Soon.")](http://blog.geoffralston.com/the-electric-car).
+
+Passé un certain enthousiasme initial, toutefois, une recherche rapide permet de comprendre que "les voitures électriques ne sont moins bruyantes" que jusqu'à 30 km/h (voir ["Fiche d’information concernant la 2e idée reçue : Les voitures électriques sont une solution au problème du bruit"](https://web.archive.org/web/20240804174746/http://www.laerm.ch/fr/dokumente/tgl_2014_fr_Faktenblatt_Irrtum_2.pdf) et ["Description of basic variables"](https://en.wikipedia.org/wiki/Roadway_noise#Description_of_basic_variables)). Autrement dit, les voitures électriques ne résolvent pas totalement la problématique du bruit routier. En effet, à des vitesses supérieures à 30-40 km/h, la majorité du bruit causé par un véhicule vient des pneus et du revêtement routier, pas du moteur.
+
+Les véhicules électriques seraient-ils une fausse piste ? Je ne pense pas, pour plusieurs raisons.
+
+La première raison est qu'une très grande partie de la population, il me semble, vit dans des zones où les véhicules roulent à des vitesses relativement faibles (villes et villages) et non près d'autoroutes, où la vitesse moyenne des véhicules fait que la majorité du bruit, on peut s'en convaincre aisément, est effectivement produit par le frottement des pneus contre la chaussée.
+
+La deuxième raison est qu'en Europe, en tout cas, les boîtes manuelles sont bien plus répandues que les boîtes automatiques et que la plupart des conducteurs ne savent pas (ne veulent pas ?) rouler à bas régime (disons, autour des 1500-2000 tours / minute maximum). Parler du bruit routier en termes de vitesse moyenne uniquement ne donne pas une image exacte/complète de la situation. C'est nier le fait qu'une partie non-négligeable des usagers de la route roulent régulièrement à un régime beaucoup trop élevé. Ce sont bien les pics de bruit, ceux qui dérangent les riverains, qu'il faut prendre en considération (donc les changements de vitesse, accélérations, décélérations, etc.).
+
+Troisième et dernière raison : il me semble (à nouveau, c'est un point à vérifier) que les bruits graves (typiquement ceux causés par les moteurs) traversent plus facilement les murs et les fenêtres que les bruits aigus (typiquement ceux causés par les pneus au contact de la chaussée). Au final, le bruit qui dérange les riverains est souvent celui perçu à l'intérieur des habitations (lorsqu'ils dorment, par exemple) et moins celui perçu à l'extérieur (sur une terrasse ou un balcon). C'est du moins mon cas.
+
+Au final, je reste donc toujours excité par le développement des voitures électriques. Je suis convaincu qu'elles participeront à un environnement moins bruyant. Et n'oublions pas qu'il y a d'autres raisons de se réjouir (réduction de la pollution de l'air, écologie, etc.). C'est la seule solution plausible et viable sur le long terme. [Comme l'explique Matthew Inman](http://theoatmeal.com/comics/tesla_model_s), il est absurde que nous en soyons encore à utiliser des véhicules basés sur des moteurs à explosion, qui utilisent des liquides combustibles, polluants et non renouvelables.
+
+Quoi qu'il en soit, que les voitures électriques participent à rendre significativement moins aigu le problème de la pollution sonore ou non, des revêtements de route et des pneus silencieux devraient également être encouragés, voire rendus obligatoires. Le cumul de plusieurs solutions est souvent une bonne approche.
+
+A encore plus long terme (mais peut-être pas tant que ça ?), les voitures autonomes devraient permettre une petite révolution des transports publics (optimisation des trajets, trajets à la demande, etc.). J'espère que ce développement permettra aussi de réduire le nombre de véhicules sur les routes, mais ce point reste à confirmer.
+
+En conclusion, j'espère que la société verra un jour les véhicules bruyants comme elle voit aujourd'hui la fumée dans les lieux publics, à savoir comme un facteur négatif pour la santé publique et, donc, quelque chose de complètement absurde.
+
+Je suis probablement victime de mon côté rêveur, mais, bien plus que la simple réduction du bruit ambiant, j'espère que les lieux de vie communs (villes, quartiers, villages, etc.) deviendront un jour globalement plus agréables, plus paisibles, plus esthétiques. Oui, je sais, il y a certainement des problèmes plus pressants à résoudre, mais l'un n'empêche pas l'autre. J'aime beaucoup les villes qui arrivent, par leurs parcs, leurs rivières ou la manière dont elles intègrent la végétation avec les bâtiments et les rues, à devenir moins étouffantes, à recréer une sorte d'ambiance de campagne à la ville, en quelque sorte.
+
+Une campagne sans motos, bien entendu !
+
+**Mise à jour (5 juin 2016).** La Norvège se lance apparemment sur la même voie que les Pays-Bas : ["Norway reportedly agrees on banning new sales of gas-powered cars by 2025"](http://electrek.co/2016/06/03/norway-gasoline-powered-car-ban-2025/). Comme l'article l'explique, il semblerait que le projet des Pays-Bas ne soit pas aussi avancé que celui de la Norvège. Espérons toutefois que ces deux Pays fassent des émules !

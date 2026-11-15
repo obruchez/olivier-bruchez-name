@@ -1,0 +1,22 @@
+Au moment où j'écris ces lignes, il fait 3 °C dehors, donc le sujet de cet article n'est plus vraiment d'actualité. Cela étant dit, je voulais tout de même mettre par écrit mon expérience suite à la chaleur estivale.
+
+Je suis quelqu'un qui souffre énormément de la chaleur. C'est quelque chose de difficile à quantifier et j'arrive à cette conclusion à partir de données largement anecdotiques, mais je dirais que je souffre de la chaleur plus que la moyenne. Je transpire visiblement plus vite que beaucoup de personnes autour de moi. Lorsque je me sens mal dans ma peau à cause de la chaleur (transpiration, fatigue, etc.), je rencontre encore de nombreuses personnes me disant qu'elles trouvent la température agréable. Je fais partie de ces gens qui préfèrent lorsque les températures maximales ne dépassent pas les 25 °C.
+
+Depuis bientôt quatre ans maintenant, nous habitons dans un appartement au dernier étage d'un immeuble, sous le toit, avec une mezzanine. Le bâtiment a été construit en 2014, donc il est relativement bien isolé, bien que probablement pas complètement au norme.
+
+Fin 2016, je me suis mis à installer un système domotique dans notre appartement (commandes de trois stores électriques, capteurs de températures, etc.).
+
+Voici mes conseils pour mieux vivre dans un appartement en période de grande chaleur :
+
+- Il ne faut absolument pas laisser entrer le soleil par les fenêtres durant la journée. C'est l'une des plus grosses sources de chaleur. Le plus simple est de **laisser les stores fermés** en permanence. Avec un système domotique, il est possible de faire les choses un peu plus intelligemment et de les programmer pour qu'ils restent fermés uniquement lorsque le soleil est présent.
+- Il ne faut **pas ouvrir les fenêtres** avant que la température extérieure ne tombe en dessous de la température intérieure. Attention : les courants d'air, même légers, sont trompeurs et peuvent inciter à ouvrir les fenêtres alors que l'air extérieur est encore trop chaud. Des capteurs de températures (ou de simples thermomètres, bien entendu) situés à l'intérieur et à l'extérieur, mais à l'abri du soleil et le plus éloignés possible des murs chauds, peuvent aider à déterminer le moment idéal pour ouvrir les fenêtres.
+- Nous avons deux fenêtres de toit ([Velux](https://en.wikipedia.org/wiki/VELUX)) et l'installation de **marquisettes** à ces fenêtres a été très bénéfique. Les marquisettes que nous avons achetées sont des voiles extérieurs laissant passer encore pas mal de lumière, mais réduisant fortement la quantité de chaleur pouvant entrer par les fenêtres. Elles sont électriques (panneaux solaires) et commandées à distance.
+- J'utilise une couette fine toute l'année et n'aime pas dormir sans rien sur moi. En période de canicule, **un drap ou même une housse de couette vide** est pour moi le compromis idéal.
+- Nous n'avons pas d'air conditionné, mais **un ventilateur peu bruyant**, sur la position la plus faible, aide beaucoup à passer une meilleure nuit. Selon mon expérience, les [ventilateurs Dyson "*bladeless*"](https://www.amazon.com/Dyson-Multiplier-Tower-White-Silver/dp/B00I8R4Z4Y), bien que plus chers que la plupart des ventilateurs sont suffisamment silencieux pour pouvoir être utilisés en continu durant la nuit.
+- Habitant à côté d'une route, nous ne pouvons pas ouvrir la fenêtre de notre chambre, même avec des bouchons dans les oreilles. Nous ouvrons donc la porte de notre chambre, ainsi que **d'autres fenêtres dans l'appartement**.
+- Ayant un chat, qui a tendance à entrer dans notre chambre durant la nuit et à nous déranger, nous avons fait l'acquisition d'**une barrière de sécurité** (comme pour les enfants, mais plus haute).
+- Pour éviter que notre chat ne sorte par une fenêtre de toit (c'est un chat d'appartement), nous avons également fait installer **une moustiquaire** à la fenêtre de toit de la mezzanine. Cela nous permet également de l'ouvrir le soir sans que des insectes puissent entrer (c'est la fonction primaire d'une moustiquaire, évidemment !).
+
+Cela fait pas mal d'investissements un peu compliqués (domotique, marquisettes, moustiquaire, ventilateur, barrière, etc.), mais un bon sommeil, ça n'a pas de prix !
+
+Les conseils habituels, disponibles sur de [nombreux autres sites](http://fr.wikihow.com/vous-rafraichir-sans-air-conditionn%C3%A9), restent bien entendu valables : éviter les boissons et repas chauds le soir, éviter les sources de chaleur intérieures telles que les fours, etc.

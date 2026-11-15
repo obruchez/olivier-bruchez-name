@@ -1,0 +1,9 @@
+Today, I read [a post by Dustin Wax titled "I Need a User Manual for My Life!"](https://web.archive.org/web/20080411054606/http://www.lifehack.org:80/articles/productivity/i-need-a-user-manual-for-my-life.html):
+
+> "I was doing something routine a couple of days ago — paying some first of the month bills online — and I got stuck. For the life of me, I couldn’t remember the name of one of the people I send payments to. All the information is saved in my bank account’s settings, but I have to enter the name of the recipient, exactly as it appears in my records, to bring everything else up. That’s when it hit me: I need a user manual for my life!"
+
+A user manual for my life... I really like that wording. I had never thought of it that way. I've started writing my own "personal user manual" a couple of months ago. Like many people (I guess), I already had checklists, such as a travel checklist, i.e. a list of things I need to do or take whenever I leave home for more than one day, but I quickly realized that I needed more. So, I started writing "how-to" lists for tasks I need to do regularly. These lists usually consist of pointers to Web sites, names of utilities, command lines, etc., but I suppose that, as time passes, they will include more non-technical stuff.
+
+The idea here is to centralize all that information in a single place. For me, that place is Google Docs. This is where I already have my to-do lists and GTD-related documents, among others. The advantage of Google Docs is that the documents can easily be accessed, modified, shared, exported, or printed. At some point, I thought about using a personal wiki, but Google Docs is just ideal, after all.
+
+So, next time you have to spend more than a couple of minutes to do something, because you don't know how to do it, ask yourself if this is not the perfect time to start writing your own personal user manual!
