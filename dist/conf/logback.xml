@@ -14,6 +14,8 @@
 
     <appender name="ACCESS_FILE" class="ch.qos.logback.core.rolling.RollingFileAppender">
         <file>/var/log/olivier-bruchez-name/access.log</file>
+        <!-- this quadruples logging throughput -->
+        <immediateFlush>false</immediateFlush>
         <rollingPolicy class="ch.qos.logback.core.rolling.TimeBasedRollingPolicy">
             <!-- daily rollover with compression -->
             <fileNamePattern>/var/log/olivier-bruchez-name/access-log-%d{yyyy-MM-dd}.gz</fileNamePattern>
@@ -22,8 +24,6 @@
         </rollingPolicy>
         <encoder>
             <pattern>%date{yyyy-MM-dd HH:mm:ss ZZZZ} %message%n</pattern>
-            <!-- this quadruples logging throughput -->
-            <immediateFlush>false</immediateFlush>
         </encoder>
     </appender>
 
