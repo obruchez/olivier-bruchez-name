@@ -1,6 +1,10 @@
 package models
 
-import com.github.rjeschke.txtmark._
+import org.commonmark.Extension
+import org.commonmark.ext.gfm.tables.TablesExtension
+import org.commonmark.ext.image.attributes.ImageAttributesExtension
+import org.commonmark.parser.Parser
+import org.commonmark.renderer.html.HtmlRenderer
 import util.FileType
 
 import java.net.URL
@@ -20,8 +24,14 @@ case class MarkdownContent(lines: Seq[String]) extends FileContent(FileType.Mark
   def toHtmlContent: Try[HtmlContent] = Try {
     val markdownString =
       lines.dropWhile(_.trim.isEmpty).reverse.dropWhile(_.trim.isEmpty).reverse.mkString("\n")
-    val htmlString = Processor.process(markdownString)
+    val htmlString = MarkdownContent.renderer.render(MarkdownContent.parser.parse(markdownString))
     HtmlContent(htmlString).withNonBreakingSpaces.withoutRootParagraph
+  }
+
+  /** A whole document: paragraphs, headings, lists... (toHtmlContent is meant for short texts). */
+  def toHtmlBlocks: Try[HtmlContent] = Try {
+    val html = MarkdownContent.renderer.render(MarkdownContent.parser.parse(lines.mkString("\n")))
+    HtmlContent(html).withNonBreakingSpaces
   }
 
   def toIntroductionAndMainContent: Try[(Option[Introduction], HtmlContent)] = Try {
@@ -62,6 +72,13 @@ object MarkdownContent {
     val markdownString = Source.fromURL(url)(using Codec("UTF-8")).mkString
     apply(markdownString)
   }
+
+  // CommonMark, plus tables and image widths (![](image.jpg){width=400}). Raw HTML is let through: the
+  // Markdown files are the site's own data.
+  private val extensions =
+    java.util.List.of[Extension](TablesExtension.create(), ImageAttributesExtension.create())
+  private val parser = Parser.builder().extensions(extensions).build()
+  private val renderer = HtmlRenderer.builder().extensions(extensions).build()
 
   val HeadingCharacter = '#'
 

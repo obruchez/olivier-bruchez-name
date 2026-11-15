@@ -50,7 +50,9 @@ GET        /cv/pdf                           controllers.Application.pdfCv
 GET        /cv/word                          controllers.Application.wordCv
 
 GET        /blog                             controllers.Application.blogPosts
-GET        /blog/*relativePermalink          controllers.BlogPostsController.blogPost(relativePermalink)
+GET        /blog/feed.xml                    controllers.BlogPostsController.feed
+GET        /blog/images/*path                controllers.CoversController.blogImage(path: String)
+GET        /blog/*path                       controllers.BlogPostsController.blogPost(path)
 
 GET        /contacts                         controllers.Application.contacts
 

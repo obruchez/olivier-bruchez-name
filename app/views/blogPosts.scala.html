@@ -1,11 +1,11 @@
-@import models.blogger.Post
+@import models.blog.Post
 @import util.Date._
 
 @(page: Page, posts: Seq[Post])
 
 @main(page) {
   <div class="lead-in">
-    <p>I have been writing on <a href="https://bruchez.blogspot.com">my blog</a>, mostly in French, since September 2006. The posts themselves live on Blogger.</p>
+    <p>I have been writing here, mostly in French, since September 2006. There is a <a href="@routes.BlogPostsController.feed">feed</a> of the posts.</p>
   </div>
 
   @posts.groupBy(_.date.year).toSeq.sortBy(_._1).reverse.map { case (year, postsForYear) =>

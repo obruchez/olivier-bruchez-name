@@ -31,21 +31,26 @@ class CoversController @Inject() (val controllerComponents: ControllerComponents
     with Logging {
   import CoversController._
 
-  def cover(encodedPath: String) = Action.async {
+  def cover(encodedPath: String) = image(encodedPath, Covers)
+
+  def blogImage(encodedPath: String) = image(encodedPath, BlogImages)
+
+  private def image(encodedPath: String, kind: Kind) = Action.async {
     // The rest-of-path parameter comes as it is in the URL ("Le%20Horla.jpg")
     val path = java.net.URLDecoder.decode(encodedPath.replace("+", "%2B"), "UTF-8")
+    val key = s"${kind.directory}/$path"
 
-    // The pattern allows no "/" in the file name, so the path cannot leave its directory, and names
+    // The patterns allow no "/" in the file name, so the path cannot leave its directory, and names
     // such as "Monsters, Inc..jpg" are fine
-    if (!ValidPath.matches(path))
+    if (!kind.validPath.matches(path))
       Future.successful(NotFound)
     else
-      Option(thumbnails.get(path)) match {
+      Option(thumbnails.get(key)) match {
         case Some(bytes) =>
           Future.successful(result(Some(bytes)))
         case None =>
           // A full queue rejects the task, either by throwing or by failing the future
-          Try(Future(thumbnail(path))(using ioContext))
+          Try(Future(thumbnail(key, kind))(using ioContext))
             .fold(Future.failed, identity)
             .map(result)
             .recover { case _: RejectedExecutionException => ServiceUnavailable }
@@ -60,23 +65,23 @@ class CoversController @Inject() (val controllerComponents: ControllerComponents
         NotFound
     }
 
-  private def thumbnail(path: String): Option[Array[Byte]] =
-    Option(thumbnails.get(path)).orElse {
-      Try(makeThumbnail(path)) match {
+  private def thumbnail(key: String, kind: Kind): Option[Array[Byte]] =
+    Option(thumbnails.get(key)).orElse {
+      Try(makeThumbnail(key, kind)) match {
         case Success(bytes) =>
-          if (thumbnails.size < MaxThumbnails) thumbnails.put(path, bytes)
+          if (thumbnails.size < MaxThumbnails) thumbnails.put(key, bytes)
           Some(bytes)
         case Failure(throwable) =>
-          logger.warn(s"No thumbnail for $path: ${throwable.getMessage}")
+          logger.warn(s"No thumbnail for $key: ${throwable.getMessage}")
           None
       }
     }
 
-  private def makeThumbnail(path: String): Array[Byte] = {
-    val url = Configuration.baseUrlWithFile(s"images/$path").get
+  private def makeThumbnail(key: String, kind: Kind): Array[Byte] = {
+    val url = Configuration.baseUrlWithFile(key).get
     val original = Option(ImageIO.read(url)).getOrElse(sys.error("unsupported image format"))
 
-    val width = math.min(ThumbnailWidth, original.getWidth)
+    val width = math.min(kind.width, original.getWidth)
     val height =
       math.max(1, math.round(original.getHeight.toDouble * width / original.getWidth).toInt)
 
@@ -93,7 +98,7 @@ class CoversController @Inject() (val controllerComponents: ControllerComponents
     val writer = ImageIO.getImageWritersByFormatName("jpeg").next()
     val parameters = writer.getDefaultWriteParam
     parameters.setCompressionMode(ImageWriteParam.MODE_EXPLICIT)
-    parameters.setCompressionQuality(JpegQuality)
+    parameters.setCompressionQuality(kind.quality)
 
     val imageOutput = new MemoryCacheImageOutputStream(output)
     try {
@@ -109,18 +114,35 @@ class CoversController @Inject() (val controllerComponents: ControllerComponents
 }
 
 object CoversController {
-  // <list directory>/<file name>. No "?", "#" or "%" in the file name: they would be read as a query
-  // or a fragment when the image is fetched, giving endless names (and cache entries) for one image
-  private val ValidPath = """[a-z]+/[^/\\?#%]+\.(?i:jpe?g|png|gif)""".r
+
+  /** A family of images: where they are under the data directory, and how they are served. */
+  private case class Kind(
+      directory: String,
+      validPath: scala.util.matching.Regex,
+      width: Int,
+      quality: Float
+  )
+
+  // No "?", "#" or "%" in the file names: they would be read as a query or a fragment when the image
+  // is fetched, giving endless names (and cache entries) for one image
+
+  // <list directory>/<file name>; displayed at about 70 CSS pixels wide: enough for dense screens
+  private val Covers =
+    Kind("images", """[a-z]+/[^/\\?#%]+\.(?i:jpe?g|png|gif)""".r, width = 220, quality = 0.82f)
+
+  // <year>/<month>/<file name>; at most as wide as the text column on a dense screen
+  private val BlogImages =
+    Kind(
+      "blog/images",
+      """\d{4}/\d{2}/[^/\\?#%]+\.(?i:jpe?g|png|gif)""".r,
+      width = 1400,
+      quality = 0.86f
+    )
 
   // More than the number of images in the data, so that the cache cannot grow without bound
   private val MaxThumbnails = 10000
   // Only thumbnails that are not made yet wait in the queue
   private val MaxWaitingRequests = 2000
-
-  // Displayed at about 70 CSS pixels wide: enough for high-density screens
-  private val ThumbnailWidth = 220
-  private val JpegQuality = 0.82f
 
   private val thumbnails = new ConcurrentHashMap[String, Array[Byte]]()
 

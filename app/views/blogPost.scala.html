@@ -1,0 +1,34 @@
+@import models.HtmlContent
+@import models.blog.Post
+@import util.Date._
+
+@(page: Page, post: Post, content: HtmlContent, newer: Option[Post], older: Option[Post], commentsUrl: String)
+
+@main(page) {
+  <article class="post" lang="@post.language">
+    <p class="post-meta">
+      <time datetime="@post.date.isoString">@post.date.shortEnglishString(withYear = true)</time>
+      @if(post.labels.nonEmpty) { <span class="post-labels">@post.labels.mkString(", ")</span> }
+    </p>
+    <div class="prose">
+      @post.cover.map { cover =>
+        <a class="post-cover" href="@routes.CoversController.blogImage(cover)"><img src="@routes.CoversController.blogImage(cover)" alt=""></a>
+      }
+      @content.html
+    </div>
+  </article>
+
+  @* Comments are loaded from Disqus only when asked for. A post that came from Blogger is known to
+     Disqus by the address it had there. *@
+  @util.Configuration.disqusShortname.map { shortname =>
+    <section class="comments" id="comments" data-shortname="@shortname" data-url="@commentsUrl" data-title="@post.title">
+      <button type="button" class="comments-show">Show comments</button>
+      <div id="disqus_thread"></div>
+    </section>
+  }
+
+  <nav class="post-nav" aria-label="Posts">
+    @older.map { post => <a class="post-nav-older" href="@post.url"><span>Older</span> @post.title</a> }
+    @newer.map { post => <a class="post-nav-newer" href="@post.url"><span>Newer</span> @post.title</a> }
+  </nav>
+}

@@ -3,7 +3,7 @@ package controllers
 import models._
 import models.PageGroup._
 import models.about.{LifePrinciples, Profile, Worldview}
-import models.blogger.Posts
+import models.blog.Posts
 import models.lists._
 import models.todo.{BooksToRead, MoviesToWatch, TripsToTake}
 

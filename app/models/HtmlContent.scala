@@ -19,7 +19,8 @@ case class HtmlContent(htmlString: String) extends FileContent(FileType.Html) {
 
   def withNonBreakingSpaces: HtmlContent = {
     val updatedString = HtmlContent.charactersWithNonBreakingSpaces.foldLeft(htmlString) {
-      case (s, c) => s.replaceAll(s" \\$c", s"&nbsp;$c")
+      // not before ">": the " />" that closes a tag is left alone
+      case (s, c) => s.replaceAll(s" \\$c(?!>)", s"&nbsp;$c")
     }
 
     copy(htmlString = updatedString)
@@ -50,6 +51,10 @@ object HtmlContent {
 
   def fromNonHtmlString(string: String): HtmlContent =
     apply(xml.Utility.escape(string))
+
+  /** For plain text (a title): the space before French punctuation never ends a line. */
+  def textWithNonBreakingSpaces(text: String): String =
+    charactersWithNonBreakingSpaces.foldLeft(text) { case (s, c) => s.replace(s" $c", s"\u00a0$c") }
 
   private val charactersWithNonBreakingSpaces = Seq(';', ':', '!', '?', '/', '–', '—', '»')
 }

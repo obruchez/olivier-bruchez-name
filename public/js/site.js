@@ -299,8 +299,68 @@
     });
   }
 
+  // A playlist: an audio element followed by a list of links to audio files. A click on a track plays
+  // it in the player, and the next one follows when it ends. Without this script the links still work.
+  function setUpPlaylists() {
+    document.querySelectorAll(".playlist").forEach(function (playlist) {
+      var audio = playlist.querySelector("audio");
+      var links = Array.prototype.slice.call(playlist.querySelectorAll("ol a"));
+      if (!audio || links.length === 0) return;
+
+      function select(index, play) {
+        links.forEach(function (link, i) {
+          link.parentNode.classList.toggle("playing", i === index);
+        });
+        audio.src = links[index].href;
+        if (play) audio.play();
+      }
+
+      links.forEach(function (link, index) {
+        link.addEventListener("click", function (event) {
+          event.preventDefault();
+          select(index, true);
+        });
+      });
+
+      audio.addEventListener("ended", function () {
+        var next =
+          links.findIndex(function (link) {
+            return link.parentNode.classList.contains("playing");
+          }) + 1;
+        if (next < links.length) select(next, true);
+      });
+
+      select(0, false);
+    });
+  }
+
+  // Comments (Disqus) are loaded only when asked for: nothing is sent to Disqus before that.
+  function setUpComments() {
+    var comments = document.getElementById("comments");
+    var button = comments && comments.querySelector(".comments-show");
+    if (!button) return;
+
+    function load() {
+      button.remove();
+      window.disqus_config = function () {
+        this.page.url = comments.dataset.url;
+        this.page.title = comments.dataset.title;
+      };
+      var script = document.createElement("script");
+      script.src = "https://" + encodeURIComponent(comments.dataset.shortname) + ".disqus.com/embed.js";
+      script.setAttribute("data-timestamp", String(Date.now()));
+      document.head.appendChild(script);
+    }
+
+    button.addEventListener("click", load);
+    // A link to a comment or to the comments opens them directly
+    if (/^#(comment|disqus_thread)/.test(window.location.hash)) load();
+  }
+
   document.addEventListener("DOMContentLoaded", function () {
     replaceBrokenCovers();
+    setUpComments();
+    setUpPlaylists();
     setUpListFilter();
     setUpThemeSwitch();
     drawCharts();

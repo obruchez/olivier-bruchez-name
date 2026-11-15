@@ -2,7 +2,7 @@ package controllers
 
 import actors.Cache
 import models.about.{LifePrinciples, Profile, Worldview}
-import models.blogger.Posts
+import models.blog.Posts
 import models.ListItems._
 import models.lists._
 import util.Date._
@@ -309,14 +309,17 @@ class Application @Inject() (implicit
     )
   }
 
-  def sitemapXml = Action { (request: Request[AnyContent]) =>
-    val urls = Sitemap.root.children.flatMap(page => page +: page.children).map(_.url).distinct
-    val xml =
-      <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-        {urls.map(url => <url><loc>{absoluteUrl(request, url)}</loc></url>)}
-      </urlset>
+  def sitemapXml = Action.async { (request: Request[AnyContent]) =>
+    Cache.get(Posts).map { posts =>
+      val pageUrls = Sitemap.root.children.flatMap(page => page +: page.children).map(_.url)
+      val urls = (pageUrls ++ posts.listItems.map(_.url)).distinct
+      val xml =
+        <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+          {urls.map(url => <url><loc>{absoluteUrl(request, url)}</loc></url>)}
+        </urlset>
 
-    Ok("""<?xml version="1.0" encoding="UTF-8"?>""" + "\n" + xml.toString).as("application/xml")
+      Ok("""<?xml version="1.0" encoding="UTF-8"?>""" + "\n" + xml.toString).as("application/xml")
+    }
   }
 
   private def absoluteUrl(request: RequestHeader, path: String): String =

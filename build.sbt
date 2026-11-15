@@ -10,13 +10,11 @@ scalacOptions ++= Seq("-deprecation", "-feature", "-unchecked")
 
 libraryDependencies ++= Seq(
   guice,
-  "com.github.rjeschke" % "txtmark" % "0.13",
-  "com.google.apis" % "google-api-services-blogger" % "v3-rev20260707-2.9.2",
-  "com.google.api-client" % "google-api-client" % "2.9.2",
-  "com.google.http-client" % "google-http-client" % "2.2.0",
-  "com.google.http-client" % "google-http-client-jackson2" % "2.2.0",
   "joda-time" % "joda-time" % "2.15.1",
   "org.apache.commons" % "commons-text" % "1.15.0",
+  "org.commonmark" % "commonmark" % "0.32.0",
+  "org.commonmark" % "commonmark-ext-gfm-tables" % "0.32.0",
+  "org.commonmark" % "commonmark-ext-image-attributes" % "0.32.0",
   "org.jsoup" % "jsoup" % "1.24.1",
   "org.scala-lang.modules" %% "scala-xml" % "2.5.0",
   "org.scalatestplus.play" %% "scalatestplus-play" % "7.0.2" % Test

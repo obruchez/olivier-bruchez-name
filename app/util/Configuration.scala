@@ -13,6 +13,10 @@ object Configuration {
   def analyticsMeasurementId: Option[String] =
     string("analytics.measurementid").map(_.trim).filter(_.nonEmpty)
 
+  /** Disqus site name ("shortname"); no comments when absent. */
+  def disqusShortname: Option[String] =
+    string("disqus.shortname").map(_.trim).filter(_.nonEmpty)
+
   def url(path: String): Option[URL] =
     string(path).map(Url.parse)
 

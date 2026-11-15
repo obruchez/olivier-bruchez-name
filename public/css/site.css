@@ -142,6 +142,12 @@ body {
   -webkit-font-smoothing: antialiased;
 }
 
+/* Literata's bold is discreet next to its regular weight: go one step heavier */
+b,
+strong {
+  font-weight: 800;
+}
+
 a {
   color: var(--accent);
   text-decoration-thickness: 1px;
@@ -1114,6 +1120,210 @@ blockquote {
 .prose img {
   max-width: 100%;
   height: auto;
+}
+
+/* ---------- Blog post ---------- */
+
+.post-meta {
+  margin: -0.5rem 0 1.75rem;
+  font-family: var(--sans);
+  font-size: 0.9rem;
+  color: var(--muted);
+}
+
+.post-labels::before {
+  content: "/";
+  margin: 0 0.5rem;
+  color: var(--rule);
+}
+
+.post .prose {
+  max-width: 44rem;
+}
+
+.post .prose p,
+.post .prose li {
+  text-wrap: pretty;
+}
+
+.post .prose blockquote {
+  margin: 1.25rem 0;
+  padding-left: 1.1rem;
+  border-left: 3px solid var(--rule);
+  color: var(--muted);
+}
+
+.post .prose img {
+  display: block;
+  margin: 1.5rem auto;
+  border-radius: 3px;
+}
+
+/* An image beside the text: ![](image.jpg#right) or ![](image.jpg#left) */
+.post .prose img[src$="#right"] {
+  float: right;
+  clear: right;
+  max-width: min(16rem, 42%);
+  margin: 0.35rem 0 1rem 1.5rem;
+}
+
+.post .prose img[src$="#left"] {
+  float: left;
+  clear: left;
+  max-width: min(16rem, 42%);
+  margin: 0.35rem 1.5rem 1rem 0;
+}
+
+.post .prose :is(h2, h3) {
+  clear: both;
+}
+
+/* An embedded video */
+.video {
+  max-width: 34rem;
+  margin: 1.75rem auto;
+  aspect-ratio: 16 / 9;
+}
+
+.video-4x3 {
+  aspect-ratio: 4 / 3;
+}
+
+.video iframe {
+  display: block;
+  width: 100%;
+  height: 100%;
+  border: 0;
+  border-radius: 3px;
+}
+
+/* An audio player and its tracks */
+.playlist {
+  margin: 2rem 0;
+  padding: 1rem 1.1rem;
+  background: var(--surface);
+  border-radius: 6px;
+  font-family: var(--sans);
+  font-size: 0.95rem;
+}
+
+.playlist audio {
+  display: block;
+  width: 100%;
+}
+
+.playlist ol {
+  margin: 0.9rem 0 0;
+  padding-left: 1.9rem;
+  color: var(--muted);
+}
+
+.post .prose .playlist li {
+  margin: 0;
+  padding: 0.12rem 0;
+}
+
+.playlist a {
+  color: var(--ink);
+  text-decoration: none;
+}
+
+.playlist a:hover {
+  color: var(--accent);
+}
+
+.playlist .playing,
+.playlist .playing a {
+  color: var(--accent);
+  font-weight: 600;
+}
+
+/* A caption: a paragraph in italics right under an image */
+.post .prose p:has(> img:only-child) + p:has(> em:only-child) {
+  max-width: none;
+  margin-top: -0.9rem;
+  margin-bottom: 1.5rem;
+  font-size: 0.92rem;
+  text-align: center;
+  color: var(--muted);
+}
+
+/* The image that goes with the post sits beside its first paragraphs, as it did on Blogger */
+.post-cover {
+  float: right;
+  width: min(16rem, 42%);
+  margin: 0.35rem 0 1rem 1.5rem;
+}
+
+.post .prose .post-cover img {
+  margin: 0;
+}
+
+.comments {
+  max-width: 44rem;
+  margin-top: 3rem;
+}
+
+/* Without this, the dark theme gives Disqus's transparent frames a white background */
+#disqus_thread iframe {
+  color-scheme: light;
+}
+
+.comments-show {
+  padding: 0.5rem 1.1rem;
+  background: none;
+  border: 1px solid var(--rule);
+  border-radius: 6px;
+  font-family: var(--sans);
+  font-size: 0.95rem;
+  color: var(--ink);
+  cursor: pointer;
+}
+
+.comments-show:hover {
+  border-color: var(--accent);
+  color: var(--accent);
+}
+
+.post-nav {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1.5rem;
+  max-width: 44rem;
+  margin-top: 3rem;
+  padding-top: 1rem;
+  border-top: 1px solid var(--rule);
+  font-size: 1rem;
+}
+
+.post-nav a {
+  color: var(--ink);
+  text-decoration: none;
+}
+
+.post-nav a:hover {
+  color: var(--accent);
+}
+
+.post-nav span {
+  display: block;
+  font-family: var(--sans);
+  font-size: 0.8rem;
+  color: var(--muted);
+}
+
+.post-nav-newer {
+  grid-column: 2;
+  text-align: right;
+}
+
+@media (max-width: 575.98px) {
+  .post-cover {
+    float: none;
+    display: block;
+    width: 100%;
+    margin: 0 0 1.25rem;
+  }
 }
 
 /* ---------- Contact ---------- */
