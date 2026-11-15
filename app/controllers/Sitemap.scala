@@ -2,16 +2,16 @@ package controllers
 
 import models._
 import models.PageGroup._
-import models.about.{LifePrinciples, Worldview, Profile}
+import models.about.{LifePrinciples, Profile, Worldview}
 import models.blogger.Posts
-import models.lifelogging._
-import models.todo.{TripsToTake, MoviesToWatch, BooksToRead}
+import models.lists._
+import models.todo.{BooksToRead, MoviesToWatch, TripsToTake}
 
 object Sitemap {
-  // @todo better icon for hikes: https://cdn2.iconfinder.com/data/icons/vacation-landmarks/512/12-512.png
-  // @todo better icon for plays: https://cdn0.iconfinder.com/data/icons/huge-basic-icons-part-3/512/Theater_symbol.png
+  // Public name of the section that groups all the lists (formerly "Lifelogging")
+  val ListsTitle = "Lists"
 
-  val home = Page("Home", routes.Application.home.url, Some("fa-home"))
+  val home = Page("Home", routes.Application.home.url)
 
   val profile = Page(Profile, routes.Application.profile)
   val lifePrinciples = Page(LifePrinciples, routes.Application.lifePrinciples)
@@ -20,7 +20,6 @@ object Sitemap {
   val about = Page(
     "About",
     routes.Application.about,
-    "fa-user",
     groupChildren = singlePageGroup(profile, lifePrinciples, worldview)
   )
 
@@ -45,36 +44,33 @@ object Sitemap {
   val moviesToWatch = Page(MoviesToWatch, routes.Application.moviesToWatch)
   val tripsToTake = Page(TripsToTake, routes.Application.tripsToTake)
 
-  val statistics = Page("Statistics", routes.Application.statistics, "fa-line-chart")
+  val statistics = Page("Statistics", routes.Application.statistics)
 
-  val lifelogging = Page(
-    "Lifelogging",
-    routes.Application.lifelogging,
-    "fa-list",
+  val lists = Page(
+    ListsTitle,
+    routes.Application.lists,
     groupChildren = Seq(
       PageGroup(
-        Seq(
-          articles,
-          ballets,
-          books,
-          comedyShows,
-          comics,
-          concerts,
-          courses,
-          crashes,
-          exhibitions,
-          hikes,
-          movies,
-          operas,
-          plays,
-          podcasts,
-          shows,
-          trips
-        )
+        Seq(articles, books, comics, movies, podcasts, shows),
+        title = Some("Read, watched, listened to")
       ),
-      PageGroup(Seq(booksToRead, moviesToWatch, tripsToTake)),
-      PageGroup(Seq(statistics))
+      PageGroup(
+        Seq(ballets, comedyShows, concerts, exhibitions, operas, plays),
+        title = Some("Seen live")
+      ),
+      PageGroup(Seq(hikes, trips), title = Some("Outdoors and travel")),
+      PageGroup(Seq(courses, crashes), title = Some("Everything else")),
+      PageGroup(Seq(booksToRead, moviesToWatch, tripsToTake), title = Some("Still to do")),
+      PageGroup(Seq(statistics), title = Some("In numbers"))
     )
+  )
+
+  val entombed = Page("Entombed", routes.Application.entombed)
+
+  val projects = Page(
+    "Projects",
+    routes.Application.projects,
+    groupChildren = singlePageGroup(entombed)
   )
 
   val votes = Page(Votes, routes.Application.votes)
@@ -85,24 +81,29 @@ object Sitemap {
   val cv = Page(
     "CV / résumé",
     routes.Application.cv,
-    "fa-file-text-o", // @todo better icon
     groupChildren = singlePageGroup(pdfCv, wordCv)
   )
 
-  val blog = Page("Blog", routes.Application.blogPosts, "fa-rss")
+  // Shown under the title of pages that have no introduction of their own
+  val pageNotes: Map[Page, String] = Map(
+    entombed -> "A platform game written for the Atari ST in 1991, ported to Scala. Play it in your browser.",
+    pdfCv -> "To read on screen or to print.",
+    wordCv -> "The same CV as an editable document (downloads the file)."
+  )
+
+  val blog = Page("Blog", routes.Application.blogPosts)
 
   val contacts = Page(Contacts, routes.Application.contacts)
 
   val root = Page(
     title = "",
     url = "",
-    groupChildren = singlePageGroup(home, about, blog, lifelogging, votes, cv, contacts)
+    groupChildren = singlePageGroup(home, about, blog, lists, votes, cv, projects, contacts)
   )
 
   val posts = Page(
     title = "Posts",
     url = Posts.sourceUrl.toString,
-    icon = Posts.icon,
     fetchables = Seq(Posts),
     groupChildren = Seq()
   )
@@ -110,6 +111,35 @@ object Sitemap {
   val seenOnTv = Page(SeenOnTv, routes.Application.seenOnTv)
 
   val nonRootPages = Seq(posts, seenOnTv)
+
+  /** What a single item of a list is called, and how its not-yet-dated items are introduced. */
+  case class ListInfo(itemName: String, nextItemsTitle: Option[String] = None)
+
+  val listInfos: Map[Page, ListInfo] = Map(
+    articles -> ListInfo("Article", Some("Currently reading")),
+    ballets -> ListInfo("Ballet", Some("Upcoming ballets")),
+    books -> ListInfo("Book", Some("Currently reading")),
+    comedyShows -> ListInfo("Comedy show", Some("Upcoming comedy shows")),
+    comics -> ListInfo("Comic", Some("Currently reading")),
+    concerts -> ListInfo("Concert", Some("Upcoming concerts")),
+    courses -> ListInfo("Course", Some("Upcoming courses")),
+    crashes -> ListInfo("Crash"),
+    exhibitions -> ListInfo("Exhibition"),
+    hikes -> ListInfo("Hike"),
+    movies -> ListInfo("Movie"),
+    operas -> ListInfo("Opera", Some("Upcoming operas")),
+    plays -> ListInfo("Play", Some("Upcoming plays")),
+    podcasts -> ListInfo("Podcast", Some("Currently listening to")),
+    shows -> ListInfo("TV show", Some("Currently watching")),
+    trips -> ListInfo("Trip", Some("Upcoming trips"))
+  )
+
+  // Lists whose images are not upright covers or posters: photos (landscape), artworks (square)
+  val coverShapes: Map[Page, String] =
+    Map(hikes -> "has-photos", trips -> "has-photos", podcasts -> "has-squares")
+
+  def nextItemsTitle(page: Page): String =
+    listInfos.get(page).flatMap(_.nextItemsTitle).getOrElse("Next")
 
   def pageByUrl(url: String): Option[Page] = {
     def pageByUrl(pageToTest: Page): Option[Page] =
@@ -126,6 +156,15 @@ object Sitemap {
     pageByUrl(root)
   }
 
+  /** True if `page` is `section` itself, one of its descendants, or a page nested under one. */
+  def inSection(section: Page, page: Page): Boolean =
+    if (section == home)
+      page.url == home.url
+    else
+      section.url == page.url ||
+      page.url.startsWith(section.url + "/") ||
+      section.children.exists(inSection(_, page))
+
   def fetchables: Seq[Fetchable] =
     allPages.flatMap(_.fetchables).distinct
 
@@ -136,14 +175,17 @@ object Sitemap {
     (currentAndChildren(root) ++ nonRootPages).distinct
   }
 
+  // Lists feeding the "Lately" section of the home page
   val recentActivityPages =
     Seq(
       articles,
       ballets,
       books,
       comedyShows,
+      comics,
       concerts,
       exhibitions,
+      hikes,
       movies,
       operas,
       plays,
@@ -151,4 +193,8 @@ object Sitemap {
       trips,
       shows
     )
+
+  // Lists whose current/upcoming items are shown in the "Right now" section of the home page
+  val rightNowPages =
+    Seq(books, comics, shows, concerts, plays, operas, ballets, comedyShows, trips)
 }

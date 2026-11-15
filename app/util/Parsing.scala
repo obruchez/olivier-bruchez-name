@@ -8,11 +8,9 @@ import scala.xml.{Node, NodeSeq}
 
 object Parsing {
   def introductionFromNode(node: Node): Try[Option[Introduction]] = Try {
-    val introductions = for {
-      introductionNode <- node \\ "introduction"
-      introductionAsMarkdown = introductionNode.text
-      introductionAsHtmlTry = MarkdownContent(introductionAsMarkdown).toHtmlContent
-    } yield introductionAsHtmlTry.get
+    val introductions = (node \\ "introduction").map { introductionNode =>
+      MarkdownContent(introductionNode.text).toHtmlContent.get
+    }
 
     val shortVersionOption = introductions.headOption
     val fullVersion = HtmlContent.fromHtmlString(introductions.map(_.htmlString).mkString(" "))
@@ -23,11 +21,28 @@ object Parsing {
   }
 
   def picturesFromNode(node: Node): Seq[Pictures] =
-    for {
-      pictures <- node \\ "pictures"
-      title = pictures.text
-      url = pictures \@ "url"
-    } yield Pictures(title = Option(title.trim).filter(_.nonEmpty), url = new URL(url))
+    (node \\ "pictures").map { pictures =>
+      Pictures(
+        title = Option(pictures.text.trim).filter(_.nonEmpty),
+        url = Url.parse(pictures \@ "url")
+      )
+    }
+
+  /** `directory` is the list's directory under data/images. */
+  def imageFromNode(node: Node, directory: String): Option[String] =
+    (node \ "image").headOption
+      .map(_.text.trim)
+      .filter(_.nonEmpty)
+      // File names are stored with composed accents (NFC), whereas names pasted from the macOS
+      // Finder come decomposed (NFD): "é" as "e" followed by a combining accent
+      .map(file => java.text.Normalizer.normalize(file, java.text.Normalizer.Form.NFC))
+      .map(file => s"$directory/$file")
+
+  /** Where the image comes from (e.g. the photo in its Flickr album), if stated. */
+  def imageUrlFromNode(node: Node): Option[String] =
+    (node \ "image").headOption
+      .map(image => (image \@ "url").trim)
+      .filter(url => url.startsWith("https://") || url.startsWith("http://"))
 
   def commentsFromString(string: String): Option[HtmlContent] =
     Option(string).map(_.trim).filter(_.nonEmpty).map(HtmlContent(_))

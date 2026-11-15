@@ -3,12 +3,13 @@ package controllers
 import actors.Cache
 import models.about.{LifePrinciples, Profile, Worldview}
 import models.blogger.Posts
-import models.lifelogging._
+import models.ListItems._
+import models.lists._
+import util.Date._
 import models.statistics.Statistics
 import models.todo.{BooksToRead, MoviesToWatch, TripsToTake}
 import models._
 import play.api.mvc._
-import util.ConfigurationSetter
 
 import javax.inject.Inject
 import scala.concurrent.{ExecutionContext, Future}
@@ -17,41 +18,94 @@ object Application
 
 class Application @Inject() (implicit
     ec: ExecutionContext,
-    val controllerComponents: ControllerComponents,
-    val configurationSetter: ConfigurationSetter
+    val controllerComponents: ControllerComponents
 ) extends BaseController {
-  def home = Action.async {
-    val MaxItemCount = 5
-
-    val allListItemsFuture = Future.sequence {
+  private def cacheables(pages: Seq[Page]): Future[Seq[(Page, Cacheable)]] =
+    Future.sequence(
       for {
-        page <- Sitemap.recentActivityPages
-        if page.fetchables.size == 1
-        fetchable <- page.fetchables
-      } yield {
-        Cache
-          .get(fetchable)
-          .map(_.latestItems(fetchable, page, count = MaxItemCount))
-          .map(_ -> page)
-      }
+        page <- pages
+        fetchable <- page.fetchables.headOption
+      } yield Cache.get(fetchable).map(page -> _)
+    )
+
+  // Latest items of all the lists, most recent first. Lists that grow fast (podcasts, movies) would
+  // otherwise crowd out the others, hence the limit per list.
+  private def lately(count: Int, maxPerList: Int): Future[Seq[(Page, ListItem)]] =
+    cacheables(Sitemap.recentActivityPages).map { recentActivity =>
+      recentActivity
+        .flatMap { case (page, cacheable) =>
+          cacheable.listItems.filterNot(_.next).take(maxPerList).withUrls(page).map(page -> _)
+        }
+        .sortBy(_._2.date.yyyymmddString)(using Ordering[String].reverse)
+        .take(count)
     }
 
+  def home = Action.async {
     for {
-      allListItems <- allListItemsFuture
-      recentActivityListItemsWithPages = allListItems
-        .filter(_._1.listItems.nonEmpty)
-        .sortBy(_._1.fetchable.name.toLowerCase)
+      // The latest entry of each list, unless the list has been left alone for a year
+      latest <- lately(count = Int.MaxValue, maxPerList = 1)
+      rightNowActivity <- cacheables(Sitemap.rightNowPages)
       posts <- Cache.get(Posts)
     } yield {
-      Ok(views.html.home(posts, recentActivityListItemsWithPages))
+      val rightNow =
+        rightNowActivity
+          .map { case (page, cacheable) =>
+            page -> cacheable.listItems.filter(_.next).reverse.withUrls(page)
+          }
+          .filter(_._2.nonEmpty)
+
+      val oneYearAgo = java.time.LocalDate.now.minusYears(1).toString
+      val lately = latest.filter(_._2.date.yyyymmddString >= oneYearAgo)
+
+      Ok(views.html.home(rightNow, lately, posts.listItems.take(5)))
+    }
+  }
+
+  // Atom feed of the same selection as the "Lately" section of the home page, only longer
+  def feed = Action.async { (request: Request[AnyContent]) =>
+    lately(count = 50, maxPerList = 10).map { items =>
+      def atomDate(item: ListItem): String = {
+        val iso = item.date.isoString
+        (if (iso.length == 10) iso else (iso + "-01-01").take(10)) + "T12:00:00Z"
+      }
+
+      val xml =
+        <feed xmlns="http://www.w3.org/2005/Atom">
+          <title>Olivier Bruchez: lately</title>
+          <id>{absoluteUrl(request, "/")}</id>
+          <link href={absoluteUrl(request, "/")}/>
+          <link rel="self" href={absoluteUrl(request, routes.Application.feed.url)}/>
+          <author><name>Olivier Bruchez</name></author>
+          <updated>{
+          items.headOption.fold("1970-01-01T00:00:00Z")(item => atomDate(item._2))
+        }</updated>
+          {
+          items.map { case (page, item) =>
+            val url = absoluteUrl(request, item.itemUrl.getOrElse(page.url))
+            val kind = Sitemap.listInfos.get(page).fold(page.title)(_.itemName)
+            <entry>
+              <title>{
+              s"$kind: ${org.jsoup.Jsoup.parse(item.shortRepresentation.htmlString).text()}"
+            }</title>
+              <id>{url}</id>
+              <link href={url}/>
+              <updated>{atomDate(item)}</updated>
+              <category term={page.title}/>
+            </entry>
+          }
+        }
+        </feed>
+
+      Ok("""<?xml version="1.0" encoding="UTF-8"?>""" + "\n" + xml.toString)
+        .as("application/atom+xml; charset=utf-8")
     }
   }
 
   def profile = Action.async { Cache.get(Profile).map(profile => Ok(views.html.profile(profile))) }
 
   def about = Action.async {
-    Page.introductionsFromPages(Sitemap.about.children) map { pagesAndIntroductions =>
-      Ok(views.html.menu(Sitemap.about, pagesAndIntroductions, groupSize = 3, colSize = 4))
+    Page.summariesFromPages(Sitemap.about.children).map { summaries =>
+      Ok(views.html.menu(Sitemap.about, summaries))
     }
   }
 
@@ -63,11 +117,14 @@ class Application @Inject() (implicit
     Cache.get(Worldview).map(worldview => Ok(views.html.worldview(worldview)))
   }
 
-  def lifelogging = Action.async {
-    Page.introductionsFromPages(Sitemap.lifelogging.children) map { pagesAndIntroductions =>
-      Ok(views.html.menu(Sitemap.lifelogging, pagesAndIntroductions, groupSize = 3, colSize = 4))
+  def lists = Action.async {
+    Page.summariesFromPages(Sitemap.lists.children).map { summaries =>
+      Ok(views.html.menu(Sitemap.lists, summaries))
     }
   }
+
+  // The lists used to live under "Lifelogging"
+  def lifelogging = Action { MovedPermanently(routes.Application.lists.url) }
 
   def articles = Action.async {
     Cache.get(Articles).map(articles => Ok(views.html.articles(articles)))
@@ -169,11 +226,12 @@ class Application @Inject() (implicit
     }
   }
 
-  def cv = Action.async {
-    Page.introductionsFromPages(Sitemap.cv.children) map { pagesAndIntroductions =>
-      Ok(views.html.menu(Sitemap.cv, pagesAndIntroductions, groupSize = 2, colSize = 6))
-    }
-  }
+  // There used to be a page with just the two links
+  def projects = Action { Ok(views.html.menu(Sitemap.projects, Map.empty)) }
+
+  def entombed = Action { Ok(views.html.entombed()) }
+
+  def cv = Action { Ok(views.html.menu(Sitemap.cv, Map.empty)) }
 
   def pdfCv = Action.async {
     Cache.get(PdfCv) map { pdfCv =>
@@ -199,22 +257,35 @@ class Application @Inject() (implicit
     Cache.get(Contacts).map(contacts => Ok(views.html.contacts(contacts)))
   }
 
-  def reload = Action {
-    actors.Master.forceFetch()
-    Redirect(routes.Application.home)
+  // Forces a refresh of all the data; only enabled when reload.token is configured
+  def reload(token: Option[String]) = Action {
+    util.Configuration.string("reload.token").filter(_.nonEmpty) match {
+      case Some(expected) if token.contains(expected) =>
+        actors.Master.forceFetch()
+        Redirect(routes.Application.home)
+      case _ =>
+        NotFound
+    }
   }
 
-  def blogPostComparison = Action {
-    // 2026-06-07: disabled. FortiGuard classified olivier.bruchez.name as "Malicious Websites"
-    // (signature HTML/IFrame.SRH!tr). Identified cause: this comparison page stacks ~10 full-page
-    // external <iframe>s (bruchez.blogspot.com), a pattern that trips Fortinet's "malicious iframe"
-    // heuristic (false positive, not a compromise). Return 404 so the page is no longer served or
-    // crawlable.
-    NotFound
-    // Cache.get(Posts) map { posts =>
-    //   Ok(views.html.blogPostComparison(posts.listItems))
-    // }
+  def robots = Action { (request: Request[AnyContent]) =>
+    Ok(
+      s"User-agent: *\nAllow: /\nDisallow: /reload\n\nSitemap: ${absoluteUrl(request, "/sitemap.xml")}\n"
+    )
   }
+
+  def sitemapXml = Action { (request: Request[AnyContent]) =>
+    val urls = Sitemap.root.children.flatMap(page => page +: page.children).map(_.url).distinct
+    val xml =
+      <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+        {urls.map(url => <url><loc>{absoluteUrl(request, url)}</loc></url>)}
+      </urlset>
+
+    Ok("""<?xml version="1.0" encoding="UTF-8"?>""" + "\n" + xml.toString).as("application/xml")
+  }
+
+  private def absoluteUrl(request: RequestHeader, path: String): String =
+    s"https://${request.host}$path"
 
   implicit class ResultOps(result: Result) {
     def withFilename(filename: String): Result =

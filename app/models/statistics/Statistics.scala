@@ -1,7 +1,7 @@
 package models.statistics
 
 import models.ListItem
-import models.lifelogging._
+import models.lists._
 import org.joda.time.{DateTimeFieldType, Partial}
 import util.Date._
 

@@ -1,0 +1,57 @@
+@()
+
+@scripts = {
+  @* Built from https://github.com/obruchez/entombed (sbt site), copied as is *@
+  <script defer src="@routes.Assets.at("vendor/entombed/main.js")"></script>
+}
+
+@main(Sitemap.entombed, scripts = scripts) {
+  <div class="lead-in">
+    <p>A platform game written for the Atari ST by Nick Concannon in 1991, which I ported to Scala 3. It runs right here, in your browser. You need a keyboard or a gamepad.</p>
+  </div>
+
+  <div class="game">
+    <canvas id="screen" width="960" height="600" tabindex="0" aria-label="Entombed"></canvas>
+    <p class="game-status" id="status" role="status"></p>
+    <div class="game-buttons">
+      <button type="button" id="save" title="F6">Save</button>
+      <button type="button" id="load" title="F7">Load</button>
+      <button type="button" id="god" title="F8">God mode</button>
+      <button type="button" id="tomb5" title="F4">Unlock tomb 5</button>
+      <button type="button" id="speed" title="F2">Speed: Atari ST / fast</button>
+      <button type="button" id="engine">Switch: Scala port / original code</button>
+    </div>
+  </div>
+
+  <section class="home-section">
+    <h2>Keys</h2>
+    <dl class="now-list">
+      <div><dt>Arrows</dt><dd>Walk, jump (up), climb ladders</dd></div>
+      <div><dt>Space or Ctrl</dt><dd>Fire: start, select a tomb, shoot arrows</dd></div>
+      <div><dt>P</dt><dd>Pause, any key to resume</dd></div>
+      <div><dt>1 to 9, 0</dt><dd>Use 1 to 10 seconds of hourglass time</dd></div>
+      <div><dt>S, L</dt><dd>The save game added in 1995 for the Smaky (during play only)</dd></div>
+      <div><dt>F6, F7</dt><dd>Save and load at any moment</dd></div>
+      <div><dt>F8</dt><dd>God mode: the man cannot die</dd></div>
+    </dl>
+    <p class="more">The sound starts after the first key press.</p>
+  </section>
+
+  <section class="home-section">
+    <h2>The game</h2>
+    <div class="prose">
+      <p>Four Egyptian tombs, in any order, then a fifth one. The tombs change while you play (they flicker before they do), and hourglasses let you delay those changes. Seven lives for the whole game and no saving: it was very hard. This port adds saving at any moment and a god mode.</p>
+    </div>
+  </section>
+
+  <section class="home-section">
+    <h2>History</h2>
+    <dl class="now-list">
+      <div><dt>1991</dt><dd>Nick Concannon releases Entombed as freeware.</dd></div>
+      <div><dt>1995</dt><dd>My brother Erik and I disassemble and comment it, then port it to the Smaky, a Swiss computer also based on the 68000.</dd></div>
+      <div><dt>1996</dt><dd>An attempt at a PC port through a 68000-to-C translator, never finished.</dd></div>
+      <div><dt>2026</dt><dd>This port, which can also run the original 68000 code through an interpreter: the button above switches between the two.</dd></div>
+    </dl>
+    <p class="more">Entombed © 1991 Nick Concannon (freeware). The source code of the port is <a href="https://github.com/obruchez/entombed">on GitHub</a>.</p>
+  </section>
+}

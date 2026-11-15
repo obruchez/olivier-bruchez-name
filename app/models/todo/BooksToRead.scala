@@ -2,7 +2,7 @@ package models.todo
 
 import java.net.URL
 import models._
-import models.lifelogging.Books
+import models.lists.Books
 import scala.util._
 import util._
 
@@ -14,7 +14,6 @@ object BooksToRead extends Fetchable {
 
   override val name = "Books to read"
   override val sourceUrl = Configuration.baseUrlWithFile("markdown/books-to-read.md").get
-  override val icon = Books.icon
 
   override def fetch(): Try[BooksToRead] = apply(sourceUrlWithNoCacheParameter)
 

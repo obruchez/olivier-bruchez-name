@@ -11,7 +11,7 @@ case class BinaryContent(content: Array[Byte], override val fileType: FileType)
 
 object BinaryContent {
   def apply(url: URL): Try[BinaryContent] = Try {
-    val content = Source.fromURL(url)(Codec.ISO8859).map(_.toByte).toArray
+    val content = Source.fromURL(url)(using Codec.ISO8859).map(_.toByte).toArray
     val fileType = FileType.fileTypeFromUrl(url)
 
     BinaryContent(content, fileType)

@@ -1,14 +1,12 @@
-@import models.{ HtmlContent, Introduction }
+@import models.{HtmlContent, Introduction}
 
 @(page: Page, introduction: Option[Introduction], content: HtmlContent)
 
 @main(page) {
   @introduction.map { introduction =>
-    @views.html.introduction {
-      @introduction.fullVersion.html
-    }
+    <div class="lead-in">@introduction.fullVersion.html</div>
   }
-  <div class="markdown">
+  <div class="prose">
     @content.html
   </div>
 }

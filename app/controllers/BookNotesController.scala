@@ -2,7 +2,7 @@ package controllers
 
 import actors.Cache
 import models._
-import models.lifelogging.{BookNotes, Books}
+import models.lists.{BookNotes, Books}
 import play.api.mvc._
 
 import javax.inject.Inject
@@ -56,7 +56,6 @@ class BookNotesController @Inject() (implicit
       Page(
         title = pageTitle,
         url = routes.BookNotesController.bookNotes(bookNotes.slug).url,
-        icon = Sitemap.books.icon,
         fetchables = Seq(bookNotes.fileSource)
       )
     }

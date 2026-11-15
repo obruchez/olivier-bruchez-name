@@ -1,46 +1,21 @@
-@import models.lifelogging.{ ComedyShow, ComedyShows }
+@import models.lists.{ComedyShow, ComedyShows}
 
 @(comedyShows: ComedyShows)
 
-@header = {
-  <tr class="list-header">
-    <th class="col-md-1">Date</th>
-    <th class="col-md-4">Comedians</th>
-    <th class="col-md-3">Name</th>
-    <th class="col-md-3">Location</th>
-    <th class="col-md-1">Rating</th>
-  </tr>
+@showCredits(comedyShow: ComedyShow) = @{
+  (if (comedyShow.group.nonEmpty && comedyShow.comedians.nonEmpty) Seq("With" -> comedyShow.comedians.mkString(", ")) else Seq()) ++
+    (if (comedyShow.openingActs.isEmpty) Seq() else Seq("Opening act" -> comedyShow.openingActs.mkString(", "))) ++
+    (if (comedyShow.authors.isEmpty) Seq() else Seq("Author" -> comedyShow.authors.mkString(", "))) ++
+    (if (comedyShow.directors.isEmpty) Seq() else Seq("Director" -> comedyShow.directors.mkString(", ")))
 }
 
-@rowFromItem(listItem: ListItem, trClass: String) = {
-  @defining(listItem.asInstanceOf[ComedyShow]) { comedyShow =>
-    <tr class="list-details @trClass">
-      <td>@sluganddate(comedyShow)</td>
-      <td>@{
-        val comedians =
-          comedyShow.group.map(group => <strong>{group}</strong> ++ xml.Text(if (comedyShow.comedians.nonEmpty) ": " else "")).getOrElse(xml.NodeSeq.Empty) ++
-          (if (comedyShow.group.isEmpty) <strong>{comedyShow.comedians.mkString(", ")}</strong> else xml.Text(comedyShow.comedians.mkString(", ")))
-
-        val paragraphs =
-          (if (comedyShow.openingActs.isEmpty) Seq() else Seq(s"Opening act: ${comedyShow.openingActs.mkString(", ")}")) ++
-          (if (comedyShow.authors.isEmpty) Seq() else Seq(s"Author: ${comedyShow.authors.mkString(", ")}")) ++
-          (if (comedyShow.directors.isEmpty) Seq() else Seq(s"Director: ${comedyShow.directors.mkString(", ")}"))
-
-        <p>{comedians}</p> ++ paragraphs.map(paragraph => <p>{paragraph}</p>).foldLeft(xml.NodeSeq.Empty)(_ ++ _)
-      }</td>
-      <td>@comedyShow.name</td>
-      <td>@comedyShow.location</td>
-      <td>@views.html.rating(comedyShow.rating)</td>
-    </tr>
-    @comedyShow.comments.map { comments =>
-      <tr><td colspan="5">@comments.html</td></tr>
-    }
+@item(comedyShow: ComedyShow) = {
+  @entry(comedyShow, comedyShow.rating, comedyShow.comments) {
+    @comedyShow.group.getOrElse(comedyShow.comedians.mkString(", "))@comedyShow.name.filter(_.nonEmpty).map { name =><span class="entry-subtitle">: @name</span>}
+  } {
+    <p>@comedyShow.location</p>
+    @credits(showCredits(comedyShow))
   }
 }
 
-@list(
-  page = Sitemap.comedyShows,
-  cacheable = comedyShows,
-  header = header,
-  rowFromItem = rowFromItem,
-  nextItemsTitle = Some("Upcoming comedy shows"))
+@list(Sitemap.comedyShows, comedyShows, comedyShows.listItems.map(comedyShow => comedyShow -> item(comedyShow)))

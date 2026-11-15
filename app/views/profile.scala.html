@@ -2,37 +2,21 @@
 
 @(profile: Profile)
 
-@column(columnNumber: Int, columnCount: Int) = {
-  @profile.partOfProfileLists(partNumber = columnNumber, partCount = columnCount).map { profileList =>
-    <div class="listitems">
-      @views.html.contentbox(slug = Some(profileList.slug), title = Some(Html(profileList.title))) {
-        <table class="table">
-          <tbody>
-            @profileList.profileItems.map { profileItem =>
-              <tr><td>
-                @profileItem.profileSubItems.zipWithIndex.map { case (profileSubItem, index) =>
-                  <a href="@profileSubItem.url">@profileSubItem.description</a>
-                  @if(index != profileItem.profileSubItems.size - 1) { <span> / </span> }
-                }
-              </td></tr>
-            }
-          </tbody>
-        </table>
-      }
-    </div>
-  }
-}
-
 @main(page = controllers.Sitemap.profile) {
   @profile.introduction.map { introduction =>
-    @views.html.introduction {
-      <p>@introduction.fullVersion.html</p>
-    }
+    <div class="lead-in"><p>@introduction.fullVersion.html</p></div>
   }
-  <div class="col-md-6">
-    @column(columnNumber = 0, columnCount = 2)
-  </div>
-  <div class="col-md-6">
-    @column(columnNumber = 1, columnCount = 2)
+
+  <div class="profile-lists">
+    @profile.profileLists.map { profileList =>
+      <section id="@profileList.slug">
+        <h2><a href="#@profileList.slug">@profileList.title</a></h2>
+        <ul>
+          @profileList.profileItems.map { profileItem =>
+            <li>@profileItem.profileSubItems.zipWithIndex.map { case (profileSubItem, index) =>@if(index > 0) { / }<a href="@profileSubItem.url">@profileSubItem.description</a>}</li>
+          }
+        </ul>
+      </section>
+    }
   </div>
 }

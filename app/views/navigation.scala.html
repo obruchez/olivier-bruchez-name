@@ -1,0 +1,28 @@
+@(page: Page)
+
+@link(target: Page) = {
+  <a href="@target.url" @if(target.url == page.url) {aria-current="page"}>@target.title</a>
+}
+
+<nav class="site-nav" aria-label="Main">
+  <ul>
+    @Sitemap.root.children.map { section =>
+      @defining(Sitemap.inSection(section, page)) { active =>
+        <li class="@if(active) {active}">
+          @link(section)
+          @if(active && section.children.nonEmpty) {
+            <div class="subnav">
+              @section.groupChildren.map { group =>
+                <ul>
+                  @group.pages.map { child =>
+                    <li class="@if(Sitemap.inSection(child, page)) {active}">@link(child)</li>
+                  }
+                </ul>
+              }
+            </div>
+          }
+        </li>
+      }
+    }
+  </ul>
+</nav>

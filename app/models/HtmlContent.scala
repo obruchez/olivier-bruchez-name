@@ -41,7 +41,7 @@ case class HtmlContent(htmlString: String) extends FileContent(FileType.Html) {
 
 object HtmlContent {
   def apply(url: URL): Try[HtmlContent] = Try {
-    val markdownString = Source.fromURL(url)(Codec("UTF-8")).mkString
+    val markdownString = Source.fromURL(url)(using Codec("UTF-8")).mkString
     apply(markdownString)
   }
 

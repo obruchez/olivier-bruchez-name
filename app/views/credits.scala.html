@@ -1,0 +1,10 @@
+@(credits: Seq[(String, String)])
+
+@* Role / names pairs (author, director, cast...) under an entry title *@
+@if(credits.nonEmpty) {
+  <dl class="credits">
+    @credits.map { case (role, names) =>
+      <div><dt>@role</dt> <dd>@names</dd></div>
+    }
+  </dl>
+}

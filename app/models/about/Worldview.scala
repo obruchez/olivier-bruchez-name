@@ -66,7 +66,6 @@ object Worldview extends Fetchable {
 
   override val name = "Worldview"
   override val sourceUrl = Configuration.baseUrlWithFile("worldview.xml").get
-  override val icon = Some("fa-globe")
 
   override def fetch(): Try[Worldview] = apply(sourceUrlWithNoCacheParameter)
 

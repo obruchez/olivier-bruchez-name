@@ -6,7 +6,7 @@ import java.net.URL
 import scala.util.Try
 import scala.xml.{Node, XML}
 
-case class Contact(name: String, url: String, urlDescription: String, icon: String)
+case class Contact(name: String, url: String, urlDescription: String)
 
 object Contact {
   def apply(rootNode: Node): Try[Contact] = Try {
@@ -14,8 +14,7 @@ object Contact {
     Contact(
       name = (rootNode \\ "name").text.trim,
       url = urlNode.text.trim,
-      urlDescription = urlNode \@ "description",
-      icon = (rootNode \\ "icon").text.trim
+      urlDescription = urlNode \@ "description"
     )
   }
 }
@@ -28,7 +27,6 @@ object Contacts extends Fetchable {
 
   override val name = "Contacts"
   override val sourceUrl = Configuration.baseUrlWithFile("contacts.xml").get
-  override val icon = Some("fa-envelope-o")
 
   override def fetch(): Try[Contacts] = apply(sourceUrlWithNoCacheParameter)
 

@@ -2,24 +2,15 @@
 
 @main(Sitemap.contacts) {
   @contacts.introduction.map { introduction =>
-    @views.html.introduction {
-      <p>@introduction.fullVersion.html</p>
-    }
+    <div class="lead-in"><p>@introduction.fullVersion.html</p></div>
   }
 
-  <div class="listitems">
-    @views.html.contentbox(slug = None, title = None) {
-      <table class="table">
-        <tbody>
-        @contacts.contacts.map { contact =>
-          <tr>
-            <td><i class="fa @contact.icon"></i></td>
-            <td>@contact.name</td>
-            <td><a href="@contact.url">@contact.urlDescription</a></td>
-          </tr>
-        }
-        </tbody>
-      </table>
+  <dl class="contact-list">
+    @contacts.contacts.map { contact =>
+      <div>
+        <dt>@contact.name</dt>
+        <dd><a href="@contact.url">@contact.urlDescription</a></dd>
+      </div>
     }
-  </div>
+  </dl>
 }

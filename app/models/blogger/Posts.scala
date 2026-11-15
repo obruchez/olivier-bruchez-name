@@ -99,7 +99,6 @@ object Posts extends Fetchable {
 
   override val name = "Posts"
   override val sourceUrl = Configuration.url("blogger.url").get
-  override val icon = Some("fa-rss")
 
   override def fetch(): Try[Posts] = Try {
     val MaxPostCount = 500

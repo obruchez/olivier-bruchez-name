@@ -59,7 +59,7 @@ object MarkdownContent {
     MarkdownContent(string.split("\\r?\\n").toSeq)
 
   def apply(url: URL): Try[MarkdownContent] = Try {
-    val markdownString = Source.fromURL(url)(Codec("UTF-8")).mkString
+    val markdownString = Source.fromURL(url)(using Codec("UTF-8")).mkString
     apply(markdownString)
   }
 

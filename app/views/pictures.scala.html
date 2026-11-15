@@ -1,5 +1,5 @@
 @(pictures: Seq[Pictures], place: String)
 
-@pictures.map { pictures =>
-  <a href="@pictures.url.toString">@pictures.title.getOrElse(place)</a><br/>
+@if(pictures.nonEmpty) {
+  <p>Pictures: @pictures.zipWithIndex.map { case (pictures, index) =>@if(index > 0) {, }<a href="@pictures.url.toString">@pictures.title.getOrElse(place)</a>}</p>
 }

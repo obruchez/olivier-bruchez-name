@@ -67,6 +67,28 @@ object Date {
       }
     }
 
+    /** As much of yyyy-mm-dd as is known, e.g. "2026-11" (valid in an HTML datetime attribute). */
+    def isoString: String = {
+      val fields = DateTimeFields(readablePartial)
+      Seq(
+        fields.year.map(y => f"$y%04d"),
+        fields.month.map(m => f"$m%02d"),
+        fields.dayOfMonth.map(d => f"$d%02d")
+      ).takeWhile(_.isDefined).flatten.mkString("-")
+    }
+
+    /** E.g. "Nov 4" or "Nov 4, 2026"; only the known parts of the date are included. */
+    def shortEnglishString(withYear: Boolean): String = {
+      val fields = DateTimeFields(readablePartial)
+      val monthAndDay =
+        fields.month.map { month =>
+          DateTimeFields.shortMonths(month - 1) + fields.dayOfMonth.fold("")(day => s" $day")
+        }
+      val year = fields.year.filter(_ => withYear || monthAndDay.isEmpty).map(_.toString)
+
+      (monthAndDay.toSeq ++ year.toSeq).mkString(", ")
+    }
+
     def year: Option[Int] =
       Try(readablePartial.get(DateTimeFieldType.year())).toOption
 
@@ -151,10 +173,12 @@ case class DateTimeFields(valuesByType: Map[DateTimeFieldType, Int]) {
 object DateTimeFields {
   protected val dateFormatSymbols = new DateFormatSymbols(Locale.ENGLISH)
 
+  val shortMonths: Seq[String] = dateFormatSymbols.getShortMonths.toSeq
+
   def apply(readablePartial: ReadablePartial): DateTimeFields =
     DateTimeFields(Map((for {
       fieldIndex <- 0 until readablePartial.size
       dateTimeFieldType = readablePartial.getFieldType(fieldIndex)
       dateTimeFieldValue = readablePartial.getValue(fieldIndex)
-    } yield dateTimeFieldType -> dateTimeFieldValue): _*))
+    } yield dateTimeFieldType -> dateTimeFieldValue)*))
 }

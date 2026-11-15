@@ -59,16 +59,12 @@ object Master {
   lazy val fetcherRouter: ActorRef =
     system.actorOf(RoundRobinPool(10).props(Props(new Fetcher(cache))), "fetcher-pool")
 
-  // @todo add hook for call to stop()
-  start()
-
   def start(): Unit = {
     master ! CheckCache(force = false, reschedule = true)
   }
 
-  def stop(): Unit = {
-    system.terminate()
-  }
+  def stop(): Future[Unit] =
+    system.terminate().map(_ => ())(using scala.concurrent.ExecutionContext.parasitic)
 
   def forceFetch(): Unit = {
     master ! CheckCache(force = true, reschedule = false)

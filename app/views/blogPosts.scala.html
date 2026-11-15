@@ -4,9 +4,24 @@
 @(page: Page, posts: Seq[Post])
 
 @main(page) {
-  <ul>
-  @posts.map { post =>
-    <li><a href="@post.itemUrl">@post.date.yyyymmddString: @post.shortRepresentation.html</a></li>
+  <div class="lead-in">
+    <p>I have been writing on <a href="https://bruchez.blogspot.com">my blog</a>, mostly in French, since September 2006. The posts themselves live on Blogger.</p>
+  </div>
+
+  @posts.groupBy(_.date.year).toSeq.sortBy(_._1).reverse.map { case (year, postsForYear) =>
+    <section class="year-group" id="@year.fold("?")(_.toString)">
+      <header class="year-head">
+        <h2>@year.fold("Undated")(_.toString)</h2>
+        <span class="year-count">@postsForYear.size</span>
+      </header>
+      <ul class="dated-list">
+        @postsForYear.map { post =>
+          <li>
+            <time datetime="@post.date.isoString">@post.date.shortEnglishString(withYear = false)</time>
+            <a href="@post.itemUrl">@post.shortRepresentation.html</a>
+          </li>
+        }
+      </ul>
+    </section>
   }
-  </ul>
 }

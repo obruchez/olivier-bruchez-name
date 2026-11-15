@@ -4,46 +4,51 @@
 
 @main(page = controllers.Sitemap.worldview) {
   @worldview.introduction.map { introduction =>
-    @views.html.introduction {
-      <p>@introduction.fullVersion.html</p>
-    }
+    <div class="lead-in"><p>@introduction.fullVersion.html</p></div>
   }
 
-  @toc("Sommaire", "afficher", "masquer") {
-    <ul class="list-unstyled">
-    @worldview.worldviewCategories.zipWithIndex.map { case (worldviewCategory, index) =>
-      <li>
-        @{index + 1} <a href="#@worldviewCategory.slug">@worldviewCategory.description.html</a>
-        <ul class="list-unstyled">
-        @worldviewCategory.worldviewPositions.zipWithIndex.map { case (worldviewPosition, subIndex) =>
-          @worldviewPosition.itemSlug match {
-            case Some(slug) => { <li>@{index + 1}.@{subIndex + 1} <a href="#@slug">@worldviewPosition.summary.html</a></li> }
-            case None => { <li>@{index + 1}.@{subIndex + 1} @worldviewPosition.summary.html</li> }
+  <div lang="fr">
+    @toc("Sommaire") {
+      <ol>
+        @worldview.worldviewCategories.map { worldviewCategory =>
+          <li>
+            <a href="#@worldviewCategory.slug">@worldviewCategory.description.html</a>
+            <ol>
+              @worldviewCategory.worldviewPositions.map { worldviewPosition =>
+                <li>@worldviewPosition.itemSlug match {
+                  case Some(slug) => { <a href="#@slug">@worldviewPosition.summary.html</a> }
+                  case None => { @worldviewPosition.summary.html }
+                }</li>
+              }
+            </ol>
+          </li>
+        }
+        <li><a href="#references">Références</a></li>
+      </ol>
+    }
+
+    @worldview.worldviewCategories.map { worldviewCategory =>
+      <section class="statement-group" id="@worldviewCategory.slug">
+        <h2>@worldviewCategory.description.html</h2>
+        <div class="statements">
+          @worldviewCategory.worldviewPositions.map { worldviewPosition =>
+            <section @worldviewPosition.itemSlug.map { slug => id="@slug" }>
+              <h3>@worldviewPosition.itemSlug match {
+                case Some(slug) => { <a href="#@slug">@worldviewPosition.summary.html</a> }
+                case None => { @worldviewPosition.summary.html }
+              }</h3>
+              <p>@worldviewPosition.details.html</p>
+            </section>
           }
-        }
-        </ul>
-      </li>
+        </div>
+      </section>
     }
-    </ul>
-  }
 
-  @worldview.worldviewCategories.map { worldviewCategory =>
-    <div class="worldview-category">
-      <section id="@worldviewCategory.slug"><h2>@worldviewCategory.description.html</h2></section>
-      @worldviewCategory.worldviewPositions.map { worldviewPosition =>
-        @views.html.contentbox(slug = worldviewPosition.itemSlug, title = Some(worldviewPosition.summary.html)) {
-          <p>@worldviewPosition.details.html</p>
-        }
-      }
-    </div>
-  }
-
-  <div class="worldview-references">
-    <section id="references"><h2>Références</h2></section>
-    <ul class="list-unstyled">
-      @worldview.references.map { reference =>
-        <li>@reference.html</li>
-      }
-    </ul>
+    <section class="statement-group" id="references">
+      <h2>Références</h2>
+      <ul class="prose">
+        @worldview.references.map { reference => <li>@reference.html</li> }
+      </ul>
+    </section>
   </div>
 }

@@ -1,61 +1,28 @@
-@import models.lifelogging.{ Movie, Movies, Title }
+@import models.lists.{Movie, Movies}
 
 @(movies: Movies)
 
-@otherTitles(otherTitles: Seq[Title]) = {
-  @otherTitles.map(title => s"${title.title} (${title.locale.getDisplayName(java.util.Locale.ENGLISH)})").mkString(", ")
+@language(locale: java.util.Locale) = @{ locale.getDisplayName(java.util.Locale.ENGLISH) }
+
+@* The director and the theater are unknown for part of the oldest entries *@
+@facts(movie: Movie) = @{
+  val director = Some(movie.director.trim).filter(_.nonEmpty)
+  val seen = movie.theater.fold(theater => Some(theater.trim).filter(_.nonEmpty).map(theater => s"seen at $theater"), _ => Some("seen at home"))
+  val version = movie.version.map(version => s"${language(version)} version")
+  val parts = Seq(director, seen, version).flatten
+  parts.headOption.map(_.capitalize).toSeq ++ parts.drop(1)
 }
 
-@header = {
-  <tr class="list-header">
-    <th class="col-md-1">Date</th>
-    <th class="col-md-2">Theater</th>
-    <th class="col-md-4">Director</th>
-    <th class="col-md-4">Title</th>
-    <th class="col-md-1">Rating</th>
-  </tr>
-}
-
-@rowFromItem(listItem: ListItem, trClass: String) = {
-  @defining(listItem.asInstanceOf[Movie]) { movie =>
-    <tr class="list-details @trClass">
-      <td>@sluganddate(movie)</td>
-      <td>@movie.theater.fold(theater => theater, _.description)</td>
-      <td>@movie.director</td>
-      <td>@{
-        val mainTitle = movie.url.fold[xml.NodeSeq](xml.Text(movie.title))(url => <a href={url.toString}>{movie.title}</a>)
-
-        val otherTitles = movie.otherTitles map { title =>
-          val language = title.locale.getDisplayName(java.util.Locale.ENGLISH)
-          <br/> ++ <span class="movie-alternate-title">{s"$language: ${title.title}"}</span>
-        }
-
-        mainTitle ++ otherTitles
-      }</td>
-      <td>@views.html.rating(movie.rating)</td>
-    </tr>
-    @{
-      // Warning: we're manipulating raw HTML here (comments); don't inject it into XML trees
-
-      val rawComments = movie.comments.map(comments => s"<p>${comments.html}</p>").getOrElse("")
-
-
-      val rawVersion = movie.version map { version =>
-        s"<p>Version: ${version.getDisplayName(java.util.Locale.ENGLISH)}</p>"
-      } getOrElse ""
-
-      val allComments = rawComments + rawVersion
-
-      if (allComments.nonEmpty) {
-        val Quote = "\""
-        Html(s"<tr><td colspan=${Quote}5${Quote}>$allComments</td></tr>")
-      }
+@item(movie: Movie) = {
+  @entry(movie, movie.rating, movie.comments) {
+    @movie.url match {
+      case Some(url) => { <a href="@url.toString">@movie.title</a> }
+      case None => { @movie.title }
     }
+  } {
+    @movie.otherTitles.map { title => <p><em>@title.title</em> (@language(title.locale))</p> }
+    @Some(facts(movie)).filter(_.nonEmpty).map { facts => <p>@facts.mkString(", ")</p> }
   }
 }
 
-@list(
-  page = Sitemap.movies,
-  cacheable = movies,
-  header = header,
-  rowFromItem = rowFromItem)
+@list(Sitemap.movies, movies, movies.listItems.map(movie => movie -> item(movie)))

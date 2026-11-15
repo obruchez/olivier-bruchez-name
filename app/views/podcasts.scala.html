@@ -1,33 +1,19 @@
-@import models.lifelogging.{ Podcast, Podcasts }
+@import models.lists.{Podcast, Podcasts}
 
 @(podcasts: Podcasts)
 
-@header = {
-  <tr class="list-header">
-    <th class="col-md-1">Date</th>
-    <th class="col-md-4">Name</th>
-    <th class="col-md-1">#</th>
-    <th class="col-md-6">Episode</th>
-  </tr>
-}
-
-@rowFromItem(listItem: ListItem, trClass: String) = {
-  @defining(listItem.asInstanceOf[Podcast]) { podcast =>
-    <tr class="list-details @trClass">
-      <td>@sluganddate(podcast)</td>
-      <td>@{podcast.url.fold[xml.NodeSeq](xml.Text(podcast.name))(url => <a href={url.toString}>{podcast.name}</a>)}</td>
-      <td>@{podcast.episodeNumber.fold("-")(_.toString)}</td>
-      <td>@{podcast.episodeUrl.fold[xml.NodeSeq](xml.Text(podcast.episodeName))(url => <a href={url.toString}>{podcast.episodeName}</a>)}</td>
-    </tr>
-    @podcast.comments.map { comments =>
-      <tr><td colspan="4">@comments.html</td></tr>
+@item(podcast: Podcast) = {
+  @entry(podcast, comments = podcast.comments) {
+    @podcast.episodeUrl match {
+      case Some(url) => { <a href="@url.toString">@podcast.episodeName</a> }
+      case None => { @podcast.episodeName }
     }
+  } {
+    <p>@podcast.url match {
+      case Some(url) => { <a href="@url.toString">@podcast.name</a> }
+      case None => { @podcast.name }
+    }@podcast.episodeNumber.map { number =>, episode @number}</p>
   }
 }
 
-@list(
-  page = Sitemap.podcasts,
-  cacheable = podcasts,
-  header = header,
-  rowFromItem = rowFromItem,
-  nextItemsTitle = Some("Currently listening to"))
+@list(Sitemap.podcasts, podcasts, podcasts.listItems.map(podcast => podcast -> item(podcast)))

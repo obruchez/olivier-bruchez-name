@@ -1,15 +1,10 @@
 @(page: Page)
 
-<!--=== Footer Version 1 ===-->
-<div class="footer-v1 sticky-footer">
-    <div class="copyright">
-        <div class="container">
-            <div class="row">
-                <div class="col-md-6">
-                    <p>&copy; @Footer.copyrightYears Olivier Bruchez</p>
-                </div>
-            </div>
-        </div>
-    </div><!--/copyright-->
-</div>
-<!--=== End Footer Version 1 ===-->
+<footer class="site-footer">
+  <span>&copy; @Footer.copyrightYears Olivier Bruchez</span>
+  @Some(page.fetchables).filter(_.size == 1).filter(_ => page != Sitemap.cv).map(_.head).filter(_.sourceUrl.getProtocol.startsWith("http")).map { fetchable =>
+    <a href="@fetchable.sourceUrl.toString">Source data for this page</a>
+  }
+  <a href="@routes.Application.feed">Feed</a>
+  <a href="https://github.com/obruchez/olivier-bruchez-name">Source code</a>
+</footer>

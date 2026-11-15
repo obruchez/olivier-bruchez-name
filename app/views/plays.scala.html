@@ -1,43 +1,24 @@
-@import models.lifelogging.{ Play, Plays }
+@import models.lists.{Play, Plays}
 
 @(plays: Plays)
 
-@header = {
-  <tr class="list-header">
-    <th class="col-md-1">Date</th>
-    <th class="col-md-3">Location</th>
-    <th class="col-md-3">Name</th>
-    <th class="col-md-4">Credits</th>
-    <th class="col-md-1">Rating</th>
-  </tr>
+@playCredits(item: Play) = @{
+  Seq(
+    "Author" -> item.authors,
+    "Director" -> item.directors,
+    "Adaptation" -> item.adaptations,
+    "Translation" -> item.translations,
+    "Actors" -> item.actors
+  ).filter(_._2.nonEmpty).map { case (role, names) => role -> names.mkString(", ") }
 }
 
-@rowFromItem(listItem: ListItem, trClass: String) = {
-  @defining(listItem.asInstanceOf[Play]) { play =>
-    <tr class="list-details @trClass">
-      <td>@sluganddate(play)</td>
-      <td>@play.location</td>
-      <td>@play.name</td>
-      <td>@{
-        val paragraphs =
-          Seq(s"Author: ${play.authors.mkString(", ")}", s"Director: ${play.directors.mkString(", ")}") ++
-          (if (play.adaptations.isEmpty) Seq() else Seq(s"Adaptation: ${play.adaptations.mkString(", ")}")) ++
-          (if (play.translations.isEmpty) Seq() else Seq(s"Translation: ${play.translations.mkString(", ")}")) ++
-          (if (play.actors.isEmpty) Seq() else Seq(s"Actors: ${play.actors.mkString(", ")}"))
-
-        paragraphs.map(paragraph => <p>{paragraph}</p>).foldLeft(xml.NodeSeq.Empty)(_ ++ _)
-      }</td>
-      <td>@views.html.rating(play.rating)</td>
-    </tr>
-    @play.comments.map { comments =>
-      <tr><td colspan="5">@comments.html</td></tr>
-    }
+@row(item: Play) = {
+  @entry(item, item.rating, item.comments) {
+    @item.name
+  } {
+    <p>@item.location</p>
+    @credits(playCredits(item))
   }
 }
 
-@list(
-  page = Sitemap.plays,
-  cacheable = plays,
-  header = header,
-  rowFromItem = rowFromItem,
-  nextItemsTitle = Some("Upcoming plays"))
+@list(Sitemap.plays, plays, plays.listItems.map(p => p -> row(p)))

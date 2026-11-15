@@ -1,240 +1,130 @@
 @import models.statistics._
+
 @(statistics: Statistics)
 
 @scripts = {
-  <script type="text/javascript" src="@routes.Assets.at("plugins/chart.min.js")"></script>
+  <script defer src="@routes.Assets.at("vendor/chartjs/chart.umd.min.js")"></script>
 }
 
-@pieChart(values: Seq[(Int, String)], entity: String, title: String, threshold: Int) = {
-  @{
-    val pieChart = PieChart(
-      baseId = title.split("[ \\(\\)]").filter(_.nonEmpty).map(_.toLowerCase).mkString("-"),
-      title = title,
-      entityName = entity,
-      valueUnit = "Count",
-      values,
-      threshold = Some(threshold),
-      maxValueCount = Some(17))
+@slug(title: String) = @{ title.split("[ \\(\\)]").filter(_.nonEmpty).map(_.toLowerCase).mkString("-") }
 
-    views.html.piechartsection(pieChart)
-  }
+@rank(values: Seq[(Int, String)], title: String, threshold: Int, note: Option[String] = None) = {
+  @ranking(slug(title), title, values, threshold, note)
 }
 
 @ratingsDistribution(ratings: Seq[(String, Int)], entity: String) = {
-  @{
-    val barChart = BarOrLineChart(
-      baseId = s"${entity.toLowerCase.replace(' ', '-')}-ratings-distribution",
-      title = s"$entity ratings (distribution)",
-      labels = ratings.map(_._1),
-      valueSets = Seq(BarOrLineChartValueSet(values = ratings.map(_._2), label = "Count", color = Color.Gray)))
-
-    views.html.barchartsection(barChart)
+  @defining(s"$entity ratings (distribution)") { title =>
+    @chart(slug(title), title, "bars", ratings.map(_._1), Seq("Count" -> ratings.map(_._2.toDouble)))
   }
 }
 
 @ratingsEvolution(ratings: Seq[(String, MinAvgMax)], entity: String) = {
-  @{
-    val lineChart = BarOrLineChart(
-      baseId = s"${entity.toLowerCase.replace(' ', '-')}-ratings-evolution",
-      title = s"$entity ratings (evolution)",
-      labels = ratings.map(_._1),
-      valueSets = Seq(
-        BarOrLineChartValueSet(values = ratings.map(_._2.min), label = "Min", color = Color.Green),
-        BarOrLineChartValueSet(values = ratings.map(_._2.avg), label = "Avg", color = Color.Red),
-        BarOrLineChartValueSet(values = ratings.map(_._2.max), label = "Max", color = Color.Blue)),
-      minYValue = Some(0.0),
-      maxYValue = Some(5.0))
-
-    views.html.linechartsection(lineChart)
+  @defining(s"$entity ratings (evolution)") { title =>
+    @chart(
+      slug(title),
+      title,
+      "range",
+      ratings.map(_._1),
+      Seq("Average" -> ratings.map(_._2.avg), "Lowest" -> ratings.map(_._2.min), "Highest" -> ratings.map(_._2.max)),
+      Some("The line is the yearly average; the band runs from the lowest to the highest rating of the year."))
   }
 }
 
 @yearlyCounts(counts: Seq[(String, Int)], entity: String) = {
-@{
-  val lineChart = BarOrLineChart(
-    baseId = s"${entity.toLowerCase.replace(' ', '-')}-counts",
-    title = s"$entity counts",
-    labels = counts.map(_._1),
-    valueSets = Seq(BarOrLineChartValueSet(values = counts.map(_._2.toDouble), label = "Count", color = Color.Red)))
-
-  views.html.linechartsection(lineChart)
-}
-}
-
-@main(Sitemap.statistics, scripts) {
-  @toc("Contents", "show", "hide") {
-    <ul class="list-unstyled">
-      <li>1 <a href="#ballets">Ballets</a>
-        <ul class="list-unstyled">
-          <li>1.1 <a href="#most-seen-ballet-companies">Most seen ballet companies</a></li>
-          <li>1.2 <a href="#most-seen-ballet-choreographers">Most seen ballet choreographers</a></li>
-          <li>1.3 <a href="#ballet-ratings-distribution">Ballet ratings (distribution)</a></li>
-          <li>1.4 <a href="#ballet-ratings-evolution">Ballet ratings (evolution)</a></li>
-          <li>1.5 <a href="#ballet-counts">Ballet counts</a></li>
-        </ul>
-      </li>
-      <li>2 <a href="#books">Books</a>
-        <ul class="list-unstyled">
-          <li>2.1 <a href="#most-read-book-authors">Most read book authors</a></li>
-          <li>2.2 <a href="#book-ratings-distribution">Book ratings (distribution)</a></li>
-          <li>2.3 <a href="#book-ratings-evolution">Book ratings (evolution)</a></li>
-          <li>2.4 <a href="#book-counts">Book counts</a></li>
-        </ul>
-      </li>
-      <li>3 <a href="#comedy-shows">Comedy shows</a>
-        <ul class="list-unstyled">
-          <li>3.1 <a href="#most-seen-comedians">Most seen comedians</a></li>
-          <li>3.2 <a href="#most-visited-comedy-venues">Most visited comedy venues</a></li>
-          <li>3.3 <a href="#comedy-show-ratings-distribution">Comedy show ratings (distribution)</a></li>
-          <li>3.4 <a href="#comedy-show-ratings-evolution">Comedy show ratings (evolution)</a></li>
-          <li>3.5 <a href="#comedy-show-counts">Comedy show counts</a></li>
-        </ul>
-      </li>
-      <li>4 <a href="#concerts">Concerts</a>
-        <ul class="list-unstyled">
-          <li>4.1 <a href="#most-seen-concert-artists">Most seen concert artists</a></li>
-          <li>4.2 <a href="#most-seen-concert-artists-main-musicians-only">Most seen concert artists (main musicians only)</a></li>
-          <li>4.3 <a href="#most-visited-concert-venues">Most visited concert venues</a></li>
-          <li>4.4 <a href="#concert-ratings-distribution">Concert ratings (distribution)</a></li>
-          <li>4.5 <a href="#concert-ratings-evolution">Concert ratings (evolution)</a></li>
-          <li>4.6 <a href="#concert-counts">Concert counts</a></li>
-        </ul>
-      </li>
-      <li>5 <a href="#movies">Movies</a>
-        <ul class="list-unstyled">
-          <li>5.1 <a href="#most-seen-movies">Most seen movies</a></li>
-          <li>5.2 <a href="#most-seen-movie-directors">Most seen movie directors</a></li>
-          <li>5.3 <a href="#movie-ratings-distribution">Movie ratings (distribution)</a></li>
-          <li>5.4 <a href="#movie-ratings-evolution">Movie ratings (evolution)</a></li>
-          <li>5.5 <a href="#movie-counts">Movie counts</a></li>
-        </ul>
-      </li>
-      <li>6 <a href="#operas">Operas</a>
-        <ul class="list-unstyled">
-          <li>6.1 <a href="#most-seen-opera-composers">Most seen opera composers</a></li>
-          <li>6.2 <a href="#most-visited-opera-houses">Most visited opera houses</a></li>
-          <li>6.3 <a href="#opera-ratings-distribution">Opera ratings (distribution)</a></li>
-          <li>6.4 <a href="#opera-ratings-evolution">Opera ratings (evolution)</a></li>
-          <li>6.5 <a href="#opera-counts">Opera counts</a></li>
-        </ul>
-      </li>
-      <li>7 <a href="#plays">Plays</a>
-        <ul class="list-unstyled">
-          <li>7.1 <a href="#most-seen-play-authors">Most seen play authors</a></li>
-          <li>7.2 <a href="#most-seen-play-directors">Most seen play directors</a></li>
-          <li>7.3 <a href="#most-seen-play-actor">Most seen play actor</a></li>
-          <li>7.4 <a href="#most-visited-theatres">Most visited theatres</a></li>
-          <li>7.5 <a href="#play-ratings-distribution">Play ratings (distribution)</a></li>
-          <li>7.6 <a href="#play-ratings-evolution">Play ratings (evolution)</a></li>
-          <li>7.7 <a href="#play-counts">Play counts</a></li>
-        </ul>
-      </li>
-      <li>8 <a href="#podcasts">Podcasts</a>
-        <ul class="list-unstyled">
-          <li>8.1 <a href="#most-listened-to-podcasts">Most listened to podcasts</a></li>
-          <li>8.2 <a href="#podcast-counts">Podcast counts</a></li>
-        </ul>
-      </li>
-    </ul>
+  @defining(s"$entity counts") { title =>
+    @chart(slug(title), title, "bars", counts.map(_._1), Seq("Count" -> counts.map(_._2.toDouble)))
   }
+}
 
-  <div class="headline"><a name="ballets"></a><h2>Ballets</h2></div>
+@main(Sitemap.statistics, scripts = scripts) {
+  <div class="lead-in"><p>A few numbers drawn from the lists. Ratings go from 0 to 5.</p></div>
 
-  @pieChart(statistics.mostSeenBalletCompanies, "Company", "Most seen ballet companies", threshold = 1)
+  <nav class="page-nav page-nav-sticky year-nav" aria-label="Sections"><a href="#ballets">Ballets</a> <a href="#books">Books</a> <a href="#comedy-shows">Comedy shows</a> <a href="#concerts">Concerts</a> <a href="#movies">Movies</a> <a href="#operas">Operas</a> <a href="#plays">Plays</a> <a href="#podcasts">Podcasts</a></nav>
 
-  @pieChart(statistics.mostSeenBalletChoreographers, "Choreographer", "Most seen ballet choreographers", threshold = 1)
+  <section class="stat-section" id="ballets">
+    <h2><a href="#ballets">Ballets</a></h2>
+    <div class="stat-grid">
+      @rank(statistics.mostSeenBalletCompanies, "Most seen ballet companies", 1)
+      @rank(statistics.mostSeenBalletChoreographers, "Most seen ballet choreographers", 1)
+      @ratingsDistribution(statistics.balletRatingsDistribution, "Ballet")
+      @ratingsEvolution(statistics.balletRatingsEvolution, "Ballet")
+      @yearlyCounts(statistics.balletYearlyCounts, "Ballet")
+    </div>
+  </section>
 
-  @ratingsDistribution(statistics.balletRatingsDistribution, "Ballet")
+  <section class="stat-section" id="books">
+    <h2><a href="#books">Books</a></h2>
+    <div class="stat-grid">
+      @rank(statistics.mostReadBookAuthors, "Most read book authors", 2)
+      @ratingsDistribution(statistics.bookRatingsDistribution, "Book")
+      @ratingsEvolution(statistics.bookRatingsEvolution, "Book")
+      @yearlyCounts(statistics.bookYearlyCounts, "Book")
+    </div>
+  </section>
 
-  @ratingsEvolution(statistics.balletRatingsEvolution, "Ballet")
+  <section class="stat-section" id="comedy-shows">
+    <h2><a href="#comedy-shows">Comedy shows</a></h2>
+    <div class="stat-grid">
+      @rank(statistics.mostSeenComedians, "Most seen comedians", 2)
+      @rank(statistics.mostVisitedComedyVenues, "Most visited comedy venues", 2)
+      @ratingsDistribution(statistics.comedyShowRatingsDistribution, "Comedy show")
+      @ratingsEvolution(statistics.comedyShowRatingsEvolution, "Comedy show")
+      @yearlyCounts(statistics.comedyShowYearlyCounts, "Comedy show")
+    </div>
+  </section>
 
-  @yearlyCounts(statistics.balletYearlyCounts, "Ballet")
+  <section class="stat-section" id="concerts">
+    <h2><a href="#concerts">Concerts</a></h2>
+    <div class="stat-grid">
+      @rank(statistics.mostSeenConcertArtists(mainMusiciansOnly = false), "Most seen concert artists", 6)
+      @rank(statistics.mostSeenConcertArtists(mainMusiciansOnly = true), "Most seen concert artists (main musicians only)", 4)
+      @rank(statistics.mostVisitedConcertVenues, "Most visited concert venues", 3, Some("Venues are counted at most once per day."))
+            @ratingsDistribution(statistics.concertRatingsDistribution, "Concert")
+      @ratingsEvolution(statistics.concertRatingsEvolution, "Concert")
+      @yearlyCounts(statistics.concertYearlyCounts, "Concert")
+    </div>
+  </section>
 
-  <div class="headline"><a name="books"></a><h2>Books</h2></div>
+  <section class="stat-section" id="movies">
+    <h2><a href="#movies">Movies</a></h2>
+    <div class="stat-grid">
+      @rank(statistics.mostSeenMovies, "Most seen movies", 2)
+      @rank(statistics.mostSeenMovieDirectors, "Most seen movie directors", 4)
+      @ratingsDistribution(statistics.movieRatingsDistribution, "Movie")
+      @ratingsEvolution(statistics.movieRatingsEvolution, "Movie")
+      @yearlyCounts(statistics.movieYearlyCounts, "Movie")
+    </div>
+  </section>
 
-  @pieChart(statistics.mostReadBookAuthors, "Author", "Most read book authors", threshold = 2)
+  <section class="stat-section" id="operas">
+    <h2><a href="#operas">Operas</a></h2>
+    <div class="stat-grid">
+      @rank(statistics.mostSeenOperaComposers, "Most seen opera composers", 2)
+      @rank(statistics.mostVisitedOperaHouses, "Most visited opera houses", 1)
+      @ratingsDistribution(statistics.operaRatingsDistribution, "Opera")
+      @ratingsEvolution(statistics.operaRatingsEvolution, "Opera")
+      @yearlyCounts(statistics.operaYearlyCounts, "Opera")
+    </div>
+  </section>
 
-  @ratingsDistribution(statistics.bookRatingsDistribution, "Book")
+  <section class="stat-section" id="plays">
+    <h2><a href="#plays">Plays</a></h2>
+    <div class="stat-grid">
+      @rank(statistics.mostSeenPlayAuthors, "Most seen play authors", 2)
+      @rank(statistics.mostSeenPlayDirectors, "Most seen play directors", 2)
+      @rank(statistics.mostSeenPlayActors, "Most seen play actor", 3)
+      @rank(statistics.mostVisitedPlayTheatre, "Most visited theatres", 2)
+      @ratingsDistribution(statistics.playRatingsDistribution, "Play")
+      @ratingsEvolution(statistics.playRatingsEvolution, "Play")
+      @yearlyCounts(statistics.playYearlyCounts, "Play")
+    </div>
+  </section>
 
-  @ratingsEvolution(statistics.bookRatingsEvolution, "Book")
-
-  @yearlyCounts(statistics.bookYearlyCounts, "Book")
-
-  <div class="headline"><a name="comedy-shows"></a><h2>Comedy shows</h2></div>
-
-  @pieChart(statistics.mostSeenComedians, "Comedian", "Most seen comedians", threshold = 2)
-
-  @pieChart(statistics.mostVisitedComedyVenues, "Venue", "Most visited comedy venues", threshold = 2)
-
-  @ratingsDistribution(statistics.comedyShowRatingsDistribution, "Comedy show")
-
-  @ratingsEvolution(statistics.comedyShowRatingsEvolution, "Comedy show")
-
-  @yearlyCounts(statistics.comedyShowYearlyCounts, "Comedy show")
-
-  <div class="headline"><a name="concerts"></a><h2>Concerts</h2></div>
-
-  @pieChart(statistics.mostSeenConcertArtists(mainMusiciansOnly = false), "Artist", "Most seen concert artists", threshold = 6)
-
-  @pieChart(
-    statistics.mostSeenConcertArtists(mainMusiciansOnly = true),
-    "Artist",
-    "Most seen concert artists (main musicians only)",
-    threshold = 4)
-
-  @pieChart(statistics.mostVisitedConcertVenues, "Concert venue", "Most visited concert venues", threshold = 3)
-
-  <p>Note: venues are counted at most once per day.</p>
-
-  @ratingsDistribution(statistics.concertRatingsDistribution, "Concert")
-
-  @ratingsEvolution(statistics.concertRatingsEvolution, "Concert")
-
-  @yearlyCounts(statistics.concertYearlyCounts, "Concert")
-
-  <div class="headline"><a name="movies"></a><h2>Movies</h2></div>
-
-  @pieChart(statistics.mostSeenMovies, "Movie", "Most seen movies", threshold = 2)
-
-  @pieChart(statistics.mostSeenMovieDirectors, "Director", "Most seen movie directors", threshold = 4)
-
-  @ratingsDistribution(statistics.movieRatingsDistribution, "Movie")
-
-  @ratingsEvolution(statistics.movieRatingsEvolution, "Movie")
-
-  @yearlyCounts(statistics.movieYearlyCounts, "Movie")
-
-  <div class="headline"><a name="operas"></a><h2>Operas</h2></div>
-
-  @pieChart(statistics.mostSeenOperaComposers, "Composer", "Most seen opera composers", threshold = 2)
-
-  @pieChart(statistics.mostVisitedOperaHouses, "Opera house", "Most visited opera houses", threshold = 1)
-
-  @ratingsDistribution(statistics.operaRatingsDistribution, "Opera")
-
-  @ratingsEvolution(statistics.operaRatingsEvolution, "Opera")
-
-  @yearlyCounts(statistics.operaYearlyCounts, "Opera")
-
-  <div class="headline"><a name="plays"></a><h2>Plays</h2></div>
-
-  @pieChart(statistics.mostSeenPlayAuthors, "Author", "Most seen play authors", threshold = 2)
-
-  @pieChart(statistics.mostSeenPlayDirectors, "Director", "Most seen play directors", threshold = 2)
-
-  @pieChart(statistics.mostSeenPlayActors, "Actor", "Most seen play actor", threshold = 3)
-
-  @pieChart(statistics.mostVisitedPlayTheatre, "Theatre", "Most visited theatres", threshold = 2)
-
-  @ratingsDistribution(statistics.playRatingsDistribution, "Play")
-
-  @ratingsEvolution(statistics.playRatingsEvolution, "Play")
-
-  @yearlyCounts(statistics.playYearlyCounts, "Play")
-
-  <div class="headline"><a name="podcasts"></a><h2>Podcasts</h2></div>
-
-  @pieChart(statistics.mostListenedToPodcasts, "Podcast", "Most listened to podcasts", threshold = 2)
-
-  @yearlyCounts(statistics.podcastYearlyCounts, "Podcast")
+  <section class="stat-section" id="podcasts">
+    <h2><a href="#podcasts">Podcasts</a></h2>
+    <div class="stat-grid">
+      @rank(statistics.mostListenedToPodcasts, "Most listened to podcasts", 2)
+      @yearlyCounts(statistics.podcastYearlyCounts, "Podcast")
+    </div>
+  </section>
 }

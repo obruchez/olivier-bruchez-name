@@ -1,44 +1,22 @@
-@import models.lifelogging.{ Opera, Operas, Performer }
+@import models.lists.{Opera, Operas, Performer}
 
 @(operas: Operas)
 
-@header = {
-  <tr class="list-header">
-    <th class="col-md-1">Date</th>
-    <th class="col-md-3">Location</th>
-    <th class="col-md-2">Name</th>
-    <th class="col-md-5">Credits</th>
-    <th class="col-md-1">Rating</th>
-  </tr>
+@operaCredits(opera: Opera) = @{
+  (if (opera.composers.isEmpty) Seq() else Seq("Composer" -> opera.composers.mkString(", "))) ++
+    (if (opera.directors.isEmpty) Seq() else Seq("Director" -> opera.directors.mkString(", "))) ++
+    Performer.byRole(opera.performers).map { case (role, names) =>
+      role.fold("With")(_.capitalize) -> names.mkString(", ")
+    }
 }
 
-@rowFromItem(listItem: ListItem, trClass: String) = {
-  @defining(listItem.asInstanceOf[Opera]) { opera =>
-    <tr class="list-details @trClass">
-      <td>@sluganddate(opera)</td>
-      <td>@opera.location</td>
-      <td>@opera.name</td>
-      <td>@{
-        val paragraphs =
-          (if (opera.composers.isEmpty) Seq() else Seq(s"Composer: ${opera.composers.mkString(", ")}")) ++
-          (if (opera.directors.isEmpty) Seq() else Seq(s"Director: ${opera.directors.mkString(", ")}")) ++
-          Performer.byRole(opera.performers).map { case (role, names) =>
-            role.map(_.capitalize + ": ").getOrElse("") + names.mkString(", ")
-          }
-
-        paragraphs.map(paragraph => <p>{paragraph}</p>).foldLeft(xml.NodeSeq.Empty)(_ ++ _)
-      }</td>
-      <td>@views.html.rating(opera.rating)</td>
-    </tr>
-    @opera.comments.map { comments =>
-      <tr><td colspan="5">@comments.html</td></tr>
-    }
+@item(opera: Opera) = {
+  @entry(opera, opera.rating, opera.comments) {
+    @opera.name
+  } {
+    <p>@opera.location</p>
+    @credits(operaCredits(opera))
   }
 }
 
-@list(
-  page = Sitemap.operas,
-  cacheable = operas,
-  header = header,
-  rowFromItem = rowFromItem,
-  nextItemsTitle = Some("Upcoming operas"))
+@list(Sitemap.operas, operas, operas.listItems.map(opera => opera -> item(opera)))

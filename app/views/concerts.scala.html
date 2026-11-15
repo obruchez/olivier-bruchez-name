@@ -1,54 +1,23 @@
-@import models.lifelogging.{ Concert, Concerts, Musician }
+@import models.lists.{Concert, Concerts, Musician, NormalConcert}
 
 @(concerts: Concerts)
 
-@musicians(band: Option[String], musicians: Seq[Musician]) = {
-  @band.map { band =>
-    <strong>@band</strong>@if(musicians.nonEmpty) {: }
-  }
-  @musicians.zipWithIndex.map { case (musician, index) =>
-    @defining(Concerts.commaOrAnd(index = index, totalCount = musicians.size)) { separator =>
-      @if((musician.main || musicians.size == 1) && band.isEmpty) {
-        <strong>@musician.name</strong>@separator
-      } else {
-        @musician.name@separator
-      }
-    }
-  }
+@lineUp(concert: Concert) = @{
+  // The line-up only adds something if it says more than the title already does
+  val detailed = concert.musicians.exists(_.instrument.nonEmpty) || concert.band.nonEmpty || concert.musicians.exists(!_.main)
+  if (detailed)
+    concert.musicians.map(musician => musician.name + musician.instrument.fold("")(instrument => s" ($instrument)")).mkString(", ")
+  else
+    ""
 }
 
-@header = {
-  <tr class="list-header">
-    <th class="col-md-1">Date</th>
-    <th class="col-md-6">Musicians</th>
-    <th class="col-md-4">Location / event</th>
-    <th class="col-md-1">Rating</th>
-  </tr>
-}
-
-@rowFromItem(listItem: ListItem, trClass: String) = {
-  @defining(listItem.asInstanceOf[Concert]) { concert =>
-    <tr class="list-details @trClass">
-      <td>@sluganddate(concert)</td>
-      <td><p>@musicians(concert.band, concert.musicians)</p></td>
-      <td>@{
-        val location = xml.Text(concert.location)
-
-        val event = concert.event.map(event => <br/> ++ <span class="concert-event">{event}</span>)
-
-        location ++ event
-      }</td>
-      <td>@views.html.rating(concert.rating)</td>
-    </tr>
-    @concert.comments.map { comments =>
-      <tr><td colspan="4">@comments.html</td></tr>
-    }
+@item(concert: Concert) = {
+  @entry(concert, concert.rating, concert.comments) {
+    @Musician.musiciansSummary(concert.band, concert.musicians, concert.event)@if(concert.concertType != NormalConcert) {<span class="entry-subtitle"> (@concert.concertType.id)</span>}
+  } {
+    @Some(lineUp(concert)).filter(_.nonEmpty).map { lineUp => <p>@lineUp</p> }
+    <p>@concert.location@concert.event.map { event =>, <em>@event</em>}</p>
   }
 }
 
-@list(
-  page = Sitemap.concerts,
-  cacheable = concerts,
-  header = header,
-  rowFromItem = rowFromItem,
-  nextItemsTitle = Some("Upcoming concerts"))
+@list(Sitemap.concerts, concerts, concerts.listItems.map(concert => concert -> item(concert)))

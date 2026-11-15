@@ -9,16 +9,16 @@ import play.api.Logging
 
 import scala.collection.mutable
 import scala.concurrent.duration._
-import scala.concurrent.{ExecutionContextExecutor, Future}
+import scala.concurrent.{ExecutionContext, Future}
 
 sealed trait CacheMessage
-case class GetCache[F <: Fetchable](fetchable: F) extends CacheMessage
-case class SetCache[F <: Fetchable](fetchable: F, cacheable: F#C) extends CacheMessage
-case class GetCachingTime[F <: Fetchable](fetchable: F) extends CacheMessage
+case class GetCache(fetchable: Fetchable) extends CacheMessage
+case class SetCache(fetchable: Fetchable, cacheable: Cacheable) extends CacheMessage
+case class GetCachingTime(fetchable: Fetchable) extends CacheMessage
 
 sealed trait CacheResultMessage
-case class CacheResult[F <: Fetchable](fetchable: F, cacheable: F#C) extends CacheResultMessage
-case class CachingTimeResult[F <: Fetchable](fetchable: F, cachingTime: Option[DateTime])
+case class CacheResult(fetchable: Fetchable, cacheable: Cacheable) extends CacheResultMessage
+case class CachingTimeResult(fetchable: Fetchable, cachingTime: Option[DateTime])
     extends CacheResultMessage
 
 class Cache extends Actor with Logging {
@@ -29,11 +29,11 @@ class Cache extends Actor with Logging {
 
   def receive: Receive = {
     case GetCache(fetchable) =>
-      logger.info(s"GetCache(${fetchable.name})")
+      logger.debug(s"GetCache(${fetchable.name})")
 
       cachedValues.get(fetchable) match {
         case Some(cachedValue) =>
-          sender() ! CacheResult(fetchable, cachedValue.cacheable.asInstanceOf[fetchable.C])
+          sender() ! CacheResult(fetchable, cachedValue.cacheable)
         case None =>
           subscribers(fetchable) = subscribers(fetchable) :+ sender()
       }
@@ -56,14 +56,17 @@ class Cache extends Actor with Logging {
 }
 
 object Cache {
-  private implicit val timeout: Timeout = Timeout(30.seconds)
-  private implicit val dispatcher: ExecutionContextExecutor = Master.system.dispatcher
+  private given Timeout = Timeout(30.seconds)
+  private given ExecutionContext = Master.system.dispatcher
 
   def fileContent(fileSource: FileSource): Future[FileContent] = get(fileSource)
 
-  def get[F <: Fetchable](fetchable: F): Future[F#C] =
-    ask(Master.cache, GetCache(fetchable)).mapTo[CacheResult[F]].map(_.cacheable)
+  // The cache only ever stores, for a given fetchable, what that fetchable's fetch() returned
+  def get(fetchable: Fetchable): Future[fetchable.C] =
+    ask(Master.cache, GetCache(fetchable))
+      .mapTo[CacheResult]
+      .map(_.cacheable.asInstanceOf[fetchable.C])
 
-  def cachingTime[F <: Fetchable](fetchable: F): Future[Option[DateTime]] =
-    ask(Master.cache, GetCachingTime(fetchable)).mapTo[CachingTimeResult[F]].map(_.cachingTime)
+  def cachingTime(fetchable: Fetchable): Future[Option[DateTime]] =
+    ask(Master.cache, GetCachingTime(fetchable)).mapTo[CachingTimeResult].map(_.cachingTime)
 }

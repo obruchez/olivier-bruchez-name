@@ -1,0 +1,23 @@
+@(slug: String, title: String, values: Seq[(Int, String)], threshold: Int, note: Option[String] = None)
+
+@* Names ranked by count, as bars on a common scale; only names reaching the threshold are listed *@
+@defining(values.filter(_._1 >= threshold).take(15)) { shown =>
+  @if(shown.nonEmpty) {
+    <figure class="stat" id="@slug">
+      <figcaption><a href="#@slug">@title</a></figcaption>
+      <ol class="ranking">
+        @shown.map { case (count, label) =>
+          <li>
+            <span class="ranking-label">@label</span>
+            <span class="ranking-bar"><span style="width: @{100.0 * count / shown.head._1}%"></span></span>
+            <span class="ranking-value">@count</span>
+          </li>
+        }
+      </ol>
+      <p class="stat-note">
+        @if(values.size > shown.size) { @{values.size - shown.size} more with fewer entries. }
+        @note.getOrElse("")
+      </p>
+    </figure>
+  }
+}

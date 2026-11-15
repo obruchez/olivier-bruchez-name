@@ -10,6 +10,7 @@ GET        /profile                          controllers.Application.profile
 GET        /lifeprinciples                   controllers.Application.lifePrinciples
 GET        /worldview                        controllers.Application.worldview
 
+GET        /lists                            controllers.Application.lists
 GET        /lifelogging                      controllers.Application.lifelogging
 
 GET        /articles                         controllers.Application.articles
@@ -32,6 +33,9 @@ GET        /shows                            controllers.Application.shows
 GET        /trips                            controllers.Application.trips
 GET        /votes                            controllers.Application.votes
 
+GET        /projects                         controllers.Application.projects
+GET        /projects/entombed                controllers.Application.entombed
+
 GET        /bookstoread                      controllers.Application.booksToRead
 GET        /moviestowatch                    controllers.Application.moviesToWatch
 GET        /tripstotake                      controllers.Application.tripsToTake
@@ -50,9 +54,12 @@ GET        /blog/*relativePermalink          controllers.BlogPostsController.blo
 
 GET        /contacts                         controllers.Application.contacts
 
-GET        /reload                           controllers.Application.reload
+GET        /reload                           controllers.Application.reload(token: Option[String])
 
-GET        /blogpostcomparison               controllers.Application.blogPostComparison
+GET        /feed.xml                         controllers.Application.feed
+GET        /covers/*path                     controllers.CoversController.cover(path: String)
+GET        /robots.txt                       controllers.Application.robots
+GET        /sitemap.xml                      controllers.Application.sitemapXml
 
 # Map static resources from the /public folder to the /assets URL path
 GET        /assets/*file                     controllers.Assets.at(path="/public", file)

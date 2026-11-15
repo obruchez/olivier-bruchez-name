@@ -1,46 +1,48 @@
 @import models.Cacheable
-@import play.twirl.api.Html
 @import util.Date._
 
-@(page: Page, cacheable: Cacheable, header: Html, rowFromItem: (ListItem, String) => Html, nextItemsTitle: Option[String] = None)
+@(page: Page, cacheable: Cacheable, entries: Seq[(ListItem, Html)])
 
-@table(tableTitle: String, tableSlug: String, items: Seq[ListItem]) = {
+@group(title: String, slug: String, items: Seq[(ListItem, Html)], showCount: Boolean) = {
   @if(items.nonEmpty) {
-    <div class="panel panel-u">
-      <div class="panel-heading panel-title">
-        <a href="#@tableSlug" class="header-link head-link-table-title"><i class="fa fa-link"></i></a>
-        <section id="@tableSlug">
-          <i class="fa fa-calendar"></i>
-          <span class="panel-year">@tableTitle</span>
-          @if(items.filterNot(_.next).nonEmpty) {
-            <span class="pull-right"><span class="badge rounded-2x badge-dark panel-count">@items.size</span></span>
-          }
-        </section>
-      </div>
-      <div class="table-responsive">
-        <table class="table table-bordered lifelogging-table"> <!--  table-striped -->
-          <thead>
-          @header
-          </thead>
-          <tbody>
-          @items.zipWithIndex.map { case (item, index) => @rowFromItem(item, if (index % 2 == 0) "even" else "odd") }
-          </tbody>
-        </table>
-      </div>
-    </div>
+    <section class="year-group @if(!showCount) {year-group-next}" id="@slug">
+      <header class="year-head">
+        <h2><a href="#@slug">@title</a></h2>
+        @if(showCount) { <span class="year-count" data-count>@items.size</span> }
+      </header>
+      @items.map(_._2)
+    </section>
   }
 }
 
 @main(page) {
-  @cacheable.introduction.map { introduction =>
-    @views.html.introduction {
-      @introduction.fullVersion.html <span class="badge rounded-2x badge-dark pull-right">@cacheable.listItems.filterNot(_.next).size</span>
+  @Html(ListIcons.symbol(page))
+  <div class="entries @if(entries.exists(_._1.image.nonEmpty)) {has-covers @Sitemap.coverShapes.getOrElse(page, "")}">
+  @defining(entries.partition(_._1.next)) { case (nextItems, pastItems) =>
+    @defining(pastItems.groupBy(_._1.date.year).toSeq.sortBy(_._1).reverse) { byYear =>
+      <div class="lead-in">
+        @cacheable.introduction.map { introduction => <p>@introduction.fullVersion.html</p> }
+        <p class="list-total"><span data-total>@pastItems.size</span> @if(pastItems.size == 1) {entry} else {entries}@byYear.flatMap(_._1).lastOption.map { firstYear => since @firstYear}.</p>
+      </div>
+
+      <div class="list-tools">
+        <label class="visually-hidden" for="list-filter">Filter this list</label>
+        <input type="search" id="list-filter" class="list-filter" placeholder="Filter this list" autocomplete="off">
+      </div>
+
+      @if(byYear.size > 1) {
+        <nav class="page-nav year-nav" aria-label="Years">
+          @byYear.map { case (year, _) => <a href="#@year.fold("?")(_.toString)">@year.fold("?")(_.toString)</a> }
+        </nav>
+      }
+
+      <p class="list-empty" hidden>Nothing in this list matches your filter.</p>
+
+      @group(Sitemap.nextItemsTitle(page), "next", nextItems, showCount = false)
+      @byYear.map { case (year, items) =>
+        @group(year.fold("Undated")(_.toString), year.fold("?")(_.toString), items, showCount = true)
+      }
     }
   }
-  @defining(cacheable.listItems.partition(_.next)) { case (nextItems, normalItems) =>
-    @table(tableTitle = nextItemsTitle.getOrElse("Next"), tableSlug = "next", nextItems)
-    @normalItems.groupBy(_.date.year).toSeq.sortBy(_._1).reverse.map { case (yearOption, itemsForYear) =>
-      @table(tableTitle = yearOption.fold("?")(_.toString), tableSlug = yearOption.fold("?")(_.toString), itemsForYear)
-    }
-  }
+  </div>
 }

@@ -1,103 +1,57 @@
 @(page: Page, scripts: Html = Html(""))(content: Html)
 
 <!DOCTYPE html>
-<!--[if IE 8]> <html lang="en" class="ie8"> <![endif]-->
-<!--[if IE 9]> <html lang="en" class="ie9"> <![endif]-->
-<!--[if !IE]><!--> <html lang="en"> <!--<![endif]-->
+<html lang="en">
 <head>
-    <title>@page.title - Olivier Bruchez</title>
-
-    <!-- Meta -->
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="">
-    <meta name="author" content="">
-
-    <!-- Favicon -->
-    <link rel="shortcut icon" href="@routes.Assets.at("img/favicon.png")">
-
-    <!-- Web Fonts -->
-    <link rel='stylesheet' href='https://fonts.googleapis.com/css?family=Open+Sans:400,300,600&amp;subset=cyrillic,latin'>
-
-    <!-- CSS Global Compulsory -->
-    <link rel="stylesheet" href="@routes.Assets.at("plugins/bootstrap/css/bootstrap.min.css")">
-    <link rel="stylesheet" href="@routes.Assets.at("css/style.css")">
-
-    <!-- CSS Header and Footer -->
-    <link rel="stylesheet" href="@routes.Assets.at("css/headers/header-default.css")">
-    <link rel="stylesheet" href="@routes.Assets.at("css/footers/footer-v1.css")">
-
-    <!-- CSS Implementing Plugins -->
-    <link rel="stylesheet" href="@routes.Assets.at("plugins/animate.css")">
-    <link rel="stylesheet" href="@routes.Assets.at("plugins/line-icons/line-icons.css")">
-    <link rel="stylesheet" href="@routes.Assets.at("plugins/font-awesome/css/font-awesome.min.css")">
-
-    <!-- CSS Theme -->
-    <!-- Pretty good: blue, dark-red, default, teal -->
-    <link rel="stylesheet" href="@routes.Assets.at("css/theme-colors/default.css")" id="style_color">
-
-    <!-- CSS Page Style -->
-    <link rel="stylesheet" href="@routes.Assets.at("css/pages/page_misc_sticky_footer.css")">
-
-    <!-- CSS Customization -->
-    <link rel="stylesheet" href="@routes.Assets.at("css/custom.css")">
-
-    <!-- JS Global Compulsory -->
-    <script type="text/javascript" src="@routes.Assets.at("plugins/jquery/jquery.min.js")"></script>
-    <script type="text/javascript" src="@routes.Assets.at("plugins/jquery/jquery-migrate.min.js")"></script>
-    <script type="text/javascript" src="@routes.Assets.at("plugins/bootstrap/js/bootstrap.min.js")"></script>
-    <!-- JS Implementing Plugins -->
-    <script type="text/javascript" src="@routes.Assets.at("plugins/back-to-top.js")"></script>
-    <script type="text/javascript" src="@routes.Assets.at("plugins/smoothScroll.js")"></script>
-    <!-- JS Customization -->
-    <script type="text/javascript" src="@routes.Assets.at("js/custom.js")"></script>
-    <!-- JS Page Level -->
-    <script type="text/javascript" src="@routes.Assets.at("js/app.js")"></script>
-    <script type="text/javascript">
-        jQuery(document).ready(function() {
-            App.init();
-        });
-    </script>
-
-    <!--[if lt IE 9]>
-        <script src="@routes.Assets.at("plugins/respond.js")"></script>
-        <script src="@routes.Assets.at("plugins/html5shiv.js")"></script>
-        <script src="@routes.Assets.at("plugins/placeholder-IE-fixes.js")"></script>
-    <![endif]-->
-
-    @scripts
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>@if(page == Sitemap.home) {Olivier Bruchez} else {@page.title - Olivier Bruchez}</title>
+  <meta name="description" content="Olivier Bruchez's personal website: who I am, what I think, and the lists of everything I read, watch, listen to and visit.">
+  <meta name="author" content="Olivier Bruchez">
+  <meta name="color-scheme" content="light dark">
+  <link rel="alternate" type="application/atom+xml" title="Olivier Bruchez: lately" href="@routes.Application.feed">
+  <link rel="icon" href="@routes.Assets.at("img/favicon.png")">
+  <link rel="preload" href="@routes.Assets.at("fonts/literata-latin-wght-normal.woff2")" as="font" type="font/woff2" crossorigin>
+  <link rel="preload" href="@routes.Assets.at("fonts/instrument-sans-latin-wght-normal.woff2")" as="font" type="font/woff2" crossorigin>
+  <script src="@routes.Assets.at("js/theme.js")"></script>
+  <link rel="stylesheet" href="@routes.Assets.at("vendor/bootstrap/bootstrap.min.css")">
+  <link rel="stylesheet" href="@routes.Assets.at("css/site.css")">
+  <script defer src="@routes.Assets.at("vendor/bootstrap/bootstrap.bundle.min.js")"></script>
+  @scripts
+  <script defer src="@routes.Assets.at("js/site.js")"></script>
 </head>
+<body>
+  <a class="visually-hidden-focusable skip-link" href="#content">Skip to content</a>
 
-<body class="font-open-sans larger-font">
+  <header class="topbar d-lg-none">
+    <a class="site-name" href="@Sitemap.home.url">Olivier Bruchez</a>
+    <button class="menu-button" type="button" data-bs-toggle="offcanvas" data-bs-target="#sidebar" aria-controls="sidebar">Menu</button>
+  </header>
 
-<div class="wrapper">
-    @header(page)
-
-    @breadcrumbs(page)
-
-    <div class="container content main-content height-500">
-        @content
-        @Some(page.fetchables).filter(_.size == 1).flatMap(fetchables => Some(fetchables.head)).map { fetchable =>
-            <div class="col-md-12"></div>
-            <div>
-                <span class="pull-right"><a href="@fetchable.sourceUrl.toString"><i class="fa fa-code"></i></a></span>
-            </div>
-        }
+  <div class="layout">
+    <div class="sidebar offcanvas-lg offcanvas-start" tabindex="-1" id="sidebar" aria-label="Site navigation">
+      <div class="sidebar-inner">
+        <div class="sidebar-head">
+          <a class="site-name" href="@Sitemap.home.url">Olivier Bruchez</a>
+          <button type="button" class="btn-close d-lg-none" data-bs-dismiss="offcanvas" data-bs-target="#sidebar" aria-label="Close menu"></button>
+        </div>
+        @navigation(page)
+        <div class="theme-switch" role="group" aria-label="Theme" hidden>
+          <button type="button" data-theme-choice="auto">Auto</button>
+          <button type="button" data-theme-choice="light">Light</button>
+          <button type="button" data-theme-choice="dark">Dark</button>
+        </div>
+      </div>
     </div>
 
-    @footer(page)
-</div>
-
-<!-- Google Analytics -->
-<script type="text/javascript">
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-
-  ga('create', 'UA-807292-6', 'auto');
-  ga('send', 'pageview');
-</script>
-
+    <div class="main">
+      <main id="content" class="content">
+        @breadcrumbs(page)
+        @if(page != Sitemap.home) { <h1 class="page-title">@page.title</h1> }
+        @content
+      </main>
+      @footer(page)
+    </div>
+  </div>
 </body>
 </html>

@@ -1,8 +1,7 @@
 package controllers
 
 import actors.Cache
-import models.Page
-import models.blogger.{Post, Posts}
+import models.blogger.Posts
 import play.api.mvc._
 
 import javax.inject.Inject
@@ -25,14 +24,5 @@ class BlogPostsController @Inject() (implicit
           NotFound
       }
     }
-  }
-
-  implicit class PostOps(post: Post) {
-    def page: Page =
-      Page(
-        title = post.title,
-        url = routes.BlogPostsController.blogPost(post.relativePermalink).url,
-        icon = Sitemap.blog.icon
-      )
   }
 }

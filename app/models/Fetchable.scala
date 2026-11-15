@@ -42,7 +42,6 @@ trait Fetchable {
 
   def name: String
   def sourceUrl: URL
-  def icon: Option[String] = None
   def maximumAge: Duration = new Duration(15.minutes.toMillis)
   def fetch(): Try[C]
 
@@ -57,5 +56,8 @@ trait Fetchable {
     For now, we're using the following workaround.
    */
   def sourceUrlWithNoCacheParameter: URL =
-    new URL(sourceUrl.toString + "?_=" + System.currentTimeMillis())
+    if (sourceUrl.getProtocol.startsWith("http"))
+      util.Url.parse(sourceUrl.toString + "?_=" + System.currentTimeMillis())
+    else
+      sourceUrl // E.g. file: URLs when working on a local copy of the data
 }

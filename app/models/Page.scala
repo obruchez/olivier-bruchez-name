@@ -8,40 +8,49 @@ import scala.concurrent.{ExecutionContext, Future}
 case class Page(
     title: String,
     url: String,
-    icon: Option[String] = None,
     fetchables: Seq[Fetchable] = Seq(),
     groupChildren: Seq[PageGroup] = Seq()
 ) {
   def children: Seq[Page] = groupChildren.flatMap(_.pages)
 }
 
-case class PageGroup(pages: Seq[Page])
+case class PageGroup(pages: Seq[Page], title: Option[String] = None)
 
 object Page {
   def apply(fetchable: Fetchable, call: Call): Page =
-    Page(title = fetchable.name, call.url, icon = fetchable.icon, fetchables = Seq(fetchable))
+    Page(title = fetchable.name, call.url, fetchables = Seq(fetchable))
 
-  def apply(title: String, call: Call, icon: String): Page =
-    Page(title, call.url, icon = Some(icon), groupChildren = Seq())
+  def apply(title: String, call: Call): Page =
+    Page(title, call.url)
 
-  def apply(title: String, call: Call, icon: String, groupChildren: Seq[PageGroup]): Page =
-    Page(title, call.url, icon = Some(icon), groupChildren = groupChildren)
+  def apply(title: String, call: Call, groupChildren: Seq[PageGroup]): Page =
+    Page(title, call.url, groupChildren = groupChildren)
 
-  def introductionsFromPages(
+  /** Introduction and number of (past) list items of each page, from its first fetchable. */
+  def summariesFromPages(
       pages: Seq[Page]
-  )(implicit ec: ExecutionContext): Future[Seq[(Page, Option[Introduction])]] = {
-    val sequenceOfFutures = for (page <- pages) yield {
-      // Take only first fetchable into account
-      val introductionFuture = page.fetchables.headOption match {
-        case Some(fetchable) => Cache.get(fetchable).map(cacheable => cacheable.introduction)
-        case None            => Future(None)
-      }
-      introductionFuture.map(page -> _)
-    }
-
-    Future.sequence(sequenceOfFutures)
-  }
+  )(implicit ec: ExecutionContext): Future[Map[Page, PageSummary]] =
+    Future
+      .sequence(pages.map { page =>
+        val summaryFuture = page.fetchables.headOption match {
+          case Some(fetchable) =>
+            Cache.get(fetchable).map { cacheable =>
+              val pastItems = cacheable.listItems.filterNot(_.next)
+              PageSummary(cacheable.introduction, pastItems.size, pastItems.headOption)
+            }
+          case None =>
+            Future.successful(PageSummary(None, 0, None))
+        }
+        summaryFuture.map(page -> _)
+      })
+      .map(_.toMap)
 }
+
+case class PageSummary(
+    introduction: Option[Introduction],
+    itemCount: Int,
+    latestItem: Option[ListItem]
+)
 
 object PageGroup {
   def singlePageGroup(pages: Page*): Seq[PageGroup] = Seq(PageGroup(pages = pages.toSeq))

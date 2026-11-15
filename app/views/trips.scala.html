@@ -1,35 +1,15 @@
-@import models.lifelogging.{ Trip, Trips }
+@import models.lists.{Trip, Trips}
+@import util.Date._
 
 @(trips: Trips)
 
-@import util.Date._
-
-@header = {
-  <tr class="list-header">
-    <th class="col-md-1">From</th>
-    <th class="col-md-1">To</th>
-    <th class="col-md-4">Place</th>
-    <th class="col-md-6">Pictures</th>
-  </tr>
-}
-
-@rowFromItem(listItem: ListItem, trClass: String) = {
-  @defining(listItem.asInstanceOf[Trip]) { trip =>
-    <tr class="list-details @trClass">
-      <td>@sluganddate(trip)</td>
-      <td>@trip.to.yyyymmddString</td>
-      <td>@trip.place</td>
-      <td>@pictures(trip.pictures, trip.place)</td>
-    </tr>
-    @trip.comments.map { comments =>
-      <tr><td colspan="4">@comments.html</td></tr>
-    }
+@item(trip: Trip) = {
+  @entry(trip, comments = trip.comments) {
+    @trip.place
+  } {
+    <p>@trip.from.intervalEnglishString(trip.to)</p>
+    @pictures(trip.pictures, trip.place)
   }
 }
 
-@list(
-  page = Sitemap.trips,
-  cacheable = trips,
-  header = header,
-  rowFromItem = rowFromItem,
-  nextItemsTitle = Some("Upcoming trips"))
+@list(Sitemap.trips, trips, trips.listItems.map(trip => trip -> item(trip)))

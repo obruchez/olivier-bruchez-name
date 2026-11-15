@@ -1,0 +1,40 @@
+@(item: ListItem, rating: Option[Double] = None, comments: Option[HtmlContent] = None)(title: Html)(details: Html)
+
+@import util.Date._
+
+<article class="entry" @item.itemSlug.map { slug => id="@slug" }>
+  <div class="entry-date">
+    @if(!item.date.emptyDate) {
+      @item.itemSlug match {
+        case Some(slug) => {
+          <a href="#@slug" title="Link to this entry"><time datetime="@item.date.isoString">@item.date.shortEnglishString(withYear = item.next)</time></a>
+        }
+        case None => {
+          <time datetime="@item.date.isoString">@item.date.shortEnglishString(withYear = item.next)</time>
+        }
+      }
+    }
+  </div>
+  @item.image match {
+    case Some(image) => {
+      @item.imageUrl match {
+        case Some(url) => {
+          <a class="entry-cover-link" href="@url" title="See this photo in its album"><img class="entry-cover" src="@routes.CoversController.cover(image)" alt="" loading="lazy" decoding="async"></a>
+        }
+        case None => {
+          <img class="entry-cover" src="@routes.CoversController.cover(image)" alt="" loading="lazy" decoding="async">
+        }
+      }
+    }
+    case None => {
+      @* Only shown in lists that have covers: the pictogram of the list stands in for the missing one *@
+      <span class="entry-cover entry-cover-none" aria-hidden="true"><svg class="list-icon" viewBox="0 0 24 24"><use href="#list-icon"/></svg></span>
+    }
+  }
+  <div class="entry-body">
+    <h3 class="entry-title">@title</h3>
+    @if(details.body.trim.nonEmpty) { <div class="entry-details">@details</div> }
+    @comments.map { comments => <div class="entry-notes">@comments.html</div> }
+  </div>
+  <div class="entry-rating">@views.html.rating(rating)</div>
+</article>

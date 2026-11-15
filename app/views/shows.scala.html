@@ -1,31 +1,18 @@
-@import models.lifelogging.{ Show, Shows }
+@import models.lists.{Show, Shows}
 
 @(shows: Shows)
 
-@header = {
-  <tr class="list-header">
-    <th class="col-md-1">Date</th>
-    <th class="col-md-8">Name</th>
-    <th class="col-md-3">Season/series</th>
-  </tr>
-}
-
-@rowFromItem(listItem: ListItem, trClass: String) = {
-  @defining(listItem.asInstanceOf[Show]) { show =>
-    <tr class="list-details @trClass">
-      <td>@sluganddate(show)</td>
-      <td><a href="@show.url.toString">@show.name</a></td>
-      <td>@{show.seriesUrl.fold[xml.NodeSeq](xml.Text(show.standAloneSeriesString))(url => <a href={url.toString}>{show.standAloneSeriesString}</a>)}</td>
-    </tr>
-    @show.comments.map { comments =>
-      <tr><td colspan="3">@comments.html</td></tr>
+@item(show: Show) = {
+  @entry(show, comments = show.comments) {
+    <a href="@show.url.toString">@show.name</a>
+  } {
+    @show.series.map { _ =>
+      <p>@show.seriesUrl match {
+        case Some(url) => { <a href="@url.toString">@show.standAloneSeriesString</a> }
+        case None => { @show.standAloneSeriesString }
+      }</p>
     }
   }
 }
 
-@list(
-  page = Sitemap.shows,
-  cacheable = shows,
-  header = header,
-  rowFromItem = rowFromItem,
-  nextItemsTitle = Some("Currently watching"))
+@list(Sitemap.shows, shows, shows.listItems.map(show => show -> item(show)))

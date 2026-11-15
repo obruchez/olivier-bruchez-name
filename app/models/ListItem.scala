@@ -15,6 +15,12 @@ abstract class ListItem(
 
   def noDate: Boolean = date.emptyDate
 
+  /** Cover/poster, as a path relative to the images directory, e.g. "books/Le Horla.jpg". */
+  def image: Option[String] = None
+
+  /** Page the cover links to, e.g. the photo in its Flickr album. */
+  def imageUrl: Option[String] = None
+
   def withNext(next: Boolean): T
   def withSlug(slug: Option[String]): T
   def withUrl(url: Option[String]): T
@@ -35,35 +41,28 @@ object ListItem {
 }
 
 case class ListItems(listItems: Seq[ListItem], fetchable: Fetchable) {
-  import ListItems._
-
-  def withSlugs: ListItems = copy(listItems = listItems.withSlugs)
-
-  def withUrls(page: Page): ListItems = copy(listItems = listItems.withUrls(page))
+  def withUrls(page: Page): ListItems = copy(listItems = ListItems.withUrls(listItems)(page))
 }
 
 object ListItems {
-  implicit class ListItemsOps[L <: ListItem](listItems: Seq[L]) {
-    def withNextFlags: Seq[L#T] = {
+  extension [L <: ListItem { type T = L }](listItems: Seq[L]) {
+    def withNextFlags: Seq[L] = {
       val headItemWithNoDateCount =
         listItems.takeWhile(li => li.date.emptyDate || li.date.futureDate).size
 
-      for {
-        (listItem, index) <- listItems.zipWithIndex
-        next = index < headItemWithNoDateCount
-      } yield listItem.withNext(next = next)
+      listItems.zipWithIndex.map { case (listItem, index) =>
+        listItem.withNext(next = index < headItemWithNoDateCount)
+      }
     }
 
-    def withSlugs: Seq[L#T] =
-      for {
-        listItem <- listItems
-        slug = ListItem.slug(listItem, listItems)
-      } yield listItem.withSlug(Some(slug))
+    def withSlugs: Seq[L] =
+      listItems.map(listItem => listItem.withSlug(Some(ListItem.slug(listItem, listItems))))
+  }
 
-    def withUrls(page: Page): Seq[L#T] =
-      for {
-        listItem <- listItems
-        url = listItem.itemSlug.map(itemSlug => Slug.withBaseUrl(page.url, itemSlug))
-      } yield listItem.withUrl(url)
+  extension (listItems: Seq[ListItem]) {
+    def withUrls(page: Page): Seq[ListItem] =
+      listItems.map { listItem =>
+        listItem.withUrl(listItem.itemSlug.map(itemSlug => Slug.withBaseUrl(page.url, itemSlug)))
+      }
   }
 }

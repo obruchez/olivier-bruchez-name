@@ -1,0 +1,27 @@
+@(slug: String, title: String, kind: String, labels: Seq[String], series: Seq[(String, Seq[Double])], note: Option[String] = None)
+
+@import play.api.libs.json.Json
+
+@number(value: Double) = @{ BigDecimal(value).setScale(2, BigDecimal.RoundingMode.HALF_UP).underlying.stripTrailingZeros.toPlainString }
+
+<figure class="stat" id="@slug">
+  <figcaption><a href="#@slug">@title</a></figcaption>
+  <div class="chart-frame">
+    <canvas class="chart" role="img" aria-label="@title"
+      data-kind="@kind"
+      data-labels="@Json.toJson(labels).toString"
+      data-series="@Json.toJson(series.map(s => Json.obj("name" -> s._1, "values" -> s._2))).toString"></canvas>
+  </div>
+  @note.map { note => <p class="stat-note">@note</p> }
+  <details class="stat-data">
+    <summary>Show the numbers</summary>
+    <table>
+      <thead><tr><th scope="col"></th>@series.map { s => <th scope="col">@s._1</th> }</tr></thead>
+      <tbody>
+        @labels.zipWithIndex.map { case (label, index) =>
+          <tr><th scope="row">@label</th>@series.map { s => <td>@number(s._2(index))</td> }</tr>
+        }
+      </tbody>
+    </table>
+  </details>
+</figure>

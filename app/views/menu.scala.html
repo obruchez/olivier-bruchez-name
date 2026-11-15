@@ -1,21 +1,37 @@
-@import models.Introduction
+@(page: Page, summaries: Map[Page, PageSummary])
 
-@(page: Page, pagesAndIntroductions: Seq[(Page, Option[Introduction])], groupSize: Int, colSize: Int)
+@import util.Date._
 
 @main(page) {
-  <div class="col-md-12">
-  @pagesAndIntroductions.filter(_._1.children.isEmpty).grouped(groupSize).map { row =>
-    <div class="row margin-bottom-10">
-    @row.map { case (page, introduction) =>
-      <div class="col-md-@colSize col-sm-6">
-        <div class="service-block service-block-u rounded-2x">
-          <i class="icon-custom icon-color-light rounded-x fa @page.icon.getOrElse("")"></i>
-          <h2 class="heading-md"><a href="@page.url">@page.title</a></h2>
-          @introduction.map { introduction => <p><a href="@page.url">@introduction.shortVersion.html</a></p> }
-        </div>
-      </div>
-    }
+  @if(page == Sitemap.lists) {
+    <div class="lead-in">
+      <p>I keep lists of nearly everything I read, watch, listen to and visit. I started the first ones in 2000; their oldest entries go back to the 1980s.</p>
     </div>
   }
-  </div>
+
+  @page.groupChildren.map { group =>
+    <section class="index-group">
+      @group.title.map { title => <h2>@title</h2> }
+      <ul class="index-list">
+        @group.pages.map { child =>
+          @defining(summaries.get(child)) { summary =>
+            <li>
+              <a class="index-title" href="@child.url">@child.title</a>
+              @summary.filter(_.itemCount > 0 && page == Sitemap.lists).map { summary => <span class="index-count">@summary.itemCount</span> }
+              @* The number of entries and the latest one only make sense for the lists, not for pages like the worldview *@
+              @summary.flatMap(_.latestItem).filter(_ => page == Sitemap.lists) match {
+                case Some(latestItem) => {
+                  <p class="index-note">Latest, @latestItem.date.shortEnglishString(withYear = true): @latestItem.shortRepresentation.html</p>
+                }
+                case None => {
+                  @summary.flatMap(_.introduction).map { introduction => <p class="index-note">@introduction.shortVersion.html</p> }
+                  @Sitemap.pageNotes.get(child).map { note => <p class="index-note">@note</p> }
+                }
+              }
+            </li>
+          }
+        }
+      </ul>
+    </section>
+  }
 }

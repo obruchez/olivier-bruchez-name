@@ -2,7 +2,7 @@ package controllers
 
 import actors.Cache
 import models._
-import models.lifelogging.{CourseCertificate, Courses}
+import models.lists.{CourseCertificate, Courses}
 import play.api.mvc._
 
 import javax.inject.Inject
@@ -42,7 +42,6 @@ class CourseCertificatesController @Inject() (implicit
       Page(
         title = course.name,
         url = routes.CourseCertificatesController.courseCertificate(courseCertificate.slug).url,
-        icon = Sitemap.courses.icon,
         fetchables = Seq(courseCertificate.fileSource)
       )
     }
