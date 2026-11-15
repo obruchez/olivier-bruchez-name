@@ -35,7 +35,9 @@ class CoversController @Inject() (val controllerComponents: ControllerComponents
     // The rest-of-path parameter comes as it is in the URL ("Le%20Horla.jpg")
     val path = java.net.URLDecoder.decode(encodedPath.replace("+", "%2B"), "UTF-8")
 
-    if (!ValidPath.matches(path) || path.contains(".."))
+    // The pattern allows no "/" in the file name, so the path cannot leave its directory, and names
+    // such as "Monsters, Inc..jpg" are fine
+    if (!ValidPath.matches(path))
       Future.successful(NotFound)
     else
       Option(thumbnails.get(path)) match {
