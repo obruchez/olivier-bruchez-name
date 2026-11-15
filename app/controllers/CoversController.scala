@@ -7,7 +7,13 @@ import util.Configuration
 import java.awt.image.BufferedImage
 import java.awt.{Color, Image}
 import java.io.ByteArrayOutputStream
-import java.util.concurrent.{ConcurrentHashMap, Executors}
+import java.util.concurrent.{
+  ArrayBlockingQueue,
+  ConcurrentHashMap,
+  RejectedExecutionException,
+  ThreadPoolExecutor,
+  TimeUnit
+}
 import javax.imageio.stream.MemoryCacheImageOutputStream
 import javax.imageio.{IIOImage, ImageIO, ImageWriteParam}
 import javax.inject.Inject
@@ -19,8 +25,9 @@ import scala.util.{Failure, Success, Try}
   * Thumbnails are made on first request and kept in memory: a couple of thousand images of a few
   * kilobytes each.
   */
-class CoversController @Inject() (val controllerComponents: ControllerComponents)
-    extends BaseController
+class CoversController @Inject() (val controllerComponents: ControllerComponents)(implicit
+    executionContext: ExecutionContext
+) extends BaseController
     with Logging {
   import CoversController._
 
@@ -31,19 +38,31 @@ class CoversController @Inject() (val controllerComponents: ControllerComponents
     if (!ValidPath.matches(path) || path.contains(".."))
       Future.successful(NotFound)
     else
-      Future(thumbnail(path))(using ioContext).map {
+      Option(thumbnails.get(path)) match {
         case Some(bytes) =>
-          Ok(bytes).as("image/jpeg").withHeaders(CACHE_CONTROL -> "public, max-age=2592000")
+          Future.successful(result(Some(bytes)))
         case None =>
-          NotFound
-      }(using ioContext)
+          // A full queue rejects the task, either by throwing or by failing the future
+          Try(Future(thumbnail(path))(using ioContext))
+            .fold(Future.failed, identity)
+            .map(result)
+            .recover { case _: RejectedExecutionException => ServiceUnavailable }
+      }
   }
+
+  private def result(thumbnail: Option[Array[Byte]]): Result =
+    thumbnail match {
+      case Some(bytes) =>
+        Ok(bytes).as("image/jpeg").withHeaders(CACHE_CONTROL -> "public, max-age=2592000")
+      case None =>
+        NotFound
+    }
 
   private def thumbnail(path: String): Option[Array[Byte]] =
     Option(thumbnails.get(path)).orElse {
       Try(makeThumbnail(path)) match {
         case Success(bytes) =>
-          thumbnails.put(path, bytes)
+          if (thumbnails.size < MaxThumbnails) thumbnails.put(path, bytes)
           Some(bytes)
         case Failure(throwable) =>
           logger.warn(s"No thumbnail for $path: ${throwable.getMessage}")
@@ -88,8 +107,14 @@ class CoversController @Inject() (val controllerComponents: ControllerComponents
 }
 
 object CoversController {
-  // <list directory>/<file name>
-  private val ValidPath = """[a-z]+/[^/\\]+\.(?i:jpe?g|png|gif)""".r
+  // <list directory>/<file name>. No "?", "#" or "%" in the file name: they would be read as a query
+  // or a fragment when the image is fetched, giving endless names (and cache entries) for one image
+  private val ValidPath = """[a-z]+/[^/\\?#%]+\.(?i:jpe?g|png|gif)""".r
+
+  // More than the number of images in the data, so that the cache cannot grow without bound
+  private val MaxThumbnails = 10000
+  // Only thumbnails that are not made yet wait in the queue
+  private val MaxWaitingRequests = 2000
 
   // Displayed at about 70 CSS pixels wide: enough for high-density screens
   private val ThumbnailWidth = 220
@@ -100,8 +125,12 @@ object CoversController {
   // Fetching and resizing block: keep them away from the threads that serve pages
   private val ioContext: ExecutionContext =
     ExecutionContext.fromExecutor(
-      Executors.newFixedThreadPool(
+      new ThreadPoolExecutor(
         4,
+        4,
+        0L,
+        TimeUnit.MILLISECONDS,
+        new ArrayBlockingQueue[Runnable](MaxWaitingRequests),
         (runnable: Runnable) => {
           val thread = new Thread(runnable, "covers")
           thread.setDaemon(true)

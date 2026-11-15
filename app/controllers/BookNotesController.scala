@@ -3,6 +3,7 @@ package controllers
 import actors.Cache
 import models._
 import models.lists.{BookNotes, Books}
+import play.api.Logging
 import play.api.mvc._
 
 import javax.inject.Inject
@@ -12,7 +13,8 @@ import scala.util._
 class BookNotesController @Inject() (implicit
     ec: ExecutionContext,
     val controllerComponents: ControllerComponents
-) extends BaseController {
+) extends BaseController
+    with Logging {
   def bookNotes(slug: String) = Action.async {
     for {
       books <- Cache.get(Books)
@@ -31,7 +33,9 @@ class BookNotesController @Inject() (implicit
               case Success(htmlContent) =>
                 Ok(views.html.markdown(page, introduction = None, htmlContent))
               case Failure(throwable) =>
-                Ok(views.html.error(page, throwable))
+                // The details go to the log, not to the visitor
+                logger.error(s"Could not render the notes of ${page.url}", throwable)
+                InternalServerError(views.html.error(page))
             }
 
           case binaryContent: BinaryContent =>
