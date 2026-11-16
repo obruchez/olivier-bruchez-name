@@ -17,14 +17,14 @@
   <link rel="apple-touch-icon" href="@routes.Assets.at("img/apple-touch-icon.png")">
   <link rel="preload" href="@routes.Assets.at("fonts/literata-latin-wght-normal.woff2")" as="font" type="font/woff2" crossorigin>
   <link rel="preload" href="@routes.Assets.at("fonts/instrument-sans-latin-wght-normal.woff2")" as="font" type="font/woff2" crossorigin>
-  <script src="@routes.Assets.at("js/theme.js")"></script>
-  <link rel="stylesheet" href="@routes.Assets.at("vendor/bootstrap/bootstrap.min.css")">
-  <link rel="stylesheet" href="@routes.Assets.at("css/site.css")">
-  <script defer src="@routes.Assets.at("vendor/bootstrap/bootstrap.bundle.min.js")"></script>
+  <script src="@util.Asset.url("js/theme.js")"></script>
+  <link rel="stylesheet" href="@util.Asset.url("vendor/bootstrap/bootstrap.min.css")">
+  <link rel="stylesheet" href="@util.Asset.url("css/site.css")">
+  <script defer src="@util.Asset.url("vendor/bootstrap/bootstrap.bundle.min.js")"></script>
   @scripts
-  <script defer src="@routes.Assets.at("js/site.js")"></script>
+  <script defer src="@util.Asset.url("js/site.js")"></script>
   @util.Configuration.analyticsMeasurementId.map { id =>
-    <script defer src="@routes.Assets.at("js/analytics.js")" data-measurement-id="@id"></script>
+    <script defer src="@util.Asset.url("js/analytics.js")" data-measurement-id="@id"></script>
   }
 </head>
 <body>

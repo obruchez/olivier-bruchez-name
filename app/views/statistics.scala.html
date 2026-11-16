@@ -3,7 +3,7 @@
 @(statistics: Statistics)
 
 @scripts = {
-  <script defer src="@routes.Assets.at("vendor/chartjs/chart.umd.min.js")"></script>
+  <script defer src="@util.Asset.url("vendor/chartjs/chart.umd.min.js")"></script>
 }
 
 @slug(title: String) = @{ title.split("[ \\(\\)]").filter(_.nonEmpty).map(_.toLowerCase).mkString("-") }

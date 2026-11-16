@@ -2,7 +2,7 @@
 
 @scripts = {
   @* Built from https://github.com/obruchez/entombed (sbt site), copied as is *@
-  <script defer src="@routes.Assets.at("vendor/entombed/main.js")"></script>
+  <script defer src="@util.Asset.url("vendor/entombed/main.js")"></script>
 }
 
 @main(Sitemap.entombed, scripts = scripts) {
