@@ -14,7 +14,7 @@ En 2016, j'ai acheté **6 albums (+1)**
 
 En 2016, j'ai **écrit 22 articles sur mon [blog](/blog#2016) (+10)**
 
-> *C'est nettement plus que les années passées. Cela fait maintenant plus de [10 ans](/blog/2016/09/10-ans) que j'ai commencé mon blog. J'essaie d'écrire plus régulièrement, plus spontanément. Ce dernier point me tient à coeur. J'accompagne d'ailleurs l'écriture sur mon blog par des sessions d'[écriture spontanée](/blog/2016/10/lecriture-spontanee-une-alternative-la), pour me "dérouiller", pour m'échauffer, en quelque sorte. Cette année, j'ai également ressenti un gros besoin de m'exprimer sur [nos problèmes liés à notre appartement](https://bruchez.blogspot.ch/2016/05/constructions-metalliques-du-pierrier-cmp-sa-hypotheques-legales.html) (quatre articles sur le sujet).*
+> *C'est nettement plus que les années passées. Cela fait maintenant plus de [10 ans](/blog/2016/09/10-ans) que j'ai commencé mon blog. J'essaie d'écrire plus régulièrement, plus spontanément. Ce dernier point me tient à coeur. J'accompagne d'ailleurs l'écriture sur mon blog par des sessions d'[écriture spontanée](/blog/2016/10/lecriture-spontanee-une-alternative-la), pour me "dérouiller", pour m'échauffer, en quelque sorte. Cette année, j'ai également ressenti un gros besoin de m'exprimer sur nos problèmes liés à notre appartement (quatre articles sur le sujet).*
 
 En 2016, j'ai **atteint 22 des 22 buts annuels que je m'étais fixés**
 
