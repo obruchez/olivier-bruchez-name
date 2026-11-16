@@ -35,8 +35,12 @@ class BlogPostsController @Inject() (implicit
                 val newer = posts.listItems.lift(index - 1)
                 val older = posts.listItems.lift(index + 1)
                 // Disqus knows a post that came from Blogger by the address it had there
-                val commentsUrl = post.originalUrl.getOrElse(s"https://${request.host}${post.url}")
-                Ok(views.html.blogPost(post.page, post, html, newer, older, commentsUrl))
+                val canonicalUrl = s"https://${request.host}${post.url}"
+                val commentsUrl = post.originalUrl.getOrElse(canonicalUrl)
+                Ok(
+                  views.html
+                    .blogPost(post.page, post, html, newer, older, canonicalUrl, commentsUrl)
+                )
               case None =>
                 InternalServerError(views.html.error(post.page))
             }

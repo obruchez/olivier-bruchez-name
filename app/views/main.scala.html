@@ -1,4 +1,4 @@
-@(page: Page, scripts: Html = Html(""))(content: Html)
+@(page: Page, scripts: Html = Html(""), canonicalUrl: Option[String] = None)(content: Html)
 
 <!DOCTYPE html>
 <html lang="en">
@@ -9,6 +9,7 @@
   <meta name="description" content="Olivier Bruchez's personal website: who I am, what I think, and the lists of everything I read, watch, listen to and visit.">
   <meta name="author" content="Olivier Bruchez">
   <meta name="color-scheme" content="light dark">
+  @for(url <- canonicalUrl) {<link rel="canonical" href="@url">}
   <link rel="alternate" type="application/atom+xml" title="Olivier Bruchez: lately" href="@routes.Application.feed">
   <link rel="alternate" type="application/atom+xml" title="Olivier Bruchez: blog" href="@routes.BlogPostsController.feed">
   <link rel="icon" type="image/svg+xml" href="@routes.Assets.at("img/favicon.svg")">

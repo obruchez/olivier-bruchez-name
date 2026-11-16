@@ -2,9 +2,9 @@
 @import models.blog.Post
 @import util.Date._
 
-@(page: Page, post: Post, content: HtmlContent, newer: Option[Post], older: Option[Post], commentsUrl: String)
+@(page: Page, post: Post, content: HtmlContent, newer: Option[Post], older: Option[Post], canonicalUrl: String, commentsUrl: String)
 
-@main(page) {
+@main(page, canonicalUrl = Some(canonicalUrl)) {
   <article class="post" lang="@post.language">
     <p class="post-meta">
       <time datetime="@post.date.isoString">@post.date.shortEnglishString(withYear = true)</time>
