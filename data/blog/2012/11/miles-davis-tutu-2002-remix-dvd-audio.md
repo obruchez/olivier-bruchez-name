@@ -14,11 +14,11 @@ Legend
 - (-) = missing on the DVD-Audio (i.e. 2002 remix)
 - (D) = other difference
 
-1. Tutu (5:16)
+1\. Tutu (5:16)
 
 - (+) Three notes (trumpet) are missing at 2:01 on the CD
 
-2. Tomaas (5:36)
+2\. Tomaas (5:36)
 
 - (D) The synth intro (0:00-0:05) is much louder on the DVD-Audio (no fade in)
 - (-) A lot of trumpet overdubs are missing on the DVD-Audio (0:10-0:41, 3:03-3:30), but the main line is the same
@@ -26,30 +26,30 @@ Legend
 - (+) Another instrument (synth?) is present between 3:32 and 3:50 on the DVD-Audio or is very hard to hear on the CD
 - (+) Several notes (trumpet) are missing between 3:49 and 3:59 on the CD
 
-3. Portia (6:19)
+3\. Portia (6:19)
 
 - (D) The synth intro is louder on the DVD-Audio (again, no fade in)
 
-4. Splatch (4:45)
+4\. Splatch (4:45)
 
 - (D) The bass lines at the end (4:14-) are different; the DVD-Audio version sounds slightly longer (less fade out)
 
-5. Backyard Ritual (4:50)
+5\. Backyard Ritual (4:50)
 
 - (+) One note (trumpet) is missing at 1:38 on the CD
 
-6. Perfect Way (4:34)
+6\. Perfect Way (4:34)
 
 - (-) Some reverberation (on the trumpet) is missing between 2:04-2:14 on the DVD-Audio
 
-7. Don't Lose Your Mind (5:49)
+7\. Don't Lose Your Mind (5:49)
 
 - (-) On the DVD-Audio, the trumpet does not sound like on the CD at all (some effect is missing)
 - (+) Electric violin overdubs on the DVD-Audio (0:29-0:35, 1:04-1:16, 4:57-4:59, and 5:15-end)
 - (D) Totally different synth sound at 2:33
 - (-) Reverberation on drums completely missing at 2:39 on the DVD-Audio
 
-8. Full Nelson (5:07)
+8\. Full Nelson (5:07)
 
 - (-) Synth missing at 1:14 and 2:34 on the DVD-Audio
 - (-) Reverberation on guitar completely missing at 3:31 and 4:14
