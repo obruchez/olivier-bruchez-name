@@ -268,6 +268,7 @@
         }
         show(choice);
         drawCharts();
+        reloadComments();
       });
     });
 
@@ -335,6 +336,14 @@
   }
 
   // Comments (Disqus) are loaded only when asked for: nothing is sent to Disqus before that.
+  // Disqus picks light or dark text when it loads, from the colours of the page: after a change of theme
+  // it has to load again, or its text keeps the colours of the previous one
+  function reloadComments() {
+    if (window.DISQUS && window.disqus_config) {
+      window.DISQUS.reset({ reload: true, config: window.disqus_config });
+    }
+  }
+
   function setUpComments() {
     var comments = document.getElementById("comments");
     var button = comments && comments.querySelector(".comments-show");
@@ -385,7 +394,10 @@
 
     // Charts take their colours from the page, so follow light/dark changes
     if (window.matchMedia) {
-      window.matchMedia("(prefers-color-scheme: dark)").addEventListener("change", drawCharts);
+      window.matchMedia("(prefers-color-scheme: dark)").addEventListener("change", function () {
+        drawCharts();
+        reloadComments();
+      });
     }
   });
 })();

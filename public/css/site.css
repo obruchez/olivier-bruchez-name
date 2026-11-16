@@ -1293,9 +1293,14 @@ blockquote {
   margin-top: 3rem;
 }
 
-/* Without this, the dark theme gives Disqus's transparent frames a white background */
+/* A frame is only transparent when its colour scheme matches the one of its document: without this, Disqus's
+   frames get a white background when the dark theme follows the system, and a black one when it is chosen */
 #disqus_thread iframe {
   color-scheme: light;
+}
+
+:root[data-theme="dark"] #disqus_thread iframe {
+  color-scheme: dark;
 }
 
 .comments-show {
