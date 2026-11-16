@@ -1277,11 +1277,14 @@ blockquote {
 /* The image that goes with the post sits beside its first paragraphs, as it did on Blogger */
 .post-cover {
   float: right;
-  width: min(16rem, 42%);
+  max-width: min(16rem, 42%);
   margin: 0.35rem 0 1rem 1.5rem;
 }
 
+/* An upright image is held by its height, so that it does not tower over a short post */
 .post .prose .post-cover img {
+  width: auto;
+  max-height: 15rem;
   margin: 0;
 }
 
@@ -1347,8 +1350,13 @@ blockquote {
   .post-cover {
     float: none;
     display: block;
-    width: 100%;
+    max-width: 100%;
     margin: 0 0 1.25rem;
+  }
+
+  .post .prose .post-cover img {
+    max-height: 22rem;
+    margin: 0 auto;
   }
 }
 
