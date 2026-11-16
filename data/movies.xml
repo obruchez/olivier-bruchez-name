@@ -3,6 +3,16 @@
   <introduction>A list of movies I saw.</introduction>
   <!-- Add rating to IMDb -->
   <movie>
+    <date></date>
+    <theater home="true"/>
+    <director>Woody Allen</director>
+    <title>Hannah and Her Sisters</title>
+    <url>https://www.imdb.com/title/tt0091167/</url>
+    <rating></rating>
+    <comments></comments>
+    <image>Hannah and Her Sisters.jpg</image>
+  </movie>
+  <movie>
     <date>2026-11-14</date>
     <theater home="true"/>
     <director>Ryûsuke Hamaguchi</director>
