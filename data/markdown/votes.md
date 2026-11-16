@@ -6,19 +6,25 @@ My votes (in French). En Suisse, on ne plaisante pas avec la démocratie directe
 
 ### Acceptez-vous l’arrêté fédéral du 19 juin 2026 sur le financement additionnel de l’AVS par le biais d’un relèvement de la TVA ?
 
-?. Résultat : ? (?.?%).
+Oui. Résultat : ? (?.?%).
+
+- Il manquera encore du financement, mais c'est un pas dans la bonne direction, qui ne prétérite pas les faibles revenus.
 
 ### Acceptez-vous l’initiative populaire « Pour une limitation des feux d’artifice » ?
 
-?. Résultat : ? (?.?%).
+Oui. Résultat : ? (?.?%).
+
+- Clairement une tradition dépassée, avec son lot de pollution environnementale (déchets, particules fines) et sonore.
 
 ### Acceptez-vous l’initiative populaire « Oui à des impôts fédéraux équitables pour les couples mariés – Pour enfin en finir avec la discrimination du mariage ! » ?
 
-?. Résultat : ? (?.?%).
+Non. Résultat : ? (?.?%).
 
 ### Acceptez-vous la modification du 19 décembre 2025 de la loi fédérale sur le matériel de guerre (LFMG) ?
 
-?. Résultat : ? (?.?%).
+Non. Résultat : ? (?.?%).
+
+- Un "petit non". Je suis favorable à une aide à l'Ukraine, mais cette révision ne l'aide qu'indirectement et relâche le contrôle des exportations pour tous les pays.
 
 ## [Votation fédérale du 27 septembre 2026](https://www.admin.ch/fr/votation-populaire-du-27-septembre-2026)
 
