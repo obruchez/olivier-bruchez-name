@@ -340,7 +340,11 @@
     var button = comments && comments.querySelector(".comments-show");
     if (!button) return;
 
+    var loaded = false;
+
     function load() {
+      if (loaded) return;
+      loaded = true;
       button.remove();
       window.disqus_config = function () {
         this.page.url = comments.dataset.url;
@@ -355,6 +359,20 @@
     button.addEventListener("click", load);
     // A link to a comment or to the comments opens them directly
     if (/^#(comment|disqus_thread)/.test(window.location.hash)) load();
+
+    // Otherwise they load by themselves when the reader gets near the end of the post
+    if ("IntersectionObserver" in window) {
+      var observer = new IntersectionObserver(
+        function (entries) {
+          if (entries.some(function (entry) { return entry.isIntersecting; })) {
+            observer.disconnect();
+            load();
+          }
+        },
+        { rootMargin: "800px 0px" }
+      );
+      observer.observe(comments);
+    }
   }
 
   document.addEventListener("DOMContentLoaded", function () {
