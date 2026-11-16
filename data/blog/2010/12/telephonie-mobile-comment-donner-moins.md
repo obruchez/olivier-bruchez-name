@@ -18,6 +18,6 @@ Imaginons maintenant que vous n'ayez pas accès à un réseau Wi-Fi, mais que vo
 
 Il est donc plus facile d'économiser sur les SMS/MMS (hyper-surtaxés !) que sur les appels téléphoniques, mais c'est déjà un début. Si les centaines de milliers (millions ?) d'utilisateurs suisses de smartphones profitaient des alternatives à leur disposition (applications, etc.), il est probable qu'ils pourraient globalement économiser des millions de francs par an.
 
-Mise à jour (3 décembre 2010). [Kik Messenger](http://www.kik.com/) est une autre application de messagerie instantanée (destinée à remplacer les SMS), gratuite, celle-ci, similaire à WhatsApp et disponible pour Android, BlackBerry et iPhone. Merci à Miguel pour l'information !
+**Mise à jour (3 décembre 2010).** [Kik Messenger](http://www.kik.com/) est une autre application de messagerie instantanée (destinée à remplacer les SMS), gratuite, celle-ci, similaire à WhatsApp et disponible pour Android, BlackBerry et iPhone. Merci à Miguel pour l'information !
 
-Mise à jour (18 janvier 2011). J'ai corrigé l'article en prenant en compte que les frais de connexion facturés par Skype sont de 6.8 centimes (avec TVA) et non 5.9 centimes (sans TVA).
+**Mise à jour (18 janvier 2011).** J'ai corrigé l'article en prenant en compte que les frais de connexion facturés par Skype sont de 6.8 centimes (avec TVA) et non 5.9 centimes (sans TVA).

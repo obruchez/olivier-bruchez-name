@@ -10,33 +10,39 @@ This will force map.search.ch to use [Swiss coordinates](http://en.wikipedia.org
 
 The Swiss coordinates of the point at the center of the image are given by:
 
+```
 Y = 600000 + (x * 1024 / z) / 1.25
 X = 200000 - (y * 1024 / z) / 1.25
+```
 
 You can convert the Swiss coordinates above to [WGS84 coordinates](http://en.wikipedia.org/wiki/WGS84) using, for example, [the formulas given by swisstopo](https://web.archive.org/web/20080328183728/http://www.swisstopo.admin.ch/internet/swisstopo/en/home/topics/survey/sys/refsys/projections.html):
 
+```
 Y' = (Y - 600000) / 1000000
 X' = (X - 200000) / 1000000
 
 L' = 2.6779094
- + 4.728982 * Y'
- + 0.791484 * Y' * X'
- + 0.1306 * Y' * X'^2
- - 0.0436 * Y'^3P' = 16.9023892
- + 3.238272 * X'
- - 0.270978 * Y'^2
- - 0.002528 * X'^2
- - 0.0447 * Y'^2 * X'
- - 0.0140 * X'^3
+   + 4.728982 * Y'
+   + 0.791484 * Y' * X'
+   + 0.1306 * Y' * X'^2
+   - 0.0436 * Y'^3
+
+P' = 16.9023892
+   + 3.238272 * X'
+   - 0.270978 * Y'^2
+   - 0.002528 * X'^2
+   - 0.0447 * Y'^2 * X'
+   - 0.0140 * X'^3
 
 L = L' * 100 / 36
 P = P' * 100 / 36
+```
 
 Then, simply add the following tags to your photo:
 
-geotagged
-geo:lon=xx.xxxxxx (value of L)
-geo:lat=xx.xxxxxx (value of P)
+`geotagged`\
+`geo:lon=xx.xxxxxx` (value of `L`)\
+`geo:lat=xx.xxxxxx` (value of `P`)
 
 Finally, use the [Flickr Map GeoCoding Bookmarklet](https://web.archive.org/web/20060629012952/http://typolis.net:80/sumaato/stories/4323/) I mentioned above, for example, to geotag your photo using the coordinates given in the tags. And, voilà, your photo is geotagged!
 

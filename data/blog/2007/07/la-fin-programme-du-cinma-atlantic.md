@@ -1,6 +1,6 @@
 C'est ce que m'annonce aujourd'hui le Lausanne Cités retrouvé dans ma boîte aux lettres en rentrant du travail : l'Atlantic va fermer ses portes (encore ?) le 31 août 2007. "Le cinéma va mal" et tout ça.
 
-Et c'est avec nostalgie que je pense à toutes les salles de cinémas qui ont fermé depuis que j'habite à Lausanne : ABC, Athénée, Bourg, Cine Qua Non, Eldorado, Lido, Palace, Richemont et Romandie. Neuf salles en dix ans. Bientôt dix. L'ABC devient le D! Club, l'Athénée devient une Migros, le Romandie devient le club de rock de Lausanne, etc. Bref, les choses changent...
+Et c'est avec nostalgie que je pense à toutes les salles de cinémas qui ont fermé depuis que j'habite à Lausanne : ABC, Athénée, Bourg, Cine Qua Non, Eldorado, Lido, Palace, Richemont et Romandie. Neuf salles en dix ans. Bientôt dix. L'ABC devient le D! Club, l'Athénée devient une Migros, le Romandie devient *le* club de rock de Lausanne, etc. Bref, les choses changent...
 
 Alors, au lieu de se lamenter, pourquoi ne pas aller un peu plus souvent dans les "petites" salles de cinéma de Lausanne ? A l'Atlantic (bien sûr). Au Bellevaux (oui, c'est un peu décentré, mais le détour en vaut la peine). Au Zinéma (oui, derrière les poubelles). Au City Club de Pully (pas tout à fait à Lausanne, mais pas loin).
 
