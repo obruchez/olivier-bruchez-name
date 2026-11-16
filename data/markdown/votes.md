@@ -2,21 +2,39 @@
 
 My votes (in French). En Suisse, on ne plaisante pas avec la démocratie directe. :) J'essaie ici de documenter et de justifier la façon dont je me positionne par rapport aux votations fédérales, qui ont lieu jusqu'à quatre fois par année.
 
+## [Votation fédérale du 29 novembre 2026](https://www.admin.ch/fr/votation-populaire-du-29-novembre-2026)
+
+### Acceptez-vous l’arrêté fédéral du 19 juin 2026 sur le financement additionnel de l’AVS par le biais d’un relèvement de la TVA ?
+
+?. Résultat : ? (?.?%).
+
+### Acceptez-vous l’initiative populaire « Pour une limitation des feux d’artifice » ?
+
+?. Résultat : ? (?.?%).
+
+### Acceptez-vous l’initiative populaire « Oui à des impôts fédéraux équitables pour les couples mariés – Pour enfin en finir avec la discrimination du mariage ! » ?
+
+?. Résultat : ? (?.?%).
+
+### Acceptez-vous la modification du 19 décembre 2025 de la loi fédérale sur le matériel de guerre (LFMG) ?
+
+?. Résultat : ? (?.?%).
+
 ## [Votation fédérale du 27 septembre 2026](https://www.admin.ch/fr/votation-populaire-du-27-septembre-2026)
 
 ### Acceptez-vous l’initiative populaire « Sauvegarder la neutralité suisse (initiative sur la neutralité) » ?
 
-Non. Résultat : ? (?.?%).
+Non. Résultat : non (70.16%).
 
 ### Acceptez-vous l’initiative populaire « Pour une alimentation sûre – grâce au renforcement de la production indigène durable, à davantage de denrées alimentaires végétales et à une eau potable propre (initiative sur l’alimentation) » ?
 
-Oui. Résultat : ? (?.?%).
+Oui. Résultat : non (72.53%).
 
 ## [Votation cantonale (Vaud) du 27 septembre 2026](https://www.vd.ch/etat-droit-finances/votations-et-elections/votations-federale-et-cantonale-du-27-septembre-2026)
 
 ### Acceptez-vous l’initiative populaire « Baisse d’impôts pour tous – Redonner du pouvoir d’achat à la classe moyenne » ?
 
-Non. Résultat : ? (?.?%).
+Non. Résultat : oui (53.14%).
 
 ## [Votation fédérale du 14 juin 2026](https://www.admin.ch/fr/votation-populaire-du-14-juin-2026)
 
