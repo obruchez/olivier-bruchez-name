@@ -1153,6 +1153,32 @@ blockquote {
   color: var(--muted);
 }
 
+.post .prose :is(code, pre) {
+  font-family: ui-monospace, "SF Mono", Menlo, Consolas, monospace;
+  font-size: 0.82em;
+  color: inherit;
+}
+
+.post .prose :not(pre) > code {
+  padding: 0.1em 0.3em;
+  background: var(--surface);
+  border-radius: 4px;
+  overflow-wrap: anywhere;
+}
+
+.post .prose pre {
+  margin: 1.25rem 0;
+  padding: 0.8rem 1rem;
+  background: var(--surface);
+  border-radius: 6px;
+  line-height: 1.5;
+  overflow-x: auto;
+}
+
+.post .prose pre code {
+  font-size: 1em;
+}
+
 .post .prose img {
   display: block;
   margin: 1.5rem auto;
