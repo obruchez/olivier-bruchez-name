@@ -67,13 +67,16 @@ class Application @Inject() (implicit
           .map { case (page, item) => (page, upcomingTitle(item), upcomingDate(item)) }
 
       val oneYearAgo = java.time.LocalDate.now.minusYears(1).toString
-      val lately = latest.filter(_._2.date.yyyymmddString >= oneYearAgo)
+      val lately =
+        latest
+          .filter(_._2.date.yyyymmddString >= oneYearAgo)
+          .map { case (page, item) => (page, item, upcomingTitle(item), upcomingDate(item)) }
 
       Ok(views.html.home(rightNow, upcoming, lately, posts.listItems.take(5)))
     }
   }
 
-  // In "Upcoming", every entry is a title followed by its date, written the same way for all lists
+  // In "Upcoming" and "Lately", every entry is a title followed by its date, written the same way for all lists
   private def upcomingTitle(item: ListItem): HtmlContent =
     item match {
       case trip: models.lists.Trip => HtmlContent.fromNonHtmlString(trip.place)
