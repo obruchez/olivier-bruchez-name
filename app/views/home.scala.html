@@ -30,7 +30,7 @@
       <dl class="now-list">
         @rightNow.map { case (page, items) =>
           <div>
-            <dt><a href="@page.url#next">@Sitemap.nextItemsTitle(page)</a></dt>
+            <dt><a class="with-icon" href="@page.url#next">@Html(ListIcons.svg(page))@Sitemap.nextItemsTitle(page)</a></dt>
             <dd>
               @items.map { item =>
                 <p>@item.shortRepresentation.html@if(!item.date.emptyDate) {<span class="now-date">, @item.date.shortEnglishString(withYear = true)</span>}</p>

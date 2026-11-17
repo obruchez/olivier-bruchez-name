@@ -126,7 +126,7 @@ object Sitemap {
     crashes -> ListInfo("Crash"),
     exhibitions -> ListInfo("Exhibition"),
     hikes -> ListInfo("Hike"),
-    movies -> ListInfo("Movie"),
+    movies -> ListInfo("Movie", Some("Currently watching")),
     operas -> ListInfo("Opera", Some("Upcoming operas")),
     plays -> ListInfo("Play", Some("Upcoming plays")),
     podcasts -> ListInfo("Podcast", Some("Currently listening to")),
@@ -195,7 +195,7 @@ object Sitemap {
     )
 
   // Lists whose items in progress (no date yet) are shown in the "Right now" section of the home page
-  val rightNowPages = Seq(books, comics, shows, courses)
+  val rightNowPages = Seq(books, comics, movies, shows, courses)
 
   // Lists of events: an item without a date is something planned, not something in progress
   val eventPages = Seq(concerts, plays, operas, ballets, comedyShows, trips)
