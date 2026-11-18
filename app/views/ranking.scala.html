@@ -15,7 +15,10 @@
         }
       </ol>
       <p class="stat-note">
-        @if(values.size > shown.size) { @{values.size - shown.size} more with fewer entries. }
+        @* The list stops at 15 names, sometimes in the middle of names with the same count *@
+        @values.drop(shown.size).headOption.map { next =>
+          @{values.size - shown.size} more with @if(next._1 == 1) {1 entry} else {@next._1 entries or fewer}.
+        }
         @note.getOrElse("")
       </p>
     </figure>
