@@ -64,40 +64,17 @@ class Application @Inject() (implicit
               .map(page -> _)
           }
           .sortBy { case (_, item) => if (item.noDate) "9999" else item.date.yyyymmddString }
-          .map { case (page, item) => (page, upcomingTitle(item), upcomingDate(item)) }
+          .map { case (page, item) => (page, ItemTitles.title(item), ItemTitles.date(item)) }
 
       val oneYearAgo = java.time.LocalDate.now.minusYears(1).toString
       val lately =
         latest
           .filter(_._2.date.yyyymmddString >= oneYearAgo)
-          .map { case (page, item) => (page, item, upcomingTitle(item), upcomingDate(item)) }
+          .map { case (page, item) => (page, item, ItemTitles.title(item), ItemTitles.date(item)) }
 
       Ok(views.html.home(rightNow, upcoming, lately, posts.listItems.take(5)))
     }
   }
-
-  // In "Upcoming" and "Lately", every entry is a title followed by its date, written the same way for all lists
-  private def upcomingTitle(item: ListItem): HtmlContent =
-    item match {
-      case trip: models.lists.Trip => HtmlContent.fromNonHtmlString(trip.place)
-      case _                       => item.shortRepresentation
-    }
-
-  private def upcomingDate(item: ListItem): Option[String] =
-    item match {
-      case _ if item.noDate                                                                  => None
-      case trip: models.lists.Trip if trip.to.isoString.length == 10 && trip.to != trip.from =>
-        val (from, to) = (trip.from, trip.to)
-        val sameYear = from.isoString.take(4) == to.isoString.take(4)
-        val sameMonth = sameYear && from.isoString.take(7) == to.isoString.take(7)
-        Some(
-          if (sameMonth)
-            s"${from.shortEnglishString(withYear = false)}-${to.isoString.drop(8).toInt}, ${to.isoString.take(4)}"
-          else
-            s"${from.shortEnglishString(withYear = !sameYear)} - ${to.shortEnglishString(withYear = true)}"
-        )
-      case _ => Some(item.date.shortEnglishString(withYear = true))
-    }
 
   // Atom feed of the same selection as the "Lately" section of the home page, only longer
   def feed = Action.async { (request: Request[AnyContent]) =>
