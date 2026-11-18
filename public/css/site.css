@@ -74,6 +74,10 @@
   --star: #c2820a;
   --star-empty: #d3dae0;
   --cover-edge: #9aa6b1;
+  --yes: #2c7a4b;
+  --yes-soft: #dff0e5;
+  --no: #b0413a;
+  --no-soft: #f7e2df;
 
   --serif: "Literata", Georgia, "Times New Roman", serif;
   --sans: "Instrument Sans", system-ui, -apple-system, "Segoe UI", sans-serif;
@@ -103,6 +107,10 @@
     --star: #e0a63c;
     --star-empty: #3a4753;
     --cover-edge: #3d4b59;
+    --yes: #7fcf9b;
+    --yes-soft: #1c3a29;
+    --no: #f0958c;
+    --no-soft: #47231f;
   }
 }
 
@@ -118,6 +126,10 @@
   --star: #e0a63c;
   --star-empty: #3a4753;
   --cover-edge: #3d4b59;
+  --yes: #7fcf9b;
+  --yes-soft: #1c3a29;
+  --no: #f0958c;
+  --no-soft: #47231f;
 }
 
 /* Native controls and scrollbars follow the theme too */
@@ -1718,27 +1730,37 @@ ul.prose,
   margin-top: 0;
 }
 
-/* ---------- Votes: my answer as a word in colour, the outcome next to it ---------- */
+/* ---------- Votes: my answer as a pill in colour, the outcome next to it ---------- */
 
 .prose .vote {
   display: flex;
-  align-items: baseline;
+  align-items: center;
   gap: 0.75rem;
   margin: 1rem 0 1.25rem;
-  padding-left: 0.9rem;
-  border-left: 3px solid var(--accent-soft);
   font-family: var(--sans);
   color: var(--muted);
 }
 
 .vote-mine {
-  font-size: 1.05rem;
+  min-width: 3.4rem;
+  padding: 0.1rem 0.7rem;
+  border-radius: 999px;
+  background: var(--surface);
+  font-size: 0.875rem;
   font-weight: 600;
-  color: var(--accent);
+  letter-spacing: 0.04em;
+  text-align: center;
+  text-transform: uppercase;
 }
 
-.vote-mine.vote-unknown {
-  color: var(--muted);
+.vote-yes {
+  background: var(--yes-soft);
+  color: var(--yes);
+}
+
+.vote-no {
+  background: var(--no-soft);
+  color: var(--no);
 }
 
 /* ---------- Entombed: the screen is always dark, whatever the colour scheme ---------- */
