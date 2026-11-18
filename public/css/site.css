@@ -73,6 +73,7 @@
   --accent-soft: #d9e9f2;
   --star: #c2820a;
   --star-empty: #d3dae0;
+  --cover-edge: #9aa6b1;
 
   --serif: "Literata", Georgia, "Times New Roman", serif;
   --sans: "Instrument Sans", system-ui, -apple-system, "Segoe UI", sans-serif;
@@ -101,6 +102,7 @@
     --accent-soft: #1d3a4d;
     --star: #e0a63c;
     --star-empty: #3a4753;
+    --cover-edge: #3d4b59;
   }
 }
 
@@ -115,6 +117,7 @@
   --accent-soft: #1d3a4d;
   --star: #e0a63c;
   --star-empty: #3a4753;
+  --cover-edge: #3d4b59;
 }
 
 /* Native controls and scrollbars follow the theme too */
@@ -656,6 +659,13 @@ blockquote {
   object-position: top;
   margin-top: 0.3rem;
   border-radius: 3px;
+  /* A hairline around the picture itself (not around its box, which an image of another shape does
+     not fill): a cover with a white background does not melt into a white page */
+  filter: drop-shadow(0 0 0.5px var(--cover-edge)) drop-shadow(0 0 0.5px var(--cover-edge));
+}
+
+.entry-cover-none {
+  filter: none;
 }
 
 /* A cover that links to its source (photos of trips and hikes) */
