@@ -295,6 +295,8 @@ blockquote {
 .content {
   max-width: var(--page-width);
   padding: 1.75rem 1.25rem 3rem;
+  /* A very long word or address is cut rather than pushed out of a narrow screen */
+  overflow-wrap: break-word;
 }
 
 @media (max-width: 991.98px) {
