@@ -33,7 +33,7 @@
             <dt><a class="with-icon" href="@page.url#next">@Html(ListIcons.svg(page))@Sitemap.nextItemsTitle(page)</a></dt>
             <dd>
               @items.map { item =>
-                <p>@item.shortRepresentation.html@if(!item.date.emptyDate) {<span class="now-date">, @item.date.shortEnglishString(withYear = true)</span>}</p>
+                <p><a class="feed-item" href="@page.url#next">@item.shortRepresentation.html</a>@if(!item.date.emptyDate) {<span class="now-date">, @item.date.shortEnglishString(withYear = true)</span>}</p>
               }
             </dd>
           </div>

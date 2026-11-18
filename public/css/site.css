@@ -875,6 +875,14 @@ blockquote {
   grid-template-columns: 7rem minmax(0, 1fr);
 }
 
+/* Same first column as "Right now" and "Lately" below, so that the titles of the home page line up */
+@media (min-width: 576px) {
+  .home-section .dated-list li {
+    grid-template-columns: 11rem minmax(0, 1fr);
+    padding: 0.55rem 0;
+  }
+}
+
 .feed-item,
 .dated-list li > a {
   color: var(--ink);
