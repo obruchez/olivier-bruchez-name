@@ -19,7 +19,7 @@ case class Exhibition(
     override val itemUrl: Option[String] = None,
     override val next: Boolean = false,
     override val image: Option[String] = None
-) extends ListItem(date, HtmlContent.fromNonHtmlString(s"$museum - $name"), itemSlug, itemUrl) {
+) extends ListItem(date, HtmlContent.fromNonHtmlString(s"$name - $museum"), itemSlug, itemUrl) {
   type T = Exhibition
 
   override def withNext(next: Boolean): Exhibition = copy(next = next)
