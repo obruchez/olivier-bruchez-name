@@ -32,7 +32,12 @@ import com.typesafe.sbt.packager.docker.*
 dockerChmodType := DockerChmodType.UserGroupWriteExecute
 dockerPermissionStrategy := DockerPermissionStrategy.CopyChown
 dockerExposedPorts := Seq(9000)
-dockerExposedVolumes := Seq("/opt/docker/prod-conf", "/var/log/olivier-bruchez-name")
+dockerExposedVolumes := Seq(
+  "/opt/docker/prod-conf",
+  "/var/log/olivier-bruchez-name",
+  "/var/cache/olivier-bruchez-name"
+)
+dockerEnvVars := Map("THUMBNAILS_DIRECTORY" -> "/var/cache/olivier-bruchez-name/thumbnails")
 dockerBaseImage := "eclipse-temurin:21-jre-jammy"
 dockerBuildOptions ++= Seq("--platform", "linux/amd64")
 //dockerBuildOptions ++= Seq("--platform", "linux/arm64")
