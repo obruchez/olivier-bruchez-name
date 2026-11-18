@@ -14,6 +14,17 @@
       <div class="list-tools">
         <label class="visually-hidden" for="list-filter">Filter the posts</label>
         <input type="search" id="list-filter" class="list-filter" placeholder="Filter the posts" autocomplete="off">
+        @* The most used labels; the others appear on request. A label shows the posts that carry it. *@
+        @defining(posts.flatMap(_.labels).groupBy(identity).view.mapValues(_.size).toSeq.sortBy { case (label, count) => (-count, label) }) { labels =>
+          @if(labels.nonEmpty) {
+            <div class="label-bar">
+              @labels.zipWithIndex.map { case ((label, count), index) =>
+                <a class="label @if(index >= 12) {label-extra}" href="@routes.Application.blogPosts?label=@helper.urlEncode(label)" data-label="@label">@label <span class="label-count">@count</span></a>
+              }
+              @if(labels.size > 12) { <button type="button" class="label label-more">All @labels.size labels</button> }
+            </div>
+          }
+        }
       </div>
 
       @if(byYear.size > 1) {
@@ -32,10 +43,14 @@
           </header>
           <ul class="dated-list">
             @postsForYear.map { post =>
-              @* The labels are not shown here, but the filter finds a post by them *@
-              <li data-keywords="@post.labels.mkString(" ")">
+              <li data-labels="@post.labels.mkString("|")">
                 <time datetime="@post.date.isoString">@post.date.shortEnglishString(withYear = false)</time>
-                <a href="@post.itemUrl">@post.shortRepresentation.html</a>
+                <div>
+                  <a class="post-title" href="@post.itemUrl">@post.shortRepresentation.html</a>
+                  @if(post.labels.nonEmpty) {
+                    <span class="post-chips">@post.labels.map { label =><a class="label" href="@routes.Application.blogPosts?label=@helper.urlEncode(label)" data-label="@label">@label</a> }</span>
+                  }
+                </div>
               </li>
             }
           </ul>

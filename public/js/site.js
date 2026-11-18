@@ -14,13 +14,14 @@
       return {
         element: group,
         count: group.querySelector("[data-count]"),
-        // Entries of a list, or posts of the blog (with their labels, which are not displayed)
+        // Entries of a list, or posts of the blog (with their labels)
         entries: Array.prototype.map.call(
           group.querySelectorAll(".entry, .dated-list li"),
           function (entry) {
             return {
               element: entry,
-              text: normalize(entry.textContent + " " + (entry.dataset.keywords || ""))
+              text: normalize(entry.textContent),
+              labels: (entry.dataset.labels || "").split("|")
             };
           }
         )
@@ -32,6 +33,11 @@
     var empty = document.querySelector(".list-empty");
     var yearLinks = document.querySelectorAll(".year-nav a");
 
+    // A label of the blog, chosen in the bar under the filter or next to a post: /blog?label=music
+    var parameters = new URLSearchParams(window.location.search);
+    var label = parameters.get("label");
+    setUpLabels(label);
+
     function apply() {
       var words = normalize(input.value).split(" ").filter(Boolean);
       var shownTotal = 0;
@@ -41,9 +47,11 @@
         var shown = 0;
 
         group.entries.forEach(function (entry) {
-          var matches = words.every(function (word) {
-            return entry.text.indexOf(word) >= 0;
-          });
+          var matches =
+            (!label || entry.labels.indexOf(label) >= 0) &&
+            words.every(function (word) {
+              return entry.text.indexOf(word) >= 0;
+            });
           entry.element.hidden = !matches;
           if (matches) shown++;
         });
@@ -58,7 +66,7 @@
         }
       });
 
-      if (total) total.textContent = words.length ? shownTotal : initialTotal;
+      if (total) total.textContent = words.length || label ? shownTotal : initialTotal;
       if (empty) empty.hidden = groups.some(function (group) { return !group.element.hidden; });
 
       Array.prototype.forEach.call(yearLinks, function (link) {
@@ -72,12 +80,30 @@
       pending = requestAnimationFrame(apply);
     });
 
-    // A link can come with a filter, as the labels of a blog post do: /blog?q=music
-    var query = new URLSearchParams(window.location.search).get("q");
-    if (query) {
-      input.value = query;
-      apply();
+    // A link can come with a filter: /blog?q=music
+    var query = parameters.get("q");
+    if (query) input.value = query;
+    if (query || label) apply();
+  }
+
+  // The chosen label is marked wherever it appears, and choosing it again shows all the posts
+  function setUpLabels(label) {
+    var bar = document.querySelector(".label-bar");
+    if (!bar) return;
+
+    var more = bar.querySelector(".label-more");
+    function showAll() {
+      bar.classList.add("label-bar-all");
+      if (more) more.hidden = true;
     }
+    if (more) more.addEventListener("click", showAll);
+
+    Array.prototype.forEach.call(document.querySelectorAll(".label[data-label]"), function (link) {
+      if (link.dataset.label !== label) return;
+      link.setAttribute("aria-current", "true");
+      link.href = window.location.pathname;
+      if (link.classList.contains("label-extra")) showAll();
+    });
   }
 
   // Lower case, without accents, single spaces: "Béjart  Ballet" matches "bejart ballet"
