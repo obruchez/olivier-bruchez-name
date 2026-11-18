@@ -10,8 +10,8 @@
     }
   } {
     <p>@podcast.url match {
-      case Some(url) => { <a href="@url.toString">@podcast.name</a> }
-      case None => { @podcast.name }
+      case Some(url) => {<a href="@url.toString">@podcast.name</a>}
+      case None => {@podcast.name}
     }@podcast.episodeNumber.map { number =>, episode @number}</p>
   }
 }

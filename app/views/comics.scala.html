@@ -29,8 +29,8 @@
   } {
     @comic.series.filter(_ => comic.volume.nonEmpty).map { series =>
       <p>@comic.seriesUrl match {
-        case Some(url) => { <a href="@url.toString">@series</a> }
-        case None => { @series }
+        case Some(url) => {<a href="@url.toString">@series</a>}
+        case None => {@series}
       }@comic.volumeNumber.map { number =>, volume @number}</p>
     }
     @credits(authors(comic))
