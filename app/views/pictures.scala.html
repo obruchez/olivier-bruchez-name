@@ -1,5 +1,12 @@
 @(pictures: Seq[Pictures], place: String)
 
-@if(pictures.nonEmpty) {
-  <p>Pictures: @pictures.zipWithIndex.map { case (pictures, index) =>@if(index > 0) {, }<a href="@pictures.url.toString">@pictures.title.getOrElse(place)</a>}</p>
+@* A single album without a title of its own is the album of the entry: naming it would repeat the title above *@
+@pictures match {
+  case Seq() => {}
+  case Seq(only) if only.title.forall(_ == place) => {
+    <p><a href="@only.url.toString">Pictures</a></p>
+  }
+  case _ => {
+    <p>Pictures: @pictures.zipWithIndex.map { case (pictures, index) =>@if(index > 0) {, }<a href="@pictures.url.toString">@pictures.title.getOrElse(place)</a>}</p>
+  }
 }
