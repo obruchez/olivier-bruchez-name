@@ -538,9 +538,11 @@ blockquote {
   border-bottom: 1px solid var(--rule);
 }
 
+/* The bar wraps on narrow screens: site.js measures it, so that a section reached from it starts
+   right below it, whatever its height */
 .stat-section,
 .stat {
-  scroll-margin-top: calc(var(--sticky-top) + 3rem);
+  scroll-margin-top: calc(var(--sticky-top) + var(--page-nav-height, 2.5rem) + 0.5rem);
 }
 
 .year-nav a {

@@ -241,6 +241,25 @@
     });
   }
 
+  // The sticky bar of sections (statistics) takes one line or several, depending on the screen: its
+  // height goes to the style sheet, which keeps the titles of the sections clear of it. On large
+  // screens the bar is a rail on the right and covers nothing.
+  function setUpStickyNav() {
+    var nav = document.querySelector(".page-nav-sticky");
+    if (!nav || !window.matchMedia) return;
+
+    var rail = window.matchMedia("(min-width: 1200px)");
+
+    function measure() {
+      if (rail.matches) document.documentElement.style.removeProperty("--page-nav-height");
+      else document.documentElement.style.setProperty("--page-nav-height", nav.offsetHeight + "px");
+    }
+
+    measure();
+    window.addEventListener("resize", measure);
+    if (document.fonts && document.fonts.ready) document.fonts.ready.then(measure);
+  }
+
   // Theme switch of the sidebar: follow the system ("auto", the default), or force light or dark.
   // The stored choice is applied early by theme.js; here we only handle the buttons.
   function setUpThemeSwitch() {
@@ -389,6 +408,7 @@
     setUpComments();
     setUpPlaylists();
     setUpListFilter();
+    setUpStickyNav();
     setUpThemeSwitch();
     drawCharts();
 
