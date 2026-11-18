@@ -1016,8 +1016,22 @@ blockquote {
 }
 
 .index-list li {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
   padding: 0.8rem 0;
   border-bottom: 1px solid var(--rule);
+}
+
+/* Date of the latest entry of a list, at the end of the line of its name */
+.index-date {
+  margin-left: auto;
+  padding-left: 1rem;
+  font-family: var(--sans);
+  font-size: 0.875rem;
+  font-variant-numeric: tabular-nums;
+  color: var(--muted);
+  white-space: nowrap;
 }
 
 .index-title {
@@ -1035,6 +1049,7 @@ blockquote {
 
 .index-note {
   display: -webkit-box;
+  flex-basis: 100%;
   margin: 0.15rem 0 0;
   overflow: hidden;
   -webkit-box-orient: vertical;
@@ -1044,6 +1059,17 @@ blockquote {
   font-size: 0.875rem;
   line-height: 1.45;
   color: var(--muted);
+}
+
+/* Says what the entry under the name of a list is */
+.index-label {
+  margin-right: 0.5rem;
+  font-size: 0.6875rem;
+  font-weight: 600;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--ink);
+  opacity: 0.75;
 }
 
 /* ---------- Profile, principles, worldview ---------- */

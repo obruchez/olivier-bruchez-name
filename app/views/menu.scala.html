@@ -21,7 +21,8 @@
               @* The number of entries and the latest one only make sense for the lists, not for pages like the worldview *@
               @summary.flatMap(_.latestItem).filter(_ => page == Sitemap.lists) match {
                 case Some(latestItem) => {
-                  <p class="index-note">Latest, @ItemTitles.date(latestItem).getOrElse(latestItem.date.shortEnglishString(withYear = true)): @ItemTitles.title(latestItem).html</p>
+                  <span class="index-date">@ItemTitles.date(latestItem).getOrElse(latestItem.date.shortEnglishString(withYear = true))</span>
+                  <p class="index-note"><span class="index-label">Latest</span>@ItemTitles.title(latestItem).html</p>
                 }
                 case None => {
                   @summary.flatMap(_.introduction).map { introduction => <p class="index-note">@introduction.shortVersion.html</p> }
