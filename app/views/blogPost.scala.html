@@ -8,7 +8,7 @@
   <article class="post" lang="@post.language">
     <p class="post-meta">
       <time datetime="@post.date.isoString">@post.date.shortEnglishString(withYear = true)</time>
-      @if(post.labels.nonEmpty) { <span class="post-labels">@post.labels.mkString(", ")</span> }
+      @if(post.labels.nonEmpty) { <span class="post-labels">@post.labels.zipWithIndex.map { case (label, index) =>@if(index > 0) {, }<a href="@routes.Application.blogPosts?q=@helper.urlEncode(label)">@label</a>}</span> }
     </p>
     <div class="prose">
       @post.cover.map { cover =>

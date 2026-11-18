@@ -1160,6 +1160,14 @@ blockquote {
   color: var(--muted);
 }
 
+.post-labels a {
+  color: inherit;
+}
+
+.post-labels a:hover {
+  color: var(--accent);
+}
+
 .post-labels::before {
   content: "/";
   margin: 0 0.5rem;

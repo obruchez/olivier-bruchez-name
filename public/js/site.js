@@ -14,9 +14,16 @@
       return {
         element: group,
         count: group.querySelector("[data-count]"),
-        entries: Array.prototype.map.call(group.querySelectorAll(".entry"), function (entry) {
-          return { element: entry, text: normalize(entry.textContent) };
-        })
+        // Entries of a list, or posts of the blog (with their labels, which are not displayed)
+        entries: Array.prototype.map.call(
+          group.querySelectorAll(".entry, .dated-list li"),
+          function (entry) {
+            return {
+              element: entry,
+              text: normalize(entry.textContent + " " + (entry.dataset.keywords || ""))
+            };
+          }
+        )
       };
     });
 
@@ -64,6 +71,13 @@
       if (pending) cancelAnimationFrame(pending);
       pending = requestAnimationFrame(apply);
     });
+
+    // A link can come with a filter, as the labels of a blog post do: /blog?q=music
+    var query = new URLSearchParams(window.location.search).get("q");
+    if (query) {
+      input.value = query;
+      apply();
+    }
   }
 
   // Lower case, without accents, single spaces: "Béjart  Ballet" matches "bejart ballet"

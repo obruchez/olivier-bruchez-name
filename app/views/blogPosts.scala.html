@@ -4,24 +4,43 @@
 @(page: Page, posts: Seq[Post])
 
 @main(page) {
-  <div class="lead-in">
-    <p>I have been writing here, mostly in French, since September 2006. There is a <a href="@routes.BlogPostsController.feed">feed</a> of the posts.</p>
-  </div>
+  @defining(posts.groupBy(_.date.year).toSeq.sortBy(_._1).reverse) { byYear =>
+    <div class="entries">
+      <div class="lead-in">
+        <p>I have been writing here, mostly in French, since September 2006. There is a <a href="@routes.BlogPostsController.feed">feed</a> of the posts.</p>
+        <p class="list-total"><span data-total>@posts.size</span> posts@byYear.flatMap(_._1).lastOption.map { firstYear => since @firstYear}.</p>
+      </div>
 
-  @posts.groupBy(_.date.year).toSeq.sortBy(_._1).reverse.map { case (year, postsForYear) =>
-    <section class="year-group" id="@year.fold("?")(_.toString)">
-      <header class="year-head">
-        <h2>@year.fold("Undated")(_.toString)</h2>
-        <span class="year-count">@postsForYear.size</span>
-      </header>
-      <ul class="dated-list">
-        @postsForYear.map { post =>
-          <li>
-            <time datetime="@post.date.isoString">@post.date.shortEnglishString(withYear = false)</time>
-            <a href="@post.itemUrl">@post.shortRepresentation.html</a>
-          </li>
-        }
-      </ul>
-    </section>
+      <div class="list-tools">
+        <label class="visually-hidden" for="list-filter">Filter the posts</label>
+        <input type="search" id="list-filter" class="list-filter" placeholder="Filter the posts" autocomplete="off">
+      </div>
+
+      @if(byYear.size > 1) {
+        <nav class="page-nav year-nav" aria-label="Years">
+          @byYear.map { case (year, _) => <a href="#@year.fold("?")(_.toString)">@year.fold("?")(_.toString)</a> }
+        </nav>
+      }
+
+      <p class="list-empty" hidden>No post matches your filter.</p>
+
+      @byYear.map { case (year, postsForYear) =>
+        <section class="year-group" id="@year.fold("?")(_.toString)">
+          <header class="year-head">
+            <h2><a href="#@year.fold("?")(_.toString)">@year.fold("Undated")(_.toString)</a></h2>
+            <span class="year-count" data-count>@postsForYear.size</span>
+          </header>
+          <ul class="dated-list">
+            @postsForYear.map { post =>
+              @* The labels are not shown here, but the filter finds a post by them *@
+              <li data-keywords="@post.labels.mkString(" ")">
+                <time datetime="@post.date.isoString">@post.date.shortEnglishString(withYear = false)</time>
+                <a href="@post.itemUrl">@post.shortRepresentation.html</a>
+              </li>
+            }
+          </ul>
+        </section>
+      }
+    </div>
   }
 }
