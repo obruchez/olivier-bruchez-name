@@ -332,8 +332,6 @@ Oui. Résultat : oui (50.7%)
 
 Oui. Résultat : non (57.4%)
 
-###
-
 ## [Votation fédérale du 27 septembre 2020](https://www.admin.ch/gov/fr/accueil/documentation/votations/20200927.html)
 
 ### Acceptez-vous l’initiative populaire « Pour une immigration modérée (initiative de limitation) » ?
