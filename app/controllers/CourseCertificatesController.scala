@@ -12,14 +12,14 @@ class CourseCertificatesController @Inject() (implicit
     ec: ExecutionContext,
     val controllerComponents: ControllerComponents
 ) extends BaseController {
-  def courseCertificate(slug: String) = Action.async {
+  def courseCertificate(slug: String) = Action.async { (request: Request[AnyContent]) =>
     for {
       courses <- Cache.get(Courses)
-      result <- resultFromSlug(courses, slug)
+      result <- resultFromSlug(courses, slug, request.path)
     } yield result
   }
 
-  private def resultFromSlug(courses: Courses, slug: String): Future[Result] =
+  private def resultFromSlug(courses: Courses, slug: String, path: String): Future[Result] =
     courses.certificateFromSlug(slug) match {
       case Some(certificate) =>
         val page = courses.pageFromCertificate(certificate)
@@ -32,7 +32,7 @@ class CourseCertificatesController @Inject() (implicit
             NotImplemented
         }
       case None =>
-        Future(NotFound)
+        Future(NotFound(views.html.notFound(path)))
     }
 
   implicit class CoursesOps(courses: Courses) {

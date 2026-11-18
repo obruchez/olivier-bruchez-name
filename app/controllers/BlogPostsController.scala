@@ -45,7 +45,7 @@ class BlogPostsController @Inject() (implicit
                 InternalServerError(views.html.error(post.page))
             }
           case None =>
-            Future.successful(NotFound)
+            Future.successful(NotFound(views.html.notFound(request.path)))
         }
       }
   }

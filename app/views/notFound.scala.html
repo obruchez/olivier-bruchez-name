@@ -1,0 +1,9 @@
+@(path: String)
+
+@* The path places the page in the site: /blog/... keeps "Blog" selected in the menu *@
+@main(Page("Page not found", path)) {
+  <div class="prose">
+    <p>There is nothing at this address. The page may have moved or may never have existed.</p>
+    <p>You can go back to the <a href="@Sitemap.home.url">home page</a>, or look in the <a href="@Sitemap.blog.url">blog</a> or in the <a href="@Sitemap.lists.url">lists</a>.</p>
+  </div>
+}

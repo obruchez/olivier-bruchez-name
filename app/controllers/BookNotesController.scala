@@ -15,14 +15,14 @@ class BookNotesController @Inject() (implicit
     val controllerComponents: ControllerComponents
 ) extends BaseController
     with Logging {
-  def bookNotes(slug: String) = Action.async {
+  def bookNotes(slug: String) = Action.async { (request: Request[AnyContent]) =>
     for {
       books <- Cache.get(Books)
-      result <- resultFromSlug(books, slug)
+      result <- resultFromSlug(books, slug, request.path)
     } yield result
   }
 
-  private def resultFromSlug(books: Books, slug: String): Future[Result] =
+  private def resultFromSlug(books: Books, slug: String, path: String): Future[Result] =
     books.notesFromSlug(slug) match {
       case Some(notes) =>
         val page = books.pageFromNotes(notes)
@@ -44,7 +44,7 @@ class BookNotesController @Inject() (implicit
             NotImplemented
         }
       case None =>
-        Future(NotFound)
+        Future(NotFound(views.html.notFound(path)))
     }
 
   implicit class BooksOps(books: Books) {

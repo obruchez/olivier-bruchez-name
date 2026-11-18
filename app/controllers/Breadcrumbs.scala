@@ -46,7 +46,8 @@ object Breadcrumbs {
     def linksFromUrl(urlToTest: String): Seq[Link] =
       Sitemap.pageByUrl(urlToTest) match {
         case Some(sitemapPage) =>
-          linksFromSitemap(sitemapPage, noUrlForLastLink = false)
+          // The root of the sitemap has no name: it is not a step of the trail
+          linksFromSitemap(sitemapPage, noUrlForLastLink = false).filter(_.name.nonEmpty)
         case None =>
           val slashIndex = urlToTest.lastIndexOf("/")
           if (slashIndex < 0)
