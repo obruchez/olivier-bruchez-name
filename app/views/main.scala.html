@@ -40,7 +40,8 @@
       <div class="sidebar-inner">
         <div class="sidebar-head">
           <a class="site-name" href="@Sitemap.home.url">Olivier Bruchez</a>
-          <button type="button" class="btn-close d-lg-none" data-bs-dismiss="offcanvas" data-bs-target="#sidebar" aria-label="Close menu"></button>
+          @* Drawn here: Bootstrap's own close button gets its cross from a data: image, which the CSP forbids *@
+          <button type="button" class="menu-close d-lg-none" data-bs-dismiss="offcanvas" data-bs-target="#sidebar" aria-label="Close menu"><svg viewBox="0 0 16 16" aria-hidden="true"><path d="M3 3l10 10M13 3L3 13"/></svg></button>
         </div>
         @navigation(page)
         <div class="theme-switch" role="group" aria-label="Theme" hidden>
