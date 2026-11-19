@@ -1087,6 +1087,8 @@ blockquote {
   display: flex;
   flex-wrap: wrap;
   align-items: baseline;
+  /* Next to a taller neighbour, the lines stay together at the top */
+  align-content: flex-start;
   padding: 0.8rem 0;
   border-bottom: 1px solid var(--rule);
 }
