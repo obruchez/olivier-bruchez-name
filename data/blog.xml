@@ -482,9 +482,7 @@
     <title>Confort et Bois / Centre Romand de la Literie / Idealit : notre mauvaise expérience</title>
     <path>2017/05/confort-et-bois-centre-romand-de-la</path>
     <language>fr</language>
-    <label>avis</label>
     <label>consumer rights</label>
-    <label>critique</label>
     <label>switzerland</label>
     <original>https://bruchez.blogspot.com/2017/05/confort-et-bois-centre-romand-de-la.html</original>
     <id>tag:blogger.com,1999:blog-3497105234617179295.post-5235205748041469313</id>
@@ -505,7 +503,6 @@
     <title>Premiers pas dans la domotique</title>
     <path>2017/04/premiers-pas-dans-la-domotique</path>
     <language>fr</language>
-    <label>domotics</label>
     <label>technology</label>
     <original>https://bruchez.blogspot.com/2017/04/premiers-pas-dans-la-domotique.html</original>
     <id>tag:blogger.com,1999:blog-3497105234617179295.post-6722954349629523664</id>
@@ -588,7 +585,6 @@
     <path>2016/09/10-ans</path>
     <language>fr</language>
     <label>ai</label>
-    <label>blogger</label>
     <label>singularity</label>
     <label>writing</label>
     <original>https://bruchez.blogspot.com/2016/09/10-ans.html</original>
@@ -686,7 +682,6 @@
     <title>Un superordinateur dans ma poche</title>
     <path>2016/03/un-superordinateur-dans-ma-poche</path>
     <language>fr</language>
-    <label>computers</label>
     <label>technology</label>
     <original>https://bruchez.blogspot.com/2016/03/un-superordinateur-dans-ma-poche.html</original>
     <id>tag:blogger.com,1999:blog-3497105234617179295.post-8101836691380807834</id>
@@ -844,7 +839,6 @@
     <path>2015/02/memoire-vive-lausanne-incitation-des</path>
     <language>fr</language>
     <label>consumer rights</label>
-    <label>stores</label>
     <label>switzerland</label>
     <original>https://bruchez.blogspot.com/2015/02/memoire-vive-lausanne-incitation-des.html</original>
     <id>tag:blogger.com,1999:blog-3497105234617179295.post-6508669015213595922</id>
@@ -1052,7 +1046,6 @@
     <title>Our trip to Mexico (2010)</title>
     <path>2013/04/our-trip-to-mexico-2010</path>
     <language>en</language>
-    <label>mexico</label>
     <label>trip</label>
     <original>https://bruchez.blogspot.com/2013/04/our-trip-to-mexico-2010.html</original>
     <id>tag:blogger.com,1999:blog-3497105234617179295.post-3924215974669803724</id>
@@ -1073,7 +1066,6 @@
     <title>Miles Davis' "Tutu" 2002 remix (DVD-Audio)</title>
     <path>2012/11/miles-davis-tutu-2002-remix-dvd-audio</path>
     <language>en</language>
-    <label>miles davis</label>
     <label>music</label>
     <original>https://bruchez.blogspot.com/2012/11/miles-davis-tutu-2002-remix-dvd-audio.html</original>
     <id>tag:blogger.com,1999:blog-3497105234617179295.post-5477252208982913093</id>
@@ -1154,8 +1146,6 @@
     <path>2012/03/driverless-cars-and-speech-recognition</path>
     <language>en</language>
     <label>ai</label>
-    <label>bet</label>
-    <label>futurology</label>
     <label>singularity</label>
     <original>https://bruchez.blogspot.com/2012/03/driverless-cars-and-speech-recognition.html</original>
     <id>tag:blogger.com,1999:blog-3497105234617179295.post-5837250557104450100</id>
@@ -1167,8 +1157,8 @@
     <path>2012/03/city-disc-et-le-prix-unique-du-livre</path>
     <language>fr</language>
     <label>books</label>
+    <label>consumer rights</label>
     <label>music</label>
-    <label>stores</label>
     <label>switzerland</label>
     <original>https://bruchez.blogspot.com/2012/03/city-disc-et-le-prix-unique-du-livre.html</original>
     <id>tag:blogger.com,1999:blog-3497105234617179295.post-3775932972616859782</id>
@@ -1211,10 +1201,8 @@
     <title>fring : encore un moyen de donner moins d'argent à Swisscom</title>
     <path>2011/01/fring-encore-un-moyen-de-donner-moins</path>
     <language>fr</language>
-    <label>fring</label>
-    <label>iphone</label>
-    <label>skype</label>
-    <label>swisscom</label>
+    <label>switzerland</label>
+    <label>technology</label>
     <original>https://bruchez.blogspot.com/2011/01/fring-encore-un-moyen-de-donner-moins.html</original>
     <id>tag:blogger.com,1999:blog-3497105234617179295.post-4269293556627903729</id>
     <image>2011/01/fring-encore-un-moyen-de-donner-moins-1.jpg</image>
@@ -1224,9 +1212,8 @@
     <title>Téléphonie mobile : comment donner moins d'argent à Swisscom &amp; Co.</title>
     <path>2010/12/telephonie-mobile-comment-donner-moins</path>
     <language>fr</language>
-    <label>iphone</label>
-    <label>skype</label>
-    <label>swisscom</label>
+    <label>switzerland</label>
+    <label>technology</label>
     <original>https://bruchez.blogspot.com/2010/12/telephonie-mobile-comment-donner-moins.html</original>
     <id>tag:blogger.com,1999:blog-3497105234617179295.post-2380174172995802881</id>
     <image>2010/12/telephonie-mobile-comment-donner-moins-1.jpg</image>
@@ -1236,9 +1223,8 @@
     <title>Streaming music from Squeezebox Server to an iOS device</title>
     <path>2010/11/streaming-music-from-squeezebox-server</path>
     <language>en</language>
-    <label>apple</label>
-    <label>iphone</label>
     <label>music</label>
+    <label>technology</label>
     <original>https://bruchez.blogspot.com/2010/11/streaming-music-from-squeezebox-server.html</original>
     <id>tag:blogger.com,1999:blog-3497105234617179295.post-6380850779765634771</id>
     <image>2010/11/streaming-music-from-squeezebox-server-1.jpg</image>
@@ -1248,10 +1234,7 @@
     <title>How I rescued my corrupted RAID 5 array</title>
     <path>2010/05/how-i-rescued-my-corrupted-raid-5-array</path>
     <language>en</language>
-    <label>backup</label>
-    <label>data</label>
-    <label>raid</label>
-    <label>software</label>
+    <label>technology</label>
     <original>https://bruchez.blogspot.com/2010/05/how-i-rescued-my-corrupted-raid-5-array.html</original>
     <id>tag:blogger.com,1999:blog-3497105234617179295.post-8690313484729601850</id>
     <image>2010/05/how-i-rescued-my-corrupted-raid-5-array-1.jpg</image>
@@ -1282,7 +1265,7 @@
     <title>Flagrant délit de manipulation</title>
     <path>2009/03/flagrant-delit-de-manipulation</path>
     <language>fr</language>
-    <label>manipulation</label>
+    <label>skepticism</label>
     <original>https://bruchez.blogspot.com/2009/03/flagrant-delit-de-manipulation.html</original>
     <id>tag:blogger.com,1999:blog-3497105234617179295.post-876478917062497497</id>
     <image>2009/03/flagrant-delit-de-manipulation-1.jpg</image>
@@ -1314,7 +1297,7 @@
     <title>How to make a bootable USB key with a Debian installer from Windows</title>
     <path>2008/08/how-to-make-bootable-usb-key-with</path>
     <language>fr</language>
-    <label>computers</label>
+    <label>technology</label>
     <original>https://bruchez.blogspot.com/2008/08/how-to-make-bootable-usb-key-with.html</original>
     <id>tag:blogger.com,1999:blog-3497105234617179295.post-725865688966842176</id>
     <image>2008/08/how-to-make-bootable-usb-key-with-1.png</image>
@@ -1386,9 +1369,7 @@
     <title>Google classifies its own e-mails as spam</title>
     <path>2008/02/google-classifies-its-own-e-mails-as</path>
     <language>en</language>
-    <label>blogger</label>
-    <label>gmail</label>
-    <label>google</label>
+    <label>technology</label>
     <original>https://bruchez.blogspot.com/2008/02/google-classifies-its-own-e-mails-as.html</original>
     <id>tag:blogger.com,1999:blog-3497105234617179295.post-787330392837257057</id>
     <image>2008/02/google-classifies-its-own-e-mails-as-1.jpg</image>
@@ -1408,15 +1389,8 @@
     <title>Apple iPhone / iPod Touch as SlimServer clients</title>
     <path>2007/12/apple-iphone-ipod-touch-as-slimserver</path>
     <language>en</language>
-    <label>apple</label>
-    <label>iphone</label>
-    <label>ipod</label>
-    <label>ipod touch</label>
-    <label>itouch</label>
-    <label>logitech</label>
     <label>music</label>
-    <label>slimserver</label>
-    <label>squeezecenter</label>
+    <label>technology</label>
     <original>https://bruchez.blogspot.com/2007/12/apple-iphone-ipod-touch-as-slimserver.html</original>
     <id>tag:blogger.com,1999:blog-3497105234617179295.post-8081176092095773183</id>
     <image>2007/12/apple-iphone-ipod-touch-as-slimserver-1.jpg</image>
@@ -1427,7 +1401,6 @@
     <path>2007/12/hypocrisie-de-nol</path>
     <language>fr</language>
     <label>ethics</label>
-    <label>foie gras</label>
     <label>switzerland</label>
     <label>vegetarianism</label>
     <original>https://bruchez.blogspot.com/2007/12/hypocrisie-de-nol.html</original>
@@ -1440,9 +1413,7 @@
     <path>2007/12/moins-de-droits-pour-les-consommateurs</path>
     <language>fr</language>
     <label>copyright</label>
-    <label>dmca</label>
     <label>music</label>
-    <label>swiss dmca</label>
     <label>switzerland</label>
     <original>https://bruchez.blogspot.com/2007/12/moins-de-droits-pour-les-consommateurs.html</original>
     <id>tag:blogger.com,1999:blog-3497105234617179295.post-7133713638484943534</id>
@@ -1453,7 +1424,7 @@
     <title>More than 400 days without a hard drive crash</title>
     <path>2007/12/more-than-400-days-without-hard-drive</path>
     <language>en</language>
-    <label>computers</label>
+    <label>technology</label>
     <original>https://bruchez.blogspot.com/2007/12/more-than-400-days-without-hard-drive.html</original>
     <id>tag:blogger.com,1999:blog-3497105234617179295.post-215493873848207935</id>
     <image>2007/12/more-than-400-days-without-hard-drive-1.jpg</image>
@@ -1475,9 +1446,7 @@
     <title>"La fin programmée du cinéma Atlantic"</title>
     <path>2007/07/la-fin-programme-du-cinma-atlantic</path>
     <language>fr</language>
-    <label>lausanne</label>
     <label>movies</label>
-    <label>nostalgia</label>
     <label>switzerland</label>
     <original>https://bruchez.blogspot.com/2007/07/la-fin-programme-du-cinma-atlantic.html</original>
     <id>tag:blogger.com,1999:blog-3497105234617179295.post-7926544696508246066</id>
@@ -1489,7 +1458,6 @@
     <path>2007/02/god-delusion</path>
     <language>fr</language>
     <label>books</label>
-    <label>dawkins</label>
     <label>education</label>
     <label>evolution</label>
     <label>religion</label>
@@ -1502,9 +1470,8 @@
     <title>Geotagging with map.search.ch</title>
     <path>2006/10/geotagging-with-mapsearchch</path>
     <language>en</language>
-    <label>flickr</label>
-    <label>geotagging</label>
     <label>switzerland</label>
+    <label>technology</label>
     <original>https://bruchez.blogspot.com/2006/10/geotagging-with-mapsearchch.html</original>
     <id>tag:blogger.com,1999:blog-3497105234617179295.post-6411348396389229485</id>
     <image>2006/10/geotagging-with-mapsearchch-1.jpg</image>
@@ -1529,7 +1496,6 @@
     <label>books</label>
     <label>education</label>
     <label>evolution</label>
-    <label>kurzweil</label>
     <label>singularity</label>
     <original>https://bruchez.blogspot.com/2006/09/la-singularit-est-proche-et-alors.html</original>
     <id>tag:blogger.com,1999:blog-3497105234617179295.post-7684640369698851489</id>
