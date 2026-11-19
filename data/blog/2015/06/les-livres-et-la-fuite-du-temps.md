@@ -16,7 +16,7 @@ Je ne peux toutefois m'empêcher de penser que cette obsession pour la quantité
 
 C'est donc un lieu commun, mais la quantité et la qualité sont deux choses bien distinctes. Comme Beulah, j'aspire maintenant à ne plus perdre mon temps et à lire des livres de qualité, qui m'apportent vraiment quelque chose.
 
-Le problème est que la qualité est quelque chose de fondamentalement subjectif. Depuis dix ans maintenant, chaque fois que j'ajoute un concert, un film, etc. à mes [listes](http://olivier.bruchez.name/lifelogging), je lui donne une note sur cinq. Pour la première fois depuis que je me livre à cet exercice, je me suis amusé à calculer la moyenne de mes notes pour chacune de mes listes :
+Le problème est que la qualité est quelque chose de fondamentalement subjectif. Depuis dix ans maintenant, chaque fois que j'ajoute un concert, un film, etc. à mes [listes](/lists), je lui donne une note sur cinq. Pour la première fois depuis que je me livre à cet exercice, je me suis amusé à calculer la moyenne de mes notes pour chacune de mes listes :
 
 - [concerts](http://olivier.bruchez.name/concerts) : 3.68 / 5
 - [films](http://olivier.bruchez.name/movies) : 3.68 / 5
