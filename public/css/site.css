@@ -1133,13 +1133,13 @@ blockquote {
 
 /* Says what the entry under the name of a list is */
 .index-label {
-  margin-right: 0.5rem;
-  font-size: 0.6875rem;
-  font-weight: 600;
-  letter-spacing: 0.08em;
+  margin-right: 0.4rem;
+  font-size: 0.625rem;
+  font-weight: 500;
+  letter-spacing: 0.1em;
   text-transform: uppercase;
-  color: var(--ink);
-  opacity: 0.75;
+  color: var(--accent);
+  opacity: 0.55;
 }
 
 /* ---------- Profile, principles, worldview ---------- */
