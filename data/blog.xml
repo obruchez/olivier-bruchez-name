@@ -5,6 +5,7 @@
     <title>Films du moment</title>
     <path>2026/10/films-du-moment</path>
     <language>fr</language>
+    <label>movies</label>
     <original>https://bruchez.blogspot.com/2026/10/films-du-moment.html</original>
     <id>tag:blogger.com,1999:blog-3497105234617179295.post-2741584991813767158</id>
     <image>2026/10/films-du-moment-cover.jpg</image>
@@ -14,6 +15,7 @@
     <title>2025 en chiffres</title>
     <path>2026/01/2025-en-chiffres</path>
     <language>fr</language>
+    <label>lifelogging</label>
     <original>https://bruchez.blogspot.com/2026/01/2025-en-chiffres.html</original>
     <id>tag:blogger.com,1999:blog-3497105234617179295.post-8338735489575934970</id>
     <image>2026/01/2025-en-chiffres-1.jpg</image>
@@ -33,6 +35,7 @@
     <title>Comment je me vide la tête depuis plus de 30 ans</title>
     <path>2025/10/comment-je-me-vide-la-tete-depuis-plus</path>
     <language>fr</language>
+    <label>gtd</label>
     <original>https://bruchez.blogspot.com/2025/10/comment-je-me-vide-la-tete-depuis-plus.html</original>
     <id>tag:blogger.com,1999:blog-3497105234617179295.post-2350993314526582121</id>
     <image>2025/10/comment-je-me-vide-la-tete-depuis-plus-1.jpg</image>
@@ -42,6 +45,7 @@
     <title>Ecrire sur n'importe quoi 2</title>
     <path>2025/08/ecrire-sur-nimporte-quoi-2</path>
     <language>fr</language>
+    <label>writing</label>
     <original>https://bruchez.blogspot.com/2025/08/ecrire-sur-nimporte-quoi-2.html</original>
     <id>tag:blogger.com,1999:blog-3497105234617179295.post-1768960925746060261</id>
     <image>2025/08/ecrire-sur-nimporte-quoi-2-1.jpg</image>
@@ -61,6 +65,8 @@
     <title>Intelligence artificielle générale : sommes-nous prêts ?</title>
     <path>2024/12/intelligence-artificielle-generale</path>
     <language>fr</language>
+    <label>ai</label>
+    <label>singularity</label>
     <label>technology</label>
     <original>https://bruchez.blogspot.com/2024/12/intelligence-artificielle-generale.html</original>
     <id>tag:blogger.com,1999:blog-3497105234617179295.post-1770567895598588973</id>
@@ -81,6 +87,7 @@
     <title>Ecrire sur n'importe quoi</title>
     <path>2024/12/ecrire-sur-nimporte-quoi</path>
     <language>fr</language>
+    <label>writing</label>
     <original>https://bruchez.blogspot.com/2024/12/ecrire-sur-nimporte-quoi.html</original>
     <id>tag:blogger.com,1999:blog-3497105234617179295.post-5989152696065765679</id>
     <image>2024/12/ecrire-sur-nimporte-quoi-1.jpg</image>
@@ -160,6 +167,7 @@
     <title>A Guide to the Good Life: my notes</title>
     <path>2020/06/a-guide-to-good-life-my-notes</path>
     <language>en</language>
+    <label>books</label>
     <label>philosophy</label>
     <original>https://bruchez.blogspot.com/2020/06/a-guide-to-good-life-my-notes.html</original>
     <id>tag:blogger.com,1999:blog-3497105234617179295.post-36978884999949196</id>
@@ -170,6 +178,7 @@
     <title>COVID-19 : le point après sept semaines de semi-confinement</title>
     <path>2020/05/covid-19-le-point-apres-sept-semaines</path>
     <language>fr</language>
+    <label>covid</label>
     <original>https://bruchez.blogspot.com/2020/05/covid-19-le-point-apres-sept-semaines.html</original>
     <id>tag:blogger.com,1999:blog-3497105234617179295.post-1726159398258203100</id>
     <image>2020/05/covid-19-le-point-apres-sept-semaines-1.jpg</image>
@@ -179,6 +188,8 @@
     <title>Partager ses voyages</title>
     <path>2020/04/partager-ses-voyages</path>
     <language>fr</language>
+    <label>podcasts</label>
+    <label>trip</label>
     <original>https://bruchez.blogspot.com/2020/04/partager-ses-voyages.html</original>
     <id>tag:blogger.com,1999:blog-3497105234617179295.post-3201245210420435721</id>
     <image>2020/04/partager-ses-voyages-cover.jpg</image>
@@ -188,6 +199,7 @@
     <title>De l'inutilité de l'armée suisse</title>
     <path>2020/04/de-linutilite-de-larmee-suisse</path>
     <language>fr</language>
+    <label>politics</label>
     <label>switzerland</label>
     <original>https://bruchez.blogspot.com/2020/04/de-linutilite-de-larmee-suisse.html</original>
     <id>tag:blogger.com,1999:blog-3497105234617179295.post-2926557416223991185</id>
@@ -198,6 +210,7 @@
     <title>COVID-19 : le point après deux semaines de travail à domicile</title>
     <path>2020/03/covid-19-le-point-apres-deux-semaines</path>
     <language>fr</language>
+    <label>covid</label>
     <original>https://bruchez.blogspot.com/2020/03/covid-19-le-point-apres-deux-semaines.html</original>
     <id>tag:blogger.com,1999:blog-3497105234617179295.post-7324812718232301265</id>
     <image>2020/03/covid-19-le-point-apres-deux-semaines-1.jpg</image>
@@ -227,6 +240,7 @@
     <title>Ecrire plus librement</title>
     <path>2020/02/ecrire-plus-librement</path>
     <language>fr</language>
+    <label>writing</label>
     <original>https://bruchez.blogspot.com/2020/02/ecrire-plus-librement.html</original>
     <id>tag:blogger.com,1999:blog-3497105234617179295.post-7913598483461726988</id>
     <image>2020/02/ecrire-plus-librement-1.jpg</image>
@@ -236,6 +250,7 @@
     <title>Learning How to Learn: my notes</title>
     <path>2020/02/learning-how-to-learn-my-notes</path>
     <language>en</language>
+    <label>education</label>
     <original>https://bruchez.blogspot.com/2020/02/learning-how-to-learn-my-notes.html</original>
     <id>tag:blogger.com,1999:blog-3497105234617179295.post-5820182984674242576</id>
   </post>
@@ -244,6 +259,7 @@
     <title>Le streaming va-t-il tuer la musique ?</title>
     <path>2020/01/le-streaming-va-t-il-tuer-la-musique</path>
     <language>fr</language>
+    <label>music</label>
     <original>https://bruchez.blogspot.com/2020/01/le-streaming-va-t-il-tuer-la-musique.html</original>
     <id>tag:blogger.com,1999:blog-3497105234617179295.post-2126122710714340013</id>
     <image>2020/01/le-streaming-va-t-il-tuer-la-musique-1.jpg</image>
@@ -283,6 +299,7 @@
     <title>Top IMDb</title>
     <path>2019/11/top-imdb</path>
     <language>fr</language>
+    <label>movies</label>
     <original>https://bruchez.blogspot.com/2019/11/top-imdb.html</original>
     <id>tag:blogger.com,1999:blog-3497105234617179295.post-4543768773836472331</id>
     <image>2019/11/top-imdb-1.jpg</image>
@@ -292,6 +309,7 @@
     <title>Mr. Robot</title>
     <path>2019/11/mr-robot</path>
     <language>fr</language>
+    <label>tv shows</label>
     <original>https://bruchez.blogspot.com/2019/11/mr-robot.html</original>
     <id>tag:blogger.com,1999:blog-3497105234617179295.post-4483883257077245154</id>
     <image>2019/11/mr-robot-1.jpg</image>
@@ -321,6 +339,7 @@
     <title>2018 en chiffres</title>
     <path>2019/01/2018-en-chiffres</path>
     <language>fr</language>
+    <label>lifelogging</label>
     <original>https://bruchez.blogspot.com/2019/01/2018-en-chiffres.html</original>
     <id>tag:blogger.com,1999:blog-3497105234617179295.post-687990987332889916</id>
     <image>2019/01/2018-en-chiffres-1.jpg</image>
@@ -433,6 +452,7 @@
     <title>Mon plan pour résister à la canicule</title>
     <path>2017/11/mon-plan-pour-resister-la-canicule</path>
     <language>fr</language>
+    <label>health</label>
     <original>https://bruchez.blogspot.com/2017/11/mon-plan-pour-resister-la-canicule.html</original>
     <id>tag:blogger.com,1999:blog-3497105234617179295.post-867709813402625485</id>
     <image>2017/11/mon-plan-pour-resister-la-canicule-1.jpg</image>
@@ -442,6 +462,7 @@
     <title>Plus de deux ans sans Facebook</title>
     <path>2017/10/plus-de-deux-ans-sans-facebook</path>
     <language>fr</language>
+    <label>facebook</label>
     <original>https://bruchez.blogspot.com/2017/10/plus-de-deux-ans-sans-facebook.html</original>
     <id>tag:blogger.com,1999:blog-3497105234617179295.post-8650834348932367836</id>
     <image>2017/10/plus-de-deux-ans-sans-facebook-1.jpg</image>
@@ -485,6 +506,7 @@
     <path>2017/04/premiers-pas-dans-la-domotique</path>
     <language>fr</language>
     <label>domotics</label>
+    <label>technology</label>
     <original>https://bruchez.blogspot.com/2017/04/premiers-pas-dans-la-domotique.html</original>
     <id>tag:blogger.com,1999:blog-3497105234617179295.post-6722954349629523664</id>
     <image>2017/04/premiers-pas-dans-la-domotique-1.png</image>
@@ -545,6 +567,7 @@
     <path>2016/10/lecriture-spontanee-une-alternative-la</path>
     <language>fr</language>
     <label>meditation</label>
+    <label>writing</label>
     <original>https://bruchez.blogspot.com/2016/10/lecriture-spontanee-une-alternative-la.html</original>
     <id>tag:blogger.com,1999:blog-3497105234617179295.post-4425876363350328123</id>
     <image>2016/10/lecriture-spontanee-une-alternative-la-1.jpg</image>
@@ -567,6 +590,7 @@
     <label>ai</label>
     <label>blogger</label>
     <label>singularity</label>
+    <label>writing</label>
     <original>https://bruchez.blogspot.com/2016/09/10-ans.html</original>
     <id>tag:blogger.com,1999:blog-3497105234617179295.post-1660781144066824770</id>
     <image>2016/09/10-ans-1.jpg</image>
@@ -587,6 +611,7 @@
     <path>2016/07/daniel-dennett-les-philosophes-et-les</path>
     <language>fr</language>
     <label>free will</label>
+    <label>philosophy</label>
     <original>https://bruchez.blogspot.com/2016/07/daniel-dennett-les-philosophes-et-les.html</original>
     <id>tag:blogger.com,1999:blog-3497105234617179295.post-1332798387667201535</id>
     <image>2016/07/daniel-dennett-les-philosophes-et-les-1.jpg</image>
@@ -596,6 +621,8 @@
     <title>Travail, intelligence artificielle et revenu de base inconditionnel (RBI)</title>
     <path>2016/06/travail-intelligence-artificielle-et</path>
     <language>fr</language>
+    <label>ai</label>
+    <label>politics</label>
     <original>https://bruchez.blogspot.com/2016/06/travail-intelligence-artificielle-et.html</original>
     <id>tag:blogger.com,1999:blog-3497105234617179295.post-2073847149471635630</id>
     <image>2016/06/travail-intelligence-artificielle-et-1.jpg</image>
@@ -626,6 +653,7 @@
     <path>2016/04/le-deuil</path>
     <language>fr</language>
     <label>music</label>
+    <label>prince</label>
     <original>https://bruchez.blogspot.com/2016/04/le-deuil.html</original>
     <id>tag:blogger.com,1999:blog-3497105234617179295.post-2262588267391084961</id>
     <image>2016/04/le-deuil-1.jpg</image>
@@ -635,6 +663,7 @@
     <title>Sometimes It Snows In April : une playlist hommage à Prince</title>
     <path>2016/04/sometimes-it-snows-in-april-une</path>
     <language>fr</language>
+    <label>music</label>
     <label>prince</label>
     <original>https://bruchez.blogspot.com/2016/04/sometimes-it-snows-in-april-une.html</original>
     <id>tag:blogger.com,1999:blog-3497105234617179295.post-7227740553897719684</id>
@@ -760,6 +789,7 @@
     <title>Souffrances bovines et esclavagisme</title>
     <path>2015/09/souffrances-bovines-et-esclavagisme</path>
     <language>fr</language>
+    <label>ethics</label>
     <label>vegetarianism</label>
     <original>https://bruchez.blogspot.com/2015/09/souffrances-bovines-et-esclavagisme.html</original>
     <id>tag:blogger.com,1999:blog-3497105234617179295.post-4192812278827484475</id>
@@ -772,6 +802,7 @@
     <language>fr</language>
     <label>meditation</label>
     <label>music</label>
+    <label>prince</label>
     <original>https://bruchez.blogspot.com/2015/09/ma-rencontre-avec-prince.html</original>
     <id>tag:blogger.com,1999:blog-3497105234617179295.post-4843159643790949003</id>
     <image>2015/09/ma-rencontre-avec-prince-1.jpg</image>
@@ -844,6 +875,7 @@
     <title>La burka est un vêtement comme les autres</title>
     <path>2014/11/la-burka-est-un-vetement-comme-les</path>
     <language>fr</language>
+    <label>politics</label>
     <label>religion</label>
     <original>https://bruchez.blogspot.com/2014/11/la-burka-est-un-vetement-comme-les.html</original>
     <id>tag:blogger.com,1999:blog-3497105234617179295.post-7364804717707000106</id>
@@ -865,6 +897,7 @@
     <path>2014/10/waking-up</path>
     <language>fr</language>
     <label>atheism</label>
+    <label>books</label>
     <label>meditation</label>
     <original>https://bruchez.blogspot.com/2014/10/waking-up.html</original>
     <id>tag:blogger.com,1999:blog-3497105234617179295.post-7138839939827498378</id>
@@ -939,6 +972,7 @@
     <path>2013/12/sony-prince-et-la-madeleine-de-proust</path>
     <language>fr</language>
     <label>music</label>
+    <label>prince</label>
     <original>https://bruchez.blogspot.com/2013/12/sony-prince-et-la-madeleine-de-proust.html</original>
     <id>tag:blogger.com,1999:blog-3497105234617179295.post-4486874939186803342</id>
     <image>2013/12/sony-prince-et-la-madeleine-de-proust-1.jpg</image>
@@ -959,6 +993,7 @@
     <path>2013/11/choosing-definition-of-free-will</path>
     <language>en</language>
     <label>free will</label>
+    <label>philosophy</label>
     <original>https://bruchez.blogspot.com/2013/11/choosing-definition-of-free-will.html</original>
     <id>tag:blogger.com,1999:blog-3497105234617179295.post-6848024237489338626</id>
     <image>2013/11/choosing-definition-of-free-will-1.jpg</image>
@@ -1166,6 +1201,7 @@
     <language>fr</language>
     <label>atheism</label>
     <label>health</label>
+    <label>skepticism</label>
     <original>https://bruchez.blogspot.com/2011/10/les-medecines-alternatives-une-nouvelle.html</original>
     <id>tag:blogger.com,1999:blog-3497105234617179295.post-7007355926651722819</id>
     <image>2011/10/les-medecines-alternatives-une-nouvelle-1.jpg</image>
@@ -1202,6 +1238,7 @@
     <language>en</language>
     <label>apple</label>
     <label>iphone</label>
+    <label>music</label>
     <original>https://bruchez.blogspot.com/2010/11/streaming-music-from-squeezebox-server.html</original>
     <id>tag:blogger.com,1999:blog-3497105234617179295.post-6380850779765634771</id>
     <image>2010/11/streaming-music-from-squeezebox-server-1.jpg</image>
@@ -1255,6 +1292,7 @@
     <title>"Little Miss Lover" sample in "Tick, Tick, Bang"</title>
     <path>2008/11/little-miss-lover-sample-in-tick-tick</path>
     <language>en</language>
+    <label>music</label>
     <label>prince</label>
     <original>https://bruchez.blogspot.com/2008/11/little-miss-lover-sample-in-tick-tick.html</original>
     <id>tag:blogger.com,1999:blog-3497105234617179295.post-5945500085543162566</id>
@@ -1265,6 +1303,8 @@
     <title>Rivella Jaune + Ragusa Noir = ?</title>
     <path>2008/09/rivella-jaune-ragusa-noir</path>
     <language>fr</language>
+    <label>food</label>
+    <label>switzerland</label>
     <original>https://bruchez.blogspot.com/2008/09/rivella-jaune-ragusa-noir.html</original>
     <id>tag:blogger.com,1999:blog-3497105234617179295.post-1366537529480758307</id>
     <image>2008/09/rivella-jaune-ragusa-noir-1.jpg</image>
@@ -1274,6 +1314,7 @@
     <title>How to make a bootable USB key with a Debian installer from Windows</title>
     <path>2008/08/how-to-make-bootable-usb-key-with</path>
     <language>fr</language>
+    <label>computers</label>
     <original>https://bruchez.blogspot.com/2008/08/how-to-make-bootable-usb-key-with.html</original>
     <id>tag:blogger.com,1999:blog-3497105234617179295.post-725865688966842176</id>
     <image>2008/08/how-to-make-bootable-usb-key-with-1.png</image>
@@ -1283,6 +1324,7 @@
     <title>Delia Derbyshire and Prince (Jamie Starr's a thief)</title>
     <path>2008/05/delia-derbyshire-and-prince-jamie</path>
     <language>en</language>
+    <label>music</label>
     <label>prince</label>
     <original>https://bruchez.blogspot.com/2008/05/delia-derbyshire-and-prince-jamie.html</original>
     <id>tag:blogger.com,1999:blog-3497105234617179295.post-4836109180357963859</id>
@@ -1313,6 +1355,8 @@
     <title>J'ai testé pour vous : la fondue pour micro-ondes</title>
     <path>2008/03/jai-test-pour-vous-la-fondue-pour-micro</path>
     <language>fr</language>
+    <label>food</label>
+    <label>switzerland</label>
     <original>https://bruchez.blogspot.com/2008/03/jai-test-pour-vous-la-fondue-pour-micro.html</original>
     <id>tag:blogger.com,1999:blog-3497105234617179295.post-5652401717517361362</id>
     <image>2008/03/jai-test-pour-vous-la-fondue-pour-micro-1.jpg</image>
@@ -1385,6 +1429,7 @@
     <label>ethics</label>
     <label>foie gras</label>
     <label>switzerland</label>
+    <label>vegetarianism</label>
     <original>https://bruchez.blogspot.com/2007/12/hypocrisie-de-nol.html</original>
     <id>tag:blogger.com,1999:blog-3497105234617179295.post-7319091352572009726</id>
     <image>2007/12/hypocrisie-de-nol-1.jpg</image>
@@ -1394,6 +1439,7 @@
     <title>Moins de droits pour les consommateurs suisses</title>
     <path>2007/12/moins-de-droits-pour-les-consommateurs</path>
     <language>fr</language>
+    <label>copyright</label>
     <label>dmca</label>
     <label>music</label>
     <label>swiss dmca</label>
@@ -1417,6 +1463,7 @@
     <title>Le "piratage" de la musique est légal en Suisse</title>
     <path>2007/07/le-piratage-de-la-musique-est-lgal-en</path>
     <language>fr</language>
+    <label>copyright</label>
     <label>music</label>
     <label>switzerland</label>
     <original>https://bruchez.blogspot.com/2007/07/le-piratage-de-la-musique-est-lgal-en.html</original>
