@@ -86,9 +86,7 @@ object Sitemap {
 
   // Shown under the title of pages that have no introduction of their own
   val pageNotes: Map[Page, String] = Map(
-    entombed -> "A platform game written for the Atari ST in 1991, ported to Scala. Play it in your browser.",
-    pdfCv -> "To read on screen or to print.",
-    wordCv -> "The same CV as an editable document (downloads the file)."
+    entombed -> "A platform game written for the Atari ST in 1991, ported to Scala. Play it in your browser."
   )
 
   val blog = Page("Blog", routes.Application.blogPosts)

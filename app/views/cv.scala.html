@@ -1,0 +1,22 @@
+@(pdfSize: Int, wordSize: Int)
+
+@size(bytes: Int) = @{ s"${math.round(bytes / 1024.0)} KB" }
+
+@main(Sitemap.cv, description = Some("Olivier Bruchez's CV, as a PDF to read on screen or as a Word document.")) {
+  <div class="lead-in">
+    <p>My CV, in English, in two formats.</p>
+  </div>
+
+  <ul class="index-list">
+    <li>
+      <a class="index-title" href="@Sitemap.pdfCv.url">Read the CV</a>
+      <span class="index-count">PDF, @size(pdfSize)</span>
+      <p class="index-note">Opens in your browser, to read on screen or to print.</p>
+    </li>
+    <li>
+      <a class="index-title" href="@Sitemap.wordCv.url">Download the CV</a>
+      <span class="index-count">Word, @size(wordSize)</span>
+      <p class="index-note">The same CV as an editable document.</p>
+    </li>
+  </ul>
+}

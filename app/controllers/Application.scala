@@ -246,11 +246,24 @@ class Application @Inject() (implicit
 
   def entombed = Action { Ok(views.html.entombed()) }
 
-  def cv = Action { Ok(views.html.menu(Sitemap.cv, Map.empty)) }
+  def cv = Action.async {
+    for {
+      pdfCv <- Cache.get(PdfCv)
+      wordCv <- Cache.get(WordCv)
+    } yield Ok(
+      views.html.cv(
+        pdfSize = pdfCv.binaryContent.content.length,
+        wordSize = wordCv.binaryContent.content.length
+      )
+    )
+  }
 
   def pdfCv = Action.async {
     Cache.get(PdfCv) map { pdfCv =>
-      Ok(pdfCv.binaryContent.content).as(pdfCv.binaryContent.fileType.mimeType)
+      // "inline": shown by the browser, with a proper name if the visitor then saves it
+      Ok(pdfCv.binaryContent.content)
+        .as(pdfCv.binaryContent.fileType.mimeType)
+        .withHeaders(CONTENT_DISPOSITION -> s"""inline; filename="${PdfCv.DownloadFilename}"""")
     }
   }
 
