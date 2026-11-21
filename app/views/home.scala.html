@@ -3,8 +3,9 @@
 
 @(rightNow: Seq[(Page, Seq[ListItem])], upcoming: Seq[(Page, HtmlContent, Option[String])], lately: Seq[(Page, ListItem, HtmlContent, Option[String])], posts: Seq[Post])
 
-@main(Sitemap.home) {
+@main(Sitemap.home, image = Some(routes.Assets.at("img/louvie.jpg").url)) {
   <section class="hello">
+    <img class="hello-photo" src="@routes.Assets.at("img/louvie-small.jpg")" width="760" height="317" alt="Lac de Louvie, above the Val de Bagnes, with snowy peaks behind it">
     <h1>Hello, I'm Olivier.</h1>
     <p>I live in Switzerland with my wife and son. Music is a big part of my life, and so are science, technology and philosophy, among other things. I work in software, keep lists of nearly everything, and go to the mountains to recharge whenever I can.</p>
   </section>
