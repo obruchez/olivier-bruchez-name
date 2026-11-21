@@ -94,7 +94,9 @@
   --bs-border-color: var(--rule);
 }
 
-/* Dark theme: when the system asks for it, unless "Light" was chosen in the sidebar... */
+/* Dark theme: when the system asks for it, unless "Light" was chosen in the sidebar...
+   The values are written twice, here and in the rule that follows: CSS has no way to share them
+   between a media query and a selector. Change both together. */
 @media (prefers-color-scheme: dark) {
   :root:not([data-theme="light"]) {
     --paper: #131a21;
