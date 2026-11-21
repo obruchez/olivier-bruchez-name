@@ -36,13 +36,39 @@
   }
 }
 
+@* A list needs a few entries before its numbers say anything *@
+@minimumEntries = @{ 10 }
+
+@sections = @{
+  Seq(
+    ("ballets", "Ballets", statistics.balletYearlyCounts),
+    ("books", "Books", statistics.bookYearlyCounts),
+    ("comedy-shows", "Comedy shows", statistics.comedyShowYearlyCounts),
+    ("concerts", "Concerts", statistics.concertYearlyCounts),
+    ("movies", "Movies", statistics.movieYearlyCounts),
+    ("operas", "Operas", statistics.operaYearlyCounts),
+    ("plays", "Plays", statistics.playYearlyCounts),
+    ("podcasts", "Podcasts", statistics.podcastYearlyCounts)
+  )
+}
+
+@shown(section: (String, String, Seq[(String, Int)])) = @{ section._3.map(_._2).sum >= minimumEntries }
+
+@section(id: String, title: String)(content: Html) = {
+  @if(sections.exists(section => section._1 == id && shown(section))) {
+    <section class="stat-section" id="@id">
+      <h2><a href="#@id">@title</a></h2>
+      @content
+    </section>
+  }
+}
+
 @main(Sitemap.statistics, scripts = scripts, description = Some("A few numbers drawn from the lists: who and what comes up most often, and how the ratings evolve.")) {
   <div class="lead-in"><p>A few numbers drawn from the lists. Ratings go from 0 to 5.</p></div>
 
-  <nav class="page-nav page-nav-sticky year-nav" aria-label="Sections"><a href="#ballets">Ballets</a> <a href="#books">Books</a> <a href="#comedy-shows">Comedy shows</a> <a href="#concerts">Concerts</a> <a href="#movies">Movies</a> <a href="#operas">Operas</a> <a href="#plays">Plays</a> <a href="#podcasts">Podcasts</a></nav>
+  <nav class="page-nav page-nav-sticky year-nav" aria-label="Sections">@sections.filter(shown).map { case (id, title, _) => <a href="#@id">@title</a> }</nav>
 
-  <section class="stat-section" id="ballets">
-    <h2><a href="#ballets">Ballets</a></h2>
+  @section("ballets", "Ballets") {
     <div class="stat-grid">
       @rank(statistics.mostSeenBalletCompanies, "Most seen ballet companies", 1)
       @rank(statistics.mostSeenBalletChoreographers, "Most seen ballet choreographers", 1)
@@ -50,20 +76,18 @@
       @ratingsEvolution(statistics.balletRatingsEvolution, "Ballet")
       @yearlyCounts(statistics.balletYearlyCounts, "Ballet")
     </div>
-  </section>
+  }
 
-  <section class="stat-section" id="books">
-    <h2><a href="#books">Books</a></h2>
+  @section("books", "Books") {
     <div class="stat-grid">
       @rank(statistics.mostReadBookAuthors, "Most read book authors", 2)
       @ratingsDistribution(statistics.bookRatingsDistribution, "Book")
       @ratingsEvolution(statistics.bookRatingsEvolution, "Book")
       @yearlyCounts(statistics.bookYearlyCounts, "Book")
     </div>
-  </section>
+  }
 
-  <section class="stat-section" id="comedy-shows">
-    <h2><a href="#comedy-shows">Comedy shows</a></h2>
+  @section("comedy-shows", "Comedy shows") {
     <div class="stat-grid">
       @rank(statistics.mostSeenComedians, "Most seen comedians", 2)
       @rank(statistics.mostVisitedComedyVenues, "Most visited comedy venues", 2)
@@ -71,10 +95,9 @@
       @ratingsEvolution(statistics.comedyShowRatingsEvolution, "Comedy show")
       @yearlyCounts(statistics.comedyShowYearlyCounts, "Comedy show")
     </div>
-  </section>
+  }
 
-  <section class="stat-section" id="concerts">
-    <h2><a href="#concerts">Concerts</a></h2>
+  @section("concerts", "Concerts") {
     <div class="stat-grid">
       @rank(statistics.mostSeenConcertArtists(mainMusiciansOnly = false), "Most seen concert artists", 6)
       @rank(statistics.mostSeenConcertArtists(mainMusiciansOnly = true), "Most seen concert artists (main musicians only)", 4)
@@ -83,10 +106,9 @@
       @ratingsEvolution(statistics.concertRatingsEvolution, "Concert")
       @yearlyCounts(statistics.concertYearlyCounts, "Concert")
     </div>
-  </section>
+  }
 
-  <section class="stat-section" id="movies">
-    <h2><a href="#movies">Movies</a></h2>
+  @section("movies", "Movies") {
     <div class="stat-grid">
       @rank(statistics.mostSeenMovies, "Most seen movies", 2)
       @rank(statistics.mostSeenMovieDirectors, "Most seen movie directors", 4)
@@ -94,10 +116,9 @@
       @ratingsEvolution(statistics.movieRatingsEvolution, "Movie")
       @yearlyCounts(statistics.movieYearlyCounts, "Movie")
     </div>
-  </section>
+  }
 
-  <section class="stat-section" id="operas">
-    <h2><a href="#operas">Operas</a></h2>
+  @section("operas", "Operas") {
     <div class="stat-grid">
       @rank(statistics.mostSeenOperaComposers, "Most seen opera composers", 2)
       @rank(statistics.mostVisitedOperaHouses, "Most visited opera houses", 1)
@@ -105,10 +126,9 @@
       @ratingsEvolution(statistics.operaRatingsEvolution, "Opera")
       @yearlyCounts(statistics.operaYearlyCounts, "Opera")
     </div>
-  </section>
+  }
 
-  <section class="stat-section" id="plays">
-    <h2><a href="#plays">Plays</a></h2>
+  @section("plays", "Plays") {
     <div class="stat-grid">
       @rank(statistics.mostSeenPlayAuthors, "Most seen play authors", 2)
       @rank(statistics.mostSeenPlayDirectors, "Most seen play directors", 2)
@@ -118,13 +138,12 @@
       @ratingsEvolution(statistics.playRatingsEvolution, "Play")
       @yearlyCounts(statistics.playYearlyCounts, "Play")
     </div>
-  </section>
+  }
 
-  <section class="stat-section" id="podcasts">
-    <h2><a href="#podcasts">Podcasts</a></h2>
+  @section("podcasts", "Podcasts") {
     <div class="stat-grid">
       @rank(statistics.mostListenedToPodcasts, "Most listened to podcasts", 2)
       @yearlyCounts(statistics.podcastYearlyCounts, "Podcast")
     </div>
-  </section>
+  }
 }
