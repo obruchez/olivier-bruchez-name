@@ -19,7 +19,7 @@
     case Some(image) => {
       @item.imageUrl match {
         case Some(url) => {
-          <a class="entry-cover-link" href="@url" title="See this photo in its album"><img class="entry-cover" src="@routes.CoversController.cover(image)" alt="" loading="lazy" decoding="async"></a>
+          <a class="entry-cover-link" href="@url" title="See this photo in its album"><img class="entry-cover" src="@routes.CoversController.cover(image)" alt="Photo: @util.Strings.plainText(title.body)" loading="lazy" decoding="async"></a>
         }
         case None => {
           <img class="entry-cover" src="@routes.CoversController.cover(image)" alt="" loading="lazy" decoding="async">
