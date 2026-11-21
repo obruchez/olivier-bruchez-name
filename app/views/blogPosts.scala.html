@@ -8,7 +8,7 @@
     <div class="entries">
       <div class="lead-in">
         <p>I have been writing here, mostly in French, since September 2006. There is a <a href="@routes.BlogPostsController.feed">feed</a> of the posts.</p>
-        <p class="list-total"><span data-total>@posts.size</span> posts@byYear.flatMap(_._1).lastOption.map { firstYear => since @firstYear}.</p>
+        <p class="list-total"><span data-total>@posts.size</span> posts@byYear.flatMap(_._1).lastOption.map { firstYear => since <span data-since>@firstYear</span>}.</p>
       </div>
 
       <div class="list-tools">

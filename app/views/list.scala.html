@@ -22,7 +22,7 @@
     @defining(pastItems.groupBy(_._1.date.year).toSeq.sortBy(_._1).reverse) { byYear =>
       <div class="lead-in">
         @cacheable.introduction.map { introduction => <p>@introduction.fullVersion.html</p> }
-        <p class="list-total"><span data-total>@pastItems.size</span> @if(pastItems.size == 1) {entry} else {entries}@byYear.flatMap(_._1).lastOption.map { firstYear => since @firstYear}.</p>
+        <p class="list-total"><span data-total>@pastItems.size</span> @if(pastItems.size == 1) {entry} else {entries}@byYear.flatMap(_._1).lastOption.map { firstYear => since <span data-since>@firstYear</span>}.</p>
       </div>
 
       <div class="list-tools">

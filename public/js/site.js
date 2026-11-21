@@ -30,6 +30,9 @@
 
     var total = document.querySelector("[data-total]");
     var initialTotal = total ? total.textContent : "";
+    // "since 1988": the year of the oldest entry shown
+    var since = document.querySelector("[data-since]");
+    var initialSince = since ? since.textContent : "";
     var empty = document.querySelector(".list-empty");
     var yearLinks = document.querySelectorAll(".year-nav a");
 
@@ -42,6 +45,7 @@
       var words = normalize(input.value).split(" ").filter(Boolean);
       var shownTotal = 0;
       var shownGroups = {};
+      var shownYears = [];
 
       groups.forEach(function (group) {
         var shown = 0;
@@ -63,10 +67,15 @@
         if (group.count) {
           group.count.textContent = shown;
           shownTotal += shown;
+          if (shown > 0 && /^\d+$/.test(group.element.id)) shownYears.push(Number(group.element.id));
         }
       });
 
       if (total) total.textContent = words.length || label ? shownTotal : initialTotal;
+      if (since) {
+        since.textContent =
+          (words.length || label) && shownYears.length ? Math.min.apply(null, shownYears) : initialSince;
+      }
       if (empty) empty.hidden = groups.some(function (group) { return !group.element.hidden; });
 
       Array.prototype.forEach.call(yearLinks, function (link) {
