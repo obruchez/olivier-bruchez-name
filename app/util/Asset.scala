@@ -10,8 +10,8 @@ object Asset {
   private val fingerprints = TrieMap[String, Option[String]]()
 
   /** Address of a script or style sheet, followed by a fingerprint of its content. Browsers keep
-    * these files for an hour: without the fingerprint, a visitor would go on using the previous
-    * ones after a new version of the site is deployed.
+    * these files for a year (play.assets.cache in application.conf): without the fingerprint, a
+    * visitor would go on using the previous ones after a new version of the site is deployed.
     */
   def url(file: String): String = {
     val address = routes.Assets.at(file).url
