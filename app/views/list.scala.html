@@ -15,7 +15,7 @@
   }
 }
 
-@main(page) {
+@main(page, description = cacheable.introduction.map(introduction => util.Strings.description(introduction.fullVersion.htmlString))) {
   @Html(ListIcons.symbol(page))
   <div class="entries @if(entries.exists(_._1.image.nonEmpty)) {has-covers @Sitemap.coverShapes.getOrElse(page, "")}">
   @defining(entries.filterNot(_._1.upcoming).partition(_._1.next)) { case (nextItems, pastItems) =>

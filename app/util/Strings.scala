@@ -1,6 +1,15 @@
 package util
 
 object Strings {
+
+  /** Text of a piece of HTML, without its tags and with its entities decoded. */
+  def plainText(html: String): String =
+    org.jsoup.Jsoup.parse(html).text().replace('\u00a0', ' ').trim
+
+  /** Plain text short enough for the description of a page (search results, link previews). */
+  def description(html: String): String =
+    truncatedWithDots(plainText(html), maxSize = 200, onWordLimit = true)
+
   def rightTrim(string: String): String =
     string.replaceAll("\\s+$", "")
 

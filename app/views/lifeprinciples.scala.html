@@ -2,7 +2,7 @@
 
 @(lifePrinciples: LifePrinciples)
 
-@main(page = controllers.Sitemap.lifePrinciples) {
+@main(page = controllers.Sitemap.lifePrinciples, description = lifePrinciples.introduction.map(introduction => util.Strings.description(introduction.shortVersion.htmlString))) {
   @lifePrinciples.introduction.map { introduction =>
     <div class="lead-in"><p>@introduction.fullVersion.html</p></div>
   }

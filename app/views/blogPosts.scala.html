@@ -3,7 +3,7 @@
 
 @(page: Page, posts: Seq[Post])
 
-@main(page) {
+@main(page, description = Some("Posts written since September 2006, mostly in French, about books, music, technology, meditation and more.")) {
   @defining(posts.groupBy(_.date.year).toSeq.sortBy(_._1).reverse) { byYear =>
     <div class="entries">
       <div class="lead-in">

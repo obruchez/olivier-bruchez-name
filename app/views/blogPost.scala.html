@@ -4,7 +4,7 @@
 
 @(page: Page, post: Post, content: HtmlContent, newer: Option[Post], older: Option[Post], canonicalUrl: String, commentsUrl: String)
 
-@main(page, canonicalUrl = Some(canonicalUrl)) {
+@main(page, canonicalUrl = Some(canonicalUrl), description = Some(util.Strings.description(content.htmlString)), image = post.cover.map(cover => routes.CoversController.blogImage(cover).url), article = true) {
   <article class="post" lang="@post.language">
     <p class="post-meta">
       <time datetime="@post.date.isoString">@post.date.shortEnglishString(withYear = true)</time>

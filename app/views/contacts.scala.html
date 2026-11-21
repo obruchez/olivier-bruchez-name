@@ -1,6 +1,6 @@
 @(contacts: Contacts)
 
-@main(Sitemap.contacts) {
+@main(Sitemap.contacts, description = contacts.introduction.map(introduction => util.Strings.description(introduction.fullVersion.htmlString))) {
   @contacts.introduction.map { introduction =>
     <div class="lead-in"><p>@introduction.fullVersion.html</p></div>
   }

@@ -2,7 +2,7 @@
 
 @(page: Page, introduction: Option[Introduction], content: HtmlContent)
 
-@main(page) {
+@main(page, description = introduction.map(introduction => util.Strings.description(introduction.fullVersion.htmlString))) {
   @introduction.map { introduction =>
     <div class="lead-in">@introduction.fullVersion.html</div>
   }

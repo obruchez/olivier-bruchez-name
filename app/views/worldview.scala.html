@@ -2,7 +2,7 @@
 
 @(worldview: Worldview)
 
-@main(page = controllers.Sitemap.worldview) {
+@main(page = controllers.Sitemap.worldview, description = worldview.introduction.map(introduction => util.Strings.description(introduction.shortVersion.htmlString))) {
   @worldview.introduction.map { introduction =>
     <div class="lead-in"><p>@introduction.fullVersion.html</p></div>
   }

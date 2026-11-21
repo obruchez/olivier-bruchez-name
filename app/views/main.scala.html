@@ -1,4 +1,8 @@
-@(page: Page, scripts: Html = Html(""), canonicalUrl: Option[String] = None)(content: Html)
+@(page: Page, scripts: Html = Html(""), canonicalUrl: Option[String] = None, description: Option[String] = None, image: Option[String] = None, article: Boolean = false)(content: Html)
+
+@siteDescription = @{ "Olivier Bruchez's personal website: who I am, what I think, and the lists of everything I read, watch, listen to and visit." }
+@pageDescription = @{ description.map(_.trim).filter(_.nonEmpty).getOrElse(siteDescription) }
+@pageTitle = @{ if (page == Sitemap.home) "Olivier Bruchez" else page.title }
 
 <!DOCTYPE html>
 <html lang="en">
@@ -6,10 +10,21 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>@if(page == Sitemap.home) {Olivier Bruchez} else {@page.title - Olivier Bruchez}</title>
-  <meta name="description" content="Olivier Bruchez's personal website: who I am, what I think, and the lists of everything I read, watch, listen to and visit.">
+  <meta name="description" content="@pageDescription">
   <meta name="author" content="Olivier Bruchez">
   <meta name="color-scheme" content="light dark">
   @for(url <- canonicalUrl) {<link rel="canonical" href="@url">}
+  @* What a link to this page looks like when it is shared (Open Graph) *@
+  <meta property="og:site_name" content="Olivier Bruchez">
+  <meta property="og:type" content="@if(article) {article} else {website}">
+  <meta property="og:title" content="@pageTitle">
+  <meta property="og:description" content="@pageDescription">
+  <meta property="og:url" content="@canonicalUrl.getOrElse(util.Configuration.siteUrl + page.url)">
+  @* Only the pages that have an image of their own (home page, blog posts) *@
+  @image.map { image =>
+    <meta property="og:image" content="@util.Configuration.siteUrl@image">
+  }
+  <meta name="twitter:card" content="@if(image.nonEmpty) {summary_large_image} else {summary}">
   <link rel="alternate" type="application/atom+xml" title="Olivier Bruchez: lately" href="@routes.Application.feed">
   <link rel="alternate" type="application/atom+xml" title="Olivier Bruchez: blog" href="@routes.BlogPostsController.feed">
   <link rel="icon" type="image/svg+xml" href="@routes.Assets.at("img/favicon.svg")">

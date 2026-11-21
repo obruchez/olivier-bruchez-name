@@ -2,7 +2,7 @@
 
 @(profile: Profile)
 
-@main(page = controllers.Sitemap.profile) {
+@main(page = controllers.Sitemap.profile, description = profile.introduction.map(introduction => util.Strings.description(introduction.fullVersion.htmlString))) {
   @profile.introduction.map { introduction =>
     <div class="lead-in"><p>@introduction.fullVersion.html</p></div>
   }
